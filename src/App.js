@@ -1,25 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import { useState } from "react";
+import "./App.css";
+import { List, Typography } from "antd";
+import FixedHeaderTable from "./FixedHeaderTable";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+const App = (props) => {
+    const [items, setItems] = useState(require("./final.json"));
+    console.log("items", items.length);
+    return (
+        <div className="App">
+            <FixedHeaderTable
+                items={items.map((item, index) => ({
+                    ...item,
+                    index: index + 1,
+                }))}
+            />
+        </div>
+    );
+};
 
 export default App;
