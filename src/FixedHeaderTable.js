@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { Modal, Table, Tag } from "antd";
 import { ArrowLeftOutlined } from "@ant-design/icons";
 import ReactAudioPlayer from "react-audio-player";
+import LogoIcon from "./logo.png";
 const FixedHeaderTable = (props) => {
     const { items } = props;
     const [openItem, setOpenItem] = useState(null);
@@ -20,7 +21,7 @@ const FixedHeaderTable = (props) => {
     ];
 
     return (
-        <div>
+        <div className="p-2">
             <Table
                 columns={columns}
                 dataSource={items}
@@ -41,6 +42,12 @@ const FixedHeaderTable = (props) => {
                     footer={null}
                 >
                     <div className="w-full h-full flex flex-col">
+                        <div className="flex flex-col items-center p-1">
+                            <img className="w-[36px] h-[36px]" src={LogoIcon}/>
+                            <div className="text-sm font-bold">
+                                Shadowing English App
+                            </div>
+                        </div>
                         <div className="font-bold mb-2 flex items-center pr-2">
                             <ArrowLeftOutlined
                                 onClick={() => {
