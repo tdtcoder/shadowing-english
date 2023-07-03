@@ -22,6 +22,32 @@
   height: 100%; 
 }
 
+.myQRModal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.myQRModal .ant-modal {
+  width: unset!important;
+}
+
+.myQRModal .ant-modal-content {
+  width: unset;
+  height: unset;
+  border-radius: 10px!important;
+  padding: 10px!important;
+}
+
+.myQRModal .ant-modal-content .ant-modal-close {
+  display: block;
+}
+.myQRModal .ant-modal-content .ant-modal-body {
+  width: unset;
+  height: unset;
+}
+
+
 /* Track */
 #scriptContainer::-webkit-scrollbar {
   width: 10px; /* Width of the scrollbar */
