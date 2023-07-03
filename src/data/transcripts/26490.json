@@ -1,0 +1,58 @@
+[
+    {
+        "text": "The company's international business is losing money hand over fist...",
+        "startTime": 438,
+        "endTime": 3850,
+        "slowStartTime": 807,
+        "slowEndTime": 6000
+    },
+    {
+        "text": "...and Netflix faces many obstacles in new markets like India.",
+        "startTime": 4293,
+        "endTime": 7589,
+        "slowStartTime": 6589,
+        "slowEndTime": 11608
+    },
+    {
+        "text": "There's competition from Amazon, local web video companies,...",
+        "startTime": 8473,
+        "endTime": 11711,
+        "slowStartTime": 12860,
+        "slowEndTime": 17791
+    },
+    {
+        "text": "...and not everyone has access to the internet.",
+        "startTime": 12153,
+        "endTime": 14015,
+        "slowStartTime": 18380,
+        "slowEndTime": 21248
+    },
+    {
+        "text": "It has been a bad idea to underestimate Netflix.",
+        "startTime": 15494,
+        "endTime": 18059,
+        "slowStartTime": 23391,
+        "slowEndTime": 27313
+    },
+    {
+        "text": "The company's market value is 14 times what it was three and a half years ago.",
+        "startTime": 18501,
+        "endTime": 22639,
+        "slowStartTime": 27901,
+        "slowEndTime": 34183
+    },
+    {
+        "text": "But the combination of tough sledding abroad...",
+        "startTime": 23354,
+        "endTime": 25301,
+        "slowStartTime": 35181,
+        "slowEndTime": 38177
+    },
+    {
+        "text": "...and slowing growth domestically is a worrying trend.",
+        "startTime": 25407,
+        "endTime": 28611,
+        "slowStartTime": 38261,
+        "slowEndTime": 43141
+    }
+]

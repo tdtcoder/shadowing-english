@@ -1,0 +1,86 @@
+[
+    {
+        "text": "One day.",
+        "startTime": 583,
+        "endTime": 1510,
+        "slowStartTime": 1024,
+        "slowEndTime": 2490
+    },
+    {
+        "text": "One day.",
+        "startTime": 1595,
+        "endTime": 2224,
+        "slowStartTime": 2542,
+        "slowEndTime": 3561
+    },
+    {
+        "text": "One day.",
+        "startTime": 3365,
+        "endTime": 3969,
+        "slowStartTime": 5198,
+        "slowEndTime": 6179
+    },
+    {
+        "text": "One day, I will live in the Queen's castle.",
+        "startTime": 4100,
+        "endTime": 6563,
+        "slowStartTime": 6300,
+        "slowEndTime": 10070
+    },
+    {
+        "text": "One day, I'll open my own lab.",
+        "startTime": 7659,
+        "endTime": 9590,
+        "slowStartTime": 11638,
+        "slowEndTime": 14610
+    },
+    {
+        "text": "One day, I will have a restaurant with my son.",
+        "startTime": 9884,
+        "endTime": 12112,
+        "slowStartTime": 14976,
+        "slowEndTime": 18393
+    },
+    {
+        "text": "One day, I will visit all the libraries in the world.",
+        "startTime": 12352,
+        "endTime": 16805,
+        "slowStartTime": 18678,
+        "slowEndTime": 25433
+    },
+    {
+        "text": "One day, I'll go to work and be judged on my ability, not my appearance.",
+        "startTime": 18151,
+        "endTime": 22032,
+        "slowStartTime": 27377,
+        "slowEndTime": 33273
+    },
+    {
+        "text": "One day, I will give voice to those who can't speak.",
+        "startTime": 22127,
+        "endTime": 25977,
+        "slowStartTime": 33340,
+        "slowEndTime": 39191
+    },
+    {
+        "text": "One day, I will buy my own music management company.",
+        "startTime": 26320,
+        "endTime": 29314,
+        "slowStartTime": 39630,
+        "slowEndTime": 44196
+    },
+    {
+        "text": "One day, I will make women everywhere more financially confident.",
+        "startTime": 30924,
+        "endTime": 34321,
+        "slowStartTime": 46536,
+        "slowEndTime": 51707
+    },
+    {
+        "text": "One day, I will live in a world where women become the queens they truly are.",
+        "startTime": 38203,
+        "endTime": 42426,
+        "slowStartTime": 57455,
+        "slowEndTime": 63864
+    }
+]

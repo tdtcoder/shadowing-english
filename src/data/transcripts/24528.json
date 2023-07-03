@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Keep an Eye on.",
+        "startTime": 7525,
+        "endTime": 8864,
+        "slowStartTime": 11438,
+        "slowEndTime": 13521
+    },
+    {
+        "text": "It means to watch or to take care of something.",
+        "startTime": 10589,
+        "endTime": 13515,
+        "slowStartTime": 16033,
+        "slowEndTime": 20498
+    },
+    {
+        "text": "Paul kept an eye on his younger brother in the mall.",
+        "startTime": 16343,
+        "endTime": 18783,
+        "slowStartTime": 24664,
+        "slowEndTime": 28400
+    },
+    {
+        "text": "Will you keep an eye on my bag while I buy something?",
+        "startTime": 20551,
+        "endTime": 23486,
+        "slowStartTime": 30976,
+        "slowEndTime": 35454
+    },
+    {
+        "text": "The teacher kept an eye on her students during the test.",
+        "startTime": 25515,
+        "endTime": 29600,
+        "slowStartTime": 38423,
+        "slowEndTime": 44625
+    }
+]

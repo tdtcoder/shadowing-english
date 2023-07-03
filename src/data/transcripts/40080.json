@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Just two and a half seconds of distraction can become dangerous on the road.",
+        "startTime": 828,
+        "endTime": 5541,
+        "slowStartTime": 1392,
+        "slowEndTime": 8536
+    },
+    {
+        "text": "One Silicon Valley company says it has the solution - a way to be an extra eye for driver,...",
+        "startTime": 6465,
+        "endTime": 13509,
+        "slowStartTime": 9847,
+        "slowEndTime": 20489
+    },
+    {
+        "text": "...by using cameras, sensors, image recognition software, and real-time alerts.",
+        "startTime": 13831,
+        "endTime": 18980,
+        "slowStartTime": 20896,
+        "slowEndTime": 28695
+    },
+    {
+        "text": "Distracted.",
+        "startTime": 20088,
+        "endTime": 20694,
+        "slowStartTime": 30282,
+        "slowEndTime": 31266
+    },
+    {
+        "text": "So we'll alert the driver that he or she is distracted.",
+        "startTime": 22347,
+        "endTime": 25715,
+        "slowStartTime": 33671,
+        "slowEndTime": 38798
+    },
+    {
+        "text": "Then, the driver's able to look up,...",
+        "startTime": 25936,
+        "endTime": 27440,
+        "slowStartTime": 39054,
+        "slowEndTime": 41385
+    },
+    {
+        "text": "...maybe notice that traffic has stopped in front of them,...",
+        "startTime": 27698,
+        "endTime": 30059,
+        "slowStartTime": 41697,
+        "slowEndTime": 45314
+    },
+    {
+        "text": "...slam on the brakes and avoid that very common rear end crash.",
+        "startTime": 30905,
+        "endTime": 34137,
+        "slowStartTime": 46507,
+        "slowEndTime": 51430
+    },
+    {
+        "text": "Nauto's device sits behind a vehicle's rearview mirror...",
+        "startTime": 34687,
+        "endTime": 38434,
+        "slowStartTime": 52181,
+        "slowEndTime": 57876
+    },
+    {
+        "text": "...and comes with cameras and other sensors.",
+        "startTime": 38731,
+        "endTime": 41029,
+        "slowStartTime": 58246,
+        "slowEndTime": 61769
+    },
+    {
+        "text": "So you can see here there's an interior camera that faces the driver,...",
+        "startTime": 41499,
+        "endTime": 44808,
+        "slowStartTime": 62399,
+        "slowEndTime": 67437
+    },
+    {
+        "text": "...and then an exterior camera that faces the road ahead...",
+        "startTime": 45189,
+        "endTime": 47549,
+        "slowStartTime": 67933,
+        "slowEndTime": 71548
+    },
+    {
+        "text": "...and we're running algorithms to detect high-risk behaviors.",
+        "startTime": 48036,
+        "endTime": 50573,
+        "slowStartTime": 72204,
+        "slowEndTime": 76085
+    },
+    {
+        "text": "That behavior could be falling asleep behind the wheel...",
+        "startTime": 50830,
+        "endTime": 53875,
+        "slowStartTime": 76395,
+        "slowEndTime": 81037
+    },
+    {
+        "text": "...tailgating or checking a cell phone.",
+        "startTime": 54046,
+        "endTime": 56843,
+        "slowStartTime": 81219,
+        "slowEndTime": 85490
+    },
+    {
+        "text": "It will show a series of progressive alerts based on how distracted they are.",
+        "startTime": 57141,
+        "endTime": 60587,
+        "slowStartTime": 85862,
+        "slowEndTime": 91105
+    }
+]

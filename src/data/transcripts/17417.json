@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Sheep.",
+        "startTime": 2695,
+        "endTime": 3217,
+        "slowStartTime": 4192,
+        "slowEndTime": 5051
+    },
+    {
+        "text": "I can see a sheep.",
+        "startTime": 3971,
+        "endTime": 5373,
+        "slowStartTime": 6107,
+        "slowEndTime": 8284
+    },
+    {
+        "text": "I can see a sheep in the farm.",
+        "startTime": 6637,
+        "endTime": 8831,
+        "slowStartTime": 10106,
+        "slowEndTime": 13471
+    },
+    {
+        "text": "Shell.",
+        "startTime": 10179,
+        "endTime": 10751,
+        "slowStartTime": 15419,
+        "slowEndTime": 16352
+    },
+    {
+        "text": "There is a shell.",
+        "startTime": 11456,
+        "endTime": 12807,
+        "slowStartTime": 17334,
+        "slowEndTime": 19436
+    },
+    {
+        "text": "There is a shell in the beach.",
+        "startTime": 14143,
+        "endTime": 16145,
+        "slowStartTime": 21364,
+        "slowEndTime": 24442
+    },
+    {
+        "text": "Shirt.",
+        "startTime": 17522,
+        "endTime": 18111,
+        "slowStartTime": 26433,
+        "slowEndTime": 27391
+    },
+    {
+        "text": "I wear a shirt.",
+        "startTime": 18924,
+        "endTime": 20268,
+        "slowStartTime": 28536,
+        "slowEndTime": 30627
+    },
+    {
+        "text": "I wear a white shirt.",
+        "startTime": 21583,
+        "endTime": 23181,
+        "slowStartTime": 32525,
+        "slowEndTime": 34997
+    },
+    {
+        "text": "Shorts.",
+        "startTime": 24467,
+        "endTime": 25169,
+        "slowStartTime": 36851,
+        "slowEndTime": 37979
+    },
+    {
+        "text": "He wears shorts.",
+        "startTime": 25957,
+        "endTime": 27525,
+        "slowStartTime": 39085,
+        "slowEndTime": 41513
+    },
+    {
+        "text": "He wears blue shorts.",
+        "startTime": 28819,
+        "endTime": 30621,
+        "slowStartTime": 43379,
+        "slowEndTime": 46157
+    },
+    {
+        "text": "Where does the big brown box go?",
+        "startTime": 36227,
+        "endTime": 38956,
+        "slowStartTime": 54490,
+        "slowEndTime": 58659
+    },
+    {
+        "text": "It goes in the mail, in the mail, in the mail.",
+        "startTime": 39719,
+        "endTime": 43206,
+        "slowStartTime": 59728,
+        "slowEndTime": 65034
+    },
+    {
+        "text": "Where does the big brown box go?",
+        "startTime": 43708,
+        "endTime": 46465,
+        "slowStartTime": 65712,
+        "slowEndTime": 69922
+    },
+    {
+        "text": "It goes in the car, in the car, in the car.",
+        "startTime": 47213,
+        "endTime": 50697,
+        "slowStartTime": 70969,
+        "slowEndTime": 76271
+    },
+    {
+        "text": "Where does the big brown box go?",
+        "startTime": 51168,
+        "endTime": 53975,
+        "slowStartTime": 76902,
+        "slowEndTime": 81187
+    },
+    {
+        "text": "It goes on the boat, on the boat, on the boat.",
+        "startTime": 54738,
+        "endTime": 58249,
+        "slowStartTime": 82257,
+        "slowEndTime": 87598
+    },
+    {
+        "text": "The big brown box is taken to the door.",
+        "startTime": 58492,
+        "endTime": 61938,
+        "slowStartTime": 87888,
+        "slowEndTime": 93132
+    },
+    {
+        "text": "Knock, knock, knock, Special Delivery!",
+        "startTime": 62387,
+        "endTime": 65867,
+        "slowStartTime": 93731,
+        "slowEndTime": 99026
+    }
+]

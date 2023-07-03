@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Here are expressions you can use when you're angry.",
+        "startTime": 183,
+        "endTime": 3106,
+        "slowStartTime": 425,
+        "slowEndTime": 4884
+    },
+    {
+        "text": "It's none of your business.",
+        "startTime": 5095,
+        "endTime": 6655,
+        "slowStartTime": 7793,
+        "slowEndTime": 10208
+    },
+    {
+        "text": "Shut up!",
+        "startTime": 8655,
+        "endTime": 9669,
+        "slowStartTime": 13133,
+        "slowEndTime": 14729
+    },
+    {
+        "text": "Leave me alone.",
+        "startTime": 11794,
+        "endTime": 12839,
+        "slowStartTime": 17841,
+        "slowEndTime": 19484
+    },
+    {
+        "text": "Are you kidding me?",
+        "startTime": 14860,
+        "endTime": 16370,
+        "slowStartTime": 22440,
+        "slowEndTime": 24780
+    },
+    {
+        "text": "Whatever!",
+        "startTime": 18459,
+        "endTime": 19473,
+        "slowStartTime": 27838,
+        "slowEndTime": 29434
+    },
+    {
+        "text": "Cut it out.",
+        "startTime": 21265,
+        "endTime": 22441,
+        "slowStartTime": 32048,
+        "slowEndTime": 33887
+    },
+    {
+        "text": "I'm upset.",
+        "startTime": 24360,
+        "endTime": 25687,
+        "slowStartTime": 36690,
+        "slowEndTime": 38756
+    },
+    {
+        "text": "Who do you think you are?",
+        "startTime": 27543,
+        "endTime": 29179,
+        "slowStartTime": 41465,
+        "slowEndTime": 43994
+    },
+    {
+        "text": "Watch your mouth.",
+        "startTime": 31129,
+        "endTime": 32227,
+        "slowStartTime": 46843,
+        "slowEndTime": 48565
+    },
+    {
+        "text": "You're not listening to me.",
+        "startTime": 33949,
+        "endTime": 35872,
+        "slowStartTime": 51073,
+        "slowEndTime": 54033
+    }
+]

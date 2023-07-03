@@ -1,0 +1,65 @@
+[
+    {
+        "text": "﻿I'd like to invite you to my birthday party.",
+        "startTime": 21494,
+        "endTime": 23953,
+        "slowStartTime": 32391,
+        "slowEndTime": 36154
+    },
+    {
+        "text": "I want to invite you and your family to a barbecue next Sunday.",
+        "startTime": 27519,
+        "endTime": 32158,
+        "slowStartTime": 41429,
+        "slowEndTime": 48462
+    },
+    {
+        "text": "Are you free this evening? Why don't you come to my house for dinner at six?",
+        "startTime": 37589,
+        "endTime": 42698,
+        "slowStartTime": 56533,
+        "slowEndTime": 64272
+    },
+    {
+        "text": "Shin, how about having a drink after work? Are you free?",
+        "startTime": 45934,
+        "endTime": 49318,
+        "slowStartTime": 69051,
+        "slowEndTime": 74202
+    },
+    {
+        "text": "But I want to go skating at the park. Do you wanna come?",
+        "startTime": 55531,
+        "endTime": 58472,
+        "slowStartTime": 83447,
+        "slowEndTime": 87933
+    },
+    {
+        "text": "Hey, does anyone wanna come with me to Folk Fest?",
+        "startTime": 61747,
+        "endTime": 63913,
+        "slowStartTime": 92770,
+        "slowEndTime": 96095
+    },
+    {
+        "text": "Listen, sorry, my train's leaving. But do you wanna join us?",
+        "startTime": 69399,
+        "endTime": 72790,
+        "slowStartTime": 104249,
+        "slowEndTime": 109410
+    },
+    {
+        "text": "I was wondering if you'd like to join us this evening.",
+        "startTime": 76037,
+        "endTime": 78237,
+        "slowStartTime": 114205,
+        "slowEndTime": 117580
+    },
+    {
+        "text": "Do you wanna grab a bite?",
+        "startTime": 84052,
+        "endTime": 85098,
+        "slowStartTime": 126228,
+        "slowEndTime": 127872
+    }
+]

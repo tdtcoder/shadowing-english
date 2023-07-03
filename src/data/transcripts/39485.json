@@ -1,0 +1,93 @@
+[
+    {
+        "text": "What's your name?",
+        "startTime": 389,
+        "endTime": 981,
+        "slowStartTime": 734,
+        "slowEndTime": 1697
+    },
+    {
+        "text": "I'm Anna Sarah.",
+        "startTime": 1241,
+        "endTime": 2203,
+        "slowStartTime": 2011,
+        "slowEndTime": 3529
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 2811,
+        "endTime": 3431,
+        "slowStartTime": 4366,
+        "slowEndTime": 5372
+    },
+    {
+        "text": "Shelly.",
+        "startTime": 3859,
+        "endTime": 4275,
+        "slowStartTime": 5939,
+        "slowEndTime": 6637
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 4672,
+        "endTime": 5289,
+        "slowStartTime": 7158,
+        "slowEndTime": 8159
+    },
+    {
+        "text": "My name is Joe.",
+        "startTime": 5693,
+        "endTime": 6351,
+        "slowStartTime": 8689,
+        "slowEndTime": 9751
+    },
+    {
+        "text": "Excuse me.",
+        "startTime": 12778,
+        "endTime": 13200,
+        "slowStartTime": 19317,
+        "slowEndTime": 20025
+    },
+    {
+        "text": "Hello.",
+        "startTime": 13692,
+        "endTime": 14239,
+        "slowStartTime": 20688,
+        "slowEndTime": 21583
+    },
+    {
+        "text": "Hi!",
+        "startTime": 14555,
+        "endTime": 14797,
+        "slowStartTime": 21982,
+        "slowEndTime": 22421
+    },
+    {
+        "text": "My name is Molly.",
+        "startTime": 15029,
+        "endTime": 16332,
+        "slowStartTime": 22694,
+        "slowEndTime": 24723
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 16561,
+        "endTime": 17316,
+        "slowStartTime": 24991,
+        "slowEndTime": 26199
+    },
+    {
+        "text": "I'm Peter.",
+        "startTime": 17558,
+        "endTime": 18115,
+        "slowStartTime": 26487,
+        "slowEndTime": 27398
+    },
+    {
+        "text": "Hi, Pete! It's nice to meet you.",
+        "startTime": 18525,
+        "endTime": 20102,
+        "slowStartTime": 27937,
+        "slowEndTime": 30378
+    }
+]

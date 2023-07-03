@@ -1,0 +1,65 @@
+[
+    {
+        "text": "A lot of people think that innovation is just having a great idea.",
+        "startTime": 2801,
+        "endTime": 6421,
+        "slowStartTime": 4351,
+        "slowEndTime": 9856
+    },
+    {
+        "text": "But a lot of it is just moving quickly and trying a lot of things.",
+        "startTime": 6730,
+        "endTime": 9669,
+        "slowStartTime": 10245,
+        "slowEndTime": 14729
+    },
+    {
+        "text": "So at Facebook, we've really built our whole company and our culture around this.",
+        "startTime": 9761,
+        "endTime": 14032,
+        "slowStartTime": 14791,
+        "slowEndTime": 21273
+    },
+    {
+        "text": "We do things like ship code every single day.",
+        "startTime": 14181,
+        "endTime": 17545,
+        "slowStartTime": 21422,
+        "slowEndTime": 26542
+    },
+    {
+        "text": "And we have this tradition of having hackathons,...",
+        "startTime": 17759,
+        "endTime": 21421,
+        "slowStartTime": 26788,
+        "slowEndTime": 32357
+    },
+    {
+        "text": "...which are events where all of our engineers and really the whole company get together...",
+        "startTime": 21518,
+        "endTime": 25672,
+        "slowStartTime": 32427,
+        "slowEndTime": 38733
+    },
+    {
+        "text": "...and stay up all night just building things,...",
+        "startTime": 25766,
+        "endTime": 27789,
+        "slowStartTime": 38799,
+        "slowEndTime": 41908
+    },
+    {
+        "text": "...whatever they want, not what they're doing for work.",
+        "startTime": 27874,
+        "endTime": 30161,
+        "slowStartTime": 41961,
+        "slowEndTime": 45466
+    },
+    {
+        "text": "Just trying things out and innovating.",
+        "startTime": 30249,
+        "endTime": 31950,
+        "slowStartTime": 45524,
+        "slowEndTime": 48150
+    }
+]

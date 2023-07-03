@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Here's my number.",
+        "startTime": 343,
+        "endTime": 1113,
+        "slowStartTime": 664,
+        "slowEndTime": 1895
+    },
+    {
+        "text": "555-614-7221.",
+        "startTime": 1447,
+        "endTime": 7043,
+        "slowStartTime": 2320,
+        "slowEndTime": 10790
+    },
+    {
+        "text": "What's your phone number?",
+        "startTime": 7303,
+        "endTime": 8445,
+        "slowStartTime": 11104,
+        "slowEndTime": 12892
+    },
+    {
+        "text": "My phone number is 239-0560.",
+        "startTime": 8732,
+        "endTime": 13173,
+        "slowStartTime": 13248,
+        "slowEndTime": 19984
+    },
+    {
+        "text": "What's your cell phone number?",
+        "startTime": 13464,
+        "endTime": 14817,
+        "slowStartTime": 20346,
+        "slowEndTime": 22451
+    },
+    {
+        "text": "My cell phone number is 555-1312.",
+        "startTime": 15088,
+        "endTime": 19021,
+        "slowStartTime": 22782,
+        "slowEndTime": 28757
+    }
+]

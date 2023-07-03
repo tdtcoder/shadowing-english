@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Have you considered giving a workshop on presentations, Mark?",
+        "startTime": 2700,
+        "endTime": 5600,
+        "slowStartTime": 4250,
+        "slowEndTime": 8600
+    },
+    {
+        "text": "What are you talking about, Bob?",
+        "startTime": 6800,
+        "endTime": 8050,
+        "slowStartTime": 10400,
+        "slowEndTime": 12300
+    },
+    {
+        "text": "You must be kidding.",
+        "startTime": 8300,
+        "endTime": 9200,
+        "slowStartTime": 12500,
+        "slowEndTime": 14050
+    },
+    {
+        "text": "No, bear with me for a minute.",
+        "startTime": 10000,
+        "endTime": 11700,
+        "slowStartTime": 15150,
+        "slowEndTime": 17750
+    },
+    {
+        "text": "I thought you gave a very dynamic presentation.",
+        "startTime": 12200,
+        "endTime": 15100,
+        "slowStartTime": 18500,
+        "slowEndTime": 22900
+    },
+    {
+        "text": "Really?",
+        "startTime": 16100,
+        "endTime": 16600,
+        "slowStartTime": 24350,
+        "slowEndTime": 25050
+    },
+    {
+        "text": "I sensed a bit of hostility during the questions at the end.",
+        "startTime": 17400,
+        "endTime": 20300,
+        "slowStartTime": 26250,
+        "slowEndTime": 30700
+    },
+    {
+        "text": "Not at all.",
+        "startTime": 20950,
+        "endTime": 21950,
+        "slowStartTime": 31600,
+        "slowEndTime": 33150
+    },
+    {
+        "text": "I just wanted you to be specific about the value you see in...",
+        "startTime": 22400,
+        "endTime": 26050,
+        "slowStartTime": 33900,
+        "slowEndTime": 39300
+    },
+    {
+        "text": "Of course I never did any formal analysis of the benefits of informal feedback.",
+        "startTime": 26500,
+        "endTime": 30850,
+        "slowStartTime": 40020,
+        "slowEndTime": 46500
+    },
+    {
+        "text": "Don't interrupt.",
+        "startTime": 31300,
+        "endTime": 32000,
+        "slowStartTime": 47100,
+        "slowEndTime": 48250
+    },
+    {
+        "text": "I was trying to tell you the organization, interaction, and professionalism of your presentation were impressive.",
+        "startTime": 32300,
+        "endTime": 38900,
+        "slowStartTime": 48750,
+        "slowEndTime": 58550
+    },
+    {
+        "text": "Maybe you could contribute some tips to help others here give better presentations.",
+        "startTime": 39300,
+        "endTime": 44050,
+        "slowStartTime": 59100,
+        "slowEndTime": 66300
+    }
+]

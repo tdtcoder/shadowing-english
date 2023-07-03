@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Excuse me, could you tell me what time it is?",
+        "startTime": 893,
+        "endTime": 3365,
+        "slowStartTime": 1489,
+        "slowEndTime": 5273
+    },
+    {
+        "text": "Oh, sure.",
+        "startTime": 3912,
+        "endTime": 4815,
+        "slowStartTime": 6018,
+        "slowEndTime": 7448
+    },
+    {
+        "text": "It's half past 4.",
+        "startTime": 5020,
+        "endTime": 6318,
+        "slowStartTime": 7680,
+        "slowEndTime": 9702
+    },
+    {
+        "text": "Oh, great!",
+        "startTime": 6800,
+        "endTime": 7471,
+        "slowStartTime": 10350,
+        "slowEndTime": 11431
+    },
+    {
+        "text": "It is not late.",
+        "startTime": 7603,
+        "endTime": 8396,
+        "slowStartTime": 11555,
+        "slowEndTime": 12819
+    },
+    {
+        "text": "One more cup of tea, please.",
+        "startTime": 8559,
+        "endTime": 9868,
+        "slowStartTime": 12989,
+        "slowEndTime": 15027
+    },
+    {
+        "text": "All right, madam.",
+        "startTime": 10267,
+        "endTime": 11199,
+        "slowStartTime": 15550,
+        "slowEndTime": 17023
+    },
+    {
+        "text": "Thank you very much.",
+        "startTime": 11739,
+        "endTime": 12443,
+        "slowStartTime": 17758,
+        "slowEndTime": 18890
+    },
+    {
+        "text": "You're welcome.",
+        "startTime": 12977,
+        "endTime": 13989,
+        "slowStartTime": 19615,
+        "slowEndTime": 21209
+    },
+    {
+        "text": "What time is the meeting, Jenny?",
+        "startTime": 16311,
+        "endTime": 17657,
+        "slowStartTime": 24617,
+        "slowEndTime": 26711
+    },
+    {
+        "text": "It's at 5 o'clock.",
+        "startTime": 18462,
+        "endTime": 19634,
+        "slowStartTime": 27843,
+        "slowEndTime": 29676
+    },
+    {
+        "text": "What time is it now?",
+        "startTime": 20649,
+        "endTime": 21715,
+        "slowStartTime": 31123,
+        "slowEndTime": 32798
+    },
+    {
+        "text": "It's quarter past 5.",
+        "startTime": 22289,
+        "endTime": 23624,
+        "slowStartTime": 33583,
+        "slowEndTime": 35661
+    },
+    {
+        "text": "Oh no! I'm late!",
+        "startTime": 24129,
+        "endTime": 25308,
+        "slowStartTime": 36343,
+        "slowEndTime": 38187
+    }
+]

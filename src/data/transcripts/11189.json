@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Driven by primordial instinct,...",
+        "startTime": 4500,
+        "endTime": 6550,
+        "slowStartTime": 6900,
+        "slowEndTime": 10000
+    },
+    {
+        "text": "...the salmon hurl themselves upstream to spawn at the same tranquil pools where they themselves were born.",
+        "startTime": 7150,
+        "endTime": 13900,
+        "slowStartTime": 10900,
+        "slowEndTime": 21100
+    },
+    {
+        "text": "Given the countless hazards of this journey,...",
+        "startTime": 16550,
+        "endTime": 18700,
+        "slowStartTime": 25000,
+        "slowEndTime": 28300
+    },
+    {
+        "text": "...only the fittest, richest tasting red salmon make it this far.",
+        "startTime": 19250,
+        "endTime": 23000,
+        "slowStartTime": 29050,
+        "slowEndTime": 34850
+    },
+    {
+        "text": "Which is why others, driven by instincts of their own, are waiting.",
+        "startTime": 24700,
+        "endTime": 29600,
+        "slowStartTime": 37250,
+        "slowEndTime": 44600
+    },
+    {
+        "text": "John West endures the worst to bring you the best.",
+        "startTime": 39750,
+        "endTime": 43900,
+        "slowStartTime": 59850,
+        "slowEndTime": 66000
+    }
+]

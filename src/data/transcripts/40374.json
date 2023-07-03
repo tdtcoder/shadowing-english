@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Luigi's Pizzeria, can I take your order?",
+        "startTime": 1868,
+        "endTime": 4448,
+        "slowStartTime": 2952,
+        "slowEndTime": 6897
+    },
+    {
+        "text": "Yes, I'd like a large Hawaiian pizza, please.",
+        "startTime": 4729,
+        "endTime": 6971,
+        "slowStartTime": 7244,
+        "slowEndTime": 10681
+    },
+    {
+        "text": "Okay, one large Hawaiian. Anything else?",
+        "startTime": 7147,
+        "endTime": 10124,
+        "slowStartTime": 10871,
+        "slowEndTime": 15411
+    },
+    {
+        "text": "No, that's all, thank you.",
+        "startTime": 10315,
+        "endTime": 11637,
+        "slowStartTime": 15622,
+        "slowEndTime": 17680
+    },
+    {
+        "text": "Okay, did you want a pan crust or thin crust?",
+        "startTime": 11865,
+        "endTime": 14881,
+        "slowStartTime": 17947,
+        "slowEndTime": 22547
+    },
+    {
+        "text": "Pan crust, please.",
+        "startTime": 15227,
+        "endTime": 16199,
+        "slowStartTime": 22990,
+        "slowEndTime": 24523
+    },
+    {
+        "text": "Okay, and could I have your address, please?",
+        "startTime": 16419,
+        "endTime": 18964,
+        "slowStartTime": 24778,
+        "slowEndTime": 28671
+    },
+    {
+        "text": "Yes, it's 2323 Jordan Avenue, Apartment 415.",
+        "startTime": 19266,
+        "endTime": 23846,
+        "slowStartTime": 29049,
+        "slowEndTime": 35994
+    },
+    {
+        "text": "2323 Jordan Avenue, Apartment 415. Correct?",
+        "startTime": 24074,
+        "endTime": 28913,
+        "slowStartTime": 36261,
+        "slowEndTime": 43594
+    },
+    {
+        "text": "Yes, how soon will the pizza get here?",
+        "startTime": 29099,
+        "endTime": 31229,
+        "slowStartTime": 43798,
+        "slowEndTime": 47068
+    },
+    {
+        "text": "We'll have it at your door very soon.",
+        "startTime": 31485,
+        "endTime": 33383,
+        "slowStartTime": 47378,
+        "slowEndTime": 50299
+    },
+    {
+        "text": "Please make it in 30 minutes or less.",
+        "startTime": 33644,
+        "endTime": 35529,
+        "slowStartTime": 50616,
+        "slowEndTime": 53518
+    },
+    {
+        "text": "Thank you for choosing Luigi's.",
+        "startTime": 35829,
+        "endTime": 37481,
+        "slowStartTime": 53894,
+        "slowEndTime": 56447
+    }
+]

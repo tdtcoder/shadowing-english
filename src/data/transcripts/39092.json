@@ -1,0 +1,79 @@
+[
+    {
+        "text": "So, some brands are cutting the Amazon cord...",
+        "startTime": 219,
+        "endTime": 2895,
+        "slowStartTime": 479,
+        "slowEndTime": 4568
+    },
+    {
+        "text": "...to focus on what's known as direct-to-consumer selling, such as Nike.",
+        "startTime": 3185,
+        "endTime": 8336,
+        "slowStartTime": 4927,
+        "slowEndTime": 12729
+    },
+    {
+        "text": "Nike's loyalty scheme allows it to create customer profiles...",
+        "startTime": 9709,
+        "endTime": 13590,
+        "slowStartTime": 14713,
+        "slowEndTime": 20610
+    },
+    {
+        "text": "...of its 250 million members,...",
+        "startTime": 13806,
+        "endTime": 16313,
+        "slowStartTime": 20859,
+        "slowEndTime": 24695
+    },
+    {
+        "text": "...70 million of whom joined during the pandemic.",
+        "startTime": 16691,
+        "endTime": 19613,
+        "slowStartTime": 25186,
+        "slowEndTime": 29645
+    },
+    {
+        "text": "Nike's apps offer the customer a personalized experience...",
+        "startTime": 20244,
+        "endTime": 23847,
+        "slowStartTime": 30516,
+        "slowEndTime": 35996
+    },
+    {
+        "text": "...in return for a detailed insight into their behavior.",
+        "startTime": 24105,
+        "endTime": 27461,
+        "slowStartTime": 36308,
+        "slowEndTime": 41416
+    },
+    {
+        "text": "Nike's apps let users customize their own shoes...",
+        "startTime": 27940,
+        "endTime": 31523,
+        "slowStartTime": 42060,
+        "slowEndTime": 47510
+    },
+    {
+        "text": "...and in doing so learn the customer's favorite colors and designs,....",
+        "startTime": 31761,
+        "endTime": 35457,
+        "slowStartTime": 47791,
+        "slowEndTime": 53410
+    },
+    {
+        "text": "...and by tracking how far they run,...",
+        "startTime": 35856,
+        "endTime": 37627,
+        "slowStartTime": 53934,
+        "slowEndTime": 56665
+    },
+    {
+        "text": "...can even let the customer know when it's time to splash out on a new pair of shoes.",
+        "startTime": 37855,
+        "endTime": 42945,
+        "slowStartTime": 56933,
+        "slowEndTime": 64643
+    }
+]

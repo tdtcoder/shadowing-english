@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Row, row, row your boat...",
+        "startTime": 1085,
+        "endTime": 3945,
+        "slowStartTime": 1777,
+        "slowEndTime": 6142
+    },
+    {
+        "text": "...gently down the stream.",
+        "startTime": 4201,
+        "endTime": 7065,
+        "slowStartTime": 6452,
+        "slowEndTime": 10822
+    },
+    {
+        "text": "Merrily, merrily, merrily, merrily,...",
+        "startTime": 7411,
+        "endTime": 10525,
+        "slowStartTime": 11266,
+        "slowEndTime": 16013
+    },
+    {
+        "text": "...life is but a dream.",
+        "startTime": 10648,
+        "endTime": 13137,
+        "slowStartTime": 16122,
+        "slowEndTime": 19930
+    },
+    {
+        "text": "Row, row, row your boat...",
+        "startTime": 13662,
+        "endTime": 16646,
+        "slowStartTime": 20643,
+        "slowEndTime": 25194
+    },
+    {
+        "text": "...gently down the stream.",
+        "startTime": 16902,
+        "endTime": 19762,
+        "slowStartTime": 25503,
+        "slowEndTime": 29868
+    },
+    {
+        "text": "Merrily, merrily, merrily, merrily...",
+        "startTime": 20026,
+        "endTime": 23215,
+        "slowStartTime": 30189,
+        "slowEndTime": 35047
+    },
+    {
+        "text": "...life is but a dream.",
+        "startTime": 23309,
+        "endTime": 25984,
+        "slowStartTime": 35114,
+        "slowEndTime": 39201
+    },
+    {
+        "text": "Row, row, row your boat...",
+        "startTime": 39333,
+        "endTime": 42273,
+        "slowStartTime": 59150,
+        "slowEndTime": 63634
+    },
+    {
+        "text": "...gently down the stream.",
+        "startTime": 42381,
+        "endTime": 45427,
+        "slowStartTime": 63722,
+        "slowEndTime": 68366
+    },
+    {
+        "text": "Merrily, merrily, merrily, merrily...",
+        "startTime": 45676,
+        "endTime": 48848,
+        "slowStartTime": 68664,
+        "slowEndTime": 73497
+    },
+    {
+        "text": "...life is but a dream.",
+        "startTime": 48943,
+        "endTime": 51834,
+        "slowStartTime": 73564,
+        "slowEndTime": 77976
+    }
+]

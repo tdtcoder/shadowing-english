@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Where is everyone?",
+        "startTime": 4485,
+        "endTime": 5417,
+        "slowStartTime": 6878,
+        "slowEndTime": 8351
+    },
+    {
+        "text": "Pringles original, barbecue, pizza.",
+        "startTime": 6190,
+        "endTime": 9598,
+        "slowStartTime": 9435,
+        "slowEndTime": 14622
+    },
+    {
+        "text": "The barbecue pizza stack.",
+        "startTime": 9860,
+        "endTime": 11245,
+        "slowStartTime": 14940,
+        "slowEndTime": 17093
+    },
+    {
+        "text": "Look!",
+        "startTime": 16262,
+        "endTime": 16647,
+        "slowStartTime": 24543,
+        "slowEndTime": 25195
+    },
+    {
+        "text": "We're saved!",
+        "startTime": 17019,
+        "endTime": 17801,
+        "slowStartTime": 25678,
+        "slowEndTime": 26926
+    },
+    {
+        "text": "We're going home!",
+        "startTime": 18368,
+        "endTime": 19259,
+        "slowStartTime": 27702,
+        "slowEndTime": 29114
+    },
+    {
+        "text": "Endless flavors to stack.",
+        "startTime": 27604,
+        "endTime": 29155,
+        "slowStartTime": 41556,
+        "slowEndTime": 43958
+    },
+    {
+        "text": "Enjoy carefully.",
+        "startTime": 29301,
+        "endTime": 30010,
+        "slowStartTime": 44102,
+        "slowEndTime": 45240
+    }
+]

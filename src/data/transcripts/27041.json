@@ -1,0 +1,128 @@
+[
+    {
+        "text": "It's your birthday.",
+        "startTime": 8119,
+        "endTime": 9796,
+        "slowStartTime": 12328,
+        "slowEndTime": 14919
+    },
+    {
+        "text": "Happy birthday.",
+        "startTime": 9913,
+        "endTime": 12067,
+        "slowStartTime": 15020,
+        "slowEndTime": 18325
+    },
+    {
+        "text": "It's your special day.",
+        "startTime": 12447,
+        "endTime": 14627,
+        "slowStartTime": 18821,
+        "slowEndTime": 22165
+    },
+    {
+        "text": "It's your birthday.",
+        "startTime": 16413,
+        "endTime": 17857,
+        "slowStartTime": 24770,
+        "slowEndTime": 27010
+    },
+    {
+        "text": "Happy birthday.",
+        "startTime": 17969,
+        "endTime": 19978,
+        "slowStartTime": 27103,
+        "slowEndTime": 30192
+    },
+    {
+        "text": "It's your birthday today.",
+        "startTime": 20398,
+        "endTime": 22639,
+        "slowStartTime": 30747,
+        "slowEndTime": 34183
+    },
+    {
+        "text": "Oh, happy birthday.",
+        "startTime": 24319,
+        "endTime": 27665,
+        "slowStartTime": 36629,
+        "slowEndTime": 41722
+    },
+    {
+        "text": "It's your special day.",
+        "startTime": 28239,
+        "endTime": 30460,
+        "slowStartTime": 42508,
+        "slowEndTime": 45915
+    },
+    {
+        "text": "Happy birthday.",
+        "startTime": 30580,
+        "endTime": 32129,
+        "slowStartTime": 46020,
+        "slowEndTime": 48418
+    },
+    {
+        "text": "It's your birthday.",
+        "startTime": 32379,
+        "endTime": 33863,
+        "slowStartTime": 48719,
+        "slowEndTime": 51020
+    },
+    {
+        "text": "Happy birthday.",
+        "startTime": 33955,
+        "endTime": 35883,
+        "slowStartTime": 51082,
+        "slowEndTime": 54050
+    },
+    {
+        "text": "It's your special day.",
+        "startTime": 36353,
+        "endTime": 38671,
+        "slowStartTime": 54679,
+        "slowEndTime": 58231
+    },
+    {
+        "text": "It's your birthday.",
+        "startTime": 40368,
+        "endTime": 41823,
+        "slowStartTime": 60702,
+        "slowEndTime": 62959
+    },
+    {
+        "text": "Happy birthday.",
+        "startTime": 41917,
+        "endTime": 43959,
+        "slowStartTime": 63025,
+        "slowEndTime": 66164
+    },
+    {
+        "text": "It's your birthday today.",
+        "startTime": 44363,
+        "endTime": 46495,
+        "slowStartTime": 66694,
+        "slowEndTime": 69967
+    },
+    {
+        "text": "Oh, happy birthday.",
+        "startTime": 48200,
+        "endTime": 51803,
+        "slowStartTime": 72450,
+        "slowEndTime": 77930
+    },
+    {
+        "text": "It's your special day.",
+        "startTime": 52417,
+        "endTime": 54411,
+        "slowStartTime": 78776,
+        "slowEndTime": 81841
+    },
+    {
+        "text": "Happy birthday.",
+        "startTime": 54619,
+        "endTime": 56072,
+        "slowStartTime": 82078,
+        "slowEndTime": 84333
+    }
+]

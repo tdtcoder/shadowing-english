@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Brian has a flight to London at 9 PM.",
+        "startTime": 659,
+        "endTime": 3346,
+        "slowStartTime": 1139,
+        "slowEndTime": 5244
+    },
+    {
+        "text": "He needs to be at the airport by 7 PM.",
+        "startTime": 4049,
+        "endTime": 6481,
+        "slowStartTime": 6224,
+        "slowEndTime": 9947
+    },
+    {
+        "text": "Natalie is waiting for the no. 12 bus.",
+        "startTime": 11081,
+        "endTime": 13429,
+        "slowStartTime": 16771,
+        "slowEndTime": 20368
+    },
+    {
+        "text": "It will arrive in ten minutes.",
+        "startTime": 14061,
+        "endTime": 15757,
+        "slowStartTime": 21241,
+        "slowEndTime": 23861
+    },
+    {
+        "text": "There is a train for Paris at platform 4.",
+        "startTime": 19292,
+        "endTime": 22336,
+        "slowStartTime": 29088,
+        "slowEndTime": 33729
+    },
+    {
+        "text": "It will leave the station in an hour.",
+        "startTime": 22887,
+        "endTime": 24923,
+        "slowStartTime": 34481,
+        "slowEndTime": 37609
+    },
+    {
+        "text": "You can take a boat to another island.",
+        "startTime": 28279,
+        "endTime": 30442,
+        "slowStartTime": 42568,
+        "slowEndTime": 45888
+    },
+    {
+        "text": "A boat leaves the dock every hour.",
+        "startTime": 30836,
+        "endTime": 32913,
+        "slowStartTime": 46404,
+        "slowEndTime": 49594
+    },
+    {
+        "text": "Our neighbor owns a car.",
+        "startTime": 35999,
+        "endTime": 37819,
+        "slowStartTime": 54148,
+        "slowEndTime": 56954
+    },
+    {
+        "text": "She drives it to her office every day.",
+        "startTime": 38371,
+        "endTime": 40791,
+        "slowStartTime": 57707,
+        "slowEndTime": 61411
+    }
+]

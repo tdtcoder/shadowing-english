@@ -1,0 +1,219 @@
+[
+    {
+        "text": "Well, our story starts in 1981.",
+        "startTime": 218,
+        "endTime": 2644,
+        "slowStartTime": 477,
+        "slowEndTime": 4191
+    },
+    {
+        "text": "A small software company called Microsoft hit it big with a text-based operating system...",
+        "startTime": 2829,
+        "endTime": 6977,
+        "slowStartTime": 4394,
+        "slowEndTime": 10690
+    },
+    {
+        "text": "...called MS-DOS for IBM's new personal computers.",
+        "startTime": 7097,
+        "endTime": 10199,
+        "slowStartTime": 10796,
+        "slowEndTime": 15523
+    },
+    {
+        "text": "DOS was efficient for the time,...",
+        "startTime": 10397,
+        "endTime": 11687,
+        "slowStartTime": 15746,
+        "slowEndTime": 17756
+    },
+    {
+        "text": "...but the average computer user wanted something more accessible.",
+        "startTime": 11878,
+        "endTime": 14331,
+        "slowStartTime": 17967,
+        "slowEndTime": 21722
+    },
+    {
+        "text": "So, Microsoft used an internal product called Interface Manager...",
+        "startTime": 14675,
+        "endTime": 17873,
+        "slowStartTime": 22162,
+        "slowEndTime": 27035
+    },
+    {
+        "text": "...to put a graphical face on DOS.",
+        "startTime": 18025,
+        "endTime": 19767,
+        "slowStartTime": 27188,
+        "slowEndTime": 29876
+    },
+    {
+        "text": "Cut to 1985 and you got Windows 1.0.",
+        "startTime": 20615,
+        "endTime": 23161,
+        "slowStartTime": 31073,
+        "slowEndTime": 34967
+    },
+    {
+        "text": "This really is a great product.",
+        "startTime": 23336,
+        "endTime": 24769,
+        "slowStartTime": 35154,
+        "slowEndTime": 37379
+    },
+    {
+        "text": "It may look crude but this first version of Windows was pretty revolutionary.",
+        "startTime": 24887,
+        "endTime": 28103,
+        "slowStartTime": 37480,
+        "slowEndTime": 42379
+    },
+    {
+        "text": "It brought us the things we know and love to this day:...",
+        "startTime": 28452,
+        "endTime": 31133,
+        "slowStartTime": 42828,
+        "slowEndTime": 46925
+    },
+    {
+        "text": "...drop-down menus, scroll bars, icons and dialog boxes.",
+        "startTime": 31614,
+        "endTime": 34712,
+        "slowStartTime": 47571,
+        "slowEndTime": 52293
+    },
+    {
+        "text": "It also used this new device called a mouse.",
+        "startTime": 35255,
+        "endTime": 37575,
+        "slowStartTime": 53032,
+        "slowEndTime": 56588
+    },
+    {
+        "text": "To help users practice their mousing skills, version 1.1 included the game Reversi.",
+        "startTime": 37826,
+        "endTime": 42288,
+        "slowStartTime": 56889,
+        "slowEndTime": 63657
+    },
+    {
+        "text": "Can you believe it? Reversi!",
+        "startTime": 42588,
+        "endTime": 44690,
+        "slowStartTime": 64032,
+        "slowEndTime": 67260
+    },
+    {
+        "text": "In 1987, Windows 2.0 arrived with better graphics, including overlapping windows.",
+        "startTime": 44868,
+        "endTime": 49568,
+        "slowStartTime": 67452,
+        "slowEndTime": 74577
+    },
+    {
+        "text": "One year later, Microsoft became and stayed the largest PC software maker.",
+        "startTime": 49898,
+        "endTime": 55139,
+        "slowStartTime": 74997,
+        "slowEndTime": 82934
+    },
+    {
+        "text": "Vista ended up being a terrible mess of glitches.",
+        "startTime": 55361,
+        "endTime": 58213,
+        "slowStartTime": 83192,
+        "slowEndTime": 87544
+    },
+    {
+        "text": "It took Microsoft two years to fix the mess it had made with Windows 7,...",
+        "startTime": 58515,
+        "endTime": 61825,
+        "slowStartTime": 87923,
+        "slowEndTime": 92963
+    },
+    {
+        "text": "...a product finally good enough to convince most people to move from XP.",
+        "startTime": 62068,
+        "endTime": 65319,
+        "slowStartTime": 93252,
+        "slowEndTime": 98203
+    },
+    {
+        "text": "In 2012, Microsoft tried to be radical again with Windows 8.",
+        "startTime": 67787,
+        "endTime": 71201,
+        "slowStartTime": 101830,
+        "slowEndTime": 107026
+    },
+    {
+        "text": "It did away with the traditional desktop and replaced it with tiles,...",
+        "startTime": 71449,
+        "endTime": 74703,
+        "slowStartTime": 107323,
+        "slowEndTime": 112280
+    },
+    {
+        "text": "...which attempted to bridge PCs, laptops, tablets and smartphones.",
+        "startTime": 74816,
+        "endTime": 78094,
+        "slowStartTime": 112374,
+        "slowEndTime": 117366
+    },
+    {
+        "text": "Most people were confused and went back to the familiar desktop.",
+        "startTime": 78341,
+        "endTime": 81705,
+        "slowStartTime": 117662,
+        "slowEndTime": 122782
+    },
+    {
+        "text": "And what about Windows 9?",
+        "startTime": 82323,
+        "endTime": 83340,
+        "slowStartTime": 123635,
+        "slowEndTime": 125235
+    },
+    {
+        "text": "I don't know, what about it?",
+        "startTime": 83833,
+        "endTime": 85091,
+        "slowStartTime": 125899,
+        "slowEndTime": 127862
+    },
+    {
+        "text": "Today, we have Windows 10.",
+        "startTime": 85313,
+        "endTime": 86542,
+        "slowStartTime": 128119,
+        "slowEndTime": 130038
+    },
+    {
+        "text": "It takes us back to the familiar desktop and start menu.",
+        "startTime": 86681,
+        "endTime": 89704,
+        "slowStartTime": 130172,
+        "slowEndTime": 134781
+    },
+    {
+        "text": "And it's free.",
+        "startTime": 89877,
+        "endTime": 91078,
+        "slowStartTime": 134966,
+        "slowEndTime": 136842
+    },
+    {
+        "text": "This will also probably be the last time Microsoft puts a number on Windows.",
+        "startTime": 91449,
+        "endTime": 95495,
+        "slowStartTime": 137324,
+        "slowEndTime": 143468
+    },
+    {
+        "text": "Going forward, Windows will just be Windows.",
+        "startTime": 96027,
+        "endTime": 100130,
+        "slowStartTime": 144190,
+        "slowEndTime": 150420
+    }
+]

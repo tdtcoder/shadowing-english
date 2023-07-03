@@ -1,0 +1,149 @@
+[
+    {
+        "text": "How do I get to the Red Cafe?",
+        "startTime": 7498,
+        "endTime": 9215,
+        "slowStartTime": 11397,
+        "slowEndTime": 14047
+    },
+    {
+        "text": "The Red Cafe?",
+        "startTime": 9511,
+        "endTime": 10376,
+        "slowStartTime": 14416,
+        "slowEndTime": 15789
+    },
+    {
+        "text": "Let's see.",
+        "startTime": 11165,
+        "endTime": 11841,
+        "slowStartTime": 16898,
+        "slowEndTime": 17986
+    },
+    {
+        "text": "Go to the corner and turn left.",
+        "startTime": 13491,
+        "endTime": 15715,
+        "slowStartTime": 20386,
+        "slowEndTime": 23798
+    },
+    {
+        "text": "Left.",
+        "startTime": 15964,
+        "endTime": 16367,
+        "slowStartTime": 24096,
+        "slowEndTime": 24775
+    },
+    {
+        "text": "Go two blocks and turn right.",
+        "startTime": 16832,
+        "endTime": 19133,
+        "slowStartTime": 25398,
+        "slowEndTime": 28924
+    },
+    {
+        "text": "Right.",
+        "startTime": 19486,
+        "endTime": 20015,
+        "slowStartTime": 29379,
+        "slowEndTime": 30247
+    },
+    {
+        "text": "Around the corner is a train station.",
+        "startTime": 20643,
+        "endTime": 22881,
+        "slowStartTime": 31115,
+        "slowEndTime": 34546
+    },
+    {
+        "text": "Take the train.",
+        "startTime": 23397,
+        "endTime": 24045,
+        "slowStartTime": 35246,
+        "slowEndTime": 36293
+    },
+    {
+        "text": "Don't take the train.",
+        "startTime": 24318,
+        "endTime": 25375,
+        "slowStartTime": 36627,
+        "slowEndTime": 38287
+    },
+    {
+        "text": "Go through the station across the street to the bookstore.",
+        "startTime": 26091,
+        "endTime": 30410,
+        "slowStartTime": 39286,
+        "slowEndTime": 45840
+    },
+    {
+        "text": "Next to the bookstore is a pharmacy.",
+        "startTime": 31233,
+        "endTime": 33937,
+        "slowStartTime": 47000,
+        "slowEndTime": 51130
+    },
+    {
+        "text": "Next to the pharmacy is the Red Cafe.",
+        "startTime": 34300,
+        "endTime": 36944,
+        "slowStartTime": 51600,
+        "slowEndTime": 55641
+    },
+    {
+        "text": "Yes.",
+        "startTime": 37115,
+        "endTime": 37537,
+        "slowStartTime": 55822,
+        "slowEndTime": 56531
+    },
+    {
+        "text": "Got it?",
+        "startTime": 38197,
+        "endTime": 38535,
+        "slowStartTime": 57446,
+        "slowEndTime": 58027
+    },
+    {
+        "text": "Let's do it again.",
+        "startTime": 40493,
+        "endTime": 41433,
+        "slowStartTime": 60890,
+        "slowEndTime": 62374
+    },
+    {
+        "text": "Corner left, two blocks, right.",
+        "startTime": 43027,
+        "endTime": 47517,
+        "slowStartTime": 64690,
+        "slowEndTime": 71501
+    },
+    {
+        "text": "Around the corner, don't take the train, through the station, across the street.",
+        "startTime": 48263,
+        "endTime": 53623,
+        "slowStartTime": 72544,
+        "slowEndTime": 80659
+    },
+    {
+        "text": "Bookstore, pharmacy, Red Cafe.",
+        "startTime": 53978,
+        "endTime": 57475,
+        "slowStartTime": 81117,
+        "slowEndTime": 86437
+    },
+    {
+        "text": "Thank you very much.",
+        "startTime": 57877,
+        "endTime": 58792,
+        "slowStartTime": 86965,
+        "slowEndTime": 88413
+    },
+    {
+        "text": "You're very welcome.",
+        "startTime": 58892,
+        "endTime": 59741,
+        "slowStartTime": 88488,
+        "slowEndTime": 89837
+    }
+]

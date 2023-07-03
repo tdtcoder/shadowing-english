@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Good morning.",
+        "startTime": 489,
+        "endTime": 1245,
+        "slowStartTime": 883,
+        "slowEndTime": 2092
+    },
+    {
+        "text": "Good morning!",
+        "startTime": 1959,
+        "endTime": 2735,
+        "slowStartTime": 3088,
+        "slowEndTime": 4328
+    },
+    {
+        "text": "Can I help you?",
+        "startTime": 3019,
+        "endTime": 3768,
+        "slowStartTime": 4678,
+        "slowEndTime": 5877
+    },
+    {
+        "text": "Yes, please.",
+        "startTime": 4459,
+        "endTime": 5428,
+        "slowStartTime": 6839,
+        "slowEndTime": 8367
+    },
+    {
+        "text": "I'm looking for some pants.",
+        "startTime": 5709,
+        "endTime": 7329,
+        "slowStartTime": 8714,
+        "slowEndTime": 11218
+    },
+    {
+        "text": "Pants?",
+        "startTime": 7852,
+        "endTime": 8379,
+        "slowStartTime": 11928,
+        "slowEndTime": 12794
+    },
+    {
+        "text": "Okay.",
+        "startTime": 8736,
+        "endTime": 9262,
+        "slowStartTime": 13254,
+        "slowEndTime": 14118
+    },
+    {
+        "text": "What color are you looking for?",
+        "startTime": 9619,
+        "endTime": 11007,
+        "slowStartTime": 14579,
+        "slowEndTime": 16736
+    },
+    {
+        "text": "Brown.",
+        "startTime": 11578,
+        "endTime": 12193,
+        "slowStartTime": 17517,
+        "slowEndTime": 18515
+    },
+    {
+        "text": "I'm looking for some brown pants.",
+        "startTime": 12622,
+        "endTime": 14471,
+        "slowStartTime": 19083,
+        "slowEndTime": 21931
+    },
+    {
+        "text": "Brown.",
+        "startTime": 15384,
+        "endTime": 15889,
+        "slowStartTime": 23226,
+        "slowEndTime": 24058
+    },
+    {
+        "text": "Okay.",
+        "startTime": 16068,
+        "endTime": 16583,
+        "slowStartTime": 24252,
+        "slowEndTime": 25099
+    },
+    {
+        "text": "And what size are you looking for?",
+        "startTime": 17127,
+        "endTime": 18797,
+        "slowStartTime": 25840,
+        "slowEndTime": 28421
+    },
+    {
+        "text": "Large.",
+        "startTime": 19965,
+        "endTime": 20632,
+        "slowStartTime": 30097,
+        "slowEndTime": 31173
+    },
+    {
+        "text": "I'm looking for large.",
+        "startTime": 21049,
+        "endTime": 22425,
+        "slowStartTime": 31724,
+        "slowEndTime": 33863
+    },
+    {
+        "text": "Large.",
+        "startTime": 23077,
+        "endTime": 23825,
+        "slowStartTime": 34766,
+        "slowEndTime": 35963
+    },
+    {
+        "text": "All right.",
+        "startTime": 24068,
+        "endTime": 24636,
+        "slowStartTime": 36252,
+        "slowEndTime": 37179
+    },
+    {
+        "text": "Some brown pants and large.",
+        "startTime": 29408,
+        "endTime": 31253,
+        "slowStartTime": 44262,
+        "slowEndTime": 47104
+    },
+    {
+        "text": "Here you are.",
+        "startTime": 31415,
+        "endTime": 32023,
+        "slowStartTime": 47272,
+        "slowEndTime": 48260
+    },
+    {
+        "text": "Oh, they're nice.",
+        "startTime": 32229,
+        "endTime": 34556,
+        "slowStartTime": 48494,
+        "slowEndTime": 52059
+    },
+    {
+        "text": "Thanks.",
+        "startTime": 35233,
+        "endTime": 35925,
+        "slowStartTime": 52999,
+        "slowEndTime": 54113
+    }
+]

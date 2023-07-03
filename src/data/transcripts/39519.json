@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Bye!",
+        "startTime": 780,
+        "endTime": 1472,
+        "slowStartTime": 1320,
+        "slowEndTime": 2433
+    },
+    {
+        "text": "Bye for now!",
+        "startTime": 2511,
+        "endTime": 3620,
+        "slowStartTime": 3916,
+        "slowEndTime": 5655
+    },
+    {
+        "text": "Bye-bye!",
+        "startTime": 4741,
+        "endTime": 5668,
+        "slowStartTime": 7261,
+        "slowEndTime": 8727
+    },
+    {
+        "text": "See you around!",
+        "startTime": 6469,
+        "endTime": 7639,
+        "slowStartTime": 9853,
+        "slowEndTime": 11683
+    },
+    {
+        "text": "Farewell!",
+        "startTime": 8571,
+        "endTime": 9548,
+        "slowStartTime": 13006,
+        "slowEndTime": 14547
+    },
+    {
+        "text": "See you again!",
+        "startTime": 10637,
+        "endTime": 11613,
+        "slowStartTime": 16106,
+        "slowEndTime": 17644
+    }
+]

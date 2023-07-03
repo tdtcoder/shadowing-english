@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Hey, you made it!",
+        "startTime": 3431,
+        "endTime": 4744,
+        "slowStartTime": 5297,
+        "slowEndTime": 7341
+    },
+    {
+        "text": "Great to see you again!",
+        "startTime": 4865,
+        "endTime": 6221,
+        "slowStartTime": 7447,
+        "slowEndTime": 9557
+    },
+    {
+        "text": "Great seeing you, too.",
+        "startTime": 6431,
+        "endTime": 7721,
+        "slowStartTime": 9797,
+        "slowEndTime": 11806
+    },
+    {
+        "text": "Man, was that a long flight!",
+        "startTime": 8015,
+        "endTime": 9621,
+        "slowStartTime": 12172,
+        "slowEndTime": 14656
+    },
+    {
+        "text": "I'm sure it was.",
+        "startTime": 9873,
+        "endTime": 11063,
+        "slowStartTime": 14960,
+        "slowEndTime": 16820
+    },
+    {
+        "text": "How long did it take to get here?",
+        "startTime": 11298,
+        "endTime": 13021,
+        "slowStartTime": 17097,
+        "slowEndTime": 19756
+    },
+    {
+        "text": "Twelve hours, including the layover.",
+        "startTime": 13182,
+        "endTime": 15057,
+        "slowStartTime": 19923,
+        "slowEndTime": 22811
+    },
+    {
+        "text": "Yup, that's a long day of travel.",
+        "startTime": 15273,
+        "endTime": 17471,
+        "slowStartTime": 23060,
+        "slowEndTime": 26432
+    },
+    {
+        "text": "How long was the layover?",
+        "startTime": 17786,
+        "endTime": 19251,
+        "slowStartTime": 26829,
+        "slowEndTime": 29101
+    },
+    {
+        "text": "I had to wait for over two hours for my connecting flight.",
+        "startTime": 19463,
+        "endTime": 22838,
+        "slowStartTime": 29344,
+        "slowEndTime": 34482
+    },
+    {
+        "text": "Well, you must be exhausted.",
+        "startTime": 23115,
+        "endTime": 25055,
+        "slowStartTime": 34822,
+        "slowEndTime": 37808
+    },
+    {
+        "text": "Let me give you a hand with your bags.",
+        "startTime": 25367,
+        "endTime": 27278,
+        "slowStartTime": 38200,
+        "slowEndTime": 41142
+    },
+    {
+        "text": "Thanks very much, I really appreciate it.",
+        "startTime": 27442,
+        "endTime": 29673,
+        "slowStartTime": 41313,
+        "slowEndTime": 44734
+    },
+    {
+        "text": "It's been a while since your last visit here, hasn't it?",
+        "startTime": 30089,
+        "endTime": 32907,
+        "slowStartTime": 45283,
+        "slowEndTime": 49586
+    },
+    {
+        "text": "Yes, it has.",
+        "startTime": 33201,
+        "endTime": 33997,
+        "slowStartTime": 49951,
+        "slowEndTime": 51221
+    },
+    {
+        "text": "I think it was almost two years ago.",
+        "startTime": 34267,
+        "endTime": 36185,
+        "slowStartTime": 51550,
+        "slowEndTime": 54503
+    },
+    {
+        "text": "Yes, that sounds about right.",
+        "startTime": 36477,
+        "endTime": 38253,
+        "slowStartTime": 54866,
+        "slowEndTime": 57605
+    },
+    {
+        "text": "Well, it's great to have you back here again.",
+        "startTime": 38498,
+        "endTime": 41187,
+        "slowStartTime": 57897,
+        "slowEndTime": 62005
+    },
+    {
+        "text": "Thank you!",
+        "startTime": 41324,
+        "endTime": 41773,
+        "slowStartTime": 62136,
+        "slowEndTime": 62885
+    },
+    {
+        "text": "It's great to be back.",
+        "startTime": 41891,
+        "endTime": 43019,
+        "slowStartTime": 62987,
+        "slowEndTime": 64754
+    }
+]

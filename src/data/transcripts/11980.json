@@ -1,0 +1,44 @@
+[
+    {
+        "text": "President Barack Obama announces economic proposals for Egypt and Tunisia to show support for democratic reforms.",
+        "startTime": 5620,
+        "endTime": 14160,
+        "slowStartTime": 8580,
+        "slowEndTime": 21460
+    },
+    {
+        "text": "Bombings targeting Iraqi police officers kill at least 25 in the northern city of Kirkuk.",
+        "startTime": 16020,
+        "endTime": 22860,
+        "slowStartTime": 24180,
+        "slowEndTime": 34520
+    },
+    {
+        "text": "Dominique Strauss-Kahn resigns as chief of the International Monetary Fund amid sexual assault allegations.",
+        "startTime": 25570,
+        "endTime": 33310,
+        "slowStartTime": 38510,
+        "slowEndTime": 50190
+    },
+    {
+        "text": "Osama bin Laden praises Mideast uprisings in a posthumous audio release.",
+        "startTime": 36410,
+        "endTime": 42070,
+        "slowStartTime": 54760,
+        "slowEndTime": 63330
+    },
+    {
+        "text": "The political crisis in Yemen continues as the head of the Gulf Cooperation Council fails to get an agreement.",
+        "startTime": 44230,
+        "endTime": 51620,
+        "slowStartTime": 66500,
+        "slowEndTime": 77650
+    },
+    {
+        "text": "Thousands of demonstrators in Thailand mark the first anniversary of the deadly military crackdown.",
+        "startTime": 54230,
+        "endTime": 60630,
+        "slowStartTime": 81490,
+        "slowEndTime": 91170
+    }
+]

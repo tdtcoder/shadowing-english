@@ -1,0 +1,107 @@
+[
+    {
+        "text": "In the US, Acting Secretary of Defense Pat Shanahan...",
+        "startTime": 3293,
+        "endTime": 7647,
+        "slowStartTime": 5090,
+        "slowEndTime": 11695
+    },
+    {
+        "text": "...said steps taken to bolster the US military presence in the Middle East...",
+        "startTime": 8215,
+        "endTime": 12538,
+        "slowStartTime": 12473,
+        "slowEndTime": 19032
+    },
+    {
+        "text": "...have deterred Iran and \"put on hold the potential for attacks on Americans,\"...",
+        "startTime": 13030,
+        "endTime": 18123,
+        "slowStartTime": 19695,
+        "slowEndTime": 27410
+    },
+    {
+        "text": "...even as Iran carried out other attacks.",
+        "startTime": 18698,
+        "endTime": 21350,
+        "slowStartTime": 28197,
+        "slowEndTime": 32250
+    },
+    {
+        "text": "In New Zealand, authorities are filing terrorism charges against the self-avowed white supremacist...",
+        "startTime": 23414,
+        "endTime": 29687,
+        "slowStartTime": 35271,
+        "slowEndTime": 44756
+    },
+    {
+        "text": "...who killed 51 worshippers at two Christchurch mosques in March.",
+        "startTime": 30246,
+        "endTime": 35316,
+        "slowStartTime": 45519,
+        "slowEndTime": 53199
+    },
+    {
+        "text": "In Malawi, President Peter Mutharika is seeking a second term,...",
+        "startTime": 36505,
+        "endTime": 41549,
+        "slowStartTime": 54907,
+        "slowEndTime": 62548
+    },
+    {
+        "text": "...as voters in the southern African nation cast ballots in Tuesday's general election.",
+        "startTime": 42039,
+        "endTime": 47971,
+        "slowStartTime": 63208,
+        "slowEndTime": 72182
+    },
+    {
+        "text": "In Indonesia, President Joko Widodo is officially declared...",
+        "startTime": 51517,
+        "endTime": 56104,
+        "slowStartTime": 77425,
+        "slowEndTime": 84381
+    },
+    {
+        "text": "...the winner of last month's presidential election...",
+        "startTime": 56193,
+        "endTime": 59585,
+        "slowStartTime": 84440,
+        "slowEndTime": 89603
+    },
+    {
+        "text": "...that international observers say was free and fair.",
+        "startTime": 60043,
+        "endTime": 63713,
+        "slowStartTime": 90215,
+        "slowEndTime": 95794
+    },
+    {
+        "text": "Finally in Britain, Prime Minister Theresa May...",
+        "startTime": 65829,
+        "endTime": 69221,
+        "slowStartTime": 98893,
+        "slowEndTime": 104057
+    },
+    {
+        "text": "...set out to secure a \"new deal\" for Britain's departure from the European Union,...",
+        "startTime": 69693,
+        "endTime": 74162,
+        "slowStartTime": 104690,
+        "slowEndTime": 111468
+    },
+    {
+        "text": "...offering sweeteners to opposition parties...",
+        "startTime": 74735,
+        "endTime": 77535,
+        "slowStartTime": 112253,
+        "slowEndTime": 116528
+    },
+    {
+        "text": "...in her fourth attempt to break an impasse in parliament over Brexit.",
+        "startTime": 77687,
+        "endTime": 82089,
+        "slowStartTime": 116681,
+        "slowEndTime": 123358
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Uh-oh. Guess what day it is?",
+        "startTime": 168,
+        "endTime": 2928,
+        "slowStartTime": 402,
+        "slowEndTime": 4617
+    },
+    {
+        "text": "Guess what day it is?",
+        "startTime": 3146,
+        "endTime": 5069,
+        "slowStartTime": 4869,
+        "slowEndTime": 7828
+    },
+    {
+        "text": "Anybody?",
+        "startTime": 6073,
+        "endTime": 6653,
+        "slowStartTime": 9259,
+        "slowEndTime": 10205
+    },
+    {
+        "text": "Julie, hey. Guess what day it is?",
+        "startTime": 7023,
+        "endTime": 8873,
+        "slowStartTime": 10685,
+        "slowEndTime": 13535
+    },
+    {
+        "text": "Come on, I know you can hear me.",
+        "startTime": 9380,
+        "endTime": 10695,
+        "slowStartTime": 14220,
+        "slowEndTime": 16268
+    },
+    {
+        "text": "Mike. What day is it, Mike?",
+        "startTime": 11033,
+        "endTime": 12845,
+        "slowStartTime": 16700,
+        "slowEndTime": 19493
+    },
+    {
+        "text": "Leslie, guess what today is?",
+        "startTime": 14403,
+        "endTime": 15732,
+        "slowStartTime": 21754,
+        "slowEndTime": 23823
+    },
+    {
+        "text": "It's hump day.",
+        "startTime": 17029,
+        "endTime": 17761,
+        "slowStartTime": 25693,
+        "slowEndTime": 26866
+    },
+    {
+        "text": "Bonnie, how happy are folks  who save hundreds of dollars switching to GEICO?",
+        "startTime": 19360,
+        "endTime": 22149,
+        "slowStartTime": 29190,
+        "slowEndTime": 33448
+    },
+    {
+        "text": "I'd say happier than a camel on Wednesday.",
+        "startTime": 23073,
+        "endTime": 24931,
+        "slowStartTime": 34760,
+        "slowEndTime": 37621
+    },
+    {
+        "text": "Hump day!",
+        "startTime": 25042,
+        "endTime": 26085,
+        "slowStartTime": 37713,
+        "slowEndTime": 39353
+    },
+    {
+        "text": "Get happy, get GEICO.",
+        "startTime": 26139,
+        "endTime": 27465,
+        "slowStartTime": 39358,
+        "slowEndTime": 41423
+    },
+    {
+        "text": "15 minutes could save you 15 percent or more.",
+        "startTime": 27582,
+        "endTime": 29920,
+        "slowStartTime": 41523,
+        "slowEndTime": 45105
+    }
+]

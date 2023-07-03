@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Come on, come on, turn the radio on, it's Friday night and it won't be long.",
+        "startTime": 5605,
+        "endTime": 11589,
+        "slowStartTime": 8558,
+        "slowEndTime": 17609
+    },
+    {
+        "text": "Gotta do my hair, put my makeup on, it's Friday night and it won't be long...",
+        "startTime": 11716,
+        "endTime": 17391,
+        "slowStartTime": 17724,
+        "slowEndTime": 26311
+    },
+    {
+        "text": "...'til I hit the dance floor, hit the dance floor, I got all I need.",
+        "startTime": 17481,
+        "endTime": 23013,
+        "slowStartTime": 26372,
+        "slowEndTime": 34745
+    },
+    {
+        "text": "No, I ain't got cash, I ain't got cash but I got you, baby.",
+        "startTime": 23435,
+        "endTime": 28878,
+        "slowStartTime": 35303,
+        "slowEndTime": 43542
+    },
+    {
+        "text": "Baby, I don't need dollar bills to have fun tonight.",
+        "startTime": 29203,
+        "endTime": 33899,
+        "slowStartTime": 43954,
+        "slowEndTime": 51073
+    },
+    {
+        "text": "I don't need no money as long as I can feel the beat.",
+        "startTime": 40981,
+        "endTime": 52515,
+        "slowStartTime": 61622,
+        "slowEndTime": 78998
+    },
+    {
+        "text": "I don't need no money as long as I keep dancing.",
+        "startTime": 52712,
+        "endTime": 63611,
+        "slowStartTime": 79218,
+        "slowEndTime": 95641
+    }
+]

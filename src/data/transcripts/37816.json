@@ -1,0 +1,205 @@
+[
+    {
+        "text": "A lot of human activities generate greenhouse gases.",
+        "startTime": 50,
+        "endTime": 2980,
+        "slowStartTime": 190,
+        "slowEndTime": 4695
+    },
+    {
+        "text": "Generating electricity, transportation, growing food, heating buildings,...",
+        "startTime": 3159,
+        "endTime": 8279,
+        "slowStartTime": 4889,
+        "slowEndTime": 12644
+    },
+    {
+        "text": "...and making materials like steel and cement.",
+        "startTime": 8508,
+        "endTime": 10937,
+        "slowStartTime": 12912,
+        "slowEndTime": 16631
+    },
+    {
+        "text": "If our goal was simply to emit 10 percent less greenhouse gas,...",
+        "startTime": 11143,
+        "endTime": 15141,
+        "slowStartTime": 16864,
+        "slowEndTime": 22937
+    },
+    {
+        "text": "...you can imagine trying to limit those activities.",
+        "startTime": 15425,
+        "endTime": 18522,
+        "slowStartTime": 23288,
+        "slowEndTime": 28008
+    },
+    {
+        "text": "But because we need to get to zero emissions by 2050,...",
+        "startTime": 18691,
+        "endTime": 22417,
+        "slowStartTime": 28186,
+        "slowEndTime": 33851
+    },
+    {
+        "text": "...we have to come up with an alternate way...",
+        "startTime": 22665,
+        "endTime": 25076,
+        "slowStartTime": 34147,
+        "slowEndTime": 37839
+    },
+    {
+        "text": "...which isn't too much more expensive to perform those same activities...",
+        "startTime": 25521,
+        "endTime": 29967,
+        "slowStartTime": 38431,
+        "slowEndTime": 45175
+    },
+    {
+        "text": "...without emitting any greenhouse gases.",
+        "startTime": 30123,
+        "endTime": 33479,
+        "slowStartTime": 45334,
+        "slowEndTime": 50443
+    },
+    {
+        "text": "We can compare the cost per unit of the current way of doing it...",
+        "startTime": 33649,
+        "endTime": 37057,
+        "slowStartTime": 50623,
+        "slowEndTime": 55810
+    },
+    {
+        "text": "...to the approach that creates no emissions.",
+        "startTime": 37189,
+        "endTime": 39833,
+        "slowStartTime": 55934,
+        "slowEndTime": 59975
+    },
+    {
+        "text": "So, the actual extra cost, which we call the \"green premium,\"",
+        "startTime": 40025,
+        "endTime": 44315,
+        "slowStartTime": 60188,
+        "slowEndTime": 66697
+    },
+    {
+        "text": "...for things like green jet fuel, is very high.",
+        "startTime": 44460,
+        "endTime": 47785,
+        "slowStartTime": 66840,
+        "slowEndTime": 71902
+    },
+    {
+        "text": "Jet fuel is a good example because there's a significant premium.",
+        "startTime": 48119,
+        "endTime": 52311,
+        "slowStartTime": 72329,
+        "slowEndTime": 78691
+    },
+    {
+        "text": "In the United States, a gallon of jet fuel averages about two dollars and twenty cents.",
+        "startTime": 52708,
+        "endTime": 58200,
+        "slowStartTime": 79212,
+        "slowEndTime": 87525
+    },
+    {
+        "text": "One way to go green is instead of taking that oil out of the ground...",
+        "startTime": 58549,
+        "endTime": 63236,
+        "slowStartTime": 87974,
+        "slowEndTime": 95079
+    },
+    {
+        "text": "...that has carbon from millions of years ago coming up into the atmosphere...",
+        "startTime": 63502,
+        "endTime": 67322,
+        "slowStartTime": 95403,
+        "slowEndTime": 101208
+    },
+    {
+        "text": "...we can take the oil by generating it from plant material or biowaste or even algae.",
+        "startTime": 67496,
+        "endTime": 73947,
+        "slowStartTime": 101394,
+        "slowEndTime": 111146
+    },
+    {
+        "text": "Biofuels cost five dollars and thirty-five cents per gallon.",
+        "startTime": 74389,
+        "endTime": 78549,
+        "slowStartTime": 111733,
+        "slowEndTime": 118048
+    },
+    {
+        "text": "So, that's quite a premium, 5.35 versus 2.20, so three dollars and fifteen cents premium.",
+        "startTime": 78790,
+        "endTime": 84777,
+        "slowStartTime": 118335,
+        "slowEndTime": 127391
+    },
+    {
+        "text": "More than double the typical price.",
+        "startTime": 84981,
+        "endTime": 87253,
+        "slowStartTime": 127621,
+        "slowEndTime": 131104
+    },
+    {
+        "text": "The green premium is a tool...",
+        "startTime": 87995,
+        "endTime": 89677,
+        "slowStartTime": 132142,
+        "slowEndTime": 134741
+    },
+    {
+        "text": "...that gives us a way of looking at how far away we are from making it easy...",
+        "startTime": 89917,
+        "endTime": 95409,
+        "slowStartTime": 135026,
+        "slowEndTime": 143339
+    },
+    {
+        "text": "...and where this green premium is the highest.",
+        "startTime": 95757,
+        "endTime": 97972,
+        "slowStartTime": 143785,
+        "slowEndTime": 147183
+    },
+    {
+        "text": "That's where we need to put resources behind solving that particular area.",
+        "startTime": 98169,
+        "endTime": 102316,
+        "slowStartTime": 147403,
+        "slowEndTime": 153699
+    },
+    {
+        "text": "We need a lot of research and development and a lot of innovative companies...",
+        "startTime": 102663,
+        "endTime": 106689,
+        "slowStartTime": 154144,
+        "slowEndTime": 160258
+    },
+    {
+        "text": "...to help us get the green premium down.",
+        "startTime": 106846,
+        "endTime": 108779,
+        "slowStartTime": 160419,
+        "slowEndTime": 163394
+    },
+    {
+        "text": "And if you can get it down close to zero,...",
+        "startTime": 108871,
+        "endTime": 111059,
+        "slowStartTime": 163457,
+        "slowEndTime": 166814
+    },
+    {
+        "text": "...yes, that will get us to this 2050 goal of zero emissions.",
+        "startTime": 111240,
+        "endTime": 116453,
+        "slowStartTime": 167010,
+        "slowEndTime": 174905
+    }
+]

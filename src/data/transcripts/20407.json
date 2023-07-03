@@ -1,0 +1,100 @@
+[
+    {
+        "text": "As many restaurants play the hospitality angle, it's important to remember that at large,...",
+        "startTime": 2384,
+        "endTime": 7259,
+        "slowStartTime": 3726,
+        "slowEndTime": 11113
+    },
+    {
+        "text": "...their business is designed to get you to order as much food and drink as possible...",
+        "startTime": 7420,
+        "endTime": 11481,
+        "slowStartTime": 11280,
+        "slowEndTime": 17446
+    },
+    {
+        "text": "...and then, of course, get you to leave quickly so they can seat the table again.",
+        "startTime": 11743,
+        "endTime": 15446,
+        "slowStartTime": 17765,
+        "slowEndTime": 23394
+    },
+    {
+        "text": "As the host guides you to a tiny table located two inches away from another party,...",
+        "startTime": 15763,
+        "endTime": 20284,
+        "slowStartTime": 23795,
+        "slowEndTime": 30651
+    },
+    {
+        "text": "...do you wonder why anybody would ever put tables that close together?",
+        "startTime": 20713,
+        "endTime": 24363,
+        "slowStartTime": 31220,
+        "slowEndTime": 36770
+    },
+    {
+        "text": "There's a very good reason for the uncomfortable proximity: to make you uncomfortable.",
+        "startTime": 24833,
+        "endTime": 29191,
+        "slowStartTime": 37399,
+        "slowEndTime": 44011
+    },
+    {
+        "text": "Diners who don't feel relaxed don't stick around.",
+        "startTime": 29755,
+        "endTime": 32317,
+        "slowStartTime": 44782,
+        "slowEndTime": 48701
+    },
+    {
+        "text": "More table turns equals more profits.",
+        "startTime": 32663,
+        "endTime": 35120,
+        "slowStartTime": 49144,
+        "slowEndTime": 52905
+    },
+    {
+        "text": "Sure, being offered a drink when you sit down is just plain polite.",
+        "startTime": 35615,
+        "endTime": 38959,
+        "slowStartTime": 53572,
+        "slowEndTime": 58664
+    },
+    {
+        "text": "It's also a way to get you to order more.",
+        "startTime": 39211,
+        "endTime": 41570,
+        "slowStartTime": 58967,
+        "slowEndTime": 62580
+    },
+    {
+        "text": "Alcohol stimulates the appetite.",
+        "startTime": 42013,
+        "endTime": 44037,
+        "slowStartTime": 63170,
+        "slowEndTime": 66280
+    },
+    {
+        "text": "When you do open the menu, your eye is likely to gravitate towards the items on the right.",
+        "startTime": 44489,
+        "endTime": 49203,
+        "slowStartTime": 66884,
+        "slowEndTime": 74030
+    },
+    {
+        "text": "That's probably where the most expensive ones are, too.",
+        "startTime": 49427,
+        "endTime": 51955,
+        "slowStartTime": 74290,
+        "slowEndTime": 78157
+    },
+    {
+        "text": "Boxes and shaded areas serve to call attention to extras.",
+        "startTime": 52357,
+        "endTime": 55763,
+        "slowStartTime": 78686,
+        "slowEndTime": 83870
+    }
+]

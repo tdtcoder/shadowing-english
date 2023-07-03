@@ -1,0 +1,30 @@
+[
+    {
+        "text": "What's your favorite Youtube video that isn't yours?",
+        "startTime": 170,
+        "endTime": 2470,
+        "slowStartTime": 410,
+        "slowEndTime": 3930
+    },
+    {
+        "text": "My favorite YouTube video that,...",
+        "startTime": 3640,
+        "endTime": 5210,
+        "slowStartTime": 5610,
+        "slowEndTime": 8040
+    },
+    {
+        "text": "...it's so embarrassing, but I love it so much!",
+        "startTime": 8100,
+        "endTime": 10640,
+        "slowStartTime": 12300,
+        "slowEndTime": 16190
+    },
+    {
+        "text": "I love the boy that, when he comes home from the dentist?",
+        "startTime": 10850,
+        "endTime": 15120,
+        "slowStartTime": 16430,
+        "slowEndTime": 22910
+    }
+]

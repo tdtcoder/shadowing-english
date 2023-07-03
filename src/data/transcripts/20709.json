@@ -1,0 +1,317 @@
+[
+    {
+        "text": "In 2009, the country of Samoa prohibited the sale of alcohol for three days...",
+        "startTime": 1337,
+        "endTime": 5646,
+        "slowStartTime": 2156,
+        "slowEndTime": 8694
+    },
+    {
+        "text": "...to keep people safe while the island nation...",
+        "startTime": 5899,
+        "endTime": 7738,
+        "slowStartTime": 8999,
+        "slowEndTime": 11832
+    },
+    {
+        "text": "...switched from driving on the right side of the road...",
+        "startTime": 7819,
+        "endTime": 9671,
+        "slowStartTime": 11879,
+        "slowEndTime": 14731
+    },
+    {
+        "text": "...to driving on the left.",
+        "startTime": 9868,
+        "endTime": 10854,
+        "slowStartTime": 14952,
+        "slowEndTime": 16506
+    },
+    {
+        "text": "The switch was so Samoans could get cheap hand-me-down cars...",
+        "startTime": 11112,
+        "endTime": 14001,
+        "slowStartTime": 16818,
+        "slowEndTime": 21227
+    },
+    {
+        "text": "...from nearby left-side driving New Zealand and Australia.",
+        "startTime": 14137,
+        "endTime": 16656,
+        "slowStartTime": 21356,
+        "slowEndTime": 25209
+    },
+    {
+        "text": "But Samoans weren't too pleased...",
+        "startTime": 16869,
+        "endTime": 18337,
+        "slowStartTime": 25453,
+        "slowEndTime": 27731
+    },
+    {
+        "text": "...since most of the cars they owned were designed to drive on the right.",
+        "startTime": 18490,
+        "endTime": 21252,
+        "slowStartTime": 27885,
+        "slowEndTime": 32103
+    },
+    {
+        "text": "In fact, two out of three Earthlings drive on the right.",
+        "startTime": 21448,
+        "endTime": 24585,
+        "slowStartTime": 32322,
+        "slowEndTime": 37102
+    },
+    {
+        "text": "But why?",
+        "startTime": 24778,
+        "endTime": 25484,
+        "slowStartTime": 37317,
+        "slowEndTime": 38451
+    },
+    {
+        "text": "There aren't clear and obvious reasons to choose one side over the other.",
+        "startTime": 25765,
+        "endTime": 28840,
+        "slowStartTime": 38798,
+        "slowEndTime": 43485
+    },
+    {
+        "text": "So the origin of driving conventions is a perfect opportunity...",
+        "startTime": 29035,
+        "endTime": 31893,
+        "slowStartTime": 43703,
+        "slowEndTime": 48064
+    },
+    {
+        "text": "...for the mathematics of game theory and symmetry breaking.",
+        "startTime": 31995,
+        "endTime": 34235,
+        "slowStartTime": 48143,
+        "slowEndTime": 51577
+    },
+    {
+        "text": "Or we can just look at historical evidence.",
+        "startTime": 34377,
+        "endTime": 36045,
+        "slowStartTime": 51716,
+        "slowEndTime": 54293
+    },
+    {
+        "text": "Today's rules evolved from driving livestock and carts on the earliest roads.",
+        "startTime": 36289,
+        "endTime": 40542,
+        "slowStartTime": 54584,
+        "slowEndTime": 61038
+    },
+    {
+        "text": "Archaeologists view deeper grooves on the left lane...",
+        "startTime": 40755,
+        "endTime": 43435,
+        "slowStartTime": 61282,
+        "slowEndTime": 65378
+    },
+    {
+        "text": "...leaving an ancient Roman quarry in England...",
+        "startTime": 43515,
+        "endTime": 45223,
+        "slowStartTime": 65423,
+        "slowEndTime": 68060
+    },
+    {
+        "text": "...as evidence for left-side traffic, since departing wagons would've had heavier loads.",
+        "startTime": 45313,
+        "endTime": 49127,
+        "slowStartTime": 68120,
+        "slowEndTime": 73916
+    },
+    {
+        "text": "And it's possible that this left side convention was in place...",
+        "startTime": 49535,
+        "endTime": 52328,
+        "slowStartTime": 74453,
+        "slowEndTime": 78717
+    },
+    {
+        "text": "...so right-handed soldiers and knights could draw their weapons....",
+        "startTime": 52406,
+        "endTime": 54922,
+        "slowStartTime": 78759,
+        "slowEndTime": 82608
+    },
+    {
+        "text": "...more quickly against passing enemies.",
+        "startTime": 55007,
+        "endTime": 56625,
+        "slowStartTime": 82660,
+        "slowEndTime": 85162
+    },
+    {
+        "text": "Whatever the reason, keeping to the left was eventually made into law in England in 1835.",
+        "startTime": 56992,
+        "endTime": 61111,
+        "slowStartTime": 85638,
+        "slowEndTime": 91891
+    },
+    {
+        "text": "And today, most people who drive on the left side live in countries...",
+        "startTime": 61329,
+        "endTime": 64189,
+        "slowStartTime": 92143,
+        "slowEndTime": 96509
+    },
+    {
+        "text": "...like India, South Africa and Australia, which were once British colonies.",
+        "startTime": 64269,
+        "endTime": 67540,
+        "slowStartTime": 96554,
+        "slowEndTime": 101535
+    },
+    {
+        "text": "But that doesn't explain why the rest of the world drives on the right.",
+        "startTime": 67815,
+        "endTime": 70756,
+        "slowStartTime": 101872,
+        "slowEndTime": 106359
+    },
+    {
+        "text": "Some claim that following the French Revolution,...",
+        "startTime": 70917,
+        "endTime": 73030,
+        "slowStartTime": 106525,
+        "slowEndTime": 109770
+    },
+    {
+        "text": "...drivers there switched to the right to reject the practices of their overthrown aristocracy,...",
+        "startTime": 73165,
+        "endTime": 77510,
+        "slowStartTime": 109897,
+        "slowEndTime": 116490
+    },
+    {
+        "text": "...while others suggest the French drove on the right all along.",
+        "startTime": 77648,
+        "endTime": 80616,
+        "slowStartTime": 116622,
+        "slowEndTime": 121149
+    },
+    {
+        "text": "Regardless, driving on the right side of the road did spread across much of Europe...",
+        "startTime": 80829,
+        "endTime": 84502,
+        "slowStartTime": 121394,
+        "slowEndTime": 126978
+    },
+    {
+        "text": "...when Napoleon and later Hitler...",
+        "startTime": 84621,
+        "endTime": 86053,
+        "slowStartTime": 127082,
+        "slowEndTime": 129304
+    },
+    {
+        "text": "...imposed their national driving rules on conquered territory.",
+        "startTime": 86155,
+        "endTime": 89332,
+        "slowStartTime": 129382,
+        "slowEndTime": 134223
+    },
+    {
+        "text": "Other countries voluntarily switched to the right...",
+        "startTime": 89517,
+        "endTime": 91528,
+        "slowStartTime": 134425,
+        "slowEndTime": 137517
+    },
+    {
+        "text": "...to align with their neighbors, like Sweden in 1967,...",
+        "startTime": 91750,
+        "endTime": 94252,
+        "slowStartTime": 137775,
+        "slowEndTime": 141603
+    },
+    {
+        "text": "...or to veer away from their colonial pasts, like Nigeria and Ghana in the 1970s.",
+        "startTime": 94533,
+        "endTime": 98557,
+        "slowStartTime": 141950,
+        "slowEndTime": 148060
+    },
+    {
+        "text": "And in the US?",
+        "startTime": 98927,
+        "endTime": 99891,
+        "slowStartTime": 148541,
+        "slowEndTime": 150062
+    },
+    {
+        "text": "Well, America owes its right-sided habit in part...",
+        "startTime": 100247,
+        "endTime": 102852,
+        "slowStartTime": 150521,
+        "slowEndTime": 154503
+    },
+    {
+        "text": "...to the carts and postilion wagons of its early days.",
+        "startTime": 102953,
+        "endTime": 105343,
+        "slowStartTime": 154580,
+        "slowEndTime": 158240
+    },
+    {
+        "text": "Driving either from the ground or from horseback,...",
+        "startTime": 105642,
+        "endTime": 107573,
+        "slowStartTime": 158613,
+        "slowEndTime": 161585
+    },
+    {
+        "text": "...right-handed men preferred to walk or ride on the left side of the horses...",
+        "startTime": 107824,
+        "endTime": 110949,
+        "slowStartTime": 161886,
+        "slowEndTime": 166648
+    },
+    {
+        "text": "...so they could control the animals with their right hand.",
+        "startTime": 111013,
+        "endTime": 113082,
+        "slowStartTime": 166670,
+        "slowEndTime": 169848
+    },
+    {
+        "text": "As a result, they drove their wagons to the right...",
+        "startTime": 113286,
+        "endTime": 115507,
+        "slowStartTime": 170079,
+        "slowEndTime": 173486
+    },
+    {
+        "text": "...so they could be closer to the center of the road...",
+        "startTime": 115594,
+        "endTime": 117164,
+        "slowStartTime": 173541,
+        "slowEndTime": 175971
+    },
+    {
+        "text": "...to see and steer clear of oncoming traffic.",
+        "startTime": 117251,
+        "endTime": 119437,
+        "slowStartTime": 176027,
+        "slowEndTime": 179381
+    },
+    {
+        "text": "And that's ultimately the point of driving laws:...",
+        "startTime": 119664,
+        "endTime": 121788,
+        "slowStartTime": 179646,
+        "slowEndTime": 182907
+    },
+    {
+        "text": "...to keep us safe from the high-speed, two-ton metal projectiles we call cars.",
+        "startTime": 121940,
+        "endTime": 126186,
+        "slowStartTime": 183060,
+        "slowEndTime": 189504
+    }
+]

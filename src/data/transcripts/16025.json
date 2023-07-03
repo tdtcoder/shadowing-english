@@ -1,0 +1,100 @@
+[
+    {
+        "text": "It can happen that your job, which you really liked, suddenly becomes tiresome...",
+        "startTime": 1735,
+        "endTime": 6351,
+        "slowStartTime": 2753,
+        "slowEndTime": 9751
+    },
+    {
+        "text": "...and your relationships with clients and colleagues turn sour.",
+        "startTime": 6723,
+        "endTime": 10102,
+        "slowStartTime": 10234,
+        "slowEndTime": 15378
+    },
+    {
+        "text": "Why? It is possible that there is nothing wrong with your job, but that you need some time off.",
+        "startTime": 10809,
+        "endTime": 16359,
+        "slowStartTime": 16364,
+        "slowEndTime": 24764
+    },
+    {
+        "text": "But it could also be an indicator that you are fed up with your work.",
+        "startTime": 16983,
+        "endTime": 20091,
+        "slowStartTime": 25625,
+        "slowEndTime": 30361
+    },
+    {
+        "text": "To find out which it is, you should count the negative and positive impacts.",
+        "startTime": 20847,
+        "endTime": 24831,
+        "slowStartTime": 31420,
+        "slowEndTime": 37471
+    },
+    {
+        "text": "Negative aspects include questions like: Do you hate the idea of going to work on Sunday night?",
+        "startTime": 25543,
+        "endTime": 31275,
+        "slowStartTime": 38465,
+        "slowEndTime": 47137
+    },
+    {
+        "text": "Are you bored at work? Do you think negatively about your work?",
+        "startTime": 32065,
+        "endTime": 35733,
+        "slowStartTime": 48248,
+        "slowEndTime": 53825
+    },
+    {
+        "text": "Has your performance become worse?",
+        "startTime": 36509,
+        "endTime": 38157,
+        "slowStartTime": 54914,
+        "slowEndTime": 57461
+    },
+    {
+        "text": "On the positive side, questions should include: Do you apply all your skills and talents?",
+        "startTime": 39087,
+        "endTime": 44406,
+        "slowStartTime": 58781,
+        "slowEndTime": 66834
+    },
+    {
+        "text": "Is the team culture at work enjoyable? Do you feel respect for your co-workers and clients?",
+        "startTime": 45171,
+        "endTime": 50895,
+        "slowStartTime": 67907,
+        "slowEndTime": 76568
+    },
+    {
+        "text": "Do you feel happy with the available professional development and progress?",
+        "startTime": 51463,
+        "endTime": 55460,
+        "slowStartTime": 77344,
+        "slowEndTime": 83415
+    },
+    {
+        "text": "Can you take the initiative at work?",
+        "startTime": 55927,
+        "endTime": 57519,
+        "slowStartTime": 84041,
+        "slowEndTime": 86504
+    },
+    {
+        "text": "Having looked at these questions, what is the answer?",
+        "startTime": 58128,
+        "endTime": 60754,
+        "slowStartTime": 87342,
+        "slowEndTime": 91356
+    },
+    {
+        "text": "Do you need a little or a permanent break?",
+        "startTime": 61428,
+        "endTime": 63839,
+        "slowStartTime": 92292,
+        "slowEndTime": 95984
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "text": "﻿This box is made of cardboard.",
+        "startTime": 3379,
+        "endTime": 5743,
+        "slowStartTime": 5219,
+        "slowEndTime": 8839
+    },
+    {
+        "text": "This sword is made of steel.",
+        "startTime": 12809,
+        "endTime": 14667,
+        "slowStartTime": 19363,
+        "slowEndTime": 22225
+    },
+    {
+        "text": "He threw a paper airplane.",
+        "startTime": 21171,
+        "endTime": 23197,
+        "slowStartTime": 31906,
+        "slowEndTime": 35021
+    },
+    {
+        "text": "This pot is made of clay.",
+        "startTime": 29140,
+        "endTime": 30886,
+        "slowStartTime": 43860,
+        "slowEndTime": 46554
+    },
+    {
+        "text": "Windows are made of glass.",
+        "startTime": 36493,
+        "endTime": 38463,
+        "slowStartTime": 54889,
+        "slowEndTime": 57919
+    },
+    {
+        "text": "Toilets are made of ceramic.",
+        "startTime": 44237,
+        "endTime": 46151,
+        "slowStartTime": 66506,
+        "slowEndTime": 69452
+    },
+    {
+        "text": "Train tracks are made of iron.",
+        "startTime": 52487,
+        "endTime": 54402,
+        "slowStartTime": 78881,
+        "slowEndTime": 81828
+    },
+    {
+        "text": "This bench was built with wood.",
+        "startTime": 59615,
+        "endTime": 61754,
+        "slowStartTime": 89573,
+        "slowEndTime": 92856
+    },
+    {
+        "text": "Toothbrushes are made of plastic.",
+        "startTime": 67307,
+        "endTime": 69192,
+        "slowStartTime": 101110,
+        "slowEndTime": 104013
+    },
+    {
+        "text": "His rope is made of nylon.",
+        "startTime": 74047,
+        "endTime": 75933,
+        "slowStartTime": 111221,
+        "slowEndTime": 114124
+    },
+    {
+        "text": "This cup is made of styrofoam.",
+        "startTime": 80886,
+        "endTime": 83109,
+        "slowStartTime": 121479,
+        "slowEndTime": 124888
+    },
+    {
+        "text": "He wears a cotton sweatshirt.",
+        "startTime": 89641,
+        "endTime": 91359,
+        "slowStartTime": 134612,
+        "slowEndTime": 137263
+    }
+]

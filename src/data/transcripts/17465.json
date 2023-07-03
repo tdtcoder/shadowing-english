@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Smell.",
+        "startTime": 2641,
+        "endTime": 3354,
+        "slowStartTime": 4111,
+        "slowEndTime": 5256
+    },
+    {
+        "text": "The food smells good.",
+        "startTime": 4185,
+        "endTime": 5745,
+        "slowStartTime": 6427,
+        "slowEndTime": 8842
+    },
+    {
+        "text": "The food smells really good.",
+        "startTime": 7097,
+        "endTime": 9047,
+        "slowStartTime": 10796,
+        "slowEndTime": 13796
+    },
+    {
+        "text": "Snack.",
+        "startTime": 10426,
+        "endTime": 11034,
+        "slowStartTime": 15789,
+        "slowEndTime": 16776
+    },
+    {
+        "text": "I eat a snack.",
+        "startTime": 11808,
+        "endTime": 13097,
+        "slowStartTime": 17862,
+        "slowEndTime": 19870
+    },
+    {
+        "text": "I eat a delicious snack.",
+        "startTime": 14402,
+        "endTime": 16409,
+        "slowStartTime": 21753,
+        "slowEndTime": 24838
+    },
+    {
+        "text": "Star.",
+        "startTime": 17775,
+        "endTime": 18363,
+        "slowStartTime": 26813,
+        "slowEndTime": 27769
+    },
+    {
+        "text": "I can see a star.",
+        "startTime": 19221,
+        "endTime": 20660,
+        "slowStartTime": 28982,
+        "slowEndTime": 31215
+    },
+    {
+        "text": "I can see a star in the sky.",
+        "startTime": 22097,
+        "endTime": 24471,
+        "slowStartTime": 33295,
+        "slowEndTime": 36932
+    },
+    {
+        "text": "Swan.",
+        "startTime": 25658,
+        "endTime": 26549,
+        "slowStartTime": 38637,
+        "slowEndTime": 40049
+    },
+    {
+        "text": "There are many swans.",
+        "startTime": 27305,
+        "endTime": 28941,
+        "slowStartTime": 41107,
+        "slowEndTime": 43636
+    },
+    {
+        "text": "There are many swans in the lake.",
+        "startTime": 30285,
+        "endTime": 32430,
+        "slowStartTime": 45577,
+        "slowEndTime": 48870
+    },
+    {
+        "text": "Bugs, bugs, bugs, I see eight bugs.",
+        "startTime": 39077,
+        "endTime": 42479,
+        "slowStartTime": 58766,
+        "slowEndTime": 63943
+    },
+    {
+        "text": "Ducks, ducks, ducks, I see seven ducks.",
+        "startTime": 42870,
+        "endTime": 46157,
+        "slowStartTime": 64455,
+        "slowEndTime": 69461
+    },
+    {
+        "text": "Frogs, frogs, frogs, I see six frogs.",
+        "startTime": 46600,
+        "endTime": 50032,
+        "slowStartTime": 70050,
+        "slowEndTime": 75273
+    },
+    {
+        "text": "Turtles, turtles, turtles, I see five turtles.",
+        "startTime": 50371,
+        "endTime": 53743,
+        "slowStartTime": 75706,
+        "slowEndTime": 80839
+    },
+    {
+        "text": "Fish, fish, fish, I see four fish.",
+        "startTime": 54122,
+        "endTime": 57347,
+        "slowStartTime": 81333,
+        "slowEndTime": 86245
+    },
+    {
+        "text": "Worms, worms, worms, I see three worms.",
+        "startTime": 57855,
+        "endTime": 61241,
+        "slowStartTime": 86933,
+        "slowEndTime": 92087
+    },
+    {
+        "text": "Swans, swans, swans, I see two swans.",
+        "startTime": 61508,
+        "endTime": 64926,
+        "slowStartTime": 92412,
+        "slowEndTime": 97614
+    },
+    {
+        "text": "Pond, pond, pond, I see one pond!",
+        "startTime": 65335,
+        "endTime": 68590,
+        "slowStartTime": 98153,
+        "slowEndTime": 103110
+    }
+]

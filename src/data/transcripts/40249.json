@@ -1,0 +1,310 @@
+[
+    {
+        "text": "I brush my teeth in the morning.",
+        "startTime": 11149,
+        "endTime": 14013,
+        "slowStartTime": 16873,
+        "slowEndTime": 21244
+    },
+    {
+        "text": "Brush my teeth in the evening.",
+        "startTime": 14155,
+        "endTime": 16857,
+        "slowStartTime": 21383,
+        "slowEndTime": 25511
+    },
+    {
+        "text": "Brush my teeth every day.",
+        "startTime": 17001,
+        "endTime": 19344,
+        "slowStartTime": 25651,
+        "slowEndTime": 29241
+    },
+    {
+        "text": "Tooth bugs go away.",
+        "startTime": 20348,
+        "endTime": 22041,
+        "slowStartTime": 30672,
+        "slowEndTime": 33286
+    },
+    {
+        "text": "I brush my teeth in the morning.",
+        "startTime": 22200,
+        "endTime": 25162,
+        "slowStartTime": 33450,
+        "slowEndTime": 37968
+    },
+    {
+        "text": "Brush my teeth in the evening.",
+        "startTime": 25262,
+        "endTime": 27927,
+        "slowStartTime": 38043,
+        "slowEndTime": 42115
+    },
+    {
+        "text": "Brush my teeth every day.",
+        "startTime": 28018,
+        "endTime": 30478,
+        "slowStartTime": 42177,
+        "slowEndTime": 45942
+    },
+    {
+        "text": "Tooth bugs go away.",
+        "startTime": 31272,
+        "endTime": 33209,
+        "slowStartTime": 47058,
+        "slowEndTime": 50039
+    },
+    {
+        "text": "Lower left teeth.",
+        "startTime": 39550,
+        "endTime": 40864,
+        "slowStartTime": 59475,
+        "slowEndTime": 61521
+    },
+    {
+        "text": "Lower left teeth.",
+        "startTime": 40984,
+        "endTime": 42178,
+        "slowStartTime": 61626,
+        "slowEndTime": 63492
+    },
+    {
+        "text": "Brush all sides.",
+        "startTime": 42353,
+        "endTime": 43575,
+        "slowStartTime": 63679,
+        "slowEndTime": 65587
+    },
+    {
+        "text": "Brush all sides.",
+        "startTime": 43774,
+        "endTime": 45015,
+        "slowStartTime": 65811,
+        "slowEndTime": 67748
+    },
+    {
+        "text": "Lower right teeth.",
+        "startTime": 45158,
+        "endTime": 46281,
+        "slowStartTime": 67887,
+        "slowEndTime": 69647
+    },
+    {
+        "text": "Lower right teeth.",
+        "startTime": 46480,
+        "endTime": 47741,
+        "slowStartTime": 69870,
+        "slowEndTime": 71837
+    },
+    {
+        "text": "Brush all sides.",
+        "startTime": 47870,
+        "endTime": 49131,
+        "slowStartTime": 71955,
+        "slowEndTime": 73922
+    },
+    {
+        "text": "Brush all sides.",
+        "startTime": 49247,
+        "endTime": 50459,
+        "slowStartTime": 74021,
+        "slowEndTime": 75913
+    },
+    {
+        "text": "Lower front teeth.",
+        "startTime": 50543,
+        "endTime": 51857,
+        "slowStartTime": 75965,
+        "slowEndTime": 78010
+    },
+    {
+        "text": "Lower front teeth.",
+        "startTime": 51965,
+        "endTime": 53128,
+        "slowStartTime": 78098,
+        "slowEndTime": 79917
+    },
+    {
+        "text": "Brush all sides.",
+        "startTime": 53353,
+        "endTime": 54573,
+        "slowStartTime": 80180,
+        "slowEndTime": 82085
+    },
+    {
+        "text": "Brush all sides.",
+        "startTime": 54701,
+        "endTime": 55925,
+        "slowStartTime": 82201,
+        "slowEndTime": 84112
+    },
+    {
+        "text": "Now your lower teeth are pleased.",
+        "startTime": 56024,
+        "endTime": 58756,
+        "slowStartTime": 84186,
+        "slowEndTime": 88359
+    },
+    {
+        "text": "Spit!",
+        "startTime": 58887,
+        "endTime": 59475,
+        "slowStartTime": 88480,
+        "slowEndTime": 89438
+    },
+    {
+        "text": "I brush my teeth in the morning.",
+        "startTime": 60478,
+        "endTime": 63607,
+        "slowStartTime": 90867,
+        "slowEndTime": 95636
+    },
+    {
+        "text": "Brush my teeth in the evening.",
+        "startTime": 63705,
+        "endTime": 66266,
+        "slowStartTime": 95707,
+        "slowEndTime": 99624
+    },
+    {
+        "text": "Brush my teeth every day.",
+        "startTime": 66366,
+        "endTime": 68760,
+        "slowStartTime": 99699,
+        "slowEndTime": 103365
+    },
+    {
+        "text": "Tooth bugs go away.",
+        "startTime": 69607,
+        "endTime": 71551,
+        "slowStartTime": 104560,
+        "slowEndTime": 107551
+    },
+    {
+        "text": "Upper left teeth.",
+        "startTime": 73221,
+        "endTime": 74405,
+        "slowStartTime": 109981,
+        "slowEndTime": 111832
+    },
+    {
+        "text": "Upper left teeth.",
+        "startTime": 74617,
+        "endTime": 75799,
+        "slowStartTime": 112075,
+        "slowEndTime": 113924
+    },
+    {
+        "text": "Brush all sides.",
+        "startTime": 75970,
+        "endTime": 77128,
+        "slowStartTime": 114105,
+        "slowEndTime": 115917
+    },
+    {
+        "text": "Brush all sides.",
+        "startTime": 77294,
+        "endTime": 78498,
+        "slowStartTime": 116091,
+        "slowEndTime": 117972
+    },
+    {
+        "text": "Upper right teeth.",
+        "startTime": 78704,
+        "endTime": 79926,
+        "slowStartTime": 118206,
+        "slowEndTime": 120114
+    },
+    {
+        "text": "Upper right teeth.",
+        "startTime": 80051,
+        "endTime": 81284,
+        "slowStartTime": 120227,
+        "slowEndTime": 122151
+    },
+    {
+        "text": "Brush all sides.",
+        "startTime": 81413,
+        "endTime": 82637,
+        "slowStartTime": 122269,
+        "slowEndTime": 124181
+    },
+    {
+        "text": "Brush all sides.",
+        "startTime": 82821,
+        "endTime": 84032,
+        "slowStartTime": 124381,
+        "slowEndTime": 126273
+    },
+    {
+        "text": "Upper front teeth.",
+        "startTime": 84187,
+        "endTime": 85294,
+        "slowStartTime": 126431,
+        "slowEndTime": 128166
+    },
+    {
+        "text": "Upper front teeth.",
+        "startTime": 85512,
+        "endTime": 86756,
+        "slowStartTime": 128418,
+        "slowEndTime": 130359
+    },
+    {
+        "text": "Brush all sides.",
+        "startTime": 86906,
+        "endTime": 88140,
+        "slowStartTime": 130509,
+        "slowEndTime": 132435
+    },
+    {
+        "text": "Brush all sides.",
+        "startTime": 88280,
+        "endTime": 89410,
+        "slowStartTime": 132570,
+        "slowEndTime": 134340
+    },
+    {
+        "text": "Now your upper teeth are pleased.",
+        "startTime": 89650,
+        "endTime": 92323,
+        "slowStartTime": 134625,
+        "slowEndTime": 138710
+    },
+    {
+        "text": "Spit!",
+        "startTime": 92453,
+        "endTime": 93001,
+        "slowStartTime": 138829,
+        "slowEndTime": 139726
+    },
+    {
+        "text": "I brush my teeth in the morning.",
+        "startTime": 94133,
+        "endTime": 97033,
+        "slowStartTime": 141349,
+        "slowEndTime": 145774
+    },
+    {
+        "text": "Brush my teeth in the evening.",
+        "startTime": 97133,
+        "endTime": 99803,
+        "slowStartTime": 145850,
+        "slowEndTime": 149929
+    },
+    {
+        "text": "Brush my teeth every day.",
+        "startTime": 99897,
+        "endTime": 102225,
+        "slowStartTime": 149995,
+        "slowEndTime": 153562
+    },
+    {
+        "text": "Tooth bugs go away.",
+        "startTime": 103064,
+        "endTime": 105173,
+        "slowStartTime": 154746,
+        "slowEndTime": 157984
+    }
+]

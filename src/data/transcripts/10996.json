@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Downloading it now.",
+        "startTime": 5500,
+        "endTime": 7000,
+        "slowStartTime": 8350,
+        "slowEndTime": 10900
+    },
+    {
+        "text": "Skippy?",
+        "startTime": 10900,
+        "endTime": 11500,
+        "slowStartTime": 16500,
+        "slowEndTime": 17550
+    },
+    {
+        "text": "Hey!",
+        "startTime": 11600,
+        "endTime": 12000,
+        "slowStartTime": 17550,
+        "slowEndTime": 18300
+    },
+    {
+        "text": "Really?",
+        "startTime": 12150,
+        "endTime": 12600,
+        "slowStartTime": 18400,
+        "slowEndTime": 19200
+    },
+    {
+        "text": "Oh, wow!",
+        "startTime": 12900,
+        "endTime": 13800,
+        "slowStartTime": 19600,
+        "slowEndTime": 20950
+    },
+    {
+        "text": "Look, I know this probably doesn't look...",
+        "startTime": 15850,
+        "endTime": 17850,
+        "slowStartTime": 23950,
+        "slowEndTime": 27050
+    },
+    {
+        "text": "Clay, I need an exit.",
+        "startTime": 22800,
+        "endTime": 23850,
+        "slowStartTime": 34350,
+        "slowEndTime": 36000
+    },
+    {
+        "text": "Circle around the north side of the building.",
+        "startTime": 24400,
+        "endTime": 26150,
+        "slowStartTime": 36800,
+        "slowEndTime": 39470
+    },
+    {
+        "text": "You'll have cover.",
+        "startTime": 26600,
+        "endTime": 27200,
+        "slowStartTime": 40000,
+        "slowEndTime": 41050
+    },
+    {
+        "text": "Freeze!",
+        "startTime": 34500,
+        "endTime": 35100,
+        "slowStartTime": 51900,
+        "slowEndTime": 53000
+    },
+    {
+        "text": "Wow, this got serious.",
+        "startTime": 36850,
+        "endTime": 38600,
+        "slowStartTime": 55400,
+        "slowEndTime": 58100
+    },
+    {
+        "text": "I'm warning you.",
+        "startTime": 42100,
+        "endTime": 42800,
+        "slowStartTime": 63300,
+        "slowEndTime": 64600
+    },
+    {
+        "text": "I am a lethal killing machine.",
+        "startTime": 43700,
+        "endTime": 45050,
+        "slowStartTime": 65700,
+        "slowEndTime": 68000
+    },
+    {
+        "text": "It was a secret government experiment,...",
+        "startTime": 46200,
+        "endTime": 48050,
+        "slowStartTime": 69400,
+        "slowEndTime": 72400
+    },
+    {
+        "text": "...turned me into a dangerous telekinetic.",
+        "startTime": 48350,
+        "endTime": 50400,
+        "slowStartTime": 72700,
+        "slowEndTime": 75900
+    },
+    {
+        "text": "Telekinetic your way out of this.",
+        "startTime": 54550,
+        "endTime": 55900,
+        "slowStartTime": 82100,
+        "slowEndTime": 84100
+    },
+    {
+        "text": "Face down or I'll make your heart stop beating with my mind.",
+        "startTime": 66500,
+        "endTime": 70300,
+        "slowStartTime": 99900,
+        "slowEndTime": 105700
+    },
+    {
+        "text": "Thank you, Cougar.",
+        "startTime": 76350,
+        "endTime": 76950,
+        "slowStartTime": 114700,
+        "slowEndTime": 115700
+    }
+]

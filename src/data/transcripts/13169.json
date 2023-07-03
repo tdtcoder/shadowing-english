@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Who is this funny guy?",
+        "startTime": 1965,
+        "endTime": 3645,
+        "slowStartTime": 3097,
+        "slowEndTime": 5693
+    },
+    {
+        "text": "Where is he?",
+        "startTime": 4268,
+        "endTime": 5078,
+        "slowStartTime": 6552,
+        "slowEndTime": 7842
+    },
+    {
+        "text": "What is he doing?",
+        "startTime": 5854,
+        "endTime": 6778,
+        "slowStartTime": 8931,
+        "slowEndTime": 10392
+    },
+    {
+        "text": "He has big glasses and a big bag of popcorn.",
+        "startTime": 7975,
+        "endTime": 11531,
+        "slowStartTime": 12112,
+        "slowEndTime": 17522
+    },
+    {
+        "text": "Oh, I know!",
+        "startTime": 12806,
+        "endTime": 14044,
+        "slowStartTime": 19359,
+        "slowEndTime": 21291
+    },
+    {
+        "text": "He is at the movie theatre!",
+        "startTime": 14407,
+        "endTime": 15919,
+        "slowStartTime": 21760,
+        "slowEndTime": 24103
+    },
+    {
+        "text": "I wonder which movie he is watching?",
+        "startTime": 16785,
+        "endTime": 18873,
+        "slowStartTime": 25328,
+        "slowEndTime": 28534
+    },
+    {
+        "text": "Maybe it's a scary or funny movie.",
+        "startTime": 19743,
+        "endTime": 22638,
+        "slowStartTime": 29765,
+        "slowEndTime": 34182
+    },
+    {
+        "text": "I think that he is watching a special movie.",
+        "startTime": 23645,
+        "endTime": 26455,
+        "slowStartTime": 35617,
+        "slowEndTime": 39907
+    },
+    {
+        "text": "He is wearing special 3D glasses.",
+        "startTime": 27151,
+        "endTime": 29833,
+        "slowStartTime": 40876,
+        "slowEndTime": 44974
+    },
+    {
+        "text": "Have you watched the megahit film Avatar?",
+        "startTime": 30818,
+        "endTime": 33760,
+        "slowStartTime": 46377,
+        "slowEndTime": 50865
+    },
+    {
+        "text": "You can also see Avatar wearing 3D glasses.",
+        "startTime": 34531,
+        "endTime": 38378,
+        "slowStartTime": 51946,
+        "slowEndTime": 57792
+    },
+    {
+        "text": "Hey, is he going to share that popcorn?",
+        "startTime": 39390,
+        "endTime": 42209,
+        "slowStartTime": 59235,
+        "slowEndTime": 63538
+    },
+    {
+        "text": "Popcorn makes me thirsty.",
+        "startTime": 43041,
+        "endTime": 44801,
+        "slowStartTime": 64711,
+        "slowEndTime": 67427
+    },
+    {
+        "text": "Maybe he will share his drink with me.",
+        "startTime": 45575,
+        "endTime": 47873,
+        "slowStartTime": 68512,
+        "slowEndTime": 72035
+    },
+    {
+        "text": "Shh, please be quiet.",
+        "startTime": 48587,
+        "endTime": 50651,
+        "slowStartTime": 73030,
+        "slowEndTime": 76201
+    },
+    {
+        "text": "We're trying to watch the movie.",
+        "startTime": 51107,
+        "endTime": 53106,
+        "slowStartTime": 76810,
+        "slowEndTime": 79884
+    }
+]

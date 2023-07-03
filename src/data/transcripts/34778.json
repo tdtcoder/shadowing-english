@@ -1,0 +1,30 @@
+[
+    {
+        "text": "By the Book",
+        "startTime": 583,
+        "endTime": 1631,
+        "slowStartTime": 1024,
+        "slowEndTime": 2672
+    },
+    {
+        "text": "It means to do something exactly as the rules tell you.",
+        "startTime": 2548,
+        "endTime": 6919,
+        "slowStartTime": 3972,
+        "slowEndTime": 10603
+    },
+    {
+        "text": "Companies today should do all business by the book to avoid problems with regulatory agencies and audits.",
+        "startTime": 8221,
+        "endTime": 16142,
+        "slowStartTime": 12482,
+        "slowEndTime": 24438
+    },
+    {
+        "text": "While some chefs prefer to try unique ways to make food, others prefer to cook meals by the book.",
+        "startTime": 17701,
+        "endTime": 24485,
+        "slowStartTime": 26701,
+        "slowEndTime": 36953
+    }
+]

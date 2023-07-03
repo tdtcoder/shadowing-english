@@ -1,0 +1,72 @@
+[
+    {
+        "text": "﻿Hi.",
+        "startTime": 3113,
+        "endTime": 3408,
+        "slowStartTime": 4820,
+        "slowEndTime": 5337
+    },
+    {
+        "text": "Hi.",
+        "startTime": 4471,
+        "endTime": 5301,
+        "slowStartTime": 6857,
+        "slowEndTime": 8176
+    },
+    {
+        "text": "You're not Greg.",
+        "startTime": 6346,
+        "endTime": 6905,
+        "slowStartTime": 9669,
+        "slowEndTime": 10583
+    },
+    {
+        "text": "I'm sorta Greg.",
+        "startTime": 7876,
+        "endTime": 8491,
+        "slowStartTime": 11964,
+        "slowEndTime": 12961
+    },
+    {
+        "text": "We're both over 50 years old.",
+        "startTime": 9425,
+        "endTime": 10779,
+        "slowStartTime": 14288,
+        "slowEndTime": 16393
+    },
+    {
+        "text": "We both used to own a Pontiac Aztek.",
+        "startTime": 10873,
+        "endTime": 13379,
+        "slowStartTime": 16460,
+        "slowEndTime": 20293
+    },
+    {
+        "text": "We both have a lot of experience with drugs.",
+        "startTime": 14151,
+        "endTime": 16013,
+        "slowStartTime": 21377,
+        "slowEndTime": 24244
+    },
+    {
+        "text": "Sorry, pharmaceuticals.",
+        "startTime": 17327,
+        "endTime": 18934,
+        "slowStartTime": 26140,
+        "slowEndTime": 28626
+    },
+    {
+        "text": "So, say my name.",
+        "startTime": 19681,
+        "endTime": 22846,
+        "slowStartTime": 29672,
+        "slowEndTime": 34494
+    },
+    {
+        "text": "Sorta Greg.",
+        "startTime": 25130,
+        "endTime": 25797,
+        "slowStartTime": 37845,
+        "slowEndTime": 38921
+    }
+]

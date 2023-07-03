@@ -1,0 +1,79 @@
+[
+    {
+        "text": "﻿Let's learn about the animals.",
+        "startTime": 840,
+        "endTime": 2620,
+        "slowStartTime": 1410,
+        "slowEndTime": 4155
+    },
+    {
+        "text": "Elephant.",
+        "startTime": 5696,
+        "endTime": 6299,
+        "slowStartTime": 8694,
+        "slowEndTime": 9673
+    },
+    {
+        "text": "Panda.",
+        "startTime": 10462,
+        "endTime": 10963,
+        "slowStartTime": 15843,
+        "slowEndTime": 16670
+    },
+    {
+        "text": "Giraffe.",
+        "startTime": 15422,
+        "endTime": 16276,
+        "slowStartTime": 23283,
+        "slowEndTime": 24639
+    },
+    {
+        "text": "Monkey.",
+        "startTime": 20298,
+        "endTime": 21060,
+        "slowStartTime": 30597,
+        "slowEndTime": 31815
+    },
+    {
+        "text": "Lion.",
+        "startTime": 24553,
+        "endTime": 25502,
+        "slowStartTime": 36979,
+        "slowEndTime": 38478
+    },
+    {
+        "text": "Tiger.",
+        "startTime": 28935,
+        "endTime": 29536,
+        "slowStartTime": 43552,
+        "slowEndTime": 44529
+    },
+    {
+        "text": "Sheep.",
+        "startTime": 34235,
+        "endTime": 34639,
+        "slowStartTime": 51503,
+        "slowEndTime": 52183
+    },
+    {
+        "text": "Pig.",
+        "startTime": 38848,
+        "endTime": 39344,
+        "slowStartTime": 58422,
+        "slowEndTime": 59241
+    },
+    {
+        "text": "Cow.",
+        "startTime": 43263,
+        "endTime": 43783,
+        "slowStartTime": 65045,
+        "slowEndTime": 65900
+    },
+    {
+        "text": "Dog.",
+        "startTime": 48200,
+        "endTime": 48746,
+        "slowStartTime": 72450,
+        "slowEndTime": 73344
+    }
+]

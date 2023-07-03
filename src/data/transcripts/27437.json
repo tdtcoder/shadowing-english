@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Hi, this is Diana Gross, the Traveling Teacher.",
+        "startTime": 427,
+        "endTime": 3074,
+        "slowStartTime": 791,
+        "slowEndTime": 4836
+    },
+    {
+        "text": "Welcome to Moscow, Russia.",
+        "startTime": 3451,
+        "endTime": 5442,
+        "slowStartTime": 5326,
+        "slowEndTime": 8388
+    },
+    {
+        "text": "Today, I was able to spend time at school number 1329.",
+        "startTime": 14477,
+        "endTime": 18213,
+        "slowStartTime": 21865,
+        "slowEndTime": 27544
+    },
+    {
+        "text": "I was taken there by UNESCO representatives.",
+        "startTime": 18569,
+        "endTime": 21477,
+        "slowStartTime": 28003,
+        "slowEndTime": 32441
+    },
+    {
+        "text": "It was a fabulous day, fabulous teachers, really bright students,...",
+        "startTime": 21603,
+        "endTime": 26057,
+        "slowStartTime": 32554,
+        "slowEndTime": 39311
+    },
+    {
+        "text": "...and I had a great time.",
+        "startTime": 26482,
+        "endTime": 27743,
+        "slowStartTime": 39873,
+        "slowEndTime": 41840
+    },
+    {
+        "text": "Bye for now from Russia, and I'll see you in the next country.",
+        "startTime": 28707,
+        "endTime": 32810,
+        "slowStartTime": 43210,
+        "slowEndTime": 49440
+    }
+]

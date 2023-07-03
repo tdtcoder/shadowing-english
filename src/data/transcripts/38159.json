@@ -1,0 +1,44 @@
+[
+    {
+        "text": "What do you expect this season?",
+        "startTime": 3029,
+        "endTime": 4856,
+        "slowStartTime": 4693,
+        "slowEndTime": 7509
+    },
+    {
+        "text": "I'll do my best to be a world champion this season.",
+        "startTime": 15169,
+        "endTime": 17765,
+        "slowStartTime": 22904,
+        "slowEndTime": 26872
+    },
+    {
+        "text": "How do you like the rest of the guys on this team?",
+        "startTime": 21471,
+        "endTime": 23725,
+        "slowStartTime": 32357,
+        "slowEndTime": 35813
+    },
+    {
+        "text": "The team members are the best.",
+        "startTime": 31602,
+        "endTime": 33224,
+        "slowStartTime": 47553,
+        "slowEndTime": 50061
+    },
+    {
+        "text": "Thank you, have a great day.",
+        "startTime": 37311,
+        "endTime": 38521,
+        "slowStartTime": 56116,
+        "slowEndTime": 58007
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 41073,
+        "endTime": 41683,
+        "slowStartTime": 61760,
+        "slowEndTime": 62749
+    }
+]

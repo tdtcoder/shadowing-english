@@ -1,0 +1,58 @@
+[
+    {
+        "text": "I'll match the invoice with the purchase order and delivery note.",
+        "startTime": 6590,
+        "endTime": 9671,
+        "slowStartTime": 10035,
+        "slowEndTime": 14732
+    },
+    {
+        "text": "Could you match the contract with client type?",
+        "startTime": 11628,
+        "endTime": 14454,
+        "slowStartTime": 17592,
+        "slowEndTime": 21906
+    },
+    {
+        "text": "Make sure to receive approval from the project manager beforehand.",
+        "startTime": 16715,
+        "endTime": 20572,
+        "slowStartTime": 25222,
+        "slowEndTime": 31083
+    },
+    {
+        "text": "Did you receive approval for the schedule from the supplier?",
+        "startTime": 22530,
+        "endTime": 25799,
+        "slowStartTime": 33945,
+        "slowEndTime": 38923
+    },
+    {
+        "text": "Active voice: I sort the invoices from our suppliers.",
+        "startTime": 33974,
+        "endTime": 38585,
+        "slowStartTime": 51111,
+        "slowEndTime": 58103
+    },
+    {
+        "text": "Passive voice: The invoices from our suppliers were sorted.",
+        "startTime": 39701,
+        "endTime": 44267,
+        "slowStartTime": 59701,
+        "slowEndTime": 66625
+    },
+    {
+        "text": "Active voice: He checks the purchase order numbers.",
+        "startTime": 45769,
+        "endTime": 49417,
+        "slowStartTime": 68804,
+        "slowEndTime": 74350
+    },
+    {
+        "text": "Passive voice: The purchase order numbers are checked.",
+        "startTime": 50931,
+        "endTime": 54723,
+        "slowStartTime": 76546,
+        "slowEndTime": 82310
+    }
+]

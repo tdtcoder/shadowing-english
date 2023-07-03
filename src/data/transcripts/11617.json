@@ -1,0 +1,289 @@
+[
+    {
+        "text": "Hi. In this video, I'm going to give you a quick overview of what you can do with the YouTube APIs.",
+        "startTime": 350,
+        "endTime": 5250,
+        "slowStartTime": 700,
+        "slowEndTime": 8100
+    },
+    {
+        "text": "First of all, we all know what YouTube is, right?",
+        "startTime": 6750,
+        "endTime": 8700,
+        "slowStartTime": 10300,
+        "slowEndTime": 13300
+    },
+    {
+        "text": "Millions of videos uploaded from all around the world at your fingertips.",
+        "startTime": 8900,
+        "endTime": 12150,
+        "slowStartTime": 13600,
+        "slowEndTime": 18500
+    },
+    {
+        "text": "The YouTube APIs allow you to integrate YouTube into your application.",
+        "startTime": 13600,
+        "endTime": 16550,
+        "slowStartTime": 20600,
+        "slowEndTime": 25050
+    },
+    {
+        "text": "There are two main APIs:...",
+        "startTime": 17500,
+        "endTime": 18900,
+        "slowStartTime": 26400,
+        "slowEndTime": 28600
+    },
+    {
+        "text": "...the data API and the player APIs.",
+        "startTime": 19050,
+        "endTime": 21300,
+        "slowStartTime": 28750,
+        "slowEndTime": 32250
+    },
+    {
+        "text": "The data API is a RESTful API that allows you to do a wide breadth of operations:...",
+        "startTime": 21950,
+        "endTime": 25750,
+        "slowStartTime": 33100,
+        "slowEndTime": 38900
+    },
+    {
+        "text": "...searching, pulling back user information, uploading videos, creating playlists, and much more.",
+        "startTime": 26200,
+        "endTime": 31150,
+        "slowStartTime": 39500,
+        "slowEndTime": 46950
+    },
+    {
+        "text": "I'll go over the two most popular use cases, \"search\" and \"upload\", and show you some examples.",
+        "startTime": 31550,
+        "endTime": 36200,
+        "slowStartTime": 47500,
+        "slowEndTime": 54500
+    },
+    {
+        "text": "First up, search.",
+        "startTime": 37750,
+        "endTime": 38750,
+        "slowStartTime": 56800,
+        "slowEndTime": 58400
+    },
+    {
+        "text": "I'm sure you've all searched for your favorite video on YouTube.com.",
+        "startTime": 38900,
+        "endTime": 41750,
+        "slowStartTime": 58500,
+        "slowEndTime": 62800
+    },
+    {
+        "text": "Using the API, you can send a query for a search term like you would on the site,...",
+        "startTime": 42250,
+        "endTime": 45400,
+        "slowStartTime": 63500,
+        "slowEndTime": 68400
+    },
+    {
+        "text": "...and retrieve a feed of results in XML,...",
+        "startTime": 45950,
+        "endTime": 47650,
+        "slowStartTime": 69100,
+        "slowEndTime": 71700
+    },
+    {
+        "text": "...which you could then display in your application how you want.",
+        "startTime": 47700,
+        "endTime": 49950,
+        "slowStartTime": 71750,
+        "slowEndTime": 75200
+    },
+    {
+        "text": "Another big operation is upload.",
+        "startTime": 50350,
+        "endTime": 51750,
+        "slowStartTime": 75700,
+        "slowEndTime": 77900
+    },
+    {
+        "text": "Your users can upload their videos to YouTube through your application.",
+        "startTime": 52050,
+        "endTime": 55300,
+        "slowStartTime": 78300,
+        "slowEndTime": 83200
+    },
+    {
+        "text": "For example, animoto.com is a slideshow creation site.",
+        "startTime": 56650,
+        "endTime": 59500,
+        "slowStartTime": 85200,
+        "slowEndTime": 89500
+    },
+    {
+        "text": "Once their users create a slideshow, they have an option to export to YouTube.",
+        "startTime": 60300,
+        "endTime": 63650,
+        "slowStartTime": 90650,
+        "slowEndTime": 95800
+    },
+    {
+        "text": "They use the API to authorize the user to the YouTube account,...",
+        "startTime": 64200,
+        "endTime": 66650,
+        "slowStartTime": 96500,
+        "slowEndTime": 100200
+    },
+    {
+        "text": "...and then send the video over.",
+        "startTime": 66750,
+        "endTime": 67900,
+        "slowStartTime": 100300,
+        "slowEndTime": 102100
+    },
+    {
+        "text": "You can get started with the data API with one of our open source client libraries.",
+        "startTime": 73500,
+        "endTime": 76750,
+        "slowStartTime": 110400,
+        "slowEndTime": 115350
+    },
+    {
+        "text": "We have them for PHP, Java, .NET, and Python.",
+        "startTime": 77150,
+        "endTime": 80400,
+        "slowStartTime": 115950,
+        "slowEndTime": 120800
+    },
+    {
+        "text": "They make parsing feeds and handling authentication much easier.",
+        "startTime": 80900,
+        "endTime": 83700,
+        "slowStartTime": 121500,
+        "slowEndTime": 125750
+    },
+    {
+        "text": "I should also point out that, while we don't have a JavaScript client library,...",
+        "startTime": 84200,
+        "endTime": 86800,
+        "slowStartTime": 126500,
+        "slowEndTime": 130500
+    },
+    {
+        "text": "...we do offer JSON as an alternative format to XML...",
+        "startTime": 86900,
+        "endTime": 89400,
+        "slowStartTime": 130600,
+        "slowEndTime": 134375
+    },
+    {
+        "text": "...so you can easily parse responses with JavaScript.",
+        "startTime": 89600,
+        "endTime": 91600,
+        "slowStartTime": 134600,
+        "slowEndTime": 137650
+    },
+    {
+        "text": "Now, on to the player APIs.",
+        "startTime": 92900,
+        "endTime": 94250,
+        "slowStartTime": 139550,
+        "slowEndTime": 141600
+    },
+    {
+        "text": "The player APIs give you control over the YouTube - embedded player.",
+        "startTime": 94600,
+        "endTime": 97350,
+        "slowStartTime": 142075,
+        "slowEndTime": 146250
+    },
+    {
+        "text": "You can issue commands like \"stop\", \"pause\", and \"play\";...",
+        "startTime": 98150,
+        "endTime": 100800,
+        "slowStartTime": 147400,
+        "slowEndTime": 151450
+    },
+    {
+        "text": "...listen for events, like air events...",
+        "startTime": 101450,
+        "endTime": 103500,
+        "slowStartTime": 152350,
+        "slowEndTime": 155450
+    },
+    {
+        "text": "...or which state the player is in, and poll status,...",
+        "startTime": 103600,
+        "endTime": 106400,
+        "slowStartTime": 155600,
+        "slowEndTime": 159850
+    },
+    {
+        "text": "...like how far into the video the user is.",
+        "startTime": 106500,
+        "endTime": 108400,
+        "slowStartTime": 159900,
+        "slowEndTime": 162800
+    },
+    {
+        "text": "Here's an example of an application that's using the player APIs to sync up this lecture with the slides.",
+        "startTime": 108800,
+        "endTime": 112800,
+        "slowStartTime": 163350,
+        "slowEndTime": 169400
+    },
+    {
+        "text": "If you wanna do even deeper customizations, use our chromeless player.",
+        "startTime": 116750,
+        "endTime": 119600,
+        "slowStartTime": 175300,
+        "slowEndTime": 179650
+    },
+    {
+        "text": "It's just a video box with no buttons that you can control with the player APIs.",
+        "startTime": 119700,
+        "endTime": 123100,
+        "slowStartTime": 179700,
+        "slowEndTime": 184900
+    },
+    {
+        "text": "You can skin the player to match the look and feel of your application, much like in these examples.",
+        "startTime": 123700,
+        "endTime": 128050,
+        "slowStartTime": 185750,
+        "slowEndTime": 192300
+    },
+    {
+        "text": "For even more examples, check out our app gallery.",
+        "startTime": 133200,
+        "endTime": 135550,
+        "slowStartTime": 199950,
+        "slowEndTime": 203500
+    },
+    {
+        "text": "And once you've built something, show us by submitting yours.",
+        "startTime": 136000,
+        "endTime": 138250,
+        "slowStartTime": 204150,
+        "slowEndTime": 207650
+    },
+    {
+        "text": "This has only been a quick overview,...",
+        "startTime": 139250,
+        "endTime": 140450,
+        "slowStartTime": 209100,
+        "slowEndTime": 210900
+    },
+    {
+        "text": "...but find all the rest of the details on code.google.com,...",
+        "startTime": 140550,
+        "endTime": 143600,
+        "slowStartTime": 211000,
+        "slowEndTime": 215650
+    },
+    {
+        "text": "...and ask your questions in our forum.",
+        "startTime": 143950,
+        "endTime": 145350,
+        "slowStartTime": 216100,
+        "slowEndTime": 218250
+    }
+]

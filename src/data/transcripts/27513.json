@@ -1,0 +1,86 @@
+[
+    {
+        "text": "﻿My name is Alice.",
+        "startTime": 1195,
+        "endTime": 2171,
+        "slowStartTime": 1942,
+        "slowEndTime": 3481
+    },
+    {
+        "text": "I worked for the Umbrella Corporation.",
+        "startTime": 4745,
+        "endTime": 6379,
+        "slowStartTime": 7268,
+        "slowEndTime": 9793
+    },
+    {
+        "text": "There was an incident.",
+        "startTime": 8212,
+        "endTime": 9312,
+        "slowStartTime": 12468,
+        "slowEndTime": 14193
+    },
+    {
+        "text": "You're all going to die down here.",
+        "startTime": 10557,
+        "endTime": 12800,
+        "slowStartTime": 15986,
+        "slowEndTime": 19425
+    },
+    {
+        "text": "The virus escaped.",
+        "startTime": 13624,
+        "endTime": 14535,
+        "slowStartTime": 20586,
+        "slowEndTime": 22028
+    },
+    {
+        "text": "Everybody died.",
+        "startTime": 17172,
+        "endTime": 17951,
+        "slowStartTime": 25908,
+        "slowEndTime": 27152
+    },
+    {
+        "text": "Trouble was...",
+        "startTime": 22733,
+        "endTime": 23366,
+        "slowStartTime": 34250,
+        "slowEndTime": 35274
+    },
+    {
+        "text": "...they didn't stay dead.",
+        "startTime": 26127,
+        "endTime": 26947,
+        "slowStartTime": 39340,
+        "slowEndTime": 40645
+    },
+    {
+        "text": "I've been waiting years for this.",
+        "startTime": 29221,
+        "endTime": 31819,
+        "slowStartTime": 43982,
+        "slowEndTime": 47954
+    },
+    {
+        "text": "The prodigal daughter returns.",
+        "startTime": 36397,
+        "endTime": 38187,
+        "slowStartTime": 54745,
+        "slowEndTime": 57505
+    },
+    {
+        "text": "We've played a long game, you and I.",
+        "startTime": 40579,
+        "endTime": 42679,
+        "slowStartTime": 61018,
+        "slowEndTime": 64244
+    },
+    {
+        "text": "But now, it's over.",
+        "startTime": 44474,
+        "endTime": 45561,
+        "slowStartTime": 66861,
+        "slowEndTime": 68566
+    }
+]

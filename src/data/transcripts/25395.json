@@ -1,0 +1,86 @@
+[
+    {
+        "text": "﻿Let's learn about transportation.",
+        "startTime": 61,
+        "endTime": 2327,
+        "slowStartTime": 242,
+        "slowEndTime": 3715
+    },
+    {
+        "text": "He drives his car.",
+        "startTime": 3959,
+        "endTime": 5478,
+        "slowStartTime": 6088,
+        "slowEndTime": 8442
+    },
+    {
+        "text": "A pilot flies an airplane.",
+        "startTime": 8529,
+        "endTime": 10683,
+        "slowStartTime": 12943,
+        "slowEndTime": 16250
+    },
+    {
+        "text": "She rides her horse.",
+        "startTime": 13026,
+        "endTime": 15195,
+        "slowStartTime": 19689,
+        "slowEndTime": 23017
+    },
+    {
+        "text": "They fly their spaceships.",
+        "startTime": 18890,
+        "endTime": 21113,
+        "slowStartTime": 28485,
+        "slowEndTime": 31894
+    },
+    {
+        "text": "The boys ride their bikes.",
+        "startTime": 24992,
+        "endTime": 27290,
+        "slowStartTime": 37638,
+        "slowEndTime": 41160
+    },
+    {
+        "text": "You sail a boat.",
+        "startTime": 31283,
+        "endTime": 32926,
+        "slowStartTime": 47075,
+        "slowEndTime": 49614
+    },
+    {
+        "text": "You paddle a canoe.",
+        "startTime": 37547,
+        "endTime": 39244,
+        "slowStartTime": 56471,
+        "slowEndTime": 59091
+    },
+    {
+        "text": "You operate a drone.",
+        "startTime": 43367,
+        "endTime": 45390,
+        "slowStartTime": 65200,
+        "slowEndTime": 68310
+    },
+    {
+        "text": "You operate machinery.",
+        "startTime": 49111,
+        "endTime": 51053,
+        "slowStartTime": 73816,
+        "slowEndTime": 76805
+    },
+    {
+        "text": "He sails a ship.",
+        "startTime": 55263,
+        "endTime": 57073,
+        "slowStartTime": 83044,
+        "slowEndTime": 85834
+    },
+    {
+        "text": "The mother walks her child.",
+        "startTime": 60827,
+        "endTime": 62807,
+        "slowStartTime": 91391,
+        "slowEndTime": 94435
+    }
+]

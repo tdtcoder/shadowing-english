@@ -1,0 +1,107 @@
+[
+    {
+        "text": "What a strange picture!",
+        "startTime": 2716,
+        "endTime": 4857,
+        "slowStartTime": 4224,
+        "slowEndTime": 7511
+    },
+    {
+        "text": "Do you know what these things are?",
+        "startTime": 5488,
+        "endTime": 7929,
+        "slowStartTime": 8382,
+        "slowEndTime": 12118
+    },
+    {
+        "text": "They are called snack machines, or vending machines.",
+        "startTime": 8805,
+        "endTime": 13115,
+        "slowStartTime": 13358,
+        "slowEndTime": 19897
+    },
+    {
+        "text": "What is your favorite snack when you're hungry?",
+        "startTime": 13955,
+        "endTime": 17487,
+        "slowStartTime": 21082,
+        "slowEndTime": 26456
+    },
+    {
+        "text": "Well, for about two dollars, you can choose something delicious from these machines.",
+        "startTime": 18359,
+        "endTime": 25184,
+        "slowStartTime": 27688,
+        "slowEndTime": 38001
+    },
+    {
+        "text": "Put in your money, and then watch your food drop to the bottom.",
+        "startTime": 26172,
+        "endTime": 31203,
+        "slowStartTime": 39408,
+        "slowEndTime": 47030
+    },
+    {
+        "text": "Sometimes people have to shake the machine if their snack gets stuck on the way down.",
+        "startTime": 32120,
+        "endTime": 39168,
+        "slowStartTime": 48330,
+        "slowEndTime": 58977
+    },
+    {
+        "text": "It's very frustrating to have your snack stuck in the machine when you're hungry.",
+        "startTime": 40043,
+        "endTime": 46621,
+        "slowStartTime": 60214,
+        "slowEndTime": 70156
+    },
+    {
+        "text": "There are candy, chocolate bars, chips, soda pop and even coffee.",
+        "startTime": 47674,
+        "endTime": 54141,
+        "slowStartTime": 71661,
+        "slowEndTime": 81436
+    },
+    {
+        "text": "These snacks are not very good for your body,...",
+        "startTime": 55140,
+        "endTime": 58380,
+        "slowStartTime": 82860,
+        "slowEndTime": 87795
+    },
+    {
+        "text": "...but they sure taste good.",
+        "startTime": 59008,
+        "endTime": 60869,
+        "slowStartTime": 88662,
+        "slowEndTime": 91528
+    },
+    {
+        "text": "Which snack would you choose?",
+        "startTime": 61786,
+        "endTime": 63713,
+        "slowStartTime": 92829,
+        "slowEndTime": 95795
+    },
+    {
+        "text": "My favorite treats are the chocolate bars.",
+        "startTime": 64545,
+        "endTime": 67881,
+        "slowStartTime": 96968,
+        "slowEndTime": 102047
+    },
+    {
+        "text": "When you eat too many chocolate bars,...",
+        "startTime": 68693,
+        "endTime": 71303,
+        "slowStartTime": 103190,
+        "slowEndTime": 107180
+    },
+    {
+        "text": "...you might get into trouble with your dentist.",
+        "startTime": 71903,
+        "endTime": 75111,
+        "slowStartTime": 108004,
+        "slowEndTime": 112892
+    }
+]

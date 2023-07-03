@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Tennis superstar Maria Sharapova has been suspended from the game...",
+        "startTime": 50,
+        "endTime": 3896,
+        "slowStartTime": 122,
+        "slowEndTime": 6069
+    },
+    {
+        "text": "...after a positive drug test.",
+        "startTime": 3977,
+        "endTime": 5908,
+        "slowStartTime": 6115,
+        "slowEndTime": 9087
+    },
+    {
+        "text": "The International Tennis Federation said it was banning Sharapova for two years...",
+        "startTime": 6125,
+        "endTime": 10788,
+        "slowStartTime": 9338,
+        "slowEndTime": 16407
+    },
+    {
+        "text": "...because she tested positive for meldonium at the Australian Open.",
+        "startTime": 10901,
+        "endTime": 14815,
+        "slowStartTime": 16501,
+        "slowEndTime": 22447
+    },
+    {
+        "text": "The drug was placed on the banned substances list on January 1st.",
+        "startTime": 15028,
+        "endTime": 19684,
+        "slowStartTime": 22692,
+        "slowEndTime": 29751
+    },
+    {
+        "text": "Sharapova said she had been taking it for about ten years for health issues...",
+        "startTime": 20146,
+        "endTime": 24619,
+        "slowStartTime": 30369,
+        "slowEndTime": 37154
+    },
+    {
+        "text": "...and she said she will appeal.",
+        "startTime": 24703,
+        "endTime": 26139,
+        "slowStartTime": 37204,
+        "slowEndTime": 39433
+    }
+]

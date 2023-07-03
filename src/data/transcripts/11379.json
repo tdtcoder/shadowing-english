@@ -1,0 +1,156 @@
+[
+    {
+        "text": "This is how Americans greet winter.",
+        "startTime": 1000,
+        "endTime": 3130,
+        "slowStartTime": 1680,
+        "slowEndTime": 4800
+    },
+    {
+        "text": "State highway departments demonstrate their latest snowplow techniques...",
+        "startTime": 3300,
+        "endTime": 6740,
+        "slowStartTime": 5090,
+        "slowEndTime": 10160
+    },
+    {
+        "text": "...and their mountain of salt for deicing roads.",
+        "startTime": 7100,
+        "endTime": 10110,
+        "slowStartTime": 10790,
+        "slowEndTime": 15170
+    },
+    {
+        "text": "Snowplow drivers show how cumbersome it is to drive a plow...",
+        "startTime": 10570,
+        "endTime": 14040,
+        "slowStartTime": 15960,
+        "slowEndTime": 21110
+    },
+    {
+        "text": "...and reflect on 2010's extreme weather.",
+        "startTime": 14380,
+        "endTime": 17280,
+        "slowStartTime": 21710,
+        "slowEndTime": 26000
+    },
+    {
+        "text": "Lots of snow.",
+        "startTime": 18050,
+        "endTime": 18750,
+        "slowStartTime": 27180,
+        "slowEndTime": 28270
+    },
+    {
+        "text": "There's too much snow.",
+        "startTime": 19650,
+        "endTime": 20480,
+        "slowStartTime": 29520,
+        "slowEndTime": 30780
+    },
+    {
+        "text": "In February, more than 50 centimeters of new snow,...",
+        "startTime": 21650,
+        "endTime": 24800,
+        "slowStartTime": 32595,
+        "slowEndTime": 37350
+    },
+    {
+        "text": "...fell on top of 90 centimeters of snow from a few days earlier.",
+        "startTime": 24950,
+        "endTime": 28590,
+        "slowStartTime": 37490,
+        "slowEndTime": 43040
+    },
+    {
+        "text": "On the other side of the globe, snow shut down Beijing,...",
+        "startTime": 29130,
+        "endTime": 32230,
+        "slowStartTime": 43840,
+        "slowEndTime": 48480
+    },
+    {
+        "text": "...with temperatures as low as minus 16 degrees Celsius.",
+        "startTime": 32530,
+        "endTime": 35900,
+        "slowStartTime": 48920,
+        "slowEndTime": 53905
+    },
+    {
+        "text": "But while Washington and Beijing dug out in winter, others sweated it out later in the summer.",
+        "startTime": 36400,
+        "endTime": 41970,
+        "slowStartTime": 54740,
+        "slowEndTime": 62990
+    },
+    {
+        "text": "First in Washington, stifling summer heat.",
+        "startTime": 42340,
+        "endTime": 45410,
+        "slowStartTime": 63590,
+        "slowEndTime": 68220
+    },
+    {
+        "text": "It's excruciatingly hot out here and all I wanna do is keep cool.",
+        "startTime": 45740,
+        "endTime": 49140,
+        "slowStartTime": 68670,
+        "slowEndTime": 73870
+    },
+    {
+        "text": "I'm looking for the nearest pool but I'll take a sprinkler at anytime.",
+        "startTime": 49240,
+        "endTime": 52050,
+        "slowStartTime": 73970,
+        "slowEndTime": 78115
+    },
+    {
+        "text": "Earlier in June, 32 degrees Celsius, in Moscow!",
+        "startTime": 53220,
+        "endTime": 57790,
+        "slowStartTime": 79975,
+        "slowEndTime": 86640
+    },
+    {
+        "text": "Children have gotten tired from the frost. They are enjoying the sun.",
+        "startTime": 59430,
+        "endTime": 63430,
+        "slowStartTime": 89240,
+        "slowEndTime": 95255
+    },
+    {
+        "text": "A month later in Russia, forest fires...",
+        "startTime": 64620,
+        "endTime": 67300,
+        "slowStartTime": 97030,
+        "slowEndTime": 101070
+    },
+    {
+        "text": "...and mass evacuations.",
+        "startTime": 69800,
+        "endTime": 71670,
+        "slowStartTime": 104795,
+        "slowEndTime": 107640
+    },
+    {
+        "text": "August in China, mudslides and torrential rains.",
+        "startTime": 74070,
+        "endTime": 77770,
+        "slowStartTime": 111250,
+        "slowEndTime": 116720
+    },
+    {
+        "text": "There are probably eight people buried underneath at this site.",
+        "startTime": 79070,
+        "endTime": 82380,
+        "slowStartTime": 118710,
+        "slowEndTime": 123700
+    },
+    {
+        "text": "In Pakistan, devastating floods put a fifth of the country underwater.",
+        "startTime": 83810,
+        "endTime": 88520,
+        "slowStartTime": 125770,
+        "slowEndTime": 132750
+    }
+]

@@ -1,0 +1,387 @@
+[
+    {
+        "text": "We're all taught to eat healthy and be aware of our calorie intake through the day.",
+        "startTime": 445,
+        "endTime": 3667,
+        "slowStartTime": 817,
+        "slowEndTime": 5726
+    },
+    {
+        "text": "But have you ever stopped to think about what those calories look like?",
+        "startTime": 3824,
+        "endTime": 6738,
+        "slowStartTime": 5886,
+        "slowEndTime": 10332
+    },
+    {
+        "text": "For example, this is 200 calories worth of apple.",
+        "startTime": 7227,
+        "endTime": 10087,
+        "slowStartTime": 10991,
+        "slowEndTime": 15355
+    },
+    {
+        "text": "On the other hand, if we take 200 calories of cheese,...",
+        "startTime": 10577,
+        "endTime": 13213,
+        "slowStartTime": 16015,
+        "slowEndTime": 20044
+    },
+    {
+        "text": "...it doesn't look quite the same in terms of volume.",
+        "startTime": 13375,
+        "endTime": 15750,
+        "slowStartTime": 20213,
+        "slowEndTime": 23850
+    },
+    {
+        "text": "Throw 200 calories of wine into the mix for a nice wine and cheese...",
+        "startTime": 16168,
+        "endTime": 19569,
+        "slowStartTime": 24402,
+        "slowEndTime": 29578
+    },
+    {
+        "text": "...and you have three very different looking versions of 200 calories.",
+        "startTime": 19868,
+        "endTime": 23083,
+        "slowStartTime": 29952,
+        "slowEndTime": 34850
+    },
+    {
+        "text": "Now compare that wine to beer or rum...",
+        "startTime": 23577,
+        "endTime": 25974,
+        "slowStartTime": 35515,
+        "slowEndTime": 39186
+    },
+    {
+        "text": "..and you have three very different party nights for your stomach.",
+        "startTime": 26286,
+        "endTime": 28938,
+        "slowStartTime": 39579,
+        "slowEndTime": 43632
+    },
+    {
+        "text": "Or how about the eggs you had for breakfast?",
+        "startTime": 29296,
+        "endTime": 31163,
+        "slowStartTime": 44094,
+        "slowEndTime": 46970
+    },
+    {
+        "text": "Compare that to 200 calories of sweet cereal you had the other day...",
+        "startTime": 31406,
+        "endTime": 34583,
+        "slowStartTime": 47259,
+        "slowEndTime": 52100
+    },
+    {
+        "text": "...or even some oatmeal and they're bound to seem a bit different.",
+        "startTime": 34927,
+        "endTime": 37939,
+        "slowStartTime": 52540,
+        "slowEndTime": 57133
+    },
+    {
+        "text": "But if you had gotten a sausage and egg breakfast sandwich, you'll be looking at even less.",
+        "startTime": 38201,
+        "endTime": 42515,
+        "slowStartTime": 57452,
+        "slowEndTime": 63997
+    },
+    {
+        "text": "Broccoli?",
+        "startTime": 42758,
+        "endTime": 43279,
+        "slowStartTime": 64287,
+        "slowEndTime": 65143
+    },
+    {
+        "text": "You may be surprised by the amount you can eat before you hit 200 calories,...",
+        "startTime": 43547,
+        "endTime": 46657,
+        "slowStartTime": 65470,
+        "slowEndTime": 70211
+    },
+    {
+        "text": "...not to mention the stuff is packed with nutrients and a great source of fiber.",
+        "startTime": 46908,
+        "endTime": 50201,
+        "slowStartTime": 70512,
+        "slowEndTime": 75527
+    },
+    {
+        "text": "A slice of pizza?",
+        "startTime": 50575,
+        "endTime": 51377,
+        "slowStartTime": 76012,
+        "slowEndTime": 77291
+    },
+    {
+        "text": "Less than a slice if it has pepperoni on it.",
+        "startTime": 51920,
+        "endTime": 53897,
+        "slowStartTime": 78030,
+        "slowEndTime": 81070
+    },
+    {
+        "text": "And what about the classic Big Mac?",
+        "startTime": 54279,
+        "endTime": 55985,
+        "slowStartTime": 81569,
+        "slowEndTime": 84202
+    },
+    {
+        "text": "Try a 200-calorie small Mac.",
+        "startTime": 56337,
+        "endTime": 58771,
+        "slowStartTime": 84656,
+        "slowEndTime": 88382
+    },
+    {
+        "text": "And since calories are simply units of energy, with the calories of 217 Big Macs,...",
+        "startTime": 58919,
+        "endTime": 63665,
+        "slowStartTime": 88528,
+        "slowEndTime": 95722
+    },
+    {
+        "text": "...you could drive your car 35 kilometers.",
+        "startTime": 63879,
+        "endTime": 66147,
+        "slowStartTime": 95968,
+        "slowEndTime": 99445
+    },
+    {
+        "text": "So wait, what is a calorie?",
+        "startTime": 66648,
+        "endTime": 68459,
+        "slowStartTime": 100122,
+        "slowEndTime": 102914
+    },
+    {
+        "text": "Specifically, a calorie is the amount of energy or heat it takes...",
+        "startTime": 68699,
+        "endTime": 71886,
+        "slowStartTime": 103199,
+        "slowEndTime": 108054
+    },
+    {
+        "text": "...to raise the temperature of one gram of water by one degree Celsius.",
+        "startTime": 71961,
+        "endTime": 75697,
+        "slowStartTime": 108091,
+        "slowEndTime": 113771
+    },
+    {
+        "text": "We need energy to survive and we get it from food.",
+        "startTime": 76125,
+        "endTime": 78652,
+        "slowStartTime": 114337,
+        "slowEndTime": 118203
+    },
+    {
+        "text": "Carbohydrates, protein and fats are the building blocks of our food...",
+        "startTime": 78901,
+        "endTime": 81850,
+        "slowStartTime": 118501,
+        "slowEndTime": 123000
+    },
+    {
+        "text": "...and each contributes a different amount of energy to our bodies.",
+        "startTime": 81923,
+        "endTime": 84575,
+        "slowStartTime": 123035,
+        "slowEndTime": 127087
+    },
+    {
+        "text": "The average person needs somewhere between 2,000 to 2,700 calories a day...",
+        "startTime": 84973,
+        "endTime": 89407,
+        "slowStartTime": 127610,
+        "slowEndTime": 134336
+    },
+    {
+        "text": "...depending on factors like height, weight, gender and age.",
+        "startTime": 89727,
+        "endTime": 92515,
+        "slowStartTime": 134740,
+        "slowEndTime": 138997
+    },
+    {
+        "text": "And some foods like peanut butter are calorie-dense, filling this requirement faster.",
+        "startTime": 92761,
+        "endTime": 96467,
+        "slowStartTime": 139291,
+        "slowEndTime": 144926
+    },
+    {
+        "text": "Or that muffin you ate as a snack?",
+        "startTime": 96859,
+        "endTime": 98629,
+        "slowStartTime": 145438,
+        "slowEndTime": 148168
+    },
+    {
+        "text": "Chances are its calorie content is higher than you thought.",
+        "startTime": 99022,
+        "endTime": 101666,
+        "slowStartTime": 148683,
+        "slowEndTime": 152724
+    },
+    {
+        "text": "And those irresistible Doritos?",
+        "startTime": 101965,
+        "endTime": 103643,
+        "slowStartTime": 153097,
+        "slowEndTime": 155690
+    },
+    {
+        "text": "Don't lie, you ate the whole bag.",
+        "startTime": 104145,
+        "endTime": 105546,
+        "slowStartTime": 156367,
+        "slowEndTime": 158544
+    },
+    {
+        "text": "Unlike celery which has very few calories, giving you lots to munch on, or carrots.",
+        "startTime": 105831,
+        "endTime": 110545,
+        "slowStartTime": 158897,
+        "slowEndTime": 166043
+    },
+    {
+        "text": "Not so much Hershey's Kisses.",
+        "startTime": 110907,
+        "endTime": 112516,
+        "slowStartTime": 166511,
+        "slowEndTime": 168999
+    },
+    {
+        "text": "And if you're eating salad to limit calories,...",
+        "startTime": 112763,
+        "endTime": 114651,
+        "slowStartTime": 169294,
+        "slowEndTime": 172201
+    },
+    {
+        "text": "...watch out for creamy dressing, particularly French dressing.",
+        "startTime": 114928,
+        "endTime": 118045,
+        "slowStartTime": 172542,
+        "slowEndTime": 177293
+    },
+    {
+        "text": "On its own, black coffee is quite low in calories.",
+        "startTime": 118514,
+        "endTime": 121037,
+        "slowStartTime": 177921,
+        "slowEndTime": 181780
+    },
+    {
+        "text": "You can have a lot before you hit 200 calories.",
+        "startTime": 121161,
+        "endTime": 123116,
+        "slowStartTime": 181891,
+        "slowEndTime": 184899
+    },
+    {
+        "text": "But once you add one cream and one sugar, those calories quickly add up.",
+        "startTime": 123435,
+        "endTime": 126978,
+        "slowStartTime": 185302,
+        "slowEndTime": 190692
+    },
+    {
+        "text": "Turn it into a specialty drink like an Iced Peppermint White Mocha...",
+        "startTime": 127359,
+        "endTime": 130494,
+        "slowStartTime": 191189,
+        "slowEndTime": 195966
+    },
+    {
+        "text": "...and you might be shocked at the amount left.",
+        "startTime": 130840,
+        "endTime": 132617,
+        "slowStartTime": 196410,
+        "slowEndTime": 199150
+    },
+    {
+        "text": "But just because something has less calories...",
+        "startTime": 132918,
+        "endTime": 135039,
+        "slowStartTime": 199527,
+        "slowEndTime": 202783
+    },
+    {
+        "text": "...doesn't necessarily mean it's healthier or better for you.",
+        "startTime": 135169,
+        "endTime": 137727,
+        "slowStartTime": 202903,
+        "slowEndTime": 206815
+    },
+    {
+        "text": "Take for example this 200 calories of Coke versus 200 calories of whole milk.",
+        "startTime": 138105,
+        "endTime": 142368,
+        "slowStartTime": 207308,
+        "slowEndTime": 213777
+    },
+    {
+        "text": "While it's true that the Coke contains fewer calories per liter,...",
+        "startTime": 142857,
+        "endTime": 145708,
+        "slowStartTime": 214436,
+        "slowEndTime": 218787
+    },
+    {
+        "text": "...you can't forget that milk contains many nutrients and healthy fats.",
+        "startTime": 146011,
+        "endTime": 149196,
+        "slowStartTime": 219167,
+        "slowEndTime": 224019
+    },
+    {
+        "text": "Or like brown bread versus white bread.",
+        "startTime": 149613,
+        "endTime": 151404,
+        "slowStartTime": 224570,
+        "slowEndTime": 227331
+    },
+    {
+        "text": "Yes, whole wheat bread often contains more calories per slice...",
+        "startTime": 151852,
+        "endTime": 154764,
+        "slowStartTime": 227928,
+        "slowEndTime": 232371
+    },
+    {
+        "text": "...but it also contains more nutrients and fiber.",
+        "startTime": 155095,
+        "endTime": 157399,
+        "slowStartTime": 232792,
+        "slowEndTime": 236324
+    },
+    {
+        "text": "So counting calories isn't the be-all and end-all.",
+        "startTime": 157716,
+        "endTime": 160619,
+        "slowStartTime": 236724,
+        "slowEndTime": 241153
+    },
+    {
+        "text": "But thinking about what goes into your body is bound to make a difference.",
+        "startTime": 160808,
+        "endTime": 163941,
+        "slowStartTime": 241362,
+        "slowEndTime": 246137
+    },
+    {
+        "text": "At the end of the day, eat a healthy and balanced diet.",
+        "startTime": 164247,
+        "endTime": 167181,
+        "slowStartTime": 246521,
+        "slowEndTime": 250996
+    }
+]

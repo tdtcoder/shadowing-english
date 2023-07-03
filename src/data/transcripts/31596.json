@@ -1,0 +1,135 @@
+[
+    {
+        "text": "﻿In 1959, the Tokaido Shinkansen line...",
+        "startTime": 1119,
+        "endTime": 3733,
+        "slowStartTime": 1829,
+        "slowEndTime": 5824
+    },
+    {
+        "text": "...started construction under Sogo's leadership.",
+        "startTime": 3842,
+        "endTime": 5983,
+        "slowStartTime": 5913,
+        "slowEndTime": 9199
+    },
+    {
+        "text": "Shima was appointed the project's chief engineer.",
+        "startTime": 6428,
+        "endTime": 8615,
+        "slowStartTime": 9792,
+        "slowEndTime": 13148
+    },
+    {
+        "text": "His team designed the sleek and revolutionary cone-shaped front,...",
+        "startTime": 9072,
+        "endTime": 12391,
+        "slowStartTime": 13758,
+        "slowEndTime": 18812
+    },
+    {
+        "text": "...from which the bullet train got its name.",
+        "startTime": 12872,
+        "endTime": 14629,
+        "slowStartTime": 19458,
+        "slowEndTime": 22168
+    },
+    {
+        "text": "Rather than being pulled by an engine in front,...",
+        "startTime": 15256,
+        "endTime": 17371,
+        "slowStartTime": 23034,
+        "slowEndTime": 26282
+    },
+    {
+        "text": "...each carriage of the bullet train...",
+        "startTime": 17570,
+        "endTime": 18845,
+        "slowStartTime": 26505,
+        "slowEndTime": 28493
+    },
+    {
+        "text": "...was driven by an individual electric motor,...",
+        "startTime": 18923,
+        "endTime": 21131,
+        "slowStartTime": 28534,
+        "slowEndTime": 31921
+    },
+    {
+        "text": "...which has proven to be safer, faster and more efficient.",
+        "startTime": 21450,
+        "endTime": 24668,
+        "slowStartTime": 32325,
+        "slowEndTime": 37227
+    },
+    {
+        "text": "Apart from the train itself, the team also built wider tracks,...",
+        "startTime": 25227,
+        "endTime": 28549,
+        "slowStartTime": 37990,
+        "slowEndTime": 43048
+    },
+    {
+        "text": "...which were more costly but allowed for greater stability and higher speeds.",
+        "startTime": 28722,
+        "endTime": 32425,
+        "slowStartTime": 43233,
+        "slowEndTime": 48863
+    },
+    {
+        "text": "Three thousand bridges and 67 tunnels were built on the 515-kilometer line...",
+        "startTime": 33174,
+        "endTime": 38095,
+        "slowStartTime": 49911,
+        "slowEndTime": 57368
+    },
+    {
+        "text": "...to allow a clear and largely curveless path.",
+        "startTime": 38363,
+        "endTime": 40675,
+        "slowStartTime": 57694,
+        "slowEndTime": 61237
+    },
+    {
+        "text": "Older trains were banned from the new line.",
+        "startTime": 40950,
+        "endTime": 42942,
+        "slowStartTime": 61575,
+        "slowEndTime": 64638
+    },
+    {
+        "text": "Equipped with advanced technologies,...",
+        "startTime": 43178,
+        "endTime": 44919,
+        "slowStartTime": 64917,
+        "slowEndTime": 67604
+    },
+    {
+        "text": "...the new trains were able to travel as fast as 210 kilometers per hour,...",
+        "startTime": 45029,
+        "endTime": 48540,
+        "slowStartTime": 67693,
+        "slowEndTime": 73035
+    },
+    {
+        "text": "...a breakthrough in the passenger rail industry...",
+        "startTime": 48784,
+        "endTime": 50685,
+        "slowStartTime": 73326,
+        "slowEndTime": 76252
+    },
+    {
+        "text": "...and the world's fastest at the time.",
+        "startTime": 50901,
+        "endTime": 52584,
+        "slowStartTime": 76501,
+        "slowEndTime": 79101
+    },
+    {
+        "text": "The journey time between Tokyo and Osaka was cut from over six hours to four.",
+        "startTime": 52783,
+        "endTime": 57059,
+        "slowStartTime": 79325,
+        "slowEndTime": 85814
+    }
+]

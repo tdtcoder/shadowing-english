@@ -1,0 +1,86 @@
+[
+    {
+        "text": "In 1942, Albert Einstein was teaching at Oxford University.",
+        "startTime": 61,
+        "endTime": 3929,
+        "slowStartTime": 242,
+        "slowEndTime": 6119
+    },
+    {
+        "text": "And one day, he just gave an exam of physics...",
+        "startTime": 4559,
+        "endTime": 7509,
+        "slowStartTime": 6988,
+        "slowEndTime": 11488
+    },
+    {
+        "text": "...to his senior class of physics students.",
+        "startTime": 7596,
+        "endTime": 9598,
+        "slowStartTime": 11544,
+        "slowEndTime": 14622
+    },
+    {
+        "text": "And he was walking on the campus with his assistant,...",
+        "startTime": 9987,
+        "endTime": 12479,
+        "slowStartTime": 15130,
+        "slowEndTime": 18943
+    },
+    {
+        "text": "...and all of a sudden, the assistant looked at Albert Einstein and said,...",
+        "startTime": 12840,
+        "endTime": 15622,
+        "slowStartTime": 19410,
+        "slowEndTime": 23658
+    },
+    {
+        "text": "...\"Dr. Einstein, this exam which you just gave...",
+        "startTime": 16064,
+        "endTime": 19883,
+        "slowStartTime": 24246,
+        "slowEndTime": 30049
+    },
+    {
+        "text": "...to the senior class of physics students,...",
+        "startTime": 20266,
+        "endTime": 22120,
+        "slowStartTime": 30549,
+        "slowEndTime": 33405
+    },
+    {
+        "text": "...isn't that exactly the same exam you gave to...",
+        "startTime": 22615,
+        "endTime": 25503,
+        "slowStartTime": 34073,
+        "slowEndTime": 38479
+    },
+    {
+        "text": "...exactly the same class one year ago?\"",
+        "startTime": 25601,
+        "endTime": 28083,
+        "slowStartTime": 38552,
+        "slowEndTime": 42350
+    },
+    {
+        "text": "\"Yeah, yeah, it's exactly the same.\"",
+        "startTime": 30105,
+        "endTime": 32604,
+        "slowStartTime": 45308,
+        "slowEndTime": 49131
+    },
+    {
+        "text": "\"But Dr. Einstein, how could you possibly do that?\" he said.",
+        "startTime": 34374,
+        "endTime": 37003,
+        "slowStartTime": 51711,
+        "slowEndTime": 55730
+    },
+    {
+        "text": "\"Well,\" said Einstein, \"the answers have changed.\"",
+        "startTime": 37217,
+        "endTime": 39940,
+        "slowStartTime": 55976,
+        "slowEndTime": 60135
+    }
+]

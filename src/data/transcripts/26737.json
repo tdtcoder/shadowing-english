@@ -1,0 +1,93 @@
+[
+    {
+        "text": "﻿Walmart is taking direct aim...",
+        "startTime": 1865,
+        "endTime": 3658,
+        "slowStartTime": 2948,
+        "slowEndTime": 5712
+    },
+    {
+        "text": "...at rival Amazon's Prime Fresh same-day grocery delivery service.",
+        "startTime": 3754,
+        "endTime": 7953,
+        "slowStartTime": 5781,
+        "slowEndTime": 12154
+    },
+    {
+        "text": "The world's largest retailer is testing out a program,...",
+        "startTime": 8203,
+        "endTime": 10806,
+        "slowStartTime": 12454,
+        "slowEndTime": 16434
+    },
+    {
+        "text": "...where it will partner with ride-hailing services Uber and Lyft...",
+        "startTime": 11125,
+        "endTime": 14383,
+        "slowStartTime": 16838,
+        "slowEndTime": 21800
+    },
+    {
+        "text": "...for same-day online grocery deliveries.",
+        "startTime": 14701,
+        "endTime": 17077,
+        "slowStartTime": 22201,
+        "slowEndTime": 25841
+    },
+    {
+        "text": "Walmart will start testing the deliveries within the next two weeks...",
+        "startTime": 17517,
+        "endTime": 20376,
+        "slowStartTime": 26425,
+        "slowEndTime": 30789
+    },
+    {
+        "text": "...in Denver and Phoenix.",
+        "startTime": 20502,
+        "endTime": 21803,
+        "slowStartTime": 30903,
+        "slowEndTime": 32930
+    },
+    {
+        "text": "The move comes on the heels of another pilot program...",
+        "startTime": 22231,
+        "endTime": 24847,
+        "slowStartTime": 33496,
+        "slowEndTime": 37496
+    },
+    {
+        "text": "...from its warehouse unit, Sam's Club,...",
+        "startTime": 25147,
+        "endTime": 27061,
+        "slowStartTime": 37871,
+        "slowEndTime": 40816
+    },
+    {
+        "text": "...with start-up Deliv in Miami that started in March.",
+        "startTime": 27335,
+        "endTime": 30853,
+        "slowStartTime": 41152,
+        "slowEndTime": 46505
+    },
+    {
+        "text": "Walmart will charge customers a delivery fee of seven to ten dollars.",
+        "startTime": 31198,
+        "endTime": 34875,
+        "slowStartTime": 46947,
+        "slowEndTime": 52538
+    },
+    {
+        "text": "The Walmart store staff will put the order together...",
+        "startTime": 35557,
+        "endTime": 38033,
+        "slowStartTime": 53486,
+        "slowEndTime": 57275
+    },
+    {
+        "text": "...and the ride-hailing services make the delivery.",
+        "startTime": 38324,
+        "endTime": 40726,
+        "slowStartTime": 57636,
+        "slowEndTime": 61314
+    }
+]

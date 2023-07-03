@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Add an \"ly\" to some adjectives to form an adverb.",
+        "startTime": 445,
+        "endTime": 4545,
+        "slowStartTime": 817,
+        "slowEndTime": 7042
+    },
+    {
+        "text": "He is a bad man.",
+        "startTime": 14138,
+        "endTime": 16317,
+        "slowStartTime": 21357,
+        "slowEndTime": 24701
+    },
+    {
+        "text": "Also, he drives badly.",
+        "startTime": 17661,
+        "endTime": 20274,
+        "slowStartTime": 26642,
+        "slowEndTime": 30636
+    },
+    {
+        "text": "This turtle is slow.",
+        "startTime": 24371,
+        "endTime": 27789,
+        "slowStartTime": 36707,
+        "slowEndTime": 41908
+    },
+    {
+        "text": "This turtle walks slowly.",
+        "startTime": 29046,
+        "endTime": 32835,
+        "slowStartTime": 43719,
+        "slowEndTime": 49477
+    },
+    {
+        "text": "The cheetah is quick.",
+        "startTime": 36737,
+        "endTime": 38235,
+        "slowStartTime": 55255,
+        "slowEndTime": 57577
+    },
+    {
+        "text": "The cheetah runs quickly.",
+        "startTime": 39375,
+        "endTime": 41183,
+        "slowStartTime": 59213,
+        "slowEndTime": 61999
+    },
+    {
+        "text": "This is easy!",
+        "startTime": 45085,
+        "endTime": 47079,
+        "slowStartTime": 67778,
+        "slowEndTime": 70843
+    },
+    {
+        "text": "The dog can do this easily.",
+        "startTime": 48149,
+        "endTime": 50699,
+        "slowStartTime": 72373,
+        "slowEndTime": 76274
+    }
+]

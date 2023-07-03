@@ -1,0 +1,86 @@
+[
+    {
+        "text": "﻿Biggest.",
+        "startTime": 5873,
+        "endTime": 6818,
+        "slowStartTime": 8959,
+        "slowEndTime": 10452
+    },
+    {
+        "text": "Bigger.",
+        "startTime": 11811,
+        "endTime": 12689,
+        "slowStartTime": 17866,
+        "slowEndTime": 19259
+    },
+    {
+        "text": "Big.",
+        "startTime": 17938,
+        "endTime": 18693,
+        "slowStartTime": 27057,
+        "slowEndTime": 28265
+    },
+    {
+        "text": "Small.",
+        "startTime": 23760,
+        "endTime": 24769,
+        "slowStartTime": 35790,
+        "slowEndTime": 37379
+    },
+    {
+        "text": "Smaller.",
+        "startTime": 29992,
+        "endTime": 30871,
+        "slowStartTime": 45138,
+        "slowEndTime": 46531
+    },
+    {
+        "text": "Smallest.",
+        "startTime": 35916,
+        "endTime": 36992,
+        "slowStartTime": 54024,
+        "slowEndTime": 55713
+    },
+    {
+        "text": "Smallest.",
+        "startTime": 39208,
+        "endTime": 40754,
+        "slowStartTime": 58962,
+        "slowEndTime": 61356
+    },
+    {
+        "text": "Smaller.",
+        "startTime": 45422,
+        "endTime": 46435,
+        "slowStartTime": 68283,
+        "slowEndTime": 69877
+    },
+    {
+        "text": "Small.",
+        "startTime": 51393,
+        "endTime": 52291,
+        "slowStartTime": 77239,
+        "slowEndTime": 78662
+    },
+    {
+        "text": "Big.",
+        "startTime": 57237,
+        "endTime": 58066,
+        "slowStartTime": 86006,
+        "slowEndTime": 87324
+    },
+    {
+        "text": "Bigger.",
+        "startTime": 63230,
+        "endTime": 64233,
+        "slowStartTime": 94995,
+        "slowEndTime": 96574
+    },
+    {
+        "text": "Biggest.",
+        "startTime": 69397,
+        "endTime": 70585,
+        "slowStartTime": 104245,
+        "slowEndTime": 106103
+    }
+]

@@ -1,0 +1,219 @@
+[
+    {
+        "text": "Hi, Zack.",
+        "startTime": 647,
+        "endTime": 1131,
+        "slowStartTime": 1120,
+        "slowEndTime": 1921
+    },
+    {
+        "text": "Oh hey, Jamie.",
+        "startTime": 1431,
+        "endTime": 2118,
+        "slowStartTime": 2297,
+        "slowEndTime": 3402
+    },
+    {
+        "text": "Are you going back to the office?",
+        "startTime": 2217,
+        "endTime": 3456,
+        "slowStartTime": 3475,
+        "slowEndTime": 5409
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 3667,
+        "endTime": 4103,
+        "slowStartTime": 5651,
+        "slowEndTime": 6379
+    },
+    {
+        "text": "And you're coming back here, right?",
+        "startTime": 4889,
+        "endTime": 6027,
+        "slowStartTime": 7483,
+        "slowEndTime": 9265
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 6279,
+        "endTime": 6533,
+        "slowStartTime": 9569,
+        "slowEndTime": 10024
+    },
+    {
+        "text": "Could you bring my big red notebook?",
+        "startTime": 7313,
+        "endTime": 8909,
+        "slowStartTime": 11120,
+        "slowEndTime": 13589
+    },
+    {
+        "text": "Big red notebook?",
+        "startTime": 9121,
+        "endTime": 10006,
+        "slowStartTime": 13832,
+        "slowEndTime": 15234
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 10642,
+        "endTime": 10848,
+        "slowStartTime": 16113,
+        "slowEndTime": 16497
+    },
+    {
+        "text": "Sure.",
+        "startTime": 11218,
+        "endTime": 11595,
+        "slowStartTime": 16977,
+        "slowEndTime": 17617
+    },
+    {
+        "text": "Where is it?",
+        "startTime": 11783,
+        "endTime": 12288,
+        "slowStartTime": 17825,
+        "slowEndTime": 18657
+    },
+    {
+        "text": "It's inside my drawer.",
+        "startTime": 12823,
+        "endTime": 14005,
+        "slowStartTime": 19385,
+        "slowEndTime": 21232
+    },
+    {
+        "text": "Okay.",
+        "startTime": 14281,
+        "endTime": 14787,
+        "slowStartTime": 21571,
+        "slowEndTime": 22406
+    },
+    {
+        "text": "Or maybe on the table inside the meeting room.",
+        "startTime": 15311,
+        "endTime": 18120,
+        "slowStartTime": 23116,
+        "slowEndTime": 27405
+    },
+    {
+        "text": "Okay.",
+        "startTime": 18506,
+        "endTime": 18943,
+        "slowStartTime": 27909,
+        "slowEndTime": 28639
+    },
+    {
+        "text": "Okay, so when you enter the meeting room,...",
+        "startTime": 20051,
+        "endTime": 22722,
+        "slowStartTime": 30227,
+        "slowEndTime": 34308
+    },
+    {
+        "text": "...you will see a round white table.",
+        "startTime": 22883,
+        "endTime": 24829,
+        "slowStartTime": 34475,
+        "slowEndTime": 37469
+    },
+    {
+        "text": "My notebook is on it.",
+        "startTime": 25471,
+        "endTime": 26599,
+        "slowStartTime": 38356,
+        "slowEndTime": 40123
+    },
+    {
+        "text": "Round white table.",
+        "startTime": 26905,
+        "endTime": 27938,
+        "slowStartTime": 40507,
+        "slowEndTime": 42132
+    },
+    {
+        "text": "Okay",
+        "startTime": 28346,
+        "endTime": 28765,
+        "slowStartTime": 42669,
+        "slowEndTime": 43373
+    },
+    {
+        "text": "And, my red notebook is under a black notebook on the table.",
+        "startTime": 29493,
+        "endTime": 33433,
+        "slowStartTime": 44390,
+        "slowEndTime": 50374
+    },
+    {
+        "text": "Under a black notebook on the table.",
+        "startTime": 33762,
+        "endTime": 35845,
+        "slowStartTime": 50793,
+        "slowEndTime": 53992
+    },
+    {
+        "text": "Okay.",
+        "startTime": 36214,
+        "endTime": 36605,
+        "slowStartTime": 54471,
+        "slowEndTime": 55133
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 37046,
+        "endTime": 37415,
+        "slowStartTime": 55719,
+        "slowEndTime": 56347
+    },
+    {
+        "text": "I think it's on the table, but it might be inside my drawer,...",
+        "startTime": 38005,
+        "endTime": 42045,
+        "slowStartTime": 57158,
+        "slowEndTime": 63292
+    },
+    {
+        "text": "...or on the shelf near the door.",
+        "startTime": 42817,
+        "endTime": 44639,
+        "slowStartTime": 64376,
+        "slowEndTime": 67183
+    },
+    {
+        "text": "You don't know?",
+        "startTime": 45033,
+        "endTime": 45791,
+        "slowStartTime": 67700,
+        "slowEndTime": 68912
+    },
+    {
+        "text": "I'm not sure.",
+        "startTime": 46473,
+        "endTime": 47191,
+        "slowStartTime": 69859,
+        "slowEndTime": 71012
+    },
+    {
+        "text": "I'm sorry.",
+        "startTime": 47264,
+        "endTime": 47886,
+        "slowStartTime": 71046,
+        "slowEndTime": 72054
+    },
+    {
+        "text": "Okay, I'll look.",
+        "startTime": 48127,
+        "endTime": 49248,
+        "slowStartTime": 72341,
+        "slowEndTime": 74097
+    },
+    {
+        "text": "Thanks.",
+        "startTime": 49585,
+        "endTime": 50218,
+        "slowStartTime": 74528,
+        "slowEndTime": 75552
+    }
+]

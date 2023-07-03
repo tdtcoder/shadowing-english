@@ -1,0 +1,51 @@
+[
+    {
+        "text": "And I'll have a french fry, I mean the fruit cup.",
+        "startTime": 100,
+        "endTime": 2200,
+        "slowStartTime": 350,
+        "slowEndTime": 3500
+    },
+    {
+        "text": "Hey, I thought?",
+        "startTime": 11950,
+        "endTime": 13200,
+        "slowStartTime": 18125,
+        "slowEndTime": 20000
+    },
+    {
+        "text": "Pepsi Max, zero calories.",
+        "startTime": 14000,
+        "endTime": 16150,
+        "slowStartTime": 21200,
+        "slowEndTime": 24450
+    },
+    {
+        "text": "Maximum taste.",
+        "startTime": 16700,
+        "endTime": 18250,
+        "slowStartTime": 25300,
+        "slowEndTime": 27525
+    },
+    {
+        "text": "Hey!",
+        "startTime": 20100,
+        "endTime": 20500,
+        "slowStartTime": 30325,
+        "slowEndTime": 31000
+    },
+    {
+        "text": "Honey, honey!",
+        "startTime": 23450,
+        "endTime": 23900,
+        "slowStartTime": 35375,
+        "slowEndTime": 35975
+    },
+    {
+        "text": "Sorry!",
+        "startTime": 28200,
+        "endTime": 28700,
+        "slowStartTime": 42500,
+        "slowEndTime": 43400
+    }
+]

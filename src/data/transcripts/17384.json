@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Bait.",
+        "startTime": 2775,
+        "endTime": 3349,
+        "slowStartTime": 4312,
+        "slowEndTime": 5249
+    },
+    {
+        "text": "This is fishing bait.",
+        "startTime": 4297,
+        "endTime": 5987,
+        "slowStartTime": 6595,
+        "slowEndTime": 9205
+    },
+    {
+        "text": "This is a lot of fishing bait.",
+        "startTime": 7357,
+        "endTime": 9524,
+        "slowStartTime": 11186,
+        "slowEndTime": 14511
+    },
+    {
+        "text": "Pail.",
+        "startTime": 10995,
+        "endTime": 11532,
+        "slowStartTime": 16643,
+        "slowEndTime": 17523
+    },
+    {
+        "text": "I carry a pail.",
+        "startTime": 12427,
+        "endTime": 14097,
+        "slowStartTime": 18791,
+        "slowEndTime": 21371
+    },
+    {
+        "text": "I carry a water pail.",
+        "startTime": 15501,
+        "endTime": 17645,
+        "slowStartTime": 23402,
+        "slowEndTime": 26693
+    },
+    {
+        "text": "Rain.",
+        "startTime": 19049,
+        "endTime": 19563,
+        "slowStartTime": 28723,
+        "slowEndTime": 29570
+    },
+    {
+        "text": "I like rain.",
+        "startTime": 20414,
+        "endTime": 21574,
+        "slowStartTime": 30771,
+        "slowEndTime": 32586
+    },
+    {
+        "text": "I like to play in the rain.",
+        "startTime": 23010,
+        "endTime": 25051,
+        "slowStartTime": 34665,
+        "slowEndTime": 37801
+    },
+    {
+        "text": "Tail.",
+        "startTime": 26437,
+        "endTime": 27134,
+        "slowStartTime": 39805,
+        "slowEndTime": 40926
+    },
+    {
+        "text": "The tail is long.",
+        "startTime": 27874,
+        "endTime": 29425,
+        "slowStartTime": 41961,
+        "slowEndTime": 44363
+    },
+    {
+        "text": "The tail is long and black.",
+        "startTime": 30896,
+        "endTime": 32941,
+        "slowStartTime": 46494,
+        "slowEndTime": 49637
+    },
+    {
+        "text": "Let's make a sandwich, make a sandwich.",
+        "startTime": 38571,
+        "endTime": 41970,
+        "slowStartTime": 58007,
+        "slowEndTime": 63180
+    },
+    {
+        "text": "First, get some bread, get some bread.",
+        "startTime": 42333,
+        "endTime": 45462,
+        "slowStartTime": 63649,
+        "slowEndTime": 68418
+    },
+    {
+        "text": "Butter, butter, put some butter on the bread.",
+        "startTime": 46099,
+        "endTime": 49299,
+        "slowStartTime": 69298,
+        "slowEndTime": 74174
+    },
+    {
+        "text": "Lettuce, lettuce, put some lettuce on the butter.",
+        "startTime": 49856,
+        "endTime": 53054,
+        "slowStartTime": 74934,
+        "slowEndTime": 79806
+    },
+    {
+        "text": "Tomatoes, tomatoes, put some tomatoes on the lettuce.",
+        "startTime": 53490,
+        "endTime": 58126,
+        "slowStartTime": 80385,
+        "slowEndTime": 87414
+    },
+    {
+        "text": "Meat, meat, put some meat on the tomatoes.",
+        "startTime": 61039,
+        "endTime": 64473,
+        "slowStartTime": 91709,
+        "slowEndTime": 96935
+    },
+    {
+        "text": "Bread, bread, put some bread on the meat.",
+        "startTime": 64860,
+        "endTime": 68086,
+        "slowStartTime": 97440,
+        "slowEndTime": 102354
+    },
+    {
+        "text": "Now we are done.",
+        "startTime": 68609,
+        "endTime": 69916,
+        "slowStartTime": 103064,
+        "slowEndTime": 105099
+    },
+    {
+        "text": "Take a big bite!",
+        "startTime": 70471,
+        "endTime": 71713,
+        "slowStartTime": 105857,
+        "slowEndTime": 107794
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Good afternoon, this is your captain speaking with just a little flight information.",
+        "startTime": 193,
+        "endTime": 4154,
+        "slowStartTime": 440,
+        "slowEndTime": 6456
+    },
+    {
+        "text": "Coming up on the left, we're going to be catching a glimpse of the Grand Canyon,...",
+        "startTime": 4255,
+        "endTime": 7573,
+        "slowStartTime": 6532,
+        "slowEndTime": 11585
+    },
+    {
+        "text": "...on the right you can be able to see the Hoover Dam in just a few minutes.",
+        "startTime": 7653,
+        "endTime": 10779,
+        "slowStartTime": 11629,
+        "slowEndTime": 16393
+    },
+    {
+        "text": "We're flying at an altitude of 37,000 feet and our airspeed is 400 miles an hour.",
+        "startTime": 11125,
+        "endTime": 16217,
+        "slowStartTime": 16837,
+        "slowEndTime": 24550
+    },
+    {
+        "text": "Couple little facts here,...",
+        "startTime": 17182,
+        "endTime": 18128,
+        "slowStartTime": 25923,
+        "slowEndTime": 27417
+    },
+    {
+        "text": "...I'm packing a Colt King Cobra, that's a .357 caliber firearm,...",
+        "startTime": 18187,
+        "endTime": 23115,
+        "slowStartTime": 27431,
+        "slowEndTime": 34898
+    },
+    {
+        "text": "..with a black rubber grip and a six inch barrel.",
+        "startTime": 23465,
+        "endTime": 25882,
+        "slowStartTime": 35348,
+        "slowEndTime": 39048
+    },
+    {
+        "text": "Also, the copilot is carrying a Kimber Custom Defense pistol...",
+        "startTime": 26218,
+        "endTime": 29495,
+        "slowStartTime": 39477,
+        "slowEndTime": 44468
+    },
+    {
+        "text": "..with all the bells and whistles you'd expect from a custom gun of that kind,...",
+        "startTime": 29573,
+        "endTime": 32294,
+        "slowStartTime": 44509,
+        "slowEndTime": 48666
+    },
+    {
+        "text": "...with an alloy frame and bevel treatment on the entire gun.",
+        "startTime": 32385,
+        "endTime": 34878,
+        "slowStartTime": 48728,
+        "slowEndTime": 52542
+    },
+    {
+        "text": "And our chief flight attendant, Roger, has a Ruger Bearcat,...",
+        "startTime": 35039,
+        "endTime": 38107,
+        "slowStartTime": 52709,
+        "slowEndTime": 57385
+    },
+    {
+        "text": "...a .22 with a hand-fluted cylinder.",
+        "startTime": 38191,
+        "endTime": 40830,
+        "slowStartTime": 57437,
+        "slowEndTime": 61470
+    },
+    {
+        "text": "All three are capable of piercing body armor at a distance of up to 27 feet...",
+        "startTime": 40962,
+        "endTime": 45150,
+        "slowStartTime": 61593,
+        "slowEndTime": 67950
+    },
+    {
+        "text": "...and can put a hole in human bone and flesh the size of the Grand Canyon,...",
+        "startTime": 45349,
+        "endTime": 48465,
+        "slowStartTime": 68173,
+        "slowEndTime": 72923
+    },
+    {
+        "text": "...which, by the way, is coming up on the left hand side of the plane,...",
+        "startTime": 48543,
+        "endTime": 51141,
+        "slowStartTime": 72964,
+        "slowEndTime": 76936
+    },
+    {
+        "text": "...so just sit back and relax and enjoy the rest of the flight.",
+        "startTime": 51217,
+        "endTime": 53897,
+        "slowStartTime": 76975,
+        "slowEndTime": 81071
+    }
+]

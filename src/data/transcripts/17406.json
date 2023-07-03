@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Bee.",
+        "startTime": 2389,
+        "endTime": 2863,
+        "slowStartTime": 3734,
+        "slowEndTime": 4519
+    },
+    {
+        "text": "The bee is yellow.",
+        "startTime": 3683,
+        "endTime": 5044,
+        "slowStartTime": 5674,
+        "slowEndTime": 7791
+    },
+    {
+        "text": "The bee is yellow and black.",
+        "startTime": 6427,
+        "endTime": 8583,
+        "slowStartTime": 9791,
+        "slowEndTime": 13099
+    },
+    {
+        "text": "Feet.",
+        "startTime": 9961,
+        "endTime": 10406,
+        "slowStartTime": 15092,
+        "slowEndTime": 15834
+    },
+    {
+        "text": "My feet are cold.",
+        "startTime": 11199,
+        "endTime": 12897,
+        "slowStartTime": 16948,
+        "slowEndTime": 19570
+    },
+    {
+        "text": "My hands and feet are cold.",
+        "startTime": 14267,
+        "endTime": 16490,
+        "slowStartTime": 21550,
+        "slowEndTime": 24960
+    },
+    {
+        "text": "Seed.",
+        "startTime": 17847,
+        "endTime": 18395,
+        "slowStartTime": 26920,
+        "slowEndTime": 27818
+    },
+    {
+        "text": "I plant a seed.",
+        "startTime": 19154,
+        "endTime": 20522,
+        "slowStartTime": 28881,
+        "slowEndTime": 31008
+    },
+    {
+        "text": "I plant a flower seed.",
+        "startTime": 21985,
+        "endTime": 23872,
+        "slowStartTime": 33128,
+        "slowEndTime": 36033
+    },
+    {
+        "text": "Wheel.",
+        "startTime": 25227,
+        "endTime": 25892,
+        "slowStartTime": 37991,
+        "slowEndTime": 39063
+    },
+    {
+        "text": "My bicycle has wheels.",
+        "startTime": 26626,
+        "endTime": 28720,
+        "slowStartTime": 40089,
+        "slowEndTime": 43305
+    },
+    {
+        "text": "My bicycle has two wheels.",
+        "startTime": 30073,
+        "endTime": 32537,
+        "slowStartTime": 45259,
+        "slowEndTime": 49031
+    },
+    {
+        "text": "What, what, what, what is your hair like?",
+        "startTime": 38876,
+        "endTime": 42202,
+        "slowStartTime": 58464,
+        "slowEndTime": 63528
+    },
+    {
+        "text": "Curly, curly, curly, my hair is curly.",
+        "startTime": 42565,
+        "endTime": 45857,
+        "slowStartTime": 63997,
+        "slowEndTime": 69010
+    },
+    {
+        "text": "What, what, what, what is your hair like?",
+        "startTime": 46373,
+        "endTime": 49737,
+        "slowStartTime": 69710,
+        "slowEndTime": 74831
+    },
+    {
+        "text": "Blond, blond, blond, my hair is blond.",
+        "startTime": 50129,
+        "endTime": 53327,
+        "slowStartTime": 75343,
+        "slowEndTime": 80216
+    },
+    {
+        "text": "What, what, what, what is your hair like?",
+        "startTime": 53881,
+        "endTime": 57226,
+        "slowStartTime": 80972,
+        "slowEndTime": 86064
+    },
+    {
+        "text": "Short, short, short, my hair is short.",
+        "startTime": 57547,
+        "endTime": 60831,
+        "slowStartTime": 86471,
+        "slowEndTime": 91472
+    },
+    {
+        "text": "What, what, what, what is your hair like?",
+        "startTime": 61390,
+        "endTime": 64661,
+        "slowStartTime": 92235,
+        "slowEndTime": 97217
+    },
+    {
+        "text": "My, my, my, my hair is curly, blond, short!",
+        "startTime": 65071,
+        "endTime": 69329,
+        "slowStartTime": 97757,
+        "slowEndTime": 104218
+    }
+]

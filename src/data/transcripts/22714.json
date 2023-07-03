@@ -1,0 +1,121 @@
+[
+    {
+        "text": "According to research from Internet monitoring company DeepField,...",
+        "startTime": 2179,
+        "endTime": 5182,
+        "slowStartTime": 3418,
+        "slowEndTime": 7998
+    },
+    {
+        "text": "...Google makes up for 25 percent of consumer Internet traffic in North America.",
+        "startTime": 5506,
+        "endTime": 9292,
+        "slowStartTime": 8409,
+        "slowEndTime": 14163
+    },
+    {
+        "text": "It's more traffic than Facebook, Netflix and Instagram added together.",
+        "startTime": 10089,
+        "endTime": 13544,
+        "slowStartTime": 15283,
+        "slowEndTime": 20541
+    },
+    {
+        "text": "DeepField's research found that over 62 percent of devices connected to the Internet in North America...",
+        "startTime": 14238,
+        "endTime": 18671,
+        "slowStartTime": 21507,
+        "slowEndTime": 28231
+    },
+    {
+        "text": "...use Google servers at least once a day.",
+        "startTime": 18917,
+        "endTime": 21083,
+        "slowStartTime": 28526,
+        "slowEndTime": 31849
+    },
+    {
+        "text": "In 2010, Google reportedly accounted for six percent of Internet traffic,...",
+        "startTime": 21776,
+        "endTime": 25706,
+        "slowStartTime": 32814,
+        "slowEndTime": 38784
+    },
+    {
+        "text": "...so they have shown significant growth over that short time.",
+        "startTime": 25917,
+        "endTime": 28405,
+        "slowStartTime": 39026,
+        "slowEndTime": 42832
+    },
+    {
+        "text": "To facilitate their growth, Google has the second highest bandwidth capabilities after Netflix,...",
+        "startTime": 29216,
+        "endTime": 33728,
+        "slowStartTime": 43974,
+        "slowEndTime": 50817
+    },
+    {
+        "text": "...and they have increased the number of servers that they are operating.",
+        "startTime": 33971,
+        "endTime": 36409,
+        "slowStartTime": 51107,
+        "slowEndTime": 54839
+    },
+    {
+        "text": "Eighty percent of Internet Service Providers in North America have Google Global Cache...",
+        "startTime": 37048,
+        "endTime": 40859,
+        "slowStartTime": 55722,
+        "slowEndTime": 61514
+    },
+    {
+        "text": "...or GGC servers attached to them, processing information being used on the Internet.",
+        "startTime": 41241,
+        "endTime": 45834,
+        "slowStartTime": 62012,
+        "slowEndTime": 68976
+    },
+    {
+        "text": "DeepField co-founder Craig Labovitz said,...",
+        "startTime": 46593,
+        "endTime": 48400,
+        "slowStartTime": 70039,
+        "slowEndTime": 72825
+    },
+    {
+        "text": "\"...The odds are, if you have an Internet-connected device,...\"",
+        "startTime": 48620,
+        "endTime": 50924,
+        "slowStartTime": 73080,
+        "slowEndTime": 76611
+    },
+    {
+        "text": "\"...at the end of the day it will be exchanging information with a Google server.\"",
+        "startTime": 51159,
+        "endTime": 54236,
+        "slowStartTime": 76889,
+        "slowEndTime": 81579
+    },
+    {
+        "text": "The GGC servers speed up the data recovery process...",
+        "startTime": 54987,
+        "endTime": 57853,
+        "slowStartTime": 82631,
+        "slowEndTime": 87005
+    },
+    {
+        "text": "...so that popular websites and videos can be accessed...",
+        "startTime": 58006,
+        "endTime": 60315,
+        "slowStartTime": 87159,
+        "slowEndTime": 90698
+    },
+    {
+        "text": "...without having to go all the way from Google's data center to stream the content.",
+        "startTime": 60517,
+        "endTime": 64085,
+        "slowStartTime": 90925,
+        "slowEndTime": 96353
+    }
+]

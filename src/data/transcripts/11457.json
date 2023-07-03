@@ -1,0 +1,114 @@
+[
+    {
+        "text": "We can't do this anymore.",
+        "startTime": 6400,
+        "endTime": 7500,
+        "slowStartTime": 9800,
+        "slowEndTime": 11450
+    },
+    {
+        "text": "They've arranged for you to marry Henry Lazar.",
+        "startTime": 8700,
+        "endTime": 10450,
+        "slowStartTime": 11250,
+        "slowEndTime": 15900
+    },
+    {
+        "text": "What do we do now?",
+        "startTime": 12100,
+        "endTime": 13100,
+        "slowStartTime": 18450,
+        "slowEndTime": 19900
+    },
+    {
+        "text": "I'd do anything to be with you.",
+        "startTime": 14200,
+        "endTime": 15550,
+        "slowStartTime": 21600,
+        "slowEndTime": 23600
+    },
+    {
+        "text": "It killed again.",
+        "startTime": 18950,
+        "endTime": 20100,
+        "slowStartTime": 28600,
+        "slowEndTime": 30450
+    },
+    {
+        "text": "The wolf.",
+        "startTime": 20850,
+        "endTime": 21250,
+        "slowStartTime": 31500,
+        "slowEndTime": 32100
+    },
+    {
+        "text": "In daytime, the werewolf returns to its human form.",
+        "startTime": 22800,
+        "endTime": 26100,
+        "slowStartTime": 34400,
+        "slowEndTime": 39400
+    },
+    {
+        "text": "The wolf is someone in this village.",
+        "startTime": 27800,
+        "endTime": 30150,
+        "slowStartTime": 41850,
+        "slowEndTime": 45450
+    },
+    {
+        "text": "Tell me who it is.",
+        "startTime": 39550,
+        "endTime": 41000,
+        "slowStartTime": 59550,
+        "slowEndTime": 62050
+    },
+    {
+        "text": "I'm wrong for you.",
+        "startTime": 46550,
+        "endTime": 47300,
+        "slowStartTime": 70075,
+        "slowEndTime": 71200
+    },
+    {
+        "text": "I don't care.",
+        "startTime": 49000,
+        "endTime": 49700,
+        "slowStartTime": 73700,
+        "slowEndTime": 74800
+    },
+    {
+        "text": "You will be happy again.",
+        "startTime": 51400,
+        "endTime": 52800,
+        "slowStartTime": 77300,
+        "slowEndTime": 79400
+    },
+    {
+        "text": "Come away with me.",
+        "startTime": 56100,
+        "endTime": 56950,
+        "slowStartTime": 84450,
+        "slowEndTime": 85600
+    },
+    {
+        "text": "You better watch yourself.",
+        "startTime": 60050,
+        "endTime": 61150,
+        "slowStartTime": 90300,
+        "slowEndTime": 91950
+    },
+    {
+        "text": "The wolf is coming.",
+        "startTime": 69500,
+        "endTime": 70450,
+        "slowStartTime": 104450,
+        "slowEndTime": 105900
+    },
+    {
+        "text": "You're gonna get what you deserve.",
+        "startTime": 71800,
+        "endTime": 72950,
+        "slowStartTime": 107850,
+        "slowEndTime": 109700
+    }
+]

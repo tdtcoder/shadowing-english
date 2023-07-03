@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Hello?",
+        "startTime": 6363,
+        "endTime": 6915,
+        "slowStartTime": 9695,
+        "slowEndTime": 10598
+    },
+    {
+        "text": "Hi, is this Danny McGrath?",
+        "startTime": 7479,
+        "endTime": 8962,
+        "slowStartTime": 11368,
+        "slowEndTime": 13668
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 9355,
+        "endTime": 9612,
+        "slowStartTime": 14183,
+        "slowEndTime": 14643
+    },
+    {
+        "text": "The Danny McGrath who graduated from Knibb High School in 1984?",
+        "startTime": 10859,
+        "endTime": 14153,
+        "slowStartTime": 16439,
+        "slowEndTime": 21454
+    },
+    {
+        "text": "Uh, yeah. Who's this?",
+        "startTime": 15060,
+        "endTime": 16747,
+        "slowStartTime": 22740,
+        "slowEndTime": 25345
+    },
+    {
+        "text": "Um, this is Billy Madison.",
+        "startTime": 17629,
+        "endTime": 19141,
+        "slowStartTime": 26594,
+        "slowEndTime": 28936
+    },
+    {
+        "text": "You probably don't remember me, but I went to high school with you.",
+        "startTime": 19513,
+        "endTime": 22407,
+        "slowStartTime": 29420,
+        "slowEndTime": 33836
+    },
+    {
+        "text": "I kinda gave you a hard time back then,...",
+        "startTime": 23633,
+        "endTime": 26462,
+        "slowStartTime": 35599,
+        "slowEndTime": 39918
+    },
+    {
+        "text": "...and then I did some things that I thought were funny at the time,...",
+        "startTime": 26557,
+        "endTime": 30169,
+        "slowStartTime": 39986,
+        "slowEndTime": 45478
+    },
+    {
+        "text": "...but now I realize they were just mean and stupid,...",
+        "startTime": 30365,
+        "endTime": 33704,
+        "slowStartTime": 45697,
+        "slowEndTime": 50781
+    },
+    {
+        "text": "...and I just wanted to apologize, and I hope you forgive me.",
+        "startTime": 33823,
+        "endTime": 37488,
+        "slowStartTime": 50884,
+        "slowEndTime": 56457
+    },
+    {
+        "text": "Yeah, sure. Don't worry about it.",
+        "startTime": 38076,
+        "endTime": 39382,
+        "slowStartTime": 57264,
+        "slowEndTime": 59298
+    },
+    {
+        "text": "It's no problem.",
+        "startTime": 39479,
+        "endTime": 39995,
+        "slowStartTime": 59369,
+        "slowEndTime": 60217
+    },
+    {
+        "text": "Wow! That's great!",
+        "startTime": 40901,
+        "endTime": 42160,
+        "slowStartTime": 61501,
+        "slowEndTime": 63465
+    },
+    {
+        "text": "Well, I am sorry, and maybe we can get together sometime and have some coffee or something.",
+        "startTime": 43694,
+        "endTime": 48901,
+        "slowStartTime": 65691,
+        "slowEndTime": 73577
+    },
+    {
+        "text": "Sure, I'd like that.",
+        "startTime": 49617,
+        "endTime": 50512,
+        "slowStartTime": 74575,
+        "slowEndTime": 75993
+    },
+    {
+        "text": "OK. Well, I'll see you around.",
+        "startTime": 50957,
+        "endTime": 52713,
+        "slowStartTime": 76585,
+        "slowEndTime": 79294
+    },
+    {
+        "text": "OK. Bye.",
+        "startTime": 53023,
+        "endTime": 54537,
+        "slowStartTime": 79684,
+        "slowEndTime": 82031
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Good afternoon.",
+        "startTime": 399,
+        "endTime": 1226,
+        "slowStartTime": 748,
+        "slowEndTime": 2064
+    },
+    {
+        "text": "Oh, good afternoon.",
+        "startTime": 1621,
+        "endTime": 2667,
+        "slowStartTime": 2582,
+        "slowEndTime": 4226
+    },
+    {
+        "text": "Can I help you?",
+        "startTime": 2967,
+        "endTime": 3727,
+        "slowStartTime": 4600,
+        "slowEndTime": 5816
+    },
+    {
+        "text": "Yes, please.",
+        "startTime": 3905,
+        "endTime": 4774,
+        "slowStartTime": 6007,
+        "slowEndTime": 7386
+    },
+    {
+        "text": "I'm looking for some shoes.",
+        "startTime": 5059,
+        "endTime": 6579,
+        "slowStartTime": 7739,
+        "slowEndTime": 10093
+    },
+    {
+        "text": "Some shoes?",
+        "startTime": 7038,
+        "endTime": 7830,
+        "slowStartTime": 10707,
+        "slowEndTime": 11970
+    },
+    {
+        "text": "Okay.",
+        "startTime": 8224,
+        "endTime": 8750,
+        "slowStartTime": 12486,
+        "slowEndTime": 13350
+    },
+    {
+        "text": "What color are you looking for?",
+        "startTime": 9085,
+        "endTime": 10558,
+        "slowStartTime": 13778,
+        "slowEndTime": 16062
+    },
+    {
+        "text": "Blue.",
+        "startTime": 10946,
+        "endTime": 11445,
+        "slowStartTime": 16569,
+        "slowEndTime": 17393
+    },
+    {
+        "text": "I'm looking for some blue shoes.",
+        "startTime": 11619,
+        "endTime": 13633,
+        "slowStartTime": 17578,
+        "slowEndTime": 20674
+    },
+    {
+        "text": "Blue.",
+        "startTime": 14087,
+        "endTime": 14612,
+        "slowStartTime": 21281,
+        "slowEndTime": 22143
+    },
+    {
+        "text": "Okay.",
+        "startTime": 14985,
+        "endTime": 15473,
+        "slowStartTime": 22628,
+        "slowEndTime": 23434
+    },
+    {
+        "text": "And what size are you looking for?",
+        "startTime": 15776,
+        "endTime": 17383,
+        "slowStartTime": 23814,
+        "slowEndTime": 26299
+    },
+    {
+        "text": "Size 36.",
+        "startTime": 18163,
+        "endTime": 19539,
+        "slowStartTime": 27395,
+        "slowEndTime": 29534
+    },
+    {
+        "text": "I'm looking for size 36.",
+        "startTime": 19975,
+        "endTime": 22283,
+        "slowStartTime": 30112,
+        "slowEndTime": 33650
+    },
+    {
+        "text": "Size 36.",
+        "startTime": 22741,
+        "endTime": 23974,
+        "slowStartTime": 34262,
+        "slowEndTime": 36186
+    },
+    {
+        "text": "Alright.",
+        "startTime": 24383,
+        "endTime": 24906,
+        "slowStartTime": 36725,
+        "slowEndTime": 37584
+    },
+    {
+        "text": "Some blue shoes in size 36.",
+        "startTime": 29540,
+        "endTime": 32450,
+        "slowStartTime": 44460,
+        "slowEndTime": 48900
+    },
+    {
+        "text": "Here you are.",
+        "startTime": 32761,
+        "endTime": 33320,
+        "slowStartTime": 49291,
+        "slowEndTime": 50205
+    },
+    {
+        "text": "Oh, they are nice.",
+        "startTime": 33607,
+        "endTime": 35498,
+        "slowStartTime": 50560,
+        "slowEndTime": 53472
+    },
+    {
+        "text": "Yes, they are.",
+        "startTime": 35583,
+        "endTime": 36477,
+        "slowStartTime": 53525,
+        "slowEndTime": 54941
+    }
+]

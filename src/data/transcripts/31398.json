@@ -1,0 +1,86 @@
+[
+    {
+        "text": "﻿Well, have you ever been to Japan?",
+        "startTime": 399,
+        "endTime": 1794,
+        "slowStartTime": 749,
+        "slowEndTime": 2916
+    },
+    {
+        "text": "I have, recently.",
+        "startTime": 2389,
+        "endTime": 2763,
+        "slowStartTime": 3734,
+        "slowEndTime": 4369
+    },
+    {
+        "text": "Okay.",
+        "startTime": 3085,
+        "endTime": 3363,
+        "slowStartTime": 4777,
+        "slowEndTime": 5270
+    },
+    {
+        "text": "So when you go there, you're, like, everything's totally awesome...",
+        "startTime": 3448,
+        "endTime": 7307,
+        "slowStartTime": 5322,
+        "slowEndTime": 11186
+    },
+    {
+        "text": "...and you're having the time of your life.",
+        "startTime": 8571,
+        "endTime": 10255,
+        "slowStartTime": 13007,
+        "slowEndTime": 15608
+    },
+    {
+        "text": "And then, every day you go out and you eat good food and stuff.",
+        "startTime": 11884,
+        "endTime": 14872,
+        "slowStartTime": 17976,
+        "slowEndTime": 22533
+    },
+    {
+        "text": "That's how I feel right now, like,...",
+        "startTime": 15853,
+        "endTime": 17307,
+        "slowStartTime": 23929,
+        "slowEndTime": 26185
+    },
+    {
+        "text": "...I'm really looking forward to going to Tokyo.",
+        "startTime": 17493,
+        "endTime": 20316,
+        "slowStartTime": 26389,
+        "slowEndTime": 30699
+    },
+    {
+        "text": "When I go to Japan, I don't feel like I'm at home.",
+        "startTime": 20679,
+        "endTime": 22832,
+        "slowStartTime": 31168,
+        "slowEndTime": 34473
+    },
+    {
+        "text": "I feel like I'm in a super-awesome, like,...",
+        "startTime": 22903,
+        "endTime": 25457,
+        "slowStartTime": 34505,
+        "slowEndTime": 38410
+    },
+    {
+        "text": "...it's not home, it's like a super-awesome...",
+        "startTime": 26961,
+        "endTime": 29091,
+        "slowStartTime": 40591,
+        "slowEndTime": 43862
+    },
+    {
+        "text": "...extended vacation that I don't want to leave.",
+        "startTime": 29175,
+        "endTime": 31299,
+        "slowStartTime": 43912,
+        "slowEndTime": 47174
+    }
+]

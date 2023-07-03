@@ -1,0 +1,58 @@
+[
+    {
+        "text": "What time is it?",
+        "startTime": 589,
+        "endTime": 1591,
+        "slowStartTime": 1034,
+        "slowEndTime": 2612
+    },
+    {
+        "text": "It's three o'clock.",
+        "startTime": 2204,
+        "endTime": 3712,
+        "slowStartTime": 3456,
+        "slowEndTime": 5793
+    },
+    {
+        "text": "What time is it?",
+        "startTime": 5319,
+        "endTime": 6379,
+        "slowStartTime": 8128,
+        "slowEndTime": 9794
+    },
+    {
+        "text": "It's one o'clock.",
+        "startTime": 6867,
+        "endTime": 8868,
+        "slowStartTime": 10450,
+        "slowEndTime": 13527
+    },
+    {
+        "text": "What time is it?",
+        "startTime": 9414,
+        "endTime": 10389,
+        "slowStartTime": 14271,
+        "slowEndTime": 15809
+    },
+    {
+        "text": "It's five o'clock.",
+        "startTime": 10619,
+        "endTime": 12360,
+        "slowStartTime": 16079,
+        "slowEndTime": 18765
+    },
+    {
+        "text": "What time is it?",
+        "startTime": 13217,
+        "endTime": 14255,
+        "slowStartTime": 19975,
+        "slowEndTime": 21608
+    },
+    {
+        "text": "It's eleven o'clock.",
+        "startTime": 14505,
+        "endTime": 16492,
+        "slowStartTime": 21907,
+        "slowEndTime": 24963
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "text": "So what would you like to have for dinner?",
+        "startTime": 1599,
+        "endTime": 3405,
+        "slowStartTime": 2549,
+        "slowEndTime": 5333
+    },
+    {
+        "text": "I don't know. Have you ever tried Italian food?",
+        "startTime": 3761,
+        "endTime": 6498,
+        "slowStartTime": 5792,
+        "slowEndTime": 9972
+    },
+    {
+        "text": "This restaurant has many delicious dishes.",
+        "startTime": 6947,
+        "endTime": 9522,
+        "slowStartTime": 10570,
+        "slowEndTime": 14508
+    },
+    {
+        "text": "Yes, I love Italian food, and everything on the menu looks very delicious!",
+        "startTime": 9849,
+        "endTime": 14545,
+        "slowStartTime": 14924,
+        "slowEndTime": 22043
+    },
+    {
+        "text": "Excuse me, does this seafood pasta come with a salad?",
+        "startTime": 15004,
+        "endTime": 18491,
+        "slowStartTime": 22656,
+        "slowEndTime": 27961
+    },
+    {
+        "text": "Yes, ma'am.",
+        "startTime": 18886,
+        "endTime": 19651,
+        "slowStartTime": 28479,
+        "slowEndTime": 29702
+    },
+    {
+        "text": "Every main course meal comes with a cup of our soup of the day or a house salad.",
+        "startTime": 20033,
+        "endTime": 25703,
+        "slowStartTime": 30200,
+        "slowEndTime": 38780
+    },
+    {
+        "text": "What's the soup today?",
+        "startTime": 26011,
+        "endTime": 27390,
+        "slowStartTime": 39166,
+        "slowEndTime": 41310
+    },
+    {
+        "text": "Cream of broccoli.",
+        "startTime": 27735,
+        "endTime": 28845,
+        "slowStartTime": 41752,
+        "slowEndTime": 43492
+    },
+    {
+        "text": "I will have today's special, please. And I would like to have ranch dressing on my salad.",
+        "startTime": 29267,
+        "endTime": 34197,
+        "slowStartTime": 44050,
+        "slowEndTime": 51521
+    },
+    {
+        "text": "Yes, ma'am. And for you, sir?",
+        "startTime": 34382,
+        "endTime": 36522,
+        "slowStartTime": 51723,
+        "slowEndTime": 55008
+    },
+    {
+        "text": "I'll have a New York steak, please. And I'll take a house salad with that, too.",
+        "startTime": 36917,
+        "endTime": 40909,
+        "slowStartTime": 55526,
+        "slowEndTime": 61589
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Mom, there's a letter in the mail box.",
+        "startTime": 2611,
+        "endTime": 5581,
+        "slowStartTime": 4066,
+        "slowEndTime": 8596
+    },
+    {
+        "text": "That's strange. We don't usually get mail on Sunday.",
+        "startTime": 6584,
+        "endTime": 10425,
+        "slowStartTime": 10026,
+        "slowEndTime": 15862
+    },
+    {
+        "text": "Pass me the letter. I will look it up.",
+        "startTime": 11027,
+        "endTime": 13561,
+        "slowStartTime": 16690,
+        "slowEndTime": 20567
+    },
+    {
+        "text": "What are you doing, Kevin?",
+        "startTime": 15795,
+        "endTime": 17276,
+        "slowStartTime": 23843,
+        "slowEndTime": 26139
+    },
+    {
+        "text": "I'm playing computer games now.",
+        "startTime": 18280,
+        "endTime": 20313,
+        "slowStartTime": 27570,
+        "slowEndTime": 30694
+    },
+    {
+        "text": "You don't usually play computer games on Monday.",
+        "startTime": 21141,
+        "endTime": 24349,
+        "slowStartTime": 31861,
+        "slowEndTime": 36749
+    },
+    {
+        "text": "You'd better turn off the computer, and put the game CDs back.",
+        "startTime": 24877,
+        "endTime": 29033,
+        "slowStartTime": 37465,
+        "slowEndTime": 43775
+    },
+    {
+        "text": "I was thinking of stopping playing games before Mom gets home.",
+        "startTime": 29896,
+        "endTime": 33455,
+        "slowStartTime": 44994,
+        "slowEndTime": 50408
+    },
+    {
+        "text": "Mom, can I put on my pink dress today?",
+        "startTime": 36103,
+        "endTime": 39267,
+        "slowStartTime": 54305,
+        "slowEndTime": 59125
+    },
+    {
+        "text": "You'd better not put on your dress today.",
+        "startTime": 40616,
+        "endTime": 42967,
+        "slowStartTime": 61074,
+        "slowEndTime": 64675
+    },
+    {
+        "text": "It's windy outside.",
+        "startTime": 43285,
+        "endTime": 44703,
+        "slowStartTime": 65077,
+        "slowEndTime": 67280
+    }
+]

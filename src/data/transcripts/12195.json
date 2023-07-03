@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Next number, please!",
+        "startTime": 2337,
+        "endTime": 3541,
+        "slowStartTime": 3656,
+        "slowEndTime": 5537
+    },
+    {
+        "text": "Good afternoon.",
+        "startTime": 3936,
+        "endTime": 4659,
+        "slowStartTime": 6054,
+        "slowEndTime": 7214
+    },
+    {
+        "text": "Good afternoon, sir.",
+        "startTime": 4929,
+        "endTime": 6010,
+        "slowStartTime": 7544,
+        "slowEndTime": 9240
+    },
+    {
+        "text": "What can I do for you today?",
+        "startTime": 6124,
+        "endTime": 7563,
+        "slowStartTime": 9336,
+        "slowEndTime": 11569
+    },
+    {
+        "text": "I'd like to open up an account here, please.",
+        "startTime": 7882,
+        "endTime": 10092,
+        "slowStartTime": 11973,
+        "slowEndTime": 15363
+    },
+    {
+        "text": "Certainly, sir.",
+        "startTime": 10379,
+        "endTime": 11336,
+        "slowStartTime": 15719,
+        "slowEndTime": 17229
+    },
+    {
+        "text": "What sort of account are you looking to open?",
+        "startTime": 11573,
+        "endTime": 13971,
+        "slowStartTime": 17510,
+        "slowEndTime": 21181
+    },
+    {
+        "text": "I want to open up a checking account.",
+        "startTime": 14178,
+        "endTime": 16195,
+        "slowStartTime": 21417,
+        "slowEndTime": 24518
+    },
+    {
+        "text": "Okay, do you want an unlimited checking account, or a fixed monthly checking account?",
+        "startTime": 16799,
+        "endTime": 22101,
+        "slowStartTime": 25348,
+        "slowEndTime": 33377
+    },
+    {
+        "text": "What is the difference?",
+        "startTime": 22309,
+        "endTime": 23209,
+        "slowStartTime": 33613,
+        "slowEndTime": 35038
+    },
+    {
+        "text": "With an unlimited checking account, you can write as many checks as you like every month.",
+        "startTime": 23636,
+        "endTime": 28402,
+        "slowStartTime": 35604,
+        "slowEndTime": 42828
+    },
+    {
+        "text": "Is there a monthly fee with that account?",
+        "startTime": 28680,
+        "endTime": 30717,
+        "slowStartTime": 43170,
+        "slowEndTime": 46300
+    },
+    {
+        "text": "You need to maintain a minimum balance of one thousand dollars.",
+        "startTime": 31031,
+        "endTime": 34693,
+        "slowStartTime": 46696,
+        "slowEndTime": 52264
+    },
+    {
+        "text": "Okay, so as long as I maintain the minimum balance, there's no fee.",
+        "startTime": 34900,
+        "endTime": 39167,
+        "slowStartTime": 52500,
+        "slowEndTime": 58975
+    },
+    {
+        "text": "I think that would work out better for me.",
+        "startTime": 39673,
+        "endTime": 41353,
+        "slowStartTime": 59660,
+        "slowEndTime": 62254
+    },
+    {
+        "text": "Let's go that route.",
+        "startTime": 41710,
+        "endTime": 42623,
+        "slowStartTime": 62715,
+        "slowEndTime": 64160
+    }
+]

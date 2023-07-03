@@ -1,0 +1,107 @@
+[
+    {
+        "text": "The bird goes over the tree.",
+        "startTime": 3803,
+        "endTime": 6440,
+        "slowStartTime": 5854,
+        "slowEndTime": 9885
+    },
+    {
+        "text": "The bird goes over the farm.",
+        "startTime": 7619,
+        "endTime": 10409,
+        "slowStartTime": 11579,
+        "slowEndTime": 15838
+    },
+    {
+        "text": "The bird goes over the city.",
+        "startTime": 11521,
+        "endTime": 14123,
+        "slowStartTime": 17432,
+        "slowEndTime": 21410
+    },
+    {
+        "text": "The bird goes over the street.",
+        "startTime": 15543,
+        "endTime": 18178,
+        "slowStartTime": 23465,
+        "slowEndTime": 27492
+    },
+    {
+        "text": "The bird goes over the tables.",
+        "startTime": 19467,
+        "endTime": 22159,
+        "slowStartTime": 29351,
+        "slowEndTime": 33463
+    },
+    {
+        "text": "The bird goes over the cars.",
+        "startTime": 23357,
+        "endTime": 26061,
+        "slowStartTime": 35185,
+        "slowEndTime": 39317
+    },
+    {
+        "text": "The bird goes over the mountains.",
+        "startTime": 27489,
+        "endTime": 30329,
+        "slowStartTime": 41384,
+        "slowEndTime": 45718
+    },
+    {
+        "text": "The bird goes home.",
+        "startTime": 31449,
+        "endTime": 33143,
+        "slowStartTime": 47323,
+        "slowEndTime": 49940
+    },
+    {
+        "text": "Where does the butterfly go?",
+        "startTime": 37655,
+        "endTime": 39622,
+        "slowStartTime": 56632,
+        "slowEndTime": 59658
+    },
+    {
+        "text": "It goes over the garden.",
+        "startTime": 40754,
+        "endTime": 42631,
+        "slowStartTime": 61281,
+        "slowEndTime": 64172
+    },
+    {
+        "text": "Does the snail go over the bench?",
+        "startTime": 43756,
+        "endTime": 46197,
+        "slowStartTime": 65784,
+        "slowEndTime": 69520
+    },
+    {
+        "text": "No, it doesn't.",
+        "startTime": 47372,
+        "endTime": 48685,
+        "slowStartTime": 71208,
+        "slowEndTime": 73253
+    },
+    {
+        "text": "It goes under the bench.",
+        "startTime": 49135,
+        "endTime": 50969,
+        "slowStartTime": 73852,
+        "slowEndTime": 76679
+    },
+    {
+        "text": "What goes over the park?",
+        "startTime": 52143,
+        "endTime": 53789,
+        "slowStartTime": 78364,
+        "slowEndTime": 80908
+    },
+    {
+        "text": "The bird goes over the park.",
+        "startTime": 54963,
+        "endTime": 57057,
+        "slowStartTime": 82594,
+        "slowEndTime": 85810
+    }
+]

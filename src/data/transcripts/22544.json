@@ -1,0 +1,65 @@
+[
+    {
+        "text": "﻿Can you climb up the tree?",
+        "startTime": 4707,
+        "endTime": 6565,
+        "slowStartTime": 7211,
+        "slowEndTime": 10072
+    },
+    {
+        "text": "Can you do this? Oh, you're good!",
+        "startTime": 9881,
+        "endTime": 14201,
+        "slowStartTime": 14972,
+        "slowEndTime": 21527
+    },
+    {
+        "text": "Can you play \"You Are My Sunshine\"?",
+        "startTime": 17341,
+        "endTime": 18767,
+        "slowStartTime": 26162,
+        "slowEndTime": 28375
+    },
+    {
+        "text": "It's dangerous. Can't you read that sign?",
+        "startTime": 24011,
+        "endTime": 26529,
+        "slowStartTime": 36166,
+        "slowEndTime": 40018
+    },
+    {
+        "text": "Hi, you can hear me, can't you?",
+        "startTime": 29797,
+        "endTime": 31899,
+        "slowStartTime": 44846,
+        "slowEndTime": 48074
+    },
+    {
+        "text": "Wonderful. Will you be able to start in two weeks?",
+        "startTime": 37836,
+        "endTime": 40560,
+        "slowStartTime": 56904,
+        "slowEndTime": 61065
+    },
+    {
+        "text": "Also, will you be able to pick me up at the airport?",
+        "startTime": 43531,
+        "endTime": 47234,
+        "slowStartTime": 65447,
+        "slowEndTime": 71076
+    },
+    {
+        "text": "Do you know how to speak English?",
+        "startTime": 52755,
+        "endTime": 54095,
+        "slowStartTime": 79282,
+        "slowEndTime": 81368
+    },
+    {
+        "text": "What about chicken soup? Do you know how to make it?",
+        "startTime": 57283,
+        "endTime": 59846,
+        "slowStartTime": 86074,
+        "slowEndTime": 89994
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "text": "﻿I'm afraid the museum is closed.",
+        "startTime": 2102,
+        "endTime": 4085,
+        "slowStartTime": 3303,
+        "slowEndTime": 6352
+    },
+    {
+        "text": "I'm surprised you don't recognize me.",
+        "startTime": 4500,
+        "endTime": 5977,
+        "slowStartTime": 6900,
+        "slowEndTime": 9191
+    },
+    {
+        "text": "Mr. Lomax.",
+        "startTime": 7278,
+        "endTime": 8040,
+        "slowStartTime": 11067,
+        "slowEndTime": 12285
+    },
+    {
+        "text": "I am asking the questions.",
+        "startTime": 9750,
+        "endTime": 11473,
+        "slowStartTime": 14775,
+        "slowEndTime": 17435
+    },
+    {
+        "text": "You answer!",
+        "startTime": 11671,
+        "endTime": 12517,
+        "slowStartTime": 17657,
+        "slowEndTime": 19001
+    },
+    {
+        "text": "I did not expect you to be alive.",
+        "startTime": 13186,
+        "endTime": 16387,
+        "slowStartTime": 19929,
+        "slowEndTime": 24805
+    },
+    {
+        "text": "What did they do to you?",
+        "startTime": 18587,
+        "endTime": 19639,
+        "slowStartTime": 28031,
+        "slowEndTime": 29683
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Check it out, I'm sending a tweet!",
+        "startTime": 369,
+        "endTime": 2651,
+        "slowStartTime": 703,
+        "slowEndTime": 4202
+    },
+    {
+        "text": "Tweet!",
+        "startTime": 3288,
+        "endTime": 3977,
+        "slowStartTime": 5082,
+        "slowEndTime": 6191
+    },
+    {
+        "text": "That's not how it works, grandpa.",
+        "startTime": 4363,
+        "endTime": 6532,
+        "slowStartTime": 6695,
+        "slowEndTime": 10023
+    },
+    {
+        "text": "You think I'm out of touch?",
+        "startTime": 7271,
+        "endTime": 8405,
+        "slowStartTime": 11056,
+        "slowEndTime": 12832
+    },
+    {
+        "text": "I save 15% on car insurance in just 15 minutes.",
+        "startTime": 8791,
+        "endTime": 13095,
+        "slowStartTime": 13337,
+        "slowEndTime": 19867
+    },
+    {
+        "text": "You could've saved money in half that time with Esurance.",
+        "startTime": 13306,
+        "endTime": 16129,
+        "slowStartTime": 20109,
+        "slowEndTime": 24419
+    },
+    {
+        "text": "Oh, a reply!",
+        "startTime": 16705,
+        "endTime": 18352,
+        "slowStartTime": 25207,
+        "slowEndTime": 27753
+    },
+    {
+        "text": "I'm trending.",
+        "startTime": 19793,
+        "endTime": 20729,
+        "slowStartTime": 29839,
+        "slowEndTime": 31319
+    },
+    {
+        "text": "15 minutes for a quote is old news.",
+        "startTime": 20862,
+        "endTime": 23077,
+        "slowStartTime": 31443,
+        "slowEndTime": 34840
+    },
+    {
+        "text": "Start with a quote from Esurance...",
+        "startTime": 23250,
+        "endTime": 24533,
+        "slowStartTime": 35025,
+        "slowEndTime": 37025
+    },
+    {
+        "text": "...and you can save money on car insurance in half the time.",
+        "startTime": 24659,
+        "endTime": 26723,
+        "slowStartTime": 37139,
+        "slowEndTime": 40310
+    },
+    {
+        "text": "Welcome to the modern world.",
+        "startTime": 26955,
+        "endTime": 27963,
+        "slowStartTime": 40583,
+        "slowEndTime": 42170
+    },
+    {
+        "text": "Esurance, backed by Allstate, click or call.",
+        "startTime": 28101,
+        "endTime": 30213,
+        "slowStartTime": 42301,
+        "slowEndTime": 45544
+    }
+]

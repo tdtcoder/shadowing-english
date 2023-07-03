@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Look at the time!",
+        "startTime": 1900,
+        "endTime": 3200,
+        "slowStartTime": 3000,
+        "slowEndTime": 5000
+    },
+    {
+        "text": "I'd better leave soon or I'll miss my flight.",
+        "startTime": 3450,
+        "endTime": 5900,
+        "slowStartTime": 5350,
+        "slowEndTime": 9050
+    },
+    {
+        "text": "It's been a pleasure working with you over the past few days, Linda.",
+        "startTime": 6300,
+        "endTime": 9300,
+        "slowStartTime": 9650,
+        "slowEndTime": 14150
+    },
+    {
+        "text": "I learned a lot while I was here.",
+        "startTime": 9700,
+        "endTime": 11500,
+        "slowStartTime": 14775,
+        "slowEndTime": 17450
+    },
+    {
+        "text": "I think the trip was very useful.",
+        "startTime": 11850,
+        "endTime": 13750,
+        "slowStartTime": 17950,
+        "slowEndTime": 20800
+    },
+    {
+        "text": "I really appreciate everything you've done for me.",
+        "startTime": 14150,
+        "endTime": 16750,
+        "slowStartTime": 21425,
+        "slowEndTime": 25300
+    },
+    {
+        "text": "I'm sure we'll meet again.",
+        "startTime": 17100,
+        "endTime": 18600,
+        "slowStartTime": 25900,
+        "slowEndTime": 28100
+    },
+    {
+        "text": "You have my business card with my e-mail address.",
+        "startTime": 19200,
+        "endTime": 21400,
+        "slowStartTime": 29000,
+        "slowEndTime": 32300
+    },
+    {
+        "text": "Write or give me a call anytime.",
+        "startTime": 21750,
+        "endTime": 23750,
+        "slowStartTime": 32850,
+        "slowEndTime": 35800
+    },
+    {
+        "text": "Thanks! I will keep in touch.",
+        "startTime": 24100,
+        "endTime": 25950,
+        "slowStartTime": 36350,
+        "slowEndTime": 39100
+    },
+    {
+        "text": "Have a safe trip back!",
+        "startTime": 26300,
+        "endTime": 27450,
+        "slowStartTime": 39700,
+        "slowEndTime": 41350
+    }
+]

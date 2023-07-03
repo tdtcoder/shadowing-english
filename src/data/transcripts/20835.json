@@ -1,0 +1,170 @@
+[
+    {
+        "text": "Hello?",
+        "startTime": 309,
+        "endTime": 781,
+        "slowStartTime": 614,
+        "slowEndTime": 1397
+    },
+    {
+        "text": "Hi, Amanda!",
+        "startTime": 1162,
+        "endTime": 1973,
+        "slowStartTime": 1893,
+        "slowEndTime": 3184
+    },
+    {
+        "text": "What's up?",
+        "startTime": 2277,
+        "endTime": 2774,
+        "slowStartTime": 3565,
+        "slowEndTime": 4386
+    },
+    {
+        "text": "Not much.",
+        "startTime": 3107,
+        "endTime": 3869,
+        "slowStartTime": 4810,
+        "slowEndTime": 6029
+    },
+    {
+        "text": "You sound very excited!",
+        "startTime": 4366,
+        "endTime": 5747,
+        "slowStartTime": 6699,
+        "slowEndTime": 8845
+    },
+    {
+        "text": "Yeah, I ran into one of my old friends on the street.",
+        "startTime": 5976,
+        "endTime": 9245,
+        "slowStartTime": 9114,
+        "slowEndTime": 14093
+    },
+    {
+        "text": "By accident?",
+        "startTime": 9703,
+        "endTime": 10517,
+        "slowStartTime": 14705,
+        "slowEndTime": 16001
+    },
+    {
+        "text": "What a pleasant surprise.",
+        "startTime": 10939,
+        "endTime": 12310,
+        "slowStartTime": 16559,
+        "slowEndTime": 18690
+    },
+    {
+        "text": "Yes! We went to the same school six years ago.",
+        "startTime": 12576,
+        "endTime": 15874,
+        "slowStartTime": 19014,
+        "slowEndTime": 24036
+    },
+    {
+        "text": "How did you keep in touch with her?",
+        "startTime": 16327,
+        "endTime": 17629,
+        "slowStartTime": 24640,
+        "slowEndTime": 26668
+    },
+    {
+        "text": "I couldn't.",
+        "startTime": 18180,
+        "endTime": 18889,
+        "slowStartTime": 27420,
+        "slowEndTime": 28558
+    },
+    {
+        "text": "She and her family moved to Canada.",
+        "startTime": 19174,
+        "endTime": 21144,
+        "slowStartTime": 28911,
+        "slowEndTime": 31941
+    },
+    {
+        "text": "Then, is she moving back to Korea?",
+        "startTime": 21485,
+        "endTime": 23524,
+        "slowStartTime": 32378,
+        "slowEndTime": 35511
+    },
+    {
+        "text": "No. She's just staying here for a few days.",
+        "startTime": 23847,
+        "endTime": 26558,
+        "slowStartTime": 35921,
+        "slowEndTime": 40062
+    },
+    {
+        "text": "She wants to see her relatives and friends.",
+        "startTime": 26967,
+        "endTime": 29099,
+        "slowStartTime": 40601,
+        "slowEndTime": 43873
+    },
+    {
+        "text": "She seems like a very special friend to you.",
+        "startTime": 29415,
+        "endTime": 31626,
+        "slowStartTime": 44273,
+        "slowEndTime": 47664
+    },
+    {
+        "text": "Yes, she's like my sister.",
+        "startTime": 32057,
+        "endTime": 34128,
+        "slowStartTime": 48236,
+        "slowEndTime": 51417
+    },
+    {
+        "text": "What makes her so special?",
+        "startTime": 34457,
+        "endTime": 35901,
+        "slowStartTime": 51836,
+        "slowEndTime": 54077
+    },
+    {
+        "text": "She's not only sweet but also thoughtful.",
+        "startTime": 36660,
+        "endTime": 39436,
+        "slowStartTime": 55140,
+        "slowEndTime": 59379
+    },
+    {
+        "text": "What else can you remember about her?",
+        "startTime": 39759,
+        "endTime": 41367,
+        "slowStartTime": 59789,
+        "slowEndTime": 62275
+    },
+    {
+        "text": "She used to play tennis.",
+        "startTime": 41819,
+        "endTime": 43566,
+        "slowStartTime": 62878,
+        "slowEndTime": 65574
+    },
+    {
+        "text": "Is she a professional tennis player?",
+        "startTime": 44192,
+        "endTime": 46050,
+        "slowStartTime": 66438,
+        "slowEndTime": 69300
+    },
+    {
+        "text": "No, but she is a professional mom of two lovely kids.",
+        "startTime": 46673,
+        "endTime": 50322,
+        "slowStartTime": 70160,
+        "slowEndTime": 75708
+    },
+    {
+        "text": "That's wonderful!",
+        "startTime": 50504,
+        "endTime": 51657,
+        "slowStartTime": 75906,
+        "slowEndTime": 77711
+    }
+]

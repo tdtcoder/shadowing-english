@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Let's make a sandwich.",
+        "startTime": 3139,
+        "endTime": 4785,
+        "slowStartTime": 4858,
+        "slowEndTime": 7402
+    },
+    {
+        "text": "Get some bread.",
+        "startTime": 6068,
+        "endTime": 7061,
+        "slowStartTime": 9252,
+        "slowEndTime": 10817
+    },
+    {
+        "text": "Put some butter on the bread.",
+        "startTime": 8303,
+        "endTime": 10251,
+        "slowStartTime": 12605,
+        "slowEndTime": 15602
+    },
+    {
+        "text": "Put some lettuce on the butter.",
+        "startTime": 11691,
+        "endTime": 13788,
+        "slowStartTime": 17686,
+        "slowEndTime": 20907
+    },
+    {
+        "text": "Put some tomatoes on the lettuce.",
+        "startTime": 15177,
+        "endTime": 17431,
+        "slowStartTime": 22915,
+        "slowEndTime": 26371
+    },
+    {
+        "text": "Put some meat on the tomatoes.",
+        "startTime": 18832,
+        "endTime": 21309,
+        "slowStartTime": 28398,
+        "slowEndTime": 32188
+    },
+    {
+        "text": "Put some bread on the meat.",
+        "startTime": 22454,
+        "endTime": 24467,
+        "slowStartTime": 33831,
+        "slowEndTime": 36925
+    },
+    {
+        "text": "Now take a big bite.",
+        "startTime": 25819,
+        "endTime": 27978,
+        "slowStartTime": 38879,
+        "slowEndTime": 42192
+    },
+    {
+        "text": "Yummy!",
+        "startTime": 28604,
+        "endTime": 29264,
+        "slowStartTime": 43056,
+        "slowEndTime": 44121
+    },
+    {
+        "text": "What are you doing?",
+        "startTime": 32623,
+        "endTime": 34182,
+        "slowStartTime": 49084,
+        "slowEndTime": 51498
+    },
+    {
+        "text": "I am cleaning my room.",
+        "startTime": 35539,
+        "endTime": 37156,
+        "slowStartTime": 53458,
+        "slowEndTime": 55959
+    },
+    {
+        "text": "I put my books on the desk.",
+        "startTime": 37935,
+        "endTime": 40326,
+        "slowStartTime": 57053,
+        "slowEndTime": 60714
+    },
+    {
+        "text": "What is your dad doing?",
+        "startTime": 41666,
+        "endTime": 43549,
+        "slowStartTime": 62649,
+        "slowEndTime": 65548
+    },
+    {
+        "text": "He is making a sandwich.",
+        "startTime": 44929,
+        "endTime": 46710,
+        "slowStartTime": 67543,
+        "slowEndTime": 70290
+    },
+    {
+        "text": "He puts cheese on the bread.",
+        "startTime": 47227,
+        "endTime": 49396,
+        "slowStartTime": 70991,
+        "slowEndTime": 74319
+    },
+    {
+        "text": "What is your sister doing?",
+        "startTime": 50748,
+        "endTime": 52783,
+        "slowStartTime": 76272,
+        "slowEndTime": 79400
+    },
+    {
+        "text": "She is making salad.",
+        "startTime": 53498,
+        "endTime": 55039,
+        "slowStartTime": 80397,
+        "slowEndTime": 82783
+    },
+    {
+        "text": "She puts apples in the bowl.",
+        "startTime": 55479,
+        "endTime": 57539,
+        "slowStartTime": 83368,
+        "slowEndTime": 86534
+    }
+]

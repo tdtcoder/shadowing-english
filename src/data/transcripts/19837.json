@@ -1,0 +1,58 @@
+[
+    {
+        "text": "How far away is Mars?",
+        "startTime": 999,
+        "endTime": 2556,
+        "slowStartTime": 1649,
+        "slowEndTime": 4059
+    },
+    {
+        "text": "Well, it's 141 million miles from the sun, so, pretty far.",
+        "startTime": 3479,
+        "endTime": 7743,
+        "slowStartTime": 5369,
+        "slowEndTime": 11840
+    },
+    {
+        "text": "Why is it red?",
+        "startTime": 8870,
+        "endTime": 9943,
+        "slowStartTime": 13455,
+        "slowEndTime": 15139
+    },
+    {
+        "text": "Because its surface is made of iron oxide.",
+        "startTime": 10580,
+        "endTime": 12784,
+        "slowStartTime": 16020,
+        "slowEndTime": 19401
+    },
+    {
+        "text": "Why do they call it Mars?",
+        "startTime": 13766,
+        "endTime": 15535,
+        "slowStartTime": 20799,
+        "slowEndTime": 23528
+    },
+    {
+        "text": "Well, it was named after the Roman god of war.",
+        "startTime": 16302,
+        "endTime": 19363,
+        "slowStartTime": 24603,
+        "slowEndTime": 29269
+    },
+    {
+        "text": "You're so smart, Dad.",
+        "startTime": 21069,
+        "endTime": 22159,
+        "slowStartTime": 31753,
+        "slowEndTime": 33464
+    },
+    {
+        "text": "Did I ever tell you about Jupiter?",
+        "startTime": 25349,
+        "endTime": 26549,
+        "slowStartTime": 38174,
+        "slowEndTime": 40049
+    }
+]

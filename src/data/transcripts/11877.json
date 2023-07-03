@@ -1,0 +1,44 @@
+[
+    {
+        "text": "US President Barack Obama reveals the death of Osama bin Laden at a firefight at his Pakistan compound.",
+        "startTime": 6700,
+        "endTime": 14110,
+        "slowStartTime": 10150,
+        "slowEndTime": 21280
+    },
+    {
+        "text": "Hundreds of Americans celebrate bin Laden's death outside the White House and Times Square.",
+        "startTime": 16280,
+        "endTime": 22320,
+        "slowStartTime": 24500,
+        "slowEndTime": 33500
+    },
+    {
+        "text": "Witnesses say Gadhafi's loyalist forces assail western Misrata only a day after attacking the city's port area.",
+        "startTime": 26060,
+        "endTime": 34030,
+        "slowStartTime": 39240,
+        "slowEndTime": 51100
+    },
+    {
+        "text": "Syria's state news agency says security forces arrested hundreds and killed ten others in an effort to crush protests.",
+        "startTime": 34660,
+        "endTime": 43040,
+        "slowStartTime": 52120,
+        "slowEndTime": 64620
+    },
+    {
+        "text": "Gulf officials try to salvage a deal to ease Yemeni President Ali Abdullah Saleh out of power.",
+        "startTime": 44310,
+        "endTime": 51050,
+        "slowStartTime": 66550,
+        "slowEndTime": 76570
+    },
+    {
+        "text": "Israelis have a moment of silence in honor of Holocaust Remembrance Day.",
+        "startTime": 55350,
+        "endTime": 60160,
+        "slowStartTime": 83110,
+        "slowEndTime": 90250
+    }
+]

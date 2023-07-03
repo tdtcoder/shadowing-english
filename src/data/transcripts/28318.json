@@ -1,0 +1,37 @@
+[
+    {
+        "text": "﻿Tie the Knot",
+        "startTime": 8431,
+        "endTime": 9159,
+        "slowStartTime": 12797,
+        "slowEndTime": 13963
+    },
+    {
+        "text": "It means to get married.",
+        "startTime": 13191,
+        "endTime": 14733,
+        "slowStartTime": 19937,
+        "slowEndTime": 22324
+    },
+    {
+        "text": "The young couple will tie the knot this Saturday.",
+        "startTime": 24463,
+        "endTime": 27145,
+        "slowStartTime": 36845,
+        "slowEndTime": 40943
+    },
+    {
+        "text": "They plan to tie the knot soon after dating for years.",
+        "startTime": 33276,
+        "endTime": 36838,
+        "slowStartTime": 50064,
+        "slowEndTime": 55482
+    },
+    {
+        "text": "They will go on a honeymoon after they tie the knot.",
+        "startTime": 42742,
+        "endTime": 45474,
+        "slowStartTime": 64263,
+        "slowEndTime": 68436
+    }
+]

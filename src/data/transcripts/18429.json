@@ -1,0 +1,170 @@
+[
+    {
+        "text": "I love mountains.",
+        "startTime": 9030,
+        "endTime": 11192,
+        "slowStartTime": 13695,
+        "slowEndTime": 17013
+    },
+    {
+        "text": "I love the rolling hills.",
+        "startTime": 11484,
+        "endTime": 13295,
+        "slowStartTime": 17376,
+        "slowEndTime": 20168
+    },
+    {
+        "text": "I love the clouds.",
+        "startTime": 13387,
+        "endTime": 15634,
+        "slowStartTime": 20230,
+        "slowEndTime": 23676
+    },
+    {
+        "text": "I love the daffodils.",
+        "startTime": 15853,
+        "endTime": 17767,
+        "slowStartTime": 23929,
+        "slowEndTime": 26876
+    },
+    {
+        "text": "I love the fireside...",
+        "startTime": 17831,
+        "endTime": 19703,
+        "slowStartTime": 26896,
+        "slowEndTime": 29779
+    },
+    {
+        "text": "...when the lights are low.",
+        "startTime": 19803,
+        "endTime": 21601,
+        "slowStartTime": 29854,
+        "slowEndTime": 32627
+    },
+    {
+        "text": "I love the ocean.",
+        "startTime": 30965,
+        "endTime": 32991,
+        "slowStartTime": 46598,
+        "slowEndTime": 49711
+    },
+    {
+        "text": "I love the open sea.",
+        "startTime": 33499,
+        "endTime": 35289,
+        "slowStartTime": 50399,
+        "slowEndTime": 53158
+    },
+    {
+        "text": "I love the forest.",
+        "startTime": 35410,
+        "endTime": 37580,
+        "slowStartTime": 53265,
+        "slowEndTime": 56595
+    },
+    {
+        "text": "I love the bumblebees.",
+        "startTime": 37891,
+        "endTime": 39803,
+        "slowStartTime": 56987,
+        "slowEndTime": 59930
+    },
+    {
+        "text": "I love the stars above...",
+        "startTime": 39921,
+        "endTime": 41685,
+        "slowStartTime": 60031,
+        "slowEndTime": 62752
+    },
+    {
+        "text": "...when night turns into day.",
+        "startTime": 41849,
+        "endTime": 43631,
+        "slowStartTime": 62924,
+        "slowEndTime": 65672
+    },
+    {
+        "text": "I love the sunshine.",
+        "startTime": 53036,
+        "endTime": 55082,
+        "slowStartTime": 79704,
+        "slowEndTime": 82848
+    },
+    {
+        "text": "I love the butterflies.",
+        "startTime": 55519,
+        "endTime": 57351,
+        "slowStartTime": 83428,
+        "slowEndTime": 86252
+    },
+    {
+        "text": "I love the wind blow.",
+        "startTime": 57444,
+        "endTime": 59734,
+        "slowStartTime": 86316,
+        "slowEndTime": 89826
+    },
+    {
+        "text": "I love the river flow.",
+        "startTime": 59965,
+        "endTime": 61700,
+        "slowStartTime": 90097,
+        "slowEndTime": 92775
+    },
+    {
+        "text": "I love the city lights...",
+        "startTime": 61786,
+        "endTime": 63879,
+        "slowStartTime": 92829,
+        "slowEndTime": 96044
+    },
+    {
+        "text": "...when the moon is high.",
+        "startTime": 64003,
+        "endTime": 65955,
+        "slowStartTime": 96154,
+        "slowEndTime": 99157
+    },
+    {
+        "text": "I love daisies.",
+        "startTime": 75011,
+        "endTime": 77181,
+        "slowStartTime": 112666,
+        "slowEndTime": 115996
+    },
+    {
+        "text": "I love the sugar peas.",
+        "startTime": 77645,
+        "endTime": 79340,
+        "slowStartTime": 116618,
+        "slowEndTime": 119235
+    },
+    {
+        "text": "I love the meadows.",
+        "startTime": 79475,
+        "endTime": 81685,
+        "slowStartTime": 119363,
+        "slowEndTime": 122753
+    },
+    {
+        "text": "I love the summer breeze.",
+        "startTime": 82032,
+        "endTime": 83804,
+        "slowStartTime": 123198,
+        "slowEndTime": 125931
+    },
+    {
+        "text": "I love to walk on by,...",
+        "startTime": 83871,
+        "endTime": 85699,
+        "slowStartTime": 125956,
+        "slowEndTime": 128773
+    },
+    {
+        "text": "...my head up in the sky.",
+        "startTime": 85763,
+        "endTime": 87957,
+        "slowStartTime": 128794,
+        "slowEndTime": 132161
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "text": "My name is Ryan.",
+        "startTime": 896,
+        "endTime": 2472,
+        "slowStartTime": 1494,
+        "slowEndTime": 3933
+    },
+    {
+        "text": "My favorite hobby is cooking.",
+        "startTime": 2907,
+        "endTime": 4782,
+        "slowStartTime": 4510,
+        "slowEndTime": 7398
+    },
+    {
+        "text": "I usually cook desserts like pancakes.",
+        "startTime": 5567,
+        "endTime": 8353,
+        "slowStartTime": 8500,
+        "slowEndTime": 12754
+    },
+    {
+        "text": "Hello! My name is Rose.",
+        "startTime": 10153,
+        "endTime": 12022,
+        "slowStartTime": 15380,
+        "slowEndTime": 18258
+    },
+    {
+        "text": "I love playing chess.",
+        "startTime": 12538,
+        "endTime": 13709,
+        "slowStartTime": 18957,
+        "slowEndTime": 20788
+    },
+    {
+        "text": "I play chess with my father every day.",
+        "startTime": 14192,
+        "endTime": 16564,
+        "slowStartTime": 21438,
+        "slowEndTime": 25071
+    },
+    {
+        "text": "I'm Jack.",
+        "startTime": 18291,
+        "endTime": 19015,
+        "slowStartTime": 27587,
+        "slowEndTime": 28748
+    },
+    {
+        "text": "I like drawing pictures.",
+        "startTime": 19398,
+        "endTime": 20805,
+        "slowStartTime": 29247,
+        "slowEndTime": 31432
+    },
+    {
+        "text": "I usually draw pictures of my friends.",
+        "startTime": 21331,
+        "endTime": 23742,
+        "slowStartTime": 32147,
+        "slowEndTime": 35838
+    },
+    {
+        "text": "Hi, I'm Sarah!",
+        "startTime": 26181,
+        "endTime": 27756,
+        "slowStartTime": 39422,
+        "slowEndTime": 41859
+    },
+    {
+        "text": "I love gardening.",
+        "startTime": 28233,
+        "endTime": 29489,
+        "slowStartTime": 42500,
+        "slowEndTime": 44458
+    },
+    {
+        "text": "I have about 20 different flowers in my garden.",
+        "startTime": 29851,
+        "endTime": 32681,
+        "slowStartTime": 44926,
+        "slowEndTime": 49246
+    },
+    {
+        "text": "My name is Henry.",
+        "startTime": 34883,
+        "endTime": 36423,
+        "slowStartTime": 52475,
+        "slowEndTime": 54859
+    },
+    {
+        "text": "My favorite hobby is playing cards.",
+        "startTime": 37048,
+        "endTime": 39603,
+        "slowStartTime": 55722,
+        "slowEndTime": 59629
+    },
+    {
+        "text": "I usually play cards with my friends.",
+        "startTime": 40332,
+        "endTime": 42951,
+        "slowStartTime": 60648,
+        "slowEndTime": 64651
+    },
+    {
+        "text": "My name is Mary.",
+        "startTime": 45153,
+        "endTime": 46276,
+        "slowStartTime": 67879,
+        "slowEndTime": 69639
+    },
+    {
+        "text": "I like collecting seashells.",
+        "startTime": 46684,
+        "endTime": 48247,
+        "slowStartTime": 70176,
+        "slowEndTime": 72595
+    },
+    {
+        "text": "I often collect seashells by the seashore.",
+        "startTime": 48761,
+        "endTime": 51822,
+        "slowStartTime": 73291,
+        "slowEndTime": 77958
+    }
+]

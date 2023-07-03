@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Mark Zuckerberg has finally announced that the homies over at Facebook...",
+        "startTime": 15,
+        "endTime": 3691,
+        "slowStartTime": 79,
+        "slowEndTime": 5761
+    },
+    {
+        "text": "...have indeed been working on a dislike button.",
+        "startTime": 3813,
+        "endTime": 6852,
+        "slowStartTime": 5870,
+        "slowEndTime": 10503
+    },
+    {
+        "text": "He cited events like the recent refugee crisis...",
+        "startTime": 7027,
+        "endTime": 9396,
+        "slowStartTime": 10691,
+        "slowEndTime": 14319
+    },
+    {
+        "text": "...or posts that users make about family members who have passed away...",
+        "startTime": 9465,
+        "endTime": 12425,
+        "slowStartTime": 14347,
+        "slowEndTime": 18863
+    },
+    {
+        "text": "...to give examples of incidents where friends want to show that they care,...",
+        "startTime": 12529,
+        "endTime": 15669,
+        "slowStartTime": 18944,
+        "slowEndTime": 23729
+    },
+    {
+        "text": "...but it's not like they \"like\" what is going on.",
+        "startTime": 15799,
+        "endTime": 17967,
+        "slowStartTime": 23849,
+        "slowEndTime": 27176
+    },
+    {
+        "text": "Instead of showing disapproval,...",
+        "startTime": 18099,
+        "endTime": 19434,
+        "slowStartTime": 27298,
+        "slowEndTime": 29376
+    },
+    {
+        "text": "...the dislike button will be more like saying \"I'm sorry\".",
+        "startTime": 19507,
+        "endTime": 22051,
+        "slowStartTime": 29410,
+        "slowEndTime": 33302
+    }
+]

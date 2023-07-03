@@ -1,0 +1,149 @@
+[
+    {
+        "text": "﻿I'm here to see the doctor.",
+        "startTime": 2689,
+        "endTime": 3709,
+        "slowStartTime": 4184,
+        "slowEndTime": 5789
+    },
+    {
+        "text": "She'll see you in a minute.",
+        "startTime": 3876,
+        "endTime": 5420,
+        "slowStartTime": 5964,
+        "slowEndTime": 8355
+    },
+    {
+        "text": "Okay, I'll wait here.",
+        "startTime": 5620,
+        "endTime": 6499,
+        "slowStartTime": 8580,
+        "slowEndTime": 9974
+    },
+    {
+        "text": "I love playing Barbie but I only play with Ken.",
+        "startTime": 6852,
+        "endTime": 8635,
+        "slowStartTime": 10428,
+        "slowEndTime": 13178
+    },
+    {
+        "text": "Ken only.",
+        "startTime": 9698,
+        "endTime": 10159,
+        "slowStartTime": 14697,
+        "slowEndTime": 15464
+    },
+    {
+        "text": "Help, there's a fire in my building!",
+        "startTime": 10589,
+        "endTime": 12741,
+        "slowStartTime": 16033,
+        "slowEndTime": 19337
+    },
+    {
+        "text": "Help!",
+        "startTime": 13722,
+        "endTime": 14358,
+        "slowStartTime": 20733,
+        "slowEndTime": 21762
+    },
+    {
+        "text": "Amanda, what qualities do you need to be an astronaut?",
+        "startTime": 14840,
+        "endTime": 17105,
+        "slowStartTime": 22410,
+        "slowEndTime": 25882
+    },
+    {
+        "text": "Well, you need good eyesight, 50 50 eyesight.",
+        "startTime": 17257,
+        "endTime": 19813,
+        "slowStartTime": 26035,
+        "slowEndTime": 29944
+    },
+    {
+        "text": "Now, I want you to put your hands like this and hum.",
+        "startTime": 19897,
+        "endTime": 23325,
+        "slowStartTime": 29995,
+        "slowEndTime": 35212
+    },
+    {
+        "text": "Is the doctor ready yet?",
+        "startTime": 26701,
+        "endTime": 27745,
+        "slowStartTime": 40201,
+        "slowEndTime": 41842
+    },
+    {
+        "text": "Not yet.",
+        "startTime": 28036,
+        "endTime": 28883,
+        "slowStartTime": 42204,
+        "slowEndTime": 43549
+    },
+    {
+        "text": "I think she could be anything she wants to be or all of them.",
+        "startTime": 29664,
+        "endTime": 32640,
+        "slowStartTime": 44646,
+        "slowEndTime": 49185
+    },
+    {
+        "text": "You would do anything,...",
+        "startTime": 32738,
+        "endTime": 33589,
+        "slowStartTime": 49257,
+        "slowEndTime": 50609
+    },
+    {
+        "text": "...anything to make her happy.",
+        "startTime": 33881,
+        "endTime": 34975,
+        "slowStartTime": 50971,
+        "slowEndTime": 52687
+    },
+    {
+        "text": "I'm feeling a little sick.",
+        "startTime": 36125,
+        "endTime": 37150,
+        "slowStartTime": 54337,
+        "slowEndTime": 55950
+    },
+    {
+        "text": "I have a sore throat and a cough.",
+        "startTime": 37266,
+        "endTime": 38739,
+        "slowStartTime": 56049,
+        "slowEndTime": 58334
+    },
+    {
+        "text": "I might have a fever.",
+        "startTime": 38872,
+        "endTime": 39745,
+        "slowStartTime": 58458,
+        "slowEndTime": 59843
+    },
+    {
+        "text": "Oh my, you are truly sick.",
+        "startTime": 40702,
+        "endTime": 42575,
+        "slowStartTime": 61203,
+        "slowEndTime": 64087
+    },
+    {
+        "text": "Well, what should I do?",
+        "startTime": 42718,
+        "endTime": 43690,
+        "slowStartTime": 64227,
+        "slowEndTime": 65760
+    },
+    {
+        "text": "Take a bunny.",
+        "startTime": 44405,
+        "endTime": 45088,
+        "slowStartTime": 66757,
+        "slowEndTime": 67857
+    }
+]

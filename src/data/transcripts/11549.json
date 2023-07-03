@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Hi, honey.",
+        "startTime": 900,
+        "endTime": 1400,
+        "slowStartTime": 1550,
+        "slowEndTime": 2250
+    },
+    {
+        "text": "Hi darling, how's work?",
+        "startTime": 1900,
+        "endTime": 3150,
+        "slowStartTime": 3050,
+        "slowEndTime": 4900
+    },
+    {
+        "text": "Not great.",
+        "startTime": 3400,
+        "endTime": 4100,
+        "slowStartTime": 5250,
+        "slowEndTime": 6300
+    },
+    {
+        "text": "Really busy actually.",
+        "startTime": 4250,
+        "endTime": 5250,
+        "slowStartTime": 6600,
+        "slowEndTime": 8100
+    },
+    {
+        "text": "And we still have to start with the financials.",
+        "startTime": 5650,
+        "endTime": 7200,
+        "slowStartTime": 8650,
+        "slowEndTime": 10950
+    },
+    {
+        "text": "Poor, poor baby.",
+        "startTime": 7400,
+        "endTime": 8550,
+        "slowStartTime": 11300,
+        "slowEndTime": 13000
+    },
+    {
+        "text": "So I think we're digging in for a late one tonight.",
+        "startTime": 8750,
+        "endTime": 10550,
+        "slowStartTime": 13350,
+        "slowEndTime": 16000
+    },
+    {
+        "text": "Do you want me to leave you dinner in the oven?",
+        "startTime": 10850,
+        "endTime": 12150,
+        "slowStartTime": 16475,
+        "slowEndTime": 18500
+    },
+    {
+        "text": "No, I think Tim is gonna order in a stack of pizzas.",
+        "startTime": 12300,
+        "endTime": 14600,
+        "slowStartTime": 18750,
+        "slowEndTime": 22100
+    },
+    {
+        "text": "I better go.",
+        "startTime": 15150,
+        "endTime": 15700,
+        "slowStartTime": 22950,
+        "slowEndTime": 23750
+    },
+    {
+        "text": "Sooner I start, sooner I finish, eh?",
+        "startTime": 16250,
+        "endTime": 17700,
+        "slowStartTime": 24600,
+        "slowEndTime": 26700
+    },
+    {
+        "text": "Alright, darling.",
+        "startTime": 18100,
+        "endTime": 19000,
+        "slowStartTime": 27350,
+        "slowEndTime": 28700
+    },
+    {
+        "text": "Good luck, I love you.",
+        "startTime": 19750,
+        "endTime": 21100,
+        "slowStartTime": 29800,
+        "slowEndTime": 31600
+    },
+    {
+        "text": "I love you too, May.",
+        "startTime": 21650,
+        "endTime": 22500,
+        "slowStartTime": 32700,
+        "slowEndTime": 34000
+    },
+    {
+        "text": "See you later.",
+        "startTime": 23050,
+        "endTime": 23686,
+        "slowStartTime": 34750,
+        "slowEndTime": 35550
+    },
+    {
+        "text": "Bye.",
+        "startTime": 24000,
+        "endTime": 24250,
+        "slowStartTime": 36150,
+        "slowEndTime": 36550
+    },
+    {
+        "text": "You're up.",
+        "startTime": 29150,
+        "endTime": 29600,
+        "slowStartTime": 43950,
+        "slowEndTime": 44600
+    },
+    {
+        "text": "Cheers, mate.",
+        "startTime": 29800,
+        "endTime": 30550,
+        "slowStartTime": 44900,
+        "slowEndTime": 46100
+    },
+    {
+        "text": "Your round next?",
+        "startTime": 30650,
+        "endTime": 31400,
+        "slowStartTime": 46150,
+        "slowEndTime": 47350
+    },
+    {
+        "text": "See you out there.",
+        "startTime": 31800,
+        "endTime": 32766,
+        "slowStartTime": 47850,
+        "slowEndTime": 48900
+    }
+]

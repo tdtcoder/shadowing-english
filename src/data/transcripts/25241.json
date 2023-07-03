@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Let's learn about women's clothes.",
+        "startTime": 305,
+        "endTime": 2949,
+        "slowStartTime": 607,
+        "slowEndTime": 4648
+    },
+    {
+        "text": "She is wearing a dress.",
+        "startTime": 5084,
+        "endTime": 7298,
+        "slowStartTime": 7776,
+        "slowEndTime": 11172
+    },
+    {
+        "text": "This woman is wearing a skirt.",
+        "startTime": 11391,
+        "endTime": 13932,
+        "slowStartTime": 17236,
+        "slowEndTime": 21123
+    },
+    {
+        "text": "They are wearing shirts and jeans.",
+        "startTime": 15993,
+        "endTime": 18905,
+        "slowStartTime": 24140,
+        "slowEndTime": 28583
+    },
+    {
+        "text": "She is wearing high heels.",
+        "startTime": 23104,
+        "endTime": 26061,
+        "slowStartTime": 34806,
+        "slowEndTime": 39317
+    },
+    {
+        "text": "That's not how you wear a bra!",
+        "startTime": 30441,
+        "endTime": 32542,
+        "slowStartTime": 45811,
+        "slowEndTime": 49038
+    },
+    {
+        "text": "The cat is wearing a hat.",
+        "startTime": 37361,
+        "endTime": 39766,
+        "slowStartTime": 56192,
+        "slowEndTime": 59874
+    },
+    {
+        "text": "They are wearing pajamas.",
+        "startTime": 44883,
+        "endTime": 47037,
+        "slowStartTime": 67474,
+        "slowEndTime": 70781
+    },
+    {
+        "text": "She is wearing a fur coat.",
+        "startTime": 50440,
+        "endTime": 53407,
+        "slowStartTime": 75810,
+        "slowEndTime": 80335
+    },
+    {
+        "text": "Do you wear jewelry?",
+        "startTime": 58806,
+        "endTime": 60404,
+        "slowStartTime": 88359,
+        "slowEndTime": 90831
+    },
+    {
+        "text": "She is wearing a scarf.",
+        "startTime": 63689,
+        "endTime": 65953,
+        "slowStartTime": 95684,
+        "slowEndTime": 99155
+    }
+]

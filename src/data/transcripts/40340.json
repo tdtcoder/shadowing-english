@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Ah, Jennifer?",
+        "startTime": 181,
+        "endTime": 1255,
+        "slowStartTime": 421,
+        "slowEndTime": 2108
+    },
+    {
+        "text": "Rob?",
+        "startTime": 1631,
+        "endTime": 2163,
+        "slowStartTime": 2597,
+        "slowEndTime": 3470
+    },
+    {
+        "text": "Yes!",
+        "startTime": 2404,
+        "endTime": 2811,
+        "slowStartTime": 3756,
+        "slowEndTime": 4442
+    },
+    {
+        "text": "Hello!",
+        "startTime": 2984,
+        "endTime": 3532,
+        "slowStartTime": 4626,
+        "slowEndTime": 5523
+    },
+    {
+        "text": "Nice to meet you, Jennifer.",
+        "startTime": 3791,
+        "endTime": 4759,
+        "slowStartTime": 5837,
+        "slowEndTime": 7364
+    },
+    {
+        "text": "Call me Jenny.",
+        "startTime": 4867,
+        "endTime": 5596,
+        "slowStartTime": 7450,
+        "slowEndTime": 8619
+    },
+    {
+        "text": "Good to meet you, too.",
+        "startTime": 6055,
+        "endTime": 6834,
+        "slowStartTime": 9233,
+        "slowEndTime": 10476
+    },
+    {
+        "text": "Welcome to London.",
+        "startTime": 7241,
+        "endTime": 8053,
+        "slowStartTime": 11011,
+        "slowEndTime": 12305
+    },
+    {
+        "text": "Am I late?",
+        "startTime": 8947,
+        "endTime": 10009,
+        "slowStartTime": 13571,
+        "slowEndTime": 15238
+    },
+    {
+        "text": "Just a little.",
+        "startTime": 11272,
+        "endTime": 11787,
+        "slowStartTime": 17058,
+        "slowEndTime": 17906
+    },
+    {
+        "text": "What time is it?",
+        "startTime": 12175,
+        "endTime": 13076,
+        "slowStartTime": 18413,
+        "slowEndTime": 19839
+    },
+    {
+        "text": "9:15.",
+        "startTime": 13346,
+        "endTime": 14468,
+        "slowStartTime": 20169,
+        "slowEndTime": 21927
+    },
+    {
+        "text": "I'm really sorry.",
+        "startTime": 14831,
+        "endTime": 15863,
+        "slowStartTime": 22396,
+        "slowEndTime": 24019
+    },
+    {
+        "text": "The traffic is terrible today.",
+        "startTime": 15998,
+        "endTime": 17541,
+        "slowStartTime": 24147,
+        "slowEndTime": 26536
+    },
+    {
+        "text": "No problem.",
+        "startTime": 17948,
+        "endTime": 18723,
+        "slowStartTime": 27072,
+        "slowEndTime": 28310
+    },
+    {
+        "text": "Let's get a coffee.",
+        "startTime": 18933,
+        "endTime": 19911,
+        "slowStartTime": 28550,
+        "slowEndTime": 30091
+    },
+    {
+        "text": "Do I have time?",
+        "startTime": 20329,
+        "endTime": 21100,
+        "slowStartTime": 30644,
+        "slowEndTime": 31875
+    },
+    {
+        "text": "I have a meeting at 9:30.",
+        "startTime": 21660,
+        "endTime": 23581,
+        "slowStartTime": 32640,
+        "slowEndTime": 35596
+    },
+    {
+        "text": "With Daniel?",
+        "startTime": 23945,
+        "endTime": 25046,
+        "slowStartTime": 36067,
+        "slowEndTime": 37794
+    },
+    {
+        "text": "Yes.",
+        "startTime": 25384,
+        "endTime": 25874,
+        "slowStartTime": 38226,
+        "slowEndTime": 39036
+    },
+    {
+        "text": "Don't worry.",
+        "startTime": 26212,
+        "endTime": 26872,
+        "slowStartTime": 39468,
+        "slowEndTime": 40533
+    },
+    {
+        "text": "We have lots of time.",
+        "startTime": 27025,
+        "endTime": 28022,
+        "slowStartTime": 40687,
+        "slowEndTime": 42258
+    },
+    {
+        "text": "The office is very near.",
+        "startTime": 28539,
+        "endTime": 29756,
+        "slowStartTime": 42959,
+        "slowEndTime": 44859
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Bug.",
+        "startTime": 2421,
+        "endTime": 3017,
+        "slowStartTime": 3782,
+        "slowEndTime": 4750
+    },
+    {
+        "text": "I don't like bugs.",
+        "startTime": 3918,
+        "endTime": 5555,
+        "slowStartTime": 6027,
+        "slowEndTime": 8558
+    },
+    {
+        "text": "I don't like gray bugs.",
+        "startTime": 7020,
+        "endTime": 9042,
+        "slowStartTime": 10680,
+        "slowEndTime": 13788
+    },
+    {
+        "text": "Cup.",
+        "startTime": 10443,
+        "endTime": 10831,
+        "slowStartTime": 15814,
+        "slowEndTime": 16472
+    },
+    {
+        "text": "I have a cup.",
+        "startTime": 11455,
+        "endTime": 12589,
+        "slowStartTime": 17332,
+        "slowEndTime": 19108
+    },
+    {
+        "text": "I have a cup of milk.",
+        "startTime": 13823,
+        "endTime": 15568,
+        "slowStartTime": 20884,
+        "slowEndTime": 23577
+    },
+    {
+        "text": "Gum.",
+        "startTime": 16879,
+        "endTime": 17488,
+        "slowStartTime": 25468,
+        "slowEndTime": 26457
+    },
+    {
+        "text": "I like to chew gum.",
+        "startTime": 18373,
+        "endTime": 20062,
+        "slowStartTime": 27710,
+        "slowEndTime": 30318
+    },
+    {
+        "text": "I like to chew grape gum.",
+        "startTime": 21440,
+        "endTime": 23786,
+        "slowStartTime": 32310,
+        "slowEndTime": 35904
+    },
+    {
+        "text": "Nut.",
+        "startTime": 25109,
+        "endTime": 25638,
+        "slowStartTime": 37814,
+        "slowEndTime": 38682
+    },
+    {
+        "text": "This nut is hard.",
+        "startTime": 26484,
+        "endTime": 28152,
+        "slowStartTime": 39876,
+        "slowEndTime": 42453
+    },
+    {
+        "text": "This nut is very hard.",
+        "startTime": 29541,
+        "endTime": 31516,
+        "slowStartTime": 44461,
+        "slowEndTime": 47499
+    },
+    {
+        "text": "What, what, what, what do we do?",
+        "startTime": 37587,
+        "endTime": 40775,
+        "slowStartTime": 56530,
+        "slowEndTime": 61387
+    },
+    {
+        "text": "I swing, you swing, you and I swing.",
+        "startTime": 41149,
+        "endTime": 44575,
+        "slowStartTime": 61874,
+        "slowEndTime": 67087
+    },
+    {
+        "text": "What, what, what, what do we do?",
+        "startTime": 45012,
+        "endTime": 48308,
+        "slowStartTime": 67668,
+        "slowEndTime": 72687
+    },
+    {
+        "text": "I slide, you slide, you and I slide.",
+        "startTime": 48656,
+        "endTime": 52077,
+        "slowStartTime": 73134,
+        "slowEndTime": 78341
+    },
+    {
+        "text": "What, what, what, what do we do?",
+        "startTime": 52607,
+        "endTime": 55757,
+        "slowStartTime": 79061,
+        "slowEndTime": 83860
+    },
+    {
+        "text": "I bike, you bike, you and I bike.",
+        "startTime": 56131,
+        "endTime": 59585,
+        "slowStartTime": 84346,
+        "slowEndTime": 89602
+    },
+    {
+        "text": "You and I, we swing, slide, bike.",
+        "startTime": 60009,
+        "endTime": 63272,
+        "slowStartTime": 90163,
+        "slowEndTime": 95133
+    },
+    {
+        "text": "You and I have lots of fun!",
+        "startTime": 63835,
+        "endTime": 67033,
+        "slowStartTime": 95902,
+        "slowEndTime": 100775
+    }
+]

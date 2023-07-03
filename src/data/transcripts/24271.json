@@ -1,0 +1,156 @@
+[
+    {
+        "text": "McDonald's has a problem.",
+        "startTime": 899,
+        "endTime": 2476,
+        "slowStartTime": 1498,
+        "slowEndTime": 3939
+    },
+    {
+        "text": "People are eating less and less of their food...",
+        "startTime": 2880,
+        "endTime": 4707,
+        "slowStartTime": 4470,
+        "slowEndTime": 7285
+    },
+    {
+        "text": "...and same-store sales in the US have declined for the past six quarters in a row.",
+        "startTime": 4787,
+        "endTime": 9927,
+        "slowStartTime": 7330,
+        "slowEndTime": 15115
+    },
+    {
+        "text": "Here are four of McDonald's biggest missteps of recent months.",
+        "startTime": 10355,
+        "endTime": 14012,
+        "slowStartTime": 15683,
+        "slowEndTime": 21243
+    },
+    {
+        "text": "McDonald's has been adding lots of new items to its menu in an attempt to lure new customers.",
+        "startTime": 16016,
+        "endTime": 20975,
+        "slowStartTime": 24174,
+        "slowEndTime": 31687
+    },
+    {
+        "text": "The problem is, that menu is now too big and unwieldy for its own good.",
+        "startTime": 21171,
+        "endTime": 25815,
+        "slowStartTime": 31907,
+        "slowEndTime": 38947
+    },
+    {
+        "text": "As fast-food workers in cities across the US clamor for a boost to their barely minimum wages,...",
+        "startTime": 26411,
+        "endTime": 32163,
+        "slowStartTime": 39766,
+        "slowEndTime": 48470
+    },
+    {
+        "text": "...McDonald's has taken the brunt of the PR quagmire.",
+        "startTime": 32461,
+        "endTime": 35739,
+        "slowStartTime": 48841,
+        "slowEndTime": 53834
+    },
+    {
+        "text": "In response, the company has said that it will raise workers' pay...",
+        "startTime": 36231,
+        "endTime": 39450,
+        "slowStartTime": 54496,
+        "slowEndTime": 59400
+    },
+    {
+        "text": "...to at least $1 above local minimum wages...",
+        "startTime": 39625,
+        "endTime": 42533,
+        "slowStartTime": 59588,
+        "slowEndTime": 64025
+    },
+    {
+        "text": "...and even offer vacation benefits.",
+        "startTime": 42775,
+        "endTime": 44858,
+        "slowStartTime": 64312,
+        "slowEndTime": 67512
+    },
+    {
+        "text": "It's not just employees who are disgruntled; it's store owners too.",
+        "startTime": 45321,
+        "endTime": 49339,
+        "slowStartTime": 68131,
+        "slowEndTime": 74233
+    },
+    {
+        "text": "A recent survey found that the relationship between McDonald's and its US franchise owners...",
+        "startTime": 49698,
+        "endTime": 54888,
+        "slowStartTime": 74697,
+        "slowEndTime": 82557
+    },
+    {
+        "text": "...is the worst it's been in over a decade.",
+        "startTime": 55028,
+        "endTime": 57475,
+        "slowStartTime": 82692,
+        "slowEndTime": 86437
+    },
+    {
+        "text": "Opening up a McDonald's requires an investment of about one or two million dollars.",
+        "startTime": 57869,
+        "endTime": 62513,
+        "slowStartTime": 86954,
+        "slowEndTime": 93994
+    },
+    {
+        "text": "Finally, the company is missing a big opportunity in mobile.",
+        "startTime": 63747,
+        "endTime": 67553,
+        "slowStartTime": 95770,
+        "slowEndTime": 101554
+    },
+    {
+        "text": "Fast-food companies like Taco Bell and Starbucks...",
+        "startTime": 68029,
+        "endTime": 70926,
+        "slowStartTime": 102193,
+        "slowEndTime": 106614
+    },
+    {
+        "text": "...have shown what a good mobile app can do for sales.",
+        "startTime": 71129,
+        "endTime": 73866,
+        "slowStartTime": 106843,
+        "slowEndTime": 111024
+    },
+    {
+        "text": "Customers ordering via Taco Bell's app, for example,...",
+        "startTime": 74464,
+        "endTime": 77684,
+        "slowStartTime": 111846,
+        "slowEndTime": 116751
+    },
+    {
+        "text": "...rack up bills averaging 20% higher than regular orders.",
+        "startTime": 77916,
+        "endTime": 81848,
+        "slowStartTime": 117024,
+        "slowEndTime": 122997
+    },
+    {
+        "text": "McDonald's has lagged behind its competitors...",
+        "startTime": 82248,
+        "endTime": 84721,
+        "slowStartTime": 123522,
+        "slowEndTime": 127307
+    },
+    {
+        "text": "...but is expected to release a global app this summer.",
+        "startTime": 84815,
+        "endTime": 87997,
+        "slowStartTime": 127372,
+        "slowEndTime": 132221
+    }
+]

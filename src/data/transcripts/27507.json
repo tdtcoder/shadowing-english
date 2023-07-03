@@ -1,0 +1,121 @@
+[
+    {
+        "text": "So Jamal, what made you choose this bank to open an account?",
+        "startTime": 520,
+        "endTime": 3465,
+        "slowStartTime": 930,
+        "slowEndTime": 5422
+    },
+    {
+        "text": "Well, I've heard a lot of good things about this bank.",
+        "startTime": 3618,
+        "endTime": 5701,
+        "slowStartTime": 5577,
+        "slowEndTime": 8776
+    },
+    {
+        "text": "And I don't live too far from here,...",
+        "startTime": 6109,
+        "endTime": 7430,
+        "slowStartTime": 9314,
+        "slowEndTime": 11370
+    },
+    {
+        "text": "...so it's pretty convenient for me.",
+        "startTime": 7530,
+        "endTime": 9314,
+        "slowStartTime": 11445,
+        "slowEndTime": 14196
+    },
+    {
+        "text": "Good, good. Okay, let's get you started.",
+        "startTime": 9769,
+        "endTime": 11294,
+        "slowStartTime": 14804,
+        "slowEndTime": 17166
+    },
+    {
+        "text": "So what type of account would you like to open?",
+        "startTime": 11786,
+        "endTime": 13450,
+        "slowStartTime": 17829,
+        "slowEndTime": 20400
+    },
+    {
+        "text": "A savings or a checking account?",
+        "startTime": 13541,
+        "endTime": 14979,
+        "slowStartTime": 20461,
+        "slowEndTime": 22693
+    },
+    {
+        "text": "I don't know.",
+        "startTime": 15400,
+        "endTime": 15956,
+        "slowStartTime": 23250,
+        "slowEndTime": 24159
+    },
+    {
+        "text": "Doesn't matter to me.",
+        "startTime": 16081,
+        "endTime": 16915,
+        "slowStartTime": 24272,
+        "slowEndTime": 25597
+    },
+    {
+        "text": "Well, I was thinking of opening a checking account.",
+        "startTime": 17283,
+        "endTime": 20161,
+        "slowStartTime": 26075,
+        "slowEndTime": 30466
+    },
+    {
+        "text": "But I'm not sure what the difference is between that or savings account.",
+        "startTime": 20371,
+        "endTime": 25445,
+        "slowStartTime": 30706,
+        "slowEndTime": 38392
+    },
+    {
+        "text": "Well Jamal, a checking account is an account used to deposit money at a bank.",
+        "startTime": 26406,
+        "endTime": 31341,
+        "slowStartTime": 39759,
+        "slowEndTime": 47236
+    },
+    {
+        "text": "Money can be added or removed from the account by visiting the bank or writing a check.",
+        "startTime": 31963,
+        "endTime": 37319,
+        "slowStartTime": 48094,
+        "slowEndTime": 56204
+    },
+    {
+        "text": "If the account earns interest, it's usually at a lower rate than a savings account.",
+        "startTime": 37457,
+        "endTime": 42656,
+        "slowStartTime": 56335,
+        "slowEndTime": 64209
+    },
+    {
+        "text": "A savings account is an account you have...",
+        "startTime": 42924,
+        "endTime": 44633,
+        "slowStartTime": 64536,
+        "slowEndTime": 67174
+    },
+    {
+        "text": "...for the purpose of saving money over a period of time.",
+        "startTime": 44760,
+        "endTime": 47520,
+        "slowStartTime": 67290,
+        "slowEndTime": 71505
+    },
+    {
+        "text": "Only you can take out money you put into your savings account.",
+        "startTime": 47860,
+        "endTime": 51062,
+        "slowStartTime": 71940,
+        "slowEndTime": 76818
+    }
+]

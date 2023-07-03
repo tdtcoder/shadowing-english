@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Why are you crying here?",
+        "startTime": 1535,
+        "endTime": 3242,
+        "slowStartTime": 2453,
+        "slowEndTime": 5088
+    },
+    {
+        "text": "I got lost. And I can't find my mom.",
+        "startTime": 4289,
+        "endTime": 8214,
+        "slowStartTime": 6583,
+        "slowEndTime": 12546
+    },
+    {
+        "text": "What does your mom look like?",
+        "startTime": 9233,
+        "endTime": 11054,
+        "slowStartTime": 13999,
+        "slowEndTime": 16806
+    },
+    {
+        "text": "She is a tall and thin lady with long and straight hair.",
+        "startTime": 12162,
+        "endTime": 16043,
+        "slowStartTime": 18393,
+        "slowEndTime": 24290
+    },
+    {
+        "text": "What is she wearing?",
+        "startTime": 17051,
+        "endTime": 18599,
+        "slowStartTime": 25727,
+        "slowEndTime": 28123
+    },
+    {
+        "text": "She is wearing a dress with polka dots.",
+        "startTime": 19585,
+        "endTime": 22221,
+        "slowStartTime": 29527,
+        "slowEndTime": 33557
+    },
+    {
+        "text": "Look over there!",
+        "startTime": 23213,
+        "endTime": 24275,
+        "slowStartTime": 34969,
+        "slowEndTime": 36638
+    },
+    {
+        "text": "A woman with a polka-dot dress runs down the street.",
+        "startTime": 24650,
+        "endTime": 27904,
+        "slowStartTime": 37125,
+        "slowEndTime": 42081
+    },
+    {
+        "text": "She must be your mom.",
+        "startTime": 28350,
+        "endTime": 30035,
+        "slowStartTime": 42675,
+        "slowEndTime": 45277
+    },
+    {
+        "text": "Emmy throws the ball. And a puppy Billy chases it.",
+        "startTime": 36354,
+        "endTime": 42759,
+        "slowStartTime": 54681,
+        "slowEndTime": 64363
+    },
+    {
+        "text": "Then, Billy sees Cat. He drops the ball and chases Cat.",
+        "startTime": 43797,
+        "endTime": 50447,
+        "slowStartTime": 65846,
+        "slowEndTime": 75896
+    },
+    {
+        "text": "Cat runs down the street, and Billy chases him.",
+        "startTime": 51363,
+        "endTime": 56858,
+        "slowStartTime": 77194,
+        "slowEndTime": 85512
+    },
+    {
+        "text": "Cat runs into the forest, and Billy chases him.",
+        "startTime": 58828,
+        "endTime": 64334,
+        "slowStartTime": 88392,
+        "slowEndTime": 96726
+    },
+    {
+        "text": "Cat climbs up a tree. Billy turns to go home.",
+        "startTime": 66347,
+        "endTime": 72341,
+        "slowStartTime": 99670,
+        "slowEndTime": 108737
+    },
+    {
+        "text": "He cannot see the big house with a blue roof. He is lost.",
+        "startTime": 73837,
+        "endTime": 80123,
+        "slowStartTime": 110906,
+        "slowEndTime": 120410
+    },
+    {
+        "text": "Billy goes to Owl in the barn. Owl flies, and Billy chases her.",
+        "startTime": 81357,
+        "endTime": 87763,
+        "slowStartTime": 122185,
+        "slowEndTime": 131869
+    },
+    {
+        "text": "Then, Billy sees Emmy at the big house with a blue roof.",
+        "startTime": 88845,
+        "endTime": 94633,
+        "slowStartTime": 133417,
+        "slowEndTime": 142175
+    }
+]

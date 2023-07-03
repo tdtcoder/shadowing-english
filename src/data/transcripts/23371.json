@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Hey man, have you tried the voice text on the new iPhone 6?",
+        "startTime": 329,
+        "endTime": 2621,
+        "slowStartTime": 643,
+        "slowEndTime": 4157
+    },
+    {
+        "text": "Yeah, it's amazing.",
+        "startTime": 2796,
+        "endTime": 3697,
+        "slowStartTime": 4344,
+        "slowEndTime": 5770
+    },
+    {
+        "text": "Especially with things that don't normally work with regular texts, like sarcasm.",
+        "startTime": 4022,
+        "endTime": 7557,
+        "slowStartTime": 6183,
+        "slowEndTime": 11560
+    },
+    {
+        "text": "Please bring Amanda.",
+        "startTime": 7749,
+        "endTime": 8971,
+        "slowStartTime": 11773,
+        "slowEndTime": 13682
+    },
+    {
+        "text": "She's so fun.",
+        "startTime": 9067,
+        "endTime": 10355,
+        "slowStartTime": 13750,
+        "slowEndTime": 15758
+    },
+    {
+        "text": "Or if you want to sing a message.",
+        "startTime": 10788,
+        "endTime": 12167,
+        "slowStartTime": 16332,
+        "slowEndTime": 18475
+    },
+    {
+        "text": "Do you need anything from the store?",
+        "startTime": 12316,
+        "endTime": 14740,
+        "slowStartTime": 18624,
+        "slowEndTime": 22335
+    },
+    {
+        "text": "Like 2% milk or skim?",
+        "startTime": 14834,
+        "endTime": 17202,
+        "slowStartTime": 22401,
+        "slowEndTime": 26028
+    }
+]

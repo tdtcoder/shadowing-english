@@ -1,0 +1,58 @@
+[
+    {
+        "text": "When do you go to sleep?",
+        "startTime": 1085,
+        "endTime": 2539,
+        "slowStartTime": 1778,
+        "slowEndTime": 4033
+    },
+    {
+        "text": "I sleep at 8:00 in the evening.",
+        "startTime": 3579,
+        "endTime": 5793,
+        "slowStartTime": 5519,
+        "slowEndTime": 8915
+    },
+    {
+        "text": "When do you go to the beach?",
+        "startTime": 6763,
+        "endTime": 8146,
+        "slowStartTime": 10295,
+        "slowEndTime": 12444
+    },
+    {
+        "text": "I go to the beach every summer.",
+        "startTime": 8921,
+        "endTime": 11329,
+        "slowStartTime": 13532,
+        "slowEndTime": 17219
+    },
+    {
+        "text": "When do you play basketball?",
+        "startTime": 12388,
+        "endTime": 14098,
+        "slowStartTime": 18732,
+        "slowEndTime": 21372
+    },
+    {
+        "text": "I play basketball every Saturday.",
+        "startTime": 15262,
+        "endTime": 17680,
+        "slowStartTime": 23043,
+        "slowEndTime": 26745
+    },
+    {
+        "text": "When is your birthday?",
+        "startTime": 18526,
+        "endTime": 19776,
+        "slowStartTime": 27939,
+        "slowEndTime": 29889
+    },
+    {
+        "text": "My birthday is on May 5.",
+        "startTime": 20409,
+        "endTime": 22588,
+        "slowStartTime": 30764,
+        "slowEndTime": 34107
+    }
+]

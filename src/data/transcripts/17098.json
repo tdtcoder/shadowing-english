@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Oh! Mr. Bond, I was thinking.",
+        "startTime": 847,
+        "endTime": 3676,
+        "slowStartTime": 1421,
+        "slowEndTime": 5739
+    },
+    {
+        "text": "Why don't you collect me at my apartment?",
+        "startTime": 4176,
+        "endTime": 6111,
+        "slowStartTime": 6414,
+        "slowEndTime": 9392
+    },
+    {
+        "text": "It's lovely up here in the mountains.",
+        "startTime": 7244,
+        "endTime": 9084,
+        "slowStartTime": 11016,
+        "slowEndTime": 13851
+    },
+    {
+        "text": "Nice and cool.",
+        "startTime": 9897,
+        "endTime": 11068,
+        "slowStartTime": 14996,
+        "slowEndTime": 16827
+    },
+    {
+        "text": "All right. You leave the Port Royal Road out of Kingston.",
+        "startTime": 12467,
+        "endTime": 16915,
+        "slowStartTime": 18850,
+        "slowEndTime": 25597
+    },
+    {
+        "text": "Then along the Wentworth Road, until you get to the cement factory.",
+        "startTime": 17343,
+        "endTime": 21365,
+        "slowStartTime": 26164,
+        "slowEndTime": 32273
+    },
+    {
+        "text": "Then you turn left.",
+        "startTime": 22207,
+        "endTime": 23239,
+        "slowStartTime": 33460,
+        "slowEndTime": 35084
+    },
+    {
+        "text": "Follow the road up the hill, down the other side...",
+        "startTime": 24254,
+        "endTime": 27553,
+        "slowStartTime": 36531,
+        "slowEndTime": 41554
+    },
+    {
+        "text": "... and two miles further on, on the left...",
+        "startTime": 28096,
+        "endTime": 30935,
+        "slowStartTime": 42294,
+        "slowEndTime": 46627
+    },
+    {
+        "text": "... Magenta Drive, 2391.",
+        "startTime": 31328,
+        "endTime": 34277,
+        "slowStartTime": 47142,
+        "slowEndTime": 51640
+    },
+    {
+        "text": "I'll be waiting for you.",
+        "startTime": 36371,
+        "endTime": 37668,
+        "slowStartTime": 54706,
+        "slowEndTime": 56727
+    }
+]

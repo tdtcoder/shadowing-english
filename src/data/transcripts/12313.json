@@ -1,0 +1,121 @@
+[
+    {
+        "text": "I want to get some new CDs to listen to at home.",
+        "startTime": 2433,
+        "endTime": 5190,
+        "slowStartTime": 3799,
+        "slowEndTime": 8010
+    },
+    {
+        "text": "Do you have any recommendations?",
+        "startTime": 5342,
+        "endTime": 6831,
+        "slowStartTime": 8163,
+        "slowEndTime": 10472
+    },
+    {
+        "text": "Sure, what kind of music are you looking for?",
+        "startTime": 7058,
+        "endTime": 9723,
+        "slowStartTime": 10737,
+        "slowEndTime": 14810
+    },
+    {
+        "text": "I'd like to get a variety of stuff.",
+        "startTime": 9893,
+        "endTime": 11581,
+        "slowStartTime": 14990,
+        "slowEndTime": 17597
+    },
+    {
+        "text": "Well, as far as rock goes,...",
+        "startTime": 11847,
+        "endTime": 13711,
+        "slowStartTime": 17920,
+        "slowEndTime": 20792
+    },
+    {
+        "text": "...the \"Nighthawks\" have a great new album that just came out.",
+        "startTime": 13819,
+        "endTime": 16970,
+        "slowStartTime": 20879,
+        "slowEndTime": 25680
+    },
+    {
+        "text": "Really? Yeah, I think I've heard of them.",
+        "startTime": 17136,
+        "endTime": 19360,
+        "slowStartTime": 25854,
+        "slowEndTime": 29265
+    },
+    {
+        "text": "That might be good.",
+        "startTime": 19626,
+        "endTime": 20458,
+        "slowStartTime": 29589,
+        "slowEndTime": 30912
+    },
+    {
+        "text": "Also, for the easy listening there is a collection of ...",
+        "startTime": 20818,
+        "endTime": 23723,
+        "slowStartTime": 31377,
+        "slowEndTime": 35809
+    },
+    {
+        "text": "...great chill-out songs on a CD called \"House Arrest\".",
+        "startTime": 23846,
+        "endTime": 27212,
+        "slowStartTime": 35919,
+        "slowEndTime": 41043
+    },
+    {
+        "text": "Do you have a copy of that CD?",
+        "startTime": 27387,
+        "endTime": 29741,
+        "slowStartTime": 41231,
+        "slowEndTime": 44836
+    },
+    {
+        "text": "Yes, I do.",
+        "startTime": 29909,
+        "endTime": 30730,
+        "slowStartTime": 45013,
+        "slowEndTime": 46320
+    },
+    {
+        "text": "I'd be happy to let you borrow it if you like.",
+        "startTime": 30971,
+        "endTime": 33325,
+        "slowStartTime": 46607,
+        "slowEndTime": 50212
+    },
+    {
+        "text": "Okay, thank you. That'd be great.",
+        "startTime": 33493,
+        "endTime": 35283,
+        "slowStartTime": 50390,
+        "slowEndTime": 53150
+    },
+    {
+        "text": "Why don't you come over to my place this weekend and listen to some of my CDs?",
+        "startTime": 35614,
+        "endTime": 40287,
+        "slowStartTime": 53571,
+        "slowEndTime": 60656
+    },
+    {
+        "text": "Maybe it will help you decide what you want to buy.",
+        "startTime": 40530,
+        "endTime": 43023,
+        "slowStartTime": 60945,
+        "slowEndTime": 64760
+    },
+    {
+        "text": "That sounds like a great idea!",
+        "startTime": 43117,
+        "endTime": 44886,
+        "slowStartTime": 64825,
+        "slowEndTime": 67554
+    }
+]

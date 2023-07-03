@@ -1,0 +1,254 @@
+[
+    {
+        "text": "Michael, in order to expedite these negotiations,...",
+        "startTime": 83,
+        "endTime": 3812,
+        "slowStartTime": 274,
+        "slowEndTime": 5943
+    },
+    {
+        "text": "...we are prepared to make you a very generous offer.",
+        "startTime": 4307,
+        "endTime": 6412,
+        "slowStartTime": 6610,
+        "slowEndTime": 9843
+    },
+    {
+        "text": "And we are prepared to reject that offer.",
+        "startTime": 6510,
+        "endTime": 8751,
+        "slowStartTime": 9915,
+        "slowEndTime": 13352
+    },
+    {
+        "text": "Michael, you haven't even heard...",
+        "startTime": 9875,
+        "endTime": 10707,
+        "slowStartTime": 14962,
+        "slowEndTime": 16286
+    },
+    {
+        "text": "Never accept their first offer.",
+        "startTime": 10783,
+        "endTime": 12869,
+        "slowStartTime": 16325,
+        "slowEndTime": 19529
+    },
+    {
+        "text": "What is your second offer?",
+        "startTime": 13181,
+        "endTime": 14168,
+        "slowStartTime": 19921,
+        "slowEndTime": 21477
+    },
+    {
+        "text": "Twelve thousand dollars.",
+        "startTime": 14970,
+        "endTime": 16211,
+        "slowStartTime": 22605,
+        "slowEndTime": 24541
+    },
+    {
+        "text": "Are you kidding me?",
+        "startTime": 17388,
+        "endTime": 18071,
+        "slowStartTime": 26232,
+        "slowEndTime": 27332
+    },
+    {
+        "text": "That is insultingly low.",
+        "startTime": 18407,
+        "endTime": 19651,
+        "slowStartTime": 27760,
+        "slowEndTime": 29701
+    },
+    {
+        "text": "I don't even wanna hear what your first offer was.",
+        "startTime": 20277,
+        "endTime": 22376,
+        "slowStartTime": 30566,
+        "slowEndTime": 33789
+    },
+    {
+        "text": "Here's the situation: your company is four weeks old.",
+        "startTime": 22512,
+        "endTime": 25469,
+        "slowStartTime": 33918,
+        "slowEndTime": 38429
+    },
+    {
+        "text": "I know this business, I know what suppliers are charging.",
+        "startTime": 25570,
+        "endTime": 27671,
+        "slowStartTime": 38505,
+        "slowEndTime": 41731
+    },
+    {
+        "text": "I know you can't be making very much money.",
+        "startTime": 27899,
+        "endTime": 30190,
+        "slowStartTime": 41999,
+        "slowEndTime": 45510
+    },
+    {
+        "text": "I don't know how your prices are so low,...",
+        "startTime": 30303,
+        "endTime": 31785,
+        "slowStartTime": 45604,
+        "slowEndTime": 47903
+    },
+    {
+        "text": "...but, I know it can't keep up that way.",
+        "startTime": 32273,
+        "endTime": 34093,
+        "slowStartTime": 48560,
+        "slowEndTime": 51365
+    },
+    {
+        "text": "I'm sure you're scared, probably in debt.",
+        "startTime": 34977,
+        "endTime": 38011,
+        "slowStartTime": 52616,
+        "slowEndTime": 57242
+    },
+    {
+        "text": "This is the best offer you're gonna get.",
+        "startTime": 38615,
+        "endTime": 39786,
+        "slowStartTime": 58072,
+        "slowEndTime": 59904
+    },
+    {
+        "text": "I'll see your situation and I'll raise you a situation.",
+        "startTime": 40602,
+        "endTime": 43110,
+        "slowStartTime": 61053,
+        "slowEndTime": 64890
+    },
+    {
+        "text": "Your company is losing clients left and right.",
+        "startTime": 43639,
+        "endTime": 46623,
+        "slowStartTime": 65608,
+        "slowEndTime": 70159
+    },
+    {
+        "text": "You have a stockholder meeting coming up and you're going to have to explain to them...",
+        "startTime": 46893,
+        "endTime": 50825,
+        "slowStartTime": 70489,
+        "slowEndTime": 76462
+    },
+    {
+        "text": "...why your most profitable branch is bleeding.",
+        "startTime": 50967,
+        "endTime": 54787,
+        "slowStartTime": 76600,
+        "slowEndTime": 82405
+    },
+    {
+        "text": "So, they may be looking for a little change in the CFO.",
+        "startTime": 55639,
+        "endTime": 58435,
+        "slowStartTime": 83608,
+        "slowEndTime": 87878
+    },
+    {
+        "text": "So, I don't think I need to wait out Dunder Mifflin.",
+        "startTime": 58559,
+        "endTime": 60229,
+        "slowStartTime": 87988,
+        "slowEndTime": 90568
+    },
+    {
+        "text": "I think I just have to wait out you.",
+        "startTime": 60505,
+        "endTime": 62025,
+        "slowStartTime": 90908,
+        "slowEndTime": 93262
+    },
+    {
+        "text": "Okay. Now, I don't know that I can get this.",
+        "startTime": 65635,
+        "endTime": 67823,
+        "slowStartTime": 98602,
+        "slowEndTime": 101959
+    },
+    {
+        "text": "I do have to go to the board for approval.",
+        "startTime": 67913,
+        "endTime": 69760,
+        "slowStartTime": 102019,
+        "slowEndTime": 104865
+    },
+    {
+        "text": "How about 60,000 dollars?",
+        "startTime": 72141,
+        "endTime": 75009,
+        "slowStartTime": 108361,
+        "slowEndTime": 112738
+    },
+    {
+        "text": "Sixty thousand.",
+        "startTime": 80045,
+        "endTime": 80675,
+        "slowStartTime": 120217,
+        "slowEndTime": 121238
+    },
+    {
+        "text": "Michael?",
+        "startTime": 82331,
+        "endTime": 82761,
+        "slowStartTime": 123647,
+        "slowEndTime": 124366
+    },
+    {
+        "text": "We're gonna have to talk about this just amongst ourselves.",
+        "startTime": 87241,
+        "endTime": 90113,
+        "slowStartTime": 131012,
+        "slowEndTime": 135394
+    },
+    {
+        "text": "Okay, done. Please, take the room.",
+        "startTime": 90181,
+        "endTime": 91671,
+        "slowStartTime": 135422,
+        "slowEndTime": 137731
+    },
+    {
+        "text": "We'll be right outside.",
+        "startTime": 92586,
+        "endTime": 93887,
+        "slowStartTime": 139029,
+        "slowEndTime": 141055
+    },
+    {
+        "text": "Take your time.",
+        "startTime": 94386,
+        "endTime": 95331,
+        "slowStartTime": 141729,
+        "slowEndTime": 143221
+    },
+    {
+        "text": "Oh my god. Oh my god.",
+        "startTime": 100075,
+        "endTime": 101710,
+        "slowStartTime": 150263,
+        "slowEndTime": 152790
+    },
+    {
+        "text": "Sixty thousand dollars?",
+        "startTime": 101799,
+        "endTime": 102565,
+        "slowStartTime": 152848,
+        "slowEndTime": 154072
+    },
+    {
+        "text": "We are so rich.",
+        "startTime": 102657,
+        "endTime": 105332,
+        "slowStartTime": 154135,
+        "slowEndTime": 158223
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Have you had information from inside BP?",
+        "startTime": 11,
+        "endTime": 2747,
+        "slowStartTime": 126,
+        "slowEndTime": 4345
+    },
+    {
+        "text": "Yeah, we have a lot but at the moment,...",
+        "startTime": 3733,
+        "endTime": 6521,
+        "slowStartTime": 5749,
+        "slowEndTime": 10006
+    },
+    {
+        "text": "...we are undergoing a serious fundraising and engineering effort.",
+        "startTime": 6643,
+        "endTime": 9481,
+        "slowStartTime": 10115,
+        "slowEndTime": 14447
+    },
+    {
+        "text": "So, our publication rate over the past few months has been minimized...",
+        "startTime": 9629,
+        "endTime": 15721,
+        "slowStartTime": 14593,
+        "slowEndTime": 23806
+    },
+    {
+        "text": "...while we're re-engineering our backup systems for the phenomenal public interest that we have.",
+        "startTime": 15830,
+        "endTime": 21683,
+        "slowStartTime": 23895,
+        "slowEndTime": 32750
+    },
+    {
+        "text": "That's a problem.",
+        "startTime": 22499,
+        "endTime": 23193,
+        "slowStartTime": 33899,
+        "slowEndTime": 35014
+    },
+    {
+        "text": "I mean, like any sort of growing start-up organization,...",
+        "startTime": 23401,
+        "endTime": 27076,
+        "slowStartTime": 35252,
+        "slowEndTime": 40839
+    },
+    {
+        "text": "...we are overwhelmed by our growth.",
+        "startTime": 27653,
+        "endTime": 30817,
+        "slowStartTime": 41629,
+        "slowEndTime": 46450
+    },
+    {
+        "text": "And that means we're getting enormous quantity of whistleblower disclosures of a very high caliber...",
+        "startTime": 31355,
+        "endTime": 36649,
+        "slowStartTime": 47183,
+        "slowEndTime": 55198
+    },
+    {
+        "text": "...but don't have enough people to actually process and vet this information.",
+        "startTime": 37285,
+        "endTime": 41002,
+        "slowStartTime": 56077,
+        "slowEndTime": 61728
+    },
+    {
+        "text": "So, that's the key bottleneck?",
+        "startTime": 41327,
+        "endTime": 42743,
+        "slowStartTime": 62141,
+        "slowEndTime": 64340
+    },
+    {
+        "text": "Basically journalistic volunteers and/or the funding of journalistic salaries?",
+        "startTime": 42884,
+        "endTime": 47878,
+        "slowStartTime": 64476,
+        "slowEndTime": 72042
+    },
+    {
+        "text": "Yup, and trusted people.",
+        "startTime": 48155,
+        "endTime": 50177,
+        "slowStartTime": 72382,
+        "slowEndTime": 75490
+    },
+    {
+        "text": "I mean, we're an organization that is hard to grow very quickly...",
+        "startTime": 50359,
+        "endTime": 53075,
+        "slowStartTime": 75688,
+        "slowEndTime": 79837
+    },
+    {
+        "text": "...because of the sort of material we deal with.",
+        "startTime": 54079,
+        "endTime": 56349,
+        "slowStartTime": 81269,
+        "slowEndTime": 84749
+    },
+    {
+        "text": "So, we have to restructure in order to have people who will deal with the highest national security stuff...",
+        "startTime": 56434,
+        "endTime": 63299,
+        "slowStartTime": 84801,
+        "slowEndTime": 95173
+    },
+    {
+        "text": "...and then lower security cases.",
+        "startTime": 63395,
+        "endTime": 66135,
+        "slowStartTime": 95242,
+        "slowEndTime": 99428
+    }
+]

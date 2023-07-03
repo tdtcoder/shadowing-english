@@ -1,0 +1,205 @@
+[
+    {
+        "text": "Almost anyone knows how to play tic-tac-toe...",
+        "startTime": 6589,
+        "endTime": 8855,
+        "slowStartTime": 10034,
+        "slowEndTime": 13508
+    },
+    {
+        "text": "...but not everyone knows the strategy that guarantees they'll never lose another game.",
+        "startTime": 9262,
+        "endTime": 12845,
+        "slowStartTime": 14043,
+        "slowEndTime": 19493
+    },
+    {
+        "text": "You will need: an opponent, a pencil or pen and paper.",
+        "startTime": 13647,
+        "endTime": 17551,
+        "slowStartTime": 20620,
+        "slowEndTime": 26551
+    },
+    {
+        "text": "Step 1: Draw your tic-tac-toe board on a piece of paper using a pen or a pencil.",
+        "startTime": 21591,
+        "endTime": 25921,
+        "slowStartTime": 32537,
+        "slowEndTime": 39107
+    },
+    {
+        "text": "It should have nine squares total, with three at the top,...",
+        "startTime": 26269,
+        "endTime": 28403,
+        "slowStartTime": 39554,
+        "slowEndTime": 42829
+    },
+    {
+        "text": "...three in the middle, and three on the bottom.",
+        "startTime": 28641,
+        "endTime": 30099,
+        "slowStartTime": 43112,
+        "slowEndTime": 45374
+    },
+    {
+        "text": "Step 2: Whether you are flipping a coin or throwing dice,...",
+        "startTime": 30709,
+        "endTime": 33517,
+        "slowStartTime": 46213,
+        "slowEndTime": 50501
+    },
+    {
+        "text": "...you need to win the right to the first move if you don't want to lose the game.",
+        "startTime": 33670,
+        "endTime": 36696,
+        "slowStartTime": 50655,
+        "slowEndTime": 55269
+    },
+    {
+        "text": "Step 3: Mark the center square with an \"X\" or an \"O\".",
+        "startTime": 38001,
+        "endTime": 40903,
+        "slowStartTime": 57151,
+        "slowEndTime": 61580
+    },
+    {
+        "text": "This is the key to guaranteeing...",
+        "startTime": 41311,
+        "endTime": 42787,
+        "slowStartTime": 62117,
+        "slowEndTime": 64406
+    },
+    {
+        "text": "...you'll never lose in tic-tac-toe when you have the first move.",
+        "startTime": 42879,
+        "endTime": 45646,
+        "slowStartTime": 64468,
+        "slowEndTime": 68694
+    },
+    {
+        "text": "Following this rule will not guarantee you a win.",
+        "startTime": 46309,
+        "endTime": 48585,
+        "slowStartTime": 69614,
+        "slowEndTime": 73102
+    },
+    {
+        "text": "It will guarantee that, even against a tic-tac-toe master, you will never lose.",
+        "startTime": 48982,
+        "endTime": 53282,
+        "slowStartTime": 73623,
+        "slowEndTime": 80148
+    },
+    {
+        "text": "Step 4: After an opponent makes their mark,...",
+        "startTime": 53727,
+        "endTime": 56065,
+        "slowStartTime": 80740,
+        "slowEndTime": 84323
+    },
+    {
+        "text": "...look to see if there is a square to the right of it available.",
+        "startTime": 56411,
+        "endTime": 58841,
+        "slowStartTime": 84766,
+        "slowEndTime": 88486
+    },
+    {
+        "text": "If so, take it with your next move.",
+        "startTime": 59154,
+        "endTime": 60787,
+        "slowStartTime": 88881,
+        "slowEndTime": 91406
+    },
+    {
+        "text": "Step 5: If the square to the right isn't available,...",
+        "startTime": 61667,
+        "endTime": 64333,
+        "slowStartTime": 92651,
+        "slowEndTime": 96725
+    },
+    {
+        "text": "...take the square to the left with your next move.",
+        "startTime": 64560,
+        "endTime": 66423,
+        "slowStartTime": 96990,
+        "slowEndTime": 99860
+    },
+    {
+        "text": "Step 6: If the squares to the right and left are taken,...",
+        "startTime": 69957,
+        "endTime": 73063,
+        "slowStartTime": 105085,
+        "slowEndTime": 109820
+    },
+    {
+        "text": "...place your next mark above their last mark.",
+        "startTime": 73477,
+        "endTime": 75356,
+        "slowStartTime": 110366,
+        "slowEndTime": 113259
+    },
+    {
+        "text": "Step 7: If the squares to the right and left...",
+        "startTime": 78716,
+        "endTime": 81189,
+        "slowStartTime": 118224,
+        "slowEndTime": 122009
+    },
+    {
+        "text": "...and above your opponent's last move are taken,...",
+        "startTime": 81419,
+        "endTime": 83542,
+        "slowStartTime": 122278,
+        "slowEndTime": 125538
+    },
+    {
+        "text": "...choose the square below it.",
+        "startTime": 83763,
+        "endTime": 84883,
+        "slowStartTime": 125794,
+        "slowEndTime": 127549
+    },
+    {
+        "text": "Step 8: Repeat the right - left - above - and - below rule for each move you play.",
+        "startTime": 88225,
+        "endTime": 92873,
+        "slowStartTime": 132488,
+        "slowEndTime": 139534
+    },
+    {
+        "text": "Congratulations!",
+        "startTime": 93528,
+        "endTime": 94321,
+        "slowStartTime": 140442,
+        "slowEndTime": 141707
+    },
+    {
+        "text": "You may not win but you'll never be a loser.",
+        "startTime": 94632,
+        "endTime": 96703,
+        "slowStartTime": 142098,
+        "slowEndTime": 145279
+    },
+    {
+        "text": "Did you know?",
+        "startTime": 99043,
+        "endTime": 99543,
+        "slowStartTime": 148714,
+        "slowEndTime": 149540
+    },
+    {
+        "text": "In the movie \"WarGames\", war is averted when the computer is shown...",
+        "startTime": 99826,
+        "endTime": 103138,
+        "slowStartTime": 149889,
+        "slowEndTime": 154932
+    },
+    {
+        "text": "...that nuclear war, like tic-tac-toe, cannot be won.",
+        "startTime": 103223,
+        "endTime": 106023,
+        "slowStartTime": 154984,
+        "slowEndTime": 159259
+    }
+]

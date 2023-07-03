@@ -1,0 +1,86 @@
+[
+    {
+        "text": "What is this?",
+        "startTime": 344,
+        "endTime": 1490,
+        "slowStartTime": 666,
+        "slowEndTime": 2460
+    },
+    {
+        "text": "It is a crayon.",
+        "startTime": 2497,
+        "endTime": 3765,
+        "slowStartTime": 3896,
+        "slowEndTime": 5872
+    },
+    {
+        "text": "I use it for coloring.",
+        "startTime": 4208,
+        "endTime": 5804,
+        "slowStartTime": 6462,
+        "slowEndTime": 8931
+    },
+    {
+        "text": "What is that?",
+        "startTime": 6290,
+        "endTime": 7322,
+        "slowStartTime": 9585,
+        "slowEndTime": 11208
+    },
+    {
+        "text": "It is a pot.",
+        "startTime": 8314,
+        "endTime": 9529,
+        "slowStartTime": 12621,
+        "slowEndTime": 14519
+    },
+    {
+        "text": "We use it to cook.",
+        "startTime": 10018,
+        "endTime": 11671,
+        "slowStartTime": 15177,
+        "slowEndTime": 17732
+    },
+    {
+        "text": "What do you use to write?",
+        "startTime": 12650,
+        "endTime": 14750,
+        "slowStartTime": 19125,
+        "slowEndTime": 22350
+    },
+    {
+        "text": "Here is a pencil.",
+        "startTime": 15663,
+        "endTime": 17399,
+        "slowStartTime": 23644,
+        "slowEndTime": 26324
+    },
+    {
+        "text": "I use a pencil to write.",
+        "startTime": 17964,
+        "endTime": 20013,
+        "slowStartTime": 27096,
+        "slowEndTime": 30244
+    },
+    {
+        "text": "Here are a knife and scissors.",
+        "startTime": 21039,
+        "endTime": 23621,
+        "slowStartTime": 31709,
+        "slowEndTime": 35657
+    },
+    {
+        "text": "Do you use a knife for cutting paper?",
+        "startTime": 24089,
+        "endTime": 26753,
+        "slowStartTime": 36284,
+        "slowEndTime": 40354
+    },
+    {
+        "text": "No, I use scissors for cutting paper.",
+        "startTime": 27733,
+        "endTime": 31281,
+        "slowStartTime": 41749,
+        "slowEndTime": 47147
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Here are phrases you can use when asking others about their education.",
+        "startTime": 50,
+        "endTime": 4000,
+        "slowStartTime": 132,
+        "slowEndTime": 6225
+    },
+    {
+        "text": "Are you a student?",
+        "startTime": 5682,
+        "endTime": 6571,
+        "slowStartTime": 8673,
+        "slowEndTime": 10082
+    },
+    {
+        "text": "What do you want to do when you graduate?",
+        "startTime": 8365,
+        "endTime": 10265,
+        "slowStartTime": 12697,
+        "slowEndTime": 15622
+    },
+    {
+        "text": "How many more years do you have to go?",
+        "startTime": 11861,
+        "endTime": 13688,
+        "slowStartTime": 17941,
+        "slowEndTime": 20757
+    },
+    {
+        "text": "Which year are you in?",
+        "startTime": 15362,
+        "endTime": 16595,
+        "slowStartTime": 23193,
+        "slowEndTime": 25117
+    },
+    {
+        "text": "Do you have any exams coming up?",
+        "startTime": 18311,
+        "endTime": 19877,
+        "slowStartTime": 27616,
+        "slowEndTime": 30040
+    },
+    {
+        "text": "What's your major?",
+        "startTime": 21611,
+        "endTime": 22508,
+        "slowStartTime": 32567,
+        "slowEndTime": 33987
+    },
+    {
+        "text": "Where do you go to school?",
+        "startTime": 24159,
+        "endTime": 25225,
+        "slowStartTime": 36389,
+        "slowEndTime": 38062
+    },
+    {
+        "text": "I went to...",
+        "startTime": 27005,
+        "endTime": 28033,
+        "slowStartTime": 40658,
+        "slowEndTime": 42275
+    },
+    {
+        "text": "What did you study?",
+        "startTime": 29461,
+        "endTime": 30372,
+        "slowStartTime": 44342,
+        "slowEndTime": 45783
+    },
+    {
+        "text": "I've just graduated.",
+        "startTime": 31953,
+        "endTime": 33314,
+        "slowStartTime": 48079,
+        "slowEndTime": 50196
+    }
+]

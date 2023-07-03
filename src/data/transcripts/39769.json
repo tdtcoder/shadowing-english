@@ -1,0 +1,184 @@
+[
+    {
+        "text": "Hello.",
+        "startTime": 1385,
+        "endTime": 1788,
+        "slowStartTime": 2228,
+        "slowEndTime": 2907
+    },
+    {
+        "text": "You're Julia, aren't you?",
+        "startTime": 2209,
+        "endTime": 3219,
+        "slowStartTime": 3463,
+        "slowEndTime": 5053
+    },
+    {
+        "text": "Yes!",
+        "startTime": 3461,
+        "endTime": 3969,
+        "slowStartTime": 5341,
+        "slowEndTime": 6178
+    },
+    {
+        "text": "Pleased to meet you.",
+        "startTime": 4490,
+        "endTime": 5281,
+        "slowStartTime": 6885,
+        "slowEndTime": 8147
+    },
+    {
+        "text": "I'm Gary.",
+        "startTime": 6061,
+        "endTime": 6363,
+        "slowStartTime": 9242,
+        "slowEndTime": 9769
+    },
+    {
+        "text": "Nice to meet you, Gary.",
+        "startTime": 6606,
+        "endTime": 7771,
+        "slowStartTime": 10059,
+        "slowEndTime": 11881
+    },
+    {
+        "text": "My name is Doug.",
+        "startTime": 8409,
+        "endTime": 9015,
+        "slowStartTime": 12764,
+        "slowEndTime": 13748
+    },
+    {
+        "text": "What's yours?",
+        "startTime": 9135,
+        "endTime": 9701,
+        "slowStartTime": 13852,
+        "slowEndTime": 14776
+    },
+    {
+        "text": "Dan.",
+        "startTime": 9909,
+        "endTime": 10177,
+        "slowStartTime": 15014,
+        "slowEndTime": 15490
+    },
+    {
+        "text": "Hi, Dan! Nice to meet you.",
+        "startTime": 10613,
+        "endTime": 11692,
+        "slowStartTime": 16069,
+        "slowEndTime": 17763
+    },
+    {
+        "text": "Nice to meet you.",
+        "startTime": 11774,
+        "endTime": 12361,
+        "slowStartTime": 17811,
+        "slowEndTime": 18767
+    },
+    {
+        "text": "Hello.",
+        "startTime": 13093,
+        "endTime": 13527,
+        "slowStartTime": 19790,
+        "slowEndTime": 20515
+    },
+    {
+        "text": "Hello.",
+        "startTime": 13764,
+        "endTime": 14220,
+        "slowStartTime": 20796,
+        "slowEndTime": 21555
+    },
+    {
+        "text": "My name is Doug.",
+        "startTime": 14970,
+        "endTime": 15784,
+        "slowStartTime": 22605,
+        "slowEndTime": 23901
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 15858,
+        "endTime": 16614,
+        "slowStartTime": 23937,
+        "slowEndTime": 25146
+    },
+    {
+        "text": "My name is Christiana.",
+        "startTime": 16791,
+        "endTime": 17963,
+        "slowStartTime": 25337,
+        "slowEndTime": 27170
+    },
+    {
+        "text": "Hi, Christiana.",
+        "startTime": 18627,
+        "endTime": 19363,
+        "slowStartTime": 28091,
+        "slowEndTime": 29269
+    },
+    {
+        "text": "It's nice to meet you.",
+        "startTime": 19507,
+        "endTime": 20367,
+        "slowStartTime": 29410,
+        "slowEndTime": 30776
+    },
+    {
+        "text": "Nice to meet you too, Doug.",
+        "startTime": 20516,
+        "endTime": 21710,
+        "slowStartTime": 30924,
+        "slowEndTime": 32790
+    },
+    {
+        "text": "Good afternoon.",
+        "startTime": 21839,
+        "endTime": 22496,
+        "slowStartTime": 32908,
+        "slowEndTime": 33969
+    },
+    {
+        "text": "Good afternoon.",
+        "startTime": 22886,
+        "endTime": 23861,
+        "slowStartTime": 34479,
+        "slowEndTime": 36016
+    },
+    {
+        "text": "My name is Doug.",
+        "startTime": 24297,
+        "endTime": 25237,
+        "slowStartTime": 36596,
+        "slowEndTime": 38080
+    },
+    {
+        "text": "My name is Emma.",
+        "startTime": 25556,
+        "endTime": 26619,
+        "slowStartTime": 38484,
+        "slowEndTime": 40153
+    },
+    {
+        "text": "Hi, Emma.",
+        "startTime": 27113,
+        "endTime": 27560,
+        "slowStartTime": 40820,
+        "slowEndTime": 41565
+    },
+    {
+        "text": "Hi! Nice to meet you.",
+        "startTime": 27941,
+        "endTime": 29177,
+        "slowStartTime": 42062,
+        "slowEndTime": 43991
+    },
+    {
+        "text": "Nice to meet you.",
+        "startTime": 29298,
+        "endTime": 30258,
+        "slowStartTime": 44097,
+        "slowEndTime": 45612
+    }
+]

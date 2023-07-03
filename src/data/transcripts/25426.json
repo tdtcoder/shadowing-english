@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Let's learn about the types of music.",
+        "startTime": 622,
+        "endTime": 3045,
+        "slowStartTime": 1083,
+        "slowEndTime": 4792
+    },
+    {
+        "text": "The Beatles played rock and roll.",
+        "startTime": 5939,
+        "endTime": 8059,
+        "slowStartTime": 9059,
+        "slowEndTime": 12314
+    },
+    {
+        "text": "Michael Jackson made pop music.",
+        "startTime": 13999,
+        "endTime": 16433,
+        "slowStartTime": 21148,
+        "slowEndTime": 24874
+    },
+    {
+        "text": "He sings folk music.",
+        "startTime": 22894,
+        "endTime": 24353,
+        "slowStartTime": 34491,
+        "slowEndTime": 36754
+    },
+    {
+        "text": "He sings reggae music.",
+        "startTime": 32984,
+        "endTime": 34981,
+        "slowStartTime": 49626,
+        "slowEndTime": 52697
+    },
+    {
+        "text": "They play jazz.",
+        "startTime": 43315,
+        "endTime": 44869,
+        "slowStartTime": 65122,
+        "slowEndTime": 67528
+    },
+    {
+        "text": "They like heavy metal.",
+        "startTime": 51838,
+        "endTime": 53760,
+        "slowStartTime": 77907,
+        "slowEndTime": 80865
+    },
+    {
+        "text": "He sings country music.",
+        "startTime": 61539,
+        "endTime": 63178,
+        "slowStartTime": 92458,
+        "slowEndTime": 94992
+    },
+    {
+        "text": "B.B. King played the blues.",
+        "startTime": 70282,
+        "endTime": 73208,
+        "slowStartTime": 105573,
+        "slowEndTime": 110037
+    },
+    {
+        "text": "He is into hip-hop.",
+        "startTime": 81369,
+        "endTime": 82895,
+        "slowStartTime": 122204,
+        "slowEndTime": 124568
+    },
+    {
+        "text": "They play classical music.",
+        "startTime": 91452,
+        "endTime": 93525,
+        "slowStartTime": 137328,
+        "slowEndTime": 140513
+    },
+    {
+        "text": "He's a rap artist.",
+        "startTime": 100870,
+        "endTime": 102525,
+        "slowStartTime": 151455,
+        "slowEndTime": 154013
+    },
+    {
+        "text": "He plays electronic dance music.",
+        "startTime": 110017,
+        "endTime": 112521,
+        "slowStartTime": 165176,
+        "slowEndTime": 169007
+    },
+    {
+        "text": "Katy Perry performs dance music.",
+        "startTime": 120061,
+        "endTime": 123125,
+        "slowStartTime": 180241,
+        "slowEndTime": 184913
+    }
+]

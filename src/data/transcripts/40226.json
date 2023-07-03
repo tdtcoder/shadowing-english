@@ -1,0 +1,58 @@
+[
+    {
+        "text": "I like salad.",
+        "startTime": 604,
+        "endTime": 1611,
+        "slowStartTime": 1056,
+        "slowEndTime": 2642
+    },
+    {
+        "text": "We eat boxed meals for lunch.",
+        "startTime": 2696,
+        "endTime": 4209,
+        "slowStartTime": 4194,
+        "slowEndTime": 6539
+    },
+    {
+        "text": "The sandwich looks delicious!",
+        "startTime": 5359,
+        "endTime": 7027,
+        "slowStartTime": 8189,
+        "slowEndTime": 10766
+    },
+    {
+        "text": "Do you like pizza?",
+        "startTime": 7914,
+        "endTime": 8833,
+        "slowStartTime": 12021,
+        "slowEndTime": 13474
+    },
+    {
+        "text": "I eat toast with vegetables, bacon, and egg in the morning.",
+        "startTime": 9543,
+        "endTime": 13191,
+        "slowStartTime": 14464,
+        "slowEndTime": 20012
+    },
+    {
+        "text": "Do you like fruits?",
+        "startTime": 14166,
+        "endTime": 15371,
+        "slowStartTime": 21399,
+        "slowEndTime": 23282
+    },
+    {
+        "text": "I love cookies!",
+        "startTime": 16049,
+        "endTime": 17253,
+        "slowStartTime": 24223,
+        "slowEndTime": 26105
+    },
+    {
+        "text": "We enjoy having coffee together.",
+        "startTime": 17931,
+        "endTime": 19994,
+        "slowStartTime": 27046,
+        "slowEndTime": 30216
+    }
+]

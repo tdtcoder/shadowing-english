@@ -1,0 +1,72 @@
+[
+    {
+        "text": "I'm here in Tokyo.",
+        "startTime": 599,
+        "endTime": 1665,
+        "slowStartTime": 1048,
+        "slowEndTime": 2722
+    },
+    {
+        "text": "There's a lot of people here which means there's a lot of mouths to feed.",
+        "startTime": 1997,
+        "endTime": 5493,
+        "slowStartTime": 3145,
+        "slowEndTime": 8464
+    },
+    {
+        "text": "That represents a challenge for the city of the future.",
+        "startTime": 6080,
+        "endTime": 8515,
+        "slowStartTime": 9270,
+        "slowEndTime": 12998
+    },
+    {
+        "text": "Tokyo-based mirai has seen the idea of a traditional farm...",
+        "startTime": 9077,
+        "endTime": 12957,
+        "slowStartTime": 13765,
+        "slowEndTime": 19661
+    },
+    {
+        "text": "...and literally turn it on its side.",
+        "startTime": 13367,
+        "endTime": 15679,
+        "slowStartTime": 20200,
+        "slowEndTime": 23743
+    },
+    {
+        "text": "They control all the conditions here...",
+        "startTime": 16024,
+        "endTime": 17763,
+        "slowStartTime": 24186,
+        "slowEndTime": 26870
+    },
+    {
+        "text": "...so you don't have to have perfect soil or perfect weather or even sunlight.",
+        "startTime": 18105,
+        "endTime": 22206,
+        "slowStartTime": 27307,
+        "slowEndTime": 33534
+    },
+    {
+        "text": "This approach has the potential to overcome farming challenges...",
+        "startTime": 22501,
+        "endTime": 25837,
+        "slowStartTime": 33902,
+        "slowEndTime": 38980
+    },
+    {
+        "text": "...like yearly weather patterns, changing climate...",
+        "startTime": 26015,
+        "endTime": 28601,
+        "slowStartTime": 39173,
+        "slowEndTime": 43126
+    },
+    {
+        "text": "...as well as quality and availability of land.",
+        "startTime": 29006,
+        "endTime": 31619,
+        "slowStartTime": 43659,
+        "slowEndTime": 47654
+    }
+]

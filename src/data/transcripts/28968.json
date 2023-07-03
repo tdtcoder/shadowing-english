@@ -1,0 +1,128 @@
+[
+    {
+        "text": "When you arrive at the dentist's office,...",
+        "startTime": 694,
+        "endTime": 2583,
+        "slowStartTime": 1191,
+        "slowEndTime": 4099
+    },
+    {
+        "text": "...you will probably sit down for a few minutes in a waiting room.",
+        "startTime": 2790,
+        "endTime": 5986,
+        "slowStartTime": 4335,
+        "slowEndTime": 9204
+    },
+    {
+        "text": "There may be paperwork for you to sign.",
+        "startTime": 6334,
+        "endTime": 8350,
+        "slowStartTime": 9651,
+        "slowEndTime": 12750
+    },
+    {
+        "text": "When it is time for your exam,...",
+        "startTime": 8869,
+        "endTime": 10639,
+        "slowStartTime": 13453,
+        "slowEndTime": 16184
+    },
+    {
+        "text": "...a person called a dental hygienist will bring you to a special exam room.",
+        "startTime": 11057,
+        "endTime": 15479,
+        "slowStartTime": 16736,
+        "slowEndTime": 23443
+    },
+    {
+        "text": "A dental hygienist is the person who cleans your teeth.",
+        "startTime": 18459,
+        "endTime": 21356,
+        "slowStartTime": 27838,
+        "slowEndTime": 32259
+    },
+    {
+        "text": "You'll be asked to sit down in a special chair.",
+        "startTime": 26168,
+        "endTime": 28781,
+        "slowStartTime": 39402,
+        "slowEndTime": 43396
+    },
+    {
+        "text": "The hygienist will also have you wear a bib.",
+        "startTime": 34101,
+        "endTime": 36581,
+        "slowStartTime": 51301,
+        "slowEndTime": 55096
+    },
+    {
+        "text": "The bib will keep you clean in the event that toothpaste or other materials...",
+        "startTime": 36921,
+        "endTime": 41225,
+        "slowStartTime": 55532,
+        "slowEndTime": 62063
+    },
+    {
+        "text": "...accidentally drop on you during your visit.",
+        "startTime": 41305,
+        "endTime": 43690,
+        "slowStartTime": 62108,
+        "slowEndTime": 65760
+    },
+    {
+        "text": "If you have teeth that hurt, you should tell the dental hygienist.",
+        "startTime": 48109,
+        "endTime": 51730,
+        "slowStartTime": 72314,
+        "slowEndTime": 77820
+    },
+    {
+        "text": "If your teeth hurt when you eat or drink, let them know.",
+        "startTime": 52605,
+        "endTime": 55976,
+        "slowStartTime": 79057,
+        "slowEndTime": 84189
+    },
+    {
+        "text": "The hygienist will wear a mask on their face and gloves on their hands...",
+        "startTime": 56825,
+        "endTime": 61005,
+        "slowStartTime": 85387,
+        "slowEndTime": 91732
+    },
+    {
+        "text": "...to prevent the spread of germs.",
+        "startTime": 61118,
+        "endTime": 62453,
+        "slowStartTime": 91827,
+        "slowEndTime": 93904
+    },
+    {
+        "text": "During your exam, the hygienist will slowly look throughout your mouth...",
+        "startTime": 63148,
+        "endTime": 66929,
+        "slowStartTime": 94872,
+        "slowEndTime": 100618
+    },
+    {
+        "text": "...and at each of your teeth.",
+        "startTime": 67277,
+        "endTime": 68647,
+        "slowStartTime": 101065,
+        "slowEndTime": 103196
+    },
+    {
+        "text": "It will be necessary for them to use a small mirror...",
+        "startTime": 68807,
+        "endTime": 71587,
+        "slowStartTime": 103360,
+        "slowEndTime": 107605
+    },
+    {
+        "text": "...to look at areas of your mouth that are difficult to see.",
+        "startTime": 71661,
+        "endTime": 74735,
+        "slowStartTime": 107642,
+        "slowEndTime": 112327
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "text": "William Shakespeare, some say the greatest writer ever.",
+        "startTime": 179,
+        "endTime": 3627,
+        "slowStartTime": 418,
+        "slowEndTime": 5665
+    },
+    {
+        "text": "He was born in 1564 to John Shakespeare and Mary Arden.",
+        "startTime": 4105,
+        "endTime": 8076,
+        "slowStartTime": 6307,
+        "slowEndTime": 12339
+    },
+    {
+        "text": "His father made gloves for a living and his mother once worked on a farm.",
+        "startTime": 8518,
+        "endTime": 11691,
+        "slowStartTime": 12927,
+        "slowEndTime": 17761
+    },
+    {
+        "text": "He lived in an English town named Stratford-upon-Avon where he went to school, we think, until the age of 13...",
+        "startTime": 12495,
+        "endTime": 18629,
+        "slowStartTime": 18892,
+        "slowEndTime": 28168
+    },
+    {
+        "text": "...when his father's poor financial standing made it no longer possible for him to attend.",
+        "startTime": 19057,
+        "endTime": 23597,
+        "slowStartTime": 28736,
+        "slowEndTime": 35620
+    },
+    {
+        "text": "In 1582, he married Anne Hathaway, who also used to be a farmer.",
+        "startTime": 24382,
+        "endTime": 28933,
+        "slowStartTime": 36723,
+        "slowEndTime": 43624
+    },
+    {
+        "text": "At the time of their marriage, she was already several months pregnant.",
+        "startTime": 29393,
+        "endTime": 32590,
+        "slowStartTime": 44239,
+        "slowEndTime": 49110
+    },
+    {
+        "text": "Together they had a daughter, Susanna, and twins Hamnet and Judith.",
+        "startTime": 33393,
+        "endTime": 38217,
+        "slowStartTime": 50240,
+        "slowEndTime": 57550
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "text": "When is your birthday?",
+        "startTime": 191,
+        "endTime": 1105,
+        "slowStartTime": 437,
+        "slowEndTime": 1883
+    },
+    {
+        "text": "April 14th.",
+        "startTime": 1461,
+        "endTime": 2263,
+        "slowStartTime": 2341,
+        "slowEndTime": 3619
+    },
+    {
+        "text": "When is your birthday?",
+        "startTime": 2672,
+        "endTime": 3507,
+        "slowStartTime": 4158,
+        "slowEndTime": 5485
+    },
+    {
+        "text": "April 17th.",
+        "startTime": 3650,
+        "endTime": 4593,
+        "slowStartTime": 5625,
+        "slowEndTime": 7115
+    },
+    {
+        "text": "When is your birthday?",
+        "startTime": 5385,
+        "endTime": 6280,
+        "slowStartTime": 8228,
+        "slowEndTime": 9645
+    },
+    {
+        "text": "The 4th of August.",
+        "startTime": 6888,
+        "endTime": 8203,
+        "slowStartTime": 10482,
+        "slowEndTime": 12529
+    },
+    {
+        "text": "My birthday is the 16th of March.",
+        "startTime": 8914,
+        "endTime": 10716,
+        "slowStartTime": 13521,
+        "slowEndTime": 16299
+    }
+]

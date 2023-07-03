@@ -1,0 +1,121 @@
+[
+    {
+        "text": "My dog can jump.",
+        "startTime": 3342,
+        "endTime": 5031,
+        "slowStartTime": 5163,
+        "slowEndTime": 7772
+    },
+    {
+        "text": "My dog can run.",
+        "startTime": 6286,
+        "endTime": 8036,
+        "slowStartTime": 9579,
+        "slowEndTime": 12279
+    },
+    {
+        "text": "My dog can swim.",
+        "startTime": 9245,
+        "endTime": 11184,
+        "slowStartTime": 14017,
+        "slowEndTime": 17001
+    },
+    {
+        "text": "My dog can dig.",
+        "startTime": 12602,
+        "endTime": 14137,
+        "slowStartTime": 19053,
+        "slowEndTime": 21430
+    },
+    {
+        "text": "My dog can climb.",
+        "startTime": 15264,
+        "endTime": 17127,
+        "slowStartTime": 23046,
+        "slowEndTime": 25915
+    },
+    {
+        "text": "My dog can sit.",
+        "startTime": 18325,
+        "endTime": 19888,
+        "slowStartTime": 27638,
+        "slowEndTime": 30057
+    },
+    {
+        "text": "My dog can roll over.",
+        "startTime": 21271,
+        "endTime": 23371,
+        "slowStartTime": 32057,
+        "slowEndTime": 35282
+    },
+    {
+        "text": "My dog can hug.",
+        "startTime": 24599,
+        "endTime": 26143,
+        "slowStartTime": 37049,
+        "slowEndTime": 39440
+    },
+    {
+        "text": "Do you have a dog?",
+        "startTime": 30465,
+        "endTime": 31901,
+        "slowStartTime": 45847,
+        "slowEndTime": 48076
+    },
+    {
+        "text": "Yes, I have a dog.",
+        "startTime": 33479,
+        "endTime": 35463,
+        "slowStartTime": 50368,
+        "slowEndTime": 53419
+    },
+    {
+        "text": "My dog can run.",
+        "startTime": 35814,
+        "endTime": 37273,
+        "slowStartTime": 53871,
+        "slowEndTime": 56135
+    },
+    {
+        "text": "Do they have a cat?",
+        "startTime": 38413,
+        "endTime": 39964,
+        "slowStartTime": 57770,
+        "slowEndTime": 60171
+    },
+    {
+        "text": "Yes, they have a cat.",
+        "startTime": 41227,
+        "endTime": 43083,
+        "slowStartTime": 61991,
+        "slowEndTime": 64849
+    },
+    {
+        "text": "Their cat can jump.",
+        "startTime": 43594,
+        "endTime": 45017,
+        "slowStartTime": 65541,
+        "slowEndTime": 67751
+    },
+    {
+        "text": "I have a cat, too.",
+        "startTime": 46492,
+        "endTime": 48187,
+        "slowStartTime": 69888,
+        "slowEndTime": 72506
+    },
+    {
+        "text": "I know.",
+        "startTime": 49577,
+        "endTime": 50268,
+        "slowStartTime": 74516,
+        "slowEndTime": 75627
+    },
+    {
+        "text": "Your cat can jump and dig.",
+        "startTime": 50655,
+        "endTime": 52869,
+        "slowStartTime": 76133,
+        "slowEndTime": 79529
+    }
+]

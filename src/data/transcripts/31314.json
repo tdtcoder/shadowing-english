@@ -1,0 +1,58 @@
+[
+    {
+        "text": "They are tall.",
+        "startTime": 3613,
+        "endTime": 5297,
+        "slowStartTime": 5569,
+        "slowEndTime": 8170
+    },
+    {
+        "text": "The animals are tall.",
+        "startTime": 6785,
+        "endTime": 8655,
+        "slowStartTime": 10328,
+        "slowEndTime": 13207
+    },
+    {
+        "text": "She has a red dress.",
+        "startTime": 10274,
+        "endTime": 12020,
+        "slowStartTime": 15561,
+        "slowEndTime": 18255
+    },
+    {
+        "text": "The girl has a red dress.",
+        "startTime": 13549,
+        "endTime": 15481,
+        "slowStartTime": 20474,
+        "slowEndTime": 23447
+    },
+    {
+        "text": "We go to school.",
+        "startTime": 17075,
+        "endTime": 18449,
+        "slowStartTime": 25763,
+        "slowEndTime": 27899
+    },
+    {
+        "text": "The girls go to school.",
+        "startTime": 19961,
+        "endTime": 21830,
+        "slowStartTime": 30091,
+        "slowEndTime": 32970
+    },
+    {
+        "text": "He does his chores.",
+        "startTime": 23399,
+        "endTime": 25145,
+        "slowStartTime": 35249,
+        "slowEndTime": 37942
+    },
+    {
+        "text": "The boy does his chores.",
+        "startTime": 26579,
+        "endTime": 28882,
+        "slowStartTime": 40018,
+        "slowEndTime": 43548
+    }
+]

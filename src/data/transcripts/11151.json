@@ -1,0 +1,72 @@
+[
+    {
+        "text": "I have a contract negotiation coming up this week, Linda.",
+        "startTime": 3170,
+        "endTime": 6200,
+        "slowStartTime": 4845,
+        "slowEndTime": 9335
+    },
+    {
+        "text": "It might be a good idea for you to sit in to see the procedure.",
+        "startTime": 6630,
+        "endTime": 10280,
+        "slowStartTime": 10090,
+        "slowEndTime": 15460
+    },
+    {
+        "text": "That sounds very interesting. Who is the other party in this negotiation?",
+        "startTime": 11070,
+        "endTime": 15310,
+        "slowStartTime": 16720,
+        "slowEndTime": 23040
+    },
+    {
+        "text": "One of our suppliers.",
+        "startTime": 15980,
+        "endTime": 17350,
+        "slowStartTime": 24130,
+        "slowEndTime": 25990
+    },
+    {
+        "text": "The company wants to renegotiate the contract we initially signed with them.",
+        "startTime": 17680,
+        "endTime": 21780,
+        "slowStartTime": 26605,
+        "slowEndTime": 32745
+    },
+    {
+        "text": "What kind of deal are they looking for?",
+        "startTime": 22220,
+        "endTime": 24120,
+        "slowStartTime": 33430,
+        "slowEndTime": 36210
+    },
+    {
+        "text": "I was informed that the company will only extend their contract with us...",
+        "startTime": 24590,
+        "endTime": 28220,
+        "slowStartTime": 37005,
+        "slowEndTime": 42385
+    },
+    {
+        "text": "...if we agree to pay them a higher fee.",
+        "startTime": 28490,
+        "endTime": 31090,
+        "slowStartTime": 42830,
+        "slowEndTime": 46635
+    },
+    {
+        "text": "They didn't specify how much,...",
+        "startTime": 31630,
+        "endTime": 33260,
+        "slowStartTime": 47585,
+        "slowEndTime": 50005
+    },
+    {
+        "text": "...so the agenda of the negotiation will include bargaining on the new fee.",
+        "startTime": 33660,
+        "endTime": 37670,
+        "slowStartTime": 50565,
+        "slowEndTime": 56515
+    }
+]

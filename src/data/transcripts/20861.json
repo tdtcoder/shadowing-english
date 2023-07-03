@@ -1,0 +1,226 @@
+[
+    {
+        "text": "Hello.",
+        "startTime": 623,
+        "endTime": 1269,
+        "slowStartTime": 1085,
+        "slowEndTime": 2128
+    },
+    {
+        "text": "Hi, Amanda.",
+        "startTime": 1849,
+        "endTime": 2789,
+        "slowStartTime": 2924,
+        "slowEndTime": 4409
+    },
+    {
+        "text": "What's up?",
+        "startTime": 2933,
+        "endTime": 3595,
+        "slowStartTime": 4549,
+        "slowEndTime": 5618
+    },
+    {
+        "text": "Nothing much.",
+        "startTime": 4039,
+        "endTime": 5041,
+        "slowStartTime": 6209,
+        "slowEndTime": 7786
+    },
+    {
+        "text": "I'm on the way home right now.",
+        "startTime": 5312,
+        "endTime": 6795,
+        "slowStartTime": 8118,
+        "slowEndTime": 10417
+    },
+    {
+        "text": "Are you?",
+        "startTime": 6903,
+        "endTime": 7631,
+        "slowStartTime": 10504,
+        "slowEndTime": 11672
+    },
+    {
+        "text": "Do you take the bus or subway?",
+        "startTime": 7771,
+        "endTime": 9419,
+        "slowStartTime": 11806,
+        "slowEndTime": 14354
+    },
+    {
+        "text": "I take both because my house is very far from my office.",
+        "startTime": 9867,
+        "endTime": 13397,
+        "slowStartTime": 14951,
+        "slowEndTime": 20320
+    },
+    {
+        "text": "How long does it take to get home?",
+        "startTime": 13513,
+        "endTime": 15237,
+        "slowStartTime": 20419,
+        "slowEndTime": 23081
+    },
+    {
+        "text": "It takes about an hour.",
+        "startTime": 15371,
+        "endTime": 17229,
+        "slowStartTime": 23207,
+        "slowEndTime": 26069
+    },
+    {
+        "text": "It is far!",
+        "startTime": 17499,
+        "endTime": 18787,
+        "slowStartTime": 26398,
+        "slowEndTime": 28405
+    },
+    {
+        "text": "I told you.",
+        "startTime": 18994,
+        "endTime": 19963,
+        "slowStartTime": 28641,
+        "slowEndTime": 30170
+    },
+    {
+        "text": "It's very tiring.",
+        "startTime": 20157,
+        "endTime": 21533,
+        "slowStartTime": 30386,
+        "slowEndTime": 32524
+    },
+    {
+        "text": "How about you?",
+        "startTime": 21743,
+        "endTime": 22723,
+        "slowStartTime": 32765,
+        "slowEndTime": 34310
+    },
+    {
+        "text": "It's very near my house.",
+        "startTime": 23001,
+        "endTime": 24499,
+        "slowStartTime": 34651,
+        "slowEndTime": 36974
+    },
+    {
+        "text": "I walk to my office every day.",
+        "startTime": 24719,
+        "endTime": 26565,
+        "slowStartTime": 37228,
+        "slowEndTime": 40072
+    },
+    {
+        "text": "I envy you.",
+        "startTime": 26907,
+        "endTime": 28317,
+        "slowStartTime": 40511,
+        "slowEndTime": 42701
+    },
+    {
+        "text": "Walking is good for your health.",
+        "startTime": 28621,
+        "endTime": 30313,
+        "slowStartTime": 43082,
+        "slowEndTime": 45695
+    },
+    {
+        "text": "I guess so.",
+        "startTime": 30600,
+        "endTime": 31463,
+        "slowStartTime": 46050,
+        "slowEndTime": 47420
+    },
+    {
+        "text": "By the way, don't you have a car?",
+        "startTime": 31993,
+        "endTime": 34199,
+        "slowStartTime": 48140,
+        "slowEndTime": 51524
+    },
+    {
+        "text": "I do, but I don't really drive much.",
+        "startTime": 34894,
+        "endTime": 37697,
+        "slowStartTime": 52491,
+        "slowEndTime": 56771
+    },
+    {
+        "text": "The traffic is terrible in the morning.",
+        "startTime": 38063,
+        "endTime": 40161,
+        "slowStartTime": 57244,
+        "slowEndTime": 60467
+    },
+    {
+        "text": "Can you avoid the rush hour?",
+        "startTime": 40466,
+        "endTime": 42025,
+        "slowStartTime": 60849,
+        "slowEndTime": 63262
+    },
+    {
+        "text": "It's just impossible.",
+        "startTime": 42224,
+        "endTime": 43727,
+        "slowStartTime": 63486,
+        "slowEndTime": 65816
+    },
+    {
+        "text": "One time, it took me three hours to get to the office!",
+        "startTime": 44018,
+        "endTime": 48096,
+        "slowStartTime": 66177,
+        "slowEndTime": 72369
+    },
+    {
+        "text": "That's not good.",
+        "startTime": 48222,
+        "endTime": 49587,
+        "slowStartTime": 72483,
+        "slowEndTime": 74606
+    },
+    {
+        "text": "When do you get up in the morning?",
+        "startTime": 49805,
+        "endTime": 51430,
+        "slowStartTime": 74857,
+        "slowEndTime": 77370
+    },
+    {
+        "text": "I usually get up at 5:30 am.",
+        "startTime": 51783,
+        "endTime": 54833,
+        "slowStartTime": 77824,
+        "slowEndTime": 82475
+    },
+    {
+        "text": "That early?",
+        "startTime": 55033,
+        "endTime": 56373,
+        "slowStartTime": 82700,
+        "slowEndTime": 84785
+    },
+    {
+        "text": "For what?",
+        "startTime": 56591,
+        "endTime": 57620,
+        "slowStartTime": 85036,
+        "slowEndTime": 86655
+    },
+    {
+        "text": "I work out in the morning.",
+        "startTime": 57841,
+        "endTime": 59503,
+        "slowStartTime": 86912,
+        "slowEndTime": 89479
+    },
+    {
+        "text": "That's how you stay so healthy!",
+        "startTime": 59765,
+        "endTime": 61933,
+        "slowStartTime": 89797,
+        "slowEndTime": 93124
+    }
+]

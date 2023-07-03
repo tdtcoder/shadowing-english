@@ -1,0 +1,44 @@
+[
+    {
+        "text": "I usually have a hamburger and fries for lunch because it is quick and easy.",
+        "startTime": 1087,
+        "endTime": 5985,
+        "slowStartTime": 1781,
+        "slowEndTime": 9203
+    },
+    {
+        "text": "I always work late, so I usually buy pizza on my way home.",
+        "startTime": 7668,
+        "endTime": 12170,
+        "slowStartTime": 11652,
+        "slowEndTime": 18480
+    },
+    {
+        "text": "I like having a cup of tea and some yogurt with fruit and honey.",
+        "startTime": 13259,
+        "endTime": 17126,
+        "slowStartTime": 20039,
+        "slowEndTime": 25914
+    },
+    {
+        "text": "I always feel good when I eat healthy food.",
+        "startTime": 18021,
+        "endTime": 20789,
+        "slowStartTime": 27182,
+        "slowEndTime": 31409
+    },
+    {
+        "text": "I love cooking Italian food like pasta.",
+        "startTime": 21708,
+        "endTime": 24668,
+        "slowStartTime": 32712,
+        "slowEndTime": 37227
+    },
+    {
+        "text": "I always have a salad with my meals because I love vegetables.",
+        "startTime": 25657,
+        "endTime": 30395,
+        "slowStartTime": 38636,
+        "slowEndTime": 45818
+    }
+]

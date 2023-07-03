@@ -1,0 +1,121 @@
+[
+    {
+        "text": "﻿Hi!",
+        "startTime": 2341,
+        "endTime": 2657,
+        "slowStartTime": 3661,
+        "slowEndTime": 4210
+    },
+    {
+        "text": "I'm 25.",
+        "startTime": 3343,
+        "endTime": 4424,
+        "slowStartTime": 5164,
+        "slowEndTime": 6861
+    },
+    {
+        "text": "I live in Los Angeles.",
+        "startTime": 4567,
+        "endTime": 6276,
+        "slowStartTime": 7001,
+        "slowEndTime": 9639
+    },
+    {
+        "text": "I like to take photos, travel, ride my bike.",
+        "startTime": 6426,
+        "endTime": 9246,
+        "slowStartTime": 9789,
+        "slowEndTime": 14094
+    },
+    {
+        "text": "I'm constantly shooting.",
+        "startTime": 11205,
+        "endTime": 12934,
+        "slowStartTime": 16957,
+        "slowEndTime": 19626
+    },
+    {
+        "text": "I make zines.",
+        "startTime": 13019,
+        "endTime": 14189,
+        "slowStartTime": 19679,
+        "slowEndTime": 21509
+    },
+    {
+        "text": "I'm always going to shows.",
+        "startTime": 14767,
+        "endTime": 17279,
+        "slowStartTime": 22300,
+        "slowEndTime": 26144
+    },
+    {
+        "text": "I like to go to the museum.",
+        "startTime": 17441,
+        "endTime": 19659,
+        "slowStartTime": 26312,
+        "slowEndTime": 29714
+    },
+    {
+        "text": "I definitely don't like to be at home.",
+        "startTime": 20005,
+        "endTime": 21654,
+        "slowStartTime": 30157,
+        "slowEndTime": 32706
+    },
+    {
+        "text": "The only time that I'm at home is when I'm asleep.",
+        "startTime": 21801,
+        "endTime": 23429,
+        "slowStartTime": 32851,
+        "slowEndTime": 35368
+    },
+    {
+        "text": "I rely on my camera.",
+        "startTime": 24717,
+        "endTime": 26899,
+        "slowStartTime": 37225,
+        "slowEndTime": 40573
+    },
+    {
+        "text": "I take it everywhere with me.",
+        "startTime": 27379,
+        "endTime": 29065,
+        "slowStartTime": 41219,
+        "slowEndTime": 43822
+    },
+    {
+        "text": "It's always camera, keys, wallet.",
+        "startTime": 29765,
+        "endTime": 31335,
+        "slowStartTime": 44797,
+        "slowEndTime": 47228
+    },
+    {
+        "text": "I like to share my photos with my friends and my family that live in New York...",
+        "startTime": 31824,
+        "endTime": 35635,
+        "slowStartTime": 47886,
+        "slowEndTime": 53677
+    },
+    {
+        "text": "...and keeping everyone humored at all times, definitely.",
+        "startTime": 35790,
+        "endTime": 40189,
+        "slowStartTime": 53835,
+        "slowEndTime": 60508
+    },
+    {
+        "text": "You're walking down the street and you see some crazy person in a witch outfit...",
+        "startTime": 40901,
+        "endTime": 44469,
+        "slowStartTime": 61502,
+        "slowEndTime": 66929
+    },
+    {
+        "text": "...and it's the middle of July and you got to grab that photo.",
+        "startTime": 44543,
+        "endTime": 47241,
+        "slowStartTime": 66965,
+        "slowEndTime": 71086
+    }
+]

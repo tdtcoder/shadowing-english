@@ -1,0 +1,72 @@
+[
+    {
+        "text": "In Turkey, Kurds march in protest of the airstrikes...",
+        "startTime": 3119,
+        "endTime": 6159,
+        "slowStartTime": 4829,
+        "slowEndTime": 9464
+    },
+    {
+        "text": "...sanctioned by the Turkish government.",
+        "startTime": 6237,
+        "endTime": 7926,
+        "slowStartTime": 9506,
+        "slowEndTime": 12114
+    },
+    {
+        "text": "In Iraq, sales of the national flag grow because of protests against corruption...",
+        "startTime": 12311,
+        "endTime": 17309,
+        "slowStartTime": 18616,
+        "slowEndTime": 26189
+    },
+    {
+        "text": "...and lack of services in the capital and the southern provinces.",
+        "startTime": 17420,
+        "endTime": 20486,
+        "slowStartTime": 26280,
+        "slowEndTime": 30954
+    },
+    {
+        "text": "In China, President Xi Jinping holds a welcoming ceremony...",
+        "startTime": 25019,
+        "endTime": 28633,
+        "slowStartTime": 37679,
+        "slowEndTime": 43175
+    },
+    {
+        "text": "...for his Kazakhstan counterpart Nursultan Nazarbayev in Beijing.",
+        "startTime": 28923,
+        "endTime": 32778,
+        "slowStartTime": 43534,
+        "slowEndTime": 49392
+    },
+    {
+        "text": "Police in Thailand receive a large cash reward for catching a suspect...",
+        "startTime": 34369,
+        "endTime": 38353,
+        "slowStartTime": 51704,
+        "slowEndTime": 57754
+    },
+    {
+        "text": "...they have yet to tie directly to the recent bombing.",
+        "startTime": 38557,
+        "endTime": 41157,
+        "slowStartTime": 57985,
+        "slowEndTime": 61960
+    },
+    {
+        "text": "And finally from Britain, the government announces a multimillion-pound program...",
+        "startTime": 45209,
+        "endTime": 49597,
+        "slowStartTime": 67964,
+        "slowEndTime": 74620
+    },
+    {
+        "text": "...to refurbish its nuclear submarine base in Scotland.",
+        "startTime": 49849,
+        "endTime": 52911,
+        "slowStartTime": 74924,
+        "slowEndTime": 79591
+    }
+]

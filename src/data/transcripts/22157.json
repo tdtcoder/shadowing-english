@@ -1,0 +1,65 @@
+[
+    {
+        "text": "It takes less than a second flipping a switch.",
+        "startTime": 386,
+        "endTime": 2634,
+        "slowStartTime": 729,
+        "slowEndTime": 4176
+    },
+    {
+        "text": "You don't stop to wonder what it's connected to or how it works.",
+        "startTime": 4247,
+        "endTime": 6943,
+        "slowStartTime": 6521,
+        "slowEndTime": 10639
+    },
+    {
+        "text": "You're thinking about proposing,...",
+        "startTime": 7636,
+        "endTime": 8944,
+        "slowStartTime": 11604,
+        "slowEndTime": 13641
+    },
+    {
+        "text": "...the ring you've been carrying around for three days,...",
+        "startTime": 9797,
+        "endTime": 12034,
+        "slowStartTime": 14845,
+        "slowEndTime": 18276
+    },
+    {
+        "text": "...whether her sister kept it secret and whether her dad approves.",
+        "startTime": 12764,
+        "endTime": 15956,
+        "slowStartTime": 19296,
+        "slowEndTime": 24159
+    },
+    {
+        "text": "If putting the ring in the cheesecake is cheesy,...",
+        "startTime": 16497,
+        "endTime": 18927,
+        "slowStartTime": 24895,
+        "slowEndTime": 28616
+    },
+    {
+        "text": "...you're thinking about the 17 different ways she could react, and hoping it'll mean yes.",
+        "startTime": 19485,
+        "endTime": 24157,
+        "slowStartTime": 29377,
+        "slowEndTime": 36460
+    },
+    {
+        "text": "You don't think about what goes into powering that switch...",
+        "startTime": 24921,
+        "endTime": 27211,
+        "slowStartTime": 37532,
+        "slowEndTime": 41041
+    },
+    {
+        "text": "...because we do.",
+        "startTime": 28595,
+        "endTime": 29225,
+        "slowStartTime": 43043,
+        "slowEndTime": 44062
+    }
+]

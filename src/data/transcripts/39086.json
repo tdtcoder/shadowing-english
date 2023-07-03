@@ -1,0 +1,226 @@
+[
+    {
+        "text": "How was working from home?",
+        "startTime": 119,
+        "endTime": 1118,
+        "slowStartTime": 329,
+        "slowEndTime": 1902
+    },
+    {
+        "text": "Yeah, it was good. Thanks.",
+        "startTime": 2575,
+        "endTime": 4328,
+        "slowStartTime": 4013,
+        "slowEndTime": 6717
+    },
+    {
+        "text": "I got to spend some time with the kids.",
+        "startTime": 5389,
+        "endTime": 6497,
+        "slowStartTime": 8234,
+        "slowEndTime": 9970
+    },
+    {
+        "text": "I understand. Yeah, let me just settle down.",
+        "startTime": 6609,
+        "endTime": 10903,
+        "slowStartTime": 10063,
+        "slowEndTime": 16579
+    },
+    {
+        "text": "It's good to be back, huh?",
+        "startTime": 11534,
+        "endTime": 12510,
+        "slowStartTime": 17451,
+        "slowEndTime": 18990
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 13654,
+        "endTime": 14047,
+        "slowStartTime": 20631,
+        "slowEndTime": 21296
+    },
+    {
+        "text": "Good morning, gentlemen.",
+        "startTime": 14309,
+        "endTime": 15311,
+        "slowStartTime": 21613,
+        "slowEndTime": 23192
+    },
+    {
+        "text": "Good morning.",
+        "startTime": 15705,
+        "endTime": 16133,
+        "slowStartTime": 23707,
+        "slowEndTime": 24424
+    },
+    {
+        "text": "Good morning.",
+        "startTime": 16335,
+        "endTime": 16825,
+        "slowStartTime": 24653,
+        "slowEndTime": 25462
+    },
+    {
+        "text": "Meredith.",
+        "startTime": 18529,
+        "endTime": 19078,
+        "slowStartTime": 27943,
+        "slowEndTime": 28842
+    },
+    {
+        "text": "Oh, hey, Henry! How are you?",
+        "startTime": 19690,
+        "endTime": 21394,
+        "slowStartTime": 29685,
+        "slowEndTime": 32316
+    },
+    {
+        "text": "Good, thanks.",
+        "startTime": 21865,
+        "endTime": 22563,
+        "slowStartTime": 32948,
+        "slowEndTime": 34070
+    },
+    {
+        "text": "Thanks for your help with the IT stuff.",
+        "startTime": 23363,
+        "endTime": 24705,
+        "slowStartTime": 35195,
+        "slowEndTime": 37282
+    },
+    {
+        "text": "I know it's not exactly in your job description.",
+        "startTime": 24776,
+        "endTime": 26434,
+        "slowStartTime": 37314,
+        "slowEndTime": 39876
+    },
+    {
+        "text": "Meredith, you're on mute.",
+        "startTime": 26583,
+        "endTime": 29133,
+        "slowStartTime": 40024,
+        "slowEndTime": 43925
+    },
+    {
+        "text": "Unmute.",
+        "startTime": 29735,
+        "endTime": 30487,
+        "slowStartTime": 44752,
+        "slowEndTime": 45956
+    },
+    {
+        "text": "You just need to unclick the little red microphone.",
+        "startTime": 32477,
+        "endTime": 35237,
+        "slowStartTime": 48866,
+        "slowEndTime": 53081
+    },
+    {
+        "text": "The little red microphone?",
+        "startTime": 35686,
+        "endTime": 37124,
+        "slowStartTime": 53679,
+        "slowEndTime": 55911
+    },
+    {
+        "text": "Look, just...",
+        "startTime": 37357,
+        "endTime": 38113,
+        "slowStartTime": 56185,
+        "slowEndTime": 57394
+    },
+    {
+        "text": "Don't worry, Meredith. Always happy to help.",
+        "startTime": 43244,
+        "endTime": 45053,
+        "slowStartTime": 65016,
+        "slowEndTime": 67805
+    },
+    {
+        "text": "Welcome back to the office.",
+        "startTime": 45281,
+        "endTime": 46382,
+        "slowStartTime": 68071,
+        "slowEndTime": 69798
+    },
+    {
+        "text": "Hey!",
+        "startTime": 48560,
+        "endTime": 48977,
+        "slowStartTime": 72990,
+        "slowEndTime": 73691
+    },
+    {
+        "text": "Hi, Thomas. We're setting up the conference room for you as requested.",
+        "startTime": 49168,
+        "endTime": 52566,
+        "slowStartTime": 73902,
+        "slowEndTime": 79074
+    },
+    {
+        "text": "So, 23 audience chairs, all six feet apart.",
+        "startTime": 52825,
+        "endTime": 56193,
+        "slowStartTime": 79388,
+        "slowEndTime": 84515
+    },
+    {
+        "text": "And this, I was just coming to find someone to help set this all up for me.",
+        "startTime": 56408,
+        "endTime": 59771,
+        "slowStartTime": 84762,
+        "slowEndTime": 89882
+    },
+    {
+        "text": "You're some real help, thank you so much.",
+        "startTime": 60092,
+        "endTime": 62208,
+        "slowStartTime": 90288,
+        "slowEndTime": 93537
+    },
+    {
+        "text": "No problem.",
+        "startTime": 62759,
+        "endTime": 63421,
+        "slowStartTime": 94289,
+        "slowEndTime": 95357
+    },
+    {
+        "text": "Henry, do you want some?",
+        "startTime": 67031,
+        "endTime": 67813,
+        "slowStartTime": 100697,
+        "slowEndTime": 101944
+    },
+    {
+        "text": "Yeah sure, thanks.",
+        "startTime": 69117,
+        "endTime": 69992,
+        "slowStartTime": 103826,
+        "slowEndTime": 105213
+    },
+    {
+        "text": "Welcome, everyone.",
+        "startTime": 77665,
+        "endTime": 78542,
+        "slowStartTime": 116648,
+        "slowEndTime": 118038
+    },
+    {
+        "text": "Welcome to your new office.",
+        "startTime": 79091,
+        "endTime": 81561,
+        "slowStartTime": 118786,
+        "slowEndTime": 122567
+    },
+    {
+        "text": "It's good to be back.",
+        "startTime": 83312,
+        "endTime": 84324,
+        "slowStartTime": 125118,
+        "slowEndTime": 126711
+    }
+]

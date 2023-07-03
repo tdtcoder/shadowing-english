@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Do you have any plans this weekend?",
+        "startTime": 5169,
+        "endTime": 6887,
+        "slowStartTime": 7903,
+        "slowEndTime": 10555
+    },
+    {
+        "text": "Yes.",
+        "startTime": 7731,
+        "endTime": 8107,
+        "slowStartTime": 11747,
+        "slowEndTime": 12385
+    },
+    {
+        "text": "I'm planning to visit my parents.",
+        "startTime": 8199,
+        "endTime": 10207,
+        "slowStartTime": 12449,
+        "slowEndTime": 15535
+    },
+    {
+        "text": "Would you like to join us for dinner this evening?",
+        "startTime": 12906,
+        "endTime": 15174,
+        "slowStartTime": 19509,
+        "slowEndTime": 22986
+    },
+    {
+        "text": "Oh, I'm sorry.",
+        "startTime": 15886,
+        "endTime": 16890,
+        "slowStartTime": 23979,
+        "slowEndTime": 25560
+    },
+    {
+        "text": "I have to go home early today.",
+        "startTime": 17061,
+        "endTime": 18659,
+        "slowStartTime": 25741,
+        "slowEndTime": 28214
+    },
+    {
+        "text": "Was your sister at the supermarket this morning?",
+        "startTime": 21456,
+        "endTime": 23865,
+        "slowStartTime": 32334,
+        "slowEndTime": 36023
+    },
+    {
+        "text": "I think I saw her there.",
+        "startTime": 24108,
+        "endTime": 25389,
+        "slowStartTime": 36312,
+        "slowEndTime": 38308
+    },
+    {
+        "text": "Yes, she was.",
+        "startTime": 26095,
+        "endTime": 27069,
+        "slowStartTime": 39292,
+        "slowEndTime": 40828
+    },
+    {
+        "text": "She said she was going to buy some fruit.",
+        "startTime": 27630,
+        "endTime": 29417,
+        "slowStartTime": 41595,
+        "slowEndTime": 44350
+    },
+    {
+        "text": "Here are your keys.",
+        "startTime": 32339,
+        "endTime": 33463,
+        "slowStartTime": 48659,
+        "slowEndTime": 50420
+    },
+    {
+        "text": "When are you going to move into the new house?",
+        "startTime": 33875,
+        "endTime": 35932,
+        "slowStartTime": 50962,
+        "slowEndTime": 54123
+    },
+    {
+        "text": "Not soon, but we are planning to move later this year.",
+        "startTime": 37096,
+        "endTime": 41080,
+        "slowStartTime": 55794,
+        "slowEndTime": 61845
+    }
+]

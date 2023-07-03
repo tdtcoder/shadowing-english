@@ -1,0 +1,128 @@
+[
+    {
+        "text": "There is a boy in the kitchen.",
+        "startTime": 2886,
+        "endTime": 4873,
+        "slowStartTime": 4479,
+        "slowEndTime": 7535
+    },
+    {
+        "text": "Who is he?",
+        "startTime": 5281,
+        "endTime": 6072,
+        "slowStartTime": 8071,
+        "slowEndTime": 9333
+    },
+    {
+        "text": "He is my brother.",
+        "startTime": 7225,
+        "endTime": 8213,
+        "slowStartTime": 10987,
+        "slowEndTime": 12544
+    },
+    {
+        "text": "There are girls in the living room.",
+        "startTime": 9305,
+        "endTime": 11364,
+        "slowStartTime": 14107,
+        "slowEndTime": 17271
+    },
+    {
+        "text": "Who are they?",
+        "startTime": 11812,
+        "endTime": 12593,
+        "slowStartTime": 17868,
+        "slowEndTime": 19114
+    },
+    {
+        "text": "They are my sisters.",
+        "startTime": 13723,
+        "endTime": 15168,
+        "slowStartTime": 20734,
+        "slowEndTime": 22977
+    },
+    {
+        "text": "There are small animals in the yard.",
+        "startTime": 16374,
+        "endTime": 18824,
+        "slowStartTime": 24711,
+        "slowEndTime": 28461
+    },
+    {
+        "text": "What are they?",
+        "startTime": 19270,
+        "endTime": 20188,
+        "slowStartTime": 29055,
+        "slowEndTime": 30507
+    },
+    {
+        "text": "They are my puppies.",
+        "startTime": 21304,
+        "endTime": 22561,
+        "slowStartTime": 32106,
+        "slowEndTime": 34067
+    },
+    {
+        "text": "They are so smart and cute.",
+        "startTime": 23156,
+        "endTime": 25319,
+        "slowStartTime": 34884,
+        "slowEndTime": 38203
+    },
+    {
+        "text": "What, what, what, what are in the country?",
+        "startTime": 33153,
+        "endTime": 36522,
+        "slowStartTime": 49880,
+        "slowEndTime": 55008
+    },
+    {
+        "text": "There are many, many places in the country.",
+        "startTime": 36970,
+        "endTime": 40178,
+        "slowStartTime": 55605,
+        "slowEndTime": 60492
+    },
+    {
+        "text": "Field, field, field, there is a field in the country.",
+        "startTime": 40699,
+        "endTime": 43922,
+        "slowStartTime": 61199,
+        "slowEndTime": 66108
+    },
+    {
+        "text": "Barn, barn, barn, there is a barn in the country.",
+        "startTime": 44441,
+        "endTime": 47673,
+        "slowStartTime": 66812,
+        "slowEndTime": 71734
+    },
+    {
+        "text": "Shed, shed, shed, there is a shed in the country.",
+        "startTime": 48066,
+        "endTime": 51414,
+        "slowStartTime": 72249,
+        "slowEndTime": 77346
+    },
+    {
+        "text": "Pen, pen, pen, there is a pen in the country.",
+        "startTime": 51957,
+        "endTime": 55172,
+        "slowStartTime": 78086,
+        "slowEndTime": 82983
+    },
+    {
+        "text": "What, what, what, what else is in the country?",
+        "startTime": 55693,
+        "endTime": 58924,
+        "slowStartTime": 83689,
+        "slowEndTime": 88611
+    },
+    {
+        "text": "Corral, garden, farmhouse, I can't name them all.",
+        "startTime": 59251,
+        "endTime": 65491,
+        "slowStartTime": 89026,
+        "slowEndTime": 98461
+    }
+]

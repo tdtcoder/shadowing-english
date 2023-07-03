@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Hello?",
+        "startTime": 257,
+        "endTime": 927,
+        "slowStartTime": 535,
+        "slowEndTime": 1616
+    },
+    {
+        "text": "Hi, Amanda.",
+        "startTime": 1213,
+        "endTime": 2054,
+        "slowStartTime": 1969,
+        "slowEndTime": 3306
+    },
+    {
+        "text": "How are you doing?",
+        "startTime": 2180,
+        "endTime": 3181,
+        "slowStartTime": 3420,
+        "slowEndTime": 4996
+    },
+    {
+        "text": "I'm doing great.",
+        "startTime": 3450,
+        "endTime": 4617,
+        "slowStartTime": 5325,
+        "slowEndTime": 7150
+    },
+    {
+        "text": "What were you doing before I called you?",
+        "startTime": 4890,
+        "endTime": 6643,
+        "slowStartTime": 7485,
+        "slowEndTime": 10189
+    },
+    {
+        "text": "I just came back home.",
+        "startTime": 6991,
+        "endTime": 8694,
+        "slowStartTime": 10637,
+        "slowEndTime": 13266
+    },
+    {
+        "text": "Did you go somewhere?",
+        "startTime": 9099,
+        "endTime": 10145,
+        "slowStartTime": 13798,
+        "slowEndTime": 15442
+    },
+    {
+        "text": "I went shopping with my brother.",
+        "startTime": 10432,
+        "endTime": 12178,
+        "slowStartTime": 15798,
+        "slowEndTime": 18492
+    },
+    {
+        "text": "Did you buy anything for yourself?",
+        "startTime": 12757,
+        "endTime": 14433,
+        "slowStartTime": 19285,
+        "slowEndTime": 21875
+    },
+    {
+        "text": "Yes, I did.",
+        "startTime": 14553,
+        "endTime": 15583,
+        "slowStartTime": 21979,
+        "slowEndTime": 23599
+    },
+    {
+        "text": "I bought some clothes.",
+        "startTime": 15929,
+        "endTime": 17311,
+        "slowStartTime": 24044,
+        "slowEndTime": 26191
+    },
+    {
+        "text": "What kind of clothes did you buy?",
+        "startTime": 17559,
+        "endTime": 19005,
+        "slowStartTime": 26489,
+        "slowEndTime": 28732
+    },
+    {
+        "text": "I bought a jacket, a pair of blue jeans, a skirt and a red t-shirt.",
+        "startTime": 19312,
+        "endTime": 25171,
+        "slowStartTime": 29118,
+        "slowEndTime": 37981
+    },
+    {
+        "text": "Wow.",
+        "startTime": 25297,
+        "endTime": 25950,
+        "slowStartTime": 38096,
+        "slowEndTime": 39150
+    },
+    {
+        "text": "That's a lot.",
+        "startTime": 26060,
+        "endTime": 27051,
+        "slowStartTime": 39240,
+        "slowEndTime": 40802
+    },
+    {
+        "text": "You must be rich!",
+        "startTime": 27221,
+        "endTime": 28235,
+        "slowStartTime": 40981,
+        "slowEndTime": 42577
+    },
+    {
+        "text": "Not really.",
+        "startTime": 28414,
+        "endTime": 29375,
+        "slowStartTime": 42771,
+        "slowEndTime": 44287
+    },
+    {
+        "text": "They were having a big sale.",
+        "startTime": 29655,
+        "endTime": 31707,
+        "slowStartTime": 44633,
+        "slowEndTime": 47785
+    },
+    {
+        "text": "What about your brother?",
+        "startTime": 32000,
+        "endTime": 33373,
+        "slowStartTime": 48150,
+        "slowEndTime": 50284
+    },
+    {
+        "text": "Did he buy anything?",
+        "startTime": 33557,
+        "endTime": 34589,
+        "slowStartTime": 50485,
+        "slowEndTime": 52109
+    },
+    {
+        "text": "Yes.",
+        "startTime": 34741,
+        "endTime": 35355,
+        "slowStartTime": 52261,
+        "slowEndTime": 53258
+    },
+    {
+        "text": "He bought a baseball cap, a belt, and sneakers.",
+        "startTime": 35607,
+        "endTime": 39261,
+        "slowStartTime": 53560,
+        "slowEndTime": 59117
+    },
+    {
+        "text": "I guess you guys like to dress down, don't you?",
+        "startTime": 39502,
+        "endTime": 41761,
+        "slowStartTime": 59403,
+        "slowEndTime": 62866
+    },
+    {
+        "text": "Well, I do, but I'm not so sure about my brother.",
+        "startTime": 42121,
+        "endTime": 45412,
+        "slowStartTime": 63331,
+        "slowEndTime": 68343
+    },
+    {
+        "text": "Does he like to dress up?",
+        "startTime": 45709,
+        "endTime": 47022,
+        "slowStartTime": 68714,
+        "slowEndTime": 70758
+    },
+    {
+        "text": "Yes, and he looks good in a suit, indeed.",
+        "startTime": 47261,
+        "endTime": 50741,
+        "slowStartTime": 71041,
+        "slowEndTime": 76336
+    },
+    {
+        "text": "Oh, I want to see him.",
+        "startTime": 50933,
+        "endTime": 52633,
+        "slowStartTime": 76549,
+        "slowEndTime": 79175
+    }
+]

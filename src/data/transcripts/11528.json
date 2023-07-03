@@ -1,0 +1,240 @@
+[
+    {
+        "text": "There was once a boy whose name was Aladdin.",
+        "startTime": 2000,
+        "endTime": 4400,
+        "slowStartTime": 3200,
+        "slowEndTime": 6800
+    },
+    {
+        "text": "One day, a few years after his father died, a man came to visit him and his mother.",
+        "startTime": 4750,
+        "endTime": 10300,
+        "slowStartTime": 7300,
+        "slowEndTime": 15700
+    },
+    {
+        "text": "\"I am the boy's uncle,\" the man said,...",
+        "startTime": 11050,
+        "endTime": 13300,
+        "slowStartTime": 16775,
+        "slowEndTime": 20150
+    },
+    {
+        "text": "...\"so I will help him.\"",
+        "startTime": 13850,
+        "endTime": 15200,
+        "slowStartTime": 20950,
+        "slowEndTime": 23100
+    },
+    {
+        "text": "He took Aladdin to the beautiful garden.",
+        "startTime": 16150,
+        "endTime": 18250,
+        "slowStartTime": 24400,
+        "slowEndTime": 27550
+    },
+    {
+        "text": "\"I can make you rich,\" the man said to Aladdin,...",
+        "startTime": 18950,
+        "endTime": 21950,
+        "slowStartTime": 28600,
+        "slowEndTime": 33150
+    },
+    {
+        "text": "...\"but you must do as I say.\"",
+        "startTime": 22650,
+        "endTime": 24700,
+        "slowStartTime": 34200,
+        "slowEndTime": 37300
+    },
+    {
+        "text": "In one part of the garden, there was a large stone.",
+        "startTime": 25600,
+        "endTime": 28800,
+        "slowStartTime": 38650,
+        "slowEndTime": 43450
+    },
+    {
+        "text": "\"Very well, Uncle,\" Aladdin said.",
+        "startTime": 29300,
+        "endTime": 31600,
+        "slowStartTime": 44150,
+        "slowEndTime": 47600
+    },
+    {
+        "text": "He thought the man was his uncle, but the man was not.",
+        "startTime": 32450,
+        "endTime": 36000,
+        "slowStartTime": 48875,
+        "slowEndTime": 54200
+    },
+    {
+        "text": "He was a wicked magician who needed Aladdin's help.",
+        "startTime": 36550,
+        "endTime": 39900,
+        "slowStartTime": 55000,
+        "slowEndTime": 60000
+    },
+    {
+        "text": "\"Cover yourself with your robe,\" he said,...",
+        "startTime": 40700,
+        "endTime": 43400,
+        "slowStartTime": 61250,
+        "slowEndTime": 65350
+    },
+    {
+        "text": "...\"then lift the stone.\"",
+        "startTime": 44050,
+        "endTime": 45450,
+        "slowStartTime": 66250,
+        "slowEndTime": 68400
+    },
+    {
+        "text": "\"There are steps under it.\"",
+        "startTime": 46050,
+        "endTime": 47600,
+        "slowStartTime": 69250,
+        "slowEndTime": 71600
+    },
+    {
+        "text": "\"At the bottom of the steps, you will see many rooms.\"",
+        "startTime": 48050,
+        "endTime": 51350,
+        "slowStartTime": 72250,
+        "slowEndTime": 77250
+    },
+    {
+        "text": "\"In one of the rooms, you will find a lamp,\"...",
+        "startTime": 52200,
+        "endTime": 54450,
+        "slowStartTime": 78500,
+        "slowEndTime": 81900
+    },
+    {
+        "text": "...\"bring it to me.\"",
+        "startTime": 55150,
+        "endTime": 56000,
+        "slowStartTime": 82900,
+        "slowEndTime": 84200
+    },
+    {
+        "text": "\"Wear this ring,\" he said,...",
+        "startTime": 56850,
+        "endTime": 58800,
+        "slowStartTime": 85500,
+        "slowEndTime": 88400
+    },
+    {
+        "text": "...\"it will keep you from harm.\"",
+        "startTime": 59250,
+        "endTime": 60950,
+        "slowStartTime": 89050,
+        "slowEndTime": 91650
+    },
+    {
+        "text": "Aladdin climbed down the steps and walked through the rooms.",
+        "startTime": 61850,
+        "endTime": 65100,
+        "slowStartTime": 92950,
+        "slowEndTime": 97850
+    },
+    {
+        "text": "Soon, he found the lamp.",
+        "startTime": 65600,
+        "endTime": 67200,
+        "slowStartTime": 98600,
+        "slowEndTime": 101000
+    },
+    {
+        "text": "The man was waiting for him.",
+        "startTime": 67950,
+        "endTime": 69700,
+        "slowStartTime": 102150,
+        "slowEndTime": 104700
+    },
+    {
+        "text": "\"Give me the lamp,\" he said.",
+        "startTime": 70550,
+        "endTime": 72600,
+        "slowStartTime": 106000,
+        "slowEndTime": 109100
+    },
+    {
+        "text": "Aladdin argued with the man.",
+        "startTime": 73250,
+        "endTime": 74950,
+        "slowStartTime": 110050,
+        "slowEndTime": 112600
+    },
+    {
+        "text": "\"I will not give you the lamp until I am out of this hole,\" he said.",
+        "startTime": 75700,
+        "endTime": 80050,
+        "slowStartTime": 113750,
+        "slowEndTime": 120300
+    },
+    {
+        "text": "The man became very angry.",
+        "startTime": 80950,
+        "endTime": 82750,
+        "slowStartTime": 121650,
+        "slowEndTime": 124400
+    },
+    {
+        "text": "\"Then, you will never get out of the hole,\" he said.",
+        "startTime": 83600,
+        "endTime": 87000,
+        "slowStartTime": 125550,
+        "slowEndTime": 130700
+    },
+    {
+        "text": "He pushed the stone over the hole and returned to Africa.",
+        "startTime": 87450,
+        "endTime": 91300,
+        "slowStartTime": 131400,
+        "slowEndTime": 137150
+    },
+    {
+        "text": "Aladdin tried to push the stone out of the way, but he could not.",
+        "startTime": 92100,
+        "endTime": 96150,
+        "slowStartTime": 138350,
+        "slowEndTime": 144400
+    },
+    {
+        "text": "For three days, Aladdin was stuck in the hole.",
+        "startTime": 97000,
+        "endTime": 99800,
+        "slowStartTime": 145700,
+        "slowEndTime": 149900
+    },
+    {
+        "text": "On the third day, he looked at the ring on his finger.",
+        "startTime": 100300,
+        "endTime": 103300,
+        "slowStartTime": 150650,
+        "slowEndTime": 155200
+    },
+    {
+        "text": "\"My uncle said, 'This will keep you from harm,'\" he thought.",
+        "startTime": 104400,
+        "endTime": 108050,
+        "slowStartTime": 156800,
+        "slowEndTime": 162300
+    },
+    {
+        "text": "He turned it on his finger.",
+        "startTime": 108850,
+        "endTime": 110450,
+        "slowStartTime": 163450,
+        "slowEndTime": 165900
+    },
+    {
+        "text": "Immediately, a genie stood in front of him.",
+        "startTime": 111050,
+        "endTime": 113950,
+        "slowStartTime": 166800,
+        "slowEndTime": 171200
+    }
+]

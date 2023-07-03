@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Okay. You may live in the guest house.",
+        "startTime": 3358,
+        "endTime": 6096,
+        "slowStartTime": 5187,
+        "slowEndTime": 9369
+    },
+    {
+        "text": "You may kiss the bride.",
+        "startTime": 7841,
+        "endTime": 10407,
+        "slowStartTime": 11911,
+        "slowEndTime": 15836
+    },
+    {
+        "text": "Mr. Cordero, you may return to your seat.",
+        "startTime": 12899,
+        "endTime": 15203,
+        "slowStartTime": 19499,
+        "slowEndTime": 23030
+    },
+    {
+        "text": "Here's our office kitchen. You can help yourself to anything here.",
+        "startTime": 18853,
+        "endTime": 23377,
+        "slowStartTime": 28429,
+        "slowEndTime": 35291
+    },
+    {
+        "text": "You certainly can. You can drive me home.",
+        "startTime": 25727,
+        "endTime": 27641,
+        "slowStartTime": 38741,
+        "slowEndTime": 41686
+    },
+    {
+        "text": "Okay. Here's twenty. You can keep the change.",
+        "startTime": 29671,
+        "endTime": 33148,
+        "slowStartTime": 44656,
+        "slowEndTime": 49947
+    },
+    {
+        "text": "The seat belt sign is off. Feel free to walk around.",
+        "startTime": 36755,
+        "endTime": 40773,
+        "slowStartTime": 55282,
+        "slowEndTime": 61384
+    },
+    {
+        "text": "Feel free to look around and I'll be right back.",
+        "startTime": 42978,
+        "endTime": 45431,
+        "slowStartTime": 64617,
+        "slowEndTime": 68372
+    },
+    {
+        "text": "Oh, no, go ahead. I don't mind.",
+        "startTime": 50085,
+        "endTime": 51479,
+        "slowStartTime": 75277,
+        "slowEndTime": 77444
+    },
+    {
+        "text": "Go ahead, snap them on.",
+        "startTime": 53171,
+        "endTime": 55169,
+        "slowStartTime": 79907,
+        "slowEndTime": 82979
+    }
+]

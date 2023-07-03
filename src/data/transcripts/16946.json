@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Mr. Goodman.",
+        "startTime": 1125,
+        "endTime": 1729,
+        "slowStartTime": 1837,
+        "slowEndTime": 2818
+    },
+    {
+        "text": "What makes you think you're qualified for this job?",
+        "startTime": 6443,
+        "endTime": 7985,
+        "slowStartTime": 9815,
+        "slowEndTime": 12203
+    },
+    {
+        "text": "Stop punching me!",
+        "startTime": 11608,
+        "endTime": 12372,
+        "slowStartTime": 17562,
+        "slowEndTime": 18783
+    },
+    {
+        "text": "I'm not punching you.",
+        "startTime": 12444,
+        "endTime": 12977,
+        "slowStartTime": 18816,
+        "slowEndTime": 19691
+    },
+    {
+        "text": "Please, stop that!",
+        "startTime": 13057,
+        "endTime": 13615,
+        "slowStartTime": 19735,
+        "slowEndTime": 20647
+    },
+    {
+        "text": "Don't drown me.",
+        "startTime": 19410,
+        "endTime": 19980,
+        "slowStartTime": 29265,
+        "slowEndTime": 30195
+    },
+    {
+        "text": "No, not that thing, not...",
+        "startTime": 20215,
+        "endTime": 21230,
+        "slowStartTime": 30472,
+        "slowEndTime": 32070
+    },
+    {
+        "text": "Don't touch me, get your hands off of me.",
+        "startTime": 23222,
+        "endTime": 25190,
+        "slowStartTime": 34983,
+        "slowEndTime": 38010
+    },
+    {
+        "text": "Don't throw me out.",
+        "startTime": 26590,
+        "endTime": 27444,
+        "slowStartTime": 40035,
+        "slowEndTime": 41391
+    },
+    {
+        "text": "Next.",
+        "startTime": 35205,
+        "endTime": 35567,
+        "slowStartTime": 52958,
+        "slowEndTime": 53576
+    },
+    {
+        "text": "You're really serious, huh? Got it?",
+        "startTime": 36317,
+        "endTime": 37719,
+        "slowStartTime": 54626,
+        "slowEndTime": 56804
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 38243,
+        "endTime": 39183,
+        "slowStartTime": 57514,
+        "slowEndTime": 58999
+    },
+    {
+        "text": "Alright!",
+        "startTime": 39406,
+        "endTime": 39748,
+        "slowStartTime": 59259,
+        "slowEndTime": 59847
+    }
+]

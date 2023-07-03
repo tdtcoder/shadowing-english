@@ -1,0 +1,198 @@
+[
+    {
+        "text": "﻿If we want to divide by zero, we need to find its multiplicative inverse,...",
+        "startTime": 509,
+        "endTime": 4717,
+        "slowStartTime": 913,
+        "slowEndTime": 7300
+    },
+    {
+        "text": "...which should be one over zero.",
+        "startTime": 5100,
+        "endTime": 7297,
+        "slowStartTime": 7800,
+        "slowEndTime": 11171
+    },
+    {
+        "text": "This would have to be such a number that multiplying it by zero would give one.",
+        "startTime": 7929,
+        "endTime": 13341,
+        "slowStartTime": 12043,
+        "slowEndTime": 20236
+    },
+    {
+        "text": "But because anything multiplied by zero is still zero,...",
+        "startTime": 14276,
+        "endTime": 17885,
+        "slowStartTime": 21564,
+        "slowEndTime": 27052
+    },
+    {
+        "text": "...such a number is impossible.",
+        "startTime": 18164,
+        "endTime": 19957,
+        "slowStartTime": 27396,
+        "slowEndTime": 30161
+    },
+    {
+        "text": "So, zero has no multiplicative inverse.",
+        "startTime": 20291,
+        "endTime": 23131,
+        "slowStartTime": 30587,
+        "slowEndTime": 34921
+    },
+    {
+        "text": "Couldn't we make up a new rule?",
+        "startTime": 23857,
+        "endTime": 25531,
+        "slowStartTime": 35936,
+        "slowEndTime": 38521
+    },
+    {
+        "text": "Say, that the symbol infinity means one over zero and see what happens?",
+        "startTime": 26017,
+        "endTime": 30447,
+        "slowStartTime": 39175,
+        "slowEndTime": 45895
+    },
+    {
+        "text": "Let's try it,...",
+        "startTime": 32098,
+        "endTime": 32623,
+        "slowStartTime": 48297,
+        "slowEndTime": 49160
+    },
+    {
+        "text": "...imagining we don't know anything about infinity already.",
+        "startTime": 32955,
+        "endTime": 35997,
+        "slowStartTime": 49582,
+        "slowEndTime": 54221
+    },
+    {
+        "text": "Based on the definition of a multiplicative inverse,....",
+        "startTime": 36358,
+        "endTime": 38738,
+        "slowStartTime": 54687,
+        "slowEndTime": 58332
+    },
+    {
+        "text": "...zero times infinity must be equals to one.",
+        "startTime": 39080,
+        "endTime": 42285,
+        "slowStartTime": 58770,
+        "slowEndTime": 63652
+    },
+    {
+        "text": "That means zero times infinity plus zero times infinity should be equal two.",
+        "startTime": 42658,
+        "endTime": 48270,
+        "slowStartTime": 64137,
+        "slowEndTime": 72630
+    },
+    {
+        "text": "Now, by the distributive property,...",
+        "startTime": 49187,
+        "endTime": 50765,
+        "slowStartTime": 73931,
+        "slowEndTime": 76373
+    },
+    {
+        "text": "...the left side of the equation can be rearranged...",
+        "startTime": 51071,
+        "endTime": 53867,
+        "slowStartTime": 76756,
+        "slowEndTime": 81025
+    },
+    {
+        "text": "...to zero plus zero times infinity.",
+        "startTime": 53975,
+        "endTime": 56615,
+        "slowStartTime": 81113,
+        "slowEndTime": 85148
+    },
+    {
+        "text": "And since zero plus zero is definitely zero,...",
+        "startTime": 57414,
+        "endTime": 60401,
+        "slowStartTime": 86271,
+        "slowEndTime": 90827
+    },
+    {
+        "text": "...that reduces down to zero times infinity.",
+        "startTime": 60677,
+        "endTime": 63684,
+        "slowStartTime": 91165,
+        "slowEndTime": 95751
+    },
+    {
+        "text": "Unfortunately, we've already defined this as equal to one,...",
+        "startTime": 64259,
+        "endTime": 67755,
+        "slowStartTime": 96539,
+        "slowEndTime": 101857
+    },
+    {
+        "text": "...while the other side of the equation...",
+        "startTime": 68252,
+        "endTime": 69830,
+        "slowStartTime": 102528,
+        "slowEndTime": 104970
+    },
+    {
+        "text": "...is still telling us it's equal to two.",
+        "startTime": 70072,
+        "endTime": 72309,
+        "slowStartTime": 105258,
+        "slowEndTime": 108688
+    },
+    {
+        "text": "So, one equals two.",
+        "startTime": 72698,
+        "endTime": 74891,
+        "slowStartTime": 109197,
+        "slowEndTime": 112561
+    },
+    {
+        "text": "Oddly enough, that's not necessarily wrong;...",
+        "startTime": 75867,
+        "endTime": 78443,
+        "slowStartTime": 113950,
+        "slowEndTime": 117890
+    },
+    {
+        "text": "...it's just not true in our normal world of numbers.",
+        "startTime": 78765,
+        "endTime": 82063,
+        "slowStartTime": 118297,
+        "slowEndTime": 123320
+    },
+    {
+        "text": "There's still a way it could be mathematically valid,...",
+        "startTime": 82701,
+        "endTime": 85057,
+        "slowStartTime": 124202,
+        "slowEndTime": 127810
+    },
+    {
+        "text": "...if one, two, and every other number were equal to zero.",
+        "startTime": 85285,
+        "endTime": 89305,
+        "slowStartTime": 128077,
+        "slowEndTime": 134183
+    },
+    {
+        "text": "But having infinity equal to zero...",
+        "startTime": 89667,
+        "endTime": 92124,
+        "slowStartTime": 134651,
+        "slowEndTime": 138411
+    },
+    {
+        "text": "...is ultimately not all that useful to mathematicians or anyone else.",
+        "startTime": 92322,
+        "endTime": 96877,
+        "slowStartTime": 138633,
+        "slowEndTime": 145540
+    }
+]

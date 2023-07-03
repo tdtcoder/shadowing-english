@@ -1,0 +1,65 @@
+[
+    {
+        "text": "So, if I may summarize your company's position,...",
+        "startTime": 2470,
+        "endTime": 5700,
+        "slowStartTime": 3850,
+        "slowEndTime": 8620
+    },
+    {
+        "text": "...the new contract would require us to guarantee a higher annual order.",
+        "startTime": 5970,
+        "endTime": 10210,
+        "slowStartTime": 9110,
+        "slowEndTime": 15345
+    },
+    {
+        "text": "That's right!",
+        "startTime": 10910,
+        "endTime": 11870,
+        "slowStartTime": 16465,
+        "slowEndTime": 17780
+    },
+    {
+        "text": "As you can see from the figure we've calculated,...",
+        "startTime": 12170,
+        "endTime": 14630,
+        "slowStartTime": 18410,
+        "slowEndTime": 21980
+    },
+    {
+        "text": "...in order to deliver at the current discount rate, we need a minimum order of 10,000 units.",
+        "startTime": 14940,
+        "endTime": 21050,
+        "slowStartTime": 22465,
+        "slowEndTime": 31510
+    },
+    {
+        "text": "Of course, we are sympathetic to the position your company is in.",
+        "startTime": 21850,
+        "endTime": 25190,
+        "slowStartTime": 32830,
+        "slowEndTime": 37900
+    },
+    {
+        "text": "However, there are certain factors needing consideration on our end as well.",
+        "startTime": 25490,
+        "endTime": 30460,
+        "slowStartTime": 38330,
+        "slowEndTime": 45715
+    },
+    {
+        "text": "For example, we have to take into account the growth we expect in sales next year.",
+        "startTime": 30730,
+        "endTime": 35560,
+        "slowStartTime": 46205,
+        "slowEndTime": 53445
+    },
+    {
+        "text": "The greater cost of the order is really of secondary importance to us.",
+        "startTime": 36000,
+        "endTime": 40300,
+        "slowStartTime": 54110,
+        "slowEndTime": 60430
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "text": "Today, even with the most advanced advertising systems that exist,...",
+        "startTime": 637,
+        "endTime": 3597,
+        "slowStartTime": 1105,
+        "slowEndTime": 5621
+    },
+    {
+        "text": "...they only have estimates of what someone's gender might be...",
+        "startTime": 4041,
+        "endTime": 6751,
+        "slowStartTime": 6212,
+        "slowEndTime": 10352
+    },
+    {
+        "text": "...or what someone's age might be or what they might be interested in.",
+        "startTime": 6995,
+        "endTime": 9554,
+        "slowStartTime": 10642,
+        "slowEndTime": 14556
+    },
+    {
+        "text": "But on Facebook, we know exactly what gender someone is.",
+        "startTime": 10244,
+        "endTime": 12635,
+        "slowStartTime": 15516,
+        "slowEndTime": 19178
+    },
+    {
+        "text": "And exactly how old they are, and exactly what they're interested in.",
+        "startTime": 12853,
+        "endTime": 15225,
+        "slowStartTime": 19429,
+        "slowEndTime": 23063
+    },
+    {
+        "text": "At a presentation to advertisers in 2007,...",
+        "startTime": 15664,
+        "endTime": 18706,
+        "slowStartTime": 23646,
+        "slowEndTime": 28284
+    },
+    {
+        "text": "Mark Zuckerberg pitched the benefits of Facebook's vast database.",
+        "startTime": 18980,
+        "endTime": 23175,
+        "slowStartTime": 28620,
+        "slowEndTime": 34988
+    },
+    {
+        "text": "When you run ads on Facebook,...",
+        "startTime": 23454,
+        "endTime": 24663,
+        "slowStartTime": 35331,
+        "slowEndTime": 37219
+    },
+    {
+        "text": "...you're also gonna learn a lot about the audience that you're reaching.",
+        "startTime": 24985,
+        "endTime": 27240,
+        "slowStartTime": 37628,
+        "slowEndTime": 41085
+    },
+    {
+        "text": "And a lot of this you're gonna be able to do directly...",
+        "startTime": 27787,
+        "endTime": 29283,
+        "slowStartTime": 41830,
+        "slowEndTime": 44149
+    },
+    {
+        "text": "...to the messages that you send to them and the content that they upload.",
+        "startTime": 29436,
+        "endTime": 32122,
+        "slowStartTime": 44304,
+        "slowEndTime": 48408
+    },
+    {
+        "text": "But the rest, we're gonna do...",
+        "startTime": 32444,
+        "endTime": 33927,
+        "slowStartTime": 48816,
+        "slowEndTime": 51115
+    },
+    {
+        "text": "...by aggregating nonpersonal identifiable information about the users that you're reaching.",
+        "startTime": 34207,
+        "endTime": 38465,
+        "slowStartTime": 51461,
+        "slowEndTime": 57923
+    },
+    {
+        "text": "Facebook's lifeblood and the heart of its revenue model...",
+        "startTime": 39331,
+        "endTime": 42582,
+        "slowStartTime": 59146,
+        "slowEndTime": 64098
+    },
+    {
+        "text": "...is the accumulation of data its users volunteer, including their interests or likes.",
+        "startTime": 42865,
+        "endTime": 48372,
+        "slowStartTime": 64447,
+        "slowEndTime": 72783
+    },
+    {
+        "text": "Advertisers, who helped boost Facebook's revenue...",
+        "startTime": 49004,
+        "endTime": 51728,
+        "slowStartTime": 73656,
+        "slowEndTime": 77817
+    },
+    {
+        "text": "...to an estimated 1.4 billion dollars in 2010,...",
+        "startTime": 51815,
+        "endTime": 55294,
+        "slowStartTime": 77872,
+        "slowEndTime": 83166
+    },
+    {
+        "text": "...buy access to that gold mine of anonymous demographic information,...",
+        "startTime": 55735,
+        "endTime": 59950,
+        "slowStartTime": 83752,
+        "slowEndTime": 90150
+    },
+    {
+        "text": "...enabling them to reach a remarkably specific and well targeted audience.",
+        "startTime": 60477,
+        "endTime": 64867,
+        "slowStartTime": 90865,
+        "slowEndTime": 97526
+    }
+]

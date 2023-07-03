@@ -1,0 +1,233 @@
+[
+    {
+        "text": "﻿Hello?",
+        "startTime": 539,
+        "endTime": 953,
+        "slowStartTime": 958,
+        "slowEndTime": 1655
+    },
+    {
+        "text": "Hi, Amanda.",
+        "startTime": 1457,
+        "endTime": 2187,
+        "slowStartTime": 2335,
+        "slowEndTime": 3505
+    },
+    {
+        "text": "How are you doing?",
+        "startTime": 2523,
+        "endTime": 3342,
+        "slowStartTime": 3934,
+        "slowEndTime": 5238
+    },
+    {
+        "text": "I'm doing great.",
+        "startTime": 3583,
+        "endTime": 4519,
+        "slowStartTime": 5525,
+        "slowEndTime": 7004
+    },
+    {
+        "text": "How about you?",
+        "startTime": 4763,
+        "endTime": 5609,
+        "slowStartTime": 7295,
+        "slowEndTime": 8638
+    },
+    {
+        "text": "I'm good.",
+        "startTime": 5886,
+        "endTime": 6389,
+        "slowStartTime": 8979,
+        "slowEndTime": 9809
+    },
+    {
+        "text": "Thanks for asking.",
+        "startTime": 6562,
+        "endTime": 7493,
+        "slowStartTime": 9993,
+        "slowEndTime": 11465
+    },
+    {
+        "text": "How's the weather today?",
+        "startTime": 7949,
+        "endTime": 9070,
+        "slowStartTime": 12074,
+        "slowEndTime": 13830
+    },
+    {
+        "text": "It's very sunny and bright.",
+        "startTime": 9586,
+        "endTime": 11255,
+        "slowStartTime": 14529,
+        "slowEndTime": 17108
+    },
+    {
+        "text": "It's about the same here.",
+        "startTime": 11653,
+        "endTime": 12792,
+        "slowStartTime": 17630,
+        "slowEndTime": 19413
+    },
+    {
+        "text": "We had heavy rain last night.",
+        "startTime": 13901,
+        "endTime": 15548,
+        "slowStartTime": 21001,
+        "slowEndTime": 23547
+    },
+    {
+        "text": "Really?",
+        "startTime": 15914,
+        "endTime": 16417,
+        "slowStartTime": 24021,
+        "slowEndTime": 24850
+    },
+    {
+        "text": "Did you have an umbrella with you?",
+        "startTime": 16919,
+        "endTime": 18265,
+        "slowStartTime": 25528,
+        "slowEndTime": 27622
+    },
+    {
+        "text": "I didn't have it with me at that time.",
+        "startTime": 18872,
+        "endTime": 21081,
+        "slowStartTime": 28458,
+        "slowEndTime": 31847
+    },
+    {
+        "text": "I'm sorry to hear that.",
+        "startTime": 21437,
+        "endTime": 22476,
+        "slowStartTime": 32305,
+        "slowEndTime": 33939
+    },
+    {
+        "text": "Did you catch a cold?",
+        "startTime": 22880,
+        "endTime": 23869,
+        "slowStartTime": 34470,
+        "slowEndTime": 36028
+    },
+    {
+        "text": "I'm okay.",
+        "startTime": 24217,
+        "endTime": 24897,
+        "slowStartTime": 36475,
+        "slowEndTime": 37571
+    },
+    {
+        "text": "I took some cold medicine before I went to bed.",
+        "startTime": 25323,
+        "endTime": 27783,
+        "slowStartTime": 38134,
+        "slowEndTime": 41899
+    },
+    {
+        "text": "Oh, good for you.",
+        "startTime": 28137,
+        "endTime": 29231,
+        "slowStartTime": 42356,
+        "slowEndTime": 44071
+    },
+    {
+        "text": "By the way, do you like rain?",
+        "startTime": 29699,
+        "endTime": 31683,
+        "slowStartTime": 44699,
+        "slowEndTime": 47750
+    },
+    {
+        "text": "I used to like it when I was young.",
+        "startTime": 32127,
+        "endTime": 34299,
+        "slowStartTime": 48340,
+        "slowEndTime": 51673
+    },
+    {
+        "text": "But now, I hate it.",
+        "startTime": 34577,
+        "endTime": 35986,
+        "slowStartTime": 52015,
+        "slowEndTime": 54204
+    },
+    {
+        "text": "Why do you hate it?",
+        "startTime": 36440,
+        "endTime": 37393,
+        "slowStartTime": 54810,
+        "slowEndTime": 56314
+    },
+    {
+        "text": "Do you have any bad memories about a rainy day?",
+        "startTime": 37856,
+        "endTime": 40475,
+        "slowStartTime": 56934,
+        "slowEndTime": 60938
+    },
+    {
+        "text": "How did you know that?",
+        "startTime": 41230,
+        "endTime": 42275,
+        "slowStartTime": 61995,
+        "slowEndTime": 63638
+    },
+    {
+        "text": "My cat died on a rainy day.",
+        "startTime": 42934,
+        "endTime": 45116,
+        "slowStartTime": 64551,
+        "slowEndTime": 67899
+    },
+    {
+        "text": "That's terrible!",
+        "startTime": 45435,
+        "endTime": 46758,
+        "slowStartTime": 68303,
+        "slowEndTime": 70362
+    },
+    {
+        "text": "I can understand why you don't like rain.",
+        "startTime": 47090,
+        "endTime": 49241,
+        "slowStartTime": 70785,
+        "slowEndTime": 74086
+    },
+    {
+        "text": "There is also another reason.",
+        "startTime": 50145,
+        "endTime": 51609,
+        "slowStartTime": 75368,
+        "slowEndTime": 77639
+    },
+    {
+        "text": "I don't like carrying an umbrella.",
+        "startTime": 52430,
+        "endTime": 54468,
+        "slowStartTime": 78795,
+        "slowEndTime": 81927
+    },
+    {
+        "text": "I know how you feel.",
+        "startTime": 55591,
+        "endTime": 56774,
+        "slowStartTime": 83537,
+        "slowEndTime": 85386
+    },
+    {
+        "text": "I don't like that, either.",
+        "startTime": 57189,
+        "endTime": 58231,
+        "slowStartTime": 85934,
+        "slowEndTime": 87572
+    },
+    {
+        "text": "I hope tomorrow will be sunny just like today.",
+        "startTime": 58942,
+        "endTime": 61683,
+        "slowStartTime": 88563,
+        "slowEndTime": 92750
+    }
+]

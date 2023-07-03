@@ -1,0 +1,86 @@
+[
+    {
+        "text": "There are two round cookies.",
+        "startTime": 5069,
+        "endTime": 6927,
+        "slowStartTime": 7754,
+        "slowEndTime": 10615
+    },
+    {
+        "text": "There are three square cookies.",
+        "startTime": 8569,
+        "endTime": 10329,
+        "slowStartTime": 13004,
+        "slowEndTime": 15718
+    },
+    {
+        "text": "The cat has a blue eye.",
+        "startTime": 14101,
+        "endTime": 15953,
+        "slowStartTime": 21301,
+        "slowEndTime": 24155
+    },
+    {
+        "text": "The cat has a brown eye, too.",
+        "startTime": 17378,
+        "endTime": 19301,
+        "slowStartTime": 26217,
+        "slowEndTime": 29177
+    },
+    {
+        "text": "It is a small monkey.",
+        "startTime": 23192,
+        "endTime": 24692,
+        "slowStartTime": 34938,
+        "slowEndTime": 37263
+    },
+    {
+        "text": "It is a big banana.",
+        "startTime": 28654,
+        "endTime": 30573,
+        "slowStartTime": 43131,
+        "slowEndTime": 46084
+    },
+    {
+        "text": "The old dog is my pet.",
+        "startTime": 34362,
+        "endTime": 36132,
+        "slowStartTime": 51693,
+        "slowEndTime": 54423
+    },
+    {
+        "text": "The young dog is your pet.",
+        "startTime": 37760,
+        "endTime": 39407,
+        "slowStartTime": 56790,
+        "slowEndTime": 59336
+    },
+    {
+        "text": "The hot coffee is in a mug.",
+        "startTime": 43309,
+        "endTime": 45283,
+        "slowStartTime": 65113,
+        "slowEndTime": 68150
+    },
+    {
+        "text": "The cold ice cream is in bowls.",
+        "startTime": 46765,
+        "endTime": 49184,
+        "slowStartTime": 70297,
+        "slowEndTime": 74001
+    },
+    {
+        "text": "The happy boy has a big gift.",
+        "startTime": 53036,
+        "endTime": 55701,
+        "slowStartTime": 79704,
+        "slowEndTime": 83777
+    },
+    {
+        "text": "The sad girl has a small gift.",
+        "startTime": 56887,
+        "endTime": 59602,
+        "slowStartTime": 85480,
+        "slowEndTime": 89628
+    }
+]

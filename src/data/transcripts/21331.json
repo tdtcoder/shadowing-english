@@ -1,0 +1,226 @@
+[
+    {
+        "text": "Is privacy looked at differently in Silicon Valley than in the rest of...",
+        "startTime": 463,
+        "endTime": 4209,
+        "slowStartTime": 844,
+        "slowEndTime": 6538
+    },
+    {
+        "text": "No, Silicon Valley is not monolithic.",
+        "startTime": 4669,
+        "endTime": 6600,
+        "slowStartTime": 7154,
+        "slowEndTime": 10125
+    },
+    {
+        "text": "We've always had a very different view of privacy than some of our colleagues in the Valley.",
+        "startTime": 7233,
+        "endTime": 13068,
+        "slowStartTime": 11000,
+        "slowEndTime": 19827
+    },
+    {
+        "text": "We take privacy extremely seriously.",
+        "startTime": 13222,
+        "endTime": 15865,
+        "slowStartTime": 19983,
+        "slowEndTime": 24023
+    },
+    {
+        "text": "As an example, we worry a lot about location in phones.",
+        "startTime": 16492,
+        "endTime": 21989,
+        "slowStartTime": 24888,
+        "slowEndTime": 33208
+    },
+    {
+        "text": "And we worry that some 14-year-old is gonna get stalked...",
+        "startTime": 22882,
+        "endTime": 28060,
+        "slowStartTime": 34473,
+        "slowEndTime": 42315
+    },
+    {
+        "text": "...and something terrible is gonna happen because of our phone.",
+        "startTime": 28241,
+        "endTime": 30983,
+        "slowStartTime": 42512,
+        "slowEndTime": 46699
+    },
+    {
+        "text": "And so as an example, before any app can get location data,...",
+        "startTime": 32275,
+        "endTime": 37557,
+        "slowStartTime": 48562,
+        "slowEndTime": 56561
+    },
+    {
+        "text": "...we don't make it a rule that they have to put up a panel and ask...",
+        "startTime": 38742,
+        "endTime": 42352,
+        "slowStartTime": 58263,
+        "slowEndTime": 63753
+    },
+    {
+        "text": "...because they might not follow that rule.",
+        "startTime": 42491,
+        "endTime": 44798,
+        "slowStartTime": 63886,
+        "slowEndTime": 67422
+    },
+    {
+        "text": "They call our location services and we put up the panel...",
+        "startTime": 45140,
+        "endTime": 48263,
+        "slowStartTime": 67860,
+        "slowEndTime": 72620
+    },
+    {
+        "text": "...saying, \"This app wants to use your location data, is that okay with you?\"",
+        "startTime": 48754,
+        "endTime": 53317,
+        "slowStartTime": 73281,
+        "slowEndTime": 80200
+    },
+    {
+        "text": "Every time they wanna use it.",
+        "startTime": 53746,
+        "endTime": 55765,
+        "slowStartTime": 80769,
+        "slowEndTime": 83873
+    },
+    {
+        "text": "And we do a lot of things like that...",
+        "startTime": 56855,
+        "endTime": 61802,
+        "slowStartTime": 85433,
+        "slowEndTime": 92928
+    },
+    {
+        "text": "...to ensure that people understand what these apps are doing.",
+        "startTime": 62563,
+        "endTime": 68208,
+        "slowStartTime": 93995,
+        "slowEndTime": 102537
+    },
+    {
+        "text": "That's one of the reasons we have the curated app store.",
+        "startTime": 68514,
+        "endTime": 71261,
+        "slowStartTime": 102921,
+        "slowEndTime": 107116
+    },
+    {
+        "text": "We have rejected a lot of apps that wanna take a lot of your personal data...",
+        "startTime": 71574,
+        "endTime": 76764,
+        "slowStartTime": 107511,
+        "slowEndTime": 115371
+    },
+    {
+        "text": "...and suck it up into the cloud, a lot.",
+        "startTime": 77134,
+        "endTime": 81077,
+        "slowStartTime": 115851,
+        "slowEndTime": 121841
+    },
+    {
+        "text": "A lot of people in the Valley think we're really old-fashioned about this.",
+        "startTime": 86477,
+        "endTime": 89820,
+        "slowStartTime": 129866,
+        "slowEndTime": 134955
+    },
+    {
+        "text": "And maybe we are, but we worry about stuff like this.",
+        "startTime": 90961,
+        "endTime": 94083,
+        "slowStartTime": 136592,
+        "slowEndTime": 141349
+    },
+    {
+        "text": "But aren't you also going to be moving more into cloud-based things?",
+        "startTime": 94160,
+        "endTime": 97897,
+        "slowStartTime": 141390,
+        "slowEndTime": 147070
+    },
+    {
+        "text": "Are we gonna be moving more into cloud-based things?",
+        "startTime": 98967,
+        "endTime": 100844,
+        "slowStartTime": 148601,
+        "slowEndTime": 151491
+    },
+    {
+        "text": "Sure.",
+        "startTime": 101039,
+        "endTime": 101442,
+        "slowStartTime": 151708,
+        "slowEndTime": 152388
+    },
+    {
+        "text": "Doesn't that inevitably...",
+        "startTime": 103077,
+        "endTime": 104490,
+        "slowStartTime": 154766,
+        "slowEndTime": 156960
+    },
+    {
+        "text": "No, privacy means people know what they're signing up for in plain English and repeatedly.",
+        "startTime": 104588,
+        "endTime": 113910,
+        "slowStartTime": 157032,
+        "slowEndTime": 171090
+    },
+    {
+        "text": "That's what it means.",
+        "startTime": 114901,
+        "endTime": 115853,
+        "slowStartTime": 172502,
+        "slowEndTime": 174004
+    },
+    {
+        "text": "I'm an optimist, I believe people are smart...",
+        "startTime": 116647,
+        "endTime": 118939,
+        "slowStartTime": 175120,
+        "slowEndTime": 178633
+    },
+    {
+        "text": "...and some people want to share more data than other people do.",
+        "startTime": 119329,
+        "endTime": 121902,
+        "slowStartTime": 179143,
+        "slowEndTime": 183078
+    },
+    {
+        "text": "Ask them.",
+        "startTime": 122163,
+        "endTime": 122801,
+        "slowStartTime": 183394,
+        "slowEndTime": 184427
+    },
+    {
+        "text": "Ask them every time.",
+        "startTime": 123643,
+        "endTime": 125155,
+        "slowStartTime": 185615,
+        "slowEndTime": 187958
+    },
+    {
+        "text": "Make them tell you to stop asking them if they get tired of your asking them.",
+        "startTime": 125817,
+        "endTime": 129790,
+        "slowStartTime": 188876,
+        "slowEndTime": 194910
+    },
+    {
+        "text": "Let them know precisely what you're gonna do with their data.",
+        "startTime": 130899,
+        "endTime": 134349,
+        "slowStartTime": 196499,
+        "slowEndTime": 201748
+    }
+]

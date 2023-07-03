@@ -1,0 +1,198 @@
+[
+    {
+        "text": "\"I don't know. The world is a big place.\"",
+        "startTime": 4200,
+        "endTime": 6400,
+        "slowStartTime": 6550,
+        "slowEndTime": 9800
+    },
+    {
+        "text": "\"It used to be a big place,\" said Phileas Fogg.",
+        "startTime": 7000,
+        "endTime": 9650,
+        "slowStartTime": 10700,
+        "slowEndTime": 14700
+    },
+    {
+        "text": "\"It's a lot smaller now,\" the bank director agreed.",
+        "startTime": 9900,
+        "endTime": 13300,
+        "slowStartTime": 15100,
+        "slowEndTime": 20200
+    },
+    {
+        "text": "\"It is smaller because now you can travel around it ten times more quickly than you could one hundred years ago.\"",
+        "startTime": 13800,
+        "endTime": 19550,
+        "slowStartTime": 20900,
+        "slowEndTime": 29550
+    },
+    {
+        "text": "\"You can do it in eighty days.\"",
+        "startTime": 20250,
+        "endTime": 21900,
+        "slowStartTime": 30550,
+        "slowEndTime": 33100
+    },
+    {
+        "text": "\"I read it in the newspaper,\" said one of the other players.",
+        "startTime": 22100,
+        "endTime": 25400,
+        "slowStartTime": 33400,
+        "slowEndTime": 38300
+    },
+    {
+        "text": "\"But there could be bad weather, shipwrecks, and many other problems that delay the trip.\"",
+        "startTime": 26100,
+        "endTime": 31000,
+        "slowStartTime": 39400,
+        "slowEndTime": 46700
+    },
+    {
+        "text": "\"It might be eighty days on the timetables...",
+        "startTime": 31500,
+        "endTime": 33800,
+        "slowStartTime": 47400,
+        "slowEndTime": 50900
+    },
+    {
+        "text": "...but I don't think it will work if you try it.\"",
+        "startTime": 34050,
+        "endTime": 36050,
+        "slowStartTime": 51300,
+        "slowEndTime": 54200
+    },
+    {
+        "text": "\"I'm sure it will,\" replied Phileas Fogg.",
+        "startTime": 36700,
+        "endTime": 39200,
+        "slowStartTime": 55250,
+        "slowEndTime": 59000
+    },
+    {
+        "text": "\"I'd like to see you prove it.\"",
+        "startTime": 39850,
+        "endTime": 41100,
+        "slowStartTime": 60000,
+        "slowEndTime": 61800
+    },
+    {
+        "text": "\"I bet 4,000 pounds that you can't do it!\"",
+        "startTime": 41450,
+        "endTime": 44400,
+        "slowStartTime": 62400,
+        "slowEndTime": 66800
+    },
+    {
+        "text": "Each of the five players said that they would bet the same amount.",
+        "startTime": 45000,
+        "endTime": 48000,
+        "slowStartTime": 67650,
+        "slowEndTime": 72200
+    },
+    {
+        "text": "\"I'll do it,\" said Mr. Fogg calmly.",
+        "startTime": 48700,
+        "endTime": 51050,
+        "slowStartTime": 73250,
+        "slowEndTime": 76850
+    },
+    {
+        "text": "\"I have 20,000 pounds with Baring Brothers.\"",
+        "startTime": 51450,
+        "endTime": 54000,
+        "slowStartTime": 77400,
+        "slowEndTime": 81200
+    },
+    {
+        "text": "\"I am ready to risk it.\"",
+        "startTime": 54250,
+        "endTime": 55400,
+        "slowStartTime": 81600,
+        "slowEndTime": 83200
+    },
+    {
+        "text": "They could hardly believe him.",
+        "startTime": 55800,
+        "endTime": 57150,
+        "slowStartTime": 83900,
+        "slowEndTime": 85950
+    },
+    {
+        "text": "\"You will lose all that money if there is an unexpected delay.\"",
+        "startTime": 57550,
+        "endTime": 60650,
+        "slowStartTime": 86550,
+        "slowEndTime": 91200
+    },
+    {
+        "text": "\"I do not believe in the unexpected,\" replied Mr. Fogg.",
+        "startTime": 61350,
+        "endTime": 64700,
+        "slowStartTime": 92200,
+        "slowEndTime": 97250
+    },
+    {
+        "text": "\"When will you go?\"",
+        "startTime": 65300,
+        "endTime": 66050,
+        "slowStartTime": 98100,
+        "slowEndTime": 99300
+    },
+    {
+        "text": "\"Now. The train to Dover leaves at 8:45.\"",
+        "startTime": 66900,
+        "endTime": 70150,
+        "slowStartTime": 100500,
+        "slowEndTime": 105200
+    },
+    {
+        "text": "\"I will be on it.\"",
+        "startTime": 70250,
+        "endTime": 71100,
+        "slowStartTime": 105550,
+        "slowEndTime": 106800
+    },
+    {
+        "text": "\"Tonight?\"",
+        "startTime": 71800,
+        "endTime": 72250,
+        "slowStartTime": 107900,
+        "slowEndTime": 108550
+    },
+    {
+        "text": "\"Yes, tonight.\"",
+        "startTime": 72750,
+        "endTime": 73700,
+        "slowStartTime": 109300,
+        "slowEndTime": 110750
+    },
+    {
+        "text": "\"It is Wednesday, the second of October,...",
+        "startTime": 74450,
+        "endTime": 76700,
+        "slowStartTime": 111900,
+        "slowEndTime": 115200
+    },
+    {
+        "text": "...and I will be back in this room at 8:45 on Saturday, the 21st of December.\"",
+        "startTime": 77050,
+        "endTime": 82350,
+        "slowStartTime": 115800,
+        "slowEndTime": 123700
+    },
+    {
+        "text": "\"If I am not here, you may cash this check for 20,000 pounds and share the money among yourselves.\"",
+        "startTime": 82800,
+        "endTime": 89000,
+        "slowStartTime": 124350,
+        "slowEndTime": 133750
+    },
+    {
+        "text": "The six men wrote it all down on a piece of paper and signed it.",
+        "startTime": 89750,
+        "endTime": 93150,
+        "slowStartTime": 134800,
+        "slowEndTime": 139900
+    }
+]

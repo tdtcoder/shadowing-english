@@ -1,0 +1,149 @@
+[
+    {
+        "text": "So, when can we start using 5G?",
+        "startTime": 95,
+        "endTime": 2748,
+        "slowStartTime": 292,
+        "slowEndTime": 4347
+    },
+    {
+        "text": "Well not yet, and according to some analysts, not until 2020.",
+        "startTime": 2964,
+        "endTime": 7427,
+        "slowStartTime": 4596,
+        "slowEndTime": 11365
+    },
+    {
+        "text": "5G was created years ago and has been talked up ever since,...",
+        "startTime": 7591,
+        "endTime": 11505,
+        "slowStartTime": 11537,
+        "slowEndTime": 17482
+    },
+    {
+        "text": "...yet it's estimated that even by 2025,...",
+        "startTime": 11671,
+        "endTime": 14327,
+        "slowStartTime": 17656,
+        "slowEndTime": 21716
+    },
+    {
+        "text": "...the network will still lag behind both 4G and 3G...",
+        "startTime": 14476,
+        "endTime": 17965,
+        "slowStartTime": 21864,
+        "slowEndTime": 27173
+    },
+    {
+        "text": "...in terms of global mobile connections.",
+        "startTime": 18059,
+        "endTime": 20135,
+        "slowStartTime": 27238,
+        "slowEndTime": 30427
+    },
+    {
+        "text": "Its mainstream existence faces multiple hurdles.",
+        "startTime": 20261,
+        "endTime": 23181,
+        "slowStartTime": 30542,
+        "slowEndTime": 34996
+    },
+    {
+        "text": "The most significant of these of course is cost.",
+        "startTime": 23343,
+        "endTime": 26220,
+        "slowStartTime": 35164,
+        "slowEndTime": 39555
+    },
+    {
+        "text": "According to some experts,...",
+        "startTime": 26311,
+        "endTime": 27605,
+        "slowStartTime": 39616,
+        "slowEndTime": 41632
+    },
+    {
+        "text": "...5G could cause network operators to tear up their current business models...",
+        "startTime": 27675,
+        "endTime": 31934,
+        "slowStartTime": 41663,
+        "slowEndTime": 48126
+    },
+    {
+        "text": "...for it to make business sense.",
+        "startTime": 32121,
+        "endTime": 33949,
+        "slowStartTime": 48331,
+        "slowEndTime": 51148
+    },
+    {
+        "text": "In the UK, for example,...",
+        "startTime": 34173,
+        "endTime": 35539,
+        "slowStartTime": 51410,
+        "slowEndTime": 53534
+    },
+    {
+        "text": "...3G and 4G networks were relatively cheap to set up...",
+        "startTime": 35655,
+        "endTime": 39134,
+        "slowStartTime": 53632,
+        "slowEndTime": 58926
+    },
+    {
+        "text": "...because they were able to roll out on existing frequencies,...",
+        "startTime": 39363,
+        "endTime": 42477,
+        "slowStartTime": 59195,
+        "slowEndTime": 63941
+    },
+    {
+        "text": "...on the country's radio spectrum.",
+        "startTime": 42641,
+        "endTime": 44387,
+        "slowStartTime": 64111,
+        "slowEndTime": 66805
+    },
+    {
+        "text": "For 5G to work properly however, it needs a frequency with much bigger bandwidth,...",
+        "startTime": 44726,
+        "endTime": 49538,
+        "slowStartTime": 67239,
+        "slowEndTime": 74532
+    },
+    {
+        "text": "...which would require brand new infrastructure.",
+        "startTime": 49787,
+        "endTime": 52071,
+        "slowStartTime": 74830,
+        "slowEndTime": 78332
+    },
+    {
+        "text": "Some analysts believe that the extensive building and running costs...",
+        "startTime": 52316,
+        "endTime": 55469,
+        "slowStartTime": 78624,
+        "slowEndTime": 83428
+    },
+    {
+        "text": "...will force operators to share the use and management of the mobile network.",
+        "startTime": 55565,
+        "endTime": 59567,
+        "slowStartTime": 83498,
+        "slowEndTime": 89576
+    },
+    {
+        "text": "This has been less of an obstacle for countries like China...",
+        "startTime": 59722,
+        "endTime": 62547,
+        "slowStartTime": 89733,
+        "slowEndTime": 94046
+    },
+    {
+        "text": "...who are taking a more coherent approach.",
+        "startTime": 62743,
+        "endTime": 64984,
+        "slowStartTime": 94264,
+        "slowEndTime": 97701
+    }
+]

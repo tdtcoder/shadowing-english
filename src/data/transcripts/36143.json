@@ -1,0 +1,317 @@
+[
+    {
+        "text": "This is my house.",
+        "startTime": 27800,
+        "endTime": 29061,
+        "slowStartTime": 41850,
+        "slowEndTime": 43816
+    },
+    {
+        "text": "It's not big, and it's not small.",
+        "startTime": 29411,
+        "endTime": 32001,
+        "slowStartTime": 44266,
+        "slowEndTime": 48226
+    },
+    {
+        "text": "But I like it.",
+        "startTime": 32840,
+        "endTime": 33613,
+        "slowStartTime": 49410,
+        "slowEndTime": 50644
+    },
+    {
+        "text": "Three people live here.",
+        "startTime": 34775,
+        "endTime": 36197,
+        "slowStartTime": 52313,
+        "slowEndTime": 54520
+    },
+    {
+        "text": "This is Matt.",
+        "startTime": 36777,
+        "endTime": 37559,
+        "slowStartTime": 55315,
+        "slowEndTime": 56564
+    },
+    {
+        "text": "Hi.",
+        "startTime": 37990,
+        "endTime": 38299,
+        "slowStartTime": 57135,
+        "slowEndTime": 57674
+    },
+    {
+        "text": "I'm Matt.",
+        "startTime": 38684,
+        "endTime": 39264,
+        "slowStartTime": 58176,
+        "slowEndTime": 59121
+    },
+    {
+        "text": "This is David.",
+        "startTime": 40693,
+        "endTime": 41585,
+        "slowStartTime": 61189,
+        "slowEndTime": 62602
+    },
+    {
+        "text": "Hello.",
+        "startTime": 42399,
+        "endTime": 42658,
+        "slowStartTime": 63749,
+        "slowEndTime": 64212
+    },
+    {
+        "text": "My name's David.",
+        "startTime": 42847,
+        "endTime": 43525,
+        "slowStartTime": 64421,
+        "slowEndTime": 65513
+    },
+    {
+        "text": "And that's me.",
+        "startTime": 45427,
+        "endTime": 46185,
+        "slowStartTime": 68290,
+        "slowEndTime": 69502
+    },
+    {
+        "text": "Hi, Helen.",
+        "startTime": 46444,
+        "endTime": 47214,
+        "slowStartTime": 69816,
+        "slowEndTime": 71046
+    },
+    {
+        "text": "Pleased to meet you.",
+        "startTime": 47431,
+        "endTime": 48137,
+        "slowStartTime": 71297,
+        "slowEndTime": 72431
+    },
+    {
+        "text": "So, there are three people,...",
+        "startTime": 48245,
+        "endTime": 49418,
+        "slowStartTime": 72518,
+        "slowEndTime": 74352
+    },
+    {
+        "text": "...but there are four bedrooms.",
+        "startTime": 49605,
+        "endTime": 51571,
+        "slowStartTime": 74558,
+        "slowEndTime": 77581
+    },
+    {
+        "text": "So, today is interview day.",
+        "startTime": 51743,
+        "endTime": 53367,
+        "slowStartTime": 77765,
+        "slowEndTime": 80276
+    },
+    {
+        "text": "What's your job?",
+        "startTime": 57458,
+        "endTime": 58257,
+        "slowStartTime": 86337,
+        "slowEndTime": 87610
+    },
+    {
+        "text": "I'm a jazz musician.",
+        "startTime": 58691,
+        "endTime": 59952,
+        "slowStartTime": 88187,
+        "slowEndTime": 90153
+    },
+    {
+        "text": "Really?",
+        "startTime": 60424,
+        "endTime": 60965,
+        "slowStartTime": 90786,
+        "slowEndTime": 91672
+    },
+    {
+        "text": "What do you play?",
+        "startTime": 61275,
+        "endTime": 62117,
+        "slowStartTime": 92062,
+        "slowEndTime": 93400
+    },
+    {
+        "text": "The drums.",
+        "startTime": 62600,
+        "endTime": 63422,
+        "slowStartTime": 94050,
+        "slowEndTime": 95358
+    },
+    {
+        "text": "But he's very quiet and friendly.",
+        "startTime": 77309,
+        "endTime": 81284,
+        "slowStartTime": 116113,
+        "slowEndTime": 122151
+    },
+    {
+        "text": "No dogs?",
+        "startTime": 85326,
+        "endTime": 86145,
+        "slowStartTime": 128139,
+        "slowEndTime": 129443
+    },
+    {
+        "text": "Sorry.",
+        "startTime": 89747,
+        "endTime": 90719,
+        "slowStartTime": 134770,
+        "slowEndTime": 136303
+    },
+    {
+        "text": "150 pounds a month?",
+        "startTime": 99295,
+        "endTime": 101065,
+        "slowStartTime": 149092,
+        "slowEndTime": 151822
+    },
+    {
+        "text": "Great!",
+        "startTime": 102299,
+        "endTime": 102833,
+        "slowStartTime": 153599,
+        "slowEndTime": 154475
+    },
+    {
+        "text": "Uh, no.",
+        "startTime": 104415,
+        "endTime": 105018,
+        "slowStartTime": 156773,
+        "slowEndTime": 157752
+    },
+    {
+        "text": "150 pounds a week.",
+        "startTime": 105875,
+        "endTime": 108360,
+        "slowStartTime": 158963,
+        "slowEndTime": 162765
+    },
+    {
+        "text": "Sorry.",
+        "startTime": 111387,
+        "endTime": 112279,
+        "slowStartTime": 167231,
+        "slowEndTime": 168644
+    },
+    {
+        "text": "Where are you from?",
+        "startTime": 115102,
+        "endTime": 115998,
+        "slowStartTime": 172803,
+        "slowEndTime": 174222
+    },
+    {
+        "text": "Edinburgh.",
+        "startTime": 116437,
+        "endTime": 117112,
+        "slowStartTime": 174805,
+        "slowEndTime": 175893
+    },
+    {
+        "text": "But my job is in Oxford.",
+        "startTime": 117411,
+        "endTime": 118497,
+        "slowStartTime": 176266,
+        "slowEndTime": 177970
+    },
+    {
+        "text": "Good.",
+        "startTime": 118750,
+        "endTime": 119113,
+        "slowStartTime": 178275,
+        "slowEndTime": 178894
+    },
+    {
+        "text": "This is a nice house.",
+        "startTime": 120319,
+        "endTime": 121467,
+        "slowStartTime": 180628,
+        "slowEndTime": 182426
+    },
+    {
+        "text": "Thanks!",
+        "startTime": 121957,
+        "endTime": 122609,
+        "slowStartTime": 183086,
+        "slowEndTime": 184139
+    },
+    {
+        "text": "We're happy here.",
+        "startTime": 122953,
+        "endTime": 123779,
+        "slowStartTime": 184580,
+        "slowEndTime": 185893
+    },
+    {
+        "text": "OK.",
+        "startTime": 125460,
+        "endTime": 126007,
+        "slowStartTime": 188340,
+        "slowEndTime": 189235
+    },
+    {
+        "text": "Ok, Anne...",
+        "startTime": 128969,
+        "endTime": 129505,
+        "slowStartTime": 193603,
+        "slowEndTime": 194482
+    },
+    {
+        "text": "Cigarette?",
+        "startTime": 129580,
+        "endTime": 130290,
+        "slowStartTime": 194520,
+        "slowEndTime": 195660
+    },
+    {
+        "text": "I don't smoke.",
+        "startTime": 133567,
+        "endTime": 134650,
+        "slowStartTime": 200501,
+        "slowEndTime": 202200
+    },
+    {
+        "text": "We don't smoke, do we?",
+        "startTime": 136919,
+        "endTime": 139540,
+        "slowStartTime": 205529,
+        "slowEndTime": 209535
+    },
+    {
+        "text": "Uh, no.",
+        "startTime": 140573,
+        "endTime": 141921,
+        "slowStartTime": 211010,
+        "slowEndTime": 213106
+    },
+    {
+        "text": "We don't smoke!",
+        "startTime": 142784,
+        "endTime": 143640,
+        "slowStartTime": 214326,
+        "slowEndTime": 215685
+    },
+    {
+        "text": "Oh.",
+        "startTime": 144639,
+        "endTime": 145235,
+        "slowStartTime": 217108,
+        "slowEndTime": 218077
+    },
+    {
+        "text": "Sorry.",
+        "startTime": 146888,
+        "endTime": 147801,
+        "slowStartTime": 220482,
+        "slowEndTime": 221926
+    }
+]

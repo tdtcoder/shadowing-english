@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Welcome to the world of Squid Game.",
+        "startTime": 2420,
+        "endTime": 5481,
+        "slowStartTime": 3780,
+        "slowEndTime": 8446
+    },
+    {
+        "text": "We will now play six games with other participants.",
+        "startTime": 5951,
+        "endTime": 9253,
+        "slowStartTime": 9077,
+        "slowEndTime": 14105
+    },
+    {
+        "text": "Welcome to the Fortnite Squid Game.",
+        "startTime": 9417,
+        "endTime": 10817,
+        "slowStartTime": 14275,
+        "slowEndTime": 16450
+    },
+    {
+        "text": "You are all here because of declining Fortnite prize pools and views.",
+        "startTime": 11083,
+        "endTime": 14331,
+        "slowStartTime": 16774,
+        "slowEndTime": 21722
+    },
+    {
+        "text": "You chose to be here of your own free will unless eliminated.",
+        "startTime": 14455,
+        "endTime": 17523,
+        "slowStartTime": 21833,
+        "slowEndTime": 26509
+    },
+    {
+        "text": "We'll be playing six games.",
+        "startTime": 17795,
+        "endTime": 19471,
+        "slowStartTime": 26842,
+        "slowEndTime": 29432
+    },
+    {
+        "text": "Instructions on how each game works will be given at the start of each round.",
+        "startTime": 19691,
+        "endTime": 23212,
+        "slowStartTime": 29686,
+        "slowEndTime": 35043
+    },
+    {
+        "text": "Every time a player is eliminated,...",
+        "startTime": 23324,
+        "endTime": 25010,
+        "slowStartTime": 35136,
+        "slowEndTime": 37740
+    },
+    {
+        "text": "...five thousand V-Bucks will be added to the prize pool.",
+        "startTime": 25486,
+        "endTime": 28051,
+        "slowStartTime": 38379,
+        "slowEndTime": 42302
+    },
+    {
+        "text": "Here is the first game.",
+        "startTime": 28203,
+        "endTime": 29274,
+        "slowStartTime": 42455,
+        "slowEndTime": 44136
+    },
+    {
+        "text": "You will be playing \"Red light, green light.\"",
+        "startTime": 29480,
+        "endTime": 31871,
+        "slowStartTime": 44370,
+        "slowEndTime": 48031
+    },
+    {
+        "text": "Now then, you are allowed to move forward when it shouts \"Green light!\"",
+        "startTime": 32014,
+        "endTime": 35245,
+        "slowStartTime": 48171,
+        "slowEndTime": 53092
+    },
+    {
+        "text": "Stop when it shouts \"Red light!\"",
+        "startTime": 35425,
+        "endTime": 37211,
+        "slowStartTime": 53287,
+        "slowEndTime": 56041
+    },
+    {
+        "text": "If your movement is detected afterwards, you will be eliminated.",
+        "startTime": 37371,
+        "endTime": 40256,
+        "slowStartTime": 56206,
+        "slowEndTime": 60609
+    },
+    {
+        "text": "The second game is sugar honeycombs.",
+        "startTime": 40440,
+        "endTime": 43233,
+        "slowStartTime": 60810,
+        "slowEndTime": 65075
+    },
+    {
+        "text": "The shape you have chosen is the shape you must remove from the honeycomb.",
+        "startTime": 43425,
+        "endTime": 46465,
+        "slowStartTime": 65287,
+        "slowEndTime": 69923
+    },
+    {
+        "text": "Use the pistol given to shoot the target displayed.",
+        "startTime": 46595,
+        "endTime": 49385,
+        "slowStartTime": 70042,
+        "slowEndTime": 74302
+    },
+    {
+        "text": "If you miss any targets, you will crack the honeycomb and be eliminated.",
+        "startTime": 49581,
+        "endTime": 53537,
+        "slowStartTime": 74522,
+        "slowEndTime": 80530
+    }
+]

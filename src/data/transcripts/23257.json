@@ -1,0 +1,79 @@
+[
+    {
+        "text": "﻿Ebola is a highly infectious virus that attacks the internal organs.",
+        "startTime": 2599,
+        "endTime": 6338,
+        "slowStartTime": 4048,
+        "slowEndTime": 9732
+    },
+    {
+        "text": "Symptoms include fever, weakness, diarrhea, vomiting and bleeding.",
+        "startTime": 6829,
+        "endTime": 10825,
+        "slowStartTime": 10394,
+        "slowEndTime": 16462
+    },
+    {
+        "text": "The disease is spread through contact with bodily fluids of infected animals and humans.",
+        "startTime": 11474,
+        "endTime": 15785,
+        "slowStartTime": 17361,
+        "slowEndTime": 23902
+    },
+    {
+        "text": "Fruit bats are considered the natural host of the virus.",
+        "startTime": 16352,
+        "endTime": 18925,
+        "slowStartTime": 24678,
+        "slowEndTime": 28612
+    },
+    {
+        "text": "Ebola first appeared in the DRC and Sudan in 1976.",
+        "startTime": 19367,
+        "endTime": 22892,
+        "slowStartTime": 29201,
+        "slowEndTime": 34563
+    },
+    {
+        "text": "Outbreaks occur mainly in rural areas in Central and West Africa in the tropical rainforests.",
+        "startTime": 23361,
+        "endTime": 28343,
+        "slowStartTime": 35191,
+        "slowEndTime": 42740
+    },
+    {
+        "text": "The current outbreak is the deadliest and the most widespread.",
+        "startTime": 28779,
+        "endTime": 31348,
+        "slowStartTime": 43319,
+        "slowEndTime": 47247
+    },
+    {
+        "text": "It started in Guinea in March this year and has spread to Sierra Leone and Liberia.",
+        "startTime": 32012,
+        "endTime": 36173,
+        "slowStartTime": 48168,
+        "slowEndTime": 54485
+    },
+    {
+        "text": "More than 930 people have been killed by the deadly virus...",
+        "startTime": 36403,
+        "endTime": 40037,
+        "slowStartTime": 54754,
+        "slowEndTime": 60280
+    },
+    {
+        "text": "...and that number continues to rise.",
+        "startTime": 40223,
+        "endTime": 42009,
+        "slowStartTime": 60485,
+        "slowEndTime": 63239
+    },
+    {
+        "text": "The fatality rate is as high as 90 percent and there is currently no known cure.",
+        "startTime": 42404,
+        "endTime": 46756,
+        "slowStartTime": 63756,
+        "slowEndTime": 70359
+    }
+]

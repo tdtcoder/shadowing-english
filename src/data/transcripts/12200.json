@@ -1,0 +1,107 @@
+[
+    {
+        "text": "I need to get to a post office.",
+        "startTime": 216,
+        "endTime": 1927,
+        "slowStartTime": 474,
+        "slowEndTime": 3115
+    },
+    {
+        "text": "Do you know where the nearest one is?",
+        "startTime": 2135,
+        "endTime": 3707,
+        "slowStartTime": 3352,
+        "slowEndTime": 5785
+    },
+    {
+        "text": "Yes, there's one not too far from here.",
+        "startTime": 4036,
+        "endTime": 6472,
+        "slowStartTime": 6204,
+        "slowEndTime": 9933
+    },
+    {
+        "text": "Is it walking distance?",
+        "startTime": 6763,
+        "endTime": 8008,
+        "slowStartTime": 10294,
+        "slowEndTime": 12237
+    },
+    {
+        "text": "Well, I suppose so, but it'd be a bit of a long walk.",
+        "startTime": 8258,
+        "endTime": 11853,
+        "slowStartTime": 12537,
+        "slowEndTime": 18005
+    },
+    {
+        "text": "How long?",
+        "startTime": 12065,
+        "endTime": 12621,
+        "slowStartTime": 18248,
+        "slowEndTime": 19156
+    },
+    {
+        "text": "Maybe twenty minutes or so.",
+        "startTime": 12896,
+        "endTime": 14553,
+        "slowStartTime": 19494,
+        "slowEndTime": 22054
+    },
+    {
+        "text": "I'd rather get there a bit faster than that.",
+        "startTime": 14773,
+        "endTime": 16942,
+        "slowStartTime": 22309,
+        "slowEndTime": 25638
+    },
+    {
+        "text": "Is there another way?",
+        "startTime": 17171,
+        "endTime": 18187,
+        "slowStartTime": 25907,
+        "slowEndTime": 27505
+    },
+    {
+        "text": "Sure, just hop on the bus at that bus stop across the street.",
+        "startTime": 18411,
+        "endTime": 22340,
+        "slowStartTime": 27766,
+        "slowEndTime": 33735
+    },
+    {
+        "text": "Okay, which bus do I get?",
+        "startTime": 22463,
+        "endTime": 24290,
+        "slowStartTime": 33844,
+        "slowEndTime": 36660
+    },
+    {
+        "text": "I think both number 15 and number 17 go there.",
+        "startTime": 24622,
+        "endTime": 28133,
+        "slowStartTime": 37083,
+        "slowEndTime": 42425
+    },
+    {
+        "text": "They both come by every five minutes.",
+        "startTime": 28301,
+        "endTime": 30415,
+        "slowStartTime": 42601,
+        "slowEndTime": 45848
+    },
+    {
+        "text": "Sounds easy! Where do I get off?",
+        "startTime": 30548,
+        "endTime": 32461,
+        "slowStartTime": 45972,
+        "slowEndTime": 48916
+    },
+    {
+        "text": "Just tell the driver that you want to get off at Commercial Street.",
+        "startTime": 32751,
+        "endTime": 36371,
+        "slowStartTime": 49277,
+        "slowEndTime": 54781
+    }
+]

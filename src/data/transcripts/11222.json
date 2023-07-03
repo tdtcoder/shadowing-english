@@ -1,0 +1,219 @@
+[
+    {
+        "text": "Hey! This is your travel host, Naomi.",
+        "startTime": 11,
+        "endTime": 2350,
+        "slowStartTime": 250,
+        "slowEndTime": 3750
+    },
+    {
+        "text": "I'd like to give you a tour of the top 10 attractions of Paris.",
+        "startTime": 2550,
+        "endTime": 5700,
+        "slowStartTime": 4000,
+        "slowEndTime": 8800
+    },
+    {
+        "text": "Number 10: Hotel de Ville.",
+        "startTime": 5850,
+        "endTime": 7900,
+        "slowStartTime": 9000,
+        "slowEndTime": 12100
+    },
+    {
+        "text": "This grand, Neo-Renaissance style landmark built centuries ago is home of the city administration.",
+        "startTime": 7950,
+        "endTime": 14150,
+        "slowStartTime": 12150,
+        "slowEndTime": 21500
+    },
+    {
+        "text": "Number 9: Place de la Concorde.",
+        "startTime": 14350,
+        "endTime": 17000,
+        "slowStartTime": 21750,
+        "slowEndTime": 25700
+    },
+    {
+        "text": "The largest square in Paris.",
+        "startTime": 17250,
+        "endTime": 18950,
+        "slowStartTime": 26050,
+        "slowEndTime": 28700
+    },
+    {
+        "text": "It has a 3000-year-old Egyptian obelisk and is particularly beautiful at night.",
+        "startTime": 19000,
+        "endTime": 24100,
+        "slowStartTime": 28700,
+        "slowEndTime": 36400
+    },
+    {
+        "text": "Number 8: The Pompidou Center.",
+        "startTime": 24200,
+        "endTime": 26400,
+        "slowStartTime": 36500,
+        "slowEndTime": 39900
+    },
+    {
+        "text": "A colorfully creative, modern building housing a vast collection of modern art.",
+        "startTime": 26500,
+        "endTime": 30800,
+        "slowStartTime": 39950,
+        "slowEndTime": 46500
+    },
+    {
+        "text": "Number 7: Arc de Triomphe.",
+        "startTime": 30900,
+        "endTime": 33250,
+        "slowStartTime": 46550,
+        "slowEndTime": 50150
+    },
+    {
+        "text": "Built in the early 1800s by Napoleon, the Arc is a symbol of national pride.",
+        "startTime": 33550,
+        "endTime": 38400,
+        "slowStartTime": 50550,
+        "slowEndTime": 57800
+    },
+    {
+        "text": "At the top, you'll find fantastic views of Paris.",
+        "startTime": 38500,
+        "endTime": 41400,
+        "slowStartTime": 57950,
+        "slowEndTime": 62400
+    },
+    {
+        "text": "Number 6 is the Seine boat cruise.",
+        "startTime": 41500,
+        "endTime": 43900,
+        "slowStartTime": 62450,
+        "slowEndTime": 66100
+    },
+    {
+        "text": "It's affordable, convenient, and in a short period of time,...",
+        "startTime": 44000,
+        "endTime": 46950,
+        "slowStartTime": 66150,
+        "slowEndTime": 70700
+    },
+    {
+        "text": "...you can see many major landmarks of the city.",
+        "startTime": 47050,
+        "endTime": 49500,
+        "slowStartTime": 70750,
+        "slowEndTime": 74500
+    },
+    {
+        "text": "Number 5: Versailles Palace.",
+        "startTime": 49550,
+        "endTime": 51850,
+        "slowStartTime": 74550,
+        "slowEndTime": 78000
+    },
+    {
+        "text": "A royal chateau just outside of Paris has grand architectures,...",
+        "startTime": 51950,
+        "endTime": 56250,
+        "slowStartTime": 78150,
+        "slowEndTime": 84600
+    },
+    {
+        "text": "...700 rooms, and beautiful gardens.",
+        "startTime": 56300,
+        "endTime": 59000,
+        "slowStartTime": 84600,
+        "slowEndTime": 88700
+    },
+    {
+        "text": "Number 4: Notre Dame.",
+        "startTime": 59050,
+        "endTime": 60850,
+        "slowStartTime": 88800,
+        "slowEndTime": 91500
+    },
+    {
+        "text": "One of the most recognized symbols in the world and over 750 years old,...",
+        "startTime": 61000,
+        "endTime": 65750,
+        "slowStartTime": 91650,
+        "slowEndTime": 98900
+    },
+    {
+        "text": "...Notre Dame has incredibly detailed Gothic architecture.",
+        "startTime": 65850,
+        "endTime": 69050,
+        "slowStartTime": 98900,
+        "slowEndTime": 103800
+    },
+    {
+        "text": "Number 3: Sacre-Coeur.",
+        "startTime": 69250,
+        "endTime": 71100,
+        "slowStartTime": 104000,
+        "slowEndTime": 106900
+    },
+    {
+        "text": "This Byzantine style, stunning white church,...",
+        "startTime": 71250,
+        "endTime": 74300,
+        "slowStartTime": 107050,
+        "slowEndTime": 111750
+    },
+    {
+        "text": "...despised by intellectuals when it was built, is a must-see for Paris visitors.",
+        "startTime": 74400,
+        "endTime": 78900,
+        "slowStartTime": 111750,
+        "slowEndTime": 118600
+    },
+    {
+        "text": "Number 2: The Louvre Museum.",
+        "startTime": 79000,
+        "endTime": 81350,
+        "slowStartTime": 118700,
+        "slowEndTime": 122300
+    },
+    {
+        "text": "Perhaps the world's most famous museum,...",
+        "startTime": 81500,
+        "endTime": 84150,
+        "slowStartTime": 122450,
+        "slowEndTime": 126450
+    },
+    {
+        "text": "...it hosts thousands of pieces of great art including Leonardo Da Vinci's Mona Lisa.",
+        "startTime": 84200,
+        "endTime": 89300,
+        "slowStartTime": 126550,
+        "slowEndTime": 134200
+    },
+    {
+        "text": "And number 1 is the Eiffel Tower.",
+        "startTime": 89650,
+        "endTime": 92000,
+        "slowStartTime": 134600,
+        "slowEndTime": 138250
+    },
+    {
+        "text": "Amongst the most recognizable and visited monuments in the world,...",
+        "startTime": 92150,
+        "endTime": 95900,
+        "slowStartTime": 138450,
+        "slowEndTime": 144050
+    },
+    {
+        "text": "...everyone must experience the Eiffel Tower in their lifetime.",
+        "startTime": 96000,
+        "endTime": 99350,
+        "slowStartTime": 144200,
+        "slowEndTime": 149200
+    },
+    {
+        "text": "Keep watching our travel series. Ciao!",
+        "startTime": 101050,
+        "endTime": 104000,
+        "slowStartTime": 151750,
+        "slowEndTime": 156300
+    }
+]

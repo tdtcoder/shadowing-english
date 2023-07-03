@@ -1,0 +1,79 @@
+[
+    {
+        "text": "It's become the main attraction in this sleepy town southwest of Tokyo,...",
+        "startTime": 13,
+        "endTime": 4153,
+        "slowStartTime": 170,
+        "slowEndTime": 6455
+    },
+    {
+        "text": "...a high-speed rail so fast, blink and you'll miss it.",
+        "startTime": 4293,
+        "endTime": 8484,
+        "slowStartTime": 6589,
+        "slowEndTime": 12951
+    },
+    {
+        "text": "Onboard, the Superconducting or SCMaglev can top 370 miles an hour,...",
+        "startTime": 8864,
+        "endTime": 14033,
+        "slowStartTime": 13446,
+        "slowEndTime": 21274
+    },
+    {
+        "text": "...making it the fastest train in the world.",
+        "startTime": 14221,
+        "endTime": 16855,
+        "slowStartTime": 21481,
+        "slowEndTime": 25507
+    },
+    {
+        "text": "How is this able to reach speeds of up to 375 miles an hour?",
+        "startTime": 17167,
+        "endTime": 21619,
+        "slowStartTime": 25900,
+        "slowEndTime": 32654
+    },
+    {
+        "text": "How we do that is, we levitate the train ten centimeters above ground using magnetic force.",
+        "startTime": 21837,
+        "endTime": 28767,
+        "slowStartTime": 32906,
+        "slowEndTime": 43375
+    },
+    {
+        "text": "These powerful magnets and ground coils interact to accelerate speeds,...",
+        "startTime": 29050,
+        "endTime": 33225,
+        "slowStartTime": 43725,
+        "slowEndTime": 50062
+    },
+    {
+        "text": "...literally lifting the train off the tracks.",
+        "startTime": 33565,
+        "endTime": 36375,
+        "slowStartTime": 50498,
+        "slowEndTime": 54787
+    },
+    {
+        "text": "It almost feels like a plane taking off,...",
+        "startTime": 36841,
+        "endTime": 38822,
+        "slowStartTime": 55411,
+        "slowEndTime": 58458
+    },
+    {
+        "text": "...and the Central Japan Railway Company or JRC says it's nearly as fast,...",
+        "startTime": 39068,
+        "endTime": 43621,
+        "slowStartTime": 58752,
+        "slowEndTime": 65657
+    },
+    {
+        "text": "...the train expected to make the 215-mile journey from Tokyo to Nagoya in 40 minutes.",
+        "startTime": 43772,
+        "endTime": 49830,
+        "slowStartTime": 65808,
+        "slowEndTime": 74970
+    }
+]

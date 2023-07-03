@@ -1,0 +1,86 @@
+[
+    {
+        "text": "This is the Sales Department.",
+        "startTime": 1143,
+        "endTime": 2733,
+        "slowStartTime": 1865,
+        "slowEndTime": 4325
+    },
+    {
+        "text": "Its phone number is 647-52187.",
+        "startTime": 3113,
+        "endTime": 7095,
+        "slowStartTime": 4820,
+        "slowEndTime": 10867
+    },
+    {
+        "text": "This is the Marketing Department.",
+        "startTime": 10081,
+        "endTime": 11712,
+        "slowStartTime": 15271,
+        "slowEndTime": 17793
+    },
+    {
+        "text": "Its phone number is 647-52174.",
+        "startTime": 12014,
+        "endTime": 16147,
+        "slowStartTime": 18171,
+        "slowEndTime": 24445
+    },
+    {
+        "text": "This is the Information Technology Department.",
+        "startTime": 18073,
+        "endTime": 21009,
+        "slowStartTime": 27259,
+        "slowEndTime": 31739
+    },
+    {
+        "text": "Its phone number is 647-52179.",
+        "startTime": 21641,
+        "endTime": 25665,
+        "slowStartTime": 32612,
+        "slowEndTime": 38722
+    },
+    {
+        "text": "This is the Human Resource Department.",
+        "startTime": 28486,
+        "endTime": 30705,
+        "slowStartTime": 42879,
+        "slowEndTime": 46283
+    },
+    {
+        "text": "Its phone number is 647-52177.",
+        "startTime": 31113,
+        "endTime": 35459,
+        "slowStartTime": 46820,
+        "slowEndTime": 53414
+    },
+    {
+        "text": "This is the Production Department.",
+        "startTime": 37977,
+        "endTime": 39788,
+        "slowStartTime": 57116,
+        "slowEndTime": 59907
+    },
+    {
+        "text": "Its phone number is 647-52162.",
+        "startTime": 39970,
+        "endTime": 44015,
+        "slowStartTime": 60105,
+        "slowEndTime": 66248
+    },
+    {
+        "text": "This is the Research and Development Department.",
+        "startTime": 46041,
+        "endTime": 48858,
+        "slowStartTime": 69212,
+        "slowEndTime": 73512
+    },
+    {
+        "text": "Its phone number is 647-52196.",
+        "startTime": 49209,
+        "endTime": 53213,
+        "slowStartTime": 73964,
+        "slowEndTime": 80044
+    }
+]

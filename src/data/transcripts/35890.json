@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Set the follow up appointment on the first meeting.",
+        "startTime": 79,
+        "endTime": 4141,
+        "slowStartTime": 269,
+        "slowEndTime": 6436
+    },
+    {
+        "text": "Okay. So, when you've shared your opportunity,...",
+        "startTime": 4317,
+        "endTime": 7355,
+        "slowStartTime": 6625,
+        "slowEndTime": 11257
+    },
+    {
+        "text": "...you say, \"Hey, I'm going to give you some time to think about this.\"",
+        "startTime": 7677,
+        "endTime": 10227,
+        "slowStartTime": 11666,
+        "slowEndTime": 15566
+    },
+    {
+        "text": "\"I have 9:00 PM tonight available or 10:00 AM tomorrow. I want to follow up with you about this.\"",
+        "startTime": 10531,
+        "endTime": 15496,
+        "slowStartTime": 15946,
+        "slowEndTime": 23469
+    },
+    {
+        "text": "\"Do you have either of those available?\"",
+        "startTime": 15802,
+        "endTime": 17377,
+        "slowStartTime": 23853,
+        "slowEndTime": 26291
+    },
+    {
+        "text": "And wait for them to answer.",
+        "startTime": 18064,
+        "endTime": 19698,
+        "slowStartTime": 27246,
+        "slowEndTime": 29772
+    },
+    {
+        "text": "Set the appointment always.",
+        "startTime": 19943,
+        "endTime": 21995,
+        "slowStartTime": 30065,
+        "slowEndTime": 33217
+    },
+    {
+        "text": "Every time you have an interaction with them, set the next appointment.",
+        "startTime": 22135,
+        "endTime": 25963,
+        "slowStartTime": 33353,
+        "slowEndTime": 39170
+    },
+    {
+        "text": "And that is one way that you know if somebody is serious...",
+        "startTime": 26354,
+        "endTime": 29681,
+        "slowStartTime": 39681,
+        "slowEndTime": 44747
+    },
+    {
+        "text": "...about going to the next level with you or if they're just basically dragging you on.",
+        "startTime": 29879,
+        "endTime": 35425,
+        "slowStartTime": 44969,
+        "slowEndTime": 53363
+    }
+]

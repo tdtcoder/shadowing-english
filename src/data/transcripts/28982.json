@@ -1,0 +1,121 @@
+[
+    {
+        "text": "You can help us expedite the boarding process...",
+        "startTime": 7886,
+        "endTime": 10051,
+        "slowStartTime": 11979,
+        "slowEndTime": 15301
+    },
+    {
+        "text": "...by keeping the entryway clear until your row is called.",
+        "startTime": 10143,
+        "endTime": 13375,
+        "slowStartTime": 15365,
+        "slowEndTime": 20288
+    },
+    {
+        "text": "Hi everybody, do you mind if I squeeze through?",
+        "startTime": 15239,
+        "endTime": 16693,
+        "slowStartTime": 23009,
+        "slowEndTime": 25265
+    },
+    {
+        "text": "I'm just operating the flight, please.",
+        "startTime": 16776,
+        "endTime": 18117,
+        "slowStartTime": 25314,
+        "slowEndTime": 27401
+    },
+    {
+        "text": "I don't think so.",
+        "startTime": 18630,
+        "endTime": 19463,
+        "slowStartTime": 28095,
+        "slowEndTime": 29419
+    },
+    {
+        "text": "We would like to offer a courtesy boarding...",
+        "startTime": 19935,
+        "endTime": 22080,
+        "slowStartTime": 30052,
+        "slowEndTime": 33345
+    },
+    {
+        "text": "...to those customers traveling with children under the age of two...",
+        "startTime": 22215,
+        "endTime": 25262,
+        "slowStartTime": 33473,
+        "slowEndTime": 38118
+    },
+    {
+        "text": "...and those customers needing additional assistance.",
+        "startTime": 26258,
+        "endTime": 29089,
+        "slowStartTime": 39537,
+        "slowEndTime": 43858
+    },
+    {
+        "text": "Oops, oops, oops. Sorry.",
+        "startTime": 29206,
+        "endTime": 31667,
+        "slowStartTime": 43959,
+        "slowEndTime": 47726
+    },
+    {
+        "text": "We will now continue boarding with rows 20 and higher.",
+        "startTime": 31805,
+        "endTime": 35192,
+        "slowStartTime": 47858,
+        "slowEndTime": 53013
+    },
+    {
+        "text": "Hi.",
+        "startTime": 36410,
+        "endTime": 36811,
+        "slowStartTime": 54765,
+        "slowEndTime": 55441
+    },
+    {
+        "text": "Hi!",
+        "startTime": 36918,
+        "endTime": 37381,
+        "slowStartTime": 55527,
+        "slowEndTime": 56296
+    },
+    {
+        "text": "Sorry sir, we're only boarding rows 20 and higher.",
+        "startTime": 37787,
+        "endTime": 39987,
+        "slowStartTime": 56831,
+        "slowEndTime": 60205
+    },
+    {
+        "text": "What about now?",
+        "startTime": 41013,
+        "endTime": 41749,
+        "slowStartTime": 61669,
+        "slowEndTime": 62849
+    },
+    {
+        "text": "No, you're sitting in row 14, so in a few minutes.",
+        "startTime": 41923,
+        "endTime": 44505,
+        "slowStartTime": 63035,
+        "slowEndTime": 66982
+    },
+    {
+        "text": "I'll come back.",
+        "startTime": 45549,
+        "endTime": 46305,
+        "slowStartTime": 68474,
+        "slowEndTime": 69682
+    },
+    {
+        "text": "That's great, thank you.",
+        "startTime": 46622,
+        "endTime": 47574,
+        "slowStartTime": 70083,
+        "slowEndTime": 71586
+    }
+]

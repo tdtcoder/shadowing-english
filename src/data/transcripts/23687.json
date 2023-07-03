@@ -1,0 +1,100 @@
+[
+    {
+        "text": "I'm a man seeking a woman...",
+        "startTime": 2218,
+        "endTime": 3971,
+        "slowStartTime": 3477,
+        "slowEndTime": 6181
+    },
+    {
+        "text": "Female, 20, single.",
+        "startTime": 4075,
+        "endTime": 5758,
+        "slowStartTime": 6263,
+        "slowEndTime": 8862
+    },
+    {
+        "text": "...who is interested in a long-term relationship.",
+        "startTime": 5834,
+        "endTime": 7936,
+        "slowStartTime": 8901,
+        "slowEndTime": 12129
+    },
+    {
+        "text": "What's your personal income?",
+        "startTime": 8035,
+        "endTime": 8931,
+        "slowStartTime": 12203,
+        "slowEndTime": 13622
+    },
+    {
+        "text": "60 to 80 thousand.",
+        "startTime": 9371,
+        "endTime": 10601,
+        "slowStartTime": 14207,
+        "slowEndTime": 16126
+    },
+    {
+        "text": "I'm mostly satisfied with my physical appearance.",
+        "startTime": 10762,
+        "endTime": 13067,
+        "slowStartTime": 16293,
+        "slowEndTime": 19826
+    },
+    {
+        "text": "I am very satisfied with your physical appearance.",
+        "startTime": 13151,
+        "endTime": 15337,
+        "slowStartTime": 19877,
+        "slowEndTime": 23231
+    },
+    {
+        "text": "I want a partner who has similar ideas towards parenting.",
+        "startTime": 15439,
+        "endTime": 17711,
+        "slowStartTime": 23309,
+        "slowEndTime": 26792
+    },
+    {
+        "text": "I definitely wanna have and/or adopt a baby.",
+        "startTime": 17797,
+        "endTime": 19870,
+        "slowStartTime": 26846,
+        "slowEndTime": 30030
+    },
+    {
+        "text": "I wanna be more spontaneous.",
+        "startTime": 19949,
+        "endTime": 21252,
+        "slowStartTime": 30073,
+        "slowEndTime": 32103
+    },
+    {
+        "text": "Just hop on a plane, fly to Rome.",
+        "startTime": 21321,
+        "endTime": 22786,
+        "slowStartTime": 32131,
+        "slowEndTime": 34404
+    },
+    {
+        "text": "Start a family, retire early.",
+        "startTime": 22867,
+        "endTime": 24679,
+        "slowStartTime": 34450,
+        "slowEndTime": 37243
+    },
+    {
+        "text": "Grow old together.",
+        "startTime": 25025,
+        "endTime": 26183,
+        "slowStartTime": 37687,
+        "slowEndTime": 39500
+    },
+    {
+        "text": "I'm so compatible with you.",
+        "startTime": 26335,
+        "endTime": 28402,
+        "slowStartTime": 39653,
+        "slowEndTime": 42828
+    }
+]

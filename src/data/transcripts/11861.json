@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Harry Potter,...",
+        "startTime": 20370,
+        "endTime": 21270,
+        "slowStartTime": 30710,
+        "slowEndTime": 32130
+    },
+    {
+        "text": "...you have fought valiantly.",
+        "startTime": 24300,
+        "endTime": 26080,
+        "slowStartTime": 36600,
+        "slowEndTime": 39340
+    },
+    {
+        "text": "But you have allowed your friends to die for you rather than face me yourself.",
+        "startTime": 28730,
+        "endTime": 33340,
+        "slowStartTime": 43250,
+        "slowEndTime": 50230
+    },
+    {
+        "text": "On this night,...",
+        "startTime": 39620,
+        "endTime": 40580,
+        "slowStartTime": 59590,
+        "slowEndTime": 61100
+    },
+    {
+        "text": "...join me...",
+        "startTime": 43790,
+        "endTime": 44450,
+        "slowStartTime": 65840,
+        "slowEndTime": 66910
+    },
+    {
+        "text": "...and confront your fate.",
+        "startTime": 47370,
+        "endTime": 48820,
+        "slowStartTime": 71210,
+        "slowEndTime": 73460
+    },
+    {
+        "text": "Come on!",
+        "startTime": 52870,
+        "endTime": 53380,
+        "slowStartTime": 79450,
+        "slowEndTime": 80300
+    },
+    {
+        "text": "We can end this.",
+        "startTime": 54360,
+        "endTime": 55050,
+        "slowStartTime": 81700,
+        "slowEndTime": 82810
+    },
+    {
+        "text": "I never wanted any of you to die for me.",
+        "startTime": 58480,
+        "endTime": 60530,
+        "slowStartTime": 87880,
+        "slowEndTime": 91020
+    },
+    {
+        "text": "Come on, Tom. Let's finish this the way we started it.",
+        "startTime": 68210,
+        "endTime": 70760,
+        "slowStartTime": 102460,
+        "slowEndTime": 106370
+    },
+    {
+        "text": "Together.",
+        "startTime": 71750,
+        "endTime": 72160,
+        "slowStartTime": 107780,
+        "slowEndTime": 108470
+    },
+    {
+        "text": "Run!",
+        "startTime": 77330,
+        "endTime": 77960,
+        "slowStartTime": 116250,
+        "slowEndTime": 117070
+    },
+    {
+        "text": "Only I can live forever.",
+        "startTime": 89190,
+        "endTime": 91740,
+        "slowStartTime": 133930,
+        "slowEndTime": 137840
+    }
+]

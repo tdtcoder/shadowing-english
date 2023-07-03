@@ -1,0 +1,289 @@
+[
+    {
+        "text": "This is how it started.",
+        "startTime": 4764,
+        "endTime": 5903,
+        "slowStartTime": 7296,
+        "slowEndTime": 9079
+    },
+    {
+        "text": "Another exciting evening at 53 Blackwood Road.",
+        "startTime": 8499,
+        "endTime": 12101,
+        "slowStartTime": 12898,
+        "slowEndTime": 18377
+    },
+    {
+        "text": "Hi, Julia.",
+        "startTime": 21900,
+        "endTime": 22751,
+        "slowStartTime": 33000,
+        "slowEndTime": 34351
+    },
+    {
+        "text": "How are you?",
+        "startTime": 22929,
+        "endTime": 23301,
+        "slowStartTime": 34543,
+        "slowEndTime": 35176
+    },
+    {
+        "text": "Yeah, sure.",
+        "startTime": 25431,
+        "endTime": 26117,
+        "slowStartTime": 38297,
+        "slowEndTime": 39401
+    },
+    {
+        "text": "When's your birthday?",
+        "startTime": 35487,
+        "endTime": 36431,
+        "slowStartTime": 53380,
+        "slowEndTime": 54871
+    },
+    {
+        "text": "The 4th of August.",
+        "startTime": 37110,
+        "endTime": 38377,
+        "slowStartTime": 55815,
+        "slowEndTime": 57790
+    },
+    {
+        "text": "That's Leo.",
+        "startTime": 39670,
+        "endTime": 40587,
+        "slowStartTime": 59655,
+        "slowEndTime": 61106
+    },
+    {
+        "text": "You're a lion.",
+        "startTime": 42121,
+        "endTime": 42995,
+        "slowStartTime": 63332,
+        "slowEndTime": 64718
+    },
+    {
+        "text": "What's wrong?",
+        "startTime": 45649,
+        "endTime": 46332,
+        "slowStartTime": 68623,
+        "slowEndTime": 69723
+    },
+    {
+        "text": "Nothing.",
+        "startTime": 46659,
+        "endTime": 47259,
+        "slowStartTime": 70139,
+        "slowEndTime": 71113
+    },
+    {
+        "text": "What about you?",
+        "startTime": 49676,
+        "endTime": 50249,
+        "slowStartTime": 74664,
+        "slowEndTime": 75598
+    },
+    {
+        "text": "My birthday's the 16th of March.",
+        "startTime": 51400,
+        "endTime": 52987,
+        "slowStartTime": 77250,
+        "slowEndTime": 79706
+    },
+    {
+        "text": "I'm a Pisces.",
+        "startTime": 53487,
+        "endTime": 54489,
+        "slowStartTime": 80381,
+        "slowEndTime": 81959
+    },
+    {
+        "text": "A fish.",
+        "startTime": 54949,
+        "endTime": 55533,
+        "slowStartTime": 82573,
+        "slowEndTime": 83524
+    },
+    {
+        "text": "What's the horoscope sign for this month?",
+        "startTime": 64755,
+        "endTime": 66928,
+        "slowStartTime": 97283,
+        "slowEndTime": 100617
+    },
+    {
+        "text": "May?",
+        "startTime": 67919,
+        "endTime": 68524,
+        "slowStartTime": 102028,
+        "slowEndTime": 103011
+    },
+    {
+        "text": "The first part is Taurus.",
+        "startTime": 69853,
+        "endTime": 70949,
+        "slowStartTime": 104930,
+        "slowEndTime": 106648
+    },
+    {
+        "text": "The bull.",
+        "startTime": 71585,
+        "endTime": 71979,
+        "slowStartTime": 107527,
+        "slowEndTime": 108193
+    },
+    {
+        "text": "So, Jane's a bull.",
+        "startTime": 72729,
+        "endTime": 74058,
+        "slowStartTime": 109243,
+        "slowEndTime": 111312
+    },
+    {
+        "text": "Is Jane's birthday this month?",
+        "startTime": 75196,
+        "endTime": 76803,
+        "slowStartTime": 112944,
+        "slowEndTime": 115430
+    },
+    {
+        "text": "When?",
+        "startTime": 78093,
+        "endTime": 78465,
+        "slowStartTime": 117289,
+        "slowEndTime": 117922
+    },
+    {
+        "text": "The 13th.",
+        "startTime": 79167,
+        "endTime": 79774,
+        "slowStartTime": 118901,
+        "slowEndTime": 119886
+    },
+    {
+        "text": "The 13th of May?",
+        "startTime": 82456,
+        "endTime": 83639,
+        "slowStartTime": 123834,
+        "slowEndTime": 125684
+    },
+    {
+        "text": "But it's the 11th of May today!",
+        "startTime": 83921,
+        "endTime": 85459,
+        "slowStartTime": 126031,
+        "slowEndTime": 128413
+    },
+    {
+        "text": "That's in two days.",
+        "startTime": 86361,
+        "endTime": 87281,
+        "slowStartTime": 129692,
+        "slowEndTime": 131146
+    },
+    {
+        "text": "Are you sure?",
+        "startTime": 87851,
+        "endTime": 88561,
+        "slowStartTime": 131927,
+        "slowEndTime": 133067
+    },
+    {
+        "text": "That's what she said.",
+        "startTime": 89201,
+        "endTime": 90009,
+        "slowStartTime": 133951,
+        "slowEndTime": 135238
+    },
+    {
+        "text": "Did you hear?",
+        "startTime": 91890,
+        "endTime": 92804,
+        "slowStartTime": 137985,
+        "slowEndTime": 139431
+    },
+    {
+        "text": "No.",
+        "startTime": 93827,
+        "endTime": 94247,
+        "slowStartTime": 140890,
+        "slowEndTime": 141595
+    },
+    {
+        "text": "It's Jane's birthday on Saturday.",
+        "startTime": 95345,
+        "endTime": 97172,
+        "slowStartTime": 143167,
+        "slowEndTime": 145983
+    },
+    {
+        "text": "Why don't we have a party?",
+        "startTime": 99632,
+        "endTime": 101173,
+        "slowStartTime": 149598,
+        "slowEndTime": 151984
+    },
+    {
+        "text": "In two days?",
+        "startTime": 102397,
+        "endTime": 103150,
+        "slowStartTime": 153746,
+        "slowEndTime": 154950
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 103695,
+        "endTime": 104191,
+        "slowStartTime": 155692,
+        "slowEndTime": 156511
+    },
+    {
+        "text": "A surprise party.",
+        "startTime": 104323,
+        "endTime": 105820,
+        "slowStartTime": 156635,
+        "slowEndTime": 158955
+    },
+    {
+        "text": "Good idea.",
+        "startTime": 106777,
+        "endTime": 107425,
+        "slowStartTime": 160316,
+        "slowEndTime": 161362
+    },
+    {
+        "text": "Right.",
+        "startTime": 109292,
+        "endTime": 109773,
+        "slowStartTime": 164088,
+        "slowEndTime": 164884
+    },
+    {
+        "text": "How many people?",
+        "startTime": 110529,
+        "endTime": 111489,
+        "slowStartTime": 165944,
+        "slowEndTime": 167458
+    },
+    {
+        "text": "Just the four of us.",
+        "startTime": 112753,
+        "endTime": 113745,
+        "slowStartTime": 169279,
+        "slowEndTime": 170843
+    },
+    {
+        "text": "A meal, a cake, something to drink, presents.",
+        "startTime": 114177,
+        "endTime": 120439,
+        "slowStartTime": 171415,
+        "slowEndTime": 180884
+    },
+    {
+        "text": "Okay, let's make a shopping list.",
+        "startTime": 122287,
+        "endTime": 125150,
+        "slowStartTime": 183580,
+        "slowEndTime": 187950
+    }
+]

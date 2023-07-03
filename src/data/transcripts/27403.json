@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Bavaria is a place of superlatives.",
+        "startTime": 4209,
+        "endTime": 6549,
+        "slowStartTime": 6463,
+        "slowEndTime": 10049
+    },
+    {
+        "text": "It's home to Germany's highest mountain, the Zugspitze,...",
+        "startTime": 6912,
+        "endTime": 9942,
+        "slowStartTime": 10518,
+        "slowEndTime": 15138
+    },
+    {
+        "text": "...and Bayern Munich, the country's top soccer club.",
+        "startTime": 11001,
+        "endTime": 13633,
+        "slowStartTime": 16652,
+        "slowEndTime": 20674
+    },
+    {
+        "text": "Kings once built beautiful castles here.",
+        "startTime": 16262,
+        "endTime": 18464,
+        "slowStartTime": 24543,
+        "slowEndTime": 27921
+    },
+    {
+        "text": "Today, big German brands are headquartered here.",
+        "startTime": 20459,
+        "endTime": 23174,
+        "slowStartTime": 30838,
+        "slowEndTime": 34986
+    },
+    {
+        "text": "And Bavaria is also home to what may be the world's most famous beer festival:...",
+        "startTime": 26089,
+        "endTime": 30757,
+        "slowStartTime": 39283,
+        "slowEndTime": 46361
+    },
+    {
+        "text": "...Oktoberfest.",
+        "startTime": 31125,
+        "endTime": 32001,
+        "slowStartTime": 46838,
+        "slowEndTime": 48227
+    },
+    {
+        "text": "So, it's no wonder that Bavaria is also Germany's top travel destination.",
+        "startTime": 33752,
+        "endTime": 37677,
+        "slowStartTime": 50778,
+        "slowEndTime": 56741
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "text": "People often call IT professionals about network connection problems.",
+        "startTime": 449,
+        "endTime": 4300,
+        "slowStartTime": 824,
+        "slowEndTime": 6675
+    },
+    {
+        "text": "But many problems are easy to fix without help.",
+        "startTime": 4634,
+        "endTime": 6999,
+        "slowStartTime": 7101,
+        "slowEndTime": 10723
+    },
+    {
+        "text": "First, reconnect any loose CAT5 cable connections.",
+        "startTime": 7449,
+        "endTime": 11486,
+        "slowStartTime": 11324,
+        "slowEndTime": 17454
+    },
+    {
+        "text": "Next, investigate IP address issues.",
+        "startTime": 11794,
+        "endTime": 14778,
+        "slowStartTime": 17841,
+        "slowEndTime": 22392
+    },
+    {
+        "text": "This group of numbers allows communication on the internet.",
+        "startTime": 15147,
+        "endTime": 18193,
+        "slowStartTime": 22870,
+        "slowEndTime": 27514
+    },
+    {
+        "text": "Renewing your DHCP fixes most IP problems.",
+        "startTime": 18577,
+        "endTime": 22119,
+        "slowStartTime": 28016,
+        "slowEndTime": 33403
+    },
+    {
+        "text": "Next, check the router.",
+        "startTime": 22534,
+        "endTime": 24082,
+        "slowStartTime": 33951,
+        "slowEndTime": 36348
+    },
+    {
+        "text": "The router links LANs to the internet.",
+        "startTime": 24492,
+        "endTime": 27290,
+        "slowStartTime": 36888,
+        "slowEndTime": 41160
+    },
+    {
+        "text": "Make sure the router's configuration is correct.",
+        "startTime": 27921,
+        "endTime": 30625,
+        "slowStartTime": 42031,
+        "slowEndTime": 46162
+    },
+    {
+        "text": "WLANs have other problems.",
+        "startTime": 31262,
+        "endTime": 34061,
+        "slowStartTime": 47043,
+        "slowEndTime": 51316
+    },
+    {
+        "text": "Interference often blocks their wireless signals.",
+        "startTime": 34447,
+        "endTime": 37369,
+        "slowStartTime": 51820,
+        "slowEndTime": 56278
+    },
+    {
+        "text": "But there is a simple solution.",
+        "startTime": 37613,
+        "endTime": 39235,
+        "slowStartTime": 56570,
+        "slowEndTime": 59078
+    },
+    {
+        "text": "Just move the router away from walls and metals.",
+        "startTime": 39480,
+        "endTime": 41845,
+        "slowStartTime": 59370,
+        "slowEndTime": 62992
+    },
+    {
+        "text": "Finally, cycle the network.",
+        "startTime": 42182,
+        "endTime": 44114,
+        "slowStartTime": 63423,
+        "slowEndTime": 66396
+    },
+    {
+        "text": "Turn all equipment off for a full minute and then restart.",
+        "startTime": 44676,
+        "endTime": 47846,
+        "slowStartTime": 67164,
+        "slowEndTime": 71994
+    }
+]

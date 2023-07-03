@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Hi, my name is Matt Cutts and I work in Google Search Quality Group.",
+        "startTime": 2550,
+        "endTime": 6400,
+        "slowStartTime": 4000,
+        "slowEndTime": 9800
+    },
+    {
+        "text": "Today, I'm gonna tell you a bit about how Google Social Search works.",
+        "startTime": 6750,
+        "endTime": 10550,
+        "slowStartTime": 10400,
+        "slowEndTime": 16100
+    },
+    {
+        "text": "Google Social Search is a new experiment to help you find publicly available Web content...",
+        "startTime": 10750,
+        "endTime": 16150,
+        "slowStartTime": 16400,
+        "slowEndTime": 24500
+    },
+    {
+        "text": "...from your social circle quickly and more easily in Google Search.",
+        "startTime": 16500,
+        "endTime": 20850,
+        "slowStartTime": 25000,
+        "slowEndTime": 31500
+    },
+    {
+        "text": "First, let me give you some context.",
+        "startTime": 21100,
+        "endTime": 23500,
+        "slowStartTime": 31900,
+        "slowEndTime": 35500
+    },
+    {
+        "text": "Today on the Internet, people have many different places where they make social connections...",
+        "startTime": 24150,
+        "endTime": 28650,
+        "slowStartTime": 36500,
+        "slowEndTime": 43100
+    },
+    {
+        "text": "...and publish web content like blogs, status updates, Tweets and pictures.",
+        "startTime": 28850,
+        "endTime": 34750,
+        "slowStartTime": 43600,
+        "slowEndTime": 52300
+    },
+    {
+        "text": "People choose to publish much of this content publicly for everyone to see.",
+        "startTime": 35250,
+        "endTime": 39550,
+        "slowStartTime": 53100,
+        "slowEndTime": 59600
+    },
+    {
+        "text": "For example, I have a Twitter account where I follow more than a hundred people.",
+        "startTime": 40150,
+        "endTime": 44250,
+        "slowStartTime": 60400,
+        "slowEndTime": 66600
+    },
+    {
+        "text": "Anyone browsing on the Web today can visit my Twitter page and see the Tweets I've been writing.",
+        "startTime": 45150,
+        "endTime": 50250,
+        "slowStartTime": 68000,
+        "slowEndTime": 75600
+    },
+    {
+        "text": "Anyone can also see the list of people I'm following on Twitter.",
+        "startTime": 50400,
+        "endTime": 54300,
+        "slowStartTime": 75850,
+        "slowEndTime": 81700
+    },
+    {
+        "text": "I also write a public blog, and have a FriendFeed account.",
+        "startTime": 55000,
+        "endTime": 57800,
+        "slowStartTime": 82800,
+        "slowEndTime": 86900
+    },
+    {
+        "text": "These various online social services create an implicit network of connections...",
+        "startTime": 58250,
+        "endTime": 63000,
+        "slowStartTime": 87700,
+        "slowEndTime": 94750
+    },
+    {
+        "text": "...which we like to call, your social circle.",
+        "startTime": 63250,
+        "endTime": 65400,
+        "slowStartTime": 95200,
+        "slowEndTime": 98300
+    },
+    {
+        "text": "For example, I'm following Leo Laporte on Twitter,...",
+        "startTime": 66100,
+        "endTime": 69200,
+        "slowStartTime": 99500,
+        "slowEndTime": 104000
+    },
+    {
+        "text": "...and on FriendFeed, I follow Danny Sullivan.",
+        "startTime": 70250,
+        "endTime": 72600,
+        "slowStartTime": 105700,
+        "slowEndTime": 109100
+    },
+    {
+        "text": "There's also an extended social circle...",
+        "startTime": 73850,
+        "endTime": 75950,
+        "slowStartTime": 111000,
+        "slowEndTime": 114200
+    },
+    {
+        "text": "...which is the set of people that Leo and Danny follow.",
+        "startTime": 76100,
+        "endTime": 78950,
+        "slowStartTime": 114400,
+        "slowEndTime": 118700
+    },
+    {
+        "text": "With Google Social Search, we've managed to pull...",
+        "startTime": 79650,
+        "endTime": 82400,
+        "slowStartTime": 119800,
+        "slowEndTime": 123900
+    },
+    {
+        "text": "...different pieces of your public social circle together in a single place.",
+        "startTime": 82450,
+        "endTime": 86200,
+        "slowStartTime": 123900,
+        "slowEndTime": 129500
+    }
+]

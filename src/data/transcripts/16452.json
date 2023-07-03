@@ -1,0 +1,401 @@
+[
+    {
+        "text": "Hello!",
+        "startTime": 3901,
+        "endTime": 4515,
+        "slowStartTime": 6001,
+        "slowEndTime": 6997
+    },
+    {
+        "text": "How much do you want?",
+        "startTime": 9284,
+        "endTime": 9998,
+        "slowStartTime": 14076,
+        "slowEndTime": 15222
+    },
+    {
+        "text": "Then, what's your final price? Okay?",
+        "startTime": 10520,
+        "endTime": 12902,
+        "slowStartTime": 15930,
+        "slowEndTime": 19578
+    },
+    {
+        "text": "I'll give you 20.",
+        "startTime": 13738,
+        "endTime": 14415,
+        "slowStartTime": 20757,
+        "slowEndTime": 21847
+    },
+    {
+        "text": "Pretty impossible!",
+        "startTime": 14685,
+        "endTime": 15760,
+        "slowStartTime": 22178,
+        "slowEndTime": 23865
+    },
+    {
+        "text": "Why are you so stingy?",
+        "startTime": 16605,
+        "endTime": 17984,
+        "slowStartTime": 25057,
+        "slowEndTime": 27201
+    },
+    {
+        "text": "What's your last price?",
+        "startTime": 18262,
+        "endTime": 19289,
+        "slowStartTime": 27543,
+        "slowEndTime": 29159
+    },
+    {
+        "text": "I'll give you 20.",
+        "startTime": 19374,
+        "endTime": 20032,
+        "slowStartTime": 29211,
+        "slowEndTime": 30273
+    },
+    {
+        "text": "A little bit more.",
+        "startTime": 20175,
+        "endTime": 21009,
+        "slowStartTime": 30412,
+        "slowEndTime": 31739
+    },
+    {
+        "text": "Are you wanting to kill me?",
+        "startTime": 21859,
+        "endTime": 22787,
+        "slowStartTime": 32939,
+        "slowEndTime": 34406
+    },
+    {
+        "text": "For just the price of 25.",
+        "startTime": 22865,
+        "endTime": 24541,
+        "slowStartTime": 34447,
+        "slowEndTime": 37037
+    },
+    {
+        "text": "Okay, I'll take the money.",
+        "startTime": 25336,
+        "endTime": 26112,
+        "slowStartTime": 38154,
+        "slowEndTime": 39393
+    },
+    {
+        "text": "Why are you very cheap?",
+        "startTime": 26583,
+        "endTime": 27771,
+        "slowStartTime": 40024,
+        "slowEndTime": 41882
+    },
+    {
+        "text": "Welcome to the Silk Market.",
+        "startTime": 30111,
+        "endTime": 31459,
+        "slowStartTime": 45316,
+        "slowEndTime": 47413
+    },
+    {
+        "text": "Ten percent of the asking cost, usually.",
+        "startTime": 40667,
+        "endTime": 43066,
+        "slowStartTime": 61151,
+        "slowEndTime": 64824
+    },
+    {
+        "text": "If you go to one place and you give them a price and it's too low,...",
+        "startTime": 43303,
+        "endTime": 45878,
+        "slowStartTime": 65105,
+        "slowEndTime": 69042
+    },
+    {
+        "text": "...you just go to the next because there's definitely stores that, they all have the same thing.",
+        "startTime": 45984,
+        "endTime": 49353,
+        "slowStartTime": 69126,
+        "slowEndTime": 74255
+    },
+    {
+        "text": "Just keep going lower.",
+        "startTime": 49647,
+        "endTime": 50455,
+        "slowStartTime": 74620,
+        "slowEndTime": 75907
+    },
+    {
+        "text": "Sometimes, you got to play them against each other.",
+        "startTime": 50533,
+        "endTime": 52250,
+        "slowStartTime": 75949,
+        "slowEndTime": 78600
+    },
+    {
+        "text": "So if it's too low, you just go to the next. Raise your price by five kwai and start over.",
+        "startTime": 52340,
+        "endTime": 55906,
+        "slowStartTime": 78660,
+        "slowEndTime": 84084
+    },
+    {
+        "text": "Stand your ground.",
+        "startTime": 56001,
+        "endTime": 57087,
+        "slowStartTime": 84151,
+        "slowEndTime": 85855
+    },
+    {
+        "text": "Start extremely low and always tell them to give you a better price, and always walk away.",
+        "startTime": 57357,
+        "endTime": 62660,
+        "slowStartTime": 86186,
+        "slowEndTime": 94215
+    },
+    {
+        "text": "And if they don't like it, then you just go to the next.",
+        "startTime": 62816,
+        "endTime": 64711,
+        "slowStartTime": 94374,
+        "slowEndTime": 97291
+    },
+    {
+        "text": "And you can just keep going and going.",
+        "startTime": 64891,
+        "endTime": 66265,
+        "slowStartTime": 97486,
+        "slowEndTime": 99622
+    },
+    {
+        "text": "Walking away is the key to winning any victory.",
+        "startTime": 66413,
+        "endTime": 69284,
+        "slowStartTime": 99769,
+        "slowEndTime": 104151
+    },
+    {
+        "text": "I want to make friends with you.",
+        "startTime": 71300,
+        "endTime": 72585,
+        "slowStartTime": 107100,
+        "slowEndTime": 109102
+    },
+    {
+        "text": "Don't look around, don't walk around.",
+        "startTime": 72662,
+        "endTime": 73997,
+        "slowStartTime": 109143,
+        "slowEndTime": 111220
+    },
+    {
+        "text": "I'll sell to you at this price, okay?",
+        "startTime": 74430,
+        "endTime": 75785,
+        "slowStartTime": 111795,
+        "slowEndTime": 113903
+    },
+    {
+        "text": "How much?",
+        "startTime": 77181,
+        "endTime": 77660,
+        "slowStartTime": 115922,
+        "slowEndTime": 116715
+    },
+    {
+        "text": "For this shirt?",
+        "startTime": 77956,
+        "endTime": 78642,
+        "slowStartTime": 117084,
+        "slowEndTime": 118188
+    },
+    {
+        "text": "Yes. That's good quality.",
+        "startTime": 78729,
+        "endTime": 80125,
+        "slowStartTime": 118243,
+        "slowEndTime": 120413
+    },
+    {
+        "text": "You can machine-wash it and your wife can handwash it also.",
+        "startTime": 80217,
+        "endTime": 83420,
+        "slowStartTime": 120475,
+        "slowEndTime": 125355
+    },
+    {
+        "text": "For how much do you want to buy it?",
+        "startTime": 84259,
+        "endTime": 85090,
+        "slowStartTime": 126539,
+        "slowEndTime": 127860
+    },
+    {
+        "text": "I don't even want this shirt.",
+        "startTime": 86250,
+        "endTime": 87365,
+        "slowStartTime": 129525,
+        "slowEndTime": 131273
+    },
+    {
+        "text": "But if you want it, how much?",
+        "startTime": 87472,
+        "endTime": 88787,
+        "slowStartTime": 131358,
+        "slowEndTime": 133406
+    },
+    {
+        "text": "Don't joke with me, okay?",
+        "startTime": 89757,
+        "endTime": 91033,
+        "slowStartTime": 134786,
+        "slowEndTime": 136775
+    },
+    {
+        "text": "Are you feverish?",
+        "startTime": 91663,
+        "endTime": 93063,
+        "slowStartTime": 137645,
+        "slowEndTime": 139819
+    },
+    {
+        "text": "I think you feel very hot.",
+        "startTime": 97069,
+        "endTime": 98589,
+        "slowStartTime": 145754,
+        "slowEndTime": 148109
+    },
+    {
+        "text": "If you give me that, I'll give you that, an even worse number.",
+        "startTime": 98711,
+        "endTime": 101270,
+        "slowStartTime": 148217,
+        "slowEndTime": 152130
+    },
+    {
+        "text": "Are you okay?",
+        "startTime": 106481,
+        "endTime": 106949,
+        "slowStartTime": 159872,
+        "slowEndTime": 160649
+    },
+    {
+        "text": "Yeah, are you okay too?",
+        "startTime": 107325,
+        "endTime": 108623,
+        "slowStartTime": 161137,
+        "slowEndTime": 163160
+    },
+    {
+        "text": "Just a little bit more.",
+        "startTime": 109268,
+        "endTime": 110160,
+        "slowStartTime": 164052,
+        "slowEndTime": 165465
+    },
+    {
+        "text": "Just a little bit more, a little bit.",
+        "startTime": 111569,
+        "endTime": 114413,
+        "slowStartTime": 167504,
+        "slowEndTime": 171845
+    },
+    {
+        "text": "Are you being fair with me?",
+        "startTime": 115326,
+        "endTime": 115923,
+        "slowStartTime": 173139,
+        "slowEndTime": 174110
+    },
+    {
+        "text": "That would cut my work cut from here!",
+        "startTime": 116033,
+        "endTime": 117693,
+        "slowStartTime": 174200,
+        "slowEndTime": 176764
+    },
+    {
+        "text": "You're a hard sell.",
+        "startTime": 118225,
+        "endTime": 118836,
+        "slowStartTime": 177488,
+        "slowEndTime": 178479
+    },
+    {
+        "text": "What's your maximum?",
+        "startTime": 119397,
+        "endTime": 121045,
+        "slowStartTime": 179245,
+        "slowEndTime": 181792
+    },
+    {
+        "text": "You already gave me the last final price and it was way too much.",
+        "startTime": 121335,
+        "endTime": 124262,
+        "slowStartTime": 182153,
+        "slowEndTime": 186618
+    },
+    {
+        "text": "Okay, this can be your last price.",
+        "startTime": 124341,
+        "endTime": 126665,
+        "slowStartTime": 186662,
+        "slowEndTime": 190222
+    },
+    {
+        "text": "What's your last price?",
+        "startTime": 126909,
+        "endTime": 127797,
+        "slowStartTime": 190514,
+        "slowEndTime": 191921
+    },
+    {
+        "text": "What's your last price?",
+        "startTime": 128171,
+        "endTime": 128959,
+        "slowStartTime": 192406,
+        "slowEndTime": 193664
+    },
+    {
+        "text": "Final, final.",
+        "startTime": 129057,
+        "endTime": 129834,
+        "slowStartTime": 193735,
+        "slowEndTime": 194976
+    },
+    {
+        "text": "Okay, 70.",
+        "startTime": 129943,
+        "endTime": 130431,
+        "slowStartTime": 195064,
+        "slowEndTime": 195871
+    },
+    {
+        "text": "No.",
+        "startTime": 130805,
+        "endTime": 131016,
+        "slowStartTime": 196358,
+        "slowEndTime": 196749
+    },
+    {
+        "text": "75?",
+        "startTime": 131237,
+        "endTime": 131641,
+        "slowStartTime": 197006,
+        "slowEndTime": 197687
+    },
+    {
+        "text": "No.",
+        "startTime": 131895,
+        "endTime": 132098,
+        "slowStartTime": 197993,
+        "slowEndTime": 198372
+    },
+    {
+        "text": "Okay, give me your money.",
+        "startTime": 132275,
+        "endTime": 132966,
+        "slowStartTime": 198563,
+        "slowEndTime": 199674
+    }
+]

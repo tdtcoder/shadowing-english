@@ -1,0 +1,135 @@
+[
+    {
+        "text": "Can you tell me where I can find men's clothes?",
+        "startTime": 3679,
+        "endTime": 5661,
+        "slowStartTime": 5668,
+        "slowEndTime": 8716
+    },
+    {
+        "text": "Yes, our menswear department is on the second floor.",
+        "startTime": 6024,
+        "endTime": 9307,
+        "slowStartTime": 9186,
+        "slowEndTime": 14185
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 9573,
+        "endTime": 10037,
+        "slowStartTime": 14510,
+        "slowEndTime": 15281
+    },
+    {
+        "text": "Excuse me, do you have this shirt in a medium?",
+        "startTime": 11539,
+        "endTime": 13973,
+        "slowStartTime": 17458,
+        "slowEndTime": 21184
+    },
+    {
+        "text": "Medium?",
+        "startTime": 14241,
+        "endTime": 14781,
+        "slowStartTime": 21511,
+        "slowEndTime": 22397
+    },
+    {
+        "text": "Let me have a look.",
+        "startTime": 15078,
+        "endTime": 15969,
+        "slowStartTime": 22767,
+        "slowEndTime": 24179
+    },
+    {
+        "text": "No, I can't seem to find any mediums here on the rack.",
+        "startTime": 16432,
+        "endTime": 20298,
+        "slowStartTime": 24798,
+        "slowEndTime": 30672
+    },
+    {
+        "text": "Really?",
+        "startTime": 20527,
+        "endTime": 21006,
+        "slowStartTime": 30940,
+        "slowEndTime": 31734
+    },
+    {
+        "text": "That's too bad. ",
+        "startTime": 21232,
+        "endTime": 22073,
+        "slowStartTime": 31998,
+        "slowEndTime": 33334
+    },
+    {
+        "text": "I really like it.",
+        "startTime": 22239,
+        "endTime": 23233,
+        "slowStartTime": 33509,
+        "slowEndTime": 35075
+    },
+    {
+        "text": "I'm really sorry.",
+        "startTime": 23430,
+        "endTime": 24434,
+        "slowStartTime": 35295,
+        "slowEndTime": 36876
+    },
+    {
+        "text": "Can you check again?",
+        "startTime": 24767,
+        "endTime": 25821,
+        "slowStartTime": 37301,
+        "slowEndTime": 38956
+    },
+    {
+        "text": "You might have a medium in the stock room.",
+        "startTime": 25954,
+        "endTime": 27656,
+        "slowStartTime": 39081,
+        "slowEndTime": 41709
+    },
+    {
+        "text": "Good news!",
+        "startTime": 28023,
+        "endTime": 28832,
+        "slowStartTime": 42184,
+        "slowEndTime": 43473
+    },
+    {
+        "text": "There was exactly one medium left.",
+        "startTime": 29087,
+        "endTime": 30943,
+        "slowStartTime": 43780,
+        "slowEndTime": 46640
+    },
+    {
+        "text": "Here you go.",
+        "startTime": 31153,
+        "endTime": 31750,
+        "slowStartTime": 46880,
+        "slowEndTime": 47850
+    },
+    {
+        "text": "Fantastic!",
+        "startTime": 31928,
+        "endTime": 32669,
+        "slowStartTime": 48042,
+        "slowEndTime": 49229
+    },
+    {
+        "text": "Thanks for your help.",
+        "startTime": 32865,
+        "endTime": 33653,
+        "slowStartTime": 49448,
+        "slowEndTime": 50704
+    },
+    {
+        "text": "My pleasure, sir.",
+        "startTime": 33960,
+        "endTime": 34911,
+        "slowStartTime": 51090,
+        "slowEndTime": 52591
+    }
+]

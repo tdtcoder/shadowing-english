@@ -1,0 +1,93 @@
+[
+    {
+        "text": "One day, a man was walking along the beach...",
+        "startTime": 3803,
+        "endTime": 7035,
+        "slowStartTime": 5854,
+        "slowEndTime": 10777
+    },
+    {
+        "text": "...when he noticed a boy picking up starfish and throwing them into the ocean.",
+        "startTime": 7545,
+        "endTime": 12325,
+        "slowStartTime": 11468,
+        "slowEndTime": 18713
+    },
+    {
+        "text": "Approaching the boy he asked, \"Excuse me, but what are you doing?\"",
+        "startTime": 15233,
+        "endTime": 20102,
+        "slowStartTime": 23000,
+        "slowEndTime": 30378
+    },
+    {
+        "text": "The boy replied, \"Throwing starfish back into the ocean.\"",
+        "startTime": 21133,
+        "endTime": 25015,
+        "slowStartTime": 31850,
+        "slowEndTime": 37748
+    },
+    {
+        "text": "\"The sun is rising and the tide is going out.\"",
+        "startTime": 25489,
+        "endTime": 27977,
+        "slowStartTime": 38383,
+        "slowEndTime": 42191
+    },
+    {
+        "text": "\"If I don't throw them back, they'll die.\"",
+        "startTime": 28361,
+        "endTime": 31035,
+        "slowStartTime": 42691,
+        "slowEndTime": 46777
+    },
+    {
+        "text": "The man laughed to himself and said,...",
+        "startTime": 32721,
+        "endTime": 34929,
+        "slowStartTime": 49231,
+        "slowEndTime": 52619
+    },
+    {
+        "text": "\"But there's too many starfish on this beach.\"",
+        "startTime": 35501,
+        "endTime": 38071,
+        "slowStartTime": 53402,
+        "slowEndTime": 57332
+    },
+    {
+        "text": "\"You can't possibly make a difference.\"",
+        "startTime": 38230,
+        "endTime": 40462,
+        "slowStartTime": 57495,
+        "slowEndTime": 60918
+    },
+    {
+        "text": "After listening politely, the boy bent down,...",
+        "startTime": 41825,
+        "endTime": 44813,
+        "slowStartTime": 62888,
+        "slowEndTime": 67444
+    },
+    {
+        "text": "...picked up another starfish and threw it into the ocean.",
+        "startTime": 45055,
+        "endTime": 48783,
+        "slowStartTime": 67733,
+        "slowEndTime": 73400
+    },
+    {
+        "text": "Then, turning to the man, he said, ...",
+        "startTime": 49429,
+        "endTime": 51795,
+        "slowStartTime": 74294,
+        "slowEndTime": 77917
+    },
+    {
+        "text": "\"I made a difference to that one.\"",
+        "startTime": 52352,
+        "endTime": 54513,
+        "slowStartTime": 78678,
+        "slowEndTime": 81995
+    }
+]

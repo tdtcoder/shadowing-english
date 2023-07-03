@@ -1,0 +1,184 @@
+[
+    {
+        "text": "My grandpa loves to fish.",
+        "startTime": 1508,
+        "endTime": 3626,
+        "slowStartTime": 2412,
+        "slowEndTime": 5664
+    },
+    {
+        "text": "I love to fish, too.",
+        "startTime": 4780,
+        "endTime": 6265,
+        "slowStartTime": 7320,
+        "slowEndTime": 9622
+    },
+    {
+        "text": "Grandpa and I go fishing together.",
+        "startTime": 7645,
+        "endTime": 10207,
+        "slowStartTime": 11618,
+        "slowEndTime": 15535
+    },
+    {
+        "text": "I get the fishing poles.",
+        "startTime": 11747,
+        "endTime": 13453,
+        "slowStartTime": 17770,
+        "slowEndTime": 20405
+    },
+    {
+        "text": "Grandpa gets the worms.",
+        "startTime": 14717,
+        "endTime": 16505,
+        "slowStartTime": 22225,
+        "slowEndTime": 24983
+    },
+    {
+        "text": "Grandpa and I get the worms and the poles.",
+        "startTime": 17770,
+        "endTime": 21289,
+        "slowStartTime": 26805,
+        "slowEndTime": 32159
+    },
+    {
+        "text": "We get into a boat.",
+        "startTime": 22655,
+        "endTime": 24283,
+        "slowStartTime": 34133,
+        "slowEndTime": 36650
+    },
+    {
+        "text": "We go out onto the big lake.",
+        "startTime": 25669,
+        "endTime": 28259,
+        "slowStartTime": 38654,
+        "slowEndTime": 42613
+    },
+    {
+        "text": "We go out onto the big lake to fish.",
+        "startTime": 29650,
+        "endTime": 33065,
+        "slowStartTime": 44625,
+        "slowEndTime": 49822
+    },
+    {
+        "text": "I get my fishing pole ready.",
+        "startTime": 34867,
+        "endTime": 37070,
+        "slowStartTime": 52450,
+        "slowEndTime": 55830
+    },
+    {
+        "text": "Grandpa gets his fishing pole ready.",
+        "startTime": 38543,
+        "endTime": 41010,
+        "slowStartTime": 57965,
+        "slowEndTime": 61740
+    },
+    {
+        "text": "We get our fishing poles ready to fish.",
+        "startTime": 42358,
+        "endTime": 45670,
+        "slowStartTime": 63687,
+        "slowEndTime": 68730
+    },
+    {
+        "text": "Grandpa puts a worm on my hook.",
+        "startTime": 46935,
+        "endTime": 49523,
+        "slowStartTime": 70552,
+        "slowEndTime": 74510
+    },
+    {
+        "text": "Grandpa puts a worm on his hook.",
+        "startTime": 50926,
+        "endTime": 53547,
+        "slowStartTime": 76539,
+        "slowEndTime": 80546
+    },
+    {
+        "text": "The worms are on the hooks.",
+        "startTime": 55033,
+        "endTime": 56998,
+        "slowStartTime": 82699,
+        "slowEndTime": 85722
+    },
+    {
+        "text": "We toss the worms and hooks into the water.",
+        "startTime": 58522,
+        "endTime": 61751,
+        "slowStartTime": 87933,
+        "slowEndTime": 92852
+    },
+    {
+        "text": "We toss the worms and hooks into the water.",
+        "startTime": 63192,
+        "endTime": 66673,
+        "slowStartTime": 94938,
+        "slowEndTime": 100234
+    },
+    {
+        "text": "We wait for the fish to bite.",
+        "startTime": 67842,
+        "endTime": 70234,
+        "slowStartTime": 101913,
+        "slowEndTime": 105576
+    },
+    {
+        "text": "We wait and wait for the fish to bite.",
+        "startTime": 71645,
+        "endTime": 75097,
+        "slowStartTime": 107618,
+        "slowEndTime": 112870
+    },
+    {
+        "text": "A big fish bites my hook.",
+        "startTime": 76548,
+        "endTime": 78871,
+        "slowStartTime": 114972,
+        "slowEndTime": 118531
+    },
+    {
+        "text": "A big fish bites my hook and I pull it in.",
+        "startTime": 80107,
+        "endTime": 84279,
+        "slowStartTime": 120311,
+        "slowEndTime": 126644
+    },
+    {
+        "text": "I pull the big fish into the boat.",
+        "startTime": 85830,
+        "endTime": 88851,
+        "slowStartTime": 128895,
+        "slowEndTime": 133501
+    },
+    {
+        "text": "We take the big fish home.",
+        "startTime": 90750,
+        "endTime": 92811,
+        "slowStartTime": 136275,
+        "slowEndTime": 139442
+    },
+    {
+        "text": "Grandpa cleans the big fish.",
+        "startTime": 93873,
+        "endTime": 96301,
+        "slowStartTime": 140960,
+        "slowEndTime": 144676
+    },
+    {
+        "text": "Grandma cooks the big fish.",
+        "startTime": 97555,
+        "endTime": 99823,
+        "slowStartTime": 146482,
+        "slowEndTime": 149959
+    },
+    {
+        "text": "We all eat the big fish.",
+        "startTime": 100972,
+        "endTime": 103679,
+        "slowStartTime": 151608,
+        "slowEndTime": 155743
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Here are some phrases you can use to describe the weather.",
+        "startTime": 50,
+        "endTime": 3345,
+        "slowStartTime": 181,
+        "slowEndTime": 5243
+    },
+    {
+        "text": "What's the weather like?",
+        "startTime": 5099,
+        "endTime": 6163,
+        "slowStartTime": 7799,
+        "slowEndTime": 9469
+    },
+    {
+        "text": "The weather's fine.",
+        "startTime": 7932,
+        "endTime": 9043,
+        "slowStartTime": 12048,
+        "slowEndTime": 13789
+    },
+    {
+        "text": "It's a sunny day today.",
+        "startTime": 10827,
+        "endTime": 12049,
+        "slowStartTime": 16390,
+        "slowEndTime": 18298
+    },
+    {
+        "text": "It's been raining all day.",
+        "startTime": 13838,
+        "endTime": 15310,
+        "slowStartTime": 20907,
+        "slowEndTime": 23190
+    },
+    {
+        "text": "It's freezing cold.",
+        "startTime": 17038,
+        "endTime": 18567,
+        "slowStartTime": 25707,
+        "slowEndTime": 28076
+    },
+    {
+        "text": "It looks like it's going to rain.",
+        "startTime": 20113,
+        "endTime": 21553,
+        "slowStartTime": 30320,
+        "slowEndTime": 32555
+    },
+    {
+        "text": "It's pouring out there.",
+        "startTime": 23417,
+        "endTime": 24820,
+        "slowStartTime": 35276,
+        "slowEndTime": 37455
+    },
+    {
+        "text": "The sun's come out.",
+        "startTime": 26648,
+        "endTime": 27642,
+        "slowStartTime": 40122,
+        "slowEndTime": 41688
+    },
+    {
+        "text": "What a nice day!",
+        "startTime": 29227,
+        "endTime": 30746,
+        "slowStartTime": 43991,
+        "slowEndTime": 46344
+    },
+    {
+        "text": "That sounds like thunder.",
+        "startTime": 32442,
+        "endTime": 33961,
+        "slowStartTime": 48813,
+        "slowEndTime": 51167
+    }
+]

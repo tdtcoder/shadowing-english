@@ -1,0 +1,114 @@
+[
+    {
+        "text": "﻿You work at GE?",
+        "startTime": 3261,
+        "endTime": 4069,
+        "slowStartTime": 5042,
+        "slowEndTime": 6328
+    },
+    {
+        "text": "Oh yeah, I do.",
+        "startTime": 4476,
+        "endTime": 5052,
+        "slowStartTime": 6864,
+        "slowEndTime": 7803
+    },
+    {
+        "text": "You guys are working on some pretty big stuff over there, right?",
+        "startTime": 5192,
+        "endTime": 7497,
+        "slowStartTime": 7938,
+        "slowEndTime": 11471
+    },
+    {
+        "text": "Like a new language for crazy, big, world-changing machines.",
+        "startTime": 7643,
+        "endTime": 10431,
+        "slowStartTime": 11615,
+        "slowEndTime": 15871
+    },
+    {
+        "text": "Well, not me specifically. I work on the industrial side,...",
+        "startTime": 10489,
+        "endTime": 13003,
+        "slowStartTime": 15884,
+        "slowEndTime": 19730
+    },
+    {
+        "text": "...so I build the world-changing machines.",
+        "startTime": 13121,
+        "endTime": 15071,
+        "slowStartTime": 19831,
+        "slowEndTime": 22832
+    },
+    {
+        "text": "I get it, you can't talk because it's super high level.",
+        "startTime": 15961,
+        "endTime": 18582,
+        "slowStartTime": 24092,
+        "slowEndTime": 28098
+    },
+    {
+        "text": "No, I actually do build the machines.",
+        "startTime": 19489,
+        "endTime": 21503,
+        "slowStartTime": 29384,
+        "slowEndTime": 32479
+    },
+    {
+        "text": "Blink if what you're doing involves event stream processing.",
+        "startTime": 21685,
+        "endTime": 24055,
+        "slowStartTime": 32677,
+        "slowEndTime": 36307
+    },
+    {
+        "text": "Please know I'm trying not to blink.",
+        "startTime": 26247,
+        "endTime": 27455,
+        "slowStartTime": 39520,
+        "slowEndTime": 41408
+    },
+    {
+        "text": "Shift uncomfortably if I get warmer.",
+        "startTime": 27642,
+        "endTime": 29269,
+        "slowStartTime": 41613,
+        "slowEndTime": 44129
+    },
+    {
+        "text": "Encrypted data transfer.",
+        "startTime": 30487,
+        "endTime": 31827,
+        "slowStartTime": 45881,
+        "slowEndTime": 47966
+    },
+    {
+        "text": "Complex event processing.",
+        "startTime": 33156,
+        "endTime": 34711,
+        "slowStartTime": 49884,
+        "slowEndTime": 52291
+    },
+    {
+        "text": "Fleet file configuration.",
+        "startTime": 36266,
+        "endTime": 37727,
+        "slowStartTime": 54549,
+        "slowEndTime": 56816
+    },
+    {
+        "text": "This is my stop, so I'm gonna go.",
+        "startTime": 40005,
+        "endTime": 42067,
+        "slowStartTime": 60157,
+        "slowEndTime": 63326
+    },
+    {
+        "text": "You guys are in deep.",
+        "startTime": 46238,
+        "endTime": 47588,
+        "slowStartTime": 69507,
+        "slowEndTime": 71607
+    }
+]

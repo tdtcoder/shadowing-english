@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Head north to Hollywood,...",
+        "startTime": 1191,
+        "endTime": 2504,
+        "slowStartTime": 1937,
+        "slowEndTime": 3981
+    },
+    {
+        "text": "...the epicenter of the world's entertainment industry.",
+        "startTime": 2827,
+        "endTime": 5532,
+        "slowStartTime": 4390,
+        "slowEndTime": 8523
+    },
+    {
+        "text": "Track down your favorite star on the historic Hollywood Walk of Fame...",
+        "startTime": 6975,
+        "endTime": 10449,
+        "slowStartTime": 10613,
+        "slowEndTime": 15898
+    },
+    {
+        "text": "...and catch a movie at Grauman's Chinese Theater,...",
+        "startTime": 10587,
+        "endTime": 13031,
+        "slowStartTime": 16030,
+        "slowEndTime": 19772
+    },
+    {
+        "text": "...the most famous first-run movie theater in the world.",
+        "startTime": 13153,
+        "endTime": 16199,
+        "slowStartTime": 19879,
+        "slowEndTime": 24523
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "text": "Seismic activity is concentrated along fault lines:...",
+        "startTime": 599,
+        "endTime": 3647,
+        "slowStartTime": 1048,
+        "slowEndTime": 5695
+    },
+    {
+        "text": "...areas of fracture in the Earth's crust,...",
+        "startTime": 3755,
+        "endTime": 5830,
+        "slowStartTime": 5782,
+        "slowEndTime": 8970
+    },
+    {
+        "text": "...generally found near ridges or tectonic plate boundaries.",
+        "startTime": 5987,
+        "endTime": 8959,
+        "slowStartTime": 9131,
+        "slowEndTime": 13663
+    },
+    {
+        "text": "Constantly in motion, these huge plates sometimes collide,...",
+        "startTime": 10067,
+        "endTime": 13081,
+        "slowStartTime": 15250,
+        "slowEndTime": 19847
+    },
+    {
+        "text": "...forcing one beneath the other.",
+        "startTime": 13192,
+        "endTime": 14875,
+        "slowStartTime": 19938,
+        "slowEndTime": 22538
+    },
+    {
+        "text": "The resulting friction creates energy along the fault lines,...",
+        "startTime": 15530,
+        "endTime": 18195,
+        "slowStartTime": 23445,
+        "slowEndTime": 27517
+    },
+    {
+        "text": "...which eventually become unstable and rupture, sending out a shock wave.",
+        "startTime": 18311,
+        "endTime": 21821,
+        "slowStartTime": 27616,
+        "slowEndTime": 32956
+    },
+    {
+        "text": "The energy released is felt as an earthquake.",
+        "startTime": 22297,
+        "endTime": 24621,
+        "slowStartTime": 33595,
+        "slowEndTime": 37157
+    },
+    {
+        "text": "After the initial jolt,...",
+        "startTime": 25459,
+        "endTime": 26709,
+        "slowStartTime": 38338,
+        "slowEndTime": 40288
+    },
+    {
+        "text": "...aftershocks can strike as neighboring plates readjust into place.",
+        "startTime": 26806,
+        "endTime": 30353,
+        "slowStartTime": 40359,
+        "slowEndTime": 45754
+    },
+    {
+        "text": "Most underground movement goes unnoticed by human beings,...",
+        "startTime": 31225,
+        "endTime": 34030,
+        "slowStartTime": 46988,
+        "slowEndTime": 51270
+    },
+    {
+        "text": "...but occasionally, a big tremor strikes.",
+        "startTime": 34123,
+        "endTime": 36230,
+        "slowStartTime": 51335,
+        "slowEndTime": 54570
+    },
+    {
+        "text": "Among the world's most active seismic zones:...",
+        "startTime": 36595,
+        "endTime": 38853,
+        "slowStartTime": 55042,
+        "slowEndTime": 58504
+    },
+    {
+        "text": "...Asia, Turkey and Afghanistan, Northern Africa and the Americas.",
+        "startTime": 39122,
+        "endTime": 43288,
+        "slowStartTime": 58833,
+        "slowEndTime": 65157
+    },
+    {
+        "text": "The moment magnitude scale rates energy release during an earthquake.",
+        "startTime": 43453,
+        "endTime": 46778,
+        "slowStartTime": 65330,
+        "slowEndTime": 70392
+    },
+    {
+        "text": "It was devised to measure large tremors more accurately than the older Richter scale.",
+        "startTime": 46995,
+        "endTime": 50838,
+        "slowStartTime": 70643,
+        "slowEndTime": 76482
+    },
+    {
+        "text": "In theory, there's no limit,...",
+        "startTime": 51091,
+        "endTime": 52368,
+        "slowStartTime": 76787,
+        "slowEndTime": 78777
+    },
+    {
+        "text": "...but never has an earthquake measured more than the 9.5 magnitude...",
+        "startTime": 52553,
+        "endTime": 55610,
+        "slowStartTime": 78979,
+        "slowEndTime": 83640
+    },
+    {
+        "text": "...recorded in Chile in 1960.",
+        "startTime": 55731,
+        "endTime": 57785,
+        "slowStartTime": 83747,
+        "slowEndTime": 86902
+    },
+    {
+        "text": "The European macroseismic scale meanwhile rates intensity,...",
+        "startTime": 58029,
+        "endTime": 61347,
+        "slowStartTime": 87193,
+        "slowEndTime": 92245
+    },
+    {
+        "text": "...in other words, possible consequences.",
+        "startTime": 61521,
+        "endTime": 63549,
+        "slowStartTime": 92431,
+        "slowEndTime": 95549
+    },
+    {
+        "text": "There are 12 levels.",
+        "startTime": 63781,
+        "endTime": 64764,
+        "slowStartTime": 95821,
+        "slowEndTime": 97371
+    },
+    {
+        "text": "One indicates the earthquake cannot be felt,...",
+        "startTime": 64987,
+        "endTime": 67022,
+        "slowStartTime": 97630,
+        "slowEndTime": 100758
+    },
+    {
+        "text": "...or 12 indicates a total change in landscape.",
+        "startTime": 67154,
+        "endTime": 69798,
+        "slowStartTime": 100881,
+        "slowEndTime": 104922
+    },
+    {
+        "text": "When a big quake strikes, the scale acts as a warning against other natural phenomena...",
+        "startTime": 70064,
+        "endTime": 74354,
+        "slowStartTime": 105246,
+        "slowEndTime": 111756
+    },
+    {
+        "text": "...which could be triggered such as landslides, avalanches, or tsunamis.",
+        "startTime": 74448,
+        "endTime": 78825,
+        "slowStartTime": 111822,
+        "slowEndTime": 118463
+    }
+]

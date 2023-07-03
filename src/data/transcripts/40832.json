@@ -1,0 +1,72 @@
+[
+    {
+        "text": "In Brazil, Jair Bolsonaro is out as president,...",
+        "startTime": 50,
+        "endTime": 3295,
+        "slowStartTime": 115,
+        "slowEndTime": 5168
+    },
+    {
+        "text": "...defeated by former president Lula da Silva.",
+        "startTime": 3450,
+        "endTime": 6428,
+        "slowStartTime": 5325,
+        "slowEndTime": 9867
+    },
+    {
+        "text": "He defeated the incumbent Bolsonaro in a runoff election.",
+        "startTime": 6567,
+        "endTime": 9701,
+        "slowStartTime": 10000,
+        "slowEndTime": 14777
+    },
+    {
+        "text": "Massive crowds in Sao Paulo are there celebrating.",
+        "startTime": 10127,
+        "endTime": 13223,
+        "slowStartTime": 15341,
+        "slowEndTime": 20059
+    },
+    {
+        "text": "So far, 98.8% of votes have been tallied...",
+        "startTime": 13291,
+        "endTime": 16641,
+        "slowStartTime": 20087,
+        "slowEndTime": 25187
+    },
+    {
+        "text": "...and da Silva leads 50.8% to 49.2.",
+        "startTime": 16715,
+        "endTime": 20405,
+        "slowStartTime": 25223,
+        "slowEndTime": 30832
+    },
+    {
+        "text": "Da Silva served from 2003 to 2010...",
+        "startTime": 20967,
+        "endTime": 23979,
+        "slowStartTime": 31600,
+        "slowEndTime": 36193
+    },
+    {
+        "text": "...and was then imprisoned in 2018 over a corruption scandal...",
+        "startTime": 24076,
+        "endTime": 27601,
+        "slowStartTime": 36264,
+        "slowEndTime": 41626
+    },
+    {
+        "text": "...that sidelined him from that year's election...",
+        "startTime": 27672,
+        "endTime": 29967,
+        "slowStartTime": 41658,
+        "slowEndTime": 45175
+    },
+    {
+        "text": "...and paved the way for Bolsonaro and four years of far-right politics.",
+        "startTime": 30033,
+        "endTime": 34373,
+        "slowStartTime": 45200,
+        "slowEndTime": 51784
+    }
+]

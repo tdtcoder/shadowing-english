@@ -1,0 +1,72 @@
+[
+    {
+        "text": "If you don't have an iPhone,...",
+        "startTime": 1003,
+        "endTime": 2201,
+        "slowStartTime": 1654,
+        "slowEndTime": 3527
+    },
+    {
+        "text": "...you don't have an iPod in your phone...",
+        "startTime": 3351,
+        "endTime": 5057,
+        "slowStartTime": 5176,
+        "slowEndTime": 7811
+    },
+    {
+        "text": "...with your music...",
+        "startTime": 6962,
+        "endTime": 7841,
+        "slowStartTime": 10593,
+        "slowEndTime": 11986
+    },
+    {
+        "text": "...and your playlists.",
+        "startTime": 9713,
+        "endTime": 10957,
+        "slowStartTime": 14720,
+        "slowEndTime": 16660
+    },
+    {
+        "text": "And you don't have iTunes on your phone,...",
+        "startTime": 12497,
+        "endTime": 14136,
+        "slowStartTime": 18896,
+        "slowEndTime": 21429
+    },
+    {
+        "text": "...the world's number one music store.",
+        "startTime": 15031,
+        "endTime": 16563,
+        "slowStartTime": 22697,
+        "slowEndTime": 25070
+    },
+    {
+        "text": "With Genius,...",
+        "startTime": 17629,
+        "endTime": 18394,
+        "slowStartTime": 26594,
+        "slowEndTime": 27816
+    },
+    {
+        "text": "...that recommends new music...",
+        "startTime": 19185,
+        "endTime": 20424,
+        "slowStartTime": 28927,
+        "slowEndTime": 30861
+    },
+    {
+        "text": "...based on the songs you already have.",
+        "startTime": 21489,
+        "endTime": 23101,
+        "slowStartTime": 32384,
+        "slowEndTime": 34877
+    },
+    {
+        "text": "iPod and iTunes: just one more thing that makes an iPhone, an iPhone.",
+        "startTime": 25662,
+        "endTime": 30101,
+        "slowStartTime": 38643,
+        "slowEndTime": 45377
+    }
+]

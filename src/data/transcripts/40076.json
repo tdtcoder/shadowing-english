@@ -1,0 +1,65 @@
+[
+    {
+        "text": "I'm planning to go on a trip with my sister.",
+        "startTime": 172,
+        "endTime": 2853,
+        "slowStartTime": 408,
+        "slowEndTime": 4504
+    },
+    {
+        "text": "You two must be excited.",
+        "startTime": 3455,
+        "endTime": 4855,
+        "slowStartTime": 5333,
+        "slowEndTime": 7507
+    },
+    {
+        "text": "Yes!",
+        "startTime": 5231,
+        "endTime": 5834,
+        "slowStartTime": 7997,
+        "slowEndTime": 8976
+    },
+    {
+        "text": "Do you have a brother or sister?",
+        "startTime": 6141,
+        "endTime": 7836,
+        "slowStartTime": 9362,
+        "slowEndTime": 11979
+    },
+    {
+        "text": "I have one older brother.",
+        "startTime": 8231,
+        "endTime": 9615,
+        "slowStartTime": 12496,
+        "slowEndTime": 14648
+    },
+    {
+        "text": "When was the last time you went on a trip with him?",
+        "startTime": 10581,
+        "endTime": 13419,
+        "slowStartTime": 16021,
+        "slowEndTime": 20354
+    },
+    {
+        "text": "Gee, I can't remember.",
+        "startTime": 14512,
+        "endTime": 15977,
+        "slowStartTime": 21918,
+        "slowEndTime": 24191
+    },
+    {
+        "text": "My sister and I go on a trip every summer.",
+        "startTime": 16986,
+        "endTime": 19892,
+        "slowStartTime": 25629,
+        "slowEndTime": 30063
+    },
+    {
+        "text": "Maybe I should plan a trip with my brother, too.",
+        "startTime": 21579,
+        "endTime": 24341,
+        "slowStartTime": 32518,
+        "slowEndTime": 36737
+    }
+]

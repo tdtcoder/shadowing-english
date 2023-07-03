@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Fire.",
+        "startTime": 2699,
+        "endTime": 3335,
+        "slowStartTime": 4198,
+        "slowEndTime": 5228
+    },
+    {
+        "text": "The fire is hot.",
+        "startTime": 4109,
+        "endTime": 5478,
+        "slowStartTime": 6313,
+        "slowEndTime": 8442
+    },
+    {
+        "text": "The fire is very hot.",
+        "startTime": 6819,
+        "endTime": 8699,
+        "slowStartTime": 10379,
+        "slowEndTime": 13273
+    },
+    {
+        "text": "Hire.",
+        "startTime": 10054,
+        "endTime": 10685,
+        "slowStartTime": 15231,
+        "slowEndTime": 16253
+    },
+    {
+        "text": "I will hire the girl.",
+        "startTime": 11416,
+        "endTime": 12998,
+        "slowStartTime": 17274,
+        "slowEndTime": 19722
+    },
+    {
+        "text": "I will hire the young girl.",
+        "startTime": 14377,
+        "endTime": 16167,
+        "slowStartTime": 21716,
+        "slowEndTime": 24476
+    },
+    {
+        "text": "Tire.",
+        "startTime": 17572,
+        "endTime": 18151,
+        "slowStartTime": 26508,
+        "slowEndTime": 27451
+    },
+    {
+        "text": "We need to change the tire.",
+        "startTime": 18954,
+        "endTime": 20851,
+        "slowStartTime": 28581,
+        "slowEndTime": 31502
+    },
+    {
+        "text": "We need to change the old tire.",
+        "startTime": 22254,
+        "endTime": 24637,
+        "slowStartTime": 33531,
+        "slowEndTime": 37181
+    },
+    {
+        "text": "Wire.",
+        "startTime": 26054,
+        "endTime": 26710,
+        "slowStartTime": 39231,
+        "slowEndTime": 40290
+    },
+    {
+        "text": "We will use the wire.",
+        "startTime": 27513,
+        "endTime": 29282,
+        "slowStartTime": 41420,
+        "slowEndTime": 44148
+    },
+    {
+        "text": "We will use the steel wire.",
+        "startTime": 30660,
+        "endTime": 32889,
+        "slowStartTime": 46140,
+        "slowEndTime": 49559
+    },
+    {
+        "text": "Animals live in many different places.",
+        "startTime": 38411,
+        "endTime": 41857,
+        "slowStartTime": 57767,
+        "slowEndTime": 63010
+    },
+    {
+        "text": "Birds and monkeys live in the trees.",
+        "startTime": 42091,
+        "endTime": 45569,
+        "slowStartTime": 63286,
+        "slowEndTime": 68578
+    },
+    {
+        "text": "Frogs and turtles live in a pond.",
+        "startTime": 45881,
+        "endTime": 49228,
+        "slowStartTime": 68971,
+        "slowEndTime": 74067
+    },
+    {
+        "text": "Bats and bears live in a cave.",
+        "startTime": 49597,
+        "endTime": 53005,
+        "slowStartTime": 74546,
+        "slowEndTime": 79732
+    },
+    {
+        "text": "Deer and foxes live in the woods.",
+        "startTime": 53401,
+        "endTime": 56799,
+        "slowStartTime": 80252,
+        "slowEndTime": 85424
+    },
+    {
+        "text": "Octopuses and whales live in the ocean.",
+        "startTime": 57108,
+        "endTime": 60405,
+        "slowStartTime": 85812,
+        "slowEndTime": 90832
+    },
+    {
+        "text": "Mandy and Michael live in a house.",
+        "startTime": 60816,
+        "endTime": 64266,
+        "slowStartTime": 91374,
+        "slowEndTime": 96624
+    },
+    {
+        "text": "People are animals, too!",
+        "startTime": 64587,
+        "endTime": 67018,
+        "slowStartTime": 97030,
+        "slowEndTime": 100752
+    }
+]

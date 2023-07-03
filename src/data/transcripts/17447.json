@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Do you know where Flora is?",
+        "startTime": 1503,
+        "endTime": 3493,
+        "slowStartTime": 2405,
+        "slowEndTime": 5465
+    },
+    {
+        "text": "I think she is in her room.",
+        "startTime": 4570,
+        "endTime": 6375,
+        "slowStartTime": 7005,
+        "slowEndTime": 9787
+    },
+    {
+        "text": "I heard her singing songs in her room.",
+        "startTime": 6809,
+        "endTime": 9271,
+        "slowStartTime": 10364,
+        "slowEndTime": 14131
+    },
+    {
+        "text": "Please don't let her sing at home. It's noisy.",
+        "startTime": 10621,
+        "endTime": 13735,
+        "slowStartTime": 16082,
+        "slowEndTime": 20827
+    },
+    {
+        "text": "Who is that tall boy?",
+        "startTime": 16253,
+        "endTime": 17865,
+        "slowStartTime": 24530,
+        "slowEndTime": 27023
+    },
+    {
+        "text": "He is my cousin, Jeff.",
+        "startTime": 19216,
+        "endTime": 21117,
+        "slowStartTime": 28974,
+        "slowEndTime": 31900
+    },
+    {
+        "text": "I saw him walk into your house yesterday.",
+        "startTime": 22268,
+        "endTime": 25250,
+        "slowStartTime": 33552,
+        "slowEndTime": 38100
+    },
+    {
+        "text": "Oh, he smiles at you. Why don't you wave at him?",
+        "startTime": 26443,
+        "endTime": 30649,
+        "slowStartTime": 39815,
+        "slowEndTime": 46198
+    },
+    {
+        "text": "Momma Dog, Momma Dog, what do you see?",
+        "startTime": 36224,
+        "endTime": 39447,
+        "slowStartTime": 54486,
+        "slowEndTime": 59395
+    },
+    {
+        "text": "I see an eagle looking down at me.",
+        "startTime": 39793,
+        "endTime": 43188,
+        "slowStartTime": 59840,
+        "slowEndTime": 65007
+    },
+    {
+        "text": "Puppy Dog, Puppy Dog, what do you see?",
+        "startTime": 43772,
+        "endTime": 46951,
+        "slowStartTime": 65808,
+        "slowEndTime": 70651
+    },
+    {
+        "text": "I see a dragon breathing fire at me.",
+        "startTime": 47303,
+        "endTime": 50743,
+        "slowStartTime": 71104,
+        "slowEndTime": 76340
+    },
+    {
+        "text": "Momma Dog, Momma Dog, what do you see?",
+        "startTime": 51217,
+        "endTime": 54378,
+        "slowStartTime": 76976,
+        "slowEndTime": 81792
+    },
+    {
+        "text": "I see a snake slithering quickly at me.",
+        "startTime": 54817,
+        "endTime": 58179,
+        "slowStartTime": 82376,
+        "slowEndTime": 87494
+    },
+    {
+        "text": "Puppy Dog, Puppy Dog, what do you see?",
+        "startTime": 58801,
+        "endTime": 61934,
+        "slowStartTime": 88352,
+        "slowEndTime": 93126
+    },
+    {
+        "text": "I see a fox hunting eagles with me.",
+        "startTime": 62292,
+        "endTime": 65774,
+        "slowStartTime": 93588,
+        "slowEndTime": 98886
+    }
+]

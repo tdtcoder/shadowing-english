@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Secretary of State Clinton visits Burma, making this the first visit by a chief US diplomat in over 50 years.",
+        "startTime": 6179,
+        "endTime": 13496,
+        "slowStartTime": 9418,
+        "slowEndTime": 20469
+    },
+    {
+        "text": "Authorities crack down on Occupy Wall Street protesters in Philadelphia and Los Angeles.",
+        "startTime": 19509,
+        "endTime": 25057,
+        "slowStartTime": 29413,
+        "slowEndTime": 37810
+    },
+    {
+        "text": "US Border Patrol agents arrest 14 suspected illegal immigrants as their boat nears the California coast.",
+        "startTime": 30953,
+        "endTime": 37964,
+        "slowStartTime": 46580,
+        "slowEndTime": 57171
+    },
+    {
+        "text": "A 30 minute police chase ends in Los Angeles after the suspect crashes into a parked car and flees on foot.",
+        "startTime": 41696,
+        "endTime": 49287,
+        "slowStartTime": 62694,
+        "slowEndTime": 74155
+    },
+    {
+        "text": "By a score of 85 to 63, Ohio State University gives Duke University its first loss of the season.",
+        "startTime": 53024,
+        "endTime": 60639,
+        "slowStartTime": 79686,
+        "slowEndTime": 91183
+    }
+]

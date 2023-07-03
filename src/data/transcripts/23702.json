@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Good morning, Sam, I'm on the road here,...",
+        "startTime": 1279,
+        "endTime": 2859,
+        "slowStartTime": 2068,
+        "slowEndTime": 4513
+    },
+    {
+        "text": "...I-95 in New York and yes, already very crowded.",
+        "startTime": 2945,
+        "endTime": 5980,
+        "slowStartTime": 4567,
+        "slowEndTime": 9195
+    },
+    {
+        "text": "I'm doing what tens of millions of people are going to be doing today,...",
+        "startTime": 6049,
+        "endTime": 9671,
+        "slowStartTime": 9223,
+        "slowEndTime": 14731
+    },
+    {
+        "text": "...behind the wheel and sitting right here, seeing a whole lot of that.",
+        "startTime": 10071,
+        "endTime": 14136,
+        "slowStartTime": 15256,
+        "slowEndTime": 21429
+    },
+    {
+        "text": "A lot of brake lights.",
+        "startTime": 14406,
+        "endTime": 15472,
+        "slowStartTime": 21759,
+        "slowEndTime": 23433
+    },
+    {
+        "text": "This morning, the infamous Thanksgiving travel rush could come to an abrupt halt...",
+        "startTime": 17134,
+        "endTime": 21590,
+        "slowStartTime": 25851,
+        "slowEndTime": 32610
+    },
+    {
+        "text": "...in one of the nation's hubs.",
+        "startTime": 21685,
+        "endTime": 23109,
+        "slowStartTime": 32677,
+        "slowEndTime": 34889
+    },
+    {
+        "text": "That thick fog in Chicago that's creating zero visibility...",
+        "startTime": 23513,
+        "endTime": 26881,
+        "slowStartTime": 35420,
+        "slowEndTime": 40547
+    },
+    {
+        "text": "...could cause chaos for the rest of the country.",
+        "startTime": 27156,
+        "endTime": 29441,
+        "slowStartTime": 40884,
+        "slowEndTime": 44386
+    },
+    {
+        "text": "Now take a look at this.",
+        "startTime": 29739,
+        "endTime": 31105,
+        "slowStartTime": 44758,
+        "slowEndTime": 46882
+    },
+    {
+        "text": "A 30-mile backup on a Massachusetts Turnpike last night,...",
+        "startTime": 31367,
+        "endTime": 34453,
+        "slowStartTime": 47201,
+        "slowEndTime": 51905
+    },
+    {
+        "text": "...spreads snarls on all major highways in the eastern part of the state.",
+        "startTime": 34693,
+        "endTime": 38599,
+        "slowStartTime": 52190,
+        "slowEndTime": 58123
+    },
+    {
+        "text": "The top 5 cities bracing for the worst traffic today:...",
+        "startTime": 39380,
+        "endTime": 42575,
+        "slowStartTime": 59220,
+        "slowEndTime": 64087
+    },
+    {
+        "text": "...New York, Washington DC, Chicago, San Francisco...",
+        "startTime": 42942,
+        "endTime": 47190,
+        "slowStartTime": 64563,
+        "slowEndTime": 71010
+    },
+    {
+        "text": "...and the most tangled roads, in Los Angeles,...",
+        "startTime": 47401,
+        "endTime": 50150,
+        "slowStartTime": 71251,
+        "slowEndTime": 75450
+    },
+    {
+        "text": "...with holiday road trips there predicted to take 33% longer than usual.",
+        "startTime": 50427,
+        "endTime": 55387,
+        "slowStartTime": 75790,
+        "slowEndTime": 83305
+    }
+]

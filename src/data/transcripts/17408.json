@@ -1,0 +1,212 @@
+[
+    {
+        "text": "I live where the weather changes during the year.",
+        "startTime": 1581,
+        "endTime": 5091,
+        "slowStartTime": 2521,
+        "slowEndTime": 7862
+    },
+    {
+        "text": "It changes with each season.",
+        "startTime": 6091,
+        "endTime": 8477,
+        "slowStartTime": 9287,
+        "slowEndTime": 12940
+    },
+    {
+        "text": "We have four seasons.",
+        "startTime": 9491,
+        "endTime": 11310,
+        "slowStartTime": 14387,
+        "slowEndTime": 17190
+    },
+    {
+        "text": "We start with spring.",
+        "startTime": 12431,
+        "endTime": 14232,
+        "slowStartTime": 18796,
+        "slowEndTime": 21573
+    },
+    {
+        "text": "Then comes summer.",
+        "startTime": 15239,
+        "endTime": 16715,
+        "slowStartTime": 23009,
+        "slowEndTime": 25297
+    },
+    {
+        "text": "Then comes fall.",
+        "startTime": 17697,
+        "endTime": 19220,
+        "slowStartTime": 26696,
+        "slowEndTime": 29055
+    },
+    {
+        "text": "Then comes winter.",
+        "startTime": 20223,
+        "endTime": 21813,
+        "slowStartTime": 30485,
+        "slowEndTime": 32945
+    },
+    {
+        "text": "It is spring and the snow melts.",
+        "startTime": 22821,
+        "endTime": 25583,
+        "slowStartTime": 34381,
+        "slowEndTime": 38599
+    },
+    {
+        "text": "It gets warmer, and plants begin to grow.",
+        "startTime": 26665,
+        "endTime": 29909,
+        "slowStartTime": 40148,
+        "slowEndTime": 45088
+    },
+    {
+        "text": "The days get longer, and the nights get shorter.",
+        "startTime": 30931,
+        "endTime": 34727,
+        "slowStartTime": 46547,
+        "slowEndTime": 52315
+    },
+    {
+        "text": "I wear my jacket.",
+        "startTime": 35723,
+        "endTime": 37140,
+        "slowStartTime": 53734,
+        "slowEndTime": 55935
+    },
+    {
+        "text": "It is summer.",
+        "startTime": 38172,
+        "endTime": 39259,
+        "slowStartTime": 57408,
+        "slowEndTime": 59113
+    },
+    {
+        "text": "It gets hot, and the plants grow bigger.",
+        "startTime": 40309,
+        "endTime": 43578,
+        "slowStartTime": 60614,
+        "slowEndTime": 65592
+    },
+    {
+        "text": "The days are long, and the nights are short.",
+        "startTime": 44608,
+        "endTime": 48070,
+        "slowStartTime": 67062,
+        "slowEndTime": 72330
+    },
+    {
+        "text": "I wear my shorts.",
+        "startTime": 49052,
+        "endTime": 50607,
+        "slowStartTime": 73728,
+        "slowEndTime": 76135
+    },
+    {
+        "text": "It is fall.",
+        "startTime": 51673,
+        "endTime": 52943,
+        "slowStartTime": 77660,
+        "slowEndTime": 79640
+    },
+    {
+        "text": "It gets cooler, and the plants stop growing.",
+        "startTime": 53900,
+        "endTime": 57843,
+        "slowStartTime": 81000,
+        "slowEndTime": 86989
+    },
+    {
+        "text": "The days get shorter, and the nights get longer.",
+        "startTime": 58831,
+        "endTime": 62817,
+        "slowStartTime": 88397,
+        "slowEndTime": 94451
+    },
+    {
+        "text": "I wear my sweater.",
+        "startTime": 63886,
+        "endTime": 65347,
+        "slowStartTime": 95979,
+        "slowEndTime": 98245
+    },
+    {
+        "text": "It is winter.",
+        "startTime": 66386,
+        "endTime": 67519,
+        "slowStartTime": 99729,
+        "slowEndTime": 101504
+    },
+    {
+        "text": "It is cold, and many plants die.",
+        "startTime": 68575,
+        "endTime": 71940,
+        "slowStartTime": 103012,
+        "slowEndTime": 108135
+    },
+    {
+        "text": "The snow begins to fall, and the days are short.",
+        "startTime": 72983,
+        "endTime": 76277,
+        "slowStartTime": 109625,
+        "slowEndTime": 114641
+    },
+    {
+        "text": "I wear my coat.",
+        "startTime": 77367,
+        "endTime": 78391,
+        "slowStartTime": 116201,
+        "slowEndTime": 117811
+    },
+    {
+        "text": "The weather has changed with each season.",
+        "startTime": 79442,
+        "endTime": 82374,
+        "slowStartTime": 119313,
+        "slowEndTime": 123786
+    },
+    {
+        "text": "It got warmer and warmer.",
+        "startTime": 83450,
+        "endTime": 85507,
+        "slowStartTime": 125325,
+        "slowEndTime": 128485
+    },
+    {
+        "text": "The days got longer and longer.",
+        "startTime": 86556,
+        "endTime": 88865,
+        "slowStartTime": 129984,
+        "slowEndTime": 133523
+    },
+    {
+        "text": "Then it got cooler and cooler.",
+        "startTime": 89945,
+        "endTime": 92413,
+        "slowStartTime": 135067,
+        "slowEndTime": 138844
+    },
+    {
+        "text": "The days got shorter and shorter.",
+        "startTime": 93456,
+        "endTime": 95866,
+        "slowStartTime": 140334,
+        "slowEndTime": 144024
+    },
+    {
+        "text": "Next, I will see spring again.",
+        "startTime": 96867,
+        "endTime": 99497,
+        "slowStartTime": 145450,
+        "slowEndTime": 149470
+    },
+    {
+        "text": "The cycle will start all over.",
+        "startTime": 100551,
+        "endTime": 103172,
+        "slowStartTime": 150977,
+        "slowEndTime": 154983
+    }
+]

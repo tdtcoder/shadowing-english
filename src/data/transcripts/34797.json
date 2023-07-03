@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Back to the Drawing Board",
+        "startTime": 631,
+        "endTime": 2209,
+        "slowStartTime": 1097,
+        "slowEndTime": 3538
+    },
+    {
+        "text": "It means to go back to the beginning because the current attempt was unsuccessful.",
+        "startTime": 3255,
+        "endTime": 8221,
+        "slowStartTime": 5033,
+        "slowEndTime": 12556
+    },
+    {
+        "text": "Our CEO changed the scope of our project yet again,...",
+        "startTime": 9177,
+        "endTime": 12877,
+        "slowStartTime": 13916,
+        "slowEndTime": 19540
+    },
+    {
+        "text": "...so it's back to the drawing board to come up with a new strategy.",
+        "startTime": 13421,
+        "endTime": 17087,
+        "slowStartTime": 20282,
+        "slowEndTime": 25855
+    },
+    {
+        "text": "The designers are back to the drawing board after the client rejected their proposal.",
+        "startTime": 18049,
+        "endTime": 23325,
+        "slowStartTime": 27224,
+        "slowEndTime": 35212
+    }
+]

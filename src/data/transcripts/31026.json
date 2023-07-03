@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Hatching time!",
+        "startTime": 1541,
+        "endTime": 2930,
+        "slowStartTime": 2461,
+        "slowEndTime": 4620
+    },
+    {
+        "text": "Let's paint some color on them.",
+        "startTime": 4164,
+        "endTime": 6257,
+        "slowStartTime": 6396,
+        "slowEndTime": 9610
+    },
+    {
+        "text": "Let's color this egg red.",
+        "startTime": 7649,
+        "endTime": 9837,
+        "slowStartTime": 11624,
+        "slowEndTime": 14980
+    },
+    {
+        "text": "Hey!",
+        "startTime": 18279,
+        "endTime": 19115,
+        "slowStartTime": 27568,
+        "slowEndTime": 28898
+    },
+    {
+        "text": "It's a red chick.",
+        "startTime": 19235,
+        "endTime": 20542,
+        "slowStartTime": 29002,
+        "slowEndTime": 31038
+    },
+    {
+        "text": "I want a yellow chick!",
+        "startTime": 21577,
+        "endTime": 23275,
+        "slowStartTime": 32515,
+        "slowEndTime": 35138
+    },
+    {
+        "text": "Okay.",
+        "startTime": 23975,
+        "endTime": 25172,
+        "slowStartTime": 36112,
+        "slowEndTime": 37983
+    },
+    {
+        "text": "Let's color this green.",
+        "startTime": 38875,
+        "endTime": 40703,
+        "slowStartTime": 58462,
+        "slowEndTime": 61279
+    },
+    {
+        "text": "Yippee! It's a green chick!",
+        "startTime": 45959,
+        "endTime": 47830,
+        "slowStartTime": 69089,
+        "slowEndTime": 71970
+    }
+]

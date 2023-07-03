@@ -1,0 +1,184 @@
+[
+    {
+        "text": "Consider this unfortunately familiar scenario.",
+        "startTime": 319,
+        "endTime": 3303,
+        "slowStartTime": 628,
+        "slowEndTime": 5179
+    },
+    {
+        "text": "Several months ago, a highly infectious, sometimes deadly respiratory virus...",
+        "startTime": 3913,
+        "endTime": 8910,
+        "slowStartTime": 6020,
+        "slowEndTime": 13590
+    },
+    {
+        "text": "...infected humans for the first time.",
+        "startTime": 9247,
+        "endTime": 11271,
+        "slowStartTime": 14021,
+        "slowEndTime": 17132
+    },
+    {
+        "text": "It then proliferated faster than public health measures could contain it.",
+        "startTime": 11817,
+        "endTime": 15730,
+        "slowStartTime": 17875,
+        "slowEndTime": 23820
+    },
+    {
+        "text": "Now, the World Health Organization has declared a pandemic,...",
+        "startTime": 16323,
+        "endTime": 19771,
+        "slowStartTime": 24634,
+        "slowEndTime": 29881
+    },
+    {
+        "text": "...meaning that it's spreading worldwide.",
+        "startTime": 20089,
+        "endTime": 22232,
+        "slowStartTime": 30284,
+        "slowEndTime": 33573
+    },
+    {
+        "text": "The death toll is starting to rise, and everyone is asking the same question:...",
+        "startTime": 23093,
+        "endTime": 27439,
+        "slowStartTime": 34790,
+        "slowEndTime": 41384
+    },
+    {
+        "text": "When will the pandemic end?",
+        "startTime": 28061,
+        "endTime": 30058,
+        "slowStartTime": 42241,
+        "slowEndTime": 45312
+    },
+    {
+        "text": "The WHO will likely declare the pandemic over...",
+        "startTime": 31070,
+        "endTime": 34068,
+        "slowStartTime": 46755,
+        "slowEndTime": 51327
+    },
+    {
+        "text": "...once the infection is mostly contained...",
+        "startTime": 34246,
+        "endTime": 36611,
+        "slowStartTime": 51519,
+        "slowEndTime": 55142
+    },
+    {
+        "text": "...and rates of transmission drop significantly throughout the world,...",
+        "startTime": 36804,
+        "endTime": 40469,
+        "slowStartTime": 55356,
+        "slowEndTime": 60929
+    },
+    {
+        "text": "...but exactly when that happens depends on what global governments choose to do next.",
+        "startTime": 41306,
+        "endTime": 46179,
+        "slowStartTime": 62109,
+        "slowEndTime": 69493
+    },
+    {
+        "text": "They have three main options:...",
+        "startTime": 46568,
+        "endTime": 48470,
+        "slowStartTime": 70002,
+        "slowEndTime": 72930
+    },
+    {
+        "text": "...Race through it, delay and vaccinate, or coordinate and crush.",
+        "startTime": 48690,
+        "endTime": 53563,
+        "slowStartTime": 73185,
+        "slowEndTime": 80569
+    },
+    {
+        "text": "One is widely considered best, and it may not be the one you think.",
+        "startTime": 53970,
+        "endTime": 58440,
+        "slowStartTime": 81105,
+        "slowEndTime": 87885
+    },
+    {
+        "text": "In the first, governments and communities do nothing to halt the spread...",
+        "startTime": 59195,
+        "endTime": 62953,
+        "slowStartTime": 88942,
+        "slowEndTime": 94654
+    },
+    {
+        "text": "...and instead allow people to be exposed as quickly as possible.",
+        "startTime": 63143,
+        "endTime": 66654,
+        "slowStartTime": 94865,
+        "slowEndTime": 100206
+    },
+    {
+        "text": "Without time to study the virus,...",
+        "startTime": 67099,
+        "endTime": 68712,
+        "slowStartTime": 100798,
+        "slowEndTime": 103293
+    },
+    {
+        "text": "...doctors know little about how to save their patients,...",
+        "startTime": 68800,
+        "endTime": 71289,
+        "slowStartTime": 103350,
+        "slowEndTime": 107158
+    },
+    {
+        "text": "...and hospitals reach peak capacity almost immediately.",
+        "startTime": 71464,
+        "endTime": 74665,
+        "slowStartTime": 107346,
+        "slowEndTime": 112222
+    },
+    {
+        "text": "Somewhere in the range of millions to hundreds of millions of people die,...",
+        "startTime": 75177,
+        "endTime": 79589,
+        "slowStartTime": 112916,
+        "slowEndTime": 119608
+    },
+    {
+        "text": "...either from the virus or the collapse of health care systems.",
+        "startTime": 80008,
+        "endTime": 83363,
+        "slowStartTime": 120162,
+        "slowEndTime": 125270
+    },
+    {
+        "text": "Soon, the majority of people have been infected...",
+        "startTime": 83916,
+        "endTime": 86624,
+        "slowStartTime": 126024,
+        "slowEndTime": 130161
+    },
+    {
+        "text": "...and either perished or survived by building up their immune responses.",
+        "startTime": 86726,
+        "endTime": 91103,
+        "slowStartTime": 130239,
+        "slowEndTime": 136880
+    },
+    {
+        "text": "Around this point, herd immunity kicks in, where the virus can no longer find new hosts.",
+        "startTime": 92033,
+        "endTime": 97970,
+        "slowStartTime": 138199,
+        "slowEndTime": 147180
+    },
+    {
+        "text": "So, the pandemic fizzles out a short time after it began.",
+        "startTime": 98381,
+        "endTime": 102069,
+        "slowStartTime": 147722,
+        "slowEndTime": 153329
+    }
+]

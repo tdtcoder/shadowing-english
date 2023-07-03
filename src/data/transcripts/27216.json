@@ -1,0 +1,142 @@
+[
+    {
+        "text": "﻿London Bridge is falling down,...",
+        "startTime": 5677,
+        "endTime": 8235,
+        "slowStartTime": 8666,
+        "slowEndTime": 12578
+    },
+    {
+        "text": "...falling down, falling down.",
+        "startTime": 8533,
+        "endTime": 10986,
+        "slowStartTime": 12950,
+        "slowEndTime": 16704
+    },
+    {
+        "text": "London Bridge is falling down,...",
+        "startTime": 11371,
+        "endTime": 13797,
+        "slowStartTime": 17207,
+        "slowEndTime": 20920
+    },
+    {
+        "text": "...my fair lady.",
+        "startTime": 14162,
+        "endTime": 16446,
+        "slowStartTime": 21393,
+        "slowEndTime": 24894
+    },
+    {
+        "text": "Build it up with sticks and stones,...",
+        "startTime": 17036,
+        "endTime": 19582,
+        "slowStartTime": 25704,
+        "slowEndTime": 29598
+    },
+    {
+        "text": "...sticks and stones, sticks and stones.",
+        "startTime": 19745,
+        "endTime": 22400,
+        "slowStartTime": 29767,
+        "slowEndTime": 33825
+    },
+    {
+        "text": "Build it up with sticks and stones,...",
+        "startTime": 22644,
+        "endTime": 25187,
+        "slowStartTime": 34116,
+        "slowEndTime": 38006
+    },
+    {
+        "text": "...my fair lady.",
+        "startTime": 25486,
+        "endTime": 27724,
+        "slowStartTime": 38379,
+        "slowEndTime": 41811
+    },
+    {
+        "text": "Sticks and stones will all fall down,...",
+        "startTime": 28161,
+        "endTime": 30759,
+        "slowStartTime": 42392,
+        "slowEndTime": 46363
+    },
+    {
+        "text": "...all fall down, all fall down.",
+        "startTime": 31139,
+        "endTime": 33607,
+        "slowStartTime": 46858,
+        "slowEndTime": 50636
+    },
+    {
+        "text": "Sticks and stones will all fall down,...",
+        "startTime": 33852,
+        "endTime": 36405,
+        "slowStartTime": 50928,
+        "slowEndTime": 54833
+    },
+    {
+        "text": "...my fair lady.",
+        "startTime": 36782,
+        "endTime": 39018,
+        "slowStartTime": 55323,
+        "slowEndTime": 58752
+    },
+    {
+        "text": "Build it up with wood and clay,...",
+        "startTime": 39600,
+        "endTime": 42101,
+        "slowStartTime": 59550,
+        "slowEndTime": 63376
+    },
+    {
+        "text": "...wood and clay, wood and clay.",
+        "startTime": 42433,
+        "endTime": 44902,
+        "slowStartTime": 63799,
+        "slowEndTime": 67578
+    },
+    {
+        "text": "Build it up with wood and clay,...",
+        "startTime": 45249,
+        "endTime": 47765,
+        "slowStartTime": 68024,
+        "slowEndTime": 71872
+    },
+    {
+        "text": "...my fair lady.",
+        "startTime": 48046,
+        "endTime": 50299,
+        "slowStartTime": 72219,
+        "slowEndTime": 75674
+    },
+    {
+        "text": "Wood and clay will wash away,...",
+        "startTime": 50915,
+        "endTime": 53419,
+        "slowStartTime": 76522,
+        "slowEndTime": 80354
+    },
+    {
+        "text": "...wash away, wash away,",
+        "startTime": 53731,
+        "endTime": 56335,
+        "slowStartTime": 80746,
+        "slowEndTime": 84728
+    },
+    {
+        "text": "Wood and clay will wash away,...",
+        "startTime": 56550,
+        "endTime": 59017,
+        "slowStartTime": 84975,
+        "slowEndTime": 88751
+    },
+    {
+        "text": "My fair lady.",
+        "startTime": 59377,
+        "endTime": 61676,
+        "slowStartTime": 89215,
+        "slowEndTime": 92739
+    }
+]

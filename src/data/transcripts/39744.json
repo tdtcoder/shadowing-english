@@ -1,0 +1,121 @@
+[
+    {
+        "text": "First",
+        "startTime": 193,
+        "endTime": 639,
+        "slowStartTime": 439,
+        "slowEndTime": 1184
+    },
+    {
+        "text": "Second",
+        "startTime": 1339,
+        "endTime": 2025,
+        "slowStartTime": 2158,
+        "slowEndTime": 3263
+    },
+    {
+        "text": "Third",
+        "startTime": 2602,
+        "endTime": 3061,
+        "slowStartTime": 4053,
+        "slowEndTime": 4816
+    },
+    {
+        "text": "Fourth",
+        "startTime": 3777,
+        "endTime": 4499,
+        "slowStartTime": 5816,
+        "slowEndTime": 6974
+    },
+    {
+        "text": "Fifth",
+        "startTime": 4988,
+        "endTime": 5481,
+        "slowStartTime": 7632,
+        "slowEndTime": 8446
+    },
+    {
+        "text": "Sixth",
+        "startTime": 5935,
+        "endTime": 6649,
+        "slowStartTime": 9053,
+        "slowEndTime": 10198
+    },
+    {
+        "text": "Seventh",
+        "startTime": 7258,
+        "endTime": 7907,
+        "slowStartTime": 11037,
+        "slowEndTime": 12085
+    },
+    {
+        "text": "Eighth",
+        "startTime": 8543,
+        "endTime": 9124,
+        "slowStartTime": 12964,
+        "slowEndTime": 13911
+    },
+    {
+        "text": "Ninth",
+        "startTime": 9865,
+        "endTime": 10462,
+        "slowStartTime": 14947,
+        "slowEndTime": 15918
+    },
+    {
+        "text": "Tenth",
+        "startTime": 11088,
+        "endTime": 11468,
+        "slowStartTime": 16782,
+        "slowEndTime": 17427
+    },
+    {
+        "text": "Eleventh",
+        "startTime": 12415,
+        "endTime": 13133,
+        "slowStartTime": 18773,
+        "slowEndTime": 19924
+    },
+    {
+        "text": "Twelfth",
+        "startTime": 13823,
+        "endTime": 14529,
+        "slowStartTime": 20885,
+        "slowEndTime": 22019
+    },
+    {
+        "text": "Thirteenth",
+        "startTime": 15239,
+        "endTime": 15835,
+        "slowStartTime": 23008,
+        "slowEndTime": 23978
+    },
+    {
+        "text": "Fourteenth",
+        "startTime": 16732,
+        "endTime": 17261,
+        "slowStartTime": 25248,
+        "slowEndTime": 26117
+    },
+    {
+        "text": "Fifteenth",
+        "startTime": 18225,
+        "endTime": 18997,
+        "slowStartTime": 27487,
+        "slowEndTime": 28721
+    },
+    {
+        "text": "The meeting is on August 12th.",
+        "startTime": 19943,
+        "endTime": 21347,
+        "slowStartTime": 30064,
+        "slowEndTime": 32246
+    },
+    {
+        "text": "The meeting is on November 7th.",
+        "startTime": 23457,
+        "endTime": 25498,
+        "slowStartTime": 35336,
+        "slowEndTime": 38472
+    }
+]

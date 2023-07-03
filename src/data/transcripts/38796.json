@@ -1,0 +1,44 @@
+[
+    {
+        "text": "My name is Eric Jones.",
+        "startTime": 161,
+        "endTime": 1507,
+        "slowStartTime": 392,
+        "slowEndTime": 2485
+    },
+    {
+        "text": "I am the new member of the product design team.",
+        "startTime": 2114,
+        "endTime": 4477,
+        "slowStartTime": 3321,
+        "slowEndTime": 6941
+    },
+    {
+        "text": "It's a pleasure to finally meet you all.",
+        "startTime": 4959,
+        "endTime": 7293,
+        "slowStartTime": 7589,
+        "slowEndTime": 11165
+    },
+    {
+        "text": "I heard a lot of good things about this team in the interview.",
+        "startTime": 8538,
+        "endTime": 11305,
+        "slowStartTime": 12957,
+        "slowEndTime": 17183
+    },
+    {
+        "text": "I'm very excited to join this team...",
+        "startTime": 11891,
+        "endTime": 14069,
+        "slowStartTime": 17986,
+        "slowEndTime": 21329
+    },
+    {
+        "text": "...and help in making great things for our customers.",
+        "startTime": 14402,
+        "endTime": 17789,
+        "slowStartTime": 21753,
+        "slowEndTime": 26908
+    }
+]

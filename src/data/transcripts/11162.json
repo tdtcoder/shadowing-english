@@ -1,0 +1,79 @@
+[
+    {
+        "text": "The last time we had a vacation, my husband and I went camping.",
+        "startTime": 2800,
+        "endTime": 6700,
+        "slowStartTime": 4400,
+        "slowEndTime": 10300
+    },
+    {
+        "text": "I haven't been camping in ages.",
+        "startTime": 7300,
+        "endTime": 9050,
+        "slowStartTime": 11100,
+        "slowEndTime": 13800
+    },
+    {
+        "text": "How was it?",
+        "startTime": 9400,
+        "endTime": 10000,
+        "slowStartTime": 14300,
+        "slowEndTime": 15200
+    },
+    {
+        "text": "Marvelous.",
+        "startTime": 10250,
+        "endTime": 11200,
+        "slowStartTime": 15500,
+        "slowEndTime": 17000
+    },
+    {
+        "text": "We stayed near an area that is a ski resort in winter, but we were there in the summer.",
+        "startTime": 11550,
+        "endTime": 16500,
+        "slowStartTime": 17500,
+        "slowEndTime": 25000
+    },
+    {
+        "text": "There was a quaint little town in the valley at the base of the ski slopes.",
+        "startTime": 16900,
+        "endTime": 20600,
+        "slowStartTime": 25550,
+        "slowEndTime": 31200
+    },
+    {
+        "text": "It was a little touristy, but very picturesque.",
+        "startTime": 21050,
+        "endTime": 24000,
+        "slowStartTime": 31750,
+        "slowEndTime": 36200
+    },
+    {
+        "text": "Did you rent a cabin there?",
+        "startTime": 24450,
+        "endTime": 25950,
+        "slowStartTime": 36800,
+        "slowEndTime": 39200
+    },
+    {
+        "text": "No, we camped in a tent.",
+        "startTime": 26350,
+        "endTime": 28100,
+        "slowStartTime": 39750,
+        "slowEndTime": 42300
+    },
+    {
+        "text": "We spent most of our time hiking in the mountains,...",
+        "startTime": 28550,
+        "endTime": 31100,
+        "slowStartTime": 43000,
+        "slowEndTime": 46900
+    },
+    {
+        "text": "...but on several evenings we went into town to look around and do some shopping.",
+        "startTime": 31400,
+        "endTime": 35750,
+        "slowStartTime": 47250,
+        "slowEndTime": 53900
+    }
+]

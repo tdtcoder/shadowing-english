@@ -1,0 +1,86 @@
+[
+    {
+        "text": "You had pretty ambitious sales targets.",
+        "startTime": 137,
+        "endTime": 2267,
+        "slowStartTime": 355,
+        "slowEndTime": 3625
+    },
+    {
+        "text": "Are you gonna be able to hit those?",
+        "startTime": 2470,
+        "endTime": 3801,
+        "slowStartTime": 3855,
+        "slowEndTime": 5927
+    },
+    {
+        "text": "You'll never know until the last minute.",
+        "startTime": 3939,
+        "endTime": 5263,
+        "slowStartTime": 6059,
+        "slowEndTime": 8119
+    },
+    {
+        "text": "The objective of, when you make a long-term plan,...",
+        "startTime": 6346,
+        "endTime": 8919,
+        "slowStartTime": 9669,
+        "slowEndTime": 13604
+    },
+    {
+        "text": "...is not to make sure from the beginning that you're gonna hit them...",
+        "startTime": 8991,
+        "endTime": 11099,
+        "slowStartTime": 13637,
+        "slowEndTime": 16873
+    },
+    {
+        "text": "...because, if you are sure from the beginning that you're gonna hit all your targets,...",
+        "startTime": 11211,
+        "endTime": 13869,
+        "slowStartTime": 16966,
+        "slowEndTime": 21028
+    },
+    {
+        "text": "...that means your targets are conservative.",
+        "startTime": 13942,
+        "endTime": 15203,
+        "slowStartTime": 21063,
+        "slowEndTime": 23029
+    },
+    {
+        "text": "That's the only way you can be sure.",
+        "startTime": 15992,
+        "endTime": 17715,
+        "slowStartTime": 24138,
+        "slowEndTime": 26798
+    },
+    {
+        "text": "So, you want to maintain a certain stretch inside the company...",
+        "startTime": 18029,
+        "endTime": 21693,
+        "slowStartTime": 27193,
+        "slowEndTime": 32765
+    },
+    {
+        "text": "...and being innovative and creative,...",
+        "startTime": 22141,
+        "endTime": 24384,
+        "slowStartTime": 33362,
+        "slowEndTime": 36801
+    },
+    {
+        "text": "...and finding new products and new solutions...",
+        "startTime": 24638,
+        "endTime": 26969,
+        "slowStartTime": 37107,
+        "slowEndTime": 40679
+    },
+    {
+        "text": "...in order to hit the target.",
+        "startTime": 27083,
+        "endTime": 28083,
+        "slowStartTime": 40774,
+        "slowEndTime": 42350
+    }
+]

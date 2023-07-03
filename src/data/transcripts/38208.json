@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Hello, I'm calling to reserve a room for two people from Friday the 4th to Sunday.",
+        "startTime": 295,
+        "endTime": 7413,
+        "slowStartTime": 592,
+        "slowEndTime": 11344
+    },
+    {
+        "text": "I can see from your website that you have rooms with both ocean and city views.",
+        "startTime": 8301,
+        "endTime": 14684,
+        "slowStartTime": 12601,
+        "slowEndTime": 22251
+    },
+    {
+        "text": "I was wondering if you have any rooms facing the seaside still available.",
+        "startTime": 15868,
+        "endTime": 21309,
+        "slowStartTime": 23952,
+        "slowEndTime": 32189
+    },
+    {
+        "text": "I'd like a room higher up if possible.",
+        "startTime": 22489,
+        "endTime": 25618,
+        "slowStartTime": 33883,
+        "slowEndTime": 38652
+    },
+    {
+        "text": "Do the standard rooms come with a queen-sized bed?",
+        "startTime": 26630,
+        "endTime": 30268,
+        "slowStartTime": 40095,
+        "slowEndTime": 45627
+    },
+    {
+        "text": "How large are the suites?",
+        "startTime": 31353,
+        "endTime": 33177,
+        "slowStartTime": 47180,
+        "slowEndTime": 49990
+    },
+    {
+        "text": "Can you tell me the rates for the weekend?",
+        "startTime": 34114,
+        "endTime": 36579,
+        "slowStartTime": 51321,
+        "slowEndTime": 55093
+    },
+    {
+        "text": "And lastly, does the room have a hot tub in the bathroom?",
+        "startTime": 37516,
+        "endTime": 41705,
+        "slowStartTime": 56424,
+        "slowEndTime": 62783
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Riots start in the Tottenham section of London, after a man dies in a police shootout.",
+        "startTime": 7859,
+        "endTime": 13822,
+        "slowStartTime": 11938,
+        "slowEndTime": 20958
+    },
+    {
+        "text": "Violence spreads to other parts of the British capital.",
+        "startTime": 22363,
+        "endTime": 25751,
+        "slowStartTime": 33695,
+        "slowEndTime": 38851
+    },
+    {
+        "text": "Manchester, Birmingham and other English cities are also hit.",
+        "startTime": 33761,
+        "endTime": 38303,
+        "slowStartTime": 50791,
+        "slowEndTime": 57680
+    },
+    {
+        "text": "Extra police are called in to restore calm.",
+        "startTime": 44381,
+        "endTime": 47358,
+        "slowStartTime": 66721,
+        "slowEndTime": 71262
+    },
+    {
+        "text": "British politicians inspect the riot damage.",
+        "startTime": 55011,
+        "endTime": 58426,
+        "slowStartTime": 82667,
+        "slowEndTime": 87864
+    }
+]

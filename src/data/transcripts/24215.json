@@ -1,0 +1,86 @@
+[
+    {
+        "text": "How do you describe your mother?",
+        "startTime": 1155,
+        "endTime": 2590,
+        "slowStartTime": 1882,
+        "slowEndTime": 4110
+    },
+    {
+        "text": "You know, what's she like?",
+        "startTime": 2949,
+        "endTime": 3907,
+        "slowStartTime": 4574,
+        "slowEndTime": 6086
+    },
+    {
+        "text": "My mother is like an example of how to live your life to the fullest.",
+        "startTime": 4125,
+        "endTime": 8023,
+        "slowStartTime": 6338,
+        "slowEndTime": 12259
+    },
+    {
+        "text": "She's bright.",
+        "startTime": 8597,
+        "endTime": 9401,
+        "slowStartTime": 13045,
+        "slowEndTime": 14327
+    },
+    {
+        "text": "And not just smart, I mean, she's bright.",
+        "startTime": 9592,
+        "endTime": 11522,
+        "slowStartTime": 14538,
+        "slowEndTime": 17508
+    },
+    {
+        "text": "She's like sunshine, like all the time.",
+        "startTime": 11671,
+        "endTime": 14573,
+        "slowStartTime": 17656,
+        "slowEndTime": 22084
+    },
+    {
+        "text": "How often do you tell her how you feel?",
+        "startTime": 14888,
+        "endTime": 16757,
+        "slowStartTime": 22482,
+        "slowEndTime": 25361
+    },
+    {
+        "text": "I don't think I've actually said the words \"I love you\" to my mom in a long time.",
+        "startTime": 17000,
+        "endTime": 20083,
+        "slowStartTime": 25650,
+        "slowEndTime": 30349
+    },
+    {
+        "text": "She knows I love her, that goes without question.",
+        "startTime": 22351,
+        "endTime": 24387,
+        "slowStartTime": 33677,
+        "slowEndTime": 36806
+    },
+    {
+        "text": "I would like her to know that I feel it's my duty to make sure...",
+        "startTime": 25031,
+        "endTime": 31765,
+        "slowStartTime": 37696,
+        "slowEndTime": 47872
+    },
+    {
+        "text": "...she sees everything she wants to see in this life.",
+        "startTime": 31840,
+        "endTime": 35765,
+        "slowStartTime": 47910,
+        "slowEndTime": 53873
+    },
+    {
+        "text": "And enjoys herself as much as humanly possible.",
+        "startTime": 37826,
+        "endTime": 40476,
+        "slowStartTime": 56889,
+        "slowEndTime": 60939
+    }
+]

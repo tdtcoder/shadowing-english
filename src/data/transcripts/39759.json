@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Good morning, Ted.",
+        "startTime": 2828,
+        "endTime": 3640,
+        "slowStartTime": 4392,
+        "slowEndTime": 5685
+    },
+    {
+        "text": "Good morning, Tim.",
+        "startTime": 4059,
+        "endTime": 5134,
+        "slowStartTime": 6239,
+        "slowEndTime": 7926
+    },
+    {
+        "text": "How are you?",
+        "startTime": 5228,
+        "endTime": 5707,
+        "slowStartTime": 7992,
+        "slowEndTime": 8785
+    },
+    {
+        "text": "I'm fine, thanks.",
+        "startTime": 5911,
+        "endTime": 6698,
+        "slowStartTime": 9016,
+        "slowEndTime": 10272
+    },
+    {
+        "text": "And you?",
+        "startTime": 6803,
+        "endTime": 7439,
+        "slowStartTime": 10354,
+        "slowEndTime": 11383
+    },
+    {
+        "text": "Good morning!",
+        "startTime": 8742,
+        "endTime": 9339,
+        "slowStartTime": 13263,
+        "slowEndTime": 14234
+    },
+    {
+        "text": "Good morning!",
+        "startTime": 9594,
+        "endTime": 10004,
+        "slowStartTime": 14541,
+        "slowEndTime": 15231
+    },
+    {
+        "text": "Good morning!",
+        "startTime": 10525,
+        "endTime": 11199,
+        "slowStartTime": 15938,
+        "slowEndTime": 17024
+    },
+    {
+        "text": "Oh! And in case I don't see you, good afternoon, good evening and good night.",
+        "startTime": 11734,
+        "endTime": 14954,
+        "slowStartTime": 17751,
+        "slowEndTime": 22656
+    },
+    {
+        "text": "Yeah, yeah.",
+        "startTime": 17181,
+        "endTime": 18095,
+        "slowStartTime": 25921,
+        "slowEndTime": 27368
+    },
+    {
+        "text": "Good morning, Truman!",
+        "startTime": 18395,
+        "endTime": 19145,
+        "slowStartTime": 27742,
+        "slowEndTime": 28942
+    },
+    {
+        "text": "Good morning, Spencer!",
+        "startTime": 19251,
+        "endTime": 19889,
+        "slowStartTime": 29027,
+        "slowEndTime": 30058
+    },
+    {
+        "text": "Hey, Pluto.",
+        "startTime": 20287,
+        "endTime": 20683,
+        "slowStartTime": 30580,
+        "slowEndTime": 31250
+    },
+    {
+        "text": "Good evening, sir.",
+        "startTime": 21946,
+        "endTime": 22623,
+        "slowStartTime": 33069,
+        "slowEndTime": 34159
+    },
+    {
+        "text": "Thank you, Mary.",
+        "startTime": 22809,
+        "endTime": 23533,
+        "slowStartTime": 34363,
+        "slowEndTime": 35525
+    }
+]

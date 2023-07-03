@@ -1,0 +1,142 @@
+[
+    {
+        "text": "How do you spell 1?",
+        "startTime": 9215,
+        "endTime": 11487,
+        "slowStartTime": 13973,
+        "slowEndTime": 17455
+    },
+    {
+        "text": "O N E.",
+        "startTime": 11710,
+        "endTime": 14311,
+        "slowStartTime": 17715,
+        "slowEndTime": 21692
+    },
+    {
+        "text": "How do you spell 2?",
+        "startTime": 18129,
+        "endTime": 19555,
+        "slowStartTime": 27344,
+        "slowEndTime": 29557
+    },
+    {
+        "text": "T W O.",
+        "startTime": 20591,
+        "endTime": 23674,
+        "slowStartTime": 31037,
+        "slowEndTime": 35736
+    },
+    {
+        "text": "How do you spell 3?",
+        "startTime": 26865,
+        "endTime": 28546,
+        "slowStartTime": 40447,
+        "slowEndTime": 43044
+    },
+    {
+        "text": "T H R E E.",
+        "startTime": 28945,
+        "endTime": 32882,
+        "slowStartTime": 43568,
+        "slowEndTime": 49548
+    },
+    {
+        "text": "How do you spell 4?",
+        "startTime": 34198,
+        "endTime": 35323,
+        "slowStartTime": 51447,
+        "slowEndTime": 53209
+    },
+    {
+        "text": "F O U R.",
+        "startTime": 35592,
+        "endTime": 38887,
+        "slowStartTime": 53538,
+        "slowEndTime": 58556
+    },
+    {
+        "text": "How do you spell 5?",
+        "startTime": 42656,
+        "endTime": 44239,
+        "slowStartTime": 64134,
+        "slowEndTime": 66584
+    },
+    {
+        "text": "F I V E.",
+        "startTime": 45336,
+        "endTime": 48953,
+        "slowStartTime": 68154,
+        "slowEndTime": 73655
+    },
+    {
+        "text": "How do you spell 6?",
+        "startTime": 51439,
+        "endTime": 53153,
+        "slowStartTime": 77308,
+        "slowEndTime": 79955
+    },
+    {
+        "text": "S I X.",
+        "startTime": 54147,
+        "endTime": 57139,
+        "slowStartTime": 81371,
+        "slowEndTime": 85934
+    },
+    {
+        "text": "How do you spell 7?",
+        "startTime": 58304,
+        "endTime": 60085,
+        "slowStartTime": 87606,
+        "slowEndTime": 90353
+    },
+    {
+        "text": "S E V E N.",
+        "startTime": 60904,
+        "endTime": 65500,
+        "slowStartTime": 91506,
+        "slowEndTime": 98475
+    },
+    {
+        "text": "How do you spell 8?",
+        "startTime": 67133,
+        "endTime": 68569,
+        "slowStartTime": 100850,
+        "slowEndTime": 103079
+    },
+    {
+        "text": "E I G H T.",
+        "startTime": 69392,
+        "endTime": 73393,
+        "slowStartTime": 104238,
+        "slowEndTime": 110315
+    },
+    {
+        "text": "How do you spell 9?",
+        "startTime": 75567,
+        "endTime": 77350,
+        "slowStartTime": 113500,
+        "slowEndTime": 116250
+    },
+    {
+        "text": "N I N E.",
+        "startTime": 78068,
+        "endTime": 82107,
+        "slowStartTime": 117252,
+        "slowEndTime": 123385
+    },
+    {
+        "text": "How do you spell 10?",
+        "startTime": 84799,
+        "endTime": 85994,
+        "slowStartTime": 127349,
+        "slowEndTime": 129216
+    },
+    {
+        "text": "T E N.",
+        "startTime": 86311,
+        "endTime": 89031,
+        "slowStartTime": 129616,
+        "slowEndTime": 133771
+    }
+]

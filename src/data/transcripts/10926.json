@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Tomorrow, Victoria, we are to be...",
+        "startTime": 4700,
+        "endTime": 7400,
+        "slowStartTime": 7200,
+        "slowEndTime": 11300
+    },
+    {
+        "text": "...married.",
+        "startTime": 16900,
+        "endTime": 17350,
+        "slowStartTime": 25500,
+        "slowEndTime": 26200
+    },
+    {
+        "text": "You may kiss the bride.",
+        "startTime": 38400,
+        "endTime": 40550,
+        "slowStartTime": 57700,
+        "slowEndTime": 61000
+    },
+    {
+        "text": "Marvelous news! There will be a wedding after all.",
+        "startTime": 43850,
+        "endTime": 46950,
+        "slowStartTime": 66000,
+        "slowEndTime": 70650
+    },
+    {
+        "text": "Can the living marry the dead?",
+        "startTime": 49300,
+        "endTime": 50750,
+        "slowStartTime": 74200,
+        "slowEndTime": 76400
+    },
+    {
+        "text": "Darling, where are you going?",
+        "startTime": 58200,
+        "endTime": 60200,
+        "slowStartTime": 87550,
+        "slowEndTime": 90500
+    },
+    {
+        "text": "Play dead!",
+        "startTime": 66250,
+        "endTime": 66800,
+        "slowStartTime": 99600,
+        "slowEndTime": 100400
+    }
+]

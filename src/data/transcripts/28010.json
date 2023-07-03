@@ -1,0 +1,65 @@
+[
+    {
+        "text": "﻿I am, you are, he, she, it, is.",
+        "startTime": 3507,
+        "endTime": 9029,
+        "slowStartTime": 5410,
+        "slowEndTime": 13769
+    },
+    {
+        "text": "I am, you are, he, she, it, is.",
+        "startTime": 15141,
+        "endTime": 22397,
+        "slowStartTime": 22861,
+        "slowEndTime": 33820
+    },
+    {
+        "text": "Can you show me the way to the beach?",
+        "startTime": 22703,
+        "endTime": 25470,
+        "slowStartTime": 34204,
+        "slowEndTime": 38430
+    },
+    {
+        "text": "Towel, breakfast, fork, knife, bread.",
+        "startTime": 27122,
+        "endTime": 34260,
+        "slowStartTime": 40833,
+        "slowEndTime": 51615
+    },
+    {
+        "text": "I love you.",
+        "startTime": 34418,
+        "endTime": 36349,
+        "slowStartTime": 51777,
+        "slowEndTime": 54749
+    },
+    {
+        "text": "You are perfect.",
+        "startTime": 37199,
+        "endTime": 39421,
+        "slowStartTime": 55949,
+        "slowEndTime": 59357
+    },
+    {
+        "text": "Suitcase, slippers, toothbrush, passport, pajamas.",
+        "startTime": 39915,
+        "endTime": 45005,
+        "slowStartTime": 60023,
+        "slowEndTime": 67732
+    },
+    {
+        "text": "Be a good dog.",
+        "startTime": 46737,
+        "endTime": 47957,
+        "slowStartTime": 70256,
+        "slowEndTime": 72160
+    },
+    {
+        "text": "Hi, I am your grandpa.",
+        "startTime": 66420,
+        "endTime": 70399,
+        "slowStartTime": 99780,
+        "slowEndTime": 105824
+    }
+]

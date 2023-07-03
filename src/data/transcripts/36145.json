@@ -1,0 +1,233 @@
+[
+    {
+        "text": "There are four people in the house now, and I'm very happy.",
+        "startTime": 1515,
+        "endTime": 5730,
+        "slowStartTime": 2422,
+        "slowEndTime": 8820
+    },
+    {
+        "text": "And Jane?",
+        "startTime": 6153,
+        "endTime": 6939,
+        "slowStartTime": 9379,
+        "slowEndTime": 10634
+    },
+    {
+        "text": "Well, we all like her.",
+        "startTime": 7794,
+        "endTime": 9134,
+        "slowStartTime": 11841,
+        "slowEndTime": 13926
+    },
+    {
+        "text": "Morning everybody.",
+        "startTime": 9617,
+        "endTime": 10992,
+        "slowStartTime": 14576,
+        "slowEndTime": 16713
+    },
+    {
+        "text": "What's this?",
+        "startTime": 13041,
+        "endTime": 13771,
+        "slowStartTime": 19712,
+        "slowEndTime": 20882
+    },
+    {
+        "text": "It's a video film about my new house and my new housemates.",
+        "startTime": 14335,
+        "endTime": 18586,
+        "slowStartTime": 21653,
+        "slowEndTime": 28104
+    },
+    {
+        "text": "It's for my sister, Alison.",
+        "startTime": 19079,
+        "endTime": 20517,
+        "slowStartTime": 28769,
+        "slowEndTime": 31001
+    },
+    {
+        "text": "Oh, right.",
+        "startTime": 21213,
+        "endTime": 22917,
+        "slowStartTime": 31969,
+        "slowEndTime": 34601
+    },
+    {
+        "text": "Is it OK?",
+        "startTime": 23868,
+        "endTime": 24771,
+        "slowStartTime": 35952,
+        "slowEndTime": 37382
+    },
+    {
+        "text": "Yeah, sure.",
+        "startTime": 25617,
+        "endTime": 27059,
+        "slowStartTime": 38575,
+        "slowEndTime": 40813
+    },
+    {
+        "text": "Ok, Ali.",
+        "startTime": 29263,
+        "endTime": 30127,
+        "slowStartTime": 44044,
+        "slowEndTime": 45416
+    },
+    {
+        "text": "This is the kitchen.",
+        "startTime": 31563,
+        "endTime": 33771,
+        "slowStartTime": 47495,
+        "slowEndTime": 50882
+    },
+    {
+        "text": "And who is this?",
+        "startTime": 37596,
+        "endTime": 40495,
+        "slowStartTime": 56544,
+        "slowEndTime": 60967
+    },
+    {
+        "text": "Say something.",
+        "startTime": 44508,
+        "endTime": 45967,
+        "slowStartTime": 66912,
+        "slowEndTime": 69175
+    },
+    {
+        "text": "Say what?",
+        "startTime": 46445,
+        "endTime": 47305,
+        "slowStartTime": 69818,
+        "slowEndTime": 71182
+    },
+    {
+        "text": "It's half past seven in the morning.",
+        "startTime": 47377,
+        "endTime": 48638,
+        "slowStartTime": 71215,
+        "slowEndTime": 73182
+    },
+    {
+        "text": "Talk to my sister.",
+        "startTime": 49952,
+        "endTime": 51018,
+        "slowStartTime": 75078,
+        "slowEndTime": 76752
+    },
+    {
+        "text": "Introduce yourself.",
+        "startTime": 51616,
+        "endTime": 52696,
+        "slowStartTime": 77574,
+        "slowEndTime": 79269
+    },
+    {
+        "text": "Go on, David.",
+        "startTime": 53541,
+        "endTime": 54562,
+        "slowStartTime": 80461,
+        "slowEndTime": 82068
+    },
+    {
+        "text": "Hello, I'm David.",
+        "startTime": 56189,
+        "endTime": 57590,
+        "slowStartTime": 84433,
+        "slowEndTime": 86610
+    },
+    {
+        "text": "I come from Manchester.",
+        "startTime": 59923,
+        "endTime": 61511,
+        "slowStartTime": 90035,
+        "slowEndTime": 92492
+    },
+    {
+        "text": "I'm a lawyer.",
+        "startTime": 62246,
+        "endTime": 63115,
+        "slowStartTime": 93519,
+        "slowEndTime": 94898
+    },
+    {
+        "text": "I work in Oxford.",
+        "startTime": 63295,
+        "endTime": 64695,
+        "slowStartTime": 95093,
+        "slowEndTime": 97268
+    },
+    {
+        "text": "That's it.",
+        "startTime": 65026,
+        "endTime": 65409,
+        "slowStartTime": 97689,
+        "slowEndTime": 98339
+    },
+    {
+        "text": "What things do you like?",
+        "startTime": 67488,
+        "endTime": 68747,
+        "slowStartTime": 101382,
+        "slowEndTime": 103346
+    },
+    {
+        "text": "I like my job.",
+        "startTime": 71335,
+        "endTime": 73581,
+        "slowStartTime": 107152,
+        "slowEndTime": 110597
+    },
+    {
+        "text": "I like football, swimming.",
+        "startTime": 74307,
+        "endTime": 76131,
+        "slowStartTime": 111611,
+        "slowEndTime": 114421
+    },
+    {
+        "text": "I like a quiet breakfast,...",
+        "startTime": 77251,
+        "endTime": 78755,
+        "slowStartTime": 116026,
+        "slowEndTime": 118358
+    },
+    {
+        "text": "...and I don't like video cameras...",
+        "startTime": 78829,
+        "endTime": 80614,
+        "slowStartTime": 118393,
+        "slowEndTime": 121146
+    },
+    {
+        "text": "...and I start work at eight o'clock.",
+        "startTime": 81129,
+        "endTime": 82651,
+        "slowStartTime": 121844,
+        "slowEndTime": 124202
+    },
+    {
+        "text": "So, bye.",
+        "startTime": 82732,
+        "endTime": 83721,
+        "slowStartTime": 124248,
+        "slowEndTime": 125807
+    },
+    {
+        "text": "Bye.",
+        "startTime": 86793,
+        "endTime": 87561,
+        "slowStartTime": 130340,
+        "slowEndTime": 131567
+    },
+    {
+        "text": "David's nice, really.",
+        "startTime": 91926,
+        "endTime": 93439,
+        "slowStartTime": 138039,
+        "slowEndTime": 140384
+    }
+]

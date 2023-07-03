@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Now you start with the number 5 and as you go along,...",
+        "startTime": 19351,
+        "endTime": 21706,
+        "slowStartTime": 29176,
+        "slowEndTime": 32784
+    },
+    {
+        "text": "...jump 5 numbers and practice this song.",
+        "startTime": 21954,
+        "endTime": 23999,
+        "slowStartTime": 33081,
+        "slowEndTime": 36224
+    },
+    {
+        "text": "Here's a little hint to help you as you go.",
+        "startTime": 24316,
+        "endTime": 26380,
+        "slowStartTime": 36624,
+        "slowEndTime": 39795
+    },
+    {
+        "text": "Every number ends with 5 then 0.",
+        "startTime": 26629,
+        "endTime": 28788,
+        "slowStartTime": 40094,
+        "slowEndTime": 43407
+    },
+    {
+        "text": "Ready?",
+        "startTime": 32059,
+        "endTime": 32556,
+        "slowStartTime": 48238,
+        "slowEndTime": 49059
+    },
+    {
+        "text": "5, 10, 15, 20, 25.",
+        "startTime": 33537,
+        "endTime": 38846,
+        "slowStartTime": 50455,
+        "slowEndTime": 58494
+    },
+    {
+        "text": "Let's do it again, but let's go higher.",
+        "startTime": 47197,
+        "endTime": 49465,
+        "slowStartTime": 70946,
+        "slowEndTime": 74423
+    },
+    {
+        "text": "5, 10, 15, 20, 25, 30, 35, 40, 45, 50.",
+        "startTime": 49607,
+        "endTime": 60427,
+        "slowStartTime": 74561,
+        "slowEndTime": 90866
+    },
+    {
+        "text": "Let's do it again, but let's go even higher.",
+        "startTime": 69022,
+        "endTime": 71475,
+        "slowStartTime": 103683,
+        "slowEndTime": 107438
+    },
+    {
+        "text": "5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75.",
+        "startTime": 71644,
+        "endTime": 88435,
+        "slowStartTime": 107616,
+        "slowEndTime": 132877
+    },
+    {
+        "text": "Well, that is high.",
+        "startTime": 96844,
+        "endTime": 97930,
+        "slowStartTime": 145416,
+        "slowEndTime": 147120
+    },
+    {
+        "text": "This sure is fun!",
+        "startTime": 98111,
+        "endTime": 99032,
+        "slowStartTime": 147317,
+        "slowEndTime": 148773
+    },
+    {
+        "text": "Let's get to 100 and then we are done!",
+        "startTime": 99165,
+        "endTime": 101364,
+        "slowStartTime": 148897,
+        "slowEndTime": 152271
+    },
+    {
+        "text": "5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100.",
+        "startTime": 101631,
+        "endTime": 124177,
+        "slowStartTime": 152596,
+        "slowEndTime": 186491
+    }
+]

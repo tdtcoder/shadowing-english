@@ -1,0 +1,219 @@
+[
+    {
+        "text": "﻿Oh, I booked us a table tonight at Carluccio's for 7.",
+        "startTime": 706,
+        "endTime": 3387,
+        "slowStartTime": 1209,
+        "slowEndTime": 5305
+    },
+    {
+        "text": "Oh, that's nice. We like it at Carluccio's, don't we?",
+        "startTime": 3752,
+        "endTime": 6165,
+        "slowStartTime": 5778,
+        "slowEndTime": 9472
+    },
+    {
+        "text": "I'll grab that.",
+        "startTime": 7556,
+        "endTime": 8406,
+        "slowStartTime": 11484,
+        "slowEndTime": 12834
+    },
+    {
+        "text": "Stern!",
+        "startTime": 12755,
+        "endTime": 13323,
+        "slowStartTime": 19282,
+        "slowEndTime": 20209
+    },
+    {
+        "text": "Can I help you?",
+        "startTime": 14875,
+        "endTime": 15761,
+        "slowStartTime": 22462,
+        "slowEndTime": 23866
+    },
+    {
+        "text": "It's me, Tel. Your friend.",
+        "startTime": 16429,
+        "endTime": 19111,
+        "slowStartTime": 24794,
+        "slowEndTime": 28891
+    },
+    {
+        "text": "I'm sorry, I don't know you.",
+        "startTime": 19926,
+        "endTime": 21636,
+        "slowStartTime": 30039,
+        "slowEndTime": 32679
+    },
+    {
+        "text": "We've been friends for years.",
+        "startTime": 22552,
+        "endTime": 23730,
+        "slowStartTime": 33978,
+        "slowEndTime": 35820
+    },
+    {
+        "text": "We went to school together, remember?",
+        "startTime": 23905,
+        "endTime": 25379,
+        "slowStartTime": 36007,
+        "slowEndTime": 38294
+    },
+    {
+        "text": "I'm sorry, I think you have the wrong flat.",
+        "startTime": 26383,
+        "endTime": 28227,
+        "slowStartTime": 39724,
+        "slowEndTime": 42565
+    },
+    {
+        "text": "Oh, come on, Stern, you must remember.",
+        "startTime": 28356,
+        "endTime": 30469,
+        "slowStartTime": 42684,
+        "slowEndTime": 45928
+    },
+    {
+        "text": "All the nights out we had, the holidays, all the drinking?",
+        "startTime": 30577,
+        "endTime": 33211,
+        "slowStartTime": 46016,
+        "slowEndTime": 50041
+    },
+    {
+        "text": "Look, remember this?",
+        "startTime": 33435,
+        "endTime": 34960,
+        "slowStartTime": 50302,
+        "slowEndTime": 52665
+    },
+    {
+        "text": "This is us. It's me and you.",
+        "startTime": 35369,
+        "endTime": 37320,
+        "slowStartTime": 53204,
+        "slowEndTime": 56205
+    },
+    {
+        "text": "That's me.",
+        "startTime": 39455,
+        "endTime": 40223,
+        "slowStartTime": 59332,
+        "slowEndTime": 60559
+    },
+    {
+        "text": "I look happy.",
+        "startTime": 41595,
+        "endTime": 42481,
+        "slowStartTime": 62543,
+        "slowEndTime": 63947
+    },
+    {
+        "text": "Tel!",
+        "startTime": 44376,
+        "endTime": 44789,
+        "slowStartTime": 66714,
+        "slowEndTime": 67408
+    },
+    {
+        "text": "Yes, Stern, that's me.",
+        "startTime": 45132,
+        "endTime": 47298,
+        "slowStartTime": 67848,
+        "slowEndTime": 71172
+    },
+    {
+        "text": "Tel, what's happened to me?",
+        "startTime": 48951,
+        "endTime": 50803,
+        "slowStartTime": 73577,
+        "slowEndTime": 76430
+    },
+    {
+        "text": "Why am I wearing a cardigan, Tel?",
+        "startTime": 51792,
+        "endTime": 53331,
+        "slowStartTime": 77838,
+        "slowEndTime": 80221
+    },
+    {
+        "text": "I hate cardigans.",
+        "startTime": 53452,
+        "endTime": 54277,
+        "slowStartTime": 80328,
+        "slowEndTime": 81640
+    },
+    {
+        "text": "What's going on with me?",
+        "startTime": 54365,
+        "endTime": 55434,
+        "slowStartTime": 81697,
+        "slowEndTime": 83376
+    },
+    {
+        "text": "I don't understand.",
+        "startTime": 55551,
+        "endTime": 56389,
+        "slowStartTime": 83477,
+        "slowEndTime": 84808
+    },
+    {
+        "text": "I'm so scared.",
+        "startTime": 56485,
+        "endTime": 57242,
+        "slowStartTime": 84878,
+        "slowEndTime": 86088
+    },
+    {
+        "text": "It's okay, Stern.",
+        "startTime": 57355,
+        "endTime": 58138,
+        "slowStartTime": 86183,
+        "slowEndTime": 87432
+    },
+    {
+        "text": "All the boys are going out tonight and you're coming with us.",
+        "startTime": 58621,
+        "endTime": 61052,
+        "slowStartTime": 88082,
+        "slowEndTime": 91803
+    },
+    {
+        "text": "Joel, these shirts need folding.",
+        "startTime": 62669,
+        "endTime": 64800,
+        "slowStartTime": 94154,
+        "slowEndTime": 97425
+    },
+    {
+        "text": "I'm sorry, Tel, I can't come out tonight.",
+        "startTime": 68688,
+        "endTime": 72199,
+        "slowStartTime": 103182,
+        "slowEndTime": 108523
+    },
+    {
+        "text": "There are some clothes that need folding.",
+        "startTime": 72882,
+        "endTime": 74527,
+        "slowStartTime": 109473,
+        "slowEndTime": 112016
+    },
+    {
+        "text": "Stern, no.",
+        "startTime": 75465,
+        "endTime": 77117,
+        "slowStartTime": 113348,
+        "slowEndTime": 115900
+    },
+    {
+        "text": "Goodbye, friend.",
+        "startTime": 80191,
+        "endTime": 81143,
+        "slowStartTime": 120436,
+        "slowEndTime": 121939
+    }
+]

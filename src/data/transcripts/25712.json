@@ -1,0 +1,72 @@
+[
+    {
+        "text": "A gun and bomb attack on a university in northwestern Pakistan...",
+        "startTime": 3001,
+        "endTime": 7023,
+        "slowStartTime": 4651,
+        "slowEndTime": 10760
+    },
+    {
+        "text": "...killed at least 20 people and wounded dozens more.",
+        "startTime": 7547,
+        "endTime": 11340,
+        "slowStartTime": 11470,
+        "slowEndTime": 17235
+    },
+    {
+        "text": "Officials in Afghanistan say a suicide car bomb blast near the Russian Embassy...",
+        "startTime": 16889,
+        "endTime": 22523,
+        "slowStartTime": 25483,
+        "slowEndTime": 34009
+    },
+    {
+        "text": "...in the capital Kabul has killed at least seven people.",
+        "startTime": 22789,
+        "endTime": 26660,
+        "slowStartTime": 34333,
+        "slowEndTime": 40215
+    },
+    {
+        "text": "Government forces battle with the Islamic State...",
+        "startTime": 28036,
+        "endTime": 30546,
+        "slowStartTime": 42204,
+        "slowEndTime": 46044
+    },
+    {
+        "text": "...in the strategic Syrian city of Deir al-Zor.",
+        "startTime": 31005,
+        "endTime": 33857,
+        "slowStartTime": 46657,
+        "slowEndTime": 51010
+    },
+    {
+        "text": "In the United States, government scientists say...",
+        "startTime": 38757,
+        "endTime": 41683,
+        "slowStartTime": 58286,
+        "slowEndTime": 62750
+    },
+    {
+        "text": "...2015 was the warmest year ever recorded.",
+        "startTime": 41877,
+        "endTime": 45109,
+        "slowStartTime": 62966,
+        "slowEndTime": 67888
+    },
+    {
+        "text": "And finally, also from the United States, California Institute of Technology scientists...",
+        "startTime": 45801,
+        "endTime": 51770,
+        "slowStartTime": 68852,
+        "slowEndTime": 77880
+    },
+    {
+        "text": "...say they have found a possible ninth planet in our galaxy beyond Neptune.",
+        "startTime": 52229,
+        "endTime": 56727,
+        "slowStartTime": 78494,
+        "slowEndTime": 85315
+    }
+]

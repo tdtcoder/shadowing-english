@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Taking a break can mean so many different things.",
+        "startTime": 3521,
+        "endTime": 6258,
+        "slowStartTime": 5432,
+        "slowEndTime": 9612
+    },
+    {
+        "text": "It's a moment to relax,...",
+        "startTime": 7805,
+        "endTime": 9047,
+        "slowStartTime": 11858,
+        "slowEndTime": 13796
+    },
+    {
+        "text": "...a moment to reflect,...",
+        "startTime": 12845,
+        "endTime": 14065,
+        "slowStartTime": 19417,
+        "slowEndTime": 21322
+    },
+    {
+        "text": "...a moment to fly...",
+        "startTime": 15149,
+        "endTime": 16076,
+        "slowStartTime": 22873,
+        "slowEndTime": 24339
+    },
+    {
+        "text": "...or a moment to set sail.",
+        "startTime": 18513,
+        "endTime": 19940,
+        "slowStartTime": 27920,
+        "slowEndTime": 30135
+    },
+    {
+        "text": "Nevertheless, it's simply a moment,...",
+        "startTime": 26174,
+        "endTime": 28797,
+        "slowStartTime": 39411,
+        "slowEndTime": 43421
+    },
+    {
+        "text": "...and when the moment comes, we will be here.",
+        "startTime": 32614,
+        "endTime": 36739,
+        "slowStartTime": 49071,
+        "slowEndTime": 55334
+    }
+]

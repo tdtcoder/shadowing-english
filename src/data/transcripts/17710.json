@@ -1,0 +1,79 @@
+[
+    {
+        "text": "All my family like sandwiches.",
+        "startTime": 1613,
+        "endTime": 4105,
+        "slowStartTime": 2569,
+        "slowEndTime": 6382
+    },
+    {
+        "text": "We usually have sandwiches for breakfast.",
+        "startTime": 4612,
+        "endTime": 7425,
+        "slowStartTime": 7068,
+        "slowEndTime": 11363
+    },
+    {
+        "text": "Then who makes the sandwiches every day?",
+        "startTime": 8545,
+        "endTime": 11167,
+        "slowStartTime": 12968,
+        "slowEndTime": 16975
+    },
+    {
+        "text": "My mom makes many sandwiches for our family.",
+        "startTime": 12280,
+        "endTime": 15446,
+        "slowStartTime": 18570,
+        "slowEndTime": 23394
+    },
+    {
+        "text": "How many sandwiches does she make?",
+        "startTime": 16504,
+        "endTime": 18618,
+        "slowStartTime": 24906,
+        "slowEndTime": 28152
+    },
+    {
+        "text": "She makes ten sandwiches every day.",
+        "startTime": 19763,
+        "endTime": 22953,
+        "slowStartTime": 29794,
+        "slowEndTime": 34655
+    },
+    {
+        "text": "Ten sandwiches every day?",
+        "startTime": 23949,
+        "endTime": 26181,
+        "slowStartTime": 36074,
+        "slowEndTime": 39497
+    },
+    {
+        "text": "How much time does it take for her to make ten sandwiches?",
+        "startTime": 26670,
+        "endTime": 30170,
+        "slowStartTime": 40155,
+        "slowEndTime": 45480
+    },
+    {
+        "text": "It usually takes her more than an hour to make ten sandwiches.",
+        "startTime": 31339,
+        "endTime": 35797,
+        "slowStartTime": 47159,
+        "slowEndTime": 53921
+    },
+    {
+        "text": "Wow, it's a lot of work!",
+        "startTime": 36967,
+        "endTime": 39471,
+        "slowStartTime": 55600,
+        "slowEndTime": 59431
+    },
+    {
+        "text": "That's why my mom always gets up before 6.",
+        "startTime": 40621,
+        "endTime": 44275,
+        "slowStartTime": 61082,
+        "slowEndTime": 66638
+    }
+]

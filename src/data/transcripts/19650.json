@@ -1,0 +1,58 @@
+[
+    {
+        "text": "There was something about him,...",
+        "startTime": 1263,
+        "endTime": 3249,
+        "slowStartTime": 2044,
+        "slowEndTime": 5099
+    },
+    {
+        "text": "...something that set him apart from the others.",
+        "startTime": 4069,
+        "endTime": 7172,
+        "slowStartTime": 6253,
+        "slowEndTime": 10983
+    },
+    {
+        "text": "He was different somehow.",
+        "startTime": 8655,
+        "endTime": 11175,
+        "slowStartTime": 13132,
+        "slowEndTime": 16988
+    },
+    {
+        "text": "I was afraid,...",
+        "startTime": 12462,
+        "endTime": 13567,
+        "slowStartTime": 18843,
+        "slowEndTime": 20575
+    },
+    {
+        "text": "...then seduced,...",
+        "startTime": 14581,
+        "endTime": 15778,
+        "slowStartTime": 22022,
+        "slowEndTime": 23892
+    },
+    {
+        "text": "...then intrigued,...",
+        "startTime": 16864,
+        "endTime": 18155,
+        "slowStartTime": 25446,
+        "slowEndTime": 27458
+    },
+    {
+        "text": "...then in a car.",
+        "startTime": 19287,
+        "endTime": 20126,
+        "slowStartTime": 29081,
+        "slowEndTime": 30414
+    },
+    {
+        "text": "I never had a chance.",
+        "startTime": 25274,
+        "endTime": 26975,
+        "slowStartTime": 38061,
+        "slowEndTime": 40688
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "text": "The world goes green.",
+        "startTime": 483,
+        "endTime": 1895,
+        "slowStartTime": 874,
+        "slowEndTime": 3067
+    },
+    {
+        "text": "But here in Ireland, every day is bathed in green.",
+        "startTime": 4568,
+        "endTime": 8654,
+        "slowStartTime": 7002,
+        "slowEndTime": 13206
+    },
+    {
+        "text": "After all, this emerald isle is like nowhere else on Earth.",
+        "startTime": 10123,
+        "endTime": 13984,
+        "slowStartTime": 15334,
+        "slowEndTime": 21201
+    },
+    {
+        "text": "A rugged coast and grassy hills collide.",
+        "startTime": 15446,
+        "endTime": 17845,
+        "slowStartTime": 23319,
+        "slowEndTime": 26993
+    },
+    {
+        "text": "And time can stand still or fly by.",
+        "startTime": 19359,
+        "endTime": 23390,
+        "slowStartTime": 29188,
+        "slowEndTime": 35310
+    },
+    {
+        "text": "It is a place where music flows as easily as conversations...",
+        "startTime": 24938,
+        "endTime": 28256,
+        "slowStartTime": 37557,
+        "slowEndTime": 42609
+    },
+    {
+        "text": "...and welcomes are warm and delivered with a smile.",
+        "startTime": 29184,
+        "endTime": 32684,
+        "slowStartTime": 43926,
+        "slowEndTime": 49251
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "text": "Where? (in, on, under)",
+        "startTime": 1446,
+        "endTime": 5748,
+        "slowStartTime": 2319,
+        "slowEndTime": 8847
+    },
+    {
+        "text": "I'm going to have a picnic!",
+        "startTime": 7298,
+        "endTime": 10575,
+        "slowStartTime": 11097,
+        "slowEndTime": 16088
+    },
+    {
+        "text": "Where is my hat?",
+        "startTime": 11298,
+        "endTime": 13127,
+        "slowStartTime": 17097,
+        "slowEndTime": 19915
+    },
+    {
+        "text": "It's under the chair!",
+        "startTime": 16104,
+        "endTime": 18307,
+        "slowStartTime": 24306,
+        "slowEndTime": 27686
+    },
+    {
+        "text": "Under",
+        "startTime": 19992,
+        "endTime": 20881,
+        "slowStartTime": 30138,
+        "slowEndTime": 31547
+    },
+    {
+        "text": "Where are my glasses?",
+        "startTime": 23653,
+        "endTime": 26163,
+        "slowStartTime": 35630,
+        "slowEndTime": 39470
+    },
+    {
+        "text": "They are on the desk!",
+        "startTime": 27837,
+        "endTime": 30091,
+        "slowStartTime": 41906,
+        "slowEndTime": 45362
+    },
+    {
+        "text": "On",
+        "startTime": 31568,
+        "endTime": 32371,
+        "slowStartTime": 47502,
+        "slowEndTime": 48782
+    },
+    {
+        "text": "Where is my jacket?",
+        "startTime": 35439,
+        "endTime": 37949,
+        "slowStartTime": 53309,
+        "slowEndTime": 57149
+    },
+    {
+        "text": "It's in the closet!",
+        "startTime": 39500,
+        "endTime": 41583,
+        "slowStartTime": 59400,
+        "slowEndTime": 62600
+    },
+    {
+        "text": "In",
+        "startTime": 43321,
+        "endTime": 44163,
+        "slowStartTime": 65132,
+        "slowEndTime": 66470
+    },
+    {
+        "text": "Where are my socks?",
+        "startTime": 47003,
+        "endTime": 49086,
+        "slowStartTime": 70654,
+        "slowEndTime": 73854
+    },
+    {
+        "text": "They are behind the ball!",
+        "startTime": 50431,
+        "endTime": 52855,
+        "slowStartTime": 75796,
+        "slowEndTime": 79508
+    },
+    {
+        "text": "Behind",
+        "startTime": 54763,
+        "endTime": 55737,
+        "slowStartTime": 82294,
+        "slowEndTime": 83830
+    },
+    {
+        "text": "Where is my bag?",
+        "startTime": 58279,
+        "endTime": 60448,
+        "slowStartTime": 87569,
+        "slowEndTime": 90897
+    },
+    {
+        "text": "It's in front of the computer!",
+        "startTime": 61757,
+        "endTime": 64779,
+        "slowStartTime": 92786,
+        "slowEndTime": 97394
+    },
+    {
+        "text": "In front of",
+        "startTime": 66282,
+        "endTime": 67768,
+        "slowStartTime": 99573,
+        "slowEndTime": 101877
+    },
+    {
+        "text": "Where is my sketchbook?",
+        "startTime": 69331,
+        "endTime": 71926,
+        "slowStartTime": 104146,
+        "slowEndTime": 108114
+    },
+    {
+        "text": "It's between the dolls!",
+        "startTime": 72865,
+        "endTime": 74949,
+        "slowStartTime": 109448,
+        "slowEndTime": 112648
+    },
+    {
+        "text": "Between",
+        "startTime": 76659,
+        "endTime": 77804,
+        "slowStartTime": 115139,
+        "slowEndTime": 116931
+    },
+    {
+        "text": "Where are my colored pencils?",
+        "startTime": 79769,
+        "endTime": 82791,
+        "slowStartTime": 119803,
+        "slowEndTime": 124411
+    },
+    {
+        "text": "They are beside the book!",
+        "startTime": 84239,
+        "endTime": 86664,
+        "slowStartTime": 126509,
+        "slowEndTime": 130221
+    },
+    {
+        "text": "Beside",
+        "startTime": 88001,
+        "endTime": 88975,
+        "slowStartTime": 132151,
+        "slowEndTime": 133687
+    },
+    {
+        "text": "I found everything!",
+        "startTime": 91492,
+        "endTime": 93917,
+        "slowStartTime": 137388,
+        "slowEndTime": 141100
+    },
+    {
+        "text": "Let's go have our picnic!",
+        "startTime": 94430,
+        "endTime": 97015,
+        "slowStartTime": 141795,
+        "slowEndTime": 145747
+    }
+]

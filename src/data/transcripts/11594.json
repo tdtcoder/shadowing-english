@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Some American management consultants...",
+        "startTime": 8279,
+        "endTime": 10179,
+        "slowStartTime": 12568,
+        "slowEndTime": 15493
+    },
+    {
+        "text": "...recommend having meetings standing up to save time,...",
+        "startTime": 10285,
+        "endTime": 13316,
+        "slowStartTime": 15578,
+        "slowEndTime": 20199
+    },
+    {
+        "text": "...which wouldn't suit this Japanese chairman,...",
+        "startTime": 18612,
+        "endTime": 20828,
+        "slowStartTime": 28068,
+        "slowEndTime": 31467
+    },
+    {
+        "text": "...who likes to take the time to contemplate what is being discussed.",
+        "startTime": 20954,
+        "endTime": 24371,
+        "slowStartTime": 31581,
+        "slowEndTime": 36782
+    },
+    {
+        "text": "It's fine to get some shut-eye in Thailand, but not like this.",
+        "startTime": 29040,
+        "endTime": 32323,
+        "slowStartTime": 43710,
+        "slowEndTime": 48710
+    },
+    {
+        "text": "Showing the soles of your feet is one of the rudest things you can do.",
+        "startTime": 32599,
+        "endTime": 35645,
+        "slowStartTime": 49048,
+        "slowEndTime": 53692
+    },
+    {
+        "text": "And this hand gesture in parts of Greece would also be frowned upon.",
+        "startTime": 36060,
+        "endTime": 40995,
+        "slowStartTime": 54240,
+        "slowEndTime": 61717
+    },
+    {
+        "text": "At HSBC, we never underestimate the importance of local knowledge,...",
+        "startTime": 44359,
+        "endTime": 48063,
+        "slowStartTime": 66688,
+        "slowEndTime": 72319
+    },
+    {
+        "text": "...particularly when it comes to your money...",
+        "startTime": 48319,
+        "endTime": 50127,
+        "slowStartTime": 72629,
+        "slowEndTime": 75415
+    },
+    {
+        "text": "...because what we learned in one country...",
+        "startTime": 50435,
+        "endTime": 51986,
+        "slowStartTime": 75802,
+        "slowEndTime": 78204
+    },
+    {
+        "text": "...can directly benefit our customers in another.",
+        "startTime": 52147,
+        "endTime": 55069,
+        "slowStartTime": 78370,
+        "slowEndTime": 82828
+    },
+    {
+        "text": "HSBC, the world's local bank.",
+        "startTime": 55346,
+        "endTime": 58516,
+        "slowStartTime": 83169,
+        "slowEndTime": 87999
+    }
+]

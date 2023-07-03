@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Why are pizza boxes square?",
+        "startTime": 4947,
+        "endTime": 6507,
+        "slowStartTime": 7571,
+        "slowEndTime": 9986
+    },
+    {
+        "text": "Because square is what's in right now...",
+        "startTime": 8865,
+        "endTime": 11911,
+        "slowStartTime": 13447,
+        "slowEndTime": 18091
+    },
+    {
+        "text": "Hey you, come over here.",
+        "startTime": 14227,
+        "endTime": 15849,
+        "slowStartTime": 21490,
+        "slowEndTime": 23998
+    },
+    {
+        "text": "Even though pizzas are round, square boxes are preferred.",
+        "startTime": 20821,
+        "endTime": 25121,
+        "slowStartTime": 31382,
+        "slowEndTime": 37906
+    },
+    {
+        "text": "Why?",
+        "startTime": 25449,
+        "endTime": 25778,
+        "slowStartTime": 38323,
+        "slowEndTime": 38892
+    },
+    {
+        "text": "This is because a square box is made using just a single cardboard sheet.",
+        "startTime": 25921,
+        "endTime": 30732,
+        "slowStartTime": 39032,
+        "slowEndTime": 46323
+    },
+    {
+        "text": "While a round box requires several sheets.",
+        "startTime": 37397,
+        "endTime": 40330,
+        "slowStartTime": 56246,
+        "slowEndTime": 60720
+    },
+    {
+        "text": "That need to be joined together using special machinery.",
+        "startTime": 41856,
+        "endTime": 44594,
+        "slowStartTime": 62934,
+        "slowEndTime": 67116
+    },
+    {
+        "text": "So it is cheaper and simpler to make square boxes.",
+        "startTime": 47198,
+        "endTime": 50987,
+        "slowStartTime": 70947,
+        "slowEndTime": 76706
+    },
+    {
+        "text": "Yes.",
+        "startTime": 51498,
+        "endTime": 52219,
+        "slowStartTime": 77397,
+        "slowEndTime": 78554
+    },
+    {
+        "text": "A square box can be easily assembled on-site.",
+        "startTime": 52383,
+        "endTime": 55199,
+        "slowStartTime": 78725,
+        "slowEndTime": 83024
+    },
+    {
+        "text": "They are transported in the form of flat cardboard sheets easily stacked on.",
+        "startTime": 55477,
+        "endTime": 60611,
+        "slowStartTime": 83365,
+        "slowEndTime": 91142
+    },
+    {
+        "text": "However, round boxes need to be first assembled.",
+        "startTime": 62083,
+        "endTime": 65439,
+        "slowStartTime": 93275,
+        "slowEndTime": 98383
+    },
+    {
+        "text": "This makes it difficult to transport and store these huge pile of boxes on-site.",
+        "startTime": 65698,
+        "endTime": 70354,
+        "slowStartTime": 98697,
+        "slowEndTime": 105756
+    }
+]

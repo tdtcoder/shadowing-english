@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Hello?",
+        "startTime": 677,
+        "endTime": 1227,
+        "slowStartTime": 1165,
+        "slowEndTime": 2065
+    },
+    {
+        "text": "Hello?",
+        "startTime": 1941,
+        "endTime": 2454,
+        "slowStartTime": 3061,
+        "slowEndTime": 3906
+    },
+    {
+        "text": "This is David.",
+        "startTime": 2843,
+        "endTime": 3656,
+        "slowStartTime": 4415,
+        "slowEndTime": 5709
+    },
+    {
+        "text": "Can I speak to Amanda?",
+        "startTime": 4071,
+        "endTime": 5380,
+        "slowStartTime": 6257,
+        "slowEndTime": 8295
+    },
+    {
+        "text": "This is Amanda speaking.",
+        "startTime": 5751,
+        "endTime": 7191,
+        "slowStartTime": 8776,
+        "slowEndTime": 11012
+    },
+    {
+        "text": "Hi Amanda.",
+        "startTime": 7625,
+        "endTime": 8391,
+        "slowStartTime": 11588,
+        "slowEndTime": 12811
+    },
+    {
+        "text": "How are you today?",
+        "startTime": 8734,
+        "endTime": 9629,
+        "slowStartTime": 13251,
+        "slowEndTime": 14669
+    },
+    {
+        "text": "I'm good.",
+        "startTime": 10029,
+        "endTime": 10825,
+        "slowStartTime": 15193,
+        "slowEndTime": 16463
+    },
+    {
+        "text": "That's good to hear.",
+        "startTime": 11234,
+        "endTime": 12145,
+        "slowStartTime": 17001,
+        "slowEndTime": 18443
+    },
+    {
+        "text": "Did you have lunch?",
+        "startTime": 12554,
+        "endTime": 13535,
+        "slowStartTime": 18981,
+        "slowEndTime": 20527
+    },
+    {
+        "text": "Yes, I had lunch.",
+        "startTime": 13695,
+        "endTime": 15088,
+        "slowStartTime": 20693,
+        "slowEndTime": 22857
+    },
+    {
+        "text": "What did you have for lunch?",
+        "startTime": 15669,
+        "endTime": 16860,
+        "slowStartTime": 23653,
+        "slowEndTime": 25515
+    },
+    {
+        "text": "I had pizza, salad and Coke for lunch.",
+        "startTime": 17195,
+        "endTime": 20317,
+        "slowStartTime": 25942,
+        "slowEndTime": 30701
+    },
+    {
+        "text": "Wow, that sounds very delicious!",
+        "startTime": 20697,
+        "endTime": 23060,
+        "slowStartTime": 31195,
+        "slowEndTime": 34815
+    },
+    {
+        "text": "Yes.",
+        "startTime": 23360,
+        "endTime": 23908,
+        "slowStartTime": 35190,
+        "slowEndTime": 36087
+    },
+    {
+        "text": "It was very yummy.",
+        "startTime": 24129,
+        "endTime": 25601,
+        "slowStartTime": 36344,
+        "slowEndTime": 38626
+    },
+    {
+        "text": "What kind of pizza did you have?",
+        "startTime": 26193,
+        "endTime": 27786,
+        "slowStartTime": 39439,
+        "slowEndTime": 41904
+    },
+    {
+        "text": "I had cheese pizza.",
+        "startTime": 28118,
+        "endTime": 29624,
+        "slowStartTime": 42327,
+        "slowEndTime": 44661
+    },
+    {
+        "text": "Oh, it makes me very hungry.",
+        "startTime": 29920,
+        "endTime": 32027,
+        "slowStartTime": 45030,
+        "slowEndTime": 48266
+    },
+    {
+        "text": "Do you like Italian food?",
+        "startTime": 32380,
+        "endTime": 33739,
+        "slowStartTime": 48720,
+        "slowEndTime": 50833
+    },
+    {
+        "text": "Yes, but I usually have Korean food for lunch.",
+        "startTime": 34160,
+        "endTime": 37649,
+        "slowStartTime": 51390,
+        "slowEndTime": 56698
+    },
+    {
+        "text": "What is your favorite Korean food?",
+        "startTime": 38156,
+        "endTime": 39891,
+        "slowStartTime": 57384,
+        "slowEndTime": 60062
+    },
+    {
+        "text": "My favorite Korean food is kimchi jjigae.",
+        "startTime": 40176,
+        "endTime": 43035,
+        "slowStartTime": 60414,
+        "slowEndTime": 64778
+    },
+    {
+        "text": "How does it taste?",
+        "startTime": 43639,
+        "endTime": 44642,
+        "slowStartTime": 65608,
+        "slowEndTime": 67188
+    },
+    {
+        "text": "Oh, you mean kimchi jjigae?",
+        "startTime": 45539,
+        "endTime": 47123,
+        "slowStartTime": 68458,
+        "slowEndTime": 70909
+    },
+    {
+        "text": "It's hot and spicy.",
+        "startTime": 47749,
+        "endTime": 49181,
+        "slowStartTime": 71774,
+        "slowEndTime": 73996
+    },
+    {
+        "text": "Maybe you need water when you eat.",
+        "startTime": 50397,
+        "endTime": 52145,
+        "slowStartTime": 75746,
+        "slowEndTime": 78443
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Hi, Dave.",
+        "startTime": 1545,
+        "endTime": 2634,
+        "slowStartTime": 2468,
+        "slowEndTime": 4176
+    },
+    {
+        "text": "Hi, Sally. What are you doing here?",
+        "startTime": 3699,
+        "endTime": 6207,
+        "slowStartTime": 5699,
+        "slowEndTime": 9535
+    },
+    {
+        "text": "I am waiting for my dad.",
+        "startTime": 7755,
+        "endTime": 9734,
+        "slowStartTime": 11782,
+        "slowEndTime": 14826
+    },
+    {
+        "text": "Are you? I have to wait for my dad to come here, too.",
+        "startTime": 10731,
+        "endTime": 14679,
+        "slowStartTime": 16247,
+        "slowEndTime": 22244
+    },
+    {
+        "text": "What about going out for lunch, Kate?",
+        "startTime": 17421,
+        "endTime": 19599,
+        "slowStartTime": 26281,
+        "slowEndTime": 29623
+    },
+    {
+        "text": "Oh, I can't. I have to wait for James to call me at home.",
+        "startTime": 21266,
+        "endTime": 26337,
+        "slowStartTime": 32049,
+        "slowEndTime": 39730
+    },
+    {
+        "text": "How about ordering some pizza?",
+        "startTime": 27065,
+        "endTime": 29187,
+        "slowStartTime": 40748,
+        "slowEndTime": 44006
+    },
+    {
+        "text": "Umm, I don't like pizza and Janice doesn't like it, either.",
+        "startTime": 30889,
+        "endTime": 35486,
+        "slowStartTime": 46483,
+        "slowEndTime": 53454
+    },
+    {
+        "text": "Grandpa loves to fish and I love to fish.",
+        "startTime": 40869,
+        "endTime": 44352,
+        "slowStartTime": 61454,
+        "slowEndTime": 66753
+    },
+    {
+        "text": "Grandpa goes fishing and I go fishing.",
+        "startTime": 44649,
+        "endTime": 47851,
+        "slowStartTime": 67123,
+        "slowEndTime": 72001
+    },
+    {
+        "text": "Grandpa gets the worm and I get the fishing pole.",
+        "startTime": 48403,
+        "endTime": 54839,
+        "slowStartTime": 72755,
+        "slowEndTime": 82483
+    },
+    {
+        "text": "Grandpa gets his pole ready and I get my pole ready.",
+        "startTime": 55867,
+        "endTime": 61963,
+        "slowStartTime": 83951,
+        "slowEndTime": 93170
+    },
+    {
+        "text": "Grandpa puts a worm on my hook and on his hook.",
+        "startTime": 63395,
+        "endTime": 69395,
+        "slowStartTime": 95242,
+        "slowEndTime": 104318
+    },
+    {
+        "text": "Grandpa and I toss the worms and hooks into the water.",
+        "startTime": 70867,
+        "endTime": 76957,
+        "slowStartTime": 106451,
+        "slowEndTime": 115661
+    },
+    {
+        "text": "Grandpa and I wait and wait for the fish to bite.",
+        "startTime": 78376,
+        "endTime": 84661,
+        "slowStartTime": 117714,
+        "slowEndTime": 127217
+    },
+    {
+        "text": "Yes! A fish bites my hook and I pull the fish in.",
+        "startTime": 85810,
+        "endTime": 92388,
+        "slowStartTime": 128865,
+        "slowEndTime": 138807
+    }
+]

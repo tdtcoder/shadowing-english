@@ -1,0 +1,65 @@
+[
+    {
+        "text": "I have two books in hand and two on the shelf.",
+        "startTime": 1114,
+        "endTime": 3898,
+        "slowStartTime": 1821,
+        "slowEndTime": 6072
+    },
+    {
+        "text": "How many do I have?",
+        "startTime": 4870,
+        "endTime": 6151,
+        "slowStartTime": 7455,
+        "slowEndTime": 9451
+    },
+    {
+        "text": "May I?",
+        "startTime": 7357,
+        "endTime": 7850,
+        "slowStartTime": 11186,
+        "slowEndTime": 12000
+    },
+    {
+        "text": "May I?",
+        "startTime": 7974,
+        "endTime": 8631,
+        "slowStartTime": 12111,
+        "slowEndTime": 13171
+    },
+    {
+        "text": "Four books.",
+        "startTime": 9672,
+        "endTime": 10316,
+        "slowStartTime": 14658,
+        "slowEndTime": 15699
+    },
+    {
+        "text": "Good!",
+        "startTime": 11443,
+        "endTime": 11743,
+        "slowStartTime": 17315,
+        "slowEndTime": 17839
+    },
+    {
+        "text": "Now, let us make it tough.",
+        "startTime": 12264,
+        "endTime": 13700,
+        "slowStartTime": 18546,
+        "slowEndTime": 20775
+    },
+    {
+        "text": "What is 55,340 books plus 132,548 books?",
+        "startTime": 15255,
+        "endTime": 23697,
+        "slowStartTime": 23033,
+        "slowEndTime": 35771
+    },
+    {
+        "text": "Library.",
+        "startTime": 25011,
+        "endTime": 26069,
+        "slowStartTime": 37667,
+        "slowEndTime": 39329
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Let's learn about different places.",
+        "startTime": 944,
+        "endTime": 3458,
+        "slowStartTime": 1566,
+        "slowEndTime": 5412
+    },
+    {
+        "text": "This is a forest.",
+        "startTime": 6207,
+        "endTime": 7881,
+        "slowStartTime": 9461,
+        "slowEndTime": 12047
+    },
+    {
+        "text": "He is in the desert.",
+        "startTime": 14764,
+        "endTime": 16179,
+        "slowStartTime": 22296,
+        "slowEndTime": 24494
+    },
+    {
+        "text": "These are mountains.",
+        "startTime": 21522,
+        "endTime": 23226,
+        "slowStartTime": 32433,
+        "slowEndTime": 35064
+    },
+    {
+        "text": "This is a lake.",
+        "startTime": 30911,
+        "endTime": 32431,
+        "slowStartTime": 46516,
+        "slowEndTime": 48872
+    },
+    {
+        "text": "This is a river.",
+        "startTime": 39281,
+        "endTime": 40698,
+        "slowStartTime": 59071,
+        "slowEndTime": 61272
+    },
+    {
+        "text": "This is a big city.",
+        "startTime": 50335,
+        "endTime": 52349,
+        "slowStartTime": 75652,
+        "slowEndTime": 78748
+    },
+    {
+        "text": "This is the countryside.",
+        "startTime": 61370,
+        "endTime": 63357,
+        "slowStartTime": 92205,
+        "slowEndTime": 95261
+    },
+    {
+        "text": "This is a beach.",
+        "startTime": 72662,
+        "endTime": 74485,
+        "slowStartTime": 109143,
+        "slowEndTime": 111952
+    },
+    {
+        "text": "The fish swim in the sea.",
+        "startTime": 84199,
+        "endTime": 86418,
+        "slowStartTime": 126448,
+        "slowEndTime": 129852
+    },
+    {
+        "text": "This is a park.",
+        "startTime": 95163,
+        "endTime": 96947,
+        "slowStartTime": 142895,
+        "slowEndTime": 145645
+    },
+    {
+        "text": "What a sky!",
+        "startTime": 109718,
+        "endTime": 111682,
+        "slowStartTime": 164727,
+        "slowEndTime": 167748
+    }
+]

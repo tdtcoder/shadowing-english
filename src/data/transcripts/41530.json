@@ -1,0 +1,310 @@
+[
+    {
+        "text": "So, Luka, we got the one minute drill for you.",
+        "startTime": 964,
+        "endTime": 2687,
+        "slowStartTime": 1596,
+        "slowEndTime": 4256
+    },
+    {
+        "text": "You ready?",
+        "startTime": 2839,
+        "endTime": 3287,
+        "slowStartTime": 4408,
+        "slowEndTime": 5156
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 3447,
+        "endTime": 3635,
+        "slowStartTime": 5320,
+        "slowEndTime": 5677
+    },
+    {
+        "text": "All right, here we go.",
+        "startTime": 3754,
+        "endTime": 4341,
+        "slowStartTime": 5781,
+        "slowEndTime": 6736
+    },
+    {
+        "text": "Let's get one minute on the clock.",
+        "startTime": 4417,
+        "endTime": 5718,
+        "slowStartTime": 6776,
+        "slowEndTime": 8802
+    },
+    {
+        "text": "I know you're a car guy.",
+        "startTime": 6016,
+        "endTime": 6937,
+        "slowStartTime": 9174,
+        "slowEndTime": 10631
+    },
+    {
+        "text": "Your favorite car to drive.",
+        "startTime": 7080,
+        "endTime": 8441,
+        "slowStartTime": 10770,
+        "slowEndTime": 12887
+    },
+    {
+        "text": "That I have or that I want?",
+        "startTime": 8745,
+        "endTime": 9902,
+        "slowStartTime": 13267,
+        "slowEndTime": 15078
+    },
+    {
+        "text": "That you want.",
+        "startTime": 9973,
+        "endTime": 10613,
+        "slowStartTime": 15110,
+        "slowEndTime": 16145
+    },
+    {
+        "text": "Bugatti.",
+        "startTime": 10925,
+        "endTime": 11376,
+        "slowStartTime": 16538,
+        "slowEndTime": 17289
+    },
+    {
+        "text": "Alright.",
+        "startTime": 11598,
+        "endTime": 11957,
+        "slowStartTime": 17547,
+        "slowEndTime": 18161
+    },
+    {
+        "text": "Favorite restaurant here in Dallas?",
+        "startTime": 12073,
+        "endTime": 13508,
+        "slowStartTime": 18260,
+        "slowEndTime": 20487
+    },
+    {
+        "text": "Nick & Sam's.",
+        "startTime": 13717,
+        "endTime": 14471,
+        "slowStartTime": 20725,
+        "slowEndTime": 21932
+    },
+    {
+        "text": "Favorite subject in school?",
+        "startTime": 14615,
+        "endTime": 16267,
+        "slowStartTime": 22073,
+        "slowEndTime": 24626
+    },
+    {
+        "text": "Sports, how do you say it?",
+        "startTime": 18464,
+        "endTime": 19313,
+        "slowStartTime": 27846,
+        "slowEndTime": 29194
+    },
+    {
+        "text": "Recess.",
+        "startTime": 19812,
+        "endTime": 20026,
+        "slowStartTime": 29868,
+        "slowEndTime": 30264
+    },
+    {
+        "text": "As a kid, your favorite basketball player?",
+        "startTime": 20341,
+        "endTime": 22033,
+        "slowStartTime": 30661,
+        "slowEndTime": 33274
+    },
+    {
+        "text": "European, Spanoulis.",
+        "startTime": 24107,
+        "endTime": 25168,
+        "slowStartTime": 36310,
+        "slowEndTime": 37977
+    },
+    {
+        "text": "As a kid, your favorite soccer player?",
+        "startTime": 25694,
+        "endTime": 27367,
+        "slowStartTime": 38691,
+        "slowEndTime": 41276
+    },
+    {
+        "text": "Ronaldo.",
+        "startTime": 28390,
+        "endTime": 29177,
+        "slowStartTime": 42735,
+        "slowEndTime": 43990
+    },
+    {
+        "text": "Best advice a coach has ever given you.",
+        "startTime": 29288,
+        "endTime": 31293,
+        "slowStartTime": 44082,
+        "slowEndTime": 47165
+    },
+    {
+        "text": "Enjoy the game.",
+        "startTime": 31482,
+        "endTime": 32233,
+        "slowStartTime": 47373,
+        "slowEndTime": 48574
+    },
+    {
+        "text": "What other professional sport would you like to play?",
+        "startTime": 32671,
+        "endTime": 34789,
+        "slowStartTime": 49157,
+        "slowEndTime": 52409
+    },
+    {
+        "text": "Soccer.",
+        "startTime": 36195,
+        "endTime": 36626,
+        "slowStartTime": 54443,
+        "slowEndTime": 55164
+    },
+    {
+        "text": "Alright.",
+        "startTime": 36909,
+        "endTime": 37242,
+        "slowStartTime": 55513,
+        "slowEndTime": 56088
+    },
+    {
+        "text": "Which one do you prefer?",
+        "startTime": 37517,
+        "endTime": 38390,
+        "slowStartTime": 56425,
+        "slowEndTime": 57810
+    },
+    {
+        "text": "Cats or dogs?",
+        "startTime": 38600,
+        "endTime": 39643,
+        "slowStartTime": 58050,
+        "slowEndTime": 59690
+    },
+    {
+        "text": "Dogs.",
+        "startTime": 39816,
+        "endTime": 40260,
+        "slowStartTime": 59874,
+        "slowEndTime": 60615
+    },
+    {
+        "text": "Vanilla or chocolate?",
+        "startTime": 40384,
+        "endTime": 41625,
+        "slowStartTime": 60726,
+        "slowEndTime": 62663
+    },
+    {
+        "text": "Chocolate.",
+        "startTime": 41871,
+        "endTime": 42191,
+        "slowStartTime": 62957,
+        "slowEndTime": 63512
+    },
+    {
+        "text": "Morning person or night?",
+        "startTime": 42439,
+        "endTime": 43631,
+        "slowStartTime": 63809,
+        "slowEndTime": 65672
+    },
+    {
+        "text": "Night.",
+        "startTime": 43813,
+        "endTime": 44247,
+        "slowStartTime": 65870,
+        "slowEndTime": 66596
+    },
+    {
+        "text": "Barbecue or seafood?",
+        "startTime": 45161,
+        "endTime": 46235,
+        "slowStartTime": 67891,
+        "slowEndTime": 69577
+    },
+    {
+        "text": "Barbecue.",
+        "startTime": 46496,
+        "endTime": 47181,
+        "slowStartTime": 69894,
+        "slowEndTime": 70997
+    },
+    {
+        "text": "Sweet tea or unsweet tea?",
+        "startTime": 47421,
+        "endTime": 49132,
+        "slowStartTime": 71282,
+        "slowEndTime": 73923
+    },
+    {
+        "text": "Unsweet tea.",
+        "startTime": 49694,
+        "endTime": 50521,
+        "slowStartTime": 74691,
+        "slowEndTime": 76006
+    },
+    {
+        "text": "Favorite thing to do on your day off?",
+        "startTime": 50987,
+        "endTime": 52507,
+        "slowStartTime": 76630,
+        "slowEndTime": 78986
+    },
+    {
+        "text": "Lay on the couch.",
+        "startTime": 53893,
+        "endTime": 54887,
+        "slowStartTime": 80990,
+        "slowEndTime": 82556
+    },
+    {
+        "text": "The sporting event you'd most like to attend?",
+        "startTime": 55030,
+        "endTime": 57609,
+        "slowStartTime": 82695,
+        "slowEndTime": 86639
+    },
+    {
+        "text": "World Cup.",
+        "startTime": 58225,
+        "endTime": 59005,
+        "slowStartTime": 87488,
+        "slowEndTime": 88733
+    },
+    {
+        "text": "And if you could go to one more concert in your entire life, who would you go and see?",
+        "startTime": 59705,
+        "endTime": 63508,
+        "slowStartTime": 89708,
+        "slowEndTime": 95487
+    },
+    {
+        "text": "It's a tough one.",
+        "startTime": 63862,
+        "endTime": 64697,
+        "slowStartTime": 95943,
+        "slowEndTime": 97271
+    },
+    {
+        "text": "A Serbian singer.",
+        "startTime": 64919,
+        "endTime": 66402,
+        "slowStartTime": 97529,
+        "slowEndTime": 99828
+    },
+    {
+        "text": "I don't know.",
+        "startTime": 67324,
+        "endTime": 67943,
+        "slowStartTime": 101136,
+        "slowEndTime": 102140
+    }
+]

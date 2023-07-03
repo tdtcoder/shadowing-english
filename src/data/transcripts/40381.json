@@ -1,0 +1,86 @@
+[
+    {
+        "text": "I'm having trouble with my computer.",
+        "startTime": 682,
+        "endTime": 2855,
+        "slowStartTime": 1173,
+        "slowEndTime": 4508
+    },
+    {
+        "text": "It's acting up.",
+        "startTime": 3147,
+        "endTime": 3987,
+        "slowStartTime": 4870,
+        "slowEndTime": 6206
+    },
+    {
+        "text": "Again?",
+        "startTime": 4799,
+        "endTime": 5532,
+        "slowStartTime": 7349,
+        "slowEndTime": 8523
+    },
+    {
+        "text": "I thought it was fixed.",
+        "startTime": 5875,
+        "endTime": 7173,
+        "slowStartTime": 8963,
+        "slowEndTime": 10984
+    },
+    {
+        "text": "Did you call the IT Department?",
+        "startTime": 7653,
+        "endTime": 9245,
+        "slowStartTime": 11629,
+        "slowEndTime": 14092
+    },
+    {
+        "text": "I did, but they are busy.",
+        "startTime": 9829,
+        "endTime": 12038,
+        "slowStartTime": 14893,
+        "slowEndTime": 18282
+    },
+    {
+        "text": "Would you do me a favor?",
+        "startTime": 12673,
+        "endTime": 13618,
+        "slowStartTime": 19160,
+        "slowEndTime": 20652
+    },
+    {
+        "text": "Could you please check it for me?",
+        "startTime": 14147,
+        "endTime": 15435,
+        "slowStartTime": 21371,
+        "slowEndTime": 23378
+    },
+    {
+        "text": "Sure, I can do that.",
+        "startTime": 16197,
+        "endTime": 17492,
+        "slowStartTime": 24445,
+        "slowEndTime": 26463
+    },
+    {
+        "text": "Just give me a second.",
+        "startTime": 17702,
+        "endTime": 18805,
+        "slowStartTime": 26703,
+        "slowEndTime": 28432
+    },
+    {
+        "text": "Okay. Thank you.",
+        "startTime": 19605,
+        "endTime": 20625,
+        "slowStartTime": 29557,
+        "slowEndTime": 31162
+    },
+    {
+        "text": "No problem.",
+        "startTime": 21235,
+        "endTime": 21965,
+        "slowStartTime": 32003,
+        "slowEndTime": 33173
+    }
+]

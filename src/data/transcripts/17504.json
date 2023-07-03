@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Climb.",
+        "startTime": 2632,
+        "endTime": 3325,
+        "slowStartTime": 4098,
+        "slowEndTime": 5213
+    },
+    {
+        "text": "I can climb a mountain.",
+        "startTime": 4111,
+        "endTime": 5872,
+        "slowStartTime": 6316,
+        "slowEndTime": 9033
+    },
+    {
+        "text": "I can climb a small mountain.",
+        "startTime": 7149,
+        "endTime": 9381,
+        "slowStartTime": 10873,
+        "slowEndTime": 14297
+    },
+    {
+        "text": "Comb.",
+        "startTime": 10714,
+        "endTime": 11362,
+        "slowStartTime": 16221,
+        "slowEndTime": 17268
+    },
+    {
+        "text": "I use a comb.",
+        "startTime": 12110,
+        "endTime": 13457,
+        "slowStartTime": 18315,
+        "slowEndTime": 20410
+    },
+    {
+        "text": "I use a comb to brush my hair.",
+        "startTime": 14808,
+        "endTime": 17079,
+        "slowStartTime": 22362,
+        "slowEndTime": 25843
+    },
+    {
+        "text": "Lamb.",
+        "startTime": 18393,
+        "endTime": 19116,
+        "slowStartTime": 27739,
+        "slowEndTime": 28899
+    },
+    {
+        "text": "There is a lamb.",
+        "startTime": 19953,
+        "endTime": 21468,
+        "slowStartTime": 30079,
+        "slowEndTime": 32427
+    },
+    {
+        "text": "There is a lamb in the field.",
+        "startTime": 22707,
+        "endTime": 24865,
+        "slowStartTime": 34211,
+        "slowEndTime": 37522
+    },
+    {
+        "text": "Thumb.",
+        "startTime": 26160,
+        "endTime": 26733,
+        "slowStartTime": 39390,
+        "slowEndTime": 40324
+    },
+    {
+        "text": "I hurt my thumb.",
+        "startTime": 27386,
+        "endTime": 28915,
+        "slowStartTime": 41229,
+        "slowEndTime": 43598
+    },
+    {
+        "text": "I hurt my big thumb.",
+        "startTime": 30229,
+        "endTime": 32009,
+        "slowStartTime": 45494,
+        "slowEndTime": 48239
+    },
+    {
+        "text": "What, what, what, what is for breakfast?",
+        "startTime": 37287,
+        "endTime": 40779,
+        "slowStartTime": 56081,
+        "slowEndTime": 61394
+    },
+    {
+        "text": "Fish, fish, fish, we have fish for breakfast.",
+        "startTime": 41231,
+        "endTime": 44538,
+        "slowStartTime": 61996,
+        "slowEndTime": 67032
+    },
+    {
+        "text": "What, what, what, what can I have for lunch?",
+        "startTime": 44942,
+        "endTime": 48216,
+        "slowStartTime": 67563,
+        "slowEndTime": 72549
+    },
+    {
+        "text": "Fish, fish, fish, you can have fish for lunch.",
+        "startTime": 48683,
+        "endTime": 51951,
+        "slowStartTime": 73175,
+        "slowEndTime": 78152
+    },
+    {
+        "text": "What, what, what, what are we having for dinner?",
+        "startTime": 52409,
+        "endTime": 55819,
+        "slowStartTime": 78763,
+        "slowEndTime": 83953
+    },
+    {
+        "text": "Fish, fish, fish, we are having fish for dinner.",
+        "startTime": 56177,
+        "endTime": 59547,
+        "slowStartTime": 84415,
+        "slowEndTime": 89545
+    },
+    {
+        "text": "No, no, no, no more fish for my meals!",
+        "startTime": 59886,
+        "endTime": 63281,
+        "slowStartTime": 89979,
+        "slowEndTime": 95146
+    },
+    {
+        "text": "Please, please, please, can I have pizza?",
+        "startTime": 63607,
+        "endTime": 66651,
+        "slowStartTime": 95561,
+        "slowEndTime": 100202
+    }
+]

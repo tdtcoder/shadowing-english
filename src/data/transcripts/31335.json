@@ -1,0 +1,93 @@
+[
+    {
+        "text": "In Italy, a bridge that was built in the 1960s near Genoa collapsed.",
+        "startTime": 3359,
+        "endTime": 7582,
+        "slowStartTime": 5189,
+        "slowEndTime": 11598
+    },
+    {
+        "text": "At least 22 people have been reported dead and eight injured.",
+        "startTime": 7923,
+        "endTime": 11151,
+        "slowStartTime": 12035,
+        "slowEndTime": 16951
+    },
+    {
+        "text": "In the UK, a driver was detained on suspicion of terrorism...",
+        "startTime": 13767,
+        "endTime": 17140,
+        "slowStartTime": 20800,
+        "slowEndTime": 25935
+    },
+    {
+        "text": "...after crashing his car into a barrier outside of the House of Parliament.",
+        "startTime": 17399,
+        "endTime": 20939,
+        "slowStartTime": 26248,
+        "slowEndTime": 31634
+    },
+    {
+        "text": "24 people in Ecuador were killed and 19 injured in a bus crash.",
+        "startTime": 24654,
+        "endTime": 28386,
+        "slowStartTime": 37131,
+        "slowEndTime": 42804
+    },
+    {
+        "text": "Authorities do not know yet what the cause of the accident was.",
+        "startTime": 28799,
+        "endTime": 32092,
+        "slowStartTime": 43348,
+        "slowEndTime": 48363
+    },
+    {
+        "text": "In Australia, former Archbishop Phillip Wilson is sentenced to a year of prison...",
+        "startTime": 35457,
+        "endTime": 39911,
+        "slowStartTime": 53336,
+        "slowEndTime": 60092
+    },
+    {
+        "text": "...after concealing child sexual abuse.",
+        "startTime": 40135,
+        "endTime": 42044,
+        "slowStartTime": 60353,
+        "slowEndTime": 63291
+    },
+    {
+        "text": "Due to his age, he has been allowed to serve his sentence at home.",
+        "startTime": 42501,
+        "endTime": 45671,
+        "slowStartTime": 63902,
+        "slowEndTime": 68732
+    },
+    {
+        "text": "Finally from Japan,...",
+        "startTime": 47113,
+        "endTime": 48253,
+        "slowStartTime": 70820,
+        "slowEndTime": 72604
+    },
+    {
+        "text": "...Emperor Akihito will be the first Japanese emperor to abdicate in history.",
+        "startTime": 48604,
+        "endTime": 53136,
+        "slowStartTime": 73056,
+        "slowEndTime": 79929
+    },
+    {
+        "text": "Akihito spent three decades trying to heal the wounds his father inflicted in World War II,...",
+        "startTime": 53531,
+        "endTime": 58001,
+        "slowStartTime": 80446,
+        "slowEndTime": 87227
+    },
+    {
+        "text": "...and he will honor the dead one last time.",
+        "startTime": 58208,
+        "endTime": 60387,
+        "slowStartTime": 87462,
+        "slowEndTime": 90806
+    }
+]

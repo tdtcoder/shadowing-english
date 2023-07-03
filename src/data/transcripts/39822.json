@@ -1,0 +1,79 @@
+[
+    {
+        "text": "What's your name?",
+        "startTime": 661,
+        "endTime": 1562,
+        "slowStartTime": 1141,
+        "slowEndTime": 2568
+    },
+    {
+        "text": "I'm Jeremy Baker.",
+        "startTime": 3371,
+        "endTime": 4486,
+        "slowStartTime": 5206,
+        "slowEndTime": 6954
+    },
+    {
+        "text": "Please repeat that.",
+        "startTime": 5677,
+        "endTime": 6554,
+        "slowStartTime": 8665,
+        "slowEndTime": 10056
+    },
+    {
+        "text": "Is your last name Parker?",
+        "startTime": 6937,
+        "endTime": 8147,
+        "slowStartTime": 10555,
+        "slowEndTime": 12445
+    },
+    {
+        "text": "No, it's Baker.",
+        "startTime": 9291,
+        "endTime": 10751,
+        "slowStartTime": 14086,
+        "slowEndTime": 16351
+    },
+    {
+        "text": "Hello!",
+        "startTime": 14212,
+        "endTime": 14591,
+        "slowStartTime": 21468,
+        "slowEndTime": 22112
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 14959,
+        "endTime": 15683,
+        "slowStartTime": 22588,
+        "slowEndTime": 23750
+    },
+    {
+        "text": "I'm Jenny Smith.",
+        "startTime": 16870,
+        "endTime": 17683,
+        "slowStartTime": 25455,
+        "slowEndTime": 26749
+    },
+    {
+        "text": "Please repeat that.",
+        "startTime": 18625,
+        "endTime": 19453,
+        "slowStartTime": 28087,
+        "slowEndTime": 29404
+    },
+    {
+        "text": "Is your name Penny?",
+        "startTime": 20063,
+        "endTime": 20973,
+        "slowStartTime": 30245,
+        "slowEndTime": 31684
+    },
+    {
+        "text": "No, it's Jenny.",
+        "startTime": 21768,
+        "endTime": 22955,
+        "slowStartTime": 32802,
+        "slowEndTime": 34657
+    }
+]

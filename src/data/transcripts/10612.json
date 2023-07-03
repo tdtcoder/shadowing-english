@@ -1,0 +1,310 @@
+[
+    {
+        "text": "Oh, look at this.",
+        "startTime": 3065,
+        "endTime": 3870,
+        "slowStartTime": 4590,
+        "slowEndTime": 5960
+    },
+    {
+        "text": "It's the real thing too.",
+        "startTime": 4135,
+        "endTime": 4900,
+        "slowStartTime": 6105,
+        "slowEndTime": 7470
+    },
+    {
+        "text": "Man...",
+        "startTime": 5080,
+        "endTime": 5575,
+        "slowStartTime": 7745,
+        "slowEndTime": 8500
+    },
+    {
+        "text": "That is a spiffy-looking car.",
+        "startTime": 6940,
+        "endTime": 8475,
+        "slowStartTime": 10565,
+        "slowEndTime": 12725
+    },
+    {
+        "text": "They've changed in appearance over the last few years.",
+        "startTime": 10765,
+        "endTime": 12910,
+        "slowStartTime": 16330,
+        "slowEndTime": 19475
+    },
+    {
+        "text": "NASCAR's worked really hard to make them a lot safer.",
+        "startTime": 13385,
+        "endTime": 15445,
+        "slowStartTime": 20245,
+        "slowEndTime": 23340
+    },
+    {
+        "text": "So tell me, from soup to nuts, from start to finish.",
+        "startTime": 15935,
+        "endTime": 18785,
+        "slowStartTime": 24005,
+        "slowEndTime": 28250
+    },
+    {
+        "text": "How do you guys start building one of these?",
+        "startTime": 18985,
+        "endTime": 20540,
+        "slowStartTime": 28615,
+        "slowEndTime": 30865
+    },
+    {
+        "text": "You start under the hood. You have all the tubular chassis and everything that's under there.",
+        "startTime": 21015,
+        "endTime": 24490,
+        "slowStartTime": 31535,
+        "slowEndTime": 36755
+    },
+    {
+        "text": "So there are specs anymore for everything.",
+        "startTime": 26455,
+        "endTime": 28495,
+        "slowStartTime": 39875,
+        "slowEndTime": 42810
+    },
+    {
+        "text": "You can tell I don't do this often.",
+        "startTime": 29730,
+        "endTime": 30630,
+        "slowStartTime": 44565,
+        "slowEndTime": 46150
+    },
+    {
+        "text": "Yeah right, I can tell you need a pit crew, man.",
+        "startTime": 30800,
+        "endTime": 32730,
+        "slowStartTime": 46245,
+        "slowEndTime": 49180
+    },
+    {
+        "text": "So there are specs for the weight of the vehicle, the tubing,...",
+        "startTime": 34200,
+        "endTime": 37535,
+        "slowStartTime": 51325,
+        "slowEndTime": 56365
+    },
+    {
+        "text": "...and a lot of the safety stuff that's around it. But you build the chassis and the body is all...",
+        "startTime": 37835,
+        "endTime": 42375,
+        "slowStartTime": 56935,
+        "slowEndTime": 63615
+    },
+    {
+        "text": "...except for the nose and trunk, is made of fiberglass. It's provided by the manufacturer.",
+        "startTime": 42605,
+        "endTime": 46545,
+        "slowStartTime": 64005,
+        "slowEndTime": 69890
+    },
+    {
+        "text": "But in here is where the real magic has happened lately.",
+        "startTime": 46675,
+        "endTime": 49450,
+        "slowStartTime": 70115,
+        "slowEndTime": 74230
+    },
+    {
+        "text": "These seats are made of carbon fiber and we've been through some extensive testing...",
+        "startTime": 50450,
+        "endTime": 53585,
+        "slowStartTime": 75840,
+        "slowEndTime": 80470
+    },
+    {
+        "text": "...to control the body in an impact, and the head.",
+        "startTime": 54065,
+        "endTime": 56455,
+        "slowStartTime": 81115,
+        "slowEndTime": 84730
+    },
+    {
+        "text": "This is a mold that's made of my body and what's comfortable for me,...",
+        "startTime": 57465,
+        "endTime": 60395,
+        "slowStartTime": 86365,
+        "slowEndTime": 90745
+    },
+    {
+        "text": "...contains my head and we also have a harness device that goes around the neck.",
+        "startTime": 60760,
+        "endTime": 63295,
+        "slowStartTime": 91145,
+        "slowEndTime": 95105
+    },
+    {
+        "text": "Now, you got a whole bunch of stuff on... This does not look like my dashboard, guys.",
+        "startTime": 63495,
+        "endTime": 67265,
+        "slowStartTime": 95410,
+        "slowEndTime": 101170
+    },
+    {
+        "text": "It looks a little different.",
+        "startTime": 67800,
+        "endTime": 69000,
+        "slowStartTime": 101740,
+        "slowEndTime": 103535
+    },
+    {
+        "text": "So over here's the main power switch.",
+        "startTime": 70570,
+        "endTime": 72105,
+        "slowStartTime": 105945,
+        "slowEndTime": 108270
+    },
+    {
+        "text": "And then the two battery switches here, so we've got two systems...",
+        "startTime": 73595,
+        "endTime": 76840,
+        "slowStartTime": 110525,
+        "slowEndTime": 115325
+    },
+    {
+        "text": "...of everything in the car, from radio boxes,...",
+        "startTime": 77075,
+        "endTime": 79015,
+        "slowStartTime": 115765,
+        "slowEndTime": 118585
+    },
+    {
+        "text": "...ignition boxes and battery circuits as well.",
+        "startTime": 79645,
+        "endTime": 82145,
+        "slowStartTime": 119760,
+        "slowEndTime": 123310
+    },
+    {
+        "text": "It's hard to see in here now...",
+        "startTime": 82650,
+        "endTime": 83995,
+        "slowStartTime": 124095,
+        "slowEndTime": 126120
+    },
+    {
+        "text": "...but there's a series of five lights, and as the RPM gets close to the limit...",
+        "startTime": 84250,
+        "endTime": 89485,
+        "slowStartTime": 126470,
+        "slowEndTime": 134290
+    },
+    {
+        "text": "...you kinda use the gas and brake to maintain that speed for pit road.",
+        "startTime": 90020,
+        "endTime": 93560,
+        "slowStartTime": 135185,
+        "slowEndTime": 140455
+    },
+    {
+        "text": "How much are you talking to your pit crew the whole time?",
+        "startTime": 93825,
+        "endTime": 96165,
+        "slowStartTime": 140810,
+        "slowEndTime": 144265
+    },
+    {
+        "text": "My job... there's no telemetry in the vehicle.",
+        "startTime": 96895,
+        "endTime": 99130,
+        "slowStartTime": 145395,
+        "slowEndTime": 148735
+    },
+    {
+        "text": "A lot of other forms of racing... you can... they have active telemetry where you can see what's going on.",
+        "startTime": 99530,
+        "endTime": 102904,
+        "slowStartTime": 149305,
+        "slowEndTime": 154465
+    },
+    {
+        "text": "So I have to be the computer.",
+        "startTime": 103500,
+        "endTime": 104805,
+        "slowStartTime": 155280,
+        "slowEndTime": 157185
+    },
+    {
+        "text": "Every 5 to 10 laps, I explain where I'm having trouble with the car so they can keep...",
+        "startTime": 104905,
+        "endTime": 110005,
+        "slowStartTime": 158675,
+        "slowEndTime": 165120
+    },
+    {
+        "text": "...working on adjustments and combinations of things from tire pressures,...",
+        "startTime": 110375,
+        "endTime": 113345,
+        "slowStartTime": 165700,
+        "slowEndTime": 170060
+    },
+    {
+        "text": "...adjusting weight and springs, and...",
+        "startTime": 113615,
+        "endTime": 115515,
+        "slowStartTime": 170625,
+        "slowEndTime": 173460
+    },
+    {
+        "text": "So, you're just making a whole series of calculations constantly even as you're driving.",
+        "startTime": 115830,
+        "endTime": 119420,
+        "slowStartTime": 173855,
+        "slowEndTime": 179155
+    },
+    {
+        "text": "It's like \"Okay, I feel like the left tire's a little off or this or that\".",
+        "startTime": 119853,
+        "endTime": 123490,
+        "slowStartTime": 179860,
+        "slowEndTime": 185300
+    },
+    {
+        "text": "Truthfully, you feel like you're complaining all the time because all you're doing is telling them what it's doing wrong.",
+        "startTime": 123795,
+        "endTime": 127560,
+        "slowStartTime": 185755,
+        "slowEndTime": 191305
+    },
+    {
+        "text": "So at the end of the day,...",
+        "startTime": 128025,
+        "endTime": 129025,
+        "slowStartTime": 192070,
+        "slowEndTime": 193600
+    },
+    {
+        "text": "...when you see each other, you feel bad almost to a certain degree, that...",
+        "startTime": 129295,
+        "endTime": 131680,
+        "slowStartTime": 193990,
+        "slowEndTime": 197800
+    },
+    {
+        "text": "...I've just been complaining all day long to you about this vehicle.",
+        "startTime": 131865,
+        "endTime": 134175,
+        "slowStartTime": 197855,
+        "slowEndTime": 201375
+    },
+    {
+        "text": "And we won but...",
+        "startTime": 134475,
+        "endTime": 135105,
+        "slowStartTime": 201800,
+        "slowEndTime": 202795
+    },
+    {
+        "text": "...or, we had a good day so...",
+        "startTime": 135535,
+        "endTime": 136620,
+        "slowStartTime": 203635,
+        "slowEndTime": 205000
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "text": "There's a rule that's written in stone.",
+        "startTime": 1755,
+        "endTime": 5038,
+        "slowStartTime": 2782,
+        "slowEndTime": 7782
+    },
+    {
+        "text": "Robinsons stick together.",
+        "startTime": 9847,
+        "endTime": 11567,
+        "slowStartTime": 14921,
+        "slowEndTime": 17575
+    },
+    {
+        "text": "It's not safe out there.",
+        "startTime": 15872,
+        "endTime": 16829,
+        "slowStartTime": 23958,
+        "slowEndTime": 25468
+    },
+    {
+        "text": "You don't know what you might find.",
+        "startTime": 16995,
+        "endTime": 18089,
+        "slowStartTime": 25643,
+        "slowEndTime": 27359
+    },
+    {
+        "text": "John?",
+        "startTime": 22255,
+        "endTime": 22577,
+        "slowStartTime": 33533,
+        "slowEndTime": 34091
+    },
+    {
+        "text": "Where are you?",
+        "startTime": 23466,
+        "endTime": 24064,
+        "slowStartTime": 35349,
+        "slowEndTime": 36321
+    },
+    {
+        "text": "Who are you?",
+        "startTime": 28603,
+        "endTime": 29267,
+        "slowStartTime": 43055,
+        "slowEndTime": 44125
+    },
+    {
+        "text": "It's complicated.",
+        "startTime": 29653,
+        "endTime": 30550,
+        "slowStartTime": 44630,
+        "slowEndTime": 46050
+    },
+    {
+        "text": "If you have any hope of saving your family, you will help me.",
+        "startTime": 34377,
+        "endTime": 38610,
+        "slowStartTime": 51715,
+        "slowEndTime": 58140
+    },
+    {
+        "text": "Go get our kids and get them off this planet.",
+        "startTime": 40211,
+        "endTime": 43115,
+        "slowStartTime": 60466,
+        "slowEndTime": 64897
+    }
+]

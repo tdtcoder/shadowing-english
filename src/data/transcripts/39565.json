@@ -1,0 +1,128 @@
+[
+    {
+        "text": "I like pancakes.",
+        "startTime": 207,
+        "endTime": 1095,
+        "slowStartTime": 460,
+        "slowEndTime": 1867
+    },
+    {
+        "text": "I like my school.",
+        "startTime": 2408,
+        "endTime": 3881,
+        "slowStartTime": 3762,
+        "slowEndTime": 6046
+    },
+    {
+        "text": "I like watching movies quite a bit.",
+        "startTime": 5825,
+        "endTime": 7145,
+        "slowStartTime": 8887,
+        "slowEndTime": 10942
+    },
+    {
+        "text": "Nice. I love concerts there.",
+        "startTime": 7707,
+        "endTime": 9801,
+        "slowStartTime": 11710,
+        "slowEndTime": 14927
+    },
+    {
+        "text": "Go roller skating, I love roller skating.",
+        "startTime": 11418,
+        "endTime": 14436,
+        "slowStartTime": 17277,
+        "slowEndTime": 21879
+    },
+    {
+        "text": "God, I love these fries.",
+        "startTime": 15869,
+        "endTime": 17583,
+        "slowStartTime": 23953,
+        "slowEndTime": 26600
+    },
+    {
+        "text": "And as someone who eats Spam on an almost daily basis, I enjoy it.",
+        "startTime": 18497,
+        "endTime": 24819,
+        "slowStartTime": 27895,
+        "slowEndTime": 37454
+    },
+    {
+        "text": "But I enjoy it. It's really fun.",
+        "startTime": 26110,
+        "endTime": 28051,
+        "slowStartTime": 39315,
+        "slowEndTime": 42302
+    },
+    {
+        "text": "Oh, I'm crazy about eggs.",
+        "startTime": 28677,
+        "endTime": 30770,
+        "slowStartTime": 43165,
+        "slowEndTime": 46380
+    },
+    {
+        "text": "I don't like when my mom wears makeup.",
+        "startTime": 31411,
+        "endTime": 33466,
+        "slowStartTime": 47267,
+        "slowEndTime": 50424
+    },
+    {
+        "text": "I changed my mind, I don't like the fit.",
+        "startTime": 37251,
+        "endTime": 39754,
+        "slowStartTime": 56027,
+        "slowEndTime": 59856
+    },
+    {
+        "text": "No, I don't like sweet drinks.",
+        "startTime": 42468,
+        "endTime": 44048,
+        "slowStartTime": 63852,
+        "slowEndTime": 66297
+    },
+    {
+        "text": "I don't like you. I think you're a fake cop.",
+        "startTime": 45650,
+        "endTime": 48350,
+        "slowStartTime": 68625,
+        "slowEndTime": 72750
+    },
+    {
+        "text": "Thanks for coming with me. I hate doing banking.",
+        "startTime": 48971,
+        "endTime": 52263,
+        "slowStartTime": 73606,
+        "slowEndTime": 78620
+    },
+    {
+        "text": "I hate needles, they really scare me.",
+        "startTime": 54769,
+        "endTime": 57034,
+        "slowStartTime": 82303,
+        "slowEndTime": 85776
+    },
+    {
+        "text": "I hate rainy days. There's nothing to do, there's nowhere to go.",
+        "startTime": 59905,
+        "endTime": 63957,
+        "slowStartTime": 90008,
+        "slowEndTime": 96161
+    },
+    {
+        "text": "I can't stand summer weather.",
+        "startTime": 64649,
+        "endTime": 66877,
+        "slowStartTime": 97123,
+        "slowEndTime": 100540
+    },
+    {
+        "text": "Oh, it is too hot! I can't stand it anymore!",
+        "startTime": 69627,
+        "endTime": 74781,
+        "slowStartTime": 104591,
+        "slowEndTime": 112396
+    }
+]

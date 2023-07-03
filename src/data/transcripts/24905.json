@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Let's learn about what people do every day.",
+        "startTime": 227,
+        "endTime": 3083,
+        "slowStartTime": 491,
+        "slowEndTime": 4850
+    },
+    {
+        "text": "They are brushing their teeth.",
+        "startTime": 6320,
+        "endTime": 8161,
+        "slowStartTime": 9630,
+        "slowEndTime": 12466
+    },
+    {
+        "text": "He is taking a shower.",
+        "startTime": 13126,
+        "endTime": 14557,
+        "slowStartTime": 19839,
+        "slowEndTime": 22060
+    },
+    {
+        "text": "He is taking a bath.",
+        "startTime": 20363,
+        "endTime": 22037,
+        "slowStartTime": 30695,
+        "slowEndTime": 33281
+    },
+    {
+        "text": "She is getting dressed for work.",
+        "startTime": 24876,
+        "endTime": 26931,
+        "slowStartTime": 37464,
+        "slowEndTime": 40621
+    },
+    {
+        "text": "It's good to wash your hands often.",
+        "startTime": 30152,
+        "endTime": 32419,
+        "slowStartTime": 45378,
+        "slowEndTime": 48853
+    },
+    {
+        "text": "It's time to have breakfast!",
+        "startTime": 36251,
+        "endTime": 37979,
+        "slowStartTime": 54526,
+        "slowEndTime": 57194
+    },
+    {
+        "text": "After breakfast, we do the dishes.",
+        "startTime": 42827,
+        "endTime": 45169,
+        "slowStartTime": 64391,
+        "slowEndTime": 67979
+    },
+    {
+        "text": "She is cleaning the house.",
+        "startTime": 49764,
+        "endTime": 51592,
+        "slowStartTime": 74796,
+        "slowEndTime": 77613
+    },
+    {
+        "text": "It's time to relax and take a break!",
+        "startTime": 57685,
+        "endTime": 60785,
+        "slowStartTime": 86678,
+        "slowEndTime": 91402
+    },
+    {
+        "text": "After a long day, we have a drink.",
+        "startTime": 66585,
+        "endTime": 69109,
+        "slowStartTime": 100027,
+        "slowEndTime": 103888
+    }
+]

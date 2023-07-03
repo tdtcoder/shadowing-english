@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Once in a Blue Moon.",
+        "startTime": 5104,
+        "endTime": 7045,
+        "slowStartTime": 7806,
+        "slowEndTime": 10793
+    },
+    {
+        "text": "It means very rarely.",
+        "startTime": 7507,
+        "endTime": 9912,
+        "slowStartTime": 11410,
+        "slowEndTime": 15093
+    },
+    {
+        "text": "I'm a busy person so I only take a vacation once in a blue moon.",
+        "startTime": 12147,
+        "endTime": 17445,
+        "slowStartTime": 18371,
+        "slowEndTime": 26393
+    },
+    {
+        "text": "The lazy man goes to the gym once in a blue moon.",
+        "startTime": 20874,
+        "endTime": 24579,
+        "slowStartTime": 31461,
+        "slowEndTime": 37094
+    },
+    {
+        "text": "I only get to see my friends abroad once in a blue moon.",
+        "startTime": 26635,
+        "endTime": 30908,
+        "slowStartTime": 40102,
+        "slowEndTime": 46587
+    }
+]

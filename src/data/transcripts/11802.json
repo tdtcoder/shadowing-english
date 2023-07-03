@@ -1,0 +1,226 @@
+[
+    {
+        "text": "To be or not to be,...",
+        "startTime": 2970,
+        "endTime": 6900,
+        "slowStartTime": 4610,
+        "slowEndTime": 10570
+    },
+    {
+        "text": "...that is the question.",
+        "startTime": 8780,
+        "endTime": 9850,
+        "slowStartTime": 13320,
+        "slowEndTime": 15010
+    },
+    {
+        "text": "Whether 'tis nobler in the mind to suffer the slings and arrows of outrageous fortune...",
+        "startTime": 12760,
+        "endTime": 18610,
+        "slowStartTime": 19300,
+        "slowEndTime": 28140
+    },
+    {
+        "text": "...or to take arms against a sea of troubles,...",
+        "startTime": 20130,
+        "endTime": 23220,
+        "slowStartTime": 30350,
+        "slowEndTime": 35060
+    },
+    {
+        "text": "...and by opposing, end them.",
+        "startTime": 24520,
+        "endTime": 27940,
+        "slowStartTime": 36930,
+        "slowEndTime": 42140
+    },
+    {
+        "text": "To die, to sleep, no more,...",
+        "startTime": 31800,
+        "endTime": 36810,
+        "slowStartTime": 47850,
+        "slowEndTime": 55450
+    },
+    {
+        "text": "...and by a sleep to say we end the heartache...",
+        "startTime": 39160,
+        "endTime": 44480,
+        "slowStartTime": 58890,
+        "slowEndTime": 66950
+    },
+    {
+        "text": "...and the thousand natural shocks that flesh is heir to,...",
+        "startTime": 45440,
+        "endTime": 48560,
+        "slowStartTime": 68310,
+        "slowEndTime": 73070
+    },
+    {
+        "text": "...'tis a consummation devoutly to be wished.",
+        "startTime": 50870,
+        "endTime": 53130,
+        "slowStartTime": 76460,
+        "slowEndTime": 79920
+    },
+    {
+        "text": "To die, to sleep, to sleep,...",
+        "startTime": 55290,
+        "endTime": 64670,
+        "slowStartTime": 83080,
+        "slowEndTime": 97240
+    },
+    {
+        "text": "...perchance to dream. Aye, there's the rub.",
+        "startTime": 68750,
+        "endTime": 73660,
+        "slowStartTime": 103280,
+        "slowEndTime": 110720
+    },
+    {
+        "text": "For in that sleep of death...",
+        "startTime": 75560,
+        "endTime": 77230,
+        "slowStartTime": 113490,
+        "slowEndTime": 116070
+    },
+    {
+        "text": "...what dreams may come, when we have shuffled off this mortal coil, must give us pause.",
+        "startTime": 78390,
+        "endTime": 84010,
+        "slowStartTime": 117730,
+        "slowEndTime": 126240
+    },
+    {
+        "text": "There's the respect that makes calamity of so long life.",
+        "startTime": 85670,
+        "endTime": 90150,
+        "slowStartTime": 128660,
+        "slowEndTime": 135450
+    },
+    {
+        "text": "For who would bear the whips and scorns of time,...",
+        "startTime": 92380,
+        "endTime": 96540,
+        "slowStartTime": 138720,
+        "slowEndTime": 145030
+    },
+    {
+        "text": "...the oppressor's wrong, the proud man's contumely,...",
+        "startTime": 98160,
+        "endTime": 102440,
+        "slowStartTime": 147390,
+        "slowEndTime": 153880
+    },
+    {
+        "text": "...the pangs of despised love, the law's delay, the insolence of office...",
+        "startTime": 103970,
+        "endTime": 111760,
+        "slowStartTime": 156110,
+        "slowEndTime": 167870
+    },
+    {
+        "text": "...and the spurns that patient merit of the unworthy takes,...",
+        "startTime": 112520,
+        "endTime": 116930,
+        "slowStartTime": 168930,
+        "slowEndTime": 175620
+    },
+    {
+        "text": "...when he himself might his quietus make with a bare bodkin?",
+        "startTime": 117740,
+        "endTime": 121500,
+        "slowStartTime": 176760,
+        "slowEndTime": 182470
+    },
+    {
+        "text": "Who would these fardels bear, to grunt and sweat under a weary life,...",
+        "startTime": 124980,
+        "endTime": 130970,
+        "slowStartTime": 187620,
+        "slowEndTime": 196680
+    },
+    {
+        "text": "...but that the dread of something after death,...",
+        "startTime": 132500,
+        "endTime": 135020,
+        "slowStartTime": 198900,
+        "slowEndTime": 202760
+    },
+    {
+        "text": "...the undiscovered country from whose bourn no traveler returns,...",
+        "startTime": 137090,
+        "endTime": 141380,
+        "slowStartTime": 205790,
+        "slowEndTime": 212290
+    },
+    {
+        "text": "...puzzles the will and makes us rather bear those ills we have...",
+        "startTime": 143020,
+        "endTime": 149070,
+        "slowStartTime": 214680,
+        "slowEndTime": 223840
+    },
+    {
+        "text": "...than fly to others that we know not of?",
+        "startTime": 150010,
+        "endTime": 152170,
+        "slowStartTime": 225170,
+        "slowEndTime": 228480
+    },
+    {
+        "text": "Thus conscience does make cowards of us all,...",
+        "startTime": 156100,
+        "endTime": 163010,
+        "slowStartTime": 234300,
+        "slowEndTime": 244740
+    },
+    {
+        "text": "...and thus the native hue of resolution...",
+        "startTime": 166790,
+        "endTime": 169150,
+        "slowStartTime": 250340,
+        "slowEndTime": 253960
+    },
+    {
+        "text": "...is sicklied o'er with the pale cast of thought,...",
+        "startTime": 170650,
+        "endTime": 175720,
+        "slowStartTime": 256130,
+        "slowEndTime": 263810
+    },
+    {
+        "text": "...and enterprises of great pith and moment with this regard...",
+        "startTime": 178110,
+        "endTime": 182940,
+        "slowStartTime": 267320,
+        "slowEndTime": 274640
+    },
+    {
+        "text": "...their currents turn awry...",
+        "startTime": 184390,
+        "endTime": 185790,
+        "slowStartTime": 276740,
+        "slowEndTime": 278920
+    },
+    {
+        "text": "...and lose the name of action.",
+        "startTime": 188260,
+        "endTime": 189930,
+        "slowStartTime": 282540,
+        "slowEndTime": 285120
+    },
+    {
+        "text": "Soft you now! The fair Ophelia! Nymph,...",
+        "startTime": 203600,
+        "endTime": 210310,
+        "slowStartTime": 305560,
+        "slowEndTime": 315700
+    },
+    {
+        "text": "...in thy orisons. Be all my sins remembered.",
+        "startTime": 211850,
+        "endTime": 214820,
+        "slowStartTime": 317930,
+        "slowEndTime": 322450
+    }
+]

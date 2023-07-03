@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Crunch Time.",
+        "startTime": 16151,
+        "endTime": 17244,
+        "slowStartTime": 24376,
+        "slowEndTime": 26091
+    },
+    {
+        "text": "It means a critical moment.",
+        "startTime": 17991,
+        "endTime": 21131,
+        "slowStartTime": 27137,
+        "slowEndTime": 31921
+    },
+    {
+        "text": "They're a great team but they don't do well at crunch time.",
+        "startTime": 24533,
+        "endTime": 28937,
+        "slowStartTime": 36950,
+        "slowEndTime": 43631
+    },
+    {
+        "text": "We have one day left to finish the project; it's crunch time.",
+        "startTime": 32789,
+        "endTime": 37155,
+        "slowStartTime": 49333,
+        "slowEndTime": 55958
+    },
+    {
+        "text": "It's crunch time for the team to tie the game at 1-1.",
+        "startTime": 40494,
+        "endTime": 44299,
+        "slowStartTime": 60891,
+        "slowEndTime": 66673
+    }
+]

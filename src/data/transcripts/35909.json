@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Another really important note is that you use the subject line.",
+        "startTime": 50,
+        "endTime": 3628,
+        "slowStartTime": 193,
+        "slowEndTime": 5667
+    },
+    {
+        "text": "So, don't leave the subject blank...",
+        "startTime": 3839,
+        "endTime": 5832,
+        "slowStartTime": 5909,
+        "slowEndTime": 8973
+    },
+    {
+        "text": "...because receiving an email from someone without a subject line...",
+        "startTime": 5955,
+        "endTime": 9689,
+        "slowStartTime": 9082,
+        "slowEndTime": 14759
+    },
+    {
+        "text": "...is an email that might go unread.",
+        "startTime": 10024,
+        "endTime": 11825,
+        "slowStartTime": 15186,
+        "slowEndTime": 17963
+    },
+    {
+        "text": "So, include a subject line, whether it be, thank you,...",
+        "startTime": 12211,
+        "endTime": 15662,
+        "slowStartTime": 18466,
+        "slowEndTime": 23718
+    },
+    {
+        "text": "...or whether it be checking the status of whatever it is you are checking the status of.",
+        "startTime": 15747,
+        "endTime": 21993,
+        "slowStartTime": 23771,
+        "slowEndTime": 33215
+    },
+    {
+        "text": "Make sure that you include a subject line.",
+        "startTime": 22315,
+        "endTime": 24300,
+        "slowStartTime": 33622,
+        "slowEndTime": 36675
+    },
+    {
+        "text": "A formal email never includes things like hey, what's up, what's going on,...",
+        "startTime": 24436,
+        "endTime": 29983,
+        "slowStartTime": 36804,
+        "slowEndTime": 45199
+    },
+    {
+        "text": "...you want to make sure that you are as formal as possible.",
+        "startTime": 30259,
+        "endTime": 32639,
+        "slowStartTime": 45538,
+        "slowEndTime": 49184
+    },
+    {
+        "text": "So, it's Dear Mr. such and such or Dear Ms. such and such.",
+        "startTime": 32747,
+        "endTime": 37341,
+        "slowStartTime": 49270,
+        "slowEndTime": 56236
+    },
+    {
+        "text": "You want to keep a paragraph format.",
+        "startTime": 37793,
+        "endTime": 39709,
+        "slowStartTime": 56840,
+        "slowEndTime": 59788
+    },
+    {
+        "text": "You want to use correct punctuations and grammar...",
+        "startTime": 39857,
+        "endTime": 41987,
+        "slowStartTime": 59935,
+        "slowEndTime": 63206
+    },
+    {
+        "text": "...and you want to be sure that you sign off.",
+        "startTime": 42246,
+        "endTime": 43977,
+        "slowStartTime": 63519,
+        "slowEndTime": 66191
+    },
+    {
+        "text": "So, sign off with the appropriate sign off.",
+        "startTime": 44253,
+        "endTime": 46664,
+        "slowStartTime": 66530,
+        "slowEndTime": 70221
+    },
+    {
+        "text": "Kind regards from, yours sincerely, yours truly...",
+        "startTime": 47044,
+        "endTime": 51337,
+        "slowStartTime": 70716,
+        "slowEndTime": 77230
+    },
+    {
+        "text": "...and be sure to include your first and last name.",
+        "startTime": 51640,
+        "endTime": 54067,
+        "slowStartTime": 77610,
+        "slowEndTime": 81325
+    },
+    {
+        "text": "So those are just a few tips on formal versus informal emails.",
+        "startTime": 54213,
+        "endTime": 57716,
+        "slowStartTime": 81470,
+        "slowEndTime": 86799
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Hi, everyone.",
+        "startTime": 4501,
+        "endTime": 5328,
+        "slowStartTime": 6902,
+        "slowEndTime": 8217
+    },
+    {
+        "text": "Let's talk about rooms in your house or apartment.",
+        "startTime": 6169,
+        "endTime": 10635,
+        "slowStartTime": 9403,
+        "slowEndTime": 16178
+    },
+    {
+        "text": "Bedroom.",
+        "startTime": 11953,
+        "endTime": 13032,
+        "slowStartTime": 18080,
+        "slowEndTime": 19773
+    },
+    {
+        "text": "Bedroom.",
+        "startTime": 15905,
+        "endTime": 16957,
+        "slowStartTime": 24008,
+        "slowEndTime": 25660
+    },
+    {
+        "text": "Bathroom.",
+        "startTime": 19927,
+        "endTime": 21015,
+        "slowStartTime": 30040,
+        "slowEndTime": 31748
+    },
+    {
+        "text": "Bathroom.",
+        "startTime": 23957,
+        "endTime": 24882,
+        "slowStartTime": 36086,
+        "slowEndTime": 37548
+    },
+    {
+        "text": "Kitchen.",
+        "startTime": 27966,
+        "endTime": 28412,
+        "slowStartTime": 42099,
+        "slowEndTime": 42843
+    },
+    {
+        "text": "Kitchen.",
+        "startTime": 31877,
+        "endTime": 32379,
+        "slowStartTime": 47966,
+        "slowEndTime": 48794
+    },
+    {
+        "text": "Living room.",
+        "startTime": 35791,
+        "endTime": 36805,
+        "slowStartTime": 53837,
+        "slowEndTime": 55433
+    },
+    {
+        "text": "Living room.",
+        "startTime": 39775,
+        "endTime": 40851,
+        "slowStartTime": 59813,
+        "slowEndTime": 61502
+    },
+    {
+        "text": "Toilet.",
+        "startTime": 43937,
+        "endTime": 44379,
+        "slowStartTime": 66056,
+        "slowEndTime": 66794
+    },
+    {
+        "text": "Toilet.",
+        "startTime": 47975,
+        "endTime": 48389,
+        "slowStartTime": 72112,
+        "slowEndTime": 72808
+    },
+    {
+        "text": "Office.",
+        "startTime": 51969,
+        "endTime": 52587,
+        "slowStartTime": 78104,
+        "slowEndTime": 79106
+    },
+    {
+        "text": "Office.",
+        "startTime": 55966,
+        "endTime": 56797,
+        "slowStartTime": 84099,
+        "slowEndTime": 85420
+    },
+    {
+        "text": "Dining room.",
+        "startTime": 59966,
+        "endTime": 61173,
+        "slowStartTime": 90099,
+        "slowEndTime": 91985
+    },
+    {
+        "text": "Dining room.",
+        "startTime": 63957,
+        "endTime": 64909,
+        "slowStartTime": 96086,
+        "slowEndTime": 97588
+    },
+    {
+        "text": "Hallway.",
+        "startTime": 67952,
+        "endTime": 68828,
+        "slowStartTime": 102078,
+        "slowEndTime": 103467
+    },
+    {
+        "text": "Hallway.",
+        "startTime": 71937,
+        "endTime": 72647,
+        "slowStartTime": 108056,
+        "slowEndTime": 109196
+    },
+    {
+        "text": "Attic.",
+        "startTime": 75979,
+        "endTime": 76394,
+        "slowStartTime": 114119,
+        "slowEndTime": 114816
+    },
+    {
+        "text": "Attic.",
+        "startTime": 79956,
+        "endTime": 80394,
+        "slowStartTime": 120084,
+        "slowEndTime": 120816
+    },
+    {
+        "text": "Garage.",
+        "startTime": 83767,
+        "endTime": 84776,
+        "slowStartTime": 125800,
+        "slowEndTime": 127389
+    },
+    {
+        "text": "Garage.",
+        "startTime": 87741,
+        "endTime": 88943,
+        "slowStartTime": 131761,
+        "slowEndTime": 133639
+    },
+    {
+        "text": "That was great.",
+        "startTime": 92729,
+        "endTime": 93914,
+        "slowStartTime": 139244,
+        "slowEndTime": 141096
+    }
+]

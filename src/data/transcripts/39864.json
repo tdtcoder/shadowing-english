@@ -1,0 +1,128 @@
+[
+    {
+        "text": "This is Ellie.",
+        "startTime": 1915,
+        "endTime": 2905,
+        "slowStartTime": 3023,
+        "slowEndTime": 4583
+    },
+    {
+        "text": "She is a writer.",
+        "startTime": 3141,
+        "endTime": 4175,
+        "slowStartTime": 4862,
+        "slowEndTime": 6488
+    },
+    {
+        "text": "Her phone number is 594-25478.",
+        "startTime": 4767,
+        "endTime": 9097,
+        "slowStartTime": 7301,
+        "slowEndTime": 13870
+    },
+    {
+        "text": "This is Michael.",
+        "startTime": 17414,
+        "endTime": 18320,
+        "slowStartTime": 26271,
+        "slowEndTime": 27705
+    },
+    {
+        "text": "He is a graphic designer.",
+        "startTime": 18667,
+        "endTime": 19963,
+        "slowStartTime": 28150,
+        "slowEndTime": 30169
+    },
+    {
+        "text": "His phone number is 614-93145.",
+        "startTime": 20525,
+        "endTime": 24745,
+        "slowStartTime": 30937,
+        "slowEndTime": 37343
+    },
+    {
+        "text": "This is Allison.",
+        "startTime": 32525,
+        "endTime": 33462,
+        "slowStartTime": 48937,
+        "slowEndTime": 50418
+    },
+    {
+        "text": "She works in sales.",
+        "startTime": 33855,
+        "endTime": 35035,
+        "slowStartTime": 50932,
+        "slowEndTime": 52777
+    },
+    {
+        "text": "Her phone number is 104-52037.",
+        "startTime": 35572,
+        "endTime": 40631,
+        "slowStartTime": 53508,
+        "slowEndTime": 61171
+    },
+    {
+        "text": "This is James.",
+        "startTime": 46427,
+        "endTime": 47490,
+        "slowStartTime": 69791,
+        "slowEndTime": 71460
+    },
+    {
+        "text": "He is a manager.",
+        "startTime": 47857,
+        "endTime": 48888,
+        "slowStartTime": 71936,
+        "slowEndTime": 73557
+    },
+    {
+        "text": "His phone number is 814-21973.",
+        "startTime": 49351,
+        "endTime": 53806,
+        "slowStartTime": 74177,
+        "slowEndTime": 80934
+    },
+    {
+        "text": "This is Sam.",
+        "startTime": 61737,
+        "endTime": 62593,
+        "slowStartTime": 92756,
+        "slowEndTime": 94115
+    },
+    {
+        "text": "He is a supervisor.",
+        "startTime": 62739,
+        "endTime": 63939,
+        "slowStartTime": 94259,
+        "slowEndTime": 96133
+    },
+    {
+        "text": "His phone number is 743-28451.",
+        "startTime": 64612,
+        "endTime": 69273,
+        "slowStartTime": 97068,
+        "slowEndTime": 104135
+    },
+    {
+        "text": "This is Lily.",
+        "startTime": 76995,
+        "endTime": 77926,
+        "slowStartTime": 115643,
+        "slowEndTime": 117114
+    },
+    {
+        "text": "She is an accountant.",
+        "startTime": 78572,
+        "endTime": 79840,
+        "slowStartTime": 118008,
+        "slowEndTime": 119985
+    },
+    {
+        "text": "Her phone number is 847-16285.",
+        "startTime": 80550,
+        "endTime": 84560,
+        "slowStartTime": 120975,
+        "slowEndTime": 127065
+    }
+]

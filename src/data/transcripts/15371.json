@@ -1,0 +1,310 @@
+[
+    {
+        "text": "Okay well, the reason we have Scrum is...",
+        "startTime": 9328,
+        "endTime": 11056,
+        "slowStartTime": 14142,
+        "slowEndTime": 16809
+    },
+    {
+        "text": "...because I came into software development from a medical school.",
+        "startTime": 11135,
+        "endTime": 14895,
+        "slowStartTime": 16853,
+        "slowEndTime": 22567
+    },
+    {
+        "text": "I had done 11 years funded by the National Cancer Institute's research on complex adaptive systems.",
+        "startTime": 15036,
+        "endTime": 21775,
+        "slowStartTime": 22704,
+        "slowEndTime": 32887
+    },
+    {
+        "text": "And a large banking company hired me to come in and help them with their advanced technologies.",
+        "startTime": 21917,
+        "endTime": 27390,
+        "slowStartTime": 33025,
+        "slowEndTime": 41310
+    },
+    {
+        "text": "And as I looked at the way they were managing projects,...",
+        "startTime": 27961,
+        "endTime": 31363,
+        "slowStartTime": 42092,
+        "slowEndTime": 47270
+    },
+    {
+        "text": "...I realized developers were always late,...",
+        "startTime": 32049,
+        "endTime": 34155,
+        "slowStartTime": 48224,
+        "slowEndTime": 51458
+    },
+    {
+        "text": "...management was always under pressure; they were putting pressure on the developers.",
+        "startTime": 34646,
+        "endTime": 38169,
+        "slowStartTime": 52119,
+        "slowEndTime": 57479
+    },
+    {
+        "text": "The more pressure they would put on the developers, the later the project would get.",
+        "startTime": 38674,
+        "endTime": 42069,
+        "slowStartTime": 58161,
+        "slowEndTime": 63329
+    },
+    {
+        "text": "And the whole thing was designed in such a way...",
+        "startTime": 42636,
+        "endTime": 45833,
+        "slowStartTime": 64104,
+        "slowEndTime": 68974
+    },
+    {
+        "text": "...that the stable state of the system was not what you wanted.",
+        "startTime": 46385,
+        "endTime": 49281,
+        "slowStartTime": 69727,
+        "slowEndTime": 74146
+    },
+    {
+        "text": "In order to do that, we had to change the whole dynamics.",
+        "startTime": 49825,
+        "endTime": 53056,
+        "slowStartTime": 74888,
+        "slowEndTime": 79809
+    },
+    {
+        "text": "Now, what we knew from research at Bell Labs is that we had to have very few roles...",
+        "startTime": 53227,
+        "endTime": 58897,
+        "slowStartTime": 79991,
+        "slowEndTime": 88571
+    },
+    {
+        "text": "...in the team that was doing software development.",
+        "startTime": 59033,
+        "endTime": 61248,
+        "slowStartTime": 88700,
+        "slowEndTime": 92097
+    },
+    {
+        "text": "The specialized styles of activity slowed down communications and made it impossible to do.",
+        "startTime": 61631,
+        "endTime": 67222,
+        "slowStartTime": 92597,
+        "slowEndTime": 101058
+    },
+    {
+        "text": "So, one of the first things we did was we set it up;...",
+        "startTime": 67664,
+        "endTime": 70112,
+        "slowStartTime": 101646,
+        "slowEndTime": 105393
+    },
+    {
+        "text": "...we only had a team and we had a team leader.",
+        "startTime": 70269,
+        "endTime": 72302,
+        "slowStartTime": 105553,
+        "slowEndTime": 108678
+    },
+    {
+        "text": "We read a paper by two Japanese business school professors on the best teams in the world.",
+        "startTime": 72807,
+        "endTime": 77847,
+        "slowStartTime": 109361,
+        "slowEndTime": 116995
+    },
+    {
+        "text": "And they described how the best new product development teams were set up,...",
+        "startTime": 78507,
+        "endTime": 82936,
+        "slowStartTime": 117911,
+        "slowEndTime": 124629
+    },
+    {
+        "text": "...how the teams were motivated; we set up the team just like that.",
+        "startTime": 83028,
+        "endTime": 86205,
+        "slowStartTime": 124692,
+        "slowEndTime": 129532
+    },
+    {
+        "text": "The team wanted to know what we would call the team leader; we called him the scrum master.",
+        "startTime": 87008,
+        "endTime": 90570,
+        "slowStartTime": 130662,
+        "slowEndTime": 136080
+    },
+    {
+        "text": "We then, as we got the role simplified, streamlined and leaned out all the system.",
+        "startTime": 91705,
+        "endTime": 97981,
+        "slowStartTime": 137707,
+        "slowEndTime": 147197
+    },
+    {
+        "text": "We very quickly found we needed a person we called the product owner,...",
+        "startTime": 98451,
+        "endTime": 102315,
+        "slowStartTime": 147827,
+        "slowEndTime": 153698
+    },
+    {
+        "text": "...in addition to the scrum master...",
+        "startTime": 102406,
+        "endTime": 103567,
+        "slowStartTime": 153759,
+        "slowEndTime": 155576
+    },
+    {
+        "text": "...who is responsible for clearly specifying the backlog in the right ordering.",
+        "startTime": 103667,
+        "endTime": 108917,
+        "slowStartTime": 155651,
+        "slowEndTime": 163600
+    },
+    {
+        "text": "So when we ship the product, it would really take the market as a really good product.",
+        "startTime": 109009,
+        "endTime": 113539,
+        "slowStartTime": 163664,
+        "slowEndTime": 170534
+    },
+    {
+        "text": "So, we had the product owner, the Scrum master and the team.",
+        "startTime": 113994,
+        "endTime": 116348,
+        "slowStartTime": 171141,
+        "slowEndTime": 174747
+    },
+    {
+        "text": "We then turned our attention to the meetings because in order to build software fast,...",
+        "startTime": 117182,
+        "endTime": 122586,
+        "slowStartTime": 175923,
+        "slowEndTime": 184104
+    },
+    {
+        "text": "...you cannot have people going into meetings all the time where they're wasting a lot of time.",
+        "startTime": 122780,
+        "endTime": 127150,
+        "slowStartTime": 184320,
+        "slowEndTime": 190950
+    },
+    {
+        "text": "So we asked, \"What of the minimal meetings we need to have for scrum?\"",
+        "startTime": 127234,
+        "endTime": 130845,
+        "slowStartTime": 191001,
+        "slowEndTime": 196492
+    },
+    {
+        "text": "We knew we needed to deliver a software in short cycles, no more than four weeks.",
+        "startTime": 131620,
+        "endTime": 135506,
+        "slowStartTime": 197580,
+        "slowEndTime": 203484
+    },
+    {
+        "text": "Probably the majority of the teams now are doing two - week sprints.",
+        "startTime": 135901,
+        "endTime": 139164,
+        "slowStartTime": 204001,
+        "slowEndTime": 208971
+    },
+    {
+        "text": "So, we needed a meeting at the beginning of the sprint to define...",
+        "startTime": 139800,
+        "endTime": 142731,
+        "slowStartTime": 209850,
+        "slowEndTime": 214322
+    },
+    {
+        "text": "...\"What are we going to...\"",
+        "startTime": 142872,
+        "endTime": 143971,
+        "slowStartTime": 214458,
+        "slowEndTime": 216181
+    },
+    {
+        "text": "\"...pull from the product backlog owned by the product owner into that two - week cycle?\"",
+        "startTime": 144341,
+        "endTime": 148335,
+        "slowStartTime": 216661,
+        "slowEndTime": 222728
+    },
+    {
+        "text": "\"How are we going to implement it and track it?\"",
+        "startTime": 149095,
+        "endTime": 152555,
+        "slowStartTime": 223792,
+        "slowEndTime": 229057
+    },
+    {
+        "text": "A meeting at the beginning of the cycle,...",
+        "startTime": 153788,
+        "endTime": 155613,
+        "slowStartTime": 230832,
+        "slowEndTime": 233645
+    },
+    {
+        "text": "...we also knew because again of research done by Bell Labs...",
+        "startTime": 155729,
+        "endTime": 159273,
+        "slowStartTime": 233743,
+        "slowEndTime": 239135
+    },
+    {
+        "text": "...that the highest performing teams were driven by daily meeting.",
+        "startTime": 159345,
+        "endTime": 162390,
+        "slowStartTime": 239168,
+        "slowEndTime": 243810
+    },
+    {
+        "text": "So, we knew we had to have the daily meeting.",
+        "startTime": 162519,
+        "endTime": 164714,
+        "slowStartTime": 243928,
+        "slowEndTime": 247296
+    },
+    {
+        "text": "But we wanted it to be a really short meeting...",
+        "startTime": 165003,
+        "endTime": 167041,
+        "slowStartTime": 247655,
+        "slowEndTime": 250786
+    },
+    {
+        "text": "...and we got it down to no more than 15 minutes.",
+        "startTime": 167142,
+        "endTime": 169731,
+        "slowStartTime": 250863,
+        "slowEndTime": 254821
+    },
+    {
+        "text": "And in that meeting, everybody on the team needs to know what everybody else has been doing,...",
+        "startTime": 170309,
+        "endTime": 175325,
+        "slowStartTime": 255613,
+        "slowEndTime": 263213
+    },
+    {
+        "text": "...what they're going to do next and how they can help one another move really fast.",
+        "startTime": 175533,
+        "endTime": 180027,
+        "slowStartTime": 263449,
+        "slowEndTime": 270266
+    },
+    {
+        "text": "So, it's like a huddle in a football game but a little bit longer than a huddle.",
+        "startTime": 180913,
+        "endTime": 185027,
+        "slowStartTime": 271519,
+        "slowEndTime": 277766
+    }
+]

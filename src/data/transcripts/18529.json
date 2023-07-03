@@ -1,0 +1,128 @@
+[
+    {
+        "text": "The sun has set not long ago.",
+        "startTime": 3214,
+        "endTime": 7202,
+        "slowStartTime": 4971,
+        "slowEndTime": 11028
+    },
+    {
+        "text": "Now everybody goes below...",
+        "startTime": 7289,
+        "endTime": 11225,
+        "slowStartTime": 11084,
+        "slowEndTime": 17062
+    },
+    {
+        "text": "...to take a bath in one big tub...",
+        "startTime": 11649,
+        "endTime": 15193,
+        "slowStartTime": 17623,
+        "slowEndTime": 23014
+    },
+    {
+        "text": "...with soap all over, scrub, scrub, scrub!",
+        "startTime": 15510,
+        "endTime": 19327,
+        "slowStartTime": 23415,
+        "slowEndTime": 29216
+    },
+    {
+        "text": "They hang their towels on the wall,...",
+        "startTime": 19635,
+        "endTime": 23052,
+        "slowStartTime": 29603,
+        "slowEndTime": 34803
+    },
+    {
+        "text": "...and find pajamas, big and small,...",
+        "startTime": 23241,
+        "endTime": 27057,
+        "slowStartTime": 35012,
+        "slowEndTime": 40811
+    },
+    {
+        "text": "...with some on top and some beneath,...",
+        "startTime": 27136,
+        "endTime": 30881,
+        "slowStartTime": 40854,
+        "slowEndTime": 46546
+    },
+    {
+        "text": "...they brush and brush and brush their teeth.",
+        "startTime": 31203,
+        "endTime": 35175,
+        "slowStartTime": 46955,
+        "slowEndTime": 52988
+    },
+    {
+        "text": "And when the moon is on the rise,...",
+        "startTime": 35386,
+        "endTime": 39139,
+        "slowStartTime": 53229,
+        "slowEndTime": 58934
+    },
+    {
+        "text": "...they all go up to exercise!",
+        "startTime": 39596,
+        "endTime": 43194,
+        "slowStartTime": 59544,
+        "slowEndTime": 65016
+    },
+    {
+        "text": "And down once more, but not so fast,...",
+        "startTime": 43539,
+        "endTime": 46989,
+        "slowStartTime": 65458,
+        "slowEndTime": 70708
+    },
+    {
+        "text": "...they're on their way to bed at last.",
+        "startTime": 47383,
+        "endTime": 51108,
+        "slowStartTime": 71224,
+        "slowEndTime": 76887
+    },
+    {
+        "text": "The day is done.",
+        "startTime": 51556,
+        "endTime": 53049,
+        "slowStartTime": 77484,
+        "slowEndTime": 79798
+    },
+    {
+        "text": "They say good night,...",
+        "startTime": 53528,
+        "endTime": 55031,
+        "slowStartTime": 80442,
+        "slowEndTime": 82771
+    },
+    {
+        "text": "...and somebody turns off the light.",
+        "startTime": 55394,
+        "endTime": 58969,
+        "slowStartTime": 83241,
+        "slowEndTime": 88678
+    },
+    {
+        "text": "The moon is high.",
+        "startTime": 59454,
+        "endTime": 61034,
+        "slowStartTime": 89331,
+        "slowEndTime": 91776
+    },
+    {
+        "text": "The sea is deep.",
+        "startTime": 61361,
+        "endTime": 62774,
+        "slowStartTime": 92191,
+        "slowEndTime": 94386
+    },
+    {
+        "text": "They rock and rock and rock to sleep.",
+        "startTime": 63391,
+        "endTime": 66999,
+        "slowStartTime": 95237,
+        "slowEndTime": 100723
+    }
+]

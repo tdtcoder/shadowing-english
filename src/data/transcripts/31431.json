@@ -1,0 +1,100 @@
+[
+    {
+        "text": "In Hong Kong, Typhoon Mangkhut is being called the \"King of Storms...\"",
+        "startTime": 3061,
+        "endTime": 6787,
+        "slowStartTime": 4741,
+        "slowEndTime": 10406
+    },
+    {
+        "text": "...after wreaking havoc through Hong Kong and parts of China.",
+        "startTime": 6943,
+        "endTime": 9865,
+        "slowStartTime": 10565,
+        "slowEndTime": 15023
+    },
+    {
+        "text": "In the US, Supreme Court justice nominee Brett Kavanaugh...",
+        "startTime": 14118,
+        "endTime": 17414,
+        "slowStartTime": 21327,
+        "slowEndTime": 26346
+    },
+    {
+        "text": "...has been accused of sexually assaulting a California psychology professor...",
+        "startTime": 17635,
+        "endTime": 21238,
+        "slowStartTime": 26602,
+        "slowEndTime": 32082
+    },
+    {
+        "text": "...when she and Kavanaugh were in high school.",
+        "startTime": 21623,
+        "endTime": 23493,
+        "slowStartTime": 32585,
+        "slowEndTime": 35464
+    },
+    {
+        "text": "In Rwanda, more than 2,000 prisoners have been pardoned...",
+        "startTime": 25137,
+        "endTime": 28632,
+        "slowStartTime": 37855,
+        "slowEndTime": 43173
+    },
+    {
+        "text": "...by Rwanda's President Paul Kagame.",
+        "startTime": 28713,
+        "endTime": 30893,
+        "slowStartTime": 43220,
+        "slowEndTime": 46564
+    },
+    {
+        "text": "Mexico commemorates twin anniversaries of earthquakes...",
+        "startTime": 35711,
+        "endTime": 38695,
+        "slowStartTime": 53716,
+        "slowEndTime": 58267
+    },
+    {
+        "text": "...that killed 350 people in 2017...",
+        "startTime": 38959,
+        "endTime": 41571,
+        "slowStartTime": 58588,
+        "slowEndTime": 62582
+    },
+    {
+        "text": "...and another that resulted in 10,000 fatalities in 1985.",
+        "startTime": 41857,
+        "endTime": 46017,
+        "slowStartTime": 62935,
+        "slowEndTime": 69251
+    },
+    {
+        "text": "Finally from Peru, President Martin Vizcarra of Peru...",
+        "startTime": 47495,
+        "endTime": 50789,
+        "slowStartTime": 71393,
+        "slowEndTime": 76408
+    },
+    {
+        "text": "...is threatening to dissolve the legislative branch...",
+        "startTime": 50895,
+        "endTime": 53260,
+        "slowStartTime": 76493,
+        "slowEndTime": 80115
+    },
+    {
+        "text": "...if Congress does not accept the proposal...",
+        "startTime": 53637,
+        "endTime": 55754,
+        "slowStartTime": 80605,
+        "slowEndTime": 83856
+    },
+    {
+        "text": "...to approve constitutional reforms to combat corruption.",
+        "startTime": 55898,
+        "endTime": 59426,
+        "slowStartTime": 83997,
+        "slowEndTime": 89364
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "text": "﻿I saw one baby.",
+        "startTime": 3810,
+        "endTime": 5170,
+        "slowStartTime": 5865,
+        "slowEndTime": 7980
+    },
+    {
+        "text": "I saw two babies.",
+        "startTime": 6833,
+        "endTime": 8137,
+        "slowStartTime": 10400,
+        "slowEndTime": 12430
+    },
+    {
+        "text": "There is one cherry.",
+        "startTime": 9896,
+        "endTime": 11625,
+        "slowStartTime": 14994,
+        "slowEndTime": 17662
+    },
+    {
+        "text": "There are two cherries.",
+        "startTime": 13307,
+        "endTime": 14863,
+        "slowStartTime": 20111,
+        "slowEndTime": 22519
+    },
+    {
+        "text": "I have one loaf.",
+        "startTime": 20138,
+        "endTime": 21089,
+        "slowStartTime": 30357,
+        "slowEndTime": 31859
+    },
+    {
+        "text": "I have two loaves.",
+        "startTime": 22786,
+        "endTime": 24278,
+        "slowStartTime": 34329,
+        "slowEndTime": 36642
+    },
+    {
+        "text": "I saw one leaf.",
+        "startTime": 26083,
+        "endTime": 27454,
+        "slowStartTime": 39274,
+        "slowEndTime": 41406
+    },
+    {
+        "text": "I have three leaves.",
+        "startTime": 29127,
+        "endTime": 30763,
+        "slowStartTime": 43840,
+        "slowEndTime": 46369
+    },
+    {
+        "text": "I have one wife.",
+        "startTime": 35887,
+        "endTime": 37021,
+        "slowStartTime": 53981,
+        "slowEndTime": 55756
+    },
+    {
+        "text": "The two wives went shopping.",
+        "startTime": 38493,
+        "endTime": 40231,
+        "slowStartTime": 57890,
+        "slowEndTime": 60572
+    },
+    {
+        "text": "There is one knife.",
+        "startTime": 41959,
+        "endTime": 43406,
+        "slowStartTime": 63088,
+        "slowEndTime": 65334
+    },
+    {
+        "text": "There are six knives.",
+        "startTime": 44825,
+        "endTime": 46491,
+        "slowStartTime": 67388,
+        "slowEndTime": 69962
+    }
+]

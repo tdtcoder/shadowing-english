@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Where are our colleagues?",
+        "startTime": 241,
+        "endTime": 1350,
+        "slowStartTime": 512,
+        "slowEndTime": 2250
+    },
+    {
+        "text": "They all went out.",
+        "startTime": 1785,
+        "endTime": 2605,
+        "slowStartTime": 2827,
+        "slowEndTime": 4133
+    },
+    {
+        "text": "Tom and Sarah are in the conference room.",
+        "startTime": 4449,
+        "endTime": 6609,
+        "slowStartTime": 6823,
+        "slowEndTime": 10138
+    },
+    {
+        "text": "Lily is at the cafeteria.",
+        "startTime": 6868,
+        "endTime": 8312,
+        "slowStartTime": 10452,
+        "slowEndTime": 12693
+    },
+    {
+        "text": "I saw Kevin at the garden outside.",
+        "startTime": 8867,
+        "endTime": 10695,
+        "slowStartTime": 13450,
+        "slowEndTime": 16268
+    },
+    {
+        "text": "He is talking to someone on the phone.",
+        "startTime": 11071,
+        "endTime": 12793,
+        "slowStartTime": 16756,
+        "slowEndTime": 19415
+    },
+    {
+        "text": "How about Mr. Smith?",
+        "startTime": 13405,
+        "endTime": 14570,
+        "slowStartTime": 20258,
+        "slowEndTime": 22080
+    },
+    {
+        "text": "He won't be here for a week.",
+        "startTime": 15160,
+        "endTime": 16375,
+        "slowStartTime": 22890,
+        "slowEndTime": 24787
+    },
+    {
+        "text": "He is going to Tokyo for a business trip.",
+        "startTime": 16727,
+        "endTime": 18511,
+        "slowStartTime": 25241,
+        "slowEndTime": 27992
+    },
+    {
+        "text": "I see.",
+        "startTime": 19210,
+        "endTime": 19873,
+        "slowStartTime": 28965,
+        "slowEndTime": 30034
+    },
+    {
+        "text": "Please tell them to see me when they come back.",
+        "startTime": 20777,
+        "endTime": 22694,
+        "slowStartTime": 31316,
+        "slowEndTime": 34266
+    },
+    {
+        "text": "I will be at my workstation, thanks.",
+        "startTime": 23306,
+        "endTime": 24421,
+        "slowStartTime": 35109,
+        "slowEndTime": 36856
+    }
+]

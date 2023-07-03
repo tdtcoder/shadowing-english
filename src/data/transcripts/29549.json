@@ -1,0 +1,58 @@
+[
+    {
+        "text": "For an express trip into the future, climb aboard Hyperloop One,...",
+        "startTime": 545,
+        "endTime": 5946,
+        "slowStartTime": 968,
+        "slowEndTime": 9144
+    },
+    {
+        "text": "...cutting a path through a hypothetical desert at 700 miles per hour.",
+        "startTime": 6137,
+        "endTime": 10530,
+        "slowStartTime": 9356,
+        "slowEndTime": 16020
+    },
+    {
+        "text": "The whole Hyperloop concept is the brainchild of billionaire entrepreneur Elon Musk...",
+        "startTime": 12087,
+        "endTime": 16841,
+        "slowStartTime": 18280,
+        "slowEndTime": 25487
+    },
+    {
+        "text": "...whose Boring Company, that's the name, just finished digging a tunnel in Los Angeles,...",
+        "startTime": 17181,
+        "endTime": 22152,
+        "slowStartTime": 25922,
+        "slowEndTime": 33453
+    },
+    {
+        "text": "...convinced vacuum tube Hyperloops could someday move cars to high-speed underground sleds.",
+        "startTime": 22239,
+        "endTime": 28244,
+        "slowStartTime": 33509,
+        "slowEndTime": 42591
+    },
+    {
+        "text": "He's already run tests at 125 miles per hour...",
+        "startTime": 30191,
+        "endTime": 33426,
+        "slowStartTime": 45437,
+        "slowEndTime": 50364
+    },
+    {
+        "text": "...and in a recent TED talk, discussed building loops in Los Angeles,...",
+        "startTime": 33518,
+        "endTime": 37849,
+        "slowStartTime": 50427,
+        "slowEndTime": 56998
+    },
+    {
+        "text": "...even along the East Coast.",
+        "startTime": 37982,
+        "endTime": 39556,
+        "slowStartTime": 57123,
+        "slowEndTime": 59559
+    }
+]

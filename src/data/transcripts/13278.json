@@ -1,0 +1,44 @@
+[
+    {
+        "text": "A horse and an ass were travelling together.",
+        "startTime": 2568,
+        "endTime": 5809,
+        "slowStartTime": 4002,
+        "slowEndTime": 8939
+    },
+    {
+        "text": "The ass carried a heavy load on its back.",
+        "startTime": 6568,
+        "endTime": 9771,
+        "slowStartTime": 10002,
+        "slowEndTime": 14882
+    },
+    {
+        "text": "\"I wish I were you,\" sighed the ass.",
+        "startTime": 12204,
+        "endTime": 15397,
+        "slowStartTime": 18456,
+        "slowEndTime": 23321
+    },
+    {
+        "text": "The ass wanted to be like the horse because it had no load.",
+        "startTime": 16176,
+        "endTime": 20990,
+        "slowStartTime": 24414,
+        "slowEndTime": 31710
+    },
+    {
+        "text": "Next day, however, there was a great battle, and the horse was fatally wounded.",
+        "startTime": 24495,
+        "endTime": 31165,
+        "slowStartTime": 36892,
+        "slowEndTime": 46972
+    },
+    {
+        "text": "The ass was happy not to be the horse after all.",
+        "startTime": 32047,
+        "endTime": 36305,
+        "slowStartTime": 48221,
+        "slowEndTime": 54683
+    }
+]

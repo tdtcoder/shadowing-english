@@ -1,0 +1,114 @@
+[
+    {
+        "text": "﻿His name is Jake and he loves to bake.",
+        "startTime": 511,
+        "endTime": 4764,
+        "slowStartTime": 916,
+        "slowEndTime": 7371
+    },
+    {
+        "text": "What does he bake?",
+        "startTime": 5387,
+        "endTime": 7010,
+        "slowStartTime": 8231,
+        "slowEndTime": 10740
+    },
+    {
+        "text": "That's easy: cake!",
+        "startTime": 7430,
+        "endTime": 10662,
+        "slowStartTime": 11295,
+        "slowEndTime": 16218
+    },
+    {
+        "text": "It's time to frost it!",
+        "startTime": 11048,
+        "endTime": 12732,
+        "slowStartTime": 16722,
+        "slowEndTime": 19323
+    },
+    {
+        "text": "But be careful he doesn't drop the icing...",
+        "startTime": 13502,
+        "endTime": 16703,
+        "slowStartTime": 20403,
+        "slowEndTime": 25279
+    },
+    {
+        "text": "...because sometimes his tail likes to shake!",
+        "startTime": 17032,
+        "endTime": 20976,
+        "slowStartTime": 25698,
+        "slowEndTime": 31689
+    },
+    {
+        "text": "That was delicious!",
+        "startTime": 21897,
+        "endTime": 23921,
+        "slowStartTime": 32996,
+        "slowEndTime": 36107
+    },
+    {
+        "text": "Sometimes he likes to take his cake and eat it by the lake.",
+        "startTime": 24107,
+        "endTime": 31548,
+        "slowStartTime": 36311,
+        "slowEndTime": 47547
+    },
+    {
+        "text": "And when he's done, he works in the garden with his rake.",
+        "startTime": 35591,
+        "endTime": 41207,
+        "slowStartTime": 53536,
+        "slowEndTime": 62035
+    },
+    {
+        "text": "It's a sudden snow storm.",
+        "startTime": 41877,
+        "endTime": 43777,
+        "slowStartTime": 62966,
+        "slowEndTime": 65891
+    },
+    {
+        "text": "Look, there's a snowflake.",
+        "startTime": 43988,
+        "endTime": 46725,
+        "slowStartTime": 66132,
+        "slowEndTime": 70312
+    },
+    {
+        "text": "Don't worry Jake, it's not really snow.",
+        "startTime": 47713,
+        "endTime": 52027,
+        "slowStartTime": 71719,
+        "slowEndTime": 78265
+    },
+    {
+        "text": "It's all just fake.",
+        "startTime": 52314,
+        "endTime": 54369,
+        "slowStartTime": 78621,
+        "slowEndTime": 81779
+    },
+    {
+        "text": "All that hard work makes him sleepy.",
+        "startTime": 55165,
+        "endTime": 59326,
+        "slowStartTime": 82898,
+        "slowEndTime": 89214
+    },
+    {
+        "text": "So it's hard to stay awake.",
+        "startTime": 59687,
+        "endTime": 62361,
+        "slowStartTime": 89680,
+        "slowEndTime": 93767
+    },
+    {
+        "text": "Good night, Jake.",
+        "startTime": 65146,
+        "endTime": 66675,
+        "slowStartTime": 97869,
+        "slowEndTime": 100238
+    }
+]

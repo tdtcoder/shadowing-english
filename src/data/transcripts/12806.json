@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Changmin, are you feeling okay today?",
+        "startTime": 2103,
+        "endTime": 4385,
+        "slowStartTime": 3305,
+        "slowEndTime": 6802
+    },
+    {
+        "text": "To be honest with you, I'm not feeling very well at all.",
+        "startTime": 4751,
+        "endTime": 8161,
+        "slowStartTime": 7277,
+        "slowEndTime": 12467
+    },
+    {
+        "text": "What's wrong?",
+        "startTime": 8794,
+        "endTime": 9597,
+        "slowStartTime": 13341,
+        "slowEndTime": 14620
+    },
+    {
+        "text": "I'm not exactly sure.",
+        "startTime": 9940,
+        "endTime": 11298,
+        "slowStartTime": 15060,
+        "slowEndTime": 17172
+    },
+    {
+        "text": "My throat's been killing me for a couple days and I think I have a fever.",
+        "startTime": 11677,
+        "endTime": 15614,
+        "slowStartTime": 17666,
+        "slowEndTime": 23646
+    },
+    {
+        "text": "Have you been able to eat at all?",
+        "startTime": 16239,
+        "endTime": 17797,
+        "slowStartTime": 24508,
+        "slowEndTime": 26920
+    },
+    {
+        "text": "Yes, a little bit, but it really hurts when I swallow.",
+        "startTime": 18060,
+        "endTime": 21699,
+        "slowStartTime": 27240,
+        "slowEndTime": 32773
+    },
+    {
+        "text": "Something is definitely wrong with my throat.",
+        "startTime": 22171,
+        "endTime": 24473,
+        "slowStartTime": 33406,
+        "slowEndTime": 36934
+    },
+    {
+        "text": "I think you're right. Why don't you go to the hospital?",
+        "startTime": 24825,
+        "endTime": 27705,
+        "slowStartTime": 37388,
+        "slowEndTime": 41783
+    },
+    {
+        "text": "I was kind of hoping that I would feel better.",
+        "startTime": 28085,
+        "endTime": 30323,
+        "slowStartTime": 42277,
+        "slowEndTime": 45710
+    },
+    {
+        "text": "I think you must see a doctor.",
+        "startTime": 30672,
+        "endTime": 32294,
+        "slowStartTime": 46158,
+        "slowEndTime": 48666
+    },
+    {
+        "text": "But isn't it expensive to see a doctor here?",
+        "startTime": 32744,
+        "endTime": 35230,
+        "slowStartTime": 49266,
+        "slowEndTime": 53070
+    },
+    {
+        "text": "Not if you are a student.",
+        "startTime": 35512,
+        "endTime": 36995,
+        "slowStartTime": 53418,
+        "slowEndTime": 55717
+    },
+    {
+        "text": "Changmin, shall we take a break? I think you need a break.",
+        "startTime": 37294,
+        "endTime": 40488,
+        "slowStartTime": 56091,
+        "slowEndTime": 60957
+    }
+]

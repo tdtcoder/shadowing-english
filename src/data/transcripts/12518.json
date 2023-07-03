@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Two French journalists are back home after being held by the Taliban for 18 months.",
+        "startTime": 5090,
+        "endTime": 11730,
+        "slowStartTime": 7785,
+        "slowEndTime": 17820
+    },
+    {
+        "text": "Thousands of schools close across Britain as teachers and other public workers strike over pension reforms.",
+        "startTime": 14386,
+        "endTime": 22031,
+        "slowStartTime": 21729,
+        "slowEndTime": 33272
+    },
+    {
+        "text": "Protesters demand that Britain release Palestinian - Israeli leader Raed Salah, now being detained in the UK.",
+        "startTime": 23409,
+        "endTime": 31743,
+        "slowStartTime": 35264,
+        "slowEndTime": 47839
+    },
+    {
+        "text": "In India, police charge students protesting against police crackdowns on student demonstrations.",
+        "startTime": 35410,
+        "endTime": 42225,
+        "slowStartTime": 53265,
+        "slowEndTime": 63562
+    },
+    {
+        "text": "In Egypt, violence returns to Cairo as police clash with civilians in the streets.",
+        "startTime": 44692,
+        "endTime": 51220,
+        "slowStartTime": 67188,
+        "slowEndTime": 77055
+    },
+    {
+        "text": "In the Palestinian territories, students in Khan Younis develop a recycled race car.",
+        "startTime": 53704,
+        "endTime": 60155,
+        "slowStartTime": 80706,
+        "slowEndTime": 90458
+    }
+]

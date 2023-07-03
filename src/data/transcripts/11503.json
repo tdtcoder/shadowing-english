@@ -1,0 +1,254 @@
+[
+    {
+        "text": "How did it go?",
+        "startTime": 200,
+        "endTime": 950,
+        "slowStartTime": 500,
+        "slowEndTime": 1650
+    },
+    {
+        "text": "I didn't feel anything.",
+        "startTime": 2550,
+        "endTime": 5750,
+        "slowStartTime": 4000,
+        "slowEndTime": 8900
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 5800,
+        "endTime": 6400,
+        "slowStartTime": 8900,
+        "slowEndTime": 9850
+    },
+    {
+        "text": "I feel funny.",
+        "startTime": 10150,
+        "endTime": 11300,
+        "slowStartTime": 15400,
+        "slowEndTime": 17450
+    },
+    {
+        "text": "Kinda felt good, didn't it?",
+        "startTime": 11850,
+        "endTime": 13200,
+        "slowStartTime": 18000,
+        "slowEndTime": 20100
+    },
+    {
+        "text": "Is this real life?",
+        "startTime": 16500,
+        "endTime": 18250,
+        "slowStartTime": 24900,
+        "slowEndTime": 27600
+    },
+    {
+        "text": "Yeah, this is real life.",
+        "startTime": 18350,
+        "endTime": 19700,
+        "slowStartTime": 27700,
+        "slowEndTime": 29900
+    },
+    {
+        "text": "Okay. Now, I have two fingers.",
+        "startTime": 23950,
+        "endTime": 27450,
+        "slowStartTime": 36100,
+        "slowEndTime": 41450
+    },
+    {
+        "text": "Good.",
+        "startTime": 28100,
+        "endTime": 28700,
+        "slowStartTime": 42300,
+        "slowEndTime": 43200
+    },
+    {
+        "text": "Now, I have four fingers.",
+        "startTime": 29200,
+        "endTime": 30900,
+        "slowStartTime": 44050,
+        "slowEndTime": 46600
+    },
+    {
+        "text": "Four fingers?",
+        "startTime": 31650,
+        "endTime": 32650,
+        "slowStartTime": 47600,
+        "slowEndTime": 49200
+    },
+    {
+        "text": "Na-ah uh-uh! Don't put it in your mouth, okay?",
+        "startTime": 34100,
+        "endTime": 39900,
+        "slowStartTime": 51300,
+        "slowEndTime": 60100
+    },
+    {
+        "text": "Do you feel good?",
+        "startTime": 44500,
+        "endTime": 45300,
+        "slowStartTime": 66900,
+        "slowEndTime": 68200
+    },
+    {
+        "text": "I can't see anything.",
+        "startTime": 46050,
+        "endTime": 48500,
+        "slowStartTime": 69200,
+        "slowEndTime": 73000
+    },
+    {
+        "text": "Yes, you can.",
+        "startTime": 49000,
+        "endTime": 49850,
+        "slowStartTime": 73650,
+        "slowEndTime": 75100
+    },
+    {
+        "text": "Stay in your seat.",
+        "startTime": 53550,
+        "endTime": 54400,
+        "slowStartTime": 80500,
+        "slowEndTime": 81800
+    },
+    {
+        "text": "I don't feel tired.",
+        "startTime": 62000,
+        "endTime": 64000,
+        "slowStartTime": 93200,
+        "slowEndTime": 96300
+    },
+    {
+        "text": "You don't?",
+        "startTime": 64350,
+        "endTime": 64950,
+        "slowStartTime": 96700,
+        "slowEndTime": 97700
+    },
+    {
+        "text": "Uh-uh.",
+        "startTime": 65650,
+        "endTime": 66100,
+        "slowStartTime": 98650,
+        "slowEndTime": 99400
+    },
+    {
+        "text": "No?",
+        "startTime": 66500,
+        "endTime": 66950,
+        "slowStartTime": 99900,
+        "slowEndTime": 100650
+    },
+    {
+        "text": "Do I have stitches?",
+        "startTime": 69150,
+        "endTime": 70800,
+        "slowStartTime": 103950,
+        "slowEndTime": 106450
+    },
+    {
+        "text": "Uh-huh.",
+        "startTime": 70900,
+        "endTime": 71400,
+        "slowStartTime": 106500,
+        "slowEndTime": 107300
+    },
+    {
+        "text": "Dad, do I have stitches?",
+        "startTime": 73000,
+        "endTime": 75000,
+        "slowStartTime": 109600,
+        "slowEndTime": 112775
+    },
+    {
+        "text": "Yes.",
+        "startTime": 75050,
+        "endTime": 75650,
+        "slowStartTime": 112750,
+        "slowEndTime": 113700
+    },
+    {
+        "text": "On my teeth?",
+        "startTime": 76350,
+        "endTime": 77300,
+        "slowStartTime": 114700,
+        "slowEndTime": 116200
+    },
+    {
+        "text": "Yeah, don't touch it. Don't!",
+        "startTime": 77400,
+        "endTime": 79800,
+        "slowStartTime": 116250,
+        "slowEndTime": 119950
+    },
+    {
+        "text": "Why can't I touch it?",
+        "startTime": 82150,
+        "endTime": 84200,
+        "slowStartTime": 123400,
+        "slowEndTime": 126550
+    },
+    {
+        "text": "Because it'll mess up the stitches.",
+        "startTime": 84800,
+        "endTime": 87000,
+        "slowStartTime": 127700,
+        "slowEndTime": 131100
+    },
+    {
+        "text": "You have four eyes.",
+        "startTime": 87050,
+        "endTime": 88650,
+        "slowStartTime": 131100,
+        "slowEndTime": 133550
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 88700,
+        "endTime": 89250,
+        "slowStartTime": 133700,
+        "slowEndTime": 134400
+    },
+    {
+        "text": "I feel funny.",
+        "startTime": 91550,
+        "endTime": 92750,
+        "slowStartTime": 137900,
+        "slowEndTime": 139800
+    },
+    {
+        "text": "Why is this happening to me?",
+        "startTime": 94350,
+        "endTime": 96850,
+        "slowStartTime": 142050,
+        "slowEndTime": 145900
+    },
+    {
+        "text": "It's okay, bud.",
+        "startTime": 96900,
+        "endTime": 97950,
+        "slowStartTime": 145900,
+        "slowEndTime": 147500
+    },
+    {
+        "text": "It's just from the medicine, okay?",
+        "startTime": 98200,
+        "endTime": 100850,
+        "slowStartTime": 147850,
+        "slowEndTime": 151850
+    },
+    {
+        "text": "Is this going to be forever?",
+        "startTime": 101900,
+        "endTime": 104750,
+        "slowStartTime": 153400,
+        "slowEndTime": 157700
+    },
+    {
+        "text": "No, it won't be forever.",
+        "startTime": 106500,
+        "endTime": 108050,
+        "slowStartTime": 160300,
+        "slowEndTime": 162700
+    }
+]

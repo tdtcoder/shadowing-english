@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Let's learn some words used when flying.",
+        "startTime": 863,
+        "endTime": 3819,
+        "slowStartTime": 1444,
+        "slowEndTime": 5954
+    },
+    {
+        "text": "They caught the red-eye to New York.",
+        "startTime": 9969,
+        "endTime": 11907,
+        "slowStartTime": 15103,
+        "slowEndTime": 18086
+    },
+    {
+        "text": "Airlines treat their frequent fliers very well.",
+        "startTime": 18159,
+        "endTime": 21130,
+        "slowStartTime": 27388,
+        "slowEndTime": 31920
+    },
+    {
+        "text": "They couldn't close the luggage compartment.",
+        "startTime": 27198,
+        "endTime": 29803,
+        "slowStartTime": 40947,
+        "slowEndTime": 44929
+    },
+    {
+        "text": "The departure lounge is empty.",
+        "startTime": 36311,
+        "endTime": 38381,
+        "slowStartTime": 54616,
+        "slowEndTime": 57796
+    },
+    {
+        "text": "Airplanes have reclining seats.",
+        "startTime": 44401,
+        "endTime": 46919,
+        "slowStartTime": 66751,
+        "slowEndTime": 70603
+    },
+    {
+        "text": "You have to go through passport control before boarding the plane.",
+        "startTime": 52884,
+        "endTime": 56843,
+        "slowStartTime": 79476,
+        "slowEndTime": 85490
+    },
+    {
+        "text": "You can sell your dollars at the currency exchange.",
+        "startTime": 62935,
+        "endTime": 65906,
+        "slowStartTime": 94553,
+        "slowEndTime": 99084
+    },
+    {
+        "text": "The fasten seat belt sign is on.",
+        "startTime": 72130,
+        "endTime": 74214,
+        "slowStartTime": 108345,
+        "slowEndTime": 111546
+    },
+    {
+        "text": "The airline's in-flight entertainment includes a few movies.",
+        "startTime": 80174,
+        "endTime": 84229,
+        "slowStartTime": 120411,
+        "slowEndTime": 126568
+    },
+    {
+        "text": "Flights are overbooked because airlines want more profit.",
+        "startTime": 90053,
+        "endTime": 93458,
+        "slowStartTime": 135229,
+        "slowEndTime": 140412
+    }
+]

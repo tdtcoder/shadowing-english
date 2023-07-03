@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Add \"er\" to make comparative adjectives and \"est\" to make superlative adjectives.",
+        "startTime": 381,
+        "endTime": 7267,
+        "slowStartTime": 722,
+        "slowEndTime": 11125
+    },
+    {
+        "text": "The mouse is small.",
+        "startTime": 15802,
+        "endTime": 17671,
+        "slowStartTime": 23853,
+        "slowEndTime": 26732
+    },
+    {
+        "text": "The butterfly is smaller than the mouse.",
+        "startTime": 21677,
+        "endTime": 24846,
+        "slowStartTime": 32665,
+        "slowEndTime": 37494
+    },
+    {
+        "text": "The ant is the smallest of the three animals.",
+        "startTime": 28778,
+        "endTime": 32381,
+        "slowStartTime": 43317,
+        "slowEndTime": 48797
+    },
+    {
+        "text": "The lion is big.",
+        "startTime": 36237,
+        "endTime": 38107,
+        "slowStartTime": 54506,
+        "slowEndTime": 57386
+    },
+    {
+        "text": "The bear is bigger than the lion.",
+        "startTime": 41862,
+        "endTime": 45093,
+        "slowStartTime": 62943,
+        "slowEndTime": 67864
+    },
+    {
+        "text": "The elephant is the biggest of them all.",
+        "startTime": 49030,
+        "endTime": 52076,
+        "slowStartTime": 73695,
+        "slowEndTime": 78339
+    },
+    {
+        "text": "Taylor is young.",
+        "startTime": 56173,
+        "endTime": 57609,
+        "slowStartTime": 84409,
+        "slowEndTime": 86639
+    },
+    {
+        "text": "She is younger than Taylor.",
+        "startTime": 61303,
+        "endTime": 63668,
+        "slowStartTime": 92105,
+        "slowEndTime": 95727
+    },
+    {
+        "text": "She is the youngest of the three.",
+        "startTime": 67457,
+        "endTime": 69945,
+        "slowStartTime": 101335,
+        "slowEndTime": 105143
+    },
+    {
+        "text": "Tom is old.",
+        "startTime": 73712,
+        "endTime": 75272,
+        "slowStartTime": 110718,
+        "slowEndTime": 113133
+    },
+    {
+        "text": "Bill is older than Tom.",
+        "startTime": 78945,
+        "endTime": 81434,
+        "slowStartTime": 118568,
+        "slowEndTime": 122376
+    },
+    {
+        "text": "He is the oldest of the three men.",
+        "startTime": 85245,
+        "endTime": 87982,
+        "slowStartTime": 128018,
+        "slowEndTime": 132198
+    }
+]

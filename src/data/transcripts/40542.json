@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Here are some phrases you can use to respond to wishes and greetings.",
+        "startTime": 684,
+        "endTime": 5325,
+        "slowStartTime": 1176,
+        "slowEndTime": 8213
+    },
+    {
+        "text": "Back at you!",
+        "startTime": 7301,
+        "endTime": 8309,
+        "slowStartTime": 11102,
+        "slowEndTime": 12688
+    },
+    {
+        "text": "The feeling is mutual.",
+        "startTime": 10137,
+        "endTime": 11618,
+        "slowStartTime": 15356,
+        "slowEndTime": 17652
+    },
+    {
+        "text": "Appreciate that!",
+        "startTime": 13469,
+        "endTime": 14370,
+        "slowStartTime": 20354,
+        "slowEndTime": 21780
+    },
+    {
+        "text": "I wish the same to you too.",
+        "startTime": 16167,
+        "endTime": 17963,
+        "slowStartTime": 24400,
+        "slowEndTime": 27169
+    },
+    {
+        "text": "Ah! Loved to hear that.",
+        "startTime": 19797,
+        "endTime": 22205,
+        "slowStartTime": 29845,
+        "slowEndTime": 33533
+    },
+    {
+        "text": "Aren't you the sweetest?",
+        "startTime": 23871,
+        "endTime": 25510,
+        "slowStartTime": 35956,
+        "slowEndTime": 38490
+    },
+    {
+        "text": "Same applies to you.",
+        "startTime": 27367,
+        "endTime": 28748,
+        "slowStartTime": 41200,
+        "slowEndTime": 43347
+    },
+    {
+        "text": "Likewise.",
+        "startTime": 30521,
+        "endTime": 31437,
+        "slowStartTime": 45932,
+        "slowEndTime": 47381
+    },
+    {
+        "text": "Thanks a ton.",
+        "startTime": 33293,
+        "endTime": 34556,
+        "slowStartTime": 50090,
+        "slowEndTime": 52059
+    },
+    {
+        "text": "That's the best I could get for a day!",
+        "startTime": 36433,
+        "endTime": 38497,
+        "slowStartTime": 54800,
+        "slowEndTime": 57971
+    }
+]

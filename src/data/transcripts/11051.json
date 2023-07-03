@@ -1,0 +1,107 @@
+[
+    {
+        "text": "So, Wolfy stands outside the house of Piggy number three and they assume their battle positions.",
+        "startTime": 430,
+        "endTime": 5840,
+        "slowStartTime": 805,
+        "slowEndTime": 8830
+    },
+    {
+        "text": "\"Let me in!\"",
+        "startTime": 6500,
+        "endTime": 7240,
+        "slowStartTime": 9820,
+        "slowEndTime": 10800
+    },
+    {
+        "text": "\"No, no!\"",
+        "startTime": 7440,
+        "endTime": 8270,
+        "slowStartTime": 11325,
+        "slowEndTime": 12600
+    },
+    {
+        "text": "\"I'll huff and I'll puff!\"",
+        "startTime": 9240,
+        "endTime": 10310,
+        "slowStartTime": 13990,
+        "slowEndTime": 15585
+    },
+    {
+        "text": "\"Go away!\"",
+        "startTime": 10410,
+        "endTime": 11440,
+        "slowStartTime": 15710,
+        "slowEndTime": 17235
+    },
+    {
+        "text": "\"Okay, you 'axed' for it Piggy!\"",
+        "startTime": 12410,
+        "endTime": 15140,
+        "slowStartTime": 18735,
+        "slowEndTime": 22860
+    },
+    {
+        "text": "Wolfy is huffing.",
+        "startTime": 16650,
+        "endTime": 18780,
+        "slowStartTime": 25070,
+        "slowEndTime": 28175
+    },
+    {
+        "text": "And Wolfy is puffing.",
+        "startTime": 20690,
+        "endTime": 21780,
+        "slowStartTime": 31135,
+        "slowEndTime": 32790
+    },
+    {
+        "text": "Nothing. This is a brick house, they do not blow over so easy.",
+        "startTime": 25220,
+        "endTime": 29180,
+        "slowStartTime": 37915,
+        "slowEndTime": 43895
+    },
+    {
+        "text": "So, Wolfy gets himself a ladder, climbs up onto the roof.",
+        "startTime": 29730,
+        "endTime": 33160,
+        "slowStartTime": 44755,
+        "slowEndTime": 49965
+    },
+    {
+        "text": "Piggy sees him climb onto the roof. Wolfy makes for the chimney.",
+        "startTime": 33670,
+        "endTime": 36870,
+        "slowStartTime": 50625,
+        "slowEndTime": 55300
+    },
+    {
+        "text": "Piggy lights a fire in the grate. Wolfy goes down the chimney, he burns.",
+        "startTime": 37400,
+        "endTime": 41800,
+        "slowStartTime": 56185,
+        "slowEndTime": 62630
+    },
+    {
+        "text": "Wolfy burns.",
+        "startTime": 42810,
+        "endTime": 44340,
+        "slowStartTime": 64295,
+        "slowEndTime": 66545
+    },
+    {
+        "text": "Wolfy burns and Piggy lives.",
+        "startTime": 46070,
+        "endTime": 48580,
+        "slowStartTime": 69195,
+        "slowEndTime": 72830
+    },
+    {
+        "text": "Happily ever after.",
+        "startTime": 49610,
+        "endTime": 50710,
+        "slowStartTime": 74505,
+        "slowEndTime": 76180
+    }
+]

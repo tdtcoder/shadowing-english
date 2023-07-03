@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Jack and Jill went up the hill to fetch a pail of water.",
+        "startTime": 1199,
+        "endTime": 5963,
+        "slowStartTime": 1948,
+        "slowEndTime": 9170
+    },
+    {
+        "text": "Jack fell down and broke his crown, and Jill came tumbling after.",
+        "startTime": 6131,
+        "endTime": 10669,
+        "slowStartTime": 9346,
+        "slowEndTime": 16229
+    },
+    {
+        "text": "Then up got Jack and said to Jill, as in his arms he took her,...",
+        "startTime": 10910,
+        "endTime": 15706,
+        "slowStartTime": 16515,
+        "slowEndTime": 23784
+    },
+    {
+        "text": "...brush up that dirt for you're not hurt,...",
+        "startTime": 15923,
+        "endTime": 18093,
+        "slowStartTime": 24035,
+        "slowEndTime": 27365
+    },
+    {
+        "text": "...let's fetch that pail of water.",
+        "startTime": 18221,
+        "endTime": 20627,
+        "slowStartTime": 27482,
+        "slowEndTime": 31166
+    },
+    {
+        "text": "So, Jack and Jill went up the hill to fetch the pail of water.",
+        "startTime": 20733,
+        "endTime": 25510,
+        "slowStartTime": 31249,
+        "slowEndTime": 38490
+    },
+    {
+        "text": "And took it home to mother dear who thanked her son and daughter.",
+        "startTime": 25622,
+        "endTime": 30496,
+        "slowStartTime": 38583,
+        "slowEndTime": 45969
+    },
+    {
+        "text": "Up Jack got, and home did trot, as fast as he could caper,...",
+        "startTime": 30713,
+        "endTime": 35307,
+        "slowStartTime": 46220,
+        "slowEndTime": 53186
+    },
+    {
+        "text": "...to old Dame Dob, who patched his nob with vinegar and brown paper.",
+        "startTime": 35467,
+        "endTime": 40231,
+        "slowStartTime": 53351,
+        "slowEndTime": 60572
+    },
+    {
+        "text": "Then, Jill came in and she did grin to see Jack's paper plaster.",
+        "startTime": 40369,
+        "endTime": 45087,
+        "slowStartTime": 60703,
+        "slowEndTime": 67855
+    },
+    {
+        "text": "Her mother whipped her across her knee for laughing at Jack's disaster.",
+        "startTime": 45255,
+        "endTime": 50158,
+        "slowStartTime": 68032,
+        "slowEndTime": 75462
+    }
+]

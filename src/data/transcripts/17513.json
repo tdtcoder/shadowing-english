@@ -1,0 +1,170 @@
+[
+    {
+        "text": "Jason, it is time to wake up.",
+        "startTime": 2559,
+        "endTime": 4333,
+        "slowStartTime": 3988,
+        "slowEndTime": 6724
+    },
+    {
+        "text": "Jump out of bed now!",
+        "startTime": 4601,
+        "endTime": 5955,
+        "slowStartTime": 7052,
+        "slowEndTime": 9157
+    },
+    {
+        "text": "What time is it, Mom?",
+        "startTime": 7300,
+        "endTime": 8912,
+        "slowStartTime": 11100,
+        "slowEndTime": 13593
+    },
+    {
+        "text": "It is 7:30.",
+        "startTime": 10257,
+        "endTime": 11387,
+        "slowStartTime": 15536,
+        "slowEndTime": 17305
+    },
+    {
+        "text": "Get out of bed and wash your face.",
+        "startTime": 11571,
+        "endTime": 13572,
+        "slowStartTime": 17506,
+        "slowEndTime": 20583
+    },
+    {
+        "text": "Jason, it is time for breakfast.",
+        "startTime": 15884,
+        "endTime": 17903,
+        "slowStartTime": 23976,
+        "slowEndTime": 27079
+    },
+    {
+        "text": "Get out of the bathroom!",
+        "startTime": 18206,
+        "endTime": 19607,
+        "slowStartTime": 27459,
+        "slowEndTime": 29636
+    },
+    {
+        "text": "What time is it, Mom?",
+        "startTime": 20859,
+        "endTime": 22609,
+        "slowStartTime": 31439,
+        "slowEndTime": 34139
+    },
+    {
+        "text": "It is 8:00.",
+        "startTime": 23827,
+        "endTime": 24893,
+        "slowStartTime": 35890,
+        "slowEndTime": 37565
+    },
+    {
+        "text": "It is time for breakfast.",
+        "startTime": 25059,
+        "endTime": 26587,
+        "slowStartTime": 37739,
+        "slowEndTime": 40105
+    },
+    {
+        "text": "Hurry up, Jason!",
+        "startTime": 27050,
+        "endTime": 28150,
+        "slowStartTime": 40725,
+        "slowEndTime": 42450
+    },
+    {
+        "text": "It is time for bath, time for bath.",
+        "startTime": 34671,
+        "endTime": 37756,
+        "slowStartTime": 52157,
+        "slowEndTime": 56859
+    },
+    {
+        "text": "I get into the tub.",
+        "startTime": 38167,
+        "endTime": 39588,
+        "slowStartTime": 57400,
+        "slowEndTime": 59607
+    },
+    {
+        "text": "Splash, Splash!",
+        "startTime": 40053,
+        "endTime": 41611,
+        "slowStartTime": 60229,
+        "slowEndTime": 62641
+    },
+    {
+        "text": "A rubber duck gets into the tub.",
+        "startTime": 41903,
+        "endTime": 45295,
+        "slowStartTime": 63004,
+        "slowEndTime": 68167
+    },
+    {
+        "text": "Quack, quack!",
+        "startTime": 45914,
+        "endTime": 47173,
+        "slowStartTime": 69021,
+        "slowEndTime": 70984
+    },
+    {
+        "text": "A toy fish gets into the tub.",
+        "startTime": 49409,
+        "endTime": 52813,
+        "slowStartTime": 74264,
+        "slowEndTime": 79445
+    },
+    {
+        "text": "Swoosh, swoosh!",
+        "startTime": 53188,
+        "endTime": 54774,
+        "slowStartTime": 79932,
+        "slowEndTime": 82386
+    },
+    {
+        "text": "A tugboat gets into the tub.",
+        "startTime": 56924,
+        "endTime": 60267,
+        "slowStartTime": 85536,
+        "slowEndTime": 90625
+    },
+    {
+        "text": "Toot, toot!",
+        "startTime": 60877,
+        "endTime": 62155,
+        "slowStartTime": 91465,
+        "slowEndTime": 93458
+    },
+    {
+        "text": "Soap bubbles go up and up, up and up.",
+        "startTime": 64564,
+        "endTime": 68107,
+        "slowStartTime": 96996,
+        "slowEndTime": 102386
+    },
+    {
+        "text": "It is time to get out, time to get out.",
+        "startTime": 68427,
+        "endTime": 71623,
+        "slowStartTime": 102790,
+        "slowEndTime": 107659
+    },
+    {
+        "text": "I get out of the tub.",
+        "startTime": 72155,
+        "endTime": 74376,
+        "slowStartTime": 108382,
+        "slowEndTime": 111789
+    },
+    {
+        "text": "Drip, drip!",
+        "startTime": 75875,
+        "endTime": 77022,
+        "slowStartTime": 113962,
+        "slowEndTime": 115758
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Whatever you grant me now will be repaid three times over...",
+        "startTime": 254,
+        "endTime": 3337,
+        "slowStartTime": 531,
+        "slowEndTime": 5230
+    },
+    {
+        "text": "...when I retake the Iron Throne.",
+        "startTime": 3453,
+        "endTime": 4785,
+        "slowStartTime": 5330,
+        "slowEndTime": 7402
+    },
+    {
+        "text": "Retake?",
+        "startTime": 4859,
+        "endTime": 5525,
+        "slowStartTime": 7438,
+        "slowEndTime": 8512
+    },
+    {
+        "text": "Did you once sit on the Iron Throne?",
+        "startTime": 6538,
+        "endTime": 8555,
+        "slowStartTime": 9957,
+        "slowEndTime": 13057
+    },
+    {
+        "text": "My father sat there before he was murdered.",
+        "startTime": 8689,
+        "endTime": 11360,
+        "slowStartTime": 13184,
+        "slowEndTime": 17265
+    },
+    {
+        "text": "If you did not sit on it yourself, would it not be correct to say \"take\" the Iron Throne?",
+        "startTime": 12043,
+        "endTime": 17023,
+        "slowStartTime": 18214,
+        "slowEndTime": 25760
+    },
+    {
+        "text": "I didn't come here to argue grammar.",
+        "startTime": 17568,
+        "endTime": 19413,
+        "slowStartTime": 26502,
+        "slowEndTime": 29345
+    }
+]

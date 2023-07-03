@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Hey, thanks so much for giving me a ride.",
+        "startTime": 705,
+        "endTime": 2350,
+        "slowStartTime": 1208,
+        "slowEndTime": 3750
+    },
+    {
+        "text": "Any friend of Maria's.",
+        "startTime": 2621,
+        "endTime": 3594,
+        "slowStartTime": 4081,
+        "slowEndTime": 5616
+    },
+    {
+        "text": "Besides, I don't really want to drive nine hours alone.",
+        "startTime": 4842,
+        "endTime": 6485,
+        "slowStartTime": 7413,
+        "slowEndTime": 9952
+    },
+    {
+        "text": "You can take care of the stereo.",
+        "startTime": 7611,
+        "endTime": 8430,
+        "slowStartTime": 11566,
+        "slowEndTime": 12870
+    },
+    {
+        "text": "Well, I hope you like polka.",
+        "startTime": 8931,
+        "endTime": 10023,
+        "slowStartTime": 13546,
+        "slowEndTime": 15260
+    },
+    {
+        "text": "Pick your passengers wisely.",
+        "startTime": 19354,
+        "endTime": 21253,
+        "slowStartTime": 29181,
+        "slowEndTime": 32104
+    },
+    {
+        "text": "Get up to 609 miles per tank with the Volkswagen Jetta TDI Clean Diesel.",
+        "startTime": 21628,
+        "endTime": 25974,
+        "slowStartTime": 32592,
+        "slowEndTime": 39186
+    },
+    {
+        "text": "That's the power of German engineering.",
+        "startTime": 26255,
+        "endTime": 28028,
+        "slowStartTime": 39533,
+        "slowEndTime": 42267
+    }
+]

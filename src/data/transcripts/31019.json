@@ -1,0 +1,135 @@
+[
+    {
+        "text": "Perpetual motion machines have held a real fascination for inventors...",
+        "startTime": 1339,
+        "endTime": 6415,
+        "slowStartTime": 2158,
+        "slowEndTime": 9848
+    },
+    {
+        "text": "...for the last several hundred, if not thousand years.",
+        "startTime": 6665,
+        "endTime": 9905,
+        "slowStartTime": 10147,
+        "slowEndTime": 15082
+    },
+    {
+        "text": "The idea of extracting free energy somehow is a very, very lucrative...",
+        "startTime": 10259,
+        "endTime": 17050,
+        "slowStartTime": 15539,
+        "slowEndTime": 25800
+    },
+    {
+        "text": "...and seductive one.",
+        "startTime": 17155,
+        "endTime": 18177,
+        "slowStartTime": 25882,
+        "slowEndTime": 27490
+    },
+    {
+        "text": "Now, to do that, you have to play with the laws of thermodynamics.",
+        "startTime": 18568,
+        "endTime": 23144,
+        "slowStartTime": 28002,
+        "slowEndTime": 34941
+    },
+    {
+        "text": "Everybody knows the laws of thermodynamics, right?",
+        "startTime": 23405,
+        "endTime": 27239,
+        "slowStartTime": 35258,
+        "slowEndTime": 41083
+    },
+    {
+        "text": "You can't win.",
+        "startTime": 28041,
+        "endTime": 28991,
+        "slowStartTime": 42212,
+        "slowEndTime": 43712
+    },
+    {
+        "text": "You can't break even.",
+        "startTime": 29353,
+        "endTime": 30327,
+        "slowStartTime": 44179,
+        "slowEndTime": 45715
+    },
+    {
+        "text": "You can't get out of the game, right?",
+        "startTime": 30706,
+        "endTime": 32157,
+        "slowStartTime": 46209,
+        "slowEndTime": 48460
+    },
+    {
+        "text": "So, that said, perpetual motion machines try to defy that...",
+        "startTime": 32765,
+        "endTime": 38497,
+        "slowStartTime": 49298,
+        "slowEndTime": 57970
+    },
+    {
+        "text": "...through clever systems, using magnets, and waterfalls,...",
+        "startTime": 38659,
+        "endTime": 41721,
+        "slowStartTime": 58138,
+        "slowEndTime": 62807
+    },
+    {
+        "text": "...and siphons, and gravity, and counterweights.",
+        "startTime": 41837,
+        "endTime": 44257,
+        "slowStartTime": 62905,
+        "slowEndTime": 66611
+    },
+    {
+        "text": "They purport to extract free energy from the universe somehow.",
+        "startTime": 44693,
+        "endTime": 49433,
+        "slowStartTime": 67190,
+        "slowEndTime": 74375
+    },
+    {
+        "text": "The patent office of the United States government was so besieged...",
+        "startTime": 49859,
+        "endTime": 54278,
+        "slowStartTime": 74938,
+        "slowEndTime": 81642
+    },
+    {
+        "text": "...by applications for these things that finally they said,...",
+        "startTime": 54449,
+        "endTime": 57142,
+        "slowStartTime": 81824,
+        "slowEndTime": 85938
+    },
+    {
+        "text": "...\"no more, stop bothering us unless you can bring us a working model...",
+        "startTime": 57540,
+        "endTime": 61865,
+        "slowStartTime": 86460,
+        "slowEndTime": 93023
+    },
+    {
+        "text": "...that you can park out in our outer office...",
+        "startTime": 61969,
+        "endTime": 64093,
+        "slowStartTime": 93104,
+        "slowEndTime": 96365
+    },
+    {
+        "text": "...where it will run for one year, with no intervention.\"",
+        "startTime": 64355,
+        "endTime": 67401,
+        "slowStartTime": 96683,
+        "slowEndTime": 101327
+    },
+    {
+        "text": "And since then, applications have been way down.",
+        "startTime": 67490,
+        "endTime": 70201,
+        "slowStartTime": 101385,
+        "slowEndTime": 105527
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Oh boy, a banquet!",
+        "startTime": 3010,
+        "endTime": 4341,
+        "slowStartTime": 4665,
+        "slowEndTime": 6736
+    },
+    {
+        "text": "Baked ham, sweet potatoes, cranberry sauce, corn.",
+        "startTime": 4799,
+        "endTime": 9238,
+        "slowStartTime": 7349,
+        "slowEndTime": 14082
+    },
+    {
+        "text": "What's this?",
+        "startTime": 9819,
+        "endTime": 10492,
+        "slowStartTime": 14879,
+        "slowEndTime": 15963
+    },
+    {
+        "text": "It appears to be of the crescent roll family.",
+        "startTime": 12065,
+        "endTime": 14763,
+        "slowStartTime": 18247,
+        "slowEndTime": 22370
+    },
+    {
+        "text": "A true gourmet never shies away from a new taste treat.",
+        "startTime": 15593,
+        "endTime": 18977,
+        "slowStartTime": 23539,
+        "slowEndTime": 28691
+    },
+    {
+        "text": "A bit on the dry side.",
+        "startTime": 24709,
+        "endTime": 26026,
+        "slowStartTime": 37213,
+        "slowEndTime": 39264
+    },
+    {
+        "text": "Flavor is a bit subtle.",
+        "startTime": 26569,
+        "endTime": 27943,
+        "slowStartTime": 40004,
+        "slowEndTime": 42140
+    },
+    {
+        "text": "Garfield, have you seen my sweat socks?",
+        "startTime": 28074,
+        "endTime": 30108,
+        "slowStartTime": 42261,
+        "slowEndTime": 45387
+    }
+]

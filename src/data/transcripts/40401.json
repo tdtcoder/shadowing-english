@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Do you like coffee?",
+        "startTime": 1077,
+        "endTime": 1812,
+        "slowStartTime": 1765,
+        "slowEndTime": 2943
+    },
+    {
+        "text": "Coffee?",
+        "startTime": 2380,
+        "endTime": 2955,
+        "slowStartTime": 3720,
+        "slowEndTime": 4657
+    },
+    {
+        "text": "Not really.",
+        "startTime": 3520,
+        "endTime": 4149,
+        "slowStartTime": 5430,
+        "slowEndTime": 6449
+    },
+    {
+        "text": "Oh, really?",
+        "startTime": 5971,
+        "endTime": 6538,
+        "slowStartTime": 9107,
+        "slowEndTime": 10032
+    },
+    {
+        "text": "What do you like?",
+        "startTime": 6643,
+        "endTime": 7127,
+        "slowStartTime": 10114,
+        "slowEndTime": 10915
+    },
+    {
+        "text": "I like tea.",
+        "startTime": 7829,
+        "endTime": 8468,
+        "slowStartTime": 11893,
+        "slowEndTime": 12927
+    },
+    {
+        "text": "Do you like tea with milk and sugar?",
+        "startTime": 9669,
+        "endTime": 11273,
+        "slowStartTime": 14654,
+        "slowEndTime": 17134
+    },
+    {
+        "text": "No, I don't like sweet drinks.",
+        "startTime": 11861,
+        "endTime": 13318,
+        "slowStartTime": 17942,
+        "slowEndTime": 20202
+    },
+    {
+        "text": "I like tea with no milk and no sugar.",
+        "startTime": 13708,
+        "endTime": 16020,
+        "slowStartTime": 20712,
+        "slowEndTime": 24255
+    },
+    {
+        "text": "That's easy.",
+        "startTime": 16413,
+        "endTime": 17347,
+        "slowStartTime": 24769,
+        "slowEndTime": 26245
+    },
+    {
+        "text": "What do you like in the morning?",
+        "startTime": 18589,
+        "endTime": 19685,
+        "slowStartTime": 28033,
+        "slowEndTime": 29753
+    },
+    {
+        "text": "I like coffee.",
+        "startTime": 20579,
+        "endTime": 21488,
+        "slowStartTime": 31018,
+        "slowEndTime": 32457
+    },
+    {
+        "text": "Black?",
+        "startTime": 22030,
+        "endTime": 22570,
+        "slowStartTime": 33195,
+        "slowEndTime": 34080
+    },
+    {
+        "text": "No.",
+        "startTime": 23197,
+        "endTime": 23392,
+        "slowStartTime": 34946,
+        "slowEndTime": 35313
+    },
+    {
+        "text": "I like sweet drinks.",
+        "startTime": 23493,
+        "endTime": 24411,
+        "slowStartTime": 35390,
+        "slowEndTime": 36841
+    },
+    {
+        "text": "I like coffee with milk and sugar.",
+        "startTime": 24689,
+        "endTime": 26697,
+        "slowStartTime": 37184,
+        "slowEndTime": 40271
+    }
+]

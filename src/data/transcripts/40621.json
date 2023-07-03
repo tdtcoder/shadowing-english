@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Excuse me.",
+        "startTime": 2464,
+        "endTime": 3637,
+        "slowStartTime": 3846,
+        "slowEndTime": 5681
+    },
+    {
+        "text": "Can you tell me how to get to the shopping area from here?",
+        "startTime": 4161,
+        "endTime": 7456,
+        "slowStartTime": 6391,
+        "slowEndTime": 11409
+    },
+    {
+        "text": "Sure.",
+        "startTime": 7927,
+        "endTime": 8616,
+        "slowStartTime": 12041,
+        "slowEndTime": 13149
+    },
+    {
+        "text": "Go straight down the street.",
+        "startTime": 9210,
+        "endTime": 10740,
+        "slowStartTime": 13965,
+        "slowEndTime": 16335
+    },
+    {
+        "text": "OK.",
+        "startTime": 12016,
+        "endTime": 12577,
+        "slowStartTime": 18174,
+        "slowEndTime": 19090
+    },
+    {
+        "text": "Straight down this street.",
+        "startTime": 12804,
+        "endTime": 14483,
+        "slowStartTime": 19356,
+        "slowEndTime": 21950
+    },
+    {
+        "text": "Turn left at the second traffic light.",
+        "startTime": 15123,
+        "endTime": 17069,
+        "slowStartTime": 22835,
+        "slowEndTime": 25829
+    },
+    {
+        "text": "Okay.",
+        "startTime": 17830,
+        "endTime": 18317,
+        "slowStartTime": 26895,
+        "slowEndTime": 27700
+    },
+    {
+        "text": "Straight down this street and turn left at the second traffic light.",
+        "startTime": 18525,
+        "endTime": 22629,
+        "slowStartTime": 27937,
+        "slowEndTime": 34168
+    },
+    {
+        "text": "You will see the police station on your left.",
+        "startTime": 23013,
+        "endTime": 25245,
+        "slowStartTime": 34669,
+        "slowEndTime": 38093
+    },
+    {
+        "text": "Okay, got it.",
+        "startTime": 25809,
+        "endTime": 27098,
+        "slowStartTime": 38863,
+        "slowEndTime": 40872
+    },
+    {
+        "text": "Right next to the police station, you will see a large blue building.",
+        "startTime": 27437,
+        "endTime": 31315,
+        "slowStartTime": 41305,
+        "slowEndTime": 47198
+    },
+    {
+        "text": "Okay.",
+        "startTime": 31740,
+        "endTime": 32094,
+        "slowStartTime": 47760,
+        "slowEndTime": 48366
+    },
+    {
+        "text": "A large blue building.",
+        "startTime": 32304,
+        "endTime": 33875,
+        "slowStartTime": 48606,
+        "slowEndTime": 51037
+    },
+    {
+        "text": "That's Blue Note Shopping Center.",
+        "startTime": 34329,
+        "endTime": 36115,
+        "slowStartTime": 51644,
+        "slowEndTime": 54397
+    },
+    {
+        "text": "Thank you so much.",
+        "startTime": 36892,
+        "endTime": 37891,
+        "slowStartTime": 55488,
+        "slowEndTime": 57061
+    },
+    {
+        "text": "I really appreciate it.",
+        "startTime": 38157,
+        "endTime": 39696,
+        "slowStartTime": 57386,
+        "slowEndTime": 59769
+    }
+]

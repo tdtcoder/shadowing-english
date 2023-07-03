@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Cats love boxes because they're cryptic animals.",
+        "startTime": 6201,
+        "endTime": 8277,
+        "slowStartTime": 9452,
+        "slowEndTime": 12640
+    },
+    {
+        "text": "They like to hide, and a box gives them a place of safety and security.",
+        "startTime": 8375,
+        "endTime": 11711,
+        "slowStartTime": 12712,
+        "slowEndTime": 17791
+    },
+    {
+        "text": "They can get into that box...",
+        "startTime": 12038,
+        "endTime": 13167,
+        "slowStartTime": 18207,
+        "slowEndTime": 19975
+    },
+    {
+        "text": "...and they can't be approached from the side or the back where they're not aware of it.",
+        "startTime": 17415,
+        "endTime": 20969,
+        "slowStartTime": 26273,
+        "slowEndTime": 31678
+    },
+    {
+        "text": "The other thing is they can sit in that box, feeling safe,...",
+        "startTime": 21224,
+        "endTime": 23372,
+        "slowStartTime": 31986,
+        "slowEndTime": 35283
+    },
+    {
+        "text": "...and they can watch the world go around in front of them.",
+        "startTime": 23471,
+        "endTime": 25499,
+        "slowStartTime": 35357,
+        "slowEndTime": 38474
+    },
+    {
+        "text": "And if something interesting comes by, they can dash out.",
+        "startTime": 25903,
+        "endTime": 28262,
+        "slowStartTime": 39004,
+        "slowEndTime": 42618
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "text": "And though he's got no time to spare,...",
+        "startTime": 2397,
+        "endTime": 6049,
+        "slowStartTime": 3745,
+        "slowEndTime": 9299
+    },
+    {
+        "text": "...the stranger's gonna help you climb each stair.",
+        "startTime": 6297,
+        "endTime": 10086,
+        "slowStartTime": 9596,
+        "slowEndTime": 15354
+    },
+    {
+        "text": "And in case you're feeling down,...",
+        "startTime": 10313,
+        "endTime": 13867,
+        "slowStartTime": 15619,
+        "slowEndTime": 21025
+    },
+    {
+        "text": "...today the businessman will be your clown.",
+        "startTime": 14019,
+        "endTime": 17963,
+        "slowStartTime": 21178,
+        "slowEndTime": 27169
+    },
+    {
+        "text": "Drivers will slow down for you.",
+        "startTime": 18154,
+        "endTime": 21695,
+        "slowStartTime": 27381,
+        "slowEndTime": 32768
+    },
+    {
+        "text": "Pets are gonna be extra careful too.",
+        "startTime": 21977,
+        "endTime": 25611,
+        "slowStartTime": 33115,
+        "slowEndTime": 38641
+    },
+    {
+        "text": "Guards will try to make you laugh.",
+        "startTime": 25753,
+        "endTime": 29479,
+        "slowStartTime": 38779,
+        "slowEndTime": 44444
+    },
+    {
+        "text": "Workers will pause on your behalf.",
+        "startTime": 29795,
+        "endTime": 33431,
+        "slowStartTime": 44843,
+        "slowEndTime": 50371
+    },
+    {
+        "text": "And though it seems it's almost done,...",
+        "startTime": 36909,
+        "endTime": 40667,
+        "slowStartTime": 55513,
+        "slowEndTime": 61226
+    },
+    {
+        "text": "...this lullaby for you has just begun.",
+        "startTime": 41021,
+        "endTime": 46235,
+        "slowStartTime": 61682,
+        "slowEndTime": 69577
+    },
+    {
+        "text": "Hush, hush now you know it's true,...",
+        "startTime": 48519,
+        "endTime": 52494,
+        "slowStartTime": 72928,
+        "slowEndTime": 78966
+    },
+    {
+        "text": "...there is nothing we wouldn't do.",
+        "startTime": 54761,
+        "endTime": 59055,
+        "slowStartTime": 82291,
+        "slowEndTime": 88808
+    }
+]

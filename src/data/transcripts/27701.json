@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Wise men say...",
+        "startTime": 3214,
+        "endTime": 7524,
+        "slowStartTime": 4971,
+        "slowEndTime": 11511
+    },
+    {
+        "text": "...only fools rush in.",
+        "startTime": 9614,
+        "endTime": 14036,
+        "slowStartTime": 14571,
+        "slowEndTime": 21279
+    },
+    {
+        "text": "But I can't help falling in love with you.",
+        "startTime": 16789,
+        "endTime": 27658,
+        "slowStartTime": 25333,
+        "slowEndTime": 41712
+    },
+    {
+        "text": "Shall I stay?",
+        "startTime": 30263,
+        "endTime": 34735,
+        "slowStartTime": 45544,
+        "slowEndTime": 52328
+    },
+    {
+        "text": "Would it be a sin...",
+        "startTime": 36722,
+        "endTime": 41178,
+        "slowStartTime": 55233,
+        "slowEndTime": 61992
+    },
+    {
+        "text": "...if I can't help falling in love with you?",
+        "startTime": 43928,
+        "endTime": 54746,
+        "slowStartTime": 66042,
+        "slowEndTime": 82344
+    }
+]

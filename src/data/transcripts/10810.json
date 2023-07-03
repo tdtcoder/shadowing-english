@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Your father was a visionary.",
+        "startTime": 1200,
+        "endTime": 3000,
+        "slowStartTime": 2000,
+        "slowEndTime": 4700
+    },
+    {
+        "text": "What did he see?",
+        "startTime": 3650,
+        "endTime": 4350,
+        "slowStartTime": 5700,
+        "slowEndTime": 6700
+    },
+    {
+        "text": "That kings have a need of their subjects.",
+        "startTime": 6650,
+        "endTime": 9350,
+        "slowStartTime": 10200,
+        "slowEndTime": 14200
+    },
+    {
+        "text": "The dangers are near.",
+        "startTime": 10700,
+        "endTime": 12000,
+        "slowStartTime": 16200,
+        "slowEndTime": 18350
+    },
+    {
+        "text": "You are your father's son.",
+        "startTime": 14000,
+        "endTime": 15400,
+        "slowStartTime": 21200,
+        "slowEndTime": 23300
+    },
+    {
+        "text": "The laws of this land enslave people to its king.",
+        "startTime": 17450,
+        "endTime": 21050,
+        "slowStartTime": 26400,
+        "slowEndTime": 31800
+    },
+    {
+        "text": "For that incitement to cause unrest,...",
+        "startTime": 22900,
+        "endTime": 24800,
+        "slowStartTime": 34600,
+        "slowEndTime": 37560
+    },
+    {
+        "text": "...I declare him an outlaw!",
+        "startTime": 25200,
+        "endTime": 27700,
+        "slowStartTime": 38000,
+        "slowEndTime": 41700
+    },
+    {
+        "text": "Are you ready to be who you are?",
+        "startTime": 29700,
+        "endTime": 31850,
+        "slowStartTime": 44800,
+        "slowEndTime": 48000
+    },
+    {
+        "text": "Yes.",
+        "startTime": 32200,
+        "endTime": 32600,
+        "slowStartTime": 48500,
+        "slowEndTime": 49100
+    },
+    {
+        "text": "What we ask for is liberty by law!",
+        "startTime": 38500,
+        "endTime": 41750,
+        "slowStartTime": 58000,
+        "slowEndTime": 62800
+    }
+]

@@ -1,0 +1,219 @@
+[
+    {
+        "text": "You are amazing at your job,...",
+        "startTime": 50,
+        "endTime": 1495,
+        "slowStartTime": 214,
+        "slowEndTime": 2468
+    },
+    {
+        "text": "...and so one day you had an epiphany.",
+        "startTime": 2659,
+        "endTime": 4093,
+        "slowStartTime": 4139,
+        "slowEndTime": 6365
+    },
+    {
+        "text": "Why am I working for some other dude who I don't even like that much...",
+        "startTime": 4550,
+        "endTime": 7695,
+        "slowStartTime": 6975,
+        "slowEndTime": 11767
+    },
+    {
+        "text": "...when I can start my own business?",
+        "startTime": 7974,
+        "endTime": 9559,
+        "slowStartTime": 12111,
+        "slowEndTime": 14563
+    },
+    {
+        "text": "Congratulations!",
+        "startTime": 9893,
+        "endTime": 10853,
+        "slowStartTime": 14989,
+        "slowEndTime": 16504
+    },
+    {
+        "text": "You're an entrepreneur.",
+        "startTime": 11046,
+        "endTime": 12031,
+        "slowStartTime": 16719,
+        "slowEndTime": 18271
+    },
+    {
+        "text": "Wait, hold it right there, muchacho.",
+        "startTime": 12723,
+        "endTime": 14375,
+        "slowStartTime": 19234,
+        "slowEndTime": 21788
+    },
+    {
+        "text": "Starting a business doesn't actually make you an entrepreneur.",
+        "startTime": 14617,
+        "endTime": 17139,
+        "slowStartTime": 22075,
+        "slowEndTime": 25934
+    },
+    {
+        "text": "And like many so-called entrepreneurs,...",
+        "startTime": 17507,
+        "endTime": 19392,
+        "slowStartTime": 26411,
+        "slowEndTime": 29313
+    },
+    {
+        "text": "...you'll soon find yourself working 15-hour days.",
+        "startTime": 19693,
+        "endTime": 22037,
+        "slowStartTime": 29689,
+        "slowEndTime": 33281
+    },
+    {
+        "text": "You'll be hiring the wrong people...",
+        "startTime": 22389,
+        "endTime": 23789,
+        "slowStartTime": 33734,
+        "slowEndTime": 35909
+    },
+    {
+        "text": "...and getting frustrated trying to manage them.",
+        "startTime": 23970,
+        "endTime": 25688,
+        "slowStartTime": 36105,
+        "slowEndTime": 38757
+    },
+    {
+        "text": "And you won't know how to fix the systems that make a great business grow.",
+        "startTime": 26301,
+        "endTime": 29168,
+        "slowStartTime": 39602,
+        "slowEndTime": 43977
+    },
+    {
+        "text": "Suddenly, you realize you didn't create a business.",
+        "startTime": 29663,
+        "endTime": 31787,
+        "slowStartTime": 44645,
+        "slowEndTime": 47905
+    },
+    {
+        "text": "You really just created yourself a new job,...",
+        "startTime": 32016,
+        "endTime": 33956,
+        "slowStartTime": 48174,
+        "slowEndTime": 51159
+    },
+    {
+        "text": "...and this new job kinda sucks.",
+        "startTime": 34333,
+        "endTime": 36082,
+        "slowStartTime": 51650,
+        "slowEndTime": 54348
+    },
+    {
+        "text": "Here's the problem.",
+        "startTime": 36719,
+        "endTime": 37389,
+        "slowStartTime": 55228,
+        "slowEndTime": 56309
+    },
+    {
+        "text": "The first thing you should have asked yourself is:...",
+        "startTime": 37693,
+        "endTime": 39374,
+        "slowStartTime": 56689,
+        "slowEndTime": 59286
+    },
+    {
+        "text": "...\"Am I actually an entrepreneur?\"",
+        "startTime": 39543,
+        "endTime": 41057,
+        "slowStartTime": 59464,
+        "slowEndTime": 61811
+    },
+    {
+        "text": "Because not everyone is.",
+        "startTime": 41529,
+        "endTime": 43011,
+        "slowStartTime": 62444,
+        "slowEndTime": 64741
+    },
+    {
+        "text": "Yeah, see, people generally fall into one of three buckets.",
+        "startTime": 43518,
+        "endTime": 46351,
+        "slowStartTime": 65427,
+        "slowEndTime": 69752
+    },
+    {
+        "text": "Technicians, people who are good at doing the work,...",
+        "startTime": 46809,
+        "endTime": 49269,
+        "slowStartTime": 70364,
+        "slowEndTime": 74129
+    },
+    {
+        "text": "...managers, people who are good at managing the systems people work in,...",
+        "startTime": 49757,
+        "endTime": 53157,
+        "slowStartTime": 74785,
+        "slowEndTime": 79960
+    },
+    {
+        "text": "...and entrepreneurs, people who love building new opportunities out of, well, nothing.",
+        "startTime": 53644,
+        "endTime": 58273,
+        "slowStartTime": 80616,
+        "slowEndTime": 87634
+    },
+    {
+        "text": "Now, most people fall into the first two categories, right?",
+        "startTime": 58759,
+        "endTime": 62001,
+        "slowStartTime": 88288,
+        "slowEndTime": 93227
+    },
+    {
+        "text": "Like take Mike for example.",
+        "startTime": 62213,
+        "endTime": 63358,
+        "slowStartTime": 93469,
+        "slowEndTime": 95262
+    },
+    {
+        "text": "The reason Mike wanted his own shop was because he was a great cupcake baker.",
+        "startTime": 63851,
+        "endTime": 67278,
+        "slowStartTime": 95926,
+        "slowEndTime": 101142
+    },
+    {
+        "text": "But then he found out a very hard lesson.",
+        "startTime": 67841,
+        "endTime": 69637,
+        "slowStartTime": 101912,
+        "slowEndTime": 104680
+    },
+    {
+        "text": "When a technician tries to be a manager or an entrepreneur, it just doesn't work.",
+        "startTime": 70197,
+        "endTime": 73895,
+        "slowStartTime": 105446,
+        "slowEndTime": 111068
+    },
+    {
+        "text": "So if you want to start a business, first decide what kind of person are you,...",
+        "startTime": 74530,
+        "endTime": 77777,
+        "slowStartTime": 111945,
+        "slowEndTime": 116890
+    },
+    {
+        "text": "...then find partners who can help you in the other areas.",
+        "startTime": 78293,
+        "endTime": 81017,
+        "slowStartTime": 117589,
+        "slowEndTime": 121750
+    }
+]

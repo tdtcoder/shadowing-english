@@ -1,0 +1,184 @@
+[
+    {
+        "text": "Frank!",
+        "startTime": 6376,
+        "endTime": 7066,
+        "slowStartTime": 9714,
+        "slowEndTime": 10824
+    },
+    {
+        "text": "What are you doing here?",
+        "startTime": 7951,
+        "endTime": 8565,
+        "slowStartTime": 12076,
+        "slowEndTime": 13073
+    },
+    {
+        "text": "Kemosabe, I need you, they're coming.",
+        "startTime": 8885,
+        "endTime": 11205,
+        "slowStartTime": 13478,
+        "slowEndTime": 17032
+    },
+    {
+        "text": "I can feel it.",
+        "startTime": 11515,
+        "endTime": 12204,
+        "slowStartTime": 17423,
+        "slowEndTime": 18531
+    },
+    {
+        "text": "Look, I'm retired, okay?",
+        "startTime": 12457,
+        "endTime": 14024,
+        "slowStartTime": 18835,
+        "slowEndTime": 21261
+    },
+    {
+        "text": "I'm happy, we are happy.",
+        "startTime": 14102,
+        "endTime": 15816,
+        "slowStartTime": 21303,
+        "slowEndTime": 23949
+    },
+    {
+        "text": "You haven't killed anybody in months.",
+        "startTime": 16022,
+        "endTime": 18312,
+        "slowStartTime": 24183,
+        "slowEndTime": 27693
+    },
+    {
+        "text": "That's a positive thing.",
+        "startTime": 18383,
+        "endTime": 19259,
+        "slowStartTime": 27724,
+        "slowEndTime": 29114
+    },
+    {
+        "text": "If it makes you feel better, bring the girl.",
+        "startTime": 19426,
+        "endTime": 21653,
+        "slowStartTime": 29289,
+        "slowEndTime": 32705
+    },
+    {
+        "text": "Not bringing the girl.",
+        "startTime": 21937,
+        "endTime": 23345,
+        "slowStartTime": 33055,
+        "slowEndTime": 35242
+    },
+    {
+        "text": "Don't bring the girl where?",
+        "startTime": 24257,
+        "endTime": 25028,
+        "slowStartTime": 36536,
+        "slowEndTime": 37767
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 31169,
+        "endTime": 31307,
+        "slowStartTime": 46904,
+        "slowEndTime": 47186
+    },
+    {
+        "text": "MI6 has just given me a contract to kill you.",
+        "startTime": 31593,
+        "endTime": 33783,
+        "slowStartTime": 47539,
+        "slowEndTime": 50899
+    },
+    {
+        "text": "Apparently you're number one on Interpol's most wanted.",
+        "startTime": 33861,
+        "endTime": 36653,
+        "slowStartTime": 50942,
+        "slowEndTime": 55204
+    },
+    {
+        "text": "What did you say?",
+        "startTime": 36955,
+        "endTime": 37540,
+        "slowStartTime": 55583,
+        "slowEndTime": 56535
+    },
+    {
+        "text": "It's important to enjoy life while you still can.",
+        "startTime": 40076,
+        "endTime": 42406,
+        "slowStartTime": 60264,
+        "slowEndTime": 63834
+    },
+    {
+        "text": "Please tell me that's a stick of dynamite in your pocket.",
+        "startTime": 50170,
+        "endTime": 52155,
+        "slowStartTime": 75405,
+        "slowEndTime": 78458
+    },
+    {
+        "text": "I'm saving it for emergency.",
+        "startTime": 52245,
+        "endTime": 54012,
+        "slowStartTime": 78517,
+        "slowEndTime": 81243
+    },
+    {
+        "text": "Well, this is kind of an emergency, isn't it?",
+        "startTime": 56853,
+        "endTime": 58662,
+        "slowStartTime": 85430,
+        "slowEndTime": 88218
+    },
+    {
+        "text": "Hello, Frank.",
+        "startTime": 75255,
+        "endTime": 76080,
+        "slowStartTime": 113033,
+        "slowEndTime": 114345
+    },
+    {
+        "text": "I've missed you.",
+        "startTime": 76335,
+        "endTime": 77034,
+        "slowStartTime": 114653,
+        "slowEndTime": 115776
+    },
+    {
+        "text": "How are things?",
+        "startTime": 79852,
+        "endTime": 80607,
+        "slowStartTime": 119928,
+        "slowEndTime": 121135
+    },
+    {
+        "text": "Yeah, Frank, how are things?",
+        "startTime": 80677,
+        "endTime": 82709,
+        "slowStartTime": 121166,
+        "slowEndTime": 124289
+    },
+    {
+        "text": "Help!",
+        "startTime": 86799,
+        "endTime": 87815,
+        "slowStartTime": 130348,
+        "slowEndTime": 131947
+    },
+    {
+        "text": "Is there a human being in the trunk?",
+        "startTime": 91219,
+        "endTime": 93794,
+        "slowStartTime": 136978,
+        "slowEndTime": 140916
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 94921,
+        "endTime": 94990,
+        "slowStartTime": 142532,
+        "slowEndTime": 142700
+    }
+]

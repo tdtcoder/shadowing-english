@@ -1,0 +1,79 @@
+[
+    {
+        "text": "﻿I'm a little snowman.",
+        "startTime": 71,
+        "endTime": 2027,
+        "slowStartTime": 257,
+        "slowEndTime": 3266
+    },
+    {
+        "text": "Look at me.",
+        "startTime": 2409,
+        "endTime": 3917,
+        "slowStartTime": 3763,
+        "slowEndTime": 6100
+    },
+    {
+        "text": "These are my buttons, one, two, three.",
+        "startTime": 4747,
+        "endTime": 8471,
+        "slowStartTime": 7270,
+        "slowEndTime": 12932
+    },
+    {
+        "text": "These are my eyes and this is my nose.",
+        "startTime": 9422,
+        "endTime": 13381,
+        "slowStartTime": 14283,
+        "slowEndTime": 20297
+    },
+    {
+        "text": "I wear a hat and scarf.",
+        "startTime": 14066,
+        "endTime": 16054,
+        "slowStartTime": 21249,
+        "slowEndTime": 24306
+    },
+    {
+        "text": "It's cold!",
+        "startTime": 16913,
+        "endTime": 17977,
+        "slowStartTime": 25519,
+        "slowEndTime": 27190
+    },
+    {
+        "text": "I'm a little snowman, look at me.",
+        "startTime": 23405,
+        "endTime": 27210,
+        "slowStartTime": 35257,
+        "slowEndTime": 41040
+    },
+    {
+        "text": "These are my buttons, one, two, three.",
+        "startTime": 28057,
+        "endTime": 31825,
+        "slowStartTime": 42236,
+        "slowEndTime": 47962
+    },
+    {
+        "text": "These are my eyes and this is my nose.",
+        "startTime": 32725,
+        "endTime": 36633,
+        "slowStartTime": 49238,
+        "slowEndTime": 55175
+    },
+    {
+        "text": "I wear a hat and scarf.",
+        "startTime": 37386,
+        "endTime": 39363,
+        "slowStartTime": 56229,
+        "slowEndTime": 59270
+    },
+    {
+        "text": "It's cold!",
+        "startTime": 40301,
+        "endTime": 41463,
+        "slowStartTime": 60601,
+        "slowEndTime": 62419
+    }
+]

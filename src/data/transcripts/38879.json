@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Hey! Thanks for joining me, everyone.",
+        "startTime": 197,
+        "endTime": 1542,
+        "slowStartTime": 446,
+        "slowEndTime": 2538
+    },
+    {
+        "text": "Today, I'd like to start outlining the best way to merge our two engineering teams.",
+        "startTime": 2037,
+        "endTime": 6253,
+        "slowStartTime": 3206,
+        "slowEndTime": 9604
+    },
+    {
+        "text": "You know, we both follow Agile.",
+        "startTime": 6500,
+        "endTime": 7837,
+        "slowStartTime": 9900,
+        "slowEndTime": 11980
+    },
+    {
+        "text": "We use Jira but everybody uses Agile just a little differently.",
+        "startTime": 7912,
+        "endTime": 11678,
+        "slowStartTime": 12018,
+        "slowEndTime": 17742
+    },
+    {
+        "text": "Now, Karen, I've taken a look at your active sprint and it seems super organized.",
+        "startTime": 12185,
+        "endTime": 15275,
+        "slowStartTime": 18427,
+        "slowEndTime": 23138
+    },
+    {
+        "text": "It's really impressive.",
+        "startTime": 15375,
+        "endTime": 16209,
+        "slowStartTime": 23212,
+        "slowEndTime": 24538
+    },
+    {
+        "text": "Would you mind taking a moment to tell us about your sprint planning...",
+        "startTime": 17139,
+        "endTime": 20060,
+        "slowStartTime": 25858,
+        "slowEndTime": 30315
+    },
+    {
+        "text": "...and a little bit more about your Agile process.",
+        "startTime": 20156,
+        "endTime": 22347,
+        "slowStartTime": 30384,
+        "slowEndTime": 33746
+    },
+    {
+        "text": "Oh, sure.",
+        "startTime": 22963,
+        "endTime": 23872,
+        "slowStartTime": 34595,
+        "slowEndTime": 36033
+    },
+    {
+        "text": "Of course.",
+        "startTime": 24035,
+        "endTime": 24819,
+        "slowStartTime": 36203,
+        "slowEndTime": 37454
+    },
+    {
+        "text": "Let me start with my philosophy on Agile.",
+        "startTime": 27115,
+        "endTime": 32502,
+        "slowStartTime": 40823,
+        "slowEndTime": 48978
+    },
+    {
+        "text": "I really try to be customer-focused and make sure every sprint...",
+        "startTime": 32836,
+        "endTime": 36927,
+        "slowStartTime": 49404,
+        "slowEndTime": 55616
+    },
+    {
+        "text": "...is packed with stories based on real user feedback.",
+        "startTime": 37043,
+        "endTime": 40316,
+        "slowStartTime": 55715,
+        "slowEndTime": 60699
+    },
+    {
+        "text": "Our starting point...",
+        "startTime": 40444,
+        "endTime": 41344,
+        "slowStartTime": 60816,
+        "slowEndTime": 62241
+    }
+]

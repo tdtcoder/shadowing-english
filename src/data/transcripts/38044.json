@@ -1,0 +1,226 @@
+[
+    {
+        "text": "Autocomplete is a feature within Google search...",
+        "startTime": 3397,
+        "endTime": 5687,
+        "slowStartTime": 5246,
+        "slowEndTime": 8755
+    },
+    {
+        "text": "...designed to make it faster to complete searches you're beginning to type.",
+        "startTime": 5788,
+        "endTime": 8789,
+        "slowStartTime": 8832,
+        "slowEndTime": 13409
+    },
+    {
+        "text": "We created it to help save people time, which it definitely does.",
+        "startTime": 9138,
+        "endTime": 13371,
+        "slowStartTime": 13857,
+        "slowEndTime": 20281
+    },
+    {
+        "text": "On average, Autocomplete reduces typing by about 25 percent.",
+        "startTime": 13709,
+        "endTime": 17560,
+        "slowStartTime": 20713,
+        "slowEndTime": 26565
+    },
+    {
+        "text": "How it works, at a very basic level,...",
+        "startTime": 18291,
+        "endTime": 20342,
+        "slowStartTime": 27587,
+        "slowEndTime": 30738
+    },
+    {
+        "text": "...is by looking at what you're starting to type in the search bar,...",
+        "startTime": 20507,
+        "endTime": 22979,
+        "slowStartTime": 30911,
+        "slowEndTime": 34694
+    },
+    {
+        "text": "...sorting through trillions of past Google searches...",
+        "startTime": 23281,
+        "endTime": 25854,
+        "slowStartTime": 35071,
+        "slowEndTime": 39006
+    },
+    {
+        "text": "...to find ones that include the letters you just typed,...",
+        "startTime": 25930,
+        "endTime": 28303,
+        "slowStartTime": 39045,
+        "slowEndTime": 42679
+    },
+    {
+        "text": "...then displaying some of the most common ones.",
+        "startTime": 28875,
+        "endTime": 31061,
+        "slowStartTime": 43462,
+        "slowEndTime": 46817
+    },
+    {
+        "text": "So, what you see in Autocomplete...",
+        "startTime": 32054,
+        "endTime": 33663,
+        "slowStartTime": 48231,
+        "slowEndTime": 50720
+    },
+    {
+        "text": "...are predictions based on lots of data about how people search.",
+        "startTime": 33758,
+        "endTime": 37143,
+        "slowStartTime": 50787,
+        "slowEndTime": 55939
+    },
+    {
+        "text": "That's why the first queries you typically see are your own past searches,...",
+        "startTime": 37871,
+        "endTime": 41661,
+        "slowStartTime": 56957,
+        "slowEndTime": 62717
+    },
+    {
+        "text": "...because data tell us users tend to repeat them.",
+        "startTime": 41958,
+        "endTime": 44402,
+        "slowStartTime": 63087,
+        "slowEndTime": 66828
+    },
+    {
+        "text": "Those predictions are indicated by a clock icon.",
+        "startTime": 44741,
+        "endTime": 47083,
+        "slowStartTime": 67262,
+        "slowEndTime": 70850
+    },
+    {
+        "text": "And you can delete them right in the search bar,...",
+        "startTime": 47303,
+        "endTime": 49085,
+        "slowStartTime": 71104,
+        "slowEndTime": 73853
+    },
+    {
+        "text": "...or you can visit your Google Account page.",
+        "startTime": 49333,
+        "endTime": 51429,
+        "slowStartTime": 74149,
+        "slowEndTime": 77368
+    },
+    {
+        "text": "Another thing to know is that a common query...",
+        "startTime": 52514,
+        "endTime": 54803,
+        "slowStartTime": 78921,
+        "slowEndTime": 82429
+    },
+    {
+        "text": "...in one part of the world may not be so common in another.",
+        "startTime": 54905,
+        "endTime": 57944,
+        "slowStartTime": 82507,
+        "slowEndTime": 87141
+    },
+    {
+        "text": "That's why Autocomplete considers location,...",
+        "startTime": 58738,
+        "endTime": 60855,
+        "slowStartTime": 88257,
+        "slowEndTime": 91508
+    },
+    {
+        "text": "...as well as the language being used, when displaying predictions.",
+        "startTime": 61067,
+        "endTime": 63991,
+        "slowStartTime": 91751,
+        "slowEndTime": 96211
+    },
+    {
+        "text": "Autocomplete also takes into account what searches have been trending,...",
+        "startTime": 64621,
+        "endTime": 67729,
+        "slowStartTime": 97082,
+        "slowEndTime": 101819
+    },
+    {
+        "text": "...which is why queries related to the news or recent events...",
+        "startTime": 68085,
+        "endTime": 71159,
+        "slowStartTime": 102277,
+        "slowEndTime": 106963
+    },
+    {
+        "text": "...may move up the list of predictions when relevant.",
+        "startTime": 71300,
+        "endTime": 73320,
+        "slowStartTime": 107100,
+        "slowEndTime": 110205
+    },
+    {
+        "text": "The last thing Autocomplete factors in is what you won't see,...",
+        "startTime": 74049,
+        "endTime": 77262,
+        "slowStartTime": 111224,
+        "slowEndTime": 116118
+    },
+    {
+        "text": "...predictions identified as inappropriate, harmful, or otherwise against our policies.",
+        "startTime": 77714,
+        "endTime": 83339,
+        "slowStartTime": 116721,
+        "slowEndTime": 125234
+    },
+    {
+        "text": "We don't stop anyone from searching for whatever they want.",
+        "startTime": 83768,
+        "endTime": 86467,
+        "slowStartTime": 125802,
+        "slowEndTime": 129925
+    },
+    {
+        "text": "We've simply designed policies so people won't be unintentionally surprised,...",
+        "startTime": 86723,
+        "endTime": 90931,
+        "slowStartTime": 130235,
+        "slowEndTime": 136622
+    },
+    {
+        "text": "...shocked, or otherwise shown unhelpful predictions in Autocomplete,...",
+        "startTime": 91109,
+        "endTime": 94963,
+        "slowStartTime": 136814,
+        "slowEndTime": 142669
+    },
+    {
+        "text": "...because Autocomplete has always been about getting you...",
+        "startTime": 95440,
+        "endTime": 98135,
+        "slowStartTime": 143310,
+        "slowEndTime": 147428
+    },
+    {
+        "text": "...to what you're really looking for quicker.",
+        "startTime": 98244,
+        "endTime": 100285,
+        "slowStartTime": 147516,
+        "slowEndTime": 150652
+    },
+    {
+        "text": "And with billions of searches being completed every day,...",
+        "startTime": 100689,
+        "endTime": 103242,
+        "slowStartTime": 151184,
+        "slowEndTime": 155088
+    },
+    {
+        "text": "...our predictions will keep getting better, getting you to results even faster.",
+        "startTime": 103672,
+        "endTime": 108322,
+        "slowStartTime": 155658,
+        "slowEndTime": 162708
+    }
+]

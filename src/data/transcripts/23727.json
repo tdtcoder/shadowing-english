@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Please tell me your date of birth as I call out your names.",
+        "startTime": 5233,
+        "endTime": 7743,
+        "slowStartTime": 8000,
+        "slowEndTime": 11840
+    },
+    {
+        "text": "Brad?",
+        "startTime": 8235,
+        "endTime": 8687,
+        "slowStartTime": 12502,
+        "slowEndTime": 13255
+    },
+    {
+        "text": "29th February, 2004.",
+        "startTime": 9145,
+        "endTime": 11589,
+        "slowStartTime": 13868,
+        "slowEndTime": 17609
+    },
+    {
+        "text": "Eric?",
+        "startTime": 11899,
+        "endTime": 12304,
+        "slowStartTime": 17998,
+        "slowEndTime": 18681
+    },
+    {
+        "text": "15th January.",
+        "startTime": 13379,
+        "endTime": 14718,
+        "slowStartTime": 20218,
+        "slowEndTime": 22302
+    },
+    {
+        "text": "In which year?",
+        "startTime": 15194,
+        "endTime": 16168,
+        "slowStartTime": 22941,
+        "slowEndTime": 24477
+    },
+    {
+        "text": "It is in every year, Ma'am.",
+        "startTime": 16589,
+        "endTime": 18132,
+        "slowStartTime": 25033,
+        "slowEndTime": 27423
+    }
+]

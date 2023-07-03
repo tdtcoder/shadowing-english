@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Would it be possible to get some tips from you for calling customers?",
+        "startTime": 3570,
+        "endTime": 7170,
+        "slowStartTime": 5430,
+        "slowEndTime": 10740
+    },
+    {
+        "text": "Sure, I can show you the plan I use when I call customers.",
+        "startTime": 7540,
+        "endTime": 11670,
+        "slowStartTime": 11430,
+        "slowEndTime": 17610
+    },
+    {
+        "text": "You prepare everything you're going to say before you call?",
+        "startTime": 12110,
+        "endTime": 15010,
+        "slowStartTime": 18230,
+        "slowEndTime": 22545
+    },
+    {
+        "text": "No. But I have an outline I follow for calls.",
+        "startTime": 15440,
+        "endTime": 18480,
+        "slowStartTime": 23210,
+        "slowEndTime": 27835
+    },
+    {
+        "text": "If it is a \"cold call\", I greet the customer and identify myself,...",
+        "startTime": 19150,
+        "endTime": 23550,
+        "slowStartTime": 28810,
+        "slowEndTime": 35470
+    },
+    {
+        "text": "...then I tell them the reason for my call.",
+        "startTime": 23790,
+        "endTime": 26220,
+        "slowStartTime": 35820,
+        "slowEndTime": 39265
+    },
+    {
+        "text": "You don't start the conversation with small talk?",
+        "startTime": 26590,
+        "endTime": 29330,
+        "slowStartTime": 39910,
+        "slowEndTime": 43990
+    },
+    {
+        "text": "No. I get to the point by politely asking if they are interested. It saves time.",
+        "startTime": 29660,
+        "endTime": 35100,
+        "slowStartTime": 44555,
+        "slowEndTime": 52685
+    },
+    {
+        "text": "Do you ever leave messages for people on their voice mail?",
+        "startTime": 35640,
+        "endTime": 38630,
+        "slowStartTime": 53485,
+        "slowEndTime": 58055
+    },
+    {
+        "text": "Not usually. And if I get a busy signal, I call that person again later in the day.",
+        "startTime": 39000,
+        "endTime": 44840,
+        "slowStartTime": 58655,
+        "slowEndTime": 67310
+    }
+]

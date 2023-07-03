@@ -1,0 +1,121 @@
+[
+    {
+        "text": "In this scene, you're talking on the phone.",
+        "startTime": 1347,
+        "endTime": 3111,
+        "slowStartTime": 2171,
+        "slowEndTime": 4891
+    },
+    {
+        "text": "You're trying to make plans for the weekend.",
+        "startTime": 3548,
+        "endTime": 4966,
+        "slowStartTime": 5472,
+        "slowEndTime": 7674
+    },
+    {
+        "text": "When you practice, stand back to back so you can't see each other.",
+        "startTime": 5485,
+        "endTime": 8326,
+        "slowStartTime": 8378,
+        "slowEndTime": 12714
+    },
+    {
+        "text": "It's hard to hear so you can say things like, \"I didn't hear you\".",
+        "startTime": 8805,
+        "endTime": 12727,
+        "slowStartTime": 13357,
+        "slowEndTime": 19316
+    },
+    {
+        "text": "\"What did you say?\"",
+        "startTime": 13044,
+        "endTime": 13815,
+        "slowStartTime": 19716,
+        "slowEndTime": 20947
+    },
+    {
+        "text": "Okay, you're ready? Let's give it a try.",
+        "startTime": 14849,
+        "endTime": 16701,
+        "slowStartTime": 22423,
+        "slowEndTime": 25277
+    },
+    {
+        "text": "Hello!",
+        "startTime": 24849,
+        "endTime": 25273,
+        "slowStartTime": 37424,
+        "slowEndTime": 38135
+    },
+    {
+        "text": "Hi, Marco! It's Hannah.",
+        "startTime": 25991,
+        "endTime": 27357,
+        "slowStartTime": 39136,
+        "slowEndTime": 41260
+    },
+    {
+        "text": "Hi, Hannah!",
+        "startTime": 28224,
+        "endTime": 28783,
+        "slowStartTime": 42486,
+        "slowEndTime": 43400
+    },
+    {
+        "text": "Oh, What are you doing Friday night?",
+        "startTime": 28975,
+        "endTime": 30180,
+        "slowStartTime": 43613,
+        "slowEndTime": 45495
+    },
+    {
+        "text": "Friday night? I always work Friday night.",
+        "startTime": 30747,
+        "endTime": 33501,
+        "slowStartTime": 46270,
+        "slowEndTime": 50477
+    },
+    {
+        "text": "That's right.",
+        "startTime": 34608,
+        "endTime": 35290,
+        "slowStartTime": 52062,
+        "slowEndTime": 53160
+    },
+    {
+        "text": "Well, what about Saturday?",
+        "startTime": 36044,
+        "endTime": 37131,
+        "slowStartTime": 54216,
+        "slowEndTime": 55921
+    },
+    {
+        "text": "Saturday is fine. I never work on Saturday.",
+        "startTime": 37623,
+        "endTime": 40098,
+        "slowStartTime": 56585,
+        "slowEndTime": 60372
+    },
+    {
+        "text": "Would you like to go to dinner?",
+        "startTime": 40955,
+        "endTime": 42002,
+        "slowStartTime": 61582,
+        "slowEndTime": 63228
+    },
+    {
+        "text": "Dinner? That sounds good.",
+        "startTime": 42382,
+        "endTime": 44296,
+        "slowStartTime": 63723,
+        "slowEndTime": 66669
+    },
+    {
+        "text": "Wonderful!",
+        "startTime": 44702,
+        "endTime": 45385,
+        "slowStartTime": 67203,
+        "slowEndTime": 68302
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "text": "French football coach dead!",
+        "startTime": 4000,
+        "endTime": 6000,
+        "slowStartTime": 6300,
+        "slowEndTime": 9250
+    },
+    {
+        "text": "Killer takes Pink Panther.",
+        "startTime": 6400,
+        "endTime": 8650,
+        "slowStartTime": 9900,
+        "slowEndTime": 13275
+    },
+    {
+        "text": "I know the right man for the job.",
+        "startTime": 9350,
+        "endTime": 11750,
+        "slowStartTime": 14300,
+        "slowEndTime": 17850
+    },
+    {
+        "text": "Find him and bring him to Paris.",
+        "startTime": 12250,
+        "endTime": 15050,
+        "slowStartTime": 18700,
+        "slowEndTime": 22800
+    },
+    {
+        "text": "His name is Jacques Clouseau.",
+        "startTime": 15500,
+        "endTime": 19300,
+        "slowStartTime": 23500,
+        "slowEndTime": 28900
+    },
+    {
+        "text": "She's the most beautiful woman I've ever seen.",
+        "startTime": 20500,
+        "endTime": 24450,
+        "slowStartTime": 31000,
+        "slowEndTime": 36925
+    },
+    {
+        "text": "Bizu is dead!",
+        "startTime": 25450,
+        "endTime": 26900,
+        "slowStartTime": 38400,
+        "slowEndTime": 40600
+    },
+    {
+        "text": "He was in the changing room.",
+        "startTime": 27200,
+        "endTime": 28650,
+        "slowStartTime": 41100,
+        "slowEndTime": 43200
+    },
+    {
+        "text": "The killer shot him in the head.",
+        "startTime": 29200,
+        "endTime": 31000,
+        "slowStartTime": 44000,
+        "slowEndTime": 46800
+    },
+    {
+        "text": "Xania isn't the killer.",
+        "startTime": 32500,
+        "endTime": 34800,
+        "slowStartTime": 49000,
+        "slowEndTime": 52400
+    },
+    {
+        "text": "Where is she now?",
+        "startTime": 35650,
+        "endTime": 36650,
+        "slowStartTime": 53730,
+        "slowEndTime": 55175
+    },
+    {
+        "text": "She left suddenly for New York.",
+        "startTime": 37700,
+        "endTime": 40100,
+        "slowStartTime": 56800,
+        "slowEndTime": 60400
+    },
+    {
+        "text": "And where is this New York?",
+        "startTime": 40850,
+        "endTime": 43400,
+        "slowStartTime": 61520,
+        "slowEndTime": 65350
+    },
+    {
+        "text": "In the United States of America.",
+        "startTime": 45200,
+        "endTime": 48100,
+        "slowStartTime": 68100,
+        "slowEndTime": 72300
+    },
+    {
+        "text": "There is nowhere you can hide.",
+        "startTime": 48800,
+        "endTime": 51400,
+        "slowStartTime": 73500,
+        "slowEndTime": 77300
+    },
+    {
+        "text": "Killer, I will find you!",
+        "startTime": 51850,
+        "endTime": 54200,
+        "slowStartTime": 78000,
+        "slowEndTime": 81550
+    },
+    {
+        "text": "Because I am Inspector Clouseau.",
+        "startTime": 54450,
+        "endTime": 57500,
+        "slowStartTime": 81850,
+        "slowEndTime": 86450
+    },
+    {
+        "text": "Because detectives are detectives.",
+        "startTime": 57800,
+        "endTime": 60650,
+        "slowStartTime": 86900,
+        "slowEndTime": 91185
+    },
+    {
+        "text": "And France is France!",
+        "startTime": 60800,
+        "endTime": 64550,
+        "slowStartTime": 91500,
+        "slowEndTime": 97000
+    }
+]

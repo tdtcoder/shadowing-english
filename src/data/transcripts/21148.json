@@ -1,0 +1,275 @@
+[
+    {
+        "text": "﻿Hi!",
+        "startTime": 9213,
+        "endTime": 9866,
+        "slowStartTime": 13969,
+        "slowEndTime": 15024
+    },
+    {
+        "text": "I'm Jade.",
+        "startTime": 10363,
+        "endTime": 11081,
+        "slowStartTime": 15695,
+        "slowEndTime": 16847
+    },
+    {
+        "text": "I'm Nikki.",
+        "startTime": 11651,
+        "endTime": 12099,
+        "slowStartTime": 17626,
+        "slowEndTime": 18374
+    },
+    {
+        "text": "Hi.",
+        "startTime": 12379,
+        "endTime": 12750,
+        "slowStartTime": 18718,
+        "slowEndTime": 19350
+    },
+    {
+        "text": "Hi.",
+        "startTime": 12825,
+        "endTime": 13060,
+        "slowStartTime": 19388,
+        "slowEndTime": 19815
+    },
+    {
+        "text": "I have never ever been in a ball pit before.",
+        "startTime": 13291,
+        "endTime": 15969,
+        "slowStartTime": 20087,
+        "slowEndTime": 24179
+    },
+    {
+        "text": "What?",
+        "startTime": 16113,
+        "endTime": 16506,
+        "slowStartTime": 24319,
+        "slowEndTime": 24984
+    },
+    {
+        "text": "You've never been in a ball pit?",
+        "startTime": 16686,
+        "endTime": 17659,
+        "slowStartTime": 25179,
+        "slowEndTime": 26713
+    },
+    {
+        "text": "No.",
+        "startTime": 17727,
+        "endTime": 17899,
+        "slowStartTime": 26740,
+        "slowEndTime": 27074
+    },
+    {
+        "text": "Okay, this is a good one.",
+        "startTime": 18241,
+        "endTime": 19266,
+        "slowStartTime": 27511,
+        "slowEndTime": 29124
+    },
+    {
+        "text": "Share three things on your bucket list.",
+        "startTime": 19387,
+        "endTime": 21251,
+        "slowStartTime": 29230,
+        "slowEndTime": 32101
+    },
+    {
+        "text": "The first one is to go skydiving.",
+        "startTime": 23173,
+        "endTime": 24773,
+        "slowStartTime": 34909,
+        "slowEndTime": 37385
+    },
+    {
+        "text": "Actually, I play the drums.",
+        "startTime": 25013,
+        "endTime": 26189,
+        "slowStartTime": 37669,
+        "slowEndTime": 39509
+    },
+    {
+        "text": "You play any instruments?",
+        "startTime": 26296,
+        "endTime": 27282,
+        "slowStartTime": 39594,
+        "slowEndTime": 41148
+    },
+    {
+        "text": "I quit everything I ever tried.",
+        "startTime": 27953,
+        "endTime": 29332,
+        "slowStartTime": 42080,
+        "slowEndTime": 44223
+    },
+    {
+        "text": "All right.",
+        "startTime": 29893,
+        "endTime": 30214,
+        "slowStartTime": 44989,
+        "slowEndTime": 45546
+    },
+    {
+        "text": "Actually fun fact, these aren't real teeth.",
+        "startTime": 31756,
+        "endTime": 33583,
+        "slowStartTime": 47784,
+        "slowEndTime": 50599
+    },
+    {
+        "text": "I have a flipper tooth.",
+        "startTime": 37383,
+        "endTime": 38368,
+        "slowStartTime": 56225,
+        "slowEndTime": 57777
+    },
+    {
+        "text": "Really?",
+        "startTime": 38452,
+        "endTime": 38861,
+        "slowStartTime": 57828,
+        "slowEndTime": 58517
+    },
+    {
+        "text": "Oh my god!",
+        "startTime": 39383,
+        "endTime": 39963,
+        "slowStartTime": 59225,
+        "slowEndTime": 60169
+    },
+    {
+        "text": "No, no, no, I can't.",
+        "startTime": 40378,
+        "endTime": 41271,
+        "slowStartTime": 60717,
+        "slowEndTime": 62131
+    },
+    {
+        "text": "Wait, wait, wait.",
+        "startTime": 41355,
+        "endTime": 41524,
+        "slowStartTime": 62183,
+        "slowEndTime": 62511
+    },
+    {
+        "text": "What?",
+        "startTime": 43287,
+        "endTime": 43696,
+        "slowStartTime": 65080,
+        "slowEndTime": 65769
+    },
+    {
+        "text": "My front tooth!",
+        "startTime": 43842,
+        "endTime": 44705,
+        "slowStartTime": 65913,
+        "slowEndTime": 67282
+    },
+    {
+        "text": "Oh my gosh!",
+        "startTime": 45200,
+        "endTime": 45914,
+        "slowStartTime": 67950,
+        "slowEndTime": 69096
+    },
+    {
+        "text": "You don't even understand.",
+        "startTime": 48607,
+        "endTime": 49523,
+        "slowStartTime": 73061,
+        "slowEndTime": 74510
+    },
+    {
+        "text": "I swear to God I feel like someone planted us here for this reason.",
+        "startTime": 49704,
+        "endTime": 52059,
+        "slowStartTime": 74706,
+        "slowEndTime": 78314
+    },
+    {
+        "text": "Destiny.",
+        "startTime": 52149,
+        "endTime": 52677,
+        "slowStartTime": 78374,
+        "slowEndTime": 79240
+    },
+    {
+        "text": "Describe the first time you fell in love.",
+        "startTime": 53499,
+        "endTime": 55637,
+        "slowStartTime": 80399,
+        "slowEndTime": 83681
+    },
+    {
+        "text": "I think it was kindergarten.",
+        "startTime": 56851,
+        "endTime": 57839,
+        "slowStartTime": 85427,
+        "slowEndTime": 86984
+    },
+    {
+        "text": "I don't remember his name, but he was beautiful.",
+        "startTime": 58671,
+        "endTime": 60934,
+        "slowStartTime": 88156,
+        "slowEndTime": 91626
+    },
+    {
+        "text": "I was in the Navy.",
+        "startTime": 61717,
+        "endTime": 63429,
+        "slowStartTime": 92726,
+        "slowEndTime": 95369
+    },
+    {
+        "text": "You were in the Navy?",
+        "startTime": 64030,
+        "endTime": 65175,
+        "slowStartTime": 96195,
+        "slowEndTime": 97987
+    },
+    {
+        "text": "And my husband was in the Navy.",
+        "startTime": 65269,
+        "endTime": 66561,
+        "slowStartTime": 98054,
+        "slowEndTime": 100066
+    },
+    {
+        "text": "Long story short, before he ever kissed me or we were ever really together,...",
+        "startTime": 67333,
+        "endTime": 72147,
+        "slowStartTime": 101149,
+        "slowEndTime": 108445
+    },
+    {
+        "text": "...he told me he loved me.",
+        "startTime": 72217,
+        "endTime": 73335,
+        "slowStartTime": 108475,
+        "slowEndTime": 110227
+    },
+    {
+        "text": "24 years later, we're more in love...",
+        "startTime": 74122,
+        "endTime": 76923,
+        "slowStartTime": 111333,
+        "slowEndTime": 115610
+    },
+    {
+        "text": "...and we're better friends than even from the very beginning.",
+        "startTime": 77022,
+        "endTime": 80753,
+        "slowStartTime": 115683,
+        "slowEndTime": 121355
+    },
+    {
+        "text": "That's true love in its finest.",
+        "startTime": 81083,
+        "endTime": 82575,
+        "slowStartTime": 121775,
+        "slowEndTime": 124087
+    }
+]

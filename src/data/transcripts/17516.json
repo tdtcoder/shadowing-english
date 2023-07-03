@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Back.",
+        "startTime": 2523,
+        "endTime": 3333,
+        "slowStartTime": 3935,
+        "slowEndTime": 5225
+    },
+    {
+        "text": "I hurt my back.",
+        "startTime": 4046,
+        "endTime": 5441,
+        "slowStartTime": 6219,
+        "slowEndTime": 8387
+    },
+    {
+        "text": "I fell down and hurt my back.",
+        "startTime": 6636,
+        "endTime": 8929,
+        "slowStartTime": 10104,
+        "slowEndTime": 13619
+    },
+    {
+        "text": "Clock.",
+        "startTime": 10131,
+        "endTime": 10639,
+        "slowStartTime": 15346,
+        "slowEndTime": 16184
+    },
+    {
+        "text": "There is a big clock.",
+        "startTime": 11412,
+        "endTime": 12920,
+        "slowStartTime": 17268,
+        "slowEndTime": 19605
+    },
+    {
+        "text": "There is a big clock on the wall.",
+        "startTime": 14256,
+        "endTime": 16750,
+        "slowStartTime": 21534,
+        "slowEndTime": 25350
+    },
+    {
+        "text": "Duck.",
+        "startTime": 18144,
+        "endTime": 18680,
+        "slowStartTime": 27366,
+        "slowEndTime": 28245
+    },
+    {
+        "text": "The duck is swimming.",
+        "startTime": 19373,
+        "endTime": 20767,
+        "slowStartTime": 29209,
+        "slowEndTime": 31375
+    },
+    {
+        "text": "The duck is swimming in the lake.",
+        "startTime": 22122,
+        "endTime": 24122,
+        "slowStartTime": 33333,
+        "slowEndTime": 36408
+    },
+    {
+        "text": "Rock.",
+        "startTime": 25490,
+        "endTime": 26003,
+        "slowStartTime": 38385,
+        "slowEndTime": 39229
+    },
+    {
+        "text": "The rock is blocking the road.",
+        "startTime": 26696,
+        "endTime": 28777,
+        "slowStartTime": 40194,
+        "slowEndTime": 43390
+    },
+    {
+        "text": "The big rock is blocking the road.",
+        "startTime": 30237,
+        "endTime": 32551,
+        "slowStartTime": 45506,
+        "slowEndTime": 49052
+    },
+    {
+        "text": "What kinds of workers do you, do you know?",
+        "startTime": 38073,
+        "endTime": 41306,
+        "slowStartTime": 57260,
+        "slowEndTime": 62184
+    },
+    {
+        "text": "Farmer, farmer, the farmer farms wheat for bread.",
+        "startTime": 41802,
+        "endTime": 44997,
+        "slowStartTime": 62853,
+        "slowEndTime": 67720
+    },
+    {
+        "text": "Trucker, trucker, the trucker trucks wheat to the mill.",
+        "startTime": 45484,
+        "endTime": 48790,
+        "slowStartTime": 68376,
+        "slowEndTime": 73410
+    },
+    {
+        "text": "Miller, miller, the miller grinds wheat into flour.",
+        "startTime": 49269,
+        "endTime": 52649,
+        "slowStartTime": 74053,
+        "slowEndTime": 79198
+    },
+    {
+        "text": "Baker, baker, the baker uses flour to bake bread.",
+        "startTime": 53020,
+        "endTime": 56735,
+        "slowStartTime": 79680,
+        "slowEndTime": 85328
+    },
+    {
+        "text": "Grocer, grocer, the grocer sells bread to my dad.",
+        "startTime": 56827,
+        "endTime": 60051,
+        "slowStartTime": 85391,
+        "slowEndTime": 90301
+    },
+    {
+        "text": "Dad, Dad, my dad makes dinner for my family.",
+        "startTime": 60510,
+        "endTime": 63909,
+        "slowStartTime": 90915,
+        "slowEndTime": 96088
+    },
+    {
+        "text": "There are many kinds of workers.",
+        "startTime": 64286,
+        "endTime": 67000,
+        "slowStartTime": 96579,
+        "slowEndTime": 100725
+    }
+]

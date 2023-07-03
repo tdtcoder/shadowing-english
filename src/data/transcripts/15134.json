@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Come on, Sally!",
+        "startTime": 263,
+        "endTime": 991,
+        "slowStartTime": 544,
+        "slowEndTime": 1711
+    },
+    {
+        "text": "It's time to go to school.",
+        "startTime": 1289,
+        "endTime": 2349,
+        "slowStartTime": 2083,
+        "slowEndTime": 3749
+    },
+    {
+        "text": "Not for me.",
+        "startTime": 2910,
+        "endTime": 3865,
+        "slowStartTime": 4515,
+        "slowEndTime": 6023
+    },
+    {
+        "text": "What do you mean not for you?",
+        "startTime": 4711,
+        "endTime": 5914,
+        "slowStartTime": 7216,
+        "slowEndTime": 9096
+    },
+    {
+        "text": "I went yesterday.",
+        "startTime": 7129,
+        "endTime": 8884,
+        "slowStartTime": 10843,
+        "slowEndTime": 13551
+    },
+    {
+        "text": "But Mom made a lunch for you and packed it in this new lunch box.",
+        "startTime": 9669,
+        "endTime": 13201,
+        "slowStartTime": 14653,
+        "slowEndTime": 20027
+    },
+    {
+        "text": "Mom bought me a new lunch box?",
+        "startTime": 14636,
+        "endTime": 16902,
+        "slowStartTime": 22104,
+        "slowEndTime": 25578
+    },
+    {
+        "text": "Well, if Mom went through all of that trouble...",
+        "startTime": 17711,
+        "endTime": 20732,
+        "slowStartTime": 26716,
+        "slowEndTime": 31323
+    },
+    {
+        "text": "...and expense of getting me a new lunch box, I better go to school.",
+        "startTime": 20960,
+        "endTime": 26448,
+        "slowStartTime": 31590,
+        "slowEndTime": 39897
+    },
+    {
+        "text": "But that's the only reason I'm going!",
+        "startTime": 27181,
+        "endTime": 30123,
+        "slowStartTime": 40922,
+        "slowEndTime": 45410
+    },
+    {
+        "text": "Hurry up Sally, before you change your mind.",
+        "startTime": 31729,
+        "endTime": 33905,
+        "slowStartTime": 47744,
+        "slowEndTime": 51082
+    },
+    {
+        "text": "I'm coming! I'm coming!",
+        "startTime": 35145,
+        "endTime": 37481,
+        "slowStartTime": 52867,
+        "slowEndTime": 56447
+    },
+    {
+        "text": "I'll just have to make the best of it.",
+        "startTime": 40247,
+        "endTime": 42313,
+        "slowStartTime": 60521,
+        "slowEndTime": 63695
+    }
+]

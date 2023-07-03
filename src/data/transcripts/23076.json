@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Hey, I recognize you from somewhere.",
+        "startTime": 6268,
+        "endTime": 8515,
+        "slowStartTime": 9552,
+        "slowEndTime": 12997
+    },
+    {
+        "text": "Oh, sorry.",
+        "startTime": 9427,
+        "endTime": 9848,
+        "slowStartTime": 14290,
+        "slowEndTime": 14997
+    },
+    {
+        "text": "Work.",
+        "startTime": 10699,
+        "endTime": 10964,
+        "slowStartTime": 16198,
+        "slowEndTime": 16671
+    },
+    {
+        "text": "Hello?",
+        "startTime": 11548,
+        "endTime": 11990,
+        "slowStartTime": 17472,
+        "slowEndTime": 18210
+    },
+    {
+        "text": "Hi!",
+        "startTime": 14171,
+        "endTime": 14385,
+        "slowStartTime": 21406,
+        "slowEndTime": 21803
+    },
+    {
+        "text": "You all right?",
+        "startTime": 15323,
+        "endTime": 15672,
+        "slowStartTime": 23134,
+        "slowEndTime": 23733
+    },
+    {
+        "text": "Wow!",
+        "startTime": 17081,
+        "endTime": 17502,
+        "slowStartTime": 25772,
+        "slowEndTime": 26478
+    },
+    {
+        "text": "Is that your guitar there?",
+        "startTime": 18041,
+        "endTime": 18677,
+        "slowStartTime": 27212,
+        "slowEndTime": 28241
+    },
+    {
+        "text": "Excuse me, is that the Dylan edition?",
+        "startTime": 29531,
+        "endTime": 32240,
+        "slowStartTime": 44446,
+        "slowEndTime": 48585
+    },
+    {
+        "text": "Yeah!",
+        "startTime": 32600,
+        "endTime": 32915,
+        "slowStartTime": 48854,
+        "slowEndTime": 49598
+    },
+    {
+        "text": "Are you a fan too?",
+        "startTime": 33762,
+        "endTime": 34809,
+        "slowStartTime": 50793,
+        "slowEndTime": 52438
+    },
+    {
+        "text": "Hi, I'm Tanya and I almost missed you.",
+        "startTime": 36209,
+        "endTime": 40019,
+        "slowStartTime": 54463,
+        "slowEndTime": 60254
+    }
+]

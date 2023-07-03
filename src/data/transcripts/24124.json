@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Hi! Everything okay?",
+        "startTime": 200,
+        "endTime": 1629,
+        "slowStartTime": 450,
+        "slowEndTime": 2669
+    },
+    {
+        "text": "I wanted to tell you I was sorry for how I acted yesterday.",
+        "startTime": 2093,
+        "endTime": 5143,
+        "slowStartTime": 3289,
+        "slowEndTime": 7940
+    },
+    {
+        "text": "No, Ray, really.",
+        "startTime": 6011,
+        "endTime": 7290,
+        "slowStartTime": 9166,
+        "slowEndTime": 11160
+    },
+    {
+        "text": "No, Emma.",
+        "startTime": 7395,
+        "endTime": 8260,
+        "slowStartTime": 11242,
+        "slowEndTime": 12615
+    },
+    {
+        "text": "Emma? Emma?",
+        "startTime": 9289,
+        "endTime": 11515,
+        "slowStartTime": 14084,
+        "slowEndTime": 17498
+    },
+    {
+        "text": "Oh my God!",
+        "startTime": 15989,
+        "endTime": 17463,
+        "slowStartTime": 24134,
+        "slowEndTime": 26419
+    },
+    {
+        "text": "This whole chunk of land will be decimated.",
+        "startTime": 31647,
+        "endTime": 34584,
+        "slowStartTime": 47621,
+        "slowEndTime": 52101
+    },
+    {
+        "text": "Are you saying the whole San Andreas Fault might go off?",
+        "startTime": 35483,
+        "endTime": 37823,
+        "slowStartTime": 53375,
+        "slowEndTime": 56960
+    },
+    {
+        "text": "Everybody down!",
+        "startTime": 39095,
+        "endTime": 40456,
+        "slowStartTime": 58793,
+        "slowEndTime": 60909
+    },
+    {
+        "text": "Yes, that's exactly what I'm saying.",
+        "startTime": 42077,
+        "endTime": 43733,
+        "slowStartTime": 63266,
+        "slowEndTime": 65825
+    }
+]

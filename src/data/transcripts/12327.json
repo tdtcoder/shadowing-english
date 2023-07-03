@@ -1,0 +1,44 @@
+[
+    {
+        "text": "UN Goodwill Envoy Angelina Jolie arrives in the Turkish province of Hatay.",
+        "startTime": 5793,
+        "endTime": 12060,
+        "slowStartTime": 8839,
+        "slowEndTime": 18315
+    },
+    {
+        "text": "Actresses Annette Bening and Katie Holmes are honored by Women in Film in Beverly Hills.",
+        "startTime": 14631,
+        "endTime": 21171,
+        "slowStartTime": 22096,
+        "slowEndTime": 31981
+    },
+    {
+        "text": "Cameron Diaz visits Berlin to promote her new movie, \"Bad Teacher\".",
+        "startTime": 24615,
+        "endTime": 29528,
+        "slowStartTime": 37072,
+        "slowEndTime": 44517
+    },
+    {
+        "text": "The Rock and Roll Hall of Fame puts Lady Gaga's infamous meat dress on public display.",
+        "startTime": 34053,
+        "endTime": 40415,
+        "slowStartTime": 51230,
+        "slowEndTime": 60848
+    },
+    {
+        "text": "Selena Gomez hits the mall in Los Angeles as part of a nine-city tour promoting her new album and upcoming film.",
+        "startTime": 44815,
+        "endTime": 53232,
+        "slowStartTime": 67373,
+        "slowEndTime": 80073
+    },
+    {
+        "text": "Celebrities arrive at the 2011 Tony Awards in New York City.",
+        "startTime": 57721,
+        "endTime": 62879,
+        "slowStartTime": 86731,
+        "slowEndTime": 94544
+    }
+]

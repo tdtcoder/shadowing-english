@@ -1,0 +1,121 @@
+[
+    {
+        "text": "What is this?",
+        "startTime": 1636,
+        "endTime": 2974,
+        "slowStartTime": 2604,
+        "slowEndTime": 4686
+    },
+    {
+        "text": "It is a fin. Fish have fins for swimming in water.",
+        "startTime": 4159,
+        "endTime": 8670,
+        "slowStartTime": 6388,
+        "slowEndTime": 13230
+    },
+    {
+        "text": "Do ducks have fins?",
+        "startTime": 9827,
+        "endTime": 11422,
+        "slowStartTime": 14891,
+        "slowEndTime": 17358
+    },
+    {
+        "text": "No, but they have flippers instead.",
+        "startTime": 12577,
+        "endTime": 15399,
+        "slowStartTime": 19015,
+        "slowEndTime": 23323
+    },
+    {
+        "text": "What are these?",
+        "startTime": 16606,
+        "endTime": 17887,
+        "slowStartTime": 25059,
+        "slowEndTime": 27055
+    },
+    {
+        "text": "They are wings. Birds have wings for flying in the air.",
+        "startTime": 19099,
+        "endTime": 23435,
+        "slowStartTime": 28799,
+        "slowEndTime": 35378
+    },
+    {
+        "text": "Look! Those animals have no legs, no wings and no fins.",
+        "startTime": 24587,
+        "endTime": 30541,
+        "slowStartTime": 37030,
+        "slowEndTime": 46037
+    },
+    {
+        "text": "How do they move?",
+        "startTime": 30876,
+        "endTime": 32366,
+        "slowStartTime": 46464,
+        "slowEndTime": 48774
+    },
+    {
+        "text": "They crawl on land.",
+        "startTime": 33463,
+        "endTime": 35289,
+        "slowStartTime": 50344,
+        "slowEndTime": 53159
+    },
+    {
+        "text": "Some animals have strong legs for hopping, and move on land.",
+        "startTime": 41690,
+        "endTime": 47228,
+        "slowStartTime": 62685,
+        "slowEndTime": 71067
+    },
+    {
+        "text": "Some animals have strong legs for running, and move on land.",
+        "startTime": 49180,
+        "endTime": 54720,
+        "slowStartTime": 73920,
+        "slowEndTime": 82305
+    },
+    {
+        "text": "Some animals have many legs for crawling, and move on land.",
+        "startTime": 56751,
+        "endTime": 62019,
+        "slowStartTime": 85276,
+        "slowEndTime": 93254
+    },
+    {
+        "text": "Some animals have two legs for walking, and move on land.",
+        "startTime": 64273,
+        "endTime": 69712,
+        "slowStartTime": 96560,
+        "slowEndTime": 104793
+    },
+    {
+        "text": "Some animals have wings for flying, and move in the air.",
+        "startTime": 71752,
+        "endTime": 77029,
+        "slowStartTime": 107778,
+        "slowEndTime": 115768
+    },
+    {
+        "text": "Some animals have fins for swimming, and move in water.",
+        "startTime": 79194,
+        "endTime": 84709,
+        "slowStartTime": 118941,
+        "slowEndTime": 127289
+    },
+    {
+        "text": "Some animals have long arms for swinging, and move in trees.",
+        "startTime": 86765,
+        "endTime": 92189,
+        "slowStartTime": 130297,
+        "slowEndTime": 138509
+    },
+    {
+        "text": "Others have no legs, no arms, no wings, no fins, and move on land.",
+        "startTime": 94377,
+        "endTime": 102531,
+        "slowStartTime": 141715,
+        "slowEndTime": 154022
+    }
+]

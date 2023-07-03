@@ -1,0 +1,100 @@
+[
+    {
+        "text": "﻿Down on Wall Street,...",
+        "startTime": 2731,
+        "endTime": 3552,
+        "slowStartTime": 4247,
+        "slowEndTime": 5553
+    },
+    {
+        "text": "...Google overtook Apple as the most valuable company in the world...",
+        "startTime": 3653,
+        "endTime": 6633,
+        "slowStartTime": 5629,
+        "slowEndTime": 10175
+    },
+    {
+        "text": "...by market capitalization on Tuesday...",
+        "startTime": 6730,
+        "endTime": 8503,
+        "slowStartTime": 10245,
+        "slowEndTime": 12980
+    },
+    {
+        "text": "...after a strong holiday quarter earnings report...",
+        "startTime": 8810,
+        "endTime": 10868,
+        "slowStartTime": 13365,
+        "slowEndTime": 16527
+    },
+    {
+        "text": "...that drove its stock price up 5% overnight.",
+        "startTime": 10976,
+        "endTime": 13229,
+        "slowStartTime": 16614,
+        "slowEndTime": 20069
+    },
+    {
+        "text": "When the stock market opened on Tuesday,...",
+        "startTime": 14124,
+        "endTime": 15684,
+        "slowStartTime": 21336,
+        "slowEndTime": 23751
+    },
+    {
+        "text": "...Google had a market value of 550.6 billion,...",
+        "startTime": 15801,
+        "endTime": 18797,
+        "slowStartTime": 23852,
+        "slowEndTime": 28420
+    },
+    {
+        "text": "...beating out Apple's market cap of 529.1 billion...",
+        "startTime": 19275,
+        "endTime": 22580,
+        "slowStartTime": 29063,
+        "slowEndTime": 34095
+    },
+    {
+        "text": "...for the first time in its history.",
+        "startTime": 22673,
+        "endTime": 24040,
+        "slowStartTime": 34159,
+        "slowEndTime": 36285
+    },
+    {
+        "text": "The rankings represent more than just a constantly fluctuating vanity leader board...",
+        "startTime": 24828,
+        "endTime": 28398,
+        "slowStartTime": 37392,
+        "slowEndTime": 42822
+    },
+    {
+        "text": "...though it is certainly that as well.",
+        "startTime": 28703,
+        "endTime": 30067,
+        "slowStartTime": 43204,
+        "slowEndTime": 45326
+    },
+    {
+        "text": "It is the combination of the slow sea change in thinking...",
+        "startTime": 30505,
+        "endTime": 33028,
+        "slowStartTime": 45908,
+        "slowEndTime": 49767
+    },
+    {
+        "text": "...about which technology giant is best poised to grow...",
+        "startTime": 33297,
+        "endTime": 35745,
+        "slowStartTime": 50096,
+        "slowEndTime": 53842
+    },
+    {
+        "text": "...in the second half of this decade and beyond.",
+        "startTime": 35834,
+        "endTime": 38035,
+        "slowStartTime": 53901,
+        "slowEndTime": 57278
+    }
+]

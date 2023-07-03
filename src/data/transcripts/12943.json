@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Captain's Log, Star Gate 22 31 57.6.",
+        "startTime": 11,
+        "endTime": 5155,
+        "slowStartTime": 157,
+        "slowEndTime": 7957
+    },
+    {
+        "text": "We are en route to the planet Regulate 5, sector 18,...",
+        "startTime": 5716,
+        "endTime": 9609,
+        "slowStartTime": 8724,
+        "slowEndTime": 14638
+    },
+    {
+        "text": "...to deliver a vaccine to end ultraviolet fever.",
+        "startTime": 10057,
+        "endTime": 13124,
+        "slowStartTime": 15236,
+        "slowEndTime": 19911
+    },
+    {
+        "text": "Captain, we're picking up something on the long-range sensors.",
+        "startTime": 14863,
+        "endTime": 18267,
+        "slowStartTime": 22445,
+        "slowEndTime": 27625
+    },
+    {
+        "text": "Spek, what is it?",
+        "startTime": 18965,
+        "endTime": 20148,
+        "slowStartTime": 28597,
+        "slowEndTime": 30447
+    },
+    {
+        "text": "Unknown, Captain. It's unlike anything we've ever seen.",
+        "startTime": 21481,
+        "endTime": 25174,
+        "slowStartTime": 32372,
+        "slowEndTime": 37986
+    },
+    {
+        "text": "Bring up the view screen! It's too distant to make out.",
+        "startTime": 25988,
+        "endTime": 30981,
+        "slowStartTime": 39132,
+        "slowEndTime": 46696
+    },
+    {
+        "text": "The brightness, the energy. Whoa!",
+        "startTime": 31997,
+        "endTime": 36545,
+        "slowStartTime": 48145,
+        "slowEndTime": 55043
+    },
+    {
+        "text": "Captain.",
+        "startTime": 37076,
+        "endTime": 37524,
+        "slowStartTime": 55764,
+        "slowEndTime": 56511
+    },
+    {
+        "text": "What is it, Lieutenant Orula?",
+        "startTime": 38333,
+        "endTime": 39605,
+        "slowStartTime": 57650,
+        "slowEndTime": 59633
+    },
+    {
+        "text": "I'm receiving a transmission from a Klingie ship.",
+        "startTime": 40496,
+        "endTime": 42481,
+        "slowStartTime": 60894,
+        "slowEndTime": 63946
+    },
+    {
+        "text": "The Klingie's have a saying, Captain,...",
+        "startTime": 42972,
+        "endTime": 44554,
+        "slowStartTime": 64608,
+        "slowEndTime": 67056
+    },
+    {
+        "text": "...\"If you cannot control yourself, you cannot command others.\"",
+        "startTime": 44987,
+        "endTime": 48053,
+        "slowStartTime": 67631,
+        "slowEndTime": 72304
+    },
+    {
+        "text": "He looks like he's beaming aboard.",
+        "startTime": 50425,
+        "endTime": 52020,
+        "slowStartTime": 75788,
+        "slowEndTime": 78255
+    },
+    {
+        "text": "Mr. Scootie, how much time do you require to repair the warp drive?",
+        "startTime": 53803,
+        "endTime": 57775,
+        "slowStartTime": 80854,
+        "slowEndTime": 86887
+    },
+    {
+        "text": "Four bloody nanoseconds! But it's Happy Hour down here in the engineering room!",
+        "startTime": 60559,
+        "endTime": 64935,
+        "slowStartTime": 90989,
+        "slowEndTime": 97628
+    },
+    {
+        "text": "I'd rather beam up a tribulator, if it's all the same to you.",
+        "startTime": 65317,
+        "endTime": 68002,
+        "slowStartTime": 98126,
+        "slowEndTime": 102228
+    },
+    {
+        "text": "Shields up! Go to red alert!",
+        "startTime": 69243,
+        "endTime": 71373,
+        "slowStartTime": 104014,
+        "slowEndTime": 107284
+    },
+    {
+        "text": "Aye aye, Captain!",
+        "startTime": 72172,
+        "endTime": 72968,
+        "slowStartTime": 108408,
+        "slowEndTime": 109677
+    },
+    {
+        "text": "It's too late, Captain.",
+        "startTime": 76349,
+        "endTime": 77572,
+        "slowStartTime": 114674,
+        "slowEndTime": 116583
+    },
+    {
+        "text": "Typical Federation, not to have your defenses ready.",
+        "startTime": 78487,
+        "endTime": 81747,
+        "slowStartTime": 117881,
+        "slowEndTime": 122846
+    },
+    {
+        "text": "What do you want from us?",
+        "startTime": 83243,
+        "endTime": 84533,
+        "slowStartTime": 125014,
+        "slowEndTime": 127025
+    },
+    {
+        "text": "Only your certain doom!",
+        "startTime": 85702,
+        "endTime": 88246,
+        "slowStartTime": 128703,
+        "slowEndTime": 132594
+    }
+]

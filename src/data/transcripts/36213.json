@@ -1,0 +1,30 @@
+[
+    {
+        "text": "When you're choosing a suit for women's business formal wear,...",
+        "startTime": 429,
+        "endTime": 3243,
+        "slowStartTime": 793,
+        "slowEndTime": 5089
+    },
+    {
+        "text": "...both the jacket and the other piece,...",
+        "startTime": 3645,
+        "endTime": 5298,
+        "slowStartTime": 5617,
+        "slowEndTime": 8172
+    },
+    {
+        "text": "...whether that's a skirt, pants or dress, should always match.",
+        "startTime": 5375,
+        "endTime": 8649,
+        "slowStartTime": 8212,
+        "slowEndTime": 13198
+    },
+    {
+        "text": "They should be both the same color and fabric.",
+        "startTime": 8747,
+        "endTime": 11471,
+        "slowStartTime": 13271,
+        "slowEndTime": 17432
+    }
+]

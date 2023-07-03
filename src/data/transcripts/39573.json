@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Oh!",
+        "startTime": 1133,
+        "endTime": 1401,
+        "slowStartTime": 1850,
+        "slowEndTime": 2327
+    },
+    {
+        "text": "Oh!",
+        "startTime": 1769,
+        "endTime": 2020,
+        "slowStartTime": 2804,
+        "slowEndTime": 3255
+    },
+    {
+        "text": "Sorry!",
+        "startTime": 2151,
+        "endTime": 2419,
+        "slowStartTime": 3376,
+        "slowEndTime": 3853
+    },
+    {
+        "text": "Sorry about that.",
+        "startTime": 2769,
+        "endTime": 3319,
+        "slowStartTime": 4304,
+        "slowEndTime": 5203
+    },
+    {
+        "text": "That's okay.",
+        "startTime": 3735,
+        "endTime": 4151,
+        "slowStartTime": 5753,
+        "slowEndTime": 6451
+    },
+    {
+        "text": "I can catch, sometimes.",
+        "startTime": 4809,
+        "endTime": 6052,
+        "slowStartTime": 7363,
+        "slowEndTime": 9303
+    },
+    {
+        "text": "I'm Ethan Mohr.",
+        "startTime": 7415,
+        "endTime": 8333,
+        "slowStartTime": 11273,
+        "slowEndTime": 12725
+    },
+    {
+        "text": "Oh, sorry.",
+        "startTime": 8521,
+        "endTime": 9472,
+        "slowStartTime": 12932,
+        "slowEndTime": 14433
+    },
+    {
+        "text": "Could you say that again?",
+        "startTime": 9633,
+        "endTime": 10461,
+        "slowStartTime": 14600,
+        "slowEndTime": 15917
+    },
+    {
+        "text": "Ethan Mohr.",
+        "startTime": 10927,
+        "endTime": 12145,
+        "slowStartTime": 16540,
+        "slowEndTime": 18443
+    },
+    {
+        "text": "M - O - H - R, Mohr.",
+        "startTime": 12591,
+        "endTime": 14982,
+        "slowStartTime": 19036,
+        "slowEndTime": 22698
+    },
+    {
+        "text": "Nice to meet you.",
+        "startTime": 15451,
+        "endTime": 16082,
+        "slowStartTime": 23326,
+        "slowEndTime": 24348
+    },
+    {
+        "text": "My name is Momoko Kudo.",
+        "startTime": 16367,
+        "endTime": 17581,
+        "slowStartTime": 24700,
+        "slowEndTime": 26596
+    },
+    {
+        "text": "Sorry.",
+        "startTime": 18083,
+        "endTime": 18602,
+        "slowStartTime": 27275,
+        "slowEndTime": 28128
+    },
+    {
+        "text": "That's okay.",
+        "startTime": 18943,
+        "endTime": 19420,
+        "slowStartTime": 28564,
+        "slowEndTime": 29355
+    },
+    {
+        "text": "See you in class?",
+        "startTime": 20137,
+        "endTime": 20816,
+        "slowStartTime": 30356,
+        "slowEndTime": 31449
+    },
+    {
+        "text": "Okay, see you!",
+        "startTime": 20999,
+        "endTime": 21723,
+        "slowStartTime": 31649,
+        "slowEndTime": 32810
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Here are some phrases you can use when talking about hobbies and interests.",
+        "startTime": 73,
+        "endTime": 4184,
+        "slowStartTime": 259,
+        "slowEndTime": 6501
+    },
+    {
+        "text": "What do you like to do in your spare time?",
+        "startTime": 5889,
+        "endTime": 7727,
+        "slowStartTime": 8984,
+        "slowEndTime": 11816
+    },
+    {
+        "text": "I like watching TV.",
+        "startTime": 9635,
+        "endTime": 11095,
+        "slowStartTime": 14603,
+        "slowEndTime": 16867
+    },
+    {
+        "text": "Do you play any sports?",
+        "startTime": 12715,
+        "endTime": 13929,
+        "slowStartTime": 19222,
+        "slowEndTime": 21118
+    },
+    {
+        "text": "No, I'm not into sports.",
+        "startTime": 15449,
+        "endTime": 17442,
+        "slowStartTime": 23323,
+        "slowEndTime": 26388
+    },
+    {
+        "text": "Do you play any instruments?",
+        "startTime": 19102,
+        "endTime": 20603,
+        "slowStartTime": 28803,
+        "slowEndTime": 31130
+    },
+    {
+        "text": "Yes, I've played the piano for five years.",
+        "startTime": 22223,
+        "endTime": 24609,
+        "slowStartTime": 33485,
+        "slowEndTime": 37139
+    },
+    {
+        "text": "I'm interested in...",
+        "startTime": 26320,
+        "endTime": 27733,
+        "slowStartTime": 39630,
+        "slowEndTime": 41825
+    },
+    {
+        "text": "Have you seen any good movies lately?",
+        "startTime": 29329,
+        "endTime": 31257,
+        "slowStartTime": 44144,
+        "slowEndTime": 47111
+    },
+    {
+        "text": "Do you like listening to music?",
+        "startTime": 33054,
+        "endTime": 34504,
+        "slowStartTime": 49731,
+        "slowEndTime": 51981
+    }
+]

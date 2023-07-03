@@ -1,0 +1,121 @@
+[
+    {
+        "text": "The dog goes woof.",
+        "startTime": 328,
+        "endTime": 1590,
+        "slowStartTime": 642,
+        "slowEndTime": 2610
+    },
+    {
+        "text": "Woof, woof, woof.",
+        "startTime": 2059,
+        "endTime": 3362,
+        "slowStartTime": 3238,
+        "slowEndTime": 5268
+    },
+    {
+        "text": "The cow goes moo.",
+        "startTime": 3651,
+        "endTime": 5137,
+        "slowStartTime": 5626,
+        "slowEndTime": 7931
+    },
+    {
+        "text": "Moo, moo, moo.",
+        "startTime": 5460,
+        "endTime": 6734,
+        "slowStartTime": 8340,
+        "slowEndTime": 10326
+    },
+    {
+        "text": "The duck goes quack.",
+        "startTime": 7223,
+        "endTime": 8337,
+        "slowStartTime": 10985,
+        "slowEndTime": 12730
+    },
+    {
+        "text": "Quack, quack, quack.",
+        "startTime": 8863,
+        "endTime": 9935,
+        "slowStartTime": 13445,
+        "slowEndTime": 15128
+    },
+    {
+        "text": "And the owl says to whit to whoo.",
+        "startTime": 10171,
+        "endTime": 13735,
+        "slowStartTime": 15407,
+        "slowEndTime": 20827
+    },
+    {
+        "text": "The cat goes meow.",
+        "startTime": 18052,
+        "endTime": 19475,
+        "slowStartTime": 27228,
+        "slowEndTime": 29437
+    },
+    {
+        "text": "Meow, meow.",
+        "startTime": 19582,
+        "endTime": 21104,
+        "slowStartTime": 29523,
+        "slowEndTime": 31881
+    },
+    {
+        "text": "The bird goes tweet.",
+        "startTime": 21328,
+        "endTime": 22505,
+        "slowStartTime": 32142,
+        "slowEndTime": 33982
+    },
+    {
+        "text": "Tweet, tweet, tweet.",
+        "startTime": 23062,
+        "endTime": 24095,
+        "slowStartTime": 34743,
+        "slowEndTime": 36368
+    },
+    {
+        "text": "The pig goes oink.",
+        "startTime": 24580,
+        "endTime": 25882,
+        "slowStartTime": 37020,
+        "slowEndTime": 39048
+    },
+    {
+        "text": "Oink, oink, oink.",
+        "startTime": 26439,
+        "endTime": 27461,
+        "slowStartTime": 39809,
+        "slowEndTime": 41417
+    },
+    {
+        "text": "And the little mouse says squeak, squeak, squeak.",
+        "startTime": 27603,
+        "endTime": 30716,
+        "slowStartTime": 41555,
+        "slowEndTime": 46299
+    },
+    {
+        "text": "Squeak, squeak, squeak.",
+        "startTime": 31205,
+        "endTime": 32385,
+        "slowStartTime": 46958,
+        "slowEndTime": 48802
+    },
+    {
+        "text": "These are the sounds that the animals make.",
+        "startTime": 35572,
+        "endTime": 38255,
+        "slowStartTime": 53508,
+        "slowEndTime": 57608
+    },
+    {
+        "text": "These are the sounds that the animals make.",
+        "startTime": 38823,
+        "endTime": 45339,
+        "slowStartTime": 58385,
+        "slowEndTime": 68233
+    }
+]

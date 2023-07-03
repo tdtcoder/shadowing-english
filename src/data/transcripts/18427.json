@@ -1,0 +1,128 @@
+[
+    {
+        "text": "You want the book?",
+        "startTime": 3359,
+        "endTime": 3957,
+        "slowStartTime": 5188,
+        "slowEndTime": 6160
+    },
+    {
+        "text": "Yes or no?",
+        "startTime": 4222,
+        "endTime": 5463,
+        "slowStartTime": 6483,
+        "slowEndTime": 8419
+    },
+    {
+        "text": "Look, Cameron, you want the book?",
+        "startTime": 8312,
+        "endTime": 9371,
+        "slowStartTime": 12618,
+        "slowEndTime": 14282
+    },
+    {
+        "text": "Yes or no?",
+        "startTime": 9512,
+        "endTime": 10389,
+        "slowStartTime": 14418,
+        "slowEndTime": 15808
+    },
+    {
+        "text": "No.",
+        "startTime": 14045,
+        "endTime": 14443,
+        "slowStartTime": 21217,
+        "slowEndTime": 21890
+    },
+    {
+        "text": "No, you don't want the book?",
+        "startTime": 14757,
+        "endTime": 15871,
+        "slowStartTime": 22285,
+        "slowEndTime": 24031
+    },
+    {
+        "text": "Okay.",
+        "startTime": 16087,
+        "endTime": 16747,
+        "slowStartTime": 24281,
+        "slowEndTime": 25345
+    },
+    {
+        "text": "Do you want the car?",
+        "startTime": 18005,
+        "endTime": 19235,
+        "slowStartTime": 27158,
+        "slowEndTime": 29077
+    },
+    {
+        "text": "Yes or no?",
+        "startTime": 19424,
+        "endTime": 20659,
+        "slowStartTime": 29286,
+        "slowEndTime": 31214
+    },
+    {
+        "text": "No.",
+        "startTime": 28059,
+        "endTime": 28389,
+        "slowStartTime": 42239,
+        "slowEndTime": 42809
+    },
+    {
+        "text": "No, you don't want the car.",
+        "startTime": 28667,
+        "endTime": 30241,
+        "slowStartTime": 43151,
+        "slowEndTime": 45586
+    },
+    {
+        "text": "Let's see what else.",
+        "startTime": 31035,
+        "endTime": 33407,
+        "slowStartTime": 46702,
+        "slowEndTime": 50336
+    },
+    {
+        "text": "Do you want the bubbles?",
+        "startTime": 35965,
+        "endTime": 37419,
+        "slowStartTime": 54097,
+        "slowEndTime": 56353
+    },
+    {
+        "text": "Yes or no?",
+        "startTime": 37648,
+        "endTime": 39482,
+        "slowStartTime": 56622,
+        "slowEndTime": 59448
+    },
+    {
+        "text": "You want the bubbles?",
+        "startTime": 43456,
+        "endTime": 44207,
+        "slowStartTime": 65334,
+        "slowEndTime": 66535
+    },
+    {
+        "text": "You have to tell me yes or no.",
+        "startTime": 44413,
+        "endTime": 45763,
+        "slowStartTime": 66769,
+        "slowEndTime": 68870
+    },
+    {
+        "text": "Yes.",
+        "startTime": 49963,
+        "endTime": 50489,
+        "slowStartTime": 75095,
+        "slowEndTime": 75959
+    },
+    {
+        "text": "Yes, you want the bubbles; I thought so!",
+        "startTime": 50920,
+        "endTime": 54425,
+        "slowStartTime": 76530,
+        "slowEndTime": 81862
+    }
+]

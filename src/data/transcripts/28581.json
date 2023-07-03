@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Let's learn what different TV shows are called.",
+        "startTime": 1239,
+        "endTime": 3494,
+        "slowStartTime": 2008,
+        "slowEndTime": 5466
+    },
+    {
+        "text": "The soap opera, \"Days of Our Lives,\" started in 1965.",
+        "startTime": 9633,
+        "endTime": 14659,
+        "slowStartTime": 14599,
+        "slowEndTime": 22214
+    },
+    {
+        "text": "Watching cooking shows makes me hungry.",
+        "startTime": 18805,
+        "endTime": 21903,
+        "slowStartTime": 28358,
+        "slowEndTime": 33079
+    },
+    {
+        "text": "I often get my news from CNN.",
+        "startTime": 28607,
+        "endTime": 32055,
+        "slowStartTime": 43060,
+        "slowEndTime": 48307
+    },
+    {
+        "text": "\"Tom and Jerry\" was my favorite cartoon when I was a kid.",
+        "startTime": 38790,
+        "endTime": 42211,
+        "slowStartTime": 58335,
+        "slowEndTime": 63541
+    },
+    {
+        "text": "I watch football games on a sports channel.",
+        "startTime": 48818,
+        "endTime": 51415,
+        "slowStartTime": 73377,
+        "slowEndTime": 77348
+    },
+    {
+        "text": "\"Grizzly Man\" is a documentary about bears.",
+        "startTime": 57962,
+        "endTime": 61341,
+        "slowStartTime": 87093,
+        "slowEndTime": 92236
+    },
+    {
+        "text": "\"The Bachelor\" is a popular reality TV show.",
+        "startTime": 68115,
+        "endTime": 70730,
+        "slowStartTime": 102322,
+        "slowEndTime": 106320
+    },
+    {
+        "text": "Millions of young people watched the sitcom, \"Friends.\"",
+        "startTime": 77423,
+        "endTime": 80575,
+        "slowStartTime": 116285,
+        "slowEndTime": 121087
+    },
+    {
+        "text": "I watch Jimmy Fallon's talk show because he's funny.",
+        "startTime": 86859,
+        "endTime": 90290,
+        "slowStartTime": 130439,
+        "slowEndTime": 135660
+    },
+    {
+        "text": "You must be smart to win in game shows like \"Jeopardy.\"",
+        "startTime": 96391,
+        "endTime": 99805,
+        "slowStartTime": 144737,
+        "slowEndTime": 149933
+    },
+    {
+        "text": "Romantic comedies warm my heart.",
+        "startTime": 105958,
+        "endTime": 109059,
+        "slowStartTime": 159087,
+        "slowEndTime": 163814
+    }
+]

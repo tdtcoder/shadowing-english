@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Poison checker!",
+        "startTime": 3510,
+        "endTime": 5200,
+        "slowStartTime": 5360,
+        "slowEndTime": 7500
+    },
+    {
+        "text": "Sometimes, it's better to let others go first,...",
+        "startTime": 5240,
+        "endTime": 7750,
+        "slowStartTime": 7930,
+        "slowEndTime": 11550
+    },
+    {
+        "text": "...so that we can learn...",
+        "startTime": 7880,
+        "endTime": 9050,
+        "slowStartTime": 11990,
+        "slowEndTime": 13540
+    },
+    {
+        "text": "...from their experiences...",
+        "startTime": 9060,
+        "endTime": 11100,
+        "slowStartTime": 14650,
+        "slowEndTime": 16640
+    },
+    {
+        "text": "Oh!",
+        "startTime": 11160,
+        "endTime": 11730,
+        "slowStartTime": 16650,
+        "slowEndTime": 17290
+    },
+    {
+        "text": "See if it's clear.",
+        "startTime": 17230,
+        "endTime": 18830,
+        "slowStartTime": 26830,
+        "slowEndTime": 28320
+    },
+    {
+        "text": "Nope, ain't clear.",
+        "startTime": 21940,
+        "endTime": 23710,
+        "slowStartTime": 33370,
+        "slowEndTime": 35690
+    },
+    {
+        "text": "...like with car buying.",
+        "startTime": 23790,
+        "endTime": 24750,
+        "slowStartTime": 35830,
+        "slowEndTime": 37300
+    },
+    {
+        "text": "Learn from the experience of others by reading consumer and expert reviews at cars.com...",
+        "startTime": 24810,
+        "endTime": 29330,
+        "slowStartTime": 37380,
+        "slowEndTime": 44140
+    },
+    {
+        "text": "...and find the perfect car.",
+        "startTime": 29410,
+        "endTime": 30790,
+        "slowStartTime": 44360,
+        "slowEndTime": 46190
+    }
+]

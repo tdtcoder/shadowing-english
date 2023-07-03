@@ -1,0 +1,51 @@
+[
+    {
+        "text": "My mom?",
+        "startTime": 7535,
+        "endTime": 8336,
+        "slowStartTime": 11453,
+        "slowEndTime": 12729
+    },
+    {
+        "text": "She makes underwater fans that are powered by the moon.",
+        "startTime": 8607,
+        "endTime": 12031,
+        "slowStartTime": 13061,
+        "slowEndTime": 18272
+    },
+    {
+        "text": "My mom makes airplane engines that can talk.",
+        "startTime": 16997,
+        "endTime": 19795,
+        "slowStartTime": 25646,
+        "slowEndTime": 29918
+    },
+    {
+        "text": "My mom makes hospitals you can hold in your hand.",
+        "startTime": 26140,
+        "endTime": 29233,
+        "slowStartTime": 39360,
+        "slowEndTime": 44075
+    },
+    {
+        "text": "My mom can print amazing things right from her computer.",
+        "startTime": 33005,
+        "endTime": 37135,
+        "slowStartTime": 49657,
+        "slowEndTime": 55927
+    },
+    {
+        "text": "My mom makes trains that are friends with trees.",
+        "startTime": 43279,
+        "endTime": 46699,
+        "slowStartTime": 65069,
+        "slowEndTime": 70273
+    },
+    {
+        "text": "My mom works at GE.",
+        "startTime": 52957,
+        "endTime": 54351,
+        "slowStartTime": 79586,
+        "slowEndTime": 81751
+    }
+]

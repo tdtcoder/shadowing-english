@@ -1,0 +1,65 @@
+[
+    {
+        "text": "What is the best thing about being married?",
+        "startTime": 50,
+        "endTime": 1861,
+        "slowStartTime": 114,
+        "slowEndTime": 3016
+    },
+    {
+        "text": "How do I say it?",
+        "startTime": 4273,
+        "endTime": 5351,
+        "slowStartTime": 6559,
+        "slowEndTime": 8252
+    },
+    {
+        "text": "Hello?",
+        "startTime": 5460,
+        "endTime": 6084,
+        "slowStartTime": 8340,
+        "slowEndTime": 9351
+    },
+    {
+        "text": "It is the best.",
+        "startTime": 6153,
+        "endTime": 7067,
+        "slowStartTime": 9380,
+        "slowEndTime": 10825
+    },
+    {
+        "text": "I think that really, at the end of the day, like...",
+        "startTime": 8325,
+        "endTime": 9755,
+        "slowStartTime": 12638,
+        "slowEndTime": 14857
+    },
+    {
+        "text": "...if you find the right person, it's the best.",
+        "startTime": 10875,
+        "endTime": 12671,
+        "slowStartTime": 16463,
+        "slowEndTime": 19232
+    },
+    {
+        "text": "It's like life gives you a person and you have to find that person...",
+        "startTime": 12825,
+        "endTime": 17662,
+        "slowStartTime": 19388,
+        "slowEndTime": 26718
+    },
+    {
+        "text": "...and if you find that person it's like, \"Thank god.\"",
+        "startTime": 17738,
+        "endTime": 20263,
+        "slowStartTime": 26757,
+        "slowEndTime": 30619
+    },
+    {
+        "text": "And that's kind of how I feel.",
+        "startTime": 20391,
+        "endTime": 21535,
+        "slowStartTime": 30737,
+        "slowEndTime": 32527
+    }
+]

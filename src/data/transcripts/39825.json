@@ -1,0 +1,184 @@
+[
+    {
+        "text": "Where are my earrings?",
+        "startTime": 3231,
+        "endTime": 5208,
+        "slowStartTime": 4997,
+        "slowEndTime": 8037
+    },
+    {
+        "text": "Are they on the table?",
+        "startTime": 5897,
+        "endTime": 7151,
+        "slowStartTime": 8996,
+        "slowEndTime": 10951
+    },
+    {
+        "text": "No.",
+        "startTime": 7521,
+        "endTime": 8420,
+        "slowStartTime": 11432,
+        "slowEndTime": 12855
+    },
+    {
+        "text": "Oh, here they are!",
+        "startTime": 9555,
+        "endTime": 11094,
+        "slowStartTime": 14483,
+        "slowEndTime": 16866
+    },
+    {
+        "text": "In my purse.",
+        "startTime": 11396,
+        "endTime": 12431,
+        "slowStartTime": 17244,
+        "slowEndTime": 18871
+    },
+    {
+        "text": "Now, where's my watch?",
+        "startTime": 12883,
+        "endTime": 15243,
+        "slowStartTime": 19474,
+        "slowEndTime": 23090
+    },
+    {
+        "text": "Hmm, it's not in my purse.",
+        "startTime": 16967,
+        "endTime": 19917,
+        "slowStartTime": 25600,
+        "slowEndTime": 30101
+    },
+    {
+        "text": "Where...",
+        "startTime": 20363,
+        "endTime": 21059,
+        "slowStartTime": 30695,
+        "slowEndTime": 31814
+    },
+    {
+        "text": "There it is!",
+        "startTime": 21183,
+        "endTime": 21949,
+        "slowStartTime": 31925,
+        "slowEndTime": 33149
+    },
+    {
+        "text": "In front of the television.",
+        "startTime": 22672,
+        "endTime": 24154,
+        "slowStartTime": 34158,
+        "slowEndTime": 36456
+    },
+    {
+        "text": "Oh, of course!",
+        "startTime": 24424,
+        "endTime": 26081,
+        "slowStartTime": 36786,
+        "slowEndTime": 39347
+    },
+    {
+        "text": "Thanks, Joe.",
+        "startTime": 26451,
+        "endTime": 27484,
+        "slowStartTime": 39827,
+        "slowEndTime": 41451
+    },
+    {
+        "text": "Let's see.",
+        "startTime": 27995,
+        "endTime": 28981,
+        "slowStartTime": 42142,
+        "slowEndTime": 43696
+    },
+    {
+        "text": "My sunglasses...",
+        "startTime": 29492,
+        "endTime": 30933,
+        "slowStartTime": 44388,
+        "slowEndTime": 46625
+    },
+    {
+        "text": "...where are they?",
+        "startTime": 31307,
+        "endTime": 32645,
+        "slowStartTime": 47110,
+        "slowEndTime": 49193
+    },
+    {
+        "text": "Next to my watch?",
+        "startTime": 33079,
+        "endTime": 34633,
+        "slowStartTime": 49768,
+        "slowEndTime": 52175
+    },
+    {
+        "text": "No.",
+        "startTime": 34890,
+        "endTime": 35579,
+        "slowStartTime": 52485,
+        "slowEndTime": 53593
+    },
+    {
+        "text": "Are they behind your purse?",
+        "startTime": 35833,
+        "endTime": 37371,
+        "slowStartTime": 53900,
+        "slowEndTime": 56281
+    },
+    {
+        "text": "No, they aren't.",
+        "startTime": 37762,
+        "endTime": 39521,
+        "slowStartTime": 56793,
+        "slowEndTime": 59507
+    },
+    {
+        "text": "Oh, they're on the chair!",
+        "startTime": 40129,
+        "endTime": 41815,
+        "slowStartTime": 60343,
+        "slowEndTime": 62948
+    },
+    {
+        "text": "Great!",
+        "startTime": 42040,
+        "endTime": 42719,
+        "slowStartTime": 63210,
+        "slowEndTime": 64303
+    },
+    {
+        "text": "Now, I just need one more thing.",
+        "startTime": 43105,
+        "endTime": 45798,
+        "slowStartTime": 64807,
+        "slowEndTime": 68922
+    },
+    {
+        "text": "My camera.",
+        "startTime": 46160,
+        "endTime": 47082,
+        "slowStartTime": 69390,
+        "slowEndTime": 70848
+    },
+    {
+        "text": "Maybe it's on the table.",
+        "startTime": 47579,
+        "endTime": 49220,
+        "slowStartTime": 71518,
+        "slowEndTime": 74055
+    },
+    {
+        "text": "No, it's not.",
+        "startTime": 49697,
+        "endTime": 51045,
+        "slowStartTime": 74696,
+        "slowEndTime": 76792
+    },
+    {
+        "text": "It's under the table.",
+        "startTime": 51632,
+        "endTime": 53356,
+        "slowStartTime": 77598,
+        "slowEndTime": 80259
+    }
+]

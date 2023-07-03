@@ -1,0 +1,149 @@
+[
+    {
+        "text": "The great Victor Hugo once said,...",
+        "startTime": 2090,
+        "endTime": 3900,
+        "slowStartTime": 3290,
+        "slowEndTime": 6080
+    },
+    {
+        "text": "\"The Paris underground is an abyss everywhere you look.\"",
+        "startTime": 4260,
+        "endTime": 7650,
+        "slowStartTime": 6540,
+        "slowEndTime": 11700
+    },
+    {
+        "text": "Sewers, mines, catacombs,...",
+        "startTime": 8120,
+        "endTime": 10740,
+        "slowStartTime": 12340,
+        "slowEndTime": 16330
+    },
+    {
+        "text": "...twisting and turning in all directions.",
+        "startTime": 11110,
+        "endTime": 13560,
+        "slowStartTime": 16820,
+        "slowEndTime": 20570
+    },
+    {
+        "text": "A maze stretching into the bowels of the Earth.",
+        "startTime": 13880,
+        "endTime": 17000,
+        "slowStartTime": 20970,
+        "slowEndTime": 25730
+    },
+    {
+        "text": "All right here under our feet.",
+        "startTime": 17340,
+        "endTime": 20740,
+        "slowStartTime": 26170,
+        "slowEndTime": 31330
+    },
+    {
+        "text": "Amazing treasure sometimes turn up down there.",
+        "startTime": 21270,
+        "endTime": 23550,
+        "slowStartTime": 32050,
+        "slowEndTime": 35550
+    },
+    {
+        "text": "Treasure animatus, heed my call and yield your secrets to me.",
+        "startTime": 29370,
+        "endTime": 34270,
+        "slowStartTime": 44200,
+        "slowEndTime": 51630
+    },
+    {
+        "text": "Help me Doctor Lautrec, please.",
+        "startTime": 44380,
+        "endTime": 46160,
+        "slowStartTime": 66730,
+        "slowEndTime": 69470
+    },
+    {
+        "text": "You see, she has a puzzle that only you can solve.",
+        "startTime": 46450,
+        "endTime": 50360,
+        "slowStartTime": 69820,
+        "slowEndTime": 75770
+    },
+    {
+        "text": "You enjoy such things now?",
+        "startTime": 51160,
+        "endTime": 53280,
+        "slowStartTime": 76890,
+        "slowEndTime": 80150
+    },
+    {
+        "text": "There's someone who'd like to meet you. Come along!",
+        "startTime": 54080,
+        "endTime": 56620,
+        "slowStartTime": 81270,
+        "slowEndTime": 85160
+    },
+    {
+        "text": "We are the Knights of the Iron Mask. The rightful servants of the royal family.",
+        "startTime": 57020,
+        "endTime": 62670,
+        "slowStartTime": 85680,
+        "slowEndTime": 94240
+    },
+    {
+        "text": "The power of logic will bring any and all truths to light. No mystery is unsolvable.",
+        "startTime": 63210,
+        "endTime": 68420,
+        "slowStartTime": 94970,
+        "slowEndTime": 102850
+    },
+    {
+        "text": "This is too much. Oh, d'Artagan! You're so dashing.",
+        "startTime": 69710,
+        "endTime": 73910,
+        "slowStartTime": 104720,
+        "slowEndTime": 111090
+    },
+    {
+        "text": "You're not getting away.",
+        "startTime": 74920,
+        "endTime": 76570,
+        "slowStartTime": 112530,
+        "slowEndTime": 115080
+    },
+    {
+        "text": "We're gonna catch up.",
+        "startTime": 76900,
+        "endTime": 77960,
+        "slowStartTime": 115510,
+        "slowEndTime": 117170
+    },
+    {
+        "text": "Come on!",
+        "startTime": 79050,
+        "endTime": 79440,
+        "slowStartTime": 118730,
+        "slowEndTime": 119380
+    },
+    {
+        "text": "What are you doing? Oh no, watch out!",
+        "startTime": 79890,
+        "endTime": 81680,
+        "slowStartTime": 119990,
+        "slowEndTime": 122750
+    },
+    {
+        "text": "Come no further, unless thou desirest to know all.",
+        "startTime": 82700,
+        "endTime": 86940,
+        "slowStartTime": 124200,
+        "slowEndTime": 130640
+    },
+    {
+        "text": "Mark my words, I will unravel every last mystery before I'm through.",
+        "startTime": 88200,
+        "endTime": 93920,
+        "slowStartTime": 132460,
+        "slowEndTime": 141110
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "text": "More than 20,000 species of debris are tracked as they orbit Earth.",
+        "startTime": 2379,
+        "endTime": 6883,
+        "slowStartTime": 3719,
+        "slowEndTime": 10549
+    },
+    {
+        "text": "However, most of this debris is too small for ground-based sensors to track.",
+        "startTime": 7719,
+        "endTime": 12523,
+        "slowStartTime": 11729,
+        "slowEndTime": 19009
+    },
+    {
+        "text": "Mounted on the exterior of the International Space Station,...",
+        "startTime": 15500,
+        "endTime": 19115,
+        "slowStartTime": 23400,
+        "slowEndTime": 28898
+    },
+    {
+        "text": "...the Space Debris Sensor (SDS) collects data on smaller orbital debris.",
+        "startTime": 19572,
+        "endTime": 25040,
+        "slowStartTime": 29508,
+        "slowEndTime": 37785
+    },
+    {
+        "text": "The SDS consists of three layers.",
+        "startTime": 25583,
+        "endTime": 28201,
+        "slowStartTime": 38525,
+        "slowEndTime": 42527
+    },
+    {
+        "text": "The first two layers are identical and incorporate acoustic sensors.",
+        "startTime": 28667,
+        "endTime": 32949,
+        "slowStartTime": 43151,
+        "slowEndTime": 49649
+    },
+    {
+        "text": "These measure the exact time and location of a debris hit and the velocity vector.",
+        "startTime": 33761,
+        "endTime": 38885,
+        "slowStartTime": 50792,
+        "slowEndTime": 58553
+    },
+    {
+        "text": "The first layer has a resistive grid, which gives an indication of debris size.",
+        "startTime": 39432,
+        "endTime": 44825,
+        "slowStartTime": 59298,
+        "slowEndTime": 67463
+    },
+    {
+        "text": "The last layer helps determine the impact energy and density of the particle.",
+        "startTime": 45695,
+        "endTime": 50727,
+        "slowStartTime": 68693,
+        "slowEndTime": 76315
+    },
+    {
+        "text": "The data obtained will help estimate the population of debris smaller than 1 mm,...",
+        "startTime": 55322,
+        "endTime": 60319,
+        "slowStartTime": 83133,
+        "slowEndTime": 90704
+    },
+    {
+        "text": "...and allow a new set of sensors to be developed...",
+        "startTime": 60979,
+        "endTime": 63414,
+        "slowStartTime": 91619,
+        "slowEndTime": 95346
+    },
+    {
+        "text": "...and placed in the midst of the debris field above station orbit.",
+        "startTime": 63845,
+        "endTime": 67977,
+        "slowStartTime": 95918,
+        "slowEndTime": 102190
+    },
+    {
+        "text": "This will help improve the debris detection and characterization technology...",
+        "startTime": 70007,
+        "endTime": 74566,
+        "slowStartTime": 105161,
+        "slowEndTime": 112074
+    },
+    {
+        "text": "...necessary to protect satellites and human space flight missions.",
+        "startTime": 75073,
+        "endTime": 79270,
+        "slowStartTime": 112760,
+        "slowEndTime": 119130
+    }
+]

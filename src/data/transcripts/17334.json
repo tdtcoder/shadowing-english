@@ -1,0 +1,100 @@
+[
+    {
+        "text": "He runs to the bus.",
+        "startTime": 3339,
+        "endTime": 4745,
+        "slowStartTime": 5158,
+        "slowEndTime": 7342
+    },
+    {
+        "text": "He runs to the train.",
+        "startTime": 5945,
+        "endTime": 7489,
+        "slowStartTime": 9067,
+        "slowEndTime": 11459
+    },
+    {
+        "text": "He runs to the boat.",
+        "startTime": 8632,
+        "endTime": 9827,
+        "slowStartTime": 13098,
+        "slowEndTime": 14965
+    },
+    {
+        "text": "He runs to the plane.",
+        "startTime": 10971,
+        "endTime": 12588,
+        "slowStartTime": 16607,
+        "slowEndTime": 19107
+    },
+    {
+        "text": "He runs to the school.",
+        "startTime": 13720,
+        "endTime": 15475,
+        "slowStartTime": 20730,
+        "slowEndTime": 23438
+    },
+    {
+        "text": "He runs to the store.",
+        "startTime": 16558,
+        "endTime": 18223,
+        "slowStartTime": 24987,
+        "slowEndTime": 27560
+    },
+    {
+        "text": "He runs to the pool.",
+        "startTime": 19341,
+        "endTime": 21059,
+        "slowStartTime": 29161,
+        "slowEndTime": 31813
+    },
+    {
+        "text": "He runs home.",
+        "startTime": 22231,
+        "endTime": 23451,
+        "slowStartTime": 33496,
+        "slowEndTime": 35401
+    },
+    {
+        "text": "Where does Amy go?",
+        "startTime": 26761,
+        "endTime": 28603,
+        "slowStartTime": 40292,
+        "slowEndTime": 43130
+    },
+    {
+        "text": "She runs to the supermarket.",
+        "startTime": 29731,
+        "endTime": 31999,
+        "slowStartTime": 44746,
+        "slowEndTime": 48223
+    },
+    {
+        "text": "Does Brian also run to the supermarket?",
+        "startTime": 33163,
+        "endTime": 36532,
+        "slowStartTime": 49894,
+        "slowEndTime": 55023
+    },
+    {
+        "text": "No, he runs to the playground.",
+        "startTime": 37666,
+        "endTime": 40399,
+        "slowStartTime": 56649,
+        "slowEndTime": 60824
+    },
+    {
+        "text": "Do Betty and Eric run to the playground too?",
+        "startTime": 41607,
+        "endTime": 44936,
+        "slowStartTime": 62561,
+        "slowEndTime": 67629
+    },
+    {
+        "text": "Yes, they do.",
+        "startTime": 46134,
+        "endTime": 47315,
+        "slowStartTime": 69351,
+        "slowEndTime": 71198
+    }
+]

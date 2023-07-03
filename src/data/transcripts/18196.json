@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Well, it's an unsettled picture as we head towards the end of the week.",
+        "startTime": 1543,
+        "endTime": 4623,
+        "slowStartTime": 2464,
+        "slowEndTime": 7159
+    },
+    {
+        "text": "This afternoon it'll be cold, wet and windy across most of Scotland.",
+        "startTime": 5729,
+        "endTime": 9487,
+        "slowStartTime": 8744,
+        "slowEndTime": 14456
+    },
+    {
+        "text": "We're under the influence of low pressure...",
+        "startTime": 10201,
+        "endTime": 13153,
+        "slowStartTime": 15452,
+        "slowEndTime": 19955
+    },
+    {
+        "text": "...and this weather front pushing northwest is bringing cloud and outbreaks of rain.",
+        "startTime": 13377,
+        "endTime": 18554,
+        "slowStartTime": 20216,
+        "slowEndTime": 28056
+    },
+    {
+        "text": "The rain, of course, will be heaviest over the borders and around Edinburgh,...",
+        "startTime": 19109,
+        "endTime": 23398,
+        "slowStartTime": 28813,
+        "slowEndTime": 35322
+    },
+    {
+        "text": "...where it could lead to difficult conditions on the roads.",
+        "startTime": 23804,
+        "endTime": 26310,
+        "slowStartTime": 35856,
+        "slowEndTime": 39690
+    },
+    {
+        "text": "In the west, rain will be lighter and patchier.",
+        "startTime": 27313,
+        "endTime": 29894,
+        "slowStartTime": 41119,
+        "slowEndTime": 45066
+    },
+    {
+        "text": "There would, maybe a few drier interludes over Dumfries House in Ayrshire.",
+        "startTime": 29971,
+        "endTime": 33871,
+        "slowStartTime": 45107,
+        "slowEndTime": 51031
+    },
+    {
+        "text": "There will be snow for the higher ground of the highlands and Aberdeenshire.",
+        "startTime": 35311,
+        "endTime": 39473,
+        "slowStartTime": 53116,
+        "slowEndTime": 59435
+    },
+    {
+        "text": "The potential for a few flurries over Balmoral...",
+        "startTime": 40053,
+        "endTime": 42067,
+        "slowStartTime": 60229,
+        "slowEndTime": 63325
+    },
+    {
+        "text": "Who the hell wrote this script?",
+        "startTime": 42314,
+        "endTime": 43219,
+        "slowStartTime": 63621,
+        "slowEndTime": 65054
+    },
+    {
+        "text": "...as the afternoon goes on.",
+        "startTime": 43960,
+        "endTime": 45375,
+        "slowStartTime": 66090,
+        "slowEndTime": 68288
+    },
+    {
+        "text": "The best of the drier and brighter weather will, of course, be over the northern isles and the far north of the mainland.",
+        "startTime": 46115,
+        "endTime": 52379,
+        "slowStartTime": 69322,
+        "slowEndTime": 78793
+    },
+    {
+        "text": "So, a little hazy sunshine for the Castle of Mey and Caithness,...",
+        "startTime": 52485,
+        "endTime": 56211,
+        "slowStartTime": 78878,
+        "slowEndTime": 84542
+    },
+    {
+        "text": "...but a cold day everywhere with temperatures of just eight Celsius and a brisk, northeasterly wind.",
+        "startTime": 56769,
+        "endTime": 61649,
+        "slowStartTime": 85304,
+        "slowEndTime": 92698
+    },
+    {
+        "text": "Thank God it isn't a bank holiday!",
+        "startTime": 62081,
+        "endTime": 63507,
+        "slowStartTime": 93271,
+        "slowEndTime": 95485
+    }
+]

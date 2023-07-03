@@ -1,0 +1,79 @@
+[
+    {
+        "text": "I am the mountain.",
+        "startTime": 1549,
+        "endTime": 2551,
+        "slowStartTime": 2473,
+        "slowEndTime": 4051
+    },
+    {
+        "text": "I am nature's oldest temple.",
+        "startTime": 3897,
+        "endTime": 5619,
+        "slowStartTime": 5996,
+        "slowEndTime": 8654
+    },
+    {
+        "text": "My glaciers and streams provide the water you drink;...",
+        "startTime": 6772,
+        "endTime": 9764,
+        "slowStartTime": 10308,
+        "slowEndTime": 14871
+    },
+    {
+        "text": "...my forests your wood, your clean air.",
+        "startTime": 10651,
+        "endTime": 13705,
+        "slowStartTime": 16126,
+        "slowEndTime": 20782
+    },
+    {
+        "text": "From up here, I see how you've come to treat this world.",
+        "startTime": 14897,
+        "endTime": 18000,
+        "slowStartTime": 22495,
+        "slowEndTime": 27225
+    },
+    {
+        "text": "You used to recharge your body and soul in the calm of my forests.",
+        "startTime": 19013,
+        "endTime": 23103,
+        "slowStartTime": 28669,
+        "slowEndTime": 34880
+    },
+    {
+        "text": "You once climbed my peaks, seeking enlightenment.",
+        "startTime": 24188,
+        "endTime": 26901,
+        "slowStartTime": 36432,
+        "slowEndTime": 40577
+    },
+    {
+        "text": "Now, you take what you want and contemplate only your own gain.",
+        "startTime": 28655,
+        "endTime": 32875,
+        "slowStartTime": 43132,
+        "slowEndTime": 49538
+    },
+    {
+        "text": "Open your eyes while there's still time...",
+        "startTime": 34987,
+        "endTime": 37670,
+        "slowStartTime": 52630,
+        "slowEndTime": 56730
+    },
+    {
+        "text": "...because there's one more thing I see clearly:...",
+        "startTime": 39031,
+        "endTime": 41418,
+        "slowStartTime": 58697,
+        "slowEndTime": 62352
+    },
+    {
+        "text": "...the cliff you're on and the rocks below.",
+        "startTime": 43005,
+        "endTime": 46559,
+        "slowStartTime": 64658,
+        "slowEndTime": 70064
+    }
+]

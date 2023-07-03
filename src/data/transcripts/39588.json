@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Okay.",
+        "startTime": 3,
+        "endTime": 1478,
+        "slowStartTime": 154,
+        "slowEndTime": 2442
+    },
+    {
+        "text": "And what's your contact phone number?",
+        "startTime": 2039,
+        "endTime": 5267,
+        "slowStartTime": 3208,
+        "slowEndTime": 8125
+    },
+    {
+        "text": "It's 0783...",
+        "startTime": 6425,
+        "endTime": 13825,
+        "slowStartTime": 9787,
+        "slowEndTime": 20963
+    },
+    {
+        "text": "0783, yes?",
+        "startTime": 14239,
+        "endTime": 18157,
+        "slowStartTime": 21508,
+        "slowEndTime": 27460
+    },
+    {
+        "text": "3904...",
+        "startTime": 18560,
+        "endTime": 21939,
+        "slowStartTime": 27990,
+        "slowEndTime": 33134
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 22453,
+        "endTime": 23293,
+        "slowStartTime": 33830,
+        "slowEndTime": 35164
+    },
+    {
+        "text": "237...",
+        "startTime": 24226,
+        "endTime": 26511,
+        "slowStartTime": 36489,
+        "slowEndTime": 39992
+    },
+    {
+        "text": "237...",
+        "startTime": 27127,
+        "endTime": 30017,
+        "slowStartTime": 40841,
+        "slowEndTime": 45251
+    },
+    {
+        "text": "Okay.",
+        "startTime": 31163,
+        "endTime": 32505,
+        "slowStartTime": 46895,
+        "slowEndTime": 48983
+    },
+    {
+        "text": "That's 0783-3904-237.",
+        "startTime": 33013,
+        "endTime": 41377,
+        "slowStartTime": 49670,
+        "slowEndTime": 62291
+    },
+    {
+        "text": "That's it.",
+        "startTime": 42061,
+        "endTime": 42809,
+        "slowStartTime": 63241,
+        "slowEndTime": 64438
+    }
+]

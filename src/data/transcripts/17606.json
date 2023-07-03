@@ -1,0 +1,177 @@
+[
+    {
+        "text": "Animals live in many different places.",
+        "startTime": 2539,
+        "endTime": 5459,
+        "slowStartTime": 3959,
+        "slowEndTime": 8414
+    },
+    {
+        "text": "Some live above the ground.",
+        "startTime": 6430,
+        "endTime": 8378,
+        "slowStartTime": 9795,
+        "slowEndTime": 12792
+    },
+    {
+        "text": "Some live in the ground.",
+        "startTime": 9321,
+        "endTime": 11033,
+        "slowStartTime": 14132,
+        "slowEndTime": 16774
+    },
+    {
+        "text": "Some live on the ground.",
+        "startTime": 12055,
+        "endTime": 13924,
+        "slowStartTime": 18233,
+        "slowEndTime": 21111
+    },
+    {
+        "text": "Some live in the water.",
+        "startTime": 14894,
+        "endTime": 16711,
+        "slowStartTime": 22491,
+        "slowEndTime": 25291
+    },
+    {
+        "text": "This bird lives in the trees.",
+        "startTime": 17655,
+        "endTime": 19917,
+        "slowStartTime": 26632,
+        "slowEndTime": 30101
+    },
+    {
+        "text": "The monkey lives in the trees, too.",
+        "startTime": 20888,
+        "endTime": 23671,
+        "slowStartTime": 31482,
+        "slowEndTime": 35731
+    },
+    {
+        "text": "This frog lives in a pond.",
+        "startTime": 24615,
+        "endTime": 26878,
+        "slowStartTime": 37072,
+        "slowEndTime": 40542
+    },
+    {
+        "text": "The turtle lives in a pond, too.",
+        "startTime": 27795,
+        "endTime": 30269,
+        "slowStartTime": 41843,
+        "slowEndTime": 45628
+    },
+    {
+        "text": "This prairie dog lives in a burrow.",
+        "startTime": 31160,
+        "endTime": 33791,
+        "slowStartTime": 46890,
+        "slowEndTime": 50912
+    },
+    {
+        "text": "The woodchuck lives in a burrow, too.",
+        "startTime": 34840,
+        "endTime": 37313,
+        "slowStartTime": 52410,
+        "slowEndTime": 56195
+    },
+    {
+        "text": "These bats live in a cave.",
+        "startTime": 38389,
+        "endTime": 40652,
+        "slowStartTime": 57733,
+        "slowEndTime": 61203
+    },
+    {
+        "text": "This bear lives in a cave, too.",
+        "startTime": 41675,
+        "endTime": 44069,
+        "slowStartTime": 62662,
+        "slowEndTime": 66328
+    },
+    {
+        "text": "This deer lives in the woods.",
+        "startTime": 45013,
+        "endTime": 47097,
+        "slowStartTime": 67670,
+        "slowEndTime": 70871
+    },
+    {
+        "text": "The fox lives in the woods, too.",
+        "startTime": 48177,
+        "endTime": 50513,
+        "slowStartTime": 72415,
+        "slowEndTime": 75994
+    },
+    {
+        "text": "This octopus lives in the ocean.",
+        "startTime": 51483,
+        "endTime": 54141,
+        "slowStartTime": 77374,
+        "slowEndTime": 81436
+    },
+    {
+        "text": "The whale lives in the ocean, too.",
+        "startTime": 55111,
+        "endTime": 57715,
+        "slowStartTime": 82816,
+        "slowEndTime": 86798
+    },
+    {
+        "text": "Mandy and Michael live in a house.",
+        "startTime": 58659,
+        "endTime": 61422,
+        "slowStartTime": 88139,
+        "slowEndTime": 92358
+    },
+    {
+        "text": "People are animals, too.",
+        "startTime": 62445,
+        "endTime": 64524,
+        "slowStartTime": 93817,
+        "slowEndTime": 97011
+    },
+    {
+        "text": "Where does the bird live?",
+        "startTime": 68579,
+        "endTime": 70263,
+        "slowStartTime": 103018,
+        "slowEndTime": 105620
+    },
+    {
+        "text": "The bird lives in the trees.",
+        "startTime": 71417,
+        "endTime": 73602,
+        "slowStartTime": 107276,
+        "slowEndTime": 110628
+    },
+    {
+        "text": "Where does the monkey live?",
+        "startTime": 74677,
+        "endTime": 76467,
+        "slowStartTime": 112166,
+        "slowEndTime": 114926
+    },
+    {
+        "text": "The monkey lives in the trees, too.",
+        "startTime": 77496,
+        "endTime": 79891,
+        "slowStartTime": 116394,
+        "slowEndTime": 120061
+    },
+    {
+        "text": "Where does the sloth live?",
+        "startTime": 80887,
+        "endTime": 82967,
+        "slowStartTime": 121481,
+        "slowEndTime": 124675
+    },
+    {
+        "text": "The sloth also lives in the trees.",
+        "startTime": 84015,
+        "endTime": 86909,
+        "slowStartTime": 126173,
+        "slowEndTime": 130589
+    }
+]

@@ -1,0 +1,345 @@
+[
+    {
+        "text": "Hey Ellie!",
+        "startTime": 5121,
+        "endTime": 5717,
+        "slowStartTime": 7832,
+        "slowEndTime": 8801
+    },
+    {
+        "text": "Hi Auntie.",
+        "startTime": 5898,
+        "endTime": 7055,
+        "slowStartTime": 8997,
+        "slowEndTime": 10808
+    },
+    {
+        "text": "What's wrong, Ellie?",
+        "startTime": 7988,
+        "endTime": 8797,
+        "slowStartTime": 12132,
+        "slowEndTime": 13421
+    },
+    {
+        "text": "Alex and Lyndon have this really cool toy.",
+        "startTime": 8903,
+        "endTime": 12891,
+        "slowStartTime": 13505,
+        "slowEndTime": 19562
+    },
+    {
+        "text": "Oh, the building blocks, Ellie?",
+        "startTime": 12981,
+        "endTime": 14332,
+        "slowStartTime": 19621,
+        "slowEndTime": 21723
+    },
+    {
+        "text": "Yeah!",
+        "startTime": 14424,
+        "endTime": 15192,
+        "slowStartTime": 21786,
+        "slowEndTime": 23013
+    },
+    {
+        "text": "They didn't let you play?",
+        "startTime": 15274,
+        "endTime": 16229,
+        "slowStartTime": 23061,
+        "slowEndTime": 24568
+    },
+    {
+        "text": "No, they didn't let me play.",
+        "startTime": 16305,
+        "endTime": 18434,
+        "slowStartTime": 24608,
+        "slowEndTime": 27876
+    },
+    {
+        "text": "Oh, I'm sorry Ellie.",
+        "startTime": 18649,
+        "endTime": 20214,
+        "slowStartTime": 28123,
+        "slowEndTime": 30546
+    },
+    {
+        "text": "Since you're doing so well in school, you deserve a reward.",
+        "startTime": 20691,
+        "endTime": 23237,
+        "slowStartTime": 31187,
+        "slowEndTime": 35080
+    },
+    {
+        "text": "Really Auntie?",
+        "startTime": 23677,
+        "endTime": 24415,
+        "slowStartTime": 35665,
+        "slowEndTime": 36847
+    },
+    {
+        "text": "Thank you!",
+        "startTime": 24679,
+        "endTime": 25377,
+        "slowStartTime": 37168,
+        "slowEndTime": 38290
+    },
+    {
+        "text": "Alright, I'll be right back.",
+        "startTime": 25475,
+        "endTime": 26794,
+        "slowStartTime": 38362,
+        "slowEndTime": 40416
+    },
+    {
+        "text": "Ellie, can you clean your room a little bit?",
+        "startTime": 29006,
+        "endTime": 30695,
+        "slowStartTime": 43659,
+        "slowEndTime": 46268
+    },
+    {
+        "text": "Okay Auntie, I will.",
+        "startTime": 30804,
+        "endTime": 31965,
+        "slowStartTime": 46356,
+        "slowEndTime": 48172
+    },
+    {
+        "text": "I'm back!",
+        "startTime": 38782,
+        "endTime": 40045,
+        "slowStartTime": 58323,
+        "slowEndTime": 60292
+    },
+    {
+        "text": "Hi Auntie!",
+        "startTime": 40267,
+        "endTime": 41454,
+        "slowStartTime": 60550,
+        "slowEndTime": 62406
+    },
+    {
+        "text": "Look what I got you.",
+        "startTime": 41554,
+        "endTime": 42367,
+        "slowStartTime": 62481,
+        "slowEndTime": 63775
+    },
+    {
+        "text": "Ball pit? Wow, this is so cool, Auntie.",
+        "startTime": 42471,
+        "endTime": 46767,
+        "slowStartTime": 63856,
+        "slowEndTime": 70375
+    },
+    {
+        "text": "Ellie, this is just half of the toy.",
+        "startTime": 46957,
+        "endTime": 48825,
+        "slowStartTime": 70585,
+        "slowEndTime": 73462
+    },
+    {
+        "text": "What?",
+        "startTime": 48957,
+        "endTime": 49862,
+        "slowStartTime": 73585,
+        "slowEndTime": 75018
+    },
+    {
+        "text": "Come on Ellie, follow me.",
+        "startTime": 49953,
+        "endTime": 51174,
+        "slowStartTime": 75080,
+        "slowEndTime": 76986
+    },
+    {
+        "text": "Wow!",
+        "startTime": 52331,
+        "endTime": 53483,
+        "slowStartTime": 78647,
+        "slowEndTime": 80450
+    },
+    {
+        "text": "This is so awesome!",
+        "startTime": 57275,
+        "endTime": 58896,
+        "slowStartTime": 86062,
+        "slowEndTime": 88569
+    },
+    {
+        "text": "You worked so hard in school, you deserve it, Ellie.",
+        "startTime": 59015,
+        "endTime": 61508,
+        "slowStartTime": 88672,
+        "slowEndTime": 92487
+    },
+    {
+        "text": "Are you ready, Ellie?",
+        "startTime": 61619,
+        "endTime": 62335,
+        "slowStartTime": 92579,
+        "slowEndTime": 93728
+    },
+    {
+        "text": "Yeah!",
+        "startTime": 62528,
+        "endTime": 63018,
+        "slowStartTime": 93942,
+        "slowEndTime": 94752
+    },
+    {
+        "text": "Go Ellie!",
+        "startTime": 65694,
+        "endTime": 66639,
+        "slowStartTime": 98691,
+        "slowEndTime": 100184
+    },
+    {
+        "text": "She looks like she's having so much fun.",
+        "startTime": 68619,
+        "endTime": 70701,
+        "slowStartTime": 103079,
+        "slowEndTime": 106277
+    },
+    {
+        "text": "Wow! This is fun, Ellie.",
+        "startTime": 81097,
+        "endTime": 83960,
+        "slowStartTime": 121795,
+        "slowEndTime": 126165
+    },
+    {
+        "text": "I'm having so much fun.",
+        "startTime": 85435,
+        "endTime": 87069,
+        "slowStartTime": 128303,
+        "slowEndTime": 130828
+    },
+    {
+        "text": "Ellie has all these cool toys?",
+        "startTime": 90109,
+        "endTime": 91842,
+        "slowStartTime": 135314,
+        "slowEndTime": 137988
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 92079,
+        "endTime": 92642,
+        "slowStartTime": 138268,
+        "slowEndTime": 139188
+    },
+    {
+        "text": "Hey Alex, Lyndon, come and play.",
+        "startTime": 92961,
+        "endTime": 95463,
+        "slowStartTime": 139591,
+        "slowEndTime": 143420
+    },
+    {
+        "text": "You want us to play with you?",
+        "startTime": 95658,
+        "endTime": 96935,
+        "slowStartTime": 143637,
+        "slowEndTime": 145627
+    },
+    {
+        "text": "Really? But we didn't share our toys.",
+        "startTime": 97039,
+        "endTime": 99086,
+        "slowStartTime": 145708,
+        "slowEndTime": 148854
+    },
+    {
+        "text": "Sharing is caring!",
+        "startTime": 99171,
+        "endTime": 100085,
+        "slowStartTime": 148906,
+        "slowEndTime": 150352
+    },
+    {
+        "text": "So sharing is caring?",
+        "startTime": 101889,
+        "endTime": 103773,
+        "slowStartTime": 152983,
+        "slowEndTime": 155885
+    },
+    {
+        "text": "That's a great idea.",
+        "startTime": 104690,
+        "endTime": 105876,
+        "slowStartTime": 157185,
+        "slowEndTime": 159039
+    },
+    {
+        "text": "We'll be right back!",
+        "startTime": 105974,
+        "endTime": 106782,
+        "slowStartTime": 159111,
+        "slowEndTime": 160398
+    },
+    {
+        "text": "Okay.",
+        "startTime": 106919,
+        "endTime": 107775,
+        "slowStartTime": 160529,
+        "slowEndTime": 161887
+    },
+    {
+        "text": "This is an awesome boat.",
+        "startTime": 109149,
+        "endTime": 110606,
+        "slowStartTime": 163873,
+        "slowEndTime": 166134
+    },
+    {
+        "text": "Sharing is caring!",
+        "startTime": 111442,
+        "endTime": 112729,
+        "slowStartTime": 167313,
+        "slowEndTime": 169319
+    },
+    {
+        "text": "Thanks for letting us play with you, Ellie.",
+        "startTime": 112812,
+        "endTime": 114801,
+        "slowStartTime": 169368,
+        "slowEndTime": 172426
+    },
+    {
+        "text": "Yeah and sorry we didn't let you play with us.",
+        "startTime": 114900,
+        "endTime": 116728,
+        "slowStartTime": 172500,
+        "slowEndTime": 175317
+    },
+    {
+        "text": "Good job, guys.",
+        "startTime": 116807,
+        "endTime": 117667,
+        "slowStartTime": 175361,
+        "slowEndTime": 176726
+    },
+    {
+        "text": "We learned a valuable lesson.",
+        "startTime": 117790,
+        "endTime": 118941,
+        "slowStartTime": 176835,
+        "slowEndTime": 178636
+    },
+    {
+        "text": "Sharing is caring.",
+        "startTime": 119038,
+        "endTime": 120019,
+        "slowStartTime": 178707,
+        "slowEndTime": 180254
+    },
+    {
+        "text": "Bye!",
+        "startTime": 120152,
+        "endTime": 121353,
+        "slowStartTime": 180378,
+        "slowEndTime": 182255
+    }
+]

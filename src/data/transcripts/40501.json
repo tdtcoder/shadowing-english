@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Here are some phrases you can use to agree with someone.",
+        "startTime": 271,
+        "endTime": 3671,
+        "slowStartTime": 556,
+        "slowEndTime": 5731
+    },
+    {
+        "text": "I agree with you.",
+        "startTime": 5457,
+        "endTime": 6759,
+        "slowStartTime": 8335,
+        "slowEndTime": 10363
+    },
+    {
+        "text": "That's exactly what I think.",
+        "startTime": 8567,
+        "endTime": 10929,
+        "slowStartTime": 13000,
+        "slowEndTime": 16619
+    },
+    {
+        "text": "You are absolutely right.",
+        "startTime": 12589,
+        "endTime": 14611,
+        "slowStartTime": 19034,
+        "slowEndTime": 22141
+    },
+    {
+        "text": "I was just going to say that.",
+        "startTime": 16467,
+        "endTime": 18146,
+        "slowStartTime": 24851,
+        "slowEndTime": 27444
+    },
+    {
+        "text": "I'm with you.",
+        "startTime": 19847,
+        "endTime": 21173,
+        "slowStartTime": 29920,
+        "slowEndTime": 31984
+    },
+    {
+        "text": "I feel the same.",
+        "startTime": 22855,
+        "endTime": 24201,
+        "slowStartTime": 34433,
+        "slowEndTime": 36526
+    },
+    {
+        "text": "No doubt about it.",
+        "startTime": 25935,
+        "endTime": 27576,
+        "slowStartTime": 39053,
+        "slowEndTime": 41589
+    },
+    {
+        "text": "I totally agree.",
+        "startTime": 29351,
+        "endTime": 30953,
+        "slowStartTime": 44176,
+        "slowEndTime": 46655
+    },
+    {
+        "text": "That's for sure.",
+        "startTime": 32845,
+        "endTime": 34205,
+        "slowStartTime": 49418,
+        "slowEndTime": 51532
+    },
+    {
+        "text": "I couldn't agree more.",
+        "startTime": 36006,
+        "endTime": 37487,
+        "slowStartTime": 54159,
+        "slowEndTime": 56456
+    }
+]

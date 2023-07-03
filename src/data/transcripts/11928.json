@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Explosions rock Libya as NATO forces continue the assault on Gadhafi's forces.",
+        "startTime": 5870,
+        "endTime": 12340,
+        "slowStartTime": 8900,
+        "slowEndTime": 18580
+    },
+    {
+        "text": "Yemeni security forces kill nine and wound dozens as protests against President Ali Abdullah Saleh continue.",
+        "startTime": 13710,
+        "endTime": 22350,
+        "slowStartTime": 20630,
+        "slowEndTime": 33620
+    },
+    {
+        "text": "The strongest earthquake in 57 years kills at least ten in southern Spain.",
+        "startTime": 24020,
+        "endTime": 29920,
+        "slowStartTime": 36080,
+        "slowEndTime": 45050
+    },
+    {
+        "text": "Funerals continue throughout Syria as government forces shell residential areas.",
+        "startTime": 32560,
+        "endTime": 38830,
+        "slowStartTime": 48790,
+        "slowEndTime": 58300
+    },
+    {
+        "text": "Record flooding continues along the Mississippi River in the US as floodwaters move south.",
+        "startTime": 43040,
+        "endTime": 49610,
+        "slowStartTime": 64630,
+        "slowEndTime": 74490
+    },
+    {
+        "text": "Ugandan opposition leader, Kizza Besigye, returns ahead of President Yoweri Museveni's swearing in.",
+        "startTime": 53950,
+        "endTime": 61190,
+        "slowStartTime": 81060,
+        "slowEndTime": 91780
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "text": "Good morning.",
+        "startTime": 560,
+        "endTime": 1186,
+        "slowStartTime": 990,
+        "slowEndTime": 2004
+    },
+    {
+        "text": "Can I help you?",
+        "startTime": 1708,
+        "endTime": 2468,
+        "slowStartTime": 2712,
+        "slowEndTime": 3927
+    },
+    {
+        "text": "Yes, please.",
+        "startTime": 3339,
+        "endTime": 4164,
+        "slowStartTime": 5159,
+        "slowEndTime": 6471
+    },
+    {
+        "text": "I would like some cheese.",
+        "startTime": 4517,
+        "endTime": 6044,
+        "slowStartTime": 6926,
+        "slowEndTime": 9291
+    },
+    {
+        "text": "Cheese, certainly.",
+        "startTime": 6789,
+        "endTime": 7897,
+        "slowStartTime": 10334,
+        "slowEndTime": 12070
+    },
+    {
+        "text": "How much cheese would you like?",
+        "startTime": 8166,
+        "endTime": 9711,
+        "slowStartTime": 12399,
+        "slowEndTime": 14792
+    },
+    {
+        "text": "I'd like half a kilogram.",
+        "startTime": 10257,
+        "endTime": 12061,
+        "slowStartTime": 15536,
+        "slowEndTime": 18316
+    },
+    {
+        "text": "Half a kilogram.",
+        "startTime": 12653,
+        "endTime": 13971,
+        "slowStartTime": 19130,
+        "slowEndTime": 21181
+    },
+    {
+        "text": "Okay.",
+        "startTime": 14456,
+        "endTime": 15041,
+        "slowStartTime": 21834,
+        "slowEndTime": 22787
+    },
+    {
+        "text": "Here you are.",
+        "startTime": 20991,
+        "endTime": 21915,
+        "slowStartTime": 31637,
+        "slowEndTime": 33097
+    },
+    {
+        "text": "Half a kilogram of cheese.",
+        "startTime": 22501,
+        "endTime": 24149,
+        "slowStartTime": 33902,
+        "slowEndTime": 36448
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 24702,
+        "endTime": 25286,
+        "slowStartTime": 37203,
+        "slowEndTime": 38154
+    },
+    {
+        "text": "Anything else?",
+        "startTime": 27243,
+        "endTime": 28319,
+        "slowStartTime": 41014,
+        "slowEndTime": 42703
+    },
+    {
+        "text": "Yes, I'd like some oil.",
+        "startTime": 29448,
+        "endTime": 31223,
+        "slowStartTime": 44322,
+        "slowEndTime": 47060
+    },
+    {
+        "text": "Oil, certainly.",
+        "startTime": 32123,
+        "endTime": 33238,
+        "slowStartTime": 48334,
+        "slowEndTime": 50082
+    },
+    {
+        "text": "How much oil would you like?",
+        "startTime": 33531,
+        "endTime": 35045,
+        "slowStartTime": 50447,
+        "slowEndTime": 52792
+    },
+    {
+        "text": "I'd like three liters.",
+        "startTime": 35951,
+        "endTime": 37944,
+        "slowStartTime": 54077,
+        "slowEndTime": 57141
+    },
+    {
+        "text": "Three liters.",
+        "startTime": 38761,
+        "endTime": 40001,
+        "slowStartTime": 58291,
+        "slowEndTime": 60226
+    },
+    {
+        "text": "Okay.",
+        "startTime": 40481,
+        "endTime": 41063,
+        "slowStartTime": 60872,
+        "slowEndTime": 61819
+    },
+    {
+        "text": "Three liters of oil.",
+        "startTime": 45331,
+        "endTime": 47091,
+        "slowStartTime": 68147,
+        "slowEndTime": 70861
+    },
+    {
+        "text": "Here you are.",
+        "startTime": 47963,
+        "endTime": 48635,
+        "slowStartTime": 72094,
+        "slowEndTime": 73178
+    },
+    {
+        "text": "Thanks.",
+        "startTime": 50263,
+        "endTime": 51155,
+        "slowStartTime": 75545,
+        "slowEndTime": 76958
+    }
+]

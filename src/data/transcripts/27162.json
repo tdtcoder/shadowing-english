@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Curacao is an island paradise nestled between Aruba and Bonaire.",
+        "startTime": 1588,
+        "endTime": 6034,
+        "slowStartTime": 2532,
+        "slowEndTime": 9276
+    },
+    {
+        "text": "Easy to reach with daily direct flights...",
+        "startTime": 6355,
+        "endTime": 8426,
+        "slowStartTime": 9683,
+        "slowEndTime": 12864
+    },
+    {
+        "text": "...from the US, Europe, and South America.",
+        "startTime": 8515,
+        "endTime": 11081,
+        "slowStartTime": 12923,
+        "slowEndTime": 16846
+    },
+    {
+        "text": "Here, the skies are tranquil and placid.",
+        "startTime": 11565,
+        "endTime": 13995,
+        "slowStartTime": 17498,
+        "slowEndTime": 21217
+    },
+    {
+        "text": "The seas are crystalline and warm.",
+        "startTime": 14506,
+        "endTime": 16542,
+        "slowStartTime": 21909,
+        "slowEndTime": 25038
+    },
+    {
+        "text": "Located outside the Hurricane Belt,...",
+        "startTime": 17098,
+        "endTime": 19169,
+        "slowStartTime": 25797,
+        "slowEndTime": 28979
+    },
+    {
+        "text": "...the island enjoys favorable weather virtually year-round.",
+        "startTime": 19435,
+        "endTime": 22718,
+        "slowStartTime": 29303,
+        "slowEndTime": 34302
+    },
+    {
+        "text": "The capital, Willemstad, offers the ambiance of a cosmopolitan...",
+        "startTime": 23103,
+        "endTime": 27079,
+        "slowStartTime": 34805,
+        "slowEndTime": 40844
+    },
+    {
+        "text": "...European city with a breathtaking beauty of an island locale.",
+        "startTime": 27156,
+        "endTime": 31252,
+        "slowStartTime": 40884,
+        "slowEndTime": 47103
+    },
+    {
+        "text": "You'll see constant reminders everywhere of the Dutch, African...",
+        "startTime": 32220,
+        "endTime": 35917,
+        "slowStartTime": 48480,
+        "slowEndTime": 54100
+    },
+    {
+        "text": "...and Latin people that combine to create one of the most interesting...",
+        "startTime": 36083,
+        "endTime": 40038,
+        "slowStartTime": 54275,
+        "slowEndTime": 60282
+    },
+    {
+        "text": "...cultures in the Caribbean.",
+        "startTime": 40091,
+        "endTime": 41488,
+        "slowStartTime": 60287,
+        "slowEndTime": 62457
+    }
+]

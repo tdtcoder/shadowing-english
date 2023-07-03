@@ -1,0 +1,205 @@
+[
+    {
+        "text": "All cancers are caused by changes in the DNA of cells.",
+        "startTime": 550,
+        "endTime": 4350,
+        "slowStartTime": 1100,
+        "slowEndTime": 6700
+    },
+    {
+        "text": "DNA carries the cells' genetic information.",
+        "startTime": 4650,
+        "endTime": 7700,
+        "slowStartTime": 7200,
+        "slowEndTime": 11750
+    },
+    {
+        "text": "And that information changes when some cells gradually mutate,...",
+        "startTime": 8100,
+        "endTime": 12485,
+        "slowStartTime": 12300,
+        "slowEndTime": 18953
+    },
+    {
+        "text": "...from normal to abnormal, and then to malignant, over time.",
+        "startTime": 12615,
+        "endTime": 16961,
+        "slowStartTime": 19072,
+        "slowEndTime": 25667
+    },
+    {
+        "text": "Scientists say if they could only crack the genetic codes of different types of cancers,...",
+        "startTime": 17600,
+        "endTime": 22100,
+        "slowStartTime": 26600,
+        "slowEndTime": 33400
+    },
+    {
+        "text": "...they could save millions of lives.",
+        "startTime": 22450,
+        "endTime": 24500,
+        "slowStartTime": 34000,
+        "slowEndTime": 36870
+    },
+    {
+        "text": "Blood tests could spot tumors early on.",
+        "startTime": 25000,
+        "endTime": 27500,
+        "slowStartTime": 37750,
+        "slowEndTime": 41450
+    },
+    {
+        "text": "And treatment would be far more successful.",
+        "startTime": 27850,
+        "endTime": 30350,
+        "slowStartTime": 42000,
+        "slowEndTime": 45700
+    },
+    {
+        "text": "Dr. Jeanny Aragon-Ching is an oncologist at the George Washington University Medical Center.",
+        "startTime": 30750,
+        "endTime": 36650,
+        "slowStartTime": 46415,
+        "slowEndTime": 55100
+    },
+    {
+        "text": "She says this discovery is a step toward an era of personalized medicine.",
+        "startTime": 37100,
+        "endTime": 41750,
+        "slowStartTime": 55950,
+        "slowEndTime": 62700
+    },
+    {
+        "text": "That is the thrust now because,...",
+        "startTime": 42100,
+        "endTime": 44837,
+        "slowStartTime": 63300,
+        "slowEndTime": 67480
+    },
+    {
+        "text": "...for instance, for cancers, specific types of cancers,...",
+        "startTime": 45261,
+        "endTime": 48431,
+        "slowStartTime": 68042,
+        "slowEndTime": 72872
+    },
+    {
+        "text": "...we have different drugs that target specific domains or mutations.",
+        "startTime": 48500,
+        "endTime": 54900,
+        "slowStartTime": 72950,
+        "slowEndTime": 82500
+    },
+    {
+        "text": "The more information doctors have about how cancer cells develop,...",
+        "startTime": 55150,
+        "endTime": 58950,
+        "slowStartTime": 83000,
+        "slowEndTime": 88666
+    },
+    {
+        "text": "...the more precisely they can prescribe a treatment to target those particular cells.",
+        "startTime": 59300,
+        "endTime": 64000,
+        "slowStartTime": 89250,
+        "slowEndTime": 96100
+    },
+    {
+        "text": "British scientists found 30,000 mutations in melanoma,...",
+        "startTime": 64600,
+        "endTime": 68500,
+        "slowStartTime": 97200,
+        "slowEndTime": 102900
+    },
+    {
+        "text": "...a type of skin cancer that accounts for 75% of skin cancer deaths.",
+        "startTime": 68800,
+        "endTime": 73450,
+        "slowStartTime": 103450,
+        "slowEndTime": 110350
+    },
+    {
+        "text": "They also found 23,000 mutations in small-cell lung cancer.",
+        "startTime": 74050,
+        "endTime": 78450,
+        "slowStartTime": 111340,
+        "slowEndTime": 117800
+    },
+    {
+        "text": "But not all of these mutations cause cancer.",
+        "startTime": 78900,
+        "endTime": 81700,
+        "slowStartTime": 118600,
+        "slowEndTime": 122650
+    },
+    {
+        "text": "It is the role of physicians and scientists...",
+        "startTime": 82367,
+        "endTime": 85907,
+        "slowStartTime": 123700,
+        "slowEndTime": 129086
+    },
+    {
+        "text": "...to find out which of those mutations are the driving force,...",
+        "startTime": 86159,
+        "endTime": 90878,
+        "slowStartTime": 129389,
+        "slowEndTime": 136542
+    },
+    {
+        "text": "...or the driving mutation that actually led to the cancer.",
+        "startTime": 91200,
+        "endTime": 95500,
+        "slowStartTime": 137050,
+        "slowEndTime": 143370
+    },
+    {
+        "text": "Eventually, scientists might be able to target precancerous cells...",
+        "startTime": 95750,
+        "endTime": 99500,
+        "slowStartTime": 143900,
+        "slowEndTime": 149500
+    },
+    {
+        "text": "...and prevent deadly tumors from forming.",
+        "startTime": 99800,
+        "endTime": 102050,
+        "slowStartTime": 149900,
+        "slowEndTime": 153150
+    },
+    {
+        "text": "But that day is still far away.",
+        "startTime": 102450,
+        "endTime": 104550,
+        "slowStartTime": 153950,
+        "slowEndTime": 157100
+    },
+    {
+        "text": "As an oncologist,...",
+        "startTime": 105087,
+        "endTime": 106818,
+        "slowStartTime": 157780,
+        "slowEndTime": 160452
+    },
+    {
+        "text": "...my goal would be to one day see that we can transform cancer into a chronic disease.",
+        "startTime": 107211,
+        "endTime": 115458,
+        "slowStartTime": 160966,
+        "slowEndTime": 173412
+    },
+    {
+        "text": "Okay, certainly cure but cure is probably too generous of a word the way I see it,...",
+        "startTime": 115850,
+        "endTime": 121850,
+        "slowStartTime": 174090,
+        "slowEndTime": 183020
+    },
+    {
+        "text": "...but to convert it to something more like chronic disease that can be treatable.",
+        "startTime": 122250,
+        "endTime": 127700,
+        "slowStartTime": 183660,
+        "slowEndTime": 191800
+    }
+]

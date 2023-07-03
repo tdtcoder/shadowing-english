@@ -1,0 +1,240 @@
+[
+    {
+        "text": "Do you live here?",
+        "startTime": 1117,
+        "endTime": 1587,
+        "slowStartTime": 1826,
+        "slowEndTime": 2605
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 1886,
+        "endTime": 2086,
+        "slowStartTime": 2979,
+        "slowEndTime": 3354
+    },
+    {
+        "text": "Okay, we're really lost.",
+        "startTime": 2705,
+        "endTime": 4028,
+        "slowStartTime": 4208,
+        "slowEndTime": 6267
+    },
+    {
+        "text": "Where are you trying to go?",
+        "startTime": 4093,
+        "endTime": 4760,
+        "slowStartTime": 6290,
+        "slowEndTime": 7365
+    },
+    {
+        "text": "Museum, which I think is that way.",
+        "startTime": 4925,
+        "endTime": 6716,
+        "slowStartTime": 7538,
+        "slowEndTime": 10299
+    },
+    {
+        "text": "Am I right?",
+        "startTime": 6963,
+        "endTime": 7586,
+        "slowStartTime": 10595,
+        "slowEndTime": 11604
+    },
+    {
+        "text": "Yeah, it's definitely that way.",
+        "startTime": 7653,
+        "endTime": 8393,
+        "slowStartTime": 11630,
+        "slowEndTime": 12814
+    },
+    {
+        "text": "Okay.",
+        "startTime": 8606,
+        "endTime": 8719,
+        "slowStartTime": 13059,
+        "slowEndTime": 13303
+    },
+    {
+        "text": "Let me see here.",
+        "startTime": 9291,
+        "endTime": 9940,
+        "slowStartTime": 14086,
+        "slowEndTime": 15135
+    },
+    {
+        "text": "Alright, first of all, you're upside down.",
+        "startTime": 10121,
+        "endTime": 11296,
+        "slowStartTime": 15331,
+        "slowEndTime": 17169
+    },
+    {
+        "text": "Okay.",
+        "startTime": 11515,
+        "endTime": 11601,
+        "slowStartTime": 17423,
+        "slowEndTime": 17626
+    },
+    {
+        "text": "Okay, so yeah, we're way down here.",
+        "startTime": 12168,
+        "endTime": 13546,
+        "slowStartTime": 18402,
+        "slowEndTime": 20544
+    },
+    {
+        "text": "All right.",
+        "startTime": 13751,
+        "endTime": 13887,
+        "slowStartTime": 20777,
+        "slowEndTime": 21055
+    },
+    {
+        "text": "You want to be up here.",
+        "startTime": 13987,
+        "endTime": 14743,
+        "slowStartTime": 21130,
+        "slowEndTime": 22340
+    },
+    {
+        "text": "It's that way?",
+        "startTime": 15000,
+        "endTime": 15511,
+        "slowStartTime": 22650,
+        "slowEndTime": 23491
+    },
+    {
+        "text": "Right.",
+        "startTime": 15685,
+        "endTime": 15919,
+        "slowStartTime": 23678,
+        "slowEndTime": 24103
+    },
+    {
+        "text": "So you're going to head five blocks north.",
+        "startTime": 16017,
+        "endTime": 17499,
+        "slowStartTime": 24176,
+        "slowEndTime": 26474
+    },
+    {
+        "text": "Right.",
+        "startTime": 17659,
+        "endTime": 17880,
+        "slowStartTime": 26639,
+        "slowEndTime": 27045
+    },
+    {
+        "text": "Right.",
+        "startTime": 17953,
+        "endTime": 18242,
+        "slowStartTime": 27079,
+        "slowEndTime": 27588
+    },
+    {
+        "text": "When you get to Joey's Pizza, make a right.",
+        "startTime": 18346,
+        "endTime": 19771,
+        "slowStartTime": 27669,
+        "slowEndTime": 29881
+    },
+    {
+        "text": "Then you're gonna go three blocks east.",
+        "startTime": 21427,
+        "endTime": 22923,
+        "slowStartTime": 32290,
+        "slowEndTime": 34610
+    },
+    {
+        "text": "Okay.",
+        "startTime": 23321,
+        "endTime": 23773,
+        "slowStartTime": 35132,
+        "slowEndTime": 35884
+    },
+    {
+        "text": "There's a hot dog cart on this corner.",
+        "startTime": 23928,
+        "endTime": 25549,
+        "slowStartTime": 36042,
+        "slowEndTime": 38548
+    },
+    {
+        "text": "You're going to make a left of that hot dog cart...",
+        "startTime": 25606,
+        "endTime": 26983,
+        "slowStartTime": 38559,
+        "slowEndTime": 40700
+    },
+    {
+        "text": "...and you're going to go three blocks past this jazz club,...",
+        "startTime": 27244,
+        "endTime": 29069,
+        "slowStartTime": 41016,
+        "slowEndTime": 43828
+    },
+    {
+        "text": "...and it's going to be right in front of you.",
+        "startTime": 29140,
+        "endTime": 29886,
+        "slowStartTime": 43860,
+        "slowEndTime": 45054
+    },
+    {
+        "text": "Okay, great.",
+        "startTime": 30491,
+        "endTime": 30971,
+        "slowStartTime": 45886,
+        "slowEndTime": 46682
+    },
+    {
+        "text": "Okay, so I knew I was right about this.",
+        "startTime": 31059,
+        "endTime": 33048,
+        "slowStartTime": 46738,
+        "slowEndTime": 49797
+    },
+    {
+        "text": "So it's five, three, and three.",
+        "startTime": 33128,
+        "endTime": 35461,
+        "slowStartTime": 49842,
+        "slowEndTime": 53417
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 35609,
+        "endTime": 35687,
+        "slowStartTime": 53563,
+        "slowEndTime": 53756
+    },
+    {
+        "text": "Great.",
+        "startTime": 35760,
+        "endTime": 36333,
+        "slowStartTime": 53790,
+        "slowEndTime": 54724
+    },
+    {
+        "text": "Thank you very much.",
+        "startTime": 36459,
+        "endTime": 37761,
+        "slowStartTime": 54839,
+        "slowEndTime": 56866
+    },
+    {
+        "text": "Oh, wait, let me get a picture of you guys.",
+        "startTime": 37857,
+        "endTime": 39014,
+        "slowStartTime": 56936,
+        "slowEndTime": 58746
+    },
+    {
+        "text": "Thank you so much.",
+        "startTime": 39106,
+        "endTime": 40035,
+        "slowStartTime": 58809,
+        "slowEndTime": 60278
+    }
+]

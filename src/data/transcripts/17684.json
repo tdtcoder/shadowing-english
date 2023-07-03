@@ -1,0 +1,198 @@
+[
+    {
+        "text": "Roads, roads go everywhere.",
+        "startTime": 2451,
+        "endTime": 4579,
+        "slowStartTime": 3827,
+        "slowEndTime": 7093
+    },
+    {
+        "text": "Roads go here, and roads go there.",
+        "startTime": 5624,
+        "endTime": 8575,
+        "slowStartTime": 8586,
+        "slowEndTime": 13088
+    },
+    {
+        "text": "Look at the road.",
+        "startTime": 9597,
+        "endTime": 10767,
+        "slowStartTime": 14546,
+        "slowEndTime": 16375
+    },
+    {
+        "text": "What do you see?",
+        "startTime": 11803,
+        "endTime": 12896,
+        "slowStartTime": 17854,
+        "slowEndTime": 19569
+    },
+    {
+        "text": "I see a road going around corners.",
+        "startTime": 13941,
+        "endTime": 16421,
+        "slowStartTime": 21062,
+        "slowEndTime": 24857
+    },
+    {
+        "text": "Twisting and turning, the road goes on.",
+        "startTime": 17471,
+        "endTime": 20351,
+        "slowStartTime": 26357,
+        "slowEndTime": 30752
+    },
+    {
+        "text": "It winds around and around.",
+        "startTime": 21445,
+        "endTime": 23491,
+        "slowStartTime": 32317,
+        "slowEndTime": 35461
+    },
+    {
+        "text": "Roads go through the country.",
+        "startTime": 24541,
+        "endTime": 26263,
+        "slowStartTime": 36962,
+        "slowEndTime": 39620
+    },
+    {
+        "text": "They go to big cities.",
+        "startTime": 27361,
+        "endTime": 28988,
+        "slowStartTime": 41192,
+        "slowEndTime": 43707
+    },
+    {
+        "text": "Look at the road.",
+        "startTime": 30110,
+        "endTime": 31289,
+        "slowStartTime": 45315,
+        "slowEndTime": 47159
+    },
+    {
+        "text": "What do you see?",
+        "startTime": 32313,
+        "endTime": 33657,
+        "slowStartTime": 48619,
+        "slowEndTime": 50711
+    },
+    {
+        "text": "I see a road going up the hill.",
+        "startTime": 34490,
+        "endTime": 37029,
+        "slowStartTime": 51885,
+        "slowEndTime": 55769
+    },
+    {
+        "text": "I see a road going down the hill.",
+        "startTime": 37963,
+        "endTime": 40346,
+        "slowStartTime": 57094,
+        "slowEndTime": 60744
+    },
+    {
+        "text": "Like a roller coaster, the road goes up and down.",
+        "startTime": 41276,
+        "endTime": 45523,
+        "slowStartTime": 62064,
+        "slowEndTime": 68510
+    },
+    {
+        "text": "Roads go over mountains.",
+        "startTime": 46465,
+        "endTime": 48369,
+        "slowStartTime": 69848,
+        "slowEndTime": 72778
+    },
+    {
+        "text": "They go through forests.",
+        "startTime": 49322,
+        "endTime": 51045,
+        "slowStartTime": 74133,
+        "slowEndTime": 76793
+    },
+    {
+        "text": "Look at the road.",
+        "startTime": 52077,
+        "endTime": 53349,
+        "slowStartTime": 78266,
+        "slowEndTime": 80248
+    },
+    {
+        "text": "What do you see?",
+        "startTime": 54257,
+        "endTime": 55471,
+        "slowStartTime": 81535,
+        "slowEndTime": 83432
+    },
+    {
+        "text": "I see a road going into the tunnel.",
+        "startTime": 56481,
+        "endTime": 58961,
+        "slowStartTime": 84872,
+        "slowEndTime": 88666
+    },
+    {
+        "text": "I see a road coming out of the tunnel.",
+        "startTime": 59971,
+        "endTime": 62461,
+        "slowStartTime": 90106,
+        "slowEndTime": 93917
+    },
+    {
+        "text": "In and out of the tunnel, the road keeps going.",
+        "startTime": 63471,
+        "endTime": 66741,
+        "slowStartTime": 95357,
+        "slowEndTime": 100336
+    },
+    {
+        "text": "Roads cross over rivers.",
+        "startTime": 67796,
+        "endTime": 69665,
+        "slowStartTime": 101844,
+        "slowEndTime": 104723
+    },
+    {
+        "text": "They are on bridges.",
+        "startTime": 70664,
+        "endTime": 71969,
+        "slowStartTime": 106146,
+        "slowEndTime": 108179
+    },
+    {
+        "text": "Look at the road.",
+        "startTime": 72979,
+        "endTime": 74216,
+        "slowStartTime": 109618,
+        "slowEndTime": 111549
+    },
+    {
+        "text": "What do you see?",
+        "startTime": 75203,
+        "endTime": 76305,
+        "slowStartTime": 112955,
+        "slowEndTime": 114683
+    },
+    {
+        "text": "I see a road that goes nowhere.",
+        "startTime": 77270,
+        "endTime": 79411,
+        "slowStartTime": 116055,
+        "slowEndTime": 119341
+    },
+    {
+        "text": "I see a road that just stops.",
+        "startTime": 80307,
+        "endTime": 82392,
+        "slowStartTime": 120611,
+        "slowEndTime": 123813
+    },
+    {
+        "text": "Wow, it is a dead end.",
+        "startTime": 83435,
+        "endTime": 85598,
+        "slowStartTime": 125303,
+        "slowEndTime": 128622
+    }
+]

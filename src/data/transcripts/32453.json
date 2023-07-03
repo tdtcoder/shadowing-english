@@ -1,0 +1,86 @@
+[
+    {
+        "text": "In the U.S., President Donald Trump declared \"a national emergency\"...",
+        "startTime": 3713,
+        "endTime": 8616,
+        "slowStartTime": 5719,
+        "slowEndTime": 13149
+    },
+    {
+        "text": "...after the House joined the Senate...",
+        "startTime": 8873,
+        "endTime": 10990,
+        "slowStartTime": 13459,
+        "slowEndTime": 16710
+    },
+    {
+        "text": "...in passing a spending bill to prevent a government shutdown.",
+        "startTime": 11149,
+        "endTime": 14719,
+        "slowStartTime": 16873,
+        "slowEndTime": 22303
+    },
+    {
+        "text": "In India, Prime Minister Narendra Modi has placed blame on Pakistan...",
+        "startTime": 16543,
+        "endTime": 22003,
+        "slowStartTime": 24964,
+        "slowEndTime": 33229
+    },
+    {
+        "text": "...for the death of 41 citizens after a suicide bombing in Indian-controlled Kashmir.",
+        "startTime": 22284,
+        "endTime": 28116,
+        "slowStartTime": 33576,
+        "slowEndTime": 42399
+    },
+    {
+        "text": "In China, President Xi Jinping met with US trade delegation members in Beijing...",
+        "startTime": 29507,
+        "endTime": 35587,
+        "slowStartTime": 44411,
+        "slowEndTime": 53606
+    },
+    {
+        "text": "...in an attempt to discuss a trade deal between the U.S. and China.",
+        "startTime": 36074,
+        "endTime": 40297,
+        "slowStartTime": 54261,
+        "slowEndTime": 60670
+    },
+    {
+        "text": "In Paris, the Vatican's envoy to France, Archbishop Luigi Ventura,...",
+        "startTime": 41732,
+        "endTime": 46883,
+        "slowStartTime": 62748,
+        "slowEndTime": 70549
+    },
+    {
+        "text": "...is under investigation after being accused of molesting an employee of Paris City Hall.",
+        "startTime": 47189,
+        "endTime": 53269,
+        "slowStartTime": 70933,
+        "slowEndTime": 80128
+    },
+    {
+        "text": "Finally from Madrid, Spain's Prime Minister Pedro Sanchez...",
+        "startTime": 55589,
+        "endTime": 60059,
+        "slowStartTime": 83533,
+        "slowEndTime": 90313
+    },
+    {
+        "text": "...has called a general election for April 28th,...",
+        "startTime": 60523,
+        "endTime": 63631,
+        "slowStartTime": 90935,
+        "slowEndTime": 95672
+    },
+    {
+        "text": "...after his minority government's budget proposal was rejected by lawmakers.",
+        "startTime": 64175,
+        "endTime": 69140,
+        "slowStartTime": 96412,
+        "slowEndTime": 103935
+    }
+]

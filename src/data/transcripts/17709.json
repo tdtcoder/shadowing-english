@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Do you know if Andy passed the exam or not?",
+        "startTime": 3343,
+        "endTime": 6558,
+        "slowStartTime": 5164,
+        "slowEndTime": 10062
+    },
+    {
+        "text": "He feared that he couldn't pass the exam.",
+        "startTime": 7391,
+        "endTime": 10162,
+        "slowStartTime": 11236,
+        "slowEndTime": 15468
+    },
+    {
+        "text": "No.",
+        "startTime": 11185,
+        "endTime": 11603,
+        "slowStartTime": 16928,
+        "slowEndTime": 17630
+    },
+    {
+        "text": "He didn't say anything to me.",
+        "startTime": 11821,
+        "endTime": 13958,
+        "slowStartTime": 17881,
+        "slowEndTime": 21162
+    },
+    {
+        "text": "But I'm pretty sure that he passed it.",
+        "startTime": 14417,
+        "endTime": 16689,
+        "slowStartTime": 21776,
+        "slowEndTime": 25258
+    },
+    {
+        "text": "It suddenly starts raining heavily.",
+        "startTime": 19949,
+        "endTime": 22513,
+        "slowStartTime": 30074,
+        "slowEndTime": 33994
+    },
+    {
+        "text": "I fear that it won't stop.",
+        "startTime": 23188,
+        "endTime": 25232,
+        "slowStartTime": 34932,
+        "slowEndTime": 38073
+    },
+    {
+        "text": "Don't you have an umbrella with you?",
+        "startTime": 26135,
+        "endTime": 28305,
+        "slowStartTime": 39353,
+        "slowEndTime": 42683
+    },
+    {
+        "text": "No, I don't.",
+        "startTime": 29557,
+        "endTime": 31065,
+        "slowStartTime": 44485,
+        "slowEndTime": 46823
+    },
+    {
+        "text": "Call your mom and tell her that you need an umbrella.",
+        "startTime": 31881,
+        "endTime": 35441,
+        "slowStartTime": 47972,
+        "slowEndTime": 53387
+    },
+    {
+        "text": "I broke my sister's crayons.",
+        "startTime": 38145,
+        "endTime": 40223,
+        "slowStartTime": 57368,
+        "slowEndTime": 60560
+    },
+    {
+        "text": "I fear that she will be angry with me.",
+        "startTime": 40853,
+        "endTime": 43513,
+        "slowStartTime": 61430,
+        "slowEndTime": 65495
+    },
+    {
+        "text": "Why don't you tell her that you are so sorry about it.",
+        "startTime": 44486,
+        "endTime": 48156,
+        "slowStartTime": 66879,
+        "slowEndTime": 72459
+    }
+]

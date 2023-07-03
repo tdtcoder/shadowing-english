@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Hit.",
+        "startTime": 3196,
+        "endTime": 3577,
+        "slowStartTime": 4944,
+        "slowEndTime": 5591
+    },
+    {
+        "text": "I hit my head.",
+        "startTime": 4502,
+        "endTime": 5869,
+        "slowStartTime": 6903,
+        "slowEndTime": 9029
+    },
+    {
+        "text": "I hit my head twice.",
+        "startTime": 7237,
+        "endTime": 9159,
+        "slowStartTime": 11006,
+        "slowEndTime": 13963
+    },
+    {
+        "text": "Lip.",
+        "startTime": 10564,
+        "endTime": 11068,
+        "slowStartTime": 15996,
+        "slowEndTime": 16827
+    },
+    {
+        "text": "I bit my lip.",
+        "startTime": 11747,
+        "endTime": 12941,
+        "slowStartTime": 17770,
+        "slowEndTime": 19636
+    },
+    {
+        "text": "I bit my upper lip.",
+        "startTime": 14412,
+        "endTime": 16265,
+        "slowStartTime": 21768,
+        "slowEndTime": 24622
+    },
+    {
+        "text": "Pig.",
+        "startTime": 17439,
+        "endTime": 17930,
+        "slowStartTime": 26309,
+        "slowEndTime": 27120
+    },
+    {
+        "text": "There is a pig.",
+        "startTime": 18715,
+        "endTime": 20017,
+        "slowStartTime": 28223,
+        "slowEndTime": 30250
+    },
+    {
+        "text": "There is a pig in the farm.",
+        "startTime": 21416,
+        "endTime": 23494,
+        "slowStartTime": 32274,
+        "slowEndTime": 35466
+    },
+    {
+        "text": "Wig.",
+        "startTime": 24875,
+        "endTime": 25426,
+        "slowStartTime": 37462,
+        "slowEndTime": 38364
+    },
+    {
+        "text": "She wears a wig.",
+        "startTime": 26175,
+        "endTime": 27609,
+        "slowStartTime": 39412,
+        "slowEndTime": 41638
+    },
+    {
+        "text": "She wears a white wig.",
+        "startTime": 29033,
+        "endTime": 30873,
+        "slowStartTime": 43699,
+        "slowEndTime": 46534
+    },
+    {
+        "text": "Hurry, hurry, hurry, he's getting late.",
+        "startTime": 38468,
+        "endTime": 41670,
+        "slowStartTime": 57852,
+        "slowEndTime": 62730
+    },
+    {
+        "text": "Yes, yes, yes, he runs to the store.",
+        "startTime": 42188,
+        "endTime": 45424,
+        "slowStartTime": 63432,
+        "slowEndTime": 68361
+    },
+    {
+        "text": "Hurry, hurry, hurry, she's getting late.",
+        "startTime": 45960,
+        "endTime": 49125,
+        "slowStartTime": 69090,
+        "slowEndTime": 73912
+    },
+    {
+        "text": "Yes, yes, yes, she runs to the pool.",
+        "startTime": 49695,
+        "endTime": 52925,
+        "slowStartTime": 74692,
+        "slowEndTime": 79613
+    },
+    {
+        "text": "Hurry, hurry, hurry, they're getting late.",
+        "startTime": 53471,
+        "endTime": 56647,
+        "slowStartTime": 80357,
+        "slowEndTime": 85195
+    },
+    {
+        "text": "Yes, yes, yes, they run home.",
+        "startTime": 57133,
+        "endTime": 60437,
+        "slowStartTime": 85850,
+        "slowEndTime": 90880
+    },
+    {
+        "text": "Everybody's getting late today.",
+        "startTime": 60935,
+        "endTime": 63630,
+        "slowStartTime": 91552,
+        "slowEndTime": 95670
+    },
+    {
+        "text": "Hurry, hurry, hurry, everybody runs today!",
+        "startTime": 64663,
+        "endTime": 68293,
+        "slowStartTime": 97145,
+        "slowEndTime": 102665
+    }
+]

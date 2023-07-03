@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Today is Thursday, April 2nd.",
+        "startTime": -50,
+        "endTime": 1829,
+        "slowStartTime": 75,
+        "slowEndTime": 2969
+    },
+    {
+        "text": "A lot of sunshine on this Wednesday.",
+        "startTime": 2047,
+        "endTime": 4470,
+        "slowStartTime": 3220,
+        "slowEndTime": 6930
+    },
+    {
+        "text": "What day is it today?",
+        "startTime": 5165,
+        "endTime": 6753,
+        "slowStartTime": 7898,
+        "slowEndTime": 10355
+    },
+    {
+        "text": "Today is Monday.",
+        "startTime": 7023,
+        "endTime": 9330,
+        "slowStartTime": 10684,
+        "slowEndTime": 14220
+    },
+    {
+        "text": "What is the date today?",
+        "startTime": 10292,
+        "endTime": 11635,
+        "slowStartTime": 15588,
+        "slowEndTime": 17678
+    },
+    {
+        "text": "March 14th, 2013.",
+        "startTime": 12443,
+        "endTime": 15220,
+        "slowStartTime": 18814,
+        "slowEndTime": 23055
+    }
+]

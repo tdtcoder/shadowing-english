@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Here are some phrases you can use for making polite complaints.",
+        "startTime": 433,
+        "endTime": 4123,
+        "slowStartTime": 800,
+        "slowEndTime": 6410
+    },
+    {
+        "text": "I'm sorry to say this but...",
+        "startTime": 6070,
+        "endTime": 7525,
+        "slowStartTime": 9255,
+        "slowEndTime": 11512
+    },
+    {
+        "text": "I'd like to make a complaint about....",
+        "startTime": 9557,
+        "endTime": 11296,
+        "slowStartTime": 14485,
+        "slowEndTime": 17169
+    },
+    {
+        "text": "I'm afraid I'd like to complain about...",
+        "startTime": 13321,
+        "endTime": 15599,
+        "slowStartTime": 20131,
+        "slowEndTime": 23624
+    },
+    {
+        "text": "Excuse me, but I'm not really happy with...",
+        "startTime": 17465,
+        "endTime": 20523,
+        "slowStartTime": 26347,
+        "slowEndTime": 31010
+    },
+    {
+        "text": "Excuse me, but there seems to be a problem...",
+        "startTime": 22332,
+        "endTime": 24876,
+        "slowStartTime": 33648,
+        "slowEndTime": 37539
+    },
+    {
+        "text": "There appears to be something wrong with...",
+        "startTime": 26953,
+        "endTime": 29182,
+        "slowStartTime": 40579,
+        "slowEndTime": 43998
+    },
+    {
+        "text": "I was really upset when...",
+        "startTime": 31227,
+        "endTime": 33092,
+        "slowStartTime": 46990,
+        "slowEndTime": 49863
+    },
+    {
+        "text": "I was expecting this... but...",
+        "startTime": 35177,
+        "endTime": 37716,
+        "slowStartTime": 52916,
+        "slowEndTime": 56799
+    },
+    {
+        "text": "That's just not acceptable.",
+        "startTime": 39573,
+        "endTime": 41554,
+        "slowStartTime": 59509,
+        "slowEndTime": 62556
+    },
+    {
+        "text": "It's a disgrace.",
+        "startTime": 43745,
+        "endTime": 44890,
+        "slowStartTime": 65768,
+        "slowEndTime": 67560
+    }
+]

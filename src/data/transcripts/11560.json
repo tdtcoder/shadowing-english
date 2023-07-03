@@ -1,0 +1,247 @@
+[
+    {
+        "text": "One day, a farmer said to his wife, \"We don't often use our horse.\"",
+        "startTime": 2850,
+        "endTime": 7800,
+        "slowStartTime": 4350,
+        "slowEndTime": 11750
+    },
+    {
+        "text": "\"Shall we sell it?\"",
+        "startTime": 8050,
+        "endTime": 9050,
+        "slowStartTime": 12100,
+        "slowEndTime": 13600
+    },
+    {
+        "text": "\"Then, sell it,\" his wife said.",
+        "startTime": 9750,
+        "endTime": 11500,
+        "slowStartTime": 14700,
+        "slowEndTime": 17300
+    },
+    {
+        "text": "\"You are always right.\"",
+        "startTime": 11800,
+        "endTime": 13300,
+        "slowStartTime": 17750,
+        "slowEndTime": 20000
+    },
+    {
+        "text": "The farmer set off for the market.",
+        "startTime": 14100,
+        "endTime": 16100,
+        "slowStartTime": 21250,
+        "slowEndTime": 24200
+    },
+    {
+        "text": "A friend of the farmer came up to him.",
+        "startTime": 17000,
+        "endTime": 19000,
+        "slowStartTime": 25600,
+        "slowEndTime": 28500
+    },
+    {
+        "text": "\"Are you crazy?\" He asked.",
+        "startTime": 19600,
+        "endTime": 21400,
+        "slowStartTime": 29425,
+        "slowEndTime": 32100
+    },
+    {
+        "text": "\"What will your wife say when she sees the rotten apples?\"",
+        "startTime": 21950,
+        "endTime": 25200,
+        "slowStartTime": 33000,
+        "slowEndTime": 37800
+    },
+    {
+        "text": "\"She'll kiss me and tell me how clever I am,\" the farmer said.",
+        "startTime": 26150,
+        "endTime": 30150,
+        "slowStartTime": 39250,
+        "slowEndTime": 45250
+    },
+    {
+        "text": "\"I'll bet you a bar of gold that she doesn't,\" the friend said.",
+        "startTime": 30850,
+        "endTime": 34450,
+        "slowStartTime": 46350,
+        "slowEndTime": 51700
+    },
+    {
+        "text": "\"I'll bet you everything I have that my wife will think I am clever,\" the farmer said.",
+        "startTime": 35325,
+        "endTime": 41100,
+        "slowStartTime": 53050,
+        "slowEndTime": 61600
+    },
+    {
+        "text": "He went back to his farm and his friend came, too.",
+        "startTime": 41850,
+        "endTime": 44500,
+        "slowStartTime": 62850,
+        "slowEndTime": 66750
+    },
+    {
+        "text": "His wife was waiting at the door for him.",
+        "startTime": 45250,
+        "endTime": 47400,
+        "slowStartTime": 68000,
+        "slowEndTime": 71000
+    },
+    {
+        "text": "\"Hello, my dear,\" the farmer said.",
+        "startTime": 47900,
+        "endTime": 50050,
+        "slowStartTime": 71925,
+        "slowEndTime": 75150
+    },
+    {
+        "text": "\"I gave a man our horse for his cow.\"",
+        "startTime": 50600,
+        "endTime": 53000,
+        "slowStartTime": 75950,
+        "slowEndTime": 79500
+    },
+    {
+        "text": "\"That was very clever of you,\" the wife said.",
+        "startTime": 53850,
+        "endTime": 56875,
+        "slowStartTime": 80850,
+        "slowEndTime": 85300
+    },
+    {
+        "text": "\"Then, I gave another man the cow for his sheep,\" the farmer said.",
+        "startTime": 57400,
+        "endTime": 61000,
+        "slowStartTime": 86100,
+        "slowEndTime": 91500
+    },
+    {
+        "text": "\"Oh, that was a very good thing to do,\" his wife said.",
+        "startTime": 62100,
+        "endTime": 65400,
+        "slowStartTime": 93200,
+        "slowEndTime": 98350
+    },
+    {
+        "text": "\"What a clever man you are!\"",
+        "startTime": 65900,
+        "endTime": 67700,
+        "slowStartTime": 98900,
+        "slowEndTime": 101600
+    },
+    {
+        "text": "\"Then, I gave another man the sheep for his goose.\"",
+        "startTime": 68450,
+        "endTime": 71350,
+        "slowStartTime": 102700,
+        "slowEndTime": 107025
+    },
+    {
+        "text": "\"Oh, I love eating goose eggs,\" his wife said.",
+        "startTime": 72150,
+        "endTime": 75500,
+        "slowStartTime": 108300,
+        "slowEndTime": 113250
+    },
+    {
+        "text": "\"But I then gave a man the goose for his hen,\" the farmer said.",
+        "startTime": 76150,
+        "endTime": 79750,
+        "slowStartTime": 114300,
+        "slowEndTime": 119650
+    },
+    {
+        "text": "\"A hen's eggs are much better than a goose's eggs,\" his wife said.",
+        "startTime": 80700,
+        "endTime": 84750,
+        "slowStartTime": 121100,
+        "slowEndTime": 127100
+    },
+    {
+        "text": "\"But then, I gave a man the hen for a sack of rotten apples,\" the farmer said.",
+        "startTime": 85650,
+        "endTime": 90700,
+        "slowStartTime": 128500,
+        "slowEndTime": 136125
+    },
+    {
+        "text": "\"Oh, I am so glad,\" his wife said.",
+        "startTime": 91850,
+        "endTime": 94600,
+        "slowStartTime": 137800,
+        "slowEndTime": 141900
+    },
+    {
+        "text": "\"I went to our neighbor to borrow some herbs.\"",
+        "startTime": 95150,
+        "endTime": 98050,
+        "slowStartTime": 142800,
+        "slowEndTime": 147100
+    },
+    {
+        "text": "\"'I have nothing to give you for them,' I said to her.\"",
+        "startTime": 98400,
+        "endTime": 101500,
+        "slowStartTime": 147650,
+        "slowEndTime": 152200
+    },
+    {
+        "text": "\"'I don't even have any rotten apples.'\"",
+        "startTime": 102000,
+        "endTime": 104900,
+        "slowStartTime": 153050,
+        "slowEndTime": 157350
+    },
+    {
+        "text": "The farmer's wife put her arms around her husband and kissed him.",
+        "startTime": 105700,
+        "endTime": 109000,
+        "slowStartTime": 158600,
+        "slowEndTime": 163450
+    },
+    {
+        "text": "\"Now, I can give her some rotten apples,\" she said.",
+        "startTime": 110100,
+        "endTime": 113750,
+        "slowStartTime": 165200,
+        "slowEndTime": 170600
+    },
+    {
+        "text": "His friend was very surprised.",
+        "startTime": 114500,
+        "endTime": 116350,
+        "slowStartTime": 171850,
+        "slowEndTime": 174575
+    },
+    {
+        "text": "\"You have won the bet,\" he said.",
+        "startTime": 117000,
+        "endTime": 118900,
+        "slowStartTime": 175500,
+        "slowEndTime": 178300
+    },
+    {
+        "text": "\"Here is the bar of gold.\"",
+        "startTime": 119150,
+        "endTime": 120650,
+        "slowStartTime": 178750,
+        "slowEndTime": 181000
+    },
+    {
+        "text": "\"You are the luckiest man in the world!\"",
+        "startTime": 120800,
+        "endTime": 123000,
+        "slowStartTime": 181225,
+        "slowEndTime": 184550
+    },
+    {
+        "text": "\"You have a wife who always agrees with you.\"",
+        "startTime": 123250,
+        "endTime": 125700,
+        "slowStartTime": 184900,
+        "slowEndTime": 188600
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Ladies and gentlemen, this is your captain speaking.",
+        "startTime": 150,
+        "endTime": 2237,
+        "slowStartTime": 120,
+        "slowEndTime": 3580
+    },
+    {
+        "text": "We have decided to discontinue the approach into Singapore Changi Airport...",
+        "startTime": 2726,
+        "endTime": 8636,
+        "slowStartTime": 4239,
+        "slowEndTime": 13179
+    },
+    {
+        "text": "...and this was because I was informed...",
+        "startTime": 9304,
+        "endTime": 11514,
+        "slowStartTime": 14106,
+        "slowEndTime": 17496
+    },
+    {
+        "text": "...that we still have got passengers...",
+        "startTime": 12202,
+        "endTime": 14292,
+        "slowStartTime": 18453,
+        "slowEndTime": 21663
+    },
+    {
+        "text": "...who are not seated with your seatbelts securely fastened,...",
+        "startTime": 14395,
+        "endTime": 17741,
+        "slowStartTime": 21743,
+        "slowEndTime": 26837
+    },
+    {
+        "text": "...and we are legally not able to land an aircraft if the cabin isn't secure.",
+        "startTime": 18128,
+        "endTime": 24947,
+        "slowStartTime": 27342,
+        "slowEndTime": 37646
+    },
+    {
+        "text": "We are now turning around again for another approach,...",
+        "startTime": 25430,
+        "endTime": 28317,
+        "slowStartTime": 38295,
+        "slowEndTime": 42701
+    },
+    {
+        "text": "...and if we have to do another missed approach for the same reason,...",
+        "startTime": 28407,
+        "endTime": 34805,
+        "slowStartTime": 42761,
+        "slowEndTime": 52432
+    },
+    {
+        "text": "...the airport police will be involved and they will take the necessary action.",
+        "startTime": 34948,
+        "endTime": 41811,
+        "slowStartTime": 52572,
+        "slowEndTime": 62941
+    }
+]

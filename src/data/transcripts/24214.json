@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Someone should let Kermit know he has a new relative.",
+        "startTime": 2766,
+        "endTime": 5995,
+        "slowStartTime": 4299,
+        "slowEndTime": 9217
+    },
+    {
+        "text": "A new species of frog has been found in Costa Rica.",
+        "startTime": 6307,
+        "endTime": 9287,
+        "slowStartTime": 9610,
+        "slowEndTime": 14155
+    },
+    {
+        "text": "Similar to the glass frog,....",
+        "startTime": 9639,
+        "endTime": 11173,
+        "slowStartTime": 14608,
+        "slowEndTime": 16984
+    },
+    {
+        "text": "...the lime-colored amphibian has translucent skin on its underside...",
+        "startTime": 11493,
+        "endTime": 15619,
+        "slowStartTime": 17389,
+        "slowEndTime": 23653
+    },
+    {
+        "text": "...and has an eye that makes it look like the famous Muppet Kermit.",
+        "startTime": 15997,
+        "endTime": 19519,
+        "slowStartTime": 24145,
+        "slowEndTime": 29504
+    },
+    {
+        "text": "The frog's translucent belly makes its internal organs easy to see,...",
+        "startTime": 20085,
+        "endTime": 24093,
+        "slowStartTime": 30278,
+        "slowEndTime": 36364
+    },
+    {
+        "text": "...but those big, white eyes with perfect black centers...",
+        "startTime": 24551,
+        "endTime": 27667,
+        "slowStartTime": 36977,
+        "slowEndTime": 41725
+    },
+    {
+        "text": "...give it a distinctive Muppet-like look.",
+        "startTime": 28007,
+        "endTime": 30455,
+        "slowStartTime": 42161,
+        "slowEndTime": 45908
+    }
+]

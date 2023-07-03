@@ -1,0 +1,254 @@
+[
+    {
+        "text": "Hello?",
+        "startTime": 609,
+        "endTime": 1126,
+        "slowStartTime": 1064,
+        "slowEndTime": 1914
+    },
+    {
+        "text": "Hi, Amanda.",
+        "startTime": 1836,
+        "endTime": 2567,
+        "slowStartTime": 2904,
+        "slowEndTime": 4075
+    },
+    {
+        "text": "What's up?",
+        "startTime": 2901,
+        "endTime": 3327,
+        "slowStartTime": 4502,
+        "slowEndTime": 5215
+    },
+    {
+        "text": "Nothing much.",
+        "startTime": 3688,
+        "endTime": 4536,
+        "slowStartTime": 5682,
+        "slowEndTime": 7029
+    },
+    {
+        "text": "And you?",
+        "startTime": 4778,
+        "endTime": 5228,
+        "slowStartTime": 7317,
+        "slowEndTime": 8067
+    },
+    {
+        "text": "Same here.",
+        "startTime": 5488,
+        "endTime": 6199,
+        "slowStartTime": 8382,
+        "slowEndTime": 9523
+    },
+    {
+        "text": "Same as usual.",
+        "startTime": 6433,
+        "endTime": 7217,
+        "slowStartTime": 9800,
+        "slowEndTime": 11051
+    },
+    {
+        "text": "Oh, hey, do you like soccer?",
+        "startTime": 8028,
+        "endTime": 10249,
+        "slowStartTime": 12192,
+        "slowEndTime": 15599
+    },
+    {
+        "text": "Well, I don't play soccer but I like watching the games.",
+        "startTime": 11051,
+        "endTime": 14512,
+        "slowStartTime": 16726,
+        "slowEndTime": 21993
+    },
+    {
+        "text": "How about you?",
+        "startTime": 14940,
+        "endTime": 15610,
+        "slowStartTime": 22560,
+        "slowEndTime": 23640
+    },
+    {
+        "text": "I love it.",
+        "startTime": 16093,
+        "endTime": 16851,
+        "slowStartTime": 24290,
+        "slowEndTime": 25501
+    },
+    {
+        "text": "I played soccer this morning, too.",
+        "startTime": 17247,
+        "endTime": 18997,
+        "slowStartTime": 26020,
+        "slowEndTime": 28721
+    },
+    {
+        "text": "Aren't you tired?",
+        "startTime": 19433,
+        "endTime": 20246,
+        "slowStartTime": 29299,
+        "slowEndTime": 30594
+    },
+    {
+        "text": "How often do you play soccer?",
+        "startTime": 20588,
+        "endTime": 21993,
+        "slowStartTime": 31032,
+        "slowEndTime": 33215
+    },
+    {
+        "text": "Twice a week.",
+        "startTime": 22651,
+        "endTime": 23323,
+        "slowStartTime": 34127,
+        "slowEndTime": 35210
+    },
+    {
+        "text": "Wednesday and Sunday morning.",
+        "startTime": 23659,
+        "endTime": 25544,
+        "slowStartTime": 35638,
+        "slowEndTime": 38541
+    },
+    {
+        "text": "I might have to do that, too.",
+        "startTime": 25994,
+        "endTime": 27494,
+        "slowStartTime": 39141,
+        "slowEndTime": 41466
+    },
+    {
+        "text": "I'm getting fat.",
+        "startTime": 27728,
+        "endTime": 28861,
+        "slowStartTime": 41742,
+        "slowEndTime": 43517
+    },
+    {
+        "text": "Well, try yoga then.",
+        "startTime": 29420,
+        "endTime": 31571,
+        "slowStartTime": 44280,
+        "slowEndTime": 47581
+    },
+    {
+        "text": "It's the best way to lose weight.",
+        "startTime": 31873,
+        "endTime": 34007,
+        "slowStartTime": 47959,
+        "slowEndTime": 51236
+    },
+    {
+        "text": "I know but I prefer outdoor activities.",
+        "startTime": 34335,
+        "endTime": 36933,
+        "slowStartTime": 51653,
+        "slowEndTime": 55625
+    },
+    {
+        "text": "How about cycling?",
+        "startTime": 37491,
+        "endTime": 38742,
+        "slowStartTime": 56387,
+        "slowEndTime": 58338
+    },
+    {
+        "text": "I used to do cycling and I'll tell you this.",
+        "startTime": 39475,
+        "endTime": 41709,
+        "slowStartTime": 59362,
+        "slowEndTime": 62789
+    },
+    {
+        "text": "It can be boring.",
+        "startTime": 41961,
+        "endTime": 43269,
+        "slowStartTime": 63092,
+        "slowEndTime": 65128
+    },
+    {
+        "text": "How about this, I'm going to the gym tonight.",
+        "startTime": 43603,
+        "endTime": 46541,
+        "slowStartTime": 65555,
+        "slowEndTime": 70036
+    },
+    {
+        "text": "We can work out together.",
+        "startTime": 46858,
+        "endTime": 48149,
+        "slowStartTime": 70437,
+        "slowEndTime": 72448
+    },
+    {
+        "text": "That sounds fun!",
+        "startTime": 48550,
+        "endTime": 49702,
+        "slowStartTime": 72975,
+        "slowEndTime": 74778
+    },
+    {
+        "text": "I always wanted to get a six-pack.",
+        "startTime": 50025,
+        "endTime": 51715,
+        "slowStartTime": 75187,
+        "slowEndTime": 77797
+    },
+    {
+        "text": "Pardon?",
+        "startTime": 52522,
+        "endTime": 52984,
+        "slowStartTime": 78933,
+        "slowEndTime": 79701
+    },
+    {
+        "text": "What is a \"six-pack\"?",
+        "startTime": 53536,
+        "endTime": 55079,
+        "slowStartTime": 80454,
+        "slowEndTime": 82843
+    },
+    {
+        "text": "Muscles in your abs.",
+        "startTime": 55464,
+        "endTime": 56829,
+        "slowStartTime": 83346,
+        "slowEndTime": 85468
+    },
+    {
+        "text": "Oh, my brother has a six-pack.",
+        "startTime": 57063,
+        "endTime": 59663,
+        "slowStartTime": 85745,
+        "slowEndTime": 89719
+    },
+    {
+        "text": "It's not hard.",
+        "startTime": 59933,
+        "endTime": 60801,
+        "slowStartTime": 90049,
+        "slowEndTime": 91426
+    },
+    {
+        "text": "It just takes time.",
+        "startTime": 61167,
+        "endTime": 62265,
+        "slowStartTime": 91900,
+        "slowEndTime": 93623
+    },
+    {
+        "text": "Are you serious?",
+        "startTime": 62570,
+        "endTime": 63546,
+        "slowStartTime": 94005,
+        "slowEndTime": 95544
+    },
+    {
+        "text": "Yes, give it a try.",
+        "startTime": 63696,
+        "endTime": 65361,
+        "slowStartTime": 95694,
+        "slowEndTime": 98266
+    }
+]

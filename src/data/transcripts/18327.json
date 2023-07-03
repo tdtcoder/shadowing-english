@@ -1,0 +1,44 @@
+[
+    {
+        "text": "In Pakistan, angry over a film mocking the Prophet Muhammad, protesters set fire to cinemas, banks and cars in Karachi.",
+        "startTime": 3578,
+        "endTime": 11372,
+        "slowStartTime": 5517,
+        "slowEndTime": 17283
+    },
+    {
+        "text": "In Somalia, a Mogadishu hospital treats those wounded in an attack Thursday by suicide bombers.",
+        "startTime": 13167,
+        "endTime": 19583,
+        "slowStartTime": 19900,
+        "slowEndTime": 29599
+    },
+    {
+        "text": "China's state media releases a video showing Chinese forces conducting a landing drill in an area claimed by China and Japan.",
+        "startTime": 23409,
+        "endTime": 31370,
+        "slowStartTime": 35264,
+        "slowEndTime": 47280
+    },
+    {
+        "text": "In Georgia, an abuse scandal forces the resignation of the prisons minister and his successor promises to treat prisoners with respect.",
+        "startTime": 34268,
+        "endTime": 41802,
+        "slowStartTime": 51552,
+        "slowEndTime": 62928
+    },
+    {
+        "text": "In Germany, more than 20 years after the fall of the Berlin wall, a Berlin art exhibit shows what life was like when the city was divided.",
+        "startTime": 43293,
+        "endTime": 51074,
+        "slowStartTime": 65090,
+        "slowEndTime": 76836
+    },
+    {
+        "text": "And in France, the country's highest court rejects a request by animal rights groups to ban bullfighting.",
+        "startTime": 53635,
+        "endTime": 59783,
+        "slowStartTime": 80602,
+        "slowEndTime": 89900
+    }
+]

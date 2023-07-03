@@ -1,0 +1,219 @@
+[
+    {
+        "text": "Here's a scientific mystery for you.",
+        "startTime": 4414,
+        "endTime": 6473,
+        "slowStartTime": 6771,
+        "slowEndTime": 9934
+    },
+    {
+        "text": "Does hot water freeze faster than cold water?",
+        "startTime": 6777,
+        "endTime": 9478,
+        "slowStartTime": 10316,
+        "slowEndTime": 14442
+    },
+    {
+        "text": "The answer is...",
+        "startTime": 9581,
+        "endTime": 10390,
+        "slowStartTime": 14521,
+        "slowEndTime": 15810
+    },
+    {
+        "text": "We don't know.",
+        "startTime": 10854,
+        "endTime": 11840,
+        "slowStartTime": 16431,
+        "slowEndTime": 17985
+    },
+    {
+        "text": "You're probably thinking, how can we not know?",
+        "startTime": 11937,
+        "endTime": 13917,
+        "slowStartTime": 18056,
+        "slowEndTime": 21100
+    },
+    {
+        "text": "I mean, we've all got water.",
+        "startTime": 13996,
+        "endTime": 15280,
+        "slowStartTime": 21144,
+        "slowEndTime": 23145
+    },
+    {
+        "text": "Most of us have a freezer.",
+        "startTime": 15427,
+        "endTime": 16388,
+        "slowStartTime": 23291,
+        "slowEndTime": 24807
+    },
+    {
+        "text": "This seems like a pretty simple experiment.",
+        "startTime": 16485,
+        "endTime": 17921,
+        "slowStartTime": 24878,
+        "slowEndTime": 27106
+    },
+    {
+        "text": "Well you're right, it is, it also isn't.",
+        "startTime": 18034,
+        "endTime": 19968,
+        "slowStartTime": 27201,
+        "slowEndTime": 30177
+    },
+    {
+        "text": "The experiment has been performed...",
+        "startTime": 20111,
+        "endTime": 21571,
+        "slowStartTime": 30316,
+        "slowEndTime": 32581
+    },
+    {
+        "text": "...by brilliant people all over the world.",
+        "startTime": 21700,
+        "endTime": 23471,
+        "slowStartTime": 32700,
+        "slowEndTime": 35432
+    },
+    {
+        "text": "And in those experiments,...",
+        "startTime": 23666,
+        "endTime": 24763,
+        "slowStartTime": 35649,
+        "slowEndTime": 37369
+    },
+    {
+        "text": "...sometimes hot water freezes faster than cold water.",
+        "startTime": 25061,
+        "endTime": 27902,
+        "slowStartTime": 37741,
+        "slowEndTime": 42078
+    },
+    {
+        "text": "And sometimes it doesn't.",
+        "startTime": 28037,
+        "endTime": 29967,
+        "slowStartTime": 42205,
+        "slowEndTime": 45175
+    },
+    {
+        "text": "And either way, the results of the experiment are not reproducible.",
+        "startTime": 30143,
+        "endTime": 32803,
+        "slowStartTime": 45365,
+        "slowEndTime": 49429
+    },
+    {
+        "text": "The observation that hot water will freeze faster...",
+        "startTime": 32887,
+        "endTime": 35161,
+        "slowStartTime": 49480,
+        "slowEndTime": 52966
+    },
+    {
+        "text": "...than cold water is called the Mpemba Effect.",
+        "startTime": 35234,
+        "endTime": 37477,
+        "slowStartTime": 53001,
+        "slowEndTime": 56441
+    },
+    {
+        "text": "It's named after Erasto Mpemba,...",
+        "startTime": 37583,
+        "endTime": 39587,
+        "slowStartTime": 56525,
+        "slowEndTime": 59606
+    },
+    {
+        "text": "...who noticed the effect in 1963...",
+        "startTime": 39726,
+        "endTime": 41521,
+        "slowStartTime": 59739,
+        "slowEndTime": 62506
+    },
+    {
+        "text": "...when he was just thirteen years old...",
+        "startTime": 41603,
+        "endTime": 43091,
+        "slowStartTime": 62554,
+        "slowEndTime": 64861
+    },
+    {
+        "text": "...and making ice cream with his classmates.",
+        "startTime": 43366,
+        "endTime": 44951,
+        "slowStartTime": 65199,
+        "slowEndTime": 67652
+    },
+    {
+        "text": "He noticed that the ice cream mixture...",
+        "startTime": 45039,
+        "endTime": 46249,
+        "slowStartTime": 67708,
+        "slowEndTime": 69599
+    },
+    {
+        "text": "...made with hot milk froze faster...",
+        "startTime": 46323,
+        "endTime": 48071,
+        "slowStartTime": 69635,
+        "slowEndTime": 72331
+    },
+    {
+        "text": "...than the mixture made with cold milk.",
+        "startTime": 48165,
+        "endTime": 49250,
+        "slowStartTime": 72397,
+        "slowEndTime": 74100
+    },
+    {
+        "text": "However, he wasn’t the first person to make this claim.",
+        "startTime": 49456,
+        "endTime": 51803,
+        "slowStartTime": 74334,
+        "slowEndTime": 77930
+    },
+    {
+        "text": "Aristotle said the same thing in the year 4 BCE.",
+        "startTime": 52231,
+        "endTime": 55398,
+        "slowStartTime": 78497,
+        "slowEndTime": 83322
+    },
+    {
+        "text": "Just, you know, not about ice cream.",
+        "startTime": 55545,
+        "endTime": 56707,
+        "slowStartTime": 83468,
+        "slowEndTime": 85286
+    },
+    {
+        "text": "Rene Descartes and Francis Bacon also believed...",
+        "startTime": 56849,
+        "endTime": 59087,
+        "slowStartTime": 85423,
+        "slowEndTime": 88855
+    },
+    {
+        "text": "...that hot water froze faster than cold water.",
+        "startTime": 59181,
+        "endTime": 60897,
+        "slowStartTime": 88921,
+        "slowEndTime": 91570
+    },
+    {
+        "text": "But scientists aren't convinced...",
+        "startTime": 61047,
+        "endTime": 62867,
+        "slowStartTime": 91720,
+        "slowEndTime": 94526
+    },
+    {
+        "text": "...that the Mpemba Effect is actually a thing.",
+        "startTime": 62957,
+        "endTime": 64951,
+        "slowStartTime": 94585,
+        "slowEndTime": 97651
+    }
+]

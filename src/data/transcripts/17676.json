@@ -1,0 +1,72 @@
+[
+    {
+        "text": "When is your birthday, Jeff?",
+        "startTime": 2691,
+        "endTime": 4373,
+        "slowStartTime": 4186,
+        "slowEndTime": 6785
+    },
+    {
+        "text": "My birthday is in September.",
+        "startTime": 5458,
+        "endTime": 7459,
+        "slowStartTime": 8337,
+        "slowEndTime": 11414
+    },
+    {
+        "text": "I was born on September 10th.",
+        "startTime": 7903,
+        "endTime": 9840,
+        "slowStartTime": 12004,
+        "slowEndTime": 14985
+    },
+    {
+        "text": "Where were you born, Sandy?",
+        "startTime": 12935,
+        "endTime": 14471,
+        "slowStartTime": 19552,
+        "slowEndTime": 21932
+    },
+    {
+        "text": "I was born at a small hospital near my house.",
+        "startTime": 15523,
+        "endTime": 18612,
+        "slowStartTime": 23435,
+        "slowEndTime": 28143
+    },
+    {
+        "text": "I know your grandma lives in Japan.",
+        "startTime": 19667,
+        "endTime": 21953,
+        "slowStartTime": 29651,
+        "slowEndTime": 33154
+    },
+    {
+        "text": "Were you born in Japan then?",
+        "startTime": 22405,
+        "endTime": 24138,
+        "slowStartTime": 33758,
+        "slowEndTime": 36432
+    },
+    {
+        "text": "Yes, I was born in Japan.",
+        "startTime": 25160,
+        "endTime": 27343,
+        "slowStartTime": 37890,
+        "slowEndTime": 41240
+    },
+    {
+        "text": "Were you born at a hospital, Andy?",
+        "startTime": 30431,
+        "endTime": 32622,
+        "slowStartTime": 45797,
+        "slowEndTime": 49158
+    },
+    {
+        "text": "No, I was born at my grandma's house.",
+        "startTime": 33868,
+        "endTime": 36201,
+        "slowStartTime": 50952,
+        "slowEndTime": 54527
+    }
+]

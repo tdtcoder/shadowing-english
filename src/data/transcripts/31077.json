@@ -1,0 +1,58 @@
+[
+    {
+        "text": "She is such a happy little girl.",
+        "startTime": 3870,
+        "endTime": 6169,
+        "slowStartTime": 5955,
+        "slowEndTime": 9478
+    },
+    {
+        "text": "The father is sleeping.",
+        "startTime": 7972,
+        "endTime": 9807,
+        "slowStartTime": 12108,
+        "slowEndTime": 14936
+    },
+    {
+        "text": "The city is very clean.",
+        "startTime": 11280,
+        "endTime": 13338,
+        "slowStartTime": 17070,
+        "slowEndTime": 20232
+    },
+    {
+        "text": "The farm is full of animals.",
+        "startTime": 15174,
+        "endTime": 17120,
+        "slowStartTime": 22911,
+        "slowEndTime": 25905
+    },
+    {
+        "text": "My desk is messy.",
+        "startTime": 18948,
+        "endTime": 20405,
+        "slowStartTime": 28572,
+        "slowEndTime": 30833
+    },
+    {
+        "text": "I have a red shirt.",
+        "startTime": 22242,
+        "endTime": 23545,
+        "slowStartTime": 33513,
+        "slowEndTime": 35543
+    },
+    {
+        "text": "The turtle is slow.",
+        "startTime": 24963,
+        "endTime": 26574,
+        "slowStartTime": 37595,
+        "slowEndTime": 40086
+    },
+    {
+        "text": "The bear is huge.",
+        "startTime": 28051,
+        "endTime": 29927,
+        "slowStartTime": 42226,
+        "slowEndTime": 45115
+    }
+]

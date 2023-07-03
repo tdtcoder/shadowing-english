@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Hello?",
+        "startTime": 646,
+        "endTime": 1344,
+        "slowStartTime": 1119,
+        "slowEndTime": 2241
+    },
+    {
+        "text": "Hi, Amanda! What have you been doing?",
+        "startTime": 1543,
+        "endTime": 3683,
+        "slowStartTime": 2464,
+        "slowEndTime": 5750
+    },
+    {
+        "text": "I've been working all day.",
+        "startTime": 4218,
+        "endTime": 5831,
+        "slowStartTime": 6477,
+        "slowEndTime": 8971
+    },
+    {
+        "text": "What makes you so busy?",
+        "startTime": 6211,
+        "endTime": 7456,
+        "slowStartTime": 9466,
+        "slowEndTime": 11409
+    },
+    {
+        "text": "My sister got married last year.",
+        "startTime": 8066,
+        "endTime": 10073,
+        "slowStartTime": 12249,
+        "slowEndTime": 15334
+    },
+    {
+        "text": "She gave birth to a boy two days ago.",
+        "startTime": 10502,
+        "endTime": 12857,
+        "slowStartTime": 15903,
+        "slowEndTime": 19511
+    },
+    {
+        "text": "Congratulations!",
+        "startTime": 13111,
+        "endTime": 14685,
+        "slowStartTime": 19817,
+        "slowEndTime": 22252
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 14941,
+        "endTime": 15803,
+        "slowStartTime": 22562,
+        "slowEndTime": 23929
+    },
+    {
+        "text": "Now, I have three nieces and two nephews.",
+        "startTime": 16041,
+        "endTime": 18639,
+        "slowStartTime": 24212,
+        "slowEndTime": 28184
+    },
+    {
+        "text": "I'm so happy.",
+        "startTime": 18849,
+        "endTime": 19825,
+        "slowStartTime": 28423,
+        "slowEndTime": 29963
+    },
+    {
+        "text": "Wow! You have a lot of nieces and nephews.",
+        "startTime": 20065,
+        "endTime": 23022,
+        "slowStartTime": 30248,
+        "slowEndTime": 34758
+    },
+    {
+        "text": "Yes.",
+        "startTime": 23371,
+        "endTime": 23759,
+        "slowStartTime": 35207,
+        "slowEndTime": 35864
+    },
+    {
+        "text": "We are a large family.",
+        "startTime": 24083,
+        "endTime": 25569,
+        "slowStartTime": 36275,
+        "slowEndTime": 38578
+    },
+    {
+        "text": "That's great!",
+        "startTime": 25775,
+        "endTime": 26995,
+        "slowStartTime": 38813,
+        "slowEndTime": 40718
+    },
+    {
+        "text": "How many brothers and sisters do you have?",
+        "startTime": 27227,
+        "endTime": 29169,
+        "slowStartTime": 40990,
+        "slowEndTime": 43978
+    },
+    {
+        "text": "I have one sister and two brothers.",
+        "startTime": 29719,
+        "endTime": 32159,
+        "slowStartTime": 44728,
+        "slowEndTime": 48463
+    },
+    {
+        "text": "Did they all get married?",
+        "startTime": 32489,
+        "endTime": 33704,
+        "slowStartTime": 48883,
+        "slowEndTime": 50781
+    },
+    {
+        "text": "Yes, that's why I have many nieces and nephews.",
+        "startTime": 33986,
+        "endTime": 37447,
+        "slowStartTime": 51129,
+        "slowEndTime": 56395
+    },
+    {
+        "text": "Okay, that makes sense.",
+        "startTime": 37682,
+        "endTime": 39381,
+        "slowStartTime": 56673,
+        "slowEndTime": 59297
+    },
+    {
+        "text": "My big brother has two daughters and a son.",
+        "startTime": 39547,
+        "endTime": 42312,
+        "slowStartTime": 59471,
+        "slowEndTime": 63693
+    }
+]

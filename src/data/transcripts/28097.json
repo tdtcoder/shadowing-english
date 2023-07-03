@@ -1,0 +1,247 @@
+[
+    {
+        "text": "﻿Good morning, Jarvis.",
+        "startTime": 3795,
+        "endTime": 4685,
+        "slowStartTime": 5843,
+        "slowEndTime": 7252
+    },
+    {
+        "text": "Good morning, Mark.",
+        "startTime": 5149,
+        "endTime": 5964,
+        "slowStartTime": 7873,
+        "slowEndTime": 9171
+    },
+    {
+        "text": "It's Saturday, so you only have five meetings.",
+        "startTime": 6669,
+        "endTime": 9377,
+        "slowStartTime": 10154,
+        "slowEndTime": 14290
+    },
+    {
+        "text": "Room temperature is set to a cool 68 degrees.",
+        "startTime": 9809,
+        "endTime": 13385,
+        "slowStartTime": 14864,
+        "slowEndTime": 20303
+    },
+    {
+        "text": "Earlier this year, I started building a simple AI to help run our home.",
+        "startTime": 13760,
+        "endTime": 16697,
+        "slowStartTime": 20790,
+        "slowEndTime": 25270
+    },
+    {
+        "text": "I talk to Jarvis using this app I built.",
+        "startTime": 17216,
+        "endTime": 19161,
+        "slowStartTime": 25974,
+        "slowEndTime": 28967
+    },
+    {
+        "text": "It uses artificial intelligence to understand me and figure out what to do.",
+        "startTime": 19426,
+        "endTime": 22689,
+        "slowStartTime": 29289,
+        "slowEndTime": 34259
+    },
+    {
+        "text": "Max woke up a few minutes ago.",
+        "startTime": 23540,
+        "endTime": 24947,
+        "slowStartTime": 35460,
+        "slowEndTime": 37646
+    },
+    {
+        "text": "I'm entertaining her.",
+        "startTime": 25419,
+        "endTime": 26364,
+        "slowStartTime": 38278,
+        "slowEndTime": 39771
+    },
+    {
+        "text": "Alright, let's go check on her.",
+        "startTime": 26659,
+        "endTime": 27828,
+        "slowStartTime": 40138,
+        "slowEndTime": 41967
+    },
+    {
+        "text": "Good morning, Max.",
+        "startTime": 28122,
+        "endTime": 29113,
+        "slowStartTime": 42333,
+        "slowEndTime": 43894
+    },
+    {
+        "text": "Let's practice our Mandarin.",
+        "startTime": 29335,
+        "endTime": 30856,
+        "slowStartTime": 44153,
+        "slowEndTime": 46509
+    },
+    {
+        "text": "Jarvis, your Mandarin is so soothing.",
+        "startTime": 33829,
+        "endTime": 35912,
+        "slowStartTime": 50893,
+        "slowEndTime": 54093
+    },
+    {
+        "text": "Jarvis also helps me get ready in the morning.",
+        "startTime": 38079,
+        "endTime": 39911,
+        "slowStartTime": 57269,
+        "slowEndTime": 60092
+    },
+    {
+        "text": "Fresh shirt!",
+        "startTime": 40131,
+        "endTime": 40583,
+        "slowStartTime": 60346,
+        "slowEndTime": 61099
+    },
+    {
+        "text": "Fire in the hole!",
+        "startTime": 40899,
+        "endTime": 41514,
+        "slowStartTime": 61499,
+        "slowEndTime": 62496
+    },
+    {
+        "text": "Hell yeah!",
+        "startTime": 44641,
+        "endTime": 45191,
+        "slowStartTime": 67111,
+        "slowEndTime": 68012
+    },
+    {
+        "text": "Jarvis knows when to make me breakfast.",
+        "startTime": 46067,
+        "endTime": 47526,
+        "slowStartTime": 69251,
+        "slowEndTime": 71514
+    },
+    {
+        "text": "Your toast is ready.",
+        "startTime": 47604,
+        "endTime": 48900,
+        "slowStartTime": 71556,
+        "slowEndTime": 73575
+    },
+    {
+        "text": "Alright!",
+        "startTime": 50055,
+        "endTime": 50625,
+        "slowStartTime": 75232,
+        "slowEndTime": 76162
+    },
+    {
+        "text": "It's time for my call with Schroep.",
+        "startTime": 51131,
+        "endTime": 52240,
+        "slowStartTime": 76846,
+        "slowEndTime": 78585
+    },
+    {
+        "text": "Can you get him on the video conference line?",
+        "startTime": 52493,
+        "endTime": 53801,
+        "slowStartTime": 78889,
+        "slowEndTime": 80926
+    },
+    {
+        "text": "Setting up the VC room now.",
+        "startTime": 53901,
+        "endTime": 55246,
+        "slowStartTime": 81001,
+        "slowEndTime": 83094
+    },
+    {
+        "text": "Remember to check on the AI guidance system for Aquila.",
+        "startTime": 55493,
+        "endTime": 58874,
+        "slowStartTime": 83389,
+        "slowEndTime": 88536
+    },
+    {
+        "text": "One of the best things about Jarvis is it could recognize people at the gate,...",
+        "startTime": 59125,
+        "endTime": 62297,
+        "slowStartTime": 88837,
+        "slowEndTime": 93670
+    },
+    {
+        "text": "...let them in automatically and then just tell me about it.",
+        "startTime": 62605,
+        "endTime": 64651,
+        "slowStartTime": 94057,
+        "slowEndTime": 97201
+    },
+    {
+        "text": "Mark, your parents are coming in.",
+        "startTime": 65683,
+        "endTime": 67245,
+        "slowStartTime": 98675,
+        "slowEndTime": 101092
+    },
+    {
+        "text": "Thanks, Jeffrey.",
+        "startTime": 68055,
+        "endTime": 68981,
+        "slowStartTime": 102232,
+        "slowEndTime": 103696
+    },
+    {
+        "text": "It's Jarvis.",
+        "startTime": 69263,
+        "endTime": 70151,
+        "slowStartTime": 104044,
+        "slowEndTime": 105452
+    },
+    {
+        "text": "And Jarvis can play all of our favorite music.",
+        "startTime": 70761,
+        "endTime": 72621,
+        "slowStartTime": 106291,
+        "slowEndTime": 109156
+    },
+    {
+        "text": "Hey, play us some good Nickelback songs.",
+        "startTime": 73174,
+        "endTime": 75112,
+        "slowStartTime": 109911,
+        "slowEndTime": 112893
+    },
+    {
+        "text": "I'm sorry, Mark.",
+        "startTime": 75305,
+        "endTime": 76145,
+        "slowStartTime": 113108,
+        "slowEndTime": 114443
+    },
+    {
+        "text": "I'm afraid I can't do that.",
+        "startTime": 76407,
+        "endTime": 77725,
+        "slowStartTime": 114760,
+        "slowEndTime": 116812
+    },
+    {
+        "text": "There are no good Nickelback songs.",
+        "startTime": 79321,
+        "endTime": 81228,
+        "slowStartTime": 119131,
+        "slowEndTime": 122067
+    },
+    {
+        "text": "And if I don't want to talk, I can just text Jarvis through a messenger bot that I built.",
+        "startTime": 82060,
+        "endTime": 85685,
+        "slowStartTime": 123240,
+        "slowEndTime": 128752
+    }
+]

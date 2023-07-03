@@ -1,0 +1,100 @@
+[
+    {
+        "text": "﻿This is not a cloud.",
+        "startTime": 1832,
+        "endTime": 2719,
+        "slowStartTime": 2898,
+        "slowEndTime": 4304
+    },
+    {
+        "text": "This is a car protected from storms by an insurance company...",
+        "startTime": 3817,
+        "endTime": 6966,
+        "slowStartTime": 5876,
+        "slowEndTime": 10674
+    },
+    {
+        "text": "...that knows the weather down to the square block.",
+        "startTime": 7047,
+        "endTime": 9081,
+        "slowStartTime": 10721,
+        "slowEndTime": 13846
+    },
+    {
+        "text": "This is a diamond trapped on a blockchain,...",
+        "startTime": 10037,
+        "endTime": 12087,
+        "slowStartTime": 15206,
+        "slowEndTime": 18356
+    },
+    {
+        "text": "...protected against fraud, theft and trafficking.",
+        "startTime": 12209,
+        "endTime": 14593,
+        "slowStartTime": 18464,
+        "slowEndTime": 22115
+    },
+    {
+        "text": "This is a financial transaction secured from hacks and threats others can't see.",
+        "startTime": 15505,
+        "endTime": 19730,
+        "slowStartTime": 23408,
+        "slowEndTime": 29820
+    },
+    {
+        "text": "This is a patient's medical history made secure...",
+        "startTime": 20578,
+        "endTime": 23049,
+        "slowStartTime": 31017,
+        "slowEndTime": 34799
+    },
+    {
+        "text": "...while still available to their doctor at their fingertips.",
+        "startTime": 23249,
+        "endTime": 26004,
+        "slowStartTime": 35024,
+        "slowEndTime": 39231
+    },
+    {
+        "text": "This is an asteroid livestreamed to millions of viewers from 220 miles above earth.",
+        "startTime": 27117,
+        "endTime": 32435,
+        "slowStartTime": 40825,
+        "slowEndTime": 48877
+    },
+    {
+        "text": "This is AI trained by experts in 20 industries.",
+        "startTime": 33694,
+        "endTime": 36499,
+        "slowStartTime": 50691,
+        "slowEndTime": 54973
+    },
+    {
+        "text": "Your industry.",
+        "startTime": 36890,
+        "endTime": 37689,
+        "slowStartTime": 55485,
+        "slowEndTime": 56758
+    },
+    {
+        "text": "Hello.",
+        "startTime": 38449,
+        "endTime": 38771,
+        "slowStartTime": 57824,
+        "slowEndTime": 58381
+    },
+    {
+        "text": "This is not the cloud you know.",
+        "startTime": 39473,
+        "endTime": 41029,
+        "slowStartTime": 59360,
+        "slowEndTime": 61768
+    },
+    {
+        "text": "This is the IBM cloud.",
+        "startTime": 41732,
+        "endTime": 43529,
+        "slowStartTime": 62748,
+        "slowEndTime": 65519
+    }
+]

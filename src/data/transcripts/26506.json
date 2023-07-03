@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Hey Siri, read my note, \"Thank You Speech.\"",
+        "startTime": 325,
+        "endTime": 2768,
+        "slowStartTime": 637,
+        "slowEndTime": 4377
+    },
+    {
+        "text": "Your note from today says, \"Thank You Speech.\"",
+        "startTime": 5032,
+        "endTime": 7706,
+        "slowStartTime": 7698,
+        "slowEndTime": 11784
+    },
+    {
+        "text": "Oh my gosh!",
+        "startTime": 8060,
+        "endTime": 9427,
+        "slowStartTime": 12240,
+        "slowEndTime": 14365
+    },
+    {
+        "text": "So many people to thank:...",
+        "startTime": 9650,
+        "endTime": 11047,
+        "slowStartTime": 14625,
+        "slowEndTime": 16795
+    },
+    {
+        "text": "...mom, dad, David, my kids watching this at home.",
+        "startTime": 11222,
+        "endTime": 16099,
+        "slowStartTime": 16983,
+        "slowEndTime": 24373
+    },
+    {
+        "text": "You should be asleep right now.",
+        "startTime": 16373,
+        "endTime": 17718,
+        "slowStartTime": 24709,
+        "slowEndTime": 26802
+    },
+    {
+        "text": "Pause for laughter.",
+        "startTime": 18183,
+        "endTime": 19161,
+        "slowStartTime": 27425,
+        "slowEndTime": 28966
+    },
+    {
+        "text": "Ah, okay, they're playing me off.",
+        "startTime": 20532,
+        "endTime": 22623,
+        "slowStartTime": 30948,
+        "slowEndTime": 34159
+    },
+    {
+        "text": "Okay, thank you so much!",
+        "startTime": 22888,
+        "endTime": 23894,
+        "slowStartTime": 34482,
+        "slowEndTime": 36066
+    },
+    {
+        "text": "I'll be a lot more natural.",
+        "startTime": 25693,
+        "endTime": 26576,
+        "slowStartTime": 38689,
+        "slowEndTime": 40089
+    }
+]

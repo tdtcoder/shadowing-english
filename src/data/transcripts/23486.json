@@ -1,0 +1,51 @@
+[
+    {
+        "text": "What a hassle!",
+        "startTime": 137,
+        "endTime": 955,
+        "slowStartTime": 355,
+        "slowEndTime": 1657
+    },
+    {
+        "text": "This pizza website wants our password, coupon code, and credit card number?",
+        "startTime": 1046,
+        "endTime": 4125,
+        "slowStartTime": 1719,
+        "slowEndTime": 6412
+    },
+    {
+        "text": "That's it!",
+        "startTime": 4706,
+        "endTime": 5309,
+        "slowStartTime": 7209,
+        "slowEndTime": 8188
+    },
+    {
+        "text": "We're going off the grid.",
+        "startTime": 5458,
+        "endTime": 7291,
+        "slowStartTime": 8337,
+        "slowEndTime": 11162
+    },
+    {
+        "text": "We could've just picked up a hot and ready pizza at Little Caesars.",
+        "startTime": 8813,
+        "endTime": 11635,
+        "slowStartTime": 13369,
+        "slowEndTime": 17677
+    },
+    {
+        "text": "That's it!",
+        "startTime": 11719,
+        "endTime": 12136,
+        "slowStartTime": 17728,
+        "slowEndTime": 18429
+    },
+    {
+        "text": "We're going back on the grid.",
+        "startTime": 12217,
+        "endTime": 14087,
+        "slowStartTime": 18475,
+        "slowEndTime": 21355
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Knife.",
+        "startTime": 2702,
+        "endTime": 3308,
+        "slowStartTime": 4203,
+        "slowEndTime": 5187
+    },
+    {
+        "text": "There is a knife.",
+        "startTime": 4111,
+        "endTime": 5405,
+        "slowStartTime": 6316,
+        "slowEndTime": 8332
+    },
+    {
+        "text": "There is a knife in the kitchen.",
+        "startTime": 6826,
+        "endTime": 8970,
+        "slowStartTime": 10389,
+        "slowEndTime": 13680
+    },
+    {
+        "text": "Knight.",
+        "startTime": 10359,
+        "endTime": 11006,
+        "slowStartTime": 15689,
+        "slowEndTime": 16734
+    },
+    {
+        "text": "The knight is riding a horse.",
+        "startTime": 11777,
+        "endTime": 13830,
+        "slowStartTime": 17816,
+        "slowEndTime": 20970
+    },
+    {
+        "text": "The knight is riding a brown horse.",
+        "startTime": 15246,
+        "endTime": 17767,
+        "slowStartTime": 23019,
+        "slowEndTime": 26876
+    },
+    {
+        "text": "Knock.",
+        "startTime": 19119,
+        "endTime": 19659,
+        "slowStartTime": 28829,
+        "slowEndTime": 29713
+    },
+    {
+        "text": "I knock on the door.",
+        "startTime": 20365,
+        "endTime": 21921,
+        "slowStartTime": 30698,
+        "slowEndTime": 33107
+    },
+    {
+        "text": "I knock on the front door.",
+        "startTime": 23285,
+        "endTime": 25083,
+        "slowStartTime": 35077,
+        "slowEndTime": 37849
+    },
+    {
+        "text": "Know.",
+        "startTime": 26392,
+        "endTime": 26998,
+        "slowStartTime": 39738,
+        "slowEndTime": 40722
+    },
+    {
+        "text": "I know how to write.",
+        "startTime": 27771,
+        "endTime": 29277,
+        "slowStartTime": 41807,
+        "slowEndTime": 44140
+    },
+    {
+        "text": "I know how to read and write.",
+        "startTime": 30693,
+        "endTime": 32825,
+        "slowStartTime": 46189,
+        "slowEndTime": 49463
+    },
+    {
+        "text": "How many eyes do you, do you see?",
+        "startTime": 38255,
+        "endTime": 41594,
+        "slowStartTime": 57533,
+        "slowEndTime": 62616
+    },
+    {
+        "text": "I see two, two, two, two eyes.",
+        "startTime": 42073,
+        "endTime": 45521,
+        "slowStartTime": 63259,
+        "slowEndTime": 68507
+    },
+    {
+        "text": "How many wheels do you, do you see?",
+        "startTime": 45876,
+        "endTime": 49038,
+        "slowStartTime": 68964,
+        "slowEndTime": 73782
+    },
+    {
+        "text": "I see three, three, three, three wheels.",
+        "startTime": 49531,
+        "endTime": 52965,
+        "slowStartTime": 74447,
+        "slowEndTime": 79672
+    },
+    {
+        "text": "How many wings do you, do you see?",
+        "startTime": 53363,
+        "endTime": 56567,
+        "slowStartTime": 80195,
+        "slowEndTime": 85075
+    },
+    {
+        "text": "I see four, four, four, four wings.",
+        "startTime": 57109,
+        "endTime": 60535,
+        "slowStartTime": 85813,
+        "slowEndTime": 91028
+    },
+    {
+        "text": "One, two, three, four, five, six, seven.",
+        "startTime": 60847,
+        "endTime": 64160,
+        "slowStartTime": 91421,
+        "slowEndTime": 96465
+    },
+    {
+        "text": "I see many different things every day!",
+        "startTime": 64551,
+        "endTime": 67597,
+        "slowStartTime": 96977,
+        "slowEndTime": 101620
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "text": "This incident has really started me thinking.",
+        "startTime": 2330,
+        "endTime": 5070,
+        "slowStartTime": 3585,
+        "slowEndTime": 7510
+    },
+    {
+        "text": "You mean the message on the bulletin board?",
+        "startTime": 5630,
+        "endTime": 7300,
+        "slowStartTime": 8500,
+        "slowEndTime": 10950
+    },
+    {
+        "text": "Yeah. I want to write a response to it,...",
+        "startTime": 7500,
+        "endTime": 10170,
+        "slowStartTime": 11340,
+        "slowEndTime": 15350
+    },
+    {
+        "text": "...but I'm still trying to sort out my thoughts.",
+        "startTime": 10380,
+        "endTime": 12640,
+        "slowStartTime": 15645,
+        "slowEndTime": 19030
+    },
+    {
+        "text": "If you're free for lunch, maybe you can help me brainstorm ideas.",
+        "startTime": 13010,
+        "endTime": 16780,
+        "slowStartTime": 19620,
+        "slowEndTime": 25125
+    },
+    {
+        "text": "I could list a few problems with employee accountability for you right now.",
+        "startTime": 17220,
+        "endTime": 20720,
+        "slowStartTime": 25880,
+        "slowEndTime": 31160
+    },
+    {
+        "text": "Save them for lunch. Once we get them on paper we can prioritize them...",
+        "startTime": 21190,
+        "endTime": 25720,
+        "slowStartTime": 31870,
+        "slowEndTime": 38540
+    },
+    {
+        "text": "...and then try to come up with practical ways to deal with each one.",
+        "startTime": 25860,
+        "endTime": 29490,
+        "slowStartTime": 38875,
+        "slowEndTime": 44200
+    },
+    {
+        "text": "If the ideas we come up with are good, Bob may want us to do a formal report.",
+        "startTime": 29960,
+        "endTime": 34730,
+        "slowStartTime": 45070,
+        "slowEndTime": 52145
+    }
+]

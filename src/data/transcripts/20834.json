@@ -1,0 +1,198 @@
+[
+    {
+        "text": "Hello?",
+        "startTime": 342,
+        "endTime": 829,
+        "slowStartTime": 663,
+        "slowEndTime": 1469
+    },
+    {
+        "text": "Hi, Amanda.",
+        "startTime": 1155,
+        "endTime": 1997,
+        "slowStartTime": 1883,
+        "slowEndTime": 3221
+    },
+    {
+        "text": "How's it going?",
+        "startTime": 2253,
+        "endTime": 3024,
+        "slowStartTime": 3529,
+        "slowEndTime": 4761
+    },
+    {
+        "text": "Great!",
+        "startTime": 3248,
+        "endTime": 4019,
+        "slowStartTime": 5022,
+        "slowEndTime": 6253
+    },
+    {
+        "text": "You know what?",
+        "startTime": 4495,
+        "endTime": 5086,
+        "slowStartTime": 6893,
+        "slowEndTime": 7854
+    },
+    {
+        "text": "I'm looking at the map of Korea right now.",
+        "startTime": 5353,
+        "endTime": 7505,
+        "slowStartTime": 8179,
+        "slowEndTime": 11482
+    },
+    {
+        "text": "Really? What part of Korea are you looking at now?",
+        "startTime": 7831,
+        "endTime": 10780,
+        "slowStartTime": 11897,
+        "slowEndTime": 16395
+    },
+    {
+        "text": "Of course, Seoul.",
+        "startTime": 11157,
+        "endTime": 12387,
+        "slowStartTime": 16885,
+        "slowEndTime": 18806
+    },
+    {
+        "text": "It's the biggest city in Korea, isn't it?",
+        "startTime": 12721,
+        "endTime": 14729,
+        "slowStartTime": 19231,
+        "slowEndTime": 22319
+    },
+    {
+        "text": "Yeah, what part of Seoul would you like to visit?",
+        "startTime": 15068,
+        "endTime": 17727,
+        "slowStartTime": 22752,
+        "slowEndTime": 26815
+    },
+    {
+        "text": "Insa-dong seems attractive.",
+        "startTime": 18245,
+        "endTime": 19717,
+        "slowStartTime": 27518,
+        "slowEndTime": 29801
+    },
+    {
+        "text": "That's a perfect place!",
+        "startTime": 20106,
+        "endTime": 21537,
+        "slowStartTime": 30309,
+        "slowEndTime": 32531
+    },
+    {
+        "text": "You can find all kinds of traditional stuff there.",
+        "startTime": 21975,
+        "endTime": 24523,
+        "slowStartTime": 33113,
+        "slowEndTime": 37010
+    },
+    {
+        "text": "That's great.",
+        "startTime": 24753,
+        "endTime": 25608,
+        "slowStartTime": 37279,
+        "slowEndTime": 38637
+    },
+    {
+        "text": "I always wanted to show my family some unique, traditional stuff.",
+        "startTime": 25846,
+        "endTime": 29341,
+        "slowStartTime": 38919,
+        "slowEndTime": 44236
+    },
+    {
+        "text": "Insa-dong will be the best place to get souvenirs.",
+        "startTime": 30230,
+        "endTime": 33233,
+        "slowStartTime": 45495,
+        "slowEndTime": 50075
+    },
+    {
+        "text": "How can I get there from Jamsil subway station?",
+        "startTime": 33728,
+        "endTime": 36157,
+        "slowStartTime": 50742,
+        "slowEndTime": 54460
+    },
+    {
+        "text": "Take subway line number two, green line.",
+        "startTime": 36931,
+        "endTime": 39314,
+        "slowStartTime": 55547,
+        "slowEndTime": 59196
+    },
+    {
+        "text": "Transfer at City Hall to line number three, orange line.",
+        "startTime": 39808,
+        "endTime": 43261,
+        "slowStartTime": 59862,
+        "slowEndTime": 65116
+    },
+    {
+        "text": "Hold on, let me write it down.",
+        "startTime": 43575,
+        "endTime": 45090,
+        "slowStartTime": 65513,
+        "slowEndTime": 67860
+    },
+    {
+        "text": "You get off at An-gook station.",
+        "startTime": 45909,
+        "endTime": 48108,
+        "slowStartTime": 69013,
+        "slowEndTime": 72387
+    },
+    {
+        "text": "Is Insa-dong near there?",
+        "startTime": 48518,
+        "endTime": 49769,
+        "slowStartTime": 72927,
+        "slowEndTime": 74878
+    },
+    {
+        "text": "Yes, it takes ten minutes on foot.",
+        "startTime": 50070,
+        "endTime": 52379,
+        "slowStartTime": 75255,
+        "slowEndTime": 78793
+    },
+    {
+        "text": "Take exit number two and go straight.",
+        "startTime": 52823,
+        "endTime": 55295,
+        "slowStartTime": 79385,
+        "slowEndTime": 83168
+    },
+    {
+        "text": "The street will lead you to Insa-dong.",
+        "startTime": 55806,
+        "endTime": 57632,
+        "slowStartTime": 83859,
+        "slowEndTime": 86673
+    },
+    {
+        "text": "Okay, I got it.",
+        "startTime": 58325,
+        "endTime": 59917,
+        "slowStartTime": 87638,
+        "slowEndTime": 90100
+    },
+    {
+        "text": "Thanks for the directions.",
+        "startTime": 60211,
+        "endTime": 61360,
+        "slowStartTime": 90466,
+        "slowEndTime": 92265
+    },
+    {
+        "text": "You are welcome.",
+        "startTime": 61619,
+        "endTime": 62552,
+        "slowStartTime": 92578,
+        "slowEndTime": 94053
+    }
+]

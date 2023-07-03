@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Lexus, the luxury car brand of Toyota,...",
+        "startTime": 610,
+        "endTime": 3601,
+        "slowStartTime": 1065,
+        "slowEndTime": 5626
+    },
+    {
+        "text": "...is making every \"Back to the Future\" fan's dreams come true...",
+        "startTime": 3952,
+        "endTime": 7648,
+        "slowStartTime": 6078,
+        "slowEndTime": 11697
+    },
+    {
+        "text": "...by creating a rideable hoverboard.",
+        "startTime": 7743,
+        "endTime": 10113,
+        "slowStartTime": 11764,
+        "slowEndTime": 15395
+    },
+    {
+        "text": "Yes, this is heavy.",
+        "startTime": 10494,
+        "endTime": 11801,
+        "slowStartTime": 15891,
+        "slowEndTime": 17927
+    },
+    {
+        "text": "Or maybe it's light.",
+        "startTime": 11984,
+        "endTime": 13488,
+        "slowStartTime": 18126,
+        "slowEndTime": 20457
+    },
+    {
+        "text": "We don't really know how much it weighs...",
+        "startTime": 13635,
+        "endTime": 15070,
+        "slowStartTime": 20603,
+        "slowEndTime": 22830
+    },
+    {
+        "text": "...because Lexus is only teasing us with a few facts about the project,...",
+        "startTime": 15169,
+        "endTime": 19098,
+        "slowStartTime": 22903,
+        "slowEndTime": 28872
+    },
+    {
+        "text": "...promising to reveal more details about it every week.",
+        "startTime": 19427,
+        "endTime": 22030,
+        "slowStartTime": 29290,
+        "slowEndTime": 33270
+    },
+    {
+        "text": "But we don't even have a video of it in action.",
+        "startTime": 22317,
+        "endTime": 24105,
+        "slowStartTime": 33625,
+        "slowEndTime": 36383
+    },
+    {
+        "text": "In the movie \"Back to the Future Part 2\",...",
+        "startTime": 24474,
+        "endTime": 26310,
+        "slowStartTime": 36861,
+        "slowEndTime": 39690
+    },
+    {
+        "text": "...Marty Mcfly travels to the year 2015 and comes across a hoverboard.",
+        "startTime": 26421,
+        "endTime": 30305,
+        "slowStartTime": 39782,
+        "slowEndTime": 45682
+    },
+    {
+        "text": "So of course, now that we've reached 2015,...",
+        "startTime": 30833,
+        "endTime": 33075,
+        "slowStartTime": 46399,
+        "slowEndTime": 49838
+    },
+    {
+        "text": "...engineers find themselves compelled...",
+        "startTime": 33379,
+        "endTime": 35177,
+        "slowStartTime": 50218,
+        "slowEndTime": 52991
+    },
+    {
+        "text": "...to make this fantasy technology a reality.",
+        "startTime": 35300,
+        "endTime": 37792,
+        "slowStartTime": 53100,
+        "slowEndTime": 56913
+    }
+]

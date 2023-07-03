@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Can you climb up the tree?",
+        "startTime": 2859,
+        "endTime": 4833,
+        "slowStartTime": 4439,
+        "slowEndTime": 7474
+    },
+    {
+        "text": "Sure. I bet I can climb up the tree.",
+        "startTime": 6141,
+        "endTime": 9643,
+        "slowStartTime": 9361,
+        "slowEndTime": 14689
+    },
+    {
+        "text": "How about you?",
+        "startTime": 10155,
+        "endTime": 11309,
+        "slowStartTime": 15382,
+        "slowEndTime": 17189
+    },
+    {
+        "text": "Can you climb up the tree?",
+        "startTime": 11719,
+        "endTime": 13838,
+        "slowStartTime": 17728,
+        "slowEndTime": 20982
+    },
+    {
+        "text": "I bet I can finish my homework in an hour.",
+        "startTime": 17139,
+        "endTime": 20925,
+        "slowStartTime": 25858,
+        "slowEndTime": 31612
+    },
+    {
+        "text": "I don't think so.",
+        "startTime": 22040,
+        "endTime": 23695,
+        "slowStartTime": 33210,
+        "slowEndTime": 35768
+    },
+    {
+        "text": "I bet you can't finish your homework in an hour.",
+        "startTime": 24203,
+        "endTime": 27827,
+        "slowStartTime": 36455,
+        "slowEndTime": 41966
+    },
+    {
+        "text": "Swimming in the sea is not easy.",
+        "startTime": 30901,
+        "endTime": 34221,
+        "slowStartTime": 46502,
+        "slowEndTime": 51557
+    },
+    {
+        "text": "No, it isn't.",
+        "startTime": 35215,
+        "endTime": 36693,
+        "slowStartTime": 52973,
+        "slowEndTime": 55265
+    },
+    {
+        "text": "I bet I can swim in this deep water.",
+        "startTime": 37195,
+        "endTime": 40140,
+        "slowStartTime": 55942,
+        "slowEndTime": 60435
+    },
+    {
+        "text": "Can you?",
+        "startTime": 41165,
+        "endTime": 41965,
+        "slowStartTime": 61898,
+        "slowEndTime": 63172
+    },
+    {
+        "text": "I bet you can't swim in this deep water.",
+        "startTime": 42482,
+        "endTime": 45812,
+        "slowStartTime": 63873,
+        "slowEndTime": 68943
+    }
+]

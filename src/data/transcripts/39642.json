@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Have a nice day at work, Marsha!",
+        "startTime": 1433,
+        "endTime": 3241,
+        "slowStartTime": 2299,
+        "slowEndTime": 5086
+    },
+    {
+        "text": "You too, Anna.",
+        "startTime": 3675,
+        "endTime": 4717,
+        "slowStartTime": 5662,
+        "slowEndTime": 7301
+    },
+    {
+        "text": "Oh, wait.",
+        "startTime": 5033,
+        "endTime": 5898,
+        "slowStartTime": 7699,
+        "slowEndTime": 9072
+    },
+    {
+        "text": "Do you have pen and paper I can borrow?",
+        "startTime": 6714,
+        "endTime": 9107,
+        "slowStartTime": 10221,
+        "slowEndTime": 13886
+    },
+    {
+        "text": "Of course.",
+        "startTime": 9236,
+        "endTime": 10136,
+        "slowStartTime": 14004,
+        "slowEndTime": 15429
+    },
+    {
+        "text": "Hey!",
+        "startTime": 18269,
+        "endTime": 18931,
+        "slowStartTime": 27554,
+        "slowEndTime": 28621
+    },
+    {
+        "text": "Could I borrow your phone just for two seconds?",
+        "startTime": 19481,
+        "endTime": 21052,
+        "slowStartTime": 29371,
+        "slowEndTime": 31803
+    },
+    {
+        "text": "No.",
+        "startTime": 22683,
+        "endTime": 22897,
+        "slowStartTime": 34174,
+        "slowEndTime": 34570
+    },
+    {
+        "text": "I know it's super weird, we don't even know each other...",
+        "startTime": 23113,
+        "endTime": 24625,
+        "slowStartTime": 34820,
+        "slowEndTime": 37163
+    },
+    {
+        "text": "...but I'm going to stand right here, and I'm just going to make one quick call.",
+        "startTime": 24717,
+        "endTime": 27143,
+        "slowStartTime": 37225,
+        "slowEndTime": 40939
+    },
+    {
+        "text": "It means so much.",
+        "startTime": 28009,
+        "endTime": 29089,
+        "slowStartTime": 42163,
+        "slowEndTime": 43858
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 29357,
+        "endTime": 29705,
+        "slowStartTime": 44185,
+        "slowEndTime": 44783
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 29921,
+        "endTime": 30117,
+        "slowStartTime": 45032,
+        "slowEndTime": 45400
+    },
+    {
+        "text": "I appreciate it.",
+        "startTime": 30182,
+        "endTime": 30814,
+        "slowStartTime": 45423,
+        "slowEndTime": 46446
+    },
+    {
+        "text": "You're a good guy.",
+        "startTime": 30907,
+        "endTime": 31457,
+        "slowStartTime": 46511,
+        "slowEndTime": 47410
+    }
+]

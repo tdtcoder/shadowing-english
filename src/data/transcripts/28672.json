@@ -1,0 +1,219 @@
+[
+    {
+        "text": "Hi, my name is Gordon Ramsay.",
+        "startTime": 77,
+        "endTime": 1143,
+        "slowStartTime": 265,
+        "slowEndTime": 1939
+    },
+    {
+        "text": "Welcome to Chef Support.",
+        "startTime": 1253,
+        "endTime": 2461,
+        "slowStartTime": 2029,
+        "slowEndTime": 3916
+    },
+    {
+        "text": "Today, we'll be doing Twitter.",
+        "startTime": 2707,
+        "endTime": 4609,
+        "slowStartTime": 4211,
+        "slowEndTime": 7139
+    },
+    {
+        "text": "Right.",
+        "startTime": 7594,
+        "endTime": 8013,
+        "slowStartTime": 11541,
+        "slowEndTime": 12245
+    },
+    {
+        "text": "First question.",
+        "startTime": 8796,
+        "endTime": 9414,
+        "slowStartTime": 13344,
+        "slowEndTime": 14346
+    },
+    {
+        "text": "Hannah.",
+        "startTime": 9531,
+        "endTime": 9823,
+        "slowStartTime": 14446,
+        "slowEndTime": 14959
+    },
+    {
+        "text": "Question to those of you who are good in a kitchen,...",
+        "startTime": 10244,
+        "endTime": 12584,
+        "slowStartTime": 15516,
+        "slowEndTime": 19101
+    },
+    {
+        "text": "...how do I mince garlic without a press?",
+        "startTime": 12663,
+        "endTime": 14473,
+        "slowStartTime": 19144,
+        "slowEndTime": 21934
+    },
+    {
+        "text": "I'm going to show you.",
+        "startTime": 14906,
+        "endTime": 15389,
+        "slowStartTime": 22509,
+        "slowEndTime": 23308
+    },
+    {
+        "text": "Take the clove of garlic.",
+        "startTime": 16414,
+        "endTime": 17284,
+        "slowStartTime": 24771,
+        "slowEndTime": 26151
+    },
+    {
+        "text": "This part of the knife, on there.",
+        "startTime": 18129,
+        "endTime": 19367,
+        "slowStartTime": 27344,
+        "slowEndTime": 29275
+    },
+    {
+        "text": "And, literally, hand on there.",
+        "startTime": 19470,
+        "endTime": 20392,
+        "slowStartTime": 29355,
+        "slowEndTime": 30813
+    },
+    {
+        "text": "And that is super minced.",
+        "startTime": 20897,
+        "endTime": 22619,
+        "slowStartTime": 31495,
+        "slowEndTime": 34154
+    },
+    {
+        "text": "Touch of salt in there...",
+        "startTime": 23477,
+        "endTime": 24839,
+        "slowStartTime": 35366,
+        "slowEndTime": 37484
+    },
+    {
+        "text": "...and just chop it.",
+        "startTime": 25447,
+        "endTime": 26039,
+        "slowStartTime": 38321,
+        "slowEndTime": 39283
+    },
+    {
+        "text": "And within seconds, you got this paste...",
+        "startTime": 27268,
+        "endTime": 29539,
+        "slowStartTime": 41052,
+        "slowEndTime": 44533
+    },
+    {
+        "text": "...because look, the salt keeps it together...",
+        "startTime": 29707,
+        "endTime": 31813,
+        "slowStartTime": 44710,
+        "slowEndTime": 47945
+    },
+    {
+        "text": "...and it stops it from oozing out unto the board.",
+        "startTime": 32424,
+        "endTime": 35484,
+        "slowStartTime": 48786,
+        "slowEndTime": 53451
+    },
+    {
+        "text": "In ten seconds, you got this beautiful minced garlic.",
+        "startTime": 35944,
+        "endTime": 38011,
+        "slowStartTime": 54066,
+        "slowEndTime": 57242
+    },
+    {
+        "text": "The back of the knife.",
+        "startTime": 38779,
+        "endTime": 39626,
+        "slowStartTime": 58319,
+        "slowEndTime": 59664
+    },
+    {
+        "text": "Good question.",
+        "startTime": 40219,
+        "endTime": 40663,
+        "slowStartTime": 60479,
+        "slowEndTime": 61220
+    },
+    {
+        "text": "Now, can cheese go bad?",
+        "startTime": 41191,
+        "endTime": 42244,
+        "slowStartTime": 61937,
+        "slowEndTime": 63591
+    },
+    {
+        "text": "I'm eating this cheese and it tastes funny but I'm a bit hungry.",
+        "startTime": 42465,
+        "endTime": 45573,
+        "slowStartTime": 63848,
+        "slowEndTime": 68584
+    },
+    {
+        "text": "Come on, Adam.",
+        "startTime": 45848,
+        "endTime": 46297,
+        "slowStartTime": 68922,
+        "slowEndTime": 69671
+    },
+    {
+        "text": "Seriously?",
+        "startTime": 46828,
+        "endTime": 47106,
+        "slowStartTime": 70392,
+        "slowEndTime": 70884
+    },
+    {
+        "text": "The worst thing to do with cheese is take it out of the fridge,...",
+        "startTime": 47662,
+        "endTime": 49768,
+        "slowStartTime": 71643,
+        "slowEndTime": 74877
+    },
+    {
+        "text": "...let it get up to room temperature,...",
+        "startTime": 49861,
+        "endTime": 51674,
+        "slowStartTime": 74942,
+        "slowEndTime": 77736
+    },
+    {
+        "text": "...leave it out for 24 hours and then refrigerate it.",
+        "startTime": 51934,
+        "endTime": 54233,
+        "slowStartTime": 78051,
+        "slowEndTime": 81575
+    },
+    {
+        "text": "That's the worst thing you can do.",
+        "startTime": 54303,
+        "endTime": 55120,
+        "slowStartTime": 81605,
+        "slowEndTime": 82905
+    },
+    {
+        "text": "Once you've taken it out and it's gotten really runny,...",
+        "startTime": 55284,
+        "endTime": 57377,
+        "slowStartTime": 83076,
+        "slowEndTime": 86290
+    },
+    {
+        "text": "...you have to eat it or discard it.",
+        "startTime": 57728,
+        "endTime": 59075,
+        "slowStartTime": 86742,
+        "slowEndTime": 88837
+    }
+]

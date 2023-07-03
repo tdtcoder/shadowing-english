@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Hey, take a look at this!",
+        "startTime": 3752,
+        "endTime": 5597,
+        "slowStartTime": 5778,
+        "slowEndTime": 8621
+    },
+    {
+        "text": "What are you looking at? Is that today's paper?",
+        "startTime": 5744,
+        "endTime": 8243,
+        "slowStartTime": 8766,
+        "slowEndTime": 12589
+    },
+    {
+        "text": "Yes, check out this ad.",
+        "startTime": 8565,
+        "endTime": 10365,
+        "slowStartTime": 12997,
+        "slowEndTime": 15772
+    },
+    {
+        "text": "What does it say?",
+        "startTime": 10527,
+        "endTime": 11385,
+        "slowStartTime": 15940,
+        "slowEndTime": 17303
+    },
+    {
+        "text": "It's for Kingsley's department store.",
+        "startTime": 11644,
+        "endTime": 13567,
+        "slowStartTime": 17616,
+        "slowEndTime": 20575
+    },
+    {
+        "text": "They're having a big sale this weekend.",
+        "startTime": 13753,
+        "endTime": 15915,
+        "slowStartTime": 20780,
+        "slowEndTime": 24097
+    },
+    {
+        "text": "Really? Kingsley's is the best department store in the city.",
+        "startTime": 16030,
+        "endTime": 19230,
+        "slowStartTime": 24195,
+        "slowEndTime": 29070
+    },
+    {
+        "text": "It says here that everything in the store is between 30 and 50 percent off.",
+        "startTime": 19620,
+        "endTime": 24283,
+        "slowStartTime": 29580,
+        "slowEndTime": 36650
+    },
+    {
+        "text": "That's quite a sale,...",
+        "startTime": 24441,
+        "endTime": 25505,
+        "slowStartTime": 36812,
+        "slowEndTime": 38482
+    },
+    {
+        "text": "...maybe we ought to go check it out this weekend.",
+        "startTime": 25645,
+        "endTime": 27863,
+        "slowStartTime": 38618,
+        "slowEndTime": 42019
+    },
+    {
+        "text": "I could use some new shirts.",
+        "startTime": 28233,
+        "endTime": 29941,
+        "slowStartTime": 42499,
+        "slowEndTime": 45137
+    },
+    {
+        "text": "And I wouldn't mind picking up a new CD player.",
+        "startTime": 30073,
+        "endTime": 32526,
+        "slowStartTime": 45260,
+        "slowEndTime": 49014
+    },
+    {
+        "text": "They're 50% off. Wow!",
+        "startTime": 32787,
+        "endTime": 34706,
+        "slowStartTime": 49331,
+        "slowEndTime": 52284
+    },
+    {
+        "text": "How about we head there first thing on Saturday morning?",
+        "startTime": 34952,
+        "endTime": 38064,
+        "slowStartTime": 52578,
+        "slowEndTime": 57321
+    },
+    {
+        "text": "Done!",
+        "startTime": 38221,
+        "endTime": 38721,
+        "slowStartTime": 57481,
+        "slowEndTime": 58306
+    }
+]

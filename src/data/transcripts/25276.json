@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Let's learn about the time of the day or year.",
+        "startTime": 88,
+        "endTime": 3384,
+        "slowStartTime": 282,
+        "slowEndTime": 5301
+    },
+    {
+        "text": "It is morning.",
+        "startTime": 6931,
+        "endTime": 7926,
+        "slowStartTime": 10547,
+        "slowEndTime": 12114
+    },
+    {
+        "text": "The sun is coming up.",
+        "startTime": 10073,
+        "endTime": 12132,
+        "slowStartTime": 15259,
+        "slowEndTime": 18423
+    },
+    {
+        "text": "In the morning, we have breakfast.",
+        "startTime": 15697,
+        "endTime": 18395,
+        "slowStartTime": 23695,
+        "slowEndTime": 27818
+    },
+    {
+        "text": "It is afternoon.",
+        "startTime": 22091,
+        "endTime": 23397,
+        "slowStartTime": 33287,
+        "slowEndTime": 35320
+    },
+    {
+        "text": "In the afternoon, we eat lunch.",
+        "startTime": 28227,
+        "endTime": 30849,
+        "slowStartTime": 42490,
+        "slowEndTime": 46499
+    },
+    {
+        "text": "It is evening.",
+        "startTime": 35070,
+        "endTime": 36068,
+        "slowStartTime": 52755,
+        "slowEndTime": 54327
+    },
+    {
+        "text": "In the evening, we eat dinner.",
+        "startTime": 40525,
+        "endTime": 44314,
+        "slowStartTime": 60937,
+        "slowEndTime": 66696
+    },
+    {
+        "text": "It is winter.",
+        "startTime": 47635,
+        "endTime": 48678,
+        "slowStartTime": 71603,
+        "slowEndTime": 73242
+    },
+    {
+        "text": "It is cold.",
+        "startTime": 50733,
+        "endTime": 51993,
+        "slowStartTime": 76249,
+        "slowEndTime": 78215
+    },
+    {
+        "text": "It is spring.",
+        "startTime": 56321,
+        "endTime": 57431,
+        "slowStartTime": 84632,
+        "slowEndTime": 86371
+    },
+    {
+        "text": "It is warm.",
+        "startTime": 59590,
+        "endTime": 60553,
+        "slowStartTime": 89535,
+        "slowEndTime": 91054
+    },
+    {
+        "text": "It is summer.",
+        "startTime": 65757,
+        "endTime": 66810,
+        "slowStartTime": 98785,
+        "slowEndTime": 100440
+    },
+    {
+        "text": "It is hot.",
+        "startTime": 68889,
+        "endTime": 70415,
+        "slowStartTime": 103484,
+        "slowEndTime": 105847
+    },
+    {
+        "text": "It is fall.",
+        "startTime": 74437,
+        "endTime": 75291,
+        "slowStartTime": 111806,
+        "slowEndTime": 113162
+    },
+    {
+        "text": "It is cool.",
+        "startTime": 77414,
+        "endTime": 78281,
+        "slowStartTime": 116271,
+        "slowEndTime": 117646
+    }
+]

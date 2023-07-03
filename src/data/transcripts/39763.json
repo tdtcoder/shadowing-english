@@ -1,0 +1,156 @@
+[
+    {
+        "text": "What's your name?",
+        "startTime": 437,
+        "endTime": 1023,
+        "slowStartTime": 806,
+        "slowEndTime": 1759
+    },
+    {
+        "text": "I'm Anna Sarah.",
+        "startTime": 1349,
+        "endTime": 2331,
+        "slowStartTime": 2173,
+        "slowEndTime": 3721
+    },
+    {
+        "text": "How is that spelled?",
+        "startTime": 2772,
+        "endTime": 3510,
+        "slowStartTime": 4308,
+        "slowEndTime": 5490
+    },
+    {
+        "text": "A, N, N, A, S, A, R, A, H",
+        "startTime": 3882,
+        "endTime": 7288,
+        "slowStartTime": 5973,
+        "slowEndTime": 11157
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 8319,
+        "endTime": 8919,
+        "slowStartTime": 12628,
+        "slowEndTime": 13603
+    },
+    {
+        "text": "How is that spelled?",
+        "startTime": 10492,
+        "endTime": 11487,
+        "slowStartTime": 15888,
+        "slowEndTime": 17455
+    },
+    {
+        "text": "S, H, E, L, L, I",
+        "startTime": 11839,
+        "endTime": 14859,
+        "slowStartTime": 17909,
+        "slowEndTime": 22514
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 15241,
+        "endTime": 15981,
+        "slowStartTime": 23012,
+        "slowEndTime": 24196
+    },
+    {
+        "text": "My name is Joe.",
+        "startTime": 16293,
+        "endTime": 17017,
+        "slowStartTime": 24589,
+        "slowEndTime": 25750
+    },
+    {
+        "text": "How is that spelled?",
+        "startTime": 17565,
+        "endTime": 18445,
+        "slowStartTime": 26498,
+        "slowEndTime": 27892
+    },
+    {
+        "text": "J, O, E",
+        "startTime": 18931,
+        "endTime": 20550,
+        "slowStartTime": 28546,
+        "slowEndTime": 31050
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 21459,
+        "endTime": 22356,
+        "slowStartTime": 32338,
+        "slowEndTime": 33759
+    },
+    {
+        "text": "My name is Beth.",
+        "startTime": 22475,
+        "endTime": 23397,
+        "slowStartTime": 33863,
+        "slowEndTime": 35320
+    },
+    {
+        "text": "How is that spelled?",
+        "startTime": 24341,
+        "endTime": 25011,
+        "slowStartTime": 36661,
+        "slowEndTime": 37741
+    },
+    {
+        "text": "B, E, T, H",
+        "startTime": 25226,
+        "endTime": 26947,
+        "slowStartTime": 37989,
+        "slowEndTime": 40645
+    },
+    {
+        "text": "Are they younger or older?",
+        "startTime": 27953,
+        "endTime": 29328,
+        "slowStartTime": 42080,
+        "slowEndTime": 44217
+    },
+    {
+        "text": "They're both younger, so I'm the oldest of the family...",
+        "startTime": 29491,
+        "endTime": 32399,
+        "slowStartTime": 44386,
+        "slowEndTime": 48824
+    },
+    {
+        "text": "...and then there's Teagan who's the middle child.",
+        "startTime": 32551,
+        "endTime": 35665,
+        "slowStartTime": 48976,
+        "slowEndTime": 53722
+    },
+    {
+        "text": "And then Sophie who is the youngest...",
+        "startTime": 35957,
+        "endTime": 39373,
+        "slowStartTime": 54086,
+        "slowEndTime": 59284
+    },
+    {
+        "text": "...but she's the tallest of the family, too, so she's amazing at sport.",
+        "startTime": 39488,
+        "endTime": 43509,
+        "slowStartTime": 59382,
+        "slowEndTime": 65489
+    },
+    {
+        "text": "I bet you're the loudest, though.",
+        "startTime": 43868,
+        "endTime": 44843,
+        "slowStartTime": 65952,
+        "slowEndTime": 67489
+    },
+    {
+        "text": "Yeah, I am.",
+        "startTime": 46033,
+        "endTime": 46921,
+        "slowStartTime": 69200,
+        "slowEndTime": 70606
+    }
+]

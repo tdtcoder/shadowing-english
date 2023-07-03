@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Red.",
+        "startTime": 17373,
+        "endTime": 17903,
+        "slowStartTime": 26209,
+        "slowEndTime": 27080
+    },
+    {
+        "text": "Yellow.",
+        "startTime": 30195,
+        "endTime": 30851,
+        "slowStartTime": 45442,
+        "slowEndTime": 46501
+    },
+    {
+        "text": "Green",
+        "startTime": 44183,
+        "endTime": 44953,
+        "slowStartTime": 66424,
+        "slowEndTime": 67654
+    },
+    {
+        "text": "Blue",
+        "startTime": 56871,
+        "endTime": 57691,
+        "slowStartTime": 85456,
+        "slowEndTime": 86762
+    },
+    {
+        "text": "Purple.",
+        "startTime": 69234,
+        "endTime": 69879,
+        "slowStartTime": 104001,
+        "slowEndTime": 105044
+    }
+]

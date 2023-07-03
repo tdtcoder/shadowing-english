@@ -1,0 +1,23 @@
+[
+    {
+        "text": "Apple is like a ship with a hole in the bottom leaking water.",
+        "startTime": 784,
+        "endTime": 5592,
+        "slowStartTime": 1326,
+        "slowEndTime": 8613
+    },
+    {
+        "text": "And my job is to get the ship pointed in the right direction.",
+        "startTime": 6398,
+        "endTime": 10439,
+        "slowStartTime": 9747,
+        "slowEndTime": 15884
+    },
+    {
+        "text": "It's okay.",
+        "startTime": 18715,
+        "endTime": 19071,
+        "slowStartTime": 28223,
+        "slowEndTime": 28832
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Yesterday, December 7th, 1941,...",
+        "startTime": 26910,
+        "endTime": 33286,
+        "slowStartTime": 40515,
+        "slowEndTime": 50154
+    },
+    {
+        "text": "...a date which will live in infamy.",
+        "startTime": 35328,
+        "endTime": 39106,
+        "slowStartTime": 53142,
+        "slowEndTime": 58884
+    },
+    {
+        "text": "The United States of America was suddenly and deliberately attacked...",
+        "startTime": 40908,
+        "endTime": 46142,
+        "slowStartTime": 61512,
+        "slowEndTime": 69438
+    },
+    {
+        "text": "...by naval and air forces of the empire of Japan.",
+        "startTime": 47325,
+        "endTime": 51653,
+        "slowStartTime": 71137,
+        "slowEndTime": 77705
+    },
+    {
+        "text": "The facts of yesterday and today speak for themselves.",
+        "startTime": 54095,
+        "endTime": 60775,
+        "slowStartTime": 81293,
+        "slowEndTime": 91388
+    },
+    {
+        "text": "With confidence in our armed forces,...",
+        "startTime": 62156,
+        "endTime": 65699,
+        "slowStartTime": 93384,
+        "slowEndTime": 98773
+    },
+    {
+        "text": "...with the unbounding determination of our people,...",
+        "startTime": 66579,
+        "endTime": 70820,
+        "slowStartTime": 100019,
+        "slowEndTime": 106455
+    },
+    {
+        "text": "...we will gain the inevitable triumph.",
+        "startTime": 72070,
+        "endTime": 75932,
+        "slowStartTime": 108255,
+        "slowEndTime": 114123
+    },
+    {
+        "text": "So help us God.",
+        "startTime": 76421,
+        "endTime": 77824,
+        "slowStartTime": 114781,
+        "slowEndTime": 116961
+    },
+    {
+        "text": "I ask that the congress declare...",
+        "startTime": 81160,
+        "endTime": 85110,
+        "slowStartTime": 121890,
+        "slowEndTime": 127890
+    },
+    {
+        "text": "...that since the unprovoked and dastardly attack by Japan on Sunday, December 7th, 1941,...",
+        "startTime": 86353,
+        "endTime": 99565,
+        "slowStartTime": 129679,
+        "slowEndTime": 149572
+    },
+    {
+        "text": "...a state of war has existed between the United States and the Japanese empire.",
+        "startTime": 100559,
+        "endTime": 110595,
+        "slowStartTime": 150988,
+        "slowEndTime": 166117
+    }
+]

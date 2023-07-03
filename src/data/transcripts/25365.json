@@ -1,0 +1,93 @@
+[
+    {
+        "text": "﻿Let's talk about how people travel.",
+        "startTime": 708,
+        "endTime": 2994,
+        "slowStartTime": 1212,
+        "slowEndTime": 4716
+    },
+    {
+        "text": "They take the bus home.",
+        "startTime": 4645,
+        "endTime": 5983,
+        "slowStartTime": 7117,
+        "slowEndTime": 9199
+    },
+    {
+        "text": "He rides his bicycle in the neighborhood.",
+        "startTime": 7879,
+        "endTime": 10457,
+        "slowStartTime": 11969,
+        "slowEndTime": 15910
+    },
+    {
+        "text": "He drives to work.",
+        "startTime": 12805,
+        "endTime": 14122,
+        "slowStartTime": 19358,
+        "slowEndTime": 21408
+    },
+    {
+        "text": "Some people take the ferry.",
+        "startTime": 18358,
+        "endTime": 20073,
+        "slowStartTime": 27687,
+        "slowEndTime": 30334
+    },
+    {
+        "text": "He rides his motorcycle on weekends.",
+        "startTime": 24599,
+        "endTime": 26704,
+        "slowStartTime": 37049,
+        "slowEndTime": 40281
+    },
+    {
+        "text": "He takes the subway to work.",
+        "startTime": 30579,
+        "endTime": 32568,
+        "slowStartTime": 46019,
+        "slowEndTime": 49077
+    },
+    {
+        "text": "Some people take the train.",
+        "startTime": 36789,
+        "endTime": 38735,
+        "slowStartTime": 55334,
+        "slowEndTime": 58328
+    },
+    {
+        "text": "People go by plane on holiday.",
+        "startTime": 44016,
+        "endTime": 46069,
+        "slowStartTime": 66174,
+        "slowEndTime": 69328
+    },
+    {
+        "text": "He drives his truck to work.",
+        "startTime": 51748,
+        "endTime": 53765,
+        "slowStartTime": 77772,
+        "slowEndTime": 80872
+    },
+    {
+        "text": "He uses a wheelchair to get around.",
+        "startTime": 59128,
+        "endTime": 61431,
+        "slowStartTime": 88842,
+        "slowEndTime": 92371
+    },
+    {
+        "text": "He goes to school by scooter.",
+        "startTime": 65642,
+        "endTime": 67296,
+        "slowStartTime": 98613,
+        "slowEndTime": 101169
+    },
+    {
+        "text": "Some people travel by boat.",
+        "startTime": 72739,
+        "endTime": 74835,
+        "slowStartTime": 109259,
+        "slowEndTime": 112477
+    }
+]

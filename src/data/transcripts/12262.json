@@ -1,0 +1,121 @@
+[
+    {
+        "text": "You're going to Jane's Halloween party, right?",
+        "startTime": 2035,
+        "endTime": 4382,
+        "slowStartTime": 3202,
+        "slowEndTime": 6798
+    },
+    {
+        "text": "Yes, I am, but I don't know what to do about a costume.",
+        "startTime": 5100,
+        "endTime": 7721,
+        "slowStartTime": 7135,
+        "slowEndTime": 11807
+    },
+    {
+        "text": "Don't you have a costume yet?",
+        "startTime": 8300,
+        "endTime": 9584,
+        "slowStartTime": 12046,
+        "slowEndTime": 14601
+    },
+    {
+        "text": "No, I've never actually been to a Halloween party before.",
+        "startTime": 9918,
+        "endTime": 13091,
+        "slowStartTime": 15027,
+        "slowEndTime": 19862
+    },
+    {
+        "text": "I see, well, not to worry, I will help you out.",
+        "startTime": 13759,
+        "endTime": 16525,
+        "slowStartTime": 20039,
+        "slowEndTime": 25012
+    },
+    {
+        "text": "Great! What do you recommend I go as?",
+        "startTime": 17000,
+        "endTime": 18743,
+        "slowStartTime": 25253,
+        "slowEndTime": 28340
+    },
+    {
+        "text": "Let's see, last year I went as a policeman.",
+        "startTime": 19200,
+        "endTime": 22401,
+        "slowStartTime": 28505,
+        "slowEndTime": 33826
+    },
+    {
+        "text": "I think I still have my old costume.",
+        "startTime": 23000,
+        "endTime": 24811,
+        "slowStartTime": 34278,
+        "slowEndTime": 37442
+    },
+    {
+        "text": "As a policeman?",
+        "startTime": 25296,
+        "endTime": 26176,
+        "slowStartTime": 37794,
+        "slowEndTime": 39489
+    },
+    {
+        "text": "Is that legal?",
+        "startTime": 26572,
+        "endTime": 27457,
+        "slowStartTime": 40008,
+        "slowEndTime": 41411
+    },
+    {
+        "text": "Of course it is!",
+        "startTime": 28649,
+        "endTime": 29522,
+        "slowStartTime": 42823,
+        "slowEndTime": 44508
+    },
+    {
+        "text": "In fact, lots of people go as one.",
+        "startTime": 29944,
+        "endTime": 31807,
+        "slowStartTime": 44766,
+        "slowEndTime": 47935
+    },
+    {
+        "text": "Well...",
+        "startTime": 32257,
+        "endTime": 32654,
+        "slowStartTime": 48236,
+        "slowEndTime": 49206
+    },
+    {
+        "text": "Don't worry,...",
+        "startTime": 33270,
+        "endTime": 33733,
+        "slowStartTime": 49398,
+        "slowEndTime": 50824
+    },
+    {
+        "text": "...as long as you don't pretend to be a real one on the street, everything is fine.",
+        "startTime": 34117,
+        "endTime": 38425,
+        "slowStartTime": 51176,
+        "slowEndTime": 57863
+    },
+    {
+        "text": "Okay, so I'll just wear it at the party then.",
+        "startTime": 39170,
+        "endTime": 41569,
+        "slowStartTime": 58449,
+        "slowEndTime": 62579
+    },
+    {
+        "text": "Exactly! And I think that it will fit you just right.",
+        "startTime": 42000,
+        "endTime": 44965,
+        "slowStartTime": 62739,
+        "slowEndTime": 67673
+    }
+]

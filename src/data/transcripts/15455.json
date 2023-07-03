@@ -1,0 +1,198 @@
+[
+    {
+        "text": "I bought something from you last week, and I'm very disappointed.",
+        "startTime": 2271,
+        "endTime": 6402,
+        "slowStartTime": 3557,
+        "slowEndTime": 9828
+    },
+    {
+        "text": "Oh yeah? What's the problem?",
+        "startTime": 6778,
+        "endTime": 8093,
+        "slowStartTime": 10317,
+        "slowEndTime": 12364
+    },
+    {
+        "text": "Yeah. Well, my blackberry is not working.",
+        "startTime": 8220,
+        "endTime": 11331,
+        "slowStartTime": 12480,
+        "slowEndTime": 17221
+    },
+    {
+        "text": "What's the matter? You've run out of juice?",
+        "startTime": 19361,
+        "endTime": 20661,
+        "slowStartTime": 29192,
+        "slowEndTime": 31216
+    },
+    {
+        "text": "No! No! It's completely frozen!",
+        "startTime": 22745,
+        "endTime": 25045,
+        "slowStartTime": 34268,
+        "slowEndTime": 37792
+    },
+    {
+        "text": "What day are you going to get my blackberry working?",
+        "startTime": 26551,
+        "endTime": 28980,
+        "slowStartTime": 39976,
+        "slowEndTime": 43695
+    },
+    {
+        "text": "Well, could be an application issue. Where'd you install that blackberry?",
+        "startTime": 29209,
+        "endTime": 32996,
+        "slowStartTime": 43963,
+        "slowEndTime": 49719
+    },
+    {
+        "text": "It was on my desktop.",
+        "startTime": 33309,
+        "endTime": 34247,
+        "slowStartTime": 50114,
+        "slowEndTime": 51595
+    },
+    {
+        "text": "You might want to launch the blackberry from the desktop.",
+        "startTime": 34788,
+        "endTime": 36924,
+        "slowStartTime": 52332,
+        "slowEndTime": 55611
+    },
+    {
+        "text": "Well, I've already tried that a few times, I mean, all it did was mess up windows.",
+        "startTime": 40797,
+        "endTime": 45314,
+        "slowStartTime": 61345,
+        "slowEndTime": 68196
+    },
+    {
+        "text": "Well, it might be worth waiting a couple of weeks, they got the latest blackberries coming in then.",
+        "startTime": 47245,
+        "endTime": 51067,
+        "slowStartTime": 71018,
+        "slowEndTime": 76825
+    },
+    {
+        "text": "Could you give me a date?",
+        "startTime": 51369,
+        "endTime": 52348,
+        "slowStartTime": 77204,
+        "slowEndTime": 78747
+    },
+    {
+        "text": "Certainly.",
+        "startTime": 52729,
+        "endTime": 53027,
+        "slowStartTime": 79243,
+        "slowEndTime": 79766
+    },
+    {
+        "text": "Let me put that date in my diary.",
+        "startTime": 56178,
+        "endTime": 57925,
+        "slowStartTime": 84417,
+        "slowEndTime": 87113
+    },
+    {
+        "text": "Anything else I can help you with?",
+        "startTime": 60487,
+        "endTime": 61656,
+        "slowStartTime": 90880,
+        "slowEndTime": 92709
+    },
+    {
+        "text": "Yes, yes, I've also got a problem, to be honest, with my apple.",
+        "startTime": 61784,
+        "endTime": 66288,
+        "slowStartTime": 92826,
+        "slowEndTime": 99657
+    },
+    {
+        "text": "Oh dear! Oh dear! That is an old apple isn't it?",
+        "startTime": 68633,
+        "endTime": 71339,
+        "slowStartTime": 103099,
+        "slowEndTime": 107233
+    },
+    {
+        "text": "When did you buy that?",
+        "startTime": 72171,
+        "endTime": 72897,
+        "slowStartTime": 108407,
+        "slowEndTime": 109571
+    },
+    {
+        "text": "Last week.",
+        "startTime": 73296,
+        "endTime": 73824,
+        "slowStartTime": 110094,
+        "slowEndTime": 110961
+    },
+    {
+        "text": "Tell you what, let me try booting it.",
+        "startTime": 74158,
+        "endTime": 75799,
+        "slowStartTime": 111387,
+        "slowEndTime": 113924
+    },
+    {
+        "text": "Now it's crashed.",
+        "startTime": 80465,
+        "endTime": 81180,
+        "slowStartTime": 120848,
+        "slowEndTime": 121995
+    },
+    {
+        "text": "Oh.",
+        "startTime": 81778,
+        "endTime": 82047,
+        "slowStartTime": 122817,
+        "slowEndTime": 123296
+    },
+    {
+        "text": "Anything else I can help you with?",
+        "startTime": 86536,
+        "endTime": 87600,
+        "slowStartTime": 129954,
+        "slowEndTime": 131625
+    },
+    {
+        "text": "Well funny enough, yes. My grandson's birthday is soon, you see.",
+        "startTime": 87691,
+        "endTime": 91578,
+        "slowStartTime": 131687,
+        "slowEndTime": 137592
+    },
+    {
+        "text": "Now, he's already got an apple, and a blackberry.",
+        "startTime": 91928,
+        "endTime": 94297,
+        "slowStartTime": 138042,
+        "slowEndTime": 141671
+    },
+    {
+        "text": "I mean, have you got anything else that he might just like?",
+        "startTime": 94683,
+        "endTime": 97172,
+        "slowStartTime": 142174,
+        "slowEndTime": 145983
+    },
+    {
+        "text": "Well, we're doing a special offer on these. I mean, I can't make a head or tail of them...",
+        "startTime": 97756,
+        "endTime": 101395,
+        "slowStartTime": 146784,
+        "slowEndTime": 152317
+    },
+    {
+        "text": "...but the kids seem to like them: eggs box 360.",
+        "startTime": 101681,
+        "endTime": 105553,
+        "slowStartTime": 152671,
+        "slowEndTime": 158555
+    }
+]

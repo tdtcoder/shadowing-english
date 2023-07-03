@@ -1,0 +1,79 @@
+[
+    {
+        "text": "﻿You're still in bed at ten and work began at eight.",
+        "startTime": 3053,
+        "endTime": 7627,
+        "slowStartTime": 4730,
+        "slowEndTime": 11666
+    },
+    {
+        "text": "You've burned your breakfast, so far things are going great.",
+        "startTime": 8825,
+        "endTime": 13799,
+        "slowStartTime": 13387,
+        "slowEndTime": 20923
+    },
+    {
+        "text": "Your mother warned you there'd be days like these.",
+        "startTime": 14735,
+        "endTime": 18299,
+        "slowStartTime": 22252,
+        "slowEndTime": 27674
+    },
+    {
+        "text": "Oh but she didn't tell you...",
+        "startTime": 19480,
+        "endTime": 21201,
+        "slowStartTime": 29370,
+        "slowEndTime": 32027
+    },
+    {
+        "text": "...when the world has brought you down on your knees.",
+        "startTime": 21465,
+        "endTime": 25349,
+        "slowStartTime": 32347,
+        "slowEndTime": 38249
+    },
+    {
+        "text": "And I'll be there for you...",
+        "startTime": 25458,
+        "endTime": 28999,
+        "slowStartTime": 38337,
+        "slowEndTime": 43723
+    },
+    {
+        "text": "...when the rain starts to pour.",
+        "startTime": 29736,
+        "endTime": 31649,
+        "slowStartTime": 44754,
+        "slowEndTime": 47699
+    },
+    {
+        "text": "I'll be there for you...",
+        "startTime": 31815,
+        "endTime": 34687,
+        "slowStartTime": 47872,
+        "slowEndTime": 52255
+    },
+    {
+        "text": "...like I've been there before.",
+        "startTime": 35376,
+        "endTime": 37267,
+        "slowStartTime": 53214,
+        "slowEndTime": 56126
+    },
+    {
+        "text": "I'll be there for you...",
+        "startTime": 37507,
+        "endTime": 40373,
+        "slowStartTime": 56410,
+        "slowEndTime": 60784
+    },
+    {
+        "text": "...'cause you're there for me too.",
+        "startTime": 40963,
+        "endTime": 43910,
+        "slowStartTime": 61595,
+        "slowEndTime": 66090
+    }
+]

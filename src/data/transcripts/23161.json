@@ -1,0 +1,93 @@
+[
+    {
+        "text": "The fruit of the cacao tree is a football-shaped pod that comes in a variety of colors.",
+        "startTime": 2797,
+        "endTime": 7905,
+        "slowStartTime": 4345,
+        "slowEndTime": 12083
+    },
+    {
+        "text": "Inside each pod is a sweet, white, fruity pulp that covers 50 to 60 seeds.",
+        "startTime": 8615,
+        "endTime": 14495,
+        "slowStartTime": 13073,
+        "slowEndTime": 21967
+    },
+    {
+        "text": "It is from these seeds that chocolate is made.",
+        "startTime": 15093,
+        "endTime": 17733,
+        "slowStartTime": 22790,
+        "slowEndTime": 26824
+    },
+    {
+        "text": "Once the pods are ripe, they are harvested in the same way they have been gathered...",
+        "startTime": 18658,
+        "endTime": 23172,
+        "slowStartTime": 28137,
+        "slowEndTime": 34983
+    },
+    {
+        "text": "...for thousands of years: by hand.",
+        "startTime": 23349,
+        "endTime": 25803,
+        "slowStartTime": 35174,
+        "slowEndTime": 38929
+    },
+    {
+        "text": "After collecting the pods, each one is split open.",
+        "startTime": 26253,
+        "endTime": 29405,
+        "slowStartTime": 39529,
+        "slowEndTime": 44333
+    },
+    {
+        "text": "Then the farmer scoops out the white pulp and separates the seeds,...",
+        "startTime": 30048,
+        "endTime": 33902,
+        "slowStartTime": 45222,
+        "slowEndTime": 51078
+    },
+    {
+        "text": "...commonly known as \"cocoa beans.\"",
+        "startTime": 34347,
+        "endTime": 36371,
+        "slowStartTime": 51671,
+        "slowEndTime": 54781
+    },
+    {
+        "text": "The beans are covered with banana leaves or burlap while they ferment in the pulp.",
+        "startTime": 37007,
+        "endTime": 41366,
+        "slowStartTime": 55660,
+        "slowEndTime": 62274
+    },
+    {
+        "text": "After fermenting, the beans are uncovered and dried in the hot sun.",
+        "startTime": 42234,
+        "endTime": 46600,
+        "slowStartTime": 63501,
+        "slowEndTime": 70125
+    },
+    {
+        "text": "When the beans have achieved maximum dryness, it's time to go to market.",
+        "startTime": 47291,
+        "endTime": 51549,
+        "slowStartTime": 71087,
+        "slowEndTime": 77549
+    },
+    {
+        "text": "The farmer puts them in burlap sacks in which they will be sold...",
+        "startTime": 52519,
+        "endTime": 55945,
+        "slowStartTime": 78929,
+        "slowEndTime": 84142
+    },
+    {
+        "text": "...and shipped to chocolate factories around the world.",
+        "startTime": 56163,
+        "endTime": 59240,
+        "slowStartTime": 84395,
+        "slowEndTime": 89085
+    }
+]

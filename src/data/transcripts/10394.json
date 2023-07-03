@@ -1,0 +1,170 @@
+[
+    {
+        "text": "Hello, Mr. Tanaka.",
+        "startTime": 233,
+        "endTime": 1492,
+        "slowStartTime": 499,
+        "slowEndTime": 2463
+    },
+    {
+        "text": "Welcome to Silicon Valley Software.",
+        "startTime": 1628,
+        "endTime": 3807,
+        "slowStartTime": 2592,
+        "slowEndTime": 5936
+    },
+    {
+        "text": "I'm Jack, VP of Sales.",
+        "startTime": 3983,
+        "endTime": 5791,
+        "slowStartTime": 6125,
+        "slowEndTime": 8912
+    },
+    {
+        "text": "Very nice to meet you.",
+        "startTime": 6205,
+        "endTime": 7641,
+        "slowStartTime": 9457,
+        "slowEndTime": 11686
+    },
+    {
+        "text": "I'm Takashi Tanaka, General Manager of Tokyo Technology.",
+        "startTime": 8740,
+        "endTime": 12296,
+        "slowStartTime": 13260,
+        "slowEndTime": 18669
+    },
+    {
+        "text": "It's nice to meet you as well.",
+        "startTime": 12624,
+        "endTime": 14023,
+        "slowStartTime": 19086,
+        "slowEndTime": 21259
+    },
+    {
+        "text": "Please call me Taka.",
+        "startTime": 14229,
+        "endTime": 15418,
+        "slowStartTime": 21494,
+        "slowEndTime": 23352
+    },
+    {
+        "text": "I'm Victoria, VP of Marketing.",
+        "startTime": 16382,
+        "endTime": 18200,
+        "slowStartTime": 24723,
+        "slowEndTime": 27525
+    },
+    {
+        "text": "It's great to finally meet you face to face.",
+        "startTime": 18291,
+        "endTime": 20345,
+        "slowStartTime": 27586,
+        "slowEndTime": 30743
+    },
+    {
+        "text": "After speaking so often on the phone, it's nice to \"put a face with the voice\".",
+        "startTime": 20695,
+        "endTime": 24732,
+        "slowStartTime": 31193,
+        "slowEndTime": 37323
+    },
+    {
+        "text": "Thank you for coming all the way from Japan to visit our company.",
+        "startTime": 25684,
+        "endTime": 28668,
+        "slowStartTime": 38676,
+        "slowEndTime": 43227
+    },
+    {
+        "text": "We've been looking forward to meeting you today.",
+        "startTime": 28771,
+        "endTime": 30826,
+        "slowStartTime": 43306,
+        "slowEndTime": 46464
+    },
+    {
+        "text": "How was the flight?",
+        "startTime": 31439,
+        "endTime": 32503,
+        "slowStartTime": 47308,
+        "slowEndTime": 48979
+    },
+    {
+        "text": "It was long, but very good.",
+        "startTime": 33450,
+        "endTime": 35257,
+        "slowStartTime": 50325,
+        "slowEndTime": 53111
+    },
+    {
+        "text": "I just arrived at San Francisco airport 3 hours ago.",
+        "startTime": 35544,
+        "endTime": 38466,
+        "slowStartTime": 53466,
+        "slowEndTime": 57924
+    },
+    {
+        "text": "Wow, you must be tired from the long flight.",
+        "startTime": 39315,
+        "endTime": 41618,
+        "slowStartTime": 59123,
+        "slowEndTime": 62652
+    },
+    {
+        "text": "Is the jet lag bothering you?",
+        "startTime": 42043,
+        "endTime": 43725,
+        "slowStartTime": 63214,
+        "slowEndTime": 65813
+    },
+    {
+        "text": "I'm fine. I was able to get some sleep on the airplane.",
+        "startTime": 44809,
+        "endTime": 47479,
+        "slowStartTime": 67364,
+        "slowEndTime": 71443
+    },
+    {
+        "text": "Would you like something to drink?",
+        "startTime": 48469,
+        "endTime": 49919,
+        "slowStartTime": 72854,
+        "slowEndTime": 75104
+    },
+    {
+        "text": "We have coffee, tea, soda and water here.",
+        "startTime": 50432,
+        "endTime": 53501,
+        "slowStartTime": 75798,
+        "slowEndTime": 80476
+    },
+    {
+        "text": "Oh, thank you.",
+        "startTime": 54421,
+        "endTime": 55015,
+        "slowStartTime": 81782,
+        "slowEndTime": 82748
+    },
+    {
+        "text": "I could use some coffee. ",
+        "startTime": 55173,
+        "endTime": 56276,
+        "slowStartTime": 82909,
+        "slowEndTime": 84639
+    },
+    {
+        "text": "The caffeine will help me stay awake during the meeting.",
+        "startTime": 56514,
+        "endTime": 58879,
+        "slowStartTime": 84921,
+        "slowEndTime": 88544
+    },
+    {
+        "text": "Of course. My assistant will bring it for you right away.",
+        "startTime": 59759,
+        "endTime": 62681,
+        "slowStartTime": 89788,
+        "slowEndTime": 94246
+    }
+]

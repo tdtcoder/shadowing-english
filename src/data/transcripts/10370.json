@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Good morning, Ichiro.",
+        "startTime": 144,
+        "endTime": 849,
+        "slowStartTime": 366,
+        "slowEndTime": 1498
+    },
+    {
+        "text": "Good morning.",
+        "startTime": 947,
+        "endTime": 1348,
+        "slowStartTime": 1570,
+        "slowEndTime": 2247
+    },
+    {
+        "text": "Dear Ichiro, I am a huge fan.",
+        "startTime": 6449,
+        "endTime": 8707,
+        "slowStartTime": 9824,
+        "slowEndTime": 13285
+    },
+    {
+        "text": "You are my favorite player, and I would love your autograph.",
+        "startTime": 8815,
+        "endTime": 11871,
+        "slowStartTime": 13372,
+        "slowEndTime": 18032
+    },
+    {
+        "text": "Thank you, Katie from Spokane.",
+        "startTime": 12151,
+        "endTime": 14218,
+        "slowStartTime": 18376,
+        "slowEndTime": 21552
+    },
+    {
+        "text": "Dear Katie, Thank you for being such a great fan.",
+        "startTime": 14536,
+        "endTime": 17245,
+        "slowStartTime": 21954,
+        "slowEndTime": 26093
+    },
+    {
+        "text": "Best wishes, Ichiro.",
+        "startTime": 17617,
+        "endTime": 19388,
+        "slowStartTime": 26576,
+        "slowEndTime": 29307
+    }
+]

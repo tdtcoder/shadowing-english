@@ -1,0 +1,72 @@
+[
+    {
+        "text": "How nice the MP3 player is!",
+        "startTime": 2857,
+        "endTime": 5760,
+        "slowStartTime": 4436,
+        "slowEndTime": 8865
+    },
+    {
+        "text": "Will you trade your MP3 player for my cell phone?",
+        "startTime": 6268,
+        "endTime": 9923,
+        "slowStartTime": 9552,
+        "slowEndTime": 15110
+    },
+    {
+        "text": "Okay. I need a cell phone.",
+        "startTime": 11176,
+        "endTime": 13343,
+        "slowStartTime": 16914,
+        "slowEndTime": 20239
+    },
+    {
+        "text": "Wow! Did you buy a new bike?",
+        "startTime": 15514,
+        "endTime": 18344,
+        "slowStartTime": 23421,
+        "slowEndTime": 27741
+    },
+    {
+        "text": "No. Actually I traded my skateboard for my brother's bike.",
+        "startTime": 19593,
+        "endTime": 24113,
+        "slowStartTime": 29539,
+        "slowEndTime": 36394
+    },
+    {
+        "text": "What a nice bike it is!",
+        "startTime": 25345,
+        "endTime": 27603,
+        "slowStartTime": 38168,
+        "slowEndTime": 41630
+    },
+    {
+        "text": "Thanks.",
+        "startTime": 28629,
+        "endTime": 29545,
+        "slowStartTime": 43094,
+        "slowEndTime": 44542
+    },
+    {
+        "text": "I'm thinking of trading my music CDs for Amy's game CDs.",
+        "startTime": 31705,
+        "endTime": 36069,
+        "slowStartTime": 47707,
+        "slowEndTime": 54328
+    },
+    {
+        "text": "I don't need them anymore because I lost my CD player.",
+        "startTime": 36357,
+        "endTime": 39863,
+        "slowStartTime": 54685,
+        "slowEndTime": 60019
+    },
+    {
+        "text": "What a good idea!",
+        "startTime": 40939,
+        "endTime": 42639,
+        "slowStartTime": 61558,
+        "slowEndTime": 64183
+    }
+]

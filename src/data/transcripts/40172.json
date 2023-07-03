@@ -1,0 +1,135 @@
+[
+    {
+        "text": "Hello, Ali?",
+        "startTime": 917,
+        "endTime": 1940,
+        "slowStartTime": 1526,
+        "slowEndTime": 3135
+    },
+    {
+        "text": "Where are you?",
+        "startTime": 2171,
+        "endTime": 2775,
+        "slowStartTime": 3406,
+        "slowEndTime": 4387
+    },
+    {
+        "text": "Hi, Jane.",
+        "startTime": 3565,
+        "endTime": 4269,
+        "slowStartTime": 5497,
+        "slowEndTime": 6629
+    },
+    {
+        "text": "I'm at the station.",
+        "startTime": 4455,
+        "endTime": 5397,
+        "slowStartTime": 6832,
+        "slowEndTime": 8321
+    },
+    {
+        "text": "I'll be at the office in 5 minutes.",
+        "startTime": 6259,
+        "endTime": 7923,
+        "slowStartTime": 9538,
+        "slowEndTime": 12109
+    },
+    {
+        "text": "Hello, Nikki.",
+        "startTime": 9040,
+        "endTime": 9839,
+        "slowStartTime": 13710,
+        "slowEndTime": 14983
+    },
+    {
+        "text": "I forgot the documents I need for my meeting.",
+        "startTime": 10378,
+        "endTime": 12416,
+        "slowStartTime": 15717,
+        "slowEndTime": 18849
+    },
+    {
+        "text": "Can you please bring it down?",
+        "startTime": 12629,
+        "endTime": 13839,
+        "slowStartTime": 19093,
+        "slowEndTime": 20983
+    },
+    {
+        "text": "Sure, Mr. Smith.",
+        "startTime": 14511,
+        "endTime": 15569,
+        "slowStartTime": 21916,
+        "slowEndTime": 23578
+    },
+    {
+        "text": "Where are you?",
+        "startTime": 15907,
+        "endTime": 16551,
+        "slowStartTime": 24010,
+        "slowEndTime": 25051
+    },
+    {
+        "text": "I'm at the stairs.",
+        "startTime": 16995,
+        "endTime": 18003,
+        "slowStartTime": 25643,
+        "slowEndTime": 27230
+    },
+    {
+        "text": "I'll be there soon.",
+        "startTime": 18629,
+        "endTime": 19681,
+        "slowStartTime": 28093,
+        "slowEndTime": 29746
+    },
+    {
+        "text": "Where is Ms. Jones?",
+        "startTime": 22227,
+        "endTime": 23501,
+        "slowStartTime": 33491,
+        "slowEndTime": 35477
+    },
+    {
+        "text": "She said she can't come to work today.",
+        "startTime": 23922,
+        "endTime": 25664,
+        "slowStartTime": 36033,
+        "slowEndTime": 38721
+    },
+    {
+        "text": "Do you know where she is?",
+        "startTime": 26833,
+        "endTime": 27941,
+        "slowStartTime": 40400,
+        "slowEndTime": 42137
+    },
+    {
+        "text": "I need to send her some important documents.",
+        "startTime": 28849,
+        "endTime": 30876,
+        "slowStartTime": 43424,
+        "slowEndTime": 46539
+    },
+    {
+        "text": "She is at home.",
+        "startTime": 31597,
+        "endTime": 32617,
+        "slowStartTime": 47546,
+        "slowEndTime": 49151
+    },
+    {
+        "text": "Her address is 434 Wallace Place.",
+        "startTime": 32823,
+        "endTime": 35404,
+        "slowStartTime": 49385,
+        "slowEndTime": 53331
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 35753,
+        "endTime": 36247,
+        "slowStartTime": 53780,
+        "slowEndTime": 54595
+    }
+]

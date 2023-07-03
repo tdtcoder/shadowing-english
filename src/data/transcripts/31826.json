@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Mom?",
+        "startTime": 5078,
+        "endTime": 5499,
+        "slowStartTime": 7767,
+        "slowEndTime": 8474
+    },
+    {
+        "text": "Dad?",
+        "startTime": 6209,
+        "endTime": 6630,
+        "slowStartTime": 9463,
+        "slowEndTime": 10170
+    },
+    {
+        "text": "Hey Google, what's in my calendar today?",
+        "startTime": 8031,
+        "endTime": 9563,
+        "slowStartTime": 12196,
+        "slowEndTime": 14569
+    },
+    {
+        "text": "You have one event called \"House to yourself.\"",
+        "startTime": 9771,
+        "endTime": 11708,
+        "slowStartTime": 14807,
+        "slowEndTime": 17787
+    },
+    {
+        "text": "Oh yeah.",
+        "startTime": 12050,
+        "endTime": 12883,
+        "slowStartTime": 18225,
+        "slowEndTime": 19550
+    },
+    {
+        "text": "Hey Google, add \"aftershave\" to my shopping list.",
+        "startTime": 15139,
+        "endTime": 17073,
+        "slowStartTime": 22859,
+        "slowEndTime": 25835
+    },
+    {
+        "text": "Hey Google, remind me to clean these sheets later.",
+        "startTime": 17521,
+        "endTime": 19697,
+        "slowStartTime": 26432,
+        "slowEndTime": 29770
+    },
+    {
+        "text": "Okay, I'll remind you.",
+        "startTime": 19849,
+        "endTime": 20981,
+        "slowStartTime": 29924,
+        "slowEndTime": 31697
+    },
+    {
+        "text": "Someone's at the front door.",
+        "startTime": 22888,
+        "endTime": 24105,
+        "slowStartTime": 34482,
+        "slowEndTime": 36383
+    },
+    {
+        "text": "What do I owe you?",
+        "startTime": 24483,
+        "endTime": 25006,
+        "slowStartTime": 36875,
+        "slowEndTime": 37734
+    },
+    {
+        "text": "Looks like you paid online.",
+        "startTime": 25160,
+        "endTime": 26668,
+        "slowStartTime": 37890,
+        "slowEndTime": 40227
+    },
+    {
+        "text": "Keep the change, you filthy animal.",
+        "startTime": 26783,
+        "endTime": 28935,
+        "slowStartTime": 40324,
+        "slowEndTime": 43628
+    },
+    {
+        "text": "Okay, cool.",
+        "startTime": 29479,
+        "endTime": 30347,
+        "slowStartTime": 44369,
+        "slowEndTime": 45746
+    },
+    {
+        "text": "Hey Google, turn down the temperature two degrees.",
+        "startTime": 30746,
+        "endTime": 32903,
+        "slowStartTime": 46269,
+        "slowEndTime": 49580
+    },
+    {
+        "text": "Hey Google, begin \"Operation Kevin.\"",
+        "startTime": 38405,
+        "endTime": 40948,
+        "slowStartTime": 57758,
+        "slowEndTime": 61647
+    },
+    {
+        "text": "Operation Kevin under way.",
+        "startTime": 41091,
+        "endTime": 42424,
+        "slowStartTime": 61786,
+        "slowEndTime": 63861
+    },
+    {
+        "text": "Better get out of here before somebody sees us.",
+        "startTime": 51749,
+        "endTime": 53375,
+        "slowStartTime": 77774,
+        "slowEndTime": 80288
+    }
+]

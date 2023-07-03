@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Winter is almost here.",
+        "startTime": 2892,
+        "endTime": 4702,
+        "slowStartTime": 4488,
+        "slowEndTime": 7278
+    },
+    {
+        "text": "The day gets shorter and the night gets longer.",
+        "startTime": 5439,
+        "endTime": 8695,
+        "slowStartTime": 8308,
+        "slowEndTime": 13268
+    },
+    {
+        "text": "Right.",
+        "startTime": 9865,
+        "endTime": 10535,
+        "slowStartTime": 14948,
+        "slowEndTime": 16027
+    },
+    {
+        "text": "And the weather is getting colder.",
+        "startTime": 10805,
+        "endTime": 12723,
+        "slowStartTime": 16357,
+        "slowEndTime": 19310
+    },
+    {
+        "text": "It is time to go back home.",
+        "startTime": 15866,
+        "endTime": 18019,
+        "slowStartTime": 23949,
+        "slowEndTime": 27254
+    },
+    {
+        "text": "Hurry up.",
+        "startTime": 18350,
+        "endTime": 18867,
+        "slowStartTime": 27675,
+        "slowEndTime": 28526
+    },
+    {
+        "text": "What time is it now?",
+        "startTime": 19958,
+        "endTime": 21421,
+        "slowStartTime": 30087,
+        "slowEndTime": 32356
+    },
+    {
+        "text": "It's six thirty.",
+        "startTime": 22451,
+        "endTime": 23578,
+        "slowStartTime": 33827,
+        "slowEndTime": 35592
+    },
+    {
+        "text": "It gets dark.",
+        "startTime": 23957,
+        "endTime": 25127,
+        "slowStartTime": 36085,
+        "slowEndTime": 37916
+    },
+    {
+        "text": "The snowflakes get bigger.",
+        "startTime": 28379,
+        "endTime": 30380,
+        "slowStartTime": 42718,
+        "slowEndTime": 45795
+    },
+    {
+        "text": "Let's go out and make a snowman.",
+        "startTime": 30860,
+        "endTime": 32811,
+        "slowStartTime": 46440,
+        "slowEndTime": 49441
+    },
+    {
+        "text": "That's a good idea!",
+        "startTime": 33897,
+        "endTime": 35345,
+        "slowStartTime": 50995,
+        "slowEndTime": 53242
+    },
+    {
+        "text": "Dark clouds begin to gather, they get darker and darker.",
+        "startTime": 42893,
+        "endTime": 49197,
+        "slowStartTime": 64489,
+        "slowEndTime": 74021
+    },
+    {
+        "text": "A storm is coming, coming, coming.",
+        "startTime": 50188,
+        "endTime": 53821,
+        "slowStartTime": 75432,
+        "slowEndTime": 80956
+    },
+    {
+        "text": "Strong winds begin to blow and the sky gets darker.",
+        "startTime": 57713,
+        "endTime": 64194,
+        "slowStartTime": 86719,
+        "slowEndTime": 96516
+    },
+    {
+        "text": "Clouds move over the house and lightning flashes all around.",
+        "startTime": 65403,
+        "endTime": 71613,
+        "slowStartTime": 98254,
+        "slowEndTime": 107645
+    },
+    {
+        "text": "Thunder crashes loudly, and the rain begins to fall, fall, fall.",
+        "startTime": 72947,
+        "endTime": 79446,
+        "slowStartTime": 109571,
+        "slowEndTime": 119394
+    },
+    {
+        "text": "The rain falls, falls, falls and the winds blow, blow, blow.",
+        "startTime": 80171,
+        "endTime": 86447,
+        "slowStartTime": 120406,
+        "slowEndTime": 129895
+    },
+    {
+        "text": "Then, the rain stops falling and the winds stop blowing.",
+        "startTime": 87833,
+        "endTime": 94064,
+        "slowStartTime": 131899,
+        "slowEndTime": 141321
+    },
+    {
+        "text": "The sun comes out and Tim and Pam come out, too.",
+        "startTime": 95191,
+        "endTime": 100050,
+        "slowStartTime": 142937,
+        "slowEndTime": 150300
+    }
+]

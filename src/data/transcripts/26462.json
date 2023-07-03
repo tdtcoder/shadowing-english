@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Let's learn some shapes now, shall we?",
+        "startTime": 1945,
+        "endTime": 3668,
+        "slowStartTime": 3067,
+        "slowEndTime": 5727
+    },
+    {
+        "text": "Circle.",
+        "startTime": 5031,
+        "endTime": 5534,
+        "slowStartTime": 7696,
+        "slowEndTime": 8526
+    },
+    {
+        "text": "Oval.",
+        "startTime": 9678,
+        "endTime": 10122,
+        "slowStartTime": 14667,
+        "slowEndTime": 15408
+    },
+    {
+        "text": "Heart.",
+        "startTime": 13734,
+        "endTime": 14045,
+        "slowStartTime": 20751,
+        "slowEndTime": 21292
+    },
+    {
+        "text": "Triangle.",
+        "startTime": 18745,
+        "endTime": 19403,
+        "slowStartTime": 28267,
+        "slowEndTime": 29330
+    },
+    {
+        "text": "Square.",
+        "startTime": 22729,
+        "endTime": 23303,
+        "slowStartTime": 34243,
+        "slowEndTime": 35179
+    },
+    {
+        "text": "Rectangle.",
+        "startTime": 26837,
+        "endTime": 27488,
+        "slowStartTime": 40405,
+        "slowEndTime": 41457
+    },
+    {
+        "text": "Parallelogram.",
+        "startTime": 31002,
+        "endTime": 31893,
+        "slowStartTime": 46653,
+        "slowEndTime": 48064
+    },
+    {
+        "text": "Pentagon.",
+        "startTime": 34233,
+        "endTime": 34767,
+        "slowStartTime": 51500,
+        "slowEndTime": 52375
+    },
+    {
+        "text": "Hexagon.",
+        "startTime": 38728,
+        "endTime": 39364,
+        "slowStartTime": 58242,
+        "slowEndTime": 59271
+    },
+    {
+        "text": "Octagon.",
+        "startTime": 42146,
+        "endTime": 42918,
+        "slowStartTime": 63369,
+        "slowEndTime": 64602
+    },
+    {
+        "text": "Star.",
+        "startTime": 46971,
+        "endTime": 47511,
+        "slowStartTime": 70606,
+        "slowEndTime": 71491
+    },
+    {
+        "text": "Arrow.",
+        "startTime": 51009,
+        "endTime": 51537,
+        "slowStartTime": 76664,
+        "slowEndTime": 77531
+    },
+    {
+        "text": "Cross.",
+        "startTime": 56049,
+        "endTime": 56612,
+        "slowStartTime": 84223,
+        "slowEndTime": 85143
+    },
+    {
+        "text": "Trapezium.",
+        "startTime": 59367,
+        "endTime": 60187,
+        "slowStartTime": 89201,
+        "slowEndTime": 90506
+    }
+]

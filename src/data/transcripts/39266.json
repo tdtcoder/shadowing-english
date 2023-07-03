@@ -1,0 +1,170 @@
+[
+    {
+        "text": "Hello! Thanks for calling Mario's Pizza.",
+        "startTime": 2513,
+        "endTime": 4314,
+        "slowStartTime": 3920,
+        "slowEndTime": 6696
+    },
+    {
+        "text": "This is Carlos speaking.",
+        "startTime": 4495,
+        "endTime": 5581,
+        "slowStartTime": 6892,
+        "slowEndTime": 8596
+    },
+    {
+        "text": "Hello!",
+        "startTime": 5765,
+        "endTime": 7029,
+        "slowStartTime": 8797,
+        "slowEndTime": 10769
+    },
+    {
+        "text": "We would like a large pie with pepperoni, pineapple, and cheesy crust.",
+        "startTime": 7345,
+        "endTime": 14137,
+        "slowStartTime": 11168,
+        "slowEndTime": 21431
+    },
+    {
+        "text": "Large pepperoni with pineapple and cheesy crust?",
+        "startTime": 14345,
+        "endTime": 17663,
+        "slowStartTime": 21667,
+        "slowEndTime": 26720
+    },
+    {
+        "text": "We would also like a large pie with bacon, pineapple, and cheesy crust.",
+        "startTime": 17763,
+        "endTime": 25777,
+        "slowStartTime": 26795,
+        "slowEndTime": 38891
+    },
+    {
+        "text": "Large bacon, pineapple, with cheesy crust.",
+        "startTime": 25952,
+        "endTime": 27741,
+        "slowStartTime": 39078,
+        "slowEndTime": 41836
+    },
+    {
+        "text": "Okay. Is that gonna complete your order, sir?",
+        "startTime": 27820,
+        "endTime": 29943,
+        "slowStartTime": 41880,
+        "slowEndTime": 45139
+    },
+    {
+        "text": "You know what? Let me gauge the room.",
+        "startTime": 30078,
+        "endTime": 31576,
+        "slowStartTime": 45267,
+        "slowEndTime": 47589
+    },
+    {
+        "text": "Guys, are we gonna want another pizza?",
+        "startTime": 31773,
+        "endTime": 34260,
+        "slowStartTime": 47809,
+        "slowEndTime": 51615
+    },
+    {
+        "text": "Let me just... who's hungry?",
+        "startTime": 34337,
+        "endTime": 35377,
+        "slowStartTime": 51655,
+        "slowEndTime": 53291
+    },
+    {
+        "text": "Show of hands, let me see them.",
+        "startTime": 35442,
+        "endTime": 36897,
+        "slowStartTime": 53313,
+        "slowEndTime": 55570
+    },
+    {
+        "text": "One, two, three, keep 'em up, four, five, six.",
+        "startTime": 37418,
+        "endTime": 41807,
+        "slowStartTime": 56277,
+        "slowEndTime": 62935
+    },
+    {
+        "text": "Ah, having a party?",
+        "startTime": 41889,
+        "endTime": 43325,
+        "slowStartTime": 62984,
+        "slowEndTime": 65212
+    },
+    {
+        "text": "Yup. Pretty big one, too.",
+        "startTime": 44045,
+        "endTime": 45507,
+        "slowStartTime": 66218,
+        "slowEndTime": 68486
+    },
+    {
+        "text": "Come on, guys, keep 'em up.",
+        "startTime": 45596,
+        "endTime": 46818,
+        "slowStartTime": 68544,
+        "slowEndTime": 70452
+    },
+    {
+        "text": "Hugo? Summer? Hans? Food?",
+        "startTime": 46975,
+        "endTime": 49261,
+        "slowStartTime": 70612,
+        "slowEndTime": 74117
+    },
+    {
+        "text": "You know what, let's play it safe.",
+        "startTime": 49349,
+        "endTime": 50769,
+        "slowStartTime": 74174,
+        "slowEndTime": 76378
+    },
+    {
+        "text": "Let's get another pie with ham, pineapple.",
+        "startTime": 51309,
+        "endTime": 54221,
+        "slowStartTime": 77114,
+        "slowEndTime": 81556
+    },
+    {
+        "text": "All right, ham... oh, are you guys gonna need cheesy crust on the third?",
+        "startTime": 54338,
+        "endTime": 57900,
+        "slowStartTime": 81657,
+        "slowEndTime": 87075
+    },
+    {
+        "text": "Good question. I'll gauge the room.",
+        "startTime": 58032,
+        "endTime": 59768,
+        "slowStartTime": 87198,
+        "slowEndTime": 89877
+    },
+    {
+        "text": "Hey, guys, do we want cheesy crust on the third?",
+        "startTime": 59883,
+        "endTime": 63249,
+        "slowStartTime": 89974,
+        "slowEndTime": 95099
+    },
+    {
+        "text": "Okay, yeesh! That is a resounding yes for cheesy crust on the third.",
+        "startTime": 63549,
+        "endTime": 69815,
+        "slowStartTime": 95473,
+        "slowEndTime": 104947
+    },
+    {
+        "text": "Claire says you read her mind.",
+        "startTime": 70201,
+        "endTime": 72010,
+        "slowStartTime": 105451,
+        "slowEndTime": 108240
+    }
+]

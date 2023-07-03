@@ -1,0 +1,128 @@
+[
+    {
+        "text": "1 and 9.",
+        "startTime": 163,
+        "endTime": 1367,
+        "slowStartTime": 395,
+        "slowEndTime": 2275
+    },
+    {
+        "text": "2 and 8.",
+        "startTime": 1481,
+        "endTime": 2357,
+        "slowStartTime": 2372,
+        "slowEndTime": 3760
+    },
+    {
+        "text": "1 and 9.",
+        "startTime": 2448,
+        "endTime": 3725,
+        "slowStartTime": 3822,
+        "slowEndTime": 5812
+    },
+    {
+        "text": "2 and 8.",
+        "startTime": 3808,
+        "endTime": 4627,
+        "slowStartTime": 5862,
+        "slowEndTime": 7165
+    },
+    {
+        "text": "1 and 9.",
+        "startTime": 4717,
+        "endTime": 5971,
+        "slowStartTime": 7225,
+        "slowEndTime": 9181
+    },
+    {
+        "text": "2 and 8.",
+        "startTime": 6047,
+        "endTime": 6897,
+        "slowStartTime": 9221,
+        "slowEndTime": 10570
+    },
+    {
+        "text": "3 and 7.",
+        "startTime": 7034,
+        "endTime": 8744,
+        "slowStartTime": 10701,
+        "slowEndTime": 13341
+    },
+    {
+        "text": "Number pairs that make 10.",
+        "startTime": 10054,
+        "endTime": 12764,
+        "slowStartTime": 15231,
+        "slowEndTime": 19371
+    },
+    {
+        "text": "Number pairs that make 10.",
+        "startTime": 14669,
+        "endTime": 17320,
+        "slowStartTime": 22154,
+        "slowEndTime": 26205
+    },
+    {
+        "text": "4 and 6.",
+        "startTime": 18469,
+        "endTime": 19887,
+        "slowStartTime": 27853,
+        "slowEndTime": 30055
+    },
+    {
+        "text": "5 and 5.",
+        "startTime": 20011,
+        "endTime": 20835,
+        "slowStartTime": 30166,
+        "slowEndTime": 31478
+    },
+    {
+        "text": "4 and 6.",
+        "startTime": 21023,
+        "endTime": 22157,
+        "slowStartTime": 31684,
+        "slowEndTime": 33460
+    },
+    {
+        "text": "5 and 5.",
+        "startTime": 22267,
+        "endTime": 23119,
+        "slowStartTime": 33551,
+        "slowEndTime": 34904
+    },
+    {
+        "text": "4 and 6.",
+        "startTime": 23199,
+        "endTime": 24502,
+        "slowStartTime": 34949,
+        "slowEndTime": 36978
+    },
+    {
+        "text": "5 and 5.",
+        "startTime": 24594,
+        "endTime": 25445,
+        "slowStartTime": 37041,
+        "slowEndTime": 38393
+    },
+    {
+        "text": "3 and 7.",
+        "startTime": 25757,
+        "endTime": 27257,
+        "slowStartTime": 38785,
+        "slowEndTime": 41111
+    },
+    {
+        "text": "We're number pairs that make 10.",
+        "startTime": 28039,
+        "endTime": 31239,
+        "slowStartTime": 42208,
+        "slowEndTime": 47084
+    },
+    {
+        "text": "Number pairs that make 10.",
+        "startTime": 33099,
+        "endTime": 35807,
+        "slowStartTime": 49798,
+        "slowEndTime": 53935
+    }
+]

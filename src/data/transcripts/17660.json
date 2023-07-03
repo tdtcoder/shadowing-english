@@ -1,0 +1,114 @@
+[
+    {
+        "text": "What is that?",
+        "startTime": 1185,
+        "endTime": 2057,
+        "slowStartTime": 1927,
+        "slowEndTime": 3311
+    },
+    {
+        "text": "It is my new MP3 player.",
+        "startTime": 3173,
+        "endTime": 5695,
+        "slowStartTime": 4910,
+        "slowEndTime": 8767
+    },
+    {
+        "text": "My brother gave it to me.",
+        "startTime": 6183,
+        "endTime": 7863,
+        "slowStartTime": 9424,
+        "slowEndTime": 12020
+    },
+    {
+        "text": "Wow!",
+        "startTime": 9013,
+        "endTime": 9992,
+        "slowStartTime": 13669,
+        "slowEndTime": 15213
+    },
+    {
+        "text": "It is the best MP3 player that I've ever seen.",
+        "startTime": 10315,
+        "endTime": 14602,
+        "slowStartTime": 15622,
+        "slowEndTime": 22128
+    },
+    {
+        "text": "Let me show you the pictures of animals I took.",
+        "startTime": 17685,
+        "endTime": 20567,
+        "slowStartTime": 26677,
+        "slowEndTime": 31076
+    },
+    {
+        "text": "Sounds good.",
+        "startTime": 21640,
+        "endTime": 22769,
+        "slowStartTime": 32610,
+        "slowEndTime": 34378
+    },
+    {
+        "text": "Giraffes, monkeys, cheetahs and elephants.",
+        "startTime": 23174,
+        "endTime": 27513,
+        "slowStartTime": 34911,
+        "slowEndTime": 41495
+    },
+    {
+        "text": "Do you know what is the fastest animal?",
+        "startTime": 28638,
+        "endTime": 31330,
+        "slowStartTime": 43107,
+        "slowEndTime": 47220
+    },
+    {
+        "text": "Cheetahs are the fastest animal!",
+        "startTime": 32447,
+        "endTime": 34885,
+        "slowStartTime": 48820,
+        "slowEndTime": 52553
+    },
+    {
+        "text": "I like the green cap and blue cap.",
+        "startTime": 37931,
+        "endTime": 40635,
+        "slowStartTime": 57047,
+        "slowEndTime": 61178
+    },
+    {
+        "text": "I like the white cap, too.",
+        "startTime": 41123,
+        "endTime": 43073,
+        "slowStartTime": 61835,
+        "slowEndTime": 64834
+    },
+    {
+        "text": "I can't choose one.",
+        "startTime": 43749,
+        "endTime": 45131,
+        "slowStartTime": 65774,
+        "slowEndTime": 67921
+    },
+    {
+        "text": "Which one is the cheapest?",
+        "startTime": 45645,
+        "endTime": 47171,
+        "slowStartTime": 68617,
+        "slowEndTime": 70982
+    },
+    {
+        "text": "The blue one is the cheapest.",
+        "startTime": 48245,
+        "endTime": 50625,
+        "slowStartTime": 72518,
+        "slowEndTime": 76162
+    },
+    {
+        "text": "Okay, I'll take the blue one.",
+        "startTime": 51699,
+        "endTime": 54414,
+        "slowStartTime": 77699,
+        "slowEndTime": 81846
+    }
+]

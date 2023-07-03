@@ -1,0 +1,156 @@
+[
+    {
+        "text": "Mother Wolf saw a movement among the trees.",
+        "startTime": 3000,
+        "endTime": 5500,
+        "slowStartTime": 4650,
+        "slowEndTime": 8450
+    },
+    {
+        "text": "\"Something is coming,\" she said.",
+        "startTime": 6500,
+        "endTime": 9000,
+        "slowStartTime": 9900,
+        "slowEndTime": 13800
+    },
+    {
+        "text": "Father Wolf got ready to jump at whatever came out of the trees.",
+        "startTime": 9500,
+        "endTime": 12950,
+        "slowStartTime": 14400,
+        "slowEndTime": 19700
+    },
+    {
+        "text": "But to his surprise, it was not an animal.",
+        "startTime": 13800,
+        "endTime": 17050,
+        "slowStartTime": 20800,
+        "slowEndTime": 25850
+    },
+    {
+        "text": "It was a man's cub.",
+        "startTime": 17900,
+        "endTime": 19150,
+        "slowStartTime": 27050,
+        "slowEndTime": 29000
+    },
+    {
+        "text": "A little brown baby.",
+        "startTime": 19750,
+        "endTime": 21250,
+        "slowStartTime": 29800,
+        "slowEndTime": 32150
+    },
+    {
+        "text": "At this moment, Shere Khan came to the mouth of the cave.",
+        "startTime": 22300,
+        "endTime": 25900,
+        "slowStartTime": 33650,
+        "slowEndTime": 39100
+    },
+    {
+        "text": "\"I am looking for a man's cub,\" Shere Khan said.",
+        "startTime": 26950,
+        "endTime": 31100,
+        "slowStartTime": 40600,
+        "slowEndTime": 46950
+    },
+    {
+        "text": "\"His parents were afraid of me and they ran off.\"",
+        "startTime": 31850,
+        "endTime": 34950,
+        "slowStartTime": 47950,
+        "slowEndTime": 52700
+    },
+    {
+        "text": "\"Now, I can eat their child.\"",
+        "startTime": 35550,
+        "endTime": 37450,
+        "slowStartTime": 53550,
+        "slowEndTime": 56400
+    },
+    {
+        "text": "Father Wolf said, \"The man cub is ours.\"",
+        "startTime": 38550,
+        "endTime": 41600,
+        "slowStartTime": 58050,
+        "slowEndTime": 62600
+    },
+    {
+        "text": "Shere Khan roared, \"You have no right to keep the child.\"",
+        "startTime": 42200,
+        "endTime": 46350,
+        "slowStartTime": 63500,
+        "slowEndTime": 69750
+    },
+    {
+        "text": "Then, Mother Wolf shouted at the tiger, \"Go away!\"",
+        "startTime": 47150,
+        "endTime": 50800,
+        "slowStartTime": 70900,
+        "slowEndTime": 76500
+    },
+    {
+        "text": "\"The child stays with us and will run with our family.\"",
+        "startTime": 51450,
+        "endTime": 55100,
+        "slowStartTime": 77350,
+        "slowEndTime": 82900
+    },
+    {
+        "text": "Shere Khan roared, \"The wolf pack will decide, not you\",...",
+        "startTime": 55750,
+        "endTime": 60800,
+        "slowStartTime": 83800,
+        "slowEndTime": 91450
+    },
+    {
+        "text": "...\"if a man's cub can run with the pack.\"",
+        "startTime": 61200,
+        "endTime": 63650,
+        "slowStartTime": 92000,
+        "slowEndTime": 95700
+    },
+    {
+        "text": "Father Wolf said, \"Shere Khan is right, Mother.\"",
+        "startTime": 64400,
+        "endTime": 67500,
+        "slowStartTime": 96800,
+        "slowEndTime": 101500
+    },
+    {
+        "text": "\"The pack will decide if he may run with us.\"",
+        "startTime": 68050,
+        "endTime": 70550,
+        "slowStartTime": 102300,
+        "slowEndTime": 106100
+    },
+    {
+        "text": "\"We will take Mowgli, for this is what I shall call him\",...",
+        "startTime": 71150,
+        "endTime": 75000,
+        "slowStartTime": 106900,
+        "slowEndTime": 112750
+    },
+    {
+        "text": "...\"to the pack at the next full moon,\" Mother Wolf said.",
+        "startTime": 75500,
+        "endTime": 79000,
+        "slowStartTime": 113400,
+        "slowEndTime": 118750
+    },
+    {
+        "text": "Time passed, and Mother, and Father Wolf took Mowgli to where Akela, the great, gray wolf who led the pack...",
+        "startTime": 79400,
+        "endTime": 87550,
+        "slowStartTime": 119300,
+        "slowEndTime": 131350
+    },
+    {
+        "text": "...was lying outside his cave.",
+        "startTime": 87850,
+        "endTime": 89350,
+        "slowStartTime": 132000,
+        "slowEndTime": 134300
+    }
+]

@@ -1,0 +1,198 @@
+[
+    {
+        "text": "A sentence begins with a capital letter.",
+        "startTime": 4166,
+        "endTime": 6547,
+        "slowStartTime": 6399,
+        "slowEndTime": 10046
+    },
+    {
+        "text": "A capital letter is a letter that's big.",
+        "startTime": 6772,
+        "endTime": 9069,
+        "slowStartTime": 10308,
+        "slowEndTime": 13828
+    },
+    {
+        "text": "A capital letter is not a small letter.",
+        "startTime": 9279,
+        "endTime": 11612,
+        "slowStartTime": 14069,
+        "slowEndTime": 17643
+    },
+    {
+        "text": "A capital letter is big big big.",
+        "startTime": 11807,
+        "endTime": 14091,
+        "slowStartTime": 17860,
+        "slowEndTime": 21361
+    },
+    {
+        "text": "A sentence ends with a period.",
+        "startTime": 14309,
+        "endTime": 16517,
+        "slowStartTime": 21614,
+        "slowEndTime": 25001
+    },
+    {
+        "text": "Or an exclamation or a question mark.",
+        "startTime": 16838,
+        "endTime": 19227,
+        "slowStartTime": 25407,
+        "slowEndTime": 29066
+    },
+    {
+        "text": "A sentence always ends with a period.",
+        "startTime": 19400,
+        "endTime": 21491,
+        "slowStartTime": 29250,
+        "slowEndTime": 32461
+    },
+    {
+        "text": "Or an exclamation or a question mark.",
+        "startTime": 21943,
+        "endTime": 24434,
+        "slowStartTime": 33064,
+        "slowEndTime": 36876
+    },
+    {
+        "text": "So, \"My dog is great.\" is a sentence.",
+        "startTime": 26339,
+        "endTime": 29399,
+        "slowStartTime": 39659,
+        "slowEndTime": 44323
+    },
+    {
+        "text": "The M is a capital, yeah that's right.",
+        "startTime": 29493,
+        "endTime": 31855,
+        "slowStartTime": 44390,
+        "slowEndTime": 48008
+    },
+    {
+        "text": "\"My dog is great.\" is a sentence.",
+        "startTime": 32191,
+        "endTime": 34490,
+        "slowStartTime": 48436,
+        "slowEndTime": 51960
+    },
+    {
+        "text": "It ends with a period, that's right.",
+        "startTime": 34570,
+        "endTime": 37109,
+        "slowStartTime": 52005,
+        "slowEndTime": 55888
+    },
+    {
+        "text": "And, \"Do you like bugs?\" is a sentence.",
+        "startTime": 38519,
+        "endTime": 42035,
+        "slowStartTime": 57929,
+        "slowEndTime": 63278
+    },
+    {
+        "text": "the D is a capital... yeah it's big!",
+        "startTime": 42127,
+        "endTime": 44443,
+        "slowStartTime": 63340,
+        "slowEndTime": 66890
+    },
+    {
+        "text": "But \"Do you like bugs?\" is also a question.",
+        "startTime": 44539,
+        "endTime": 47088,
+        "slowStartTime": 66959,
+        "slowEndTime": 70857
+    },
+    {
+        "text": "Therefore, it ends with a question mark.",
+        "startTime": 47301,
+        "endTime": 49391,
+        "slowStartTime": 71101,
+        "slowEndTime": 74311
+    },
+    {
+        "text": "And also, \"There is a monster!\" is a sentence.",
+        "startTime": 51506,
+        "endTime": 54692,
+        "slowStartTime": 77409,
+        "slowEndTime": 82263
+    },
+    {
+        "text": "the T is a capital... yeah it's big!",
+        "startTime": 54779,
+        "endTime": 57097,
+        "slowStartTime": 82319,
+        "slowEndTime": 85871
+    },
+    {
+        "text": "\"There is a monster!\" has a strong feeling.",
+        "startTime": 57625,
+        "endTime": 59619,
+        "slowStartTime": 86588,
+        "slowEndTime": 89653
+    },
+    {
+        "text": "So therefore it ends with an exclamation mark!",
+        "startTime": 59713,
+        "endTime": 62121,
+        "slowStartTime": 89720,
+        "slowEndTime": 93406
+    },
+    {
+        "text": "A sentence begins with a capital letter.",
+        "startTime": 75029,
+        "endTime": 77288,
+        "slowStartTime": 112693,
+        "slowEndTime": 116157
+    },
+    {
+        "text": "A capital letter is a letter that's big.",
+        "startTime": 77517,
+        "endTime": 79767,
+        "slowStartTime": 116425,
+        "slowEndTime": 119875
+    },
+    {
+        "text": "A capital letter is not a small letter.",
+        "startTime": 80042,
+        "endTime": 82375,
+        "slowStartTime": 120213,
+        "slowEndTime": 123787
+    },
+    {
+        "text": "A capital letter is big big big.",
+        "startTime": 82519,
+        "endTime": 84831,
+        "slowStartTime": 123929,
+        "slowEndTime": 127472
+    },
+    {
+        "text": "A sentence ends with a period.",
+        "startTime": 84990,
+        "endTime": 87348,
+        "slowStartTime": 127635,
+        "slowEndTime": 131247
+    },
+    {
+        "text": "Or an exclamation or a question mark.",
+        "startTime": 87598,
+        "endTime": 89875,
+        "slowStartTime": 131547,
+        "slowEndTime": 135038
+    },
+    {
+        "text": "A sentence always ends with a period.",
+        "startTime": 90141,
+        "endTime": 92106,
+        "slowStartTime": 135362,
+        "slowEndTime": 138384
+    },
+    {
+        "text": "Or an exclamation or a question mark.",
+        "startTime": 92674,
+        "endTime": 95167,
+        "slowStartTime": 139161,
+        "slowEndTime": 142975
+    }
+]

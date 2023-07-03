@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Good afternoon.",
+        "startTime": 800,
+        "endTime": 1458,
+        "slowStartTime": 1350,
+        "slowEndTime": 2412
+    },
+    {
+        "text": "Good afternoon.",
+        "startTime": 1895,
+        "endTime": 2687,
+        "slowStartTime": 2993,
+        "slowEndTime": 4256
+    },
+    {
+        "text": "Can I help you?",
+        "startTime": 2893,
+        "endTime": 3705,
+        "slowStartTime": 4490,
+        "slowEndTime": 5783
+    },
+    {
+        "text": "Yes, please.",
+        "startTime": 3860,
+        "endTime": 4685,
+        "slowStartTime": 5940,
+        "slowEndTime": 7252
+    },
+    {
+        "text": "I'm looking for a jacket.",
+        "startTime": 5373,
+        "endTime": 6903,
+        "slowStartTime": 8210,
+        "slowEndTime": 10579
+    },
+    {
+        "text": "Jacket?",
+        "startTime": 7244,
+        "endTime": 7875,
+        "slowStartTime": 11016,
+        "slowEndTime": 12037
+    },
+    {
+        "text": "Okay.",
+        "startTime": 8586,
+        "endTime": 9161,
+        "slowStartTime": 13029,
+        "slowEndTime": 13967
+    },
+    {
+        "text": "What color are you looking for?",
+        "startTime": 9656,
+        "endTime": 11288,
+        "slowStartTime": 14634,
+        "slowEndTime": 17157
+    },
+    {
+        "text": "Black.",
+        "startTime": 11610,
+        "endTime": 12033,
+        "slowStartTime": 17565,
+        "slowEndTime": 18274
+    },
+    {
+        "text": "I'm looking for a black jacket.",
+        "startTime": 12319,
+        "endTime": 13955,
+        "slowStartTime": 18629,
+        "slowEndTime": 21157
+    },
+    {
+        "text": "Black?",
+        "startTime": 14265,
+        "endTime": 14822,
+        "slowStartTime": 21547,
+        "slowEndTime": 22458
+    },
+    {
+        "text": "Okay.",
+        "startTime": 15181,
+        "endTime": 15769,
+        "slowStartTime": 22922,
+        "slowEndTime": 23879
+    },
+    {
+        "text": "And what size are you looking for?",
+        "startTime": 15971,
+        "endTime": 17611,
+        "slowStartTime": 24106,
+        "slowEndTime": 26641
+    },
+    {
+        "text": "Medium.",
+        "startTime": 18170,
+        "endTime": 18776,
+        "slowStartTime": 27405,
+        "slowEndTime": 28389
+    },
+    {
+        "text": "I'm looking for a medium.",
+        "startTime": 18930,
+        "endTime": 20010,
+        "slowStartTime": 28545,
+        "slowEndTime": 30240
+    },
+    {
+        "text": "Medium?",
+        "startTime": 20455,
+        "endTime": 21165,
+        "slowStartTime": 30832,
+        "slowEndTime": 31973
+    },
+    {
+        "text": "Alright.",
+        "startTime": 21839,
+        "endTime": 23189,
+        "slowStartTime": 32908,
+        "slowEndTime": 35008
+    },
+    {
+        "text": "A black jacket in medium.",
+        "startTime": 28881,
+        "endTime": 30722,
+        "slowStartTime": 43471,
+        "slowEndTime": 46308
+    },
+    {
+        "text": "Here you are.",
+        "startTime": 30993,
+        "endTime": 31602,
+        "slowStartTime": 46640,
+        "slowEndTime": 47628
+    },
+    {
+        "text": "Ooh, that's nice.",
+        "startTime": 31716,
+        "endTime": 33195,
+        "slowStartTime": 47724,
+        "slowEndTime": 50017
+    },
+    {
+        "text": "Yes.",
+        "startTime": 33461,
+        "endTime": 33762,
+        "slowStartTime": 50341,
+        "slowEndTime": 50868
+    }
+]

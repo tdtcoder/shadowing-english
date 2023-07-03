@@ -1,0 +1,261 @@
+[
+    {
+        "text": "A member of the US army steps up to the counter.",
+        "startTime": 359,
+        "endTime": 3776,
+        "slowStartTime": 688,
+        "slowEndTime": 5889
+    },
+    {
+        "text": "Hey, don't deal with this guy.",
+        "startTime": 4453,
+        "endTime": 5553,
+        "slowStartTime": 6830,
+        "slowEndTime": 8555
+    },
+    {
+        "text": "He's Muslim.",
+        "startTime": 5647,
+        "endTime": 6185,
+        "slowStartTime": 8621,
+        "slowEndTime": 9503
+    },
+    {
+        "text": "Is he laughing?",
+        "startTime": 7525,
+        "endTime": 9149,
+        "slowStartTime": 11437,
+        "slowEndTime": 13949
+    },
+    {
+        "text": "Why is that funny?",
+        "startTime": 9245,
+        "endTime": 10002,
+        "slowStartTime": 14017,
+        "slowEndTime": 15228
+    },
+    {
+        "text": "Hold on, what happened?",
+        "startTime": 11269,
+        "endTime": 12473,
+        "slowStartTime": 17053,
+        "slowEndTime": 18935
+    },
+    {
+        "text": "This guy is a Muslim.",
+        "startTime": 13063,
+        "endTime": 14098,
+        "slowStartTime": 19745,
+        "slowEndTime": 21372
+    },
+    {
+        "text": "We live in America.",
+        "startTime": 14647,
+        "endTime": 15641,
+        "slowStartTime": 22121,
+        "slowEndTime": 23687
+    },
+    {
+        "text": "He can have any religion he wants.",
+        "startTime": 15739,
+        "endTime": 17948,
+        "slowStartTime": 23759,
+        "slowEndTime": 27147
+    },
+    {
+        "text": "Aren't you fighting against these guys?",
+        "startTime": 18249,
+        "endTime": 19621,
+        "slowStartTime": 27524,
+        "slowEndTime": 29657
+    },
+    {
+        "text": "Not at the moment.",
+        "startTime": 20197,
+        "endTime": 20995,
+        "slowStartTime": 30445,
+        "slowEndTime": 31718
+    },
+    {
+        "text": "Right now, I'm ordering a sandwich.",
+        "startTime": 21925,
+        "endTime": 23330,
+        "slowStartTime": 33037,
+        "slowEndTime": 35220
+    },
+    {
+        "text": "I don't think you should be working here.",
+        "startTime": 24699,
+        "endTime": 25957,
+        "slowStartTime": 37199,
+        "slowEndTime": 39161
+    },
+    {
+        "text": "Buy your chips and move out.",
+        "startTime": 26904,
+        "endTime": 28176,
+        "slowStartTime": 40506,
+        "slowEndTime": 42489
+    },
+    {
+        "text": "He doesn't follow orders.",
+        "startTime": 28999,
+        "endTime": 31271,
+        "slowStartTime": 43648,
+        "slowEndTime": 47131
+    },
+    {
+        "text": "Look, I'd like to order some food, just not from you, okay?",
+        "startTime": 31703,
+        "endTime": 33797,
+        "slowStartTime": 47705,
+        "slowEndTime": 50921
+    },
+    {
+        "text": "Get out!",
+        "startTime": 34334,
+        "endTime": 34951,
+        "slowStartTime": 51651,
+        "slowEndTime": 52652
+    },
+    {
+        "text": "Put the chips down and go buy them somewhere else.",
+        "startTime": 35445,
+        "endTime": 37245,
+        "slowStartTime": 53317,
+        "slowEndTime": 56092
+    },
+    {
+        "text": "You want me to leave this place?",
+        "startTime": 37465,
+        "endTime": 38541,
+        "slowStartTime": 56348,
+        "slowEndTime": 58036
+    },
+    {
+        "text": "You have a choice to shop anywhere...",
+        "startTime": 38715,
+        "endTime": 39951,
+        "slowStartTime": 58222,
+        "slowEndTime": 60152
+    },
+    {
+        "text": "...just like he has a choice to practice his religion anywhere.",
+        "startTime": 40041,
+        "endTime": 43237,
+        "slowStartTime": 60212,
+        "slowEndTime": 65081
+    },
+    {
+        "text": "That's the reason I wear the uniform,...",
+        "startTime": 43445,
+        "endTime": 44989,
+        "slowStartTime": 65318,
+        "slowEndTime": 67708
+    },
+    {
+        "text": "...so anyone can live free in this country.",
+        "startTime": 45205,
+        "endTime": 47259,
+        "slowStartTime": 67958,
+        "slowEndTime": 71114
+    },
+    {
+        "text": "Leave the man alone, buy your stuff and leave.",
+        "startTime": 47561,
+        "endTime": 50422,
+        "slowStartTime": 71492,
+        "slowEndTime": 75858
+    },
+    {
+        "text": "People might say that's very heroic, what you said.",
+        "startTime": 51203,
+        "endTime": 53599,
+        "slowStartTime": 76954,
+        "slowEndTime": 80624
+    },
+    {
+        "text": "Is it?",
+        "startTime": 53756,
+        "endTime": 54185,
+        "slowStartTime": 80784,
+        "slowEndTime": 81502
+    },
+    {
+        "text": "No, sir.",
+        "startTime": 54452,
+        "endTime": 54945,
+        "slowStartTime": 81828,
+        "slowEndTime": 82643
+    },
+    {
+        "text": "No, heroes come in many shapes and sizes.",
+        "startTime": 55739,
+        "endTime": 57492,
+        "slowStartTime": 83758,
+        "slowEndTime": 86463
+    },
+    {
+        "text": "That wasn't heroic at all.",
+        "startTime": 57582,
+        "endTime": 58519,
+        "slowStartTime": 86523,
+        "slowEndTime": 88003
+    },
+    {
+        "text": "I was just being a person and standing up for someone else.",
+        "startTime": 58936,
+        "endTime": 62736,
+        "slowStartTime": 88554,
+        "slowEndTime": 94329
+    },
+    {
+        "text": "But what principles were you defending?",
+        "startTime": 62829,
+        "endTime": 64473,
+        "slowStartTime": 94394,
+        "slowEndTime": 96934
+    },
+    {
+        "text": "Everyone's unalienable rights.",
+        "startTime": 64833,
+        "endTime": 66034,
+        "slowStartTime": 97400,
+        "slowEndTime": 99276
+    },
+    {
+        "text": "Everyone's?",
+        "startTime": 66443,
+        "endTime": 67134,
+        "slowStartTime": 99815,
+        "slowEndTime": 100926
+    },
+    {
+        "text": "Everyone's in this country.",
+        "startTime": 67221,
+        "endTime": 68245,
+        "slowStartTime": 100981,
+        "slowEndTime": 102592
+    },
+    {
+        "text": "You're Muslim?",
+        "startTime": 68365,
+        "endTime": 69049,
+        "slowStartTime": 102698,
+        "slowEndTime": 103799
+    },
+    {
+        "text": "It doesn't matter to me, sir.",
+        "startTime": 69215,
+        "endTime": 70216,
+        "slowStartTime": 103973,
+        "slowEndTime": 105549
+    },
+    {
+        "text": "If you're American, you're an American, period.",
+        "startTime": 70443,
+        "endTime": 72012,
+        "slowStartTime": 105815,
+        "slowEndTime": 108243
+    }
+]

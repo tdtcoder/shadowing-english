@@ -1,0 +1,65 @@
+[
+    {
+        "text": "More than 100 billion words are translated every day.",
+        "startTime": 2790,
+        "endTime": 6807,
+        "slowStartTime": 4335,
+        "slowEndTime": 10436
+    },
+    {
+        "text": "Lift your hand.",
+        "startTime": 6931,
+        "endTime": 7869,
+        "slowStartTime": 10546,
+        "slowEndTime": 12028
+    },
+    {
+        "text": "Thank you very much for your help.",
+        "startTime": 8017,
+        "endTime": 9608,
+        "slowStartTime": 12175,
+        "slowEndTime": 14637
+    },
+    {
+        "text": "Words about food.",
+        "startTime": 12525,
+        "endTime": 13599,
+        "slowStartTime": 18937,
+        "slowEndTime": 20624
+    },
+    {
+        "text": "Words about friendship, about sport, about belief, about fear.",
+        "startTime": 18294,
+        "endTime": 26123,
+        "slowStartTime": 27591,
+        "slowEndTime": 39410
+    },
+    {
+        "text": "Oh my god!",
+        "startTime": 27788,
+        "endTime": 28641,
+        "slowStartTime": 41832,
+        "slowEndTime": 43186
+    },
+    {
+        "text": "Words that can hurt and sometimes divide.",
+        "startTime": 28780,
+        "endTime": 32945,
+        "slowStartTime": 43320,
+        "slowEndTime": 49642
+    },
+    {
+        "text": "But every day, the most translated words in the world...",
+        "startTime": 34540,
+        "endTime": 39183,
+        "slowStartTime": 51960,
+        "slowEndTime": 59000
+    },
+    {
+        "text": "...are \"how are you,\" \"thank you\" and \"I love you.\"",
+        "startTime": 40823,
+        "endTime": 47747,
+        "slowStartTime": 61385,
+        "slowEndTime": 71846
+    }
+]

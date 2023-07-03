@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Adjectives are words that describe someone or something",
+        "startTime": 1719,
+        "endTime": 5689,
+        "slowStartTime": 2728,
+        "slowEndTime": 8759
+    },
+    {
+        "text": "This bear is big.",
+        "startTime": 10083,
+        "endTime": 11889,
+        "slowStartTime": 15275,
+        "slowEndTime": 18058
+    },
+    {
+        "text": "This bear is small.",
+        "startTime": 17995,
+        "endTime": 20424,
+        "slowStartTime": 27142,
+        "slowEndTime": 30861
+    },
+    {
+        "text": "She is very tall.",
+        "startTime": 26164,
+        "endTime": 29244,
+        "slowStartTime": 39396,
+        "slowEndTime": 44091
+    },
+    {
+        "text": "The penguins are short.",
+        "startTime": 35976,
+        "endTime": 38662,
+        "slowStartTime": 54114,
+        "slowEndTime": 58218
+    },
+    {
+        "text": "This young boy can dance.",
+        "startTime": 46063,
+        "endTime": 48889,
+        "slowStartTime": 69245,
+        "slowEndTime": 73559
+    },
+    {
+        "text": "This old man can dance too!",
+        "startTime": 53374,
+        "endTime": 55598,
+        "slowStartTime": 80211,
+        "slowEndTime": 83622
+    },
+    {
+        "text": "They are rich.",
+        "startTime": 64247,
+        "endTime": 66352,
+        "slowStartTime": 96520,
+        "slowEndTime": 99753
+    },
+    {
+        "text": "She is poor.",
+        "startTime": 73454,
+        "endTime": 76918,
+        "slowStartTime": 110331,
+        "slowEndTime": 115602
+    },
+    {
+        "text": "He is happy.",
+        "startTime": 86142,
+        "endTime": 87303,
+        "slowStartTime": 129363,
+        "slowEndTime": 131180
+    },
+    {
+        "text": "She is very sad.",
+        "startTime": 95119,
+        "endTime": 97111,
+        "slowStartTime": 142828,
+        "slowEndTime": 145891
+    }
+]

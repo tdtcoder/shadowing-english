@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Can I go shopping alone?",
+        "startTime": 2587,
+        "endTime": 4455,
+        "slowStartTime": 4030,
+        "slowEndTime": 6908
+    },
+    {
+        "text": "No, you can't.",
+        "startTime": 5374,
+        "endTime": 6565,
+        "slowStartTime": 8211,
+        "slowEndTime": 10073
+    },
+    {
+        "text": "You can go shopping alone when you grow up.",
+        "startTime": 7145,
+        "endTime": 10097,
+        "slowStartTime": 10868,
+        "slowEndTime": 15370
+    },
+    {
+        "text": "Can I drink coffee?",
+        "startTime": 11129,
+        "endTime": 12724,
+        "slowStartTime": 16843,
+        "slowEndTime": 19311
+    },
+    {
+        "text": "Not right now.",
+        "startTime": 13645,
+        "endTime": 14794,
+        "slowStartTime": 20618,
+        "slowEndTime": 22416
+    },
+    {
+        "text": "You can drink coffee when you grow up.",
+        "startTime": 15271,
+        "endTime": 17796,
+        "slowStartTime": 23057,
+        "slowEndTime": 26919
+    },
+    {
+        "text": "What can I do when I grow up?",
+        "startTime": 18825,
+        "endTime": 21118,
+        "slowStartTime": 28387,
+        "slowEndTime": 31902
+    },
+    {
+        "text": "You can go out at night.",
+        "startTime": 22198,
+        "endTime": 23907,
+        "slowStartTime": 33447,
+        "slowEndTime": 36086
+    },
+    {
+        "text": "You can also drive a car.",
+        "startTime": 24440,
+        "endTime": 26302,
+        "slowStartTime": 36810,
+        "slowEndTime": 39678
+    },
+    {
+        "text": "Mom, Mom, Mom, when can I stay up late?",
+        "startTime": 32096,
+        "endTime": 35429,
+        "slowStartTime": 48294,
+        "slowEndTime": 53368
+    },
+    {
+        "text": "You can stay up late when you grow up.",
+        "startTime": 35917,
+        "endTime": 38594,
+        "slowStartTime": 54025,
+        "slowEndTime": 58116
+    },
+    {
+        "text": "Dad, Dad, Dad, when can I drive a car?",
+        "startTime": 39688,
+        "endTime": 42936,
+        "slowStartTime": 59682,
+        "slowEndTime": 64629
+    },
+    {
+        "text": "You can drive a car when you grow up.",
+        "startTime": 43468,
+        "endTime": 46207,
+        "slowStartTime": 65352,
+        "slowEndTime": 69536
+    },
+    {
+        "text": "What, what, what, what can I do right now?",
+        "startTime": 47207,
+        "endTime": 50443,
+        "slowStartTime": 70961,
+        "slowEndTime": 75890
+    },
+    {
+        "text": "You can have cookies and milk right now.",
+        "startTime": 50973,
+        "endTime": 54179,
+        "slowStartTime": 76610,
+        "slowEndTime": 81494
+    },
+    {
+        "text": "What, what, what, what can I do when I grow up?",
+        "startTime": 54710,
+        "endTime": 58163,
+        "slowStartTime": 82215,
+        "slowEndTime": 87469
+    },
+    {
+        "text": "You can do everything you want to do now.",
+        "startTime": 58457,
+        "endTime": 61639,
+        "slowStartTime": 87836,
+        "slowEndTime": 92684
+    }
+]

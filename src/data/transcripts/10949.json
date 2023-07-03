@@ -1,0 +1,58 @@
+[
+    {
+        "text": "A new wife.",
+        "startTime": 15050,
+        "endTime": 16100,
+        "slowStartTime": 22800,
+        "slowEndTime": 24300
+    },
+    {
+        "text": "A new baby.",
+        "startTime": 23100,
+        "endTime": 23900,
+        "slowStartTime": 34900,
+        "slowEndTime": 36100
+    },
+    {
+        "text": "A new life.",
+        "startTime": 29150,
+        "endTime": 30050,
+        "slowStartTime": 43950,
+        "slowEndTime": 45350
+    },
+    {
+        "text": "This season, Dexter Morgan has everything he wants...",
+        "startTime": 36850,
+        "endTime": 40350,
+        "slowStartTime": 55500,
+        "slowEndTime": 60880
+    },
+    {
+        "text": "...except the one thing he needs,...",
+        "startTime": 42800,
+        "endTime": 46450,
+        "slowStartTime": 64400,
+        "slowEndTime": 69950
+    },
+    {
+        "text": "...a little time to kill.",
+        "startTime": 48850,
+        "endTime": 52100,
+        "slowStartTime": 73500,
+        "slowEndTime": 78340
+    },
+    {
+        "text": "Dexter premieres Sunday, September 27th...",
+        "startTime": 54450,
+        "endTime": 57300,
+        "slowStartTime": 81850,
+        "slowEndTime": 86120
+    },
+    {
+        "text": "...only on Showtime.",
+        "startTime": 57350,
+        "endTime": 58650,
+        "slowStartTime": 86270,
+        "slowEndTime": 88200
+    }
+]

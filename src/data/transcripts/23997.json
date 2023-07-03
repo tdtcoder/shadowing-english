@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Captain has turned on the fasten seat belt sign.",
+        "startTime": 151,
+        "endTime": 2024,
+        "slowStartTime": 376,
+        "slowEndTime": 3261
+    },
+    {
+        "text": "We do ask all our passengers, take your seat at this time and please fasten your seat belt.",
+        "startTime": 2103,
+        "endTime": 5765,
+        "slowStartTime": 3304,
+        "slowEndTime": 8872
+    },
+    {
+        "text": "Just as a reminder, we cannot leave the gate until carry-ons are properly put away,...",
+        "startTime": 6318,
+        "endTime": 9826,
+        "slowStartTime": 9627,
+        "slowEndTime": 14964
+    },
+    {
+        "text": "...all overhead bins are closed and all passengers are seated.",
+        "startTime": 9954,
+        "endTime": 13115,
+        "slowStartTime": 15081,
+        "slowEndTime": 19898
+    },
+    {
+        "text": "To those passengers who are seated in one of our designated exit rows,...",
+        "startTime": 13529,
+        "endTime": 16614,
+        "slowStartTime": 20443,
+        "slowEndTime": 25146
+    },
+    {
+        "text": "...you may be called upon to open that exit in the event of an emergency.",
+        "startTime": 16704,
+        "endTime": 19783,
+        "slowStartTime": 25206,
+        "slowEndTime": 29900
+    },
+    {
+        "text": "We do ask that you take a moment to locate the safety briefing card...",
+        "startTime": 20355,
+        "endTime": 23065,
+        "slowStartTime": 30682,
+        "slowEndTime": 34822
+    },
+    {
+        "text": "...located in the seat back pocket in front of you.",
+        "startTime": 23129,
+        "endTime": 24957,
+        "slowStartTime": 34844,
+        "slowEndTime": 37661
+    },
+    {
+        "text": "Should you feel you're unable in any way to open an exit,...",
+        "startTime": 25437,
+        "endTime": 27598,
+        "slowStartTime": 38306,
+        "slowEndTime": 41622
+    },
+    {
+        "text": "...please contact the flight staff this time and we will reseat you.",
+        "startTime": 27682,
+        "endTime": 30673,
+        "slowStartTime": 41673,
+        "slowEndTime": 46234
+    },
+    {
+        "text": "Forward boarding door has been closed.",
+        "startTime": 31020,
+        "endTime": 32429,
+        "slowStartTime": 46680,
+        "slowEndTime": 48868
+    },
+    {
+        "text": "Once again, we do need all passengers to remain seated at this time.",
+        "startTime": 32497,
+        "endTime": 35631,
+        "slowStartTime": 48896,
+        "slowEndTime": 53671
+    },
+    {
+        "text": "Please double-check the security of your seat belt.",
+        "startTime": 35785,
+        "endTime": 37612,
+        "slowStartTime": 53827,
+        "slowEndTime": 56643
+    },
+    {
+        "text": "All electronic devices do need to be turned off and put away this time.",
+        "startTime": 38160,
+        "endTime": 40956,
+        "slowStartTime": 57390,
+        "slowEndTime": 61659
+    },
+    {
+        "text": "This does include all cellular phones and two-way pagers.",
+        "startTime": 41031,
+        "endTime": 43569,
+        "slowStartTime": 61696,
+        "slowEndTime": 65578
+    },
+    {
+        "text": "Flight attendants, please prepare doors for departure, cross-check.",
+        "startTime": 44274,
+        "endTime": 47296,
+        "slowStartTime": 66561,
+        "slowEndTime": 71169
+    }
+]

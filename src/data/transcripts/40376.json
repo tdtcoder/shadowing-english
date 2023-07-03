@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Excuse me.",
+        "startTime": 833,
+        "endTime": 1965,
+        "slowStartTime": 1399,
+        "slowEndTime": 3173
+    },
+    {
+        "text": "Yes?",
+        "startTime": 2235,
+        "endTime": 2853,
+        "slowStartTime": 3502,
+        "slowEndTime": 4505
+    },
+    {
+        "text": "I heard there is bus service from here to Brian Park Skate Rink...",
+        "startTime": 3323,
+        "endTime": 6758,
+        "slowStartTime": 5135,
+        "slowEndTime": 10362
+    },
+    {
+        "text": "...and I want to know the bus schedule.",
+        "startTime": 7185,
+        "endTime": 8801,
+        "slowStartTime": 10928,
+        "slowEndTime": 13427
+    },
+    {
+        "text": "How often does the bus operate in the daytime?",
+        "startTime": 9643,
+        "endTime": 12205,
+        "slowStartTime": 14614,
+        "slowEndTime": 18533
+    },
+    {
+        "text": "The bus from Brian Park operates every thirty minutes from 10:00 AM through 3:00 PM.",
+        "startTime": 12979,
+        "endTime": 17787,
+        "slowStartTime": 19619,
+        "slowEndTime": 26906
+    },
+    {
+        "text": "Here is the bus schedule so you can check it.",
+        "startTime": 18483,
+        "endTime": 20328,
+        "slowStartTime": 27875,
+        "slowEndTime": 30717
+    },
+    {
+        "text": "Good. This is helpful.",
+        "startTime": 21038,
+        "endTime": 22602,
+        "slowStartTime": 31707,
+        "slowEndTime": 34128
+    },
+    {
+        "text": "And how much is the bus fare?",
+        "startTime": 23205,
+        "endTime": 24771,
+        "slowStartTime": 34957,
+        "slowEndTime": 37381
+    },
+    {
+        "text": "It is 2 dollars for an adult, and 90 cents for a kid.",
+        "startTime": 25211,
+        "endTime": 28525,
+        "slowStartTime": 37967,
+        "slowEndTime": 43013
+    },
+    {
+        "text": "The bus in the morning on weekends is rather crowded these days.",
+        "startTime": 29340,
+        "endTime": 32362,
+        "slowStartTime": 44160,
+        "slowEndTime": 48768
+    },
+    {
+        "text": "Thank you for the information.",
+        "startTime": 32757,
+        "endTime": 34214,
+        "slowStartTime": 49285,
+        "slowEndTime": 51546
+    }
+]

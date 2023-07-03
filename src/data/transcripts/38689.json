@@ -1,0 +1,149 @@
+[
+    {
+        "text": "So, do you like living in the country or in the city?",
+        "startTime": 225,
+        "endTime": 4403,
+        "slowStartTime": 487,
+        "slowEndTime": 6830
+    },
+    {
+        "text": "I like to live in the city.",
+        "startTime": 5869,
+        "endTime": 8341,
+        "slowStartTime": 8953,
+        "slowEndTime": 12737
+    },
+    {
+        "text": "Why?",
+        "startTime": 9571,
+        "endTime": 10171,
+        "slowStartTime": 14507,
+        "slowEndTime": 15482
+    },
+    {
+        "text": "The city is exciting!",
+        "startTime": 10835,
+        "endTime": 12763,
+        "slowStartTime": 16402,
+        "slowEndTime": 19370
+    },
+    {
+        "text": "It has more culture than the country.",
+        "startTime": 13627,
+        "endTime": 16079,
+        "slowStartTime": 20591,
+        "slowEndTime": 24344
+    },
+    {
+        "text": "There are many museums and restaurants.",
+        "startTime": 16649,
+        "endTime": 19243,
+        "slowStartTime": 25123,
+        "slowEndTime": 29089
+    },
+    {
+        "text": "Every night, there's theater and music...",
+        "startTime": 19885,
+        "endTime": 23039,
+        "slowStartTime": 29978,
+        "slowEndTime": 34784
+    },
+    {
+        "text": "...and there are more jobs.",
+        "startTime": 23778,
+        "endTime": 26235,
+        "slowStartTime": 35817,
+        "slowEndTime": 39578
+    },
+    {
+        "text": "That is why I'm here.",
+        "startTime": 26768,
+        "endTime": 28424,
+        "slowStartTime": 40302,
+        "slowEndTime": 42861
+    },
+    {
+        "text": "Well, I agree.",
+        "startTime": 29711,
+        "endTime": 32143,
+        "slowStartTime": 44716,
+        "slowEndTime": 48439
+    },
+    {
+        "text": "There is more culture in the city and there might be more jobs.",
+        "startTime": 32956,
+        "endTime": 37543,
+        "slowStartTime": 49584,
+        "slowEndTime": 56540
+    },
+    {
+        "text": "But the country has more nature!",
+        "startTime": 38387,
+        "endTime": 40554,
+        "slowStartTime": 57731,
+        "slowEndTime": 61056
+    },
+    {
+        "text": "It's peaceful and beautiful.",
+        "startTime": 40892,
+        "endTime": 43731,
+        "slowStartTime": 61488,
+        "slowEndTime": 65821
+    },
+    {
+        "text": "There are more trees and mountains.",
+        "startTime": 44502,
+        "endTime": 47518,
+        "slowStartTime": 66903,
+        "slowEndTime": 71502
+    },
+    {
+        "text": "The air is clean.",
+        "startTime": 48372,
+        "endTime": 49703,
+        "slowStartTime": 72708,
+        "slowEndTime": 74779
+    },
+    {
+        "text": "You can go hiking and camping.",
+        "startTime": 50122,
+        "endTime": 52574,
+        "slowStartTime": 75333,
+        "slowEndTime": 79086
+    },
+    {
+        "text": "The city is not beautiful.",
+        "startTime": 53570,
+        "endTime": 55739,
+        "slowStartTime": 80505,
+        "slowEndTime": 83834
+    },
+    {
+        "text": "It's noisy and dirty.",
+        "startTime": 56347,
+        "endTime": 59098,
+        "slowStartTime": 84670,
+        "slowEndTime": 88872
+    },
+    {
+        "text": "I disagree.",
+        "startTime": 59365,
+        "endTime": 60827,
+        "slowStartTime": 89198,
+        "slowEndTime": 91465
+    },
+    {
+        "text": "I think all the different buildings are beautiful.",
+        "startTime": 61207,
+        "endTime": 64867,
+        "slowStartTime": 91960,
+        "slowEndTime": 97525
+    },
+    {
+        "text": "And I like to watch all the different people.",
+        "startTime": 65447,
+        "endTime": 68639,
+        "slowStartTime": 98321,
+        "slowEndTime": 103183
+    }
+]

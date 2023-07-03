@@ -1,0 +1,107 @@
+[
+    {
+        "text": "A man had two daughters.",
+        "startTime": 3330,
+        "endTime": 4800,
+        "slowStartTime": 5060,
+        "slowEndTime": 7270
+    },
+    {
+        "text": "One was married to a farmer, and the other to a brick maker.",
+        "startTime": 5470,
+        "endTime": 8870,
+        "slowStartTime": 8320,
+        "slowEndTime": 13470
+    },
+    {
+        "text": "The man wanted to give one wish to each daughter.",
+        "startTime": 9740,
+        "endTime": 12310,
+        "slowStartTime": 14680,
+        "slowEndTime": 18480
+    },
+    {
+        "text": "He went to the daughter who had married the farmer,...",
+        "startTime": 12910,
+        "endTime": 15080,
+        "slowStartTime": 19470,
+        "slowEndTime": 22730
+    },
+    {
+        "text": "...and asked how she was and if there was anything she needed.",
+        "startTime": 15540,
+        "endTime": 18380,
+        "slowStartTime": 23460,
+        "slowEndTime": 27560
+    },
+    {
+        "text": "The daughter said, \"Everything is fine father.\"",
+        "startTime": 19050,
+        "endTime": 22080,
+        "slowStartTime": 28720,
+        "slowEndTime": 33130
+    },
+    {
+        "text": "\"I only have one wish. I wish that it will rain so that my husband's plants will grow.\"",
+        "startTime": 22720,
+        "endTime": 28390,
+        "slowStartTime": 34220,
+        "slowEndTime": 42630
+    },
+    {
+        "text": "The man then went to visit the daughter who had married the brick maker.",
+        "startTime": 29190,
+        "endTime": 32560,
+        "slowStartTime": 43900,
+        "slowEndTime": 48850
+    },
+    {
+        "text": "He also asked her how she was, and if there was anything she needed.",
+        "startTime": 33290,
+        "endTime": 37070,
+        "slowStartTime": 50000,
+        "slowEndTime": 55580
+    },
+    {
+        "text": "She replied, \"I have everything I need...",
+        "startTime": 37900,
+        "endTime": 40770,
+        "slowStartTime": 56970,
+        "slowEndTime": 61180
+    },
+    {
+        "text": "...\"except that I want many fine days so that the sun will dry the bricks my husband has made.\"",
+        "startTime": 41100,
+        "endTime": 46540,
+        "slowStartTime": 61740,
+        "slowEndTime": 69720
+    },
+    {
+        "text": "The father then told her,...",
+        "startTime": 47410,
+        "endTime": 48710,
+        "slowStartTime": 71245,
+        "slowEndTime": 73200
+    },
+    {
+        "text": "\"I don't know what to wish for the two of you.\"",
+        "startTime": 49340,
+        "endTime": 51880,
+        "slowStartTime": 74100,
+        "slowEndTime": 77620
+    },
+    {
+        "text": "\"Your sister wants rain, and you want dry, sunny weather.\"",
+        "startTime": 52350,
+        "endTime": 56020,
+        "slowStartTime": 78650,
+        "slowEndTime": 84110
+    },
+    {
+        "text": "\"Whatever I wish for, it will not please one of you.\"",
+        "startTime": 56790,
+        "endTime": 59920,
+        "slowStartTime": 85220,
+        "slowEndTime": 89840
+    }
+]

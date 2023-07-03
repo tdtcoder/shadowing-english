@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Here are some phrases you can use when giving or sharing opinions.",
+        "startTime": 270,
+        "endTime": 3873,
+        "slowStartTime": 555,
+        "slowEndTime": 6035
+    },
+    {
+        "text": "I think...",
+        "startTime": 5974,
+        "endTime": 6818,
+        "slowStartTime": 9111,
+        "slowEndTime": 10452
+    },
+    {
+        "text": "In my opinion,...",
+        "startTime": 8867,
+        "endTime": 9895,
+        "slowStartTime": 13450,
+        "slowEndTime": 15067
+    },
+    {
+        "text": "It seems to me that...",
+        "startTime": 11927,
+        "endTime": 13315,
+        "slowStartTime": 18041,
+        "slowEndTime": 20198
+    },
+    {
+        "text": "If you ask me,...",
+        "startTime": 15301,
+        "endTime": 16426,
+        "slowStartTime": 23102,
+        "slowEndTime": 24864
+    },
+    {
+        "text": "To be honest,...",
+        "startTime": 18313,
+        "endTime": 19273,
+        "slowStartTime": 27619,
+        "slowEndTime": 29135
+    },
+    {
+        "text": "Personally,...",
+        "startTime": 21189,
+        "endTime": 22158,
+        "slowStartTime": 31934,
+        "slowEndTime": 33462
+    },
+    {
+        "text": "I'm pretty sure that...",
+        "startTime": 23933,
+        "endTime": 25399,
+        "slowStartTime": 36050,
+        "slowEndTime": 38324
+    },
+    {
+        "text": "I believe that...",
+        "startTime": 27299,
+        "endTime": 28486,
+        "slowStartTime": 41098,
+        "slowEndTime": 42954
+    },
+    {
+        "text": "I feel like...",
+        "startTime": 30353,
+        "endTime": 31370,
+        "slowStartTime": 45680,
+        "slowEndTime": 47280
+    },
+    {
+        "text": "What I meant is...",
+        "startTime": 33269,
+        "endTime": 34407,
+        "slowStartTime": 50053,
+        "slowEndTime": 51836
+    }
+]

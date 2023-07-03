@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Hey guys, summer's here and it's my favorite time of year.",
+        "startTime": 293,
+        "endTime": 3656,
+        "slowStartTime": 589,
+        "slowEndTime": 5709
+    },
+    {
+        "text": "I love to entertain in the summer 'cause the days are hot and the nights are warm,...",
+        "startTime": 3876,
+        "endTime": 7532,
+        "slowStartTime": 5964,
+        "slowEndTime": 11523
+    },
+    {
+        "text": "...and you can have people hanging out at your house super late into the night.",
+        "startTime": 7763,
+        "endTime": 10672,
+        "slowStartTime": 11795,
+        "slowEndTime": 16233
+    },
+    {
+        "text": "I've put together a really simple menu that's great for entertaining.",
+        "startTime": 11001,
+        "endTime": 14609,
+        "slowStartTime": 16652,
+        "slowEndTime": 22138
+    },
+    {
+        "text": "You're using your grill, lots of fresh herbs,...",
+        "startTime": 14959,
+        "endTime": 17623,
+        "slowStartTime": 22589,
+        "slowEndTime": 26660
+    },
+    {
+        "text": "...and it's gonna be your guests' best meal of the summer.",
+        "startTime": 17727,
+        "endTime": 20712,
+        "slowStartTime": 26741,
+        "slowEndTime": 31293
+    },
+    {
+        "text": "We're gonna kick things off with my Paloma cocktail,...",
+        "startTime": 21281,
+        "endTime": 24304,
+        "slowStartTime": 32072,
+        "slowEndTime": 36681
+    },
+    {
+        "text": "...a refreshing drink that comes together in minutes.",
+        "startTime": 24580,
+        "endTime": 27317,
+        "slowStartTime": 37020,
+        "slowEndTime": 41201
+    },
+    {
+        "text": "Then, I'll show you how to make my delicious herb-marinated feta,...",
+        "startTime": 27727,
+        "endTime": 31745,
+        "slowStartTime": 41741,
+        "slowEndTime": 47842
+    },
+    {
+        "text": "...the perfect first course to set the summer mood.",
+        "startTime": 32035,
+        "endTime": 34601,
+        "slowStartTime": 48202,
+        "slowEndTime": 52127
+    },
+    {
+        "text": "Then, for our main course, it's grilled skirt steak with a chimichurri sauce,...",
+        "startTime": 35149,
+        "endTime": 39527,
+        "slowStartTime": 52873,
+        "slowEndTime": 59515
+    },
+    {
+        "text": "...a classic summertime flavor.",
+        "startTime": 39719,
+        "endTime": 41575,
+        "slowStartTime": 59729,
+        "slowEndTime": 62588
+    },
+    {
+        "text": "And for our side dish, a summery watermelon salad with cucumber, lime and basil.",
+        "startTime": 41991,
+        "endTime": 47403,
+        "slowStartTime": 63136,
+        "slowEndTime": 71329
+    },
+    {
+        "text": "And for dessert, it's plum clafoutis with amaretto whipped cream and toasted almonds.",
+        "startTime": 47673,
+        "endTime": 52885,
+        "slowStartTime": 71659,
+        "slowEndTime": 79553
+    }
+]

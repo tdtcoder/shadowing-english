@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Let's learn the days of the week.",
+        "startTime": 70,
+        "endTime": 2661,
+        "slowStartTime": 255,
+        "slowEndTime": 4216
+    },
+    {
+        "text": "Monday to Friday, I work.",
+        "startTime": 9184,
+        "endTime": 11247,
+        "slowStartTime": 13926,
+        "slowEndTime": 17096
+    },
+    {
+        "text": "On Monday after work, I play soccer.",
+        "startTime": 16011,
+        "endTime": 19195,
+        "slowStartTime": 24166,
+        "slowEndTime": 29017
+    },
+    {
+        "text": "Tuesday, I meet friends for lunch.",
+        "startTime": 23224,
+        "endTime": 26068,
+        "slowStartTime": 34986,
+        "slowEndTime": 39327
+    },
+    {
+        "text": "Wednesday, I have my yoga class.",
+        "startTime": 31628,
+        "endTime": 34584,
+        "slowStartTime": 47592,
+        "slowEndTime": 52101
+    },
+    {
+        "text": "Thursday night, I stay home and watch TV.",
+        "startTime": 41434,
+        "endTime": 44745,
+        "slowStartTime": 62301,
+        "slowEndTime": 67342
+    },
+    {
+        "text": "Friday, I go out to dinner.",
+        "startTime": 53785,
+        "endTime": 55751,
+        "slowStartTime": 80827,
+        "slowEndTime": 83851
+    },
+    {
+        "text": "TGIF!",
+        "startTime": 59863,
+        "endTime": 61504,
+        "slowStartTime": 89945,
+        "slowEndTime": 92481
+    },
+    {
+        "text": "Thank God it's Friday!",
+        "startTime": 61777,
+        "endTime": 63861,
+        "slowStartTime": 92815,
+        "slowEndTime": 96017
+    },
+    {
+        "text": "On the weekend, I like to go to cafes.",
+        "startTime": 68803,
+        "endTime": 71584,
+        "slowStartTime": 103355,
+        "slowEndTime": 107601
+    },
+    {
+        "text": "Saturday, I go for a run.",
+        "startTime": 76231,
+        "endTime": 78367,
+        "slowStartTime": 114497,
+        "slowEndTime": 117775
+    },
+    {
+        "text": "Sunday, I visit my family.",
+        "startTime": 83053,
+        "endTime": 85779,
+        "slowStartTime": 124730,
+        "slowEndTime": 128893
+    },
+    {
+        "text": "This is my week.",
+        "startTime": 89960,
+        "endTime": 91534,
+        "slowStartTime": 135090,
+        "slowEndTime": 137526
+    }
+]

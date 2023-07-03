@@ -1,0 +1,65 @@
+[
+    {
+        "text": "﻿The London Eye is located on the banks of the Thames,...",
+        "startTime": 540,
+        "endTime": 3205,
+        "slowStartTime": 960,
+        "slowEndTime": 5033
+    },
+    {
+        "text": "...just across from Big Ben and the Houses of Parliament.",
+        "startTime": 3452,
+        "endTime": 5911,
+        "slowStartTime": 5328,
+        "slowEndTime": 9091
+    },
+    {
+        "text": "Completed in 2000, this huge Ferris wheel was built on its side...",
+        "startTime": 8162,
+        "endTime": 12560,
+        "slowStartTime": 12393,
+        "slowEndTime": 19065
+    },
+    {
+        "text": "...and painstakingly lifted into place.",
+        "startTime": 13120,
+        "endTime": 15163,
+        "slowStartTime": 19830,
+        "slowEndTime": 22969
+    },
+    {
+        "text": "At more than 400 feet high, it's now the fourth tallest structure in London.",
+        "startTime": 15812,
+        "endTime": 20275,
+        "slowStartTime": 23868,
+        "slowEndTime": 30638
+    },
+    {
+        "text": "It takes 30 minutes to complete one revolution.",
+        "startTime": 21545,
+        "endTime": 24041,
+        "slowStartTime": 32467,
+        "slowEndTime": 36286
+    },
+    {
+        "text": "Each of the 32 gondolas holds around 25 passengers in air-conditioned comfort.",
+        "startTime": 24768,
+        "endTime": 29946,
+        "slowStartTime": 37302,
+        "slowEndTime": 45144
+    },
+    {
+        "text": "From the top, you'll see sweeping views across the city and countryside...",
+        "startTime": 30683,
+        "endTime": 34469,
+        "slowStartTime": 46174,
+        "slowEndTime": 51929
+    },
+    {
+        "text": "...up to 25 miles away.",
+        "startTime": 34730,
+        "endTime": 36289,
+        "slowStartTime": 52245,
+        "slowEndTime": 54659
+    }
+]

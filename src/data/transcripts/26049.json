@@ -1,0 +1,37 @@
+[
+    {
+        "text": "﻿Beat Around the Bush",
+        "startTime": 8271,
+        "endTime": 9658,
+        "slowStartTime": 12556,
+        "slowEndTime": 14712
+    },
+    {
+        "text": "It means to avoid talking about what is important.",
+        "startTime": 10869,
+        "endTime": 14473,
+        "slowStartTime": 16454,
+        "slowEndTime": 21934
+    },
+    {
+        "text": "Don't beat around the bush and answer my question.",
+        "startTime": 16030,
+        "endTime": 18659,
+        "slowStartTime": 24195,
+        "slowEndTime": 28213
+    },
+    {
+        "text": "Stop beating around the bush and get to the point.",
+        "startTime": 20043,
+        "endTime": 22921,
+        "slowStartTime": 30214,
+        "slowEndTime": 34606
+    },
+    {
+        "text": "Quit beating around the bush and tell me what you think.",
+        "startTime": 24420,
+        "endTime": 27173,
+        "slowStartTime": 36780,
+        "slowEndTime": 40984
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "text": "First and foremost, an email must be understandable.",
+        "startTime": 941,
+        "endTime": 4269,
+        "slowStartTime": 1562,
+        "slowEndTime": 6628
+    },
+    {
+        "text": "Therefore, the simpler, the better.",
+        "startTime": 4589,
+        "endTime": 6582,
+        "slowStartTime": 7034,
+        "slowEndTime": 10098
+    },
+    {
+        "text": "To allow the recipient to organize his inbox,...",
+        "startTime": 7267,
+        "endTime": 10269,
+        "slowStartTime": 11051,
+        "slowEndTime": 15628
+    },
+    {
+        "text": "...the \"Subject\" box must say what the message is about.",
+        "startTime": 10610,
+        "endTime": 13732,
+        "slowStartTime": 16065,
+        "slowEndTime": 20823
+    },
+    {
+        "text": "Only attach necessary files.",
+        "startTime": 14402,
+        "endTime": 16455,
+        "slowStartTime": 21753,
+        "slowEndTime": 24908
+    },
+    {
+        "text": "Keep your sentences and paragraphs short; no more than five lines.",
+        "startTime": 17124,
+        "endTime": 21427,
+        "slowStartTime": 25836,
+        "slowEndTime": 32365
+    },
+    {
+        "text": "Don't try to impress with big words, but use easy vocabulary and structures.",
+        "startTime": 22005,
+        "endTime": 27175,
+        "slowStartTime": 33158,
+        "slowEndTime": 40988
+    },
+    {
+        "text": "Don't SHOUT by using ALL CAPS (capital letters).",
+        "startTime": 27652,
+        "endTime": 31272,
+        "slowStartTime": 41628,
+        "slowEndTime": 47133
+    },
+    {
+        "text": "To highlight a word, use asterisks.",
+        "startTime": 31887,
+        "endTime": 34387,
+        "slowStartTime": 47981,
+        "slowEndTime": 51805
+    },
+    {
+        "text": "Abbreviations like btw (by the way), asap (as soon as possible)...",
+        "startTime": 34955,
+        "endTime": 40937,
+        "slowStartTime": 52583,
+        "slowEndTime": 61630
+    },
+    {
+        "text": "...and brgds (best regards) are generally understood.",
+        "startTime": 41360,
+        "endTime": 46095,
+        "slowStartTime": 62190,
+        "slowEndTime": 69367
+    },
+    {
+        "text": "Take a look at this sample.",
+        "startTime": 46585,
+        "endTime": 48031,
+        "slowStartTime": 70028,
+        "slowEndTime": 72271
+    },
+    {
+        "text": "Dear John Smith,...",
+        "startTime": 48554,
+        "endTime": 49487,
+        "slowStartTime": 72981,
+        "slowEndTime": 74456
+    },
+    {
+        "text": "...The reason I am writing is...",
+        "startTime": 50099,
+        "endTime": 51889,
+        "slowStartTime": 75298,
+        "slowEndTime": 78058
+    },
+    {
+        "text": "...your name was given to me by...",
+        "startTime": 52535,
+        "endTime": 54448,
+        "slowStartTime": 78952,
+        "slowEndTime": 81897
+    },
+    {
+        "text": "...this is just to let you know that...",
+        "startTime": 55224,
+        "endTime": 57067,
+        "slowStartTime": 82986,
+        "slowEndTime": 85826
+    },
+    {
+        "text": "...I look forward to hearing from you.",
+        "startTime": 57734,
+        "endTime": 59501,
+        "slowStartTime": 86751,
+        "slowEndTime": 89477
+    },
+    {
+        "text": "If you need any further information, please do not hesitate to contact us.",
+        "startTime": 59881,
+        "endTime": 64369,
+        "slowStartTime": 89971,
+        "slowEndTime": 96778
+    },
+    {
+        "text": "Best regards,...",
+        "startTime": 64885,
+        "endTime": 65931,
+        "slowStartTime": 97478,
+        "slowEndTime": 99121
+    },
+    {
+        "text": "...Yours sincerely or Truly yours,",
+        "startTime": 66356,
+        "endTime": 68933,
+        "slowStartTime": 99684,
+        "slowEndTime": 103625
+    }
+]

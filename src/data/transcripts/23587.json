@@ -1,0 +1,107 @@
+[
+    {
+        "text": "My name is Hayley.",
+        "startTime": 5850,
+        "endTime": 6745,
+        "slowStartTime": 8925,
+        "slowEndTime": 10343
+    },
+    {
+        "text": "I'm 18 years old and from Calgary in Alberta, Canada.",
+        "startTime": 6916,
+        "endTime": 10109,
+        "slowStartTime": 10524,
+        "slowEndTime": 15389
+    },
+    {
+        "text": "When I was younger, I watched a mind-blowing environmental documentary,...",
+        "startTime": 10269,
+        "endTime": 13957,
+        "slowStartTime": 15553,
+        "slowEndTime": 21161
+    },
+    {
+        "text": "...and since then, I've felt passionate about nature and the environment.",
+        "startTime": 14081,
+        "endTime": 17928,
+        "slowStartTime": 21271,
+        "slowEndTime": 27117
+    },
+    {
+        "text": "Alberta's main industry is oil.",
+        "startTime": 19182,
+        "endTime": 21204,
+        "slowStartTime": 28923,
+        "slowEndTime": 32031
+    },
+    {
+        "text": "It has large natural deposits of oil mixed with sand and when the oil is extracted,...",
+        "startTime": 21355,
+        "endTime": 26028,
+        "slowStartTime": 32183,
+        "slowEndTime": 39267
+    },
+    {
+        "text": "...a huge volume of toxic waste known as tailings is produced.",
+        "startTime": 26153,
+        "endTime": 29858,
+        "slowStartTime": 39380,
+        "slowEndTime": 45012
+    },
+    {
+        "text": "I wanted to help by finding a way...",
+        "startTime": 30565,
+        "endTime": 32700,
+        "slowStartTime": 45997,
+        "slowEndTime": 49275
+    },
+    {
+        "text": "...to break down the most toxic pollution in these ponds: naphthenic acids.",
+        "startTime": 32809,
+        "endTime": 37072,
+        "slowStartTime": 49364,
+        "slowEndTime": 55833
+    },
+    {
+        "text": "I built a hundred bioreactors and processed thousands of samples by hand.",
+        "startTime": 37601,
+        "endTime": 41619,
+        "slowStartTime": 56552,
+        "slowEndTime": 62654
+    },
+    {
+        "text": "And then the results emerged.",
+        "startTime": 42297,
+        "endTime": 44097,
+        "slowStartTime": 63596,
+        "slowEndTime": 66370
+    },
+    {
+        "text": "My sand bioreactors reduced the concentrations of naphthenic acids by 92% in just a week,...",
+        "startTime": 45083,
+        "endTime": 51241,
+        "slowStartTime": 67774,
+        "slowEndTime": 77086
+    },
+    {
+        "text": "...which meant the bacteria were breaking down the acids 14 times faster than normal,...",
+        "startTime": 51402,
+        "endTime": 56188,
+        "slowStartTime": 77253,
+        "slowEndTime": 84507
+    },
+    {
+        "text": "...to the point where I could reduce the detoxification period of tailings ponds...",
+        "startTime": 56321,
+        "endTime": 60197,
+        "slowStartTime": 84632,
+        "slowEndTime": 90521
+    },
+    {
+        "text": "...from centuries to decades.",
+        "startTime": 60323,
+        "endTime": 62265,
+        "slowStartTime": 90635,
+        "slowEndTime": 93622
+    }
+]

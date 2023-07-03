@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Sir, I must advise against this.",
+        "startTime": 7190,
+        "endTime": 9297,
+        "slowStartTime": 10935,
+        "slowEndTime": 14171
+    },
+    {
+        "text": "The odds of survival are 608:1.",
+        "startTime": 9386,
+        "endTime": 11635,
+        "slowStartTime": 14229,
+        "slowEndTime": 17677
+    },
+    {
+        "text": "No choice, 3PO.",
+        "startTime": 11732,
+        "endTime": 12832,
+        "slowStartTime": 17748,
+        "slowEndTime": 19473
+    },
+    {
+        "text": "My sister's in trouble.",
+        "startTime": 12935,
+        "endTime": 13795,
+        "slowStartTime": 19553,
+        "slowEndTime": 20918
+    },
+    {
+        "text": "R2 gets it.",
+        "startTime": 14921,
+        "endTime": 15601,
+        "slowStartTime": 22531,
+        "slowEndTime": 23626
+    },
+    {
+        "text": "Everything okay, bud?",
+        "startTime": 26487,
+        "endTime": 27660,
+        "slowStartTime": 39880,
+        "slowEndTime": 41715
+    },
+    {
+        "text": "I'm not sure yet.",
+        "startTime": 27857,
+        "endTime": 28680,
+        "slowStartTime": 41936,
+        "slowEndTime": 43245
+    },
+    {
+        "text": "Hurry, you're our only hope.",
+        "startTime": 29000,
+        "endTime": 30998,
+        "slowStartTime": 43650,
+        "slowEndTime": 46722
+    },
+    {
+        "text": "Lisa!",
+        "startTime": 33398,
+        "endTime": 34145,
+        "slowStartTime": 50247,
+        "slowEndTime": 51442
+    },
+    {
+        "text": "What took you so long?",
+        "startTime": 34697,
+        "endTime": 35815,
+        "slowStartTime": 52195,
+        "slowEndTime": 53948
+    },
+    {
+        "text": "Well this just got interesting.",
+        "startTime": 39789,
+        "endTime": 41355,
+        "slowStartTime": 59834,
+        "slowEndTime": 62257
+    },
+    {
+        "text": "Follow my lead.",
+        "startTime": 41709,
+        "endTime": 42506,
+        "slowStartTime": 62714,
+        "slowEndTime": 63984
+    },
+    {
+        "text": "Never underestimate the power of imagination.",
+        "startTime": 53125,
+        "endTime": 56205,
+        "slowStartTime": 79838,
+        "slowEndTime": 84532
+    }
+]

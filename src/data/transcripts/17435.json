@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Doe",
+        "startTime": 2230,
+        "endTime": 2829,
+        "slowStartTime": 3495,
+        "slowEndTime": 4469
+    },
+    {
+        "text": "A doe is a deer.",
+        "startTime": 3631,
+        "endTime": 5067,
+        "slowStartTime": 5597,
+        "slowEndTime": 7825
+    },
+    {
+        "text": "A doe is a female deer.",
+        "startTime": 6481,
+        "endTime": 8427,
+        "slowStartTime": 9871,
+        "slowEndTime": 12865
+    },
+    {
+        "text": "Foe",
+        "startTime": 9840,
+        "endTime": 10403,
+        "slowStartTime": 14910,
+        "slowEndTime": 15829
+    },
+    {
+        "text": "An enemy is a foe.",
+        "startTime": 11251,
+        "endTime": 13051,
+        "slowStartTime": 17027,
+        "slowEndTime": 19801
+    },
+    {
+        "text": "An enemy is a big foe.",
+        "startTime": 14304,
+        "endTime": 16716,
+        "slowStartTime": 21606,
+        "slowEndTime": 25299
+    },
+    {
+        "text": "Hoe",
+        "startTime": 17932,
+        "endTime": 18471,
+        "slowStartTime": 27048,
+        "slowEndTime": 27932
+    },
+    {
+        "text": "I use a hoe.",
+        "startTime": 19329,
+        "endTime": 20765,
+        "slowStartTime": 29144,
+        "slowEndTime": 31372
+    },
+    {
+        "text": "I use a hoe in the garden.",
+        "startTime": 22058,
+        "endTime": 24238,
+        "slowStartTime": 33237,
+        "slowEndTime": 36582
+    },
+    {
+        "text": "Toe",
+        "startTime": 25651,
+        "endTime": 26135,
+        "slowStartTime": 38626,
+        "slowEndTime": 39427
+    },
+    {
+        "text": "I hurt my toe.",
+        "startTime": 26992,
+        "endTime": 28419,
+        "slowStartTime": 40638,
+        "slowEndTime": 42854
+    },
+    {
+        "text": "I hurt my right toe.",
+        "startTime": 29779,
+        "endTime": 31489,
+        "slowStartTime": 44819,
+        "slowEndTime": 47458
+    },
+    {
+        "text": "My bed, my bed, here is my bed.",
+        "startTime": 37836,
+        "endTime": 41021,
+        "slowStartTime": 56904,
+        "slowEndTime": 61756
+    },
+    {
+        "text": "My desk, my desk, here is my desk.",
+        "startTime": 41562,
+        "endTime": 44833,
+        "slowStartTime": 62493,
+        "slowEndTime": 67474
+    },
+    {
+        "text": "My fish, my fish, here is my fish.",
+        "startTime": 45303,
+        "endTime": 48571,
+        "slowStartTime": 68104,
+        "slowEndTime": 73081
+    },
+    {
+        "text": "Here, here, here is my bed, desk, fish!",
+        "startTime": 49114,
+        "endTime": 52311,
+        "slowStartTime": 73821,
+        "slowEndTime": 78692
+    },
+    {
+        "text": "My books, my books, here are my books.",
+        "startTime": 52803,
+        "endTime": 56087,
+        "slowStartTime": 79355,
+        "slowEndTime": 84355
+    },
+    {
+        "text": "My toys, my toys, here are my toys.",
+        "startTime": 56566,
+        "endTime": 59961,
+        "slowStartTime": 84999,
+        "slowEndTime": 90167
+    },
+    {
+        "text": "My clothes, my clothes, here are my clothes.",
+        "startTime": 60327,
+        "endTime": 63703,
+        "slowStartTime": 90641,
+        "slowEndTime": 95779
+    },
+    {
+        "text": "Here, here, here are my books, toys, clothes!",
+        "startTime": 64096,
+        "endTime": 67477,
+        "slowStartTime": 96294,
+        "slowEndTime": 101440
+    }
+]

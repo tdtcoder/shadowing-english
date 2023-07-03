@@ -1,0 +1,86 @@
+[
+    {
+        "text": "So, who's your favorite movie star?",
+        "startTime": 3517,
+        "endTime": 5581,
+        "slowStartTime": 5426,
+        "slowEndTime": 8597
+    },
+    {
+        "text": "I used to love Arnold Schwarzenegger,...",
+        "startTime": 5841,
+        "endTime": 7615,
+        "slowStartTime": 8911,
+        "slowEndTime": 11647
+    },
+    {
+        "text": "...but now that he's a politician, he's not making movies anymore.",
+        "startTime": 7791,
+        "endTime": 11240,
+        "slowStartTime": 11836,
+        "slowEndTime": 17085
+    },
+    {
+        "text": "Yeah, I always loved his movies, too.",
+        "startTime": 11457,
+        "endTime": 13927,
+        "slowStartTime": 17335,
+        "slowEndTime": 21116
+    },
+    {
+        "text": "I guess now I really like watching Leonardo DiCaprio a lot.",
+        "startTime": 14350,
+        "endTime": 17644,
+        "slowStartTime": 21675,
+        "slowEndTime": 26691
+    },
+    {
+        "text": "Hmm. Yes, he's definitely a really good actor,...",
+        "startTime": 17881,
+        "endTime": 21375,
+        "slowStartTime": 26972,
+        "slowEndTime": 32287
+    },
+    {
+        "text": "...but I think I prefer Matt Damon to him.",
+        "startTime": 21650,
+        "endTime": 23886,
+        "slowStartTime": 32625,
+        "slowEndTime": 36054
+    },
+    {
+        "text": "Yes, now that you mention it, Matt Damon is also one of my favorites.",
+        "startTime": 24395,
+        "endTime": 28104,
+        "slowStartTime": 36742,
+        "slowEndTime": 42381
+    },
+    {
+        "text": "I think his first big movie \"Good Will Hunting\" is one of my all-time favorites.",
+        "startTime": 28331,
+        "endTime": 33247,
+        "slowStartTime": 42646,
+        "slowEndTime": 50096
+    },
+    {
+        "text": "Me too! I guess I like both him and Leonardo DiCaprio best!",
+        "startTime": 33471,
+        "endTime": 37323,
+        "slowStartTime": 50357,
+        "slowEndTime": 56210
+    },
+    {
+        "text": "I think we have similar tastes in actors.",
+        "startTime": 37615,
+        "endTime": 39984,
+        "slowStartTime": 56573,
+        "slowEndTime": 60201
+    },
+    {
+        "text": "Yes, we do!",
+        "startTime": 40157,
+        "endTime": 40901,
+        "slowStartTime": 60386,
+        "slowEndTime": 61577
+    }
+]

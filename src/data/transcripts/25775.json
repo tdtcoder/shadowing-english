@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Your legs had the best intentions this morning.",
+        "startTime": 955,
+        "endTime": 3282,
+        "slowStartTime": 1582,
+        "slowEndTime": 5148
+    },
+    {
+        "text": "They carried you into this room.",
+        "startTime": 4765,
+        "endTime": 6335,
+        "slowStartTime": 7298,
+        "slowEndTime": 9727
+    },
+    {
+        "text": "They set you up on this mat.",
+        "startTime": 7089,
+        "endTime": 8677,
+        "slowStartTime": 10783,
+        "slowEndTime": 13240
+    },
+    {
+        "text": "And now, they would like you to know they've made a horrible, horrible mistake.",
+        "startTime": 9714,
+        "endTime": 16773,
+        "slowStartTime": 14721,
+        "slowEndTime": 25384
+    },
+    {
+        "text": "Too late, legs.",
+        "startTime": 18557,
+        "endTime": 19707,
+        "slowStartTime": 27985,
+        "slowEndTime": 29786
+    },
+    {
+        "text": "We do yoga now.",
+        "startTime": 20499,
+        "endTime": 21738,
+        "slowStartTime": 30898,
+        "slowEndTime": 32832
+    }
+]

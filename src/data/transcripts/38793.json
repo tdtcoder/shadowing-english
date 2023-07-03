@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Hello, can I help you?",
+        "startTime": 139,
+        "endTime": 1389,
+        "slowStartTime": 358,
+        "slowEndTime": 2309
+    },
+    {
+        "text": "Hi, I'm looking for a coat.",
+        "startTime": 2335,
+        "endTime": 4513,
+        "slowStartTime": 3652,
+        "slowEndTime": 6995
+    },
+    {
+        "text": "What kind are you looking for?",
+        "startTime": 5875,
+        "endTime": 7121,
+        "slowStartTime": 8963,
+        "slowEndTime": 10907
+    },
+    {
+        "text": "Something nice and warm.",
+        "startTime": 7953,
+        "endTime": 11184,
+        "slowStartTime": 12079,
+        "slowEndTime": 17001
+    },
+    {
+        "text": "How about this black coat?",
+        "startTime": 12222,
+        "endTime": 13467,
+        "slowStartTime": 18483,
+        "slowEndTime": 20425
+    },
+    {
+        "text": "It's very popular right now.",
+        "startTime": 13999,
+        "endTime": 15368,
+        "slowStartTime": 21149,
+        "slowEndTime": 23277
+    },
+    {
+        "text": "How much is it?",
+        "startTime": 16541,
+        "endTime": 18196,
+        "slowStartTime": 24961,
+        "slowEndTime": 27519
+    },
+    {
+        "text": "It's $300.",
+        "startTime": 18877,
+        "endTime": 20249,
+        "slowStartTime": 28465,
+        "slowEndTime": 30599
+    },
+    {
+        "text": "$300? That's too expensive for me.",
+        "startTime": 20726,
+        "endTime": 24231,
+        "slowStartTime": 31239,
+        "slowEndTime": 36572
+    },
+    {
+        "text": "Do you have anything cheaper?",
+        "startTime": 24560,
+        "endTime": 26099,
+        "slowStartTime": 36990,
+        "slowEndTime": 39374
+    },
+    {
+        "text": "Here's a brown coat.",
+        "startTime": 27551,
+        "endTime": 28974,
+        "slowStartTime": 41476,
+        "slowEndTime": 43686
+    },
+    {
+        "text": "This one's $150.",
+        "startTime": 29301,
+        "endTime": 31045,
+        "slowStartTime": 44101,
+        "slowEndTime": 46793
+    },
+    {
+        "text": "I love it!",
+        "startTime": 31469,
+        "endTime": 32535,
+        "slowStartTime": 47354,
+        "slowEndTime": 49028
+    },
+    {
+        "text": "Do you have it in a bigger size?",
+        "startTime": 33381,
+        "endTime": 35373,
+        "slowStartTime": 50221,
+        "slowEndTime": 53284
+    },
+    {
+        "text": "Sure. Here it is.",
+        "startTime": 35881,
+        "endTime": 37397,
+        "slowStartTime": 53971,
+        "slowEndTime": 56320
+    },
+    {
+        "text": "I also need black shoes.",
+        "startTime": 38127,
+        "endTime": 40927,
+        "slowStartTime": 57340,
+        "slowEndTime": 61616
+    },
+    {
+        "text": "Do you have any?",
+        "startTime": 41053,
+        "endTime": 42236,
+        "slowStartTime": 61730,
+        "slowEndTime": 63579
+    },
+    {
+        "text": "We have ones on sale for $45.",
+        "startTime": 43309,
+        "endTime": 46356,
+        "slowStartTime": 65114,
+        "slowEndTime": 69759
+    },
+    {
+        "text": "Awesome! I'd like them in size 10, please.",
+        "startTime": 46782,
+        "endTime": 50107,
+        "slowStartTime": 70323,
+        "slowEndTime": 75385
+    },
+    {
+        "text": "OK. Would there be anything else?",
+        "startTime": 51057,
+        "endTime": 53918,
+        "slowStartTime": 76736,
+        "slowEndTime": 81102
+    },
+    {
+        "text": "No, that would be all. Thanks.",
+        "startTime": 54911,
+        "endTime": 57153,
+        "slowStartTime": 82517,
+        "slowEndTime": 85954
+    },
+    {
+        "text": "The total amount is $195.",
+        "startTime": 58123,
+        "endTime": 61045,
+        "slowStartTime": 87334,
+        "slowEndTime": 91792
+    },
+    {
+        "text": "Are you paying in cash or credit card?",
+        "startTime": 61555,
+        "endTime": 63391,
+        "slowStartTime": 92483,
+        "slowEndTime": 95312
+    },
+    {
+        "text": "Credit card. Here it is.",
+        "startTime": 63728,
+        "endTime": 66402,
+        "slowStartTime": 95742,
+        "slowEndTime": 99828
+    },
+    {
+        "text": "Please sign here.",
+        "startTime": 67122,
+        "endTime": 68311,
+        "slowStartTime": 100833,
+        "slowEndTime": 102691
+    },
+    {
+        "text": "Thank you so much.",
+        "startTime": 69016,
+        "endTime": 70972,
+        "slowStartTime": 103674,
+        "slowEndTime": 106683
+    },
+    {
+        "text": "No problem. Have a great day!",
+        "startTime": 71843,
+        "endTime": 73464,
+        "slowStartTime": 107914,
+        "slowEndTime": 110421
+    }
+]

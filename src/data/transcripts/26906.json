@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Oh, love me do.",
+        "startTime": 1430,
+        "endTime": 3393,
+        "slowStartTime": 2295,
+        "slowEndTime": 5315
+    },
+    {
+        "text": "Love, love me do.",
+        "startTime": 6107,
+        "endTime": 8261,
+        "slowStartTime": 9310,
+        "slowEndTime": 12616
+    },
+    {
+        "text": "You know I love you.",
+        "startTime": 9407,
+        "endTime": 11855,
+        "slowStartTime": 14260,
+        "slowEndTime": 18008
+    },
+    {
+        "text": "I'll always be true.",
+        "startTime": 13068,
+        "endTime": 15744,
+        "slowStartTime": 19752,
+        "slowEndTime": 23841
+    },
+    {
+        "text": "So please, love me do.",
+        "startTime": 16628,
+        "endTime": 23814,
+        "slowStartTime": 25092,
+        "slowEndTime": 35946
+    },
+    {
+        "text": "Oh, love me do.",
+        "startTime": 25001,
+        "endTime": 27729,
+        "slowStartTime": 37651,
+        "slowEndTime": 41818
+    },
+    {
+        "text": "Someone to love,...",
+        "startTime": 29946,
+        "endTime": 32881,
+        "slowStartTime": 45069,
+        "slowEndTime": 49546
+    },
+    {
+        "text": "...somebody new.",
+        "startTime": 33400,
+        "endTime": 35793,
+        "slowStartTime": 50250,
+        "slowEndTime": 53915
+    },
+    {
+        "text": "Someone to love,...",
+        "startTime": 37009,
+        "endTime": 40405,
+        "slowStartTime": 55663,
+        "slowEndTime": 60833
+    },
+    {
+        "text": "...someone like you.",
+        "startTime": 40551,
+        "endTime": 42828,
+        "slowStartTime": 60977,
+        "slowEndTime": 64467
+    },
+    {
+        "text": "Love, love me do.",
+        "startTime": 44325,
+        "endTime": 46483,
+        "slowStartTime": 66638,
+        "slowEndTime": 69950
+    },
+    {
+        "text": "You know I love you.",
+        "startTime": 47523,
+        "endTime": 50126,
+        "slowStartTime": 71434,
+        "slowEndTime": 75414
+    },
+    {
+        "text": "I'll always be true.",
+        "startTime": 51213,
+        "endTime": 53831,
+        "slowStartTime": 76970,
+        "slowEndTime": 80971
+    },
+    {
+        "text": "So please, love me do.",
+        "startTime": 54637,
+        "endTime": 61550,
+        "slowStartTime": 82105,
+        "slowEndTime": 92550
+    },
+    {
+        "text": "Oh, love me do.",
+        "startTime": 63079,
+        "endTime": 66006,
+        "slowStartTime": 94769,
+        "slowEndTime": 99234
+    }
+]

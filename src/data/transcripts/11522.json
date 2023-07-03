@@ -1,0 +1,100 @@
+[
+    {
+        "text": "This is the hottest of the season.",
+        "startTime": 10363,
+        "endTime": 12088,
+        "slowStartTime": 15695,
+        "slowEndTime": 18357
+    },
+    {
+        "text": "Okay.",
+        "startTime": 12167,
+        "endTime": 12595,
+        "slowStartTime": 18401,
+        "slowEndTime": 19117
+    },
+    {
+        "text": "No.",
+        "startTime": 14708,
+        "endTime": 15906,
+        "slowStartTime": 22212,
+        "slowEndTime": 24084
+    },
+    {
+        "text": "It's a little too busy.",
+        "startTime": 19598,
+        "endTime": 21013,
+        "slowStartTime": 29547,
+        "slowEndTime": 31745
+    },
+    {
+        "text": "Too purple.",
+        "startTime": 21296,
+        "endTime": 21910,
+        "slowStartTime": 32094,
+        "slowEndTime": 33090
+    },
+    {
+        "text": "Too short.",
+        "startTime": 22043,
+        "endTime": 22807,
+        "slowStartTime": 33214,
+        "slowEndTime": 34436
+    },
+    {
+        "text": "Too hot.",
+        "startTime": 24107,
+        "endTime": 24554,
+        "slowStartTime": 36311,
+        "slowEndTime": 37056
+    },
+    {
+        "text": "Yeah, that's new.",
+        "startTime": 24692,
+        "endTime": 25564,
+        "slowStartTime": 37188,
+        "slowEndTime": 38571
+    },
+    {
+        "text": "Okay.",
+        "startTime": 25735,
+        "endTime": 26202,
+        "slowStartTime": 38752,
+        "slowEndTime": 39528
+    },
+    {
+        "text": "I think my mom wore this.",
+        "startTime": 27601,
+        "endTime": 29205,
+        "slowStartTime": 41552,
+        "slowEndTime": 44032
+    },
+    {
+        "text": "This is great!",
+        "startTime": 32783,
+        "endTime": 33826,
+        "slowStartTime": 49325,
+        "slowEndTime": 50964
+    },
+    {
+        "text": "Blue.",
+        "startTime": 34277,
+        "endTime": 34784,
+        "slowStartTime": 51565,
+        "slowEndTime": 52401
+    },
+    {
+        "text": "Where do I sign?",
+        "startTime": 41039,
+        "endTime": 41697,
+        "slowStartTime": 61709,
+        "slowEndTime": 62771
+    },
+    {
+        "text": "You just did.",
+        "startTime": 41975,
+        "endTime": 42654,
+        "slowStartTime": 63113,
+        "slowEndTime": 64206
+    }
+]

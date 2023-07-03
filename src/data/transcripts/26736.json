@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Add an \"s\" at the end of a word to say that there is more than one of it.",
+        "startTime": 173,
+        "endTime": 5139,
+        "slowStartTime": 410,
+        "slowEndTime": 7934
+    },
+    {
+        "text": "There is one car on the road.",
+        "startTime": 11408,
+        "endTime": 13649,
+        "slowStartTime": 17262,
+        "slowEndTime": 20699
+    },
+    {
+        "text": "There are many cars on the road.",
+        "startTime": 17216,
+        "endTime": 19645,
+        "slowStartTime": 25974,
+        "slowEndTime": 29692
+    },
+    {
+        "text": "A boy is dancing.",
+        "startTime": 23365,
+        "endTime": 25297,
+        "slowStartTime": 35197,
+        "slowEndTime": 38170
+    },
+    {
+        "text": "The boys are having fun.",
+        "startTime": 28992,
+        "endTime": 31171,
+        "slowStartTime": 43638,
+        "slowEndTime": 46982
+    },
+    {
+        "text": "I see a bird.",
+        "startTime": 34726,
+        "endTime": 36100,
+        "slowStartTime": 52239,
+        "slowEndTime": 54375
+    },
+    {
+        "text": "So many birds!",
+        "startTime": 39739,
+        "endTime": 41856,
+        "slowStartTime": 59758,
+        "slowEndTime": 63009
+    },
+    {
+        "text": "The cat is moving.",
+        "startTime": 45490,
+        "endTime": 47237,
+        "slowStartTime": 68385,
+        "slowEndTime": 71080
+    },
+    {
+        "text": "How many cats are in these boxes?",
+        "startTime": 50950,
+        "endTime": 53646,
+        "slowStartTime": 76575,
+        "slowEndTime": 80694
+    },
+    {
+        "text": "There are seven cats.",
+        "startTime": 53897,
+        "endTime": 55890,
+        "slowStartTime": 80995,
+        "slowEndTime": 84060
+    },
+    {
+        "text": "He is reading a book.",
+        "startTime": 59621,
+        "endTime": 61243,
+        "slowStartTime": 89581,
+        "slowEndTime": 92089
+    },
+    {
+        "text": "The store has many books.",
+        "startTime": 64845,
+        "endTime": 66900,
+        "slowStartTime": 97417,
+        "slowEndTime": 100575
+    }
+]

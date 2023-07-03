@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Well guys, next week is the final exam week.",
+        "startTime": 2769,
+        "endTime": 5759,
+        "slowStartTime": 4304,
+        "slowEndTime": 8864
+    },
+    {
+        "text": "I hope you both ace all of your tests!",
+        "startTime": 6082,
+        "endTime": 8113,
+        "slowStartTime": 9273,
+        "slowEndTime": 12395
+    },
+    {
+        "text": "I definitely studied a lot, but I'm not so sure that I'm ready for them.",
+        "startTime": 8968,
+        "endTime": 12962,
+        "slowStartTime": 13602,
+        "slowEndTime": 19668
+    },
+    {
+        "text": "Me, too. I'm really nervous.",
+        "startTime": 13215,
+        "endTime": 15164,
+        "slowStartTime": 19972,
+        "slowEndTime": 22971
+    },
+    {
+        "text": "If I don't do well, my family will be very disappointed in me.",
+        "startTime": 15685,
+        "endTime": 18937,
+        "slowStartTime": 23678,
+        "slowEndTime": 28631
+    },
+    {
+        "text": "Don't worry. I'm sure you'll do well on your tests.",
+        "startTime": 19265,
+        "endTime": 21915,
+        "slowStartTime": 29048,
+        "slowEndTime": 33098
+    },
+    {
+        "text": "Any tips that you'd like to give us?",
+        "startTime": 22729,
+        "endTime": 24511,
+        "slowStartTime": 34244,
+        "slowEndTime": 36992
+    },
+    {
+        "text": "Well, be sure to review all the material you studied in class and you'll be all set!",
+        "startTime": 24947,
+        "endTime": 30055,
+        "slowStartTime": 37571,
+        "slowEndTime": 45308
+    },
+    {
+        "text": "I hope you pass the final exam.",
+        "startTime": 30581,
+        "endTime": 32424,
+        "slowStartTime": 46021,
+        "slowEndTime": 48861
+    },
+    {
+        "text": "It's easier said than done.",
+        "startTime": 32723,
+        "endTime": 34145,
+        "slowStartTime": 49234,
+        "slowEndTime": 51442
+    },
+    {
+        "text": "I think I have to cram for all of my tests.",
+        "startTime": 34704,
+        "endTime": 37077,
+        "slowStartTime": 52206,
+        "slowEndTime": 55841
+    },
+    {
+        "text": "I bet you'll do fine.",
+        "startTime": 37917,
+        "endTime": 39287,
+        "slowStartTime": 57025,
+        "slowEndTime": 59156
+    },
+    {
+        "text": "Cheer up!",
+        "startTime": 39473,
+        "endTime": 39974,
+        "slowStartTime": 59360,
+        "slowEndTime": 60186
+    },
+    {
+        "text": "Why don't we all go out together after the exams and have a few drinks?",
+        "startTime": 40581,
+        "endTime": 44169,
+        "slowStartTime": 61021,
+        "slowEndTime": 66479
+    },
+    {
+        "text": "It's on me!",
+        "startTime": 44406,
+        "endTime": 45089,
+        "slowStartTime": 66759,
+        "slowEndTime": 67858
+    },
+    {
+        "text": "I'm in!",
+        "startTime": 45484,
+        "endTime": 45950,
+        "slowStartTime": 68376,
+        "slowEndTime": 69150
+    },
+    {
+        "text": "Me, too!",
+        "startTime": 46247,
+        "endTime": 46963,
+        "slowStartTime": 69521,
+        "slowEndTime": 70670
+    }
+]

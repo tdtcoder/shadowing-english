@@ -1,0 +1,380 @@
+[
+    {
+        "text": "One day, Leopard went out hunting.",
+        "startTime": 2704,
+        "endTime": 5509,
+        "slowStartTime": 4206,
+        "slowEndTime": 8488
+    },
+    {
+        "text": "He came upon Ram's house.",
+        "startTime": 6397,
+        "endTime": 8311,
+        "slowStartTime": 9746,
+        "slowEndTime": 12692
+    },
+    {
+        "text": "Leopard was a great hunter, but he had never seen Ram in his life.",
+        "startTime": 9017,
+        "endTime": 13609,
+        "slowStartTime": 13676,
+        "slowEndTime": 20639
+    },
+    {
+        "text": "Leopard was a little afraid of him.",
+        "startTime": 14325,
+        "endTime": 16517,
+        "slowStartTime": 21638,
+        "slowEndTime": 25001
+    },
+    {
+        "text": "He went to Ram and said meekly.",
+        "startTime": 17259,
+        "endTime": 19258,
+        "slowStartTime": 26039,
+        "slowEndTime": 29112
+    },
+    {
+        "text": "Good day, friend. Who might you be?",
+        "startTime": 20405,
+        "endTime": 23277,
+        "slowStartTime": 30757,
+        "slowEndTime": 35141
+    },
+    {
+        "text": "I am Ram.",
+        "startTime": 24337,
+        "endTime": 25895,
+        "slowStartTime": 36655,
+        "slowEndTime": 39067
+    },
+    {
+        "text": "said Ram in a gruff voice.",
+        "startTime": 27092,
+        "endTime": 29197,
+        "slowStartTime": 40788,
+        "slowEndTime": 44020
+    },
+    {
+        "text": "Who are you?",
+        "startTime": 30271,
+        "endTime": 31529,
+        "slowStartTime": 45556,
+        "slowEndTime": 47519
+    },
+    {
+        "text": "I am only Leopard.",
+        "startTime": 32509,
+        "endTime": 34149,
+        "slowStartTime": 48914,
+        "slowEndTime": 51448
+    },
+    {
+        "text": "said Leopard softly.",
+        "startTime": 35305,
+        "endTime": 36923,
+        "slowStartTime": 53108,
+        "slowEndTime": 55610
+    },
+    {
+        "text": "Leopard was so scared, he ran straight home.",
+        "startTime": 37782,
+        "endTime": 40981,
+        "slowStartTime": 56823,
+        "slowEndTime": 61697
+    },
+    {
+        "text": "As soon as Leopard got home, he went to Jackal.",
+        "startTime": 41777,
+        "endTime": 44940,
+        "slowStartTime": 62816,
+        "slowEndTime": 67635
+    },
+    {
+        "text": "Jackal's house was close by.",
+        "startTime": 45777,
+        "endTime": 47793,
+        "slowStartTime": 68816,
+        "slowEndTime": 71914
+    },
+    {
+        "text": "I had such a fright!",
+        "startTime": 48701,
+        "endTime": 50481,
+        "slowStartTime": 73201,
+        "slowEndTime": 75947
+    },
+    {
+        "text": "panted Leopard.",
+        "startTime": 51507,
+        "endTime": 52601,
+        "slowStartTime": 77411,
+        "slowEndTime": 79127
+    },
+    {
+        "text": "I saw such a fierce fellow!",
+        "startTime": 53565,
+        "endTime": 55801,
+        "slowStartTime": 80497,
+        "slowEndTime": 83926
+    },
+    {
+        "text": "He had a large head, terrible horns, and a rough voice!",
+        "startTime": 56311,
+        "endTime": 60624,
+        "slowStartTime": 84616,
+        "slowEndTime": 91161
+    },
+    {
+        "text": "He said his name was Ram.",
+        "startTime": 61207,
+        "endTime": 63075,
+        "slowStartTime": 91960,
+        "slowEndTime": 94838
+    },
+    {
+        "text": "How foolish you are!",
+        "startTime": 64047,
+        "endTime": 66039,
+        "slowStartTime": 96221,
+        "slowEndTime": 99284
+    },
+    {
+        "text": "Jackal laughed.",
+        "startTime": 67044,
+        "endTime": 68083,
+        "slowStartTime": 100716,
+        "slowEndTime": 102349
+    },
+    {
+        "text": "Ram cannot hurt a flea, and his meat is juicy and sweet.",
+        "startTime": 69307,
+        "endTime": 74151,
+        "slowStartTime": 104110,
+        "slowEndTime": 111452
+    },
+    {
+        "text": "I thought you were a hunter.",
+        "startTime": 74441,
+        "endTime": 76289,
+        "slowStartTime": 111812,
+        "slowEndTime": 114658
+    },
+    {
+        "text": "Tomorrow we shall go and eat him.",
+        "startTime": 76691,
+        "endTime": 79391,
+        "slowStartTime": 115186,
+        "slowEndTime": 119311
+    },
+    {
+        "text": "Leopard was still afraid.",
+        "startTime": 80739,
+        "endTime": 82681,
+        "slowStartTime": 121258,
+        "slowEndTime": 124247
+    },
+    {
+        "text": "He wanted to seem brave, so he said he would go.",
+        "startTime": 83207,
+        "endTime": 86770,
+        "slowStartTime": 124960,
+        "slowEndTime": 130380
+    },
+    {
+        "text": "The next day, Jackal tied Leopard to his leg with a string.",
+        "startTime": 87417,
+        "endTime": 91399,
+        "slowStartTime": 131276,
+        "slowEndTime": 137323
+    },
+    {
+        "text": "This way, Leopard could not run away.",
+        "startTime": 92057,
+        "endTime": 94833,
+        "slowStartTime": 138235,
+        "slowEndTime": 142475
+    },
+    {
+        "text": "Ram saw the two friends as they came to the top of the hill.",
+        "startTime": 95489,
+        "endTime": 99029,
+        "slowStartTime": 143384,
+        "slowEndTime": 148769
+    },
+    {
+        "text": "Ram ran into his house.",
+        "startTime": 99699,
+        "endTime": 101417,
+        "slowStartTime": 149699,
+        "slowEndTime": 152351
+    },
+    {
+        "text": "Wife, what shall we do?",
+        "startTime": 102261,
+        "endTime": 104473,
+        "slowStartTime": 153542,
+        "slowEndTime": 156935
+    },
+    {
+        "text": "he asked.",
+        "startTime": 105137,
+        "endTime": 105894,
+        "slowStartTime": 157855,
+        "slowEndTime": 159066
+    },
+    {
+        "text": "Jackal and Leopard are both after us.",
+        "startTime": 106630,
+        "endTime": 109497,
+        "slowStartTime": 160095,
+        "slowEndTime": 164471
+    },
+    {
+        "text": "Have no fear.",
+        "startTime": 110579,
+        "endTime": 112023,
+        "slowStartTime": 166018,
+        "slowEndTime": 168259
+    },
+    {
+        "text": "said his wife.",
+        "startTime": 112675,
+        "endTime": 113632,
+        "slowStartTime": 169162,
+        "slowEndTime": 170673
+    },
+    {
+        "text": "Take our child in your arms and go outside.",
+        "startTime": 114443,
+        "endTime": 117223,
+        "slowStartTime": 171814,
+        "slowEndTime": 176060
+    },
+    {
+        "text": "Pinch her to make her cry as if she were hungry.",
+        "startTime": 117547,
+        "endTime": 120606,
+        "slowStartTime": 176471,
+        "slowEndTime": 181134
+    },
+    {
+        "text": "Ram took the child and did as he was told.",
+        "startTime": 121660,
+        "endTime": 124344,
+        "slowStartTime": 182640,
+        "slowEndTime": 186741
+    },
+    {
+        "text": "He stepped outside just as Leopard and Jackal arrived.",
+        "startTime": 125201,
+        "endTime": 128715,
+        "slowStartTime": 187951,
+        "slowEndTime": 193297
+    },
+    {
+        "text": "As soon as Leopard saw Ram, he grew afraid.",
+        "startTime": 129851,
+        "endTime": 133139,
+        "slowStartTime": 194927,
+        "slowEndTime": 199933
+    },
+    {
+        "text": "He pulled back, but Jackal jerked the string.",
+        "startTime": 133613,
+        "endTime": 136758,
+        "slowStartTime": 200569,
+        "slowEndTime": 205362
+    },
+    {
+        "text": "Come on.",
+        "startTime": 137695,
+        "endTime": 139002,
+        "slowStartTime": 206693,
+        "slowEndTime": 208728
+    },
+    {
+        "text": "he said.",
+        "startTime": 139993,
+        "endTime": 140787,
+        "slowStartTime": 210139,
+        "slowEndTime": 211405
+    },
+    {
+        "text": "He cannot hurt you.",
+        "startTime": 141645,
+        "endTime": 143743,
+        "slowStartTime": 212617,
+        "slowEndTime": 215840
+    },
+    {
+        "text": "Ram saw Leopard's fear, and he pinched the child.",
+        "startTime": 144734,
+        "endTime": 147959,
+        "slowStartTime": 217251,
+        "slowEndTime": 222163
+    },
+    {
+        "text": "The child began to cry, and Ram said in a rough voice.",
+        "startTime": 148596,
+        "endTime": 152837,
+        "slowStartTime": 223044,
+        "slowEndTime": 229480
+    },
+    {
+        "text": "Jackal, you have done well.",
+        "startTime": 153828,
+        "endTime": 156084,
+        "slowStartTime": 230892,
+        "slowEndTime": 234351
+    },
+    {
+        "text": "You have brought us the leopard to eat.",
+        "startTime": 156313,
+        "endTime": 158519,
+        "slowStartTime": 234620,
+        "slowEndTime": 238003
+    },
+    {
+        "text": "You are just in time.",
+        "startTime": 158963,
+        "endTime": 160543,
+        "slowStartTime": 238594,
+        "slowEndTime": 241040
+    },
+    {
+        "text": "My child is crying for food.",
+        "startTime": 160889,
+        "endTime": 163351,
+        "slowStartTime": 241484,
+        "slowEndTime": 245252
+    },
+    {
+        "text": "These words were more than Leopard could stand.",
+        "startTime": 164491,
+        "endTime": 167301,
+        "slowStartTime": 246887,
+        "slowEndTime": 251176
+    },
+    {
+        "text": "He leaped away and began to run, dragging Jackal with him.",
+        "startTime": 167890,
+        "endTime": 171927,
+        "slowStartTime": 251985,
+        "slowEndTime": 258115
+    },
+    {
+        "text": "Leopard ran up and down hills, through bushes, and under rocks.",
+        "startTime": 172603,
+        "endTime": 176909,
+        "slowStartTime": 259055,
+        "slowEndTime": 265589
+    },
+    {
+        "text": "He did not look back until poor Jackal was bruised from head to toe.",
+        "startTime": 177285,
+        "endTime": 181664,
+        "slowStartTime": 266077,
+        "slowEndTime": 272721
+    }
+]

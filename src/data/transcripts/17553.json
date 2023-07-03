@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Hi, Sarah. How are you?",
+        "startTime": 3905,
+        "endTime": 5527,
+        "slowStartTime": 6008,
+        "slowEndTime": 8516
+    },
+    {
+        "text": "I'm so happy.",
+        "startTime": 7015,
+        "endTime": 8299,
+        "slowStartTime": 10673,
+        "slowEndTime": 12674
+    },
+    {
+        "text": "My mom bought me a notebook yesterday.",
+        "startTime": 9006,
+        "endTime": 11616,
+        "slowStartTime": 13659,
+        "slowEndTime": 17649
+    },
+    {
+        "text": "Wow. Show me the new notebook.",
+        "startTime": 12404,
+        "endTime": 14592,
+        "slowStartTime": 18756,
+        "slowEndTime": 22113
+    },
+    {
+        "text": "Oh, I left it at home.",
+        "startTime": 16731,
+        "endTime": 19005,
+        "slowStartTime": 25246,
+        "slowEndTime": 28732
+    },
+    {
+        "text": "I'll bring it to school and show it to you tomorrow.",
+        "startTime": 19641,
+        "endTime": 23175,
+        "slowStartTime": 29611,
+        "slowEndTime": 34987
+    },
+    {
+        "text": "OK. Don't forget to bring it.",
+        "startTime": 24449,
+        "endTime": 26387,
+        "slowStartTime": 36824,
+        "slowEndTime": 39806
+    },
+    {
+        "text": "Never ever!",
+        "startTime": 27587,
+        "endTime": 28736,
+        "slowStartTime": 41531,
+        "slowEndTime": 43329
+    },
+    {
+        "text": "Anyway, how was your weekend, Daniel?",
+        "startTime": 29321,
+        "endTime": 31975,
+        "slowStartTime": 44132,
+        "slowEndTime": 48188
+    },
+    {
+        "text": "Umm, not so good.",
+        "startTime": 32949,
+        "endTime": 34544,
+        "slowStartTime": 49573,
+        "slowEndTime": 52041
+    },
+    {
+        "text": "Dad took us to a Chinese restaurant.",
+        "startTime": 35011,
+        "endTime": 37102,
+        "slowStartTime": 52666,
+        "slowEndTime": 55878
+    },
+    {
+        "text": "The noodles we had were terrible.",
+        "startTime": 37409,
+        "endTime": 39260,
+        "slowStartTime": 56263,
+        "slowEndTime": 59115
+    }
+]

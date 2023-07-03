@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Where do you work?",
+        "startTime": 202,
+        "endTime": 1256,
+        "slowStartTime": 453,
+        "slowEndTime": 2109
+    },
+    {
+        "text": "I work for ABC Limited as a software engineer.",
+        "startTime": 1839,
+        "endTime": 5751,
+        "slowStartTime": 2909,
+        "slowEndTime": 8851
+    },
+    {
+        "text": "It's a good job for me because I like working with computers.",
+        "startTime": 6641,
+        "endTime": 10383,
+        "slowStartTime": 10111,
+        "slowEndTime": 15800
+    },
+    {
+        "text": "How about you?",
+        "startTime": 11278,
+        "endTime": 12263,
+        "slowStartTime": 17067,
+        "slowEndTime": 18619
+    },
+    {
+        "text": "I'm a journalist.",
+        "startTime": 12901,
+        "endTime": 14161,
+        "slowStartTime": 19501,
+        "slowEndTime": 21467
+    },
+    {
+        "text": "I interview people and write stories for a famous American newspaper.",
+        "startTime": 14867,
+        "endTime": 19686,
+        "slowStartTime": 22451,
+        "slowEndTime": 29754
+    },
+    {
+        "text": "What do you do in your free time?",
+        "startTime": 20042,
+        "endTime": 22084,
+        "slowStartTime": 30213,
+        "slowEndTime": 33351
+    },
+    {
+        "text": "At the moment, I'm learning Italian.",
+        "startTime": 22971,
+        "endTime": 25267,
+        "slowStartTime": 34607,
+        "slowEndTime": 38126
+    },
+    {
+        "text": "It's fun but difficult.",
+        "startTime": 25991,
+        "endTime": 27659,
+        "slowStartTime": 39137,
+        "slowEndTime": 41714
+    },
+    {
+        "text": "How about you?",
+        "startTime": 28457,
+        "endTime": 29428,
+        "slowStartTime": 42835,
+        "slowEndTime": 44367
+    },
+    {
+        "text": "I like to go rock climbing.",
+        "startTime": 30042,
+        "endTime": 31775,
+        "slowStartTime": 45213,
+        "slowEndTime": 47888
+    },
+    {
+        "text": "It's good exercise and I can enjoy the fresh air too.",
+        "startTime": 32499,
+        "endTime": 36395,
+        "slowStartTime": 48899,
+        "slowEndTime": 54817
+    }
+]

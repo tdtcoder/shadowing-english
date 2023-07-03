@@ -1,0 +1,65 @@
+[
+    {
+        "text": "﻿Which suitcase is large?",
+        "startTime": 125,
+        "endTime": 2582,
+        "slowStartTime": 337,
+        "slowEndTime": 4098
+    },
+    {
+        "text": "That's right!",
+        "startTime": 4867,
+        "endTime": 6179,
+        "slowStartTime": 7451,
+        "slowEndTime": 9494
+    },
+    {
+        "text": "Which cake is small?",
+        "startTime": 7963,
+        "endTime": 10081,
+        "slowStartTime": 12095,
+        "slowEndTime": 15346
+    },
+    {
+        "text": "You're right!",
+        "startTime": 12803,
+        "endTime": 13929,
+        "slowStartTime": 19354,
+        "slowEndTime": 21119
+    },
+    {
+        "text": "Which dog is the medium-sized one?",
+        "startTime": 15689,
+        "endTime": 19045,
+        "slowStartTime": 23683,
+        "slowEndTime": 28792
+    },
+    {
+        "text": "You're right!",
+        "startTime": 20981,
+        "endTime": 22361,
+        "slowStartTime": 31621,
+        "slowEndTime": 33767
+    },
+    {
+        "text": "Which vehicle is large?",
+        "startTime": 23993,
+        "endTime": 26729,
+        "slowStartTime": 36140,
+        "slowEndTime": 40319
+    },
+    {
+        "text": "That's right!",
+        "startTime": 28567,
+        "endTime": 29941,
+        "slowStartTime": 43001,
+        "slowEndTime": 45137
+    },
+    {
+        "text": "Great job!",
+        "startTime": 31777,
+        "endTime": 33461,
+        "slowStartTime": 47816,
+        "slowEndTime": 50416
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Here is a poor shoemaker.",
+        "startTime": 634,
+        "endTime": 2860,
+        "slowStartTime": 1101,
+        "slowEndTime": 4515
+    },
+    {
+        "text": "He makes shoes in his shop.",
+        "startTime": 3925,
+        "endTime": 6077,
+        "slowStartTime": 6038,
+        "slowEndTime": 9340
+    },
+    {
+        "text": "This is all the leather I have.",
+        "startTime": 7196,
+        "endTime": 9913,
+        "slowStartTime": 10944,
+        "slowEndTime": 15095
+    },
+    {
+        "text": "I can only make one pair of shoes.",
+        "startTime": 11117,
+        "endTime": 14856,
+        "slowStartTime": 16825,
+        "slowEndTime": 22509
+    },
+    {
+        "text": "You look tired. Begin the work tomorrow.",
+        "startTime": 16038,
+        "endTime": 20139,
+        "slowStartTime": 24207,
+        "slowEndTime": 30434
+    },
+    {
+        "text": "Next morning, there is something on the table!",
+        "startTime": 21258,
+        "endTime": 24849,
+        "slowStartTime": 32037,
+        "slowEndTime": 37499
+    },
+    {
+        "text": "Look!",
+        "startTime": 25906,
+        "endTime": 26612,
+        "slowStartTime": 39009,
+        "slowEndTime": 40143
+    },
+    {
+        "text": "The shoemaker's wife shouts.",
+        "startTime": 27709,
+        "endTime": 29965,
+        "slowStartTime": 41713,
+        "slowEndTime": 45173
+    },
+    {
+        "text": "A beautiful pair of shoes!",
+        "startTime": 31189,
+        "endTime": 33892,
+        "slowStartTime": 46934,
+        "slowEndTime": 51063
+    },
+    {
+        "text": "Did you make these shoes?",
+        "startTime": 35032,
+        "endTime": 37540,
+        "slowStartTime": 52698,
+        "slowEndTime": 56535
+    },
+    {
+        "text": "No, I didn't. It is magic.",
+        "startTime": 38651,
+        "endTime": 42018,
+        "slowStartTime": 58126,
+        "slowEndTime": 63252
+    },
+    {
+        "text": "Then, a man comes into the shop.",
+        "startTime": 43116,
+        "endTime": 46164,
+        "slowStartTime": 64824,
+        "slowEndTime": 69471
+    },
+    {
+        "text": "Oh, these are so beautiful!",
+        "startTime": 47263,
+        "endTime": 49819,
+        "slowStartTime": 71044,
+        "slowEndTime": 74954
+    }
+]

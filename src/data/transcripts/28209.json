@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Ten minus one equals nine.",
+        "startTime": 5039,
+        "endTime": 12915,
+        "slowStartTime": 7709,
+        "slowEndTime": 19597
+    },
+    {
+        "text": "Nine minus one equals eight.",
+        "startTime": 17697,
+        "endTime": 25665,
+        "slowStartTime": 26695,
+        "slowEndTime": 38723
+    },
+    {
+        "text": "Eight minus one equals seven.",
+        "startTime": 29659,
+        "endTime": 37845,
+        "slowStartTime": 44639,
+        "slowEndTime": 56992
+    },
+    {
+        "text": "Seven minus one equals six.",
+        "startTime": 41701,
+        "endTime": 49887,
+        "slowStartTime": 62702,
+        "slowEndTime": 75055
+    },
+    {
+        "text": "Six minus one equals five.",
+        "startTime": 53778,
+        "endTime": 61530,
+        "slowStartTime": 80817,
+        "slowEndTime": 92520
+    }
+]

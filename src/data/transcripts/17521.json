@@ -1,0 +1,128 @@
+[
+    {
+        "text": "\"Let's have a contest.\",...",
+        "startTime": 3390,
+        "endTime": 5320,
+        "slowStartTime": 5235,
+        "slowEndTime": 8205
+    },
+    {
+        "text": "...said Andy to Jay.",
+        "startTime": 6744,
+        "endTime": 8113,
+        "slowStartTime": 10266,
+        "slowEndTime": 12395
+    },
+    {
+        "text": "\"I can spit my seed the farthest.\",...",
+        "startTime": 9365,
+        "endTime": 12349,
+        "slowStartTime": 14198,
+        "slowEndTime": 18749
+    },
+    {
+        "text": "...said Andy.",
+        "startTime": 13793,
+        "endTime": 14563,
+        "slowStartTime": 20840,
+        "slowEndTime": 22070
+    },
+    {
+        "text": "\"No. Mine will go farther.\",...",
+        "startTime": 16077,
+        "endTime": 18396,
+        "slowStartTime": 24266,
+        "slowEndTime": 27819
+    },
+    {
+        "text": "...said Jay.",
+        "startTime": 19754,
+        "endTime": 20545,
+        "slowStartTime": 29781,
+        "slowEndTime": 31042
+    },
+    {
+        "text": "Andy spit his seed next to the bench.",
+        "startTime": 21917,
+        "endTime": 24733,
+        "slowStartTime": 33026,
+        "slowEndTime": 37324
+    },
+    {
+        "text": "Jay's seed went past the bench.",
+        "startTime": 26067,
+        "endTime": 28231,
+        "slowStartTime": 39250,
+        "slowEndTime": 42571
+    },
+    {
+        "text": "Andy's seed went four steps away and Jay's went five.",
+        "startTime": 29347,
+        "endTime": 33712,
+        "slowStartTime": 44171,
+        "slowEndTime": 50793
+    },
+    {
+        "text": "Jay's seed went one step farther than Andy's",
+        "startTime": 35000,
+        "endTime": 38247,
+        "slowStartTime": 52650,
+        "slowEndTime": 57595
+    },
+    {
+        "text": "Andy spit his seed past the tree and Jay's seed hit the tree.",
+        "startTime": 39390,
+        "endTime": 43928,
+        "slowStartTime": 59235,
+        "slowEndTime": 66117
+    },
+    {
+        "text": "Andy's seed went seven steps away and Jay's went six.",
+        "startTime": 45037,
+        "endTime": 49137,
+        "slowStartTime": 67706,
+        "slowEndTime": 73930
+    },
+    {
+        "text": "Andy's seed went one step farther than Jay's.",
+        "startTime": 50421,
+        "endTime": 53486,
+        "slowStartTime": 75781,
+        "slowEndTime": 80454
+    },
+    {
+        "text": "\"We both won.\",...",
+        "startTime": 54694,
+        "endTime": 55965,
+        "slowStartTime": 82191,
+        "slowEndTime": 84172
+    },
+    {
+        "text": "...said Andy.",
+        "startTime": 57309,
+        "endTime": 58207,
+        "slowStartTime": 86114,
+        "slowEndTime": 87536
+    },
+    {
+        "text": "\"Now we have to break the tie.\"",
+        "startTime": 59412,
+        "endTime": 61560,
+        "slowStartTime": 89268,
+        "slowEndTime": 92565
+    },
+    {
+        "text": "\"Oh no, now what?\",...",
+        "startTime": 62878,
+        "endTime": 65038,
+        "slowStartTime": 94467,
+        "slowEndTime": 97782
+    },
+    {
+        "text": "...said Jay to Andy.",
+        "startTime": 66121,
+        "endTime": 67528,
+        "slowStartTime": 99332,
+        "slowEndTime": 101517
+    }
+]

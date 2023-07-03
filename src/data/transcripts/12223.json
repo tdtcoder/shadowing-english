@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Thanks for picking up all that stuff at the store for me.",
+        "startTime": 2828,
+        "endTime": 5458,
+        "slowStartTime": 4392,
+        "slowEndTime": 8412
+    },
+    {
+        "text": "My pleasure.",
+        "startTime": 5642,
+        "endTime": 6544,
+        "slowStartTime": 8613,
+        "slowEndTime": 10041
+    },
+    {
+        "text": "I figured you were cooking up a pretty delicious meal,...",
+        "startTime": 6831,
+        "endTime": 9659,
+        "slowStartTime": 10397,
+        "slowEndTime": 14713
+    },
+    {
+        "text": "...so I'm happy to help out.",
+        "startTime": 9747,
+        "endTime": 11238,
+        "slowStartTime": 14771,
+        "slowEndTime": 17082
+    },
+    {
+        "text": "Well, if you really want to help out some more, it would be appreciated.",
+        "startTime": 11552,
+        "endTime": 15311,
+        "slowStartTime": 17478,
+        "slowEndTime": 23191
+    },
+    {
+        "text": "Sure! What do you need me to do?",
+        "startTime": 15467,
+        "endTime": 17661,
+        "slowStartTime": 23351,
+        "slowEndTime": 26716
+    },
+    {
+        "text": "For starters, I need to start getting the salad ready.",
+        "startTime": 17933,
+        "endTime": 20583,
+        "slowStartTime": 27049,
+        "slowEndTime": 31100
+    },
+    {
+        "text": "Can you cut up some vegetables for me?",
+        "startTime": 20761,
+        "endTime": 22455,
+        "slowStartTime": 31292,
+        "slowEndTime": 33908
+    },
+    {
+        "text": "Absolutely.",
+        "startTime": 22601,
+        "endTime": 23481,
+        "slowStartTime": 34052,
+        "slowEndTime": 35446
+    },
+    {
+        "text": "Where should I begin?",
+        "startTime": 23785,
+        "endTime": 24867,
+        "slowStartTime": 35827,
+        "slowEndTime": 37526
+    },
+    {
+        "text": "There's a bunch of carrots over there.",
+        "startTime": 25180,
+        "endTime": 26870,
+        "slowStartTime": 37920,
+        "slowEndTime": 40530
+    },
+    {
+        "text": "Also, here are some onions and green peppers.",
+        "startTime": 27073,
+        "endTime": 29658,
+        "slowStartTime": 40760,
+        "slowEndTime": 44712
+    },
+    {
+        "text": "Looks like it's going to be a good salad.",
+        "startTime": 29935,
+        "endTime": 32088,
+        "slowStartTime": 45052,
+        "slowEndTime": 48357
+    },
+    {
+        "text": "I'll get right to work.",
+        "startTime": 32391,
+        "endTime": 33779,
+        "slowStartTime": 48737,
+        "slowEndTime": 50893
+    },
+    {
+        "text": "Thanks. Oh, and one more thing.",
+        "startTime": 33971,
+        "endTime": 36039,
+        "slowStartTime": 51107,
+        "slowEndTime": 54284
+    },
+    {
+        "text": "Uh huh?",
+        "startTime": 36168,
+        "endTime": 36635,
+        "slowStartTime": 54402,
+        "slowEndTime": 55177
+    },
+    {
+        "text": "You might want to wash your hands first.",
+        "startTime": 36906,
+        "endTime": 38742,
+        "slowStartTime": 55509,
+        "slowEndTime": 58338
+    },
+    {
+        "text": "Uh, yeah, sure thing.",
+        "startTime": 39105,
+        "endTime": 40586,
+        "slowStartTime": 58807,
+        "slowEndTime": 61104
+    }
+]

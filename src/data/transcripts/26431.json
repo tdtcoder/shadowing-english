@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Is the world truly ready for a vehicle that can drive itself?",
+        "startTime": 4179,
+        "endTime": 7512,
+        "slowStartTime": 6419,
+        "slowEndTime": 11493
+    },
+    {
+        "text": "Ready or not, the future is here.",
+        "startTime": 10671,
+        "endTime": 13508,
+        "slowStartTime": 16157,
+        "slowEndTime": 20487
+    },
+    {
+        "text": "Introducing the 2017 E-Class from Mercedes-Benz,...",
+        "startTime": 17221,
+        "endTime": 21315,
+        "slowStartTime": 25981,
+        "slowEndTime": 32198
+    },
+    {
+        "text": "...a concept car that's already a reality.",
+        "startTime": 22260,
+        "endTime": 25312,
+        "slowStartTime": 33540,
+        "slowEndTime": 38193
+    },
+    {
+        "text": "Mercedes-Benz: the best or nothing.",
+        "startTime": 26195,
+        "endTime": 29617,
+        "slowStartTime": 39442,
+        "slowEndTime": 44650
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Hansel and Gretel were the children of a poor woodcutter.",
+        "startTime": 3123,
+        "endTime": 6845,
+        "slowStartTime": 4835,
+        "slowEndTime": 10493
+    },
+    {
+        "text": "Their family was very hungry...",
+        "startTime": 7840,
+        "endTime": 9687,
+        "slowStartTime": 11910,
+        "slowEndTime": 14755
+    },
+    {
+        "text": "...so the stepmother convinced her husband to abandon the children in the forest.",
+        "startTime": 10254,
+        "endTime": 15689,
+        "slowStartTime": 15531,
+        "slowEndTime": 23758
+    },
+    {
+        "text": "Hansel and Gretel heard her plan and gathered white pebbles to leave themselves a trail home.",
+        "startTime": 17111,
+        "endTime": 24136,
+        "slowStartTime": 25816,
+        "slowEndTime": 36429
+    },
+    {
+        "text": "After their return, the stepmother again convinced her husband to abandon them.",
+        "startTime": 25442,
+        "endTime": 31379,
+        "slowStartTime": 38313,
+        "slowEndTime": 47293
+    },
+    {
+        "text": "This time, however, they could only leave bread crumbs to mark a path back to their home.",
+        "startTime": 32371,
+        "endTime": 38774,
+        "slowStartTime": 48707,
+        "slowEndTime": 58386
+    },
+    {
+        "text": "Unfortunately, the various animals of the woods ate their trail of bread crumbs.",
+        "startTime": 40193,
+        "endTime": 46263,
+        "slowStartTime": 60440,
+        "slowEndTime": 69619
+    },
+    {
+        "text": "Lost in the forest, they found a house made of candies.",
+        "startTime": 47226,
+        "endTime": 51621,
+        "slowStartTime": 70989,
+        "slowEndTime": 77657
+    },
+    {
+        "text": "An old woman lived there.",
+        "startTime": 52763,
+        "endTime": 54189,
+        "slowStartTime": 79294,
+        "slowEndTime": 81509
+    },
+    {
+        "text": "She was a witch and fed them lots of food, to fatten them up and eat them.",
+        "startTime": 55100,
+        "endTime": 60643,
+        "slowStartTime": 82800,
+        "slowEndTime": 91189
+    },
+    {
+        "text": "Days passed by, and Hansel grew very fat, as she wished.",
+        "startTime": 63566,
+        "endTime": 68839,
+        "slowStartTime": 95499,
+        "slowEndTime": 103484
+    },
+    {
+        "text": "She told Gretel to climb into an oven to be sure it is ready to bake.",
+        "startTime": 70083,
+        "endTime": 74745,
+        "slowStartTime": 105274,
+        "slowEndTime": 112343
+    },
+    {
+        "text": "But Gretel guessed that the witch intended to bake her.",
+        "startTime": 75747,
+        "endTime": 79066,
+        "slowStartTime": 113770,
+        "slowEndTime": 118824
+    },
+    {
+        "text": "So she tricked the witch into climbing into the oven, closing it behind her.",
+        "startTime": 80087,
+        "endTime": 85721,
+        "slowStartTime": 120281,
+        "slowEndTime": 128806
+    },
+    {
+        "text": "Then, they took some jewels and food and ran home.",
+        "startTime": 86781,
+        "endTime": 90882,
+        "slowStartTime": 130321,
+        "slowEndTime": 136548
+    },
+    {
+        "text": "They were reunited with their father and lived happily ever after.",
+        "startTime": 92115,
+        "endTime": 96862,
+        "slowStartTime": 138322,
+        "slowEndTime": 145518
+    }
+]

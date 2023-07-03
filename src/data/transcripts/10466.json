@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Oh! Will you help me?",
+        "startTime": 3431,
+        "endTime": 4521,
+        "slowStartTime": 5297,
+        "slowEndTime": 7007
+    },
+    {
+        "text": "Can you help me?",
+        "startTime": 4785,
+        "endTime": 5691,
+        "slowStartTime": 7327,
+        "slowEndTime": 8761
+    },
+    {
+        "text": "You don't need to be helped any longer.",
+        "startTime": 6013,
+        "endTime": 7911,
+        "slowStartTime": 9170,
+        "slowEndTime": 12091
+    },
+    {
+        "text": "You've always had the power to go back to Kansas.",
+        "startTime": 8163,
+        "endTime": 10557,
+        "slowStartTime": 12395,
+        "slowEndTime": 16061
+    },
+    {
+        "text": "I have?",
+        "startTime": 11214,
+        "endTime": 12112,
+        "slowStartTime": 16971,
+        "slowEndTime": 18393
+    },
+    {
+        "text": "Then, why didn't you tell her before?",
+        "startTime": 12447,
+        "endTime": 14005,
+        "slowStartTime": 18820,
+        "slowEndTime": 21233
+    },
+    {
+        "text": "Because she wouldn't have believed me.",
+        "startTime": 14213,
+        "endTime": 15927,
+        "slowStartTime": 21470,
+        "slowEndTime": 24115
+    },
+    {
+        "text": "She had to learn it for herself.",
+        "startTime": 16238,
+        "endTime": 17715,
+        "slowStartTime": 24507,
+        "slowEndTime": 26798
+    },
+    {
+        "text": "What have you learned, Dorothy?",
+        "startTime": 18383,
+        "endTime": 19811,
+        "slowStartTime": 27725,
+        "slowEndTime": 29942
+    },
+    {
+        "text": "Well,...",
+        "startTime": 20849,
+        "endTime": 21375,
+        "slowStartTime": 31424,
+        "slowEndTime": 32287
+    },
+    {
+        "text": "...I think...",
+        "startTime": 24180,
+        "endTime": 24631,
+        "slowStartTime": 36420,
+        "slowEndTime": 37171
+    },
+    {
+        "text": "...that it wasn't enough just to want to see Uncle Henry and Auntie Em.",
+        "startTime": 26035,
+        "endTime": 29211,
+        "slowStartTime": 39202,
+        "slowEndTime": 44041
+    },
+    {
+        "text": "And it's that, if I ever go looking for my heart's desire again,...",
+        "startTime": 30079,
+        "endTime": 34407,
+        "slowStartTime": 45268,
+        "slowEndTime": 51835
+    },
+    {
+        "text": "...I won't look any further than my own backyard.",
+        "startTime": 34987,
+        "endTime": 37690,
+        "slowStartTime": 52630,
+        "slowEndTime": 56760
+    },
+    {
+        "text": "Because if it isn't there,...",
+        "startTime": 38649,
+        "endTime": 40108,
+        "slowStartTime": 58124,
+        "slowEndTime": 60387
+    },
+    {
+        "text": "...I never really lost it to begin with.",
+        "startTime": 41169,
+        "endTime": 43353,
+        "slowStartTime": 61903,
+        "slowEndTime": 65254
+    },
+    {
+        "text": "Is that right?",
+        "startTime": 44521,
+        "endTime": 45292,
+        "slowStartTime": 66931,
+        "slowEndTime": 68163
+    },
+    {
+        "text": "That's all it is!",
+        "startTime": 45948,
+        "endTime": 47002,
+        "slowStartTime": 69072,
+        "slowEndTime": 70728
+    },
+    {
+        "text": "But that's so easy!",
+        "startTime": 47717,
+        "endTime": 48861,
+        "slowStartTime": 71725,
+        "slowEndTime": 73517
+    },
+    {
+        "text": "I should have thought of it for you.",
+        "startTime": 49419,
+        "endTime": 50823,
+        "slowStartTime": 74278,
+        "slowEndTime": 76460
+    },
+    {
+        "text": "I should have felt it in my heart.",
+        "startTime": 51077,
+        "endTime": 52559,
+        "slowStartTime": 76766,
+        "slowEndTime": 79064
+    },
+    {
+        "text": "No, she had to find it out for herself.",
+        "startTime": 52718,
+        "endTime": 54713,
+        "slowStartTime": 79227,
+        "slowEndTime": 82294
+    },
+    {
+        "text": "Now, those magic slippers will take you home in two seconds!",
+        "startTime": 54895,
+        "endTime": 57943,
+        "slowStartTime": 82493,
+        "slowEndTime": 87139
+    }
+]

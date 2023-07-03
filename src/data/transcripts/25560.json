@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Yesterday, a wizard entered New York with a case.",
+        "startTime": 914,
+        "endTime": 3109,
+        "slowStartTime": 1521,
+        "slowEndTime": 4888
+    },
+    {
+        "text": "A case full of magical creatures.",
+        "startTime": 11168,
+        "endTime": 12931,
+        "slowStartTime": 16902,
+        "slowEndTime": 19621
+    },
+    {
+        "text": "And unfortunately some have escaped.",
+        "startTime": 19113,
+        "endTime": 20930,
+        "slowStartTime": 28819,
+        "slowEndTime": 31620
+    },
+    {
+        "text": "It was open?",
+        "startTime": 35039,
+        "endTime": 35651,
+        "slowStartTime": 52709,
+        "slowEndTime": 53702
+    },
+    {
+        "text": "Just a smidge.",
+        "startTime": 36420,
+        "endTime": 37079,
+        "slowStartTime": 54780,
+        "slowEndTime": 55844
+    }
+]

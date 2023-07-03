@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Yes, the new iPhone 5 you got for Christmas is pretty cool,...",
+        "startTime": 3196,
+        "endTime": 6204,
+        "slowStartTime": 4944,
+        "slowEndTime": 9531
+    },
+    {
+        "text": "...but can it dance?",
+        "startTime": 6420,
+        "endTime": 7457,
+        "slowStartTime": 9780,
+        "slowEndTime": 11410
+    },
+    {
+        "text": "One of the iPhone 5's most useful features is the panorama camera mode,...",
+        "startTime": 7744,
+        "endTime": 11648,
+        "slowStartTime": 11766,
+        "slowEndTime": 17697
+    },
+    {
+        "text": "...which lets you take 240-degree photos.",
+        "startTime": 11811,
+        "endTime": 14335,
+        "slowStartTime": 17866,
+        "slowEndTime": 21728
+    },
+    {
+        "text": "CNET reports that the new app, Cycloramic, takes that idea one step further...",
+        "startTime": 14527,
+        "endTime": 19623,
+        "slowStartTime": 21941,
+        "slowEndTime": 29660
+    },
+    {
+        "text": "...by using the iPhone's vibration and sensors to spin itself 360 degrees while taking video.",
+        "startTime": 19807,
+        "endTime": 25871,
+        "slowStartTime": 29860,
+        "slowEndTime": 39032
+    },
+    {
+        "text": "You'll need a flat, hard surface, and older phones won't work.",
+        "startTime": 26057,
+        "endTime": 29253,
+        "slowStartTime": 39236,
+        "slowEndTime": 44105
+    },
+    {
+        "text": "The app will cost you 99 cents on the App Store,...",
+        "startTime": 29485,
+        "endTime": 31992,
+        "slowStartTime": 44378,
+        "slowEndTime": 48213
+    },
+    {
+        "text": "...but that's a small price to pay to show off your phone's moves.",
+        "startTime": 32113,
+        "endTime": 35546,
+        "slowStartTime": 48320,
+        "slowEndTime": 53544
+    }
+]

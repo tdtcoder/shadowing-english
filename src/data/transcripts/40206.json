@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Here is my shopping list.",
+        "startTime": 577,
+        "endTime": 2189,
+        "slowStartTime": 1016,
+        "slowEndTime": 3509
+    },
+    {
+        "text": "A whiteboard.",
+        "startTime": 2407,
+        "endTime": 3141,
+        "slowStartTime": 3761,
+        "slowEndTime": 4936
+    },
+    {
+        "text": "It is fifteen dollars.",
+        "startTime": 3550,
+        "endTime": 4978,
+        "slowStartTime": 5475,
+        "slowEndTime": 7692
+    },
+    {
+        "text": "Markers.",
+        "startTime": 5412,
+        "endTime": 6135,
+        "slowStartTime": 8268,
+        "slowEndTime": 9427
+    },
+    {
+        "text": "They are three dollars.",
+        "startTime": 6639,
+        "endTime": 7846,
+        "slowStartTime": 10109,
+        "slowEndTime": 11994
+    },
+    {
+        "text": "A stapler.",
+        "startTime": 8277,
+        "endTime": 8995,
+        "slowStartTime": 12566,
+        "slowEndTime": 13717
+    },
+    {
+        "text": "It is ten dollars.",
+        "startTime": 9335,
+        "endTime": 10622,
+        "slowStartTime": 14153,
+        "slowEndTime": 16158
+    },
+    {
+        "text": "A computer mouse.",
+        "startTime": 11028,
+        "endTime": 12107,
+        "slowStartTime": 16692,
+        "slowEndTime": 18385
+    },
+    {
+        "text": "It is thirty dollars.",
+        "startTime": 12425,
+        "endTime": 13688,
+        "slowStartTime": 18787,
+        "slowEndTime": 20757
+    },
+    {
+        "text": "Paper clips.",
+        "startTime": 14223,
+        "endTime": 15103,
+        "slowStartTime": 21485,
+        "slowEndTime": 22879
+    },
+    {
+        "text": "They are five dollars.",
+        "startTime": 15298,
+        "endTime": 16767,
+        "slowStartTime": 23097,
+        "slowEndTime": 25375
+    },
+    {
+        "text": "A wastebasket.",
+        "startTime": 17207,
+        "endTime": 18228,
+        "slowStartTime": 25960,
+        "slowEndTime": 27567
+    },
+    {
+        "text": "It is twenty dollars.",
+        "startTime": 18466,
+        "endTime": 19901,
+        "slowStartTime": 27849,
+        "slowEndTime": 30076
+    }
+]

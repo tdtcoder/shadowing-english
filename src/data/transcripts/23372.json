@@ -1,0 +1,44 @@
+[
+    {
+        "text": "I'm very happy with everything that's happened this year.",
+        "startTime": 431,
+        "endTime": 2975,
+        "slowStartTime": 796,
+        "slowEndTime": 4688
+    },
+    {
+        "text": "It's been hectic.",
+        "startTime": 3085,
+        "endTime": 3839,
+        "slowStartTime": 4778,
+        "slowEndTime": 5984
+    },
+    {
+        "text": "It's been a lot of fun, there's been a lot of traveling and a lot of performances.",
+        "startTime": 3910,
+        "endTime": 8768,
+        "slowStartTime": 6015,
+        "slowEndTime": 13377
+    },
+    {
+        "text": "It can be overwhelming at times but I'm happy that I've been able to sort of...",
+        "startTime": 8849,
+        "endTime": 11929,
+        "slowStartTime": 13423,
+        "slowEndTime": 18118
+    },
+    {
+        "text": "...make time for my family and my friends and balance the two.",
+        "startTime": 12422,
+        "endTime": 16048,
+        "slowStartTime": 18783,
+        "slowEndTime": 24297
+    },
+    {
+        "text": "So, it's great.",
+        "startTime": 16145,
+        "endTime": 17435,
+        "slowStartTime": 24367,
+        "slowEndTime": 26377
+    }
+]

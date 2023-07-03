@@ -1,0 +1,79 @@
+[
+    {
+        "text": "﻿How fast am I?",
+        "startTime": 676,
+        "endTime": 1311,
+        "slowStartTime": 1164,
+        "slowEndTime": 2191
+    },
+    {
+        "text": "So fast!",
+        "startTime": 2705,
+        "endTime": 3502,
+        "slowStartTime": 4207,
+        "slowEndTime": 5478
+    },
+    {
+        "text": "You wanna see fast?",
+        "startTime": 3868,
+        "endTime": 4921,
+        "slowStartTime": 5952,
+        "slowEndTime": 7607
+    },
+    {
+        "text": "I'll show you fast.",
+        "startTime": 6970,
+        "endTime": 7815,
+        "slowStartTime": 10605,
+        "slowEndTime": 11948
+    },
+    {
+        "text": "So fast.",
+        "startTime": 13575,
+        "endTime": 14119,
+        "slowStartTime": 20512,
+        "slowEndTime": 21403
+    },
+    {
+        "text": "So fast!",
+        "startTime": 19447,
+        "endTime": 20303,
+        "slowStartTime": 29321,
+        "slowEndTime": 30679
+    },
+    {
+        "text": "I'm too fast!",
+        "startTime": 21251,
+        "endTime": 22331,
+        "slowStartTime": 32027,
+        "slowEndTime": 33722
+    },
+    {
+        "text": "Not so fast.",
+        "startTime": 25663,
+        "endTime": 26230,
+        "slowStartTime": 38645,
+        "slowEndTime": 39570
+    },
+    {
+        "text": "So fast.",
+        "startTime": 28133,
+        "endTime": 28946,
+        "slowStartTime": 42350,
+        "slowEndTime": 43644
+    },
+    {
+        "text": "Real fast!",
+        "startTime": 30094,
+        "endTime": 30611,
+        "slowStartTime": 45291,
+        "slowEndTime": 46141
+    },
+    {
+        "text": "Is that fast enough for you?",
+        "startTime": 35703,
+        "endTime": 36626,
+        "slowStartTime": 53705,
+        "slowEndTime": 55164
+    }
+]

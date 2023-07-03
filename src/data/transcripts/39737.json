@@ -1,0 +1,58 @@
+[
+    {
+        "text": "When is your job interview?",
+        "startTime": 3232,
+        "endTime": 4755,
+        "slowStartTime": 4998,
+        "slowEndTime": 7358
+    },
+    {
+        "text": "My job interview is on July 5th.",
+        "startTime": 5571,
+        "endTime": 7796,
+        "slowStartTime": 8507,
+        "slowEndTime": 11919
+    },
+    {
+        "text": "When is the meeting?",
+        "startTime": 13165,
+        "endTime": 14182,
+        "slowStartTime": 19897,
+        "slowEndTime": 21498
+    },
+    {
+        "text": "The meeting is on October 21st.",
+        "startTime": 15259,
+        "endTime": 17361,
+        "slowStartTime": 23039,
+        "slowEndTime": 26267
+    },
+    {
+        "text": "When is the business dinner?",
+        "startTime": 22881,
+        "endTime": 24413,
+        "slowStartTime": 34472,
+        "slowEndTime": 36844
+    },
+    {
+        "text": "It's on May 7th.",
+        "startTime": 25195,
+        "endTime": 26317,
+        "slowStartTime": 37942,
+        "slowEndTime": 39700
+    },
+    {
+        "text": "When is the seminar?",
+        "startTime": 32149,
+        "endTime": 33329,
+        "slowStartTime": 48374,
+        "slowEndTime": 50219
+    },
+    {
+        "text": "It's on September 29th.",
+        "startTime": 34119,
+        "endTime": 35800,
+        "slowStartTime": 51329,
+        "slowEndTime": 53925
+    }
+]

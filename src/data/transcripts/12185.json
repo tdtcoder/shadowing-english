@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Good afternoon sir, welcome to Home World.",
+        "startTime": 2192,
+        "endTime": 4808,
+        "slowStartTime": 3438,
+        "slowEndTime": 7437
+    },
+    {
+        "text": "How can I help you today?",
+        "startTime": 5053,
+        "endTime": 6386,
+        "slowStartTime": 7729,
+        "slowEndTime": 9804
+    },
+    {
+        "text": "Hello there, I'm looking to get some living room furniture.",
+        "startTime": 6651,
+        "endTime": 9281,
+        "slowStartTime": 10127,
+        "slowEndTime": 14147
+    },
+    {
+        "text": "We have everything you need right here.",
+        "startTime": 9539,
+        "endTime": 11524,
+        "slowStartTime": 14459,
+        "slowEndTime": 17511
+    },
+    {
+        "text": "Great! I've come to the right place. Can you show me some of your sofa sets?",
+        "startTime": 11717,
+        "endTime": 15664,
+        "slowStartTime": 17725,
+        "slowEndTime": 23721
+    },
+    {
+        "text": "Right over here, sir. This is one of our most popular sofa sets.",
+        "startTime": 16075,
+        "endTime": 20055,
+        "slowStartTime": 24262,
+        "slowEndTime": 30308
+    },
+    {
+        "text": "I like the style a lot. Is that leather?",
+        "startTime": 20265,
+        "endTime": 23007,
+        "slowStartTime": 30547,
+        "slowEndTime": 34735
+    },
+    {
+        "text": "No sir, it's Naugahyde. It's a type of imitation leather.",
+        "startTime": 23369,
+        "endTime": 27153,
+        "slowStartTime": 35203,
+        "slowEndTime": 40955
+    },
+    {
+        "text": "It's very comfortable. Do you have this style in other colors?",
+        "startTime": 27313,
+        "endTime": 30463,
+        "slowStartTime": 41120,
+        "slowEndTime": 45919
+    },
+    {
+        "text": "Yes, but we don't have any here in our showroom.",
+        "startTime": 30683,
+        "endTime": 33593,
+        "slowStartTime": 46174,
+        "slowEndTime": 50615
+    },
+    {
+        "text": "You can order it in a number of different colors, though.",
+        "startTime": 33871,
+        "endTime": 36451,
+        "slowStartTime": 50956,
+        "slowEndTime": 54901
+    },
+    {
+        "text": "I have a catalogue here that you can look through.",
+        "startTime": 36765,
+        "endTime": 39147,
+        "slowStartTime": 55298,
+        "slowEndTime": 58945
+    },
+    {
+        "text": "Okay, yes, I see. Is this one beige?",
+        "startTime": 39683,
+        "endTime": 42561,
+        "slowStartTime": 59675,
+        "slowEndTime": 64066
+    },
+    {
+        "text": "Yes, it is, sir.",
+        "startTime": 42819,
+        "endTime": 43716,
+        "slowStartTime": 64379,
+        "slowEndTime": 65799
+    },
+    {
+        "text": "That looks like the exact color I want!",
+        "startTime": 43956,
+        "endTime": 45944,
+        "slowStartTime": 66084,
+        "slowEndTime": 69141
+    }
+]

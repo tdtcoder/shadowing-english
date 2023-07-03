@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Hi, Bob.",
+        "startTime": 1427,
+        "endTime": 2193,
+        "slowStartTime": 2291,
+        "slowEndTime": 3514
+    },
+    {
+        "text": "Hi, Cindy. How are you today?",
+        "startTime": 3358,
+        "endTime": 5521,
+        "slowStartTime": 5187,
+        "slowEndTime": 8506
+    },
+    {
+        "text": "I'm so angry.",
+        "startTime": 6918,
+        "endTime": 8477,
+        "slowStartTime": 10527,
+        "slowEndTime": 12940
+    },
+    {
+        "text": "What made you so angry?",
+        "startTime": 10082,
+        "endTime": 11864,
+        "slowStartTime": 15273,
+        "slowEndTime": 18021
+    },
+    {
+        "text": "My brother broke my crayons.",
+        "startTime": 13333,
+        "endTime": 15900,
+        "slowStartTime": 20149,
+        "slowEndTime": 24075
+    },
+    {
+        "text": "He always uses my crayons without asking.",
+        "startTime": 16390,
+        "endTime": 19891,
+        "slowStartTime": 24735,
+        "slowEndTime": 30062
+    },
+    {
+        "text": "It makes me angry.",
+        "startTime": 20325,
+        "endTime": 22065,
+        "slowStartTime": 30637,
+        "slowEndTime": 33323
+    },
+    {
+        "text": "Calm down. He is just a three-year-old baby.",
+        "startTime": 24161,
+        "endTime": 27927,
+        "slowStartTime": 36392,
+        "slowEndTime": 42116
+    },
+    {
+        "text": "What, what, what, what do you need?",
+        "startTime": 33657,
+        "endTime": 36780,
+        "slowStartTime": 50635,
+        "slowEndTime": 55395
+    },
+    {
+        "text": "Water, water, water, I need water to drink.",
+        "startTime": 37395,
+        "endTime": 40599,
+        "slowStartTime": 56242,
+        "slowEndTime": 61123
+    },
+    {
+        "text": "What, what, what, what do you want?",
+        "startTime": 41148,
+        "endTime": 44499,
+        "slowStartTime": 61872,
+        "slowEndTime": 66974
+    },
+    {
+        "text": "Pasta, pasta, pasta, I want pasta to eat.",
+        "startTime": 44855,
+        "endTime": 48105,
+        "slowStartTime": 67432,
+        "slowEndTime": 72382
+    },
+    {
+        "text": "What, what, what, what do you need?",
+        "startTime": 48643,
+        "endTime": 51784,
+        "slowStartTime": 73114,
+        "slowEndTime": 77901
+    },
+    {
+        "text": "Air, Air, Air, I need air to breathe.",
+        "startTime": 52387,
+        "endTime": 55628,
+        "slowStartTime": 78730,
+        "slowEndTime": 83667
+    },
+    {
+        "text": "What, what, what, what do you want?",
+        "startTime": 56143,
+        "endTime": 59373,
+        "slowStartTime": 84365,
+        "slowEndTime": 89285
+    },
+    {
+        "text": "Bike, bike, bike, I want a bike to get to school.",
+        "startTime": 59899,
+        "endTime": 63567,
+        "slowStartTime": 89998,
+        "slowEndTime": 95575
+    }
+]

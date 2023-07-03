@@ -1,0 +1,86 @@
+[
+    {
+        "text": "In the US, President Donald Trump...",
+        "startTime": 3569,
+        "endTime": 6151,
+        "slowStartTime": 5503,
+        "slowEndTime": 9451
+    },
+    {
+        "text": "...says he has \"suspicions\" about the crash of a Ukrainian airliner outside Tehran...",
+        "startTime": 6349,
+        "endTime": 11680,
+        "slowStartTime": 9673,
+        "slowEndTime": 17745
+    },
+    {
+        "text": "...as US media reports it had been mistakenly shot down by Iran.",
+        "startTime": 12341,
+        "endTime": 17099,
+        "slowStartTime": 18661,
+        "slowEndTime": 25873
+    },
+    {
+        "text": "In Iran, the head of the Revolutionary Guard's Aerospace Force Amir Ali Hajiradeh,...",
+        "startTime": 20445,
+        "endTime": 27218,
+        "slowStartTime": 30817,
+        "slowEndTime": 41052
+    },
+    {
+        "text": "...said Iran's missile attacks on US targets in Iraq did not aim to kill American soldiers...",
+        "startTime": 28005,
+        "endTime": 34663,
+        "slowStartTime": 42158,
+        "slowEndTime": 52220
+    },
+    {
+        "text": "...but were a \"lesson\" to get US troops to withdraw from the region.",
+        "startTime": 35030,
+        "endTime": 39172,
+        "slowStartTime": 52695,
+        "slowEndTime": 58983
+    },
+    {
+        "text": "In the UK, British lawmakers backed British Prime Minister Boris Johnson's Brexit deal,...",
+        "startTime": 43960,
+        "endTime": 50419,
+        "slowStartTime": 66090,
+        "slowEndTime": 75854
+    },
+    {
+        "text": "...just three weeks before the 31st January deadline.",
+        "startTime": 50941,
+        "endTime": 54675,
+        "slowStartTime": 76561,
+        "slowEndTime": 82237
+    },
+    {
+        "text": "Riot police in France clashed with demonstrators in Paris...",
+        "startTime": 57161,
+        "endTime": 61480,
+        "slowStartTime": 85891,
+        "slowEndTime": 92445
+    },
+    {
+        "text": "...as they marched against changes to state pensions.",
+        "startTime": 62097,
+        "endTime": 65557,
+        "slowStartTime": 93295,
+        "slowEndTime": 98560
+    },
+    {
+        "text": "Finally from Mexico, Popocatepetl volcano exhales a thick cloud of smoke...",
+        "startTime": 68791,
+        "endTime": 74867,
+        "slowStartTime": 103337,
+        "slowEndTime": 112526
+    },
+    {
+        "text": "...that reached three kilometers high after eruption.",
+        "startTime": 75207,
+        "endTime": 78823,
+        "slowStartTime": 112960,
+        "slowEndTime": 118459
+    }
+]

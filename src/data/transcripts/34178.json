@@ -1,0 +1,100 @@
+[
+    {
+        "text": "In Bangladesh, two packed trains collided,...",
+        "startTime": 3261,
+        "endTime": 6903,
+        "slowStartTime": 5041,
+        "slowEndTime": 10579
+    },
+    {
+        "text": "...leaving at least 16 people dead and nearly 60 others injured.",
+        "startTime": 7367,
+        "endTime": 12042,
+        "slowStartTime": 11201,
+        "slowEndTime": 18288
+    },
+    {
+        "text": "Authorities say three coaches crashed off the tracks at Mondobhag station in the town of Kasba.",
+        "startTime": 12690,
+        "endTime": 19737,
+        "slowStartTime": 19185,
+        "slowEndTime": 29831
+    },
+    {
+        "text": "In Afghanistan, the Associated Press reports...",
+        "startTime": 22365,
+        "endTime": 26043,
+        "slowStartTime": 33697,
+        "slowEndTime": 39289
+    },
+    {
+        "text": "...President Ashraf Ghani has released three Taliban commanders of the Haqqani militant group...",
+        "startTime": 26259,
+        "endTime": 32013,
+        "slowStartTime": 39539,
+        "slowEndTime": 48245
+    },
+    {
+        "text": "...in exchange for an American and an Australian professor who were kidnapped in 2016.",
+        "startTime": 32555,
+        "endTime": 38621,
+        "slowStartTime": 48983,
+        "slowEndTime": 58156
+    },
+    {
+        "text": "In Hong Kong, protests continued,...",
+        "startTime": 42235,
+        "endTime": 44825,
+        "slowStartTime": 63503,
+        "slowEndTime": 67462
+    },
+    {
+        "text": "...with large fires burning across parts of the region in the early hours of the morning.",
+        "startTime": 45092,
+        "endTime": 50468,
+        "slowStartTime": 67788,
+        "slowEndTime": 75927
+    },
+    {
+        "text": "Banks and schools in Lebanon were closed...",
+        "startTime": 55137,
+        "endTime": 58321,
+        "slowStartTime": 82855,
+        "slowEndTime": 87707
+    },
+    {
+        "text": "...as protesters tried to prevent employees from clocking in at state institutions.",
+        "startTime": 58645,
+        "endTime": 64612,
+        "slowStartTime": 88118,
+        "slowEndTime": 97143
+    },
+    {
+        "text": "The protesters demanded the ouster of a generation of politicians seen as inefficient and corrupt.",
+        "startTime": 65139,
+        "endTime": 72824,
+        "slowStartTime": 97859,
+        "slowEndTime": 109461
+    },
+    {
+        "text": "Finally from Chile, protests against the government of President Sebastian Pinera continue.",
+        "startTime": 75142,
+        "endTime": 81365,
+        "slowStartTime": 112863,
+        "slowEndTime": 122273
+    },
+    {
+        "text": "The government has announced it will move to draft a new constitution...",
+        "startTime": 82245,
+        "endTime": 86389,
+        "slowStartTime": 123518,
+        "slowEndTime": 129808
+    },
+    {
+        "text": "...and replace the one dating back to the 1973 to 1990 dictatorship of Augusto Pinochet.",
+        "startTime": 86885,
+        "endTime": 94000,
+        "slowStartTime": 130477,
+        "slowEndTime": 141225
+    }
+]

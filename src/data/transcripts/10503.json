@@ -1,0 +1,44 @@
+[
+    {
+        "text": "The time for bickering is over.",
+        "startTime": 600,
+        "endTime": 2750,
+        "slowStartTime": 1200,
+        "slowEndTime": 4200
+    },
+    {
+        "text": "The time for games has passed.",
+        "startTime": 3550,
+        "endTime": 6700,
+        "slowStartTime": 5530,
+        "slowEndTime": 10105
+    },
+    {
+        "text": "Now is the season for action.",
+        "startTime": 7350,
+        "endTime": 9800,
+        "slowStartTime": 11110,
+        "slowEndTime": 15000
+    },
+    {
+        "text": "Now is when we must bring the best ideas of both parties together...",
+        "startTime": 10350,
+        "endTime": 14848,
+        "slowStartTime": 15650,
+        "slowEndTime": 22305
+    },
+    {
+        "text": "...and show the American people that we can still do what we were sent here to do.",
+        "startTime": 15400,
+        "endTime": 19500,
+        "slowStartTime": 23350,
+        "slowEndTime": 29460
+    },
+    {
+        "text": "Now is the time to deliver on healthcare.",
+        "startTime": 19650,
+        "endTime": 21700,
+        "slowStartTime": 29705,
+        "slowEndTime": 32700
+    }
+]

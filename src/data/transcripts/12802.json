@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Hello, Sky Travel and Tours. How may I help you?",
+        "startTime": 3883,
+        "endTime": 6978,
+        "slowStartTime": 5975,
+        "slowEndTime": 10692
+    },
+    {
+        "text": "Hello there. I'd like to book a flight to Seoul, Korea, please.",
+        "startTime": 7195,
+        "endTime": 10517,
+        "slowStartTime": 10943,
+        "slowEndTime": 16001
+    },
+    {
+        "text": "Seoul, Korea. Okay. What class would you like to book?",
+        "startTime": 10836,
+        "endTime": 14461,
+        "slowStartTime": 16404,
+        "slowEndTime": 21916
+    },
+    {
+        "text": "Economy, please.",
+        "startTime": 14738,
+        "endTime": 15705,
+        "slowStartTime": 22257,
+        "slowEndTime": 23783
+    },
+    {
+        "text": "Okay, and will that be one-way or round-trip?",
+        "startTime": 16111,
+        "endTime": 19118,
+        "slowStartTime": 24316,
+        "slowEndTime": 28902
+    },
+    {
+        "text": "I'd like to book a round-trip ticket, please.",
+        "startTime": 19472,
+        "endTime": 21443,
+        "slowStartTime": 29358,
+        "slowEndTime": 32389
+    },
+    {
+        "text": "How much is a round-trip ticket to Seoul, Korea?",
+        "startTime": 21919,
+        "endTime": 24034,
+        "slowStartTime": 33028,
+        "slowEndTime": 36276
+    },
+    {
+        "text": "It's 1200 US dollars. What are the dates that you'd like to travel on?",
+        "startTime": 24683,
+        "endTime": 29739,
+        "slowStartTime": 37175,
+        "slowEndTime": 44833
+    },
+    {
+        "text": "I'd like to leave here around June 15th and be back here by August 20th.",
+        "startTime": 30031,
+        "endTime": 34655,
+        "slowStartTime": 45197,
+        "slowEndTime": 52207
+    },
+    {
+        "text": "Do you have any aisle seats left?",
+        "startTime": 35245,
+        "endTime": 36547,
+        "slowStartTime": 53017,
+        "slowEndTime": 55046
+    },
+    {
+        "text": "Yes, sir. I can book you on Korean Airlines on June 15th,...",
+        "startTime": 36866,
+        "endTime": 40743,
+        "slowStartTime": 55449,
+        "slowEndTime": 61340
+    },
+    {
+        "text": "...leaving here at 6:45 a.m. with an aisle seat.",
+        "startTime": 41018,
+        "endTime": 44198,
+        "slowStartTime": 61677,
+        "slowEndTime": 66522
+    },
+    {
+        "text": "Okay, is that a direct flight?",
+        "startTime": 44443,
+        "endTime": 46506,
+        "slowStartTime": 66815,
+        "slowEndTime": 69984
+    },
+    {
+        "text": "No, you will be transferring in Los Angeles.",
+        "startTime": 46743,
+        "endTime": 49420,
+        "slowStartTime": 70264,
+        "slowEndTime": 74355
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "text": "If you are, you breathe.",
+        "startTime": 2767,
+        "endTime": 4771,
+        "slowStartTime": 4301,
+        "slowEndTime": 7381
+    },
+    {
+        "text": "If you breathe, you talk.",
+        "startTime": 6135,
+        "endTime": 8590,
+        "slowStartTime": 9353,
+        "slowEndTime": 13110
+    },
+    {
+        "text": "If you talk, you ask.",
+        "startTime": 9508,
+        "endTime": 11583,
+        "slowStartTime": 14412,
+        "slowEndTime": 17599
+    },
+    {
+        "text": "If you ask, you think.",
+        "startTime": 12905,
+        "endTime": 15045,
+        "slowStartTime": 19507,
+        "slowEndTime": 22793
+    },
+    {
+        "text": "If you think, you search.",
+        "startTime": 17535,
+        "endTime": 19385,
+        "slowStartTime": 26452,
+        "slowEndTime": 29302
+    },
+    {
+        "text": "If you search, you experience.",
+        "startTime": 21398,
+        "endTime": 23848,
+        "slowStartTime": 32247,
+        "slowEndTime": 35997
+    },
+    {
+        "text": "If you experience, you learn.",
+        "startTime": 25395,
+        "endTime": 27161,
+        "slowStartTime": 38243,
+        "slowEndTime": 40966
+    },
+    {
+        "text": "If you learn, you grow.",
+        "startTime": 28072,
+        "endTime": 30295,
+        "slowStartTime": 42258,
+        "slowEndTime": 45668
+    },
+    {
+        "text": "If you grow, you wish.",
+        "startTime": 31319,
+        "endTime": 33368,
+        "slowStartTime": 47129,
+        "slowEndTime": 50277
+    },
+    {
+        "text": "If you wish, you find.",
+        "startTime": 34238,
+        "endTime": 36109,
+        "slowStartTime": 51507,
+        "slowEndTime": 54389
+    },
+    {
+        "text": "And if you find, you doubt.",
+        "startTime": 36607,
+        "endTime": 41481,
+        "slowStartTime": 55060,
+        "slowEndTime": 62447
+    },
+    {
+        "text": "If you doubt, you question.",
+        "startTime": 42337,
+        "endTime": 43965,
+        "slowStartTime": 63655,
+        "slowEndTime": 66172
+    },
+    {
+        "text": "If you question, you understand.",
+        "startTime": 44179,
+        "endTime": 46707,
+        "slowStartTime": 66418,
+        "slowEndTime": 70285
+    },
+    {
+        "text": "And if you understand, you know.",
+        "startTime": 47254,
+        "endTime": 49843,
+        "slowStartTime": 71031,
+        "slowEndTime": 74990
+    },
+    {
+        "text": "If you know, you want to know more.",
+        "startTime": 50177,
+        "endTime": 52110,
+        "slowStartTime": 75415,
+        "slowEndTime": 78390
+    },
+    {
+        "text": "And if you want to know more, you are alive!",
+        "startTime": 52201,
+        "endTime": 54830,
+        "slowStartTime": 78451,
+        "slowEndTime": 82470
+    },
+    {
+        "text": "National Geographic Channel. Live curious.",
+        "startTime": 55675,
+        "endTime": 58335,
+        "slowStartTime": 83663,
+        "slowEndTime": 87727
+    }
+]

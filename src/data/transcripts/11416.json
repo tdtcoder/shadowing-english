@@ -1,0 +1,135 @@
+[
+    {
+        "text": "A hare is an animal that can run very fast.",
+        "startTime": 2460,
+        "endTime": 5470,
+        "slowStartTime": 3760,
+        "slowEndTime": 8250
+    },
+    {
+        "text": "A tortoise is an animal that can move only very slowly.",
+        "startTime": 6300,
+        "endTime": 10210,
+        "slowStartTime": 9470,
+        "slowEndTime": 15230
+    },
+    {
+        "text": "One day, a hare laughed at a tortoise that was moving slowly past him.",
+        "startTime": 10780,
+        "endTime": 15320,
+        "slowStartTime": 16310,
+        "slowEndTime": 23070
+    },
+    {
+        "text": "The tortoise, who did not like being laughed at because he was slow,...",
+        "startTime": 16110,
+        "endTime": 19850,
+        "slowStartTime": 24290,
+        "slowEndTime": 29810
+    },
+    {
+        "text": "...said to the hare, \"Although you can run faster than I, I will beat you in a race.\"",
+        "startTime": 20280,
+        "endTime": 26390,
+        "slowStartTime": 30440,
+        "slowEndTime": 39600
+    },
+    {
+        "text": "The hare, thinking that the tortoise could not do this, said, \"Very well, I will race you.\"",
+        "startTime": 27220,
+        "endTime": 33700,
+        "slowStartTime": 40960,
+        "slowEndTime": 50590
+    },
+    {
+        "text": "The two animals asked a fox to be the judge...",
+        "startTime": 34630,
+        "endTime": 37300,
+        "slowStartTime": 51980,
+        "slowEndTime": 55980
+    },
+    {
+        "text": "...and to choose the place for the race.",
+        "startTime": 37570,
+        "endTime": 39370,
+        "slowStartTime": 56490,
+        "slowEndTime": 59085
+    },
+    {
+        "text": "On the day of the race,...",
+        "startTime": 40100,
+        "endTime": 41270,
+        "slowStartTime": 60270,
+        "slowEndTime": 62030
+    },
+    {
+        "text": "...the fox told the animals where the race would begin and where it would end.",
+        "startTime": 41570,
+        "endTime": 45740,
+        "slowStartTime": 62460,
+        "slowEndTime": 68700
+    },
+    {
+        "text": "The fox then said, \"One, two, three, go!\" And the race began.",
+        "startTime": 46640,
+        "endTime": 54280,
+        "slowStartTime": 70040,
+        "slowEndTime": 79000
+    },
+    {
+        "text": "The hare ran off and was soon a long way in front of the tortoise.",
+        "startTime": 55080,
+        "endTime": 58950,
+        "slowStartTime": 80420,
+        "slowEndTime": 86020
+    },
+    {
+        "text": "He was so far in front that he stopped running to have a rest and soon fell asleep.",
+        "startTime": 60020,
+        "endTime": 65350,
+        "slowStartTime": 87720,
+        "slowEndTime": 95700
+    },
+    {
+        "text": "The tortoise, however, just kept on moving slowly forward.",
+        "startTime": 66230,
+        "endTime": 70100,
+        "slowStartTime": 97060,
+        "slowEndTime": 102785
+    },
+    {
+        "text": "When the hare woke up, he saw that the tortoise had passed him...",
+        "startTime": 70970,
+        "endTime": 74470,
+        "slowStartTime": 104210,
+        "slowEndTime": 109370
+    },
+    {
+        "text": "...and was now a long way in front of him.",
+        "startTime": 74940,
+        "endTime": 77010,
+        "slowStartTime": 110160,
+        "slowEndTime": 113100
+    },
+    {
+        "text": "He ran as fast as he could to catch up and pass the tortoise.",
+        "startTime": 77870,
+        "endTime": 81210,
+        "slowStartTime": 114550,
+        "slowEndTime": 119580
+    },
+    {
+        "text": "But before he could do this,...",
+        "startTime": 82080,
+        "endTime": 83550,
+        "slowStartTime": 120900,
+        "slowEndTime": 122900
+    },
+    {
+        "text": "...the fox judged the tortoise to be the winner of the race.",
+        "startTime": 83910,
+        "endTime": 87020,
+        "slowStartTime": 123610,
+        "slowEndTime": 128270
+    }
+]

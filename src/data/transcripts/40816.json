@@ -1,0 +1,198 @@
+[
+    {
+        "text": "This is Sarah and this is Mike.",
+        "startTime": 1250,
+        "endTime": 4851,
+        "slowStartTime": 2025,
+        "slowEndTime": 7502
+    },
+    {
+        "text": "Let's take a look at the conversation they have when they meet each other.",
+        "startTime": 6013,
+        "endTime": 11306,
+        "slowStartTime": 9170,
+        "slowEndTime": 17184
+    },
+    {
+        "text": "Hi.",
+        "startTime": 13606,
+        "endTime": 14298,
+        "slowStartTime": 20559,
+        "slowEndTime": 21672
+    },
+    {
+        "text": "Hello.",
+        "startTime": 14724,
+        "endTime": 15195,
+        "slowStartTime": 22236,
+        "slowEndTime": 23017
+    },
+    {
+        "text": "Good morning.",
+        "startTime": 15733,
+        "endTime": 16419,
+        "slowStartTime": 23750,
+        "slowEndTime": 24854
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 16817,
+        "endTime": 17903,
+        "slowStartTime": 25376,
+        "slowEndTime": 27079
+    },
+    {
+        "text": "Can you guess how Mike will answer?",
+        "startTime": 18109,
+        "endTime": 20317,
+        "slowStartTime": 27314,
+        "slowEndTime": 30701
+    },
+    {
+        "text": "Pause the video and try to answer.",
+        "startTime": 21203,
+        "endTime": 23461,
+        "slowStartTime": 31955,
+        "slowEndTime": 35416
+    },
+    {
+        "text": "And can you spell his name?",
+        "startTime": 25496,
+        "endTime": 27187,
+        "slowStartTime": 38394,
+        "slowEndTime": 41005
+    },
+    {
+        "text": "Pause the video again and try to answer.",
+        "startTime": 28003,
+        "endTime": 31247,
+        "slowStartTime": 42155,
+        "slowEndTime": 47096
+    },
+    {
+        "text": "My name is Mike.",
+        "startTime": 32742,
+        "endTime": 34577,
+        "slowStartTime": 49263,
+        "slowEndTime": 52091
+    },
+    {
+        "text": "M - I - K - E.",
+        "startTime": 35068,
+        "endTime": 38235,
+        "slowStartTime": 52752,
+        "slowEndTime": 57578
+    },
+    {
+        "text": "What is your name?",
+        "startTime": 39065,
+        "endTime": 40535,
+        "slowStartTime": 58747,
+        "slowEndTime": 61027
+    },
+    {
+        "text": "My name is Sarah.",
+        "startTime": 40741,
+        "endTime": 41915,
+        "slowStartTime": 61262,
+        "slowEndTime": 63098
+    },
+    {
+        "text": "Can you spell that?",
+        "startTime": 42434,
+        "endTime": 43636,
+        "slowStartTime": 63801,
+        "slowEndTime": 65679
+    },
+    {
+        "text": "And now can you spell Sarah's name?",
+        "startTime": 44077,
+        "endTime": 47064,
+        "slowStartTime": 66266,
+        "slowEndTime": 70821
+    },
+    {
+        "text": "S - A - R - A - H.",
+        "startTime": 47867,
+        "endTime": 51213,
+        "slowStartTime": 71951,
+        "slowEndTime": 77044
+    },
+    {
+        "text": "Sarah.",
+        "startTime": 51615,
+        "endTime": 52049,
+        "slowStartTime": 77573,
+        "slowEndTime": 78298
+    },
+    {
+        "text": "Nice to meet you, Sarah.",
+        "startTime": 52311,
+        "endTime": 53755,
+        "slowStartTime": 78616,
+        "slowEndTime": 80857
+    },
+    {
+        "text": "Nice to meet you too.",
+        "startTime": 54241,
+        "endTime": 55439,
+        "slowStartTime": 81511,
+        "slowEndTime": 83383
+    },
+    {
+        "text": "Now it's your turn.",
+        "startTime": 57069,
+        "endTime": 58709,
+        "slowStartTime": 85753,
+        "slowEndTime": 88288
+    },
+    {
+        "text": "When you see this icon, pause the video and answer the question on the screen.",
+        "startTime": 59269,
+        "endTime": 64719,
+        "slowStartTime": 89053,
+        "slowEndTime": 97303
+    },
+    {
+        "text": "Ready?",
+        "startTime": 65807,
+        "endTime": 66497,
+        "slowStartTime": 98860,
+        "slowEndTime": 99971
+    },
+    {
+        "text": "Let's go.",
+        "startTime": 67041,
+        "endTime": 67848,
+        "slowStartTime": 100712,
+        "slowEndTime": 101997
+    },
+    {
+        "text": "Hello.",
+        "startTime": 68692,
+        "endTime": 69316,
+        "slowStartTime": 103188,
+        "slowEndTime": 104199
+    },
+    {
+        "text": "What is your name?",
+        "startTime": 69873,
+        "endTime": 71473,
+        "slowStartTime": 104960,
+        "slowEndTime": 107435
+    },
+    {
+        "text": "Can you spell that?",
+        "startTime": 74182,
+        "endTime": 75675,
+        "slowStartTime": 111423,
+        "slowEndTime": 113738
+    },
+    {
+        "text": "Nice to meet you.",
+        "startTime": 78061,
+        "endTime": 79233,
+        "slowStartTime": 117241,
+        "slowEndTime": 119074
+    }
+]

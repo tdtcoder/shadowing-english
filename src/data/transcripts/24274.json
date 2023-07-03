@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Apple.",
+        "startTime": 2091,
+        "endTime": 2623,
+        "slowStartTime": 3287,
+        "slowEndTime": 4160
+    },
+    {
+        "text": "Apples grow on apple trees.",
+        "startTime": 6459,
+        "endTime": 9287,
+        "slowStartTime": 9838,
+        "slowEndTime": 14155
+    },
+    {
+        "text": "Banana.",
+        "startTime": 13507,
+        "endTime": 14192,
+        "slowStartTime": 20411,
+        "slowEndTime": 21513
+    },
+    {
+        "text": "Bananas grow on banana plants.",
+        "startTime": 18255,
+        "endTime": 21311,
+        "slowStartTime": 27533,
+        "slowEndTime": 32192
+    },
+    {
+        "text": "Grapes.",
+        "startTime": 25395,
+        "endTime": 25903,
+        "slowStartTime": 38243,
+        "slowEndTime": 39080
+    },
+    {
+        "text": "Grapes grow on grape vines.",
+        "startTime": 29856,
+        "endTime": 32547,
+        "slowStartTime": 44934,
+        "slowEndTime": 49046
+    },
+    {
+        "text": "Melon.",
+        "startTime": 36755,
+        "endTime": 37325,
+        "slowStartTime": 55282,
+        "slowEndTime": 56213
+    },
+    {
+        "text": "Melons grow on melon plants.",
+        "startTime": 41616,
+        "endTime": 44337,
+        "slowStartTime": 62574,
+        "slowEndTime": 66730
+    },
+    {
+        "text": "Orange.",
+        "startTime": 48101,
+        "endTime": 48626,
+        "slowStartTime": 72302,
+        "slowEndTime": 73164
+    },
+    {
+        "text": "Oranges grow on orange trees.",
+        "startTime": 52821,
+        "endTime": 55800,
+        "slowStartTime": 79382,
+        "slowEndTime": 83925
+    },
+    {
+        "text": "Pear.",
+        "startTime": 59755,
+        "endTime": 60362,
+        "slowStartTime": 89783,
+        "slowEndTime": 90768
+    },
+    {
+        "text": "Pears grow on pear trees.",
+        "startTime": 64499,
+        "endTime": 67076,
+        "slowStartTime": 96898,
+        "slowEndTime": 100839
+    },
+    {
+        "text": "Pineapple.",
+        "startTime": 71285,
+        "endTime": 71828,
+        "slowStartTime": 107078,
+        "slowEndTime": 107967
+    },
+    {
+        "text": "Pineapples grow on pineapple plants.",
+        "startTime": 75746,
+        "endTime": 78573,
+        "slowStartTime": 113769,
+        "slowEndTime": 118085
+    },
+    {
+        "text": "Strawberry.",
+        "startTime": 82729,
+        "endTime": 83445,
+        "slowStartTime": 124243,
+        "slowEndTime": 125392
+    },
+    {
+        "text": "Strawberries grow on strawberry plants.",
+        "startTime": 87691,
+        "endTime": 90307,
+        "slowStartTime": 131687,
+        "slowEndTime": 135686
+    }
+]

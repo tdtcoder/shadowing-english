@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Eating in Ethiopia is a special experience.",
+        "startTime": 1115,
+        "endTime": 4499,
+        "slowStartTime": 1822,
+        "slowEndTime": 6974
+    },
+    {
+        "text": "You sit on low comfortable divans covered with monkey fur.",
+        "startTime": 5014,
+        "endTime": 9102,
+        "slowStartTime": 7671,
+        "slowEndTime": 13878
+    },
+    {
+        "text": "The server appears with a pitcher, a copper basin and towels to clean your hands.",
+        "startTime": 9836,
+        "endTime": 15135,
+        "slowStartTime": 14904,
+        "slowEndTime": 22928
+    },
+    {
+        "text": "A wicker table with a domed cover is brought, and when the cover is taken off,...",
+        "startTime": 15747,
+        "endTime": 20356,
+        "slowStartTime": 23770,
+        "slowEndTime": 30759
+    },
+    {
+        "text": "...you see a gray tablecloth overlapping the edges of the table.",
+        "startTime": 20601,
+        "endTime": 24408,
+        "slowStartTime": 31051,
+        "slowEndTime": 36837
+    },
+    {
+        "text": "When the food is poured onto the tablecloth,...",
+        "startTime": 24996,
+        "endTime": 27343,
+        "slowStartTime": 37644,
+        "slowEndTime": 41239
+    },
+    {
+        "text": "...you realize that it's not a tablecloth after all.",
+        "startTime": 27631,
+        "endTime": 31181,
+        "slowStartTime": 41597,
+        "slowEndTime": 46996
+    },
+    {
+        "text": "It's the \"Injera,\" the sourdough Ethiopian bread that looks like a great big pancake.",
+        "startTime": 31850,
+        "endTime": 38176,
+        "slowStartTime": 47925,
+        "slowEndTime": 57489
+    },
+    {
+        "text": "You tear off a piece of bread with ingredients on it and roll it up like a cigar.",
+        "startTime": 38825,
+        "endTime": 43958,
+        "slowStartTime": 58388,
+        "slowEndTime": 66162
+    },
+    {
+        "text": "A polite gesture is to stick the roll into another person's mouth.",
+        "startTime": 44601,
+        "endTime": 48290,
+        "slowStartTime": 67051,
+        "slowEndTime": 72660
+    },
+    {
+        "text": "The idea is not to take the best bits for yourself.",
+        "startTime": 48907,
+        "endTime": 52505,
+        "slowStartTime": 73511,
+        "slowEndTime": 78983
+    },
+    {
+        "text": "The dishes could be peppery stews like chicken or lamb wat,...",
+        "startTime": 53197,
+        "endTime": 57437,
+        "slowStartTime": 79946,
+        "slowEndTime": 86380
+    },
+    {
+        "text": "...lab cottage cheese and yogurt.",
+        "startTime": 57861,
+        "endTime": 60427,
+        "slowStartTime": 86941,
+        "slowEndTime": 90865
+    },
+    {
+        "text": "The dessert may be raw ground beef.",
+        "startTime": 60901,
+        "endTime": 63373,
+        "slowStartTime": 91502,
+        "slowEndTime": 95284
+    }
+]

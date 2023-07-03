@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Car.",
+        "startTime": 2668,
+        "endTime": 3231,
+        "slowStartTime": 4152,
+        "slowEndTime": 5071
+    },
+    {
+        "text": "I drive a car.",
+        "startTime": 4079,
+        "endTime": 5427,
+        "slowStartTime": 6268,
+        "slowEndTime": 8365
+    },
+    {
+        "text": "I drive a fancy car.",
+        "startTime": 6757,
+        "endTime": 8713,
+        "slowStartTime": 10285,
+        "slowEndTime": 13295
+    },
+    {
+        "text": "Farm.",
+        "startTime": 10063,
+        "endTime": 10738,
+        "slowStartTime": 15244,
+        "slowEndTime": 16332
+    },
+    {
+        "text": "There are animals on a farm.",
+        "startTime": 11496,
+        "endTime": 13586,
+        "slowStartTime": 17394,
+        "slowEndTime": 20604
+    },
+    {
+        "text": "There are many animals on a farm.",
+        "startTime": 14897,
+        "endTime": 17332,
+        "slowStartTime": 22496,
+        "slowEndTime": 26223
+    },
+    {
+        "text": "Park.",
+        "startTime": 18605,
+        "endTime": 19109,
+        "slowStartTime": 28057,
+        "slowEndTime": 28889
+    },
+    {
+        "text": "I like to go to the park",
+        "startTime": 19794,
+        "endTime": 21539,
+        "slowStartTime": 29841,
+        "slowEndTime": 32534
+    },
+    {
+        "text": "I like to go to the park to play.",
+        "startTime": 22813,
+        "endTime": 25209,
+        "slowStartTime": 34369,
+        "slowEndTime": 38039
+    },
+    {
+        "text": "Star.",
+        "startTime": 26425,
+        "endTime": 27139,
+        "slowStartTime": 39787,
+        "slowEndTime": 40934
+    },
+    {
+        "text": "The star is bright.",
+        "startTime": 27839,
+        "endTime": 29323,
+        "slowStartTime": 41908,
+        "slowEndTime": 44209
+    },
+    {
+        "text": "The star is very bright.",
+        "startTime": 30538,
+        "endTime": 32457,
+        "slowStartTime": 45957,
+        "slowEndTime": 48910
+    },
+    {
+        "text": "Frog, frog, frog. A frog lives in a tank.",
+        "startTime": 37886,
+        "endTime": 41220,
+        "slowStartTime": 56979,
+        "slowEndTime": 62055
+    },
+    {
+        "text": "Boy, boy, boy. A boy feeds him frog food.",
+        "startTime": 41686,
+        "endTime": 45089,
+        "slowStartTime": 62679,
+        "slowEndTime": 67858
+    },
+    {
+        "text": "Hop, hop, hop. The boy takes the frog outside.",
+        "startTime": 45426,
+        "endTime": 49066,
+        "slowStartTime": 68289,
+        "slowEndTime": 73824
+    },
+    {
+        "text": "Munch, munch, munch. The frog eats a flower.",
+        "startTime": 49183,
+        "endTime": 52431,
+        "slowStartTime": 73924,
+        "slowEndTime": 78871
+    },
+    {
+        "text": "Crunch, crunch, crunch. The frog eats a stick.",
+        "startTime": 52865,
+        "endTime": 56110,
+        "slowStartTime": 79448,
+        "slowEndTime": 84390
+    },
+    {
+        "text": "Yuck, yuck, yuck. Flowers and sticks are not frog food.",
+        "startTime": 56637,
+        "endTime": 61124,
+        "slowStartTime": 85106,
+        "slowEndTime": 91911
+    },
+    {
+        "text": "Buzz, buzz, buzz. The frog eats a fly.",
+        "startTime": 62305,
+        "endTime": 65560,
+        "slowStartTime": 93607,
+        "slowEndTime": 98565
+    },
+    {
+        "text": "Yum, yum, yum. A fly is a very good lunch!",
+        "startTime": 65993,
+        "endTime": 70389,
+        "slowStartTime": 99139,
+        "slowEndTime": 105809
+    }
+]

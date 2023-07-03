@@ -1,0 +1,107 @@
+[
+    {
+        "text": "﻿What should I wear today?",
+        "startTime": 1685,
+        "endTime": 3299,
+        "slowStartTime": 2677,
+        "slowEndTime": 5174
+    },
+    {
+        "text": "T-shirt.",
+        "startTime": 7137,
+        "endTime": 8130,
+        "slowStartTime": 10855,
+        "slowEndTime": 12420
+    },
+    {
+        "text": "T-shirt.",
+        "startTime": 13142,
+        "endTime": 14005,
+        "slowStartTime": 19863,
+        "slowEndTime": 21232
+    },
+    {
+        "text": "Jeans.",
+        "startTime": 21357,
+        "endTime": 22344,
+        "slowStartTime": 32185,
+        "slowEndTime": 33741
+    },
+    {
+        "text": "Jeans.",
+        "startTime": 26089,
+        "endTime": 26993,
+        "slowStartTime": 39284,
+        "slowEndTime": 40715
+    },
+    {
+        "text": "Blouse.",
+        "startTime": 33871,
+        "endTime": 34649,
+        "slowStartTime": 50957,
+        "slowEndTime": 52198
+    },
+    {
+        "text": "Blouse.",
+        "startTime": 39241,
+        "endTime": 40147,
+        "slowStartTime": 59012,
+        "slowEndTime": 60445
+    },
+    {
+        "text": "Skirt.",
+        "startTime": 46941,
+        "endTime": 47786,
+        "slowStartTime": 70562,
+        "slowEndTime": 71904
+    },
+    {
+        "text": "Skirt,",
+        "startTime": 51347,
+        "endTime": 52300,
+        "slowStartTime": 77170,
+        "slowEndTime": 78675
+    },
+    {
+        "text": "Sweater.",
+        "startTime": 58331,
+        "endTime": 59148,
+        "slowStartTime": 87647,
+        "slowEndTime": 88947
+    },
+    {
+        "text": "Sweater.",
+        "startTime": 64311,
+        "endTime": 65376,
+        "slowStartTime": 96617,
+        "slowEndTime": 98289
+    },
+    {
+        "text": "Pants.",
+        "startTime": 71745,
+        "endTime": 72622,
+        "slowStartTime": 107767,
+        "slowEndTime": 109158
+    },
+    {
+        "text": "Pants.",
+        "startTime": 76439,
+        "endTime": 77422,
+        "slowStartTime": 114809,
+        "slowEndTime": 116358
+    },
+    {
+        "text": "Dress.",
+        "startTime": 86487,
+        "endTime": 87469,
+        "slowStartTime": 129880,
+        "slowEndTime": 131429
+    },
+    {
+        "text": "Dress.",
+        "startTime": 91981,
+        "endTime": 92843,
+        "slowStartTime": 138122,
+        "slowEndTime": 139490
+    }
+]

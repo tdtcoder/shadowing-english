@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Hey Chris! Check this out.",
+        "startTime": 400,
+        "endTime": 1700,
+        "slowStartTime": 780,
+        "slowEndTime": 2880
+    },
+    {
+        "text": "Fastball, low and outside.",
+        "startTime": 2050,
+        "endTime": 3300,
+        "slowStartTime": 3275,
+        "slowEndTime": 5000
+    },
+    {
+        "text": "You wanna see one high and tight?",
+        "startTime": 5900,
+        "endTime": 6850,
+        "slowStartTime": 9050,
+        "slowEndTime": 10650
+    },
+    {
+        "text": "Yeah, on the corner.",
+        "startTime": 7000,
+        "endTime": 7800,
+        "slowStartTime": 10740,
+        "slowEndTime": 11805
+    },
+    {
+        "text": "Set up on the corner.",
+        "startTime": 8100,
+        "endTime": 8900,
+        "slowStartTime": 12300,
+        "slowEndTime": 13650
+    },
+    {
+        "text": "That's pretty cool.",
+        "startTime": 10450,
+        "endTime": 11350,
+        "slowStartTime": 15900,
+        "slowEndTime": 17200
+    },
+    {
+        "text": "You wanna see his curve ball?",
+        "startTime": 11750,
+        "endTime": 12950,
+        "slowStartTime": 17800,
+        "slowEndTime": 19675
+    },
+    {
+        "text": "His curve ball?",
+        "startTime": 13700,
+        "endTime": 14600,
+        "slowStartTime": 20600,
+        "slowEndTime": 22215
+    },
+    {
+        "text": "Just a bit outside.",
+        "startTime": 22550,
+        "endTime": 24000,
+        "slowStartTime": 34100,
+        "slowEndTime": 36310
+    },
+    {
+        "text": "Mariners Baseball. My, oh my!",
+        "startTime": 26200,
+        "endTime": 29200,
+        "slowStartTime": 39500,
+        "slowEndTime": 44120
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Rakuten Travel operates Japan's largest internet hotel reservation site,...",
+        "startTime": 1130,
+        "endTime": 5300,
+        "slowStartTime": 1760,
+        "slowEndTime": 8040
+    },
+    {
+        "text": "...serving an accumulative total of over 100 million users as of 2008.",
+        "startTime": 5630,
+        "endTime": 9670,
+        "slowStartTime": 8520,
+        "slowEndTime": 14560
+    },
+    {
+        "text": "The reason we upgraded to Oracle Database 11G...",
+        "startTime": 10870,
+        "endTime": 14040,
+        "slowStartTime": 16340,
+        "slowEndTime": 21230
+    },
+    {
+        "text": "...was to serve more customers by expanding the system capability.",
+        "startTime": 14580,
+        "endTime": 18450,
+        "slowStartTime": 21950,
+        "slowEndTime": 27730
+    },
+    {
+        "text": "Another reason for upgrading to Oracle Database 11G was to boost data search speeds.",
+        "startTime": 20680,
+        "endTime": 26990,
+        "slowStartTime": 31100,
+        "slowEndTime": 40470
+    },
+    {
+        "text": "Currently, we are using Oracle Automatic Storage Management...",
+        "startTime": 31890,
+        "endTime": 35030,
+        "slowStartTime": 48020,
+        "slowEndTime": 52570
+    },
+    {
+        "text": "...and Oracle Clusterware as a foundation for all our Rakuten Travel systems.",
+        "startTime": 35360,
+        "endTime": 39630,
+        "slowStartTime": 53170,
+        "slowEndTime": 59510
+    },
+    {
+        "text": "In addition, we are using Oracle Enterprise Manager for managing operations.",
+        "startTime": 41000,
+        "endTime": 45440,
+        "slowStartTime": 61560,
+        "slowEndTime": 68250
+    },
+    {
+        "text": "We chose Oracle Database products,...",
+        "startTime": 49150,
+        "endTime": 51180,
+        "slowStartTime": 73820,
+        "slowEndTime": 76880
+    },
+    {
+        "text": "...primarily because they enable us to offer a more stable service to our customers on a continuous basis.",
+        "startTime": 51380,
+        "endTime": 57120,
+        "slowStartTime": 77195,
+        "slowEndTime": 85790
+    },
+    {
+        "text": "Also, we highly value Oracle's extremely comprehensive support system.",
+        "startTime": 57850,
+        "endTime": 62260,
+        "slowStartTime": 86820,
+        "slowEndTime": 93350
+    },
+    {
+        "text": "By investing in Oracle database and hardware upgrades,...",
+        "startTime": 65360,
+        "endTime": 68460,
+        "slowStartTime": 98180,
+        "slowEndTime": 102750
+    },
+    {
+        "text": "...we have been able to achieve a 60% increase in performance,...",
+        "startTime": 68900,
+        "endTime": 72630,
+        "slowStartTime": 103380,
+        "slowEndTime": 109040
+    },
+    {
+        "text": "...providing the maximum return for the least investment.",
+        "startTime": 73130,
+        "endTime": 76670,
+        "slowStartTime": 109830,
+        "slowEndTime": 115030
+    },
+    {
+        "text": "By using Automatic Storage Management,...",
+        "startTime": 80410,
+        "endTime": 82780,
+        "slowStartTime": 120700,
+        "slowEndTime": 124170
+    },
+    {
+        "text": "...we have been able to reduce operational and management cost,...",
+        "startTime": 83080,
+        "endTime": 86680,
+        "slowStartTime": 124760,
+        "slowEndTime": 130010
+    },
+    {
+        "text": "...by eliminating the work our database engineers had to perform two to three times a month.",
+        "startTime": 86880,
+        "endTime": 92650,
+        "slowStartTime": 130445,
+        "slowEndTime": 139050
+    },
+    {
+        "text": "In the past when we needed to add nodes, we had to shut down the database system.",
+        "startTime": 95690,
+        "endTime": 100160,
+        "slowStartTime": 143620,
+        "slowEndTime": 150200
+    },
+    {
+        "text": "But now with the adoption of Oracle Clusterware, we are able to add nodes online,...",
+        "startTime": 100660,
+        "endTime": 105170,
+        "slowStartTime": 151100,
+        "slowEndTime": 157965
+    },
+    {
+        "text": "...reducing the amount of downtime to the bare minimum.",
+        "startTime": 105430,
+        "endTime": 108140,
+        "slowStartTime": 158240,
+        "slowEndTime": 162260
+    },
+    {
+        "text": "Amid the current austere economic conditions,...",
+        "startTime": 110270,
+        "endTime": 112670,
+        "slowStartTime": 165485,
+        "slowEndTime": 169130
+    },
+    {
+        "text": "...Oracle has helped us a great deal: generating the maximum return...",
+        "startTime": 113140,
+        "endTime": 117450,
+        "slowStartTime": 169750,
+        "slowEndTime": 176240
+    },
+    {
+        "text": "...whilst cutting downtime and keeping cost to the minimum.",
+        "startTime": 117910,
+        "endTime": 120750,
+        "slowStartTime": 176890,
+        "slowEndTime": 181090
+    }
+]

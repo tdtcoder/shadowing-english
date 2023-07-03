@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Hi! I'm Daniel.",
+        "startTime": 3318,
+        "endTime": 4517,
+        "slowStartTime": 5127,
+        "slowEndTime": 7000
+    },
+    {
+        "text": "I'm your new English teacher.",
+        "startTime": 4733,
+        "endTime": 6283,
+        "slowStartTime": 7250,
+        "slowEndTime": 9650
+    },
+    {
+        "text": "Hi, Daniel! Nice to meet you.",
+        "startTime": 6697,
+        "endTime": 8779,
+        "slowStartTime": 10196,
+        "slowEndTime": 13394
+    },
+    {
+        "text": "I'm Sue.",
+        "startTime": 9050,
+        "endTime": 9817,
+        "slowStartTime": 13725,
+        "slowEndTime": 14951
+    },
+    {
+        "text": "Nice to meet you too, Sue.",
+        "startTime": 10161,
+        "endTime": 11641,
+        "slowStartTime": 15391,
+        "slowEndTime": 17687
+    },
+    {
+        "text": "Could you introduce yourself?",
+        "startTime": 12003,
+        "endTime": 13322,
+        "slowStartTime": 18154,
+        "slowEndTime": 20208
+    },
+    {
+        "text": "Sure. I'm from Busan.",
+        "startTime": 13582,
+        "endTime": 15315,
+        "slowStartTime": 20523,
+        "slowEndTime": 23197
+    },
+    {
+        "text": "I'm a college student now.",
+        "startTime": 15651,
+        "endTime": 17053,
+        "slowStartTime": 23627,
+        "slowEndTime": 25805
+    },
+    {
+        "text": "I'm single.",
+        "startTime": 17416,
+        "endTime": 18114,
+        "slowStartTime": 26274,
+        "slowEndTime": 27396
+    },
+    {
+        "text": "I like sports.",
+        "startTime": 18473,
+        "endTime": 19485,
+        "slowStartTime": 27860,
+        "slowEndTime": 29452
+    },
+    {
+        "text": "I love skiing and snowboarding.",
+        "startTime": 19841,
+        "endTime": 21653,
+        "slowStartTime": 29911,
+        "slowEndTime": 32704
+    },
+    {
+        "text": "My favorite season is winter.",
+        "startTime": 22132,
+        "endTime": 23803,
+        "slowStartTime": 33348,
+        "slowEndTime": 35930
+    },
+    {
+        "text": "I don't like summer.",
+        "startTime": 24265,
+        "endTime": 25351,
+        "slowStartTime": 36548,
+        "slowEndTime": 38252
+    },
+    {
+        "text": "Good. Do you have any questions?",
+        "startTime": 25929,
+        "endTime": 27817,
+        "slowStartTime": 39044,
+        "slowEndTime": 41951
+    },
+    {
+        "text": "Where are you from?",
+        "startTime": 28252,
+        "endTime": 29299,
+        "slowStartTime": 42528,
+        "slowEndTime": 44174
+    },
+    {
+        "text": "I'm from Toronto. I'm Canadian.",
+        "startTime": 29548,
+        "endTime": 31486,
+        "slowStartTime": 44472,
+        "slowEndTime": 47454
+    },
+    {
+        "text": "Do you like ice hockey?",
+        "startTime": 31916,
+        "endTime": 33300,
+        "slowStartTime": 48024,
+        "slowEndTime": 50175
+    },
+    {
+        "text": "Yes, I do.",
+        "startTime": 33579,
+        "endTime": 34355,
+        "slowStartTime": 50518,
+        "slowEndTime": 51758
+    },
+    {
+        "text": "It's a very popular sport in Canada.",
+        "startTime": 34588,
+        "endTime": 36717,
+        "slowStartTime": 52032,
+        "slowEndTime": 55300
+    },
+    {
+        "text": "I see.",
+        "startTime": 37037,
+        "endTime": 37722,
+        "slowStartTime": 55706,
+        "slowEndTime": 56808
+    }
+]

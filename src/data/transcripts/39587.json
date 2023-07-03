@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Can I get your phone number, please?",
+        "startTime": 193,
+        "endTime": 1895,
+        "slowStartTime": 440,
+        "slowEndTime": 3068
+    },
+    {
+        "text": "Yes, my phone number is 877-05912.",
+        "startTime": 2889,
+        "endTime": 7629,
+        "slowStartTime": 4484,
+        "slowEndTime": 11668
+    },
+    {
+        "text": "I'm sorry. Is the first number 8?",
+        "startTime": 7835,
+        "endTime": 9898,
+        "slowStartTime": 11903,
+        "slowEndTime": 15072
+    },
+    {
+        "text": "Yes, it is.",
+        "startTime": 10927,
+        "endTime": 11779,
+        "slowStartTime": 16540,
+        "slowEndTime": 17894
+    },
+    {
+        "text": "Can I get your phone number, please?",
+        "startTime": 16164,
+        "endTime": 17995,
+        "slowStartTime": 24396,
+        "slowEndTime": 27218
+    },
+    {
+        "text": "Yes, it's 867-05912.",
+        "startTime": 19394,
+        "endTime": 23816,
+        "slowStartTime": 29241,
+        "slowEndTime": 35949
+    },
+    {
+        "text": "Sorry. Is the third number 6?",
+        "startTime": 25039,
+        "endTime": 27681,
+        "slowStartTime": 37708,
+        "slowEndTime": 41746
+    },
+    {
+        "text": "No, it's 7.",
+        "startTime": 28629,
+        "endTime": 30224,
+        "slowStartTime": 43094,
+        "slowEndTime": 45561
+    }
+]

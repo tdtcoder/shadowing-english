@@ -1,0 +1,72 @@
+[
+    {
+        "text": "The lungs bring oxygen into the body when you breathe.",
+        "startTime": 770,
+        "endTime": 3707,
+        "slowStartTime": 1305,
+        "slowEndTime": 5785
+    },
+    {
+        "text": "From there, it has to find its way to every other part of your body,...",
+        "startTime": 3936,
+        "endTime": 6917,
+        "slowStartTime": 6054,
+        "slowEndTime": 10601
+    },
+    {
+        "text": "...and the blood is its delivery service.",
+        "startTime": 7281,
+        "endTime": 9212,
+        "slowStartTime": 11072,
+        "slowEndTime": 14043
+    },
+    {
+        "text": "The heart pumps blood to the lungs to pick up oxygen...",
+        "startTime": 9523,
+        "endTime": 12181,
+        "slowStartTime": 14434,
+        "slowEndTime": 18497
+    },
+    {
+        "text": "...then pumps the oxygenated blood out to the rest of the body.",
+        "startTime": 12412,
+        "endTime": 15511,
+        "slowStartTime": 18768,
+        "slowEndTime": 23491
+    },
+    {
+        "text": "After the blood has delivered all the oxygen,...",
+        "startTime": 15970,
+        "endTime": 18464,
+        "slowStartTime": 24105,
+        "slowEndTime": 27921
+    },
+    {
+        "text": "...it picks up carbon dioxide, a waste product.",
+        "startTime": 18729,
+        "endTime": 21444,
+        "slowStartTime": 28243,
+        "slowEndTime": 32391
+    },
+    {
+        "text": "Then the blood goes back to the lungs to drop off the carbon dioxide...",
+        "startTime": 21841,
+        "endTime": 25367,
+        "slowStartTime": 32912,
+        "slowEndTime": 38276
+    },
+    {
+        "text": "...and pick up more oxygen.",
+        "startTime": 25443,
+        "endTime": 27123,
+        "slowStartTime": 38315,
+        "slowEndTime": 40910
+    },
+    {
+        "text": "And the whole process begins again.",
+        "startTime": 27462,
+        "endTime": 30219,
+        "slowStartTime": 41343,
+        "slowEndTime": 45554
+    }
+]

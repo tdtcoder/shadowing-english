@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Hi there, my name is Earl.",
+        "startTime": 618,
+        "endTime": 1957,
+        "slowStartTime": 1077,
+        "slowEndTime": 3161
+    },
+    {
+        "text": "And who are you?",
+        "startTime": 2286,
+        "endTime": 3008,
+        "slowStartTime": 3579,
+        "slowEndTime": 4737
+    },
+    {
+        "text": "Good morning, my name is Jason.",
+        "startTime": 4784,
+        "endTime": 6217,
+        "slowStartTime": 7326,
+        "slowEndTime": 9550
+    },
+    {
+        "text": "And who might you be?",
+        "startTime": 6629,
+        "endTime": 7498,
+        "slowStartTime": 10094,
+        "slowEndTime": 11472
+    },
+    {
+        "text": "Hello. You must be Matthew.",
+        "startTime": 9726,
+        "endTime": 11269,
+        "slowStartTime": 14739,
+        "slowEndTime": 17128
+    },
+    {
+        "text": "Nice to meet you. My name is Earl.",
+        "startTime": 11666,
+        "endTime": 13295,
+        "slowStartTime": 17649,
+        "slowEndTime": 20167
+    },
+    {
+        "text": "It's time for me to head out!",
+        "startTime": 15645,
+        "endTime": 16761,
+        "slowStartTime": 23618,
+        "slowEndTime": 25367
+    },
+    {
+        "text": "See you guys tomorrow.",
+        "startTime": 17030,
+        "endTime": 17946,
+        "slowStartTime": 25695,
+        "slowEndTime": 27144
+    },
+    {
+        "text": "I must be going now.",
+        "startTime": 20038,
+        "endTime": 20972,
+        "slowStartTime": 30207,
+        "slowEndTime": 31683
+    },
+    {
+        "text": "Have a good evening.",
+        "startTime": 21105,
+        "endTime": 21871,
+        "slowStartTime": 31807,
+        "slowEndTime": 33031
+    },
+    {
+        "text": "Bye now.",
+        "startTime": 24147,
+        "endTime": 24623,
+        "slowStartTime": 36371,
+        "slowEndTime": 37159
+    },
+    {
+        "text": "See you next time.",
+        "startTime": 24719,
+        "endTime": 25617,
+        "slowStartTime": 37228,
+        "slowEndTime": 38650
+    }
+]

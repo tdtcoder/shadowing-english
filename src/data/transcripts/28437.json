@@ -1,0 +1,170 @@
+[
+    {
+        "text": "﻿My name is Alexa and I live with an Alexa.",
+        "startTime": 935,
+        "endTime": 4353,
+        "slowStartTime": 1553,
+        "slowEndTime": 6755
+    },
+    {
+        "text": "Sorry, I didn't understand the question I heard.",
+        "startTime": 5121,
+        "endTime": 7963,
+        "slowStartTime": 7832,
+        "slowEndTime": 12170
+    },
+    {
+        "text": "The first time I realized there was trouble with having a robot...",
+        "startTime": 16819,
+        "endTime": 19662,
+        "slowStartTime": 25379,
+        "slowEndTime": 29718
+    },
+    {
+        "text": "...share my name in my house...",
+        "startTime": 19813,
+        "endTime": 21215,
+        "slowStartTime": 29870,
+        "slowEndTime": 32048
+    },
+    {
+        "text": "...was when I realized my parents would talk more to the robot than to me.",
+        "startTime": 21603,
+        "endTime": 26073,
+        "slowStartTime": 32554,
+        "slowEndTime": 39335
+    },
+    {
+        "text": "Alexa, get me some water.",
+        "startTime": 27459,
+        "endTime": 28993,
+        "slowStartTime": 41338,
+        "slowEndTime": 43715
+    },
+    {
+        "text": "Amazon's choice for water is Fiji Natural Artesian Water.",
+        "startTime": 29755,
+        "endTime": 33219,
+        "slowStartTime": 44783,
+        "slowEndTime": 50054
+    },
+    {
+        "text": "Would you like to buy it?",
+        "startTime": 33497,
+        "endTime": 34543,
+        "slowStartTime": 50396,
+        "slowEndTime": 52040
+    },
+    {
+        "text": "They would ask her for things like the weather or to play a game...",
+        "startTime": 34810,
+        "endTime": 39529,
+        "slowStartTime": 52365,
+        "slowEndTime": 59519
+    },
+    {
+        "text": "...or to play music, even though I wanted to listen to music...",
+        "startTime": 39685,
+        "endTime": 43003,
+        "slowStartTime": 59677,
+        "slowEndTime": 64729
+    },
+    {
+        "text": "...and I wanna play games too.",
+        "startTime": 43095,
+        "endTime": 44875,
+        "slowStartTime": 64792,
+        "slowEndTime": 67537
+    },
+    {
+        "text": "I think I've got it.",
+        "startTime": 45125,
+        "endTime": 46231,
+        "slowStartTime": 67837,
+        "slowEndTime": 69571
+    },
+    {
+        "text": "You are thinking of Tinkerbell.",
+        "startTime": 46445,
+        "endTime": 48011,
+        "slowStartTime": 69818,
+        "slowEndTime": 72242
+    },
+    {
+        "text": "Thanks for playing.",
+        "startTime": 48290,
+        "endTime": 49421,
+        "slowStartTime": 72585,
+        "slowEndTime": 74356
+    },
+    {
+        "text": "A day in the life of having two Alexas in a house is a lot of confusion.",
+        "startTime": 49877,
+        "endTime": 54328,
+        "slowStartTime": 74966,
+        "slowEndTime": 81717
+    },
+    {
+        "text": "There's a lot of stopping.",
+        "startTime": 54740,
+        "endTime": 55817,
+        "slowStartTime": 82260,
+        "slowEndTime": 83951
+    },
+    {
+        "text": "\"Are you talking to me?\"",
+        "startTime": 55922,
+        "endTime": 56902,
+        "slowStartTime": 84033,
+        "slowEndTime": 85578
+    },
+    {
+        "text": "\"Are you talking to the robot?\"",
+        "startTime": 57019,
+        "endTime": 58559,
+        "slowStartTime": 85679,
+        "slowEndTime": 88063
+    },
+    {
+        "text": "You never know.",
+        "startTime": 58664,
+        "endTime": 59483,
+        "slowStartTime": 88146,
+        "slowEndTime": 89450
+    },
+    {
+        "text": "One time, I was playing with my dogs and my mom's from the kitchen yelling,...",
+        "startTime": 59896,
+        "endTime": 64141,
+        "slowStartTime": 89994,
+        "slowEndTime": 96437
+    },
+    {
+        "text": "\"Alexa, stop!\"",
+        "startTime": 64237,
+        "endTime": 65185,
+        "slowStartTime": 96506,
+        "slowEndTime": 98002
+    },
+    {
+        "text": "And I'm thinking I'm doing something wrong.",
+        "startTime": 65276,
+        "endTime": 67079,
+        "slowStartTime": 98064,
+        "slowEndTime": 100844
+    },
+    {
+        "text": "Am I hurting the dog?",
+        "startTime": 67163,
+        "endTime": 68273,
+        "slowStartTime": 100894,
+        "slowEndTime": 102634
+    },
+    {
+        "text": "My worst nightmare.",
+        "startTime": 68569,
+        "endTime": 69671,
+        "slowStartTime": 103003,
+        "slowEndTime": 104731
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "text": "This is iPhone X.",
+        "startTime": 1064,
+        "endTime": 2676,
+        "slowStartTime": 1746,
+        "slowEndTime": 4239
+    },
+    {
+        "text": "Developing the form and display together defines a whole new integration,...",
+        "startTime": 5554,
+        "endTime": 10423,
+        "slowStartTime": 8481,
+        "slowEndTime": 15859
+    },
+    {
+        "text": "...making the boundary between the device and the screen hard to discern.",
+        "startTime": 11148,
+        "endTime": 15146,
+        "slowStartTime": 16872,
+        "slowEndTime": 22944
+    },
+    {
+        "text": "This new glass formulation, the most durable ever in a smartphone,...",
+        "startTime": 15988,
+        "endTime": 19975,
+        "slowStartTime": 24132,
+        "slowEndTime": 30187
+    },
+    {
+        "text": "...enables for the first time wireless charging.",
+        "startTime": 20238,
+        "endTime": 23415,
+        "slowStartTime": 30507,
+        "slowEndTime": 35347
+    },
+    {
+        "text": "Our new True Depth camera system, contained within this tiny space,...",
+        "startTime": 25841,
+        "endTime": 30281,
+        "slowStartTime": 38911,
+        "slowEndTime": 45646
+    },
+    {
+        "text": "...uses extraordinary depth sensing technology to let you unlock your phone with a glance.",
+        "startTime": 30666,
+        "endTime": 36905,
+        "slowStartTime": 46149,
+        "slowEndTime": 55582
+    },
+    {
+        "text": "We call this Face ID.",
+        "startTime": 39080,
+        "endTime": 40824,
+        "slowStartTime": 58770,
+        "slowEndTime": 61461
+    },
+    {
+        "text": "It maps the unique geometry of your face with over 30,000 invisible dots.",
+        "startTime": 41995,
+        "endTime": 47581,
+        "slowStartTime": 63143,
+        "slowEndTime": 71597
+    },
+    {
+        "text": "This data is analyzed by the neural engine on the A11 bionic chip,...",
+        "startTime": 49833,
+        "endTime": 54555,
+        "slowStartTime": 74899,
+        "slowEndTime": 82058
+    },
+    {
+        "text": "...the first of its kind.",
+        "startTime": 54854,
+        "endTime": 56352,
+        "slowStartTime": 82431,
+        "slowEndTime": 84753
+    },
+    {
+        "text": "Your iPhone now recognizes you, even in the dark...",
+        "startTime": 57715,
+        "endTime": 62077,
+        "slowStartTime": 86723,
+        "slowEndTime": 93340
+    },
+    {
+        "text": "...and will adapt to your physical changes.",
+        "startTime": 62248,
+        "endTime": 64657,
+        "slowStartTime": 93522,
+        "slowEndTime": 97210
+    },
+    {
+        "text": "This makes your face your secure password.",
+        "startTime": 66337,
+        "endTime": 69350,
+        "slowStartTime": 99656,
+        "slowEndTime": 104250
+    },
+    {
+        "text": "So, with just a look, you can authenticate your phone or use Apple Pay.",
+        "startTime": 70055,
+        "endTime": 74733,
+        "slowStartTime": 105233,
+        "slowEndTime": 112324
+    }
+]

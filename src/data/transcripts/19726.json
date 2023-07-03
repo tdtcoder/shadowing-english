@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Trans Air 275, active runway 14, winds calm, altimeter 2993.",
+        "startTime": 13717,
+        "endTime": 19347,
+        "slowStartTime": 20726,
+        "slowEndTime": 29246
+    },
+    {
+        "text": "Roger, Trans Air 275, we are two miles on final for 14.",
+        "startTime": 20957,
+        "endTime": 24578,
+        "slowStartTime": 31586,
+        "slowEndTime": 37092
+    },
+    {
+        "text": "It's not only aircraft that can wander onto an active runway.",
+        "startTime": 27776,
+        "endTime": 31394,
+        "slowStartTime": 41814,
+        "slowEndTime": 47316
+    },
+    {
+        "text": "Our Truck 20 leaving garage for Air Eastern hangar.",
+        "startTime": 32922,
+        "endTime": 35815,
+        "slowStartTime": 49533,
+        "slowEndTime": 53947
+    },
+    {
+        "text": "Truck 20, proceed via Bravo, Charlie, Echo.",
+        "startTime": 37644,
+        "endTime": 41029,
+        "slowStartTime": 56616,
+        "slowEndTime": 61769
+    },
+    {
+        "text": "Hold short of runway 14, traffic on final.",
+        "startTime": 41295,
+        "endTime": 43783,
+        "slowStartTime": 62093,
+        "slowEndTime": 65899
+    },
+    {
+        "text": "Roger.",
+        "startTime": 46084,
+        "endTime": 46497,
+        "slowStartTime": 69276,
+        "slowEndTime": 69970
+    },
+    {
+        "text": "Bravo, Echo, Charlie, hold short of 14; truck 20.",
+        "startTime": 47109,
+        "endTime": 51633,
+        "slowStartTime": 70813,
+        "slowEndTime": 77674
+    },
+    {
+        "text": "Truck 20, that's CHARLIE ECHO.",
+        "startTime": 52240,
+        "endTime": 54276,
+        "slowStartTime": 78510,
+        "slowEndTime": 81639
+    },
+    {
+        "text": "Roger.",
+        "startTime": 55532,
+        "endTime": 55917,
+        "slowStartTime": 83448,
+        "slowEndTime": 84100
+    },
+    {
+        "text": "The driver of this truck...",
+        "startTime": 58761,
+        "endTime": 59931,
+        "slowStartTime": 88292,
+        "slowEndTime": 90121
+    },
+    {
+        "text": "...doesn't understand the directions he's been given by the Flight Service Specialist.",
+        "startTime": 60121,
+        "endTime": 63891,
+        "slowStartTime": 90331,
+        "slowEndTime": 96062
+    },
+    {
+        "text": "He thinks he'll annoy him by asking for clarification.",
+        "startTime": 64350,
+        "endTime": 67147,
+        "slowStartTime": 96675,
+        "slowEndTime": 100945
+    },
+    {
+        "text": "The Flight Service Specialist hears the uncertainty in the driver's messages,...",
+        "startTime": 70233,
+        "endTime": 74104,
+        "slowStartTime": 105500,
+        "slowEndTime": 111381
+    },
+    {
+        "text": "...but he assumes the driver is fully aware...",
+        "startTime": 74626,
+        "endTime": 76758,
+        "slowStartTime": 112089,
+        "slowEndTime": 115362
+    },
+    {
+        "text": "...he's approaching the active runway,...",
+        "startTime": 77036,
+        "endTime": 78733,
+        "slowStartTime": 115704,
+        "slowEndTime": 118325
+    },
+    {
+        "text": "...and that there is an aircraft on final.",
+        "startTime": 79064,
+        "endTime": 80810,
+        "slowStartTime": 118746,
+        "slowEndTime": 121440
+    },
+    {
+        "text": "Preoccupied with finding his way,...",
+        "startTime": 82557,
+        "endTime": 84324,
+        "slowStartTime": 123985,
+        "slowEndTime": 126711
+    },
+    {
+        "text": "...the vehicle operator rolls through the hold line at runway one-four...",
+        "startTime": 84849,
+        "endTime": 88647,
+        "slowStartTime": 127423,
+        "slowEndTime": 133195
+    },
+    {
+        "text": "Truck 20, get off the runway.",
+        "startTime": 91159,
+        "endTime": 92735,
+        "slowStartTime": 136889,
+        "slowEndTime": 139327
+    },
+    {
+        "text": "Now!",
+        "startTime": 92882,
+        "endTime": 93223,
+        "slowStartTime": 139473,
+        "slowEndTime": 140060
+    },
+    {
+        "text": "This time, the Flight Service Specialist noticed the truck approaching the runway,...",
+        "startTime": 102013,
+        "endTime": 105889,
+        "slowStartTime": 153170,
+        "slowEndTime": 159059
+    },
+    {
+        "text": "...but it could be a different story at night or in poor visibility.",
+        "startTime": 107249,
+        "endTime": 110667,
+        "slowStartTime": 161023,
+        "slowEndTime": 166225
+    }
+]

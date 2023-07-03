@@ -1,0 +1,79 @@
+[
+    {
+        "text": "I'm calling to confirm that I've received your order by fax.",
+        "startTime": 2200,
+        "endTime": 5670,
+        "slowStartTime": 3410,
+        "slowEndTime": 8535
+    },
+    {
+        "text": "However, we need to discuss the payment schedule for your order.",
+        "startTime": 5900,
+        "endTime": 9170,
+        "slowStartTime": 8960,
+        "slowEndTime": 13770
+    },
+    {
+        "text": "Can I get back to you about this?",
+        "startTime": 9970,
+        "endTime": 11710,
+        "slowStartTime": 15010,
+        "slowEndTime": 17630
+    },
+    {
+        "text": "I don't usually deal with payments and the person who usually handles them is out to lunch.",
+        "startTime": 12080,
+        "endTime": 17350,
+        "slowStartTime": 18190,
+        "slowEndTime": 26030
+    },
+    {
+        "text": "I see. Would you like me to explain the payment options to that person?",
+        "startTime": 17680,
+        "endTime": 21880,
+        "slowStartTime": 26585,
+        "slowEndTime": 32785
+    },
+    {
+        "text": "I think we talked about that when we met here in my office.",
+        "startTime": 22420,
+        "endTime": 25330,
+        "slowStartTime": 33760,
+        "slowEndTime": 38100
+    },
+    {
+        "text": "I think you can leave it to me to inform her of the payment options.",
+        "startTime": 25620,
+        "endTime": 29490,
+        "slowStartTime": 38535,
+        "slowEndTime": 44165
+    },
+    {
+        "text": "When you have decided on the option you'd like to use, please call me back.",
+        "startTime": 29890,
+        "endTime": 34070,
+        "slowStartTime": 44895,
+        "slowEndTime": 51170
+    },
+    {
+        "text": "I'll do that.",
+        "startTime": 34300,
+        "endTime": 35060,
+        "slowStartTime": 51565,
+        "slowEndTime": 52700
+    },
+    {
+        "text": "Is there anything else we need to discuss regarding our order?",
+        "startTime": 35440,
+        "endTime": 38570,
+        "slowStartTime": 53255,
+        "slowEndTime": 57885
+    },
+    {
+        "text": "No. Once we organize the payment schedule, everything will be set.",
+        "startTime": 38760,
+        "endTime": 43070,
+        "slowStartTime": 58165,
+        "slowEndTime": 64635
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Mr. Tanaka, thank you for coming.",
+        "startTime": 766,
+        "endTime": 2448,
+        "slowStartTime": 1299,
+        "slowEndTime": 3897
+    },
+    {
+        "text": "Please.",
+        "startTime": 2789,
+        "endTime": 3155,
+        "slowStartTime": 4334,
+        "slowEndTime": 4957
+    },
+    {
+        "text": "Well Maurice, I think you're going to be really happy with our new platform.",
+        "startTime": 6414,
+        "endTime": 10603,
+        "slowStartTime": 9771,
+        "slowEndTime": 16129
+    },
+    {
+        "text": "I don't know, I looked at the numbers.",
+        "startTime": 10877,
+        "endTime": 12699,
+        "slowStartTime": 16466,
+        "slowEndTime": 19273
+    },
+    {
+        "text": "Maurice, we both know they are great numbers.",
+        "startTime": 12911,
+        "endTime": 16129,
+        "slowStartTime": 19517,
+        "slowEndTime": 24418
+    },
+    {
+        "text": "Well, they're okay.",
+        "startTime": 16452,
+        "endTime": 18067,
+        "slowStartTime": 24828,
+        "slowEndTime": 27326
+    },
+    {
+        "text": "It's exactly the type of lift that your company needs, Maurice.",
+        "startTime": 18479,
+        "endTime": 22349,
+        "slowStartTime": 27869,
+        "slowEndTime": 33749
+    },
+    {
+        "text": "Oh yeah, now we could use a lift.",
+        "startTime": 25227,
+        "endTime": 27579,
+        "slowStartTime": 37991,
+        "slowEndTime": 41594
+    },
+    {
+        "text": "It's worked wonders for other departments, Maurice.",
+        "startTime": 28184,
+        "endTime": 31402,
+        "slowStartTime": 42426,
+        "slowEndTime": 47328
+    },
+    {
+        "text": "Oh yeah?",
+        "startTime": 32325,
+        "endTime": 32876,
+        "slowStartTime": 48637,
+        "slowEndTime": 49539
+    },
+    {
+        "text": "And Maurice, we'll put your team on top.",
+        "startTime": 33387,
+        "endTime": 37515,
+        "slowStartTime": 50231,
+        "slowEndTime": 56497
+    },
+    {
+        "text": "Let's do it.",
+        "startTime": 39925,
+        "endTime": 40688,
+        "slowStartTime": 60038,
+        "slowEndTime": 61257
+    },
+    {
+        "text": "Great choice, Maurice.",
+        "startTime": 41427,
+        "endTime": 43869,
+        "slowStartTime": 62290,
+        "slowEndTime": 66029
+    },
+    {
+        "text": "Maurice.",
+        "startTime": 47895,
+        "endTime": 49083,
+        "slowStartTime": 71992,
+        "slowEndTime": 73850
+    }
+]

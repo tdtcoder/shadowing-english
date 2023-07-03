@@ -1,0 +1,86 @@
+[
+    {
+        "text": "So, to sum up, I think we are all aware...",
+        "startTime": 549,
+        "endTime": 3435,
+        "slowStartTime": 974,
+        "slowEndTime": 5377
+    },
+    {
+        "text": "...that some urgent work does need to be done.",
+        "startTime": 3546,
+        "endTime": 5959,
+        "slowStartTime": 5469,
+        "slowEndTime": 9163
+    },
+    {
+        "text": "...and we will need to work on a longer term plan for a major refit.",
+        "startTime": 6274,
+        "endTime": 10589,
+        "slowStartTime": 9561,
+        "slowEndTime": 16108
+    },
+    {
+        "text": "Well, if there's no more discussion, we'll put it to a vote.",
+        "startTime": 11542,
+        "endTime": 15335,
+        "slowStartTime": 17463,
+        "slowEndTime": 23227
+    },
+    {
+        "text": "We are recommending that tenders be called for the urgent work needed.",
+        "startTime": 16097,
+        "endTime": 20127,
+        "slowStartTime": 24296,
+        "slowEndTime": 30416
+    },
+    {
+        "text": "All those in favor?",
+        "startTime": 20574,
+        "endTime": 21660,
+        "slowStartTime": 31011,
+        "slowEndTime": 32715
+    },
+    {
+        "text": "All those against?",
+        "startTime": 23020,
+        "endTime": 24268,
+        "slowStartTime": 34680,
+        "slowEndTime": 36627
+    },
+    {
+        "text": "Then that's agreed.",
+        "startTime": 25348,
+        "endTime": 26325,
+        "slowStartTime": 38172,
+        "slowEndTime": 39713
+    },
+    {
+        "text": "Any other business?",
+        "startTime": 26885,
+        "endTime": 28091,
+        "slowStartTime": 40477,
+        "slowEndTime": 42361
+    },
+    {
+        "text": "Then we'll close the meeting.",
+        "startTime": 28791,
+        "endTime": 30031,
+        "slowStartTime": 43337,
+        "slowEndTime": 45272
+    },
+    {
+        "text": "Thank you everyone.",
+        "startTime": 30577,
+        "endTime": 31518,
+        "slowStartTime": 46015,
+        "slowEndTime": 47502
+    },
+    {
+        "text": "The next meeting will be in two weeks at the same time.",
+        "startTime": 31822,
+        "endTime": 35219,
+        "slowStartTime": 47883,
+        "slowEndTime": 53054
+    }
+]

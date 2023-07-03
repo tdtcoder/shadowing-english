@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Asthma is a chronic disease of the lungs...",
+        "startTime": 4200,
+        "endTime": 5951,
+        "slowStartTime": 6450,
+        "slowEndTime": 9152
+    },
+    {
+        "text": "...and it can occur as early as six months.",
+        "startTime": 6430,
+        "endTime": 8539,
+        "slowStartTime": 9795,
+        "slowEndTime": 13033
+    },
+    {
+        "text": "It can occur later in life as well.",
+        "startTime": 8663,
+        "endTime": 10329,
+        "slowStartTime": 13145,
+        "slowEndTime": 15719
+    },
+    {
+        "text": "Normally, the way your lung functions is that you have airways...",
+        "startTime": 10679,
+        "endTime": 13945,
+        "slowStartTime": 16168,
+        "slowEndTime": 21143
+    },
+    {
+        "text": "...that go from your mouth into your lungs and they end up in little air sacs.",
+        "startTime": 14023,
+        "endTime": 18135,
+        "slowStartTime": 21184,
+        "slowEndTime": 27427
+    },
+    {
+        "text": "In the normal lung, those tubes are wide open.",
+        "startTime": 18379,
+        "endTime": 20801,
+        "slowStartTime": 27719,
+        "slowEndTime": 31427
+    },
+    {
+        "text": "It makes it very easy for air to flow in and out.",
+        "startTime": 21077,
+        "endTime": 23233,
+        "slowStartTime": 31765,
+        "slowEndTime": 35074
+    },
+    {
+        "text": "In somebody with asthma, those tubes or airways are narrow...",
+        "startTime": 23630,
+        "endTime": 27163,
+        "slowStartTime": 35595,
+        "slowEndTime": 40970
+    },
+    {
+        "text": "...because the wall of the tube is inflamed,...",
+        "startTime": 27311,
+        "endTime": 29923,
+        "slowStartTime": 41117,
+        "slowEndTime": 45110
+    },
+    {
+        "text": "...so that makes it more difficult to breathe in someone with asthma.",
+        "startTime": 30077,
+        "endTime": 33382,
+        "slowStartTime": 45265,
+        "slowEndTime": 50298
+    },
+    {
+        "text": "It's like breathing through a straw.",
+        "startTime": 33457,
+        "endTime": 34527,
+        "slowStartTime": 50335,
+        "slowEndTime": 52015
+    },
+    {
+        "text": "Children with asthma can have different signs, also known as symptoms.",
+        "startTime": 34955,
+        "endTime": 38815,
+        "slowStartTime": 52583,
+        "slowEndTime": 58448
+    },
+    {
+        "text": "Asthma can look many different ways.",
+        "startTime": 38903,
+        "endTime": 41073,
+        "slowStartTime": 58505,
+        "slowEndTime": 61835
+    },
+    {
+        "text": "Some children may cough with their asthma.",
+        "startTime": 41382,
+        "endTime": 43457,
+        "slowStartTime": 62223,
+        "slowEndTime": 65410
+    },
+    {
+        "text": "Some children wheeze.",
+        "startTime": 43599,
+        "endTime": 44432,
+        "slowStartTime": 65549,
+        "slowEndTime": 66873
+    },
+    {
+        "text": "Some children work really hard to breathe,...",
+        "startTime": 44551,
+        "endTime": 46857,
+        "slowStartTime": 66976,
+        "slowEndTime": 70510
+    },
+    {
+        "text": "...using their chest muscles and their stomach muscles.",
+        "startTime": 46957,
+        "endTime": 49485,
+        "slowStartTime": 70586,
+        "slowEndTime": 74452
+    },
+    {
+        "text": "They may cough when they exercise.",
+        "startTime": 49734,
+        "endTime": 52073,
+        "slowStartTime": 74751,
+        "slowEndTime": 78334
+    },
+    {
+        "text": "They may cough when they go out in the cold air.",
+        "startTime": 52582,
+        "endTime": 55060,
+        "slowStartTime": 79023,
+        "slowEndTime": 82815
+    },
+    {
+        "text": "Coughing or waking after midnight, in the middle of the night,...",
+        "startTime": 55245,
+        "endTime": 58305,
+        "slowStartTime": 83018,
+        "slowEndTime": 87683
+    },
+    {
+        "text": "...that's the most severe symptom.",
+        "startTime": 58467,
+        "endTime": 59989,
+        "slowStartTime": 87851,
+        "slowEndTime": 90209
+    }
+]

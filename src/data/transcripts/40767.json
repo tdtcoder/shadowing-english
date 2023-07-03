@@ -1,0 +1,233 @@
+[
+    {
+        "text": "The Federal Reserve is expected to announce...",
+        "startTime": 105,
+        "endTime": 1793,
+        "slowStartTime": 307,
+        "slowEndTime": 2914
+    },
+    {
+        "text": "…a third consecutive 75 basis point interest hike today.",
+        "startTime": 1863,
+        "endTime": 6651,
+        "slowStartTime": 2945,
+        "slowEndTime": 10202
+    },
+    {
+        "text": "That's right.",
+        "startTime": 6758,
+        "endTime": 6997,
+        "slowStartTime": 10287,
+        "slowEndTime": 10721
+    },
+    {
+        "text": "A lot of folks will be saying \"ouch\",...",
+        "startTime": 7078,
+        "endTime": 8359,
+        "slowStartTime": 10767,
+        "slowEndTime": 12763
+    },
+    {
+        "text": "…because this action would mark the fifth rate increase this year.",
+        "startTime": 8445,
+        "endTime": 12505,
+        "slowStartTime": 12817,
+        "slowEndTime": 18982
+    },
+    {
+        "text": "The aggressive move is part of the Fed's strategy to fight inflation,...",
+        "startTime": 12795,
+        "endTime": 16565,
+        "slowStartTime": 19342,
+        "slowEndTime": 25072
+    },
+    {
+        "text": "…and this would come roughly one week after the Labor Department...",
+        "startTime": 16847,
+        "endTime": 19505,
+        "slowStartTime": 25420,
+        "slowEndTime": 29483
+    },
+    {
+        "text": "…released the latest consumer price index report.",
+        "startTime": 19595,
+        "endTime": 21891,
+        "slowStartTime": 29542,
+        "slowEndTime": 33061
+    },
+    {
+        "text": "That CPI report showed prices in this country...",
+        "startTime": 22220,
+        "endTime": 24995,
+        "slowStartTime": 33480,
+        "slowEndTime": 37717
+    },
+    {
+        "text": "…remained near a four decade high last month.",
+        "startTime": 25075,
+        "endTime": 28082,
+        "slowStartTime": 37763,
+        "slowEndTime": 42348
+    },
+    {
+        "text": "Joining us now is Mark Hamrick.",
+        "startTime": 28680,
+        "endTime": 30131,
+        "slowStartTime": 43170,
+        "slowEndTime": 45421
+    },
+    {
+        "text": "He is a senior economic analyst for bankrate.com",
+        "startTime": 30206,
+        "endTime": 33072,
+        "slowStartTime": 45459,
+        "slowEndTime": 49833
+    },
+    {
+        "text": "Mark, thanks for being here.",
+        "startTime": 33379,
+        "endTime": 34551,
+        "slowStartTime": 50219,
+        "slowEndTime": 52052
+    },
+    {
+        "text": "Please explain to our viewers...",
+        "startTime": 34663,
+        "endTime": 37029,
+        "slowStartTime": 52145,
+        "slowEndTime": 55768
+    },
+    {
+        "text": "…who is going to be most affected by this interest rate hike.",
+        "startTime": 37345,
+        "endTime": 40312,
+        "slowStartTime": 56167,
+        "slowEndTime": 60693
+    },
+    {
+        "text": "Americans. People who are participants in our economy.",
+        "startTime": 41443,
+        "endTime": 45076,
+        "slowStartTime": 62314,
+        "slowEndTime": 67839
+    },
+    {
+        "text": "That's everyone, Mark.",
+        "startTime": 45649,
+        "endTime": 46969,
+        "slowStartTime": 68624,
+        "slowEndTime": 70679
+    },
+    {
+        "text": "Exactly. That's what I mean.",
+        "startTime": 47433,
+        "endTime": 48620,
+        "slowStartTime": 71299,
+        "slowEndTime": 73155
+    },
+    {
+        "text": "Everyone will be affected by this.",
+        "startTime": 48737,
+        "endTime": 50293,
+        "slowStartTime": 73256,
+        "slowEndTime": 75664
+    },
+    {
+        "text": "This is a far-reaching action on the part of the Federal Reserve.",
+        "startTime": 51373,
+        "endTime": 55581,
+        "slowStartTime": 77210,
+        "slowEndTime": 83597
+    },
+    {
+        "text": "And it reverberates all around the world, so it has a global impact as well.",
+        "startTime": 55668,
+        "endTime": 59972,
+        "slowStartTime": 83652,
+        "slowEndTime": 90183
+    },
+    {
+        "text": "The people who have been feeling some of the pain year-to-date...",
+        "startTime": 60187,
+        "endTime": 63983,
+        "slowStartTime": 90430,
+        "slowEndTime": 96199
+    },
+    {
+        "text": "…are those who have exposure to the stock market.",
+        "startTime": 64194,
+        "endTime": 66321,
+        "slowStartTime": 96441,
+        "slowEndTime": 99707
+    },
+    {
+        "text": "We know we're in a bear market.",
+        "startTime": 66413,
+        "endTime": 67764,
+        "slowStartTime": 99769,
+        "slowEndTime": 101871
+    },
+    {
+        "text": "We know that the housing market is slow today.",
+        "startTime": 67979,
+        "endTime": 70181,
+        "slowStartTime": 102118,
+        "slowEndTime": 105496
+    },
+    {
+        "text": "We had the seventh straight month of decline in existing home sales.",
+        "startTime": 70281,
+        "endTime": 73585,
+        "slowStartTime": 105571,
+        "slowEndTime": 110602
+    },
+    {
+        "text": "But, make no mistake.",
+        "startTime": 73861,
+        "endTime": 74839,
+        "slowStartTime": 110942,
+        "slowEndTime": 112484
+    },
+    {
+        "text": "Inflation has taken all consumers hostage.",
+        "startTime": 74910,
+        "endTime": 78246,
+        "slowStartTime": 112515,
+        "slowEndTime": 117594
+    },
+    {
+        "text": "Businesses as well.",
+        "startTime": 78525,
+        "endTime": 79706,
+        "slowStartTime": 117937,
+        "slowEndTime": 119784
+    },
+    {
+        "text": "And so, the Fed is prescribing further medicine,...",
+        "startTime": 79786,
+        "endTime": 82707,
+        "slowStartTime": 119829,
+        "slowEndTime": 124285
+    },
+    {
+        "text": "…and as you said, this is the strongest medicine that it has delivered...",
+        "startTime": 82931,
+        "endTime": 86063,
+        "slowStartTime": 124546,
+        "slowEndTime": 129319
+    },
+    {
+        "text": "...in the sense of the third straight,...",
+        "startTime": 86138,
+        "endTime": 87660,
+        "slowStartTime": 129357,
+        "slowEndTime": 131715
+    },
+    {
+        "text": "…presumably, interest rate hike of 75 basis points in the third of five.",
+        "startTime": 87751,
+        "endTime": 92490,
+        "slowStartTime": 131777,
+        "slowEndTime": 138960
+    }
+]

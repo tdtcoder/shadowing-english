@@ -1,0 +1,254 @@
+[
+    {
+        "text": "Hello?",
+        "startTime": 693,
+        "endTime": 1263,
+        "slowStartTime": 1189,
+        "slowEndTime": 2119
+    },
+    {
+        "text": "Hello?",
+        "startTime": 2015,
+        "endTime": 2484,
+        "slowStartTime": 3173,
+        "slowEndTime": 3951
+    },
+    {
+        "text": "May I speak to Amanda, please?",
+        "startTime": 2921,
+        "endTime": 4652,
+        "slowStartTime": 4531,
+        "slowEndTime": 7203
+    },
+    {
+        "text": "Speaking.",
+        "startTime": 4912,
+        "endTime": 5652,
+        "slowStartTime": 7518,
+        "slowEndTime": 8703
+    },
+    {
+        "text": "Hi, this is David.",
+        "startTime": 6068,
+        "endTime": 7739,
+        "slowStartTime": 9252,
+        "slowEndTime": 11834
+    },
+    {
+        "text": "I'll be your teacher from today.",
+        "startTime": 8365,
+        "endTime": 9861,
+        "slowStartTime": 12698,
+        "slowEndTime": 15017
+    },
+    {
+        "text": "Sorry, what is your name again?",
+        "startTime": 10441,
+        "endTime": 12177,
+        "slowStartTime": 15811,
+        "slowEndTime": 18491
+    },
+    {
+        "text": "I'm David.",
+        "startTime": 12724,
+        "endTime": 13582,
+        "slowStartTime": 19236,
+        "slowEndTime": 20598
+    },
+    {
+        "text": "Oh!",
+        "startTime": 13927,
+        "endTime": 14579,
+        "slowStartTime": 21040,
+        "slowEndTime": 22093
+    },
+    {
+        "text": "David.",
+        "startTime": 14687,
+        "endTime": 15227,
+        "slowStartTime": 22180,
+        "slowEndTime": 23065
+    },
+    {
+        "text": "Nice to meet you.",
+        "startTime": 15513,
+        "endTime": 16535,
+        "slowStartTime": 23420,
+        "slowEndTime": 25028
+    },
+    {
+        "text": "Nice to meet you too.",
+        "startTime": 16753,
+        "endTime": 17918,
+        "slowStartTime": 25279,
+        "slowEndTime": 27102
+    },
+    {
+        "text": "How are you today?",
+        "startTime": 18211,
+        "endTime": 19097,
+        "slowStartTime": 27467,
+        "slowEndTime": 28871
+    },
+    {
+        "text": "Good.",
+        "startTime": 19445,
+        "endTime": 19842,
+        "slowStartTime": 29318,
+        "slowEndTime": 29988
+    },
+    {
+        "text": "How about you?",
+        "startTime": 20097,
+        "endTime": 20995,
+        "slowStartTime": 30296,
+        "slowEndTime": 31718
+    },
+    {
+        "text": "I'm fine.",
+        "startTime": 21408,
+        "endTime": 22113,
+        "slowStartTime": 32262,
+        "slowEndTime": 33394
+    },
+    {
+        "text": "Thank you for asking.",
+        "startTime": 22349,
+        "endTime": 23331,
+        "slowStartTime": 33673,
+        "slowEndTime": 35222
+    },
+    {
+        "text": "Amanda, it's our first lesson, so can you tell me about yourself?",
+        "startTime": 23877,
+        "endTime": 28118,
+        "slowStartTime": 35965,
+        "slowEndTime": 42402
+    },
+    {
+        "text": "Okay.",
+        "startTime": 28747,
+        "endTime": 29389,
+        "slowStartTime": 43271,
+        "slowEndTime": 44308
+    },
+    {
+        "text": "My name is Amanda and I'm 29 years old.",
+        "startTime": 29813,
+        "endTime": 33613,
+        "slowStartTime": 44869,
+        "slowEndTime": 50645
+    },
+    {
+        "text": "Do you have a hobby?",
+        "startTime": 34289,
+        "endTime": 35417,
+        "slowStartTime": 51584,
+        "slowEndTime": 53350
+    },
+    {
+        "text": "Yes, my hobby is reading books.",
+        "startTime": 35799,
+        "endTime": 38269,
+        "slowStartTime": 53848,
+        "slowEndTime": 57628
+    },
+    {
+        "text": "That's great.",
+        "startTime": 38761,
+        "endTime": 39655,
+        "slowStartTime": 58292,
+        "slowEndTime": 59707
+    },
+    {
+        "text": "Can you recommend me a good book?",
+        "startTime": 39995,
+        "endTime": 41731,
+        "slowStartTime": 60143,
+        "slowEndTime": 62822
+    },
+    {
+        "text": "Sure.",
+        "startTime": 42307,
+        "endTime": 42815,
+        "slowStartTime": 63610,
+        "slowEndTime": 64447
+    },
+    {
+        "text": "What about the novel, \"Perfume\"?",
+        "startTime": 43319,
+        "endTime": 45139,
+        "slowStartTime": 65128,
+        "slowEndTime": 67933
+    },
+    {
+        "text": "Is it good?",
+        "startTime": 45809,
+        "endTime": 46475,
+        "slowStartTime": 68863,
+        "slowEndTime": 69937
+    },
+    {
+        "text": "I wanted to read it, too.",
+        "startTime": 46947,
+        "endTime": 48266,
+        "slowStartTime": 70570,
+        "slowEndTime": 72624
+    },
+    {
+        "text": "Oh, believe me.",
+        "startTime": 48557,
+        "endTime": 49904,
+        "slowStartTime": 72985,
+        "slowEndTime": 75081
+    },
+    {
+        "text": "You will just love it.",
+        "startTime": 50185,
+        "endTime": 51656,
+        "slowStartTime": 75427,
+        "slowEndTime": 77709
+    },
+    {
+        "text": "Do you like watching movies?",
+        "startTime": 52107,
+        "endTime": 53591,
+        "slowStartTime": 78311,
+        "slowEndTime": 80612
+    },
+    {
+        "text": "Of course!",
+        "startTime": 53793,
+        "endTime": 54651,
+        "slowStartTime": 80840,
+        "slowEndTime": 82201
+    },
+    {
+        "text": "I go to the movies every weekend.",
+        "startTime": 55095,
+        "endTime": 57287,
+        "slowStartTime": 82792,
+        "slowEndTime": 86155
+    },
+    {
+        "text": "Good.",
+        "startTime": 57871,
+        "endTime": 58404,
+        "slowStartTime": 86957,
+        "slowEndTime": 87831
+    },
+    {
+        "text": "Let me recommend you a movie this time.",
+        "startTime": 58758,
+        "endTime": 60793,
+        "slowStartTime": 88287,
+        "slowEndTime": 91414
+    },
+    {
+        "text": "Watch \"Fight Club.\"",
+        "startTime": 61174,
+        "endTime": 62255,
+        "slowStartTime": 91911,
+        "slowEndTime": 93608
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "text": "It was almost lunchtime...",
+        "startTime": 793,
+        "endTime": 2166,
+        "slowStartTime": 1340,
+        "slowEndTime": 3474
+    },
+    {
+        "text": "...and Paddington thought he'd stop for a sandwich.",
+        "startTime": 2705,
+        "endTime": 5019,
+        "slowStartTime": 4207,
+        "slowEndTime": 7754
+    },
+    {
+        "text": "\"I've always had marmalade,\" thought Paddington.",
+        "startTime": 6357,
+        "endTime": 8186,
+        "slowStartTime": 9686,
+        "slowEndTime": 12504
+    },
+    {
+        "text": "\"Maybe I ought to try something different.\"",
+        "startTime": 8770,
+        "endTime": 10503,
+        "slowStartTime": 13305,
+        "slowEndTime": 15979
+    },
+    {
+        "text": "\"Really rather good.\"",
+        "startTime": 19897,
+        "endTime": 21072,
+        "slowStartTime": 29995,
+        "slowEndTime": 31833
+    },
+    {
+        "text": "\"Hello, would you like some?\"",
+        "startTime": 22552,
+        "endTime": 24004,
+        "slowStartTime": 33978,
+        "slowEndTime": 36231
+    },
+    {
+        "text": "\"Oh, dear.\"",
+        "startTime": 31636,
+        "endTime": 32187,
+        "slowStartTime": 47604,
+        "slowEndTime": 48506
+    },
+    {
+        "text": "\"I think you'd better come with me.\"",
+        "startTime": 34089,
+        "endTime": 35539,
+        "slowStartTime": 51284,
+        "slowEndTime": 53533
+    },
+    {
+        "text": "Squeezy Marmite, sandwiches need never be dull.",
+        "startTime": 36506,
+        "endTime": 39117,
+        "slowStartTime": 54909,
+        "slowEndTime": 58901
+    }
+]

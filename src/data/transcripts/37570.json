@@ -1,0 +1,79 @@
+[
+    {
+        "text": "How much more do you want from me?",
+        "startTime": 1927,
+        "endTime": 3144,
+        "slowStartTime": 3040,
+        "slowEndTime": 4941
+    },
+    {
+        "text": "More.",
+        "startTime": 3617,
+        "endTime": 4003,
+        "slowStartTime": 5576,
+        "slowEndTime": 6230
+    },
+    {
+        "text": "How much more successful do you want me to be?",
+        "startTime": 4561,
+        "endTime": 6197,
+        "slowStartTime": 6991,
+        "slowEndTime": 9520
+    },
+    {
+        "text": "More successful.",
+        "startTime": 6704,
+        "endTime": 7571,
+        "slowStartTime": 10206,
+        "slowEndTime": 11582
+    },
+    {
+        "text": "How many records can my records break?",
+        "startTime": 8016,
+        "endTime": 9854,
+        "slowStartTime": 12174,
+        "slowEndTime": 15006
+    },
+    {
+        "text": "More records.",
+        "startTime": 10345,
+        "endTime": 11409,
+        "slowStartTime": 15668,
+        "slowEndTime": 17339
+    },
+    {
+        "text": "But, I'm the best.",
+        "startTime": 11893,
+        "endTime": 13265,
+        "slowStartTime": 17990,
+        "slowEndTime": 20122
+    },
+    {
+        "text": "But are you a different animal and the same beast?",
+        "startTime": 13747,
+        "endTime": 17372,
+        "slowStartTime": 20771,
+        "slowEndTime": 26283
+    },
+    {
+        "text": "What does that mean Kobe Bryant?",
+        "startTime": 18889,
+        "endTime": 20369,
+        "slowStartTime": 28483,
+        "slowEndTime": 30779
+    },
+    {
+        "text": "You're welcome.",
+        "startTime": 22433,
+        "endTime": 22927,
+        "slowStartTime": 33799,
+        "slowEndTime": 34615
+    },
+    {
+        "text": "What is he talking about?",
+        "startTime": 24734,
+        "endTime": 25860,
+        "slowStartTime": 37251,
+        "slowEndTime": 39015
+    }
+]

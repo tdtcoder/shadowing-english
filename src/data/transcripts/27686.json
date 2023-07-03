@@ -1,0 +1,44 @@
+[
+    {
+        "text": "If I should stay,...",
+        "startTime": 782,
+        "endTime": 9108,
+        "slowStartTime": 1323,
+        "slowEndTime": 13887
+    },
+    {
+        "text": "...I would only be in your way.",
+        "startTime": 11063,
+        "endTime": 22183,
+        "slowStartTime": 16745,
+        "slowEndTime": 33500
+    },
+    {
+        "text": "So, I'll go.",
+        "startTime": 23745,
+        "endTime": 26278,
+        "slowStartTime": 35767,
+        "slowEndTime": 39642
+    },
+    {
+        "text": "But I know I will think of you every step of the way.",
+        "startTime": 27977,
+        "endTime": 46108,
+        "slowStartTime": 42115,
+        "slowEndTime": 69387
+    },
+    {
+        "text": "And I will always love you,...",
+        "startTime": 49129,
+        "endTime": 59027,
+        "slowStartTime": 73844,
+        "slowEndTime": 88766
+    },
+    {
+        "text": "...will always love you.",
+        "startTime": 60088,
+        "endTime": 72367,
+        "slowStartTime": 90282,
+        "slowEndTime": 108775
+    }
+]

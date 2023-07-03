@@ -1,0 +1,233 @@
+[
+    {
+        "text": "Seven months after launching from Florida's Cape Canaveral,...",
+        "startTime": 1273,
+        "endTime": 4522,
+        "slowStartTime": 2060,
+        "slowEndTime": 7008
+    },
+    {
+        "text": "...NASA's Perseverance Rover..",
+        "startTime": 4943,
+        "endTime": 6617,
+        "slowStartTime": 7564,
+        "slowEndTime": 10150
+    },
+    {
+        "text": "...completed a space journey of nearly half a billion kilometers...",
+        "startTime": 6714,
+        "endTime": 10243,
+        "slowStartTime": 10221,
+        "slowEndTime": 15590
+    },
+    {
+        "text": "...to the surface of Mars.",
+        "startTime": 10329,
+        "endTime": 11699,
+        "slowStartTime": 15644,
+        "slowEndTime": 17774
+    },
+    {
+        "text": "The mission ahead: to search the red planet for signs of ancient life.",
+        "startTime": 12134,
+        "endTime": 16434,
+        "slowStartTime": 18351,
+        "slowEndTime": 24876
+    },
+    {
+        "text": "For now, NASA's scientists like Lori Glaze are breathing a sigh of relief...",
+        "startTime": 16940,
+        "endTime": 21423,
+        "slowStartTime": 25560,
+        "slowEndTime": 32360
+    },
+    {
+        "text": "...after the perilous landing.",
+        "startTime": 21557,
+        "endTime": 23053,
+        "slowStartTime": 32485,
+        "slowEndTime": 34805
+    },
+    {
+        "text": "It is definitely the most dangerous thing we have to do.",
+        "startTime": 23241,
+        "endTime": 26909,
+        "slowStartTime": 35012,
+        "slowEndTime": 40588
+    },
+    {
+        "text": "And the most challenging thing is entering the Mars atmosphere.",
+        "startTime": 27018,
+        "endTime": 29899,
+        "slowStartTime": 40677,
+        "slowEndTime": 45073
+    },
+    {
+        "text": "Mars' atmosphere is very thin.",
+        "startTime": 30373,
+        "endTime": 31983,
+        "slowStartTime": 45709,
+        "slowEndTime": 48200
+    },
+    {
+        "text": "It's about one percent of Earth's atmosphere...",
+        "startTime": 32307,
+        "endTime": 34310,
+        "slowStartTime": 48611,
+        "slowEndTime": 51690
+    },
+    {
+        "text": "...so it's just enough atmosphere that we get really hot coming in...",
+        "startTime": 34417,
+        "endTime": 37841,
+        "slowStartTime": 51776,
+        "slowEndTime": 56986
+    },
+    {
+        "text": "...but not enough atmosphere to slow us down,...",
+        "startTime": 38141,
+        "endTime": 39906,
+        "slowStartTime": 57361,
+        "slowEndTime": 60084
+    },
+    {
+        "text": "...so very challenging.",
+        "startTime": 40009,
+        "endTime": 40918,
+        "slowStartTime": 60163,
+        "slowEndTime": 61602
+    },
+    {
+        "text": "NASA aimed to park its rover at the Jezero crater...",
+        "startTime": 41876,
+        "endTime": 44735,
+        "slowStartTime": 62964,
+        "slowEndTime": 67328
+    },
+    {
+        "text": "...that scientists believe was once filled with water,...",
+        "startTime": 44838,
+        "endTime": 47472,
+        "slowStartTime": 67407,
+        "slowEndTime": 71433
+    },
+    {
+        "text": "...an essential prerequisite for life as we know it.",
+        "startTime": 47553,
+        "endTime": 50095,
+        "slowStartTime": 71479,
+        "slowEndTime": 75367
+    },
+    {
+        "text": "Perseverance is the biggest vehicle NASA has to rove on Mars.",
+        "startTime": 50663,
+        "endTime": 54362,
+        "slowStartTime": 76145,
+        "slowEndTime": 81768
+    },
+    {
+        "text": "On board is the helicopter Ingenuity.",
+        "startTime": 54603,
+        "endTime": 56799,
+        "slowStartTime": 82055,
+        "slowEndTime": 85423
+    },
+    {
+        "text": "Together they will survey the Martian surface....",
+        "startTime": 57218,
+        "endTime": 59698,
+        "slowStartTime": 85977,
+        "slowEndTime": 89772
+    },
+    {
+        "text": "...and collect samples that could answer an age-old question,...",
+        "startTime": 59783,
+        "endTime": 62391,
+        "slowStartTime": 89825,
+        "slowEndTime": 93812
+    },
+    {
+        "text": "...\"Did life ever exist beyond Earth?\"",
+        "startTime": 62723,
+        "endTime": 65367,
+        "slowStartTime": 94235,
+        "slowEndTime": 98275
+    },
+    {
+        "text": "But that's not all according to NASA's Thomas Zurbuchen.",
+        "startTime": 65999,
+        "endTime": 68785,
+        "slowStartTime": 99149,
+        "slowEndTime": 103402
+    },
+    {
+        "text": "What's so exciting about this, it's not only the landing and the investigations,...",
+        "startTime": 69378,
+        "endTime": 73428,
+        "slowStartTime": 104217,
+        "slowEndTime": 110367
+    },
+    {
+        "text": "...which is just search for extinct ancient life...",
+        "startTime": 73515,
+        "endTime": 76682,
+        "slowStartTime": 110423,
+        "slowEndTime": 115248
+    },
+    {
+        "text": "...from a time where life arose on Earth.",
+        "startTime": 77353,
+        "endTime": 79470,
+        "slowStartTime": 116180,
+        "slowEndTime": 119430
+    },
+    {
+        "text": "If everything goes exactly like we hope, later in the 20s,...",
+        "startTime": 79697,
+        "endTime": 82505,
+        "slowStartTime": 119696,
+        "slowEndTime": 123983
+    },
+    {
+        "text": "...we're going to go pick up the samples this vehicle is collecting...",
+        "startTime": 82705,
+        "endTime": 85859,
+        "slowStartTime": 124208,
+        "slowEndTime": 129014
+    },
+    {
+        "text": "...and bring it back to Earth for the first round-trip to the planet Mars.",
+        "startTime": 86198,
+        "endTime": 90001,
+        "slowStartTime": 129447,
+        "slowEndTime": 135227
+    },
+    {
+        "text": "Perseverance is scheduled to spend at least one Martian year or two Earth years...",
+        "startTime": 90828,
+        "endTime": 95281,
+        "slowStartTime": 136392,
+        "slowEndTime": 143147
+    },
+    {
+        "text": "...exploring the landing site region of the ancient river Delta...",
+        "startTime": 95365,
+        "endTime": 98886,
+        "slowStartTime": 143198,
+        "slowEndTime": 148554
+    },
+    {
+        "text": "...in a lake that once filled the Jezero crater.",
+        "startTime": 98971,
+        "endTime": 101444,
+        "slowStartTime": 148606,
+        "slowEndTime": 152391
+    },
+    {
+        "text": "Arash Arabasadi, VOA News.",
+        "startTime": 101921,
+        "endTime": 104411,
+        "slowStartTime": 153031,
+        "slowEndTime": 156841
+    }
+]

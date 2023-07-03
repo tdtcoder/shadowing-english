@@ -1,0 +1,86 @@
+[
+    {
+        "text": "﻿Let's talk about the weather.",
+        "startTime": 2310,
+        "endTime": 5013,
+        "slowStartTime": 3615,
+        "slowEndTime": 7745
+    },
+    {
+        "text": "It's sunny outside.",
+        "startTime": 8416,
+        "endTime": 10393,
+        "slowStartTime": 12774,
+        "slowEndTime": 15814
+    },
+    {
+        "text": "It's rainy this evening.",
+        "startTime": 16156,
+        "endTime": 18438,
+        "slowStartTime": 24384,
+        "slowEndTime": 27882
+    },
+    {
+        "text": "It's cloudy.",
+        "startTime": 22049,
+        "endTime": 23485,
+        "slowStartTime": 33223,
+        "slowEndTime": 35453
+    },
+    {
+        "text": "It's partly cloudy in Paris.",
+        "startTime": 28108,
+        "endTime": 30338,
+        "slowStartTime": 42312,
+        "slowEndTime": 45732
+    },
+    {
+        "text": "It's clear and calm.",
+        "startTime": 34635,
+        "endTime": 38293,
+        "slowStartTime": 52103,
+        "slowEndTime": 57664
+    },
+    {
+        "text": "It's a stormy night.",
+        "startTime": 42411,
+        "endTime": 44999,
+        "slowStartTime": 63766,
+        "slowEndTime": 67724
+    },
+    {
+        "text": "It's snowy out there.",
+        "startTime": 49696,
+        "endTime": 51279,
+        "slowStartTime": 74694,
+        "slowEndTime": 77143
+    },
+    {
+        "text": "It's very, very windy.",
+        "startTime": 55307,
+        "endTime": 59725,
+        "slowStartTime": 83111,
+        "slowEndTime": 89813
+    },
+    {
+        "text": "It's hot in the office.",
+        "startTime": 67104,
+        "endTime": 68934,
+        "slowStartTime": 100806,
+        "slowEndTime": 103626
+    },
+    {
+        "text": "It's cold outside.",
+        "startTime": 74042,
+        "endTime": 75641,
+        "slowStartTime": 111213,
+        "slowEndTime": 113687
+    },
+    {
+        "text": "It's freezing cold.",
+        "startTime": 82693,
+        "endTime": 85447,
+        "slowStartTime": 124189,
+        "slowEndTime": 128395
+    }
+]

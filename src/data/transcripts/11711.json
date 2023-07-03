@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Captain Rogers, you were meant to be the first super soldier.",
+        "startTime": 3570,
+        "endTime": 7670,
+        "slowStartTime": 5490,
+        "slowEndTime": 11340
+    },
+    {
+        "text": "You're stronger, faster,...",
+        "startTime": 8640,
+        "endTime": 11110,
+        "slowStartTime": 13040,
+        "slowEndTime": 16750
+    },
+    {
+        "text": "...and better equipped for combat than any human alive.",
+        "startTime": 11710,
+        "endTime": 14680,
+        "slowStartTime": 17620,
+        "slowEndTime": 22130
+    },
+    {
+        "text": "And we have given you these gifts for one reason:...",
+        "startTime": 15810,
+        "endTime": 19010,
+        "slowStartTime": 23850,
+        "slowEndTime": 28630
+    },
+    {
+        "text": "...you will crush Red Skull and his army...",
+        "startTime": 19610,
+        "endTime": 22280,
+        "slowStartTime": 29570,
+        "slowEndTime": 33400
+    },
+    {
+        "text": "...by any means necessary.",
+        "startTime": 22580,
+        "endTime": 24620,
+        "slowStartTime": 33990,
+        "slowEndTime": 37040
+    }
+]

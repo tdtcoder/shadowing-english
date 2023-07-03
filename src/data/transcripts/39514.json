@@ -1,0 +1,86 @@
+[
+    {
+        "text": "So, tell me, Anna...",
+        "startTime": 330,
+        "endTime": 2219,
+        "slowStartTime": 645,
+        "slowEndTime": 3553
+    },
+    {
+        "text": "...what do you do?",
+        "startTime": 2576,
+        "endTime": 3026,
+        "slowStartTime": 4014,
+        "slowEndTime": 4764
+    },
+    {
+        "text": "I'm an actress.",
+        "startTime": 4848,
+        "endTime": 5603,
+        "slowStartTime": 7422,
+        "slowEndTime": 8630
+    },
+    {
+        "text": "Oh, splendid.",
+        "startTime": 6031,
+        "endTime": 6812,
+        "slowStartTime": 9196,
+        "slowEndTime": 10443
+    },
+    {
+        "text": "What do you do?",
+        "startTime": 7891,
+        "endTime": 8705,
+        "slowStartTime": 11987,
+        "slowEndTime": 13283
+    },
+    {
+        "text": "I'm actually in the stock market myself, so, not really similar field.",
+        "startTime": 9389,
+        "endTime": 13051,
+        "slowStartTime": 14233,
+        "slowEndTime": 19801
+    },
+    {
+        "text": "Hi.",
+        "startTime": 13905,
+        "endTime": 14135,
+        "slowStartTime": 21008,
+        "slowEndTime": 21427
+    },
+    {
+        "text": "Hello.",
+        "startTime": 16553,
+        "endTime": 17007,
+        "slowStartTime": 24980,
+        "slowEndTime": 25736
+    },
+    {
+        "text": "Who are you?",
+        "startTime": 17489,
+        "endTime": 17929,
+        "slowStartTime": 26384,
+        "slowEndTime": 27118
+    },
+    {
+        "text": "I'm Peter Brand.",
+        "startTime": 21737,
+        "endTime": 23082,
+        "slowStartTime": 32755,
+        "slowEndTime": 34848
+    },
+    {
+        "text": "What do you do?",
+        "startTime": 24689,
+        "endTime": 25513,
+        "slowStartTime": 37183,
+        "slowEndTime": 38494
+    },
+    {
+        "text": "I'm special assistant to Mark Shapiro.",
+        "startTime": 27921,
+        "endTime": 30127,
+        "slowStartTime": 42032,
+        "slowEndTime": 45415
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text": "There are two round cookies.",
+        "startTime": 3850,
+        "endTime": 6111,
+        "slowStartTime": 5925,
+        "slowEndTime": 9391
+    },
+    {
+        "text": "There are three square cookies.",
+        "startTime": 7295,
+        "endTime": 9220,
+        "slowStartTime": 11093,
+        "slowEndTime": 14055
+    },
+    {
+        "text": "The cat has a blue eye.",
+        "startTime": 10699,
+        "endTime": 12498,
+        "slowStartTime": 16198,
+        "slowEndTime": 18972
+    },
+    {
+        "text": "It is a small monkey.",
+        "startTime": 13808,
+        "endTime": 15271,
+        "slowStartTime": 20862,
+        "slowEndTime": 23132
+    },
+    {
+        "text": "It is a big banana.",
+        "startTime": 16792,
+        "endTime": 18801,
+        "slowStartTime": 25338,
+        "slowEndTime": 28426
+    },
+    {
+        "text": "The old dog is my pet.",
+        "startTime": 20153,
+        "endTime": 22413,
+        "slowStartTime": 30380,
+        "slowEndTime": 33845
+    },
+    {
+        "text": "The young dog is your pet.",
+        "startTime": 23725,
+        "endTime": 25608,
+        "slowStartTime": 35737,
+        "slowEndTime": 38637
+    },
+    {
+        "text": "The hot coffee is in a mug.",
+        "startTime": 27002,
+        "endTime": 28926,
+        "slowStartTime": 40653,
+        "slowEndTime": 43614
+    },
+    {
+        "text": "The cold ice cream is in bowls.",
+        "startTime": 30371,
+        "endTime": 32665,
+        "slowStartTime": 45707,
+        "slowEndTime": 49223
+    },
+    {
+        "text": "The happy boy has a big gift.",
+        "startTime": 34334,
+        "endTime": 36795,
+        "slowStartTime": 51651,
+        "slowEndTime": 55418
+    },
+    {
+        "text": "The sad girl has a small gift.",
+        "startTime": 38168,
+        "endTime": 40693,
+        "slowStartTime": 57402,
+        "slowEndTime": 61264
+    }
+]

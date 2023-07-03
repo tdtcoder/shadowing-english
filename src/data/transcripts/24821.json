@@ -1,0 +1,93 @@
+[
+    {
+        "text": "These words help show where someone or something is.",
+        "startTime": 1299,
+        "endTime": 5459,
+        "slowStartTime": 2099,
+        "slowEndTime": 8414
+    },
+    {
+        "text": "﻿Where is the cat?",
+        "startTime": 9144,
+        "endTime": 10681,
+        "slowStartTime": 13866,
+        "slowEndTime": 16247
+    },
+    {
+        "text": "The cat is in the box.",
+        "startTime": 16593,
+        "endTime": 18710,
+        "slowStartTime": 25039,
+        "slowEndTime": 28290
+    },
+    {
+        "text": "The cat is in front of the mouse.",
+        "startTime": 23672,
+        "endTime": 26657,
+        "slowStartTime": 35658,
+        "slowEndTime": 40210
+    },
+    {
+        "text": "The cat is on the table.",
+        "startTime": 32504,
+        "endTime": 34559,
+        "slowStartTime": 48906,
+        "slowEndTime": 52064
+    },
+    {
+        "text": "The cat is behind the rabbit.",
+        "startTime": 41693,
+        "endTime": 44429,
+        "slowStartTime": 62689,
+        "slowEndTime": 66869
+    },
+    {
+        "text": "The cats are beside the dog.",
+        "startTime": 53435,
+        "endTime": 55579,
+        "slowStartTime": 80302,
+        "slowEndTime": 83594
+    },
+    {
+        "text": "The cat is next to the tablet.",
+        "startTime": 60469,
+        "endTime": 63206,
+        "slowStartTime": 90854,
+        "slowEndTime": 95034
+    },
+    {
+        "text": "The cat is on the left.",
+        "startTime": 69636,
+        "endTime": 71691,
+        "slowStartTime": 104604,
+        "slowEndTime": 107762
+    },
+    {
+        "text": "The cat is on the right.",
+        "startTime": 77053,
+        "endTime": 79481,
+        "slowStartTime": 115730,
+        "slowEndTime": 119446
+    },
+    {
+        "text": "The cat is under the bed.",
+        "startTime": 88314,
+        "endTime": 90741,
+        "slowStartTime": 132621,
+        "slowEndTime": 136336
+    },
+    {
+        "text": "The cat is above the dog.",
+        "startTime": 96723,
+        "endTime": 99150,
+        "slowStartTime": 145234,
+        "slowEndTime": 148950
+    },
+    {
+        "text": "The game is between the cats.",
+        "startTime": 107129,
+        "endTime": 109741,
+        "slowStartTime": 160843,
+        "slowEndTime": 164837
+    }
+]

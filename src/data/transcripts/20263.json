@@ -1,0 +1,79 @@
+[
+    {
+        "text": "I don't like when my mom wears makeup.",
+        "startTime": 4782,
+        "endTime": 6604,
+        "slowStartTime": 7323,
+        "slowEndTime": 10131
+    },
+    {
+        "text": "I'll change nothing about my mom.",
+        "startTime": 6969,
+        "endTime": 9033,
+        "slowStartTime": 10603,
+        "slowEndTime": 13774
+    },
+    {
+        "text": "Her favorite color.",
+        "startTime": 9385,
+        "endTime": 10429,
+        "slowStartTime": 14228,
+        "slowEndTime": 15868
+    },
+    {
+        "text": "That she would have a girl instead of a boy.",
+        "startTime": 10739,
+        "endTime": 13357,
+        "slowStartTime": 16259,
+        "slowEndTime": 20260
+    },
+    {
+        "text": "That she always gets phones.",
+        "startTime": 13836,
+        "endTime": 15457,
+        "slowStartTime": 20904,
+        "slowEndTime": 23411
+    },
+    {
+        "text": "I'll change nothing about my mom.",
+        "startTime": 15720,
+        "endTime": 17591,
+        "slowStartTime": 23730,
+        "slowEndTime": 26611
+    },
+    {
+        "text": "She like, buys like phones.",
+        "startTime": 17770,
+        "endTime": 19739,
+        "slowStartTime": 26805,
+        "slowEndTime": 29833
+    },
+    {
+        "text": "Nothing.",
+        "startTime": 20098,
+        "endTime": 20513,
+        "slowStartTime": 30297,
+        "slowEndTime": 30995
+    },
+    {
+        "text": "My mom is the best.",
+        "startTime": 21559,
+        "endTime": 22880,
+        "slowStartTime": 32488,
+        "slowEndTime": 34545
+    },
+    {
+        "text": "I hate it when my mom yells at me.",
+        "startTime": 23236,
+        "endTime": 24787,
+        "slowStartTime": 35004,
+        "slowEndTime": 37406
+    },
+    {
+        "text": "She's just the best.",
+        "startTime": 25237,
+        "endTime": 26129,
+        "slowStartTime": 38006,
+        "slowEndTime": 39418
+    }
+]

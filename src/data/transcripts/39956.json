@@ -1,0 +1,51 @@
+[
+    {
+        "text": "My name is Kengo Kuma; I am an architect based in Tokyo.",
+        "startTime": 496,
+        "endTime": 5818,
+        "slowStartTime": 894,
+        "slowEndTime": 8952
+    },
+    {
+        "text": "I'm always trying to use natural materials as possibly as I can...",
+        "startTime": 7107,
+        "endTime": 11655,
+        "slowStartTime": 10810,
+        "slowEndTime": 17707
+    },
+    {
+        "text": "...as I want to bring nature back to architectural design.",
+        "startTime": 11848,
+        "endTime": 17681,
+        "slowStartTime": 17922,
+        "slowEndTime": 26746
+    },
+    {
+        "text": "I also want to reconnect history and the contemporary city.",
+        "startTime": 19371,
+        "endTime": 26167,
+        "slowStartTime": 29207,
+        "slowEndTime": 39476
+    },
+    {
+        "text": "In the 20th century, history and the contemporary city have very much separated...",
+        "startTime": 26687,
+        "endTime": 33308,
+        "slowStartTime": 40180,
+        "slowEndTime": 50187
+    },
+    {
+        "text": "...and no connection exists between history and our life,...",
+        "startTime": 33423,
+        "endTime": 38755,
+        "slowStartTime": 50285,
+        "slowEndTime": 58357
+    },
+    {
+        "text": "...and through designing architecture, it is possible to reconnect history.",
+        "startTime": 39365,
+        "endTime": 45170,
+        "slowStartTime": 59197,
+        "slowEndTime": 67980
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "text": "In straight turning, the tool is fed parallel to the axis of the work...",
+        "startTime": 6477,
+        "endTime": 10859,
+        "slowStartTime": 9865,
+        "slowEndTime": 16513
+    },
+    {
+        "text": "...to reduce its diameter so that the final diameter is the same at each end.",
+        "startTime": 11117,
+        "endTime": 15842,
+        "slowStartTime": 16825,
+        "slowEndTime": 23988
+    },
+    {
+        "text": "Removing a significant amount of material in one pass is called rough turning.",
+        "startTime": 16968,
+        "endTime": 22096,
+        "slowStartTime": 25602,
+        "slowEndTime": 33369
+    },
+    {
+        "text": "The final lighter cut that creates a smooth surface finish...",
+        "startTime": 23277,
+        "endTime": 26557,
+        "slowStartTime": 35066,
+        "slowEndTime": 40060
+    },
+    {
+        "text": "...is called finish turning.",
+        "startTime": 26903,
+        "endTime": 28548,
+        "slowStartTime": 40504,
+        "slowEndTime": 43047
+    },
+    {
+        "text": "Taper turning produces a taper along the axis of the workpiece.",
+        "startTime": 31396,
+        "endTime": 35603,
+        "slowStartTime": 47244,
+        "slowEndTime": 53629
+    },
+    {
+        "text": "Tapers are produced by offsetting the tailstock from center line...",
+        "startTime": 36541,
+        "endTime": 40623,
+        "slowStartTime": 54961,
+        "slowEndTime": 61159
+    },
+    {
+        "text": "...or by using a taper attachment.",
+        "startTime": 41040,
+        "endTime": 43382,
+        "slowStartTime": 61710,
+        "slowEndTime": 65298
+    },
+    {
+        "text": "Short, steep tapers can be turned using a compound rest.",
+        "startTime": 43987,
+        "endTime": 48091,
+        "slowStartTime": 66131,
+        "slowEndTime": 72362
+    },
+    {
+        "text": "Contour turning or profiling was formally performed...",
+        "startTime": 50459,
+        "endTime": 54275,
+        "slowStartTime": 75838,
+        "slowEndTime": 81638
+    },
+    {
+        "text": "...by having the single point cutting tool...",
+        "startTime": 54377,
+        "endTime": 56583,
+        "slowStartTime": 81715,
+        "slowEndTime": 85100
+    },
+    {
+        "text": "...trace a template of the desired profile shape.",
+        "startTime": 56913,
+        "endTime": 59492,
+        "slowStartTime": 85519,
+        "slowEndTime": 89463
+    },
+    {
+        "text": "This has largely been replaced by CNC turning,...",
+        "startTime": 60520,
+        "endTime": 63840,
+        "slowStartTime": 90930,
+        "slowEndTime": 95985
+    },
+    {
+        "text": "...in which the desired contour is simply programmed into the machine,...",
+        "startTime": 64428,
+        "endTime": 68463,
+        "slowStartTime": 96792,
+        "slowEndTime": 102919
+    },
+    {
+        "text": "...which directs a cutting tool to cut the contour.",
+        "startTime": 68835,
+        "endTime": 71518,
+        "slowStartTime": 103403,
+        "slowEndTime": 107502
+    }
+]

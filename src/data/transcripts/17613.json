@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Do you know where Jackie is?",
+        "startTime": 1694,
+        "endTime": 3697,
+        "slowStartTime": 2691,
+        "slowEndTime": 5770
+    },
+    {
+        "text": "No. Let's find out where she is.",
+        "startTime": 4675,
+        "endTime": 7501,
+        "slowStartTime": 7162,
+        "slowEndTime": 11476
+    },
+    {
+        "text": "Okay. Let's go out and find her together.",
+        "startTime": 8574,
+        "endTime": 12045,
+        "slowStartTime": 13011,
+        "slowEndTime": 18292
+    },
+    {
+        "text": "Did you finish your math homework?",
+        "startTime": 15024,
+        "endTime": 17058,
+        "slowStartTime": 22686,
+        "slowEndTime": 25812
+    },
+    {
+        "text": "No, not yet.",
+        "startTime": 18108,
+        "endTime": 19674,
+        "slowStartTime": 27312,
+        "slowEndTime": 29736
+    },
+    {
+        "text": "I'm trying to solve some math problems.",
+        "startTime": 20851,
+        "endTime": 23353,
+        "slowStartTime": 31426,
+        "slowEndTime": 35255
+    },
+    {
+        "text": "But they are too difficult for me.",
+        "startTime": 23711,
+        "endTime": 25509,
+        "slowStartTime": 35716,
+        "slowEndTime": 38488
+    },
+    {
+        "text": "Let's find out how you can solve the problems.",
+        "startTime": 26889,
+        "endTime": 29909,
+        "slowStartTime": 40483,
+        "slowEndTime": 45089
+    },
+    {
+        "text": "There are many, many different places in the city.",
+        "startTime": 36317,
+        "endTime": 39979,
+        "slowStartTime": 54625,
+        "slowEndTime": 60193
+    },
+    {
+        "text": "A park, park, people come to a park to have fun.",
+        "startTime": 40345,
+        "endTime": 44666,
+        "slowStartTime": 60668,
+        "slowEndTime": 67224
+    },
+    {
+        "text": "A store, store, people come to a store to shop.",
+        "startTime": 47823,
+        "endTime": 52044,
+        "slowStartTime": 71885,
+        "slowEndTime": 78291
+    },
+    {
+        "text": "A zoo, zoo, people come to a zoo to see animals.",
+        "startTime": 55368,
+        "endTime": 59997,
+        "slowStartTime": 83202,
+        "slowEndTime": 90221
+    },
+    {
+        "text": "A skyscraper, skyscraper, people come to a skyscraper to work.",
+        "startTime": 62826,
+        "endTime": 70029,
+        "slowStartTime": 94389,
+        "slowEndTime": 105269
+    },
+    {
+        "text": "A stadium, stadium, players come to a stadium to play ball.",
+        "startTime": 74074,
+        "endTime": 78935,
+        "slowStartTime": 111261,
+        "slowEndTime": 118628
+    },
+    {
+        "text": "A garage, garage, people come to a garage to park cars.",
+        "startTime": 81558,
+        "endTime": 86193,
+        "slowStartTime": 122487,
+        "slowEndTime": 129514
+    },
+    {
+        "text": "People do many different things in many places in the city.",
+        "startTime": 89151,
+        "endTime": 93688,
+        "slowStartTime": 133877,
+        "slowEndTime": 140757
+    }
+]

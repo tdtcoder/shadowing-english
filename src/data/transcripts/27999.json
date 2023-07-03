@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Gifts are allowed through the checkpoint.",
+        "startTime": 771,
+        "endTime": 2589,
+        "slowStartTime": 1307,
+        "slowEndTime": 4109
+    },
+    {
+        "text": "We just ask that you refrain from wrapping them...",
+        "startTime": 2925,
+        "endTime": 5131,
+        "slowStartTime": 4538,
+        "slowEndTime": 7921
+    },
+    {
+        "text": "...until you get through the checkpoint.",
+        "startTime": 5205,
+        "endTime": 6898,
+        "slowStartTime": 7958,
+        "slowEndTime": 10572
+    },
+    {
+        "text": "If there is something in your gift that needs to be inspected,...",
+        "startTime": 7395,
+        "endTime": 10441,
+        "slowStartTime": 11242,
+        "slowEndTime": 15886
+    },
+    {
+        "text": "...we may have to open it,...",
+        "startTime": 10751,
+        "endTime": 12117,
+        "slowStartTime": 16277,
+        "slowEndTime": 18400
+    },
+    {
+        "text": "...and this can slow down the line.",
+        "startTime": 12293,
+        "endTime": 13671,
+        "slowStartTime": 18590,
+        "slowEndTime": 20731
+    },
+    {
+        "text": "Toy weapons and replicas are not permitted in your carry-on bags.",
+        "startTime": 15768,
+        "endTime": 19495,
+        "slowStartTime": 23802,
+        "slowEndTime": 29468
+    },
+    {
+        "text": "They can, however, be packed in checked luggage.",
+        "startTime": 19747,
+        "endTime": 22528,
+        "slowStartTime": 29770,
+        "slowEndTime": 34017
+    },
+    {
+        "text": "Small gaming consoles, small toys, things of that sort,...",
+        "startTime": 24526,
+        "endTime": 27847,
+        "slowStartTime": 36939,
+        "slowEndTime": 41996
+    },
+    {
+        "text": "...they can be placed in your carry-on bag.",
+        "startTime": 27924,
+        "endTime": 29993,
+        "slowStartTime": 42036,
+        "slowEndTime": 45214
+    },
+    {
+        "text": "If you do have large electronics, game consoles,...",
+        "startTime": 30698,
+        "endTime": 34302,
+        "slowStartTime": 46197,
+        "slowEndTime": 51678
+    },
+    {
+        "text": "...they need to be placed in a separate bin for screening.",
+        "startTime": 34534,
+        "endTime": 37599,
+        "slowStartTime": 51951,
+        "slowEndTime": 56623
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Red light, red light, what do you say?",
+        "startTime": 5739,
+        "endTime": 9652,
+        "slowStartTime": 8758,
+        "slowEndTime": 14703
+    },
+    {
+        "text": "I say stop, stop right away.",
+        "startTime": 9920,
+        "endTime": 13699,
+        "slowStartTime": 15030,
+        "slowEndTime": 20774
+    },
+    {
+        "text": "Yellow light, yellow light, what do you say?",
+        "startTime": 13815,
+        "endTime": 17430,
+        "slowStartTime": 20872,
+        "slowEndTime": 26370
+    },
+    {
+        "text": "I say wait until the light turns green.",
+        "startTime": 17858,
+        "endTime": 21709,
+        "slowStartTime": 26937,
+        "slowEndTime": 32789
+    },
+    {
+        "text": "Green light, green light, what do you say?",
+        "startTime": 21951,
+        "endTime": 25449,
+        "slowStartTime": 33076,
+        "slowEndTime": 38398
+    },
+    {
+        "text": "I say go, go right away.",
+        "startTime": 25954,
+        "endTime": 29867,
+        "slowStartTime": 39081,
+        "slowEndTime": 45025
+    }
+]

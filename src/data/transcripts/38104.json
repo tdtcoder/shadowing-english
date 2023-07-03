@@ -1,0 +1,58 @@
+[
+    {
+        "text": "The people at school are having a party.",
+        "startTime": 601,
+        "endTime": 2923,
+        "slowStartTime": 1052,
+        "slowEndTime": 4609
+    },
+    {
+        "text": "The visitors are coming in.",
+        "startTime": 4412,
+        "endTime": 6083,
+        "slowStartTime": 6768,
+        "slowEndTime": 9349
+    },
+    {
+        "text": "Harry is still preparing food.",
+        "startTime": 7221,
+        "endTime": 9278,
+        "slowStartTime": 10981,
+        "slowEndTime": 14142
+    },
+    {
+        "text": "George and Fred are clapping their hands.",
+        "startTime": 10609,
+        "endTime": 13052,
+        "slowStartTime": 16064,
+        "slowEndTime": 19803
+    },
+    {
+        "text": "Hermione is wearing a nice dress.",
+        "startTime": 14050,
+        "endTime": 16678,
+        "slowStartTime": 21225,
+        "slowEndTime": 25242
+    },
+    {
+        "text": "Ron is eating chicken.",
+        "startTime": 17755,
+        "endTime": 19634,
+        "slowStartTime": 26782,
+        "slowEndTime": 29676
+    },
+    {
+        "text": "Draco is dancing with a lady.",
+        "startTime": 20514,
+        "endTime": 22627,
+        "slowStartTime": 30921,
+        "slowEndTime": 34165
+    },
+    {
+        "text": "Everyone is having fun.",
+        "startTime": 23535,
+        "endTime": 25171,
+        "slowStartTime": 35453,
+        "slowEndTime": 37981
+    }
+]

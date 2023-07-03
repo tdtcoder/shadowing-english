@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Likes and dislikes.",
+        "startTime": 375,
+        "endTime": 2288,
+        "slowStartTime": 712,
+        "slowEndTime": 3657
+    },
+    {
+        "text": "I like pizza.",
+        "startTime": 4588,
+        "endTime": 6099,
+        "slowStartTime": 7032,
+        "slowEndTime": 9373
+    },
+    {
+        "text": "I don't like pasta.",
+        "startTime": 10287,
+        "endTime": 12464,
+        "slowStartTime": 15581,
+        "slowEndTime": 18921
+    },
+    {
+        "text": "I like cats.",
+        "startTime": 15611,
+        "endTime": 17185,
+        "slowStartTime": 23566,
+        "slowEndTime": 26002
+    },
+    {
+        "text": "I don't like dogs.",
+        "startTime": 21766,
+        "endTime": 24587,
+        "slowStartTime": 32799,
+        "slowEndTime": 37106
+    },
+    {
+        "text": "I love the color green.",
+        "startTime": 28489,
+        "endTime": 30472,
+        "slowStartTime": 42884,
+        "slowEndTime": 45933
+    },
+    {
+        "text": "I don't like pink.",
+        "startTime": 33693,
+        "endTime": 35047,
+        "slowStartTime": 50690,
+        "slowEndTime": 52795
+    },
+    {
+        "text": "I'm a big hockey fan.",
+        "startTime": 38840,
+        "endTime": 41016,
+        "slowStartTime": 58410,
+        "slowEndTime": 61749
+    },
+    {
+        "text": "I don't like basketball much.",
+        "startTime": 45141,
+        "endTime": 47128,
+        "slowStartTime": 67861,
+        "slowEndTime": 70917
+    }
+]

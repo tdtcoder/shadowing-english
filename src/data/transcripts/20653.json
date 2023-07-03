@@ -1,0 +1,282 @@
+[
+    {
+        "text": "﻿Steve!",
+        "startTime": 8661,
+        "endTime": 9186,
+        "slowStartTime": 13142,
+        "slowEndTime": 14004
+    },
+    {
+        "text": "It takes guts to drop out like you did.",
+        "startTime": 9511,
+        "endTime": 11403,
+        "slowStartTime": 14416,
+        "slowEndTime": 17329
+    },
+    {
+        "text": "Higher education comes at the expense of experience.",
+        "startTime": 11540,
+        "endTime": 13901,
+        "slowStartTime": 17460,
+        "slowEndTime": 21076
+    },
+    {
+        "text": "Woz!",
+        "startTime": 16096,
+        "endTime": 17027,
+        "slowStartTime": 24294,
+        "slowEndTime": 25765
+    },
+    {
+        "text": "What are you working on?",
+        "startTime": 17185,
+        "endTime": 17773,
+        "slowStartTime": 25927,
+        "slowEndTime": 26884
+    },
+    {
+        "text": "It's a computer terminal that hooks up to the TV for the display.",
+        "startTime": 17895,
+        "endTime": 21347,
+        "slowStartTime": 26993,
+        "slowEndTime": 32246
+    },
+    {
+        "text": "Steve?",
+        "startTime": 27080,
+        "endTime": 27309,
+        "slowStartTime": 40770,
+        "slowEndTime": 41188
+    },
+    {
+        "text": "Wow!",
+        "startTime": 27964,
+        "endTime": 28255,
+        "slowStartTime": 42096,
+        "slowEndTime": 42608
+    },
+    {
+        "text": "These are state-of-the-art.",
+        "startTime": 31556,
+        "endTime": 32670,
+        "slowStartTime": 47484,
+        "slowEndTime": 49230
+    },
+    {
+        "text": "Nobody's making anything like this.",
+        "startTime": 32769,
+        "endTime": 34133,
+        "slowStartTime": 49304,
+        "slowEndTime": 51424
+    },
+    {
+        "text": "Welcome to Apple Computer.",
+        "startTime": 38513,
+        "endTime": 39647,
+        "slowStartTime": 57920,
+        "slowEndTime": 59695
+    },
+    {
+        "text": "This is everything?",
+        "startTime": 42481,
+        "endTime": 43127,
+        "slowStartTime": 63871,
+        "slowEndTime": 64916
+    },
+    {
+        "text": "Sort of.",
+        "startTime": 43805,
+        "endTime": 44431,
+        "slowStartTime": 65858,
+        "slowEndTime": 66872
+    },
+    {
+        "text": "I think we should start with around 90 grand.",
+        "startTime": 44744,
+        "endTime": 46749,
+        "slowStartTime": 67266,
+        "slowEndTime": 70349
+    },
+    {
+        "text": "Could you repeat that?",
+        "startTime": 47047,
+        "endTime": 47944,
+        "slowStartTime": 70720,
+        "slowEndTime": 72141
+    },
+    {
+        "text": "If you'll have me aboard.",
+        "startTime": 48299,
+        "endTime": 49359,
+        "slowStartTime": 72598,
+        "slowEndTime": 74264
+    },
+    {
+        "text": "Apple Incorporated went public this morning.",
+        "startTime": 53068,
+        "endTime": 54997,
+        "slowStartTime": 79752,
+        "slowEndTime": 82720
+    },
+    {
+        "text": "We got to make the small things unforgettable.",
+        "startTime": 58930,
+        "endTime": 61718,
+        "slowStartTime": 88545,
+        "slowEndTime": 92802
+    },
+    {
+        "text": "Typeface isn't a pressing issue.",
+        "startTime": 61900,
+        "endTime": 63707,
+        "slowStartTime": 93000,
+        "slowEndTime": 95786
+    },
+    {
+        "text": "Get out!",
+        "startTime": 63915,
+        "endTime": 64162,
+        "slowStartTime": 96023,
+        "slowEndTime": 96468
+    },
+    {
+        "text": "He's trying to start a war with IBM!",
+        "startTime": 65751,
+        "endTime": 68027,
+        "slowStartTime": 98776,
+        "slowEndTime": 102265
+    },
+    {
+        "text": "Steve's been doing the impossible ever since he was in a garage.",
+        "startTime": 69584,
+        "endTime": 72560,
+        "slowStartTime": 104526,
+        "slowEndTime": 109065
+    },
+    {
+        "text": "I'm trying to build Apple and they're taking it away from me?",
+        "startTime": 72640,
+        "endTime": 75491,
+        "slowStartTime": 109110,
+        "slowEndTime": 113462
+    },
+    {
+        "text": "If you keep heading down this path, I will not protect you.",
+        "startTime": 75959,
+        "endTime": 78938,
+        "slowStartTime": 114089,
+        "slowEndTime": 118632
+    },
+    {
+        "text": "It's a blatant rip-off.",
+        "startTime": 79288,
+        "endTime": 80317,
+        "slowStartTime": 119082,
+        "slowEndTime": 120700
+    },
+    {
+        "text": "I'm going to sue you for every cent!",
+        "startTime": 80409,
+        "endTime": 82727,
+        "slowStartTime": 120763,
+        "slowEndTime": 124316
+    },
+    {
+        "text": "You are your own worst enemy.",
+        "startTime": 82874,
+        "endTime": 85311,
+        "slowStartTime": 124461,
+        "slowEndTime": 128191
+    },
+    {
+        "text": "The board is unanimous.",
+        "startTime": 87334,
+        "endTime": 88427,
+        "slowStartTime": 131151,
+        "slowEndTime": 132866
+    },
+    {
+        "text": "Steve will no longer be involved in this company.",
+        "startTime": 88690,
+        "endTime": 91213,
+        "slowStartTime": 133185,
+        "slowEndTime": 137044
+    },
+    {
+        "text": "Ten years after Steve Jobs' departure, the future of Apple Computer is in jeopardy.",
+        "startTime": 95547,
+        "endTime": 99437,
+        "slowStartTime": 143470,
+        "slowEndTime": 149381
+    },
+    {
+        "text": "In life, you'll only get to do so many things.",
+        "startTime": 100229,
+        "endTime": 102738,
+        "slowStartTime": 150493,
+        "slowEndTime": 154332
+    },
+    {
+        "text": "We're making Apple cool again.",
+        "startTime": 105393,
+        "endTime": 106972,
+        "slowStartTime": 158239,
+        "slowEndTime": 160683
+    },
+    {
+        "text": "Here's to the crazy ones,...",
+        "startTime": 110287,
+        "endTime": 111537,
+        "slowStartTime": 165580,
+        "slowEndTime": 167531
+    },
+    {
+        "text": "...the misfits,...",
+        "startTime": 113047,
+        "endTime": 113746,
+        "slowStartTime": 169720,
+        "slowEndTime": 170844
+    },
+    {
+        "text": "...the rebels.",
+        "startTime": 114448,
+        "endTime": 115035,
+        "slowStartTime": 171822,
+        "slowEndTime": 172778
+    },
+    {
+        "text": "Because the people who are crazy enough to think they can change the world...",
+        "startTime": 118217,
+        "endTime": 121805,
+        "slowStartTime": 177475,
+        "slowEndTime": 182932
+    },
+    {
+        "text": "...are the ones who do.",
+        "startTime": 122539,
+        "endTime": 123457,
+        "slowStartTime": 183958,
+        "slowEndTime": 185411
+    },
+    {
+        "text": "If we're going to do this thing, we need to come up with a name.",
+        "startTime": 128464,
+        "endTime": 130484,
+        "slowStartTime": 192846,
+        "slowEndTime": 195951
+    },
+    {
+        "text": "Apple!",
+        "startTime": 131246,
+        "endTime": 131644,
+        "slowStartTime": 197019,
+        "slowEndTime": 197691
+    },
+    {
+        "text": "That is so much better than Phaser Beam Computers.",
+        "startTime": 132244,
+        "endTime": 135611,
+        "slowStartTime": 198516,
+        "slowEndTime": 203642
+    }
+]

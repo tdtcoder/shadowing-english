@@ -1,0 +1,37 @@
+[
+    {
+        "text": "The Goblin Valley State Park in Utah is known for its thousands of hoodoo rocks...",
+        "startTime": 100,
+        "endTime": 4600,
+        "slowStartTime": 111,
+        "slowEndTime": 7125
+    },
+    {
+        "text": "...referred to locally as \"goblins.\"",
+        "startTime": 4851,
+        "endTime": 6591,
+        "slowStartTime": 7427,
+        "slowEndTime": 10112
+    },
+    {
+        "text": "Hoodoos are formations of mushroom-shaped sandstone,...",
+        "startTime": 7820,
+        "endTime": 10370,
+        "slowStartTime": 11880,
+        "slowEndTime": 15780
+    },
+    {
+        "text": "...and Goblin Valley has the highest occurrences of these in the world.",
+        "startTime": 10621,
+        "endTime": 13582,
+        "slowStartTime": 16082,
+        "slowEndTime": 20598
+    },
+    {
+        "text": "It is often compared to Mars because its look is otherworldly.",
+        "startTime": 16196,
+        "endTime": 20103,
+        "slowStartTime": 24444,
+        "slowEndTime": 30380
+    }
+]

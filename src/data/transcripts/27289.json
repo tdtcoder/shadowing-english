@@ -1,0 +1,65 @@
+[
+    {
+        "text": "StoryBots.",
+        "startTime": 621,
+        "endTime": 1154,
+        "slowStartTime": 1082,
+        "slowEndTime": 1956
+    },
+    {
+        "text": "Rain, rain, go away.",
+        "startTime": 8997,
+        "endTime": 10870,
+        "slowStartTime": 13646,
+        "slowEndTime": 16530
+    },
+    {
+        "text": "Come again some other day.",
+        "startTime": 11559,
+        "endTime": 13169,
+        "slowStartTime": 17488,
+        "slowEndTime": 19979
+    },
+    {
+        "text": "We want to go outside and play.",
+        "startTime": 13505,
+        "endTime": 15697,
+        "slowStartTime": 20407,
+        "slowEndTime": 23770
+    },
+    {
+        "text": "Come again some other day.",
+        "startTime": 16133,
+        "endTime": 17913,
+        "slowStartTime": 24349,
+        "slowEndTime": 27094
+    },
+    {
+        "text": "Oh rain, rain, go away.",
+        "startTime": 22449,
+        "endTime": 24721,
+        "slowStartTime": 33823,
+        "slowEndTime": 37306
+    },
+    {
+        "text": "Come again some other day.",
+        "startTime": 25350,
+        "endTime": 26999,
+        "slowStartTime": 38175,
+        "slowEndTime": 40723
+    },
+    {
+        "text": "We want to go outside and play.",
+        "startTime": 27453,
+        "endTime": 29357,
+        "slowStartTime": 41330,
+        "slowEndTime": 44260
+    },
+    {
+        "text": "Come again some other day.",
+        "startTime": 30009,
+        "endTime": 31663,
+        "slowStartTime": 45164,
+        "slowEndTime": 47719
+    }
+]

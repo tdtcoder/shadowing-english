@@ -1,0 +1,93 @@
+[
+    {
+        "text": "So, having this much rain is rare for this time of the year?",
+        "startTime": 2675,
+        "endTime": 5874,
+        "slowStartTime": 4163,
+        "slowEndTime": 9036
+    },
+    {
+        "text": "Yes, I'm afraid that you guys have been a bit unlucky with the weather here so far.",
+        "startTime": 6315,
+        "endTime": 11100,
+        "slowStartTime": 9623,
+        "slowEndTime": 16875
+    },
+    {
+        "text": "That's okay, a little bit of rain never hurts.",
+        "startTime": 11635,
+        "endTime": 13931,
+        "slowStartTime": 17602,
+        "slowEndTime": 21122
+    },
+    {
+        "text": "That's true. Speaking of which, in Venezuela we have a saying, \"No rain, no rainbows.\"",
+        "startTime": 14290,
+        "endTime": 20045,
+        "slowStartTime": 21585,
+        "slowEndTime": 30292
+    },
+    {
+        "text": "Hey, I like that!",
+        "startTime": 20403,
+        "endTime": 21559,
+        "slowStartTime": 30754,
+        "slowEndTime": 32564
+    },
+    {
+        "text": "People tend to forget that rain is really a necessity for life.",
+        "startTime": 21999,
+        "endTime": 25638,
+        "slowStartTime": 33149,
+        "slowEndTime": 38682
+    },
+    {
+        "text": "Hey guys, not to change the subject, but are we still planning to catch a movie tonight?",
+        "startTime": 26077,
+        "endTime": 30770,
+        "slowStartTime": 39266,
+        "slowEndTime": 46380
+    },
+    {
+        "text": "Yes, definitely.",
+        "startTime": 31043,
+        "endTime": 32129,
+        "slowStartTime": 46715,
+        "slowEndTime": 48418
+    },
+    {
+        "text": "In fact, there's a new Bruce Willis movie now that I want to see.",
+        "startTime": 32313,
+        "endTime": 35789,
+        "slowStartTime": 48620,
+        "slowEndTime": 53909
+    },
+    {
+        "text": "By the way, do you like Bruce Willis? I like him, too.",
+        "startTime": 36183,
+        "endTime": 39475,
+        "slowStartTime": 54424,
+        "slowEndTime": 59438
+    },
+    {
+        "text": "He's one of my favorite actors.",
+        "startTime": 39873,
+        "endTime": 41653,
+        "slowStartTime": 59959,
+        "slowEndTime": 62705
+    },
+    {
+        "text": "Yeah, he is tough and funny.",
+        "startTime": 42021,
+        "endTime": 44001,
+        "slowStartTime": 63182,
+        "slowEndTime": 66226
+    },
+    {
+        "text": "That's true, but I like him because he's hot.",
+        "startTime": 44361,
+        "endTime": 47167,
+        "slowStartTime": 66691,
+        "slowEndTime": 70976
+    }
+]

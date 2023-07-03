@@ -1,0 +1,170 @@
+[
+    {
+        "text": "The fifth scenario that you need to be prepared for...",
+        "startTime": 255,
+        "endTime": 2831,
+        "slowStartTime": 532,
+        "slowEndTime": 4472
+    },
+    {
+        "text": "...is how to handle interruptions because they will happen.",
+        "startTime": 2907,
+        "endTime": 6727,
+        "slowStartTime": 4510,
+        "slowEndTime": 10315
+    },
+    {
+        "text": "It might be a dog barking, someone at the door knocking, a baby crying,..",
+        "startTime": 7157,
+        "endTime": 10627,
+        "slowStartTime": 10886,
+        "slowEndTime": 16166
+    },
+    {
+        "text": "...construction outside your window, or some unexpected technical issue.",
+        "startTime": 10707,
+        "endTime": 14992,
+        "slowStartTime": 16210,
+        "slowEndTime": 22713
+    },
+    {
+        "text": "When any of those things happen, here are some ways to handle it.",
+        "startTime": 15852,
+        "endTime": 19487,
+        "slowStartTime": 23928,
+        "slowEndTime": 29455
+    },
+    {
+        "text": "\"I'm so sorry.\"",
+        "startTime": 20034,
+        "endTime": 20848,
+        "slowStartTime": 30201,
+        "slowEndTime": 31497
+    },
+    {
+        "text": "\"You'll have to forgive the noise in the background.\"",
+        "startTime": 20927,
+        "endTime": 23137,
+        "slowStartTime": 31541,
+        "slowEndTime": 34931
+    },
+    {
+        "text": "\"Could you come back to me in a moment?\"",
+        "startTime": 23737,
+        "endTime": 25206,
+        "slowStartTime": 35756,
+        "slowEndTime": 38034
+    },
+    {
+        "text": "\"I need to put myself on mute for a second.\"",
+        "startTime": 25281,
+        "endTime": 27676,
+        "slowStartTime": 38071,
+        "slowEndTime": 41739
+    },
+    {
+        "text": "If someone interrupts you, you can respond with:",
+        "startTime": 28279,
+        "endTime": 31197,
+        "slowStartTime": 42568,
+        "slowEndTime": 47021
+    },
+    {
+        "text": "\"Sorry, let me finish my thought and then you can go ahead.\"",
+        "startTime": 31487,
+        "endTime": 34059,
+        "slowStartTime": 47381,
+        "slowEndTime": 51314
+    },
+    {
+        "text": "Or \"One moment, please.\"",
+        "startTime": 34529,
+        "endTime": 35931,
+        "slowStartTime": 51944,
+        "slowEndTime": 54121
+    },
+    {
+        "text": "\"I'd like to mention one more thing before we move on.\"",
+        "startTime": 36003,
+        "endTime": 38505,
+        "slowStartTime": 54155,
+        "slowEndTime": 57983
+    },
+    {
+        "text": "Sometimes, interruptions are caused by technical issues...",
+        "startTime": 39123,
+        "endTime": 41758,
+        "slowStartTime": 58834,
+        "slowEndTime": 62862
+    },
+    {
+        "text": "...that are completely out of our control,...",
+        "startTime": 41830,
+        "endTime": 43773,
+        "slowStartTime": 62895,
+        "slowEndTime": 65884
+    },
+    {
+        "text": "...and we may even lose the ability to stay connected to the online meeting.",
+        "startTime": 44244,
+        "endTime": 48993,
+        "slowStartTime": 66516,
+        "slowEndTime": 73714
+    },
+    {
+        "text": "In those situations, it is always a good practice to let everyone know what's happening.",
+        "startTime": 49430,
+        "endTime": 54415,
+        "slowStartTime": 74295,
+        "slowEndTime": 81847
+    },
+    {
+        "text": "You can send a message in the chat...",
+        "startTime": 54660,
+        "endTime": 56147,
+        "slowStartTime": 82140,
+        "slowEndTime": 84445
+    },
+    {
+        "text": "...to let everyone know you're having a technical difficulty...",
+        "startTime": 56480,
+        "endTime": 59023,
+        "slowStartTime": 84870,
+        "slowEndTime": 88759
+    },
+    {
+        "text": "...or if necessary, send an email.",
+        "startTime": 59203,
+        "endTime": 61145,
+        "slowStartTime": 88954,
+        "slowEndTime": 91943
+    },
+    {
+        "text": "When you do that, always let them know what you plan to do going ahead.",
+        "startTime": 61581,
+        "endTime": 65958,
+        "slowStartTime": 92521,
+        "slowEndTime": 99162
+    },
+    {
+        "text": "If you're a participant, you can let the host know that you'll review the notes.",
+        "startTime": 66351,
+        "endTime": 70139,
+        "slowStartTime": 99676,
+        "slowEndTime": 105434
+    },
+    {
+        "text": "If you're the host or the leader,...",
+        "startTime": 70639,
+        "endTime": 72547,
+        "slowStartTime": 106109,
+        "slowEndTime": 109046
+    },
+    {
+        "text": "...you can let them know when you will try to reschedule the meeting.",
+        "startTime": 72657,
+        "endTime": 76105,
+        "slowStartTime": 109135,
+        "slowEndTime": 114383
+    }
+]

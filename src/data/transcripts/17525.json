@@ -1,0 +1,72 @@
+[
+    {
+        "text": "We use it to draw a straight line. Guess what?",
+        "startTime": 2920,
+        "endTime": 6813,
+        "slowStartTime": 4530,
+        "slowEndTime": 10445
+    },
+    {
+        "text": "Is it a ruler?",
+        "startTime": 7912,
+        "endTime": 9293,
+        "slowStartTime": 12018,
+        "slowEndTime": 14164
+    },
+    {
+        "text": "That's right!",
+        "startTime": 10486,
+        "endTime": 11450,
+        "slowStartTime": 15879,
+        "slowEndTime": 17400
+    },
+    {
+        "text": "What is that?",
+        "startTime": 14465,
+        "endTime": 15691,
+        "slowStartTime": 21847,
+        "slowEndTime": 23761
+    },
+    {
+        "text": "It is glue.",
+        "startTime": 16807,
+        "endTime": 18083,
+        "slowStartTime": 25361,
+        "slowEndTime": 27349
+    },
+    {
+        "text": "We use it for joining things together.",
+        "startTime": 18440,
+        "endTime": 21661,
+        "slowStartTime": 27810,
+        "slowEndTime": 32717
+    },
+    {
+        "text": "Oh, I see.",
+        "startTime": 22710,
+        "endTime": 24365,
+        "slowStartTime": 34215,
+        "slowEndTime": 36772
+    },
+    {
+        "text": "I need an eraser.",
+        "startTime": 27515,
+        "endTime": 29458,
+        "slowStartTime": 41423,
+        "slowEndTime": 44412
+    },
+    {
+        "text": "Don't you have one?",
+        "startTime": 30556,
+        "endTime": 32542,
+        "slowStartTime": 45984,
+        "slowEndTime": 49038
+    },
+    {
+        "text": "No, I need it to fix a mistake.",
+        "startTime": 33592,
+        "endTime": 36861,
+        "slowStartTime": 50538,
+        "slowEndTime": 55517
+    }
+]

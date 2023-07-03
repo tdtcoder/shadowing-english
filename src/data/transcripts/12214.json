@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Welcome to Fitness Universe.",
+        "startTime": 3148,
+        "endTime": 4964,
+        "slowStartTime": 4872,
+        "slowEndTime": 7671
+    },
+    {
+        "text": "Hi! Could you tell me a little bit about your membership fees?",
+        "startTime": 5147,
+        "endTime": 8155,
+        "slowStartTime": 7871,
+        "slowEndTime": 12457
+    },
+    {
+        "text": "Are you interested in our one - year membership?",
+        "startTime": 8448,
+        "endTime": 10810,
+        "slowStartTime": 12822,
+        "slowEndTime": 16440
+    },
+    {
+        "text": "I'm going to be here for a year, so I guess that would be the best one to start with.",
+        "startTime": 11210,
+        "endTime": 15283,
+        "slowStartTime": 16965,
+        "slowEndTime": 23149
+    },
+    {
+        "text": "Okay. For a regular one - year membership,...",
+        "startTime": 15517,
+        "endTime": 18082,
+        "slowStartTime": 23425,
+        "slowEndTime": 27348
+    },
+    {
+        "text": "...the cost is $1,000.",
+        "startTime": 18227,
+        "endTime": 20187,
+        "slowStartTime": 27490,
+        "slowEndTime": 30505
+    },
+    {
+        "text": "Does that include use of all the facilities?",
+        "startTime": 20531,
+        "endTime": 22987,
+        "slowStartTime": 30946,
+        "slowEndTime": 34705
+    },
+    {
+        "text": "Yes, that includes use of the swimming pool and racquetball courts.",
+        "startTime": 23207,
+        "endTime": 27457,
+        "slowStartTime": 34960,
+        "slowEndTime": 41411
+    },
+    {
+        "text": "How about if I want a personal trainer?",
+        "startTime": 27701,
+        "endTime": 29811,
+        "slowStartTime": 41702,
+        "slowEndTime": 44941
+    },
+    {
+        "text": "Then your best bet would be to get a Gold Star membership.",
+        "startTime": 29947,
+        "endTime": 33409,
+        "slowStartTime": 45070,
+        "slowEndTime": 50339
+    },
+    {
+        "text": "With that, you get a personal trainer to work with you three times every week.",
+        "startTime": 33673,
+        "endTime": 37859,
+        "slowStartTime": 50659,
+        "slowEndTime": 57014
+    },
+    {
+        "text": "I see. How much is a Gold Star membership?",
+        "startTime": 38181,
+        "endTime": 40694,
+        "slowStartTime": 57422,
+        "slowEndTime": 61266
+    },
+    {
+        "text": "A Gold Star membership is $1,500 per year, sir.",
+        "startTime": 41034,
+        "endTime": 45362,
+        "slowStartTime": 61701,
+        "slowEndTime": 68268
+    },
+    {
+        "text": "Hmm... I think I'll just stick with the regular membership.",
+        "startTime": 45537,
+        "endTime": 48847,
+        "slowStartTime": 68456,
+        "slowEndTime": 73495
+    }
+]

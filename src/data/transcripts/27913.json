@@ -1,0 +1,107 @@
+[
+    {
+        "text": "I asked you to repeat that because I was too busy texting on my phone.",
+        "startTime": 150,
+        "endTime": 2876,
+        "slowStartTime": 152,
+        "slowEndTime": 4539
+    },
+    {
+        "text": "I'm gonna hang up on you and pretend it was an accident.",
+        "startTime": 3115,
+        "endTime": 5603,
+        "slowStartTime": 4823,
+        "slowEndTime": 8630
+    },
+    {
+        "text": "I'm attempting to sound empathetic because quality assurance is listening.",
+        "startTime": 5766,
+        "endTime": 8847,
+        "slowStartTime": 8799,
+        "slowEndTime": 13496
+    },
+    {
+        "text": "The only perk of my job is not seeing your face.",
+        "startTime": 9115,
+        "endTime": 11858,
+        "slowStartTime": 13822,
+        "slowEndTime": 18012
+    },
+    {
+        "text": "Please stop telling me this pointless story.",
+        "startTime": 12124,
+        "endTime": 13799,
+        "slowStartTime": 18336,
+        "slowEndTime": 20924
+    },
+    {
+        "text": "Just tell me your problem so we can both get on with our day.",
+        "startTime": 13923,
+        "endTime": 16317,
+        "slowStartTime": 21035,
+        "slowEndTime": 24700
+    },
+    {
+        "text": "I'm saying this with confidence but I have no idea if this information is true.",
+        "startTime": 16474,
+        "endTime": 20275,
+        "slowStartTime": 24861,
+        "slowEndTime": 30637
+    },
+    {
+        "text": "I'm not sorry you feel that way.",
+        "startTime": 20367,
+        "endTime": 22097,
+        "slowStartTime": 30700,
+        "slowEndTime": 33371
+    },
+    {
+        "text": "I'm not sorry that happened.",
+        "startTime": 22272,
+        "endTime": 23374,
+        "slowStartTime": 33558,
+        "slowEndTime": 35286
+    },
+    {
+        "text": "Oh no, I understand.",
+        "startTime": 23627,
+        "endTime": 24709,
+        "slowStartTime": 35590,
+        "slowEndTime": 37289
+    },
+    {
+        "text": "I just don't care.",
+        "startTime": 24777,
+        "endTime": 25704,
+        "slowStartTime": 37315,
+        "slowEndTime": 38781
+    },
+    {
+        "text": "This job has made me dead inside.",
+        "startTime": 25869,
+        "endTime": 27654,
+        "slowStartTime": 38954,
+        "slowEndTime": 41706
+    },
+    {
+        "text": "This job has given me a fear of talking on the phone.",
+        "startTime": 27845,
+        "endTime": 30027,
+        "slowStartTime": 41917,
+        "slowEndTime": 45266
+    },
+    {
+        "text": "Listen babe, call me hon one more time and I'll burn this place down.",
+        "startTime": 30215,
+        "endTime": 33529,
+        "slowStartTime": 45473,
+        "slowEndTime": 50519
+    },
+    {
+        "text": "Have a great day.",
+        "startTime": 34363,
+        "endTime": 35137,
+        "slowStartTime": 51694,
+        "slowEndTime": 52930
+    }
+]

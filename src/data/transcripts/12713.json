@@ -1,0 +1,107 @@
+[
+    {
+        "text": "What's that you're reading, Kathy?",
+        "startTime": 2012,
+        "endTime": 3373,
+        "slowStartTime": 3168,
+        "slowEndTime": 5284
+    },
+    {
+        "text": "This? Oh, it's a new novel I just bought.",
+        "startTime": 3664,
+        "endTime": 6423,
+        "slowStartTime": 5646,
+        "slowEndTime": 9859
+    },
+    {
+        "text": "I'm just starting it, but so far it seems pretty good.",
+        "startTime": 6680,
+        "endTime": 9606,
+        "slowStartTime": 10170,
+        "slowEndTime": 14634
+    },
+    {
+        "text": "Do you like reading books?",
+        "startTime": 9891,
+        "endTime": 11096,
+        "slowStartTime": 14987,
+        "slowEndTime": 16869
+    },
+    {
+        "text": "Yes, it's one of my hobbies.",
+        "startTime": 11508,
+        "endTime": 13187,
+        "slowStartTime": 17412,
+        "slowEndTime": 20005
+    },
+    {
+        "text": "Can I have a look at it?",
+        "startTime": 13485,
+        "endTime": 14493,
+        "slowStartTime": 20377,
+        "slowEndTime": 21964
+    },
+    {
+        "text": "Sure. It's the latest book by Stephen King. Do you like him?",
+        "startTime": 14751,
+        "endTime": 18545,
+        "slowStartTime": 22276,
+        "slowEndTime": 28042
+    },
+    {
+        "text": "Have you ever read any of his books?",
+        "startTime": 18922,
+        "endTime": 20725,
+        "slowStartTime": 28533,
+        "slowEndTime": 31313
+    },
+    {
+        "text": "No, but I've definitely heard of him. He's really famous, isn't he?",
+        "startTime": 20890,
+        "endTime": 24745,
+        "slowStartTime": 31485,
+        "slowEndTime": 37342
+    },
+    {
+        "text": "Yes, he is. In fact, he's one of the most famous authors in America.",
+        "startTime": 25026,
+        "endTime": 29798,
+        "slowStartTime": 37689,
+        "slowEndTime": 44922
+    },
+    {
+        "text": "His books are always so scary; I love scary novels.",
+        "startTime": 30350,
+        "endTime": 34046,
+        "slowStartTime": 45675,
+        "slowEndTime": 51294
+    },
+    {
+        "text": "I think they're OK, but I prefer spy thrillers.",
+        "startTime": 34248,
+        "endTime": 37223,
+        "slowStartTime": 51522,
+        "slowEndTime": 56059
+    },
+    {
+        "text": "Ah, you mean books with a lot of action and adventure?",
+        "startTime": 37455,
+        "endTime": 40985,
+        "slowStartTime": 56332,
+        "slowEndTime": 61702
+    },
+    {
+        "text": "Yes, they're real page-turners. My favorite novel is \"Harry Potter.\"",
+        "startTime": 41083,
+        "endTime": 45495,
+        "slowStartTime": 61774,
+        "slowEndTime": 68467
+    },
+    {
+        "text": "Harry Potter? I hate it.",
+        "startTime": 45793,
+        "endTime": 47867,
+        "slowStartTime": 68839,
+        "slowEndTime": 72025
+    }
+]

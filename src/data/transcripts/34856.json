@@ -1,0 +1,86 @@
+[
+    {
+        "text": "In the US, President Donald Trump...",
+        "startTime": 2647,
+        "endTime": 5425,
+        "slowStartTime": 4120,
+        "slowEndTime": 8362
+    },
+    {
+        "text": "...held a news conference to address the coronavirus pandemic...",
+        "startTime": 6023,
+        "endTime": 9368,
+        "slowStartTime": 9184,
+        "slowEndTime": 14277
+    },
+    {
+        "text": "...as he seeks to calm the nation.",
+        "startTime": 9864,
+        "endTime": 11824,
+        "slowStartTime": 14946,
+        "slowEndTime": 17961
+    },
+    {
+        "text": "In Brazil, President Jair Bolsonaro says he has tested negative for the new coronavirus,...",
+        "startTime": 14491,
+        "endTime": 20445,
+        "slowStartTime": 21886,
+        "slowEndTime": 30893
+    },
+    {
+        "text": "...after a scare over a trip in which at least one infected member of his staff...",
+        "startTime": 20962,
+        "endTime": 26253,
+        "slowStartTime": 31593,
+        "slowEndTime": 39604
+    },
+    {
+        "text": "...rubbed shoulders with Donald Trump.",
+        "startTime": 26751,
+        "endTime": 28563,
+        "slowStartTime": 40276,
+        "slowEndTime": 43070
+    },
+    {
+        "text": "US air strikes in Iraq targeted weapon storage sites of an Iranian-backed militia...",
+        "startTime": 30181,
+        "endTime": 36185,
+        "slowStartTime": 45422,
+        "slowEndTime": 54502
+    },
+    {
+        "text": "...in retaliation for a deadly attack on American and coalition troops 24 hours earlier.",
+        "startTime": 36589,
+        "endTime": 42767,
+        "slowStartTime": 55034,
+        "slowEndTime": 64375
+    },
+    {
+        "text": "In Canada, Prime Minister Justin Trudeau will be in isolation for two weeks...",
+        "startTime": 44390,
+        "endTime": 49389,
+        "slowStartTime": 66735,
+        "slowEndTime": 74309
+    },
+    {
+        "text": "...after his wife, Sophie Gregoire Trudeau, tested positive for coronavirus.",
+        "startTime": 49896,
+        "endTime": 55345,
+        "slowStartTime": 74994,
+        "slowEndTime": 83242
+    },
+    {
+        "text": "Finally from New Zealand, Prime Minister Jacinda Ardern joined the Muslim community in Christchurch...",
+        "startTime": 57327,
+        "endTime": 64296,
+        "slowStartTime": 86141,
+        "slowEndTime": 96669
+    },
+    {
+        "text": "...at a special joint prayer on the anniversary of the shooting that killed 51 people at two mosques.",
+        "startTime": 64916,
+        "endTime": 71428,
+        "slowStartTime": 97524,
+        "slowEndTime": 107367
+    }
+]

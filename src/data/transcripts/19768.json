@@ -1,0 +1,72 @@
+[
+    {
+        "text": "The European Graduate Programme lasts for 24 months,...",
+        "startTime": 14493,
+        "endTime": 17611,
+        "slowStartTime": 21890,
+        "slowEndTime": 26641
+    },
+    {
+        "text": "...so as a graduate you would join on the 1st of September,...",
+        "startTime": 17987,
+        "endTime": 21187,
+        "slowStartTime": 27131,
+        "slowEndTime": 32006
+    },
+    {
+        "text": "...and you would do your first assignment for 12 months in one part of the business.",
+        "startTime": 21808,
+        "endTime": 25427,
+        "slowStartTime": 32862,
+        "slowEndTime": 38365
+    },
+    {
+        "text": "Then, your second assignment would start the following year on the 1st of September...",
+        "startTime": 26241,
+        "endTime": 29838,
+        "slowStartTime": 39511,
+        "slowEndTime": 44982
+    },
+    {
+        "text": "...in a different part of the business,...",
+        "startTime": 30247,
+        "endTime": 31379,
+        "slowStartTime": 45521,
+        "slowEndTime": 47293
+    },
+    {
+        "text": "...and more than likely in a different country as well.",
+        "startTime": 31472,
+        "endTime": 33187,
+        "slowStartTime": 47358,
+        "slowEndTime": 50005
+    },
+    {
+        "text": "So in their first year they could, for example,...",
+        "startTime": 33494,
+        "endTime": 35337,
+        "slowStartTime": 50391,
+        "slowEndTime": 53231
+    },
+    {
+        "text": "...work in product marketing for audio/video categories,...",
+        "startTime": 35416,
+        "endTime": 39972,
+        "slowStartTime": 53274,
+        "slowEndTime": 60183
+    },
+    {
+        "text": "...of the consumer electronics business.",
+        "startTime": 40389,
+        "endTime": 42747,
+        "slowStartTime": 60733,
+        "slowEndTime": 64345
+    },
+    {
+        "text": "In their second assignment they could be working in sales for PlayStation, for example.",
+        "startTime": 43165,
+        "endTime": 46727,
+        "slowStartTime": 64897,
+        "slowEndTime": 70315
+    }
+]

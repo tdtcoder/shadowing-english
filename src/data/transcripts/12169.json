@@ -1,0 +1,44 @@
+[
+    {
+        "text": "The United Nations says Yemeni troops killed more than 50 anti - government protesters in Taiz.",
+        "startTime": 5900,
+        "endTime": 13390,
+        "slowStartTime": 9000,
+        "slowEndTime": 20310
+    },
+    {
+        "text": "A cease-fire between government forces and opposition tribesmen in the country breaks down.",
+        "startTime": 15505,
+        "endTime": 21761,
+        "slowStartTime": 23408,
+        "slowEndTime": 32866
+    },
+    {
+        "text": "Tribesmen set the Sanaa Yemeni Airways building ablaze.",
+        "startTime": 24911,
+        "endTime": 29322,
+        "slowStartTime": 37517,
+        "slowEndTime": 44208
+    },
+    {
+        "text": "Government forces clash with opposition fighters trying to link up with allies in the capital, Sanaa.",
+        "startTime": 31271,
+        "endTime": 38091,
+        "slowStartTime": 47056,
+        "slowEndTime": 57361
+    },
+    {
+        "text": "President Ali Abdullah Saleh becomes wounded after attacks on his compound.",
+        "startTime": 41123,
+        "endTime": 46912,
+        "slowStartTime": 61835,
+        "slowEndTime": 70593
+    },
+    {
+        "text": "Forces of President Saleh respond by shelling the homes of anti - government leaders and targeting protesters.",
+        "startTime": 49465,
+        "endTime": 57293,
+        "slowStartTime": 74347,
+        "slowEndTime": 86164
+    }
+]

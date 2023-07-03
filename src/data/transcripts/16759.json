@@ -1,0 +1,135 @@
+[
+    {
+        "text": "It is winter.",
+        "startTime": 1107,
+        "endTime": 2155,
+        "slowStartTime": 1810,
+        "slowEndTime": 3458
+    },
+    {
+        "text": "Tomorrow is Christmas.",
+        "startTime": 3305,
+        "endTime": 5051,
+        "slowStartTime": 5107,
+        "slowEndTime": 7801
+    },
+    {
+        "text": "And everybody looks happy.",
+        "startTime": 6195,
+        "endTime": 8257,
+        "slowStartTime": 9443,
+        "slowEndTime": 12611
+    },
+    {
+        "text": "Here is a girl.",
+        "startTime": 9427,
+        "endTime": 10421,
+        "slowStartTime": 14291,
+        "slowEndTime": 15856
+    },
+    {
+        "text": "A little match girl.",
+        "startTime": 11560,
+        "endTime": 13006,
+        "slowStartTime": 17490,
+        "slowEndTime": 19734
+    },
+    {
+        "text": "She has no mother.",
+        "startTime": 14173,
+        "endTime": 15647,
+        "slowStartTime": 21410,
+        "slowEndTime": 23695
+    },
+    {
+        "text": "She has no father.",
+        "startTime": 16850,
+        "endTime": 18413,
+        "slowStartTime": 25425,
+        "slowEndTime": 27845
+    },
+    {
+        "text": "She wears no coat.",
+        "startTime": 19561,
+        "endTime": 21232,
+        "slowStartTime": 29492,
+        "slowEndTime": 32073
+    },
+    {
+        "text": "She wears no boots.",
+        "startTime": 22418,
+        "endTime": 24161,
+        "slowStartTime": 33777,
+        "slowEndTime": 36467
+    },
+    {
+        "text": "She is very, very cold.",
+        "startTime": 25293,
+        "endTime": 27731,
+        "slowStartTime": 38090,
+        "slowEndTime": 41822
+    },
+    {
+        "text": "She is selling matches.",
+        "startTime": 28921,
+        "endTime": 30685,
+        "slowStartTime": 43532,
+        "slowEndTime": 46253
+    },
+    {
+        "text": "Matches! Matches for Christmas!",
+        "startTime": 31875,
+        "endTime": 34835,
+        "slowStartTime": 47963,
+        "slowEndTime": 52478
+    },
+    {
+        "text": "No one listens to her.",
+        "startTime": 36056,
+        "endTime": 37770,
+        "slowStartTime": 54234,
+        "slowEndTime": 56880
+    },
+    {
+        "text": "No one looks at her.",
+        "startTime": 38967,
+        "endTime": 40544,
+        "slowStartTime": 58601,
+        "slowEndTime": 61041
+    },
+    {
+        "text": "It starts snowing.",
+        "startTime": 41770,
+        "endTime": 43059,
+        "slowStartTime": 62805,
+        "slowEndTime": 64813
+    },
+    {
+        "text": "I'm too cold and lonely.",
+        "startTime": 44361,
+        "endTime": 46555,
+        "slowStartTime": 66691,
+        "slowEndTime": 70058
+    },
+    {
+        "text": "She takes one match out.",
+        "startTime": 47929,
+        "endTime": 49729,
+        "slowStartTime": 72043,
+        "slowEndTime": 74819
+    },
+    {
+        "text": "I will strike this.",
+        "startTime": 50905,
+        "endTime": 52574,
+        "slowStartTime": 76508,
+        "slowEndTime": 79086
+    },
+    {
+        "text": "It will give me a warm light.",
+        "startTime": 53552,
+        "endTime": 55831,
+        "slowStartTime": 80478,
+        "slowEndTime": 83971
+    }
+]

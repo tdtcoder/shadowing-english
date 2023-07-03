@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Hello.",
+        "startTime": 15677,
+        "endTime": 16551,
+        "slowStartTime": 23666,
+        "slowEndTime": 25052
+    },
+    {
+        "text": "Oh hello.",
+        "startTime": 17319,
+        "endTime": 18295,
+        "slowStartTime": 26128,
+        "slowEndTime": 27668
+    },
+    {
+        "text": "What is your name?",
+        "startTime": 19381,
+        "endTime": 20309,
+        "slowStartTime": 29221,
+        "slowEndTime": 30689
+    },
+    {
+        "text": "My name is Vicky.",
+        "startTime": 21073,
+        "endTime": 23609,
+        "slowStartTime": 31759,
+        "slowEndTime": 35639
+    },
+    {
+        "text": "Hello Wicky.",
+        "startTime": 24289,
+        "endTime": 25179,
+        "slowStartTime": 36583,
+        "slowEndTime": 37994
+    },
+    {
+        "text": "No.",
+        "startTime": 25917,
+        "endTime": 26516,
+        "slowStartTime": 39025,
+        "slowEndTime": 39999
+    },
+    {
+        "text": "My name is Vicky.",
+        "startTime": 27074,
+        "endTime": 29425,
+        "slowStartTime": 40761,
+        "slowEndTime": 44363
+    },
+    {
+        "text": "Your name is Wicky.",
+        "startTime": 30079,
+        "endTime": 32363,
+        "slowStartTime": 45269,
+        "slowEndTime": 48770
+    },
+    {
+        "text": "No, no, no, no, no.",
+        "startTime": 32761,
+        "endTime": 34738,
+        "slowStartTime": 49292,
+        "slowEndTime": 52332
+    },
+    {
+        "text": "My name is Vicky, Vicky, V - V - Vicky.",
+        "startTime": 35247,
+        "endTime": 41769,
+        "slowStartTime": 53020,
+        "slowEndTime": 62878
+    },
+    {
+        "text": "V - Vicky.",
+        "startTime": 43498,
+        "endTime": 45388,
+        "slowStartTime": 65397,
+        "slowEndTime": 68307
+    },
+    {
+        "text": "Yes.",
+        "startTime": 46131,
+        "endTime": 47159,
+        "slowStartTime": 69347,
+        "slowEndTime": 70964
+    },
+    {
+        "text": "What is your name?",
+        "startTime": 48913,
+        "endTime": 50379,
+        "slowStartTime": 73519,
+        "slowEndTime": 75793
+    },
+    {
+        "text": "My name is Sam.",
+        "startTime": 50905,
+        "endTime": 52569,
+        "slowStartTime": 76507,
+        "slowEndTime": 79079
+    },
+    {
+        "text": "Sham?",
+        "startTime": 53194,
+        "endTime": 53920,
+        "slowStartTime": 79941,
+        "slowEndTime": 81105
+    },
+    {
+        "text": "No.",
+        "startTime": 54542,
+        "endTime": 55133,
+        "slowStartTime": 81963,
+        "slowEndTime": 82924
+    },
+    {
+        "text": "Sam.",
+        "startTime": 55603,
+        "endTime": 57225,
+        "slowStartTime": 83554,
+        "slowEndTime": 86062
+    },
+    {
+        "text": "Sham.",
+        "startTime": 58115,
+        "endTime": 59835,
+        "slowStartTime": 87322,
+        "slowEndTime": 89978
+    },
+    {
+        "text": "S - S - Sam.",
+        "startTime": 60864,
+        "endTime": 63445,
+        "slowStartTime": 91446,
+        "slowEndTime": 95392
+    },
+    {
+        "text": "S - S - Sam.",
+        "startTime": 64449,
+        "endTime": 67503,
+        "slowStartTime": 96823,
+        "slowEndTime": 101480
+    },
+    {
+        "text": "Yes, my name is Sam.",
+        "startTime": 67642,
+        "endTime": 69799,
+        "slowStartTime": 101613,
+        "slowEndTime": 104923
+    },
+    {
+        "text": "Goodbye S - S - Sam.",
+        "startTime": 72297,
+        "endTime": 75639,
+        "slowStartTime": 108595,
+        "slowEndTime": 113684
+    },
+    {
+        "text": "Goodbye V - V - Vicky.",
+        "startTime": 77217,
+        "endTime": 80202,
+        "slowStartTime": 115976,
+        "slowEndTime": 120528
+    }
+]

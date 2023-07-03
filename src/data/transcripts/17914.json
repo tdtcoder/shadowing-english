@@ -1,0 +1,37 @@
+[
+    {
+        "text": "The robbers rode up to the cave.",
+        "startTime": 255,
+        "endTime": 2231,
+        "slowStartTime": 533,
+        "slowEndTime": 3571
+    },
+    {
+        "text": "When they got to it, one of them shouted, \"Open sesame!\".",
+        "startTime": 2728,
+        "endTime": 7518,
+        "slowStartTime": 4242,
+        "slowEndTime": 11502
+    },
+    {
+        "text": "Immediately, a door opened in the cave.",
+        "startTime": 8304,
+        "endTime": 11056,
+        "slowStartTime": 12606,
+        "slowEndTime": 16809
+    },
+    {
+        "text": "The robbers were inside for a long time.",
+        "startTime": 12033,
+        "endTime": 14705,
+        "slowStartTime": 18200,
+        "slowEndTime": 22283
+    },
+    {
+        "text": "Then the door opened, and they came out.",
+        "startTime": 15683,
+        "endTime": 18131,
+        "slowStartTime": 23674,
+        "slowEndTime": 27422
+    }
+]

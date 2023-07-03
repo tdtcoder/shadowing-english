@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Hey guys, I'm Raymond Wong, product analyst with Mashable,...",
+        "startTime": 4957,
+        "endTime": 7602,
+        "slowStartTime": 7585,
+        "slowEndTime": 11628
+    },
+    {
+        "text": "...and today we're gonna check out the Samsung Gear 360,...",
+        "startTime": 7723,
+        "endTime": 10382,
+        "slowStartTime": 11734,
+        "slowEndTime": 15798
+    },
+    {
+        "text": "...a new 360-degree camera that lets you capture your own VR content.",
+        "startTime": 10715,
+        "endTime": 14533,
+        "slowStartTime": 16222,
+        "slowEndTime": 22024
+    },
+    {
+        "text": "Samsung's already got the Gear VR headset...",
+        "startTime": 18561,
+        "endTime": 20521,
+        "slowStartTime": 27992,
+        "slowEndTime": 31007
+    },
+    {
+        "text": "...and now it's got a VR camera to go along with it.",
+        "startTime": 20939,
+        "endTime": 23148,
+        "slowStartTime": 31558,
+        "slowEndTime": 34947
+    },
+    {
+        "text": "The Gear 360 is a tiny ball-shaped camera that fits in the palm of your hand.",
+        "startTime": 23553,
+        "endTime": 27837,
+        "slowStartTime": 35479,
+        "slowEndTime": 41980
+    },
+    {
+        "text": "The splashproof camera has two fish-eye lenses...",
+        "startTime": 28344,
+        "endTime": 30562,
+        "slowStartTime": 42666,
+        "slowEndTime": 46068
+    },
+    {
+        "text": "...that each capture video in 195 degrees.",
+        "startTime": 30919,
+        "endTime": 34124,
+        "slowStartTime": 46529,
+        "slowEndTime": 51411
+    },
+    {
+        "text": "The videos are then stitched together into a 360-degree video...",
+        "startTime": 34648,
+        "endTime": 38112,
+        "slowStartTime": 52122,
+        "slowEndTime": 57393
+    },
+    {
+        "text": "...using the power of the Galaxy S7.",
+        "startTime": 38337,
+        "endTime": 40158,
+        "slowStartTime": 57655,
+        "slowEndTime": 60462
+    },
+    {
+        "text": "360-degree videos are saved to a micro SD card...",
+        "startTime": 40823,
+        "endTime": 43690,
+        "slowStartTime": 61384,
+        "slowEndTime": 65760
+    },
+    {
+        "text": "...and can be wirelessly transferred to a Galaxy S7 smartphone...",
+        "startTime": 44055,
+        "endTime": 47078,
+        "slowStartTime": 66233,
+        "slowEndTime": 70842
+    },
+    {
+        "text": "...for editing and sharing to Facebook, YouTube, etc.",
+        "startTime": 47211,
+        "endTime": 50221,
+        "slowStartTime": 70966,
+        "slowEndTime": 75556
+    },
+    {
+        "text": "Final videos have a resolution of 3840 x 1920,...",
+        "startTime": 50919,
+        "endTime": 54325,
+        "slowStartTime": 76528,
+        "slowEndTime": 81712
+    },
+    {
+        "text": "...and in my opinion, look quite good.",
+        "startTime": 54761,
+        "endTime": 56173,
+        "slowStartTime": 82291,
+        "slowEndTime": 84485
+    }
+]

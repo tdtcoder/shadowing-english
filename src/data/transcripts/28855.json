@@ -1,0 +1,135 @@
+[
+    {
+        "text": "From the people that brought you Google Home...",
+        "startTime": 359,
+        "endTime": 2217,
+        "slowStartTime": 689,
+        "slowEndTime": 3550
+    },
+    {
+        "text": "...comes the next evolution of the smart home...",
+        "startTime": 2592,
+        "endTime": 4838,
+        "slowStartTime": 4038,
+        "slowEndTime": 7482
+    },
+    {
+        "text": "...and it's just outside your window.",
+        "startTime": 5278,
+        "endTime": 6947,
+        "slowStartTime": 8067,
+        "slowEndTime": 10646
+    },
+    {
+        "text": "Meet Google Gnome.",
+        "startTime": 7373,
+        "endTime": 8737,
+        "slowStartTime": 11210,
+        "slowEndTime": 13331
+    },
+    {
+        "text": "Hi, how can I help?",
+        "startTime": 9544,
+        "endTime": 10895,
+        "slowStartTime": 14466,
+        "slowEndTime": 16567
+    },
+    {
+        "text": "Okay Gnome, what's the weather like outside?",
+        "startTime": 11580,
+        "endTime": 13339,
+        "slowStartTime": 17520,
+        "slowEndTime": 20234
+    },
+    {
+        "text": "The weather outside is sunny and 76 degrees.",
+        "startTime": 13591,
+        "endTime": 16536,
+        "slowStartTime": 20537,
+        "slowEndTime": 25029
+    },
+    {
+        "text": "He's right.",
+        "startTime": 17371,
+        "endTime": 17877,
+        "slowStartTime": 26206,
+        "slowEndTime": 27040
+    },
+    {
+        "text": "Okay Gnome, turn on the hose I'm holding.",
+        "startTime": 18751,
+        "endTime": 21027,
+        "slowStartTime": 28276,
+        "slowEndTime": 31766
+    },
+    {
+        "text": "Sure.",
+        "startTime": 21104,
+        "endTime": 21478,
+        "slowStartTime": 31806,
+        "slowEndTime": 32442
+    },
+    {
+        "text": "Okay Gnome, can I eat this lemon tree leaf?",
+        "startTime": 22979,
+        "endTime": 24381,
+        "slowStartTime": 34619,
+        "slowEndTime": 36796
+    },
+    {
+        "text": "Yes.",
+        "startTime": 24690,
+        "endTime": 25018,
+        "slowStartTime": 37185,
+        "slowEndTime": 37752
+    },
+    {
+        "text": "What about this daisy?",
+        "startTime": 25333,
+        "endTime": 25897,
+        "slowStartTime": 38149,
+        "slowEndTime": 39070
+    },
+    {
+        "text": "Yes, but I wouldn't recommend it.",
+        "startTime": 26195,
+        "endTime": 27607,
+        "slowStartTime": 39443,
+        "slowEndTime": 41635
+    },
+    {
+        "text": "Okay, but I could eat it.",
+        "startTime": 27849,
+        "endTime": 28716,
+        "slowStartTime": 41923,
+        "slowEndTime": 43299
+    },
+    {
+        "text": "Okay Gnome, add milk to my shopping list.",
+        "startTime": 29144,
+        "endTime": 31579,
+        "slowStartTime": 43866,
+        "slowEndTime": 47594
+    },
+    {
+        "text": "I'm sorry, that sounds like an indoor request.",
+        "startTime": 31860,
+        "endTime": 34145,
+        "slowStartTime": 47940,
+        "slowEndTime": 51442
+    },
+    {
+        "text": "I keep doing that, sorry.",
+        "startTime": 35149,
+        "endTime": 36062,
+        "slowStartTime": 52873,
+        "slowEndTime": 54318
+    },
+    {
+        "text": "You do keep doing that.",
+        "startTime": 36209,
+        "endTime": 37301,
+        "slowStartTime": 54464,
+        "slowEndTime": 56177
+    }
+]

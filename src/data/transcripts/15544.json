@@ -1,0 +1,100 @@
+[
+    {
+        "text": "We have a flat tire.",
+        "startTime": 2161,
+        "endTime": 3336,
+        "slowStartTime": 3392,
+        "slowEndTime": 5229
+    },
+    {
+        "text": "How do I tie a bow tie again?",
+        "startTime": 3401,
+        "endTime": 4804,
+        "slowStartTime": 5251,
+        "slowEndTime": 7431
+    },
+    {
+        "text": "What's the fastest way to Hartford Hospital?",
+        "startTime": 4969,
+        "endTime": 6975,
+        "slowStartTime": 7604,
+        "slowEndTime": 10688
+    },
+    {
+        "text": "Do I need an umbrella in New York this weekend?",
+        "startTime": 7035,
+        "endTime": 8766,
+        "slowStartTime": 10702,
+        "slowEndTime": 13374
+    },
+    {
+        "text": "Remind me to call Chris when I get home.",
+        "startTime": 8852,
+        "endTime": 10321,
+        "slowStartTime": 13428,
+        "slowEndTime": 15706
+    },
+    {
+        "text": "Move my meeting from three to four.",
+        "startTime": 10419,
+        "endTime": 11795,
+        "slowStartTime": 15779,
+        "slowEndTime": 17917
+    },
+    {
+        "text": "What does a weasel look like?",
+        "startTime": 12024,
+        "endTime": 13845,
+        "slowStartTime": 18186,
+        "slowEndTime": 20992
+    },
+    {
+        "text": "Remind me to get milk when I leave work.",
+        "startTime": 13960,
+        "endTime": 15523,
+        "slowStartTime": 21090,
+        "slowEndTime": 23510
+    },
+    {
+        "text": "Tell my wife I'm gonna make it.",
+        "startTime": 15611,
+        "endTime": 16669,
+        "slowStartTime": 23566,
+        "slowEndTime": 25228
+    },
+    {
+        "text": "Wake me up at six.",
+        "startTime": 16757,
+        "endTime": 17743,
+        "slowStartTime": 25285,
+        "slowEndTime": 26840
+    },
+    {
+        "text": "Play some Coltrane.",
+        "startTime": 17804,
+        "endTime": 18679,
+        "slowStartTime": 26856,
+        "slowEndTime": 28243
+    },
+    {
+        "text": "I'm locked out.",
+        "startTime": 20264,
+        "endTime": 20911,
+        "slowStartTime": 30546,
+        "slowEndTime": 31591
+    },
+    {
+        "text": "I found three locksmiths fairly close to you.",
+        "startTime": 22229,
+        "endTime": 24546,
+        "slowStartTime": 33494,
+        "slowEndTime": 37044
+    },
+    {
+        "text": "Say hello to the most amazing iPhone yet.",
+        "startTime": 25187,
+        "endTime": 27745,
+        "slowStartTime": 37930,
+        "slowEndTime": 41843
+    }
+]

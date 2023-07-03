@@ -1,0 +1,72 @@
+[
+    {
+        "text": "There is no easy way to deal with overdue accounts.",
+        "startTime": 1700,
+        "endTime": 4700,
+        "slowStartTime": 2670,
+        "slowEndTime": 7100
+    },
+    {
+        "text": "We should set up a committee to reformulate our accounting procedures.",
+        "startTime": 5070,
+        "endTime": 8640,
+        "slowStartTime": 7680,
+        "slowEndTime": 13030
+    },
+    {
+        "text": "I've often had to clarify our company's policy on payment options for clients.",
+        "startTime": 9280,
+        "endTime": 13710,
+        "slowStartTime": 13970,
+        "slowEndTime": 20595
+    },
+    {
+        "text": "Some of the procedures are not very clear in company documents.",
+        "startTime": 14080,
+        "endTime": 17650,
+        "slowStartTime": 21200,
+        "slowEndTime": 26530
+    },
+    {
+        "text": "I think we're getting sidetracked.",
+        "startTime": 18030,
+        "endTime": 19850,
+        "slowStartTime": 27020,
+        "slowEndTime": 29800
+    },
+    {
+        "text": "We should stick to our original topic of discussion.",
+        "startTime": 20280,
+        "endTime": 22790,
+        "slowStartTime": 30500,
+        "slowEndTime": 34170
+    },
+    {
+        "text": "Accounting and client payments are outside the scope of this discussion.",
+        "startTime": 23190,
+        "endTime": 27590,
+        "slowStartTime": 34830,
+        "slowEndTime": 41320
+    },
+    {
+        "text": "Let's focus our discussion on sales techniques.",
+        "startTime": 28160,
+        "endTime": 30890,
+        "slowStartTime": 42220,
+        "slowEndTime": 46300
+    },
+    {
+        "text": "Maybe we should move on to the next person's ideas.",
+        "startTime": 31390,
+        "endTime": 33720,
+        "slowStartTime": 47150,
+        "slowEndTime": 50625
+    },
+    {
+        "text": "I believe Linda was next.",
+        "startTime": 34130,
+        "endTime": 35730,
+        "slowStartTime": 51250,
+        "slowEndTime": 53520
+    }
+]

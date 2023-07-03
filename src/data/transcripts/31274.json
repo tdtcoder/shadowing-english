@@ -1,0 +1,72 @@
+[
+    {
+        "text": "The word THIS tells us about something close.",
+        "startTime": 527,
+        "endTime": 3711,
+        "slowStartTime": 941,
+        "slowEndTime": 5791
+    },
+    {
+        "text": "This is an animal.",
+        "startTime": 5398,
+        "endTime": 7093,
+        "slowStartTime": 8247,
+        "slowEndTime": 10865
+    },
+    {
+        "text": "This is a place.",
+        "startTime": 8824,
+        "endTime": 10185,
+        "slowStartTime": 13386,
+        "slowEndTime": 15503
+    },
+    {
+        "text": "This place is a house.",
+        "startTime": 11871,
+        "endTime": 13785,
+        "slowStartTime": 17957,
+        "slowEndTime": 20903
+    },
+    {
+        "text": "This toy is a robot.",
+        "startTime": 15449,
+        "endTime": 17040,
+        "slowStartTime": 23324,
+        "slowEndTime": 25785
+    },
+    {
+        "text": "The word THAT tells us about something far away.",
+        "startTime": 18593,
+        "endTime": 22474,
+        "slowStartTime": 28039,
+        "slowEndTime": 33936
+    },
+    {
+        "text": "That is an animal.",
+        "startTime": 24425,
+        "endTime": 26052,
+        "slowStartTime": 36787,
+        "slowEndTime": 39303
+    },
+    {
+        "text": "That place is a mountain.",
+        "startTime": 27877,
+        "endTime": 30112,
+        "slowStartTime": 41966,
+        "slowEndTime": 45393
+    },
+    {
+        "text": "That is a tree.",
+        "startTime": 31807,
+        "endTime": 33008,
+        "slowStartTime": 47861,
+        "slowEndTime": 49737
+    },
+    {
+        "text": "That man is a teacher.",
+        "startTime": 34779,
+        "endTime": 36423,
+        "slowStartTime": 52319,
+        "slowEndTime": 54859
+    }
+]

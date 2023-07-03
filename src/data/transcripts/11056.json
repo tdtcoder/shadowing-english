@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Look at that fluffy unicorn.",
+        "startTime": 11,
+        "endTime": 1800,
+        "slowStartTime": 100,
+        "slowEndTime": 2850
+    },
+    {
+        "text": "He's so fluffy, I'm gonna die!",
+        "startTime": 2100,
+        "endTime": 4200,
+        "slowStartTime": 3350,
+        "slowEndTime": 6550
+    },
+    {
+        "text": "All you gotta do to win it is knock down that little spaceship there.",
+        "startTime": 4350,
+        "endTime": 8700,
+        "slowStartTime": 6700,
+        "slowEndTime": 13200
+    },
+    {
+        "text": "Yeah! I hit it! I got it!",
+        "startTime": 18350,
+        "endTime": 19550,
+        "slowStartTime": 27700,
+        "slowEndTime": 29650
+    },
+    {
+        "text": "Cool!",
+        "startTime": 19700,
+        "endTime": 20100,
+        "slowStartTime": 29700,
+        "slowEndTime": 30400
+    },
+    {
+        "text": "She hit that!",
+        "startTime": 23550,
+        "endTime": 24500,
+        "slowStartTime": 35500,
+        "slowEndTime": 36950
+    },
+    {
+        "text": "I saw that with my own eyes.",
+        "startTime": 25000,
+        "endTime": 26500,
+        "slowStartTime": 37700,
+        "slowEndTime": 39950
+    },
+    {
+        "text": "Let me explain something to you.",
+        "startTime": 26600,
+        "endTime": 28450,
+        "slowStartTime": 40100,
+        "slowEndTime": 42900
+    },
+    {
+        "text": "You see how it's not knocked over?",
+        "startTime": 28700,
+        "endTime": 30700,
+        "slowStartTime": 43200,
+        "slowEndTime": 46350
+    },
+    {
+        "text": "Okay, my turn.",
+        "startTime": 31100,
+        "endTime": 33700,
+        "slowStartTime": 46850,
+        "slowEndTime": 50950
+    },
+    {
+        "text": "Knocked over!",
+        "startTime": 50150,
+        "endTime": 52300,
+        "slowStartTime": 75400,
+        "slowEndTime": 78700
+    },
+    {
+        "text": "It's so fluffy!",
+        "startTime": 52600,
+        "endTime": 53950,
+        "slowStartTime": 79125,
+        "slowEndTime": 81150
+    }
+]

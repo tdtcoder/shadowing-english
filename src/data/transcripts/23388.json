@@ -1,0 +1,44 @@
+[
+    {
+        "text": "This is not a pen.",
+        "startTime": 2507,
+        "endTime": 3509,
+        "slowStartTime": 3910,
+        "slowEndTime": 5489
+    },
+    {
+        "text": "It's a pair of scissors.",
+        "startTime": 7151,
+        "endTime": 8192,
+        "slowStartTime": 10877,
+        "slowEndTime": 12513
+    },
+    {
+        "text": "It's also a glue stick.",
+        "startTime": 10719,
+        "endTime": 11929,
+        "slowStartTime": 16229,
+        "slowEndTime": 18118
+    },
+    {
+        "text": "And whilst it's an itchy head scratcher, it's also a neat little shortcut.",
+        "startTime": 12863,
+        "endTime": 17329,
+        "slowStartTime": 19445,
+        "slowEndTime": 26218
+    },
+    {
+        "text": "Because this is not a pen.",
+        "startTime": 18625,
+        "endTime": 20169,
+        "slowStartTime": 28088,
+        "slowEndTime": 30478
+    },
+    {
+        "text": "This is the all-new Samsung Galaxy Note 4.",
+        "startTime": 21009,
+        "endTime": 23690,
+        "slowStartTime": 31663,
+        "slowEndTime": 35760
+    }
+]

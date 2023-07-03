@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Jane Eyre was a young orphan being raised by Mrs. Reed.",
+        "startTime": 2425,
+        "endTime": 6752,
+        "slowStartTime": 3788,
+        "slowEndTime": 10353
+    },
+    {
+        "text": "Mrs. Reed was her cruel, wealthy aunt.",
+        "startTime": 7594,
+        "endTime": 10441,
+        "slowStartTime": 11541,
+        "slowEndTime": 15886
+    },
+    {
+        "text": "She sent away Jane to Lowood School.",
+        "startTime": 11136,
+        "endTime": 13763,
+        "slowStartTime": 16854,
+        "slowEndTime": 20869
+    },
+    {
+        "text": "A typhus epidemic went through Lowood and Jane's friend, Helen Burns, died.",
+        "startTime": 14854,
+        "endTime": 20265,
+        "slowStartTime": 22431,
+        "slowEndTime": 30622
+    },
+    {
+        "text": "After completing school, she taught at Lowood for two years.",
+        "startTime": 21189,
+        "endTime": 25433,
+        "slowStartTime": 31934,
+        "slowEndTime": 38374
+    },
+    {
+        "text": "Afterwards, she worked at Thornfield manor and tutored a lively French girl named Adele.",
+        "startTime": 28177,
+        "endTime": 34766,
+        "slowStartTime": 42416,
+        "slowEndTime": 52374
+    },
+    {
+        "text": "Her boss was Rochester and Jane soon fell in love with him.",
+        "startTime": 35799,
+        "endTime": 40217,
+        "slowStartTime": 53849,
+        "slowEndTime": 60550
+    },
+    {
+        "text": "Rochester proposed to Jane...",
+        "startTime": 41215,
+        "endTime": 43172,
+        "slowStartTime": 61972,
+        "slowEndTime": 64983
+    },
+    {
+        "text": "...but, on their wedding day, she learned that he was already married.",
+        "startTime": 43585,
+        "endTime": 47665,
+        "slowStartTime": 65528,
+        "slowEndTime": 71722
+    },
+    {
+        "text": "Rochester explained that his wife went mad.",
+        "startTime": 48741,
+        "endTime": 51954,
+        "slowStartTime": 73261,
+        "slowEndTime": 78156
+    },
+    {
+        "text": "He had kept her hidden at his house for many years.",
+        "startTime": 52820,
+        "endTime": 56111,
+        "slowStartTime": 79380,
+        "slowEndTime": 84391
+    },
+    {
+        "text": "In distress, Jane fled Thornfield.",
+        "startTime": 56955,
+        "endTime": 59777,
+        "slowStartTime": 85582,
+        "slowEndTime": 89891
+    },
+    {
+        "text": "Penniless and hungry, Jane was forced to sleep outdoors and beg for food.",
+        "startTime": 61727,
+        "endTime": 67375,
+        "slowStartTime": 92740,
+        "slowEndTime": 101287
+    },
+    {
+        "text": "Three siblings took Jane into their home.",
+        "startTime": 68482,
+        "endTime": 70979,
+        "slowStartTime": 102873,
+        "slowEndTime": 106694
+    },
+    {
+        "text": "There she discovered that the siblings were her cousins...",
+        "startTime": 71923,
+        "endTime": 75707,
+        "slowStartTime": 108034,
+        "slowEndTime": 113786
+    },
+    {
+        "text": "...and that she had inherited a large sum of money.",
+        "startTime": 76269,
+        "endTime": 79501,
+        "slowStartTime": 114553,
+        "slowEndTime": 119476
+    },
+    {
+        "text": "Jane realized that she still loves Rochester and went back to Thornfield.",
+        "startTime": 80663,
+        "endTime": 86265,
+        "slowStartTime": 121144,
+        "slowEndTime": 129622
+    },
+    {
+        "text": "But the Thornfield manor was burned to the ground by a fire.",
+        "startTime": 87149,
+        "endTime": 90950,
+        "slowStartTime": 130874,
+        "slowEndTime": 136650
+    },
+    {
+        "text": "Rochester lost his eyesight and one of his hands,...",
+        "startTime": 92087,
+        "endTime": 95891,
+        "slowStartTime": 138280,
+        "slowEndTime": 144061
+    },
+    {
+        "text": "...and his wife was killed in the fire.",
+        "startTime": 96388,
+        "endTime": 98675,
+        "slowStartTime": 144732,
+        "slowEndTime": 148238
+    },
+    {
+        "text": "Rochester and Jane rebuilt their relationship and soon married.",
+        "startTime": 99787,
+        "endTime": 104530,
+        "slowStartTime": 149830,
+        "slowEndTime": 157020
+    }
+]

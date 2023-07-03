@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Hi, Anne.",
+        "startTime": 613,
+        "endTime": 1627,
+        "slowStartTime": 1069,
+        "slowEndTime": 2665
+    },
+    {
+        "text": "Are you busy?",
+        "startTime": 2084,
+        "endTime": 2789,
+        "slowStartTime": 3276,
+        "slowEndTime": 4408
+    },
+    {
+        "text": "Hi, Anna. Yes.",
+        "startTime": 3016,
+        "endTime": 4685,
+        "slowStartTime": 4674,
+        "slowEndTime": 7252
+    },
+    {
+        "text": "At 10 a.m., I am writing.",
+        "startTime": 4997,
+        "endTime": 7409,
+        "slowStartTime": 7646,
+        "slowEndTime": 11338
+    },
+    {
+        "text": "Every day, I do my morning show.",
+        "startTime": 8133,
+        "endTime": 10738,
+        "slowStartTime": 12349,
+        "slowEndTime": 16332
+    },
+    {
+        "text": "Sorry!",
+        "startTime": 11594,
+        "endTime": 12245,
+        "slowStartTime": 17541,
+        "slowEndTime": 18593
+    },
+    {
+        "text": "Okay.",
+        "startTime": 12720,
+        "endTime": 13626,
+        "slowStartTime": 19230,
+        "slowEndTime": 20664
+    },
+    {
+        "text": "See you later.",
+        "startTime": 14287,
+        "endTime": 15235,
+        "slowStartTime": 21580,
+        "slowEndTime": 23078
+    },
+    {
+        "text": "Hi, Jonathan.",
+        "startTime": 16385,
+        "endTime": 17513,
+        "slowStartTime": 24728,
+        "slowEndTime": 26495
+    },
+    {
+        "text": "Are you busy?",
+        "startTime": 17784,
+        "endTime": 18651,
+        "slowStartTime": 26826,
+        "slowEndTime": 28202
+    },
+    {
+        "text": "Yes, I'm busy.",
+        "startTime": 18923,
+        "endTime": 20139,
+        "slowStartTime": 28535,
+        "slowEndTime": 30433
+    },
+    {
+        "text": "When the studio light is on, I am recording my evening show.",
+        "startTime": 20495,
+        "endTime": 24700,
+        "slowStartTime": 30892,
+        "slowEndTime": 37275
+    },
+    {
+        "text": "Right.",
+        "startTime": 24957,
+        "endTime": 25369,
+        "slowStartTime": 37586,
+        "slowEndTime": 38278
+    },
+    {
+        "text": "Sorry about yesterday.",
+        "startTime": 25761,
+        "endTime": 27317,
+        "slowStartTime": 38792,
+        "slowEndTime": 41200
+    },
+    {
+        "text": "No worries.",
+        "startTime": 27636,
+        "endTime": 28210,
+        "slowStartTime": 41604,
+        "slowEndTime": 42540
+    },
+    {
+        "text": "May I see the studio?",
+        "startTime": 28687,
+        "endTime": 29870,
+        "slowStartTime": 43180,
+        "slowEndTime": 45030
+    },
+    {
+        "text": "Um, maybe another time?",
+        "startTime": 29963,
+        "endTime": 31319,
+        "slowStartTime": 45094,
+        "slowEndTime": 47203
+    },
+    {
+        "text": "Right now, I am busy.",
+        "startTime": 31582,
+        "endTime": 33427,
+        "slowStartTime": 47523,
+        "slowEndTime": 50366
+    },
+    {
+        "text": "Sure.",
+        "startTime": 34072,
+        "endTime": 34647,
+        "slowStartTime": 51258,
+        "slowEndTime": 52195
+    },
+    {
+        "text": "Ok, bye.",
+        "startTime": 35125,
+        "endTime": 36729,
+        "slowStartTime": 52838,
+        "slowEndTime": 55319
+    },
+    {
+        "text": "Bye.",
+        "startTime": 36926,
+        "endTime": 37409,
+        "slowStartTime": 55539,
+        "slowEndTime": 56339
+    }
+]

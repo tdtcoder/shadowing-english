@@ -1,0 +1,128 @@
+[
+    {
+        "text": "I can run.",
+        "startTime": 3443,
+        "endTime": 4581,
+        "slowStartTime": 5314,
+        "slowEndTime": 7097
+    },
+    {
+        "text": "I can jump.",
+        "startTime": 5783,
+        "endTime": 6981,
+        "slowStartTime": 8824,
+        "slowEndTime": 10697
+    },
+    {
+        "text": "I can swing.",
+        "startTime": 8177,
+        "endTime": 9486,
+        "slowStartTime": 12415,
+        "slowEndTime": 14454
+    },
+    {
+        "text": "I can hop.",
+        "startTime": 10848,
+        "endTime": 12005,
+        "slowStartTime": 16422,
+        "slowEndTime": 18233
+    },
+    {
+        "text": "I can ride.",
+        "startTime": 13045,
+        "endTime": 14317,
+        "slowStartTime": 19717,
+        "slowEndTime": 21700
+    },
+    {
+        "text": "I can climb.",
+        "startTime": 15495,
+        "endTime": 16761,
+        "slowStartTime": 23392,
+        "slowEndTime": 25366
+    },
+    {
+        "text": "I can crawl.",
+        "startTime": 18173,
+        "endTime": 19495,
+        "slowStartTime": 27409,
+        "slowEndTime": 29467
+    },
+    {
+        "text": "I can play.",
+        "startTime": 20901,
+        "endTime": 22092,
+        "slowStartTime": 31502,
+        "slowEndTime": 33363
+    },
+    {
+        "text": "What can you do?",
+        "startTime": 25012,
+        "endTime": 26441,
+        "slowStartTime": 37668,
+        "slowEndTime": 39886
+    },
+    {
+        "text": "I can run.",
+        "startTime": 27889,
+        "endTime": 29033,
+        "slowStartTime": 41983,
+        "slowEndTime": 43774
+    },
+    {
+        "text": "What about you?",
+        "startTime": 29483,
+        "endTime": 30753,
+        "slowStartTime": 44374,
+        "slowEndTime": 46355
+    },
+    {
+        "text": "I can jump.",
+        "startTime": 32097,
+        "endTime": 33192,
+        "slowStartTime": 48296,
+        "slowEndTime": 50013
+    },
+    {
+        "text": "What can your brother do?",
+        "startTime": 33542,
+        "endTime": 35221,
+        "slowStartTime": 50463,
+        "slowEndTime": 53057
+    },
+    {
+        "text": "He can climb.",
+        "startTime": 36707,
+        "endTime": 38051,
+        "slowStartTime": 55211,
+        "slowEndTime": 57302
+    },
+    {
+        "text": "What can Jenny do?",
+        "startTime": 38593,
+        "endTime": 40040,
+        "slowStartTime": 58040,
+        "slowEndTime": 60285
+    },
+    {
+        "text": "She can hop.",
+        "startTime": 41399,
+        "endTime": 42444,
+        "slowStartTime": 62248,
+        "slowEndTime": 63891
+    },
+    {
+        "text": "What can a snail do?",
+        "startTime": 42877,
+        "endTime": 44596,
+        "slowStartTime": 64465,
+        "slowEndTime": 67119
+    },
+    {
+        "text": "It can crawl.",
+        "startTime": 46085,
+        "endTime": 47438,
+        "slowStartTime": 69278,
+        "slowEndTime": 71382
+    }
+]

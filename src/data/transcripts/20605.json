@@ -1,0 +1,86 @@
+[
+    {
+        "text": "The American Medical Association has decided to officially classify obesity as a disease.",
+        "startTime": 2475,
+        "endTime": 7633,
+        "slowStartTime": 3862,
+        "slowEndTime": 11675
+    },
+    {
+        "text": "According to the Centers for Disease Control and Prevention over 1/3 of Americans are obese.",
+        "startTime": 8403,
+        "endTime": 13143,
+        "slowStartTime": 12754,
+        "slowEndTime": 19939
+    },
+    {
+        "text": "Although obesity is associated with a variety of different health problems like diabetes or heart condition,...",
+        "startTime": 13878,
+        "endTime": 19405,
+        "slowStartTime": 20967,
+        "slowEndTime": 29333
+    },
+    {
+        "text": "...until now it was not recognized as a disease, but rather a condition that caused other diseases.",
+        "startTime": 19645,
+        "endTime": 25281,
+        "slowStartTime": 29618,
+        "slowEndTime": 38146
+    },
+    {
+        "text": "The AMA's decision might influence both health care professionals and insurance providers...",
+        "startTime": 26009,
+        "endTime": 30520,
+        "slowStartTime": 39164,
+        "slowEndTime": 45932
+    },
+    {
+        "text": "...to start treating obesity in a different way,...",
+        "startTime": 30800,
+        "endTime": 32615,
+        "slowStartTime": 45987,
+        "slowEndTime": 49148
+    },
+    {
+        "text": "...which includes reimbursements for treatment of the disease.",
+        "startTime": 32895,
+        "endTime": 35503,
+        "slowStartTime": 49492,
+        "slowEndTime": 53479
+    },
+    {
+        "text": "One potential issue with the decision is that it will change the treatment from lifestyle choices...",
+        "startTime": 36315,
+        "endTime": 40833,
+        "slowStartTime": 54623,
+        "slowEndTime": 61475
+    },
+    {
+        "text": "...to a more clinical approach.",
+        "startTime": 41100,
+        "endTime": 42407,
+        "slowStartTime": 61607,
+        "slowEndTime": 63836
+    },
+    {
+        "text": "The AMA's decision addresses the myriad of issues surrounding obesity, saying,...",
+        "startTime": 43124,
+        "endTime": 46915,
+        "slowStartTime": 64836,
+        "slowEndTime": 70598
+    },
+    {
+        "text": "...\"There are hormonal and metabolical abnormalities not reversible by lifestyle interventions...\"",
+        "startTime": 47176,
+        "endTime": 52505,
+        "slowStartTime": 70914,
+        "slowEndTime": 78983
+    },
+    {
+        "text": "\"...that will likely require multiple different risk stratified interventions for patients.\"",
+        "startTime": 52900,
+        "endTime": 56957,
+        "slowStartTime": 79154,
+        "slowEndTime": 85661
+    }
+]

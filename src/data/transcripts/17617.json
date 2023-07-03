@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Hi, Sam.",
+        "startTime": 2667,
+        "endTime": 3597,
+        "slowStartTime": 4151,
+        "slowEndTime": 5620
+    },
+    {
+        "text": "Hi, Paula. What are you doing here?",
+        "startTime": 4604,
+        "endTime": 6975,
+        "slowStartTime": 7056,
+        "slowEndTime": 10688
+    },
+    {
+        "text": "I'm looking for Amy's house.",
+        "startTime": 7993,
+        "endTime": 9891,
+        "slowStartTime": 12139,
+        "slowEndTime": 15061
+    },
+    {
+        "text": "I know she lives in this apartment.",
+        "startTime": 10224,
+        "endTime": 12313,
+        "slowStartTime": 15486,
+        "slowEndTime": 18694
+    },
+    {
+        "text": "But I don't know which floor she lives on.",
+        "startTime": 12624,
+        "endTime": 15161,
+        "slowStartTime": 19086,
+        "slowEndTime": 22966
+    },
+    {
+        "text": "I can help you find Amy's house.",
+        "startTime": 16184,
+        "endTime": 18433,
+        "slowStartTime": 24426,
+        "slowEndTime": 27874
+    },
+    {
+        "text": "She lives on the same floor with me.",
+        "startTime": 18774,
+        "endTime": 21143,
+        "slowStartTime": 28311,
+        "slowEndTime": 31940
+    },
+    {
+        "text": "Oh, thanks.",
+        "startTime": 22141,
+        "endTime": 23317,
+        "slowStartTime": 33362,
+        "slowEndTime": 35201
+    },
+    {
+        "text": "Then how come you are visiting Amy?",
+        "startTime": 24359,
+        "endTime": 26766,
+        "slowStartTime": 36688,
+        "slowEndTime": 40374
+    },
+    {
+        "text": "She promised that she would give me some game CDs.",
+        "startTime": 27709,
+        "endTime": 30903,
+        "slowStartTime": 41714,
+        "slowEndTime": 46580
+    },
+    {
+        "text": "I can't wait for her to come to my place.",
+        "startTime": 31355,
+        "endTime": 34071,
+        "slowStartTime": 47182,
+        "slowEndTime": 51332
+    },
+    {
+        "text": "Wow, how nice!",
+        "startTime": 35020,
+        "endTime": 36767,
+        "slowStartTime": 52680,
+        "slowEndTime": 55375
+    },
+    {
+        "text": "Here we are. Push the bell.",
+        "startTime": 37372,
+        "endTime": 39706,
+        "slowStartTime": 56208,
+        "slowEndTime": 59784
+    }
+]

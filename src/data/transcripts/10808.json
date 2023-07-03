@@ -1,0 +1,261 @@
+[
+    {
+        "text": "Watch out! Waaa!",
+        "startTime": 9700,
+        "endTime": 11250,
+        "slowStartTime": 14775,
+        "slowEndTime": 17200
+    },
+    {
+        "text": "Mom!",
+        "startTime": 11350,
+        "endTime": 12150,
+        "slowStartTime": 17200,
+        "slowEndTime": 18400
+    },
+    {
+        "text": "No, no, no, no, just keep playing. Just pretend I'm not here.",
+        "startTime": 12250,
+        "endTime": 14500,
+        "slowStartTime": 18500,
+        "slowEndTime": 21950
+    },
+    {
+        "text": "Does the red light mean it's going?",
+        "startTime": 15050,
+        "endTime": 16250,
+        "slowStartTime": 22800,
+        "slowEndTime": 24600
+    },
+    {
+        "text": "Andy's going to college.",
+        "startTime": 32800,
+        "endTime": 34400,
+        "slowStartTime": 49400,
+        "slowEndTime": 51800
+    },
+    {
+        "text": "Can you believe it?",
+        "startTime": 34550,
+        "endTime": 35500,
+        "slowStartTime": 52000,
+        "slowEndTime": 53500
+    },
+    {
+        "text": "Mom, I'm not leaving 'til Friday.",
+        "startTime": 35700,
+        "endTime": 37250,
+        "slowStartTime": 53750,
+        "slowEndTime": 56050
+    },
+    {
+        "text": "What are you gonna do with these old toys?",
+        "startTime": 37700,
+        "endTime": 39550,
+        "slowStartTime": 56575,
+        "slowEndTime": 59450
+    },
+    {
+        "text": "Don't you get it?",
+        "startTime": 57350,
+        "endTime": 58100,
+        "slowStartTime": 86250,
+        "slowEndTime": 87300
+    },
+    {
+        "text": "We're finished, obsolete, over the hill!",
+        "startTime": 58250,
+        "endTime": 60450,
+        "slowStartTime": 87650,
+        "slowEndTime": 90950
+    },
+    {
+        "text": "Now come on guys, we all knew this day was coming.",
+        "startTime": 62100,
+        "endTime": 65000,
+        "slowStartTime": 93400,
+        "slowEndTime": 97700
+    },
+    {
+        "text": "We're getting thrown away?",
+        "startTime": 65050,
+        "endTime": 66200,
+        "slowStartTime": 97800,
+        "slowEndTime": 99600
+    },
+    {
+        "text": "No. No one's getting thrown away.",
+        "startTime": 66250,
+        "endTime": 67800,
+        "slowStartTime": 99600,
+        "slowEndTime": 101970
+    },
+    {
+        "text": "We ain't ever getting played with.",
+        "startTime": 67850,
+        "endTime": 69550,
+        "slowStartTime": 101950,
+        "slowEndTime": 104600
+    },
+    {
+        "text": "Hold on, this is no time to be hysterical.",
+        "startTime": 69600,
+        "endTime": 71450,
+        "slowStartTime": 104650,
+        "slowEndTime": 107650
+    },
+    {
+        "text": "But it's the perfect time to be hysterical!",
+        "startTime": 71500,
+        "endTime": 73400,
+        "slowStartTime": 107500,
+        "slowEndTime": 110400
+    },
+    {
+        "text": "Should we be hysterical?",
+        "startTime": 73450,
+        "endTime": 74950,
+        "slowStartTime": 110350,
+        "slowEndTime": 112650
+    },
+    {
+        "text": "Yeah!",
+        "startTime": 75350,
+        "endTime": 75650,
+        "slowStartTime": 113250,
+        "slowEndTime": 113650
+    },
+    {
+        "text": "Maybe, but not right now.",
+        "startTime": 75700,
+        "endTime": 77300,
+        "slowStartTime": 113700,
+        "slowEndTime": 116200
+    },
+    {
+        "text": "Come on, let's see how much we're going for in eBay.",
+        "startTime": 77350,
+        "endTime": 79850,
+        "slowStartTime": 116200,
+        "slowEndTime": 120000
+    },
+    {
+        "text": "New toys!",
+        "startTime": 81250,
+        "endTime": 82350,
+        "slowStartTime": 122100,
+        "slowEndTime": 123750
+    },
+    {
+        "text": "At last! I'm gonna get played with!",
+        "startTime": 82400,
+        "endTime": 84150,
+        "slowStartTime": 123800,
+        "slowEndTime": 126400
+    },
+    {
+        "text": "Where's my nose?",
+        "startTime": 93550,
+        "endTime": 94250,
+        "slowStartTime": 140500,
+        "slowEndTime": 141900
+    },
+    {
+        "text": "Here it is.",
+        "startTime": 94300,
+        "endTime": 94800,
+        "slowStartTime": 141650,
+        "slowEndTime": 142950
+    },
+    {
+        "text": "Here's your arm.",
+        "startTime": 94850,
+        "endTime": 95500,
+        "slowStartTime": 142500,
+        "slowEndTime": 143400
+    },
+    {
+        "text": "Give me that. That's mine.",
+        "startTime": 95600,
+        "endTime": 96450,
+        "slowStartTime": 143500,
+        "slowEndTime": 145050
+    },
+    {
+        "text": "The mustache?",
+        "startTime": 96500,
+        "endTime": 97050,
+        "slowStartTime": 144960,
+        "slowEndTime": 146000
+    },
+    {
+        "text": "We're busting outta here.",
+        "startTime": 99750,
+        "endTime": 100750,
+        "slowStartTime": 149800,
+        "slowEndTime": 151400
+    },
+    {
+        "text": "On three: one...",
+        "startTime": 100900,
+        "endTime": 102350,
+        "slowStartTime": 151550,
+        "slowEndTime": 153800
+    },
+    {
+        "text": "Three!",
+        "startTime": 102500,
+        "endTime": 103000,
+        "slowStartTime": 153900,
+        "slowEndTime": 154800
+    },
+    {
+        "text": "To infinity and beyond!",
+        "startTime": 104550,
+        "endTime": 106700,
+        "slowStartTime": 157100,
+        "slowEndTime": 160300
+    },
+    {
+        "text": "To reset your Buzz Lightyear, insert paper clip...",
+        "startTime": 108350,
+        "endTime": 111350,
+        "slowStartTime": 162700,
+        "slowEndTime": 167500
+    },
+    {
+        "text": "Rex, use your finger!",
+        "startTime": 111400,
+        "endTime": 112250,
+        "slowStartTime": 167300,
+        "slowEndTime": 168650
+    },
+    {
+        "text": "Did you fix Buzz?",
+        "startTime": 114350,
+        "endTime": 115650,
+        "slowStartTime": 171750,
+        "slowEndTime": 173800
+    },
+    {
+        "text": "Er, sort of.",
+        "startTime": 120950,
+        "endTime": 122050,
+        "slowStartTime": 181600,
+        "slowEndTime": 183300
+    },
+    {
+        "text": "Oh, no.",
+        "startTime": 126700,
+        "endTime": 127700,
+        "slowStartTime": 190200,
+        "slowEndTime": 191800
+    },
+    {
+        "text": "Oh yes! Return of the Astronut.",
+        "startTime": 127750,
+        "endTime": 130100,
+        "slowStartTime": 191600,
+        "slowEndTime": 195400
+    }
+]

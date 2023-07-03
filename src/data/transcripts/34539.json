@@ -1,0 +1,58 @@
+[
+    {
+        "text": "After an early setback,...",
+        "startTime": 373,
+        "endTime": 1597,
+        "slowStartTime": 709,
+        "slowEndTime": 2620
+    },
+    {
+        "text": "...Japanese Prime Minister Shinzo Abe hailed the completion of the national stadium...",
+        "startTime": 1776,
+        "endTime": 5527,
+        "slowStartTime": 2814,
+        "slowEndTime": 8515
+    },
+    {
+        "text": "...built for the Tokyo 2020 Olympics during a ceremony on Sunday.",
+        "startTime": 5658,
+        "endTime": 8989,
+        "slowStartTime": 8637,
+        "slowEndTime": 13709
+    },
+    {
+        "text": "The Kengo Kuma-designed stadium was built at a cost of 1.44 billion dollars...",
+        "startTime": 9421,
+        "endTime": 13640,
+        "slowStartTime": 14281,
+        "slowEndTime": 20685
+    },
+    {
+        "text": "...will have a capacity of 68,000 to host the Olympic Games' opening ceremony.",
+        "startTime": 13761,
+        "endTime": 17886,
+        "slowStartTime": 20792,
+        "slowEndTime": 27054
+    },
+    {
+        "text": "The Emperor's Cup soccer finals will be the first sporting contest...",
+        "startTime": 18415,
+        "endTime": 21226,
+        "slowStartTime": 27772,
+        "slowEndTime": 32064
+    },
+    {
+        "text": "...to be staged there on New Year's Day.",
+        "startTime": 21390,
+        "endTime": 22913,
+        "slowStartTime": 32235,
+        "slowEndTime": 34594
+    },
+    {
+        "text": "The 2020 Olympics commences from July 24th to August 9th.",
+        "startTime": 23589,
+        "endTime": 27465,
+        "slowStartTime": 35534,
+        "slowEndTime": 41423
+    }
+]

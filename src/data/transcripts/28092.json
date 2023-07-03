@@ -1,0 +1,100 @@
+[
+    {
+        "text": "﻿In Germany, authorities offer a reward for information...",
+        "startTime": 2958,
+        "endTime": 5940,
+        "slowStartTime": 4587,
+        "slowEndTime": 9135
+    },
+    {
+        "text": "...leading to the arrest of a Tunisian man...",
+        "startTime": 6387,
+        "endTime": 8217,
+        "slowStartTime": 9731,
+        "slowEndTime": 12550
+    },
+    {
+        "text": "...suspected of involvement in the Berlin truck attack,...",
+        "startTime": 8282,
+        "endTime": 10806,
+        "slowStartTime": 12573,
+        "slowEndTime": 16434
+    },
+    {
+        "text": "...identifying him as 24-year-old Anis Amri.",
+        "startTime": 11544,
+        "endTime": 14320,
+        "slowStartTime": 17466,
+        "slowEndTime": 21705
+    },
+    {
+        "text": "In Turkey, President Tayyip Erdogan...",
+        "startTime": 17985,
+        "endTime": 19966,
+        "slowStartTime": 27127,
+        "slowEndTime": 30174
+    },
+    {
+        "text": "...says there's no doubt the assassin who killed Russia's ambassador to Turkey...",
+        "startTime": 20282,
+        "endTime": 24102,
+        "slowStartTime": 30573,
+        "slowEndTime": 36378
+    },
+    {
+        "text": "...was connected to the network of Muslim cleric, Fethullah Gulen.",
+        "startTime": 24658,
+        "endTime": 27897,
+        "slowStartTime": 37137,
+        "slowEndTime": 42071
+    },
+    {
+        "text": "At least 21 people are dead and almost 300 people were arrested...",
+        "startTime": 30171,
+        "endTime": 33774,
+        "slowStartTime": 45407,
+        "slowEndTime": 50886
+    },
+    {
+        "text": "...in the Democratic Republic of Congo during protests,...",
+        "startTime": 33961,
+        "endTime": 36725,
+        "slowStartTime": 51092,
+        "slowEndTime": 55313
+    },
+    {
+        "text": "...demanding that President Joseph Kabila step down.",
+        "startTime": 36829,
+        "endTime": 39122,
+        "slowStartTime": 55394,
+        "slowEndTime": 58908
+    },
+    {
+        "text": "In Gambia, Gambian president, Yahya Jammeh, says he will not step down...",
+        "startTime": 39237,
+        "endTime": 43255,
+        "slowStartTime": 59005,
+        "slowEndTime": 65108
+    },
+    {
+        "text": "...despite calls to hand over to the election winner, Adama Barrow.",
+        "startTime": 43343,
+        "endTime": 46959,
+        "slowStartTime": 65164,
+        "slowEndTime": 70664
+    },
+    {
+        "text": "And finally, a cargo plane crashed in eastern Colombia, killing five...",
+        "startTime": 48121,
+        "endTime": 51697,
+        "slowStartTime": 72331,
+        "slowEndTime": 77770
+    },
+    {
+        "text": "...while one person survived.",
+        "startTime": 52133,
+        "endTime": 53369,
+        "slowStartTime": 78350,
+        "slowEndTime": 80278
+    }
+]

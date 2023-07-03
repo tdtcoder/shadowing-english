@@ -1,0 +1,177 @@
+[
+    {
+        "text": "Damn it! I can't open any of the folders on my desktop.",
+        "startTime": 2589,
+        "endTime": 5260,
+        "slowStartTime": 4033,
+        "slowEndTime": 8115
+    },
+    {
+        "text": "Hey! You think that's bad?",
+        "startTime": 6746,
+        "endTime": 8234,
+        "slowStartTime": 10269,
+        "slowEndTime": 12576
+    },
+    {
+        "text": "All of my documents are frozen.",
+        "startTime": 8578,
+        "endTime": 10011,
+        "slowStartTime": 13017,
+        "slowEndTime": 15242
+    },
+    {
+        "text": " Yeah!",
+        "startTime": 11092,
+        "endTime": 11174,
+        "slowStartTime": 16788,
+        "slowEndTime": 16986
+    },
+    {
+        "text": "What was that?",
+        "startTime": 12449,
+        "endTime": 13038,
+        "slowStartTime": 18824,
+        "slowEndTime": 19782
+    },
+    {
+        "text": "Windows just crashed.",
+        "startTime": 14559,
+        "endTime": 15696,
+        "slowStartTime": 21989,
+        "slowEndTime": 23769
+    },
+    {
+        "text": "I'll see if anybody else is having problems.",
+        "startTime": 16587,
+        "endTime": 18165,
+        "slowStartTime": 25030,
+        "slowEndTime": 27472
+    },
+    {
+        "text": "Hey Joe, how you guys doing?",
+        "startTime": 19299,
+        "endTime": 20558,
+        "slowStartTime": 29099,
+        "slowEndTime": 31062
+    },
+    {
+        "text": "Everything is running really slow.",
+        "startTime": 21411,
+        "endTime": 27577,
+        "slowStartTime": 32266,
+        "slowEndTime": 41590
+    },
+    {
+        "text": "Hey Stephanie, you having any problems?",
+        "startTime": 28268,
+        "endTime": 29610,
+        "slowStartTime": 42552,
+        "slowEndTime": 44640
+    },
+    {
+        "text": "I'm locked out!",
+        "startTime": 29999,
+        "endTime": 31461,
+        "slowStartTime": 45148,
+        "slowEndTime": 47417
+    },
+    {
+        "text": "Bill, can you guys get on the network?",
+        "startTime": 33793,
+        "endTime": 35340,
+        "slowStartTime": 50840,
+        "slowEndTime": 53235
+    },
+    {
+        "text": "No, we keep getting dropped.",
+        "startTime": 36129,
+        "endTime": 37671,
+        "slowStartTime": 54343,
+        "slowEndTime": 56731
+    },
+    {
+        "text": "That's it! I'm calling IT.",
+        "startTime": 38848,
+        "endTime": 40067,
+        "slowStartTime": 58422,
+        "slowEndTime": 60326
+    },
+    {
+        "text": "Hey! We're having...",
+        "startTime": 41483,
+        "endTime": 42243,
+        "slowStartTime": 62374,
+        "slowEndTime": 63590
+    },
+    {
+        "text": "I know! I know, I'm working on it.",
+        "startTime": 42339,
+        "endTime": 43825,
+        "slowStartTime": 63659,
+        "slowEndTime": 65962
+    },
+    {
+        "text": "What's going on?",
+        "startTime": 43935,
+        "endTime": 44549,
+        "slowStartTime": 66052,
+        "slowEndTime": 67049
+    },
+    {
+        "text": "I think it's a problem with the firewall.",
+        "startTime": 44617,
+        "endTime": 46287,
+        "slowStartTime": 67075,
+        "slowEndTime": 69656
+    },
+    {
+        "text": "Sounds like this might be awhile.",
+        "startTime": 49647,
+        "endTime": 50982,
+        "slowStartTime": 74620,
+        "slowEndTime": 76698
+    },
+    {
+        "text": "That's it. I'm gonna try restarting.",
+        "startTime": 51837,
+        "endTime": 53579,
+        "slowStartTime": 77905,
+        "slowEndTime": 80593
+    },
+    {
+        "text": "No! No!",
+        "startTime": 53773,
+        "endTime": 54804,
+        "slowStartTime": 80809,
+        "slowEndTime": 82431
+    },
+    {
+        "text": "Greg.",
+        "startTime": 58396,
+        "endTime": 58785,
+        "slowStartTime": 87744,
+        "slowEndTime": 88403
+    },
+    {
+        "text": "What?",
+        "startTime": 61651,
+        "endTime": 62164,
+        "slowStartTime": 92626,
+        "slowEndTime": 93471
+    },
+    {
+        "text": "My mouse is broken.",
+        "startTime": 63717,
+        "endTime": 64904,
+        "slowStartTime": 95725,
+        "slowEndTime": 97581
+    },
+    {
+        "text": "I get it.",
+        "startTime": 78728,
+        "endTime": 79165,
+        "slowStartTime": 118242,
+        "slowEndTime": 118972
+    }
+]

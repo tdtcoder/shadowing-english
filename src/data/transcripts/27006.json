@@ -1,0 +1,86 @@
+[
+    {
+        "text": "I Wish.",
+        "startTime": 876,
+        "endTime": 2803,
+        "slowStartTime": 1464,
+        "slowEndTime": 4430
+    },
+    {
+        "text": "Make a wish. What do you wish for?",
+        "startTime": 10421,
+        "endTime": 13694,
+        "slowStartTime": 15782,
+        "slowEndTime": 20766
+    },
+    {
+        "text": "I wish I knew how to play the accordion.",
+        "startTime": 18929,
+        "endTime": 22518,
+        "slowStartTime": 28544,
+        "slowEndTime": 34002
+    },
+    {
+        "text": "I wish I had a million dollars.",
+        "startTime": 27717,
+        "endTime": 30805,
+        "slowStartTime": 41725,
+        "slowEndTime": 46432
+    },
+    {
+        "text": "I wish summer would last forever.",
+        "startTime": 36339,
+        "endTime": 39823,
+        "slowStartTime": 54659,
+        "slowEndTime": 59959
+    },
+    {
+        "text": "I wish I had a cute puppy.",
+        "startTime": 44921,
+        "endTime": 48036,
+        "slowStartTime": 67532,
+        "slowEndTime": 72279
+    },
+    {
+        "text": "I wish I didn't have to work.",
+        "startTime": 53571,
+        "endTime": 56026,
+        "slowStartTime": 80506,
+        "slowEndTime": 84264
+    },
+    {
+        "text": "I wish it would stop raining.",
+        "startTime": 61565,
+        "endTime": 64706,
+        "slowStartTime": 92498,
+        "slowEndTime": 97284
+    },
+    {
+        "text": "I wish I could fly like Superman.",
+        "startTime": 69661,
+        "endTime": 72775,
+        "slowStartTime": 104641,
+        "slowEndTime": 109388
+    },
+    {
+        "text": "I wish I were as fast as Muhammad Ali.",
+        "startTime": 78105,
+        "endTime": 82063,
+        "slowStartTime": 117307,
+        "slowEndTime": 123319
+    },
+    {
+        "text": "I wish I knew how to code.",
+        "startTime": 87379,
+        "endTime": 90045,
+        "slowStartTime": 131219,
+        "slowEndTime": 135293
+    },
+    {
+        "text": "What do you wish for?",
+        "startTime": 95422,
+        "endTime": 97244,
+        "slowStartTime": 143283,
+        "slowEndTime": 146091
+    }
+]

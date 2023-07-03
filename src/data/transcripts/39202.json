@@ -1,0 +1,205 @@
+[
+    {
+        "text": "Hello, this is Spencer McKenna from Full Solutions.",
+        "startTime": 4489,
+        "endTime": 7197,
+        "slowStartTime": 6883,
+        "slowEndTime": 11021
+    },
+    {
+        "text": "I'm calling to schedule a meeting to discuss your marketing strategy.",
+        "startTime": 7507,
+        "endTime": 11077,
+        "slowStartTime": 11411,
+        "slowEndTime": 16840
+    },
+    {
+        "text": "Hello, Miss McKenna! I'm Josh.",
+        "startTime": 11561,
+        "endTime": 13157,
+        "slowStartTime": 17492,
+        "slowEndTime": 19960
+    },
+    {
+        "text": "Thank you for calling.",
+        "startTime": 13461,
+        "endTime": 14432,
+        "slowStartTime": 20341,
+        "slowEndTime": 21873
+    },
+    {
+        "text": "Setting up a meeting sounds like a good idea.",
+        "startTime": 15041,
+        "endTime": 16721,
+        "slowStartTime": 22711,
+        "slowEndTime": 25306
+    },
+    {
+        "text": "Great!",
+        "startTime": 17225,
+        "endTime": 17516,
+        "slowStartTime": 25988,
+        "slowEndTime": 26499
+    },
+    {
+        "text": "I'm glad you're still interested in setting up a meeting.",
+        "startTime": 17985,
+        "endTime": 20714,
+        "slowStartTime": 27127,
+        "slowEndTime": 31296
+    },
+    {
+        "text": "Are you available some afternoon this week?",
+        "startTime": 21291,
+        "endTime": 23917,
+        "slowStartTime": 32087,
+        "slowEndTime": 36101
+    },
+    {
+        "text": "Hmmm, I'm a little busy in the afternoon this week.",
+        "startTime": 24691,
+        "endTime": 27505,
+        "slowStartTime": 37187,
+        "slowEndTime": 41482
+    },
+    {
+        "text": "How about a morning meeting?",
+        "startTime": 27766,
+        "endTime": 29248,
+        "slowStartTime": 41799,
+        "slowEndTime": 44097
+    },
+    {
+        "text": "Unfortunately, a morning meeting is not possible this week.",
+        "startTime": 30601,
+        "endTime": 34121,
+        "slowStartTime": 46052,
+        "slowEndTime": 51406
+    },
+    {
+        "text": "In that case, how does 1 p.m. this Friday sound?",
+        "startTime": 34889,
+        "endTime": 37575,
+        "slowStartTime": 52484,
+        "slowEndTime": 56587
+    },
+    {
+        "text": "Okay, then I will schedule the meeting for 1 p.m. this Friday, June 25th.",
+        "startTime": 39821,
+        "endTime": 45211,
+        "slowStartTime": 59881,
+        "slowEndTime": 68041
+    },
+    {
+        "text": "How does that sound?",
+        "startTime": 45496,
+        "endTime": 46296,
+        "slowStartTime": 68394,
+        "slowEndTime": 69669
+    },
+    {
+        "text": "That sounds fine.",
+        "startTime": 47065,
+        "endTime": 47957,
+        "slowStartTime": 70747,
+        "slowEndTime": 72160
+    },
+    {
+        "text": "Where will the meeting be held?",
+        "startTime": 48234,
+        "endTime": 49373,
+        "slowStartTime": 72501,
+        "slowEndTime": 74284
+    },
+    {
+        "text": "Great.",
+        "startTime": 49825,
+        "endTime": 50276,
+        "slowStartTime": 74887,
+        "slowEndTime": 75639
+    },
+    {
+        "text": "The meeting location will be at our offices...",
+        "startTime": 50773,
+        "endTime": 53145,
+        "slowStartTime": 76309,
+        "slowEndTime": 79942
+    },
+    {
+        "text": "...so you can meet the whole team who will work on the marketing strategy.",
+        "startTime": 53429,
+        "endTime": 56841,
+        "slowStartTime": 80294,
+        "slowEndTime": 85486
+    },
+    {
+        "text": "Great.",
+        "startTime": 57127,
+        "endTime": 57401,
+        "slowStartTime": 85841,
+        "slowEndTime": 86327
+    },
+    {
+        "text": "I look forward to meeting the whole team.",
+        "startTime": 57680,
+        "endTime": 59251,
+        "slowStartTime": 86670,
+        "slowEndTime": 89101
+    },
+    {
+        "text": "I look forward to meeting you then.",
+        "startTime": 59642,
+        "endTime": 61373,
+        "slowStartTime": 89613,
+        "slowEndTime": 92284
+    },
+    {
+        "text": "I will send you a follow-up email to confirm the meeting.",
+        "startTime": 61777,
+        "endTime": 64487,
+        "slowStartTime": 92815,
+        "slowEndTime": 96956
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 64738,
+        "endTime": 65097,
+        "slowStartTime": 97257,
+        "slowEndTime": 97871
+    },
+    {
+        "text": "Please let me know if you have any questions before the meeting.",
+        "startTime": 65541,
+        "endTime": 68083,
+        "slowStartTime": 98462,
+        "slowEndTime": 102349
+    },
+    {
+        "text": "I will.",
+        "startTime": 68437,
+        "endTime": 68707,
+        "slowStartTime": 102806,
+        "slowEndTime": 103286
+    },
+    {
+        "text": "Goodbye.",
+        "startTime": 69142,
+        "endTime": 69573,
+        "slowStartTime": 103863,
+        "slowEndTime": 104585
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 69813,
+        "endTime": 70410,
+        "slowStartTime": 104870,
+        "slowEndTime": 105840
+    },
+    {
+        "text": "Goodbye.",
+        "startTime": 70611,
+        "endTime": 71167,
+        "slowStartTime": 106066,
+        "slowEndTime": 106975
+    }
+]

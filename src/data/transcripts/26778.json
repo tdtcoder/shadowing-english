@@ -1,0 +1,275 @@
+[
+    {
+        "text": "﻿Hey!",
+        "startTime": 7354,
+        "endTime": 7631,
+        "slowStartTime": 11181,
+        "slowEndTime": 11672
+    },
+    {
+        "text": "Hey!",
+        "startTime": 7755,
+        "endTime": 7986,
+        "slowStartTime": 11782,
+        "slowEndTime": 12204
+    },
+    {
+        "text": "How's it going?",
+        "startTime": 8154,
+        "endTime": 8606,
+        "slowStartTime": 12381,
+        "slowEndTime": 13134
+    },
+    {
+        "text": "Good.",
+        "startTime": 8880,
+        "endTime": 9078,
+        "slowStartTime": 13470,
+        "slowEndTime": 13842
+    },
+    {
+        "text": "Are you coming out with everyone tonight?",
+        "startTime": 9866,
+        "endTime": 11081,
+        "slowStartTime": 14949,
+        "slowEndTime": 16846
+    },
+    {
+        "text": "Yeah, I mean, everyone's going right, so...",
+        "startTime": 11398,
+        "endTime": 13247,
+        "slowStartTime": 17247,
+        "slowEndTime": 20096
+    },
+    {
+        "text": "Yeah, I mean, I'm going.",
+        "startTime": 13299,
+        "endTime": 15185,
+        "slowStartTime": 20098,
+        "slowEndTime": 23003
+    },
+    {
+        "text": "Great!",
+        "startTime": 15259,
+        "endTime": 15511,
+        "slowStartTime": 23039,
+        "slowEndTime": 23492
+    },
+    {
+        "text": "Good, then we'll be there with...",
+        "startTime": 16162,
+        "endTime": 17241,
+        "slowStartTime": 24393,
+        "slowEndTime": 26086
+    },
+    {
+        "text": "Everyone!",
+        "startTime": 18223,
+        "endTime": 18689,
+        "slowStartTime": 27485,
+        "slowEndTime": 28258
+    },
+    {
+        "text": "Steve.",
+        "startTime": 20307,
+        "endTime": 20684,
+        "slowStartTime": 30611,
+        "slowEndTime": 31251
+    },
+    {
+        "text": "Boss.",
+        "startTime": 20992,
+        "endTime": 21439,
+        "slowStartTime": 31638,
+        "slowEndTime": 32384
+    },
+    {
+        "text": "You free on Saturday?",
+        "startTime": 21617,
+        "endTime": 22279,
+        "slowStartTime": 32575,
+        "slowEndTime": 33644
+    },
+    {
+        "text": "Yes.",
+        "startTime": 22503,
+        "endTime": 22762,
+        "slowStartTime": 33905,
+        "slowEndTime": 34368
+    },
+    {
+        "text": "You wanna go out?",
+        "startTime": 22943,
+        "endTime": 23385,
+        "slowStartTime": 34564,
+        "slowEndTime": 35302
+    },
+    {
+        "text": "Yes.",
+        "startTime": 23626,
+        "endTime": 23937,
+        "slowStartTime": 35589,
+        "slowEndTime": 36130
+    },
+    {
+        "text": "Great, pick me up at eight.",
+        "startTime": 24037,
+        "endTime": 25265,
+        "slowStartTime": 36206,
+        "slowEndTime": 38123
+    },
+    {
+        "text": "He asked me if I was going to go out tonight with everyone.",
+        "startTime": 27129,
+        "endTime": 29045,
+        "slowStartTime": 40843,
+        "slowEndTime": 43792
+    },
+    {
+        "text": "So that's like, a date, right?",
+        "startTime": 29381,
+        "endTime": 30927,
+        "slowStartTime": 44222,
+        "slowEndTime": 46615
+    },
+    {
+        "text": "That's a date!",
+        "startTime": 31046,
+        "endTime": 31695,
+        "slowStartTime": 46719,
+        "slowEndTime": 47767
+    },
+    {
+        "text": "I knew it!",
+        "startTime": 31749,
+        "endTime": 32283,
+        "slowStartTime": 47774,
+        "slowEndTime": 48649
+    },
+    {
+        "text": "Oh hey, I heard you're going out with Steve.",
+        "startTime": 32649,
+        "endTime": 34377,
+        "slowStartTime": 49123,
+        "slowEndTime": 51790
+    },
+    {
+        "text": "That's none of your business.",
+        "startTime": 34509,
+        "endTime": 35671,
+        "slowStartTime": 51913,
+        "slowEndTime": 53731
+    },
+    {
+        "text": "I think I'm gonna get a nice scotch.",
+        "startTime": 37909,
+        "endTime": 39551,
+        "slowStartTime": 57013,
+        "slowEndTime": 59552
+    },
+    {
+        "text": "That sounds good.",
+        "startTime": 39729,
+        "endTime": 40225,
+        "slowStartTime": 59743,
+        "slowEndTime": 60562
+    },
+    {
+        "text": "What are you, like, 100?",
+        "startTime": 40522,
+        "endTime": 41255,
+        "slowStartTime": 60933,
+        "slowEndTime": 62108
+    },
+    {
+        "text": "What are you gonna have?",
+        "startTime": 41351,
+        "endTime": 41945,
+        "slowStartTime": 62177,
+        "slowEndTime": 63143
+    },
+    {
+        "text": "PBR.",
+        "startTime": 42967,
+        "endTime": 44321,
+        "slowStartTime": 64601,
+        "slowEndTime": 66706
+    },
+    {
+        "text": "What are we, 18?",
+        "startTime": 45149,
+        "endTime": 45950,
+        "slowStartTime": 67873,
+        "slowEndTime": 69150
+    },
+    {
+        "text": "Can I get a scotch?",
+        "startTime": 48358,
+        "endTime": 49285,
+        "slowStartTime": 72687,
+        "slowEndTime": 74153
+    },
+    {
+        "text": "Oh my god, hey, I just got invited to Club Hydrogen.",
+        "startTime": 51458,
+        "endTime": 53782,
+        "slowStartTime": 77337,
+        "slowEndTime": 80898
+    },
+    {
+        "text": "You wanna go?",
+        "startTime": 54002,
+        "endTime": 54361,
+        "slowStartTime": 81153,
+        "slowEndTime": 81766
+    },
+    {
+        "text": "Yeah, I mean, it's only 1 AM.",
+        "startTime": 54811,
+        "endTime": 56210,
+        "slowStartTime": 82367,
+        "slowEndTime": 84540
+    },
+    {
+        "text": "Let's do this!",
+        "startTime": 56556,
+        "endTime": 56897,
+        "slowStartTime": 84984,
+        "slowEndTime": 85570
+    },
+    {
+        "text": "All right!",
+        "startTime": 57173,
+        "endTime": 57488,
+        "slowStartTime": 85910,
+        "slowEndTime": 86457
+    },
+    {
+        "text": "Did you pay the tab?",
+        "startTime": 58309,
+        "endTime": 58889,
+        "slowStartTime": 87613,
+        "slowEndTime": 88558
+    },
+    {
+        "text": "No.",
+        "startTime": 59165,
+        "endTime": 59255,
+        "slowStartTime": 88897,
+        "slowEndTime": 89107
+    },
+    {
+        "text": "Doesn't matter.",
+        "startTime": 59535,
+        "endTime": 59755,
+        "slowStartTime": 89453,
+        "slowEndTime": 89858
+    },
+    {
+        "text": "Oh look, Friends is on Netflix.",
+        "startTime": 60715,
+        "endTime": 62253,
+        "slowStartTime": 91222,
+        "slowEndTime": 93604
+    }
+]

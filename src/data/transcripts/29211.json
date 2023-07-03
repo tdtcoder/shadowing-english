@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Learn what to say when you're dealing with a medical emergency.",
+        "startTime": 610,
+        "endTime": 3837,
+        "slowStartTime": 1065,
+        "slowEndTime": 5981
+    },
+    {
+        "text": "﻿Is he conscious?",
+        "startTime": 8161,
+        "endTime": 8844,
+        "slowStartTime": 12391,
+        "slowEndTime": 13491
+    },
+    {
+        "text": "He's got a pulse.",
+        "startTime": 13529,
+        "endTime": 14253,
+        "slowStartTime": 20444,
+        "slowEndTime": 21605
+    },
+    {
+        "text": "I can't breathe.",
+        "startTime": 18593,
+        "endTime": 20033,
+        "slowStartTime": 28040,
+        "slowEndTime": 30275
+    },
+    {
+        "text": "Can I help you?",
+        "startTime": 24995,
+        "endTime": 25711,
+        "slowStartTime": 37643,
+        "slowEndTime": 38792
+    },
+    {
+        "text": "Ah, yes.",
+        "startTime": 25939,
+        "endTime": 26425,
+        "slowStartTime": 39058,
+        "slowEndTime": 39862
+    },
+    {
+        "text": "I'd like to see a doctor, please.",
+        "startTime": 26525,
+        "endTime": 27906,
+        "slowStartTime": 39937,
+        "slowEndTime": 42084
+    },
+    {
+        "text": "Call an ambulance.",
+        "startTime": 31918,
+        "endTime": 32927,
+        "slowStartTime": 48027,
+        "slowEndTime": 49615
+    },
+    {
+        "text": "You okay, Ned?",
+        "startTime": 37689,
+        "endTime": 38221,
+        "slowStartTime": 56683,
+        "slowEndTime": 57556
+    },
+    {
+        "text": "You okay?",
+        "startTime": 38735,
+        "endTime": 39147,
+        "slowStartTime": 58252,
+        "slowEndTime": 58946
+    }
+]

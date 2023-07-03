@@ -1,0 +1,86 @@
+[
+    {
+        "text": "﻿Hi.",
+        "startTime": 8753,
+        "endTime": 8984,
+        "slowStartTime": 13279,
+        "slowEndTime": 13701
+    },
+    {
+        "text": "My name is Tom.",
+        "startTime": 10249,
+        "endTime": 11037,
+        "slowStartTime": 15523,
+        "slowEndTime": 16780
+    },
+    {
+        "text": "I'm a cat.",
+        "startTime": 12193,
+        "endTime": 12988,
+        "slowStartTime": 18439,
+        "slowEndTime": 19707
+    },
+    {
+        "text": "I get up at 7:30 in the morning.",
+        "startTime": 18492,
+        "endTime": 20334,
+        "slowStartTime": 27888,
+        "slowEndTime": 30726
+    },
+    {
+        "text": "First thing, I take a shower.",
+        "startTime": 28145,
+        "endTime": 29859,
+        "slowStartTime": 42367,
+        "slowEndTime": 45014
+    },
+    {
+        "text": "Next, I get dressed.",
+        "startTime": 35669,
+        "endTime": 37886,
+        "slowStartTime": 53653,
+        "slowEndTime": 57054
+    },
+    {
+        "text": "After that, I brush my hair.",
+        "startTime": 43379,
+        "endTime": 45817,
+        "slowStartTime": 65218,
+        "slowEndTime": 68950
+    },
+    {
+        "text": "At ten to eight, I eat breakfast.",
+        "startTime": 52594,
+        "endTime": 54359,
+        "slowStartTime": 79041,
+        "slowEndTime": 81763
+    },
+    {
+        "text": "I leave the house at eight o'clock.",
+        "startTime": 61827,
+        "endTime": 63287,
+        "slowStartTime": 92891,
+        "slowEndTime": 95155
+    },
+    {
+        "text": "I drive to work.",
+        "startTime": 70441,
+        "endTime": 71365,
+        "slowStartTime": 105812,
+        "slowEndTime": 107272
+    },
+    {
+        "text": "I start work at 8:30.",
+        "startTime": 83481,
+        "endTime": 84955,
+        "slowStartTime": 125372,
+        "slowEndTime": 127658
+    },
+    {
+        "text": "At noon, I have lunch.",
+        "startTime": 94743,
+        "endTime": 96717,
+        "slowStartTime": 142264,
+        "slowEndTime": 145300
+    }
+]

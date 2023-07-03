@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Hello Sam.",
+        "startTime": 8100,
+        "endTime": 9219,
+        "slowStartTime": 12300,
+        "slowEndTime": 14054
+    },
+    {
+        "text": "Hello Vicky.",
+        "startTime": 10100,
+        "endTime": 10742,
+        "slowStartTime": 15300,
+        "slowEndTime": 16338
+    },
+    {
+        "text": "Sam?",
+        "startTime": 12139,
+        "endTime": 12720,
+        "slowStartTime": 18359,
+        "slowEndTime": 19305
+    },
+    {
+        "text": "Yes, Vicky?",
+        "startTime": 13217,
+        "endTime": 13869,
+        "slowStartTime": 19976,
+        "slowEndTime": 21029
+    },
+    {
+        "text": "Where is your house?",
+        "startTime": 14857,
+        "endTime": 16875,
+        "slowStartTime": 22436,
+        "slowEndTime": 25538
+    },
+    {
+        "text": "Where is my house?",
+        "startTime": 17463,
+        "endTime": 19027,
+        "slowStartTime": 26345,
+        "slowEndTime": 28765
+    },
+    {
+        "text": "Yes, where is your house?",
+        "startTime": 19473,
+        "endTime": 22142,
+        "slowStartTime": 29359,
+        "slowEndTime": 33438
+    },
+    {
+        "text": "My house is over there in the city.",
+        "startTime": 23123,
+        "endTime": 26560,
+        "slowStartTime": 34834,
+        "slowEndTime": 40065
+    },
+    {
+        "text": "Vicky?",
+        "startTime": 28902,
+        "endTime": 29322,
+        "slowStartTime": 43503,
+        "slowEndTime": 44208
+    },
+    {
+        "text": "Yes?",
+        "startTime": 29837,
+        "endTime": 30448,
+        "slowStartTime": 44906,
+        "slowEndTime": 45897
+    },
+    {
+        "text": "Where is your house?",
+        "startTime": 31138,
+        "endTime": 32588,
+        "slowStartTime": 46857,
+        "slowEndTime": 49107
+    },
+    {
+        "text": "Where is my house?",
+        "startTime": 33253,
+        "endTime": 35127,
+        "slowStartTime": 50030,
+        "slowEndTime": 52915
+    },
+    {
+        "text": "Yes, where is your house?",
+        "startTime": 35493,
+        "endTime": 37607,
+        "slowStartTime": 53389,
+        "slowEndTime": 56635
+    },
+    {
+        "text": "My house is there in the tree.",
+        "startTime": 38259,
+        "endTime": 42185,
+        "slowStartTime": 57539,
+        "slowEndTime": 63502
+    },
+    {
+        "text": "Oh yes, your house is in the tree.",
+        "startTime": 43970,
+        "endTime": 46778,
+        "slowStartTime": 66105,
+        "slowEndTime": 70392
+    },
+    {
+        "text": "Goodbye Sam.",
+        "startTime": 48263,
+        "endTime": 49393,
+        "slowStartTime": 72544,
+        "slowEndTime": 74314
+    },
+    {
+        "text": "Goodbye Vicky.",
+        "startTime": 51063,
+        "endTime": 51905,
+        "slowStartTime": 76744,
+        "slowEndTime": 78083
+    }
+]

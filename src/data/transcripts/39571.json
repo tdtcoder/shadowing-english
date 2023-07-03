@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Dinner's ready. Please, have a seat.",
+        "startTime": 965,
+        "endTime": 3611,
+        "slowStartTime": 1598,
+        "slowEndTime": 5641
+    },
+    {
+        "text": "Oh, the table looks lovely.",
+        "startTime": 3997,
+        "endTime": 5751,
+        "slowStartTime": 6145,
+        "slowEndTime": 8851
+    },
+    {
+        "text": "Thanks. These are flowers from our garden.",
+        "startTime": 6124,
+        "endTime": 9044,
+        "slowStartTime": 9336,
+        "slowEndTime": 13791
+    },
+    {
+        "text": "Please help yourself to some pasta.",
+        "startTime": 10147,
+        "endTime": 12070,
+        "slowStartTime": 15371,
+        "slowEndTime": 18330
+    },
+    {
+        "text": "Could you please turn that down?",
+        "startTime": 12922,
+        "endTime": 14747,
+        "slowStartTime": 19533,
+        "slowEndTime": 22345
+    },
+    {
+        "text": "Oh yeah, could you please bring the water glasses from the lazy susan?",
+        "startTime": 16561,
+        "endTime": 20533,
+        "slowStartTime": 24991,
+        "slowEndTime": 31024
+    },
+    {
+        "text": "Could you please wait here for a moment?",
+        "startTime": 22561,
+        "endTime": 25119,
+        "slowStartTime": 33991,
+        "slowEndTime": 37903
+    },
+    {
+        "text": "Would you please hold me?",
+        "startTime": 26866,
+        "endTime": 28487,
+        "slowStartTime": 40449,
+        "slowEndTime": 42955
+    },
+    {
+        "text": "Would you please tell Mr. Cooper that I'm here?",
+        "startTime": 29899,
+        "endTime": 32901,
+        "slowStartTime": 44999,
+        "slowEndTime": 49576
+    },
+    {
+        "text": "Please don't call me. Please.",
+        "startTime": 34993,
+        "endTime": 37692,
+        "slowStartTime": 52640,
+        "slowEndTime": 56763
+    },
+    {
+        "text": "Please don't be late for dinner in the future.",
+        "startTime": 39466,
+        "endTime": 41341,
+        "slowStartTime": 59349,
+        "slowEndTime": 62236
+    }
+]

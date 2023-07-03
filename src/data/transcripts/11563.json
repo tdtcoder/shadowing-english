@@ -1,0 +1,72 @@
+[
+    {
+        "text": "The Force is what gives the Jedi his power,...",
+        "startTime": 7640,
+        "endTime": 9470,
+        "slowStartTime": 11520,
+        "slowEndTime": 14295
+    },
+    {
+        "text": "...surrounds us,...",
+        "startTime": 10710,
+        "endTime": 11550,
+        "slowStartTime": 16150,
+        "slowEndTime": 17450
+    },
+    {
+        "text": "...it binds the galaxy together.",
+        "startTime": 12710,
+        "endTime": 14700,
+        "slowStartTime": 19130,
+        "slowEndTime": 22240
+    },
+    {
+        "text": "You will be tempted by the dark side.",
+        "startTime": 19580,
+        "endTime": 21900,
+        "slowStartTime": 29500,
+        "slowEndTime": 32920
+    },
+    {
+        "text": "You were the chosen one.",
+        "startTime": 30990,
+        "endTime": 32490,
+        "slowStartTime": 46640,
+        "slowEndTime": 48770
+    },
+    {
+        "text": "You must confront Vader.",
+        "startTime": 35600,
+        "endTime": 38000,
+        "slowStartTime": 53470,
+        "slowEndTime": 57130
+    },
+    {
+        "text": "That boy is our last hope.",
+        "startTime": 41370,
+        "endTime": 43140,
+        "slowStartTime": 62320,
+        "slowEndTime": 64820
+    },
+    {
+        "text": "Yeehaw!",
+        "startTime": 50320,
+        "endTime": 51180,
+        "slowStartTime": 75480,
+        "slowEndTime": 76850
+    },
+    {
+        "text": "I am a Jedi like my father before me.",
+        "startTime": 69260,
+        "endTime": 71970,
+        "slowStartTime": 104020,
+        "slowEndTime": 108070
+    },
+    {
+        "text": "There is no escape.",
+        "startTime": 82610,
+        "endTime": 83750,
+        "slowStartTime": 124110,
+        "slowEndTime": 125720
+    }
+]

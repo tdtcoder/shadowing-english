@@ -1,0 +1,135 @@
+[
+    {
+        "text": "Testing, one, two.",
+        "startTime": 1531,
+        "endTime": 2267,
+        "slowStartTime": 2446,
+        "slowEndTime": 3626
+    },
+    {
+        "text": "So with the really amazing things,...",
+        "startTime": 3635,
+        "endTime": 5180,
+        "slowStartTime": 5603,
+        "slowEndTime": 7995
+    },
+    {
+        "text": "...Angry Birds is now on the web with Chrome...",
+        "startTime": 5285,
+        "endTime": 7242,
+        "slowStartTime": 8077,
+        "slowEndTime": 11088
+    },
+    {
+        "text": "...and it has a huge explosion.",
+        "startTime": 7719,
+        "endTime": 9176,
+        "slowStartTime": 11728,
+        "slowEndTime": 13989
+    },
+    {
+        "text": "Exactly.",
+        "startTime": 9630,
+        "endTime": 10189,
+        "slowStartTime": 14595,
+        "slowEndTime": 15508
+    },
+    {
+        "text": "It's like, a couple of guys, in the middle of nowhere, can actually...",
+        "startTime": 10335,
+        "endTime": 13002,
+        "slowStartTime": 15652,
+        "slowEndTime": 19728
+    },
+    {
+        "text": "Make an explosion.",
+        "startTime": 13081,
+        "endTime": 13871,
+        "slowStartTime": 19772,
+        "slowEndTime": 21031
+    },
+    {
+        "text": "...get a game out there to hundreds of millions of fans.",
+        "startTime": 15904,
+        "endTime": 18501,
+        "slowStartTime": 24006,
+        "slowEndTime": 27976
+    },
+    {
+        "text": "And the number of downloads, it's a simple metric.",
+        "startTime": 18910,
+        "endTime": 21835,
+        "slowStartTime": 28515,
+        "slowEndTime": 32978
+    },
+    {
+        "text": "If you look at some of the other numbers with...",
+        "startTime": 23111,
+        "endTime": 25308,
+        "slowStartTime": 34817,
+        "slowEndTime": 38187
+    },
+    {
+        "text": "Mustache is funny.",
+        "startTime": 26701,
+        "endTime": 27627,
+        "slowStartTime": 40202,
+        "slowEndTime": 41665
+    },
+    {
+        "text": "And that's one thing. Actually,...",
+        "startTime": 30025,
+        "endTime": 31029,
+        "slowStartTime": 45187,
+        "slowEndTime": 46769
+    },
+    {
+        "text": "...Chrome is a great platform for any developer.",
+        "startTime": 31121,
+        "endTime": 33021,
+        "slowStartTime": 46831,
+        "slowEndTime": 49756
+    },
+    {
+        "text": "Thanks to \"auto updates\".",
+        "startTime": 33182,
+        "endTime": 34275,
+        "slowStartTime": 49923,
+        "slowEndTime": 51638
+    },
+    {
+        "text": "Chrome is a great platform thanks to WebGL.",
+        "startTime": 36243,
+        "endTime": 38439,
+        "slowStartTime": 54515,
+        "slowEndTime": 57883
+    },
+    {
+        "text": "Chrome has amazing frame rate capabilities.",
+        "startTime": 40617,
+        "endTime": 43442,
+        "slowStartTime": 61075,
+        "slowEndTime": 65388
+    },
+    {
+        "text": "Frame rate capabilities.",
+        "startTime": 43700,
+        "endTime": 45113,
+        "slowStartTime": 65700,
+        "slowEndTime": 67894
+    },
+    {
+        "text": "Are you angry, Peter?",
+        "startTime": 47038,
+        "endTime": 48049,
+        "slowStartTime": 70707,
+        "slowEndTime": 72298
+    },
+    {
+        "text": "You look angry.",
+        "startTime": 49181,
+        "endTime": 49806,
+        "slowStartTime": 73921,
+        "slowEndTime": 74934
+    }
+]

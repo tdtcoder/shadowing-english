@@ -1,0 +1,254 @@
+[
+    {
+        "text": "TSMC is the largest and most advanced chipmaker in the world...",
+        "startTime": 79,
+        "endTime": 4352,
+        "slowStartTime": 269,
+        "slowEndTime": 6753
+    },
+    {
+        "text": "...supplying the biggest companies Apple, Nvidia, Intel, you name it.",
+        "startTime": 4658,
+        "endTime": 10217,
+        "slowStartTime": 7137,
+        "slowEndTime": 15551
+    },
+    {
+        "text": "And it's so powerful that it doesn't compete with companies.",
+        "startTime": 10881,
+        "endTime": 14194,
+        "slowStartTime": 16471,
+        "slowEndTime": 21516
+    },
+    {
+        "text": "It competes with governments.",
+        "startTime": 14584,
+        "endTime": 16350,
+        "slowStartTime": 22026,
+        "slowEndTime": 24750
+    },
+    {
+        "text": "So how did they achieve this global monopoly?",
+        "startTime": 17025,
+        "endTime": 19994,
+        "slowStartTime": 25688,
+        "slowEndTime": 30216
+    },
+    {
+        "text": "Back in the 80s, large American corporations like Intel...",
+        "startTime": 20801,
+        "endTime": 24467,
+        "slowStartTime": 31351,
+        "slowEndTime": 36925
+    },
+    {
+        "text": "...used to make their own chips in-house.",
+        "startTime": 24746,
+        "endTime": 26977,
+        "slowStartTime": 37269,
+        "slowEndTime": 40690
+    },
+    {
+        "text": "In those days, profits for the IT sector were booming...",
+        "startTime": 27512,
+        "endTime": 30891,
+        "slowStartTime": 41418,
+        "slowEndTime": 46561
+    },
+    {
+        "text": "...and companies like Apple were becoming leading players.",
+        "startTime": 31119,
+        "endTime": 34100,
+        "slowStartTime": 46829,
+        "slowEndTime": 51375
+    },
+    {
+        "text": "It was then that more and more companies...",
+        "startTime": 34719,
+        "endTime": 37103,
+        "slowStartTime": 52228,
+        "slowEndTime": 55880
+    },
+    {
+        "text": "...started outsourcing their chip manufacturing.",
+        "startTime": 37189,
+        "endTime": 39779,
+        "slowStartTime": 55933,
+        "slowEndTime": 59894
+    },
+    {
+        "text": "They decided to focus on aspects like the chip's design...",
+        "startTime": 40248,
+        "endTime": 43521,
+        "slowStartTime": 60522,
+        "slowEndTime": 65506
+    },
+    {
+        "text": "...and then simply produce the chips elsewhere.",
+        "startTime": 43789,
+        "endTime": 46216,
+        "slowStartTime": 65833,
+        "slowEndTime": 69549
+    },
+    {
+        "text": "That's because fabrication plants, also called fabs,...",
+        "startTime": 46898,
+        "endTime": 50401,
+        "slowStartTime": 70497,
+        "slowEndTime": 75827
+    },
+    {
+        "text": "...are extremely expensive and hardly profitable.",
+        "startTime": 50703,
+        "endTime": 53660,
+        "slowStartTime": 76205,
+        "slowEndTime": 80715
+    },
+    {
+        "text": "So while big tech moved their productions abroad,...",
+        "startTime": 54081,
+        "endTime": 57390,
+        "slowStartTime": 81271,
+        "slowEndTime": 86310
+    },
+    {
+        "text": "...someone saw an opportunity there.",
+        "startTime": 57895,
+        "endTime": 60093,
+        "slowStartTime": 86992,
+        "slowEndTime": 90364
+    },
+    {
+        "text": "Morris Chang, soon-to-be founder of TSMC,...",
+        "startTime": 60741,
+        "endTime": 64077,
+        "slowStartTime": 91261,
+        "slowEndTime": 96341
+    },
+    {
+        "text": "...made a career for himself in the United States.",
+        "startTime": 64253,
+        "endTime": 66830,
+        "slowStartTime": 96530,
+        "slowEndTime": 100470
+    },
+    {
+        "text": "Maybe you never heard of him,...",
+        "startTime": 67439,
+        "endTime": 68767,
+        "slowStartTime": 101309,
+        "slowEndTime": 103375
+    },
+    {
+        "text": "...but he changed your life more than you think.",
+        "startTime": 69007,
+        "endTime": 71622,
+        "slowStartTime": 103661,
+        "slowEndTime": 107658
+    },
+    {
+        "text": "Originally from Taiwan, Chang moved overseas...",
+        "startTime": 72431,
+        "endTime": 75459,
+        "slowStartTime": 108796,
+        "slowEndTime": 113413
+    },
+    {
+        "text": "...to attend Harvard, Stanford and MIT...",
+        "startTime": 75531,
+        "endTime": 78247,
+        "slowStartTime": 113447,
+        "slowEndTime": 117595
+    },
+    {
+        "text": "...and then went on to work at Texas Instruments for 25 years.",
+        "startTime": 78737,
+        "endTime": 82706,
+        "slowStartTime": 118255,
+        "slowEndTime": 124284
+    },
+    {
+        "text": "His specialty?",
+        "startTime": 83247,
+        "endTime": 83979,
+        "slowStartTime": 125021,
+        "slowEndTime": 126194
+    },
+    {
+        "text": "Electrical engineering, of course.",
+        "startTime": 84465,
+        "endTime": 86407,
+        "slowStartTime": 126847,
+        "slowEndTime": 129835
+    },
+    {
+        "text": "It was in 1985, when Chang was already in his mid 50s,...",
+        "startTime": 87275,
+        "endTime": 91327,
+        "slowStartTime": 131062,
+        "slowEndTime": 137216
+    },
+    {
+        "text": "...that he was contacted by the Taiwanese government...",
+        "startTime": 91568,
+        "endTime": 93955,
+        "slowStartTime": 137502,
+        "slowEndTime": 141157
+    },
+    {
+        "text": "...to help grow the new industry of semiconductors.",
+        "startTime": 94219,
+        "endTime": 97210,
+        "slowStartTime": 141478,
+        "slowEndTime": 146040
+    },
+    {
+        "text": "Morris Chang flew back home and in 1987, he founded TSMC...",
+        "startTime": 97641,
+        "endTime": 103381,
+        "slowStartTime": 146611,
+        "slowEndTime": 155297
+    },
+    {
+        "text": "...as a joint venture mainly between the government of Taiwan and Philips Electronics.",
+        "startTime": 103617,
+        "endTime": 109012,
+        "slowStartTime": 155575,
+        "slowEndTime": 163743
+    },
+    {
+        "text": "The strategy itself is simple but revolutionary.",
+        "startTime": 109765,
+        "endTime": 113324,
+        "slowStartTime": 164797,
+        "slowEndTime": 170211
+    },
+    {
+        "text": "If the large American corporations just design the semiconductors...",
+        "startTime": 113915,
+        "endTime": 118339,
+        "slowStartTime": 171022,
+        "slowEndTime": 177734
+    },
+    {
+        "text": "...but don't want to produce them anymore, let's create a number of foundries...",
+        "startTime": 118612,
+        "endTime": 122862,
+        "slowStartTime": 178068,
+        "slowEndTime": 184518
+    },
+    {
+        "text": "...that are only dedicated to building chips.",
+        "startTime": 123091,
+        "endTime": 125759,
+        "slowStartTime": 184787,
+        "slowEndTime": 188864
+    },
+    {
+        "text": "They design them, but we make them and we sell them.",
+        "startTime": 126313,
+        "endTime": 130340,
+        "slowStartTime": 189619,
+        "slowEndTime": 195735
+    }
+]

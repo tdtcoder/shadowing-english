@@ -1,0 +1,58 @@
+[
+    {
+        "text": "﻿Show me one foot.",
+        "startTime": 3740,
+        "endTime": 5074,
+        "slowStartTime": 5760,
+        "slowEndTime": 7836
+    },
+    {
+        "text": "Show me your feet.",
+        "startTime": 6634,
+        "endTime": 7691,
+        "slowStartTime": 10101,
+        "slowEndTime": 11762
+    },
+    {
+        "text": "I lost one tooth.",
+        "startTime": 9347,
+        "endTime": 10898,
+        "slowStartTime": 14171,
+        "slowEndTime": 16572
+    },
+    {
+        "text": "He lost a lot of teeth.",
+        "startTime": 12360,
+        "endTime": 14201,
+        "slowStartTime": 18690,
+        "slowEndTime": 21527
+    },
+    {
+        "text": "There is a mouse.",
+        "startTime": 15792,
+        "endTime": 16725,
+        "slowStartTime": 23838,
+        "slowEndTime": 25313
+    },
+    {
+        "text": "There are mice.",
+        "startTime": 18391,
+        "endTime": 19523,
+        "slowStartTime": 27736,
+        "slowEndTime": 29509
+    },
+    {
+        "text": "I saw one sheep.",
+        "startTime": 21226,
+        "endTime": 22373,
+        "slowStartTime": 31989,
+        "slowEndTime": 33784
+    },
+    {
+        "text": "I saw a few sheep.",
+        "startTime": 23953,
+        "endTime": 25261,
+        "slowStartTime": 36079,
+        "slowEndTime": 38116
+    }
+]

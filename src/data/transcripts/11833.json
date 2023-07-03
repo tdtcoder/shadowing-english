@@ -1,0 +1,156 @@
+[
+    {
+        "text": "What's up, dude?",
+        "startTime": 1360,
+        "endTime": 1960,
+        "slowStartTime": 2190,
+        "slowEndTime": 3170
+    },
+    {
+        "text": "My dear fellow, how absolutely lovely to see you.",
+        "startTime": 2280,
+        "endTime": 5000,
+        "slowStartTime": 3570,
+        "slowEndTime": 7730
+    },
+    {
+        "text": "Check out that chick.",
+        "startTime": 5800,
+        "endTime": 6970,
+        "slowStartTime": 8850,
+        "slowEndTime": 10680
+    },
+    {
+        "text": "I say, totty alert!",
+        "startTime": 7950,
+        "endTime": 9640,
+        "slowStartTime": 12080,
+        "slowEndTime": 14690
+    },
+    {
+        "text": "How you doin'?",
+        "startTime": 10730,
+        "endTime": 11430,
+        "slowStartTime": 16250,
+        "slowEndTime": 17370
+    },
+    {
+        "text": "How awfully thrilling to meet you.",
+        "startTime": 12060,
+        "endTime": 13710,
+        "slowStartTime": 18240,
+        "slowEndTime": 20790
+    },
+    {
+        "text": "Hey, how's it going?",
+        "startTime": 14300,
+        "endTime": 15370,
+        "slowStartTime": 21610,
+        "slowEndTime": 23280
+    },
+    {
+        "text": "How do you do?",
+        "startTime": 15820,
+        "endTime": 16730,
+        "slowStartTime": 23880,
+        "slowEndTime": 25320
+    },
+    {
+        "text": "You babes want a brewski?",
+        "startTime": 17710,
+        "endTime": 18810,
+        "slowStartTime": 26720,
+        "slowEndTime": 28440
+    },
+    {
+        "text": "Would you lovely ladies care for a glass of champas?",
+        "startTime": 19410,
+        "endTime": 22000,
+        "slowStartTime": 29270,
+        "slowEndTime": 33230
+    },
+    {
+        "text": "I'd like a tall, skinny, decaf, soy mochaccino with extra foam. And hold the whip.",
+        "startTime": 22630,
+        "endTime": 27010,
+        "slowStartTime": 34100,
+        "slowEndTime": 40740
+    },
+    {
+        "text": "May I have a cup of tea, please?",
+        "startTime": 27550,
+        "endTime": 29070,
+        "slowStartTime": 41480,
+        "slowEndTime": 43830
+    },
+    {
+        "text": "Hell yeah, sugar lips.",
+        "startTime": 29640,
+        "endTime": 30890,
+        "slowStartTime": 44610,
+        "slowEndTime": 46570
+    },
+    {
+        "text": "Of course you may, you delicious bit of crumpet.",
+        "startTime": 31130,
+        "endTime": 33340,
+        "slowStartTime": 46840,
+        "slowEndTime": 50240
+    },
+    {
+        "text": "Oh my god! You're totally lame.",
+        "startTime": 34380,
+        "endTime": 36450,
+        "slowStartTime": 51720,
+        "slowEndTime": 54900
+    },
+    {
+        "text": "How dare you!",
+        "startTime": 36730,
+        "endTime": 37850,
+        "slowStartTime": 55250,
+        "slowEndTime": 57010
+    },
+    {
+        "text": "Dude, you are totally out of order.",
+        "startTime": 38540,
+        "endTime": 40030,
+        "slowStartTime": 57960,
+        "slowEndTime": 60270
+    },
+    {
+        "text": "Sir, that is simply not cricket.",
+        "startTime": 40430,
+        "endTime": 42520,
+        "slowStartTime": 60790,
+        "slowEndTime": 64010
+    },
+    {
+        "text": "Bro, I need the toilet.",
+        "startTime": 43720,
+        "endTime": 44820,
+        "slowStartTime": 65730,
+        "slowEndTime": 67460
+    },
+    {
+        "text": "Excuse me, where are the lavatories?",
+        "startTime": 45410,
+        "endTime": 47370,
+        "slowStartTime": 68270,
+        "slowEndTime": 71280
+    },
+    {
+        "text": "Later, dude.",
+        "startTime": 48710,
+        "endTime": 49390,
+        "slowStartTime": 73220,
+        "slowEndTime": 74320
+    },
+    {
+        "text": "Tally-ho!",
+        "startTime": 49750,
+        "endTime": 50390,
+        "slowStartTime": 74780,
+        "slowEndTime": 75810
+    }
+]

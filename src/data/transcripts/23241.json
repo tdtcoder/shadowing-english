@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Why do you go away?",
+        "startTime": 6032,
+        "endTime": 7213,
+        "slowStartTime": 9198,
+        "slowEndTime": 11044
+    },
+    {
+        "text": "It's so you can come back...",
+        "startTime": 9455,
+        "endTime": 11030,
+        "slowStartTime": 14332,
+        "slowEndTime": 16770
+    },
+    {
+        "text": "...so that you can see the place you came from with new eyes and extra colors.",
+        "startTime": 13085,
+        "endTime": 18276,
+        "slowStartTime": 19778,
+        "slowEndTime": 27639
+    },
+    {
+        "text": "And the people there see you differently too.",
+        "startTime": 19475,
+        "endTime": 22497,
+        "slowStartTime": 29363,
+        "slowEndTime": 33970
+    },
+    {
+        "text": "After all, coming back to where you started is not the same thing as never leaving.",
+        "startTime": 24093,
+        "endTime": 30737,
+        "slowStartTime": 36289,
+        "slowEndTime": 46331
+    },
+    {
+        "text": "We won't always know where we are going, only that we should go.",
+        "startTime": 32980,
+        "endTime": 37267,
+        "slowStartTime": 49620,
+        "slowEndTime": 56125
+    },
+    {
+        "text": "And no matter where we end up, we will land there with open eyes,...",
+        "startTime": 39014,
+        "endTime": 43617,
+        "slowStartTime": 58671,
+        "slowEndTime": 65650
+    },
+    {
+        "text": "...forever looking for life, for love and for colors.",
+        "startTime": 45429,
+        "endTime": 51963,
+        "slowStartTime": 68294,
+        "slowEndTime": 78170
+    }
+]

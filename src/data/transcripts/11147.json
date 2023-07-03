@@ -1,0 +1,107 @@
+[
+    {
+        "text": "We've been at this all afternoon.",
+        "startTime": 3100,
+        "endTime": 4550,
+        "slowStartTime": 4850,
+        "slowEndTime": 7000
+    },
+    {
+        "text": "Let's take a break and go out for coffee.",
+        "startTime": 4850,
+        "endTime": 6750,
+        "slowStartTime": 7500,
+        "slowEndTime": 10350
+    },
+    {
+        "text": "That sounds like a good idea.",
+        "startTime": 7150,
+        "endTime": 9300,
+        "slowStartTime": 10950,
+        "slowEndTime": 14100
+    },
+    {
+        "text": "I know a great coffee shop down the street if you don't mind walking a bit.",
+        "startTime": 9850,
+        "endTime": 13150,
+        "slowStartTime": 15000,
+        "slowEndTime": 19850
+    },
+    {
+        "text": "Not at all.",
+        "startTime": 13450,
+        "endTime": 14250,
+        "slowStartTime": 20350,
+        "slowEndTime": 21600
+    },
+    {
+        "text": "Oh! Look at the rain!",
+        "startTime": 14850,
+        "endTime": 16850,
+        "slowStartTime": 22500,
+        "slowEndTime": 25500
+    },
+    {
+        "text": "It's pouring outside!",
+        "startTime": 17000,
+        "endTime": 18500,
+        "slowStartTime": 25700,
+        "slowEndTime": 27950
+    },
+    {
+        "text": "That's typical around here.",
+        "startTime": 18800,
+        "endTime": 20200,
+        "slowStartTime": 28400,
+        "slowEndTime": 30500
+    },
+    {
+        "text": "It rains almost every day in this time of year.",
+        "startTime": 20500,
+        "endTime": 22550,
+        "slowStartTime": 30930,
+        "slowEndTime": 34100
+    },
+    {
+        "text": "It's a shame you couldn't see the city in the spring.",
+        "startTime": 23100,
+        "endTime": 25350,
+        "slowStartTime": 34800,
+        "slowEndTime": 38200
+    },
+    {
+        "text": "The weather is much nicer then.",
+        "startTime": 25700,
+        "endTime": 27250,
+        "slowStartTime": 38700,
+        "slowEndTime": 41050
+    },
+    {
+        "text": "But I don't have an umbrella or anything.",
+        "startTime": 27550,
+        "endTime": 29800,
+        "slowStartTime": 41500,
+        "slowEndTime": 44900
+    },
+    {
+        "text": "How annoying!",
+        "startTime": 29950,
+        "endTime": 31000,
+        "slowStartTime": 45150,
+        "slowEndTime": 46800
+    },
+    {
+        "text": "Don't worry.",
+        "startTime": 31250,
+        "endTime": 31850,
+        "slowStartTime": 47050,
+        "slowEndTime": 48000
+    },
+    {
+        "text": "We keep extras here in the office.",
+        "startTime": 32150,
+        "endTime": 34100,
+        "slowStartTime": 48400,
+        "slowEndTime": 51300
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "text": "We've been here for hours, confess already!",
+        "startTime": 340,
+        "endTime": 2130,
+        "slowStartTime": 660,
+        "slowEndTime": 3420
+    },
+    {
+        "text": "I'll take it from here, boys.",
+        "startTime": 3830,
+        "endTime": 5560,
+        "slowStartTime": 5900,
+        "slowEndTime": 8570
+    },
+    {
+        "text": "OK, I did it.",
+        "startTime": 20870,
+        "endTime": 21830,
+        "slowStartTime": 31450,
+        "slowEndTime": 32970
+    },
+    {
+        "text": "Can I have a sip, please?",
+        "startTime": 22100,
+        "endTime": 23750,
+        "slowStartTime": 33300,
+        "slowEndTime": 35850
+    },
+    {
+        "text": "Excellent.",
+        "startTime": 25730,
+        "endTime": 26590,
+        "slowStartTime": 38740,
+        "slowEndTime": 40110
+    },
+    {
+        "text": "Pepsi Max. Zero calories, maximum Pepsi taste.",
+        "startTime": 26710,
+        "endTime": 29840,
+        "slowStartTime": 40220,
+        "slowEndTime": 44990
+    }
+]

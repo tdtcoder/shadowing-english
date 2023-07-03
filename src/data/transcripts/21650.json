@@ -1,0 +1,100 @@
+[
+    {
+        "text": "On those cold, rainy days when you forget your rain jacket or umbrella...",
+        "startTime": 159,
+        "endTime": 3088,
+        "slowStartTime": 388,
+        "slowEndTime": 4857
+    },
+    {
+        "text": "...and you want to stay as dry as possible,...",
+        "startTime": 3178,
+        "endTime": 4657,
+        "slowStartTime": 4917,
+        "slowEndTime": 7211
+    },
+    {
+        "text": "...should you walk and spend more time in the rain?",
+        "startTime": 5026,
+        "endTime": 7138,
+        "slowStartTime": 7689,
+        "slowEndTime": 10932
+    },
+    {
+        "text": "Or should you run, which means you'll be hitting more raindrops from the side?",
+        "startTime": 7453,
+        "endTime": 10744,
+        "slowStartTime": 11329,
+        "slowEndTime": 16341
+    },
+    {
+        "text": "Assuming you haven't been fully soaked yet...",
+        "startTime": 11098,
+        "endTime": 12696,
+        "slowStartTime": 16797,
+        "slowEndTime": 19269
+    },
+    {
+        "text": "...and you aren't jumping into puddles, the answer is simple.",
+        "startTime": 12790,
+        "endTime": 15331,
+        "slowStartTime": 19335,
+        "slowEndTime": 23222
+    },
+    {
+        "text": "As you move out of the way of one falling raindrop, you move into the way of another.",
+        "startTime": 15659,
+        "endTime": 19027,
+        "slowStartTime": 23639,
+        "slowEndTime": 28765
+    },
+    {
+        "text": "So the amount of rain hitting the top of you is constant,...",
+        "startTime": 19232,
+        "endTime": 21431,
+        "slowStartTime": 28998,
+        "slowEndTime": 32371
+    },
+    {
+        "text": "...regardless of how fast you're going.",
+        "startTime": 21528,
+        "endTime": 22735,
+        "slowStartTime": 32442,
+        "slowEndTime": 34328
+    },
+    {
+        "text": "If you're not moving, the rain from the top is all you'll get.",
+        "startTime": 22881,
+        "endTime": 25375,
+        "slowStartTime": 34472,
+        "slowEndTime": 38287
+    },
+    {
+        "text": "But if you are moving, you'll also run into raindrops from the side...",
+        "startTime": 25647,
+        "endTime": 28393,
+        "slowStartTime": 38621,
+        "slowEndTime": 42814
+    },
+    {
+        "text": "...and you'll get wetter.",
+        "startTime": 28476,
+        "endTime": 29309,
+        "slowStartTime": 42864,
+        "slowEndTime": 44189
+    },
+    {
+        "text": "So in any given second, you stay driest by standing still,...",
+        "startTime": 29546,
+        "endTime": 32261,
+        "slowStartTime": 44469,
+        "slowEndTime": 48617
+    },
+    {
+        "text": "...and the faster you move, the wetter you become.",
+        "startTime": 32427,
+        "endTime": 34445,
+        "slowStartTime": 48791,
+        "slowEndTime": 51892
+    }
+]

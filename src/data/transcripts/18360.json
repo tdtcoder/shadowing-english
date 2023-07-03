@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Mitt Romney attacked 47 percent of Americans who pay no income tax,...",
+        "startTime": 203,
+        "endTime": 4457,
+        "slowStartTime": 455,
+        "slowEndTime": 6910
+    },
+    {
+        "text": "...including veterans, elderly, the disabled.",
+        "startTime": 4566,
+        "endTime": 7266,
+        "slowStartTime": 6999,
+        "slowEndTime": 11124
+    },
+    {
+        "text": "My job is not to worry about those people.",
+        "startTime": 7423,
+        "endTime": 10076,
+        "slowStartTime": 11284,
+        "slowEndTime": 15339
+    },
+    {
+        "text": "Doesn't the President have to worry about everyone?",
+        "startTime": 10272,
+        "endTime": 12647,
+        "slowStartTime": 15558,
+        "slowEndTime": 19196
+    },
+    {
+        "text": "Mitt Romney paid just 14.1 percent in taxes last year.",
+        "startTime": 13024,
+        "endTime": 16791,
+        "slowStartTime": 19686,
+        "slowEndTime": 25411
+    },
+    {
+        "text": "He keeps millions in Bermuda and the Cayman Islands.",
+        "startTime": 17071,
+        "endTime": 19691,
+        "slowStartTime": 25757,
+        "slowEndTime": 29762
+    },
+    {
+        "text": "He won't release his tax returns before 2010.",
+        "startTime": 19925,
+        "endTime": 22783,
+        "slowStartTime": 30037,
+        "slowEndTime": 34399
+    },
+    {
+        "text": "Maybe instead of attacking others on taxes, Romney should come clean on his.",
+        "startTime": 23036,
+        "endTime": 27632,
+        "slowStartTime": 34704,
+        "slowEndTime": 41673
+    },
+    {
+        "text": "I'm Barack Obama, and I approve this message.",
+        "startTime": 27966,
+        "endTime": 29875,
+        "slowStartTime": 42099,
+        "slowEndTime": 45037
+    }
+]

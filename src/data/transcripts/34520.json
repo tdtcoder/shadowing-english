@@ -1,0 +1,317 @@
+[
+    {
+        "text": "That's Tim Barnes over there.",
+        "startTime": 50,
+        "endTime": 1372,
+        "slowStartTime": 186,
+        "slowEndTime": 2283
+    },
+    {
+        "text": "He's a reporter.",
+        "startTime": 1563,
+        "endTime": 2291,
+        "slowStartTime": 2495,
+        "slowEndTime": 3661
+    },
+    {
+        "text": "Tim, this is Julia.",
+        "startTime": 3333,
+        "endTime": 4813,
+        "slowStartTime": 5149,
+        "slowEndTime": 7445
+    },
+    {
+        "text": "She's our new trainee.",
+        "startTime": 4945,
+        "endTime": 5837,
+        "slowStartTime": 7567,
+        "slowEndTime": 8980
+    },
+    {
+        "text": "Hi.",
+        "startTime": 6751,
+        "endTime": 7015,
+        "slowStartTime": 10277,
+        "slowEndTime": 10747
+    },
+    {
+        "text": "Hi.",
+        "startTime": 8002,
+        "endTime": 8485,
+        "slowStartTime": 12153,
+        "slowEndTime": 12953
+    },
+    {
+        "text": "This is a very interesting story, Martha.",
+        "startTime": 9503,
+        "endTime": 10917,
+        "slowStartTime": 14405,
+        "slowEndTime": 16601
+    },
+    {
+        "text": "Look at this.",
+        "startTime": 10991,
+        "endTime": 11391,
+        "slowStartTime": 16637,
+        "slowEndTime": 17311
+    },
+    {
+        "text": "Oh, tell me about it this afternoon, okay?",
+        "startTime": 11688,
+        "endTime": 13715,
+        "slowStartTime": 17682,
+        "slowEndTime": 20798
+    },
+    {
+        "text": "Sure.",
+        "startTime": 14935,
+        "endTime": 15219,
+        "slowStartTime": 22552,
+        "slowEndTime": 23054
+    },
+    {
+        "text": "See you around, Julie.",
+        "startTime": 16547,
+        "endTime": 17637,
+        "slowStartTime": 24970,
+        "slowEndTime": 26681
+    },
+    {
+        "text": "Julia.",
+        "startTime": 18189,
+        "endTime": 18723,
+        "slowStartTime": 27434,
+        "slowEndTime": 28309
+    },
+    {
+        "text": "Sorry.",
+        "startTime": 19459,
+        "endTime": 19885,
+        "slowStartTime": 29339,
+        "slowEndTime": 30052
+    },
+    {
+        "text": "My name isn't Julie, it's Julia.",
+        "startTime": 20229,
+        "endTime": 22072,
+        "slowStartTime": 30494,
+        "slowEndTime": 33333
+    },
+    {
+        "text": "Oh, right.",
+        "startTime": 23173,
+        "endTime": 23795,
+        "slowStartTime": 34909,
+        "slowEndTime": 35918
+    },
+    {
+        "text": "And the address has got two Ds.",
+        "startTime": 23950,
+        "endTime": 25747,
+        "slowStartTime": 36075,
+        "slowEndTime": 38845
+    },
+    {
+        "text": "What?",
+        "startTime": 25845,
+        "endTime": 26117,
+        "slowStartTime": 38917,
+        "slowEndTime": 39400
+    },
+    {
+        "text": "Address is A - D - D.",
+        "startTime": 26866,
+        "endTime": 28483,
+        "slowStartTime": 40449,
+        "slowEndTime": 42950
+    },
+    {
+        "text": "Right, thank you.",
+        "startTime": 31305,
+        "endTime": 32466,
+        "slowStartTime": 47107,
+        "slowEndTime": 48924
+    },
+    {
+        "text": "Don't mention it.",
+        "startTime": 33740,
+        "endTime": 34639,
+        "slowStartTime": 50760,
+        "slowEndTime": 52184
+    },
+    {
+        "text": "Who's that young woman with Martha and Shawn?",
+        "startTime": 37406,
+        "endTime": 39282,
+        "slowStartTime": 56259,
+        "slowEndTime": 59148
+    },
+    {
+        "text": "Her name's Julia.",
+        "startTime": 39621,
+        "endTime": 40473,
+        "slowStartTime": 59582,
+        "slowEndTime": 60934
+    },
+    {
+        "text": "She's the new trainee.",
+        "startTime": 40992,
+        "endTime": 41981,
+        "slowStartTime": 61638,
+        "slowEndTime": 63197
+    },
+    {
+        "text": "She's very pretty.",
+        "startTime": 43435,
+        "endTime": 44157,
+        "slowStartTime": 65303,
+        "slowEndTime": 66461
+    },
+    {
+        "text": "Well, that's everyone, I think",
+        "startTime": 50581,
+        "endTime": 51843,
+        "slowStartTime": 76022,
+        "slowEndTime": 77990
+    },
+    {
+        "text": "Tea or coffee?",
+        "startTime": 52239,
+        "endTime": 53024,
+        "slowStartTime": 78509,
+        "slowEndTime": 79761
+    },
+    {
+        "text": "Coffee please.",
+        "startTime": 53287,
+        "endTime": 54121,
+        "slowStartTime": 80080,
+        "slowEndTime": 81406
+    },
+    {
+        "text": "Black or white?",
+        "startTime": 54319,
+        "endTime": 54947,
+        "slowStartTime": 81629,
+        "slowEndTime": 82645
+    },
+    {
+        "text": "Oh, white with no sugar please.",
+        "startTime": 55113,
+        "endTime": 57246,
+        "slowStartTime": 82820,
+        "slowEndTime": 86094
+    },
+    {
+        "text": "Hello, you're Julia aren't you?",
+        "startTime": 59140,
+        "endTime": 61037,
+        "slowStartTime": 88860,
+        "slowEndTime": 91781
+    },
+    {
+        "text": "Yes.",
+        "startTime": 61299,
+        "endTime": 61723,
+        "slowStartTime": 92098,
+        "slowEndTime": 92810
+    },
+    {
+        "text": "Pleased to meet you, I'm Gary.",
+        "startTime": 62357,
+        "endTime": 64205,
+        "slowStartTime": 93686,
+        "slowEndTime": 96533
+    },
+    {
+        "text": "Nice to meet you, Gary.",
+        "startTime": 64413,
+        "endTime": 65650,
+        "slowStartTime": 96770,
+        "slowEndTime": 98700
+    },
+    {
+        "text": "What do you do?",
+        "startTime": 65902,
+        "endTime": 66700,
+        "slowStartTime": 99003,
+        "slowEndTime": 100275
+    },
+    {
+        "text": "I'm a newsreader.",
+        "startTime": 68706,
+        "endTime": 69589,
+        "slowStartTime": 103209,
+        "slowEndTime": 104609
+    },
+    {
+        "text": "Oh yes!",
+        "startTime": 70767,
+        "endTime": 71841,
+        "slowStartTime": 106301,
+        "slowEndTime": 107987
+    },
+    {
+        "text": "You're Gary Fenton.",
+        "startTime": 72177,
+        "endTime": 73783,
+        "slowStartTime": 108415,
+        "slowEndTime": 110899
+    },
+    {
+        "text": "You're my mom's favorite newsreader.",
+        "startTime": 75267,
+        "endTime": 77022,
+        "slowStartTime": 113050,
+        "slowEndTime": 115758
+    },
+    {
+        "text": "Here you are.",
+        "startTime": 77313,
+        "endTime": 77981,
+        "slowStartTime": 116119,
+        "slowEndTime": 117196
+    },
+    {
+        "text": "Hello Gary, this is Julia.",
+        "startTime": 78565,
+        "endTime": 80159,
+        "slowStartTime": 117998,
+        "slowEndTime": 120464
+    },
+    {
+        "text": "Yes, I know.",
+        "startTime": 81000,
+        "endTime": 82113,
+        "slowStartTime": 121650,
+        "slowEndTime": 123394
+    },
+    {
+        "text": "Anyway, I must be off.",
+        "startTime": 83374,
+        "endTime": 84664,
+        "slowStartTime": 125211,
+        "slowEndTime": 127221
+    },
+    {
+        "text": "See you.",
+        "startTime": 85733,
+        "endTime": 86069,
+        "slowStartTime": 128750,
+        "slowEndTime": 129329
+    },
+    {
+        "text": "He's very nice.",
+        "startTime": 87999,
+        "endTime": 89324,
+        "slowStartTime": 132149,
+        "slowEndTime": 134211
+    },
+    {
+        "text": "Yes.",
+        "startTime": 90004,
+        "endTime": 90811,
+        "slowStartTime": 135156,
+        "slowEndTime": 136442
+    }
+]

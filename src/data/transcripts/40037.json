@@ -1,0 +1,65 @@
+[
+    {
+        "text": "I don't always want you to help me.",
+        "startTime": 6425,
+        "endTime": 7864,
+        "slowStartTime": 9787,
+        "slowEndTime": 12021
+    },
+    {
+        "text": "Do you know why?",
+        "startTime": 11018,
+        "endTime": 11944,
+        "slowStartTime": 16677,
+        "slowEndTime": 18141
+    },
+    {
+        "text": "I want to figure it out on my own,...",
+        "startTime": 15142,
+        "endTime": 16772,
+        "slowStartTime": 22863,
+        "slowEndTime": 25383
+    },
+    {
+        "text": "...even when it doesn't turn out the way I want.",
+        "startTime": 24091,
+        "endTime": 26167,
+        "slowStartTime": 36286,
+        "slowEndTime": 39476
+    },
+    {
+        "text": "I know it's not wrong...",
+        "startTime": 30211,
+        "endTime": 31307,
+        "slowStartTime": 45466,
+        "slowEndTime": 47186
+    },
+    {
+        "text": "...because you taught me how to think...",
+        "startTime": 37993,
+        "endTime": 39477,
+        "slowStartTime": 57140,
+        "slowEndTime": 59440
+    },
+    {
+        "text": "...and how to dream.",
+        "startTime": 44797,
+        "endTime": 45615,
+        "slowStartTime": 67346,
+        "slowEndTime": 68647
+    },
+    {
+        "text": "I'm about to make something...",
+        "startTime": 49110,
+        "endTime": 50548,
+        "slowStartTime": 73815,
+        "slowEndTime": 76047
+    },
+    {
+        "text": "...that I know will make you proud.",
+        "startTime": 54735,
+        "endTime": 56491,
+        "slowStartTime": 82253,
+        "slowEndTime": 84961
+    }
+]

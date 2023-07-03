@@ -1,0 +1,205 @@
+[
+    {
+        "text": "Hello?",
+        "startTime": 312,
+        "endTime": 1043,
+        "slowStartTime": 618,
+        "slowEndTime": 1790
+    },
+    {
+        "text": "Hi, can I speak to Amanda?",
+        "startTime": 1311,
+        "endTime": 3360,
+        "slowStartTime": 2117,
+        "slowEndTime": 5265
+    },
+    {
+        "text": "Speaking.",
+        "startTime": 3529,
+        "endTime": 4405,
+        "slowStartTime": 5444,
+        "slowEndTime": 6833
+    },
+    {
+        "text": "How are you feeling today?",
+        "startTime": 4644,
+        "endTime": 5923,
+        "slowStartTime": 7116,
+        "slowEndTime": 9110
+    },
+    {
+        "text": "So-so.",
+        "startTime": 6177,
+        "endTime": 7333,
+        "slowStartTime": 9415,
+        "slowEndTime": 11224
+    },
+    {
+        "text": "What happened?",
+        "startTime": 7685,
+        "endTime": 8489,
+        "slowStartTime": 11678,
+        "slowEndTime": 12959
+    },
+    {
+        "text": "Is everything all right?",
+        "startTime": 8601,
+        "endTime": 9745,
+        "slowStartTime": 13051,
+        "slowEndTime": 14843
+    },
+    {
+        "text": "Well, my sister's not talking to me.",
+        "startTime": 10157,
+        "endTime": 13431,
+        "slowStartTime": 15385,
+        "slowEndTime": 20372
+    },
+    {
+        "text": "Oh no.",
+        "startTime": 13619,
+        "endTime": 14521,
+        "slowStartTime": 20579,
+        "slowEndTime": 22007
+    },
+    {
+        "text": "What happened between you and your sister?",
+        "startTime": 14774,
+        "endTime": 16696,
+        "slowStartTime": 22311,
+        "slowEndTime": 25269
+    },
+    {
+        "text": "Ok, hear me out.",
+        "startTime": 17029,
+        "endTime": 18470,
+        "slowStartTime": 25693,
+        "slowEndTime": 27930
+    },
+    {
+        "text": "You know my cat died a long time ago.",
+        "startTime": 19131,
+        "endTime": 21545,
+        "slowStartTime": 28846,
+        "slowEndTime": 32543
+    },
+    {
+        "text": "Yes, I remember.",
+        "startTime": 22083,
+        "endTime": 23331,
+        "slowStartTime": 33275,
+        "slowEndTime": 35222
+    },
+    {
+        "text": "So you got a new puppy.",
+        "startTime": 23518,
+        "endTime": 24870,
+        "slowStartTime": 35427,
+        "slowEndTime": 37530
+    },
+    {
+        "text": "Yesterday, I gave him some snacks, and he got sick last night.",
+        "startTime": 25171,
+        "endTime": 30201,
+        "slowStartTime": 37906,
+        "slowEndTime": 45527
+    },
+    {
+        "text": "Oh no!",
+        "startTime": 30427,
+        "endTime": 31442,
+        "slowStartTime": 45790,
+        "slowEndTime": 47388
+    },
+    {
+        "text": "Is he okay?",
+        "startTime": 31561,
+        "endTime": 32539,
+        "slowStartTime": 47491,
+        "slowEndTime": 49034
+    },
+    {
+        "text": "Yes, but my sister isn't.",
+        "startTime": 32784,
+        "endTime": 35585,
+        "slowStartTime": 49326,
+        "slowEndTime": 53602
+    },
+    {
+        "text": "Of course not!",
+        "startTime": 35744,
+        "endTime": 36583,
+        "slowStartTime": 53766,
+        "slowEndTime": 55100
+    },
+    {
+        "text": "You almost killed the puppy!",
+        "startTime": 36667,
+        "endTime": 38111,
+        "slowStartTime": 55151,
+        "slowEndTime": 57392
+    },
+    {
+        "text": "I know, but it's not only my fault.",
+        "startTime": 38337,
+        "endTime": 41566,
+        "slowStartTime": 57655,
+        "slowEndTime": 62574
+    },
+    {
+        "text": "She did the same the other day.",
+        "startTime": 41907,
+        "endTime": 43956,
+        "slowStartTime": 63011,
+        "slowEndTime": 66159
+    },
+    {
+        "text": "Oh, come on.",
+        "startTime": 44118,
+        "endTime": 45348,
+        "slowStartTime": 66327,
+        "slowEndTime": 68247
+    },
+    {
+        "text": "Why don't you talk to her first?",
+        "startTime": 45633,
+        "endTime": 47215,
+        "slowStartTime": 68599,
+        "slowEndTime": 71048
+    },
+    {
+        "text": "Yeah, I'm thinking about it.",
+        "startTime": 47494,
+        "endTime": 49450,
+        "slowStartTime": 71391,
+        "slowEndTime": 74400
+    },
+    {
+        "text": "Good!",
+        "startTime": 49607,
+        "endTime": 50249,
+        "slowStartTime": 74561,
+        "slowEndTime": 75599
+    },
+    {
+        "text": "I'm glad to hear that.",
+        "startTime": 50352,
+        "endTime": 51547,
+        "slowStartTime": 75678,
+        "slowEndTime": 77546
+    },
+    {
+        "text": "Thanks for your advice.",
+        "startTime": 51872,
+        "endTime": 53254,
+        "slowStartTime": 77958,
+        "slowEndTime": 80106
+    },
+    {
+        "text": "Hey, anytime.",
+        "startTime": 53365,
+        "endTime": 55003,
+        "slowStartTime": 80198,
+        "slowEndTime": 82730
+    }
+]

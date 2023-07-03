@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Sydney.",
+        "startTime": 440,
+        "endTime": 1102,
+        "slowStartTime": 810,
+        "slowEndTime": 1878
+    },
+    {
+        "text": "No, it's not the capital of Australia.",
+        "startTime": 1844,
+        "endTime": 4013,
+        "slowStartTime": 2916,
+        "slowEndTime": 6244
+    },
+    {
+        "text": "Although Sydney is the most famous and populous city in Australia,...",
+        "startTime": 4521,
+        "endTime": 8225,
+        "slowStartTime": 6931,
+        "slowEndTime": 12562
+    },
+    {
+        "text": "...it's not the capital.",
+        "startTime": 8615,
+        "endTime": 9640,
+        "slowStartTime": 13073,
+        "slowEndTime": 14685
+    },
+    {
+        "text": "Like any big city, it has many attractions...",
+        "startTime": 10090,
+        "endTime": 12937,
+        "slowStartTime": 15285,
+        "slowEndTime": 19631
+    },
+    {
+        "text": "...such as the Opera House and the Bay Bridge.",
+        "startTime": 13139,
+        "endTime": 15902,
+        "slowStartTime": 19859,
+        "slowEndTime": 24078
+    },
+    {
+        "text": "This city certainly has it all:...",
+        "startTime": 16498,
+        "endTime": 18319,
+        "slowStartTime": 24897,
+        "slowEndTime": 27703
+    },
+    {
+        "text": "...incredible landscapes, beautiful beaches, lots of nightlife and museums.",
+        "startTime": 18560,
+        "endTime": 24139,
+        "slowStartTime": 27990,
+        "slowEndTime": 36433
+    },
+    {
+        "text": "If you want to enjoy an excellent view of the city,...",
+        "startTime": 24781,
+        "endTime": 27193,
+        "slowStartTime": 37321,
+        "slowEndTime": 41015
+    },
+    {
+        "text": "...you can go up to the Tower Eye Observatory.",
+        "startTime": 27563,
+        "endTime": 29926,
+        "slowStartTime": 41494,
+        "slowEndTime": 45114
+    },
+    {
+        "text": "There's much more to do in this modern city...",
+        "startTime": 30346,
+        "endTime": 32620,
+        "slowStartTime": 45669,
+        "slowEndTime": 49155
+    },
+    {
+        "text": "...with all around world citizens.",
+        "startTime": 32840,
+        "endTime": 34977,
+        "slowStartTime": 49410,
+        "slowEndTime": 52690
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "text": "I'm Caroline Moore and I'm a junior at Warwick Valley High School in Warwick, New York.",
+        "startTime": 182,
+        "endTime": 4445,
+        "slowStartTime": 423,
+        "slowEndTime": 6892
+    },
+    {
+        "text": "Hello, I'm David.",
+        "startTime": 4974,
+        "endTime": 6271,
+        "slowStartTime": 7611,
+        "slowEndTime": 9632
+    },
+    {
+        "text": "I come from Manchester.",
+        "startTime": 8780,
+        "endTime": 10449,
+        "slowStartTime": 13320,
+        "slowEndTime": 15899
+    },
+    {
+        "text": "I'm a lawyer.",
+        "startTime": 11091,
+        "endTime": 11844,
+        "slowStartTime": 16786,
+        "slowEndTime": 17991
+    },
+    {
+        "text": "Hello, my name's Helen.",
+        "startTime": 12504,
+        "endTime": 13795,
+        "slowStartTime": 18906,
+        "slowEndTime": 20918
+    },
+    {
+        "text": "What do you do?",
+        "startTime": 14175,
+        "endTime": 14895,
+        "slowStartTime": 21413,
+        "slowEndTime": 22567
+    },
+    {
+        "text": "I'm a marketing assistant for a publishing company.",
+        "startTime": 16276,
+        "endTime": 19047,
+        "slowStartTime": 24564,
+        "slowEndTime": 28796
+    },
+    {
+        "text": "I work in Oxford, but I sometimes go to the London office.",
+        "startTime": 19478,
+        "endTime": 23403,
+        "slowStartTime": 29367,
+        "slowEndTime": 35329
+    }
+]

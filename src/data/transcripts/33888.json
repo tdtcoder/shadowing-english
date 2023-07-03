@@ -1,0 +1,254 @@
+[
+    {
+        "text": "I need to start by telling you a little bit about my social life,...",
+        "startTime": 12630,
+        "endTime": 16233,
+        "slowStartTime": 19095,
+        "slowEndTime": 24574
+    },
+    {
+        "text": "...which I know may not seem relevant, but it is.",
+        "startTime": 17247,
+        "endTime": 20410,
+        "slowStartTime": 26021,
+        "slowEndTime": 30840
+    },
+    {
+        "text": "When people meet me at parties and they find out that I'm an English professor...",
+        "startTime": 21208,
+        "endTime": 25405,
+        "slowStartTime": 31962,
+        "slowEndTime": 38332
+    },
+    {
+        "text": "...who specializes in language, they generally have one of two reactions.",
+        "startTime": 25803,
+        "endTime": 30761,
+        "slowStartTime": 38854,
+        "slowEndTime": 46367
+    },
+    {
+        "text": "One set of people look frightened.",
+        "startTime": 31591,
+        "endTime": 34163,
+        "slowStartTime": 47537,
+        "slowEndTime": 51469
+    },
+    {
+        "text": "They often say something like, \"Oh, I'd better be careful what I say.",
+        "startTime": 36347,
+        "endTime": 41172,
+        "slowStartTime": 54671,
+        "slowEndTime": 61983
+    },
+    {
+        "text": "I'm sure you'll hear every mistake I make.\"",
+        "startTime": 41368,
+        "endTime": 43945,
+        "slowStartTime": 62202,
+        "slowEndTime": 66143
+    },
+    {
+        "text": "And then they stop talking.",
+        "startTime": 44844,
+        "endTime": 46601,
+        "slowStartTime": 67416,
+        "slowEndTime": 70126
+    },
+    {
+        "text": "And they wait for me to go away and talk to someone else.",
+        "startTime": 48649,
+        "endTime": 52392,
+        "slowStartTime": 73123,
+        "slowEndTime": 78813
+    },
+    {
+        "text": "The other set of people, their eyes light up, and they say,...",
+        "startTime": 53602,
+        "endTime": 58929,
+        "slowStartTime": 80553,
+        "slowEndTime": 88619
+    },
+    {
+        "text": "\"You are just the person I want to talk to.\"",
+        "startTime": 59105,
+        "endTime": 61843,
+        "slowStartTime": 88808,
+        "slowEndTime": 92989
+    },
+    {
+        "text": "And then they tell me about whatever it is...",
+        "startTime": 63377,
+        "endTime": 65701,
+        "slowStartTime": 95215,
+        "slowEndTime": 98776
+    },
+    {
+        "text": "...they think is going wrong with the English language.",
+        "startTime": 65853,
+        "endTime": 68446,
+        "slowStartTime": 98930,
+        "slowEndTime": 102894
+    },
+    {
+        "text": "A couple of weeks ago, I was at a dinner party...",
+        "startTime": 70758,
+        "endTime": 73007,
+        "slowStartTime": 106287,
+        "slowEndTime": 109735
+    },
+    {
+        "text": "...and the man to my right started telling me about all the ways...",
+        "startTime": 73159,
+        "endTime": 77236,
+        "slowStartTime": 109888,
+        "slowEndTime": 116079
+    },
+    {
+        "text": "...that the Internet is degrading the English language.",
+        "startTime": 77317,
+        "endTime": 79830,
+        "slowStartTime": 116126,
+        "slowEndTime": 119970
+    },
+    {
+        "text": "He brought up Facebook, and he said, \"To defriend?",
+        "startTime": 80532,
+        "endTime": 85225,
+        "slowStartTime": 120948,
+        "slowEndTime": 128062
+    },
+    {
+        "text": "I mean, is that even a real word?\"",
+        "startTime": 85679,
+        "endTime": 88385,
+        "slowStartTime": 128668,
+        "slowEndTime": 132802
+    },
+    {
+        "text": "I want to pause on that question: What makes a word real?",
+        "startTime": 89738,
+        "endTime": 95789,
+        "slowStartTime": 134757,
+        "slowEndTime": 143908
+    },
+    {
+        "text": "My dinner companion and I both know what the verb \"defriend\" means,...",
+        "startTime": 96677,
+        "endTime": 101741,
+        "slowStartTime": 145166,
+        "slowEndTime": 152837
+    },
+    {
+        "text": "...so when does a new word like \"defriend\" become real?",
+        "startTime": 102300,
+        "endTime": 106074,
+        "slowStartTime": 153600,
+        "slowEndTime": 159336
+    },
+    {
+        "text": "Who has the authority to make those kinds of official decisions about words, anyway?",
+        "startTime": 107139,
+        "endTime": 111818,
+        "slowStartTime": 160858,
+        "slowEndTime": 167952
+    },
+    {
+        "text": "Those are the questions I want to talk about today.",
+        "startTime": 113011,
+        "endTime": 115875,
+        "slowStartTime": 169666,
+        "slowEndTime": 174037
+    },
+    {
+        "text": "I think most people, when they say a word isn't real, what they mean is,...",
+        "startTime": 117169,
+        "endTime": 121392,
+        "slowStartTime": 175903,
+        "slowEndTime": 182313
+    },
+    {
+        "text": "...it doesn't appear in a standard dictionary.",
+        "startTime": 121483,
+        "endTime": 123545,
+        "slowStartTime": 182375,
+        "slowEndTime": 185542
+    },
+    {
+        "text": "That, of course, raises a host of other questions, including, who writes dictionaries?",
+        "startTime": 124216,
+        "endTime": 129979,
+        "slowStartTime": 186474,
+        "slowEndTime": 195193
+    },
+    {
+        "text": "Before I go any further, let me clarify my role in all of this.",
+        "startTime": 132198,
+        "endTime": 135475,
+        "slowStartTime": 198447,
+        "slowEndTime": 203438
+    },
+    {
+        "text": "I do not write dictionaries.",
+        "startTime": 135809,
+        "endTime": 137400,
+        "slowStartTime": 203864,
+        "slowEndTime": 206325
+    },
+    {
+        "text": "I do, however, collect new words much the way dictionary editors do,...",
+        "startTime": 138119,
+        "endTime": 143071,
+        "slowStartTime": 207328,
+        "slowEndTime": 214831
+    },
+    {
+        "text": "...and the great thing about being a historian of the English language...",
+        "startTime": 143950,
+        "endTime": 146631,
+        "slowStartTime": 216075,
+        "slowEndTime": 220172
+    },
+    {
+        "text": "....is that I get to call this \"research.\"",
+        "startTime": 146710,
+        "endTime": 148763,
+        "slowStartTime": 220215,
+        "slowEndTime": 223369
+    },
+    {
+        "text": "When I teach the history of the English language,...",
+        "startTime": 150454,
+        "endTime": 152914,
+        "slowStartTime": 225831,
+        "slowEndTime": 229596
+    },
+    {
+        "text": "...I require that students teach me two new slang words before I will begin class.",
+        "startTime": 153024,
+        "endTime": 158337,
+        "slowStartTime": 229686,
+        "slowEndTime": 237731
+    },
+    {
+        "text": "Over the years, I have learned some great new slang this way,..",
+        "startTime": 159188,
+        "endTime": 163063,
+        "slowStartTime": 238932,
+        "slowEndTime": 244819
+    },
+    {
+        "text": "...including \"hangry,\" which is when you are cranky or angry because you are hungry,...",
+        "startTime": 164580,
+        "endTime": 176195,
+        "slowStartTime": 247020,
+        "slowEndTime": 264517
+    },
+    {
+        "text": "....and \"adorkable,\" which is when you are adorable in kind of a dorky way.",
+        "startTime": 179031,
+        "endTime": 187162,
+        "slowStartTime": 268697,
+        "slowEndTime": 280968
+    }
+]

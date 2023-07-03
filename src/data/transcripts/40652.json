@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Do you remember George Hawkins?",
+        "startTime": 857,
+        "endTime": 3338,
+        "slowStartTime": 1435,
+        "slowEndTime": 5232
+    },
+    {
+        "text": "George Hawkins?",
+        "startTime": 3979,
+        "endTime": 5206,
+        "slowStartTime": 6118,
+        "slowEndTime": 8034
+    },
+    {
+        "text": "That name sounds familiar.",
+        "startTime": 5497,
+        "endTime": 7693,
+        "slowStartTime": 8396,
+        "slowEndTime": 11764
+    },
+    {
+        "text": "What does he look like?",
+        "startTime": 7970,
+        "endTime": 9426,
+        "slowStartTime": 12105,
+        "slowEndTime": 14364
+    },
+    {
+        "text": "He's really tall.",
+        "startTime": 10527,
+        "endTime": 11887,
+        "slowStartTime": 15940,
+        "slowEndTime": 18055
+    },
+    {
+        "text": "He's about six feet, four inches tall.",
+        "startTime": 12676,
+        "endTime": 15329,
+        "slowStartTime": 19164,
+        "slowEndTime": 23218
+    },
+    {
+        "text": "He has short black hair.",
+        "startTime": 15892,
+        "endTime": 17797,
+        "slowStartTime": 23988,
+        "slowEndTime": 26921
+    },
+    {
+        "text": "He is a little bit overweight.",
+        "startTime": 18527,
+        "endTime": 20707,
+        "slowStartTime": 27940,
+        "slowEndTime": 31286
+    },
+    {
+        "text": "He sometimes wears glasses...",
+        "startTime": 21446,
+        "endTime": 23565,
+        "slowStartTime": 32319,
+        "slowEndTime": 35573
+    },
+    {
+        "text": "...and he dresses very well.",
+        "startTime": 25300,
+        "endTime": 27402,
+        "slowStartTime": 38100,
+        "slowEndTime": 41328
+    },
+    {
+        "text": "He usually wears a suit.",
+        "startTime": 27831,
+        "endTime": 29822,
+        "slowStartTime": 41897,
+        "slowEndTime": 44958
+    },
+    {
+        "text": "That name rings a bell.",
+        "startTime": 30358,
+        "endTime": 32103,
+        "slowStartTime": 45687,
+        "slowEndTime": 48379
+    }
+]

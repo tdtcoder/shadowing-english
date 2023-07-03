@@ -1,0 +1,219 @@
+[
+    {
+        "text": "What can you do?",
+        "startTime": 1333,
+        "endTime": 3229,
+        "slowStartTime": 2150,
+        "slowEndTime": 5069
+    },
+    {
+        "text": "I can sing a song.",
+        "startTime": 3917,
+        "endTime": 5314,
+        "slowStartTime": 6025,
+        "slowEndTime": 8196
+    },
+    {
+        "text": "Sing a song, sing a song.",
+        "startTime": 6341,
+        "endTime": 8653,
+        "slowStartTime": 9661,
+        "slowEndTime": 13204
+    },
+    {
+        "text": "I can sing a song.",
+        "startTime": 8795,
+        "endTime": 10411,
+        "slowStartTime": 13342,
+        "slowEndTime": 15841
+    },
+    {
+        "text": "Sing a song.",
+        "startTime": 11003,
+        "endTime": 13030,
+        "slowStartTime": 16654,
+        "slowEndTime": 19770
+    },
+    {
+        "text": "Sing a song.",
+        "startTime": 13627,
+        "endTime": 14599,
+        "slowStartTime": 20590,
+        "slowEndTime": 22123
+    },
+    {
+        "text": "What can you do?",
+        "startTime": 16838,
+        "endTime": 18641,
+        "slowStartTime": 25407,
+        "slowEndTime": 28187
+    },
+    {
+        "text": "I can climb a tree.",
+        "startTime": 19541,
+        "endTime": 20993,
+        "slowStartTime": 29462,
+        "slowEndTime": 31715
+    },
+    {
+        "text": "Climb a tree, climb a tree.",
+        "startTime": 22001,
+        "endTime": 24315,
+        "slowStartTime": 33151,
+        "slowEndTime": 36697
+    },
+    {
+        "text": "I can climb a tree.",
+        "startTime": 24432,
+        "endTime": 26102,
+        "slowStartTime": 36798,
+        "slowEndTime": 39378
+    },
+    {
+        "text": "Climb a tree.",
+        "startTime": 26673,
+        "endTime": 28571,
+        "slowStartTime": 40159,
+        "slowEndTime": 43082
+    },
+    {
+        "text": "Climb a tree.",
+        "startTime": 29245,
+        "endTime": 30255,
+        "slowStartTime": 44018,
+        "slowEndTime": 45607
+    },
+    {
+        "text": "What can you do?",
+        "startTime": 32501,
+        "endTime": 34483,
+        "slowStartTime": 48902,
+        "slowEndTime": 51949
+    },
+    {
+        "text": "I can catch a ball.",
+        "startTime": 35162,
+        "endTime": 36615,
+        "slowStartTime": 52893,
+        "slowEndTime": 55147
+    },
+    {
+        "text": "Catch a ball, catch a ball.",
+        "startTime": 37609,
+        "endTime": 39910,
+        "slowStartTime": 56563,
+        "slowEndTime": 60090
+    },
+    {
+        "text": "I can catch a ball.",
+        "startTime": 40025,
+        "endTime": 41665,
+        "slowStartTime": 60188,
+        "slowEndTime": 62723
+    },
+    {
+        "text": "Catch a ball.",
+        "startTime": 42336,
+        "endTime": 44218,
+        "slowStartTime": 63654,
+        "slowEndTime": 66552
+    },
+    {
+        "text": "Catch a ball.",
+        "startTime": 45027,
+        "endTime": 45906,
+        "slowStartTime": 67691,
+        "slowEndTime": 69084
+    },
+    {
+        "text": "What can you do?",
+        "startTime": 48058,
+        "endTime": 49995,
+        "slowStartTime": 72237,
+        "slowEndTime": 75218
+    },
+    {
+        "text": "I can fly a kite.",
+        "startTime": 50633,
+        "endTime": 52177,
+        "slowStartTime": 76099,
+        "slowEndTime": 78491
+    },
+    {
+        "text": "Fly a kite, fly a kite.",
+        "startTime": 53143,
+        "endTime": 55379,
+        "slowStartTime": 79864,
+        "slowEndTime": 83293
+    },
+    {
+        "text": "I can fly a kite.",
+        "startTime": 55557,
+        "endTime": 57212,
+        "slowStartTime": 83486,
+        "slowEndTime": 86043
+    },
+    {
+        "text": "Fly a kite.",
+        "startTime": 57880,
+        "endTime": 59733,
+        "slowStartTime": 86970,
+        "slowEndTime": 89825
+    },
+    {
+        "text": "Fly a kite.",
+        "startTime": 60409,
+        "endTime": 61449,
+        "slowStartTime": 90763,
+        "slowEndTime": 92399
+    },
+    {
+        "text": "What can you do?",
+        "startTime": 63621,
+        "endTime": 65635,
+        "slowStartTime": 95582,
+        "slowEndTime": 98677
+    },
+    {
+        "text": "I can drive a car.",
+        "startTime": 66300,
+        "endTime": 67813,
+        "slowStartTime": 99600,
+        "slowEndTime": 101944
+    },
+    {
+        "text": "Drive a car, drive a car.",
+        "startTime": 68780,
+        "endTime": 71137,
+        "slowStartTime": 103320,
+        "slowEndTime": 106931
+    },
+    {
+        "text": "I can drive a car.",
+        "startTime": 71229,
+        "endTime": 72906,
+        "slowStartTime": 106994,
+        "slowEndTime": 109584
+    },
+    {
+        "text": "Drive a car.",
+        "startTime": 73520,
+        "endTime": 75455,
+        "slowStartTime": 110430,
+        "slowEndTime": 113407
+    },
+    {
+        "text": "Drive a car.",
+        "startTime": 76148,
+        "endTime": 77163,
+        "slowStartTime": 114372,
+        "slowEndTime": 115969
+    },
+    {
+        "text": "What can you do?",
+        "startTime": 79249,
+        "endTime": 81179,
+        "slowStartTime": 119024,
+        "slowEndTime": 121994
+    }
+]

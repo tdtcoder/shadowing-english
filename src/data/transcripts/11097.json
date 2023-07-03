@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Could you give Sam a message for me when he gets in? Ready?",
+        "startTime": 2100,
+        "endTime": 5640,
+        "slowStartTime": 3250,
+        "slowEndTime": 8535
+    },
+    {
+        "text": "Go ahead.",
+        "startTime": 5940,
+        "endTime": 6540,
+        "slowStartTime": 9060,
+        "slowEndTime": 9825
+    },
+    {
+        "text": "His sister, Myra is arriving tonight, but I'm tied up at work.",
+        "startTime": 6940,
+        "endTime": 11010,
+        "slowStartTime": 10520,
+        "slowEndTime": 16490
+    },
+    {
+        "text": "Excuse me, could you spell her name for me?",
+        "startTime": 11910,
+        "endTime": 14740,
+        "slowStartTime": 17960,
+        "slowEndTime": 22065
+    },
+    {
+        "text": "That's M Y R A.",
+        "startTime": 15080,
+        "endTime": 18250,
+        "slowStartTime": 22695,
+        "slowEndTime": 27470
+    },
+    {
+        "text": "She's on the 7:50 flight from Denver.",
+        "startTime": 18650,
+        "endTime": 21220,
+        "slowStartTime": 28110,
+        "slowEndTime": 31775
+    },
+    {
+        "text": "Pardon me, did you say 7:15?",
+        "startTime": 21620,
+        "endTime": 24620,
+        "slowStartTime": 32570,
+        "slowEndTime": 36985
+    },
+    {
+        "text": "No. 50. Five zero. From Denver.",
+        "startTime": 24820,
+        "endTime": 28590,
+        "slowStartTime": 37250,
+        "slowEndTime": 42925
+    },
+    {
+        "text": "It's very important that he get this information and there are not any mistakes.",
+        "startTime": 28960,
+        "endTime": 32985,
+        "slowStartTime": 43530,
+        "slowEndTime": 49555
+    },
+    {
+        "text": "Can you read that back to me, please?",
+        "startTime": 33300,
+        "endTime": 35200,
+        "slowStartTime": 50020,
+        "slowEndTime": 52890
+    },
+    {
+        "text": "OK. Myra is arriving tonight from Denver at 7:50.",
+        "startTime": 35460,
+        "endTime": 40000,
+        "slowStartTime": 53345,
+        "slowEndTime": 59965
+    },
+    {
+        "text": "I'll give him the message.",
+        "startTime": 40500,
+        "endTime": 41670,
+        "slowStartTime": 60835,
+        "slowEndTime": 62545
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "text": "This is a really nice place you have, Kathy.",
+        "startTime": 1847,
+        "endTime": 4227,
+        "slowStartTime": 2920,
+        "slowEndTime": 6565
+    },
+    {
+        "text": "Yes, I really love the way you've decorated it, too.",
+        "startTime": 4816,
+        "endTime": 7610,
+        "slowStartTime": 7374,
+        "slowEndTime": 11640
+    },
+    {
+        "text": "Thanks guys. I'm glad you like it here.",
+        "startTime": 7979,
+        "endTime": 10359,
+        "slowStartTime": 12118,
+        "slowEndTime": 15764
+    },
+    {
+        "text": "I hope you can come visit me more often.",
+        "startTime": 10719,
+        "endTime": 12839,
+        "slowStartTime": 16228,
+        "slowEndTime": 19484
+    },
+    {
+        "text": "You can count on it!",
+        "startTime": 13281,
+        "endTime": 14445,
+        "slowStartTime": 20072,
+        "slowEndTime": 21893
+    },
+    {
+        "text": "Oops! Oh no! I just dropped my glass on your table.",
+        "startTime": 14621,
+        "endTime": 18766,
+        "slowStartTime": 22081,
+        "slowEndTime": 28374
+    },
+    {
+        "text": "I'm terribly sorry Kathy.",
+        "startTime": 19203,
+        "endTime": 20641,
+        "slowStartTime": 28954,
+        "slowEndTime": 31187
+    },
+    {
+        "text": "Hey, don't worry about it. No big deal.",
+        "startTime": 21167,
+        "endTime": 23683,
+        "slowStartTime": 31900,
+        "slowEndTime": 35749
+    },
+    {
+        "text": "Okay. Uh, Kathy. I hate to tell you this,...",
+        "startTime": 23994,
+        "endTime": 27223,
+        "slowStartTime": 36141,
+        "slowEndTime": 41060
+    },
+    {
+        "text": "...but I think the glass scratched the table a bit when it fell on it.",
+        "startTime": 27740,
+        "endTime": 30971,
+        "slowStartTime": 41760,
+        "slowEndTime": 46681
+    },
+    {
+        "text": "I'd like to apologize to you for my mistake.",
+        "startTime": 31541,
+        "endTime": 33740,
+        "slowStartTime": 47461,
+        "slowEndTime": 50835
+    },
+    {
+        "text": "Oh, that's just a tiny little scratch.",
+        "startTime": 34111,
+        "endTime": 36305,
+        "slowStartTime": 51316,
+        "slowEndTime": 54683
+    },
+    {
+        "text": "Oh, I'm so sorry. I will pay to get it fixed.",
+        "startTime": 36594,
+        "endTime": 39367,
+        "slowStartTime": 55041,
+        "slowEndTime": 59275
+    },
+    {
+        "text": "It won't happen again.",
+        "startTime": 39537,
+        "endTime": 40595,
+        "slowStartTime": 59455,
+        "slowEndTime": 61117
+    },
+    {
+        "text": "No, it's not even worth worrying about.",
+        "startTime": 40925,
+        "endTime": 43131,
+        "slowStartTime": 61537,
+        "slowEndTime": 64922
+    },
+    {
+        "text": "It's not really your fault, since the glass was slippery.",
+        "startTime": 43387,
+        "endTime": 46304,
+        "slowStartTime": 65230,
+        "slowEndTime": 69681
+    }
+]

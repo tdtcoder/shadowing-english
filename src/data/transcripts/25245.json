@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Robots seem magical at times.",
+        "startTime": 3039,
+        "endTime": 5465,
+        "slowStartTime": 4709,
+        "slowEndTime": 8423
+    },
+    {
+        "text": "They can move and act as if they have a life of their own.",
+        "startTime": 7281,
+        "endTime": 10444,
+        "slowStartTime": 11072,
+        "slowEndTime": 15891
+    },
+    {
+        "text": "In movies like \"Star Wars,\" they seem almost human.",
+        "startTime": 11748,
+        "endTime": 15725,
+        "slowStartTime": 17772,
+        "slowEndTime": 23812
+    },
+    {
+        "text": "But in reality, everything a robot does is programmed in advance by the engineers...",
+        "startTime": 18103,
+        "endTime": 22256,
+        "slowStartTime": 27305,
+        "slowEndTime": 33609
+    },
+    {
+        "text": "...who created it.",
+        "startTime": 22355,
+        "endTime": 24223,
+        "slowStartTime": 33683,
+        "slowEndTime": 36559
+    },
+    {
+        "text": "Chad Jenkins of Brown University explains that useful robots...",
+        "startTime": 25979,
+        "endTime": 29879,
+        "slowStartTime": 39119,
+        "slowEndTime": 45044
+    },
+    {
+        "text": "...must be able to sense, plan and act.",
+        "startTime": 30059,
+        "endTime": 33147,
+        "slowStartTime": 45238,
+        "slowEndTime": 49945
+    },
+    {
+        "text": "We have to have robots that can sense and perceive the world,...",
+        "startTime": 33536,
+        "endTime": 36715,
+        "slowStartTime": 50454,
+        "slowEndTime": 55298
+    },
+    {
+        "text": "...that can make decisions that will lead them to a goal,...",
+        "startTime": 37116,
+        "endTime": 39730,
+        "slowStartTime": 55824,
+        "slowEndTime": 59820
+    },
+    {
+        "text": "...and then be able to act in a way that's going to perform that plan.",
+        "startTime": 40038,
+        "endTime": 42989,
+        "slowStartTime": 60207,
+        "slowEndTime": 64709
+    },
+    {
+        "text": "By sensing, the robot takes in information from the world around it.",
+        "startTime": 44533,
+        "endTime": 48985,
+        "slowStartTime": 66950,
+        "slowEndTime": 73703
+    },
+    {
+        "text": "They have to be able to perceive all of those things that we take for granted as humans.",
+        "startTime": 49329,
+        "endTime": 52767,
+        "slowStartTime": 74143,
+        "slowEndTime": 79376
+    },
+    {
+        "text": "Being able to recognize a variety of different objects.",
+        "startTime": 52889,
+        "endTime": 55565,
+        "slowStartTime": 79483,
+        "slowEndTime": 83573
+    },
+    {
+        "text": "Once the robot has gathered information from its senses,...",
+        "startTime": 57632,
+        "endTime": 60729,
+        "slowStartTime": 86598,
+        "slowEndTime": 91318
+    },
+    {
+        "text": "...it needs to analyze that data in its onboard computer...",
+        "startTime": 60915,
+        "endTime": 64461,
+        "slowStartTime": 91522,
+        "slowEndTime": 96916
+    },
+    {
+        "text": "...and plan a response.",
+        "startTime": 64884,
+        "endTime": 66489,
+        "slowStartTime": 97476,
+        "slowEndTime": 99958
+    },
+    {
+        "text": "Finally, once it's sensed the situation and planned a response, the robot needs to act.",
+        "startTime": 67667,
+        "endTime": 73651,
+        "slowStartTime": 101651,
+        "slowEndTime": 110701
+    },
+    {
+        "text": "We essentially are sending commands to the motors of the robot, and the robot is executing that.",
+        "startTime": 74552,
+        "endTime": 79105,
+        "slowStartTime": 111978,
+        "slowEndTime": 118883
+    },
+    {
+        "text": "Variations of this sense, plan, act paradigm power many modern robots.",
+        "startTime": 80139,
+        "endTime": 85251,
+        "slowStartTime": 120358,
+        "slowEndTime": 128101
+    },
+    {
+        "text": "And this loop goes around over and over and over,...",
+        "startTime": 85520,
+        "endTime": 87933,
+        "slowStartTime": 128430,
+        "slowEndTime": 132125
+    },
+    {
+        "text": "...then you're continually sensing, planning and acting.",
+        "startTime": 88364,
+        "endTime": 90536,
+        "slowStartTime": 132696,
+        "slowEndTime": 136029
+    },
+    {
+        "text": "And hopefully, if you've done everything right,...",
+        "startTime": 90799,
+        "endTime": 92426,
+        "slowStartTime": 136348,
+        "slowEndTime": 138864
+    },
+    {
+        "text": "...it should produce the kind of behavior that you wanna see in a robot.",
+        "startTime": 92509,
+        "endTime": 95034,
+        "slowStartTime": 138914,
+        "slowEndTime": 142776
+    }
+]

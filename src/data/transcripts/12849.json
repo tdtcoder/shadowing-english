@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Hi, Susie. Happy Birthday!",
+        "startTime": 2125,
+        "endTime": 3956,
+        "slowStartTime": 3337,
+        "slowEndTime": 6159
+    },
+    {
+        "text": "Hi, Changmin. Thank you, I'm so glad you could make it to the party.",
+        "startTime": 4349,
+        "endTime": 8491,
+        "slowStartTime": 6673,
+        "slowEndTime": 12961
+    },
+    {
+        "text": "Well, I appreciate being invited.",
+        "startTime": 8607,
+        "endTime": 10351,
+        "slowStartTime": 13061,
+        "slowEndTime": 15751
+    },
+    {
+        "text": "It's a very special day for you.",
+        "startTime": 10739,
+        "endTime": 12310,
+        "slowStartTime": 16258,
+        "slowEndTime": 18690
+    },
+    {
+        "text": "I know, although I don't like to think that I'm getting older.",
+        "startTime": 12566,
+        "endTime": 15813,
+        "slowStartTime": 18999,
+        "slowEndTime": 23945
+    },
+    {
+        "text": "Come on, you're still really young.",
+        "startTime": 15974,
+        "endTime": 17883,
+        "slowStartTime": 24111,
+        "slowEndTime": 27049
+    },
+    {
+        "text": "Well, at least I still feel young.",
+        "startTime": 18128,
+        "endTime": 20002,
+        "slowStartTime": 27342,
+        "slowEndTime": 30228
+    },
+    {
+        "text": "I'd like to treat you to dinner.",
+        "startTime": 20351,
+        "endTime": 21728,
+        "slowStartTime": 30676,
+        "slowEndTime": 32817
+    },
+    {
+        "text": "Please help yourself.",
+        "startTime": 21890,
+        "endTime": 22844,
+        "slowStartTime": 32985,
+        "slowEndTime": 34491
+    },
+    {
+        "text": "Well, Susie. I brought yak-gwa for everyone.",
+        "startTime": 23057,
+        "endTime": 26168,
+        "slowStartTime": 34735,
+        "slowEndTime": 39477
+    },
+    {
+        "text": "It's a traditional Korean cookie.",
+        "startTime": 26667,
+        "endTime": 28169,
+        "slowStartTime": 40151,
+        "slowEndTime": 42478
+    },
+    {
+        "text": "It's very delicious. Please try one!",
+        "startTime": 28400,
+        "endTime": 30578,
+        "slowStartTime": 42750,
+        "slowEndTime": 46092
+    },
+    {
+        "text": "Mmmm, they are delicious!",
+        "startTime": 30989,
+        "endTime": 33537,
+        "slowStartTime": 46634,
+        "slowEndTime": 50531
+    },
+    {
+        "text": "Let me put them on the table so everyone can try one.",
+        "startTime": 33919,
+        "endTime": 36505,
+        "slowStartTime": 51029,
+        "slowEndTime": 54983
+    },
+    {
+        "text": "How was dinner? Why don't you have some more?",
+        "startTime": 37323,
+        "endTime": 39841,
+        "slowStartTime": 56134,
+        "slowEndTime": 59987
+    },
+    {
+        "text": "I've had enough.",
+        "startTime": 40026,
+        "endTime": 40889,
+        "slowStartTime": 60189,
+        "slowEndTime": 61558
+    },
+    {
+        "text": "It was really delicious.",
+        "startTime": 41187,
+        "endTime": 42786,
+        "slowStartTime": 61931,
+        "slowEndTime": 64404
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 42927,
+        "endTime": 43412,
+        "slowStartTime": 64540,
+        "slowEndTime": 65343
+    }
+]

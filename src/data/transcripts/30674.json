@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Let us start with just a basic question, Mark.",
+        "startTime": 1090,
+        "endTime": 3737,
+        "slowStartTime": 1785,
+        "slowEndTime": 5830
+    },
+    {
+        "text": "What happened?",
+        "startTime": 3840,
+        "endTime": 4735,
+        "slowStartTime": 5910,
+        "slowEndTime": 7328
+    },
+    {
+        "text": "What went wrong?",
+        "startTime": 4925,
+        "endTime": 5613,
+        "slowStartTime": 7537,
+        "slowEndTime": 8644
+    },
+    {
+        "text": "So, this was a major breach of trust and I'm really sorry that this happened.",
+        "startTime": 5989,
+        "endTime": 10833,
+        "slowStartTime": 9133,
+        "slowEndTime": 16474
+    },
+    {
+        "text": "We have a basic responsibility to protect people's data.",
+        "startTime": 11697,
+        "endTime": 14729,
+        "slowStartTime": 17696,
+        "slowEndTime": 22318
+    },
+    {
+        "text": "And if we can't do that, then we don't deserve to have the opportunity to serve people.",
+        "startTime": 14894,
+        "endTime": 19455,
+        "slowStartTime": 22491,
+        "slowEndTime": 29408
+    },
+    {
+        "text": "So, our responsibility now is to make sure that this doesn't happen again.",
+        "startTime": 20237,
+        "endTime": 24335,
+        "slowStartTime": 30506,
+        "slowEndTime": 36728
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Beyond the gates of mighty kingdoms,...",
+        "startTime": 18950,
+        "endTime": 22000,
+        "slowStartTime": 28500,
+        "slowEndTime": 33270
+    },
+    {
+        "text": "...lies a vast, unexplored world.",
+        "startTime": 23050,
+        "endTime": 26900,
+        "slowStartTime": 34750,
+        "slowEndTime": 40670
+    },
+    {
+        "text": "A world of honor.",
+        "startTime": 32150,
+        "endTime": 33900,
+        "slowStartTime": 48320,
+        "slowEndTime": 51110
+    },
+    {
+        "text": "A world of mystery.",
+        "startTime": 43500,
+        "endTime": 45700,
+        "slowStartTime": 65375,
+        "slowEndTime": 68850
+    },
+    {
+        "text": "A world of danger.",
+        "startTime": 52900,
+        "endTime": 55150,
+        "slowStartTime": 79350,
+        "slowEndTime": 83000
+    },
+    {
+        "text": "The World of Warcraft.",
+        "startTime": 76650,
+        "endTime": 79850,
+        "slowStartTime": 115050,
+        "slowEndTime": 120000
+    }
+]

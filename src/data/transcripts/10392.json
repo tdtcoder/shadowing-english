@@ -1,0 +1,170 @@
+[
+    {
+        "text": "Could you tell me your name please?",
+        "startTime": 800,
+        "endTime": 3000,
+        "slowStartTime": 1500,
+        "slowEndTime": 4800
+    },
+    {
+        "text": "Chen Hui. My English name is Charles.",
+        "startTime": 3550,
+        "endTime": 7200,
+        "slowStartTime": 5500,
+        "slowEndTime": 11100
+    },
+    {
+        "text": "What kind of place do you live in? A house, a flat, or a dormitory?",
+        "startTime": 8150,
+        "endTime": 13800,
+        "slowStartTime": 12340,
+        "slowEndTime": 20920
+    },
+    {
+        "text": "I live in a flat, on the top floor of a tall building.",
+        "startTime": 14200,
+        "endTime": 18100,
+        "slowStartTime": 21500,
+        "slowEndTime": 27300
+    },
+    {
+        "text": "It's in the northeast of Beijing, in a residential and commercial area.",
+        "startTime": 18700,
+        "endTime": 22867,
+        "slowStartTime": 28200,
+        "slowEndTime": 34526
+    },
+    {
+        "text": "It's quite big for just one person.",
+        "startTime": 23345,
+        "endTime": 25254,
+        "slowStartTime": 35167,
+        "slowEndTime": 38106
+    },
+    {
+        "text": "Do you like living there?",
+        "startTime": 25950,
+        "endTime": 27700,
+        "slowStartTime": 39200,
+        "slowEndTime": 41600
+    },
+    {
+        "text": "Definitely. As I said, it's quite large.",
+        "startTime": 28000,
+        "endTime": 30950,
+        "slowStartTime": 42200,
+        "slowEndTime": 46600
+    },
+    {
+        "text": "There are plenty of facilities and green areas in the neighborhood.",
+        "startTime": 31250,
+        "endTime": 34700,
+        "slowStartTime": 47100,
+        "slowEndTime": 52200
+    },
+    {
+        "text": "For example, there are three parks within walking distance of my home...",
+        "startTime": 35100,
+        "endTime": 39085,
+        "slowStartTime": 52800,
+        "slowEndTime": 58853
+    },
+    {
+        "text": "...and there's a swimming pool nearby.",
+        "startTime": 39444,
+        "endTime": 41299,
+        "slowStartTime": 59316,
+        "slowEndTime": 62173
+    },
+    {
+        "text": "It's fairly quiet, though my neighbors can be a little noisy sometimes.",
+        "startTime": 41500,
+        "endTime": 46200,
+        "slowStartTime": 62400,
+        "slowEndTime": 69700
+    },
+    {
+        "text": "What do you like about the rooms in your home?",
+        "startTime": 46800,
+        "endTime": 49600,
+        "slowStartTime": 70400,
+        "slowEndTime": 74610
+    },
+    {
+        "text": "My flat has a large living room, a kitchen, a bathroom, a hall, and two bedrooms.",
+        "startTime": 50000,
+        "endTime": 56700,
+        "slowStartTime": 75200,
+        "slowEndTime": 85200
+    },
+    {
+        "text": "I like the living room and main bedroom because they are spacious and stay bright all day.",
+        "startTime": 57200,
+        "endTime": 62500,
+        "slowStartTime": 86000,
+        "slowEndTime": 94000
+    },
+    {
+        "text": "The kitchen is not very modern and rather small, but it is good enough for me.",
+        "startTime": 62700,
+        "endTime": 67600,
+        "slowStartTime": 94300,
+        "slowEndTime": 101500
+    },
+    {
+        "text": "How long have you lived there?",
+        "startTime": 68000,
+        "endTime": 69900,
+        "slowStartTime": 102200,
+        "slowEndTime": 105000
+    },
+    {
+        "text": "I've lived there for just over a year and I hope I'll be able to stay there for a lot longer.",
+        "startTime": 70350,
+        "endTime": 75850,
+        "slowStartTime": 105600,
+        "slowEndTime": 114000
+    },
+    {
+        "text": "My landlady is helpful, dealing with any problems quickly and without any fuss.",
+        "startTime": 76350,
+        "endTime": 81000,
+        "slowStartTime": 114700,
+        "slowEndTime": 121700
+    },
+    {
+        "text": "My friends often tell me horror stories about how their landlords treat them.",
+        "startTime": 81400,
+        "endTime": 86100,
+        "slowStartTime": 122200,
+        "slowEndTime": 129300
+    },
+    {
+        "text": "What kind of house or apartment would you like to have in the future?",
+        "startTime": 86750,
+        "endTime": 90400,
+        "slowStartTime": 130200,
+        "slowEndTime": 135800
+    },
+    {
+        "text": "I'd like to have a big house on the outskirts of an historic city.",
+        "startTime": 91050,
+        "endTime": 95100,
+        "slowStartTime": 136700,
+        "slowEndTime": 142970
+    },
+    {
+        "text": "The house would have three floors and a garden where I could relax in summer.",
+        "startTime": 95500,
+        "endTime": 100500,
+        "slowStartTime": 143400,
+        "slowEndTime": 150900
+    },
+    {
+        "text": "Ideally, it would have a swimming pool!",
+        "startTime": 100800,
+        "endTime": 103850,
+        "slowStartTime": 151400,
+        "slowEndTime": 156000
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Did you have lunch?",
+        "startTime": 1730,
+        "endTime": 3177,
+        "slowStartTime": 2745,
+        "slowEndTime": 4990
+    },
+    {
+        "text": "Yes, I did.",
+        "startTime": 4362,
+        "endTime": 5828,
+        "slowStartTime": 6693,
+        "slowEndTime": 8967
+    },
+    {
+        "text": "What did you have? Did you have something yummy?",
+        "startTime": 7013,
+        "endTime": 10493,
+        "slowStartTime": 10670,
+        "slowEndTime": 15964
+    },
+    {
+        "text": "Sure. My mom made me spaghetti.",
+        "startTime": 11678,
+        "endTime": 14466,
+        "slowStartTime": 17667,
+        "slowEndTime": 21924
+    },
+    {
+        "text": "What is that?",
+        "startTime": 16718,
+        "endTime": 17717,
+        "slowStartTime": 25227,
+        "slowEndTime": 26801
+    },
+    {
+        "text": "It is a paper hat. I met someone kind on my way home.",
+        "startTime": 19048,
+        "endTime": 23284,
+        "slowStartTime": 28722,
+        "slowEndTime": 35151
+    },
+    {
+        "text": "He made this hat for me.",
+        "startTime": 23627,
+        "endTime": 25186,
+        "slowStartTime": 35590,
+        "slowEndTime": 38004
+    },
+    {
+        "text": "How nice!",
+        "startTime": 26398,
+        "endTime": 27656,
+        "slowStartTime": 39747,
+        "slowEndTime": 41709
+    },
+    {
+        "text": "Today is Mother's Day, Mother's Day.",
+        "startTime": 32863,
+        "endTime": 36259,
+        "slowStartTime": 49445,
+        "slowEndTime": 54613
+    },
+    {
+        "text": "I want to do something special for my mom.",
+        "startTime": 36637,
+        "endTime": 40089,
+        "slowStartTime": 55105,
+        "slowEndTime": 60359
+    },
+    {
+        "text": "Scramble, scramble, first we make her eggs.",
+        "startTime": 40391,
+        "endTime": 43861,
+        "slowStartTime": 60736,
+        "slowEndTime": 66016
+    },
+    {
+        "text": "Sizzle, sizzle, then we make her bacon.",
+        "startTime": 44148,
+        "endTime": 47623,
+        "slowStartTime": 66372,
+        "slowEndTime": 71659
+    },
+    {
+        "text": "Pop, pop, then we make her toast.",
+        "startTime": 48030,
+        "endTime": 51351,
+        "slowStartTime": 72195,
+        "slowEndTime": 77251
+    },
+    {
+        "text": "Pour, pour, then we make her juice.",
+        "startTime": 51863,
+        "endTime": 55309,
+        "slowStartTime": 77945,
+        "slowEndTime": 83189
+    },
+    {
+        "text": "Done, done, we put it on a tray.",
+        "startTime": 55617,
+        "endTime": 58783,
+        "slowStartTime": 83576,
+        "slowEndTime": 88400
+    },
+    {
+        "text": "We say, \"Happy Mother's Day! We love you!\"",
+        "startTime": 59132,
+        "endTime": 62392,
+        "slowStartTime": 88848,
+        "slowEndTime": 93813
+    }
+]

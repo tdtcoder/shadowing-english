@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Where are you going, Brian?",
+        "startTime": 2539,
+        "endTime": 4199,
+        "slowStartTime": 3959,
+        "slowEndTime": 6524
+    },
+    {
+        "text": "I run to buy apples.",
+        "startTime": 5500,
+        "endTime": 7562,
+        "slowStartTime": 8400,
+        "slowEndTime": 11568
+    },
+    {
+        "text": "I need apples for my salad.",
+        "startTime": 8323,
+        "endTime": 10752,
+        "slowStartTime": 12635,
+        "slowEndTime": 16353
+    },
+    {
+        "text": "Where is Diana going?",
+        "startTime": 13579,
+        "endTime": 15136,
+        "slowStartTime": 20519,
+        "slowEndTime": 22929
+    },
+    {
+        "text": "She runs to meet Jake.",
+        "startTime": 16471,
+        "endTime": 18271,
+        "slowStartTime": 24856,
+        "slowEndTime": 27631
+    },
+    {
+        "text": "She likes Jake a lot.",
+        "startTime": 18553,
+        "endTime": 20197,
+        "slowStartTime": 27979,
+        "slowEndTime": 30521
+    },
+    {
+        "text": "Where are they going?",
+        "startTime": 22673,
+        "endTime": 24058,
+        "slowStartTime": 34159,
+        "slowEndTime": 36312
+    },
+    {
+        "text": "They run to play soccer.",
+        "startTime": 24858,
+        "endTime": 27056,
+        "slowStartTime": 37437,
+        "slowEndTime": 40809
+    },
+    {
+        "text": "They like playing soccer with their friends.",
+        "startTime": 27706,
+        "endTime": 30750,
+        "slowStartTime": 41709,
+        "slowEndTime": 46350
+    },
+    {
+        "text": "The rabbit says, \"The sky is falling, falling, falling.\"",
+        "startTime": 37389,
+        "endTime": 41989,
+        "slowStartTime": 56234,
+        "slowEndTime": 63208
+    },
+    {
+        "text": "The owl says, \"No, no, no. A nut is falling from the sky.\"",
+        "startTime": 44897,
+        "endTime": 51185,
+        "slowStartTime": 67495,
+        "slowEndTime": 77002
+    },
+    {
+        "text": "The fox says, \"The sky is falling, falling, falling.\"",
+        "startTime": 52374,
+        "endTime": 57009,
+        "slowStartTime": 78711,
+        "slowEndTime": 85738
+    },
+    {
+        "text": "The owl says, \"No, no, no. A nut is falling from the sky.\"",
+        "startTime": 59917,
+        "endTime": 66168,
+        "slowStartTime": 90026,
+        "slowEndTime": 99477
+    },
+    {
+        "text": "The bear says, \"The sky is falling, falling, falling.\"",
+        "startTime": 67353,
+        "endTime": 71964,
+        "slowStartTime": 101179,
+        "slowEndTime": 108171
+    },
+    {
+        "text": "The owl says, \"No, no, no. A nut is falling from the sky.\"",
+        "startTime": 74883,
+        "endTime": 81169,
+        "slowStartTime": 112474,
+        "slowEndTime": 121978
+    },
+    {
+        "text": "The squirrel says, \"The sky is falling, falling, falling.\"",
+        "startTime": 82400,
+        "endTime": 87011,
+        "slowStartTime": 123750,
+        "slowEndTime": 130741
+    },
+    {
+        "text": "The owl says, \"No, no, no. A nut is falling from the sky.\"",
+        "startTime": 89920,
+        "endTime": 96151,
+        "slowStartTime": 135030,
+        "slowEndTime": 144452
+    }
+]

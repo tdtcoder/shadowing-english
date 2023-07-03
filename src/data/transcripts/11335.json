@@ -1,0 +1,247 @@
+[
+    {
+        "text": "My name is Dr. Watson. And for many years, I was a good friend of the famous detective Sherlock Holmes.",
+        "startTime": 300,
+        "endTime": 6470,
+        "slowStartTime": 550,
+        "slowEndTime": 9770
+    },
+    {
+        "text": "Holmes and I were eating breakfast when suddenly, Holmes said to me,...",
+        "startTime": 6770,
+        "endTime": 10670,
+        "slowStartTime": 10370,
+        "slowEndTime": 15960
+    },
+    {
+        "text": "...\"I have to go to a place called King's Pyland.\"",
+        "startTime": 11170,
+        "endTime": 14120,
+        "slowStartTime": 16870,
+        "slowEndTime": 21320
+    },
+    {
+        "text": "\"A horse has disappeared from there and the police can't find it.\"",
+        "startTime": 14580,
+        "endTime": 18210,
+        "slowStartTime": 21990,
+        "slowEndTime": 27290
+    },
+    {
+        "text": "\"Why is this horse so important, Holmes?\", I asked.",
+        "startTime": 18650,
+        "endTime": 21880,
+        "slowStartTime": 28070,
+        "slowEndTime": 32890
+    },
+    {
+        "text": "\"Because Watson,\",...",
+        "startTime": 22120,
+        "endTime": 23260,
+        "slowStartTime": 33270,
+        "slowEndTime": 34960
+    },
+    {
+        "text": "...Holmes explained,...",
+        "startTime": 23360,
+        "endTime": 24300,
+        "slowStartTime": 35075,
+        "slowEndTime": 36480
+    },
+    {
+        "text": "...\"it is going to run in a big race called the Wessex Cup.\"",
+        "startTime": 24480,
+        "endTime": 27590,
+        "slowStartTime": 36790,
+        "slowEndTime": 41390
+    },
+    {
+        "text": "\"If it wins, a lot of people who have bet large sums of money on it will win a great deal.\"",
+        "startTime": 27890,
+        "endTime": 32730,
+        "slowStartTime": 41910,
+        "slowEndTime": 49110
+    },
+    {
+        "text": "\"There are also people who don't want it to win.\"",
+        "startTime": 33090,
+        "endTime": 35500,
+        "slowStartTime": 49770,
+        "slowEndTime": 53290
+    },
+    {
+        "text": "Holmes paused, and then he said,...",
+        "startTime": 35800,
+        "endTime": 37670,
+        "slowStartTime": 53770,
+        "slowEndTime": 56500
+    },
+    {
+        "text": "...\"Watson, did you read in the newspaper about John Straker being murdered?\"",
+        "startTime": 37870,
+        "endTime": 42140,
+        "slowStartTime": 56910,
+        "slowEndTime": 63270
+    },
+    {
+        "text": "\"Yes, most newspapers reported the murder.\"",
+        "startTime": 42340,
+        "endTime": 44810,
+        "slowStartTime": 63550,
+        "slowEndTime": 67160
+    },
+    {
+        "text": "\"Well Watson, John Straker was the man who was responsible for looking after the horse,...",
+        "startTime": 45010,
+        "endTime": 49610,
+        "slowStartTime": 67580,
+        "slowEndTime": 74420
+    },
+    {
+        "text": "...training, and exercising it.\"",
+        "startTime": 49880,
+        "endTime": 51680,
+        "slowStartTime": 74910,
+        "slowEndTime": 77560
+    },
+    {
+        "text": "We left the house and went to where the body of John Straker had been found.",
+        "startTime": 52020,
+        "endTime": 56050,
+        "slowStartTime": 78140,
+        "slowEndTime": 84050
+    },
+    {
+        "text": "Suddenly, Colonel Ross whispered something in my ear.",
+        "startTime": 56650,
+        "endTime": 59660,
+        "slowStartTime": 85030,
+        "slowEndTime": 89640
+    },
+    {
+        "text": "\"Why is Mr. Holmes on his hands and knees?\",...",
+        "startTime": 60320,
+        "endTime": 63060,
+        "slowStartTime": 90650,
+        "slowEndTime": 94630
+    },
+    {
+        "text": "...he asked.",
+        "startTime": 63160,
+        "endTime": 63790,
+        "slowStartTime": 94810,
+        "slowEndTime": 95790
+    },
+    {
+        "text": "Before I could reply, Holmes exclaimed,...",
+        "startTime": 64190,
+        "endTime": 66590,
+        "slowStartTime": 96340,
+        "slowEndTime": 100010
+    },
+    {
+        "text": "...\"Hello! What's this?\"",
+        "startTime": 66830,
+        "endTime": 68600,
+        "slowStartTime": 100310,
+        "slowEndTime": 102940
+    },
+    {
+        "text": "He held up a tiny piece of wood.",
+        "startTime": 68900,
+        "endTime": 70900,
+        "slowStartTime": 103430,
+        "slowEndTime": 106375
+    },
+    {
+        "text": "\"It's a match, half-burned here in the mud.\",...",
+        "startTime": 71100,
+        "endTime": 74110,
+        "slowStartTime": 106750,
+        "slowEndTime": 111155
+    },
+    {
+        "text": "...Holmes answered.",
+        "startTime": 74300,
+        "endTime": 75200,
+        "slowStartTime": 111575,
+        "slowEndTime": 112855
+    },
+    {
+        "text": "\"I must have missed it, Mr. Holmes. I'm sorry.\",...",
+        "startTime": 75500,
+        "endTime": 78040,
+        "slowStartTime": 113360,
+        "slowEndTime": 117100
+    },
+    {
+        "text": "...the inspector apologized.",
+        "startTime": 78280,
+        "endTime": 79810,
+        "slowStartTime": 117565,
+        "slowEndTime": 119725
+    },
+    {
+        "text": "\"Don't feel bad. I was actually looking for it.\",...",
+        "startTime": 79910,
+        "endTime": 83010,
+        "slowStartTime": 119950,
+        "slowEndTime": 124495
+    },
+    {
+        "text": "...Holmes told him.",
+        "startTime": 83110,
+        "endTime": 84080,
+        "slowStartTime": 124815,
+        "slowEndTime": 126165
+    },
+    {
+        "text": "\"You expected to find a match?\",...",
+        "startTime": 84380,
+        "endTime": 86020,
+        "slowStartTime": 126685,
+        "slowEndTime": 129190
+    },
+    {
+        "text": "...the inspector asked, very surprised.",
+        "startTime": 86350,
+        "endTime": 88520,
+        "slowStartTime": 129645,
+        "slowEndTime": 132720
+    },
+    {
+        "text": "Holmes gave me one of his thin smiles.",
+        "startTime": 88850,
+        "endTime": 91020,
+        "slowStartTime": 133380,
+        "slowEndTime": 136755
+    },
+    {
+        "text": "\"Yes.\",...",
+        "startTime": 91190,
+        "endTime": 91920,
+        "slowStartTime": 136855,
+        "slowEndTime": 138015
+    },
+    {
+        "text": "...he said.",
+        "startTime": 92190,
+        "endTime": 92720,
+        "slowStartTime": 138385,
+        "slowEndTime": 139235
+    },
+    {
+        "text": "\"You know, Watson, being a detective is like playing the best game in the world.\"",
+        "startTime": 92820,
+        "endTime": 97330,
+        "slowStartTime": 139445,
+        "slowEndTime": 146020
+    },
+    {
+        "text": "\"It's an occupation full of surprises and this game has just started.\"",
+        "startTime": 97730,
+        "endTime": 102430,
+        "slowStartTime": 146660,
+        "slowEndTime": 153675
+    }
+]

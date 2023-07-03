@@ -1,0 +1,205 @@
+[
+    {
+        "text": "Good evening, are you ready to order?",
+        "startTime": 1015,
+        "endTime": 3058,
+        "slowStartTime": 1672,
+        "slowEndTime": 4812
+    },
+    {
+        "text": "Well, first, can you tell me please, what is today's soup?",
+        "startTime": 3661,
+        "endTime": 6904,
+        "slowStartTime": 5641,
+        "slowEndTime": 10581
+    },
+    {
+        "text": "It's bean soup.",
+        "startTime": 7179,
+        "endTime": 8158,
+        "slowStartTime": 10919,
+        "slowEndTime": 12462
+    },
+    {
+        "text": "It's very good.",
+        "startTime": 8334,
+        "endTime": 9203,
+        "slowStartTime": 12651,
+        "slowEndTime": 14030
+    },
+    {
+        "text": "Okay, I'd like soup as a starter...",
+        "startTime": 9571,
+        "endTime": 11863,
+        "slowStartTime": 14506,
+        "slowEndTime": 18019
+    },
+    {
+        "text": "...and then could I have veal escalope for my main course.",
+        "startTime": 12493,
+        "endTime": 15685,
+        "slowStartTime": 18889,
+        "slowEndTime": 23753
+    },
+    {
+        "text": "Is that with salad?",
+        "startTime": 16011,
+        "endTime": 17537,
+        "slowStartTime": 24167,
+        "slowEndTime": 26531
+    },
+    {
+        "text": "With vegetables please.",
+        "startTime": 17945,
+        "endTime": 19289,
+        "slowStartTime": 27067,
+        "slowEndTime": 29158
+    },
+    {
+        "text": "Certainly, madam.",
+        "startTime": 19452,
+        "endTime": 20268,
+        "slowStartTime": 29328,
+        "slowEndTime": 30627
+    },
+    {
+        "text": "I'd like the same for my starter, please.",
+        "startTime": 20672,
+        "endTime": 23215,
+        "slowStartTime": 31158,
+        "slowEndTime": 35048
+    },
+    {
+        "text": "And then I'd like spaghetti bolognese for my main course with salad.",
+        "startTime": 23580,
+        "endTime": 28855,
+        "slowStartTime": 35520,
+        "slowEndTime": 43508
+    },
+    {
+        "text": "And you, sir?",
+        "startTime": 29356,
+        "endTime": 30022,
+        "slowStartTime": 44184,
+        "slowEndTime": 45258
+    },
+    {
+        "text": "Could I have risotto as a starter, please?",
+        "startTime": 30341,
+        "endTime": 32581,
+        "slowStartTime": 45662,
+        "slowEndTime": 49097
+    },
+    {
+        "text": "And then what is chicken amalfi?",
+        "startTime": 33075,
+        "endTime": 34937,
+        "slowStartTime": 49763,
+        "slowEndTime": 52631
+    },
+    {
+        "text": "It's our speciality.",
+        "startTime": 35091,
+        "endTime": 36295,
+        "slowStartTime": 52786,
+        "slowEndTime": 54668
+    },
+    {
+        "text": "It's chicken with tomato and mushroom sauce.",
+        "startTime": 36600,
+        "endTime": 39305,
+        "slowStartTime": 55050,
+        "slowEndTime": 59183
+    },
+    {
+        "text": "That sounds good. I'd like that, please.",
+        "startTime": 39547,
+        "endTime": 41565,
+        "slowStartTime": 59470,
+        "slowEndTime": 62573
+    },
+    {
+        "text": "Would you like something to drink?",
+        "startTime": 42886,
+        "endTime": 44583,
+        "slowStartTime": 64479,
+        "slowEndTime": 67099
+    },
+    {
+        "text": "Mary, Anna, would you like wine?",
+        "startTime": 45142,
+        "endTime": 46669,
+        "slowStartTime": 67863,
+        "slowEndTime": 70229
+    },
+    {
+        "text": "I'd love a glass of red wine.",
+        "startTime": 46880,
+        "endTime": 48067,
+        "slowStartTime": 70470,
+        "slowEndTime": 72326
+    },
+    {
+        "text": "The house wine?",
+        "startTime": 49020,
+        "endTime": 49856,
+        "slowStartTime": 73680,
+        "slowEndTime": 75009
+    },
+    {
+        "text": "Yes, that's fine, thanks.",
+        "startTime": 50227,
+        "endTime": 51479,
+        "slowStartTime": 75490,
+        "slowEndTime": 77444
+    },
+    {
+        "text": "I'd just like some sparkling water.",
+        "startTime": 51754,
+        "endTime": 53957,
+        "slowStartTime": 77781,
+        "slowEndTime": 81161
+    },
+    {
+        "text": "Okay, two glasses of the house red wine and a bottle of sparkling water, please.",
+        "startTime": 54578,
+        "endTime": 59015,
+        "slowStartTime": 82017,
+        "slowEndTime": 88748
+    },
+    {
+        "text": "Very good.",
+        "startTime": 59213,
+        "endTime": 59879,
+        "slowStartTime": 88970,
+        "slowEndTime": 90044
+    },
+    {
+        "text": "They have very good desserts here too.",
+        "startTime": 66601,
+        "endTime": 68701,
+        "slowStartTime": 100052,
+        "slowEndTime": 103276
+    },
+    {
+        "text": "The ice cream is wonderful.",
+        "startTime": 68821,
+        "endTime": 70781,
+        "slowStartTime": 103382,
+        "slowEndTime": 106396
+    },
+    {
+        "text": "Great! I love Italian ice cream.",
+        "startTime": 71111,
+        "endTime": 73724,
+        "slowStartTime": 106817,
+        "slowEndTime": 110811
+    },
+    {
+        "text": "Me too.",
+        "startTime": 73883,
+        "endTime": 74426,
+        "slowStartTime": 110974,
+        "slowEndTime": 111864
+    }
+]

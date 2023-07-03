@@ -1,0 +1,191 @@
+[
+    {
+        "text": "We've got a full load of salads,...",
+        "startTime": 13425,
+        "endTime": 16510,
+        "slowStartTime": 20288,
+        "slowEndTime": 24990
+    },
+    {
+        "text": "...and that's lettuces, radishes, onions, spring onions, and Chinese lettuces.",
+        "startTime": 17171,
+        "endTime": 24035,
+        "slowStartTime": 25906,
+        "slowEndTime": 36278
+    },
+    {
+        "text": "In this room, it is our operation centre.",
+        "startTime": 37661,
+        "endTime": 39657,
+        "slowStartTime": 56641,
+        "slowEndTime": 59710
+    },
+    {
+        "text": "The map on the wall is a tracking system that we use on our vehicles.",
+        "startTime": 39891,
+        "endTime": 45189,
+        "slowStartTime": 59987,
+        "slowEndTime": 68009
+    },
+    {
+        "text": "It shows us where they are, it updates at every ninety seconds...",
+        "startTime": 45917,
+        "endTime": 49553,
+        "slowStartTime": 69025,
+        "slowEndTime": 74555
+    },
+    {
+        "text": "...and we use it to make sure that we are running to schedule.",
+        "startTime": 49653,
+        "endTime": 53082,
+        "slowStartTime": 74630,
+        "slowEndTime": 79848
+    },
+    {
+        "text": "If there's any problems, we then inform the customer,...",
+        "startTime": 53175,
+        "endTime": 55400,
+        "slowStartTime": 79912,
+        "slowEndTime": 83325
+    },
+    {
+        "text": "...and if we have any problems, say with a breakdown or traffic issues,...",
+        "startTime": 56640,
+        "endTime": 60778,
+        "slowStartTime": 85110,
+        "slowEndTime": 91392
+    },
+    {
+        "text": "...we use it to locate the vehicle and see which ones can help...",
+        "startTime": 60863,
+        "endTime": 64325,
+        "slowStartTime": 91444,
+        "slowEndTime": 96712
+    },
+    {
+        "text": "...or to direct vehicles around any problems.",
+        "startTime": 64464,
+        "endTime": 67445,
+        "slowStartTime": 96846,
+        "slowEndTime": 101392
+    },
+    {
+        "text": "That shows our current delivery on time status for our main customers.",
+        "startTime": 69483,
+        "endTime": 73534,
+        "slowStartTime": 104374,
+        "slowEndTime": 110526
+    },
+    {
+        "text": "The main customer we do from this site is supermarket destination Tesco's,...",
+        "startTime": 74144,
+        "endTime": 78672,
+        "slowStartTime": 111366,
+        "slowEndTime": 118233
+    },
+    {
+        "text": "...so we show that separately,...",
+        "startTime": 78749,
+        "endTime": 79829,
+        "slowStartTime": 118273,
+        "slowEndTime": 119969
+    },
+    {
+        "text": "...but we also show a separate set of figures for all the other work that's done...",
+        "startTime": 80551,
+        "endTime": 83843,
+        "slowStartTime": 120976,
+        "slowEndTime": 125989
+    },
+    {
+        "text": "...within this part of the operation.",
+        "startTime": 83981,
+        "endTime": 85609,
+        "slowStartTime": 126121,
+        "slowEndTime": 128639
+    },
+    {
+        "text": "So that the guys can focus making sure we achieve at least ninety percent delivery on time.",
+        "startTime": 86075,
+        "endTime": 92283,
+        "slowStartTime": 129263,
+        "slowEndTime": 138649
+    },
+    {
+        "text": "Which doesn't sound that much but that doesn't take into account...",
+        "startTime": 92436,
+        "endTime": 95858,
+        "slowStartTime": 138804,
+        "slowEndTime": 144012
+    },
+    {
+        "text": "...any road problems, any breakdowns, any of that comes out of our ten percent.",
+        "startTime": 95952,
+        "endTime": 100281,
+        "slowStartTime": 144078,
+        "slowEndTime": 150647
+    },
+    {
+        "text": "One little accident causes us a lot of problems.",
+        "startTime": 102135,
+        "endTime": 104369,
+        "slowStartTime": 153352,
+        "slowEndTime": 156778
+    },
+    {
+        "text": "Basically, from this site here we operate all the temperature-controlled trailers.",
+        "startTime": 106179,
+        "endTime": 110111,
+        "slowStartTime": 159418,
+        "slowEndTime": 165392
+    },
+    {
+        "text": "We control them.",
+        "startTime": 110192,
+        "endTime": 110833,
+        "slowStartTime": 165438,
+        "slowEndTime": 166474
+    },
+    {
+        "text": "There is about 440.",
+        "startTime": 110918,
+        "endTime": 113348,
+        "slowStartTime": 166527,
+        "slowEndTime": 170247
+    },
+    {
+        "text": "We utilise them through our other sites, throughout the country...",
+        "startTime": 114140,
+        "endTime": 116661,
+        "slowStartTime": 171360,
+        "slowEndTime": 175216
+    },
+    {
+        "text": "...that also work on the same operation.",
+        "startTime": 116740,
+        "endTime": 118573,
+        "slowStartTime": 175260,
+        "slowEndTime": 178085
+    },
+    {
+        "text": "But any information that is put into any of our traffic management systems feeds onto that board,...",
+        "startTime": 118665,
+        "endTime": 125402,
+        "slowStartTime": 178148,
+        "slowEndTime": 188328
+    },
+    {
+        "text": "...it shows what vehicle, what trailers are available, which ones are due for service,...",
+        "startTime": 125507,
+        "endTime": 130015,
+        "slowStartTime": 188411,
+        "slowEndTime": 195248
+    },
+    {
+        "text": "...which ones are released and due for service shortly.",
+        "startTime": 130103,
+        "endTime": 133921,
+        "slowStartTime": 195305,
+        "slowEndTime": 201106
+    }
+]

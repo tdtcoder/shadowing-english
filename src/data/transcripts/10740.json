@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Every year around the same period,...",
+        "startTime": 300,
+        "endTime": 2665,
+        "slowStartTime": 450,
+        "slowEndTime": 3985
+    },
+    {
+        "text": "...December through March,...",
+        "startTime": 3100,
+        "endTime": 4575,
+        "slowStartTime": 4715,
+        "slowEndTime": 6915
+    },
+    {
+        "text": "...they install a huge ice rink in front of the Hotel de Ville, town hall,...",
+        "startTime": 5055,
+        "endTime": 11070,
+        "slowStartTime": 7710,
+        "slowEndTime": 16945
+    },
+    {
+        "text": "...where Parisians can skate for free until midnight.",
+        "startTime": 11700,
+        "endTime": 15980,
+        "slowStartTime": 17715,
+        "slowEndTime": 24000
+    },
+    {
+        "text": "That is, providing you have your own blades, of course.",
+        "startTime": 17220,
+        "endTime": 20660,
+        "slowStartTime": 25950,
+        "slowEndTime": 31065
+    },
+    {
+        "text": "Otherwise, you have to rent some.",
+        "startTime": 20950,
+        "endTime": 23455,
+        "slowStartTime": 31485,
+        "slowEndTime": 35175
+    },
+    {
+        "text": "I love the idea...",
+        "startTime": 24120,
+        "endTime": 25495,
+        "slowStartTime": 36325,
+        "slowEndTime": 38265
+    },
+    {
+        "text": "...even if I only tried it once!",
+        "startTime": 25825,
+        "endTime": 27925,
+        "slowStartTime": 38910,
+        "slowEndTime": 41980
+    }
+]

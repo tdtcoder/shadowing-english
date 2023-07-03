@@ -1,0 +1,170 @@
+[
+    {
+        "text": "Adjectives formed with an \"ed\" describe what someone feels...",
+        "startTime": 150,
+        "endTime": 4065,
+        "slowStartTime": 148,
+        "slowEndTime": 6322
+    },
+    {
+        "text": "...while those formed with an \"ing\" show what someone or something is.",
+        "startTime": 4192,
+        "endTime": 9192,
+        "slowStartTime": 6438,
+        "slowEndTime": 14013
+    },
+    {
+        "text": "I am bored in this class.",
+        "startTime": 12366,
+        "endTime": 15779,
+        "slowStartTime": 18699,
+        "slowEndTime": 23894
+    },
+    {
+        "text": "This class is boring.",
+        "startTime": 16759,
+        "endTime": 18789,
+        "slowStartTime": 25288,
+        "slowEndTime": 28409
+    },
+    {
+        "text": "I am usually disappointed by movie sequels.",
+        "startTime": 23123,
+        "endTime": 25335,
+        "slowStartTime": 34835,
+        "slowEndTime": 38227
+    },
+    {
+        "text": "Movie sequels are usually disappointing.",
+        "startTime": 26385,
+        "endTime": 29031,
+        "slowStartTime": 39728,
+        "slowEndTime": 43772
+    },
+    {
+        "text": "She is really tired.",
+        "startTime": 33357,
+        "endTime": 35612,
+        "slowStartTime": 50186,
+        "slowEndTime": 53643
+    },
+    {
+        "text": "The day was long and tiring.",
+        "startTime": 36605,
+        "endTime": 38859,
+        "slowStartTime": 55057,
+        "slowEndTime": 58514
+    },
+    {
+        "text": "She is excited by the news I told her.",
+        "startTime": 43227,
+        "endTime": 45509,
+        "slowStartTime": 64991,
+        "slowEndTime": 68489
+    },
+    {
+        "text": "The news is exciting.",
+        "startTime": 46227,
+        "endTime": 48110,
+        "slowStartTime": 69490,
+        "slowEndTime": 72390
+    },
+    {
+        "text": "I am pleased by the light from the lamp.",
+        "startTime": 52427,
+        "endTime": 54325,
+        "slowStartTime": 78790,
+        "slowEndTime": 81712
+    },
+    {
+        "text": "The lamp produces a pleasing light.",
+        "startTime": 55386,
+        "endTime": 57787,
+        "slowStartTime": 83229,
+        "slowEndTime": 86905
+    },
+    {
+        "text": "The women were saddened by the bad news.",
+        "startTime": 62365,
+        "endTime": 65107,
+        "slowStartTime": 93698,
+        "slowEndTime": 97886
+    },
+    {
+        "text": "The news was saddening to them.",
+        "startTime": 65701,
+        "endTime": 67847,
+        "slowStartTime": 98701,
+        "slowEndTime": 101996
+    },
+    {
+        "text": "She is depressed by the movie.",
+        "startTime": 73094,
+        "endTime": 75197,
+        "slowStartTime": 109791,
+        "slowEndTime": 113020
+    },
+    {
+        "text": "The movie is depressing.",
+        "startTime": 75834,
+        "endTime": 78176,
+        "slowStartTime": 113901,
+        "slowEndTime": 117489
+    },
+    {
+        "text": "The boy is amazed by the view.",
+        "startTime": 82249,
+        "endTime": 84286,
+        "slowStartTime": 123523,
+        "slowEndTime": 126654
+    },
+    {
+        "text": "The view is amazing.",
+        "startTime": 85161,
+        "endTime": 88010,
+        "slowStartTime": 127892,
+        "slowEndTime": 132240
+    },
+    {
+        "text": "He's interested in acting.",
+        "startTime": 92215,
+        "endTime": 93971,
+        "slowStartTime": 138473,
+        "slowEndTime": 141181
+    },
+    {
+        "text": "He finds acting interesting.",
+        "startTime": 94947,
+        "endTime": 96888,
+        "slowStartTime": 142571,
+        "slowEndTime": 145557
+    },
+    {
+        "text": "She's intrigued by the man.",
+        "startTime": 101023,
+        "endTime": 102771,
+        "slowStartTime": 151684,
+        "slowEndTime": 154381
+    },
+    {
+        "text": "She thinks the man is intriguing.",
+        "startTime": 103591,
+        "endTime": 106321,
+        "slowStartTime": 155537,
+        "slowEndTime": 159706
+    },
+    {
+        "text": "She was surprised by the news.",
+        "startTime": 110495,
+        "endTime": 112249,
+        "slowStartTime": 165893,
+        "slowEndTime": 168598
+    },
+    {
+        "text": "The news was surprising to her.",
+        "startTime": 113375,
+        "endTime": 115049,
+        "slowStartTime": 170212,
+        "slowEndTime": 172799
+    }
+]

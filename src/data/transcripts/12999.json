@@ -1,0 +1,282 @@
+[
+    {
+        "text": "So, I get to talk about iCloud.",
+        "startTime": 535,
+        "endTime": 2890,
+        "slowStartTime": 953,
+        "slowEndTime": 4560
+    },
+    {
+        "text": "We've been working on this for some time now...",
+        "startTime": 3389,
+        "endTime": 5495,
+        "slowStartTime": 5234,
+        "slowEndTime": 8468
+    },
+    {
+        "text": "...and we're really excited about it.",
+        "startTime": 6090,
+        "endTime": 7775,
+        "slowStartTime": 9285,
+        "slowEndTime": 11888
+    },
+    {
+        "text": "About 10 years ago, we had one of our most important insights.",
+        "startTime": 9543,
+        "endTime": 14593,
+        "slowStartTime": 14464,
+        "slowEndTime": 22114
+    },
+    {
+        "text": "And that was that the PC was gonna become the digital hub for your digital life.",
+        "startTime": 15206,
+        "endTime": 22710,
+        "slowStartTime": 22959,
+        "slowEndTime": 34290
+    },
+    {
+        "text": "What did that mean?",
+        "startTime": 23838,
+        "endTime": 24475,
+        "slowStartTime": 35907,
+        "slowEndTime": 36938
+    },
+    {
+        "text": "Well, it meant that that's where you were gonna put your digital photos.",
+        "startTime": 24625,
+        "endTime": 28295,
+        "slowStartTime": 37088,
+        "slowEndTime": 42667
+    },
+    {
+        "text": "Where else were you gonna put them?",
+        "startTime": 28397,
+        "endTime": 29514,
+        "slowStartTime": 42746,
+        "slowEndTime": 44496
+    },
+    {
+        "text": "Your digital video off your digital camcorder.",
+        "startTime": 31125,
+        "endTime": 33588,
+        "slowStartTime": 46838,
+        "slowEndTime": 50607
+    },
+    {
+        "text": "And of course, your music.",
+        "startTime": 34369,
+        "endTime": 35779,
+        "slowStartTime": 51704,
+        "slowEndTime": 53893
+    },
+    {
+        "text": "Right? You were gonna acquire it in a device or potentially on your Mac...",
+        "startTime": 36581,
+        "endTime": 41159,
+        "slowStartTime": 55022,
+        "slowEndTime": 61963
+    },
+    {
+        "text": "...and you were gonna basically sync it to the Mac and everything was gonna work fine.",
+        "startTime": 42529,
+        "endTime": 47490,
+        "slowStartTime": 63943,
+        "slowEndTime": 71460
+    },
+    {
+        "text": "And it did, for the better part of 10 years.",
+        "startTime": 48202,
+        "endTime": 51577,
+        "slowStartTime": 72453,
+        "slowEndTime": 77590
+    },
+    {
+        "text": "But it's broken down in the last few years.",
+        "startTime": 52219,
+        "endTime": 55833,
+        "slowStartTime": 78478,
+        "slowEndTime": 83975
+    },
+    {
+        "text": "Why? Well, because the devices have changed.",
+        "startTime": 57028,
+        "endTime": 61262,
+        "slowStartTime": 85692,
+        "slowEndTime": 92118
+    },
+    {
+        "text": "They now all have music.",
+        "startTime": 61915,
+        "endTime": 63913,
+        "slowStartTime": 93023,
+        "slowEndTime": 96094
+    },
+    {
+        "text": "They now all have photos.",
+        "startTime": 64401,
+        "endTime": 66185,
+        "slowStartTime": 96752,
+        "slowEndTime": 99503
+    },
+    {
+        "text": "They now all have video.",
+        "startTime": 66860,
+        "endTime": 68423,
+        "slowStartTime": 100440,
+        "slowEndTime": 102859
+    },
+    {
+        "text": "And so, if I acquire a song, I buy it right on my iPhone.",
+        "startTime": 69075,
+        "endTime": 73951,
+        "slowStartTime": 103763,
+        "slowEndTime": 111152
+    },
+    {
+        "text": "I wanna get that to my other devices.",
+        "startTime": 74872,
+        "endTime": 77055,
+        "slowStartTime": 112458,
+        "slowEndTime": 115808
+    },
+    {
+        "text": "Right? I pick up my iPad and it doesn't have that song on it.",
+        "startTime": 77573,
+        "endTime": 80236,
+        "slowStartTime": 116509,
+        "slowEndTime": 120579
+    },
+    {
+        "text": "And we think this solution is our next big insight.",
+        "startTime": 80849,
+        "endTime": 83574,
+        "slowStartTime": 121424,
+        "slowEndTime": 125586
+    },
+    {
+        "text": "Which is, we're gonna demote the PC and the Mac to just be a device.",
+        "startTime": 84211,
+        "endTime": 89741,
+        "slowStartTime": 126467,
+        "slowEndTime": 134836
+    },
+    {
+        "text": "Just like an iPhone, an iPad or an iPod touch.",
+        "startTime": 90433,
+        "endTime": 93762,
+        "slowStartTime": 135800,
+        "slowEndTime": 140868
+    },
+    {
+        "text": "And we're going to move the digital hub, the center of your digital life, into the cloud.",
+        "startTime": 94902,
+        "endTime": 100814,
+        "slowStartTime": 142503,
+        "slowEndTime": 151446
+    },
+    {
+        "text": "Because all these new devices have communications built into them,...",
+        "startTime": 101816,
+        "endTime": 105333,
+        "slowStartTime": 152874,
+        "slowEndTime": 158224
+    },
+    {
+        "text": "...they can all talk to the cloud whenever they want.",
+        "startTime": 105721,
+        "endTime": 108508,
+        "slowStartTime": 158732,
+        "slowEndTime": 162987
+    },
+    {
+        "text": "And so now, if i get something on my iPhone, it sends up to the cloud immediately.",
+        "startTime": 109829,
+        "endTime": 116413,
+        "slowStartTime": 164893,
+        "slowEndTime": 174844
+    },
+    {
+        "text": "Let's say, I take some pictures with it.",
+        "startTime": 116514,
+        "endTime": 118275,
+        "slowStartTime": 174921,
+        "slowEndTime": 177638
+    },
+    {
+        "text": "Those pictures are in the cloud and they are now...",
+        "startTime": 118899,
+        "endTime": 121851,
+        "slowStartTime": 178499,
+        "slowEndTime": 183001
+    },
+    {
+        "text": "...pushed down to my devices, completely automatically.",
+        "startTime": 122149,
+        "endTime": 125772,
+        "slowStartTime": 183373,
+        "slowEndTime": 188883
+    },
+    {
+        "text": "Now, iCloud stores your content in the cloud and wirelessly pushes it to all your devices.",
+        "startTime": 126599,
+        "endTime": 135205,
+        "slowStartTime": 190049,
+        "slowEndTime": 203033
+    },
+    {
+        "text": "So, as an example, in contacts, when I make a new contact...",
+        "startTime": 135843,
+        "endTime": 141257,
+        "slowStartTime": 203915,
+        "slowEndTime": 212111
+    },
+    {
+        "text": "...on my iPhone, it's automatically brought up to the cloud where it's stored on the cloud.",
+        "startTime": 141591,
+        "endTime": 146323,
+        "slowStartTime": 212537,
+        "slowEndTime": 219710
+    },
+    {
+        "text": "Right? The truth is on the cloud.",
+        "startTime": 146971,
+        "endTime": 148548,
+        "slowStartTime": 220606,
+        "slowEndTime": 223047
+    },
+    {
+        "text": "And then, it's automatically pushed down to my other devices so they're all in sync.",
+        "startTime": 149125,
+        "endTime": 153716,
+        "slowStartTime": 223838,
+        "slowEndTime": 230799
+    },
+    {
+        "text": "So, these are the three apps that form the core of MobileMe.",
+        "startTime": 154123,
+        "endTime": 158121,
+        "slowStartTime": 231335,
+        "slowEndTime": 237407
+    },
+    {
+        "text": "We used to sell them for a subscription price of 99 dollars annually.",
+        "startTime": 158982,
+        "endTime": 163546,
+        "slowStartTime": 238623,
+        "slowEndTime": 245544
+    },
+    {
+        "text": "As of today, this product ceases to exist.",
+        "startTime": 164325,
+        "endTime": 167602,
+        "slowStartTime": 246637,
+        "slowEndTime": 251628
+    },
+    {
+        "text": "And those three apps are now gonna be free.",
+        "startTime": 169055,
+        "endTime": 171111,
+        "slowStartTime": 253733,
+        "slowEndTime": 256892
+    }
+]

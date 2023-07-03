@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Antigua is a place worth visiting...",
+        "startTime": 3250,
+        "endTime": 4937,
+        "slowStartTime": 5025,
+        "slowEndTime": 7631
+    },
+    {
+        "text": "...because it's a spot in Central America where cultures blend...",
+        "startTime": 5025,
+        "endTime": 7779,
+        "slowStartTime": 7688,
+        "slowEndTime": 11894
+    },
+    {
+        "text": "...and time seems to have stood still.",
+        "startTime": 7861,
+        "endTime": 9607,
+        "slowStartTime": 11941,
+        "slowEndTime": 14635
+    },
+    {
+        "text": "It's a colonial city, well-preserved.",
+        "startTime": 10201,
+        "endTime": 12707,
+        "slowStartTime": 15451,
+        "slowEndTime": 19285
+    },
+    {
+        "text": "It's not just a section.",
+        "startTime": 12783,
+        "endTime": 13913,
+        "slowStartTime": 19324,
+        "slowEndTime": 21095
+    },
+    {
+        "text": "It's the whole city.",
+        "startTime": 14001,
+        "endTime": 15026,
+        "slowStartTime": 21152,
+        "slowEndTime": 22764
+    },
+    {
+        "text": "And what we see now is exactly the same city back in the 18th century.",
+        "startTime": 15412,
+        "endTime": 19629,
+        "slowStartTime": 23268,
+        "slowEndTime": 29669
+    },
+    {
+        "text": "There is something for everybody to love.",
+        "startTime": 21233,
+        "endTime": 23370,
+        "slowStartTime": 31999,
+        "slowEndTime": 35280
+    },
+    {
+        "text": "If you want to have good food, you come here.",
+        "startTime": 23480,
+        "endTime": 25294,
+        "slowStartTime": 35370,
+        "slowEndTime": 38166
+    },
+    {
+        "text": "If you want to have good shopping, you come here.",
+        "startTime": 25364,
+        "endTime": 27036,
+        "slowStartTime": 38196,
+        "slowEndTime": 40779
+    },
+    {
+        "text": "If you want to see nature, we have volcanoes.",
+        "startTime": 27119,
+        "endTime": 30207,
+        "slowStartTime": 40829,
+        "slowEndTime": 45535
+    },
+    {
+        "text": "A lot of people from all over the world come to Antigua...",
+        "startTime": 34860,
+        "endTime": 37602,
+        "slowStartTime": 52440,
+        "slowEndTime": 56628
+    },
+    {
+        "text": "...and they get in love with it.",
+        "startTime": 37701,
+        "endTime": 38735,
+        "slowStartTime": 56702,
+        "slowEndTime": 58328
+    },
+    {
+        "text": "Eventually, you'll call home and ask them to send you more clothes.",
+        "startTime": 39361,
+        "endTime": 41928,
+        "slowStartTime": 59191,
+        "slowEndTime": 63117
+    }
+]

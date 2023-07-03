@@ -1,0 +1,79 @@
+[
+    {
+        "text": "﻿Morning.",
+        "startTime": 2097,
+        "endTime": 2413,
+        "slowStartTime": 3296,
+        "slowEndTime": 3844
+    },
+    {
+        "text": "Evans.",
+        "startTime": 4118,
+        "endTime": 4451,
+        "slowStartTime": 6327,
+        "slowEndTime": 6901
+    },
+    {
+        "text": "Downey.",
+        "startTime": 5310,
+        "endTime": 5687,
+        "slowStartTime": 8115,
+        "slowEndTime": 8756
+    },
+    {
+        "text": "Is that the last donut with red, white, and blue sprinkles?",
+        "startTime": 7891,
+        "endTime": 11287,
+        "slowStartTime": 11987,
+        "slowEndTime": 17155
+    },
+    {
+        "text": "What did I tell you would happen if you ate the last donut...",
+        "startTime": 16267,
+        "endTime": 19354,
+        "slowStartTime": 24550,
+        "slowEndTime": 29256
+    },
+    {
+        "text": "...with red, white, and blue sprinkles?",
+        "startTime": 19481,
+        "endTime": 20556,
+        "slowStartTime": 29372,
+        "slowEndTime": 31059
+    },
+    {
+        "text": "I'm a little foggy on it but I think it's something like raining down a hellfire.",
+        "startTime": 20736,
+        "endTime": 24681,
+        "slowStartTime": 31254,
+        "slowEndTime": 37247
+    },
+    {
+        "text": "That's right.",
+        "startTime": 26033,
+        "endTime": 26429,
+        "slowStartTime": 39200,
+        "slowEndTime": 39869
+    },
+    {
+        "text": "And here I am without an umbrella.",
+        "startTime": 28276,
+        "endTime": 29806,
+        "slowStartTime": 42564,
+        "slowEndTime": 44934
+    },
+    {
+        "text": "I feel a storm brewing.",
+        "startTime": 33413,
+        "endTime": 34514,
+        "slowStartTime": 50269,
+        "slowEndTime": 51996
+    },
+    {
+        "text": "Hold on, if we don't play that back I'm canceling the press tour.",
+        "startTime": 40898,
+        "endTime": 44019,
+        "slowStartTime": 61497,
+        "slowEndTime": 66254
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "text": "I am home.",
+        "startTime": 1202,
+        "endTime": 2511,
+        "slowStartTime": 1953,
+        "slowEndTime": 3992
+    },
+    {
+        "text": "I give you comfort.",
+        "startTime": 3849,
+        "endTime": 4926,
+        "slowStartTime": 5924,
+        "slowEndTime": 7614
+    },
+    {
+        "text": "I shelter your family.",
+        "startTime": 6072,
+        "endTime": 7427,
+        "slowStartTime": 9258,
+        "slowEndTime": 11366
+    },
+    {
+        "text": "See me for who I am.",
+        "startTime": 8975,
+        "endTime": 11184,
+        "slowStartTime": 13613,
+        "slowEndTime": 17001
+    },
+    {
+        "text": "Home sweet home.",
+        "startTime": 12165,
+        "endTime": 13752,
+        "slowStartTime": 18398,
+        "slowEndTime": 20853
+    },
+    {
+        "text": "I am your refuge.",
+        "startTime": 15827,
+        "endTime": 16998,
+        "slowStartTime": 23890,
+        "slowEndTime": 25722
+    },
+    {
+        "text": "I am the floor that supports you,...",
+        "startTime": 17996,
+        "endTime": 19981,
+        "slowStartTime": 27144,
+        "slowEndTime": 30197
+    },
+    {
+        "text": "...the foundation that keeps you steady,...",
+        "startTime": 21351,
+        "endTime": 23233,
+        "slowStartTime": 32177,
+        "slowEndTime": 35075
+    },
+    {
+        "text": "...the walls that give you shelter,...",
+        "startTime": 24792,
+        "endTime": 26263,
+        "slowStartTime": 37338,
+        "slowEndTime": 39620
+    },
+    {
+        "text": "...the roof that protects you.",
+        "startTime": 27879,
+        "endTime": 29722,
+        "slowStartTime": 41968,
+        "slowEndTime": 44808
+    },
+    {
+        "text": "I am your home.",
+        "startTime": 32161,
+        "endTime": 33241,
+        "slowStartTime": 48392,
+        "slowEndTime": 50087
+    },
+    {
+        "text": "If you don't take care of me,...",
+        "startTime": 34763,
+        "endTime": 36819,
+        "slowStartTime": 52294,
+        "slowEndTime": 55454
+    },
+    {
+        "text": "...I cannot take care of you.",
+        "startTime": 42263,
+        "endTime": 44723,
+        "slowStartTime": 63544,
+        "slowEndTime": 67309
+    }
+]

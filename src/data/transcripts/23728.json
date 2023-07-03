@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Have you talked to Mary lately?",
+        "startTime": 3041,
+        "endTime": 4641,
+        "slowStartTime": 4711,
+        "slowEndTime": 7187
+    },
+    {
+        "text": "Hey man, sorry to bring it up.",
+        "startTime": 9021,
+        "endTime": 10711,
+        "slowStartTime": 13681,
+        "slowEndTime": 16292
+    },
+    {
+        "text": "We're just worried about you.",
+        "startTime": 10986,
+        "endTime": 12439,
+        "slowStartTime": 16629,
+        "slowEndTime": 18884
+    },
+    {
+        "text": "I'll be honest with you, Tom.",
+        "startTime": 15727,
+        "endTime": 17202,
+        "slowStartTime": 23741,
+        "slowEndTime": 26028
+    },
+    {
+        "text": "I'm angry.",
+        "startTime": 17467,
+        "endTime": 18351,
+        "slowStartTime": 26350,
+        "slowEndTime": 27751
+    },
+    {
+        "text": "I feel foolish for having trusted her.",
+        "startTime": 19223,
+        "endTime": 21175,
+        "slowStartTime": 28985,
+        "slowEndTime": 31988
+    },
+    {
+        "text": "I'm sure you've contemplated leaving...",
+        "startTime": 22545,
+        "endTime": 24245,
+        "slowStartTime": 33967,
+        "slowEndTime": 36593
+    },
+    {
+        "text": "...but I realized, it can be hard when you're in the thick of it.",
+        "startTime": 24348,
+        "endTime": 26602,
+        "slowStartTime": 36672,
+        "slowEndTime": 40128
+    },
+    {
+        "text": "Me, I didn't find out until after I left...",
+        "startTime": 26931,
+        "endTime": 29680,
+        "slowStartTime": 40547,
+        "slowEndTime": 44745
+    },
+    {
+        "text": "...that she didn't think it was working either.",
+        "startTime": 29787,
+        "endTime": 31501,
+        "slowStartTime": 44830,
+        "slowEndTime": 47476
+    }
+]

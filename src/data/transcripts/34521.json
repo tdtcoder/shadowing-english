@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Hi! I'm home.",
+        "startTime": 988,
+        "endTime": 2285,
+        "slowStartTime": 1632,
+        "slowEndTime": 3652
+    },
+    {
+        "text": "Oh dear.",
+        "startTime": 2393,
+        "endTime": 3103,
+        "slowStartTime": 3739,
+        "slowEndTime": 4879
+    },
+    {
+        "text": "How's your new job?",
+        "startTime": 3521,
+        "endTime": 4615,
+        "slowStartTime": 5432,
+        "slowEndTime": 7148
+    },
+    {
+        "text": "Tell me all about it.",
+        "startTime": 5030,
+        "endTime": 6001,
+        "slowStartTime": 7695,
+        "slowEndTime": 9226
+    },
+    {
+        "text": "It's great.",
+        "startTime": 6112,
+        "endTime": 6971,
+        "slowStartTime": 9318,
+        "slowEndTime": 10682
+    },
+    {
+        "text": "Everyone's very friendly.",
+        "startTime": 7077,
+        "endTime": 8402,
+        "slowStartTime": 10766,
+        "slowEndTime": 12828
+    },
+    {
+        "text": "There are people here from all over the world.",
+        "startTime": 9817,
+        "endTime": 11656,
+        "slowStartTime": 14876,
+        "slowEndTime": 17709
+    },
+    {
+        "text": "Tourists, business people,...",
+        "startTime": 11935,
+        "endTime": 13526,
+        "slowStartTime": 18053,
+        "slowEndTime": 20514
+    },
+    {
+        "text": "Well, almost everyone.",
+        "startTime": 13907,
+        "endTime": 15700,
+        "slowStartTime": 21011,
+        "slowEndTime": 23775
+    }
+]

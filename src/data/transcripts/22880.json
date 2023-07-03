@@ -1,0 +1,72 @@
+[
+    {
+        "text": "My name is Mary Yuan...",
+        "startTime": 3663,
+        "endTime": 4957,
+        "slowStartTime": 5645,
+        "slowEndTime": 7660
+    },
+    {
+        "text": "...and I'm a senior public relations manager in corporate communications at AT&T.",
+        "startTime": 5111,
+        "endTime": 9677,
+        "slowStartTime": 7817,
+        "slowEndTime": 14741
+    },
+    {
+        "text": "I think my favorite part about working here is probably the environment.",
+        "startTime": 10473,
+        "endTime": 15601,
+        "slowStartTime": 15859,
+        "slowEndTime": 23626
+    },
+    {
+        "text": "It's a really, really fast-paced environment, but it's also really collaborative.",
+        "startTime": 15695,
+        "endTime": 20421,
+        "slowStartTime": 23693,
+        "slowEndTime": 30856
+    },
+    {
+        "text": "And so you have a lot of people with different expertise all working together...",
+        "startTime": 20791,
+        "endTime": 26487,
+        "slowStartTime": 31337,
+        "slowEndTime": 39955
+    },
+    {
+        "text": "...and so you really get a taste of different parts of corporate communications.",
+        "startTime": 26593,
+        "endTime": 31837,
+        "slowStartTime": 40040,
+        "slowEndTime": 47981
+    },
+    {
+        "text": "And so when you're putting together a plan, you have all of these unique perspectives...",
+        "startTime": 32192,
+        "endTime": 36751,
+        "slowStartTime": 48438,
+        "slowEndTime": 55351
+    },
+    {
+        "text": "...that really makes the overall plan a much better one.",
+        "startTime": 36821,
+        "endTime": 40661,
+        "slowStartTime": 55382,
+        "slowEndTime": 61217
+    },
+    {
+        "text": "So, I think the collaborative environment and all of these people...",
+        "startTime": 40931,
+        "endTime": 44295,
+        "slowStartTime": 61547,
+        "slowEndTime": 66668
+    },
+    {
+        "text": "...who are coming from different backgrounds really make it fun to work here.",
+        "startTime": 44392,
+        "endTime": 47581,
+        "slowStartTime": 66738,
+        "slowEndTime": 71597
+    }
+]

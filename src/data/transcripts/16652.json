@@ -1,0 +1,30 @@
+[
+    {
+        "text": "The long reign of Libyan dictator Moammar Gadhafi came to a bloody end in October, but only after months of fighting.",
+        "startTime": 10715,
+        "endTime": 17941,
+        "slowStartTime": 16222,
+        "slowEndTime": 27136
+    },
+    {
+        "text": "Anti-Gadhafi forces on the ground, supported from the air by NATO air strikes on Gadhafi strongholds,...",
+        "startTime": 32567,
+        "endTime": 38550,
+        "slowStartTime": 49000,
+        "slowEndTime": 58050
+    },
+    {
+        "text": "...brought an end to his four decades of rule.",
+        "startTime": 39191,
+        "endTime": 41167,
+        "slowStartTime": 58936,
+        "slowEndTime": 61975
+    },
+    {
+        "text": "The campaign to oust him is estimated to have taken the lives of as many as 40,000 Libyans.",
+        "startTime": 55699,
+        "endTime": 61065,
+        "slowStartTime": 83699,
+        "slowEndTime": 91822
+    }
+]

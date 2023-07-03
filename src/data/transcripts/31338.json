@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Is it January?",
+        "startTime": 3746,
+        "endTime": 5041,
+        "slowStartTime": 5769,
+        "slowEndTime": 7787
+    },
+    {
+        "text": "No, it is not.",
+        "startTime": 5835,
+        "endTime": 7087,
+        "slowStartTime": 8903,
+        "slowEndTime": 10856
+    },
+    {
+        "text": "Does Janet go to bed early?",
+        "startTime": 8661,
+        "endTime": 10366,
+        "slowStartTime": 13142,
+        "slowEndTime": 15774
+    },
+    {
+        "text": "Yes, she does go to bed early.",
+        "startTime": 11005,
+        "endTime": 12878,
+        "slowStartTime": 16658,
+        "slowEndTime": 19542
+    },
+    {
+        "text": "What day is it?",
+        "startTime": 18347,
+        "endTime": 19295,
+        "slowStartTime": 27670,
+        "slowEndTime": 29167
+    },
+    {
+        "text": "It's Thursday.",
+        "startTime": 19940,
+        "endTime": 20864,
+        "slowStartTime": 30060,
+        "slowEndTime": 31521
+    },
+    {
+        "text": "What season do you go skiing?",
+        "startTime": 22449,
+        "endTime": 24315,
+        "slowStartTime": 33823,
+        "slowEndTime": 36698
+    },
+    {
+        "text": "I go skiing in winter.",
+        "startTime": 24997,
+        "endTime": 26869,
+        "slowStartTime": 37646,
+        "slowEndTime": 40529
+    },
+    {
+        "text": "When is the baseball game?",
+        "startTime": 32355,
+        "endTime": 33911,
+        "slowStartTime": 48682,
+        "slowEndTime": 51091
+    },
+    {
+        "text": "It is on Friday at two o'clock.",
+        "startTime": 34959,
+        "endTime": 36765,
+        "slowStartTime": 52589,
+        "slowEndTime": 55373
+    },
+    {
+        "text": "When does the plane leave?",
+        "startTime": 38533,
+        "endTime": 39847,
+        "slowStartTime": 57949,
+        "slowEndTime": 59995
+    },
+    {
+        "text": "The plane leaves at 3:15.",
+        "startTime": 40901,
+        "endTime": 42574,
+        "slowStartTime": 61501,
+        "slowEndTime": 64086
+    }
+]

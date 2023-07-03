@@ -1,0 +1,23 @@
+[
+    {
+        "text": "You know what's better than sleeping in?",
+        "startTime": 4501,
+        "endTime": 6055,
+        "slowStartTime": 6901,
+        "slowEndTime": 9307
+    },
+    {
+        "text": "Nothing.",
+        "startTime": 7802,
+        "endTime": 8137,
+        "slowStartTime": 11853,
+        "slowEndTime": 12431
+    },
+    {
+        "text": "But you came to yoga anyway.",
+        "startTime": 10505,
+        "endTime": 11993,
+        "slowStartTime": 15908,
+        "slowEndTime": 18215
+    }
+]

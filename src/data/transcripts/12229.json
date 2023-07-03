@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Hey, what are you up to tonight?",
+        "startTime": 1966,
+        "endTime": 3911,
+        "slowStartTime": 3099,
+        "slowEndTime": 6091
+    },
+    {
+        "text": "Nothing much, why? What's up?",
+        "startTime": 4049,
+        "endTime": 5735,
+        "slowStartTime": 6224,
+        "slowEndTime": 8828
+    },
+    {
+        "text": "Well, we are going to watch the new Star Wars movie tonight.",
+        "startTime": 6172,
+        "endTime": 9664,
+        "slowStartTime": 9408,
+        "slowEndTime": 14721
+    },
+    {
+        "text": "Oh yeah? I really want to see that.",
+        "startTime": 9771,
+        "endTime": 11912,
+        "slowStartTime": 14807,
+        "slowEndTime": 18093
+    },
+    {
+        "text": "Well, why don't you join us then?",
+        "startTime": 12111,
+        "endTime": 14045,
+        "slowStartTime": 18317,
+        "slowEndTime": 21293
+    },
+    {
+        "text": "I'd love to! What time are you guys heading out?",
+        "startTime": 14141,
+        "endTime": 16651,
+        "slowStartTime": 21361,
+        "slowEndTime": 25201
+    },
+    {
+        "text": "At seven o'clock. We're meeting at Jerry's Coffee House and going to the theater from there.",
+        "startTime": 16891,
+        "endTime": 22104,
+        "slowStartTime": 25486,
+        "slowEndTime": 33381
+    },
+    {
+        "text": "Seven o'clock at Jerry's. Okay, I'll see you there.",
+        "startTime": 22311,
+        "endTime": 25323,
+        "slowStartTime": 33616,
+        "slowEndTime": 38210
+    },
+    {
+        "text": "Sounds good. The movie starts at eight o'clock but we want to get there a bit early.",
+        "startTime": 25553,
+        "endTime": 30239,
+        "slowStartTime": 38480,
+        "slowEndTime": 45583
+    },
+    {
+        "text": "Good idea, there will probably be a lot of people there.",
+        "startTime": 30373,
+        "endTime": 33249,
+        "slowStartTime": 45710,
+        "slowEndTime": 50099
+    }
+]

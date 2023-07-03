@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Hey Brenda, could I get you...",
+        "startTime": 1034,
+        "endTime": 2090,
+        "slowStartTime": 1701,
+        "slowEndTime": 3360
+    },
+    {
+        "text": "What's happening on Facebook here?",
+        "startTime": 2746,
+        "endTime": 4245,
+        "slowStartTime": 4269,
+        "slowEndTime": 6592
+    },
+    {
+        "text": "I'm actually vetting some new hires.",
+        "startTime": 7288,
+        "endTime": 9529,
+        "slowStartTime": 11082,
+        "slowEndTime": 14518
+    },
+    {
+        "text": "Great initiative.",
+        "startTime": 10120,
+        "endTime": 10849,
+        "slowStartTime": 15330,
+        "slowEndTime": 16498
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 11356,
+        "endTime": 11987,
+        "slowStartTime": 17184,
+        "slowEndTime": 18206
+    }
+]

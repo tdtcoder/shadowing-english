@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Hi there, this is Enya,...",
+        "startTime": 967,
+        "endTime": 2555,
+        "slowStartTime": 1600,
+        "slowEndTime": 4057
+    },
+    {
+        "text": "...and that there is her little pink scooter.",
+        "startTime": 2827,
+        "endTime": 5788,
+        "slowStartTime": 4391,
+        "slowEndTime": 8907
+    },
+    {
+        "text": "Enya loves to travel.",
+        "startTime": 6315,
+        "endTime": 8095,
+        "slowStartTime": 9623,
+        "slowEndTime": 12367
+    },
+    {
+        "text": "And you, do you like to travel?",
+        "startTime": 8237,
+        "endTime": 10345,
+        "slowStartTime": 12506,
+        "slowEndTime": 15743
+    },
+    {
+        "text": "Have you ever taken an airplane?",
+        "startTime": 10796,
+        "endTime": 12647,
+        "slowStartTime": 16344,
+        "slowEndTime": 19196
+    },
+    {
+        "text": "Do you like to go exploring too?",
+        "startTime": 13019,
+        "endTime": 15015,
+        "slowStartTime": 19678,
+        "slowEndTime": 22748
+    },
+    {
+        "text": "Have you ever walked on a volcano in Asia...",
+        "startTime": 15849,
+        "endTime": 18390,
+        "slowStartTime": 23924,
+        "slowEndTime": 27810
+    },
+    {
+        "text": "...or gone paragliding in the Caribbean?",
+        "startTime": 18615,
+        "endTime": 20615,
+        "slowStartTime": 28072,
+        "slowEndTime": 31148
+    },
+    {
+        "text": "Would you like to pat a toucan in South America?",
+        "startTime": 20988,
+        "endTime": 23724,
+        "slowStartTime": 31632,
+        "slowEndTime": 35811
+    },
+    {
+        "text": "If so, then follow Enya on her little pink scooter.",
+        "startTime": 24549,
+        "endTime": 27750,
+        "slowStartTime": 36973,
+        "slowEndTime": 41850
+    },
+    {
+        "text": "She will bring you all around the world to visit all the seven continents.",
+        "startTime": 27930,
+        "endTime": 32091,
+        "slowStartTime": 42045,
+        "slowEndTime": 48361
+    },
+    {
+        "text": "Okay, are you ready?",
+        "startTime": 32418,
+        "endTime": 34007,
+        "slowStartTime": 48777,
+        "slowEndTime": 51235
+    },
+    {
+        "text": "Let's go!",
+        "startTime": 34333,
+        "endTime": 35346,
+        "slowStartTime": 51650,
+        "slowEndTime": 53244
+    },
+    {
+        "text": "You will see, it really is a lot of fun to travel.",
+        "startTime": 35689,
+        "endTime": 39602,
+        "slowStartTime": 53683,
+        "slowEndTime": 59628
+    }
+]

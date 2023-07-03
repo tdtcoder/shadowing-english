@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Taka, what is your plan for the rest of your stay in the US?",
+        "startTime": 227,
+        "endTime": 3371,
+        "slowStartTime": 491,
+        "slowEndTime": 5281
+    },
+    {
+        "text": "Tomorrow I will visit one customer in San Jose.",
+        "startTime": 4403,
+        "endTime": 7027,
+        "slowStartTime": 6754,
+        "slowEndTime": 10766
+    },
+    {
+        "text": "After that meeting, I fly to Phoenix for another meeting.",
+        "startTime": 7669,
+        "endTime": 10478,
+        "slowStartTime": 11653,
+        "slowEndTime": 15942
+    },
+    {
+        "text": "I will fly back to San Francisco on the following day.",
+        "startTime": 11123,
+        "endTime": 13691,
+        "slowStartTime": 16835,
+        "slowEndTime": 20762
+    },
+    {
+        "text": "When are you going back to Japan?",
+        "startTime": 14683,
+        "endTime": 16231,
+        "slowStartTime": 22174,
+        "slowEndTime": 24572
+    },
+    {
+        "text": "I will leave the US on Friday.",
+        "startTime": 17210,
+        "endTime": 18859,
+        "slowStartTime": 25965,
+        "slowEndTime": 28514
+    },
+    {
+        "text": "Wow, you have a pretty tight schedule!",
+        "startTime": 19862,
+        "endTime": 21830,
+        "slowStartTime": 29943,
+        "slowEndTime": 32970
+    },
+    {
+        "text": "Every time I come to the US, the schedule is always very tight.",
+        "startTime": 22912,
+        "endTime": 25889,
+        "slowStartTime": 34518,
+        "slowEndTime": 39058
+    },
+    {
+        "text": "Business trips are very tiring, because we schedule so many meetings.",
+        "startTime": 26293,
+        "endTime": 29481,
+        "slowStartTime": 39590,
+        "slowEndTime": 44447
+    },
+    {
+        "text": "To cut costs, we are reducing the number of business trips company-wide.",
+        "startTime": 29864,
+        "endTime": 33222,
+        "slowStartTime": 44946,
+        "slowEndTime": 50058
+    },
+    {
+        "text": "It's the same here.",
+        "startTime": 34168,
+        "endTime": 35163,
+        "slowStartTime": 51402,
+        "slowEndTime": 52970
+    },
+    {
+        "text": "We're doing many more conference calls now.",
+        "startTime": 35241,
+        "endTime": 37495,
+        "slowStartTime": 53011,
+        "slowEndTime": 56467
+    },
+    {
+        "text": "Recently, we got an advanced video conference system.",
+        "startTime": 38396,
+        "endTime": 41329,
+        "slowStartTime": 57744,
+        "slowEndTime": 62218
+    },
+    {
+        "text": "It was very expensive, but it could save a lot of money, compared with travel costs.",
+        "startTime": 42061,
+        "endTime": 46564,
+        "slowStartTime": 63241,
+        "slowEndTime": 70071
+    },
+    {
+        "text": "Less tiring too!",
+        "startTime": 47613,
+        "endTime": 48742,
+        "slowStartTime": 71569,
+        "slowEndTime": 73338
+    }
+]

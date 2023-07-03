@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Got a quick errand?",
+        "startTime": 356,
+        "endTime": 1322,
+        "slowStartTime": 684,
+        "slowEndTime": 2208
+    },
+    {
+        "text": "Get a low-cost Uber X.",
+        "startTime": 1685,
+        "endTime": 3435,
+        "slowStartTime": 2677,
+        "slowEndTime": 5378
+    },
+    {
+        "text": "Are you riding with friends?",
+        "startTime": 4693,
+        "endTime": 5846,
+        "slowStartTime": 7190,
+        "slowEndTime": 8994
+    },
+    {
+        "text": "An Uber XL is an inexpensive SUV with room for everyone.",
+        "startTime": 6261,
+        "endTime": 10023,
+        "slowStartTime": 9541,
+        "slowEndTime": 15259
+    },
+    {
+        "text": "BLACK is the original Uber for when you want to step it up.",
+        "startTime": 11709,
+        "endTime": 14959,
+        "slowStartTime": 17714,
+        "slowEndTime": 22663
+    },
+    {
+        "text": "Tap the vehicle icon for rates.",
+        "startTime": 16041,
+        "endTime": 17982,
+        "slowStartTime": 24211,
+        "slowEndTime": 27198
+    },
+    {
+        "text": "Now, set your pickup location by moving the pin or typing it in.",
+        "startTime": 19545,
+        "endTime": 26733,
+        "slowStartTime": 29468,
+        "slowEndTime": 40325
+    },
+    {
+        "text": "Enter your destination, and your driver will know where you're going once you get in the car.",
+        "startTime": 28571,
+        "endTime": 32617,
+        "slowStartTime": 43007,
+        "slowEndTime": 49151
+    },
+    {
+        "text": "Every ride is cashless.",
+        "startTime": 34488,
+        "endTime": 35974,
+        "slowStartTime": 51882,
+        "slowEndTime": 54186
+    },
+    {
+        "text": "You can change your payment method by tapping this button.",
+        "startTime": 36466,
+        "endTime": 39090,
+        "slowStartTime": 54849,
+        "slowEndTime": 58860
+    },
+    {
+        "text": "Want to see how much it will cost?",
+        "startTime": 41040,
+        "endTime": 42509,
+        "slowStartTime": 61710,
+        "slowEndTime": 63989
+    },
+    {
+        "text": "Get a Fare Quote.",
+        "startTime": 42881,
+        "endTime": 44083,
+        "slowStartTime": 64471,
+        "slowEndTime": 66349
+    },
+    {
+        "text": "If you have a Promo Code, enter it here.",
+        "startTime": 44960,
+        "endTime": 47072,
+        "slowStartTime": 67590,
+        "slowEndTime": 70833
+    },
+    {
+        "text": "Nice, $20 off my first ride!",
+        "startTime": 47949,
+        "endTime": 50800,
+        "slowStartTime": 72073,
+        "slowEndTime": 76425
+    },
+    {
+        "text": "And request.",
+        "startTime": 51943,
+        "endTime": 53201,
+        "slowStartTime": 78064,
+        "slowEndTime": 80027
+    },
+    {
+        "text": "John will pick you up in two minutes.",
+        "startTime": 54389,
+        "endTime": 56217,
+        "slowStartTime": 81734,
+        "slowEndTime": 84550
+    }
+]

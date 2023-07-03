@@ -1,0 +1,58 @@
+[
+    {
+        "text": "The Nexus 6 and the Nexus 9 will be the first mobile devices to run Android 5.0,...",
+        "startTime": 303,
+        "endTime": 4719,
+        "slowStartTime": 604,
+        "slowEndTime": 7304
+    },
+    {
+        "text": "...which as of today will also be known as \"Lollipop.\"",
+        "startTime": 5004,
+        "endTime": 7913,
+        "slowStartTime": 7656,
+        "slowEndTime": 12095
+    },
+    {
+        "text": "The Nexus 6, developed in partnership with Motorola,...",
+        "startTime": 8486,
+        "endTime": 11025,
+        "slowStartTime": 12879,
+        "slowEndTime": 16763
+    },
+    {
+        "text": "...has a contoured aluminum frame and a 13-megapixel camera.",
+        "startTime": 11365,
+        "endTime": 15803,
+        "slowStartTime": 17198,
+        "slowEndTime": 23930
+    },
+    {
+        "text": "It also comes with a turbocharger which lets you charge the phone for just 15 minutes...",
+        "startTime": 16269,
+        "endTime": 20958,
+        "slowStartTime": 24553,
+        "slowEndTime": 31662
+    },
+    {
+        "text": "...and walk away with six hours of battery life.",
+        "startTime": 21237,
+        "endTime": 24285,
+        "slowStartTime": 32005,
+        "slowEndTime": 36653
+    },
+    {
+        "text": "The Nexus 9 meanwhile was developed in partnership with HTC.",
+        "startTime": 24789,
+        "endTime": 28046,
+        "slowStartTime": 37334,
+        "slowEndTime": 42294
+    },
+    {
+        "text": "This is a midsize tablet that you can buy with an attachable keyboard folio.",
+        "startTime": 28349,
+        "endTime": 32230,
+        "slowStartTime": 42673,
+        "slowEndTime": 48570
+    }
+]

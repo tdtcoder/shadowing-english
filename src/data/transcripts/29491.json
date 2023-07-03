@@ -1,0 +1,79 @@
+[
+    {
+        "text": "You can catch the latest blockbuster movie here, playing twenty-four seven.",
+        "startTime": 239,
+        "endTime": 4118,
+        "slowStartTime": 509,
+        "slowEndTime": 6402
+    },
+    {
+        "text": "Oh, and it's free.",
+        "startTime": 4612,
+        "endTime": 6171,
+        "slowStartTime": 7068,
+        "slowEndTime": 9481
+    },
+    {
+        "text": "It's home to the country's tallest indoor slide, and it's not just for kids.",
+        "startTime": 6354,
+        "endTime": 10497,
+        "slowStartTime": 9681,
+        "slowEndTime": 15970
+    },
+    {
+        "text": "Take a dip in the world's only airport outdoor pool.",
+        "startTime": 18778,
+        "endTime": 21993,
+        "slowStartTime": 28317,
+        "slowEndTime": 33214
+    },
+    {
+        "text": "You can come here and see nearly 1,000 butterflies and over 40 species.",
+        "startTime": 22819,
+        "endTime": 27319,
+        "slowStartTime": 34378,
+        "slowEndTime": 41203
+    },
+    {
+        "text": "Watch planes land and take off in the restroom.",
+        "startTime": 31011,
+        "endTime": 34032,
+        "slowStartTime": 46666,
+        "slowEndTime": 51273
+    },
+    {
+        "text": "You can enjoy a free express hand massage.",
+        "startTime": 34587,
+        "endTime": 37170,
+        "slowStartTime": 52031,
+        "slowEndTime": 55980
+    },
+    {
+        "text": "Take a seat for a free fragrance consultation.",
+        "startTime": 38109,
+        "endTime": 40645,
+        "slowStartTime": 57313,
+        "slowEndTime": 61193
+    },
+    {
+        "text": "Take a nap in this public area, which is also known as the Snooze Lounge,...",
+        "startTime": 44344,
+        "endTime": 48383,
+        "slowStartTime": 66666,
+        "slowEndTime": 72799
+    },
+    {
+        "text": "...and surrounded by the Sanctuary Garden.",
+        "startTime": 48591,
+        "endTime": 51119,
+        "slowStartTime": 73037,
+        "slowEndTime": 76904
+    },
+    {
+        "text": "Oh, and also, Changi has been voted the world's best airport to sleep.",
+        "startTime": 52711,
+        "endTime": 57380,
+        "slowStartTime": 79217,
+        "slowEndTime": 86295
+    }
+]

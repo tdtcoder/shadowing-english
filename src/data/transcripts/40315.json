@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Stop.",
+        "startTime": 550,
+        "endTime": 1441,
+        "slowStartTime": 975,
+        "slowEndTime": 2387
+    },
+    {
+        "text": "When you see a stop sign, do not do what you are doing.",
+        "startTime": 1951,
+        "endTime": 6760,
+        "slowStartTime": 3076,
+        "slowEndTime": 10365
+    },
+    {
+        "text": "Police Line.",
+        "startTime": 8963,
+        "endTime": 9920,
+        "slowStartTime": 13594,
+        "slowEndTime": 15105
+    },
+    {
+        "text": "Do not go into the area that this line is around.",
+        "startTime": 10778,
+        "endTime": 14406,
+        "slowStartTime": 16317,
+        "slowEndTime": 21834
+    },
+    {
+        "text": "Yield.",
+        "startTime": 16623,
+        "endTime": 17279,
+        "slowStartTime": 25085,
+        "slowEndTime": 26144
+    },
+    {
+        "text": "Wait for others to pass.",
+        "startTime": 19457,
+        "endTime": 21733,
+        "slowStartTime": 29335,
+        "slowEndTime": 32825
+    },
+    {
+        "text": "Fire Alarm.",
+        "startTime": 23983,
+        "endTime": 25004,
+        "slowStartTime": 36124,
+        "slowEndTime": 37731
+    },
+    {
+        "text": "Do not pull a fire alarm.",
+        "startTime": 25401,
+        "endTime": 28563,
+        "slowStartTime": 38251,
+        "slowEndTime": 43069
+    },
+    {
+        "text": "If you hear the alarm, you have to get out of the building.",
+        "startTime": 29157,
+        "endTime": 33038,
+        "slowStartTime": 43886,
+        "slowEndTime": 49782
+    },
+    {
+        "text": "Danger of death.",
+        "startTime": 34975,
+        "endTime": 36511,
+        "slowStartTime": 52612,
+        "slowEndTime": 54992
+    },
+    {
+        "text": "Do not go into this area.",
+        "startTime": 36865,
+        "endTime": 40019,
+        "slowStartTime": 55447,
+        "slowEndTime": 60253
+    },
+    {
+        "text": "Pedestrian Crossing.",
+        "startTime": 41482,
+        "endTime": 43291,
+        "slowStartTime": 62373,
+        "slowEndTime": 65161
+    },
+    {
+        "text": "You may walk across the road when you see this sign.",
+        "startTime": 44670,
+        "endTime": 47869,
+        "slowStartTime": 67155,
+        "slowEndTime": 72029
+    },
+    {
+        "text": "Danger.",
+        "startTime": 50670,
+        "endTime": 51792,
+        "slowStartTime": 76155,
+        "slowEndTime": 77913
+    },
+    {
+        "text": "You may get hurt if you go to where this sign is.",
+        "startTime": 52861,
+        "endTime": 55960,
+        "slowStartTime": 79442,
+        "slowEndTime": 84165
+    },
+    {
+        "text": "Walk.",
+        "startTime": 57677,
+        "endTime": 58357,
+        "slowStartTime": 86665,
+        "slowEndTime": 87761
+    },
+    {
+        "text": "You may cross the street when you see this sign.",
+        "startTime": 58683,
+        "endTime": 62321,
+        "slowStartTime": 88174,
+        "slowEndTime": 93706
+    },
+    {
+        "text": "But when you see the hand, you need to hurry.",
+        "startTime": 62777,
+        "endTime": 66628,
+        "slowStartTime": 94316,
+        "slowEndTime": 100167
+    }
+]

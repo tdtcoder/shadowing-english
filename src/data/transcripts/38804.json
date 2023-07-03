@@ -1,0 +1,233 @@
+[
+    {
+        "text": "Hi, do you have any chocolate bars?",
+        "startTime": 645,
+        "endTime": 3350,
+        "slowStartTime": 1117,
+        "slowEndTime": 5250
+    },
+    {
+        "text": "Sure, what kind are you looking for?",
+        "startTime": 4459,
+        "endTime": 6720,
+        "slowStartTime": 6838,
+        "slowEndTime": 10305
+    },
+    {
+        "text": "I'm looking for one without nuts.",
+        "startTime": 8813,
+        "endTime": 11137,
+        "slowStartTime": 13370,
+        "slowEndTime": 16930
+    },
+    {
+        "text": "Here you go.",
+        "startTime": 12649,
+        "endTime": 13477,
+        "slowStartTime": 19124,
+        "slowEndTime": 20441
+    },
+    {
+        "text": "How much are these?",
+        "startTime": 13974,
+        "endTime": 15378,
+        "slowStartTime": 21111,
+        "slowEndTime": 23292
+    },
+    {
+        "text": "That would be 50 cents each.",
+        "startTime": 16513,
+        "endTime": 18896,
+        "slowStartTime": 24920,
+        "slowEndTime": 28569
+    },
+    {
+        "text": "I'll get six of them.",
+        "startTime": 19473,
+        "endTime": 21851,
+        "slowStartTime": 29360,
+        "slowEndTime": 33002
+    },
+    {
+        "text": "That would be $3 total.",
+        "startTime": 23121,
+        "endTime": 25786,
+        "slowStartTime": 34831,
+        "slowEndTime": 38904
+    },
+    {
+        "text": "Here's $3.",
+        "startTime": 26971,
+        "endTime": 29130,
+        "slowStartTime": 40606,
+        "slowEndTime": 43920
+    },
+    {
+        "text": "Thanks!",
+        "startTime": 29257,
+        "endTime": 30113,
+        "slowStartTime": 44035,
+        "slowEndTime": 45394
+    },
+    {
+        "text": "Hello.",
+        "startTime": 32799,
+        "endTime": 33165,
+        "slowStartTime": 49349,
+        "slowEndTime": 49973
+    },
+    {
+        "text": "Could you please help me?",
+        "startTime": 33279,
+        "endTime": 34307,
+        "slowStartTime": 50068,
+        "slowEndTime": 51686
+    },
+    {
+        "text": "I need some paper.",
+        "startTime": 34829,
+        "endTime": 35713,
+        "slowStartTime": 52393,
+        "slowEndTime": 53795
+    },
+    {
+        "text": "What type of paper do you need?",
+        "startTime": 36299,
+        "endTime": 38157,
+        "slowStartTime": 54599,
+        "slowEndTime": 57461
+    },
+    {
+        "text": "Some paper I could use on my printer.",
+        "startTime": 38755,
+        "endTime": 40741,
+        "slowStartTime": 58282,
+        "slowEndTime": 61337
+    },
+    {
+        "text": "I have just what you need here.",
+        "startTime": 41049,
+        "endTime": 43447,
+        "slowStartTime": 61723,
+        "slowEndTime": 65396
+    },
+    {
+        "text": "How much is this?",
+        "startTime": 43905,
+        "endTime": 44926,
+        "slowStartTime": 66007,
+        "slowEndTime": 67614
+    },
+    {
+        "text": "$10.",
+        "startTime": 45453,
+        "endTime": 46765,
+        "slowStartTime": 68330,
+        "slowEndTime": 70372
+    },
+    {
+        "text": "Here's $10.",
+        "startTime": 47245,
+        "endTime": 48331,
+        "slowStartTime": 71018,
+        "slowEndTime": 72722
+    },
+    {
+        "text": "Thank you so much!",
+        "startTime": 48505,
+        "endTime": 49645,
+        "slowStartTime": 72908,
+        "slowEndTime": 74693
+    },
+    {
+        "text": "Wow, that blue hat looks so cool!",
+        "startTime": 52656,
+        "endTime": 57217,
+        "slowStartTime": 79134,
+        "slowEndTime": 86051
+    },
+    {
+        "text": "Yes, it's one of our latest styles.",
+        "startTime": 57771,
+        "endTime": 60906,
+        "slowStartTime": 86806,
+        "slowEndTime": 91584
+    },
+    {
+        "text": "Would you like to try it on?",
+        "startTime": 61507,
+        "endTime": 62907,
+        "slowStartTime": 92410,
+        "slowEndTime": 94585
+    },
+    {
+        "text": "Oh, I would love to!",
+        "startTime": 63739,
+        "endTime": 65654,
+        "slowStartTime": 95758,
+        "slowEndTime": 98706
+    },
+    {
+        "text": "See?",
+        "startTime": 66679,
+        "endTime": 67370,
+        "slowStartTime": 100168,
+        "slowEndTime": 101280
+    },
+    {
+        "text": "It looks good on you.",
+        "startTime": 67505,
+        "endTime": 69351,
+        "slowStartTime": 101408,
+        "slowEndTime": 104252
+    },
+    {
+        "text": "How much is it?",
+        "startTime": 70597,
+        "endTime": 72111,
+        "slowStartTime": 106045,
+        "slowEndTime": 108391
+    },
+    {
+        "text": "It's $40.",
+        "startTime": 72506,
+        "endTime": 74523,
+        "slowStartTime": 108909,
+        "slowEndTime": 112009
+    },
+    {
+        "text": "Hmm, I'm not sure if I can afford that.",
+        "startTime": 75585,
+        "endTime": 78640,
+        "slowStartTime": 113528,
+        "slowEndTime": 118185
+    },
+    {
+        "text": "I'll give you a $5 discount.",
+        "startTime": 79475,
+        "endTime": 82224,
+        "slowStartTime": 119362,
+        "slowEndTime": 123561
+    },
+    {
+        "text": "Okay.",
+        "startTime": 83356,
+        "endTime": 84167,
+        "slowStartTime": 125184,
+        "slowEndTime": 126476
+    },
+    {
+        "text": "I'll take it.",
+        "startTime": 84606,
+        "endTime": 85360,
+        "slowStartTime": 127059,
+        "slowEndTime": 128265
+    },
+    {
+        "text": "Thanks!",
+        "startTime": 85595,
+        "endTime": 86399,
+        "slowStartTime": 128543,
+        "slowEndTime": 129824
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Hello! This is Jim.",
+        "startTime": 2735,
+        "endTime": 3951,
+        "slowStartTime": 4253,
+        "slowEndTime": 6151
+    },
+    {
+        "text": "Hi, Jim! Eddie here.",
+        "startTime": 4613,
+        "endTime": 6067,
+        "slowStartTime": 7070,
+        "slowEndTime": 9326
+    },
+    {
+        "text": "Oh, hello! How's it going?",
+        "startTime": 6292,
+        "endTime": 8471,
+        "slowStartTime": 9588,
+        "slowEndTime": 12932
+    },
+    {
+        "text": "Good, thanks.",
+        "startTime": 8729,
+        "endTime": 9483,
+        "slowStartTime": 13243,
+        "slowEndTime": 14450
+    },
+    {
+        "text": "I just wanted to let you know that Linh and I will come to the party on Friday.",
+        "startTime": 10007,
+        "endTime": 14011,
+        "slowStartTime": 15160,
+        "slowEndTime": 21242
+    },
+    {
+        "text": "Ah, great news!",
+        "startTime": 14155,
+        "endTime": 15733,
+        "slowStartTime": 21382,
+        "slowEndTime": 23824
+    },
+    {
+        "text": "What time should we come over?",
+        "startTime": 15942,
+        "endTime": 17545,
+        "slowStartTime": 24063,
+        "slowEndTime": 26543
+    },
+    {
+        "text": "About around 7:30?",
+        "startTime": 17801,
+        "endTime": 20421,
+        "slowStartTime": 26851,
+        "slowEndTime": 30856
+    },
+    {
+        "text": "OK. Is there anything we can bring?",
+        "startTime": 20662,
+        "endTime": 23403,
+        "slowStartTime": 31143,
+        "slowEndTime": 35329
+    },
+    {
+        "text": "Should we bring some food too?",
+        "startTime": 24041,
+        "endTime": 25781,
+        "slowStartTime": 36211,
+        "slowEndTime": 38897
+    },
+    {
+        "text": "No, it's OK. I'll provide the food.",
+        "startTime": 26939,
+        "endTime": 29561,
+        "slowStartTime": 40559,
+        "slowEndTime": 44567
+    },
+    {
+        "text": "OK. See you Friday then.",
+        "startTime": 29801,
+        "endTime": 31730,
+        "slowStartTime": 44851,
+        "slowEndTime": 47820
+    },
+    {
+        "text": "See you, Eddie.",
+        "startTime": 32035,
+        "endTime": 32639,
+        "slowStartTime": 48202,
+        "slowEndTime": 49183
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Ladies and gentlemen, we'll start boarding in about seven minutes.",
+        "startTime": 203,
+        "endTime": 3063,
+        "slowStartTime": 454,
+        "slowEndTime": 4819
+    },
+    {
+        "text": "For your information, the boarding process is gonna be:",
+        "startTime": 3399,
+        "endTime": 5657,
+        "slowStartTime": 5248,
+        "slowEndTime": 8710
+    },
+    {
+        "text": "First class, Super Elite, Elite and Star Alliance Gold for the first call.",
+        "startTime": 5900,
+        "endTime": 9791,
+        "slowStartTime": 8784,
+        "slowEndTime": 14912
+    },
+    {
+        "text": "Then it's gonna be row 39 to 25, and then 25 to 12.",
+        "startTime": 10199,
+        "endTime": 14546,
+        "slowStartTime": 15449,
+        "slowEndTime": 22044
+    },
+    {
+        "text": "If you're travelling with children, infants or you need any assistance,...",
+        "startTime": 14685,
+        "endTime": 18628,
+        "slowStartTime": 22178,
+        "slowEndTime": 28167
+    },
+    {
+        "text": "...you are more than welcome to board the first call.",
+        "startTime": 18825,
+        "endTime": 20931,
+        "slowStartTime": 28208,
+        "slowEndTime": 31622
+    },
+    {
+        "text": "For your information, we'd like to remind you please...",
+        "startTime": 21434,
+        "endTime": 23568,
+        "slowStartTime": 32301,
+        "slowEndTime": 35300
+    },
+    {
+        "text": "...that we will need your boarding pass on hand prior to boarding...",
+        "startTime": 23607,
+        "endTime": 26083,
+        "slowStartTime": 35378,
+        "slowEndTime": 39350
+    },
+    {
+        "text": "...and your passport open where we can find your picture.",
+        "startTime": 26400,
+        "endTime": 29521,
+        "slowStartTime": 39538,
+        "slowEndTime": 44507
+    },
+    {
+        "text": "Thank you very much.",
+        "startTime": 29765,
+        "endTime": 30644,
+        "slowStartTime": 44797,
+        "slowEndTime": 46191
+    }
+]

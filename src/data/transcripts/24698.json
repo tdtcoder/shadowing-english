@@ -1,0 +1,37 @@
+[
+    {
+        "text": "﻿Cost an Arm and a Leg.",
+        "startTime": 6019,
+        "endTime": 7790,
+        "slowStartTime": 9178,
+        "slowEndTime": 11910
+    },
+    {
+        "text": "It means to be very expensive.",
+        "startTime": 8272,
+        "endTime": 10349,
+        "slowStartTime": 12558,
+        "slowEndTime": 15748
+    },
+    {
+        "text": "Traveling to many countries cost me an arm and a leg.",
+        "startTime": 12006,
+        "endTime": 15505,
+        "slowStartTime": 18159,
+        "slowEndTime": 23483
+    },
+    {
+        "text": "Jack's new sports car cost an arm and a leg.",
+        "startTime": 16942,
+        "endTime": 20151,
+        "slowStartTime": 25563,
+        "slowEndTime": 30451
+    },
+    {
+        "text": "It will cost an arm and a leg to buy that new house.",
+        "startTime": 21913,
+        "endTime": 24996,
+        "slowStartTime": 33019,
+        "slowEndTime": 37719
+    }
+]

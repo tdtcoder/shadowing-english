@@ -1,0 +1,44 @@
+[
+    {
+        "text": "A suicide bomber rams a car into an Iraqi police station and kills at least 18.",
+        "startTime": 6320,
+        "endTime": 12740,
+        "slowStartTime": 9640,
+        "slowEndTime": 19330
+    },
+    {
+        "text": "Red Cross officials recover at least 60 bodies in the aftermath of the Ivory Coast conflict.",
+        "startTime": 15910,
+        "endTime": 22780,
+        "slowStartTime": 24020,
+        "slowEndTime": 34400
+    },
+    {
+        "text": "Syria begins a military withdrawal from the city of Daraa after deadly clashes.",
+        "startTime": 25130,
+        "endTime": 30830,
+        "slowStartTime": 37840,
+        "slowEndTime": 46470
+    },
+    {
+        "text": "US Secretary of State Hillary Clinton meets with the 22 - nation Libya contact group in a bid to help Libya's opposition.",
+        "startTime": 33430,
+        "endTime": 41640,
+        "slowStartTime": 50300,
+        "slowEndTime": 62690
+    },
+    {
+        "text": "Workers enter the number one reactor building at the Fukushima plant for the first time since the disaster.",
+        "startTime": 43530,
+        "endTime": 50180,
+        "slowStartTime": 65450,
+        "slowEndTime": 75500
+    },
+    {
+        "text": "Claude Choules the last known surviving combat veteran of World War I dies at 110.",
+        "startTime": 53430,
+        "endTime": 60440,
+        "slowStartTime": 80300,
+        "slowEndTime": 90880
+    }
+]

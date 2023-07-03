@@ -1,0 +1,58 @@
+[
+    {
+        "text": "A fox was strolling through an orchard.",
+        "startTime": 11007,
+        "endTime": 14122,
+        "slowStartTime": 16660,
+        "slowEndTime": 21408
+    },
+    {
+        "text": "He saw some grapes ripening on a vine.",
+        "startTime": 14835,
+        "endTime": 18010,
+        "slowStartTime": 22402,
+        "slowEndTime": 27240
+    },
+    {
+        "text": "He thought the grapes would take away his thirst.",
+        "startTime": 18991,
+        "endTime": 22371,
+        "slowStartTime": 28637,
+        "slowEndTime": 33781
+    },
+    {
+        "text": "The vine was very high so he jumped up, but he could not reach the grapes.",
+        "startTime": 23452,
+        "endTime": 30555,
+        "slowStartTime": 35328,
+        "slowEndTime": 46057
+    },
+    {
+        "text": "Turning round again with a One, Two, Three, he jumped up, but with no luck.",
+        "startTime": 33189,
+        "endTime": 41044,
+        "slowStartTime": 49934,
+        "slowEndTime": 61791
+    },
+    {
+        "text": "Again and again he tried.",
+        "startTime": 41611,
+        "endTime": 44404,
+        "slowStartTime": 62567,
+        "slowEndTime": 66831
+    },
+    {
+        "text": "But at last he had to give it up and walked away,...",
+        "startTime": 45004,
+        "endTime": 49306,
+        "slowStartTime": 67656,
+        "slowEndTime": 74184
+    },
+    {
+        "text": "...saying that the grapes were probably too sour.",
+        "startTime": 49885,
+        "endTime": 53783,
+        "slowStartTime": 74978,
+        "slowEndTime": 80900
+    }
+]

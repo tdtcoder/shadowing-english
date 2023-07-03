@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Thank you for coming in today.",
+        "startTime": 1012,
+        "endTime": 2979,
+        "slowStartTime": 1668,
+        "slowEndTime": 4693
+    },
+    {
+        "text": "We appreciate you're taking the time to interview with us for a position with our firm...",
+        "startTime": 3455,
+        "endTime": 8411,
+        "slowStartTime": 5333,
+        "slowEndTime": 12841
+    },
+    {
+        "text": "...and I hope it's a good experience for both of us.",
+        "startTime": 9011,
+        "endTime": 11228,
+        "slowStartTime": 13666,
+        "slowEndTime": 17067
+    },
+    {
+        "text": "Let me just take a few seconds and explain how this will flow.",
+        "startTime": 11825,
+        "endTime": 15640,
+        "slowStartTime": 17887,
+        "slowEndTime": 23685
+    },
+    {
+        "text": "My job, if you will, is to learn as much about you as I can...",
+        "startTime": 16656,
+        "endTime": 21450,
+        "slowStartTime": 25134,
+        "slowEndTime": 32400
+    },
+    {
+        "text": "...and in a fairly short period of time.",
+        "startTime": 21529,
+        "endTime": 23126,
+        "slowStartTime": 32444,
+        "slowEndTime": 34914
+    },
+    {
+        "text": "That will mean that you'll have to do most of the talking...",
+        "startTime": 23846,
+        "endTime": 27346,
+        "slowStartTime": 35919,
+        "slowEndTime": 41244
+    },
+    {
+        "text": "...and hopefully we can guide through that in a way that touches on things...",
+        "startTime": 27455,
+        "endTime": 31280,
+        "slowStartTime": 41332,
+        "slowEndTime": 47145
+    },
+    {
+        "text": "...that you think are really important.",
+        "startTime": 31369,
+        "endTime": 33183,
+        "slowStartTime": 47203,
+        "slowEndTime": 49999
+    },
+    {
+        "text": "While we're talking, I should add that I might make a few notes...",
+        "startTime": 34138,
+        "endTime": 37274,
+        "slowStartTime": 51357,
+        "slowEndTime": 56136
+    },
+    {
+        "text": "...and I hope that won't be distracting,...",
+        "startTime": 37362,
+        "endTime": 39069,
+        "slowStartTime": 56193,
+        "slowEndTime": 58829
+    },
+    {
+        "text": "...but it will help me and the rest of us who discuss candidates later on...",
+        "startTime": 39176,
+        "endTime": 44470,
+        "slowStartTime": 58914,
+        "slowEndTime": 66930
+    },
+    {
+        "text": "...since we interview so many people in any given day.",
+        "startTime": 44787,
+        "endTime": 47543,
+        "slowStartTime": 67331,
+        "slowEndTime": 71539
+    }
+]

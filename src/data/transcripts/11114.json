@@ -1,0 +1,79 @@
+[
+    {
+        "text": "How did your call with Mr. Sanchez go?",
+        "startTime": 2085,
+        "endTime": 4082,
+        "slowStartTime": 3278,
+        "slowEndTime": 6348
+    },
+    {
+        "text": "Great! I made a list of objectives before I called and referred to it during the call.",
+        "startTime": 4587,
+        "endTime": 10212,
+        "slowStartTime": 7030,
+        "slowEndTime": 15543
+    },
+    {
+        "text": "That kept us both from wasting time.",
+        "startTime": 10653,
+        "endTime": 12947,
+        "slowStartTime": 16129,
+        "slowEndTime": 19646
+    },
+    {
+        "text": "He didn't think you were too aggressive, did he?",
+        "startTime": 13605,
+        "endTime": 15908,
+        "slowStartTime": 20557,
+        "slowEndTime": 24087
+    },
+    {
+        "text": "I don't think so.",
+        "startTime": 16221,
+        "endTime": 17271,
+        "slowStartTime": 24482,
+        "slowEndTime": 26132
+    },
+    {
+        "text": "He was very agreeable and polite during our conversation.",
+        "startTime": 17599,
+        "endTime": 20710,
+        "slowStartTime": 26549,
+        "slowEndTime": 31290
+    },
+    {
+        "text": "One thing I didn't anticipate was his sense of humor.",
+        "startTime": 21195,
+        "endTime": 24333,
+        "slowStartTime": 31942,
+        "slowEndTime": 36725
+    },
+    {
+        "text": "I'm sure you did a great job representing the company.",
+        "startTime": 24869,
+        "endTime": 27821,
+        "slowStartTime": 37453,
+        "slowEndTime": 41957
+    },
+    {
+        "text": "You always speak with such authority in meetings.",
+        "startTime": 28274,
+        "endTime": 30811,
+        "slowStartTime": 42561,
+        "slowEndTime": 46442
+    },
+    {
+        "text": "And a trick I learned for the phone is to talk standing up.",
+        "startTime": 31186,
+        "endTime": 34284,
+        "slowStartTime": 46929,
+        "slowEndTime": 51651
+    },
+    {
+        "text": "It really works!",
+        "startTime": 34689,
+        "endTime": 35783,
+        "slowStartTime": 52183,
+        "slowEndTime": 53899
+    }
+]

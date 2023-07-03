@@ -1,0 +1,79 @@
+[
+    {
+        "text": "﻿Let's learn some commands.",
+        "startTime": 504,
+        "endTime": 2241,
+        "slowStartTime": 906,
+        "slowEndTime": 3586
+    },
+    {
+        "text": "Come here!",
+        "startTime": 6213,
+        "endTime": 7191,
+        "slowStartTime": 9469,
+        "slowEndTime": 11012
+    },
+    {
+        "text": "Get out of here!",
+        "startTime": 10447,
+        "endTime": 12125,
+        "slowStartTime": 15821,
+        "slowEndTime": 18412
+    },
+    {
+        "text": "Don't do that!",
+        "startTime": 15468,
+        "endTime": 17283,
+        "slowStartTime": 23352,
+        "slowEndTime": 26150
+    },
+    {
+        "text": "Stand up!",
+        "startTime": 20760,
+        "endTime": 21399,
+        "slowStartTime": 31290,
+        "slowEndTime": 32323
+    },
+    {
+        "text": "Turn around!",
+        "startTime": 24649,
+        "endTime": 25571,
+        "slowStartTime": 37123,
+        "slowEndTime": 38581
+    },
+    {
+        "text": "Don't look!",
+        "startTime": 28659,
+        "endTime": 29702,
+        "slowStartTime": 43138,
+        "slowEndTime": 44778
+    },
+    {
+        "text": "Give it to me!",
+        "startTime": 33081,
+        "endTime": 34614,
+        "slowStartTime": 49772,
+        "slowEndTime": 52146
+    },
+    {
+        "text": "Stop it!",
+        "startTime": 37665,
+        "endTime": 38511,
+        "slowStartTime": 56648,
+        "slowEndTime": 57992
+    },
+    {
+        "text": "Help me!",
+        "startTime": 41330,
+        "endTime": 42517,
+        "slowStartTime": 62145,
+        "slowEndTime": 64000
+    },
+    {
+        "text": "Let's go.",
+        "startTime": 45516,
+        "endTime": 46431,
+        "slowStartTime": 68424,
+        "slowEndTime": 69872
+    }
+]

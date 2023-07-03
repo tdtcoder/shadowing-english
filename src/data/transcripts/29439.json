@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Can I have your attention?",
+        "startTime": 827,
+        "endTime": 1742,
+        "slowStartTime": 1391,
+        "slowEndTime": 2838
+    },
+    {
+        "text": "You're all dismissed.",
+        "startTime": 3607,
+        "endTime": 4554,
+        "slowStartTime": 5561,
+        "slowEndTime": 7056
+    },
+    {
+        "text": "Bankrupt?",
+        "startTime": 5601,
+        "endTime": 5988,
+        "slowStartTime": 8551,
+        "slowEndTime": 9207
+    },
+    {
+        "text": "Better luck with your next job.",
+        "startTime": 6643,
+        "endTime": 7811,
+        "slowStartTime": 10114,
+        "slowEndTime": 11942
+    },
+    {
+        "text": "This is not the life I promised you.",
+        "startTime": 13638,
+        "endTime": 15113,
+        "slowStartTime": 20607,
+        "slowEndTime": 22895
+    },
+    {
+        "text": "Not even close.",
+        "startTime": 15814,
+        "endTime": 16617,
+        "slowStartTime": 23871,
+        "slowEndTime": 25150
+    },
+    {
+        "text": "Girls, I think I have an idea.",
+        "startTime": 25423,
+        "endTime": 27988,
+        "slowStartTime": 38284,
+        "slowEndTime": 42207
+    },
+    {
+        "text": "P.T. Barnum at your service.",
+        "startTime": 36770,
+        "endTime": 38485,
+        "slowStartTime": 55305,
+        "slowEndTime": 57953
+    },
+    {
+        "text": "We're putting together a show and I need a star.",
+        "startTime": 39557,
+        "endTime": 43203,
+        "slowStartTime": 59486,
+        "slowEndTime": 65030
+    },
+    {
+        "text": "Everyone of us is special.",
+        "startTime": 45381,
+        "endTime": 47049,
+        "slowStartTime": 68221,
+        "slowEndTime": 70799
+    },
+    {
+        "text": "And nobody is like anyone else.",
+        "startTime": 48275,
+        "endTime": 50640,
+        "slowStartTime": 72563,
+        "slowEndTime": 76185
+    },
+    {
+        "text": "That's the point of my show.",
+        "startTime": 51533,
+        "endTime": 52642,
+        "slowStartTime": 77449,
+        "slowEndTime": 79188
+    },
+    {
+        "text": "Ready?",
+        "startTime": 53982,
+        "endTime": 54361,
+        "slowStartTime": 81123,
+        "slowEndTime": 81766
+    },
+    {
+        "text": "Showtime.",
+        "startTime": 55686,
+        "endTime": 56241,
+        "slowStartTime": 83679,
+        "slowEndTime": 84587
+    },
+    {
+        "text": "No one ever made a difference by being like everyone else.",
+        "startTime": 58264,
+        "endTime": 60640,
+        "slowStartTime": 87546,
+        "slowEndTime": 91185
+    }
+]

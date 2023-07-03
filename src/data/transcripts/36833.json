@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Assuming you escaped unharmed, the materials you gathered can be applied in a number of ways,...",
+        "startTime": 134,
+        "endTime": 4570,
+        "slowStartTime": 351,
+        "slowEndTime": 7080
+    },
+    {
+        "text": "...for example, crafting armor that offers further protection,...",
+        "startTime": 4766,
+        "endTime": 7330,
+        "slowStartTime": 7299,
+        "slowEndTime": 11220
+    },
+    {
+        "text": "...developing more efficient and stronger tools or even building mine carts and rails...",
+        "startTime": 7616,
+        "endTime": 11620,
+        "slowStartTime": 11574,
+        "slowEndTime": 17655
+    },
+    {
+        "text": "...to quickly transport you between locations.",
+        "startTime": 11699,
+        "endTime": 13787,
+        "slowStartTime": 17698,
+        "slowEndTime": 20905
+    },
+    {
+        "text": "You might also explore above ground and find a village...",
+        "startTime": 14702,
+        "endTime": 17346,
+        "slowStartTime": 22203,
+        "slowEndTime": 26244
+    },
+    {
+        "text": "...where you can trade with the inhabitants for various precious items.",
+        "startTime": 17468,
+        "endTime": 20571,
+        "slowStartTime": 26352,
+        "slowEndTime": 31081
+    },
+    {
+        "text": "Go further afield, and you might notice changes in the landscape.",
+        "startTime": 20959,
+        "endTime": 23773,
+        "slowStartTime": 31589,
+        "slowEndTime": 35884
+    },
+    {
+        "text": "In-game, these different areas are known as biomes:...",
+        "startTime": 24102,
+        "endTime": 26635,
+        "slowStartTime": 36303,
+        "slowEndTime": 40178
+    },
+    {
+        "text": "...oceans, deserts, jungles and some altogether stranger places...",
+        "startTime": 27041,
+        "endTime": 30561,
+        "slowStartTime": 40712,
+        "slowEndTime": 46067
+    },
+    {
+        "text": "...each offer unique resources and wildlife.",
+        "startTime": 30665,
+        "endTime": 32999,
+        "slowStartTime": 46148,
+        "slowEndTime": 49723
+    },
+    {
+        "text": "Gather these and before you know it,...",
+        "startTime": 33492,
+        "endTime": 35296,
+        "slowStartTime": 50388,
+        "slowEndTime": 53169
+    },
+    {
+        "text": "...you have a farmstead with a wealth of different crops and creatures you can use...",
+        "startTime": 35513,
+        "endTime": 38625,
+        "slowStartTime": 53419,
+        "slowEndTime": 58163
+    },
+    {
+        "text": "...for essential food and supply.",
+        "startTime": 38721,
+        "endTime": 40156,
+        "slowStartTime": 58232,
+        "slowEndTime": 60459
+    },
+    {
+        "text": "Back down the mine, you might find some lapis lazuli,...",
+        "startTime": 41036,
+        "endTime": 44111,
+        "slowStartTime": 61704,
+        "slowEndTime": 66391
+    },
+    {
+        "text": "...which you can use to enhance your tools and armor...",
+        "startTime": 44254,
+        "endTime": 46271,
+        "slowStartTime": 66531,
+        "slowEndTime": 69632
+    },
+    {
+        "text": "...on your library's enchantment table, if you built one.",
+        "startTime": 46379,
+        "endTime": 48900,
+        "slowStartTime": 69719,
+        "slowEndTime": 73575
+    },
+    {
+        "text": "Maybe you'll find some redstone, which you could use to create a whole range of electrical circuits,...",
+        "startTime": 49308,
+        "endTime": 53181,
+        "slowStartTime": 74112,
+        "slowEndTime": 79996
+    },
+    {
+        "text": "...powering anything from secret doorways to roller coasters that trigger firework displays.",
+        "startTime": 53272,
+        "endTime": 57863,
+        "slowStartTime": 80058,
+        "slowEndTime": 87019
+    },
+    {
+        "text": "Or perhaps, you'll pour some water onto lava...",
+        "startTime": 58228,
+        "endTime": 60221,
+        "slowStartTime": 87492,
+        "slowEndTime": 90556
+    },
+    {
+        "text": "...and mine the results and obsidian to create a Nether portal.",
+        "startTime": 60475,
+        "endTime": 63077,
+        "slowStartTime": 90863,
+        "slowEndTime": 94840
+    },
+    {
+        "text": "Enter the Nether and you will be faced with a whole new world of even more dangerous mobs.",
+        "startTime": 63766,
+        "endTime": 68894,
+        "slowStartTime": 95799,
+        "slowEndTime": 103566
+    },
+    {
+        "text": "Whilst here, you might seek out a Nether fortress,...",
+        "startTime": 69340,
+        "endTime": 72067,
+        "slowStartTime": 104160,
+        "slowEndTime": 108326
+    },
+    {
+        "text": "...kill the creatures known as Blazes to collect their rods...",
+        "startTime": 72339,
+        "endTime": 74878,
+        "slowStartTime": 108658,
+        "slowEndTime": 112542
+    },
+    {
+        "text": "...and you can use those for potion brewing, which would be vital in crafting eyes of Ender...",
+        "startTime": 75135,
+        "endTime": 79666,
+        "slowStartTime": 112853,
+        "slowEndTime": 119724
+    },
+    {
+        "text": "...that help direct you to the world's stronghold.",
+        "startTime": 79792,
+        "endTime": 81868,
+        "slowStartTime": 119838,
+        "slowEndTime": 123027
+    },
+    {
+        "text": "From there, you can repair and use its portal to teleport to the Ender Dragon,...",
+        "startTime": 82175,
+        "endTime": 86321,
+        "slowStartTime": 123413,
+        "slowEndTime": 129707
+    },
+    {
+        "text": "...the game's end boss.",
+        "startTime": 86737,
+        "endTime": 88187,
+        "slowStartTime": 130255,
+        "slowEndTime": 132506
+    }
+]

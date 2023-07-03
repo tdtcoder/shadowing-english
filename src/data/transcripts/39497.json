@@ -1,0 +1,79 @@
+[
+    {
+        "text": "I'm from Spain. I'm Spanish.",
+        "startTime": 1242,
+        "endTime": 3785,
+        "slowStartTime": 2013,
+        "slowEndTime": 5902
+    },
+    {
+        "text": "I speak Spanish.",
+        "startTime": 5316,
+        "endTime": 7117,
+        "slowStartTime": 8124,
+        "slowEndTime": 10901
+    },
+    {
+        "text": "He is from Turkey. He is Turkish.",
+        "startTime": 9158,
+        "endTime": 12673,
+        "slowStartTime": 13887,
+        "slowEndTime": 19234
+    },
+    {
+        "text": "He speaks Turkish.",
+        "startTime": 14111,
+        "endTime": 16005,
+        "slowStartTime": 21317,
+        "slowEndTime": 24233
+    },
+    {
+        "text": "I'm from India. I'm Indian.",
+        "startTime": 17398,
+        "endTime": 19847,
+        "slowStartTime": 26247,
+        "slowEndTime": 29996
+    },
+    {
+        "text": "I'm a pilot.",
+        "startTime": 21379,
+        "endTime": 22253,
+        "slowStartTime": 32218,
+        "slowEndTime": 33604
+    },
+    {
+        "text": "She is from Greece. She is Greek.",
+        "startTime": 23156,
+        "endTime": 25653,
+        "slowStartTime": 34884,
+        "slowEndTime": 38704
+    },
+    {
+        "text": "She is a doctor.",
+        "startTime": 27326,
+        "endTime": 28507,
+        "slowStartTime": 41139,
+        "slowEndTime": 42986
+    },
+    {
+        "text": "I am from the U.S.",
+        "startTime": 31244,
+        "endTime": 33041,
+        "slowStartTime": 47016,
+        "slowEndTime": 49786
+    },
+    {
+        "text": "She is from the UK.",
+        "startTime": 34223,
+        "endTime": 35853,
+        "slowStartTime": 51485,
+        "slowEndTime": 54004
+    },
+    {
+        "text": "We speak English. We are teachers.",
+        "startTime": 37270,
+        "endTime": 40999,
+        "slowStartTime": 56055,
+        "slowEndTime": 61723
+    }
+]

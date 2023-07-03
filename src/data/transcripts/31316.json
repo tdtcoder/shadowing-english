@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Do you want chocolate?",
+        "startTime": 3802,
+        "endTime": 5053,
+        "slowStartTime": 5853,
+        "slowEndTime": 7804
+    },
+    {
+        "text": "No, I don't want any chocolate.",
+        "startTime": 5845,
+        "endTime": 7963,
+        "slowStartTime": 8918,
+        "slowEndTime": 12169
+    },
+    {
+        "text": "Does the woman want chocolate?",
+        "startTime": 8930,
+        "endTime": 10373,
+        "slowStartTime": 13545,
+        "slowEndTime": 15785
+    },
+    {
+        "text": "No, she doesn't.",
+        "startTime": 11063,
+        "endTime": 11987,
+        "slowStartTime": 16744,
+        "slowEndTime": 18206
+    },
+    {
+        "text": "Does it fly?",
+        "startTime": 13730,
+        "endTime": 14685,
+        "slowStartTime": 20745,
+        "slowEndTime": 22252
+    },
+    {
+        "text": "Yes, it does.",
+        "startTime": 15204,
+        "endTime": 16393,
+        "slowStartTime": 22956,
+        "slowEndTime": 24814
+    },
+    {
+        "text": "Does the helicopter fly?",
+        "startTime": 17402,
+        "endTime": 18900,
+        "slowStartTime": 26253,
+        "slowEndTime": 28575
+    },
+    {
+        "text": "Yes, the helicopter flies.",
+        "startTime": 19543,
+        "endTime": 21226,
+        "slowStartTime": 29465,
+        "slowEndTime": 32064
+    },
+    {
+        "text": "Do we wash the windows?",
+        "startTime": 23083,
+        "endTime": 24643,
+        "slowStartTime": 34774,
+        "slowEndTime": 37189
+    },
+    {
+        "text": "Yes, we wash the windows.",
+        "startTime": 25623,
+        "endTime": 27121,
+        "slowStartTime": 38585,
+        "slowEndTime": 40907
+    },
+    {
+        "text": "Does he wash the windows?",
+        "startTime": 27950,
+        "endTime": 29448,
+        "slowStartTime": 42075,
+        "slowEndTime": 44397
+    },
+    {
+        "text": "Yes, he does.",
+        "startTime": 30018,
+        "endTime": 30793,
+        "slowStartTime": 45177,
+        "slowEndTime": 46414
+    }
+]

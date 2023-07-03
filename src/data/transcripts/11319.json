@@ -1,0 +1,268 @@
+[
+    {
+        "text": "What should I do?",
+        "startTime": 1194,
+        "endTime": 1830,
+        "slowStartTime": 1941,
+        "slowEndTime": 2970
+    },
+    {
+        "text": "Should I admit that I've made mistakes?",
+        "startTime": 3541,
+        "endTime": 5129,
+        "slowStartTime": 5462,
+        "slowEndTime": 7918
+    },
+    {
+        "text": "Should I remind you that I've done this before?",
+        "startTime": 6177,
+        "endTime": 7797,
+        "slowStartTime": 9416,
+        "slowEndTime": 11920
+    },
+    {
+        "text": "Should I give you a history lesson?",
+        "startTime": 8100,
+        "endTime": 9522,
+        "slowStartTime": 12300,
+        "slowEndTime": 14508
+    },
+    {
+        "text": "What should I do?",
+        "startTime": 10150,
+        "endTime": 10847,
+        "slowStartTime": 15375,
+        "slowEndTime": 16495
+    },
+    {
+        "text": "Should I tell you how much fun we had?",
+        "startTime": 11747,
+        "endTime": 13173,
+        "slowStartTime": 17771,
+        "slowEndTime": 19985
+    },
+    {
+        "text": "So, this went well.",
+        "startTime": 16473,
+        "endTime": 19456,
+        "slowStartTime": 24860,
+        "slowEndTime": 29409
+    },
+    {
+        "text": "Should I really believe I ruined my legacy?",
+        "startTime": 20164,
+        "endTime": 22010,
+        "slowStartTime": 30396,
+        "slowEndTime": 32962
+    },
+    {
+        "text": "What should I do?",
+        "startTime": 23243,
+        "endTime": 24005,
+        "slowStartTime": 35014,
+        "slowEndTime": 36019
+    },
+    {
+        "text": "What should I do?",
+        "startTime": 24099,
+        "endTime": 24718,
+        "slowStartTime": 36148,
+        "slowEndTime": 37052
+    },
+    {
+        "text": "What should I do?",
+        "startTime": 24791,
+        "endTime": 25349,
+        "slowStartTime": 37146,
+        "slowEndTime": 38159
+    },
+    {
+        "text": "Should I have my tattoo removed?",
+        "startTime": 25399,
+        "endTime": 26972,
+        "slowStartTime": 38248,
+        "slowEndTime": 40137
+    },
+    {
+        "text": "Wanna see my shiny new shoes?",
+        "startTime": 27071,
+        "endTime": 28356,
+        "slowStartTime": 40757,
+        "slowEndTime": 42486
+    },
+    {
+        "text": "Should I just sell shoes?",
+        "startTime": 28395,
+        "endTime": 29091,
+        "slowStartTime": 42498,
+        "slowEndTime": 43862
+    },
+    {
+        "text": "Shiny new shoes.",
+        "startTime": 29285,
+        "endTime": 30116,
+        "slowStartTime": 44077,
+        "slowEndTime": 45399
+    },
+    {
+        "text": "Or should I tell you, \"I am not a role model\"?",
+        "startTime": 31112,
+        "endTime": 33097,
+        "slowStartTime": 46818,
+        "slowEndTime": 49871
+    },
+    {
+        "text": "Hi, Chuck!",
+        "startTime": 34565,
+        "endTime": 34929,
+        "slowStartTime": 51997,
+        "slowEndTime": 52618
+    },
+    {
+        "text": "Seriously, what should I do?",
+        "startTime": 35454,
+        "endTime": 36545,
+        "slowStartTime": 53162,
+        "slowEndTime": 54845
+    },
+    {
+        "text": "Should I tell you I'm a championship chaser who did it for the money, rings?",
+        "startTime": 36606,
+        "endTime": 39165,
+        "slowStartTime": 54867,
+        "slowEndTime": 58824
+    },
+    {
+        "text": "Should I be who you want me to be?",
+        "startTime": 39127,
+        "endTime": 40407,
+        "slowStartTime": 58840,
+        "slowEndTime": 60836
+    },
+    {
+        "text": "Should I accept my role as a villain?",
+        "startTime": 40725,
+        "endTime": 43107,
+        "slowStartTime": 61237,
+        "slowEndTime": 64885
+    },
+    {
+        "text": "Maybe, I should just disappear.",
+        "startTime": 43414,
+        "endTime": 44931,
+        "slowStartTime": 65271,
+        "slowEndTime": 67622
+    },
+    {
+        "text": "Should I stop listening to my friends?",
+        "startTime": 48122,
+        "endTime": 49497,
+        "slowStartTime": 72333,
+        "slowEndTime": 74470
+    },
+    {
+        "text": "They're my friends.",
+        "startTime": 49778,
+        "endTime": 50660,
+        "slowStartTime": 74817,
+        "slowEndTime": 76215
+    },
+    {
+        "text": "Should I try acting?",
+        "startTime": 50834,
+        "endTime": 51907,
+        "slowStartTime": 76401,
+        "slowEndTime": 77839
+    },
+    {
+        "text": "You just gotta deal with the heat, man.",
+        "startTime": 52785,
+        "endTime": 54333,
+        "slowStartTime": 79328,
+        "slowEndTime": 81725
+    },
+    {
+        "text": "Be patient.",
+        "startTime": 55923,
+        "endTime": 56629,
+        "slowStartTime": 84035,
+        "slowEndTime": 85168
+    },
+    {
+        "text": "After a while, the temperature drops and everything is free and easy.",
+        "startTime": 56881,
+        "endTime": 60327,
+        "slowStartTime": 85472,
+        "slowEndTime": 90715
+    },
+    {
+        "text": "Should I be writing this down?",
+        "startTime": 60467,
+        "endTime": 61387,
+        "slowStartTime": 90851,
+        "slowEndTime": 92306
+    },
+    {
+        "text": "Uh-huh.",
+        "startTime": 62071,
+        "endTime": 62482,
+        "slowStartTime": 93256,
+        "slowEndTime": 93948
+    },
+    {
+        "text": "Should I make you laugh?",
+        "startTime": 62635,
+        "endTime": 63360,
+        "slowStartTime": 94102,
+        "slowEndTime": 95265
+    },
+    {
+        "text": "Should I read you a soulful poem?",
+        "startTime": 63422,
+        "endTime": 64713,
+        "slowStartTime": 95283,
+        "slowEndTime": 97295
+    },
+    {
+        "text": "Shoot me with your words, you may cut me with your eyes, but still, like air,...",
+        "startTime": 64799,
+        "endTime": 68769,
+        "slowStartTime": 97348,
+        "slowEndTime": 103379
+    },
+    {
+        "text": "...I'll rise.",
+        "startTime": 69208,
+        "endTime": 70001,
+        "slowStartTime": 103962,
+        "slowEndTime": 105227
+    },
+    {
+        "text": "Or should we just clear the decks and start over?",
+        "startTime": 70381,
+        "endTime": 72500,
+        "slowStartTime": 105721,
+        "slowEndTime": 108540
+    },
+    {
+        "text": "Coming through here.",
+        "startTime": 72715,
+        "endTime": 73569,
+        "slowStartTime": 109222,
+        "slowEndTime": 110578
+    },
+    {
+        "text": "What should I do?",
+        "startTime": 75960,
+        "endTime": 76800,
+        "slowStartTime": 114090,
+        "slowEndTime": 115004
+    },
+    {
+        "text": "Should I be who you want me to be?",
+        "startTime": 81260,
+        "endTime": 82805,
+        "slowStartTime": 122040,
+        "slowEndTime": 124432
+    }
+]

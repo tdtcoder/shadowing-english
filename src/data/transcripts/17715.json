@@ -1,0 +1,86 @@
+[
+    {
+        "text": "What are you doing, Kelly?",
+        "startTime": 1768,
+        "endTime": 3523,
+        "slowStartTime": 2802,
+        "slowEndTime": 5509
+    },
+    {
+        "text": "I'm watching a movie about a brave girl.",
+        "startTime": 4554,
+        "endTime": 7554,
+        "slowStartTime": 6981,
+        "slowEndTime": 11556
+    },
+    {
+        "text": "What about you, Jamie?",
+        "startTime": 8132,
+        "endTime": 9950,
+        "slowStartTime": 12348,
+        "slowEndTime": 15150
+    },
+    {
+        "text": "I'm reading a book. It is very interesting.",
+        "startTime": 10897,
+        "endTime": 14277,
+        "slowStartTime": 16495,
+        "slowEndTime": 21640
+    },
+    {
+        "text": "What is it about?",
+        "startTime": 15393,
+        "endTime": 16905,
+        "slowStartTime": 23239,
+        "slowEndTime": 25582
+    },
+    {
+        "text": "It is about mysterious creatures in outer space.",
+        "startTime": 17947,
+        "endTime": 21939,
+        "slowStartTime": 27070,
+        "slowEndTime": 33133
+    },
+    {
+        "text": "Mysterious creatures in outer space?",
+        "startTime": 23002,
+        "endTime": 26245,
+        "slowStartTime": 34653,
+        "slowEndTime": 39592
+    },
+    {
+        "text": "Yes. In other words, it is about aliens.",
+        "startTime": 27350,
+        "endTime": 31458,
+        "slowStartTime": 41175,
+        "slowEndTime": 47412
+    },
+    {
+        "text": "Are you interested in aliens from outer space?",
+        "startTime": 31877,
+        "endTime": 35373,
+        "slowStartTime": 47966,
+        "slowEndTime": 53285
+    },
+    {
+        "text": "Totally!",
+        "startTime": 36426,
+        "endTime": 37294,
+        "slowStartTime": 54789,
+        "slowEndTime": 56166
+    },
+    {
+        "text": "Do you want me to lend you the book?",
+        "startTime": 38315,
+        "endTime": 40260,
+        "slowStartTime": 57623,
+        "slowEndTime": 60615
+    },
+    {
+        "text": "Yes, please. I'm sure I will enjoy the book.",
+        "startTime": 41383,
+        "endTime": 45174,
+        "slowStartTime": 62224,
+        "slowEndTime": 67986
+    }
+]

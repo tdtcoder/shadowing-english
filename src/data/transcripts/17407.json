@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Puppy sees a little mouse.",
+        "startTime": 2922,
+        "endTime": 5076,
+        "slowStartTime": 4533,
+        "slowEndTime": 7839
+    },
+    {
+        "text": "Let it be, Puppy.",
+        "startTime": 6143,
+        "endTime": 7577,
+        "slowStartTime": 9364,
+        "slowEndTime": 11590
+    },
+    {
+        "text": "Puppy sees a little frog.",
+        "startTime": 8682,
+        "endTime": 10743,
+        "slowStartTime": 13173,
+        "slowEndTime": 16340
+    },
+    {
+        "text": "Let it be, Puppy.",
+        "startTime": 11859,
+        "endTime": 13460,
+        "slowStartTime": 17938,
+        "slowEndTime": 20415
+    },
+    {
+        "text": "Puppy sees a little turtle.",
+        "startTime": 14595,
+        "endTime": 16816,
+        "slowStartTime": 22042,
+        "slowEndTime": 25449
+    },
+    {
+        "text": "Let it be, Puppy.",
+        "startTime": 17963,
+        "endTime": 19473,
+        "slowStartTime": 27094,
+        "slowEndTime": 29435
+    },
+    {
+        "text": "Puppy sees a little ball.",
+        "startTime": 20592,
+        "endTime": 22679,
+        "slowStartTime": 31038,
+        "slowEndTime": 34244
+    },
+    {
+        "text": "Get the ball, Puppy.",
+        "startTime": 23755,
+        "endTime": 25293,
+        "slowStartTime": 35782,
+        "slowEndTime": 38164
+    },
+    {
+        "text": "I want to see your baby sister.",
+        "startTime": 28963,
+        "endTime": 31364,
+        "slowStartTime": 43595,
+        "slowEndTime": 47271
+    },
+    {
+        "text": "What is your baby sister doing?",
+        "startTime": 32415,
+        "endTime": 34545,
+        "slowStartTime": 48773,
+        "slowEndTime": 52042
+    },
+    {
+        "text": "She is sleeping now.",
+        "startTime": 35703,
+        "endTime": 37290,
+        "slowStartTime": 53705,
+        "slowEndTime": 56160
+    },
+    {
+        "text": "Let her sleep.",
+        "startTime": 37853,
+        "endTime": 38723,
+        "slowStartTime": 56930,
+        "slowEndTime": 58309
+    },
+    {
+        "text": "I want to play with your dog.",
+        "startTime": 39943,
+        "endTime": 41925,
+        "slowStartTime": 60064,
+        "slowEndTime": 63112
+    },
+    {
+        "text": "What is your dog doing?",
+        "startTime": 42514,
+        "endTime": 44227,
+        "slowStartTime": 63921,
+        "slowEndTime": 66565
+    },
+    {
+        "text": "He is eating his meal.",
+        "startTime": 45331,
+        "endTime": 47003,
+        "slowStartTime": 68147,
+        "slowEndTime": 70730
+    },
+    {
+        "text": "Let him eat.",
+        "startTime": 47404,
+        "endTime": 48475,
+        "slowStartTime": 71256,
+        "slowEndTime": 72938
+    }
+]

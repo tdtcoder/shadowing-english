@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Piano.",
+        "startTime": 777,
+        "endTime": 1475,
+        "slowStartTime": 1316,
+        "slowEndTime": 2438
+    },
+    {
+        "text": "Clarinet.",
+        "startTime": 4029,
+        "endTime": 4776,
+        "slowStartTime": 6194,
+        "slowEndTime": 7389
+    },
+    {
+        "text": "Violin.",
+        "startTime": 6904,
+        "endTime": 8049,
+        "slowStartTime": 10506,
+        "slowEndTime": 12298
+    },
+    {
+        "text": "Hey, what are you doing?",
+        "startTime": 8351,
+        "endTime": 9393,
+        "slowStartTime": 12676,
+        "slowEndTime": 14314
+    },
+    {
+        "text": "Music lesson.",
+        "startTime": 9772,
+        "endTime": 10631,
+        "slowStartTime": 14808,
+        "slowEndTime": 16171
+    },
+    {
+        "text": "He has to start sometime.",
+        "startTime": 10767,
+        "endTime": 11981,
+        "slowStartTime": 16300,
+        "slowEndTime": 18197
+    },
+    {
+        "text": "Music lesson?",
+        "startTime": 20182,
+        "endTime": 21283,
+        "slowStartTime": 30423,
+        "slowEndTime": 32150
+    },
+    {
+        "text": "By their second kid, every mom is an expert...",
+        "startTime": 22159,
+        "endTime": 24222,
+        "slowStartTime": 33389,
+        "slowEndTime": 36558
+    },
+    {
+        "text": "...and more likely to choose Luvs than first-time moms.",
+        "startTime": 24436,
+        "endTime": 27145,
+        "slowStartTime": 36804,
+        "slowEndTime": 40943
+    }
+]

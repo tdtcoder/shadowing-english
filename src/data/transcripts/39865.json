@@ -1,0 +1,37 @@
+[
+    {
+        "text": "I wanted to give you my new address and telephone number.",
+        "startTime": 1317,
+        "endTime": 4549,
+        "slowStartTime": 2126,
+        "slowEndTime": 7049
+    },
+    {
+        "text": "The address is 125 Maple Street.",
+        "startTime": 4874,
+        "endTime": 8106,
+        "slowStartTime": 7461,
+        "slowEndTime": 12384
+    },
+    {
+        "text": "I live in apartment number 1.",
+        "startTime": 8395,
+        "endTime": 10326,
+        "slowStartTime": 12742,
+        "slowEndTime": 15714
+    },
+    {
+        "text": "My telephone number is 555-6556.",
+        "startTime": 10871,
+        "endTime": 15714,
+        "slowStartTime": 16457,
+        "slowEndTime": 23796
+    },
+    {
+        "text": "It's best to call me after 10:00 p.m.",
+        "startTime": 16197,
+        "endTime": 18563,
+        "slowStartTime": 24446,
+        "slowEndTime": 28069
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Thank you so much for coming with me, Kathy.",
+        "startTime": 336,
+        "endTime": 2627,
+        "slowStartTime": 654,
+        "slowEndTime": 4165
+    },
+    {
+        "text": "Oh, no problem.",
+        "startTime": 3221,
+        "endTime": 4299,
+        "slowStartTime": 4981,
+        "slowEndTime": 6673
+    },
+    {
+        "text": "I love shopping, even if it's just window-shopping.",
+        "startTime": 4451,
+        "endTime": 7325,
+        "slowStartTime": 6827,
+        "slowEndTime": 11213
+    },
+    {
+        "text": "So, shall we take a look at some of the options?",
+        "startTime": 7773,
+        "endTime": 10405,
+        "slowStartTime": 11809,
+        "slowEndTime": 15832
+    },
+    {
+        "text": "OK.",
+        "startTime": 10561,
+        "endTime": 11019,
+        "slowStartTime": 15992,
+        "slowEndTime": 16754
+    },
+    {
+        "text": "Wow, those are pretty notebooks.",
+        "startTime": 11493,
+        "endTime": 13854,
+        "slowStartTime": 17390,
+        "slowEndTime": 21006
+    },
+    {
+        "text": "Can I get $10 worth of these?",
+        "startTime": 14065,
+        "endTime": 16246,
+        "slowStartTime": 21247,
+        "slowEndTime": 24594
+    },
+    {
+        "text": "Sure, do you need anything else?",
+        "startTime": 16901,
+        "endTime": 18917,
+        "slowStartTime": 25502,
+        "slowEndTime": 28600
+    },
+    {
+        "text": "Actually, yes.",
+        "startTime": 19228,
+        "endTime": 20356,
+        "slowStartTime": 28992,
+        "slowEndTime": 30759
+    },
+    {
+        "text": "Can you recommend a good MP3 player?",
+        "startTime": 20623,
+        "endTime": 22843,
+        "slowStartTime": 31085,
+        "slowEndTime": 34490
+    },
+    {
+        "text": "Sure, we have quite a few good ones here.",
+        "startTime": 22996,
+        "endTime": 25855,
+        "slowStartTime": 34644,
+        "slowEndTime": 39007
+    },
+    {
+        "text": "This is our most popular model.",
+        "startTime": 26243,
+        "endTime": 28587,
+        "slowStartTime": 39515,
+        "slowEndTime": 43106
+    },
+    {
+        "text": "That one looks really nice.",
+        "startTime": 29096,
+        "endTime": 30571,
+        "slowStartTime": 43794,
+        "slowEndTime": 46081
+    },
+    {
+        "text": "How much is it?",
+        "startTime": 30740,
+        "endTime": 31373,
+        "slowStartTime": 46260,
+        "slowEndTime": 47285
+    },
+    {
+        "text": "This one sells for $200.",
+        "startTime": 32058,
+        "endTime": 34100,
+        "slowStartTime": 48237,
+        "slowEndTime": 51375
+    },
+    {
+        "text": "It's a top-of-the-line model, so it's more expensive than the others.",
+        "startTime": 34571,
+        "endTime": 38391,
+        "slowStartTime": 52007,
+        "slowEndTime": 57812
+    },
+    {
+        "text": "$200!",
+        "startTime": 38883,
+        "endTime": 40297,
+        "slowStartTime": 58475,
+        "slowEndTime": 60671
+    },
+    {
+        "text": "That seems expensive!",
+        "startTime": 40505,
+        "endTime": 42031,
+        "slowStartTime": 60907,
+        "slowEndTime": 63271
+    },
+    {
+        "text": "Yeah, that's out of my price range.",
+        "startTime": 42195,
+        "endTime": 44251,
+        "slowStartTime": 63442,
+        "slowEndTime": 66602
+    },
+    {
+        "text": "Can you give me a discount?",
+        "startTime": 44691,
+        "endTime": 46061,
+        "slowStartTime": 67187,
+        "slowEndTime": 69317
+    }
+]

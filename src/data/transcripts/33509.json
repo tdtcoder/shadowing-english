@@ -1,0 +1,170 @@
+[
+    {
+        "text": "Achoo.",
+        "startTime": 2246,
+        "endTime": 2977,
+        "slowStartTime": 3519,
+        "slowEndTime": 4690
+    },
+    {
+        "text": "Achoo.",
+        "startTime": 5823,
+        "endTime": 6582,
+        "slowStartTime": 8885,
+        "slowEndTime": 10098
+    },
+    {
+        "text": "The sound of sneezing.",
+        "startTime": 8331,
+        "endTime": 10125,
+        "slowStartTime": 12647,
+        "slowEndTime": 15413
+    },
+    {
+        "text": "Achoo.",
+        "startTime": 12001,
+        "endTime": 12805,
+        "slowStartTime": 18152,
+        "slowEndTime": 19432
+    },
+    {
+        "text": "Burp.",
+        "startTime": 15514,
+        "endTime": 15992,
+        "slowStartTime": 23421,
+        "slowEndTime": 24213
+    },
+    {
+        "text": "Burp.",
+        "startTime": 18111,
+        "endTime": 18655,
+        "slowStartTime": 27317,
+        "slowEndTime": 28208
+    },
+    {
+        "text": "The sound of burping.",
+        "startTime": 20891,
+        "endTime": 22724,
+        "slowStartTime": 31487,
+        "slowEndTime": 34311
+    },
+    {
+        "text": "Burp.",
+        "startTime": 24714,
+        "endTime": 25077,
+        "slowStartTime": 37221,
+        "slowEndTime": 37841
+    },
+    {
+        "text": "Clap.",
+        "startTime": 28718,
+        "endTime": 29218,
+        "slowStartTime": 43227,
+        "slowEndTime": 44052
+    },
+    {
+        "text": "Clap.",
+        "startTime": 32283,
+        "endTime": 32677,
+        "slowStartTime": 48574,
+        "slowEndTime": 49241
+    },
+    {
+        "text": "The sound of clapping.",
+        "startTime": 34521,
+        "endTime": 36225,
+        "slowStartTime": 51932,
+        "slowEndTime": 54563
+    },
+    {
+        "text": "Clap.",
+        "startTime": 38157,
+        "endTime": 38519,
+        "slowStartTime": 57385,
+        "slowEndTime": 58003
+    },
+    {
+        "text": "Crunch.",
+        "startTime": 42819,
+        "endTime": 43537,
+        "slowStartTime": 64379,
+        "slowEndTime": 65531
+    },
+    {
+        "text": "Crunch.",
+        "startTime": 47138,
+        "endTime": 47781,
+        "slowStartTime": 70857,
+        "slowEndTime": 71896
+    },
+    {
+        "text": "The sound of eating snacks.",
+        "startTime": 49635,
+        "endTime": 51753,
+        "slowStartTime": 74603,
+        "slowEndTime": 77855
+    },
+    {
+        "text": "Crunch.",
+        "startTime": 53723,
+        "endTime": 54291,
+        "slowStartTime": 80735,
+        "slowEndTime": 81661
+    },
+    {
+        "text": "Glug.",
+        "startTime": 58753,
+        "endTime": 59383,
+        "slowStartTime": 88279,
+        "slowEndTime": 89300
+    },
+    {
+        "text": "Glug.",
+        "startTime": 62811,
+        "endTime": 63485,
+        "slowStartTime": 94366,
+        "slowEndTime": 95453
+    },
+    {
+        "text": "The sound of drinking.",
+        "startTime": 65321,
+        "endTime": 67083,
+        "slowStartTime": 98131,
+        "slowEndTime": 100849
+    },
+    {
+        "text": "Glug.",
+        "startTime": 68790,
+        "endTime": 69372,
+        "slowStartTime": 103335,
+        "slowEndTime": 104283
+    },
+    {
+        "text": "Hiccup.",
+        "startTime": 73499,
+        "endTime": 74032,
+        "slowStartTime": 110398,
+        "slowEndTime": 111273
+    },
+    {
+        "text": "Hiccup.",
+        "startTime": 77359,
+        "endTime": 77779,
+        "slowStartTime": 116189,
+        "slowEndTime": 116894
+    },
+    {
+        "text": "The sound of hiccupping.",
+        "startTime": 79819,
+        "endTime": 81811,
+        "slowStartTime": 119878,
+        "slowEndTime": 122941
+    },
+    {
+        "text": "Hiccup.",
+        "startTime": 83606,
+        "endTime": 84127,
+        "slowStartTime": 125559,
+        "slowEndTime": 126416
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "text": "My life is hell.",
+        "startTime": 4100,
+        "endTime": 5400,
+        "slowStartTime": 6500,
+        "slowEndTime": 8300
+    },
+    {
+        "text": "I want to get out of Chino.",
+        "startTime": 6150,
+        "endTime": 8100,
+        "slowStartTime": 9500,
+        "slowEndTime": 12300
+    },
+    {
+        "text": "Listen to me.",
+        "startTime": 8800,
+        "endTime": 9650,
+        "slowStartTime": 13500,
+        "slowEndTime": 14650
+    },
+    {
+        "text": "I haven't learned much in my life but I know one thing.",
+        "startTime": 10050,
+        "endTime": 13700,
+        "slowStartTime": 15400,
+        "slowEndTime": 20750
+    },
+    {
+        "text": "Dreams don't come true.",
+        "startTime": 14500,
+        "endTime": 16050,
+        "slowStartTime": 22050,
+        "slowEndTime": 24250
+    },
+    {
+        "text": "He's right, not in Chino.",
+        "startTime": 17250,
+        "endTime": 19750,
+        "slowStartTime": 26150,
+        "slowEndTime": 29750
+    },
+    {
+        "text": "Ryan, you're a clever kid.",
+        "startTime": 21100,
+        "endTime": 23600,
+        "slowStartTime": 31850,
+        "slowEndTime": 35600
+    },
+    {
+        "text": "Have you thought about your future?",
+        "startTime": 24800,
+        "endTime": 26800,
+        "slowStartTime": 37400,
+        "slowEndTime": 40400
+    },
+    {
+        "text": "In Chino, you don't have dreams.",
+        "startTime": 29000,
+        "endTime": 31500,
+        "slowStartTime": 43800,
+        "slowEndTime": 47400
+    },
+    {
+        "text": "Dreams don't come true.",
+        "startTime": 32150,
+        "endTime": 34050,
+        "slowStartTime": 48500,
+        "slowEndTime": 51250
+    },
+    {
+        "text": "He stole a car and you brought him home?",
+        "startTime": 35300,
+        "endTime": 38900,
+        "slowStartTime": 53200,
+        "slowEndTime": 58500
+    },
+    {
+        "text": "She's so beautiful.",
+        "startTime": 39800,
+        "endTime": 41700,
+        "slowStartTime": 60000,
+        "slowEndTime": 62800
+    },
+    {
+        "text": "Who are you?",
+        "startTime": 42750,
+        "endTime": 43500,
+        "slowStartTime": 64400,
+        "slowEndTime": 65400
+    },
+    {
+        "text": "Anyone you want.",
+        "startTime": 44850,
+        "endTime": 46100,
+        "slowStartTime": 67600,
+        "slowEndTime": 69350
+    },
+    {
+        "text": "Who's that?",
+        "startTime": 46900,
+        "endTime": 47850,
+        "slowStartTime": 70600,
+        "slowEndTime": 72000
+    },
+    {
+        "text": "He's cute!",
+        "startTime": 48350,
+        "endTime": 49450,
+        "slowStartTime": 72800,
+        "slowEndTime": 74300
+    },
+    {
+        "text": "I don't really know.",
+        "startTime": 50200,
+        "endTime": 51800,
+        "slowStartTime": 75600,
+        "slowEndTime": 77900
+    },
+    {
+        "text": "Well, I plan to find out.",
+        "startTime": 52550,
+        "endTime": 54500,
+        "slowStartTime": 79100,
+        "slowEndTime": 81900
+    },
+    {
+        "text": "Welcome to the O.C.!",
+        "startTime": 55350,
+        "endTime": 56950,
+        "slowStartTime": 83300,
+        "slowEndTime": 85650
+    },
+    {
+        "text": "If I ever see you here again, you're dead. Dead!",
+        "startTime": 57600,
+        "endTime": 61100,
+        "slowStartTime": 86650,
+        "slowEndTime": 91800
+    },
+    {
+        "text": "I don't know what to say.",
+        "startTime": 62650,
+        "endTime": 64250,
+        "slowStartTime": 94300,
+        "slowEndTime": 96575
+    },
+    {
+        "text": "Tonight was fantastic.",
+        "startTime": 64650,
+        "endTime": 67300,
+        "slowStartTime": 97300,
+        "slowEndTime": 101150
+    },
+    {
+        "text": "You were totally there for me.",
+        "startTime": 67650,
+        "endTime": 69500,
+        "slowStartTime": 101800,
+        "slowEndTime": 104450
+    },
+    {
+        "text": "You were like Brad Pitt in Fight Club!",
+        "startTime": 69850,
+        "endTime": 72000,
+        "slowStartTime": 105050,
+        "slowEndTime": 108270
+    },
+    {
+        "text": "Maybe you could teach me how to fight...",
+        "startTime": 72650,
+        "endTime": 74700,
+        "slowStartTime": 109250,
+        "slowEndTime": 112250
+    },
+    {
+        "text": "...and next time, we'll win!",
+        "startTime": 75100,
+        "endTime": 76700,
+        "slowStartTime": 112950,
+        "slowEndTime": 115080
+    },
+    {
+        "text": "Welcome to the dark side.",
+        "startTime": 80750,
+        "endTime": 82600,
+        "slowStartTime": 121400,
+        "slowEndTime": 124100
+    }
+]

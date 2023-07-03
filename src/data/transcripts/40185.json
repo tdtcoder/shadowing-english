@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Hey Christa, have you seen my notebook?",
+        "startTime": 966,
+        "endTime": 2593,
+        "slowStartTime": 1599,
+        "slowEndTime": 4114
+    },
+    {
+        "text": "It's on the shelf.",
+        "startTime": 2937,
+        "endTime": 3917,
+        "slowStartTime": 4556,
+        "slowEndTime": 6101
+    },
+    {
+        "text": "Which shelf?",
+        "startTime": 4557,
+        "endTime": 5183,
+        "slowStartTime": 6986,
+        "slowEndTime": 7999
+    },
+    {
+        "text": "The shelf beside the wall.",
+        "startTime": 5430,
+        "endTime": 6851,
+        "slowStartTime": 8295,
+        "slowEndTime": 10502
+    },
+    {
+        "text": "I didn't see it there.",
+        "startTime": 7615,
+        "endTime": 8962,
+        "slowStartTime": 11573,
+        "slowEndTime": 13668
+    },
+    {
+        "text": "It must be under a pile of paper.",
+        "startTime": 9289,
+        "endTime": 11069,
+        "slowStartTime": 14084,
+        "slowEndTime": 16829
+    },
+    {
+        "text": "Pile of paper?",
+        "startTime": 11518,
+        "endTime": 12741,
+        "slowStartTime": 17427,
+        "slowEndTime": 19336
+    },
+    {
+        "text": "Yeah, it's under the pile of paper beside the printer,...",
+        "startTime": 13167,
+        "endTime": 16394,
+        "slowStartTime": 19900,
+        "slowEndTime": 24816
+    },
+    {
+        "text": "...on the shelf beside the wall.",
+        "startTime": 16679,
+        "endTime": 18197,
+        "slowStartTime": 25169,
+        "slowEndTime": 27520
+    },
+    {
+        "text": "Beside the printer, under a pile of papers.",
+        "startTime": 19021,
+        "endTime": 21830,
+        "slowStartTime": 28682,
+        "slowEndTime": 32970
+    },
+    {
+        "text": "I'll check again.",
+        "startTime": 22526,
+        "endTime": 23559,
+        "slowStartTime": 33939,
+        "slowEndTime": 35564
+    },
+    {
+        "text": "I saw it there.",
+        "startTime": 24461,
+        "endTime": 25550,
+        "slowStartTime": 36841,
+        "slowEndTime": 38550
+    },
+    {
+        "text": "Look under the flower vase.",
+        "startTime": 25781,
+        "endTime": 27266,
+        "slowStartTime": 38822,
+        "slowEndTime": 41124
+    },
+    {
+        "text": "Okay, thank you.",
+        "startTime": 28115,
+        "endTime": 29105,
+        "slowStartTime": 42322,
+        "slowEndTime": 43883
+    }
+]

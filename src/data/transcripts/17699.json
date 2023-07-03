@@ -1,0 +1,79 @@
+[
+    {
+        "text": "I saw you jog in the park yesterday.",
+        "startTime": 2757,
+        "endTime": 5299,
+        "slowStartTime": 4285,
+        "slowEndTime": 8173
+    },
+    {
+        "text": "It is my hobby to jog in the park.",
+        "startTime": 6533,
+        "endTime": 8833,
+        "slowStartTime": 9950,
+        "slowEndTime": 13474
+    },
+    {
+        "text": "Jogging every day is good for our health.",
+        "startTime": 9221,
+        "endTime": 11613,
+        "slowStartTime": 13981,
+        "slowEndTime": 17645
+    },
+    {
+        "text": "What do you want to be when you grow up?",
+        "startTime": 14539,
+        "endTime": 16878,
+        "slowStartTime": 21958,
+        "slowEndTime": 25542
+    },
+    {
+        "text": "It is my future dream to be a nurse.",
+        "startTime": 18150,
+        "endTime": 20983,
+        "slowStartTime": 27375,
+        "slowEndTime": 31699
+    },
+    {
+        "text": "I like taking care of the sick.",
+        "startTime": 21328,
+        "endTime": 23589,
+        "slowStartTime": 32142,
+        "slowEndTime": 35609
+    },
+    {
+        "text": "It's a good idea. I saw you helping an old woman a few days ago.",
+        "startTime": 24335,
+        "endTime": 29085,
+        "slowStartTime": 36652,
+        "slowEndTime": 43853
+    },
+    {
+        "text": "I'm sure you will be a good nurse.",
+        "startTime": 29638,
+        "endTime": 31899,
+        "slowStartTime": 44607,
+        "slowEndTime": 48074
+    },
+    {
+        "text": "Thanks.",
+        "startTime": 32927,
+        "endTime": 33699,
+        "slowStartTime": 49540,
+        "slowEndTime": 50774
+    },
+    {
+        "text": "I heard you play the piano yesterday. You played very well.",
+        "startTime": 36449,
+        "endTime": 40382,
+        "slowStartTime": 54823,
+        "slowEndTime": 60798
+    },
+    {
+        "text": "Thanks. Being a pianist is my wish.",
+        "startTime": 41691,
+        "endTime": 45135,
+        "slowStartTime": 62687,
+        "slowEndTime": 67927
+    }
+]

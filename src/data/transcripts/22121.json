@@ -1,0 +1,58 @@
+[
+    {
+        "text": "We've all sent an e-mail to the wrong person...",
+        "startTime": 160,
+        "endTime": 1824,
+        "slowStartTime": 390,
+        "slowEndTime": 2961
+    },
+    {
+        "text": "...or maybe you've sent an e-mail to the right person,...",
+        "startTime": 1894,
+        "endTime": 3837,
+        "slowStartTime": 2991,
+        "slowEndTime": 5980
+    },
+    {
+        "text": "...but you rethought it after you sent it.",
+        "startTime": 3945,
+        "endTime": 5471,
+        "slowStartTime": 6067,
+        "slowEndTime": 8432
+    },
+    {
+        "text": "You can undo the sendification of an e-mail using Gmail.",
+        "startTime": 7481,
+        "endTime": 10729,
+        "slowStartTime": 11371,
+        "slowEndTime": 16318
+    },
+    {
+        "text": "Click the little gear icon in the upper right-hand corner to \"Settings.\"",
+        "startTime": 10815,
+        "endTime": 13417,
+        "slowStartTime": 16373,
+        "slowEndTime": 20351
+    },
+    {
+        "text": "Then under the \"Labs\" tab, find the \"Undo Send\" feature and click \"Enable.\"",
+        "startTime": 13683,
+        "endTime": 19514,
+        "slowStartTime": 20674,
+        "slowEndTime": 29496
+    },
+    {
+        "text": "Scroll down, click \"Save.\"",
+        "startTime": 19635,
+        "endTime": 20773,
+        "slowStartTime": 29603,
+        "slowEndTime": 31385
+    },
+    {
+        "text": "The next time you send a message, you'll have ten seconds to undo it.",
+        "startTime": 20943,
+        "endTime": 23709,
+        "slowStartTime": 31565,
+        "slowEndTime": 35789
+    }
+]

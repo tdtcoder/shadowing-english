@@ -1,0 +1,100 @@
+[
+    {
+        "text": "﻿The process of choosing a president formally begins with the primary election...",
+        "startTime": 1234,
+        "endTime": 5158,
+        "slowStartTime": 2001,
+        "slowEndTime": 7962
+    },
+    {
+        "text": "...when each party chooses a nominee.",
+        "startTime": 5500,
+        "endTime": 7385,
+        "slowStartTime": 8400,
+        "slowEndTime": 11303
+    },
+    {
+        "text": "During this process, each state holds its own vote called either a \"primary\" or a \"caucus.\"",
+        "startTime": 8041,
+        "endTime": 13846,
+        "slowStartTime": 12211,
+        "slowEndTime": 20994
+    },
+    {
+        "text": "The first caucus is traditionally in Iowa.",
+        "startTime": 14617,
+        "endTime": 17367,
+        "slowStartTime": 22076,
+        "slowEndTime": 26276
+    },
+    {
+        "text": "In a caucus, citizens gather in a public space to debate issues and share concerns.",
+        "startTime": 18203,
+        "endTime": 23286,
+        "slowStartTime": 27455,
+        "slowEndTime": 35154
+    },
+    {
+        "text": "They then choose a candidate.",
+        "startTime": 23811,
+        "endTime": 25076,
+        "slowStartTime": 35867,
+        "slowEndTime": 37839
+    },
+    {
+        "text": "The results from each district are then tallied...",
+        "startTime": 25836,
+        "endTime": 27917,
+        "slowStartTime": 38904,
+        "slowEndTime": 42100
+    },
+    {
+        "text": "...to determine a statewide outcome.",
+        "startTime": 28123,
+        "endTime": 29752,
+        "slowStartTime": 42335,
+        "slowEndTime": 44853
+    },
+    {
+        "text": "The first primary is in New Hampshire.",
+        "startTime": 30831,
+        "endTime": 32835,
+        "slowStartTime": 46397,
+        "slowEndTime": 49477
+    },
+    {
+        "text": "A primary is like a regular election, where citizens cast ballots at a voting center.",
+        "startTime": 33526,
+        "endTime": 38026,
+        "slowStartTime": 50439,
+        "slowEndTime": 57264
+    },
+    {
+        "text": "One important date is \"Super Tuesday,\" when lots of states vote on the same day.",
+        "startTime": 38848,
+        "endTime": 43591,
+        "slowStartTime": 58422,
+        "slowEndTime": 65611
+    },
+    {
+        "text": "These state primaries and caucuses then continue until around mid-year.",
+        "startTime": 44379,
+        "endTime": 47911,
+        "slowStartTime": 66718,
+        "slowEndTime": 72092
+    },
+    {
+        "text": "A winner usually emerges even before all the nominating contests are over.",
+        "startTime": 48878,
+        "endTime": 52743,
+        "slowStartTime": 73467,
+        "slowEndTime": 79340
+    },
+    {
+        "text": "But it's not official until later at each party's national political convention.",
+        "startTime": 53275,
+        "endTime": 57701,
+        "slowStartTime": 80062,
+        "slowEndTime": 86776
+    }
+]

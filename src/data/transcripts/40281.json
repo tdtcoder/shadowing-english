@@ -1,0 +1,205 @@
+[
+    {
+        "text": "A spokesperson for Google said that,...",
+        "startTime": 253,
+        "endTime": 1977,
+        "slowStartTime": 530,
+        "slowEndTime": 3191
+    },
+    {
+        "text": "…while chatbots can imitate conversation, they are not free thinking,...",
+        "startTime": 2064,
+        "endTime": 6009,
+        "slowStartTime": 3246,
+        "slowEndTime": 9239
+    },
+    {
+        "text": "…but, what made the company's former employees speak out?",
+        "startTime": 6430,
+        "endTime": 9393,
+        "slowStartTime": 9795,
+        "slowEndTime": 14315
+    },
+    {
+        "text": "Well, let's bring you some insights into that.",
+        "startTime": 9506,
+        "endTime": 11545,
+        "slowStartTime": 14409,
+        "slowEndTime": 17543
+    },
+    {
+        "text": "I'm joined by our technology editor, Zoey Kleinman, who is with us here today.",
+        "startTime": 11629,
+        "endTime": 16337,
+        "slowStartTime": 17594,
+        "slowEndTime": 24731
+    },
+    {
+        "text": "Zoey, what is all this about?",
+        "startTime": 16434,
+        "endTime": 18415,
+        "slowStartTime": 24801,
+        "slowEndTime": 27848
+    },
+    {
+        "text": "It's a fascinating story, isn't it?",
+        "startTime": 18730,
+        "endTime": 20193,
+        "slowStartTime": 28245,
+        "slowEndTime": 30515
+    },
+    {
+        "text": "So, Google created an artificial intelligence project which it called LaMDA,...",
+        "startTime": 20283,
+        "endTime": 24566,
+        "slowStartTime": 30575,
+        "slowEndTime": 37074
+    },
+    {
+        "text": "…and it was designed to generate chatbots.",
+        "startTime": 24637,
+        "endTime": 26524,
+        "slowStartTime": 37105,
+        "slowEndTime": 40011
+    },
+    {
+        "text": "Chatbots are the things you see when you go online,...",
+        "startTime": 26823,
+        "endTime": 28629,
+        "slowStartTime": 40384,
+        "slowEndTime": 43169
+    },
+    {
+        "text": "…you know, a little box pops up.",
+        "startTime": 28720,
+        "endTime": 29869,
+        "slowStartTime": 43230,
+        "slowEndTime": 45029
+    },
+    {
+        "text": "\"Can I help you?\"",
+        "startTime": 29978,
+        "endTime": 30705,
+        "slowStartTime": 45117,
+        "slowEndTime": 46282
+    },
+    {
+        "text": "\"Can I\", you know, \"book your flight?\"",
+        "startTime": 31011,
+        "endTime": 32221,
+        "slowStartTime": 46667,
+        "slowEndTime": 48557
+    },
+    {
+        "text": "\"Can I advise you?\"",
+        "startTime": 32310,
+        "endTime": 33735,
+        "slowStartTime": 48615,
+        "slowEndTime": 50828
+    },
+    {
+        "text": "That sort of thing.",
+        "startTime": 34000,
+        "endTime": 34621,
+        "slowStartTime": 51150,
+        "slowEndTime": 52157
+    },
+    {
+        "text": "Google wanted to make them as realistic as possible.",
+        "startTime": 34695,
+        "endTime": 37316,
+        "slowStartTime": 52193,
+        "slowEndTime": 56199
+    },
+    {
+        "text": "It's spent about five years now creating this.",
+        "startTime": 37385,
+        "endTime": 40185,
+        "slowStartTime": 56227,
+        "slowEndTime": 60503
+    },
+    {
+        "text": "The senior engineer says he had a chat with it, a conversation.",
+        "startTime": 41245,
+        "endTime": 45427,
+        "slowStartTime": 62017,
+        "slowEndTime": 68366
+    },
+    {
+        "text": "He kind of interviewed it.",
+        "startTime": 45497,
+        "endTime": 46526,
+        "slowStartTime": 68396,
+        "slowEndTime": 70014
+    },
+    {
+        "text": "He's published a really long blog...",
+        "startTime": 46600,
+        "endTime": 48107,
+        "slowStartTime": 70050,
+        "slowEndTime": 72386
+    },
+    {
+        "text": "…but it's a very interesting read in which he asked it a series of questions,...",
+        "startTime": 48196,
+        "endTime": 51334,
+        "slowStartTime": 72444,
+        "slowEndTime": 77226
+    },
+    {
+        "text": "…and the responses that it gave were fascinating on a range of subjects.",
+        "startTime": 51783,
+        "endTime": 55326,
+        "slowStartTime": 77824,
+        "slowEndTime": 83214
+    },
+    {
+        "text": "And he asked it things like,...",
+        "startTime": 55419,
+        "endTime": 56093,
+        "slowStartTime": 83278,
+        "slowEndTime": 84364
+    },
+    {
+        "text": "…\"do you like the story of Les Misérables?\"",
+        "startTime": 56169,
+        "endTime": 58195,
+        "slowStartTime": 84404,
+        "slowEndTime": 87518
+    },
+    {
+        "text": "…and this chatbot talked about feeling sorry for one of the characters.",
+        "startTime": 58265,
+        "endTime": 61623,
+        "slowStartTime": 87547,
+        "slowEndTime": 92660
+    },
+    {
+        "text": "It talks about being afraid of death, being afraid of being switched off.",
+        "startTime": 61739,
+        "endTime": 64945,
+        "slowStartTime": 92758,
+        "slowEndTime": 97642
+    },
+    {
+        "text": "It talks about understanding feelings of happiness and sadness.",
+        "startTime": 65052,
+        "endTime": 68837,
+        "slowStartTime": 97728,
+        "slowEndTime": 103480
+    },
+    {
+        "text": "And it's just not what you would expect, is it, from...",
+        "startTime": 69430,
+        "endTime": 72041,
+        "slowStartTime": 104295,
+        "slowEndTime": 108286
+    },
+    {
+        "text": "…something that is, that has been created, to generate speech.",
+        "startTime": 73028,
+        "endTime": 76392,
+        "slowStartTime": 109692,
+        "slowEndTime": 114813
+    }
+]

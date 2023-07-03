@@ -1,0 +1,72 @@
+[
+    {
+        "text": "﻿We are the planets and this is our song.",
+        "startTime": 4368,
+        "endTime": 8050,
+        "slowStartTime": 6702,
+        "slowEndTime": 12300
+    },
+    {
+        "text": "Gather all your friends and come and sing along.",
+        "startTime": 8677,
+        "endTime": 12658,
+        "slowStartTime": 13166,
+        "slowEndTime": 19212
+    },
+    {
+        "text": "Mercury is small, hot and fiery.",
+        "startTime": 13041,
+        "endTime": 17171,
+        "slowStartTime": 19711,
+        "slowEndTime": 25981
+    },
+    {
+        "text": "Venus is bright, shiny and sparkly.",
+        "startTime": 17321,
+        "endTime": 21267,
+        "slowStartTime": 26132,
+        "slowEndTime": 32125
+    },
+    {
+        "text": "Earth is home for you and me.",
+        "startTime": 21562,
+        "endTime": 25108,
+        "slowStartTime": 32493,
+        "slowEndTime": 37887
+    },
+    {
+        "text": "Mars has Martians that are really funny.",
+        "startTime": 25793,
+        "endTime": 29511,
+        "slowStartTime": 38840,
+        "slowEndTime": 44492
+    },
+    {
+        "text": "Jupiter is strong and very big.",
+        "startTime": 32094,
+        "endTime": 35550,
+        "slowStartTime": 48291,
+        "slowEndTime": 53550
+    },
+    {
+        "text": "Saturn is the one with so many rings.",
+        "startTime": 36342,
+        "endTime": 40164,
+        "slowStartTime": 54663,
+        "slowEndTime": 60471
+    },
+    {
+        "text": "Uranus is cold and far away.",
+        "startTime": 40508,
+        "endTime": 44325,
+        "slowStartTime": 60912,
+        "slowEndTime": 66712
+    },
+    {
+        "text": "Neptune is last but here to stay.",
+        "startTime": 44921,
+        "endTime": 50170,
+        "slowStartTime": 67531,
+        "slowEndTime": 75480
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "text": "A king and a queen had a baby and named her Aurora.",
+        "startTime": 1625,
+        "endTime": 6654,
+        "slowStartTime": 2587,
+        "slowEndTime": 10206
+    },
+    {
+        "text": "Many visitors came to see the baby,...",
+        "startTime": 7558,
+        "endTime": 10765,
+        "slowStartTime": 11487,
+        "slowEndTime": 16372
+    },
+    {
+        "text": "...including three good fairies.",
+        "startTime": 11292,
+        "endTime": 14038,
+        "slowStartTime": 17088,
+        "slowEndTime": 21282
+    },
+    {
+        "text": "Their names were Merryweather, Fauna and Flora.",
+        "startTime": 14805,
+        "endTime": 19242,
+        "slowStartTime": 22357,
+        "slowEndTime": 29088
+    },
+    {
+        "text": "Another visitor was a king who brought his son, Prince Philip.",
+        "startTime": 20388,
+        "endTime": 25533,
+        "slowStartTime": 30732,
+        "slowEndTime": 38525
+    },
+    {
+        "text": "A wicked fairy also visited and cast a bad spell on the baby.",
+        "startTime": 26704,
+        "endTime": 33049,
+        "slowStartTime": 40206,
+        "slowEndTime": 49798
+    },
+    {
+        "text": "She said that Aurora would prick her finger...",
+        "startTime": 34019,
+        "endTime": 37638,
+        "slowStartTime": 51179,
+        "slowEndTime": 56682
+    },
+    {
+        "text": "...on the needle of a spinning wheel and die.",
+        "startTime": 37956,
+        "endTime": 41017,
+        "slowStartTime": 57084,
+        "slowEndTime": 61751
+    },
+    {
+        "text": "Fortunately, one of the good fairies was able to change the spell.",
+        "startTime": 43617,
+        "endTime": 49369,
+        "slowStartTime": 65575,
+        "slowEndTime": 74279
+    },
+    {
+        "text": "Aurora would not die but only fall asleep.",
+        "startTime": 50545,
+        "endTime": 54567,
+        "slowStartTime": 75967,
+        "slowEndTime": 82076
+    },
+    {
+        "text": "Only the kiss of her true love would wake her up.",
+        "startTime": 55660,
+        "endTime": 59885,
+        "slowStartTime": 83640,
+        "slowEndTime": 90053
+    },
+    {
+        "text": "On the night of her 16th birthday,...",
+        "startTime": 60919,
+        "endTime": 63685,
+        "slowStartTime": 91528,
+        "slowEndTime": 95753
+    },
+    {
+        "text": "...Aurora pricked her finger and fell asleep.",
+        "startTime": 64172,
+        "endTime": 67645,
+        "slowStartTime": 96408,
+        "slowEndTime": 101692
+    },
+    {
+        "text": "Prince Philip kissed her and she woke up.",
+        "startTime": 68721,
+        "endTime": 71917,
+        "slowStartTime": 103232,
+        "slowEndTime": 108100
+    }
+]

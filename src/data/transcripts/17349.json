@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Boy.",
+        "startTime": 2463,
+        "endTime": 3113,
+        "slowStartTime": 3845,
+        "slowEndTime": 4895
+    },
+    {
+        "text": "The boy is playing.",
+        "startTime": 3849,
+        "endTime": 5329,
+        "slowStartTime": 5923,
+        "slowEndTime": 8218
+    },
+    {
+        "text": "The boy is playing a game.",
+        "startTime": 6702,
+        "endTime": 8621,
+        "slowStartTime": 10203,
+        "slowEndTime": 13156
+    },
+    {
+        "text": "Toy.",
+        "startTime": 9975,
+        "endTime": 10474,
+        "slowStartTime": 15112,
+        "slowEndTime": 15936
+    },
+    {
+        "text": "I want to buy a toy.",
+        "startTime": 11357,
+        "endTime": 13019,
+        "slowStartTime": 17186,
+        "slowEndTime": 19753
+    },
+    {
+        "text": "I want to buy a toy train.",
+        "startTime": 14420,
+        "endTime": 16605,
+        "slowStartTime": 21780,
+        "slowEndTime": 25132
+    },
+    {
+        "text": "Joy.",
+        "startTime": 17901,
+        "endTime": 18561,
+        "slowStartTime": 27001,
+        "slowEndTime": 28066
+    },
+    {
+        "text": "I have joy.",
+        "startTime": 19409,
+        "endTime": 20585,
+        "slowStartTime": 29264,
+        "slowEndTime": 31103
+    },
+    {
+        "text": "I have great joy.",
+        "startTime": 21993,
+        "endTime": 23458,
+        "slowStartTime": 33139,
+        "slowEndTime": 35412
+    },
+    {
+        "text": "Soy.",
+        "startTime": 24850,
+        "endTime": 25519,
+        "slowStartTime": 37425,
+        "slowEndTime": 38504
+    },
+    {
+        "text": "I eat soy.",
+        "startTime": 26398,
+        "endTime": 27644,
+        "slowStartTime": 39747,
+        "slowEndTime": 41691
+    },
+    {
+        "text": "I often eat soy.",
+        "startTime": 28999,
+        "endTime": 30592,
+        "slowStartTime": 43649,
+        "slowEndTime": 46113
+    },
+    {
+        "text": "You and I open the door.",
+        "startTime": 36143,
+        "endTime": 38576,
+        "slowStartTime": 54364,
+        "slowEndTime": 58089
+    },
+    {
+        "text": "Open the door, open the door.",
+        "startTime": 39937,
+        "endTime": 43312,
+        "slowStartTime": 60055,
+        "slowEndTime": 65193
+    },
+    {
+        "text": "You and I close the door.",
+        "startTime": 43704,
+        "endTime": 46042,
+        "slowStartTime": 65706,
+        "slowEndTime": 69288
+    },
+    {
+        "text": "Close the door, close the door.",
+        "startTime": 47381,
+        "endTime": 50880,
+        "slowStartTime": 71222,
+        "slowEndTime": 76545
+    },
+    {
+        "text": "Do you open the door?",
+        "startTime": 51211,
+        "endTime": 53607,
+        "slowStartTime": 76967,
+        "slowEndTime": 80635
+    },
+    {
+        "text": "Yes, yes, yes. I open the door.",
+        "startTime": 54871,
+        "endTime": 58369,
+        "slowStartTime": 82456,
+        "slowEndTime": 87778
+    },
+    {
+        "text": "Do you close the door?",
+        "startTime": 58705,
+        "endTime": 61140,
+        "slowStartTime": 88207,
+        "slowEndTime": 91935
+    },
+    {
+        "text": "No, no, no. I open the door.",
+        "startTime": 62365,
+        "endTime": 65780,
+        "slowStartTime": 93697,
+        "slowEndTime": 98895
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "text": "See you then, goodbye!",
+        "startTime": 23431,
+        "endTime": 24917,
+        "slowStartTime": 35297,
+        "slowEndTime": 37601
+    },
+    {
+        "text": "Bye-bye! See you next week!",
+        "startTime": 27519,
+        "endTime": 29359,
+        "slowStartTime": 41429,
+        "slowEndTime": 44263
+    },
+    {
+        "text": "All right, see you later. Bye-bye!",
+        "startTime": 31731,
+        "endTime": 33729,
+        "slowStartTime": 47747,
+        "slowEndTime": 50819
+    },
+    {
+        "text": "And I'll see you later and I hope to catch you again.",
+        "startTime": 35803,
+        "endTime": 37716,
+        "slowStartTime": 53855,
+        "slowEndTime": 56799
+    },
+    {
+        "text": "Okay, take care! Bye-bye!",
+        "startTime": 43063,
+        "endTime": 44834,
+        "slowStartTime": 64745,
+        "slowEndTime": 67476
+    },
+    {
+        "text": "Goodbye, Stanley, Martha! Take care! ",
+        "startTime": 47279,
+        "endTime": 51893,
+        "slowStartTime": 71068,
+        "slowEndTime": 78065
+    },
+    {
+        "text": "Take care, Changmin. Have a safe trip home!",
+        "startTime": 54087,
+        "endTime": 56768,
+        "slowStartTime": 81280,
+        "slowEndTime": 85377
+    },
+    {
+        "text": "Have a good day. Bye!",
+        "startTime": 61365,
+        "endTime": 62841,
+        "slowStartTime": 92197,
+        "slowEndTime": 94487
+    },
+    {
+        "text": "Have a good day, madam, and we hope to see you again.",
+        "startTime": 65081,
+        "endTime": 67449,
+        "slowStartTime": 97771,
+        "slowEndTime": 101398
+    }
+]

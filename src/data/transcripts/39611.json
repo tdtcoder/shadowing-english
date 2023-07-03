@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Hi.",
+        "startTime": 1475,
+        "endTime": 1708,
+        "slowStartTime": 2362,
+        "slowEndTime": 2787
+    },
+    {
+        "text": "How are you?",
+        "startTime": 2661,
+        "endTime": 3033,
+        "slowStartTime": 4141,
+        "slowEndTime": 4774
+    },
+    {
+        "text": "Good, sir. How are you?",
+        "startTime": 3304,
+        "endTime": 3882,
+        "slowStartTime": 5106,
+        "slowEndTime": 6048
+    },
+    {
+        "text": "Good.",
+        "startTime": 4068,
+        "endTime": 4255,
+        "slowStartTime": 6252,
+        "slowEndTime": 6607
+    },
+    {
+        "text": "I'll have the Teen Burger.",
+        "startTime": 4913,
+        "endTime": 6841,
+        "slowStartTime": 7519,
+        "slowEndTime": 10487
+    },
+    {
+        "text": "It's for here or to go, sir?",
+        "startTime": 7545,
+        "endTime": 8236,
+        "slowStartTime": 11468,
+        "slowEndTime": 12579
+    },
+    {
+        "text": "To go, please.",
+        "startTime": 8651,
+        "endTime": 9348,
+        "slowStartTime": 13127,
+        "slowEndTime": 14247
+    },
+    {
+        "text": "And the combo, please.",
+        "startTime": 11193,
+        "endTime": 12716,
+        "slowStartTime": 16939,
+        "slowEndTime": 19299
+    },
+    {
+        "text": "Fries and root beer?",
+        "startTime": 12819,
+        "endTime": 13612,
+        "slowStartTime": 19379,
+        "slowEndTime": 20643
+    },
+    {
+        "text": "Fries and root beer would be good, yup.",
+        "startTime": 13888,
+        "endTime": 15405,
+        "slowStartTime": 20982,
+        "slowEndTime": 23333
+    },
+    {
+        "text": "That's everything?",
+        "startTime": 17078,
+        "endTime": 17422,
+        "slowStartTime": 25767,
+        "slowEndTime": 26358
+    },
+    {
+        "text": "That's everything.",
+        "startTime": 17585,
+        "endTime": 17980,
+        "slowStartTime": 26528,
+        "slowEndTime": 27195
+    },
+    {
+        "text": "Can I have a name for the order?",
+        "startTime": 18131,
+        "endTime": 18956,
+        "slowStartTime": 27347,
+        "slowEndTime": 28659
+    },
+    {
+        "text": "Bob.",
+        "startTime": 19440,
+        "endTime": 19593,
+        "slowStartTime": 29310,
+        "slowEndTime": 29614
+    },
+    {
+        "text": "Bob?",
+        "startTime": 19903,
+        "endTime": 20231,
+        "slowStartTime": 30004,
+        "slowEndTime": 30572
+    },
+    {
+        "text": "It's 11.96, sir.",
+        "startTime": 21931,
+        "endTime": 22917,
+        "slowStartTime": 33046,
+        "slowEndTime": 34601
+    }
+]

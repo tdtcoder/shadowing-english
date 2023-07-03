@@ -1,0 +1,86 @@
+[
+    {
+        "text": "There is a school in our town.",
+        "startTime": 3125,
+        "endTime": 4558,
+        "slowStartTime": 4837,
+        "slowEndTime": 7062
+    },
+    {
+        "text": "Its phone number is 212-98753.",
+        "startTime": 5180,
+        "endTime": 9210,
+        "slowStartTime": 7920,
+        "slowEndTime": 14040
+    },
+    {
+        "text": "There is a hospital in our town.",
+        "startTime": 10877,
+        "endTime": 12341,
+        "slowStartTime": 16466,
+        "slowEndTime": 18736
+    },
+    {
+        "text": "Its phone number is 701-02784.",
+        "startTime": 13075,
+        "endTime": 18255,
+        "slowStartTime": 19763,
+        "slowEndTime": 27607
+    },
+    {
+        "text": "There is a bookstore in our town.",
+        "startTime": 20290,
+        "endTime": 21829,
+        "slowStartTime": 30585,
+        "slowEndTime": 32969
+    },
+    {
+        "text": "Its phone number is 262-12987.",
+        "startTime": 22654,
+        "endTime": 27158,
+        "slowStartTime": 34131,
+        "slowEndTime": 40962
+    },
+    {
+        "text": "There is an apartment for sale in our town.",
+        "startTime": 28591,
+        "endTime": 30993,
+        "slowStartTime": 43037,
+        "slowEndTime": 46715
+    },
+    {
+        "text": "Its phone number is 203-34021.",
+        "startTime": 31707,
+        "endTime": 37187,
+        "slowStartTime": 47711,
+        "slowEndTime": 56006
+    },
+    {
+        "text": "There is a bank in our town.",
+        "startTime": 38850,
+        "endTime": 40121,
+        "slowStartTime": 58425,
+        "slowEndTime": 60406
+    },
+    {
+        "text": "Its phone number is 339-18403.",
+        "startTime": 40447,
+        "endTime": 46223,
+        "slowStartTime": 60821,
+        "slowEndTime": 69559
+    },
+    {
+        "text": "There is a store in our town.",
+        "startTime": 47613,
+        "endTime": 48847,
+        "slowStartTime": 71570,
+        "slowEndTime": 73496
+    },
+    {
+        "text": "Its phone number is 983-20187.",
+        "startTime": 49482,
+        "endTime": 54568,
+        "slowStartTime": 74373,
+        "slowEndTime": 82077
+    }
+]

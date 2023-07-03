@@ -1,0 +1,268 @@
+[
+    {
+        "text": "Hey!",
+        "startTime": 2937,
+        "endTime": 3315,
+        "slowStartTime": 4555,
+        "slowEndTime": 5198
+    },
+    {
+        "text": "How are you doing?",
+        "startTime": 3732,
+        "endTime": 4569,
+        "slowStartTime": 5748,
+        "slowEndTime": 7078
+    },
+    {
+        "text": "Hey, Roger, how are you?",
+        "startTime": 4965,
+        "endTime": 6344,
+        "slowStartTime": 7598,
+        "slowEndTime": 9741
+    },
+    {
+        "text": "Just relaxing in the Swiss Alps.",
+        "startTime": 6717,
+        "endTime": 8085,
+        "slowStartTime": 10225,
+        "slowEndTime": 12353
+    },
+    {
+        "text": "Take a look!",
+        "startTime": 8274,
+        "endTime": 8799,
+        "slowStartTime": 12561,
+        "slowEndTime": 13423
+    },
+    {
+        "text": "Yeah, it's good. Good, good for you.",
+        "startTime": 9521,
+        "endTime": 11279,
+        "slowStartTime": 14431,
+        "slowEndTime": 17143
+    },
+    {
+        "text": "Listen, about the Switzerland film you want me to do?",
+        "startTime": 11610,
+        "endTime": 14431,
+        "slowStartTime": 17565,
+        "slowEndTime": 21872
+    },
+    {
+        "text": "Yes!",
+        "startTime": 14651,
+        "endTime": 14885,
+        "slowStartTime": 22126,
+        "slowEndTime": 22553
+    },
+    {
+        "text": "Did you see the mood film I sent you?",
+        "startTime": 15024,
+        "endTime": 16487,
+        "slowStartTime": 22686,
+        "slowEndTime": 24956
+    },
+    {
+        "text": "I'm watching it as we speak.",
+        "startTime": 16631,
+        "endTime": 17945,
+        "slowStartTime": 25096,
+        "slowEndTime": 27143
+    },
+    {
+        "text": "I don't like it.",
+        "startTime": 18787,
+        "endTime": 19436,
+        "slowStartTime": 28331,
+        "slowEndTime": 29379
+    },
+    {
+        "text": "What?",
+        "startTime": 20108,
+        "endTime": 20487,
+        "slowStartTime": 30312,
+        "slowEndTime": 30955
+    },
+    {
+        "text": "Just look at where you are, Roger.",
+        "startTime": 20949,
+        "endTime": 22906,
+        "slowStartTime": 31574,
+        "slowEndTime": 34584
+    },
+    {
+        "text": "I mean, you got your mountains, your skiing resorts,...",
+        "startTime": 23021,
+        "endTime": 25766,
+        "slowStartTime": 34682,
+        "slowEndTime": 38874
+    },
+    {
+        "text": "...your charming little towns, green valleys...",
+        "startTime": 25856,
+        "endTime": 29129,
+        "slowStartTime": 38934,
+        "slowEndTime": 43918
+    },
+    {
+        "text": "There's no drama!",
+        "startTime": 29315,
+        "endTime": 30233,
+        "slowStartTime": 44123,
+        "slowEndTime": 45575
+    },
+    {
+        "text": "No drama at all!",
+        "startTime": 30645,
+        "endTime": 31519,
+        "slowStartTime": 46118,
+        "slowEndTime": 47503
+    },
+    {
+        "text": "Seriously?",
+        "startTime": 31612,
+        "endTime": 32174,
+        "slowStartTime": 47568,
+        "slowEndTime": 48486
+    },
+    {
+        "text": "But did you see the bits with the sunset?",
+        "startTime": 32342,
+        "endTime": 33859,
+        "slowStartTime": 48663,
+        "slowEndTime": 51014
+    },
+    {
+        "text": "Roger, from a certain type of actor, I need an edge, conflict, jeopardy.",
+        "startTime": 34073,
+        "endTime": 38868,
+        "slowStartTime": 51259,
+        "slowEndTime": 58527
+    },
+    {
+        "text": "Switzerland is just too perfect!",
+        "startTime": 39215,
+        "endTime": 41153,
+        "slowStartTime": 58973,
+        "slowEndTime": 61954
+    },
+    {
+        "text": "Yeah, I guess you're right.",
+        "startTime": 41853,
+        "endTime": 43261,
+        "slowStartTime": 62930,
+        "slowEndTime": 65116
+    },
+    {
+        "text": "That's exactly what I am talking about!",
+        "startTime": 43329,
+        "endTime": 45003,
+        "slowStartTime": 65143,
+        "slowEndTime": 67730
+    },
+    {
+        "text": "You guys are too nice!",
+        "startTime": 45096,
+        "endTime": 46139,
+        "slowStartTime": 67794,
+        "slowEndTime": 69434
+    },
+    {
+        "text": "Okay, listen.",
+        "startTime": 47621,
+        "endTime": 48234,
+        "slowStartTime": 71582,
+        "slowEndTime": 72576
+    },
+    {
+        "text": "How about the two of us on this special mission?",
+        "startTime": 48508,
+        "endTime": 51898,
+        "slowStartTime": 72912,
+        "slowEndTime": 78072
+    },
+    {
+        "text": "We ski down the slope.",
+        "startTime": 52089,
+        "endTime": 53853,
+        "slowStartTime": 78283,
+        "slowEndTime": 81005
+    },
+    {
+        "text": "What?",
+        "startTime": 54005,
+        "endTime": 54073,
+        "slowStartTime": 81158,
+        "slowEndTime": 81335
+    },
+    {
+        "text": "We're skiing down a slope together?",
+        "startTime": 54160,
+        "endTime": 55477,
+        "slowStartTime": 81390,
+        "slowEndTime": 83440
+    },
+    {
+        "text": "We go even skydiving.",
+        "startTime": 55766,
+        "endTime": 57034,
+        "slowStartTime": 83799,
+        "slowEndTime": 85776
+    },
+    {
+        "text": "Come on...",
+        "startTime": 57189,
+        "endTime": 57499,
+        "slowStartTime": 85934,
+        "slowEndTime": 86473
+    },
+    {
+        "text": "Then we land on these fields, and the cows are grazing.",
+        "startTime": 57859,
+        "endTime": 61107,
+        "slowStartTime": 86938,
+        "slowEndTime": 91885
+    },
+    {
+        "text": "Roger, I have to be honest with you.",
+        "startTime": 61521,
+        "endTime": 63970,
+        "slowStartTime": 92432,
+        "slowEndTime": 96180
+    },
+    {
+        "text": "It's not happening.",
+        "startTime": 64584,
+        "endTime": 65443,
+        "slowStartTime": 97026,
+        "slowEndTime": 98390
+    },
+    {
+        "text": "Ah!",
+        "startTime": 66049,
+        "endTime": 66507,
+        "slowStartTime": 99224,
+        "slowEndTime": 99985
+    },
+    {
+        "text": "Sorry, Roger.",
+        "startTime": 66820,
+        "endTime": 67588,
+        "slowStartTime": 100380,
+        "slowEndTime": 101607
+    },
+    {
+        "text": "Maybe call Hanks.",
+        "startTime": 68789,
+        "endTime": 70087,
+        "slowStartTime": 103334,
+        "slowEndTime": 105355
+    },
+    {
+        "text": "Who?",
+        "startTime": 70864,
+        "endTime": 71371,
+        "slowStartTime": 106446,
+        "slowEndTime": 107281
+    }
+]

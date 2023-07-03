@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Thanks, Kevin.",
+        "startTime": 100,
+        "endTime": 700,
+        "slowStartTime": 500,
+        "slowEndTime": 1250
+    },
+    {
+        "text": "We are very pleased with the company's third quarter.",
+        "startTime": 2650,
+        "endTime": 5100,
+        "slowStartTime": 4250,
+        "slowEndTime": 7800
+    },
+    {
+        "text": "The strong financial performance is a result of having the right products...",
+        "startTime": 6350,
+        "endTime": 10050,
+        "slowStartTime": 9850,
+        "slowEndTime": 15300
+    },
+    {
+        "text": "...at the right cost at the right time for a recovering global economy.",
+        "startTime": 10100,
+        "endTime": 14750,
+        "slowStartTime": 15500,
+        "slowEndTime": 22300
+    },
+    {
+        "text": "The strength in our business remains primarily consumer driven...",
+        "startTime": 16100,
+        "endTime": 19000,
+        "slowStartTime": 24425,
+        "slowEndTime": 28780
+    },
+    {
+        "text": "...with broad-based demand across all geographies.",
+        "startTime": 19550,
+        "endTime": 22700,
+        "slowStartTime": 29650,
+        "slowEndTime": 34200
+    },
+    {
+        "text": "Our mobile business had a particularly strong quarter.",
+        "startTime": 23900,
+        "endTime": 26500,
+        "slowStartTime": 36150,
+        "slowEndTime": 39900
+    },
+    {
+        "text": "In fact, we saw the sequential unit growth rate of notebook processors and chipsets...",
+        "startTime": 27050,
+        "endTime": 31450,
+        "slowStartTime": 40900,
+        "slowEndTime": 47400
+    },
+    {
+        "text": "...actually exceed the growth rate of Atom processors and chipsets.",
+        "startTime": 32100,
+        "endTime": 35350,
+        "slowStartTime": 48450,
+        "slowEndTime": 53150
+    },
+    {
+        "text": "While Atom and netbooks are important growth drivers for us,...",
+        "startTime": 36300,
+        "endTime": 39150,
+        "slowStartTime": 54800,
+        "slowEndTime": 58900
+    },
+    {
+        "text": "...our traditional notebook business remains one of the primary drivers of revenue growth...",
+        "startTime": 39600,
+        "endTime": 43550,
+        "slowStartTime": 59700,
+        "slowEndTime": 65500
+    },
+    {
+        "text": "...and we expect that to continue in the future.",
+        "startTime": 44150,
+        "endTime": 47000,
+        "slowStartTime": 66500,
+        "slowEndTime": 70550
+    }
+]

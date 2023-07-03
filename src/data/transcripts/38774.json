@@ -1,0 +1,191 @@
+[
+    {
+        "text": "In our neighborhood, I can do all my errands.",
+        "startTime": 156,
+        "endTime": 3543,
+        "slowStartTime": 384,
+        "slowEndTime": 5539
+    },
+    {
+        "text": "Marsha, before we get ice cream, I need to return three books to the library.",
+        "startTime": 4074,
+        "endTime": 9597,
+        "slowStartTime": 6261,
+        "slowEndTime": 14620
+    },
+    {
+        "text": "Where is the library?",
+        "startTime": 10118,
+        "endTime": 11685,
+        "slowStartTime": 15327,
+        "slowEndTime": 17753
+    },
+    {
+        "text": "It is on this street on the corner.",
+        "startTime": 12257,
+        "endTime": 15423,
+        "slowStartTime": 18535,
+        "slowEndTime": 23360
+    },
+    {
+        "text": "Awesome!",
+        "startTime": 15665,
+        "endTime": 16219,
+        "slowStartTime": 23647,
+        "slowEndTime": 24553
+    },
+    {
+        "text": "Let's go!",
+        "startTime": 16359,
+        "endTime": 16964,
+        "slowStartTime": 24689,
+        "slowEndTime": 25671
+    },
+    {
+        "text": "Marsha, I can return the books here.",
+        "startTime": 19670,
+        "endTime": 22476,
+        "slowStartTime": 29655,
+        "slowEndTime": 33939
+    },
+    {
+        "text": "Anna, what are those in the books?",
+        "startTime": 25235,
+        "endTime": 28452,
+        "slowStartTime": 38002,
+        "slowEndTime": 42903
+    },
+    {
+        "text": "Marsha, these are letters to my family and friends back home.",
+        "startTime": 29545,
+        "endTime": 35067,
+        "slowStartTime": 44467,
+        "slowEndTime": 52826
+    },
+    {
+        "text": "Four letters! Is there a post office near here?",
+        "startTime": 35389,
+        "endTime": 39016,
+        "slowStartTime": 53233,
+        "slowEndTime": 58749
+    },
+    {
+        "text": "Um, no. The post office is far from here.",
+        "startTime": 39887,
+        "endTime": 43444,
+        "slowStartTime": 59981,
+        "slowEndTime": 65391
+    },
+    {
+        "text": "But there is a mailbox across from the store.",
+        "startTime": 43894,
+        "endTime": 46591,
+        "slowStartTime": 65991,
+        "slowEndTime": 70111
+    },
+    {
+        "text": "Awesome! Let's go!",
+        "startTime": 46981,
+        "endTime": 48308,
+        "slowStartTime": 70621,
+        "slowEndTime": 72687
+    },
+    {
+        "text": "Marsha, now I need to buy stamps.",
+        "startTime": 55297,
+        "endTime": 58087,
+        "slowStartTime": 83095,
+        "slowEndTime": 87355
+    },
+    {
+        "text": "Do you have cash?",
+        "startTime": 58207,
+        "endTime": 59227,
+        "slowStartTime": 87460,
+        "slowEndTime": 89065
+    },
+    {
+        "text": "No. Is there a bank near here?",
+        "startTime": 59583,
+        "endTime": 62207,
+        "slowStartTime": 89525,
+        "slowEndTime": 93535
+    },
+    {
+        "text": "There is a bank behind you.",
+        "startTime": 62801,
+        "endTime": 64335,
+        "slowStartTime": 94351,
+        "slowEndTime": 96727
+    },
+    {
+        "text": "Thanks, Marsha. You know our neighborhood so well.",
+        "startTime": 65297,
+        "endTime": 68494,
+        "slowStartTime": 98096,
+        "slowEndTime": 102966
+    },
+    {
+        "text": "Now I have cash.",
+        "startTime": 68618,
+        "endTime": 69895,
+        "slowStartTime": 103077,
+        "slowEndTime": 105067
+    },
+    {
+        "text": "I can buy stamps.",
+        "startTime": 70161,
+        "endTime": 71369,
+        "slowStartTime": 105391,
+        "slowEndTime": 107279
+    },
+    {
+        "text": "That store sells stamps.",
+        "startTime": 71917,
+        "endTime": 74139,
+        "slowStartTime": 108025,
+        "slowEndTime": 111434
+    },
+    {
+        "text": "Wait here.",
+        "startTime": 74519,
+        "endTime": 75353,
+        "slowStartTime": 111929,
+        "slowEndTime": 113255
+    },
+    {
+        "text": "I have stamps.",
+        "startTime": 77492,
+        "endTime": 78454,
+        "slowStartTime": 116388,
+        "slowEndTime": 117906
+    },
+    {
+        "text": "Wow, you're fast.",
+        "startTime": 78688,
+        "endTime": 80305,
+        "slowStartTime": 118182,
+        "slowEndTime": 120682
+    },
+    {
+        "text": "Do you have more cash?",
+        "startTime": 85826,
+        "endTime": 87056,
+        "slowStartTime": 128889,
+        "slowEndTime": 130809
+    },
+    {
+        "text": "I do.",
+        "startTime": 87710,
+        "endTime": 88264,
+        "slowStartTime": 131715,
+        "slowEndTime": 132621
+    },
+    {
+        "text": "Ice cream!",
+        "startTime": 89833,
+        "endTime": 91371,
+        "slowStartTime": 134900,
+        "slowEndTime": 137282
+    }
+]

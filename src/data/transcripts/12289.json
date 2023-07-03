@@ -1,0 +1,156 @@
+[
+    {
+        "text": "There are a ton of people who work on safety at Facebook.",
+        "startTime": 3710,
+        "endTime": 7487,
+        "slowStartTime": 5715,
+        "slowEndTime": 11455
+    },
+    {
+        "text": "So, I think it really starts with the members of our user operations team...",
+        "startTime": 7594,
+        "endTime": 11411,
+        "slowStartTime": 11541,
+        "slowEndTime": 17341
+    },
+    {
+        "text": "...who are on the front lines responding to people's concerns about safety or questions about safety.",
+        "startTime": 11588,
+        "endTime": 16399,
+        "slowStartTime": 17532,
+        "slowEndTime": 24823
+    },
+    {
+        "text": "It's the engineers who are building the products,...",
+        "startTime": 16789,
+        "endTime": 19170,
+        "slowStartTime": 25334,
+        "slowEndTime": 28980
+    },
+    {
+        "text": "...who take into account the specific needs of minors in building things.",
+        "startTime": 19247,
+        "endTime": 22943,
+        "slowStartTime": 29021,
+        "slowEndTime": 34640
+    },
+    {
+        "text": "It's our site integrity teams who build tools like social reporting...",
+        "startTime": 23357,
+        "endTime": 26650,
+        "slowStartTime": 35185,
+        "slowEndTime": 40200
+    },
+    {
+        "text": "...that allow people to report abuse both to Facebook...",
+        "startTime": 27029,
+        "endTime": 29500,
+        "slowStartTime": 40693,
+        "slowEndTime": 44475
+    },
+    {
+        "text": "...and to someone in their community who might be able to help them.",
+        "startTime": 29623,
+        "endTime": 32290,
+        "slowStartTime": 44585,
+        "slowEndTime": 48660
+    },
+    {
+        "text": "And these people work around the clock and around the globe.",
+        "startTime": 33140,
+        "endTime": 37120,
+        "slowStartTime": 49860,
+        "slowEndTime": 55905
+    },
+    {
+        "text": "Everybody who was working on this is really passionate about the people who use the site...",
+        "startTime": 37466,
+        "endTime": 42500,
+        "slowStartTime": 56349,
+        "slowEndTime": 63975
+    },
+    {
+        "text": "...and I think it's a great responsibility and a privilege to be able to support them,...",
+        "startTime": 42917,
+        "endTime": 47408,
+        "slowStartTime": 64526,
+        "slowEndTime": 71337
+    },
+    {
+        "text": "...and all of us spend time thinking as parents and as friends...",
+        "startTime": 47529,
+        "endTime": 52817,
+        "slowStartTime": 71444,
+        "slowEndTime": 79450
+    },
+    {
+        "text": "...about the people that we interact with in our lives.",
+        "startTime": 53175,
+        "endTime": 55560,
+        "slowStartTime": 79913,
+        "slowEndTime": 83565
+    },
+    {
+        "text": "And as we think through these things,...",
+        "startTime": 55784,
+        "endTime": 57059,
+        "slowStartTime": 83826,
+        "slowEndTime": 85813
+    },
+    {
+        "text": "...we try to make sure that we think about them and the people using the site.",
+        "startTime": 57150,
+        "endTime": 61497,
+        "slowStartTime": 85875,
+        "slowEndTime": 92470
+    },
+    {
+        "text": "As someone who's been involved in safety online for 15 years,...",
+        "startTime": 61903,
+        "endTime": 66271,
+        "slowStartTime": 93004,
+        "slowEndTime": 99631
+    },
+    {
+        "text": "...I've seen such an evolution on the Internet...",
+        "startTime": 66365,
+        "endTime": 69007,
+        "slowStartTime": 99698,
+        "slowEndTime": 103735
+    },
+    {
+        "text": "...where it was truly an anonymous place where people thought...",
+        "startTime": 69256,
+        "endTime": 72752,
+        "slowStartTime": 104034,
+        "slowEndTime": 109353
+    },
+    {
+        "text": "...they could act in ways that they couldn't offline.",
+        "startTime": 72909,
+        "endTime": 75397,
+        "slowStartTime": 109513,
+        "slowEndTime": 113321
+    },
+    {
+        "text": "And maybe, there are still places on the Internet like that.",
+        "startTime": 76176,
+        "endTime": 78723,
+        "slowStartTime": 114414,
+        "slowEndTime": 118309
+    },
+    {
+        "text": "But Facebook is a unique place, where we're trying to create that well-lit environment...",
+        "startTime": 78883,
+        "endTime": 84231,
+        "slowStartTime": 118474,
+        "slowEndTime": 126571
+    },
+    {
+        "text": "...where you interact with real people.",
+        "startTime": 84373,
+        "endTime": 85994,
+        "slowStartTime": 126709,
+        "slowEndTime": 129216
+    }
+]

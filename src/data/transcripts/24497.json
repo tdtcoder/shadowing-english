@@ -1,0 +1,37 @@
+[
+    {
+        "text": "﻿Under the Weather.",
+        "startTime": 7208,
+        "endTime": 8023,
+        "slowStartTime": 10962,
+        "slowEndTime": 12259
+    },
+    {
+        "text": "It means not feeling well.",
+        "startTime": 9995,
+        "endTime": 11590,
+        "slowStartTime": 15142,
+        "slowEndTime": 17610
+    },
+    {
+        "text": "He's feeling under the weather today so he can't join soccer practice.",
+        "startTime": 14169,
+        "endTime": 18429,
+        "slowStartTime": 21404,
+        "slowEndTime": 27868
+    },
+    {
+        "text": "My boss is feeling under the weather and couldn't join the meeting.",
+        "startTime": 21247,
+        "endTime": 24997,
+        "slowStartTime": 32020,
+        "slowEndTime": 37721
+    },
+    {
+        "text": "I'm feeling under the weather today so I can't make it to school.",
+        "startTime": 27738,
+        "endTime": 31884,
+        "slowStartTime": 41757,
+        "slowEndTime": 48051
+    }
+]

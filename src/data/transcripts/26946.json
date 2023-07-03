@@ -1,0 +1,128 @@
+[
+    {
+        "text": "﻿Hiya, Larry!",
+        "startTime": 1164,
+        "endTime": 1843,
+        "slowStartTime": 1896,
+        "slowEndTime": 2989
+    },
+    {
+        "text": "It looks like you're carrying too many packages...",
+        "startTime": 2361,
+        "endTime": 4500,
+        "slowStartTime": 3691,
+        "slowEndTime": 6975
+    },
+    {
+        "text": "...and they haven't been loaded very well.",
+        "startTime": 4916,
+        "endTime": 6924,
+        "slowStartTime": 7524,
+        "slowEndTime": 10611
+    },
+    {
+        "text": "Shall we take a look?",
+        "startTime": 7588,
+        "endTime": 8675,
+        "slowStartTime": 11532,
+        "slowEndTime": 13238
+    },
+    {
+        "text": "Go, go, mechanicals!",
+        "startTime": 9771,
+        "endTime": 11784,
+        "slowStartTime": 14807,
+        "slowEndTime": 17901
+    },
+    {
+        "text": "What a mess, I'm really sorry.",
+        "startTime": 14304,
+        "endTime": 16260,
+        "slowStartTime": 21606,
+        "slowEndTime": 24615
+    },
+    {
+        "text": "But that's no way to pack a lorry.",
+        "startTime": 16645,
+        "endTime": 18899,
+        "slowStartTime": 25118,
+        "slowEndTime": 28574
+    },
+    {
+        "text": "Let's take some time and care with it.",
+        "startTime": 21460,
+        "endTime": 23335,
+        "slowStartTime": 32340,
+        "slowEndTime": 35227
+    },
+    {
+        "text": "I'm sure we'll make these boxes fit.",
+        "startTime": 23879,
+        "endTime": 26589,
+        "slowStartTime": 35969,
+        "slowEndTime": 40108
+    },
+    {
+        "text": "The biggest parcel should go in first.",
+        "startTime": 29103,
+        "endTime": 32438,
+        "slowStartTime": 43805,
+        "slowEndTime": 48882
+    },
+    {
+        "text": "Put the smallest one on top.",
+        "startTime": 34711,
+        "endTime": 37573,
+        "slowStartTime": 52216,
+        "slowEndTime": 56584
+    },
+    {
+        "text": "That blue parcel on the left.",
+        "startTime": 40157,
+        "endTime": 42733,
+        "slowStartTime": 60386,
+        "slowEndTime": 64325
+    },
+    {
+        "text": "And the red one on the right.",
+        "startTime": 45087,
+        "endTime": 47411,
+        "slowStartTime": 67780,
+        "slowEndTime": 71341
+    },
+    {
+        "text": "Let's put this parcel in the gap up at the top.",
+        "startTime": 49710,
+        "endTime": 53113,
+        "slowStartTime": 74715,
+        "slowEndTime": 79894
+    },
+    {
+        "text": "And put the last parcel in that gap down at the bottom.",
+        "startTime": 55399,
+        "endTime": 59473,
+        "slowStartTime": 83248,
+        "slowEndTime": 89434
+    },
+    {
+        "text": "There!",
+        "startTime": 62716,
+        "endTime": 63157,
+        "slowStartTime": 94224,
+        "slowEndTime": 94960
+    },
+    {
+        "text": "All sorted.",
+        "startTime": 63588,
+        "endTime": 64642,
+        "slowStartTime": 95532,
+        "slowEndTime": 97188
+    },
+    {
+        "text": "Now that everything is packed away neatly, it all fits in properly.",
+        "startTime": 70021,
+        "endTime": 74349,
+        "slowStartTime": 105182,
+        "slowEndTime": 111748
+    }
+]

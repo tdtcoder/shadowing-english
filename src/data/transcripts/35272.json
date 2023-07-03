@@ -1,0 +1,240 @@
+[
+    {
+        "text": "During the shutdown, I had extra time to read.",
+        "startTime": 2124,
+        "endTime": 4679,
+        "slowStartTime": 3336,
+        "slowEndTime": 7244
+    },
+    {
+        "text": "Here are five books that I highly recommend.",
+        "startTime": 5241,
+        "endTime": 7473,
+        "slowStartTime": 8012,
+        "slowEndTime": 11434
+    },
+    {
+        "text": "The Choice by Dr. Edith Eger.",
+        "startTime": 8386,
+        "endTime": 10575,
+        "slowStartTime": 12729,
+        "slowEndTime": 16087
+    },
+    {
+        "text": "It's a hell of a story.",
+        "startTime": 10891,
+        "endTime": 12814,
+        "slowStartTime": 16486,
+        "slowEndTime": 19446
+    },
+    {
+        "text": "The woman was a 16-year-old girl in Auschwitz.",
+        "startTime": 13058,
+        "endTime": 16774,
+        "slowStartTime": 19737,
+        "slowEndTime": 25386
+    },
+    {
+        "text": "She eventually does survive,...",
+        "startTime": 16951,
+        "endTime": 19022,
+        "slowStartTime": 25576,
+        "slowEndTime": 28758
+    },
+    {
+        "text": "...gets out and moves to Texas,...",
+        "startTime": 19353,
+        "endTime": 21301,
+        "slowStartTime": 29179,
+        "slowEndTime": 32176
+    },
+    {
+        "text": "...and becomes this inspirational therapist,...",
+        "startTime": 21450,
+        "endTime": 23721,
+        "slowStartTime": 32325,
+        "slowEndTime": 35806
+    },
+    {
+        "text": "...and half of the book is her story.",
+        "startTime": 23819,
+        "endTime": 24967,
+        "slowStartTime": 35878,
+        "slowEndTime": 37675
+    },
+    {
+        "text": "Half of it is how she helps other people.",
+        "startTime": 25047,
+        "endTime": 27047,
+        "slowStartTime": 37721,
+        "slowEndTime": 40796
+    },
+    {
+        "text": "Cloud Atlas by David Mitchell.",
+        "startTime": 27859,
+        "endTime": 29920,
+        "slowStartTime": 41938,
+        "slowEndTime": 45105
+    },
+    {
+        "text": "It such an unusual book and it's clever.",
+        "startTime": 30321,
+        "endTime": 33078,
+        "slowStartTime": 45632,
+        "slowEndTime": 49842
+    },
+    {
+        "text": "You go through six different epics in history...",
+        "startTime": 33393,
+        "endTime": 35938,
+        "slowStartTime": 50239,
+        "slowEndTime": 54132
+    },
+    {
+        "text": "...where you have people making moral choices,...",
+        "startTime": 36312,
+        "endTime": 38546,
+        "slowStartTime": 54618,
+        "slowEndTime": 58044
+    },
+    {
+        "text": "...where you see how self-centered and bad people can be,...",
+        "startTime": 38643,
+        "endTime": 42813,
+        "slowStartTime": 58114,
+        "slowEndTime": 64444
+    },
+    {
+        "text": "...and how supportive and good people can be.",
+        "startTime": 42962,
+        "endTime": 45601,
+        "slowStartTime": 64593,
+        "slowEndTime": 68626
+    },
+    {
+        "text": "You really do feel he captures these different worlds.",
+        "startTime": 45848,
+        "endTime": 49099,
+        "slowStartTime": 68922,
+        "slowEndTime": 73873
+    },
+    {
+        "text": "The Ride of a Lifetime by Bob Iger.",
+        "startTime": 49594,
+        "endTime": 52156,
+        "slowStartTime": 74541,
+        "slowEndTime": 78459
+    },
+    {
+        "text": "It's hard to overstate how demoralized and messed up Disney was.",
+        "startTime": 53021,
+        "endTime": 57087,
+        "slowStartTime": 79682,
+        "slowEndTime": 85855
+    },
+    {
+        "text": "Things weren't in great shape when they got rid of Eisner.",
+        "startTime": 57349,
+        "endTime": 59907,
+        "slowStartTime": 86174,
+        "slowEndTime": 90086
+    },
+    {
+        "text": "And I do consider it brilliant of Iger...",
+        "startTime": 60041,
+        "endTime": 62706,
+        "slowStartTime": 90211,
+        "slowEndTime": 94284
+    },
+    {
+        "text": "...that in an age where networks are not important,...",
+        "startTime": 63165,
+        "endTime": 65700,
+        "slowStartTime": 94897,
+        "slowEndTime": 98775
+    },
+    {
+        "text": "...and you're going to have to go direct to consumer,...",
+        "startTime": 66035,
+        "endTime": 67908,
+        "slowStartTime": 99202,
+        "slowEndTime": 102087
+    },
+    {
+        "text": "...that you've got to have a critical mass of the greatest content.",
+        "startTime": 68007,
+        "endTime": 71931,
+        "slowStartTime": 102161,
+        "slowEndTime": 108121
+    },
+    {
+        "text": "The Great Influenza by John Barry.",
+        "startTime": 72364,
+        "endTime": 74891,
+        "slowStartTime": 108696,
+        "slowEndTime": 112561
+    },
+    {
+        "text": "He explains how infections work and how the immune system works.",
+        "startTime": 75258,
+        "endTime": 80329,
+        "slowStartTime": 113037,
+        "slowEndTime": 120719
+    },
+    {
+        "text": "The 1918 Spanish Flu is the first world epidemic...",
+        "startTime": 80493,
+        "endTime": 84379,
+        "slowStartTime": 120890,
+        "slowEndTime": 126793
+    },
+    {
+        "text": "...where it basically hits the entire world at the same time.",
+        "startTime": 84515,
+        "endTime": 87669,
+        "slowStartTime": 126922,
+        "slowEndTime": 131729
+    },
+    {
+        "text": "Good Economics for Hard Times by Abhijit Banerjee and Esther Duflo.",
+        "startTime": 88197,
+        "endTime": 93759,
+        "slowStartTime": 132445,
+        "slowEndTime": 140864
+    },
+    {
+        "text": "This is the most important book of the group...",
+        "startTime": 94498,
+        "endTime": 97005,
+        "slowStartTime": 141897,
+        "slowEndTime": 145732
+    },
+    {
+        "text": "...because it really is about what do we know in the field of economics...",
+        "startTime": 97185,
+        "endTime": 101838,
+        "slowStartTime": 145928,
+        "slowEndTime": 152982
+    },
+    {
+        "text": "...that can take the current divisions and try and do better.",
+        "startTime": 102126,
+        "endTime": 105954,
+        "slowStartTime": 153339,
+        "slowEndTime": 159156
+    },
+    {
+        "text": "I found all these books really interesting,...",
+        "startTime": 106655,
+        "endTime": 108622,
+        "slowStartTime": 160133,
+        "slowEndTime": 163158
+    },
+    {
+        "text": "...and I hope you do also.",
+        "startTime": 108978,
+        "endTime": 110390,
+        "slowStartTime": 163617,
+        "slowEndTime": 165810
+    }
+]

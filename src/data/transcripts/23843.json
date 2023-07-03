@@ -1,0 +1,79 @@
+[
+    {
+        "text": "In Italy, navy and coast guard ships pick up about 1,500 migrants in 24 hours,...",
+        "startTime": 2778,
+        "endTime": 8561,
+        "slowStartTime": 4317,
+        "slowEndTime": 13067
+    },
+    {
+        "text": "...most fleeing war and poverty in African regions.",
+        "startTime": 8701,
+        "endTime": 11715,
+        "slowStartTime": 13202,
+        "slowEndTime": 17797
+    },
+    {
+        "text": "In Israel, Israeli prime minister Benjamin Netanyahu...",
+        "startTime": 12339,
+        "endTime": 15629,
+        "slowStartTime": 18658,
+        "slowEndTime": 23668
+    },
+    {
+        "text": "...voices his disapproval of the recent Iran Agreement.",
+        "startTime": 15930,
+        "endTime": 18843,
+        "slowStartTime": 24045,
+        "slowEndTime": 28490
+    },
+    {
+        "text": "In India, Prime Minister Narendra Modi announces a National Air Quality Index Monday...",
+        "startTime": 20678,
+        "endTime": 25833,
+        "slowStartTime": 31167,
+        "slowEndTime": 38975
+    },
+    {
+        "text": "...to keep track of pollution levels in ten of its cities.",
+        "startTime": 26257,
+        "endTime": 29195,
+        "slowStartTime": 39536,
+        "slowEndTime": 44017
+    },
+    {
+        "text": "In an unprecedented move, China says it helped ten countries...",
+        "startTime": 32463,
+        "endTime": 36196,
+        "slowStartTime": 48844,
+        "slowEndTime": 54519
+    },
+    {
+        "text": "...evacuate 225 of their citizens from Yemen.",
+        "startTime": 36274,
+        "endTime": 39952,
+        "slowStartTime": 54561,
+        "slowEndTime": 60153
+    },
+    {
+        "text": "And finally from Switzerland, after a two-year hiatus...",
+        "startTime": 41854,
+        "endTime": 44894,
+        "slowStartTime": 62931,
+        "slowEndTime": 67566
+    },
+    {
+        "text": "...scientists at the European Center for Nuclear Research...",
+        "startTime": 45192,
+        "endTime": 47991,
+        "slowStartTime": 67938,
+        "slowEndTime": 72212
+    },
+    {
+        "text": "...restart their \"Big Bang\" Large Hadron Collider.",
+        "startTime": 48258,
+        "endTime": 50901,
+        "slowStartTime": 72537,
+        "slowEndTime": 76576
+    }
+]

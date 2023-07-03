@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Hey Siri, read me my unread emails.",
+        "startTime": 240,
+        "endTime": 2835,
+        "slowStartTime": 510,
+        "slowEndTime": 4477
+    },
+    {
+        "text": "Prince Oseph sent you an email about...",
+        "startTime": 3745,
+        "endTime": 5799,
+        "slowStartTime": 5767,
+        "slowEndTime": 8924
+    },
+    {
+        "text": "\"Life-changing opportunity, if you please\"",
+        "startTime": 6033,
+        "endTime": 8201,
+        "slowStartTime": 9199,
+        "slowEndTime": 12527
+    },
+    {
+        "text": "It says, \"I have a once in a lifetime investment opportunity...\"",
+        "startTime": 8392,
+        "endTime": 11889,
+        "slowStartTime": 12738,
+        "slowEndTime": 18058
+    },
+    {
+        "text": "\"...for the making of many of millions of currency.\"",
+        "startTime": 11970,
+        "endTime": 14281,
+        "slowStartTime": 18105,
+        "slowEndTime": 21646
+    },
+    {
+        "text": "Would you like to reply?",
+        "startTime": 15136,
+        "endTime": 16337,
+        "slowStartTime": 22854,
+        "slowEndTime": 24731
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 17609,
+        "endTime": 18451,
+        "slowStartTime": 26563,
+        "slowEndTime": 27901
+    },
+    {
+        "text": "OK, what would you like the email to say?",
+        "startTime": 19624,
+        "endTime": 21964,
+        "slowStartTime": 29586,
+        "slowEndTime": 33171
+    },
+    {
+        "text": "\"Sign me up.\"",
+        "startTime": 23499,
+        "endTime": 24504,
+        "slowStartTime": 35399,
+        "slowEndTime": 36981
+    },
+    {
+        "text": "Okay Bill, here's your email message to Prince Oseph.",
+        "startTime": 24957,
+        "endTime": 27923,
+        "slowStartTime": 37586,
+        "slowEndTime": 42109
+    },
+    {
+        "text": "Thank you, Siri.",
+        "startTime": 28185,
+        "endTime": 29045,
+        "slowStartTime": 42427,
+        "slowEndTime": 43792
+    }
+]

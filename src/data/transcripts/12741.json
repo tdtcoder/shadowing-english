@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Do you guys have any plans for this Saturday?",
+        "startTime": 2159,
+        "endTime": 4123,
+        "slowStartTime": 3388,
+        "slowEndTime": 6409
+    },
+    {
+        "text": "No, I don't have any plans, why?",
+        "startTime": 4721,
+        "endTime": 7120,
+        "slowStartTime": 7232,
+        "slowEndTime": 10905
+    },
+    {
+        "text": "I'm free all day Saturday.",
+        "startTime": 7473,
+        "endTime": 9045,
+        "slowStartTime": 11360,
+        "slowEndTime": 13793
+    },
+    {
+        "text": "What do you want to do?",
+        "startTime": 9245,
+        "endTime": 10330,
+        "slowStartTime": 14017,
+        "slowEndTime": 15720
+    },
+    {
+        "text": "Well, I've always wanted to go to the Museum of Modern Art.",
+        "startTime": 10777,
+        "endTime": 13531,
+        "slowStartTime": 16315,
+        "slowEndTime": 20522
+    },
+    {
+        "text": "I've heard there are a lot of great exhibits there.",
+        "startTime": 14105,
+        "endTime": 16481,
+        "slowStartTime": 21307,
+        "slowEndTime": 24946
+    },
+    {
+        "text": "Yeah. They have a really big collection of contemporary paintings.",
+        "startTime": 16905,
+        "endTime": 20959,
+        "slowStartTime": 25507,
+        "slowEndTime": 31663
+    },
+    {
+        "text": "Great! Then why don't we all go together this Saturday?",
+        "startTime": 21243,
+        "endTime": 24713,
+        "slowStartTime": 32015,
+        "slowEndTime": 37295
+    },
+    {
+        "text": "Sounds good.",
+        "startTime": 24980,
+        "endTime": 25866,
+        "slowStartTime": 37620,
+        "slowEndTime": 39024
+    },
+    {
+        "text": "What's a good time to meet?",
+        "startTime": 26236,
+        "endTime": 27615,
+        "slowStartTime": 39504,
+        "slowEndTime": 41647
+    },
+    {
+        "text": "How about meeting at 12:00 at the main gate?",
+        "startTime": 27924,
+        "endTime": 30680,
+        "slowStartTime": 42036,
+        "slowEndTime": 46245
+    },
+    {
+        "text": "I have an appointment with Susie at that time.",
+        "startTime": 30965,
+        "endTime": 33435,
+        "slowStartTime": 46597,
+        "slowEndTime": 50378
+    },
+    {
+        "text": "How about 3:00?",
+        "startTime": 33673,
+        "endTime": 34771,
+        "slowStartTime": 50659,
+        "slowEndTime": 52382
+    },
+    {
+        "text": "That works for me.",
+        "startTime": 35212,
+        "endTime": 36151,
+        "slowStartTime": 52968,
+        "slowEndTime": 54452
+    },
+    {
+        "text": "Main gate at 3:00.",
+        "startTime": 36548,
+        "endTime": 37649,
+        "slowStartTime": 54972,
+        "slowEndTime": 56698
+    },
+    {
+        "text": "I'll be there!",
+        "startTime": 37889,
+        "endTime": 38741,
+        "slowStartTime": 56984,
+        "slowEndTime": 58336
+    }
+]

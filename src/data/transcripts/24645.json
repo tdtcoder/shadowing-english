@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Do you think IBM can ever be as cool as a Google, as Apple?",
+        "startTime": 15,
+        "endTime": 5136,
+        "slowStartTime": 134,
+        "slowEndTime": 7929
+    },
+    {
+        "text": "Monica, this question... Cool?",
+        "startTime": 5828,
+        "endTime": 9065,
+        "slowStartTime": 8892,
+        "slowEndTime": 13823
+    },
+    {
+        "text": "If you think solving cancer is cool, then we're cool.",
+        "startTime": 9154,
+        "endTime": 11826,
+        "slowStartTime": 13881,
+        "slowEndTime": 17964
+    },
+    {
+        "text": "If you think predicting a train or a plane having an outage ahead of time...",
+        "startTime": 12234,
+        "endTime": 16508,
+        "slowStartTime": 18501,
+        "slowEndTime": 24987
+    },
+    {
+        "text": "...so there's not a problem is cool, then we're cool.",
+        "startTime": 16569,
+        "endTime": 18809,
+        "slowStartTime": 25004,
+        "slowEndTime": 28438
+    },
+    {
+        "text": "If you think going all about trying to reinvent health care, then we're cool.",
+        "startTime": 19147,
+        "endTime": 22677,
+        "slowStartTime": 28871,
+        "slowEndTime": 34241
+    },
+    {
+        "text": "And so, that to me is the definition of cool.",
+        "startTime": 23104,
+        "endTime": 25041,
+        "slowStartTime": 34806,
+        "slowEndTime": 37787
+    },
+    {
+        "text": "And in fact, if anything, you know what's more important than just being cool,...",
+        "startTime": 25430,
+        "endTime": 28930,
+        "slowStartTime": 38295,
+        "slowEndTime": 43620
+    },
+    {
+        "text": "...to me what's more important,...",
+        "startTime": 29371,
+        "endTime": 30525,
+        "slowStartTime": 44206,
+        "slowEndTime": 46013
+    },
+    {
+        "text": "...is to be essential.",
+        "startTime": 30710,
+        "endTime": 31720,
+        "slowStartTime": 46215,
+        "slowEndTime": 47805
+    }
+]

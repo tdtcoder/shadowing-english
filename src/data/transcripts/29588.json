@@ -1,0 +1,86 @@
+[
+    {
+        "text": "﻿\"Much\" is used for uncountable nouns...",
+        "startTime": 377,
+        "endTime": 2782,
+        "slowStartTime": 715,
+        "slowEndTime": 4398
+    },
+    {
+        "text": "...while \"many\" is used for countable nouns.",
+        "startTime": 3109,
+        "endTime": 5675,
+        "slowStartTime": 4813,
+        "slowEndTime": 8737
+    },
+    {
+        "text": "How much money do you want?",
+        "startTime": 7860,
+        "endTime": 9275,
+        "slowStartTime": 11940,
+        "slowEndTime": 14137
+    },
+    {
+        "text": "She doesn't have much money.",
+        "startTime": 11717,
+        "endTime": 13318,
+        "slowStartTime": 17725,
+        "slowEndTime": 20202
+    },
+    {
+        "text": "How much time does he have?",
+        "startTime": 16341,
+        "endTime": 17926,
+        "slowStartTime": 24661,
+        "slowEndTime": 27114
+    },
+    {
+        "text": "He doesn't have much time.",
+        "startTime": 18275,
+        "endTime": 19832,
+        "slowStartTime": 27563,
+        "slowEndTime": 29973
+    },
+    {
+        "text": "How many people are there?",
+        "startTime": 23446,
+        "endTime": 24777,
+        "slowStartTime": 35319,
+        "slowEndTime": 37390
+    },
+    {
+        "text": "There are many men.",
+        "startTime": 25415,
+        "endTime": 26543,
+        "slowStartTime": 38273,
+        "slowEndTime": 40040
+    },
+    {
+        "text": "How much meat do you want?",
+        "startTime": 29609,
+        "endTime": 31301,
+        "slowStartTime": 44564,
+        "slowEndTime": 47176
+    },
+    {
+        "text": "Not much.",
+        "startTime": 31505,
+        "endTime": 32117,
+        "slowStartTime": 47407,
+        "slowEndTime": 48401
+    },
+    {
+        "text": "How many hamburgers can you eat?",
+        "startTime": 35378,
+        "endTime": 37341,
+        "slowStartTime": 53217,
+        "slowEndTime": 56236
+    },
+    {
+        "text": "A lot, please.",
+        "startTime": 37605,
+        "endTime": 38500,
+        "slowStartTime": 56558,
+        "slowEndTime": 57975
+    }
+]

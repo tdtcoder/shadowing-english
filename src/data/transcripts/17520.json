@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Do you like drawing pictures?",
+        "startTime": 2789,
+        "endTime": 4621,
+        "slowStartTime": 4334,
+        "slowEndTime": 7156
+    },
+    {
+        "text": "Yes, I do.",
+        "startTime": 5997,
+        "endTime": 7291,
+        "slowStartTime": 9146,
+        "slowEndTime": 11162
+    },
+    {
+        "text": "I love drawing pictures.",
+        "startTime": 7505,
+        "endTime": 9685,
+        "slowStartTime": 11408,
+        "slowEndTime": 14752
+    },
+    {
+        "text": "Does Andy love to cook?",
+        "startTime": 11081,
+        "endTime": 12725,
+        "slowStartTime": 16771,
+        "slowEndTime": 19313
+    },
+    {
+        "text": "No, he doesn't love to cook.",
+        "startTime": 13871,
+        "endTime": 15979,
+        "slowStartTime": 20957,
+        "slowEndTime": 24193
+    },
+    {
+        "text": "Does Betty like to study English?",
+        "startTime": 17515,
+        "endTime": 19786,
+        "slowStartTime": 26423,
+        "slowEndTime": 29904
+    },
+    {
+        "text": "Yes, she likes to study English.",
+        "startTime": 21185,
+        "endTime": 24010,
+        "slowStartTime": 31927,
+        "slowEndTime": 36240
+    },
+    {
+        "text": "Do they love playing soccer?",
+        "startTime": 25233,
+        "endTime": 27081,
+        "slowStartTime": 37999,
+        "slowEndTime": 40847
+    },
+    {
+        "text": "No, they don't.",
+        "startTime": 28368,
+        "endTime": 29681,
+        "slowStartTime": 42702,
+        "slowEndTime": 44747
+    },
+    {
+        "text": "They love playing baseball.",
+        "startTime": 30132,
+        "endTime": 32057,
+        "slowStartTime": 45348,
+        "slowEndTime": 48311
+    },
+    {
+        "text": "Maddy loves to march all around.",
+        "startTime": 38816,
+        "endTime": 41195,
+        "slowStartTime": 58374,
+        "slowEndTime": 62018
+    },
+    {
+        "text": "One, two, three, four.",
+        "startTime": 42567,
+        "endTime": 44317,
+        "slowStartTime": 64000,
+        "slowEndTime": 66700
+    },
+    {
+        "text": "One, two, three, four.",
+        "startTime": 44457,
+        "endTime": 45713,
+        "slowStartTime": 66836,
+        "slowEndTime": 68795
+    },
+    {
+        "text": "Maddy marches through the house, through the house.",
+        "startTime": 46348,
+        "endTime": 49663,
+        "slowStartTime": 69672,
+        "slowEndTime": 74720
+    },
+    {
+        "text": "One, two, three, four.",
+        "startTime": 50086,
+        "endTime": 51782,
+        "slowStartTime": 75279,
+        "slowEndTime": 77898
+    },
+    {
+        "text": "One, two, three, four.",
+        "startTime": 51971,
+        "endTime": 53189,
+        "slowStartTime": 78107,
+        "slowEndTime": 80009
+    },
+    {
+        "text": "Maddy marches out the door, out the door.",
+        "startTime": 53784,
+        "endTime": 56979,
+        "slowStartTime": 80826,
+        "slowEndTime": 85693
+    },
+    {
+        "text": "One, two, three, four.",
+        "startTime": 57556,
+        "endTime": 59261,
+        "slowStartTime": 86484,
+        "slowEndTime": 89116
+    },
+    {
+        "text": "One, two, three, four.",
+        "startTime": 59460,
+        "endTime": 60707,
+        "slowStartTime": 89340,
+        "slowEndTime": 91286
+    },
+    {
+        "text": "Maddy marches down the street, down the street.",
+        "startTime": 61327,
+        "endTime": 64521,
+        "slowStartTime": 92140,
+        "slowEndTime": 97006
+    },
+    {
+        "text": "Maddy joins the marching band and leads the parade.",
+        "startTime": 65095,
+        "endTime": 68323,
+        "slowStartTime": 97793,
+        "slowEndTime": 102710
+    }
+]

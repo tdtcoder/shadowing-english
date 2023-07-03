@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Welcome to \"This is Madness:...\"",
+        "startTime": 1161,
+        "endTime": 4283,
+        "slowStartTime": 1891,
+        "slowEndTime": 6649
+    },
+    {
+        "text": "\"...The Star Wars Character Tournament.\"",
+        "startTime": 4476,
+        "endTime": 6751,
+        "slowStartTime": 6864,
+        "slowEndTime": 10352
+    },
+    {
+        "text": "We would be honored if you would join us in \"This is Madness!\"",
+        "startTime": 7209,
+        "endTime": 13567,
+        "slowStartTime": 10963,
+        "slowEndTime": 20575
+    },
+    {
+        "text": "You will be presented with matchups featuring heroes on the light side...",
+        "startTime": 13743,
+        "endTime": 17621,
+        "slowStartTime": 20764,
+        "slowEndTime": 26656
+    },
+    {
+        "text": "...and quote, unquote \"villains\" on the dark side.",
+        "startTime": 17801,
+        "endTime": 22277,
+        "slowStartTime": 26852,
+        "slowEndTime": 33641
+    },
+    {
+        "text": "You don't know the power of the... sorry where was I?",
+        "startTime": 22615,
+        "endTime": 27673,
+        "slowStartTime": 34073,
+        "slowEndTime": 41734
+    },
+    {
+        "text": "Oh yes, the tournament.",
+        "startTime": 28056,
+        "endTime": 30135,
+        "slowStartTime": 42234,
+        "slowEndTime": 45427
+    },
+    {
+        "text": "You must vote for your favorite hero or villain in each matchup.",
+        "startTime": 30589,
+        "endTime": 34638,
+        "slowStartTime": 46034,
+        "slowEndTime": 52182
+    },
+    {
+        "text": "Whoever receives the most votes will advance in the tournament...",
+        "startTime": 35324,
+        "endTime": 39017,
+        "slowStartTime": 53136,
+        "slowEndTime": 58751
+    },
+    {
+        "text": "...until he or she is crowned champion of \"This is Madness!\"",
+        "startTime": 39237,
+        "endTime": 45093,
+        "slowStartTime": 59005,
+        "slowEndTime": 67864
+    },
+    {
+        "text": "Now for my pitch.",
+        "startTime": 45474,
+        "endTime": 47021,
+        "slowStartTime": 68361,
+        "slowEndTime": 70757
+    },
+    {
+        "text": "With your backing, I will win this competition and crush all who stand in my way.",
+        "startTime": 49565,
+        "endTime": 55431,
+        "slowStartTime": 74497,
+        "slowEndTime": 83371
+    },
+    {
+        "text": "Together, we will unleash the power of the dark side...",
+        "startTime": 55935,
+        "endTime": 60835,
+        "slowStartTime": 84052,
+        "slowEndTime": 91478
+    },
+    {
+        "text": "...and I will have bragging rights over both Obi-Wan and the emperor which is pretty awesome.",
+        "startTime": 61119,
+        "endTime": 68575,
+        "slowStartTime": 91828,
+        "slowEndTime": 103088
+    },
+    {
+        "text": "So, as much as I hate democracy, vote now, vote often and vote Vader.",
+        "startTime": 69259,
+        "endTime": 76676,
+        "slowStartTime": 104038,
+        "slowEndTime": 115239
+    },
+    {
+        "text": "It is the only way.",
+        "startTime": 77265,
+        "endTime": 79509,
+        "slowStartTime": 116047,
+        "slowEndTime": 119488
+    }
+]

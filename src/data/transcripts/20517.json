@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Mom?",
+        "startTime": 1959,
+        "endTime": 2489,
+        "slowStartTime": 3088,
+        "slowEndTime": 3959
+    },
+    {
+        "text": "Yes, honey?",
+        "startTime": 2668,
+        "endTime": 3227,
+        "slowStartTime": 4152,
+        "slowEndTime": 5065
+    },
+    {
+        "text": "Dad told me that Cheerios is good for your heart.",
+        "startTime": 3916,
+        "endTime": 6425,
+        "slowStartTime": 6024,
+        "slowEndTime": 9863
+    },
+    {
+        "text": "Is that true?",
+        "startTime": 6581,
+        "endTime": 7381,
+        "slowStartTime": 10021,
+        "slowEndTime": 11296
+    },
+    {
+        "text": "Says here that Cheerios has whole-grain oats...",
+        "startTime": 8105,
+        "endTime": 11295,
+        "slowStartTime": 12308,
+        "slowEndTime": 17168
+    },
+    {
+        "text": "...that can help remove some cholesterol and that's heart healthy.",
+        "startTime": 11365,
+        "endTime": 13727,
+        "slowStartTime": 17197,
+        "slowEndTime": 20815
+    },
+    {
+        "text": "Kim?",
+        "startTime": 26695,
+        "endTime": 27604,
+        "slowStartTime": 40192,
+        "slowEndTime": 41631
+    }
+]

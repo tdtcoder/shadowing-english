@@ -1,0 +1,51 @@
+[
+    {
+        "text": "I'm the manager of this department and that is Jane, our secretary.",
+        "startTime": 4923,
+        "endTime": 9269,
+        "slowStartTime": 7535,
+        "slowEndTime": 14128
+    },
+    {
+        "text": "I'm going to take a walk outside and buy a cup of coffee.",
+        "startTime": 12029,
+        "endTime": 15053,
+        "slowStartTime": 18194,
+        "slowEndTime": 22804
+    },
+    {
+        "text": "I have a lot of work to do today, but I will be on vacation in the next few days.",
+        "startTime": 17581,
+        "endTime": 22423,
+        "slowStartTime": 26522,
+        "slowEndTime": 33859
+    },
+    {
+        "text": "Tina wants to join the meeting, but she has to finish some important work.",
+        "startTime": 25282,
+        "endTime": 29721,
+        "slowStartTime": 38073,
+        "slowEndTime": 44807
+    },
+    {
+        "text": "You've worked so hard!",
+        "startTime": 32283,
+        "endTime": 33557,
+        "slowStartTime": 48574,
+        "slowEndTime": 50560
+    },
+    {
+        "text": "You can go out and have a break or take a nap.",
+        "startTime": 33827,
+        "endTime": 36182,
+        "slowStartTime": 50891,
+        "slowEndTime": 54498
+    },
+    {
+        "text": "You can help us carry the boxes upstairs or stay here to look after the van.",
+        "startTime": 39074,
+        "endTime": 43221,
+        "slowStartTime": 58761,
+        "slowEndTime": 65057
+    }
+]

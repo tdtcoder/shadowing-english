@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Let's make a cheese cake for Dad.",
+        "startTime": 1588,
+        "endTime": 4017,
+        "slowStartTime": 2532,
+        "slowEndTime": 6251
+    },
+    {
+        "text": "That's a good idea.",
+        "startTime": 5103,
+        "endTime": 6383,
+        "slowStartTime": 7804,
+        "slowEndTime": 9800
+    },
+    {
+        "text": "Then what do we need to make cake?",
+        "startTime": 7049,
+        "endTime": 9189,
+        "slowStartTime": 10724,
+        "slowEndTime": 14009
+    },
+    {
+        "text": "We need a bag of flour and five slices of cheese.",
+        "startTime": 10404,
+        "endTime": 14788,
+        "slowStartTime": 15756,
+        "slowEndTime": 22407
+    },
+    {
+        "text": "What else do we need?",
+        "startTime": 15198,
+        "endTime": 16585,
+        "slowStartTime": 22947,
+        "slowEndTime": 25102
+    },
+    {
+        "text": "We need a dozen eggs, a glass of milk and ",
+        "startTime": 17765,
+        "endTime": 21272,
+        "slowStartTime": 26798,
+        "slowEndTime": 32133
+    },
+    {
+        "text": "Do we need so many eggs?",
+        "startTime": 22479,
+        "endTime": 24513,
+        "slowStartTime": 33869,
+        "slowEndTime": 36994
+    },
+    {
+        "text": "Umm, I'm not sure. We'd better ask Mom.",
+        "startTime": 25720,
+        "endTime": 29157,
+        "slowStartTime": 38730,
+        "slowEndTime": 43960
+    },
+    {
+        "text": "A pig in a wig and a dog in a bog.",
+        "startTime": 35062,
+        "endTime": 38457,
+        "slowStartTime": 52743,
+        "slowEndTime": 57911
+    },
+    {
+        "text": "How many rhymes, how many rhymes each day?",
+        "startTime": 38995,
+        "endTime": 43166,
+        "slowStartTime": 58643,
+        "slowEndTime": 64974
+    },
+    {
+        "text": "A flag in a bag and a nag with a tag.",
+        "startTime": 46269,
+        "endTime": 49771,
+        "slowStartTime": 69554,
+        "slowEndTime": 74882
+    },
+    {
+        "text": "How many rhymes, how many rhymes did I say?",
+        "startTime": 50198,
+        "endTime": 54715,
+        "slowStartTime": 75447,
+        "slowEndTime": 82297
+    },
+    {
+        "text": "A cat on a mat and a rat in a hat.",
+        "startTime": 57566,
+        "endTime": 60999,
+        "slowStartTime": 86499,
+        "slowEndTime": 91724
+    },
+    {
+        "text": "How many rhymes, how many rhymes each day?",
+        "startTime": 61516,
+        "endTime": 65710,
+        "slowStartTime": 92424,
+        "slowEndTime": 98790
+    },
+    {
+        "text": "A bat in a flat and Nat in a gat.",
+        "startTime": 68821,
+        "endTime": 72273,
+        "slowStartTime": 103382,
+        "slowEndTime": 108634
+    },
+    {
+        "text": "How many rhymes, how many rhymes did I say?",
+        "startTime": 72771,
+        "endTime": 76978,
+        "slowStartTime": 109306,
+        "slowEndTime": 115692
+    }
+]

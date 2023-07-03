@@ -1,0 +1,212 @@
+[
+    {
+        "text": "Japan says it has finished testing all crew and passengers...",
+        "startTime": 369,
+        "endTime": 3859,
+        "slowStartTime": 704,
+        "slowEndTime": 6014
+    },
+    {
+        "text": "...on board the virus-stricken Diamond Princess  cruise ship.",
+        "startTime": 3923,
+        "endTime": 6525,
+        "slowStartTime": 6034,
+        "slowEndTime": 10013
+    },
+    {
+        "text": "All passengers who tested negative for the coronavirus are expected to disembark from tomorrow.",
+        "startTime": 7008,
+        "endTime": 11366,
+        "slowStartTime": 10662,
+        "slowEndTime": 17274
+    },
+    {
+        "text": "Foreign governments are eager to evacuate their nationals...",
+        "startTime": 12039,
+        "endTime": 15089,
+        "slowStartTime": 18208,
+        "slowEndTime": 22858
+    },
+    {
+        "text": "...aboard the virus-hit Diamond Princess cruise ship...",
+        "startTime": 15187,
+        "endTime": 17515,
+        "slowStartTime": 22931,
+        "slowEndTime": 26498
+    },
+    {
+        "text": "...after the confirmed infections rose above 540.",
+        "startTime": 17856,
+        "endTime": 21832,
+        "slowStartTime": 26934,
+        "slowEndTime": 32973
+    },
+    {
+        "text": "The US government evacuated more than 330 people from the cruise ship yesterday.",
+        "startTime": 22119,
+        "endTime": 26328,
+        "slowStartTime": 33328,
+        "slowEndTime": 39717
+    },
+    {
+        "text": "Among them, 13 have been tested positive and three people show likely COVID-19 symptoms.",
+        "startTime": 27077,
+        "endTime": 33009,
+        "slowStartTime": 40765,
+        "slowEndTime": 49739
+    },
+    {
+        "text": "All of them were taken to the hospital on arrival...",
+        "startTime": 33247,
+        "endTime": 35143,
+        "slowStartTime": 50020,
+        "slowEndTime": 52940
+    },
+    {
+        "text": "...while other evacuees have been placed under quarantine at military facilities.",
+        "startTime": 35478,
+        "endTime": 39056,
+        "slowStartTime": 53367,
+        "slowEndTime": 58809
+    },
+    {
+        "text": "Canada has also sent a chartered plane to Japan today.",
+        "startTime": 39499,
+        "endTime": 42961,
+        "slowStartTime": 59399,
+        "slowEndTime": 64667
+    },
+    {
+        "text": "According to a government statement, all passengers will undergo a two-week quarantine.",
+        "startTime": 43465,
+        "endTime": 48979,
+        "slowStartTime": 65348,
+        "slowEndTime": 73694
+    },
+    {
+        "text": "South Korea is also sending a government charter flight today...",
+        "startTime": 49601,
+        "endTime": 52251,
+        "slowStartTime": 74551,
+        "slowEndTime": 78602
+    },
+    {
+        "text": "...to bring back its four citizens and one Japanese spouse.",
+        "startTime": 52323,
+        "endTime": 55082,
+        "slowStartTime": 78635,
+        "slowEndTime": 82848
+    },
+    {
+        "text": "Currently, none of them are showing any symptoms.",
+        "startTime": 55486,
+        "endTime": 57576,
+        "slowStartTime": 83379,
+        "slowEndTime": 86589
+    },
+    {
+        "text": "The Australian government is planning to bring home more than 200 of its citizens tomorrow...",
+        "startTime": 57955,
+        "endTime": 62778,
+        "slowStartTime": 87082,
+        "slowEndTime": 94392
+    },
+    {
+        "text": "...and they will be placed under a two-week quarantine on arrival.",
+        "startTime": 63149,
+        "endTime": 66646,
+        "slowStartTime": 94873,
+        "slowEndTime": 100194
+    },
+    {
+        "text": "Italy and the UK are also working to organize flights to repatriate their nationals...",
+        "startTime": 67019,
+        "endTime": 71675,
+        "slowStartTime": 100678,
+        "slowEndTime": 107738
+    },
+    {
+        "text": "...stranded on the ship.",
+        "startTime": 71961,
+        "endTime": 72659,
+        "slowStartTime": 108092,
+        "slowEndTime": 109214
+    },
+    {
+        "text": "A British couple quarantined on board tested positive yesterday.",
+        "startTime": 73053,
+        "endTime": 75875,
+        "slowStartTime": 109730,
+        "slowEndTime": 114038
+    },
+    {
+        "text": "Hong Kong will have, on standby, two chartered planes as early as tomorrow.",
+        "startTime": 76355,
+        "endTime": 80927,
+        "slowStartTime": 114683,
+        "slowEndTime": 121616
+    },
+    {
+        "text": "Residents of Macau will also be able to get on same plane.",
+        "startTime": 81401,
+        "endTime": 84865,
+        "slowStartTime": 122251,
+        "slowEndTime": 127523
+    },
+    {
+        "text": "Twenty-one out of the 350 Hong Kong residents on board the ship has been infected.",
+        "startTime": 85223,
+        "endTime": 91455,
+        "slowStartTime": 127984,
+        "slowEndTime": 137407
+    },
+    {
+        "text": "The Philippine government has also made plans to repatriate its nationals on the quarantined ship.",
+        "startTime": 91900,
+        "endTime": 96641,
+        "slowStartTime": 138000,
+        "slowEndTime": 145187
+    },
+    {
+        "text": "The Philippine Embassy in Tokyo says more than half of the crew,...",
+        "startTime": 97047,
+        "endTime": 100292,
+        "slowStartTime": 145721,
+        "slowEndTime": 150663
+    },
+    {
+        "text": "...some 530 people, are Philippine nationals.",
+        "startTime": 100504,
+        "endTime": 103637,
+        "slowStartTime": 150906,
+        "slowEndTime": 155680
+    },
+    {
+        "text": "There are also seven passengers from the country.",
+        "startTime": 104112,
+        "endTime": 106304,
+        "slowStartTime": 156318,
+        "slowEndTime": 159681
+    },
+    {
+        "text": "So far, 27 of them have been tested positive for the virus.",
+        "startTime": 106639,
+        "endTime": 110103,
+        "slowStartTime": 160108,
+        "slowEndTime": 165379
+    },
+    {
+        "text": "Remaining passengers who have tested negative will begin disembarking as early as tomorrow,...",
+        "startTime": 110541,
+        "endTime": 114935,
+        "slowStartTime": 165961,
+        "slowEndTime": 172628
+    },
+    {
+        "text": "...that's the original deadline for the end of the ship's quarantine.",
+        "startTime": 115213,
+        "endTime": 118510,
+        "slowStartTime": 172970,
+        "slowEndTime": 177990
+    }
+]

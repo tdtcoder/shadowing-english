@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Hello?",
+        "startTime": 356,
+        "endTime": 895,
+        "slowStartTime": 684,
+        "slowEndTime": 1568
+    },
+    {
+        "text": "Hi, Amanda.",
+        "startTime": 1121,
+        "endTime": 1891,
+        "slowStartTime": 1831,
+        "slowEndTime": 3061
+    },
+    {
+        "text": "How's everything going with you?",
+        "startTime": 2364,
+        "endTime": 3699,
+        "slowStartTime": 3696,
+        "slowEndTime": 5774
+    },
+    {
+        "text": "Everything is okay.",
+        "startTime": 3961,
+        "endTime": 4960,
+        "slowStartTime": 6091,
+        "slowEndTime": 7665
+    },
+    {
+        "text": "Cool.",
+        "startTime": 5251,
+        "endTime": 5854,
+        "slowStartTime": 8026,
+        "slowEndTime": 9006
+    },
+    {
+        "text": "Today, we're going to talk about our interests.",
+        "startTime": 6312,
+        "endTime": 9091,
+        "slowStartTime": 9618,
+        "slowEndTime": 13862
+    },
+    {
+        "text": "I like learning languages.",
+        "startTime": 9774,
+        "endTime": 11445,
+        "slowStartTime": 14811,
+        "slowEndTime": 17392
+    },
+    {
+        "text": "How many languages can you speak?",
+        "startTime": 11907,
+        "endTime": 13529,
+        "slowStartTime": 18010,
+        "slowEndTime": 20518
+    },
+    {
+        "text": "I can speak three different languages:...",
+        "startTime": 14083,
+        "endTime": 16241,
+        "slowStartTime": 21274,
+        "slowEndTime": 24586
+    },
+    {
+        "text": "...Korean, Japanese, and a little bit of English.",
+        "startTime": 16511,
+        "endTime": 19691,
+        "slowStartTime": 24917,
+        "slowEndTime": 29761
+    },
+    {
+        "text": "Wow! What about Spanish?",
+        "startTime": 19907,
+        "endTime": 22144,
+        "slowStartTime": 30011,
+        "slowEndTime": 33441
+    },
+    {
+        "text": "It's similar to English.",
+        "startTime": 22303,
+        "endTime": 23573,
+        "slowStartTime": 33604,
+        "slowEndTime": 35584
+    },
+    {
+        "text": "No. Let me master English first.",
+        "startTime": 24047,
+        "endTime": 26905,
+        "slowStartTime": 36221,
+        "slowEndTime": 40582
+    },
+    {
+        "text": "Good thinking.",
+        "startTime": 27108,
+        "endTime": 28003,
+        "slowStartTime": 40812,
+        "slowEndTime": 42230
+    },
+    {
+        "text": "What else are you interested in?",
+        "startTime": 28357,
+        "endTime": 29658,
+        "slowStartTime": 42686,
+        "slowEndTime": 44712
+    },
+    {
+        "text": "I enjoy outdoor activities like soccer.",
+        "startTime": 30189,
+        "endTime": 33034,
+        "slowStartTime": 45434,
+        "slowEndTime": 49776
+    },
+    {
+        "text": "I remember you said that before.",
+        "startTime": 33551,
+        "endTime": 35275,
+        "slowStartTime": 50476,
+        "slowEndTime": 53137
+    },
+    {
+        "text": "Do you like baseball, too?",
+        "startTime": 35632,
+        "endTime": 37112,
+        "slowStartTime": 53598,
+        "slowEndTime": 55893
+    },
+    {
+        "text": "Yes, but soccer is more exciting than baseball.",
+        "startTime": 37471,
+        "endTime": 40290,
+        "slowStartTime": 56357,
+        "slowEndTime": 60660
+    },
+    {
+        "text": "How about you?",
+        "startTime": 40656,
+        "endTime": 41495,
+        "slowStartTime": 61134,
+        "slowEndTime": 62468
+    },
+    {
+        "text": "Me? I prefer indoor activities, like reading.",
+        "startTime": 41827,
+        "endTime": 45483,
+        "slowStartTime": 62890,
+        "slowEndTime": 68449
+    },
+    {
+        "text": "Do you like watching TV?",
+        "startTime": 46117,
+        "endTime": 47469,
+        "slowStartTime": 69326,
+        "slowEndTime": 71429
+    },
+    {
+        "text": "Not really, but I do watch historical documentaries.",
+        "startTime": 47737,
+        "endTime": 50990,
+        "slowStartTime": 71756,
+        "slowEndTime": 76710
+    },
+    {
+        "text": "Like what?",
+        "startTime": 51314,
+        "endTime": 51862,
+        "slowStartTime": 77121,
+        "slowEndTime": 78018
+    },
+    {
+        "text": "\"The Death of JFK.\"",
+        "startTime": 52681,
+        "endTime": 53984,
+        "slowStartTime": 79171,
+        "slowEndTime": 81201
+    },
+    {
+        "text": "I saw it on TV last night!",
+        "startTime": 54511,
+        "endTime": 56290,
+        "slowStartTime": 81917,
+        "slowEndTime": 84660
+    },
+    {
+        "text": "I seriously think that the CIA was involved.",
+        "startTime": 56485,
+        "endTime": 59395,
+        "slowStartTime": 84878,
+        "slowEndTime": 89318
+    }
+]

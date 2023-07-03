@@ -1,0 +1,226 @@
+[
+    {
+        "text": "Hello?",
+        "startTime": 5032,
+        "endTime": 5648,
+        "slowStartTime": 7698,
+        "slowEndTime": 8697
+    },
+    {
+        "text": "Hello.",
+        "startTime": 6628,
+        "endTime": 7027,
+        "slowStartTime": 10092,
+        "slowEndTime": 10766
+    },
+    {
+        "text": "Is that Jennifer Zielinski?",
+        "startTime": 7493,
+        "endTime": 10297,
+        "slowStartTime": 11390,
+        "slowEndTime": 15671
+    },
+    {
+        "text": "Yes, who's that?",
+        "startTime": 10604,
+        "endTime": 11671,
+        "slowStartTime": 16056,
+        "slowEndTime": 17731
+    },
+    {
+        "text": "This is Rob Walker.",
+        "startTime": 12158,
+        "endTime": 13485,
+        "slowStartTime": 18387,
+        "slowEndTime": 20452
+    },
+    {
+        "text": "I'm sorry, who?",
+        "startTime": 14202,
+        "endTime": 14967,
+        "slowStartTime": 21453,
+        "slowEndTime": 22675
+    },
+    {
+        "text": "Rob Walker.",
+        "startTime": 16824,
+        "endTime": 17526,
+        "slowStartTime": 25386,
+        "slowEndTime": 26514
+    },
+    {
+        "text": "I work for London 24/7.",
+        "startTime": 17887,
+        "endTime": 20219,
+        "slowStartTime": 26981,
+        "slowEndTime": 30554
+    },
+    {
+        "text": "We need to talk about your trip to London in March.",
+        "startTime": 21025,
+        "endTime": 24285,
+        "slowStartTime": 31688,
+        "slowEndTime": 36652
+    },
+    {
+        "text": "You arrive on the 12th of March and you leave on the 19th.",
+        "startTime": 25486,
+        "endTime": 31523,
+        "slowStartTime": 38379,
+        "slowEndTime": 47509
+    },
+    {
+        "text": "Is that right?",
+        "startTime": 31657,
+        "endTime": 32247,
+        "slowStartTime": 47636,
+        "slowEndTime": 48596
+    },
+    {
+        "text": "I'm really sorry, Mr. Walker.",
+        "startTime": 32785,
+        "endTime": 34683,
+        "slowStartTime": 49327,
+        "slowEndTime": 52249
+    },
+    {
+        "text": "Rob.",
+        "startTime": 35406,
+        "endTime": 35948,
+        "slowStartTime": 53259,
+        "slowEndTime": 54147
+    },
+    {
+        "text": "But, I'm not at work.",
+        "startTime": 36317,
+        "endTime": 37544,
+        "slowStartTime": 54625,
+        "slowEndTime": 56541
+    },
+    {
+        "text": "Today is a holiday here.",
+        "startTime": 37707,
+        "endTime": 39310,
+        "slowStartTime": 56711,
+        "slowEndTime": 59190
+    },
+    {
+        "text": "A holiday?",
+        "startTime": 39791,
+        "endTime": 40818,
+        "slowStartTime": 59836,
+        "slowEndTime": 61452
+    },
+    {
+        "text": "Yes.",
+        "startTime": 41145,
+        "endTime": 41731,
+        "slowStartTime": 61867,
+        "slowEndTime": 62821
+    },
+    {
+        "text": "You know, it's Thanksgiving.",
+        "startTime": 42072,
+        "endTime": 43733,
+        "slowStartTime": 63258,
+        "slowEndTime": 65825
+    },
+    {
+        "text": "I'm at my parents' house, with my family.",
+        "startTime": 44569,
+        "endTime": 47322,
+        "slowStartTime": 67004,
+        "slowEndTime": 71208
+    },
+    {
+        "text": "Thanksgiving, of course.",
+        "startTime": 48137,
+        "endTime": 49462,
+        "slowStartTime": 72355,
+        "slowEndTime": 74418
+    },
+    {
+        "text": "Sorry, we don't have Thanksgiving in England.",
+        "startTime": 49723,
+        "endTime": 52696,
+        "slowStartTime": 74735,
+        "slowEndTime": 79269
+    },
+    {
+        "text": "No problem.",
+        "startTime": 53334,
+        "endTime": 54039,
+        "slowStartTime": 80151,
+        "slowEndTime": 81284
+    },
+    {
+        "text": "Listen, call me on Monday at work.",
+        "startTime": 54685,
+        "endTime": 58069,
+        "slowStartTime": 82177,
+        "slowEndTime": 87328
+    },
+    {
+        "text": "No, not Monday, Tuesday.",
+        "startTime": 58515,
+        "endTime": 61185,
+        "slowStartTime": 87923,
+        "slowEndTime": 92003
+    },
+    {
+        "text": "Tuesday, the 3rd of December?",
+        "startTime": 62415,
+        "endTime": 65659,
+        "slowStartTime": 93773,
+        "slowEndTime": 98713
+    },
+    {
+        "text": "Yes!",
+        "startTime": 65905,
+        "endTime": 66401,
+        "slowStartTime": 99008,
+        "slowEndTime": 99826
+    },
+    {
+        "text": "Jenny!",
+        "startTime": 66752,
+        "endTime": 67549,
+        "slowStartTime": 100278,
+        "slowEndTime": 101548
+    },
+    {
+        "text": "Hurry up!",
+        "startTime": 67840,
+        "endTime": 69217,
+        "slowStartTime": 101910,
+        "slowEndTime": 104050
+    },
+    {
+        "text": "Talk to you on Tuesday.",
+        "startTime": 69515,
+        "endTime": 70792,
+        "slowStartTime": 104423,
+        "slowEndTime": 106413
+    },
+    {
+        "text": "Thanks for calling.",
+        "startTime": 71244,
+        "endTime": 72123,
+        "slowStartTime": 107016,
+        "slowEndTime": 108410
+    },
+    {
+        "text": "Bye.",
+        "startTime": 72565,
+        "endTime": 73274,
+        "slowStartTime": 108998,
+        "slowEndTime": 110136
+    },
+    {
+        "text": "Bye.",
+        "startTime": 73783,
+        "endTime": 74195,
+        "slowStartTime": 110824,
+        "slowEndTime": 111518
+    }
+]

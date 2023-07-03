@@ -1,0 +1,93 @@
+[
+    {
+        "text": "What time do you usually get up?",
+        "startTime": 1557,
+        "endTime": 3590,
+        "slowStartTime": 2486,
+        "slowEndTime": 5610
+    },
+    {
+        "text": "I usually get up at 7:30.",
+        "startTime": 4827,
+        "endTime": 7435,
+        "slowStartTime": 7391,
+        "slowEndTime": 11378
+    },
+    {
+        "text": "I try to get up as soon as possible.",
+        "startTime": 8061,
+        "endTime": 10385,
+        "slowStartTime": 12241,
+        "slowEndTime": 15803
+    },
+    {
+        "text": "But it is not easy to get up early every day.",
+        "startTime": 10929,
+        "endTime": 13984,
+        "slowStartTime": 16543,
+        "slowEndTime": 21201
+    },
+    {
+        "text": "Do you exercise in the morning?",
+        "startTime": 15167,
+        "endTime": 17172,
+        "slowStartTime": 22900,
+        "slowEndTime": 25983
+    },
+    {
+        "text": "No, I don't. What about you?",
+        "startTime": 18309,
+        "endTime": 20862,
+        "slowStartTime": 27613,
+        "slowEndTime": 31518
+    },
+    {
+        "text": "I always get up before 7 and jog in the park.",
+        "startTime": 21989,
+        "endTime": 25986,
+        "slowStartTime": 33134,
+        "slowEndTime": 39204
+    },
+    {
+        "text": "Wow. Is it possible for you to get up before 7 every day?",
+        "startTime": 27196,
+        "endTime": 32316,
+        "slowStartTime": 40944,
+        "slowEndTime": 48699
+    },
+    {
+        "text": "Sometimes it is not easy for me to get up early.",
+        "startTime": 33507,
+        "endTime": 37139,
+        "slowStartTime": 50411,
+        "slowEndTime": 55933
+    },
+    {
+        "text": "So I try to go to bed as early as I can.",
+        "startTime": 37636,
+        "endTime": 41002,
+        "slowStartTime": 56604,
+        "slowEndTime": 61728
+    },
+    {
+        "text": "Why don't you do some exercise in the morning?",
+        "startTime": 41728,
+        "endTime": 44719,
+        "slowStartTime": 62742,
+        "slowEndTime": 67304
+    },
+    {
+        "text": "Umm. It is hard for me to do exercise in the morning.",
+        "startTime": 45783,
+        "endTime": 49936,
+        "slowStartTime": 68825,
+        "slowEndTime": 75129
+    },
+    {
+        "text": "Give it a try!",
+        "startTime": 51091,
+        "endTime": 52293,
+        "slowStartTime": 76787,
+        "slowEndTime": 78664
+    }
+]

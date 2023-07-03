@@ -1,0 +1,79 @@
+[
+    {
+        "text": "﻿Tell me about the mission.",
+        "startTime": 2139,
+        "endTime": 3308,
+        "slowStartTime": 3359,
+        "slowEndTime": 5187
+    },
+    {
+        "text": "Did you see anything unusual?",
+        "startTime": 4079,
+        "endTime": 6093,
+        "slowStartTime": 6269,
+        "slowEndTime": 9364
+    },
+    {
+        "text": "Like an alien, you mean?",
+        "startTime": 8394,
+        "endTime": 10208,
+        "slowStartTime": 12741,
+        "slowEndTime": 15537
+    },
+    {
+        "text": "He saw something.",
+        "startTime": 13811,
+        "endTime": 14676,
+        "slowStartTime": 20866,
+        "slowEndTime": 22239
+    },
+    {
+        "text": "Oh yeah.",
+        "startTime": 14952,
+        "endTime": 15403,
+        "slowStartTime": 22578,
+        "slowEndTime": 23329
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 15511,
+        "endTime": 16087,
+        "slowStartTime": 23416,
+        "slowEndTime": 24356
+    },
+    {
+        "text": "And your men? Someone or something tore them to pieces.",
+        "startTime": 17843,
+        "endTime": 21405,
+        "slowStartTime": 26914,
+        "slowEndTime": 32333
+    },
+    {
+        "text": "I think they're attempting hybridization.",
+        "startTime": 25887,
+        "endTime": 27768,
+        "slowStartTime": 38980,
+        "slowEndTime": 41877
+    },
+    {
+        "text": "They're upgrading on every planet they visit.",
+        "startTime": 29165,
+        "endTime": 31025,
+        "slowStartTime": 43898,
+        "slowEndTime": 46762
+    },
+    {
+        "text": "We need to know if you pose a threat.",
+        "startTime": 31119,
+        "endTime": 32711,
+        "slowStartTime": 46828,
+        "slowEndTime": 49292
+    },
+    {
+        "text": "We're assassins. Isn't posing a threat kind of the point?",
+        "startTime": 32835,
+        "endTime": 36273,
+        "slowStartTime": 49403,
+        "slowEndTime": 54634
+    }
+]

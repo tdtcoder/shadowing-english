@@ -1,0 +1,114 @@
+[
+    {
+        "text": "I'm looking for someone to share in an adventure.",
+        "startTime": 4109,
+        "endTime": 7661,
+        "slowStartTime": 6313,
+        "slowEndTime": 11716
+    },
+    {
+        "text": "What? No, no.",
+        "startTime": 8029,
+        "endTime": 8881,
+        "slowStartTime": 12194,
+        "slowEndTime": 13546
+    },
+    {
+        "text": "We do not want any adventures here.",
+        "startTime": 9157,
+        "endTime": 12357,
+        "slowStartTime": 13885,
+        "slowEndTime": 18761
+    },
+    {
+        "text": "Good morning.",
+        "startTime": 12661,
+        "endTime": 12946,
+        "slowStartTime": 19142,
+        "slowEndTime": 19644
+    },
+    {
+        "text": "Fair enough.",
+        "startTime": 17251,
+        "endTime": 17676,
+        "slowStartTime": 26026,
+        "slowEndTime": 26739
+    },
+    {
+        "text": "You are invited on an extraordinary journey...",
+        "startTime": 19483,
+        "endTime": 23217,
+        "slowStartTime": 29374,
+        "slowEndTime": 35051
+    },
+    {
+        "text": "...through the darkest forest and the deepest caves...",
+        "startTime": 24129,
+        "endTime": 28373,
+        "slowStartTime": 36344,
+        "slowEndTime": 42785
+    },
+    {
+        "text": "...pursued by the angriest orcs and the hungriest trolls.",
+        "startTime": 29831,
+        "endTime": 37019,
+        "slowStartTime": 44897,
+        "slowEndTime": 55753
+    },
+    {
+        "text": "Can we cook him?",
+        "startTime": 37221,
+        "endTime": 38827,
+        "slowStartTime": 55981,
+        "slowEndTime": 58465
+    },
+    {
+        "text": "We can try.",
+        "startTime": 39189,
+        "endTime": 41277,
+        "slowStartTime": 58934,
+        "slowEndTime": 62140
+    },
+    {
+        "text": "So, gather your strength,...",
+        "startTime": 43311,
+        "endTime": 45235,
+        "slowStartTime": 65117,
+        "slowEndTime": 68077
+    },
+    {
+        "text": "...gather your friends,...",
+        "startTime": 46687,
+        "endTime": 48205,
+        "slowStartTime": 70180,
+        "slowEndTime": 72533
+    },
+    {
+        "text": "...and gather your courage.",
+        "startTime": 50181,
+        "endTime": 52495,
+        "slowStartTime": 75421,
+        "slowEndTime": 78967
+    },
+    {
+        "text": "My name is Bilbo Baggins.",
+        "startTime": 55828,
+        "endTime": 56889,
+        "slowStartTime": 83892,
+        "slowEndTime": 85559
+    },
+    {
+        "text": "I'm a hobbit from the Shire.",
+        "startTime": 57340,
+        "endTime": 58871,
+        "slowStartTime": 86160,
+        "slowEndTime": 88532
+    },
+    {
+        "text": "Oh, that could've been worse.",
+        "startTime": 61365,
+        "endTime": 62658,
+        "slowStartTime": 92197,
+        "slowEndTime": 94212
+    }
+]

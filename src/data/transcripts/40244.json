@@ -1,0 +1,107 @@
+[
+    {
+        "text": "My office is in an old building.",
+        "startTime": 171,
+        "endTime": 1977,
+        "slowStartTime": 406,
+        "slowEndTime": 3190
+    },
+    {
+        "text": "It's near the market.",
+        "startTime": 2618,
+        "endTime": 3757,
+        "slowStartTime": 4077,
+        "slowEndTime": 5861
+    },
+    {
+        "text": "There are three rooms on our floor.",
+        "startTime": 4235,
+        "endTime": 6120,
+        "slowStartTime": 6502,
+        "slowEndTime": 9405
+    },
+    {
+        "text": "In the first room, there are many workstations.",
+        "startTime": 6635,
+        "endTime": 9351,
+        "slowStartTime": 10102,
+        "slowEndTime": 14252
+    },
+    {
+        "text": "In the second room, there is a big meeting space.",
+        "startTime": 10016,
+        "endTime": 12815,
+        "slowStartTime": 15174,
+        "slowEndTime": 19448
+    },
+    {
+        "text": "There are fifty chairs and a small stage inside the room.",
+        "startTime": 13376,
+        "endTime": 16658,
+        "slowStartTime": 20214,
+        "slowEndTime": 25212
+    },
+    {
+        "text": "My favorite room is the dining hall.",
+        "startTime": 18169,
+        "endTime": 20050,
+        "slowStartTime": 27404,
+        "slowEndTime": 30300
+    },
+    {
+        "text": "We take our break there.",
+        "startTime": 20464,
+        "endTime": 21825,
+        "slowStartTime": 30846,
+        "slowEndTime": 32962
+    },
+    {
+        "text": "My office is in a busy street.",
+        "startTime": 23761,
+        "endTime": 25547,
+        "slowStartTime": 35792,
+        "slowEndTime": 38546
+    },
+    {
+        "text": "It can be noisy sometimes, but my co-workers and I love the place.",
+        "startTime": 26021,
+        "endTime": 29973,
+        "slowStartTime": 39181,
+        "slowEndTime": 45184
+    },
+    {
+        "text": "My favorite room in the office is the open working space.",
+        "startTime": 30753,
+        "endTime": 33895,
+        "slowStartTime": 46280,
+        "slowEndTime": 51067
+    },
+    {
+        "text": "There are long tables and big computers in the room.",
+        "startTime": 34255,
+        "endTime": 37190,
+        "slowStartTime": 51532,
+        "slowEndTime": 56010
+    },
+    {
+        "text": "There is a couch where we can sit when we want to take a break.",
+        "startTime": 37731,
+        "endTime": 40829,
+        "slowStartTime": 56746,
+        "slowEndTime": 61469
+    },
+    {
+        "text": "I also like the plants around the working space.",
+        "startTime": 41221,
+        "endTime": 43786,
+        "slowStartTime": 61982,
+        "slowEndTime": 65904
+    },
+    {
+        "text": "They are good to see.",
+        "startTime": 44228,
+        "endTime": 45309,
+        "slowStartTime": 66492,
+        "slowEndTime": 68188
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Here is my room.",
+        "startTime": 2488,
+        "endTime": 3725,
+        "slowStartTime": 3882,
+        "slowEndTime": 5813
+    },
+    {
+        "text": "Here is my bed.",
+        "startTime": 4845,
+        "endTime": 6036,
+        "slowStartTime": 7417,
+        "slowEndTime": 9279
+    },
+    {
+        "text": "Here is my desk.",
+        "startTime": 7217,
+        "endTime": 8490,
+        "slowStartTime": 10975,
+        "slowEndTime": 12960
+    },
+    {
+        "text": "Here is my fish.",
+        "startTime": 9652,
+        "endTime": 11009,
+        "slowStartTime": 14628,
+        "slowEndTime": 16739
+    },
+    {
+        "text": "Here are my books.",
+        "startTime": 12201,
+        "endTime": 13610,
+        "slowStartTime": 18452,
+        "slowEndTime": 20640
+    },
+    {
+        "text": "Here are my toys.",
+        "startTime": 14761,
+        "endTime": 16181,
+        "slowStartTime": 22292,
+        "slowEndTime": 24497
+    },
+    {
+        "text": "Here are my shoes.",
+        "startTime": 17384,
+        "endTime": 18787,
+        "slowStartTime": 26226,
+        "slowEndTime": 28406
+    },
+    {
+        "text": "Here are my clothes.",
+        "startTime": 19881,
+        "endTime": 21427,
+        "slowStartTime": 29972,
+        "slowEndTime": 32365
+    },
+    {
+        "text": "Come in.",
+        "startTime": 25534,
+        "endTime": 26219,
+        "slowStartTime": 38451,
+        "slowEndTime": 39554
+    },
+    {
+        "text": "This is my room.",
+        "startTime": 26688,
+        "endTime": 27853,
+        "slowStartTime": 40182,
+        "slowEndTime": 42005
+    },
+    {
+        "text": "I'll show you my room.",
+        "startTime": 28493,
+        "endTime": 29847,
+        "slowStartTime": 42889,
+        "slowEndTime": 44996
+    },
+    {
+        "text": "Where is your bed?",
+        "startTime": 31025,
+        "endTime": 32215,
+        "slowStartTime": 46688,
+        "slowEndTime": 48547
+    },
+    {
+        "text": "Here is my bed.",
+        "startTime": 33443,
+        "endTime": 34671,
+        "slowStartTime": 50315,
+        "slowEndTime": 52231
+    },
+    {
+        "text": "It is next to the desk.",
+        "startTime": 35294,
+        "endTime": 36888,
+        "slowStartTime": 53091,
+        "slowEndTime": 55557
+    },
+    {
+        "text": "Where are your books?",
+        "startTime": 38090,
+        "endTime": 39508,
+        "slowStartTime": 57285,
+        "slowEndTime": 59487
+    },
+    {
+        "text": "Here are my books.",
+        "startTime": 40722,
+        "endTime": 41959,
+        "slowStartTime": 61233,
+        "slowEndTime": 63163
+    },
+    {
+        "text": "They are on the desk.",
+        "startTime": 42453,
+        "endTime": 43894,
+        "slowStartTime": 63829,
+        "slowEndTime": 66066
+    }
+]

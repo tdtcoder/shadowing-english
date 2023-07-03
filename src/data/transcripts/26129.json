@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Here are the five youngest billionaires in the world according to Forbes.",
+        "startTime": 300,
+        "endTime": 3439,
+        "slowStartTime": 600,
+        "slowEndTime": 5384
+    },
+    {
+        "text": "The youngest on the list is 19-year-old Alexandra Andresen,...",
+        "startTime": 3817,
+        "endTime": 6554,
+        "slowStartTime": 5876,
+        "slowEndTime": 10056
+    },
+    {
+        "text": "...followed by her 20-year-old sister Katharina, both from Norway.",
+        "startTime": 6799,
+        "endTime": 9975,
+        "slowStartTime": 10349,
+        "slowEndTime": 15187
+    },
+    {
+        "text": "The sisters each have a net worth of 1.2 billion dollars...",
+        "startTime": 10233,
+        "endTime": 13775,
+        "slowStartTime": 15500,
+        "slowEndTime": 20887
+    },
+    {
+        "text": "...which was received from their father's 42% of the family investment company.",
+        "startTime": 13960,
+        "endTime": 18369,
+        "slowStartTime": 21090,
+        "slowEndTime": 27778
+    },
+    {
+        "text": "Next is 22-year-old Gustav Magnar Witzoe, also from Norway.",
+        "startTime": 18973,
+        "endTime": 22477,
+        "slowStartTime": 28609,
+        "slowEndTime": 33941
+    },
+    {
+        "text": "His net worth of 1.1 billion was received from his father...",
+        "startTime": 22773,
+        "endTime": 26327,
+        "slowStartTime": 34310,
+        "slowEndTime": 39716
+    },
+    {
+        "text": "...when Gustav was given 47% equity in his father's company SalMar...",
+        "startTime": 26419,
+        "endTime": 30146,
+        "slowStartTime": 39778,
+        "slowEndTime": 45444
+    },
+    {
+        "text": "...which is one of the largest producers of farm-raised salmon.",
+        "startTime": 30327,
+        "endTime": 33002,
+        "slowStartTime": 45641,
+        "slowEndTime": 49728
+    },
+    {
+        "text": "Then, we have 25-year-old SnapChat co-founder Evan Spiegel...",
+        "startTime": 33537,
+        "endTime": 36703,
+        "slowStartTime": 50455,
+        "slowEndTime": 55280
+    },
+    {
+        "text": "...whose net worth is 2.1 billion.",
+        "startTime": 36841,
+        "endTime": 38789,
+        "slowStartTime": 55412,
+        "slowEndTime": 58408
+    },
+    {
+        "text": "Rounding out the list is 26-year-old Ludwig Theodor Braun from Germany...",
+        "startTime": 39289,
+        "endTime": 42777,
+        "slowStartTime": 59083,
+        "slowEndTime": 64391
+    },
+    {
+        "text": "...whose net worth is 1.2 billion.",
+        "startTime": 42990,
+        "endTime": 44930,
+        "slowStartTime": 64635,
+        "slowEndTime": 67620
+    },
+    {
+        "text": "Ludwig owns just over 9% of his family's medical product company started in 1839.",
+        "startTime": 45261,
+        "endTime": 51031,
+        "slowStartTime": 68041,
+        "slowEndTime": 76772
+    }
+]

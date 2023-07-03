@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Excuse me, are you aware of what's happening right now?",
+        "startTime": 2028,
+        "endTime": 4191,
+        "slowStartTime": 3192,
+        "slowEndTime": 6512
+    },
+    {
+        "text": "We're facing 20 billion security events every day:...",
+        "startTime": 4320,
+        "endTime": 6831,
+        "slowStartTime": 6630,
+        "slowEndTime": 10471
+    },
+    {
+        "text": "...DDoS campaigns, ransomware, malware attacks.",
+        "startTime": 6967,
+        "endTime": 9422,
+        "slowStartTime": 10601,
+        "slowEndTime": 14358
+    },
+    {
+        "text": "Actually, we just handled all the priority threats.",
+        "startTime": 9501,
+        "endTime": 11857,
+        "slowStartTime": 14402,
+        "slowEndTime": 18010
+    },
+    {
+        "text": "You did that?",
+        "startTime": 12219,
+        "endTime": 12615,
+        "slowStartTime": 18479,
+        "slowEndTime": 19147
+    },
+    {
+        "text": "We did that.",
+        "startTime": 12964,
+        "endTime": 13501,
+        "slowStartTime": 19596,
+        "slowEndTime": 20477
+    },
+    {
+        "text": "Really?",
+        "startTime": 14238,
+        "endTime": 14572,
+        "slowStartTime": 21507,
+        "slowEndTime": 22083
+    },
+    {
+        "text": "We analyze millions of articles and reports.",
+        "startTime": 14796,
+        "endTime": 16589,
+        "slowStartTime": 22344,
+        "slowEndTime": 25108
+    },
+    {
+        "text": "We can identify threats 50% faster.",
+        "startTime": 16833,
+        "endTime": 19500,
+        "slowStartTime": 25399,
+        "slowEndTime": 29475
+    },
+    {
+        "text": "You can do that?",
+        "startTime": 19835,
+        "endTime": 20366,
+        "slowStartTime": 29903,
+        "slowEndTime": 30774
+    },
+    {
+        "text": "We can do that.",
+        "startTime": 20634,
+        "endTime": 21175,
+        "slowStartTime": 31101,
+        "slowEndTime": 31988
+    },
+    {
+        "text": "Then, do that.",
+        "startTime": 21946,
+        "endTime": 22443,
+        "slowStartTime": 33069,
+        "slowEndTime": 33889
+    },
+    {
+        "text": "Can we do that?",
+        "startTime": 25591,
+        "endTime": 26196,
+        "slowStartTime": 38537,
+        "slowEndTime": 39519
+    },
+    {
+        "text": "We can do that.",
+        "startTime": 27247,
+        "endTime": 27889,
+        "slowStartTime": 41020,
+        "slowEndTime": 42058
+    }
+]

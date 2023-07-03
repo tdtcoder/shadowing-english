@@ -1,0 +1,93 @@
+[
+    {
+        "text": "The WHO held an emergency meeting...",
+        "startTime": 3419,
+        "endTime": 6465,
+        "slowStartTime": 5278,
+        "slowEndTime": 9922
+    },
+    {
+        "text": "...to decide whether to declare a public health emergency over the coronavirus.",
+        "startTime": 6718,
+        "endTime": 11387,
+        "slowStartTime": 10227,
+        "slowEndTime": 17306
+    },
+    {
+        "text": "The death toll is more than 170 with 7,780 confirmed cases worldwide.",
+        "startTime": 11613,
+        "endTime": 18870,
+        "slowStartTime": 17570,
+        "slowEndTime": 28530
+    },
+    {
+        "text": "In France, a French appeals court acquitted a French cardinal...",
+        "startTime": 20275,
+        "endTime": 24212,
+        "slowStartTime": 30563,
+        "slowEndTime": 36543
+    },
+    {
+        "text": "...of covering up the sexual abuse of minors in his flock.",
+        "startTime": 24368,
+        "endTime": 27878,
+        "slowStartTime": 36702,
+        "slowEndTime": 42042
+    },
+    {
+        "text": "Flash floods and landslides triggered by torrential rains have killed at least 9 people...",
+        "startTime": 31258,
+        "endTime": 37648,
+        "slowStartTime": 47037,
+        "slowEndTime": 56697
+    },
+    {
+        "text": "...and left thousands homeless on Indonesia's Sumatra Island.",
+        "startTime": 37836,
+        "endTime": 42059,
+        "slowStartTime": 56904,
+        "slowEndTime": 63313
+    },
+    {
+        "text": "In India, a man facing murder charges is holding 20 children hostage in Farrukhabad.",
+        "startTime": 44511,
+        "endTime": 50749,
+        "slowStartTime": 66916,
+        "slowEndTime": 76349
+    },
+    {
+        "text": "The man had invited them over to his house...",
+        "startTime": 50962,
+        "endTime": 53451,
+        "slowStartTime": 76593,
+        "slowEndTime": 80401
+    },
+    {
+        "text": "...on the pretext that they would be celebrating his birthday.",
+        "startTime": 53628,
+        "endTime": 56977,
+        "slowStartTime": 80592,
+        "slowEndTime": 85690
+    },
+    {
+        "text": "Finally from Liberia, the country is down to its last few days' worth of gasoline...",
+        "startTime": 60003,
+        "endTime": 65835,
+        "slowStartTime": 90155,
+        "slowEndTime": 98978
+    },
+    {
+        "text": "...due to an overestimation of what was left in storage.",
+        "startTime": 66111,
+        "endTime": 69838,
+        "slowStartTime": 99317,
+        "slowEndTime": 104982
+    },
+    {
+        "text": "A shipment is expected to bring supplies from overseas soon.",
+        "startTime": 70151,
+        "endTime": 74683,
+        "slowStartTime": 105376,
+        "slowEndTime": 112249
+    }
+]

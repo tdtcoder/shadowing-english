@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Excuse me, where do I go to get a prescription filled?",
+        "startTime": 4547,
+        "endTime": 7682,
+        "slowStartTime": 6971,
+        "slowEndTime": 11748
+    },
+    {
+        "text": "The prescription counter is in the back of the store on the left side.",
+        "startTime": 8017,
+        "endTime": 11620,
+        "slowStartTime": 12176,
+        "slowEndTime": 17655
+    },
+    {
+        "text": "Thank you, ma'am.",
+        "startTime": 12064,
+        "endTime": 12830,
+        "slowStartTime": 18246,
+        "slowEndTime": 19470
+    },
+    {
+        "text": "Yes sir, can I help you?",
+        "startTime": 14821,
+        "endTime": 16273,
+        "slowStartTime": 22382,
+        "slowEndTime": 24635
+    },
+    {
+        "text": "Yes, I need to get this prescription filled, please.",
+        "startTime": 16484,
+        "endTime": 19013,
+        "slowStartTime": 24876,
+        "slowEndTime": 28744
+    },
+    {
+        "text": "Okay, let's have a look. Pain relievers.",
+        "startTime": 19289,
+        "endTime": 22362,
+        "slowStartTime": 29083,
+        "slowEndTime": 33768
+    },
+    {
+        "text": "Yes, just a moment, please.",
+        "startTime": 22498,
+        "endTime": 23983,
+        "slowStartTime": 33897,
+        "slowEndTime": 36199
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 24195,
+        "endTime": 24670,
+        "slowStartTime": 36443,
+        "slowEndTime": 37230
+    },
+    {
+        "text": "Here you go, sir.",
+        "startTime": 25092,
+        "endTime": 26085,
+        "slowStartTime": 37788,
+        "slowEndTime": 39353
+    },
+    {
+        "text": "You're supposed to take two pills a day.",
+        "startTime": 26205,
+        "endTime": 28265,
+        "slowStartTime": 39457,
+        "slowEndTime": 42623
+    },
+    {
+        "text": "Do you mean twice a day?",
+        "startTime": 28528,
+        "endTime": 29739,
+        "slowStartTime": 42942,
+        "slowEndTime": 44833
+    },
+    {
+        "text": "Should I take them before or after meals?",
+        "startTime": 29932,
+        "endTime": 32005,
+        "slowStartTime": 45048,
+        "slowEndTime": 48233
+    },
+    {
+        "text": "You should take them thirty minutes after you eat;...",
+        "startTime": 32334,
+        "endTime": 34812,
+        "slowStartTime": 48651,
+        "slowEndTime": 52443
+    },
+    {
+        "text": "...one in the morning and one in the evening.",
+        "startTime": 34949,
+        "endTime": 37116,
+        "slowStartTime": 52574,
+        "slowEndTime": 55899
+    },
+    {
+        "text": "Okay, thank you very much.",
+        "startTime": 37285,
+        "endTime": 38698,
+        "slowStartTime": 56077,
+        "slowEndTime": 58272
+    }
+]

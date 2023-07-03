@@ -1,0 +1,58 @@
+[
+    {
+        "text": "﻿This is the car.",
+        "startTime": 73,
+        "endTime": 894,
+        "slowStartTime": 260,
+        "slowEndTime": 1566
+    },
+    {
+        "text": "That's the vehicle those suspects were in.",
+        "startTime": 1179,
+        "endTime": 3123,
+        "slowStartTime": 1918,
+        "slowEndTime": 4909
+    },
+    {
+        "text": "We saw three of them bail out of that vehicle.",
+        "startTime": 3205,
+        "endTime": 5507,
+        "slowStartTime": 4957,
+        "slowEndTime": 8486
+    },
+    {
+        "text": "You see the car going three times as fast as any other car on the road,...",
+        "startTime": 5577,
+        "endTime": 8624,
+        "slowStartTime": 8516,
+        "slowEndTime": 13161
+    },
+    {
+        "text": "...weaving in and out of traffic at a high rate of speed...",
+        "startTime": 8697,
+        "endTime": 10895,
+        "slowStartTime": 13196,
+        "slowEndTime": 16568
+    },
+    {
+        "text": "...in a residential area that...",
+        "startTime": 11033,
+        "endTime": 12521,
+        "slowStartTime": 16700,
+        "slowEndTime": 19006
+    },
+    {
+        "text": "...I was so concerned that there may be children playing outside...",
+        "startTime": 13235,
+        "endTime": 16219,
+        "slowStartTime": 20002,
+        "slowEndTime": 24553
+    },
+    {
+        "text": "...or someone exiting their home in their car and it could have been tragic.",
+        "startTime": 16303,
+        "endTime": 19831,
+        "slowStartTime": 24604,
+        "slowEndTime": 29972
+    }
+]

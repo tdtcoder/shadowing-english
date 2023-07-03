@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Karl, I heard that you were recently promoted to senior manager.",
+        "startTime": 389,
+        "endTime": 4508,
+        "slowStartTime": 734,
+        "slowEndTime": 6987
+    },
+    {
+        "text": "Yes, that's right.",
+        "startTime": 4848,
+        "endTime": 5973,
+        "slowStartTime": 7422,
+        "slowEndTime": 9184
+    },
+    {
+        "text": "Congratulations!",
+        "startTime": 6193,
+        "endTime": 7555,
+        "slowStartTime": 9439,
+        "slowEndTime": 11557
+    },
+    {
+        "text": "That's wonderful news.",
+        "startTime": 7729,
+        "endTime": 9169,
+        "slowStartTime": 11744,
+        "slowEndTime": 13978
+    },
+    {
+        "text": "Well, congratulations on being Teacher of the Year.",
+        "startTime": 10405,
+        "endTime": 12500,
+        "slowStartTime": 15758,
+        "slowEndTime": 18975
+    },
+    {
+        "text": "Thank you so much.",
+        "startTime": 12606,
+        "endTime": 13637,
+        "slowStartTime": 19059,
+        "slowEndTime": 20681
+    },
+    {
+        "text": "Hey, Sam!",
+        "startTime": 15719,
+        "endTime": 16326,
+        "slowStartTime": 23729,
+        "slowEndTime": 24714
+    },
+    {
+        "text": "Hi, Anna!",
+        "startTime": 16741,
+        "endTime": 17428,
+        "slowStartTime": 25261,
+        "slowEndTime": 26367
+    },
+    {
+        "text": "You did a great job on your presentation earlier!",
+        "startTime": 18277,
+        "endTime": 20726,
+        "slowStartTime": 27565,
+        "slowEndTime": 31314
+    },
+    {
+        "text": "Really?",
+        "startTime": 21919,
+        "endTime": 22433,
+        "slowStartTime": 33028,
+        "slowEndTime": 33875
+    },
+    {
+        "text": "Thank you so much!",
+        "startTime": 22922,
+        "endTime": 24040,
+        "slowStartTime": 34533,
+        "slowEndTime": 36285
+    },
+    {
+        "text": "This is an excellent report, Sylvia!",
+        "startTime": 27262,
+        "endTime": 29341,
+        "slowStartTime": 41043,
+        "slowEndTime": 44237
+    },
+    {
+        "text": "Keep up the good work!",
+        "startTime": 29640,
+        "endTime": 30602,
+        "slowStartTime": 44610,
+        "slowEndTime": 46128
+    },
+    {
+        "text": "Thanks, Dan!",
+        "startTime": 31606,
+        "endTime": 32343,
+        "slowStartTime": 47559,
+        "slowEndTime": 48739
+    }
+]

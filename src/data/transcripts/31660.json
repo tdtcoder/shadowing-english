@@ -1,0 +1,310 @@
+[
+    {
+        "text": "Hi.",
+        "startTime": 1408,
+        "endTime": 1650,
+        "slowStartTime": 2262,
+        "slowEndTime": 2700
+    },
+    {
+        "text": "Hello.",
+        "startTime": 2949,
+        "endTime": 3361,
+        "slowStartTime": 4573,
+        "slowEndTime": 5267
+    },
+    {
+        "text": "Hello.",
+        "startTime": 3947,
+        "endTime": 4162,
+        "slowStartTime": 6070,
+        "slowEndTime": 6468
+    },
+    {
+        "text": "My name is Layla.",
+        "startTime": 4899,
+        "endTime": 6056,
+        "slowStartTime": 7498,
+        "slowEndTime": 9309
+    },
+    {
+        "text": "Are you here with your parents or...",
+        "startTime": 7455,
+        "endTime": 9266,
+        "slowStartTime": 11332,
+        "slowEndTime": 14124
+    },
+    {
+        "text": "I'm with my mom.",
+        "startTime": 9471,
+        "endTime": 10305,
+        "slowStartTime": 14357,
+        "slowEndTime": 15682
+    },
+    {
+        "text": "Can you show me something?",
+        "startTime": 10747,
+        "endTime": 12016,
+        "slowStartTime": 16270,
+        "slowEndTime": 18249
+    },
+    {
+        "text": "No.",
+        "startTime": 13019,
+        "endTime": 13665,
+        "slowStartTime": 19679,
+        "slowEndTime": 20723
+    },
+    {
+        "text": "It's kind of boring having a tea or coffee by yourself...",
+        "startTime": 14204,
+        "endTime": 17336,
+        "slowStartTime": 21456,
+        "slowEndTime": 26229
+    },
+    {
+        "text": "...you need somebody to talk to.",
+        "startTime": 17646,
+        "endTime": 19149,
+        "slowStartTime": 26619,
+        "slowEndTime": 28948
+    },
+    {
+        "text": "Why are you wearing a hat?",
+        "startTime": 19513,
+        "endTime": 20844,
+        "slowStartTime": 29419,
+        "slowEndTime": 31491
+    },
+    {
+        "text": "How much money do you have?",
+        "startTime": 21579,
+        "endTime": 23726,
+        "slowStartTime": 32518,
+        "slowEndTime": 35814
+    },
+    {
+        "text": "Why is your hair white?",
+        "startTime": 24055,
+        "endTime": 25803,
+        "slowStartTime": 36232,
+        "slowEndTime": 38929
+    },
+    {
+        "text": "It's bit like of trees in autumn,...",
+        "startTime": 26080,
+        "endTime": 27401,
+        "slowStartTime": 39270,
+        "slowEndTime": 41326
+    },
+    {
+        "text": "...you can ask a tree why are your leaves brown?",
+        "startTime": 27639,
+        "endTime": 30315,
+        "slowStartTime": 41609,
+        "slowEndTime": 45697
+    },
+    {
+        "text": "Do you mean in the bank or...",
+        "startTime": 30603,
+        "endTime": 32318,
+        "slowStartTime": 46055,
+        "slowEndTime": 48702
+    },
+    {
+        "text": "Like where you put your money and stuff.",
+        "startTime": 32405,
+        "endTime": 33829,
+        "slowStartTime": 48757,
+        "slowEndTime": 50969
+    },
+    {
+        "text": "560 pounds a month, pension.",
+        "startTime": 34447,
+        "endTime": 37499,
+        "slowStartTime": 51821,
+        "slowEndTime": 56474
+    },
+    {
+        "text": "Wow.",
+        "startTime": 37684,
+        "endTime": 38079,
+        "slowStartTime": 56676,
+        "slowEndTime": 57343
+    },
+    {
+        "text": "If you do have that what would you do with it?",
+        "startTime": 38358,
+        "endTime": 39792,
+        "slowStartTime": 57687,
+        "slowEndTime": 59913
+    },
+    {
+        "text": "I would get a dog and get a house and swimming pool.",
+        "startTime": 39863,
+        "endTime": 43297,
+        "slowStartTime": 59945,
+        "slowEndTime": 65170
+    },
+    {
+        "text": "Where are your friends and where they are right now?",
+        "startTime": 45704,
+        "endTime": 49763,
+        "slowStartTime": 68706,
+        "slowEndTime": 74869
+    },
+    {
+        "text": "Some of my friends are abroad.",
+        "startTime": 50951,
+        "endTime": 54119,
+        "slowStartTime": 76576,
+        "slowEndTime": 81404
+    },
+    {
+        "text": "I was born in Jamaica, so a lot of my friends are there, you know.",
+        "startTime": 54521,
+        "endTime": 62605,
+        "slowStartTime": 81932,
+        "slowEndTime": 94132
+    },
+    {
+        "text": "I'm new in London.",
+        "startTime": 63275,
+        "endTime": 65168,
+        "slowStartTime": 95063,
+        "slowEndTime": 97977
+    },
+    {
+        "text": "Well I had hundreds and thousands of friends...",
+        "startTime": 65596,
+        "endTime": 68664,
+        "slowStartTime": 98544,
+        "slowEndTime": 103221
+    },
+    {
+        "text": "...but at the moment I got good enough Facebook friends.",
+        "startTime": 68791,
+        "endTime": 72322,
+        "slowStartTime": 103337,
+        "slowEndTime": 108708
+    },
+    {
+        "text": "Well maybe I can sit with you and have some coffee.",
+        "startTime": 72553,
+        "endTime": 74956,
+        "slowStartTime": 108979,
+        "slowEndTime": 112659
+    },
+    {
+        "text": "You like coffee?",
+        "startTime": 75181,
+        "endTime": 76073,
+        "slowStartTime": 112921,
+        "slowEndTime": 114334
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 76439,
+        "endTime": 76600,
+        "slowStartTime": 114808,
+        "slowEndTime": 115125
+    },
+    {
+        "text": "Do you, what's your favorite?",
+        "startTime": 76868,
+        "endTime": 78493,
+        "slowStartTime": 115452,
+        "slowEndTime": 117964
+    },
+    {
+        "text": "Hot chocolate.",
+        "startTime": 78975,
+        "endTime": 79526,
+        "slowStartTime": 118613,
+        "slowEndTime": 119514
+    },
+    {
+        "text": "Why can't everybody be friends?",
+        "startTime": 80544,
+        "endTime": 82565,
+        "slowStartTime": 120966,
+        "slowEndTime": 124072
+    },
+    {
+        "text": "That's a good question.",
+        "startTime": 82686,
+        "endTime": 84322,
+        "slowStartTime": 124179,
+        "slowEndTime": 126708
+    },
+    {
+        "text": "Its not as easy as that really.",
+        "startTime": 84577,
+        "endTime": 86180,
+        "slowStartTime": 127016,
+        "slowEndTime": 129495
+    },
+    {
+        "text": "I couldn't walk up and ask somebody in here...",
+        "startTime": 86329,
+        "endTime": 87783,
+        "slowStartTime": 129644,
+        "slowEndTime": 131900
+    },
+    {
+        "text": "...and say would you like to play with me?",
+        "startTime": 87847,
+        "endTime": 89050,
+        "slowStartTime": 131920,
+        "slowEndTime": 133800
+    },
+    {
+        "text": "I would be a bit strange.",
+        "startTime": 89133,
+        "endTime": 90383,
+        "slowStartTime": 133850,
+        "slowEndTime": 135800
+    },
+    {
+        "text": "I think everyone should talk to everybody.",
+        "startTime": 90542,
+        "endTime": 93529,
+        "slowStartTime": 135963,
+        "slowEndTime": 140518
+    },
+    {
+        "text": "That's the nicest thing I've heard all day.",
+        "startTime": 97792,
+        "endTime": 99449,
+        "slowStartTime": 146838,
+        "slowEndTime": 149399
+    },
+    {
+        "text": "You've really made my day.",
+        "startTime": 99590,
+        "endTime": 100832,
+        "slowStartTime": 149535,
+        "slowEndTime": 151473
+    },
+    {
+        "text": "Making friends is easier than eating chocolate.",
+        "startTime": 101221,
+        "endTime": 105718,
+        "slowStartTime": 151981,
+        "slowEndTime": 158802
+    },
+    {
+        "text": "I think everyone in the world should have one big party...",
+        "startTime": 105970,
+        "endTime": 109946,
+        "slowStartTime": 159105,
+        "slowEndTime": 165144
+    },
+    {
+        "text": "...and become friends.",
+        "startTime": 110038,
+        "endTime": 111333,
+        "slowStartTime": 165207,
+        "slowEndTime": 167225
+    }
+]

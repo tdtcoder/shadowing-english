@@ -1,0 +1,114 @@
+[
+    {
+        "text": "A small seed falls to the ground and becomes buried in the soft soil.",
+        "startTime": 2560,
+        "endTime": 9249,
+        "slowStartTime": 3990,
+        "slowEndTime": 14099
+    },
+    {
+        "text": "The seed is buried in the soft soil, and the rain falls.",
+        "startTime": 10352,
+        "endTime": 15992,
+        "slowStartTime": 15678,
+        "slowEndTime": 24213
+    },
+    {
+        "text": "The rain soaks into the soil that holds the small seed.",
+        "startTime": 17121,
+        "endTime": 22096,
+        "slowStartTime": 25831,
+        "slowEndTime": 33369
+    },
+    {
+        "text": "The small seed soaks up water from the rain.",
+        "startTime": 23214,
+        "endTime": 28023,
+        "slowStartTime": 34971,
+        "slowEndTime": 42259
+    },
+    {
+        "text": "The water feeds the seed, and roots grow down deep into the soil.",
+        "startTime": 29147,
+        "endTime": 35448,
+        "slowStartTime": 43870,
+        "slowEndTime": 53397
+    },
+    {
+        "text": "The leaves and a stem grow up through the ground.",
+        "startTime": 36450,
+        "endTime": 40094,
+        "slowStartTime": 54825,
+        "slowEndTime": 60366
+    },
+    {
+        "text": "The leaves gather in the sunshine.",
+        "startTime": 41083,
+        "endTime": 44184,
+        "slowStartTime": 61775,
+        "slowEndTime": 66501
+    },
+    {
+        "text": "The plant uses sunshine to make food.",
+        "startTime": 45267,
+        "endTime": 49330,
+        "slowStartTime": 68050,
+        "slowEndTime": 74220
+    },
+    {
+        "text": "The rain and the soil feed the small plant.",
+        "startTime": 50381,
+        "endTime": 54416,
+        "slowStartTime": 75722,
+        "slowEndTime": 81849
+    },
+    {
+        "text": "The plant grows taller, and more leaves grow on the stem.",
+        "startTime": 55493,
+        "endTime": 60865,
+        "slowStartTime": 83390,
+        "slowEndTime": 91522
+    },
+    {
+        "text": "The roots grow longer.",
+        "startTime": 62006,
+        "endTime": 65185,
+        "slowStartTime": 93159,
+        "slowEndTime": 98002
+    },
+    {
+        "text": "They go deep in the ground.",
+        "startTime": 66319,
+        "endTime": 69082,
+        "slowStartTime": 99628,
+        "slowEndTime": 103848
+    },
+    {
+        "text": "The big plant grows flowers.",
+        "startTime": 70141,
+        "endTime": 73128,
+        "slowStartTime": 105362,
+        "slowEndTime": 109917
+    },
+    {
+        "text": "The flowers make seeds.",
+        "startTime": 74165,
+        "endTime": 76399,
+        "slowStartTime": 111397,
+        "slowEndTime": 114823
+    },
+    {
+        "text": "A new seed falls into the soft soil.",
+        "startTime": 77508,
+        "endTime": 81417,
+        "slowStartTime": 116412,
+        "slowEndTime": 122351
+    },
+    {
+        "text": "What will happen next?",
+        "startTime": 82440,
+        "endTime": 85085,
+        "slowStartTime": 123810,
+        "slowEndTime": 127853
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "text": "I'm Barack Obama and I approve this message.",
+        "startTime": 59,
+        "endTime": 2165,
+        "slowStartTime": 239,
+        "slowEndTime": 3473
+    },
+    {
+        "text": "Seen these new ads...",
+        "startTime": 2329,
+        "endTime": 3478,
+        "slowStartTime": 3643,
+        "slowEndTime": 5442
+    },
+    {
+        "text": "...where Mitt Romney says he's a friend of coal country?",
+        "startTime": 3683,
+        "endTime": 6254,
+        "slowStartTime": 5674,
+        "slowEndTime": 9606
+    },
+    {
+        "text": "This is the guy who wants to keep tax breaks for companies that ship American jobs overseas.",
+        "startTime": 6765,
+        "endTime": 11463,
+        "slowStartTime": 10298,
+        "slowEndTime": 17419
+    },
+    {
+        "text": "The same guy who had a Swiss bank account...",
+        "startTime": 12035,
+        "endTime": 14087,
+        "slowStartTime": 18202,
+        "slowEndTime": 21355
+    },
+    {
+        "text": "..and millions in tax havens like Bermuda and the Caymans.",
+        "startTime": 14370,
+        "endTime": 17368,
+        "slowStartTime": 21705,
+        "slowEndTime": 26277
+    },
+    {
+        "text": "And on coal, well, here's what he said as governor outside of coal fire power plant.",
+        "startTime": 17871,
+        "endTime": 23037,
+        "slowStartTime": 26957,
+        "slowEndTime": 34780
+    },
+    {
+        "text": "I will not create jobs or hold jobs that kill people.",
+        "startTime": 23267,
+        "endTime": 26652,
+        "slowStartTime": 35051,
+        "slowEndTime": 40203
+    },
+    {
+        "text": "And that plant kills people.",
+        "startTime": 27087,
+        "endTime": 30039,
+        "slowStartTime": 40781,
+        "slowEndTime": 45283
+    }
+]

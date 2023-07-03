@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Here are some phrases you can use when saying \"no.\"",
+        "startTime": 270,
+        "endTime": 3775,
+        "slowStartTime": 555,
+        "slowEndTime": 5888
+    },
+    {
+        "text": "Nope, sorry.",
+        "startTime": 5677,
+        "endTime": 6807,
+        "slowStartTime": 8666,
+        "slowEndTime": 10436
+    },
+    {
+        "text": "Maybe another time.",
+        "startTime": 8745,
+        "endTime": 10189,
+        "slowStartTime": 13268,
+        "slowEndTime": 15509
+    },
+    {
+        "text": "That's not going to work for me.",
+        "startTime": 12080,
+        "endTime": 13955,
+        "slowStartTime": 18270,
+        "slowEndTime": 21158
+    },
+    {
+        "text": "My body says yes, but my heart says no.",
+        "startTime": 15639,
+        "endTime": 19799,
+        "slowStartTime": 23608,
+        "slowEndTime": 29924
+    },
+    {
+        "text": "Sounds fun, but I'm unavailable.",
+        "startTime": 21561,
+        "endTime": 24558,
+        "slowStartTime": 32491,
+        "slowEndTime": 37062
+    },
+    {
+        "text": "I want to, but I'm unable to.",
+        "startTime": 26210,
+        "endTime": 29535,
+        "slowStartTime": 39465,
+        "slowEndTime": 44527
+    },
+    {
+        "text": "Apologies, but I can't make it.",
+        "startTime": 31328,
+        "endTime": 33980,
+        "slowStartTime": 47142,
+        "slowEndTime": 51195
+    },
+    {
+        "text": "It's not a good idea for me.",
+        "startTime": 35814,
+        "endTime": 37512,
+        "slowStartTime": 53871,
+        "slowEndTime": 56493
+    },
+    {
+        "text": "I am not able to commit to that right now.",
+        "startTime": 39233,
+        "endTime": 41810,
+        "slowStartTime": 59000,
+        "slowEndTime": 62940
+    },
+    {
+        "text": "I just don't have that to give right now.",
+        "startTime": 43608,
+        "endTime": 46049,
+        "slowStartTime": 65562,
+        "slowEndTime": 69299
+    }
+]

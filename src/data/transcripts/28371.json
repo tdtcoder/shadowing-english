@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Thank you, Amy.",
+        "startTime": 3375,
+        "endTime": 4061,
+        "slowStartTime": 5212,
+        "slowEndTime": 6317
+    },
+    {
+        "text": "I'm just gonna head on over here.",
+        "startTime": 5462,
+        "endTime": 6716,
+        "slowStartTime": 8343,
+        "slowEndTime": 10299
+    },
+    {
+        "text": "Yes, I'm angry.",
+        "startTime": 7097,
+        "endTime": 9853,
+        "slowStartTime": 10795,
+        "slowEndTime": 15004
+    },
+    {
+        "text": "Yes, I am outraged.",
+        "startTime": 11377,
+        "endTime": 14466,
+        "slowStartTime": 17215,
+        "slowEndTime": 21924
+    },
+    {
+        "text": "Yes, I have thought an awful lot about blowing up the White House.",
+        "startTime": 15736,
+        "endTime": 22227,
+        "slowStartTime": 23754,
+        "slowEndTime": 33566
+    },
+    {
+        "text": "But I know that this won't change anything.",
+        "startTime": 25134,
+        "endTime": 29213,
+        "slowStartTime": 37851,
+        "slowEndTime": 44045
+    },
+    {
+        "text": "We cannot fall into despair.",
+        "startTime": 31049,
+        "endTime": 33433,
+        "slowStartTime": 46723,
+        "slowEndTime": 50375
+    },
+    {
+        "text": "As the poet W. H. Auden once wrote on the eve of World War II,...",
+        "startTime": 35481,
+        "endTime": 42231,
+        "slowStartTime": 53372,
+        "slowEndTime": 63571
+    },
+    {
+        "text": "...\"We must love one another or die.",
+        "startTime": 44085,
+        "endTime": 47603,
+        "slowStartTime": 66277,
+        "slowEndTime": 71629
+    },
+    {
+        "text": "I choose love.\"",
+        "startTime": 49786,
+        "endTime": 50835,
+        "slowStartTime": 74829,
+        "slowEndTime": 76478
+    }
+]

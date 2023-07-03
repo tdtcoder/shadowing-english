@@ -1,0 +1,65 @@
+[
+    {
+        "text": "This is Mary.",
+        "startTime": 475,
+        "endTime": 1536,
+        "slowStartTime": 862,
+        "slowEndTime": 2529
+    },
+    {
+        "text": "She is a new colleague.",
+        "startTime": 1950,
+        "endTime": 3223,
+        "slowStartTime": 3075,
+        "slowEndTime": 5059
+    },
+    {
+        "text": "She is nice to everybody.",
+        "startTime": 3924,
+        "endTime": 5139,
+        "slowStartTime": 6036,
+        "slowEndTime": 7933
+    },
+    {
+        "text": "This is Luke.",
+        "startTime": 6625,
+        "endTime": 7457,
+        "slowStartTime": 10088,
+        "slowEndTime": 11411
+    },
+    {
+        "text": "He works hard.",
+        "startTime": 8235,
+        "endTime": 9019,
+        "slowStartTime": 12503,
+        "slowEndTime": 13753
+    },
+    {
+        "text": "He likes to spend time alone.",
+        "startTime": 9845,
+        "endTime": 11491,
+        "slowStartTime": 14917,
+        "slowEndTime": 17461
+    },
+    {
+        "text": "Lastly, this is Jamie.",
+        "startTime": 13064,
+        "endTime": 15313,
+        "slowStartTime": 19746,
+        "slowEndTime": 23195
+    },
+    {
+        "text": "She's my boss.",
+        "startTime": 15765,
+        "endTime": 16664,
+        "slowStartTime": 23798,
+        "slowEndTime": 25221
+    },
+    {
+        "text": "We enjoy talking to each other.",
+        "startTime": 17375,
+        "endTime": 18963,
+        "slowStartTime": 26213,
+        "slowEndTime": 28670
+    }
+]

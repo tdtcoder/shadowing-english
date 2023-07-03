@@ -1,0 +1,86 @@
+[
+    {
+        "text": "I start with something funny each week and...",
+        "startTime": 160,
+        "endTime": 2060,
+        "slowStartTime": 390,
+        "slowEndTime": 3140
+    },
+    {
+        "text": "...I heard about this teenager, he'd just gotten his driver's permit...",
+        "startTime": 2160,
+        "endTime": 5370,
+        "slowStartTime": 3350,
+        "slowEndTime": 8080
+    },
+    {
+        "text": "...and he asked his dad if he could borrow the car.",
+        "startTime": 5470,
+        "endTime": 7600,
+        "slowStartTime": 8350,
+        "slowEndTime": 11430
+    },
+    {
+        "text": "The dad says, \"Son, I'll make a deal with you.\"",
+        "startTime": 8040,
+        "endTime": 9870,
+        "slowStartTime": 12115,
+        "slowEndTime": 14885
+    },
+    {
+        "text": "\"If you bring your grades up, read your Bible every day, and get your haircut,...",
+        "startTime": 10170,
+        "endTime": 14910,
+        "slowStartTime": 15360,
+        "slowEndTime": 22450
+    },
+    {
+        "text": "...I'll let you borrow the car.\"",
+        "startTime": 15210,
+        "endTime": 16280,
+        "slowStartTime": 22855,
+        "slowEndTime": 24525
+    },
+    {
+        "text": "A month later, he came back and asked about the car...",
+        "startTime": 16810,
+        "endTime": 18870,
+        "slowStartTime": 25355,
+        "slowEndTime": 28570
+    },
+    {
+        "text": "...and the dad said, \"Son, you brought your grades up, you've been reading your Bible,...",
+        "startTime": 19010,
+        "endTime": 22550,
+        "slowStartTime": 28665,
+        "slowEndTime": 33880
+    },
+    {
+        "text": "...but you still haven't gotten your haircut.\"",
+        "startTime": 22750,
+        "endTime": 24690,
+        "slowStartTime": 34270,
+        "slowEndTime": 37080
+    },
+    {
+        "text": "The son said, \"Well dad, I've been thinking about it,...",
+        "startTime": 25150,
+        "endTime": 27290,
+        "slowStartTime": 37835,
+        "slowEndTime": 40990
+    },
+    {
+        "text": "...Moses had long hair, Samson had long hair, even Jesus had long hair.\"",
+        "startTime": 27520,
+        "endTime": 32500,
+        "slowStartTime": 41360,
+        "slowEndTime": 48830
+    },
+    {
+        "text": "The dad said, \"Yes, son and they walked everywhere they went.\"",
+        "startTime": 32930,
+        "endTime": 35830,
+        "slowStartTime": 49440,
+        "slowEndTime": 53970
+    }
+]

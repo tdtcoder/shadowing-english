@@ -1,0 +1,86 @@
+[
+    {
+        "text": "We'd like to get a dog for the kids to play with.",
+        "startTime": 400,
+        "endTime": 2870,
+        "slowStartTime": 2505,
+        "slowEndTime": 6050
+    },
+    {
+        "text": "They've been pestering us about it for so long!",
+        "startTime": 3165,
+        "endTime": 5910,
+        "slowStartTime": 6480,
+        "slowEndTime": 10680
+    },
+    {
+        "text": "Sounds like a great idea!",
+        "startTime": 6340,
+        "endTime": 7975,
+        "slowStartTime": 11215,
+        "slowEndTime": 13845
+    },
+    {
+        "text": "What kind of breed are you looking for?",
+        "startTime": 8500,
+        "endTime": 10375,
+        "slowStartTime": 14560,
+        "slowEndTime": 17385
+    },
+    {
+        "text": "A small breed would probably be best for us.",
+        "startTime": 10950,
+        "endTime": 13595,
+        "slowStartTime": 18095,
+        "slowEndTime": 22280
+    },
+    {
+        "text": "You should get a Boston Terrier.",
+        "startTime": 13845,
+        "endTime": 16115,
+        "slowStartTime": 22600,
+        "slowEndTime": 26020
+    },
+    {
+        "text": "We have two of them, they're awesome dogs!",
+        "startTime": 16415,
+        "endTime": 19055,
+        "slowStartTime": 26410,
+        "slowEndTime": 30455
+    },
+    {
+        "text": "They have so much personality!",
+        "startTime": 19650,
+        "endTime": 21495,
+        "slowStartTime": 31215,
+        "slowEndTime": 34035
+    },
+    {
+        "text": "They really love the kids.",
+        "startTime": 21805,
+        "endTime": 23455,
+        "slowStartTime": 34495,
+        "slowEndTime": 37020
+    },
+    {
+        "text": "They look after us, and they are part of the family!",
+        "startTime": 24055,
+        "endTime": 26860,
+        "slowStartTime": 37795,
+        "slowEndTime": 42155
+    },
+    {
+        "text": "Plus, they look gorgeous!",
+        "startTime": 27380,
+        "endTime": 28920,
+        "slowStartTime": 42850,
+        "slowEndTime": 45165
+    },
+    {
+        "text": "They sound perfect!",
+        "startTime": 29000,
+        "endTime": 30700,
+        "slowStartTime": 45300,
+        "slowEndTime": 47880
+    }
+]

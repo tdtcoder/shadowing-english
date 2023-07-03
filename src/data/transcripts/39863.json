@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Hi, may I help you?",
+        "startTime": 599,
+        "endTime": 1747,
+        "slowStartTime": 1048,
+        "slowEndTime": 2845
+    },
+    {
+        "text": "Can I look at the scarf, please?",
+        "startTime": 2939,
+        "endTime": 4457,
+        "slowStartTime": 4559,
+        "slowEndTime": 6910
+    },
+    {
+        "text": "Oh yes, you can.",
+        "startTime": 5963,
+        "endTime": 6984,
+        "slowStartTime": 9094,
+        "slowEndTime": 10701
+    },
+    {
+        "text": "Here you go.",
+        "startTime": 7437,
+        "endTime": 8118,
+        "slowStartTime": 11306,
+        "slowEndTime": 12402
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 9041,
+        "endTime": 9707,
+        "slowStartTime": 13712,
+        "slowEndTime": 14785
+    },
+    {
+        "text": "Do you need anything else?",
+        "startTime": 10918,
+        "endTime": 12070,
+        "slowStartTime": 16527,
+        "slowEndTime": 18330
+    },
+    {
+        "text": "Yes.",
+        "startTime": 12932,
+        "endTime": 13501,
+        "slowStartTime": 19548,
+        "slowEndTime": 20476
+    },
+    {
+        "text": "Give me that pink blouse, too, please.",
+        "startTime": 13645,
+        "endTime": 15767,
+        "slowStartTime": 20618,
+        "slowEndTime": 23875
+    },
+    {
+        "text": "All right.",
+        "startTime": 16687,
+        "endTime": 17429,
+        "slowStartTime": 25181,
+        "slowEndTime": 26369
+    },
+    {
+        "text": "Anything else?",
+        "startTime": 17729,
+        "endTime": 18493,
+        "slowStartTime": 26743,
+        "slowEndTime": 27964
+    },
+    {
+        "text": "I want to buy both of these.",
+        "startTime": 19471,
+        "endTime": 21111,
+        "slowStartTime": 29357,
+        "slowEndTime": 31892
+    },
+    {
+        "text": "Can you put them in a gift box, please?",
+        "startTime": 21407,
+        "endTime": 23169,
+        "slowStartTime": 32261,
+        "slowEndTime": 34978
+    },
+    {
+        "text": "Yes, I can put them in a gift box.",
+        "startTime": 23810,
+        "endTime": 25639,
+        "slowStartTime": 35865,
+        "slowEndTime": 38683
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 26505,
+        "endTime": 27205,
+        "slowStartTime": 39907,
+        "slowEndTime": 41033
+    },
+    {
+        "text": "You're welcome.",
+        "startTime": 28103,
+        "endTime": 28743,
+        "slowStartTime": 42304,
+        "slowEndTime": 43340
+    },
+    {
+        "text": "Please wait here.",
+        "startTime": 29120,
+        "endTime": 29973,
+        "slowStartTime": 43830,
+        "slowEndTime": 45185
+    }
+]

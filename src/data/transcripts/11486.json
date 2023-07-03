@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Have you ever wondered what it's like...",
+        "startTime": 2350,
+        "endTime": 6000,
+        "slowStartTime": 3750,
+        "slowEndTime": 9200
+    },
+    {
+        "text": "...to live in this world?",
+        "startTime": 9550,
+        "endTime": 11950,
+        "slowStartTime": 14550,
+        "slowEndTime": 18150
+    },
+    {
+        "text": "Stay focused.",
+        "startTime": 13700,
+        "endTime": 15050,
+        "slowStartTime": 20750,
+        "slowEndTime": 22800
+    },
+    {
+        "text": "Hold on tight.",
+        "startTime": 17250,
+        "endTime": 18600,
+        "slowStartTime": 26100,
+        "slowEndTime": 28100
+    },
+    {
+        "text": "And watch your back!",
+        "startTime": 20200,
+        "endTime": 22050,
+        "slowStartTime": 30450,
+        "slowEndTime": 33300
+    },
+    {
+        "text": "Because you could be the one.",
+        "startTime": 23900,
+        "endTime": 27950,
+        "slowStartTime": 36050,
+        "slowEndTime": 42200
+    },
+    {
+        "text": "It's the first-ever online Royal Rumble.",
+        "startTime": 30850,
+        "endTime": 33700,
+        "slowStartTime": 46400,
+        "slowEndTime": 50800
+    },
+    {
+        "text": "Jump online.",
+        "startTime": 39450,
+        "endTime": 40750,
+        "slowStartTime": 59400,
+        "slowEndTime": 61350
+    },
+    {
+        "text": "Define your universe.",
+        "startTime": 47000,
+        "endTime": 48600,
+        "slowStartTime": 70725,
+        "slowEndTime": 73125
+    },
+    {
+        "text": "Fulfill your destiny.",
+        "startTime": 53250,
+        "endTime": 55100,
+        "slowStartTime": 80050,
+        "slowEndTime": 82850
+    },
+    {
+        "text": "This is your moment.",
+        "startTime": 60250,
+        "endTime": 66200,
+        "slowStartTime": 90450,
+        "slowEndTime": 99500
+    }
+]

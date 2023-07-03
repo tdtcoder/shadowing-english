@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Oh, you actually bought that car online yesterday.",
+        "startTime": 9,
+        "endTime": 2353,
+        "slowStartTime": 164,
+        "slowEndTime": 3755
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 2611,
+        "endTime": 2930,
+        "slowStartTime": 4067,
+        "slowEndTime": 4620
+    },
+    {
+        "text": "You really that lazy?",
+        "startTime": 3544,
+        "endTime": 4473,
+        "slowStartTime": 5466,
+        "slowEndTime": 6934
+    },
+    {
+        "text": "Lazy?",
+        "startTime": 4793,
+        "endTime": 5385,
+        "slowStartTime": 7339,
+        "slowEndTime": 8302
+    },
+    {
+        "text": "Lazy as in the mother of invention?",
+        "startTime": 7555,
+        "endTime": 9240,
+        "slowStartTime": 11483,
+        "slowEndTime": 14085
+    },
+    {
+        "text": "Maybe I should go to the grocery store like a normal person..",
+        "startTime": 9477,
+        "endTime": 11999,
+        "slowStartTime": 14365,
+        "slowEndTime": 18223
+    },
+    {
+        "text": "...but I choose delivery for my kumquats.",
+        "startTime": 12263,
+        "endTime": 14103,
+        "slowStartTime": 18544,
+        "slowEndTime": 21379
+    },
+    {
+        "text": "And I choose to have a robot vacuum my floor.",
+        "startTime": 14559,
+        "endTime": 16777,
+        "slowStartTime": 21989,
+        "slowEndTime": 25391
+    },
+    {
+        "text": "Who else is gonna do that?",
+        "startTime": 16983,
+        "endTime": 17793,
+        "slowStartTime": 25624,
+        "slowEndTime": 26914
+    },
+    {
+        "text": "You?",
+        "startTime": 17932,
+        "endTime": 18210,
+        "slowStartTime": 27048,
+        "slowEndTime": 27540
+    },
+    {
+        "text": "Me?",
+        "startTime": 18678,
+        "endTime": 19041,
+        "slowStartTime": 28167,
+        "slowEndTime": 28787
+    },
+    {
+        "text": "I choose to ride the escalator going down...",
+        "startTime": 19358,
+        "endTime": 21425,
+        "slowStartTime": 29187,
+        "slowEndTime": 32362
+    },
+    {
+        "text": "...and to stream movies I own on DVD.",
+        "startTime": 21574,
+        "endTime": 23191,
+        "slowStartTime": 32511,
+        "slowEndTime": 35012
+    },
+    {
+        "text": "And to let social media remember birthdays for me.",
+        "startTime": 23347,
+        "endTime": 25781,
+        "slowStartTime": 35170,
+        "slowEndTime": 38896
+    },
+    {
+        "text": "I choose to wear the internet on my face.",
+        "startTime": 25874,
+        "endTime": 28427,
+        "slowStartTime": 38961,
+        "slowEndTime": 42865
+    },
+    {
+        "text": "It's open.",
+        "startTime": 29370,
+        "endTime": 29921,
+        "slowStartTime": 44205,
+        "slowEndTime": 45106
+    },
+    {
+        "text": "Hey, your car is here.",
+        "startTime": 31214,
+        "endTime": 31782,
+        "slowStartTime": 46971,
+        "slowEndTime": 47898
+    },
+    {
+        "text": "Nice.",
+        "startTime": 31944,
+        "endTime": 32454,
+        "slowStartTime": 48066,
+        "slowEndTime": 48906
+    },
+    {
+        "text": "So, I say to you what everyone knows.",
+        "startTime": 32719,
+        "endTime": 34739,
+        "slowStartTime": 49229,
+        "slowEndTime": 52334
+    },
+    {
+        "text": "Where there's a will, there's always a way to make it easier.",
+        "startTime": 34912,
+        "endTime": 37523,
+        "slowStartTime": 52518,
+        "slowEndTime": 56509
+    },
+    {
+        "text": "So you can judge me for choosing to date people by computational algorithm,...",
+        "startTime": 37649,
+        "endTime": 41094,
+        "slowStartTime": 56624,
+        "slowEndTime": 61866
+    },
+    {
+        "text": "...but you'll never get me to ask for a date in person...",
+        "startTime": 41230,
+        "endTime": 43321,
+        "slowStartTime": 61995,
+        "slowEndTime": 65206
+    },
+    {
+        "text": "...like some sort of animal or do anything else the old way.",
+        "startTime": 43567,
+        "endTime": 46906,
+        "slowStartTime": 65501,
+        "slowEndTime": 70584
+    },
+    {
+        "text": "Doug.",
+        "startTime": 47414,
+        "endTime": 47596,
+        "slowStartTime": 71271,
+        "slowEndTime": 71619
+    },
+    {
+        "text": "And yes, I choose to buy a Carvana car from my couch...",
+        "startTime": 48139,
+        "endTime": 50719,
+        "slowStartTime": 72358,
+        "slowEndTime": 76304
+    },
+    {
+        "text": "...and have it delivered to my front door with a seven-day test own.",
+        "startTime": 50813,
+        "endTime": 53635,
+        "slowStartTime": 76369,
+        "slowEndTime": 80677
+    },
+    {
+        "text": "Because what you call lazy, I call brilliant.",
+        "startTime": 54336,
+        "endTime": 58909,
+        "slowStartTime": 81654,
+        "slowEndTime": 88589
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Would you know my name...",
+        "startTime": 5417,
+        "endTime": 9144,
+        "slowStartTime": 8275,
+        "slowEndTime": 13941
+    },
+    {
+        "text": "...if I saw you in heaven?",
+        "startTime": 11441,
+        "endTime": 14722,
+        "slowStartTime": 17312,
+        "slowEndTime": 22308
+    },
+    {
+        "text": "Would it be the same...",
+        "startTime": 17304,
+        "endTime": 21216,
+        "slowStartTime": 26106,
+        "slowEndTime": 32049
+    },
+    {
+        "text": "...if I saw you in heaven?",
+        "startTime": 23370,
+        "endTime": 27245,
+        "slowStartTime": 35205,
+        "slowEndTime": 41092
+    },
+    {
+        "text": "I must be strong...",
+        "startTime": 30077,
+        "endTime": 33123,
+        "slowStartTime": 45266,
+        "slowEndTime": 49910
+    },
+    {
+        "text": "...and carry on...",
+        "startTime": 36281,
+        "endTime": 39265,
+        "slowStartTime": 54572,
+        "slowEndTime": 59123
+    },
+    {
+        "text": "...'cause I know I don't belong...",
+        "startTime": 39665,
+        "endTime": 45059,
+        "slowStartTime": 59648,
+        "slowEndTime": 67813
+    },
+    {
+        "text": "...here in heaven.",
+        "startTime": 46074,
+        "endTime": 47943,
+        "slowStartTime": 69261,
+        "slowEndTime": 72140
+    }
+]

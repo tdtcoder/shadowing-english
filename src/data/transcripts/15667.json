@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Hi, I'm David Washington and I'm a program manager on the Windows 8 user experience team.",
+        "startTime": 4311,
+        "endTime": 9256,
+        "slowStartTime": 6616,
+        "slowEndTime": 14109
+    },
+    {
+        "text": "I work on how Windows scale through different screens and form factors.",
+        "startTime": 9857,
+        "endTime": 14154,
+        "slowStartTime": 14936,
+        "slowEndTime": 21456
+    },
+    {
+        "text": "Today, I'm going to show you portrait and rotation on this Samsung prototype device.",
+        "startTime": 14867,
+        "endTime": 19960,
+        "slowStartTime": 22450,
+        "slowEndTime": 30165
+    },
+    {
+        "text": "Windows 8 tablets can be rotated at any time to the portrait view.",
+        "startTime": 22270,
+        "endTime": 26541,
+        "slowStartTime": 33555,
+        "slowEndTime": 40037
+    },
+    {
+        "text": "While on portrait you can check the weather,...",
+        "startTime": 27436,
+        "endTime": 29762,
+        "slowStartTime": 41304,
+        "slowEndTime": 44868
+    },
+    {
+        "text": "...switch back to that game that you're playing,...",
+        "startTime": 31268,
+        "endTime": 33108,
+        "slowStartTime": 47052,
+        "slowEndTime": 49887
+    },
+    {
+        "text": "...or read one of your favorite websites online.",
+        "startTime": 34197,
+        "endTime": 37159,
+        "slowStartTime": 51446,
+        "slowEndTime": 55964
+    },
+    {
+        "text": "Each application can tailor the view for what makes the most sense in portrait.",
+        "startTime": 38911,
+        "endTime": 44523,
+        "slowStartTime": 58516,
+        "slowEndTime": 67009
+    },
+    {
+        "text": "The great news is all the system controls work just as well in portrait, like the keyboard.",
+        "startTime": 46327,
+        "endTime": 52185,
+        "slowStartTime": 69641,
+        "slowEndTime": 78503
+    },
+    {
+        "text": "You can pick files from your file system...",
+        "startTime": 53139,
+        "endTime": 55759,
+        "slowStartTime": 79859,
+        "slowEndTime": 83864
+    },
+    {
+        "text": "...or you can use any of the system charms, like Share or Search.",
+        "startTime": 57949,
+        "endTime": 62879,
+        "slowStartTime": 87074,
+        "slowEndTime": 94543
+    },
+    {
+        "text": "And it works just as well in portrait as it does in landscape.",
+        "startTime": 64507,
+        "endTime": 68088,
+        "slowStartTime": 96911,
+        "slowEndTime": 102357
+    },
+    {
+        "text": "We hope you've enjoyed this quick demonstration of portrait and rotation in Windows 8.",
+        "startTime": 69447,
+        "endTime": 73786,
+        "slowStartTime": 104320,
+        "slowEndTime": 110904
+    },
+    {
+        "text": "We look forward to you trying it out yourself.",
+        "startTime": 74665,
+        "endTime": 76371,
+        "slowStartTime": 112148,
+        "slowEndTime": 114781
+    }
+]

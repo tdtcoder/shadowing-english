@@ -1,0 +1,44 @@
+[
+    {
+        "text": "My fellow Americans,...",
+        "startTime": 1752,
+        "endTime": 3387,
+        "slowStartTime": 2778,
+        "slowEndTime": 5305
+    },
+    {
+        "text": "...I seek to look beyond the doors of the White House...",
+        "startTime": 4168,
+        "endTime": 7325,
+        "slowStartTime": 6402,
+        "slowEndTime": 11213
+    },
+    {
+        "text": "...into the hopes and fears of men and women in their homes.",
+        "startTime": 7719,
+        "endTime": 12361,
+        "slowStartTime": 11728,
+        "slowEndTime": 18767
+    },
+    {
+        "text": "Our capacity is limited only by our ability to work together.",
+        "startTime": 14662,
+        "endTime": 18893,
+        "slowStartTime": 22143,
+        "slowEndTime": 28565
+    },
+    {
+        "text": "I am determined to do my share.",
+        "startTime": 20717,
+        "endTime": 23265,
+        "slowStartTime": 31226,
+        "slowEndTime": 35122
+    },
+    {
+        "text": "Now, it is your turn.",
+        "startTime": 25048,
+        "endTime": 28312,
+        "slowStartTime": 37722,
+        "slowEndTime": 42693
+    }
+]

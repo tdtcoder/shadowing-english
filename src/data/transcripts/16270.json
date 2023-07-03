@@ -1,0 +1,345 @@
+[
+    {
+        "text": "The human body: no machine can match the impressive actions it performs every day.",
+        "startTime": 545,
+        "endTime": 6317,
+        "slowStartTime": 967,
+        "slowEndTime": 9701
+    },
+    {
+        "text": "Our lungs take in 66 liters of air each minute when we exercise.",
+        "startTime": 7937,
+        "endTime": 12238,
+        "slowStartTime": 12055,
+        "slowEndTime": 18582
+    },
+    {
+        "text": "Our hearts pump more than 7,570 liters of blood each day,...",
+        "startTime": 13096,
+        "endTime": 17423,
+        "slowStartTime": 19794,
+        "slowEndTime": 26360
+    },
+    {
+        "text": "...and it takes more than 600 muscles to keep us moving in every direction.",
+        "startTime": 17987,
+        "endTime": 22218,
+        "slowStartTime": 27131,
+        "slowEndTime": 33552
+    },
+    {
+        "text": "Cells are the smallest level of the body's organization.",
+        "startTime": 23206,
+        "endTime": 26515,
+        "slowStartTime": 34959,
+        "slowEndTime": 39998
+    },
+    {
+        "text": "Human beings are made up of over 100 trillion of them.",
+        "startTime": 26757,
+        "endTime": 29653,
+        "slowStartTime": 40286,
+        "slowEndTime": 44704
+    },
+    {
+        "text": "Individual cells are arranged into tissues, like this heart tissue.",
+        "startTime": 29936,
+        "endTime": 33863,
+        "slowStartTime": 45054,
+        "slowEndTime": 51019
+    },
+    {
+        "text": "Different kinds of tissue come together to form organs such as the heart,...",
+        "startTime": 34175,
+        "endTime": 37989,
+        "slowStartTime": 51412,
+        "slowEndTime": 57208
+    },
+    {
+        "text": "...the lungs, and the stomach.",
+        "startTime": 38149,
+        "endTime": 39431,
+        "slowStartTime": 57373,
+        "slowEndTime": 59372
+    },
+    {
+        "text": "Several organs working together create an organ system.",
+        "startTime": 40207,
+        "endTime": 43493,
+        "slowStartTime": 60460,
+        "slowEndTime": 65465
+    },
+    {
+        "text": "There are ten major organ systems in the human body, including the circulatory system,...",
+        "startTime": 43669,
+        "endTime": 48191,
+        "slowStartTime": 65653,
+        "slowEndTime": 72511
+    },
+    {
+        "text": "...the respiratory system, the digestive system, the nervous system, and the reproductive system.",
+        "startTime": 48342,
+        "endTime": 53083,
+        "slowStartTime": 72663,
+        "slowEndTime": 79850
+    },
+    {
+        "text": "Each performs a special job.",
+        "startTime": 53195,
+        "endTime": 55105,
+        "slowStartTime": 79943,
+        "slowEndTime": 82882
+    },
+    {
+        "text": "The circulatory and respiratory systems supply energy to the body 24 hours a day.",
+        "startTime": 55671,
+        "endTime": 60245,
+        "slowStartTime": 83656,
+        "slowEndTime": 90593
+    },
+    {
+        "text": "The heart is the major organ of the circulatory system.",
+        "startTime": 60568,
+        "endTime": 63378,
+        "slowStartTime": 91002,
+        "slowEndTime": 95292
+    },
+    {
+        "text": "This powerful little organ works incredibly hard and completely automatically.",
+        "startTime": 63597,
+        "endTime": 67044,
+        "slowStartTime": 95545,
+        "slowEndTime": 100791
+    },
+    {
+        "text": "No other muscle in the body is as strong. It beats 100,000 times a day, 36 million times a year,...",
+        "startTime": 67367,
+        "endTime": 73707,
+        "slowStartTime": 101200,
+        "slowEndTime": 110785
+    },
+    {
+        "text": "...pumping the blood on a complete trip around the body in less than a minute.",
+        "startTime": 73923,
+        "endTime": 77196,
+        "slowStartTime": 111035,
+        "slowEndTime": 116019
+    },
+    {
+        "text": "In the respiratory system, the lungs pull in oxygen from the air,...",
+        "startTime": 78670,
+        "endTime": 82136,
+        "slowStartTime": 118155,
+        "slowEndTime": 123429
+    },
+    {
+        "text": "...delivering breath through more than 24 hundred kilometers of airways.",
+        "startTime": 82278,
+        "endTime": 86089,
+        "slowStartTime": 123567,
+        "slowEndTime": 129358
+    },
+    {
+        "text": "The body gets its energy from food, turning pizza into molecules...",
+        "startTime": 87691,
+        "endTime": 91794,
+        "slowStartTime": 131686,
+        "slowEndTime": 137916
+    },
+    {
+        "text": "...that can be absorbed throughout the body is the job of the digestive system.",
+        "startTime": 91886,
+        "endTime": 95628,
+        "slowStartTime": 137979,
+        "slowEndTime": 143667
+    },
+    {
+        "text": "Digestion begins in the mouth.",
+        "startTime": 96054,
+        "endTime": 97751,
+        "slowStartTime": 144231,
+        "slowEndTime": 146851
+    },
+    {
+        "text": "The act of swallowing sends food down the esophagus or throat into the stomach.",
+        "startTime": 97994,
+        "endTime": 102385,
+        "slowStartTime": 147141,
+        "slowEndTime": 153802
+    },
+    {
+        "text": "Then like a food mixer, the stomach contracts...",
+        "startTime": 102875,
+        "endTime": 105516,
+        "slowStartTime": 154462,
+        "slowEndTime": 158499
+    },
+    {
+        "text": "...to break this nourishment down, helped by acid and enzymes.",
+        "startTime": 105611,
+        "endTime": 108933,
+        "slowStartTime": 158567,
+        "slowEndTime": 163624
+    },
+    {
+        "text": "These nutrients, which are now liquid then travel into the small intestine,...",
+        "startTime": 109151,
+        "endTime": 112971,
+        "slowStartTime": 163877,
+        "slowEndTime": 169681
+    },
+    {
+        "text": "...which can be over six meters long where most nutrients enter the blood stream.",
+        "startTime": 113105,
+        "endTime": 116993,
+        "slowStartTime": 169807,
+        "slowEndTime": 175715
+    },
+    {
+        "text": "The brain is the nerve center of the body.",
+        "startTime": 119757,
+        "endTime": 122133,
+        "slowStartTime": 179785,
+        "slowEndTime": 183425
+    },
+    {
+        "text": "About the size of a grapefruit,...",
+        "startTime": 122574,
+        "endTime": 124051,
+        "slowStartTime": 184011,
+        "slowEndTime": 186302
+    },
+    {
+        "text": "...this small, strange looking organ is the most complex object on Earth.",
+        "startTime": 124231,
+        "endTime": 128089,
+        "slowStartTime": 186497,
+        "slowEndTime": 192359
+    },
+    {
+        "text": "It contains up to 100 billion nerve cells...",
+        "startTime": 128961,
+        "endTime": 131602,
+        "slowStartTime": 193592,
+        "slowEndTime": 197628
+    },
+    {
+        "text": "...that transmit signals through the brain at over 320 kilometers an hour.",
+        "startTime": 131689,
+        "endTime": 135933,
+        "slowStartTime": 197684,
+        "slowEndTime": 204125
+    },
+    {
+        "text": "The brain, spinal cord and nerves make up the central nervous system,...",
+        "startTime": 138375,
+        "endTime": 142481,
+        "slowStartTime": 207712,
+        "slowEndTime": 213946
+    },
+    {
+        "text": "...which all work together to control the body's activities.",
+        "startTime": 142653,
+        "endTime": 145550,
+        "slowStartTime": 214129,
+        "slowEndTime": 218550
+    },
+    {
+        "text": "The reproductive system creates new life.",
+        "startTime": 147921,
+        "endTime": 150563,
+        "slowStartTime": 222032,
+        "slowEndTime": 226069
+    },
+    {
+        "text": "Each human being begins as two single cells.",
+        "startTime": 150919,
+        "endTime": 154063,
+        "slowStartTime": 226528,
+        "slowEndTime": 231319
+    },
+    {
+        "text": "A cell from the mother and another cell from the father.",
+        "startTime": 154636,
+        "endTime": 157147,
+        "slowStartTime": 232104,
+        "slowEndTime": 235946
+    },
+    {
+        "text": "When these two cells meet, they begin to divide...",
+        "startTime": 158769,
+        "endTime": 161409,
+        "slowStartTime": 238304,
+        "slowEndTime": 242339
+    },
+    {
+        "text": "...and over nine months, a whole new entity is born: a baby.",
+        "startTime": 162066,
+        "endTime": 166350,
+        "slowStartTime": 243249,
+        "slowEndTime": 249750
+    },
+    {
+        "text": "Strands of DNA from the original two cells act like a set of blueprints,...",
+        "startTime": 167407,
+        "endTime": 171557,
+        "slowStartTime": 251260,
+        "slowEndTime": 257560
+    },
+    {
+        "text": "...telling the new cells what to do.",
+        "startTime": 171704,
+        "endTime": 173405,
+        "slowStartTime": 257706,
+        "slowEndTime": 260332
+    },
+    {
+        "text": "DNA establishes the color of the baby's eyes whether its hair is curly or straight,...",
+        "startTime": 173703,
+        "endTime": 178512,
+        "slowStartTime": 260704,
+        "slowEndTime": 267993
+    },
+    {
+        "text": "...even the size of its smile.",
+        "startTime": 178697,
+        "endTime": 180124,
+        "slowStartTime": 268196,
+        "slowEndTime": 270411
+    },
+    {
+        "text": "The end result of all of these corresponding systems and processes...",
+        "startTime": 181123,
+        "endTime": 185099,
+        "slowStartTime": 271834,
+        "slowEndTime": 277874
+    },
+    {
+        "text": "...is a human body that is able to take us on an extraordinary journey every day.",
+        "startTime": 185214,
+        "endTime": 189628,
+        "slowStartTime": 277971,
+        "slowEndTime": 284667
+    },
+    {
+        "text": "It allows us to push frontiers, meet remarkable challenges,...",
+        "startTime": 189779,
+        "endTime": 192964,
+        "slowStartTime": 284819,
+        "slowEndTime": 289671
+    },
+    {
+        "text": "...and expand the limits of human achievement.",
+        "startTime": 193087,
+        "endTime": 195032,
+        "slowStartTime": 289781,
+        "slowEndTime": 292773
+    },
+    {
+        "text": "And it all starts at the level of a single little cell.",
+        "startTime": 195211,
+        "endTime": 198499,
+        "slowStartTime": 292966,
+        "slowEndTime": 297973
+    }
+]

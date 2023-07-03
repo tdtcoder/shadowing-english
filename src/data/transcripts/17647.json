@@ -1,0 +1,79 @@
+[
+    {
+        "text": "My mom lets me play outside in the afternoon.",
+        "startTime": 2550,
+        "endTime": 6263,
+        "slowStartTime": 3975,
+        "slowEndTime": 9620
+    },
+    {
+        "text": "My mom won't let me play outside.",
+        "startTime": 7389,
+        "endTime": 10073,
+        "slowStartTime": 11233,
+        "slowEndTime": 15335
+    },
+    {
+        "text": "I am always made to study at home by my mom.",
+        "startTime": 10335,
+        "endTime": 13505,
+        "slowStartTime": 15652,
+        "slowEndTime": 20482
+    },
+    {
+        "text": "What are you interested in?",
+        "startTime": 15960,
+        "endTime": 17648,
+        "slowStartTime": 24090,
+        "slowEndTime": 26697
+    },
+    {
+        "text": "I am interested in playing computer games.",
+        "startTime": 18761,
+        "endTime": 21706,
+        "slowStartTime": 28292,
+        "slowEndTime": 32784
+    },
+    {
+        "text": "But my mom and dad won't let me play games.",
+        "startTime": 22109,
+        "endTime": 25449,
+        "slowStartTime": 33314,
+        "slowEndTime": 38399
+    },
+    {
+        "text": "That's too bad.",
+        "startTime": 26517,
+        "endTime": 27745,
+        "slowStartTime": 39925,
+        "slowEndTime": 41843
+    },
+    {
+        "text": "Jake's room is filled with garbage!",
+        "startTime": 30153,
+        "endTime": 32755,
+        "slowStartTime": 45380,
+        "slowEndTime": 49358
+    },
+    {
+        "text": "We have to make him clean his room.",
+        "startTime": 33508,
+        "endTime": 35811,
+        "slowStartTime": 50412,
+        "slowEndTime": 53941
+    },
+    {
+        "text": "I'm tired of telling him to clean his room.",
+        "startTime": 37067,
+        "endTime": 39913,
+        "slowStartTime": 55750,
+        "slowEndTime": 60095
+    },
+    {
+        "text": "He never cleans his room.",
+        "startTime": 40189,
+        "endTime": 41971,
+        "slowStartTime": 60433,
+        "slowEndTime": 63182
+    }
+]

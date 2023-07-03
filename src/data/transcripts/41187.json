@@ -1,0 +1,135 @@
+[
+    {
+        "text": "Is there life on Mars?",
+        "startTime": 1542,
+        "endTime": 3223,
+        "slowStartTime": 2463,
+        "slowEndTime": 5059
+    },
+    {
+        "text": "So we've been looking for life on Mars for a long time.",
+        "startTime": 8156,
+        "endTime": 11298,
+        "slowStartTime": 12384,
+        "slowEndTime": 17172
+    },
+    {
+        "text": "And while NASA hasn't found any evidence of life now,...",
+        "startTime": 11668,
+        "endTime": 15104,
+        "slowStartTime": 17652,
+        "slowEndTime": 22881
+    },
+    {
+        "text": "...we found lots of evidence...",
+        "startTime": 15316,
+        "endTime": 16933,
+        "slowStartTime": 23124,
+        "slowEndTime": 25624
+    },
+    {
+        "text": "...that Mars could have supported life in the past.",
+        "startTime": 17013,
+        "endTime": 19574,
+        "slowStartTime": 25669,
+        "slowEndTime": 29586
+    },
+    {
+        "text": "There's lots of pieces of evidence...",
+        "startTime": 19850,
+        "endTime": 21377,
+        "slowStartTime": 29925,
+        "slowEndTime": 32290
+    },
+    {
+        "text": "...that say there was once a huge ocean on Mars...",
+        "startTime": 21461,
+        "endTime": 23861,
+        "slowStartTime": 32342,
+        "slowEndTime": 36016
+    },
+    {
+        "text": "...and an atmosphere that could have supported life.",
+        "startTime": 24146,
+        "endTime": 26529,
+        "slowStartTime": 36369,
+        "slowEndTime": 40019
+    },
+    {
+        "text": "But there's still a lot of Mars left to explore.",
+        "startTime": 26891,
+        "endTime": 29584,
+        "slowStartTime": 40487,
+        "slowEndTime": 44601
+    },
+    {
+        "text": "There are places that are potentially habitable like the deep subsurface.",
+        "startTime": 29842,
+        "endTime": 33777,
+        "slowStartTime": 44913,
+        "slowEndTime": 50891
+    },
+    {
+        "text": "There are places underground that could have fluids in them...",
+        "startTime": 34003,
+        "endTime": 36917,
+        "slowStartTime": 51154,
+        "slowEndTime": 55600
+    },
+    {
+        "text": "...where organisms could live, and they'd be protected from the radiation...",
+        "startTime": 36995,
+        "endTime": 40343,
+        "slowStartTime": 55643,
+        "slowEndTime": 60740
+    },
+    {
+        "text": "...that's so harmful on the surface.",
+        "startTime": 40449,
+        "endTime": 42342,
+        "slowStartTime": 60824,
+        "slowEndTime": 63738
+    },
+    {
+        "text": "We're just now getting instruments onto the Martian surface...",
+        "startTime": 42609,
+        "endTime": 46069,
+        "slowStartTime": 64063,
+        "slowEndTime": 69328
+    },
+    {
+        "text": "...that can help us understand these potentially habitable places.",
+        "startTime": 46223,
+        "endTime": 49510,
+        "slowStartTime": 69484,
+        "slowEndTime": 74490
+    },
+    {
+        "text": "Then we can ask deeper questions...",
+        "startTime": 49713,
+        "endTime": 51765,
+        "slowStartTime": 74719,
+        "slowEndTime": 77873
+    },
+    {
+        "text": "...about the potential for habitability in those rock cores.",
+        "startTime": 51885,
+        "endTime": 55421,
+        "slowStartTime": 77978,
+        "slowEndTime": 83357
+    },
+    {
+        "text": "So is there life on Mars?",
+        "startTime": 55615,
+        "endTime": 57379,
+        "slowStartTime": 83573,
+        "slowEndTime": 86294
+    },
+    {
+        "text": "Not that we've found yet, but there's still a lot of Mars left to explore.",
+        "startTime": 57683,
+        "endTime": 61848,
+        "slowStartTime": 86674,
+        "slowEndTime": 92997
+    }
+]

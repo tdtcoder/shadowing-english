@@ -1,0 +1,58 @@
+[
+    {
+        "text": "﻿Do you know where fish live?",
+        "startTime": 999,
+        "endTime": 2497,
+        "slowStartTime": 1649,
+        "slowEndTime": 3971
+    },
+    {
+        "text": "That's right, fish live underwater.",
+        "startTime": 4198,
+        "endTime": 7399,
+        "slowStartTime": 6447,
+        "slowEndTime": 11324
+    },
+    {
+        "text": "\"How can they do that?\", I hear you ask.",
+        "startTime": 8297,
+        "endTime": 10719,
+        "slowStartTime": 12595,
+        "slowEndTime": 16303
+    },
+    {
+        "text": "Well, it's because fish have gills.",
+        "startTime": 11056,
+        "endTime": 14288,
+        "slowStartTime": 16734,
+        "slowEndTime": 21657
+    },
+    {
+        "text": "Fish use their gills to suck up water and extract oxygen.",
+        "startTime": 14925,
+        "endTime": 19457,
+        "slowStartTime": 22538,
+        "slowEndTime": 29411
+    },
+    {
+        "text": "Just like how we breathe in air.",
+        "startTime": 23825,
+        "endTime": 26035,
+        "slowStartTime": 35887,
+        "slowEndTime": 39277
+    },
+    {
+        "text": "Fish have fins and tails that go whoosh, whoosh, whoosh,...",
+        "startTime": 28179,
+        "endTime": 35715,
+        "slowStartTime": 42419,
+        "slowEndTime": 53797
+    },
+    {
+        "text": "...so they can swim really well.",
+        "startTime": 39554,
+        "endTime": 42383,
+        "slowStartTime": 59481,
+        "slowEndTime": 63800
+    }
+]

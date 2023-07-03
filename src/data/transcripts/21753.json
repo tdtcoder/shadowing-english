@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Hi there, my name is Earl.",
+        "startTime": 23159,
+        "endTime": 24474,
+        "slowStartTime": 34888,
+        "slowEndTime": 36936
+    },
+    {
+        "text": "My name is Cameron, but you can call me Cam.",
+        "startTime": 27201,
+        "endTime": 29426,
+        "slowStartTime": 40951,
+        "slowEndTime": 44364
+    },
+    {
+        "text": "Good morning, my name is Bond, James Bond.",
+        "startTime": 31680,
+        "endTime": 35100,
+        "slowStartTime": 47670,
+        "slowEndTime": 52875
+    },
+    {
+        "text": "Oh hello, you must be Luke.",
+        "startTime": 40375,
+        "endTime": 42345,
+        "slowStartTime": 60712,
+        "slowEndTime": 63742
+    },
+    {
+        "text": "Yes, you must be Alex. It's nice to finally meet you in person.",
+        "startTime": 45398,
+        "endTime": 49757,
+        "slowStartTime": 68247,
+        "slowEndTime": 74860
+    },
+    {
+        "text": "Excuse me, but you must be Mary?",
+        "startTime": 52425,
+        "endTime": 54650,
+        "slowStartTime": 78787,
+        "slowEndTime": 82200
+    },
+    {
+        "text": "I'm Jack, VP of Sales. Very nice to meet you.",
+        "startTime": 59177,
+        "endTime": 62938,
+        "slowStartTime": 88915,
+        "slowEndTime": 94632
+    },
+    {
+        "text": "Mr. Coats, very nice to meet you.",
+        "startTime": 64644,
+        "endTime": 66657,
+        "slowStartTime": 97116,
+        "slowEndTime": 100211
+    },
+    {
+        "text": "A pleasure to meet you, Linda.",
+        "startTime": 72259,
+        "endTime": 73745,
+        "slowStartTime": 108539,
+        "slowEndTime": 110843
+    }
+]

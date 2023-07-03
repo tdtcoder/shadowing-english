@@ -1,0 +1,135 @@
+[
+    {
+        "text": "Once upon a time, a poor soldier was walking along a road when he met the Devil.",
+        "startTime": 2000,
+        "endTime": 7500,
+        "slowStartTime": 3200,
+        "slowEndTime": 11550
+    },
+    {
+        "text": "\"I will make you a rich man,\" the Devil said.",
+        "startTime": 8250,
+        "endTime": 12300,
+        "slowStartTime": 12550,
+        "slowEndTime": 18700
+    },
+    {
+        "text": "\"But if you die within seven years, I shall take your soul.\"",
+        "startTime": 12550,
+        "endTime": 16950,
+        "slowStartTime": 19000,
+        "slowEndTime": 25650
+    },
+    {
+        "text": "\"What must I do for the seven years?\" The soldier asked.",
+        "startTime": 17700,
+        "endTime": 21300,
+        "slowStartTime": 26750,
+        "slowEndTime": 32200
+    },
+    {
+        "text": "The Devil was wearing a green coat.",
+        "startTime": 22100,
+        "endTime": 24150,
+        "slowStartTime": 33300,
+        "slowEndTime": 36500
+    },
+    {
+        "text": "He took it off and he gave it to the soldier.",
+        "startTime": 24450,
+        "endTime": 27250,
+        "slowStartTime": 36900,
+        "slowEndTime": 41100
+    },
+    {
+        "text": "\"There is a pocket in this coat,\" he said.",
+        "startTime": 27850,
+        "endTime": 30700,
+        "slowStartTime": 41950,
+        "slowEndTime": 46300
+    },
+    {
+        "text": "The soldier put his hand into the pocket.",
+        "startTime": 31300,
+        "endTime": 33900,
+        "slowStartTime": 47100,
+        "slowEndTime": 51050
+    },
+    {
+        "text": "\"It's full of gold!\" He said.",
+        "startTime": 34300,
+        "endTime": 36200,
+        "slowStartTime": 51650,
+        "slowEndTime": 54600
+    },
+    {
+        "text": "\"Yes,\" the Devil said.",
+        "startTime": 36500,
+        "endTime": 38200,
+        "slowStartTime": 54950,
+        "slowEndTime": 57550
+    },
+    {
+        "text": "\"You can spend as much as you like.\"",
+        "startTime": 38400,
+        "endTime": 40300,
+        "slowStartTime": 57750,
+        "slowEndTime": 60700
+    },
+    {
+        "text": "\"The pocket will stay full of gold.\"",
+        "startTime": 40600,
+        "endTime": 42700,
+        "slowStartTime": 61100,
+        "slowEndTime": 64300
+    },
+    {
+        "text": "\"Now, don't forget.\"",
+        "startTime": 43050,
+        "endTime": 43950,
+        "slowStartTime": 64725,
+        "slowEndTime": 66200
+    },
+    {
+        "text": "\"You must not take off the bearskin.\"",
+        "startTime": 44250,
+        "endTime": 46600,
+        "slowStartTime": 66500,
+        "slowEndTime": 70100
+    },
+    {
+        "text": "\"You must not take a bath.\"",
+        "startTime": 46900,
+        "endTime": 48350,
+        "slowStartTime": 70550,
+        "slowEndTime": 72800
+    },
+    {
+        "text": "\"And you must not cut your beard or your hair.\"",
+        "startTime": 48650,
+        "endTime": 51450,
+        "slowStartTime": 73100,
+        "slowEndTime": 77400
+    },
+    {
+        "text": "\"If you are still alive in seven years' time, I will make you rich.\"",
+        "startTime": 52100,
+        "endTime": 56600,
+        "slowStartTime": 78400,
+        "slowEndTime": 85300
+    },
+    {
+        "text": "\"If you die before then, I shall take your soul.\"",
+        "startTime": 57000,
+        "endTime": 59950,
+        "slowStartTime": 85700,
+        "slowEndTime": 90200
+    },
+    {
+        "text": "With these words, the Devil vanished and the soldier started walking.",
+        "startTime": 60500,
+        "endTime": 65100,
+        "slowStartTime": 90900,
+        "slowEndTime": 98000
+    }
+]

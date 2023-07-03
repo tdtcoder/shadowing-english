@@ -1,0 +1,205 @@
+[
+    {
+        "text": "﻿Hello?",
+        "startTime": 577,
+        "endTime": 958,
+        "slowStartTime": 1016,
+        "slowEndTime": 1662
+    },
+    {
+        "text": "Hi there.",
+        "startTime": 1377,
+        "endTime": 2007,
+        "slowStartTime": 2216,
+        "slowEndTime": 3235
+    },
+    {
+        "text": "How are you, Amanda?",
+        "startTime": 2311,
+        "endTime": 3283,
+        "slowStartTime": 3616,
+        "slowEndTime": 5150
+    },
+    {
+        "text": "Pretty good.",
+        "startTime": 3513,
+        "endTime": 4141,
+        "slowStartTime": 5420,
+        "slowEndTime": 6436
+    },
+    {
+        "text": "Oh, you sound very happy today.",
+        "startTime": 4319,
+        "endTime": 6248,
+        "slowStartTime": 6629,
+        "slowEndTime": 9597
+    },
+    {
+        "text": "Do you have any special plans?",
+        "startTime": 6699,
+        "endTime": 8141,
+        "slowStartTime": 10198,
+        "slowEndTime": 12436
+    },
+    {
+        "text": "Well, today is my birthday!",
+        "startTime": 8336,
+        "endTime": 10733,
+        "slowStartTime": 12654,
+        "slowEndTime": 16325
+    },
+    {
+        "text": "Wow, happy birthday, Amanda!",
+        "startTime": 10960,
+        "endTime": 12989,
+        "slowStartTime": 16590,
+        "slowEndTime": 19708
+    },
+    {
+        "text": "What are you going to do?",
+        "startTime": 13378,
+        "endTime": 14468,
+        "slowStartTime": 20217,
+        "slowEndTime": 21927
+    },
+    {
+        "text": "I have a birthday party tonight.",
+        "startTime": 15391,
+        "endTime": 17372,
+        "slowStartTime": 23236,
+        "slowEndTime": 26283
+    },
+    {
+        "text": "I'd like to invite you to my birthday party.",
+        "startTime": 18015,
+        "endTime": 20502,
+        "slowStartTime": 27172,
+        "slowEndTime": 30978
+    },
+    {
+        "text": "How sweet!",
+        "startTime": 20881,
+        "endTime": 21732,
+        "slowStartTime": 31471,
+        "slowEndTime": 32823
+    },
+    {
+        "text": "Thank you very much.",
+        "startTime": 22022,
+        "endTime": 23062,
+        "slowStartTime": 33183,
+        "slowEndTime": 34818
+    },
+    {
+        "text": "My pleasure.",
+        "startTime": 23148,
+        "endTime": 24173,
+        "slowStartTime": 34872,
+        "slowEndTime": 36484
+    },
+    {
+        "text": "By the way, next Monday is my wedding anniversary.",
+        "startTime": 24559,
+        "endTime": 27611,
+        "slowStartTime": 36989,
+        "slowEndTime": 41641
+    },
+    {
+        "text": "Congratulations!",
+        "startTime": 27961,
+        "endTime": 29217,
+        "slowStartTime": 42092,
+        "slowEndTime": 44050
+    },
+    {
+        "text": "When did you get married?",
+        "startTime": 29589,
+        "endTime": 30748,
+        "slowStartTime": 44534,
+        "slowEndTime": 46347
+    },
+    {
+        "text": "Didn't l tell you?",
+        "startTime": 31285,
+        "endTime": 32136,
+        "slowStartTime": 47078,
+        "slowEndTime": 48429
+    },
+    {
+        "text": "I got married two years ago and now I have twins.",
+        "startTime": 32509,
+        "endTime": 35459,
+        "slowStartTime": 48913,
+        "slowEndTime": 53413
+    },
+    {
+        "text": "Wow, twins?",
+        "startTime": 35751,
+        "endTime": 37189,
+        "slowStartTime": 53777,
+        "slowEndTime": 56009
+    },
+    {
+        "text": "Are they boys or girls?",
+        "startTime": 37678,
+        "endTime": 39193,
+        "slowStartTime": 56667,
+        "slowEndTime": 59015
+    },
+    {
+        "text": "They are a boy and a girl.",
+        "startTime": 39533,
+        "endTime": 40891,
+        "slowStartTime": 59450,
+        "slowEndTime": 61561
+    },
+    {
+        "text": "How old are they?",
+        "startTime": 41181,
+        "endTime": 42245,
+        "slowStartTime": 61922,
+        "slowEndTime": 63593
+    },
+    {
+        "text": "They are six months now.",
+        "startTime": 42507,
+        "endTime": 43875,
+        "slowStartTime": 63911,
+        "slowEndTime": 66037
+    },
+    {
+        "text": "Oh, I want to see them.",
+        "startTime": 44253,
+        "endTime": 46257,
+        "slowStartTime": 66530,
+        "slowEndTime": 69611
+    },
+    {
+        "text": "They must be very cute.",
+        "startTime": 46475,
+        "endTime": 48336,
+        "slowStartTime": 69862,
+        "slowEndTime": 72729
+    },
+    {
+        "text": "Yes, they are just lovely.",
+        "startTime": 48631,
+        "endTime": 50677,
+        "slowStartTime": 73096,
+        "slowEndTime": 76240
+    },
+    {
+        "text": "I will show you some of their pictures.",
+        "startTime": 51115,
+        "endTime": 52783,
+        "slowStartTime": 76823,
+        "slowEndTime": 79399
+    },
+    {
+        "text": "I'll look forward to seeing them soon.",
+        "startTime": 53481,
+        "endTime": 55523,
+        "slowStartTime": 80371,
+        "slowEndTime": 83509
+    }
+]

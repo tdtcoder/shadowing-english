@@ -1,0 +1,289 @@
+[
+    {
+        "text": "The farm animals were standing on a hill.",
+        "startTime": 2584,
+        "endTime": 5387,
+        "slowStartTime": 4026,
+        "slowEndTime": 8305
+    },
+    {
+        "text": "Goat said.",
+        "startTime": 6361,
+        "endTime": 7351,
+        "slowStartTime": 9691,
+        "slowEndTime": 11251
+    },
+    {
+        "text": "Look at that little barn on the other hill.",
+        "startTime": 7872,
+        "endTime": 10819,
+        "slowStartTime": 11958,
+        "slowEndTime": 16453
+    },
+    {
+        "text": "I think I will go to the barn.",
+        "startTime": 11472,
+        "endTime": 13868,
+        "slowStartTime": 17358,
+        "slowEndTime": 21027
+    },
+    {
+        "text": "said Goat.",
+        "startTime": 14825,
+        "endTime": 15657,
+        "slowStartTime": 22387,
+        "slowEndTime": 23710
+    },
+    {
+        "text": "Goat ran down the hill and across a field.",
+        "startTime": 16715,
+        "endTime": 20101,
+        "slowStartTime": 25223,
+        "slowEndTime": 30377
+    },
+    {
+        "text": "Oh no, Goat is shrinking.",
+        "startTime": 21049,
+        "endTime": 24680,
+        "slowStartTime": 31724,
+        "slowEndTime": 37245
+    },
+    {
+        "text": "said Cow.",
+        "startTime": 25839,
+        "endTime": 26775,
+        "slowStartTime": 38909,
+        "slowEndTime": 40387
+    },
+    {
+        "text": "Goat ran farther.",
+        "startTime": 27781,
+        "endTime": 29341,
+        "slowStartTime": 41821,
+        "slowEndTime": 44236
+    },
+    {
+        "text": "Goodness me, Goat is shrinking more.",
+        "startTime": 30400,
+        "endTime": 33407,
+        "slowStartTime": 45750,
+        "slowEndTime": 50335
+    },
+    {
+        "text": "said Cow.",
+        "startTime": 34522,
+        "endTime": 35544,
+        "slowStartTime": 51933,
+        "slowEndTime": 53541
+    },
+    {
+        "text": "Goat ran even farther.",
+        "startTime": 36403,
+        "endTime": 38715,
+        "slowStartTime": 54755,
+        "slowEndTime": 58297
+    },
+    {
+        "text": "Oh no, now Goat has disappeared.",
+        "startTime": 39529,
+        "endTime": 43043,
+        "slowStartTime": 59443,
+        "slowEndTime": 64790
+    },
+    {
+        "text": "said Cow.",
+        "startTime": 43956,
+        "endTime": 44954,
+        "slowStartTime": 66084,
+        "slowEndTime": 67656
+    },
+    {
+        "text": "I will fly to the barn to find Goat.",
+        "startTime": 46213,
+        "endTime": 49489,
+        "slowStartTime": 69469,
+        "slowEndTime": 74458
+    },
+    {
+        "text": "said Duck.",
+        "startTime": 50405,
+        "endTime": 51340,
+        "slowStartTime": 75757,
+        "slowEndTime": 77235
+    },
+    {
+        "text": "Duck began to fly to the barn.",
+        "startTime": 52347,
+        "endTime": 54839,
+        "slowStartTime": 78670,
+        "slowEndTime": 82484
+    },
+    {
+        "text": "Oh no, Duck is shrinking, too.",
+        "startTime": 56010,
+        "endTime": 59380,
+        "slowStartTime": 84165,
+        "slowEndTime": 89295
+    },
+    {
+        "text": "said Cow.",
+        "startTime": 60201,
+        "endTime": 61239,
+        "slowStartTime": 90452,
+        "slowEndTime": 92083
+    },
+    {
+        "text": "Duck flew farther.",
+        "startTime": 62102,
+        "endTime": 63691,
+        "slowStartTime": 93303,
+        "slowEndTime": 95761
+    },
+    {
+        "text": "Oh no, now Duck has disappeared.",
+        "startTime": 64728,
+        "endTime": 68244,
+        "slowStartTime": 97242,
+        "slowEndTime": 102591
+    },
+    {
+        "text": "said Cow.",
+        "startTime": 69301,
+        "endTime": 70178,
+        "slowStartTime": 104102,
+        "slowEndTime": 105492
+    },
+    {
+        "text": "I will run to the barn and find Goat and Duck.",
+        "startTime": 71181,
+        "endTime": 74379,
+        "slowStartTime": 106921,
+        "slowEndTime": 111794
+    },
+    {
+        "text": "said Pig.",
+        "startTime": 75082,
+        "endTime": 75963,
+        "slowStartTime": 112773,
+        "slowEndTime": 114169
+    },
+    {
+        "text": "Pig ran to the barn.",
+        "startTime": 76958,
+        "endTime": 78837,
+        "slowStartTime": 115587,
+        "slowEndTime": 118481
+    },
+    {
+        "text": "Oh no, Pig is shrinking, too.",
+        "startTime": 79913,
+        "endTime": 83038,
+        "slowStartTime": 120019,
+        "slowEndTime": 124782
+    },
+    {
+        "text": "said Cow.",
+        "startTime": 84341,
+        "endTime": 85303,
+        "slowStartTime": 126661,
+        "slowEndTime": 128180
+    },
+    {
+        "text": "Pig ran farther and farther.",
+        "startTime": 86324,
+        "endTime": 88747,
+        "slowStartTime": 129636,
+        "slowEndTime": 133345
+    },
+    {
+        "text": "Goodness me, now Pig has disappeared.",
+        "startTime": 89675,
+        "endTime": 93226,
+        "slowStartTime": 134662,
+        "slowEndTime": 140064
+    },
+    {
+        "text": "said Cow.",
+        "startTime": 94249,
+        "endTime": 95243,
+        "slowStartTime": 141523,
+        "slowEndTime": 143090
+    },
+    {
+        "text": "I'd better go find Pig, Duck, and Goat.",
+        "startTime": 96147,
+        "endTime": 99414,
+        "slowStartTime": 144370,
+        "slowEndTime": 149346
+    },
+    {
+        "text": "she said.",
+        "startTime": 100237,
+        "endTime": 101211,
+        "slowStartTime": 150505,
+        "slowEndTime": 152042
+    },
+    {
+        "text": "Cow began to run toward the barn.",
+        "startTime": 102049,
+        "endTime": 105001,
+        "slowStartTime": 153224,
+        "slowEndTime": 157726
+    },
+    {
+        "text": "She ran down the hill.",
+        "startTime": 105870,
+        "endTime": 107493,
+        "slowStartTime": 158955,
+        "slowEndTime": 161465
+    },
+    {
+        "text": "The barn began to get bigger.",
+        "startTime": 108592,
+        "endTime": 110964,
+        "slowStartTime": 163038,
+        "slowEndTime": 166671
+    },
+    {
+        "text": "Cow ran across the field.",
+        "startTime": 112038,
+        "endTime": 114069,
+        "slowStartTime": 168207,
+        "slowEndTime": 171329
+    },
+    {
+        "text": "The barn became bigger and bigger.",
+        "startTime": 115024,
+        "endTime": 117891,
+        "slowStartTime": 172686,
+        "slowEndTime": 177061
+    },
+    {
+        "text": "Cow reached the barn.",
+        "startTime": 119025,
+        "endTime": 120657,
+        "slowStartTime": 178688,
+        "slowEndTime": 181210
+    },
+    {
+        "text": "She could see it was a very big barn.",
+        "startTime": 121680,
+        "endTime": 124907,
+        "slowStartTime": 182670,
+        "slowEndTime": 187586
+    },
+    {
+        "text": "She saw Pig, Duck, and Goat.",
+        "startTime": 125898,
+        "endTime": 128564,
+        "slowStartTime": 188997,
+        "slowEndTime": 193071
+    },
+    {
+        "text": "They had not disappeared!",
+        "startTime": 129652,
+        "endTime": 131514,
+        "slowStartTime": 194628,
+        "slowEndTime": 197496
+    }
+]

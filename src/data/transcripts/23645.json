@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Call your mom, call your dad.",
+        "startTime": 581,
+        "endTime": 1752,
+        "slowStartTime": 1022,
+        "slowEndTime": 2853
+    },
+    {
+        "text": "If you're lucky enough to have a parent or two alive on this planet, call 'em.",
+        "startTime": 1841,
+        "endTime": 6655,
+        "slowStartTime": 2912,
+        "slowEndTime": 10208
+    },
+    {
+        "text": "Don't text, don't e-mail.",
+        "startTime": 6983,
+        "endTime": 8233,
+        "slowStartTime": 10625,
+        "slowEndTime": 12574
+    },
+    {
+        "text": "Call them on the phone.",
+        "startTime": 8324,
+        "endTime": 9263,
+        "slowStartTime": 12636,
+        "slowEndTime": 14120
+    },
+    {
+        "text": "Tell 'em you love 'em and thank them...",
+        "startTime": 9487,
+        "endTime": 11717,
+        "slowStartTime": 14381,
+        "slowEndTime": 17800
+    },
+    {
+        "text": "...and listen to them for as long as they want to talk to you.",
+        "startTime": 11956,
+        "endTime": 14978,
+        "slowStartTime": 18084,
+        "slowEndTime": 22692
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 15307,
+        "endTime": 15843,
+        "slowStartTime": 23110,
+        "slowEndTime": 23989
+    },
+    {
+        "text": "Thank you, mom and dad.",
+        "startTime": 16191,
+        "endTime": 17223,
+        "slowStartTime": 24437,
+        "slowEndTime": 26059
+    }
+]

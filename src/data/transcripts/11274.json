@@ -1,0 +1,142 @@
+[
+    {
+        "text": "These days, robots are more common than you might think...",
+        "startTime": 350,
+        "endTime": 3100,
+        "slowStartTime": 650,
+        "slowEndTime": 4900
+    },
+    {
+        "text": "...like this Roomba robotic vacuum.",
+        "startTime": 3250,
+        "endTime": 5450,
+        "slowStartTime": 5050,
+        "slowEndTime": 8300
+    },
+    {
+        "text": "We wanted to do something simple that people could use every day...",
+        "startTime": 6250,
+        "endTime": 9050,
+        "slowStartTime": 9340,
+        "slowEndTime": 13800
+    },
+    {
+        "text": "...and that's what inspired us to build the Roomba.",
+        "startTime": 9250,
+        "endTime": 11650,
+        "slowStartTime": 14100,
+        "slowEndTime": 17700
+    },
+    {
+        "text": "We wanted to be helpful around the house.",
+        "startTime": 11700,
+        "endTime": 13850,
+        "slowStartTime": 17700,
+        "slowEndTime": 21000
+    },
+    {
+        "text": "Helen Greiner is co-founder of iRobot.",
+        "startTime": 14050,
+        "endTime": 16750,
+        "slowStartTime": 21250,
+        "slowEndTime": 25300
+    },
+    {
+        "text": "It makes everything from the Roomba...",
+        "startTime": 16950,
+        "endTime": 18750,
+        "slowStartTime": 25600,
+        "slowEndTime": 28300
+    },
+    {
+        "text": "...to remote-controlled bomb disposal units,...",
+        "startTime": 18900,
+        "endTime": 20950,
+        "slowStartTime": 28500,
+        "slowEndTime": 31650
+    },
+    {
+        "text": "...to robots that someday might be part of us.",
+        "startTime": 21000,
+        "endTime": 23400,
+        "slowStartTime": 31700,
+        "slowEndTime": 35400
+    },
+    {
+        "text": "You can have robotics incorporated into your body...",
+        "startTime": 23700,
+        "endTime": 26200,
+        "slowStartTime": 35800,
+        "slowEndTime": 39600
+    },
+    {
+        "text": "...to give back that arm or leg that you've lost either in service,...",
+        "startTime": 26500,
+        "endTime": 29617,
+        "slowStartTime": 39900,
+        "slowEndTime": 44651
+    },
+    {
+        "text": "...or through some accident, or disease.",
+        "startTime": 29703,
+        "endTime": 32719,
+        "slowStartTime": 44705,
+        "slowEndTime": 49303
+    },
+    {
+        "text": "The robots featured at the annual convention of the Association for Unmanned Vehicles International...",
+        "startTime": 33000,
+        "endTime": 38300,
+        "slowStartTime": 49700,
+        "slowEndTime": 57700
+    },
+    {
+        "text": "...were mostly for military use,...",
+        "startTime": 38350,
+        "endTime": 40050,
+        "slowStartTime": 57700,
+        "slowEndTime": 60400
+    },
+    {
+        "text": "...but association president Michael Toscano says civilian uses are growing.",
+        "startTime": 40350,
+        "endTime": 44800,
+        "slowStartTime": 60700,
+        "slowEndTime": 67500
+    },
+    {
+        "text": "Whether it be firefighting, whether it be first responders,...",
+        "startTime": 45133,
+        "endTime": 48113,
+        "slowStartTime": 67849,
+        "slowEndTime": 72394
+    },
+    {
+        "text": "...whether it be disaster response,...",
+        "startTime": 48191,
+        "endTime": 51017,
+        "slowStartTime": 72437,
+        "slowEndTime": 76750
+    },
+    {
+        "text": "...unmanned systems allow human beings to be able to do their mission...",
+        "startTime": 51150,
+        "endTime": 54450,
+        "slowStartTime": 76750,
+        "slowEndTime": 81900
+    },
+    {
+        "text": "...with an extension of their hands, their eyes, and their ears.",
+        "startTime": 54800,
+        "endTime": 57300,
+        "slowStartTime": 82400,
+        "slowEndTime": 86200
+    },
+    {
+        "text": "Remote-controlled landrovers can detonate bombs or buried land mines.",
+        "startTime": 58250,
+        "endTime": 62000,
+        "slowStartTime": 87550,
+        "slowEndTime": 93300
+    }
+]

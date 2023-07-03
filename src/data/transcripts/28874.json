@@ -1,0 +1,65 @@
+[
+    {
+        "text": "﻿Amazon is a retailer.",
+        "startTime": 368,
+        "endTime": 1742,
+        "slowStartTime": 702,
+        "slowEndTime": 2838
+    },
+    {
+        "text": "We're a transportation company,...",
+        "startTime": 2298,
+        "endTime": 3759,
+        "slowStartTime": 3597,
+        "slowEndTime": 5864
+    },
+    {
+        "text": "...so what that means is...",
+        "startTime": 4433,
+        "endTime": 6129,
+        "slowStartTime": 6800,
+        "slowEndTime": 9418
+    },
+    {
+        "text": "...we have a tremendous amount of upstream hubs, sortation facilities,...",
+        "startTime": 6525,
+        "endTime": 12195,
+        "slowStartTime": 9938,
+        "slowEndTime": 18517
+    },
+    {
+        "text": "...flights, trucking routes and so forth.",
+        "startTime": 13259,
+        "endTime": 15725,
+        "slowStartTime": 20039,
+        "slowEndTime": 23813
+    },
+    {
+        "text": "Amazon is about you coming to their store through mobile mostly.",
+        "startTime": 16337,
+        "endTime": 21098,
+        "slowStartTime": 24656,
+        "slowEndTime": 31872
+    },
+    {
+        "text": "And then, rather than you're coming to...",
+        "startTime": 21442,
+        "endTime": 23579,
+        "slowStartTime": 32313,
+        "slowEndTime": 35594
+    },
+    {
+        "text": "...their location like Penny's or Target or Walmart,...",
+        "startTime": 23995,
+        "endTime": 27187,
+        "slowStartTime": 36143,
+        "slowEndTime": 41005
+    },
+    {
+        "text": "They deliver it to you.",
+        "startTime": 27513,
+        "endTime": 28573,
+        "slowStartTime": 41419,
+        "slowEndTime": 43085
+    }
+]

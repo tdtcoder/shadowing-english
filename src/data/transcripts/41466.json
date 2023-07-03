@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Would you like to leave a message for Henry?",
+        "startTime": 5003,
+        "endTime": 7018,
+        "slowStartTime": 7655,
+        "slowEndTime": 10752
+    },
+    {
+        "text": "Yes.",
+        "startTime": 7567,
+        "endTime": 8175,
+        "slowStartTime": 11500,
+        "slowEndTime": 12487
+    },
+    {
+        "text": "Please tell him to call me back when his meeting is finished.",
+        "startTime": 8610,
+        "endTime": 11282,
+        "slowStartTime": 13065,
+        "slowEndTime": 17148
+    },
+    {
+        "text": "Would you like me to give you an office tour?",
+        "startTime": 14077,
+        "endTime": 16113,
+        "slowStartTime": 21265,
+        "slowEndTime": 24395
+    },
+    {
+        "text": "That would be great.",
+        "startTime": 17209,
+        "endTime": 18383,
+        "slowStartTime": 25963,
+        "slowEndTime": 27800
+    },
+    {
+        "text": "Would you like to see the pictures?",
+        "startTime": 19545,
+        "endTime": 21183,
+        "slowStartTime": 29467,
+        "slowEndTime": 32000
+    },
+    {
+        "text": "Of course!",
+        "startTime": 22017,
+        "endTime": 22883,
+        "slowStartTime": 33176,
+        "slowEndTime": 34549
+    },
+    {
+        "text": "Would you like to check the reports?",
+        "startTime": 25837,
+        "endTime": 27464,
+        "slowStartTime": 38906,
+        "slowEndTime": 41421
+    },
+    {
+        "text": "Okay.",
+        "startTime": 28106,
+        "endTime": 28600,
+        "slowStartTime": 42309,
+        "slowEndTime": 43125
+    },
+    {
+        "text": "Let me see them.",
+        "startTime": 28786,
+        "endTime": 29671,
+        "slowStartTime": 43329,
+        "slowEndTime": 44732
+    }
+]

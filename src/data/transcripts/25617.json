@@ -1,0 +1,51 @@
+[
+    {
+        "text": "20,000 companies came to Las Vegas...",
+        "startTime": 883,
+        "endTime": 3624,
+        "slowStartTime": 1474,
+        "slowEndTime": 5661
+    },
+    {
+        "text": "...to show their latest products, hoping to make it big.",
+        "startTime": 3955,
+        "endTime": 7115,
+        "slowStartTime": 6083,
+        "slowEndTime": 10897
+    },
+    {
+        "text": "Nikon has a camera that shoots incredible pictures.",
+        "startTime": 8460,
+        "endTime": 11818,
+        "slowStartTime": 12840,
+        "slowEndTime": 17952
+    },
+    {
+        "text": "Samsung and others are showing their latest TVs with curved screens.",
+        "startTime": 12793,
+        "endTime": 17364,
+        "slowStartTime": 19339,
+        "slowEndTime": 26271
+    },
+    {
+        "text": "This year, action cameras are very popular and can be seen in many places.",
+        "startTime": 18622,
+        "endTime": 24317,
+        "slowStartTime": 28083,
+        "slowEndTime": 36700
+    },
+    {
+        "text": "Self-driving cars are also on display.",
+        "startTime": 25034,
+        "endTime": 28027,
+        "slowStartTime": 37701,
+        "slowEndTime": 42266
+    },
+    {
+        "text": "Stand by for what the future will bring.",
+        "startTime": 28971,
+        "endTime": 31681,
+        "slowStartTime": 43607,
+        "slowEndTime": 47746
+    }
+]

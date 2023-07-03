@@ -1,0 +1,79 @@
+[
+    {
+        "text": "First, I pick out what to wear on top.",
+        "startTime": 937,
+        "endTime": 3031,
+        "slowStartTime": 1556,
+        "slowEndTime": 4771
+    },
+    {
+        "text": "That means my shirt.",
+        "startTime": 3465,
+        "endTime": 4757,
+        "slowStartTime": 5347,
+        "slowEndTime": 7361
+    },
+    {
+        "text": "This part is easy because my giraffe shirt is my favorite.",
+        "startTime": 5906,
+        "endTime": 10953,
+        "slowStartTime": 9009,
+        "slowEndTime": 16654
+    },
+    {
+        "text": "Then, I have to pick out what to wear in the bottom.",
+        "startTime": 11766,
+        "endTime": 14823,
+        "slowStartTime": 17799,
+        "slowEndTime": 22459
+    },
+    {
+        "text": "I couldn't decide on pants or skirt for today.",
+        "startTime": 15359,
+        "endTime": 19343,
+        "slowStartTime": 23189,
+        "slowEndTime": 29240
+    },
+    {
+        "text": "So, I chose both.",
+        "startTime": 20327,
+        "endTime": 22111,
+        "slowStartTime": 30641,
+        "slowEndTime": 33391
+    },
+    {
+        "text": "I also think about what the weather is going to be like.",
+        "startTime": 23185,
+        "endTime": 26311,
+        "slowStartTime": 34928,
+        "slowEndTime": 39692
+    },
+    {
+        "text": "And I make sure I choose the right clothes for it.",
+        "startTime": 26551,
+        "endTime": 29342,
+        "slowStartTime": 39977,
+        "slowEndTime": 44238
+    },
+    {
+        "text": "If it's cold outside,...",
+        "startTime": 30769,
+        "endTime": 33241,
+        "slowStartTime": 46304,
+        "slowEndTime": 50086
+    },
+    {
+        "text": "...I'll bundle up and wear clothes that keep me warm.",
+        "startTime": 33508,
+        "endTime": 38071,
+        "slowStartTime": 50412,
+        "slowEndTime": 57331
+    },
+    {
+        "text": "And if it's warm outside, I can wear clothes that can be cool.",
+        "startTime": 38657,
+        "endTime": 44354,
+        "slowStartTime": 58135,
+        "slowEndTime": 66756
+    }
+]

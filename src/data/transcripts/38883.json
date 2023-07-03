@@ -1,0 +1,205 @@
+[
+    {
+        "text": "Good morning.",
+        "startTime": 123,
+        "endTime": 999,
+        "slowStartTime": 334,
+        "slowEndTime": 1724
+    },
+    {
+        "text": "Oh, hello, good morning.",
+        "startTime": 1379,
+        "endTime": 2335,
+        "slowStartTime": 2219,
+        "slowEndTime": 3727
+    },
+    {
+        "text": "Can I help you?",
+        "startTime": 2445,
+        "endTime": 3357,
+        "slowStartTime": 3818,
+        "slowEndTime": 5261
+    },
+    {
+        "text": "Yes, you can.",
+        "startTime": 3700,
+        "endTime": 5233,
+        "slowStartTime": 5700,
+        "slowEndTime": 8074
+    },
+    {
+        "text": "Actually, I'm looking for a present for my brother.",
+        "startTime": 5754,
+        "endTime": 10588,
+        "slowStartTime": 8781,
+        "slowEndTime": 16107
+    },
+    {
+        "text": "What about a T-shirt?",
+        "startTime": 11102,
+        "endTime": 12878,
+        "slowStartTime": 16803,
+        "slowEndTime": 19542
+    },
+    {
+        "text": "No, not a T-shirt, no.",
+        "startTime": 13325,
+        "endTime": 15368,
+        "slowStartTime": 20138,
+        "slowEndTime": 23277
+    },
+    {
+        "text": "How about a denim jacket?",
+        "startTime": 19411,
+        "endTime": 22395,
+        "slowStartTime": 29266,
+        "slowEndTime": 33817
+    },
+    {
+        "text": "Oh yes, actually that's lovely.",
+        "startTime": 23047,
+        "endTime": 26017,
+        "slowStartTime": 34721,
+        "slowEndTime": 39251
+    },
+    {
+        "text": "I like that.",
+        "startTime": 26099,
+        "endTime": 26891,
+        "slowStartTime": 39298,
+        "slowEndTime": 40562
+    },
+    {
+        "text": "What size does he take?",
+        "startTime": 27031,
+        "endTime": 28435,
+        "slowStartTime": 40697,
+        "slowEndTime": 42877
+    },
+    {
+        "text": "He takes a small.",
+        "startTime": 29087,
+        "endTime": 31203,
+        "slowStartTime": 43781,
+        "slowEndTime": 47029
+    },
+    {
+        "text": "Okay.",
+        "startTime": 31591,
+        "endTime": 31960,
+        "slowStartTime": 47537,
+        "slowEndTime": 48165
+    },
+    {
+        "text": "How about this?",
+        "startTime": 37052,
+        "endTime": 37787,
+        "slowStartTime": 55728,
+        "slowEndTime": 56905
+    },
+    {
+        "text": "Great!",
+        "startTime": 38020,
+        "endTime": 38641,
+        "slowStartTime": 57180,
+        "slowEndTime": 58186
+    },
+    {
+        "text": "That's lovely.",
+        "startTime": 38788,
+        "endTime": 39568,
+        "slowStartTime": 58332,
+        "slowEndTime": 59577
+    },
+    {
+        "text": "I'll take that one.",
+        "startTime": 39695,
+        "endTime": 40887,
+        "slowStartTime": 59693,
+        "slowEndTime": 61555
+    },
+    {
+        "text": "It's 50 euros.",
+        "startTime": 41456,
+        "endTime": 42798,
+        "slowStartTime": 62334,
+        "slowEndTime": 64422
+    },
+    {
+        "text": "Is there a discount?",
+        "startTime": 44013,
+        "endTime": 45413,
+        "slowStartTime": 66169,
+        "slowEndTime": 68345
+    },
+    {
+        "text": "There is today, and it's 40 euros with the discount.",
+        "startTime": 45525,
+        "endTime": 48449,
+        "slowStartTime": 68437,
+        "slowEndTime": 72899
+    },
+    {
+        "text": "Fantastic!",
+        "startTime": 49005,
+        "endTime": 49939,
+        "slowStartTime": 73657,
+        "slowEndTime": 75134
+    },
+    {
+        "text": "I'll take it.",
+        "startTime": 50338,
+        "endTime": 51189,
+        "slowStartTime": 75657,
+        "slowEndTime": 77008
+    },
+    {
+        "text": "So, with the discount, that's 40 euros.",
+        "startTime": 51342,
+        "endTime": 53354,
+        "slowStartTime": 77163,
+        "slowEndTime": 80256
+    },
+    {
+        "text": "40 euros. One moment.",
+        "startTime": 53537,
+        "endTime": 55865,
+        "slowStartTime": 80455,
+        "slowEndTime": 84022
+    },
+    {
+        "text": "Here's 50.",
+        "startTime": 64848,
+        "endTime": 65756,
+        "slowStartTime": 97422,
+        "slowEndTime": 98859
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 65907,
+        "endTime": 66567,
+        "slowStartTime": 99010,
+        "slowEndTime": 100076
+    },
+    {
+        "text": "Here's your ten change.",
+        "startTime": 70985,
+        "endTime": 72298,
+        "slowStartTime": 106627,
+        "slowEndTime": 108672
+    },
+    {
+        "text": "Thank you very much.",
+        "startTime": 72379,
+        "endTime": 73396,
+        "slowStartTime": 108718,
+        "slowEndTime": 110319
+    },
+    {
+        "text": "You're welcome, and here's your jacket.",
+        "startTime": 73540,
+        "endTime": 75231,
+        "slowStartTime": 110460,
+        "slowEndTime": 113071
+    }
+]

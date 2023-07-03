@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Hot surfaces and liquids don't mix.",
+        "startTime": 1126,
+        "endTime": 4107,
+        "slowStartTime": 1839,
+        "slowEndTime": 6385
+    },
+    {
+        "text": "Drop water on a really hot surface and, instead of evaporating,...",
+        "startTime": 5325,
+        "endTime": 8901,
+        "slowStartTime": 8138,
+        "slowEndTime": 13577
+    },
+    {
+        "text": "...the droplets start to skitter around.",
+        "startTime": 9115,
+        "endTime": 11251,
+        "slowStartTime": 13823,
+        "slowEndTime": 17101
+    },
+    {
+        "text": "This is called the Leidenfrost effect,...",
+        "startTime": 11960,
+        "endTime": 14247,
+        "slowStartTime": 18090,
+        "slowEndTime": 21596
+    },
+    {
+        "text": "...and it can be a problem if you're trying to use water...",
+        "startTime": 14509,
+        "endTime": 16561,
+        "slowStartTime": 21913,
+        "slowEndTime": 25067
+    },
+    {
+        "text": "...to cool down systems prone to overheating.",
+        "startTime": 16641,
+        "endTime": 19085,
+        "slowStartTime": 25112,
+        "slowEndTime": 28853
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Can you help clean the house?",
+        "startTime": 2668,
+        "endTime": 4735,
+        "slowStartTime": 4152,
+        "slowEndTime": 7328
+    },
+    {
+        "text": "Yes, I can.",
+        "startTime": 5814,
+        "endTime": 6891,
+        "slowStartTime": 8871,
+        "slowEndTime": 10562
+    },
+    {
+        "text": "Can you help wash the dishes?",
+        "startTime": 8287,
+        "endTime": 10512,
+        "slowStartTime": 12580,
+        "slowEndTime": 15993
+    },
+    {
+        "text": "Yes, I can.",
+        "startTime": 11670,
+        "endTime": 12886,
+        "slowStartTime": 17655,
+        "slowEndTime": 19554
+    },
+    {
+        "text": "Can you help pull the weeds?",
+        "startTime": 13965,
+        "endTime": 16111,
+        "slowStartTime": 21097,
+        "slowEndTime": 24391
+    },
+    {
+        "text": "Yes, I can.",
+        "startTime": 17447,
+        "endTime": 18683,
+        "slowStartTime": 26320,
+        "slowEndTime": 28249
+    },
+    {
+        "text": "Can you help make the bed?",
+        "startTime": 19784,
+        "endTime": 21653,
+        "slowStartTime": 29826,
+        "slowEndTime": 32704
+    },
+    {
+        "text": "Yes, I can.",
+        "startTime": 22553,
+        "endTime": 23711,
+        "slowStartTime": 33979,
+        "slowEndTime": 35791
+    },
+    {
+        "text": "Can you help carry the bag?",
+        "startTime": 25007,
+        "endTime": 26876,
+        "slowStartTime": 37660,
+        "slowEndTime": 40539
+    },
+    {
+        "text": "Yes, I can.",
+        "startTime": 28211,
+        "endTime": 29210,
+        "slowStartTime": 42467,
+        "slowEndTime": 44040
+    },
+    {
+        "text": "Can you help wash the dog?",
+        "startTime": 30467,
+        "endTime": 32336,
+        "slowStartTime": 45850,
+        "slowEndTime": 48729
+    },
+    {
+        "text": "Yes, I can.",
+        "startTime": 33613,
+        "endTime": 34769,
+        "slowStartTime": 50569,
+        "slowEndTime": 52379
+    },
+    {
+        "text": "Can you help feed the chickens?",
+        "startTime": 36007,
+        "endTime": 37797,
+        "slowStartTime": 54161,
+        "slowEndTime": 56921
+    },
+    {
+        "text": "Yes, I can.",
+        "startTime": 38837,
+        "endTime": 39993,
+        "slowStartTime": 58405,
+        "slowEndTime": 60215
+    },
+    {
+        "text": "Can you help clean your room?",
+        "startTime": 41231,
+        "endTime": 43119,
+        "slowStartTime": 61996,
+        "slowEndTime": 64904
+    },
+    {
+        "text": "What can you do to help Mom?",
+        "startTime": 46429,
+        "endTime": 48812,
+        "slowStartTime": 69793,
+        "slowEndTime": 73443
+    },
+    {
+        "text": "I can clean my room.",
+        "startTime": 50010,
+        "endTime": 51602,
+        "slowStartTime": 75165,
+        "slowEndTime": 77628
+    },
+    {
+        "text": "Can you help wash the dishes?",
+        "startTime": 52423,
+        "endTime": 54609,
+        "slowStartTime": 78785,
+        "slowEndTime": 82138
+    },
+    {
+        "text": "Yes, I can.",
+        "startTime": 55707,
+        "endTime": 57003,
+        "slowStartTime": 83711,
+        "slowEndTime": 85729
+    },
+    {
+        "text": "Can you help feed the chickens?",
+        "startTime": 57974,
+        "endTime": 60397,
+        "slowStartTime": 87111,
+        "slowEndTime": 90821
+    },
+    {
+        "text": "No, I can't. I'm afraid of them.",
+        "startTime": 61456,
+        "endTime": 64413,
+        "slowStartTime": 92334,
+        "slowEndTime": 96845
+    }
+]

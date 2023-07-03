@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Teams have players.",
+        "startTime": 2613,
+        "endTime": 4237,
+        "slowStartTime": 4070,
+        "slowEndTime": 6580
+    },
+    {
+        "text": "A baseball team has nine players.",
+        "startTime": 5291,
+        "endTime": 7767,
+        "slowStartTime": 8086,
+        "slowEndTime": 11875
+    },
+    {
+        "text": "Each player is important.",
+        "startTime": 8788,
+        "endTime": 10616,
+        "slowStartTime": 13332,
+        "slowEndTime": 16149
+    },
+    {
+        "text": "The pitcher is very important.",
+        "startTime": 11601,
+        "endTime": 13784,
+        "slowStartTime": 17551,
+        "slowEndTime": 20901
+    },
+    {
+        "text": "She pitches the ball to the batter.",
+        "startTime": 14805,
+        "endTime": 16924,
+        "slowStartTime": 22358,
+        "slowEndTime": 25611
+    },
+    {
+        "text": "The batter is very important.",
+        "startTime": 17987,
+        "endTime": 20009,
+        "slowStartTime": 27130,
+        "slowEndTime": 30238
+    },
+    {
+        "text": "He hits the ball the pitcher pitches.",
+        "startTime": 21097,
+        "endTime": 23695,
+        "slowStartTime": 31795,
+        "slowEndTime": 35768
+    },
+    {
+        "text": "The catcher is very important.",
+        "startTime": 24743,
+        "endTime": 26891,
+        "slowStartTime": 37264,
+        "slowEndTime": 40561
+    },
+    {
+        "text": "He catches the ball the pitcher pitches.",
+        "startTime": 28029,
+        "endTime": 30738,
+        "slowStartTime": 42194,
+        "slowEndTime": 46332
+    },
+    {
+        "text": "The infielder is very important.",
+        "startTime": 31798,
+        "endTime": 34206,
+        "slowStartTime": 47847,
+        "slowEndTime": 51534
+    },
+    {
+        "text": "She catches the ball the batter hits.",
+        "startTime": 35271,
+        "endTime": 38130,
+        "slowStartTime": 53057,
+        "slowEndTime": 57420
+    },
+    {
+        "text": "The outfielder is very important.",
+        "startTime": 39204,
+        "endTime": 41681,
+        "slowStartTime": 58956,
+        "slowEndTime": 62746
+    },
+    {
+        "text": "He catches the ball the batter hits.",
+        "startTime": 42750,
+        "endTime": 45199,
+        "slowStartTime": 64275,
+        "slowEndTime": 68024
+    },
+    {
+        "text": "All the players are important.",
+        "startTime": 46328,
+        "endTime": 48408,
+        "slowStartTime": 69642,
+        "slowEndTime": 72837
+    },
+    {
+        "text": "To win, a team needs each player.",
+        "startTime": 49509,
+        "endTime": 52395,
+        "slowStartTime": 74414,
+        "slowEndTime": 78818
+    },
+    {
+        "text": "Baseball is a team sport.",
+        "startTime": 53511,
+        "endTime": 55550,
+        "slowStartTime": 80416,
+        "slowEndTime": 83550
+    },
+    {
+        "text": "Players play together to win.",
+        "startTime": 56597,
+        "endTime": 58691,
+        "slowStartTime": 85045,
+        "slowEndTime": 88261
+    },
+    {
+        "text": "Look at that boy. He is very tall.",
+        "startTime": 62681,
+        "endTime": 66059,
+        "slowStartTime": 94172,
+        "slowEndTime": 99313
+    },
+    {
+        "text": "Right. He is the tallest in my class.",
+        "startTime": 67147,
+        "endTime": 70023,
+        "slowStartTime": 100870,
+        "slowEndTime": 105260
+    },
+    {
+        "text": "Can you solve this math problem?",
+        "startTime": 71125,
+        "endTime": 73301,
+        "slowStartTime": 106837,
+        "slowEndTime": 110177
+    },
+    {
+        "text": "No, I can't. It's too hard to me.",
+        "startTime": 74335,
+        "endTime": 77425,
+        "slowStartTime": 111652,
+        "slowEndTime": 116363
+    },
+    {
+        "text": "Can Sarah solve this then?",
+        "startTime": 78527,
+        "endTime": 80225,
+        "slowStartTime": 117941,
+        "slowEndTime": 120563
+    },
+    {
+        "text": "Yes, she is very smart.",
+        "startTime": 81317,
+        "endTime": 83738,
+        "slowStartTime": 122125,
+        "slowEndTime": 125832
+    }
+]

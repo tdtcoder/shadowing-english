@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Hi, Brian. What did you do last weekend?",
+        "startTime": 2714,
+        "endTime": 5699,
+        "slowStartTime": 4221,
+        "slowEndTime": 8774
+    },
+    {
+        "text": "I went to my cousin's birthday party.",
+        "startTime": 6697,
+        "endTime": 8993,
+        "slowStartTime": 10196,
+        "slowEndTime": 13714
+    },
+    {
+        "text": "Wow! Did you have a good time there?",
+        "startTime": 10018,
+        "endTime": 12642,
+        "slowStartTime": 15177,
+        "slowEndTime": 19188
+    },
+    {
+        "text": "Yes, I enjoyed myself at the party.",
+        "startTime": 13683,
+        "endTime": 16402,
+        "slowStartTime": 20674,
+        "slowEndTime": 24828
+    },
+    {
+        "text": "What did you give her for her birthday?",
+        "startTime": 17382,
+        "endTime": 19548,
+        "slowStartTime": 26223,
+        "slowEndTime": 29547
+    },
+    {
+        "text": "I made a special card and cookies myself.",
+        "startTime": 20536,
+        "endTime": 23303,
+        "slowStartTime": 30954,
+        "slowEndTime": 35179
+    },
+    {
+        "text": "How nice!",
+        "startTime": 24255,
+        "endTime": 25289,
+        "slowStartTime": 36533,
+        "slowEndTime": 38159
+    },
+    {
+        "text": "How was your weekend, Betty?",
+        "startTime": 26323,
+        "endTime": 27897,
+        "slowStartTime": 39634,
+        "slowEndTime": 42070
+    },
+    {
+        "text": "I went to the amusement park with my family.",
+        "startTime": 28941,
+        "endTime": 31706,
+        "slowStartTime": 43561,
+        "slowEndTime": 47784
+    },
+    {
+        "text": "And I saw a woman in a polka-dot dress there.",
+        "startTime": 32261,
+        "endTime": 35189,
+        "slowStartTime": 48541,
+        "slowEndTime": 53009
+    },
+    {
+        "text": "A woman in a polka-dot dress?",
+        "startTime": 36240,
+        "endTime": 38543,
+        "slowStartTime": 54510,
+        "slowEndTime": 58040
+    },
+    {
+        "text": "Yes. She was our English teacher!",
+        "startTime": 39621,
+        "endTime": 42650,
+        "slowStartTime": 59582,
+        "slowEndTime": 64200
+    }
+]

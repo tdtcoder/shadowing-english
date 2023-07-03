@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Play scary music.",
+        "startTime": 2373,
+        "endTime": 3370,
+        "slowStartTime": 3709,
+        "slowEndTime": 5280
+    },
+    {
+        "text": "Sure.",
+        "startTime": 3582,
+        "endTime": 3959,
+        "slowStartTime": 5523,
+        "slowEndTime": 6164
+    },
+    {
+        "text": "What time does the Pirate Store close?",
+        "startTime": 7137,
+        "endTime": 8314,
+        "slowStartTime": 10855,
+        "slowEndTime": 12696
+    },
+    {
+        "text": "Pirate Supply Store is open until 6 PM.",
+        "startTime": 8575,
+        "endTime": 11199,
+        "slowStartTime": 13013,
+        "slowEndTime": 17024
+    },
+    {
+        "text": "How do I make fake blood?",
+        "startTime": 14651,
+        "endTime": 16264,
+        "slowStartTime": 22127,
+        "slowEndTime": 24621
+    },
+    {
+        "text": "What are the top scariest movies of all time?",
+        "startTime": 16748,
+        "endTime": 18735,
+        "slowStartTime": 25272,
+        "slowEndTime": 28328
+    },
+    {
+        "text": "Turn on the flashlight.",
+        "startTime": 18823,
+        "endTime": 19600,
+        "slowStartTime": 28385,
+        "slowEndTime": 29625
+    },
+    {
+        "text": "How old is too old to trick-or-treat?",
+        "startTime": 22068,
+        "endTime": 23818,
+        "slowStartTime": 33252,
+        "slowEndTime": 35952
+    },
+    {
+        "text": "You are never too old to trick-or-treat.",
+        "startTime": 25089,
+        "endTime": 26917,
+        "slowStartTime": 37784,
+        "slowEndTime": 40600
+    }
+]

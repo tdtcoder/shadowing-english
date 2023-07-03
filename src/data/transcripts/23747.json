@@ -1,0 +1,149 @@
+[
+    {
+        "text": "﻿May I have your attention please?",
+        "startTime": 452,
+        "endTime": 2103,
+        "slowStartTime": 828,
+        "slowEndTime": 3380
+    },
+    {
+        "text": "We have made a stop because of bad weather between Shin-Nihombashi and Bakurocho.",
+        "startTime": 2942,
+        "endTime": 9138,
+        "slowStartTime": 4563,
+        "slowEndTime": 13932
+    },
+    {
+        "text": "Our train cannot continue beyond Nakano.",
+        "startTime": 10125,
+        "endTime": 12959,
+        "slowStartTime": 15338,
+        "slowEndTime": 19664
+    },
+    {
+        "text": "We apologize for the delay.",
+        "startTime": 13767,
+        "endTime": 15305,
+        "slowStartTime": 20801,
+        "slowEndTime": 23183
+    },
+    {
+        "text": "May I have your attention please?",
+        "startTime": 16541,
+        "endTime": 18182,
+        "slowStartTime": 24961,
+        "slowEndTime": 27498
+    },
+    {
+        "text": "Our train is going slowly for safety confirmation near Nakano.",
+        "startTime": 18958,
+        "endTime": 24010,
+        "slowStartTime": 28587,
+        "slowEndTime": 36240
+    },
+    {
+        "text": "We will resume our travel soon.",
+        "startTime": 24851,
+        "endTime": 26563,
+        "slowStartTime": 37426,
+        "slowEndTime": 40069
+    },
+    {
+        "text": "Thank you for waiting.",
+        "startTime": 27431,
+        "endTime": 28416,
+        "slowStartTime": 41297,
+        "slowEndTime": 42849
+    },
+    {
+        "text": "May I have your attention please?",
+        "startTime": 28847,
+        "endTime": 30498,
+        "slowStartTime": 43420,
+        "slowEndTime": 45972
+    },
+    {
+        "text": "We have made a stop because of a signal failure between Ninomiya and Kouzu.",
+        "startTime": 31278,
+        "endTime": 37228,
+        "slowStartTime": 47067,
+        "slowEndTime": 56067
+    },
+    {
+        "text": "We apologize for the delay.",
+        "startTime": 38051,
+        "endTime": 39527,
+        "slowStartTime": 57226,
+        "slowEndTime": 59516
+    },
+    {
+        "text": "May I have your attention please?",
+        "startTime": 39811,
+        "endTime": 41366,
+        "slowStartTime": 59866,
+        "slowEndTime": 62274
+    },
+    {
+        "text": "Our train is going slowly because of a wayside fire between Monoi and Nishi-Funabashi.",
+        "startTime": 42231,
+        "endTime": 49077,
+        "slowStartTime": 63497,
+        "slowEndTime": 73840
+    },
+    {
+        "text": "We expect to start at 2:55.",
+        "startTime": 49911,
+        "endTime": 53491,
+        "slowStartTime": 75017,
+        "slowEndTime": 80462
+    },
+    {
+        "text": "Our train cannot continue beyond Urawa.",
+        "startTime": 54388,
+        "endTime": 57128,
+        "slowStartTime": 81732,
+        "slowEndTime": 85917
+    },
+    {
+        "text": "We apologize for the delay.",
+        "startTime": 57872,
+        "endTime": 59424,
+        "slowStartTime": 86958,
+        "slowEndTime": 89361
+    },
+    {
+        "text": "May I have your attention please?",
+        "startTime": 59936,
+        "endTime": 61595,
+        "slowStartTime": 90054,
+        "slowEndTime": 92617
+    },
+    {
+        "text": "Our train is going slowly because another train is passing.",
+        "startTime": 62383,
+        "endTime": 66113,
+        "slowStartTime": 93725,
+        "slowEndTime": 99395
+    },
+    {
+        "text": "We expect to start at 4:40.",
+        "startTime": 66874,
+        "endTime": 69763,
+        "slowStartTime": 100461,
+        "slowEndTime": 104870
+    },
+    {
+        "text": "Our train cannot continue beyond Nishi-Oi.",
+        "startTime": 70645,
+        "endTime": 73602,
+        "slowStartTime": 106118,
+        "slowEndTime": 110628
+    },
+    {
+        "text": "We apologize for the delay.",
+        "startTime": 74456,
+        "endTime": 75914,
+        "slowStartTime": 111834,
+        "slowEndTime": 114096
+    }
+]

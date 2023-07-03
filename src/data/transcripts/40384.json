@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Here are some phrases you can use for small talk.",
+        "startTime": 269,
+        "endTime": 3031,
+        "slowStartTime": 553,
+        "slowEndTime": 4771
+    },
+    {
+        "text": "How are things?",
+        "startTime": 4805,
+        "endTime": 5743,
+        "slowStartTime": 7358,
+        "slowEndTime": 8840
+    },
+    {
+        "text": "What a coincidence!",
+        "startTime": 7719,
+        "endTime": 9191,
+        "slowStartTime": 11728,
+        "slowEndTime": 14011
+    },
+    {
+        "text": "Good for you!",
+        "startTime": 11121,
+        "endTime": 12021,
+        "slowStartTime": 16832,
+        "slowEndTime": 18256
+    },
+    {
+        "text": "How are you?",
+        "startTime": 13841,
+        "endTime": 14617,
+        "slowStartTime": 20912,
+        "slowEndTime": 22150
+    },
+    {
+        "text": "Is everything going okay?",
+        "startTime": 16513,
+        "endTime": 17738,
+        "slowStartTime": 24919,
+        "slowEndTime": 26832
+    },
+    {
+        "text": "I haven't seen you in ages.",
+        "startTime": 19551,
+        "endTime": 21380,
+        "slowStartTime": 29476,
+        "slowEndTime": 32295
+    },
+    {
+        "text": "I'd better let you go.",
+        "startTime": 23233,
+        "endTime": 24747,
+        "slowStartTime": 35000,
+        "slowEndTime": 37346
+    },
+    {
+        "text": "Nice day today, isn't it?",
+        "startTime": 26538,
+        "endTime": 27875,
+        "slowStartTime": 39957,
+        "slowEndTime": 42038
+    },
+    {
+        "text": "It's good to have you here.",
+        "startTime": 29699,
+        "endTime": 31036,
+        "slowStartTime": 44699,
+        "slowEndTime": 46779
+    },
+    {
+        "text": "What brings you here?",
+        "startTime": 32833,
+        "endTime": 34069,
+        "slowStartTime": 49400,
+        "slowEndTime": 51328
+    }
+]

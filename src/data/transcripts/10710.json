@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Last night, I went to a party called \"The Intel Geek Party\" and it was a blast.",
+        "startTime": 300,
+        "endTime": 6975,
+        "slowStartTime": 590,
+        "slowEndTime": 10505
+    },
+    {
+        "text": "I expected a bunch of nerds playing with their computer all night,...",
+        "startTime": 7640,
+        "endTime": 11540,
+        "slowStartTime": 11665,
+        "slowEndTime": 17335
+    },
+    {
+        "text": "...but instead, I came across incredibly creative people.",
+        "startTime": 11845,
+        "endTime": 15615,
+        "slowStartTime": 17880,
+        "slowEndTime": 23460
+    },
+    {
+        "text": "Hence, this \"dream booth\" invented by Armella Leung,...",
+        "startTime": 16585,
+        "endTime": 21220,
+        "slowStartTime": 24915,
+        "slowEndTime": 31905
+    },
+    {
+        "text": "...who calls herself a \"multi medium graphic designer.\"",
+        "startTime": 21555,
+        "endTime": 25255,
+        "slowStartTime": 32400,
+        "slowEndTime": 37890
+    },
+    {
+        "text": "It's made of a pillow on which dreams are displayed by a video projector.",
+        "startTime": 26295,
+        "endTime": 32065,
+        "slowStartTime": 39605,
+        "slowEndTime": 48260
+    },
+    {
+        "text": "And of course, since the pillow has also built-in sensors,...",
+        "startTime": 32895,
+        "endTime": 36970,
+        "slowStartTime": 49475,
+        "slowEndTime": 55515
+    },
+    {
+        "text": "...you can actually interact with your dreams.",
+        "startTime": 37305,
+        "endTime": 40005,
+        "slowStartTime": 56180,
+        "slowEndTime": 60087
+    },
+    {
+        "text": "Who said computers are boring?",
+        "startTime": 40640,
+        "endTime": 42840,
+        "slowStartTime": 61130,
+        "slowEndTime": 64320
+    }
+]

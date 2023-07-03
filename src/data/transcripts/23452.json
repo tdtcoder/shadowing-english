@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Frankly my dear, I don't give a damn.",
+        "startTime": 3666,
+        "endTime": 5778,
+        "slowStartTime": 5649,
+        "slowEndTime": 8892
+    },
+    {
+        "text": "Go ahead, make my day.",
+        "startTime": 9059,
+        "endTime": 12025,
+        "slowStartTime": 13739,
+        "slowEndTime": 18262
+    },
+    {
+        "text": "I see dead people.",
+        "startTime": 15488,
+        "endTime": 17486,
+        "slowStartTime": 23382,
+        "slowEndTime": 26454
+    },
+    {
+        "text": "I'm gonna make him an offer he can't refuse.",
+        "startTime": 18781,
+        "endTime": 20779,
+        "slowStartTime": 28321,
+        "slowEndTime": 31393
+    },
+    {
+        "text": "I'll be back.",
+        "startTime": 23267,
+        "endTime": 24640,
+        "slowStartTime": 35051,
+        "slowEndTime": 37185
+    },
+    {
+        "text": "Life is a box of chocolates, Forrest.",
+        "startTime": 27795,
+        "endTime": 30049,
+        "slowStartTime": 41843,
+        "slowEndTime": 45299
+    },
+    {
+        "text": "The Force will be with you always.",
+        "startTime": 31238,
+        "endTime": 33777,
+        "slowStartTime": 47007,
+        "slowEndTime": 50890
+    },
+    {
+        "text": "Say hello to my little friend!",
+        "startTime": 34256,
+        "endTime": 36169,
+        "slowStartTime": 51534,
+        "slowEndTime": 54478
+    },
+    {
+        "text": "Toto, I've a feeling we're not in Kansas anymore.",
+        "startTime": 39975,
+        "endTime": 44647,
+        "slowStartTime": 60113,
+        "slowEndTime": 67196
+    },
+    {
+        "text": "You talking to me?",
+        "startTime": 47405,
+        "endTime": 48777,
+        "slowStartTime": 71258,
+        "slowEndTime": 73391
+    },
+    {
+        "text": "Here's looking at you, kid.",
+        "startTime": 51741,
+        "endTime": 53227,
+        "slowStartTime": 77761,
+        "slowEndTime": 80065
+    },
+    {
+        "text": "To infinity and beyond!",
+        "startTime": 55245,
+        "endTime": 58323,
+        "slowStartTime": 83017,
+        "slowEndTime": 87710
+    }
+]

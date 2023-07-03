@@ -1,0 +1,65 @@
+[
+    {
+        "text": "I like ice cream.",
+        "startTime": 2559,
+        "endTime": 4385,
+        "slowStartTime": 3988,
+        "slowEndTime": 6803
+    },
+    {
+        "text": "Macaroni and cheese.",
+        "startTime": 6010,
+        "endTime": 7932,
+        "slowStartTime": 9165,
+        "slowEndTime": 12123
+    },
+    {
+        "text": "Bananas, vegetable and pizza and fruit.",
+        "startTime": 9536,
+        "endTime": 17268,
+        "slowStartTime": 14454,
+        "slowEndTime": 26127
+    },
+    {
+        "text": "Pancakes!",
+        "startTime": 18346,
+        "endTime": 19501,
+        "slowStartTime": 27669,
+        "slowEndTime": 29477
+    },
+    {
+        "text": "Eggs!",
+        "startTime": 19679,
+        "endTime": 20819,
+        "slowStartTime": 29668,
+        "slowEndTime": 31453
+    },
+    {
+        "text": "And sausages and bacon.",
+        "startTime": 21323,
+        "endTime": 23452,
+        "slowStartTime": 32134,
+        "slowEndTime": 35403
+    },
+    {
+        "text": "I like apples.",
+        "startTime": 23976,
+        "endTime": 25402,
+        "slowStartTime": 36114,
+        "slowEndTime": 38328
+    },
+    {
+        "text": "String beans.",
+        "startTime": 27203,
+        "endTime": 28844,
+        "slowStartTime": 40954,
+        "slowEndTime": 43491
+    },
+    {
+        "text": "Cookies.",
+        "startTime": 33445,
+        "endTime": 34075,
+        "slowStartTime": 50318,
+        "slowEndTime": 51337
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "text": "She's been waiting half an hour, what took you so long?",
+        "startTime": 6000,
+        "endTime": 8200,
+        "slowStartTime": 9200,
+        "slowEndTime": 12700
+    },
+    {
+        "text": "I'm in a hurry, my back is killing me, can we just do this?",
+        "startTime": 10000,
+        "endTime": 13300,
+        "slowStartTime": 15300,
+        "slowEndTime": 20200
+    },
+    {
+        "text": "I just got a collection notice from you people.",
+        "startTime": 15150,
+        "endTime": 17050,
+        "slowStartTime": 22850,
+        "slowEndTime": 25800
+    },
+    {
+        "text": "If this affects my credit, I will sue!",
+        "startTime": 17250,
+        "endTime": 19250,
+        "slowStartTime": 26100,
+        "slowEndTime": 29050
+    },
+    {
+        "text": "Do you feel as though your job becomes more demanding and stressful every day?",
+        "startTime": 21800,
+        "endTime": 25650,
+        "slowStartTime": 32900,
+        "slowEndTime": 38700
+    },
+    {
+        "text": "For most of us, there's just too much to do...",
+        "startTime": 26300,
+        "endTime": 28400,
+        "slowStartTime": 39650,
+        "slowEndTime": 42850
+    },
+    {
+        "text": "...and not enough time to get it done.",
+        "startTime": 28800,
+        "endTime": 30650,
+        "slowStartTime": 43400,
+        "slowEndTime": 46200
+    },
+    {
+        "text": "With pressures like these,...",
+        "startTime": 31400,
+        "endTime": 32650,
+        "slowStartTime": 47300,
+        "slowEndTime": 49250
+    },
+    {
+        "text": "...it can be all too easy to forget about the needs of the person we're here to help:...",
+        "startTime": 32800,
+        "endTime": 37550,
+        "slowStartTime": 49400,
+        "slowEndTime": 56500
+    },
+    {
+        "text": "...the patient.",
+        "startTime": 39250,
+        "endTime": 39950,
+        "slowStartTime": 59050,
+        "slowEndTime": 60150
+    },
+    {
+        "text": "The result: patient dissatisfaction, patient complaints,...",
+        "startTime": 40650,
+        "endTime": 45150,
+        "slowStartTime": 61200,
+        "slowEndTime": 68000
+    },
+    {
+        "text": "...and even more job stress for you.",
+        "startTime": 45900,
+        "endTime": 48300,
+        "slowStartTime": 69050,
+        "slowEndTime": 72800
+    },
+    {
+        "text": "Today more than ever, it's important we learn how to handle patient complaints easily and quickly.",
+        "startTime": 48850,
+        "endTime": 57000,
+        "slowStartTime": 73450,
+        "slowEndTime": 85750
+    },
+    {
+        "text": "What we need is a simple, easy-to-remember formula for managing patient complaints:...",
+        "startTime": 57350,
+        "endTime": 62550,
+        "slowStartTime": 86250,
+        "slowEndTime": 94050
+    },
+    {
+        "text": "...STAT.",
+        "startTime": 66150,
+        "endTime": 66800,
+        "slowStartTime": 99450,
+        "slowEndTime": 100500
+    }
+]

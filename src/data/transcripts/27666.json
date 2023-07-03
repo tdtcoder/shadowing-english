@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Lake Baikal is one of the oldest lakes in the world.",
+        "startTime": 2052,
+        "endTime": 5501,
+        "slowStartTime": 3228,
+        "slowEndTime": 8476
+    },
+    {
+        "text": "It is located in the very heart of the largest continent,...",
+        "startTime": 6207,
+        "endTime": 9594,
+        "slowStartTime": 9461,
+        "slowEndTime": 14616
+    },
+    {
+        "text": "...in a rift valley between two tectonic plates.",
+        "startTime": 9727,
+        "endTime": 13237,
+        "slowStartTime": 14740,
+        "slowEndTime": 20080
+    },
+    {
+        "text": "There is a theory that Lake Baikal is on its way to becoming an ocean basin.",
+        "startTime": 14005,
+        "endTime": 19125,
+        "slowStartTime": 21158,
+        "slowEndTime": 28913
+    },
+    {
+        "text": "Here, the steppes are gradually replaced by Siberian boreal forests.",
+        "startTime": 20742,
+        "endTime": 25862,
+        "slowStartTime": 31263,
+        "slowEndTime": 39018
+    },
+    {
+        "text": "The mountain ranges form diverse landscapes of forests,...",
+        "startTime": 26057,
+        "endTime": 29877,
+        "slowStartTime": 39235,
+        "slowEndTime": 45040
+    },
+    {
+        "text": "...alpine meadows and alpine tundra.",
+        "startTime": 30099,
+        "endTime": 32711,
+        "slowStartTime": 45299,
+        "slowEndTime": 49292
+    },
+    {
+        "text": "This is the land of crystal clear lakes, clean rivers and magnificent waterfalls.",
+        "startTime": 34193,
+        "endTime": 40305,
+        "slowStartTime": 51440,
+        "slowEndTime": 60682
+    }
+]

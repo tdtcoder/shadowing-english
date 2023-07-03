@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Where does Dan go?",
+        "startTime": 5081,
+        "endTime": 6517,
+        "slowStartTime": 7771,
+        "slowEndTime": 10000
+    },
+    {
+        "text": "Dan goes through the fence.",
+        "startTime": 6968,
+        "endTime": 8652,
+        "slowStartTime": 10602,
+        "slowEndTime": 13203
+    },
+    {
+        "text": "Where does Tim draw?",
+        "startTime": 10259,
+        "endTime": 11412,
+        "slowStartTime": 15538,
+        "slowEndTime": 17343
+    },
+    {
+        "text": "Tim draws around the cat.",
+        "startTime": 12001,
+        "endTime": 14181,
+        "slowStartTime": 18152,
+        "slowEndTime": 21496
+    },
+    {
+        "text": "Where is Sue walking?",
+        "startTime": 15623,
+        "endTime": 17095,
+        "slowStartTime": 23585,
+        "slowEndTime": 25868
+    },
+    {
+        "text": "Sue is walking across the log.",
+        "startTime": 17502,
+        "endTime": 19867,
+        "slowStartTime": 26403,
+        "slowEndTime": 30025
+    },
+    {
+        "text": "Where is the truck going?",
+        "startTime": 21368,
+        "endTime": 22868,
+        "slowStartTime": 32202,
+        "slowEndTime": 34527
+    },
+    {
+        "text": "The truck is going to the store.",
+        "startTime": 23583,
+        "endTime": 25493,
+        "slowStartTime": 35524,
+        "slowEndTime": 38464
+    },
+    {
+        "text": "Where do the birds fly?",
+        "startTime": 27055,
+        "endTime": 28553,
+        "slowStartTime": 40733,
+        "slowEndTime": 43055
+    },
+    {
+        "text": "The birds fly under the clouds.",
+        "startTime": 28999,
+        "endTime": 31173,
+        "slowStartTime": 43649,
+        "slowEndTime": 46985
+    },
+    {
+        "text": "Where do the birds fly?",
+        "startTime": 32697,
+        "endTime": 34136,
+        "slowStartTime": 49195,
+        "slowEndTime": 51429
+    },
+    {
+        "text": "The birds fly over the mountain.",
+        "startTime": 35072,
+        "endTime": 37189,
+        "slowStartTime": 52758,
+        "slowEndTime": 56009
+    }
+]

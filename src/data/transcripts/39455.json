@@ -1,0 +1,86 @@
+[
+    {
+        "text": "What country are you from?",
+        "startTime": 150,
+        "endTime": 1890,
+        "slowStartTime": 375,
+        "slowEndTime": 3060
+    },
+    {
+        "text": "I'm from Bangladesh.",
+        "startTime": 2285,
+        "endTime": 3692,
+        "slowStartTime": 3578,
+        "slowEndTime": 5763
+    },
+    {
+        "text": "So, you are Bangladeshi?",
+        "startTime": 4125,
+        "endTime": 6053,
+        "slowStartTime": 6338,
+        "slowEndTime": 9304
+    },
+    {
+        "text": "That's right!",
+        "startTime": 6491,
+        "endTime": 7196,
+        "slowStartTime": 9886,
+        "slowEndTime": 11019
+    },
+    {
+        "text": "My nationality is Bangladeshi.",
+        "startTime": 7415,
+        "endTime": 9963,
+        "slowStartTime": 11272,
+        "slowEndTime": 15170
+    },
+    {
+        "text": "Where are you from?",
+        "startTime": 10421,
+        "endTime": 11597,
+        "slowStartTime": 15782,
+        "slowEndTime": 17620
+    },
+    {
+        "text": "I'm from China.",
+        "startTime": 11798,
+        "endTime": 12685,
+        "slowStartTime": 17847,
+        "slowEndTime": 19253
+    },
+    {
+        "text": "What languages do you speak?",
+        "startTime": 13221,
+        "endTime": 14871,
+        "slowStartTime": 19981,
+        "slowEndTime": 22532
+    },
+    {
+        "text": "I speak Chinese and English.",
+        "startTime": 15291,
+        "endTime": 17176,
+        "slowStartTime": 23086,
+        "slowEndTime": 25989
+    },
+    {
+        "text": "Where are you from?",
+        "startTime": 17668,
+        "endTime": 18661,
+        "slowStartTime": 26652,
+        "slowEndTime": 28217
+    },
+    {
+        "text": "I'm from Iran.",
+        "startTime": 18773,
+        "endTime": 19914,
+        "slowStartTime": 28309,
+        "slowEndTime": 30096
+    },
+    {
+        "text": "I'm Iranian.",
+        "startTime": 20117,
+        "endTime": 20974,
+        "slowStartTime": 30326,
+        "slowEndTime": 31686
+    }
+]

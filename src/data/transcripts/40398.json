@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Good afternoon.",
+        "startTime": 298,
+        "endTime": 978,
+        "slowStartTime": 597,
+        "slowEndTime": 1692
+    },
+    {
+        "text": "May I help you?",
+        "startTime": 1081,
+        "endTime": 1653,
+        "slowStartTime": 1772,
+        "slowEndTime": 2705
+    },
+    {
+        "text": "Yes.",
+        "startTime": 2453,
+        "endTime": 3001,
+        "slowStartTime": 3829,
+        "slowEndTime": 4727
+    },
+    {
+        "text": "Please give me some sticky notes.",
+        "startTime": 3157,
+        "endTime": 4871,
+        "slowStartTime": 4886,
+        "slowEndTime": 7531
+    },
+    {
+        "text": "Okay.",
+        "startTime": 5304,
+        "endTime": 5914,
+        "slowStartTime": 8106,
+        "slowEndTime": 9096
+    },
+    {
+        "text": "Do you want to buy anything else?",
+        "startTime": 6135,
+        "endTime": 7615,
+        "slowStartTime": 9352,
+        "slowEndTime": 11648
+    },
+    {
+        "text": "Yes.",
+        "startTime": 8163,
+        "endTime": 8511,
+        "slowStartTime": 12395,
+        "slowEndTime": 12991
+    },
+    {
+        "text": "I need a spray cleaner for the tables, too.",
+        "startTime": 8656,
+        "endTime": 10873,
+        "slowStartTime": 13134,
+        "slowEndTime": 16535
+    },
+    {
+        "text": "All right.",
+        "startTime": 11713,
+        "endTime": 12362,
+        "slowStartTime": 17719,
+        "slowEndTime": 18768
+    },
+    {
+        "text": "What else?",
+        "startTime": 12610,
+        "endTime": 13171,
+        "slowStartTime": 19065,
+        "slowEndTime": 19981
+    },
+    {
+        "text": "Ah, I also want to buy some staples.",
+        "startTime": 13880,
+        "endTime": 16249,
+        "slowStartTime": 20970,
+        "slowEndTime": 24599
+    },
+    {
+        "text": "Is that all?",
+        "startTime": 16699,
+        "endTime": 17495,
+        "slowStartTime": 25199,
+        "slowEndTime": 26467
+    },
+    {
+        "text": "Yes.",
+        "startTime": 17779,
+        "endTime": 18165,
+        "slowStartTime": 26818,
+        "slowEndTime": 27473
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 18343,
+        "endTime": 18838,
+        "slowStartTime": 27665,
+        "slowEndTime": 28482
+    }
+]

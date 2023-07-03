@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Here are some phrases you can use to introduce yourself.",
+        "startTime": 289,
+        "endTime": 3176,
+        "slowStartTime": 584,
+        "slowEndTime": 4989
+    },
+    {
+        "text": "I am...",
+        "startTime": 5067,
+        "endTime": 5953,
+        "slowStartTime": 7751,
+        "slowEndTime": 9154
+    },
+    {
+        "text": "My name is...",
+        "startTime": 7864,
+        "endTime": 8891,
+        "slowStartTime": 11946,
+        "slowEndTime": 13561
+    },
+    {
+        "text": "It's nice to meet you.",
+        "startTime": 10694,
+        "endTime": 12089,
+        "slowStartTime": 16191,
+        "slowEndTime": 18358
+    },
+    {
+        "text": "I'm from...",
+        "startTime": 13900,
+        "endTime": 14834,
+        "slowStartTime": 21000,
+        "slowEndTime": 22476
+    },
+    {
+        "text": "I live in...",
+        "startTime": 16672,
+        "endTime": 17607,
+        "slowStartTime": 25158,
+        "slowEndTime": 26635
+    },
+    {
+        "text": "I'm a... I'm an... (occupation).",
+        "startTime": 19521,
+        "endTime": 22361,
+        "slowStartTime": 29431,
+        "slowEndTime": 33767
+    },
+    {
+        "text": "I'm... years old.",
+        "startTime": 24045,
+        "endTime": 26401,
+        "slowStartTime": 36218,
+        "slowEndTime": 39827
+    },
+    {
+        "text": "I enjoy...",
+        "startTime": 28119,
+        "endTime": 29463,
+        "slowStartTime": 42329,
+        "slowEndTime": 44420
+    },
+    {
+        "text": "One of my hobbies is...",
+        "startTime": 31280,
+        "endTime": 32754,
+        "slowStartTime": 47070,
+        "slowEndTime": 49356
+    },
+    {
+        "text": "I've been learning... for...",
+        "startTime": 34547,
+        "endTime": 36758,
+        "slowStartTime": 51971,
+        "slowEndTime": 55362
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "text": "The Scottish King Duncan learned that his two generals had defeated invading armies.",
+        "startTime": 1779,
+        "endTime": 6881,
+        "slowStartTime": 2818,
+        "slowEndTime": 10547
+    },
+    {
+        "text": "After the battles, the generals Macbeth and Banquo, encountered three witches.",
+        "startTime": 7841,
+        "endTime": 13422,
+        "slowStartTime": 11911,
+        "slowEndTime": 20358
+    },
+    {
+        "text": "They made a prophecy that Macbeth would be crowned King of Scotland.",
+        "startTime": 14285,
+        "endTime": 18133,
+        "slowStartTime": 21578,
+        "slowEndTime": 27425
+    },
+    {
+        "text": "They also prophesied that Banquo's sons would become Scottish kings, but not him.",
+        "startTime": 19607,
+        "endTime": 25547,
+        "slowStartTime": 29560,
+        "slowEndTime": 38546
+    },
+    {
+        "text": "Macbeth thought that their prophecy might be true, but he was uncertain what to expect.",
+        "startTime": 26856,
+        "endTime": 31885,
+        "slowStartTime": 40434,
+        "slowEndTime": 48052
+    },
+    {
+        "text": "He invited King Duncan to his castle at Inverness for dinner.",
+        "startTime": 34894,
+        "endTime": 38651,
+        "slowStartTime": 52491,
+        "slowEndTime": 58202
+    },
+    {
+        "text": "Lady Macbeth persuaded her husband to kill Duncan that very night, by stabbing him.",
+        "startTime": 39987,
+        "endTime": 45039,
+        "slowStartTime": 60130,
+        "slowEndTime": 67784
+    },
+    {
+        "text": "She was certain the prophecy would come true.",
+        "startTime": 46381,
+        "endTime": 48439,
+        "slowStartTime": 69722,
+        "slowEndTime": 72883
+    },
+    {
+        "text": "They got Duncan's two royal servants drunk and blamed the murder on them.",
+        "startTime": 49389,
+        "endTime": 53657,
+        "slowStartTime": 74234,
+        "slowEndTime": 80711
+    },
+    {
+        "text": "Macbeth killed them to avenge the king's death and become king himself.",
+        "startTime": 54825,
+        "endTime": 59037,
+        "slowStartTime": 82388,
+        "slowEndTime": 88781
+    },
+    {
+        "text": "But he feared that Banquo's sons would seize his crown, as prophesied.",
+        "startTime": 60087,
+        "endTime": 64812,
+        "slowStartTime": 90280,
+        "slowEndTime": 97443
+    },
+    {
+        "text": "Macbeth planned to kill Banquo and his son Fleance.",
+        "startTime": 66411,
+        "endTime": 69790,
+        "slowStartTime": 99767,
+        "slowEndTime": 104910
+    },
+    {
+        "text": "Banquo was killed but Fleance escaped.",
+        "startTime": 70757,
+        "endTime": 73121,
+        "slowStartTime": 106285,
+        "slowEndTime": 109907
+    },
+    {
+        "text": "At an evening banquet, Banquo's ghost visited Macbeth,...",
+        "startTime": 75892,
+        "endTime": 79736,
+        "slowStartTime": 113988,
+        "slowEndTime": 119829
+    },
+    {
+        "text": "...and he cried out in front of many noble guests.",
+        "startTime": 80442,
+        "endTime": 83388,
+        "slowStartTime": 120813,
+        "slowEndTime": 125307
+    },
+    {
+        "text": "Frightened, Macbeth went to visit the witches.",
+        "startTime": 84383,
+        "endTime": 87091,
+        "slowStartTime": 126724,
+        "slowEndTime": 130862
+    },
+    {
+        "text": "There, they told him of more prophecies.",
+        "startTime": 88039,
+        "endTime": 90439,
+        "slowStartTime": 132209,
+        "slowEndTime": 135884
+    },
+    {
+        "text": "One was that he had to beware of MacDuff,...",
+        "startTime": 92257,
+        "endTime": 95031,
+        "slowStartTime": 138536,
+        "slowEndTime": 142772
+    },
+    {
+        "text": "...a Scottish nobleman who opposed his succession to the crown.",
+        "startTime": 95596,
+        "endTime": 99117,
+        "slowStartTime": 143544,
+        "slowEndTime": 148901
+    },
+    {
+        "text": "So Macbeth seized his castle and killed his family, while MacDuff stayed in England.",
+        "startTime": 100247,
+        "endTime": 105333,
+        "slowStartTime": 150521,
+        "slowEndTime": 158224
+    },
+    {
+        "text": "MacDuff led the English army against Macbeth.",
+        "startTime": 106571,
+        "endTime": 109249,
+        "slowStartTime": 160006,
+        "slowEndTime": 164098
+    },
+    {
+        "text": "Lady Macbeth killed herself, after ongoing nightmares.",
+        "startTime": 110357,
+        "endTime": 113432,
+        "slowStartTime": 165685,
+        "slowEndTime": 170373
+    },
+    {
+        "text": "Macbeth and MacDuff met on the battlefield and MacDuff finally killed Macbeth.",
+        "startTime": 114520,
+        "endTime": 119659,
+        "slowStartTime": 171930,
+        "slowEndTime": 179714
+    },
+    {
+        "text": "Then, Prince Malcolm, son of Duncan, became the King of Scotland.",
+        "startTime": 120600,
+        "endTime": 125245,
+        "slowStartTime": 181050,
+        "slowEndTime": 188093
+    }
+]

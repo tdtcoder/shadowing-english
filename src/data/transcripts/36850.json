@@ -1,0 +1,128 @@
+[
+    {
+        "text": "To get by car here is not possible.",
+        "startTime": 652,
+        "endTime": 3003,
+        "slowStartTime": 1128,
+        "slowEndTime": 4730
+    },
+    {
+        "text": "You really have to hike.",
+        "startTime": 3172,
+        "endTime": 4379,
+        "slowStartTime": 4908,
+        "slowEndTime": 6794
+    },
+    {
+        "text": "This restaurant has been perched in the Swiss Alps for 173 years,...",
+        "startTime": 4775,
+        "endTime": 9431,
+        "slowStartTime": 7312,
+        "slowEndTime": 14371
+    },
+    {
+        "text": "...and the trek has always attracted hungry hikers.",
+        "startTime": 9699,
+        "endTime": 12872,
+        "slowStartTime": 14699,
+        "slowEndTime": 19533
+    },
+    {
+        "text": "But it's steep,...",
+        "startTime": 13114,
+        "endTime": 14033,
+        "slowStartTime": 19821,
+        "slowEndTime": 21274
+    },
+    {
+        "text": "...nearly 5,000 feet up.",
+        "startTime": 14479,
+        "endTime": 16520,
+        "slowStartTime": 21868,
+        "slowEndTime": 25005
+    },
+    {
+        "text": "Hello, and welcome to the Aescher.",
+        "startTime": 17310,
+        "endTime": 19589,
+        "slowStartTime": 26115,
+        "slowEndTime": 29609
+    },
+    {
+        "text": "I'm Melanie Gmunder and I'm the manager of the restaurant.",
+        "startTime": 27805,
+        "endTime": 30803,
+        "slowStartTime": 41857,
+        "slowEndTime": 46429
+    },
+    {
+        "text": "Our food is very traditional.",
+        "startTime": 31115,
+        "endTime": 33072,
+        "slowStartTime": 46823,
+        "slowEndTime": 49833
+    },
+    {
+        "text": "We got like sausage, cheese, salad or nut croissant.",
+        "startTime": 33196,
+        "endTime": 37590,
+        "slowStartTime": 49944,
+        "slowEndTime": 56610
+    },
+    {
+        "text": "But before you make any orders, here's how to get there.",
+        "startTime": 37936,
+        "endTime": 40559,
+        "slowStartTime": 57054,
+        "slowEndTime": 61063
+    },
+    {
+        "text": "First, get to the canton of Appenzell Innerrhoden and head to Wasserauen.",
+        "startTime": 44535,
+        "endTime": 48727,
+        "slowStartTime": 66953,
+        "slowEndTime": 73315
+    },
+    {
+        "text": "Then cable car it.",
+        "startTime": 49980,
+        "endTime": 51157,
+        "slowStartTime": 75120,
+        "slowEndTime": 76961
+    },
+    {
+        "text": "You'll go up a distance of over 2,000 feet to the Ebenalp mountain.",
+        "startTime": 51577,
+        "endTime": 55331,
+        "slowStartTime": 77516,
+        "slowEndTime": 83222
+    },
+    {
+        "text": "Once you get there, have your hiking boots ready for 15 minutes' steep hike,...",
+        "startTime": 55687,
+        "endTime": 59383,
+        "slowStartTime": 83680,
+        "slowEndTime": 89299
+    },
+    {
+        "text": "...go through a 40,000-year-old cave,...",
+        "startTime": 59863,
+        "endTime": 61823,
+        "slowStartTime": 89945,
+        "slowEndTime": 92959
+    },
+    {
+        "text": "...pass the chapel and you're there,...",
+        "startTime": 61907,
+        "endTime": 65091,
+        "slowStartTime": 93011,
+        "slowEndTime": 97861
+    },
+    {
+        "text": "...or you can take a two-hour hike through other paths.",
+        "startTime": 65701,
+        "endTime": 69057,
+        "slowStartTime": 98702,
+        "slowEndTime": 103810
+    }
+]

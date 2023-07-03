@@ -1,0 +1,184 @@
+[
+    {
+        "text": "By the time that the pizza man came,...",
+        "startTime": 9300,
+        "endTime": 12600,
+        "slowStartTime": 14150,
+        "slowEndTime": 19300
+    },
+    {
+        "text": "...everyone had all gone to bed.",
+        "startTime": 13000,
+        "endTime": 15950,
+        "slowStartTime": 19700,
+        "slowEndTime": 24170
+    },
+    {
+        "text": "When the dog food finally arrived,...",
+        "startTime": 18050,
+        "endTime": 21500,
+        "slowStartTime": 27250,
+        "slowEndTime": 32500
+    },
+    {
+        "text": "...the dog had already been fed.",
+        "startTime": 21850,
+        "endTime": 24750,
+        "slowStartTime": 33000,
+        "slowEndTime": 37300
+    },
+    {
+        "text": "Why is everybody always late?",
+        "startTime": 26900,
+        "endTime": 31350,
+        "slowStartTime": 40500,
+        "slowEndTime": 47200
+    },
+    {
+        "text": "When the man on the television said,...",
+        "startTime": 35750,
+        "endTime": 39100,
+        "slowStartTime": 53900,
+        "slowEndTime": 58850
+    },
+    {
+        "text": "...the weather was about to get bad.",
+        "startTime": 39650,
+        "endTime": 42700,
+        "slowStartTime": 59700,
+        "slowEndTime": 64300
+    },
+    {
+        "text": "Well, it had already been raining and snowing for so long.",
+        "startTime": 44600,
+        "endTime": 48150,
+        "slowStartTime": 67200,
+        "slowEndTime": 72500
+    },
+    {
+        "text": "I didn't even get mad.",
+        "startTime": 49100,
+        "endTime": 51550,
+        "slowStartTime": 73850,
+        "slowEndTime": 77600
+    },
+    {
+        "text": "Why is everybody always late?",
+        "startTime": 53550,
+        "endTime": 58100,
+        "slowStartTime": 80600,
+        "slowEndTime": 87300
+    },
+    {
+        "text": "When you asked me for a ride back home,...",
+        "startTime": 62450,
+        "endTime": 65850,
+        "slowStartTime": 93900,
+        "slowEndTime": 99000
+    },
+    {
+        "text": "...I had already sold my car.",
+        "startTime": 66200,
+        "endTime": 69250,
+        "slowStartTime": 99500,
+        "slowEndTime": 104300
+    },
+    {
+        "text": "And when you asked me if I needed a ride,...",
+        "startTime": 71300,
+        "endTime": 74750,
+        "slowStartTime": 107150,
+        "slowEndTime": 112300
+    },
+    {
+        "text": "...I had already walked too far.",
+        "startTime": 75100,
+        "endTime": 78300,
+        "slowStartTime": 112850,
+        "slowEndTime": 117750
+    },
+    {
+        "text": "Why is everybody always late?",
+        "startTime": 80250,
+        "endTime": 84600,
+        "slowStartTime": 120600,
+        "slowEndTime": 127000
+    },
+    {
+        "text": "When the quarterback finally threw...",
+        "startTime": 89100,
+        "endTime": 92400,
+        "slowStartTime": 133900,
+        "slowEndTime": 138900
+    },
+    {
+        "text": "...his very last touchdown pass,...",
+        "startTime": 92950,
+        "endTime": 95850,
+        "slowStartTime": 139650,
+        "slowEndTime": 144200
+    },
+    {
+        "text": "...the other team had already gone home.",
+        "startTime": 98050,
+        "endTime": 101450,
+        "slowStartTime": 147300,
+        "slowEndTime": 152400
+    },
+    {
+        "text": "There was nobody left on the grass.",
+        "startTime": 101700,
+        "endTime": 105000,
+        "slowStartTime": 152800,
+        "slowEndTime": 157700
+    },
+    {
+        "text": "Why is everybody always late?",
+        "startTime": 106950,
+        "endTime": 111350,
+        "slowStartTime": 160650,
+        "slowEndTime": 167200
+    },
+    {
+        "text": "When Johnny came home to tell his wife,...",
+        "startTime": 115750,
+        "endTime": 119050,
+        "slowStartTime": 173900,
+        "slowEndTime": 178800
+    },
+    {
+        "text": "...he was sorry for what he had said.",
+        "startTime": 119500,
+        "endTime": 122550,
+        "slowStartTime": 179500,
+        "slowEndTime": 184100
+    },
+    {
+        "text": "He saw a note sitting on the kitchen table.",
+        "startTime": 124650,
+        "endTime": 128000,
+        "slowStartTime": 187200,
+        "slowEndTime": 192300
+    },
+    {
+        "text": "A note he had never read and it said, it said,...",
+        "startTime": 128450,
+        "endTime": 133750,
+        "slowStartTime": 192900,
+        "slowEndTime": 200800
+    },
+    {
+        "text": "...\"Why is everybody always late?\"",
+        "startTime": 134150,
+        "endTime": 138000,
+        "slowStartTime": 201500,
+        "slowEndTime": 207250
+    },
+    {
+        "text": "\"You're late, Johnny!\"",
+        "startTime": 142550,
+        "endTime": 143600,
+        "slowStartTime": 214100,
+        "slowEndTime": 215600
+    }
+]

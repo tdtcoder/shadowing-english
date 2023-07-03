@@ -1,0 +1,219 @@
+[
+    {
+        "text": "When you invest in a stock,...",
+        "startTime": 497,
+        "endTime": 1901,
+        "slowStartTime": 895,
+        "slowEndTime": 3076
+    },
+    {
+        "text": "...you're taking a risk that the value may go down rather than up.",
+        "startTime": 2139,
+        "endTime": 5739,
+        "slowStartTime": 3358,
+        "slowEndTime": 8833
+    },
+    {
+        "text": "Okay, we get it.",
+        "startTime": 6289,
+        "endTime": 7481,
+        "slowStartTime": 9583,
+        "slowEndTime": 11447
+    },
+    {
+        "text": "Investing can be risky.",
+        "startTime": 7711,
+        "endTime": 8985,
+        "slowStartTime": 11717,
+        "slowEndTime": 13703
+    },
+    {
+        "text": "One way to manage that risk is to learn about asset allocation and diversification.",
+        "startTime": 9320,
+        "endTime": 14211,
+        "slowStartTime": 14130,
+        "slowEndTime": 21541
+    },
+    {
+        "text": "Asset allocation is financial lingo for how you distribute your money...",
+        "startTime": 14585,
+        "endTime": 18439,
+        "slowStartTime": 22028,
+        "slowEndTime": 27884
+    },
+    {
+        "text": "...across types of investment like the strategic decision...",
+        "startTime": 18647,
+        "endTime": 21501,
+        "slowStartTime": 28121,
+        "slowEndTime": 32476
+    },
+    {
+        "text": "...of which baskets to put your eggs in and how many.",
+        "startTime": 21595,
+        "endTime": 24559,
+        "slowStartTime": 32543,
+        "slowEndTime": 37064
+    },
+    {
+        "text": "The different baskets are called asset classes.",
+        "startTime": 24781,
+        "endTime": 27422,
+        "slowStartTime": 37321,
+        "slowEndTime": 41358
+    },
+    {
+        "text": "To help you decide where to put your eggs,...",
+        "startTime": 27666,
+        "endTime": 29445,
+        "slowStartTime": 41649,
+        "slowEndTime": 44392
+    },
+    {
+        "text": "...ask yourself how much time do you have before you need to use your money,...",
+        "startTime": 29676,
+        "endTime": 33036,
+        "slowStartTime": 44664,
+        "slowEndTime": 49779
+    },
+    {
+        "text": "...how comfortable are you with risk, and how does your current financial situation look.",
+        "startTime": 33313,
+        "endTime": 37703,
+        "slowStartTime": 50120,
+        "slowEndTime": 56780
+    },
+    {
+        "text": "Diversification is about strategically putting the right mix of different eggs...",
+        "startTime": 38127,
+        "endTime": 42590,
+        "slowStartTime": 57340,
+        "slowEndTime": 64110
+    },
+    {
+        "text": "...in each of your baskets.",
+        "startTime": 42751,
+        "endTime": 43896,
+        "slowStartTime": 64276,
+        "slowEndTime": 66069
+    },
+    {
+        "text": "The key is that you shouldn't invest all your money in one company,...",
+        "startTime": 44143,
+        "endTime": 47131,
+        "slowStartTime": 66364,
+        "slowEndTime": 70922
+    },
+    {
+        "text": "...one industry, one country, one anything.",
+        "startTime": 47371,
+        "endTime": 50014,
+        "slowStartTime": 71207,
+        "slowEndTime": 75246
+    },
+    {
+        "text": "Ideally, you want your investments to be negatively correlated,...",
+        "startTime": 50299,
+        "endTime": 53495,
+        "slowStartTime": 75599,
+        "slowEndTime": 80468
+    },
+    {
+        "text": "...so when one is going down, another is going up.",
+        "startTime": 53646,
+        "endTime": 56290,
+        "slowStartTime": 80619,
+        "slowEndTime": 84660
+    },
+    {
+        "text": "Here are some typical ways to diversify your portfolio:...",
+        "startTime": 56843,
+        "endTime": 59449,
+        "slowStartTime": 85415,
+        "slowEndTime": 89398
+    },
+    {
+        "text": "...invest in companies in different countries,...",
+        "startTime": 59807,
+        "endTime": 62245,
+        "slowStartTime": 89861,
+        "slowEndTime": 93592
+    },
+    {
+        "text": "...own stock in small and large companies,...",
+        "startTime": 62645,
+        "endTime": 65655,
+        "slowStartTime": 94117,
+        "slowEndTime": 98708
+    },
+    {
+        "text": "...and invest in companies in a variety of industries.",
+        "startTime": 65786,
+        "endTime": 68905,
+        "slowStartTime": 98829,
+        "slowEndTime": 103583
+    },
+    {
+        "text": "One downside to diversification is...",
+        "startTime": 69299,
+        "endTime": 71845,
+        "slowStartTime": 104098,
+        "slowEndTime": 107993
+    },
+    {
+        "text": "...if one of your investments does very well,...",
+        "startTime": 72050,
+        "endTime": 74194,
+        "slowStartTime": 108225,
+        "slowEndTime": 111516
+    },
+    {
+        "text": "...you won't make as much as if it was your only investment.",
+        "startTime": 74373,
+        "endTime": 76829,
+        "slowStartTime": 111710,
+        "slowEndTime": 115468
+    },
+    {
+        "text": "Conversely, if you owned only one stock...",
+        "startTime": 77179,
+        "endTime": 79944,
+        "slowStartTime": 115919,
+        "slowEndTime": 120141
+    },
+    {
+        "text": "...and the company went out of business,...",
+        "startTime": 80099,
+        "endTime": 81951,
+        "slowStartTime": 120299,
+        "slowEndTime": 123152
+    },
+    {
+        "text": "...you will lose more money than if you had diversified your money.",
+        "startTime": 82146,
+        "endTime": 85036,
+        "slowStartTime": 123369,
+        "slowEndTime": 127779
+    },
+    {
+        "text": "Diversification won't eliminate risk...",
+        "startTime": 85299,
+        "endTime": 87522,
+        "slowStartTime": 128098,
+        "slowEndTime": 131508
+    },
+    {
+        "text": "...but it's a smart way to manage risk...",
+        "startTime": 87655,
+        "endTime": 89715,
+        "slowStartTime": 131632,
+        "slowEndTime": 134798
+    },
+    {
+        "text": "...while allowing you to build your portfolio.",
+        "startTime": 89898,
+        "endTime": 92065,
+        "slowStartTime": 134997,
+        "slowEndTime": 138322
+    }
+]

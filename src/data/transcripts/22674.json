@@ -1,0 +1,65 @@
+[
+    {
+        "text": "On the Internet, you have to think before you post.",
+        "startTime": 3038,
+        "endTime": 5377,
+        "slowStartTime": 4707,
+        "slowEndTime": 8291
+    },
+    {
+        "text": "I have to go to the office in the morning. Let's get in the cab.",
+        "startTime": 7094,
+        "endTime": 10912,
+        "slowStartTime": 10791,
+        "slowEndTime": 16593
+    },
+    {
+        "text": "I have to go on an important mission. I mean, errand.",
+        "startTime": 12616,
+        "endTime": 15240,
+        "slowStartTime": 19074,
+        "slowEndTime": 23085
+    },
+    {
+        "text": "I will make you a warrior again. You must train hard.",
+        "startTime": 18283,
+        "endTime": 23865,
+        "slowStartTime": 27574,
+        "slowEndTime": 36022
+    },
+    {
+        "text": "I'm strong and I'm a good person. I must help other people.",
+        "startTime": 25881,
+        "endTime": 32089,
+        "slowStartTime": 38971,
+        "slowEndTime": 48358
+    },
+    {
+        "text": "To win their freedom, they must take an epic journey.",
+        "startTime": 34309,
+        "endTime": 38526,
+        "slowStartTime": 51614,
+        "slowEndTime": 58014
+    },
+    {
+        "text": "They need to improve their speaking skills and analytical skills.",
+        "startTime": 42374,
+        "endTime": 46506,
+        "slowStartTime": 63711,
+        "slowEndTime": 69984
+    },
+    {
+        "text": "People need to know about issues or problems in today's society.",
+        "startTime": 48705,
+        "endTime": 52154,
+        "slowStartTime": 73208,
+        "slowEndTime": 78456
+    },
+    {
+        "text": "You're supposed to call me grandpa.",
+        "startTime": 55541,
+        "endTime": 57056,
+        "slowStartTime": 83462,
+        "slowEndTime": 85809
+    }
+]

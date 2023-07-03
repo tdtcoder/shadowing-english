@@ -1,0 +1,170 @@
+[
+    {
+        "text": "A truck belonging to Google pulls up at the Stanford University Library near San Francisco...",
+        "startTime": 2300,
+        "endTime": 7750,
+        "slowStartTime": 3700,
+        "slowEndTime": 11900
+    },
+    {
+        "text": "...just before nine in the morning.",
+        "startTime": 8000,
+        "endTime": 9300,
+        "slowStartTime": 11900,
+        "slowEndTime": 14240
+    },
+    {
+        "text": "It's loaded with books that Google checked out and is now returning,...",
+        "startTime": 9750,
+        "endTime": 13650,
+        "slowStartTime": 14900,
+        "slowEndTime": 20650
+    },
+    {
+        "text": "...after having scanned them so they can be uploaded onto a computer.",
+        "startTime": 13850,
+        "endTime": 17450,
+        "slowStartTime": 20850,
+        "slowEndTime": 26100
+    },
+    {
+        "text": "Once the truck is empty, library workers load it up again,...",
+        "startTime": 20150,
+        "endTime": 23650,
+        "slowStartTime": 30500,
+        "slowEndTime": 35680
+    },
+    {
+        "text": "...with more books to digitize.",
+        "startTime": 23900,
+        "endTime": 25600,
+        "slowStartTime": 35900,
+        "slowEndTime": 38650
+    },
+    {
+        "text": "Google Books Director Daniel Clancy says the company's goal is to scan up to 40 million books.",
+        "startTime": 26150,
+        "endTime": 32800,
+        "slowStartTime": 39500,
+        "slowEndTime": 49500
+    },
+    {
+        "text": "Google said our mission is to organize all the world's information.",
+        "startTime": 33400,
+        "endTime": 37700,
+        "slowStartTime": 50400,
+        "slowEndTime": 56400
+    },
+    {
+        "text": "In addition to Stanford, the University of California in Berkeley...",
+        "startTime": 38550,
+        "endTime": 42300,
+        "slowStartTime": 58100,
+        "slowEndTime": 63530
+    },
+    {
+        "text": "...and the University of Michigan have signed agreements authorizing Google to scan their books.",
+        "startTime": 42400,
+        "endTime": 47400,
+        "slowStartTime": 63600,
+        "slowEndTime": 71400
+    },
+    {
+        "text": "Stanford Librarian Michael Keller says the initiative can give new life to obscure books.",
+        "startTime": 48000,
+        "endTime": 54100,
+        "slowStartTime": 72300,
+        "slowEndTime": 81300
+    },
+    {
+        "text": "What happens when you digitize these books and make them accessible on the net...",
+        "startTime": 54450,
+        "endTime": 58400,
+        "slowStartTime": 81900,
+        "slowEndTime": 87850
+    },
+    {
+        "text": "...is that they get a lot more use.",
+        "startTime": 58700,
+        "endTime": 60500,
+        "slowStartTime": 88100,
+        "slowEndTime": 91000
+    },
+    {
+        "text": "People can find the stuff 10 times more use than formerly was recorded.",
+        "startTime": 60700,
+        "endTime": 65050,
+        "slowStartTime": 91050,
+        "slowEndTime": 97700
+    },
+    {
+        "text": "Silicon Valley attorney Gary Reback represents the Open Book Alliance,...",
+        "startTime": 66050,
+        "endTime": 70350,
+        "slowStartTime": 99300,
+        "slowEndTime": 105700
+    },
+    {
+        "text": "...whose members include Microsoft and Amazon.com.",
+        "startTime": 70600,
+        "endTime": 73650,
+        "slowStartTime": 105800,
+        "slowEndTime": 110700
+    },
+    {
+        "text": "He warns that even though Google may start out by not charging for access to what it digitizes,...",
+        "startTime": 74050,
+        "endTime": 79300,
+        "slowStartTime": 111300,
+        "slowEndTime": 119175
+    },
+    {
+        "text": "...it may eventually impose big fees to use its online library.",
+        "startTime": 79550,
+        "endTime": 84300,
+        "slowStartTime": 119600,
+        "slowEndTime": 126700
+    },
+    {
+        "text": "It's not a public library, it's a private library.",
+        "startTime": 84700,
+        "endTime": 87600,
+        "slowStartTime": 127300,
+        "slowEndTime": 131700
+    },
+    {
+        "text": "And it's being run for profit, big profits.",
+        "startTime": 88050,
+        "endTime": 91200,
+        "slowStartTime": 132300,
+        "slowEndTime": 137000
+    },
+    {
+        "text": "Google is gonna charge university scholars, ordinary people,...",
+        "startTime": 91600,
+        "endTime": 96850,
+        "slowStartTime": 137700,
+        "slowEndTime": 145500
+    },
+    {
+        "text": "...even school children to get access to books that Google copied.",
+        "startTime": 97250,
+        "endTime": 103550,
+        "slowStartTime": 146100,
+        "slowEndTime": 155500
+    },
+    {
+        "text": "Digitizing current books whose copyright holders are known is not in dispute.",
+        "startTime": 103900,
+        "endTime": 108850,
+        "slowStartTime": 156200,
+        "slowEndTime": 163500
+    },
+    {
+        "text": "Neither is digitizing older books whose copyrights have expired.",
+        "startTime": 109250,
+        "endTime": 113000,
+        "slowStartTime": 164100,
+        "slowEndTime": 169700
+    }
+]

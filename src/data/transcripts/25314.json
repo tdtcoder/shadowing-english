@@ -1,0 +1,72 @@
+[
+    {
+        "text": "When your cable company keeps you on hold, you get angry.",
+        "startTime": 433,
+        "endTime": 3308,
+        "slowStartTime": 799,
+        "slowEndTime": 5187
+    },
+    {
+        "text": "When you get angry, you go blow off steam.",
+        "startTime": 3795,
+        "endTime": 6318,
+        "slowStartTime": 5843,
+        "slowEndTime": 9702
+    },
+    {
+        "text": "When you go blow off steam, accidents happen.",
+        "startTime": 7005,
+        "endTime": 9351,
+        "slowStartTime": 10657,
+        "slowEndTime": 14252
+    },
+    {
+        "text": "When accidents happen, you get an eyepatch.",
+        "startTime": 9975,
+        "endTime": 12207,
+        "slowStartTime": 15112,
+        "slowEndTime": 18535
+    },
+    {
+        "text": "When you get an eyepatch, people think you're tough.",
+        "startTime": 12945,
+        "endTime": 14975,
+        "slowStartTime": 19567,
+        "slowEndTime": 22688
+    },
+    {
+        "text": "When people think you're tough, people want to see how tough.",
+        "startTime": 15579,
+        "endTime": 18433,
+        "slowStartTime": 23518,
+        "slowEndTime": 27874
+    },
+    {
+        "text": "And when people want to see how tough, you wake up in a roadside ditch.",
+        "startTime": 18851,
+        "endTime": 22353,
+        "slowStartTime": 28427,
+        "slowEndTime": 33755
+    },
+    {
+        "text": "Don't wake up in a roadside ditch.",
+        "startTime": 22686,
+        "endTime": 24501,
+        "slowStartTime": 34179,
+        "slowEndTime": 36977
+    },
+    {
+        "text": "Get rid of cable and upgrade to DirecTV.",
+        "startTime": 24687,
+        "endTime": 27162,
+        "slowStartTime": 37180,
+        "slowEndTime": 40968
+    },
+    {
+        "text": "Call 1-800-DIRECTV.",
+        "startTime": 27795,
+        "endTime": 29499,
+        "slowStartTime": 41842,
+        "slowEndTime": 44474
+    }
+]

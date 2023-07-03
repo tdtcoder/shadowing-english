@@ -1,0 +1,44 @@
+[
+    {
+        "text": "What do you do, Rachel?",
+        "startTime": 455,
+        "endTime": 1749,
+        "slowStartTime": 832,
+        "slowEndTime": 2849
+    },
+    {
+        "text": "I'm a nurse.",
+        "startTime": 2451,
+        "endTime": 3247,
+        "slowStartTime": 3827,
+        "slowEndTime": 5095
+    },
+    {
+        "text": "What is your job?",
+        "startTime": 5626,
+        "endTime": 6827,
+        "slowStartTime": 8589,
+        "slowEndTime": 10465
+    },
+    {
+        "text": "I'm a teacher.",
+        "startTime": 7542,
+        "endTime": 8405,
+        "slowStartTime": 11463,
+        "slowEndTime": 12832
+    },
+    {
+        "text": "What is your job?",
+        "startTime": 8987,
+        "endTime": 9868,
+        "slowStartTime": 13630,
+        "slowEndTime": 15027
+    },
+    {
+        "text": "I'm a doctor.",
+        "startTime": 10773,
+        "endTime": 11930,
+        "slowStartTime": 16309,
+        "slowEndTime": 18120
+    }
+]

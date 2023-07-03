@@ -1,0 +1,51 @@
+[
+    {
+        "text": "﻿Where are my dragons?",
+        "startTime": 823,
+        "endTime": 2607,
+        "slowStartTime": 1384,
+        "slowEndTime": 4135
+    },
+    {
+        "text": "Where's my wig?",
+        "startTime": 6185,
+        "endTime": 7331,
+        "slowStartTime": 9427,
+        "slowEndTime": 11221
+    },
+    {
+        "text": "Where's the remote?",
+        "startTime": 10958,
+        "endTime": 11601,
+        "slowStartTime": 16587,
+        "slowEndTime": 17626
+    },
+    {
+        "text": "Justin, where are you now that I need you?",
+        "startTime": 11934,
+        "endTime": 15454,
+        "slowStartTime": 18051,
+        "slowEndTime": 23406
+    },
+    {
+        "text": "I mean, is it too much to say that you're sorry?",
+        "startTime": 16641,
+        "endTime": 19484,
+        "slowStartTime": 25112,
+        "slowEndTime": 29451
+    },
+    {
+        "text": "Where's my privacy?",
+        "startTime": 20044,
+        "endTime": 21142,
+        "slowStartTime": 30216,
+        "slowEndTime": 31938
+    },
+    {
+        "text": "Do you know what I mean? Bye.",
+        "startTime": 21538,
+        "endTime": 23037,
+        "slowStartTime": 32457,
+        "slowEndTime": 34781
+    }
+]

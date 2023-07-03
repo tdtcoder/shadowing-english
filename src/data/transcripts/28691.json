@@ -1,0 +1,72 @@
+[
+    {
+        "text": "In Israel, a young man who is suspected of making threatening calls to US Jewish community centers...",
+        "startTime": 3471,
+        "endTime": 9087,
+        "slowStartTime": 5357,
+        "slowEndTime": 13855
+    },
+    {
+        "text": "...also directed threats to Australia and New Zealand.",
+        "startTime": 9541,
+        "endTime": 12234,
+        "slowStartTime": 14461,
+        "slowEndTime": 18576
+    },
+    {
+        "text": "In France, presidential candidates Emmanuel Macron and Marine Le Pen appear tied in polls,...",
+        "startTime": 20135,
+        "endTime": 25974,
+        "slowStartTime": 30353,
+        "slowEndTime": 39186
+    },
+    {
+        "text": "...but uncertainty remains towards the election outcome.",
+        "startTime": 26375,
+        "endTime": 29273,
+        "slowStartTime": 39713,
+        "slowEndTime": 44135
+    },
+    {
+        "text": "In Iraq, children who were caught in the crossfires of the Mosul battle...",
+        "startTime": 35454,
+        "endTime": 39439,
+        "slowStartTime": 53331,
+        "slowEndTime": 59384
+    },
+    {
+        "text": "...were rushed to the hospital.",
+        "startTime": 39795,
+        "endTime": 41188,
+        "slowStartTime": 59843,
+        "slowEndTime": 62007
+    },
+    {
+        "text": "In Afghanistan, due to growing insecurity and shrinking international funding,...",
+        "startTime": 43811,
+        "endTime": 47913,
+        "slowStartTime": 65866,
+        "slowEndTime": 72095
+    },
+    {
+        "text": "...nearly one in three children will miss school.",
+        "startTime": 48327,
+        "endTime": 50615,
+        "slowStartTime": 72640,
+        "slowEndTime": 76148
+    },
+    {
+        "text": "And finally from Nigeria,...",
+        "startTime": 55251,
+        "endTime": 56569,
+        "slowStartTime": 83026,
+        "slowEndTime": 85078
+    },
+    {
+        "text": "...162 Nigerians were deported from Libya in a continuing crackdown.",
+        "startTime": 56891,
+        "endTime": 61793,
+        "slowStartTime": 85487,
+        "slowEndTime": 92914
+    }
+]

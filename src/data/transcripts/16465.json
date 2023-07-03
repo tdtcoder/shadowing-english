@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Tell me I'm beautiful.",
+        "startTime": 1869,
+        "endTime": 2739,
+        "slowStartTime": 2954,
+        "slowEndTime": 4333
+    },
+    {
+        "text": "Tell me we'll grow old together.",
+        "startTime": 3682,
+        "endTime": 5369,
+        "slowStartTime": 5673,
+        "slowEndTime": 8279
+    },
+    {
+        "text": "Tell me that I'm still the one.",
+        "startTime": 5921,
+        "endTime": 8849,
+        "slowStartTime": 9032,
+        "slowEndTime": 13499
+    },
+    {
+        "text": "That you need me.",
+        "startTime": 9597,
+        "endTime": 10249,
+        "slowStartTime": 14545,
+        "slowEndTime": 15598
+    },
+    {
+        "text": "That I'm your superhero.",
+        "startTime": 11283,
+        "endTime": 12989,
+        "slowStartTime": 17075,
+        "slowEndTime": 19708
+    },
+    {
+        "text": "Tell me you'll never let me go.",
+        "startTime": 14287,
+        "endTime": 15501,
+        "slowStartTime": 21581,
+        "slowEndTime": 23476
+    },
+    {
+        "text": "Tell me you miss me.",
+        "startTime": 16385,
+        "endTime": 17487,
+        "slowStartTime": 24727,
+        "slowEndTime": 26455
+    },
+    {
+        "text": "Tell me you love me.",
+        "startTime": 18561,
+        "endTime": 19547,
+        "slowStartTime": 27991,
+        "slowEndTime": 29546
+    },
+    {
+        "text": "It's all I want to hear.",
+        "startTime": 21318,
+        "endTime": 22456,
+        "slowStartTime": 32127,
+        "slowEndTime": 33909
+    },
+    {
+        "text": "Everyone has something they need to hear.",
+        "startTime": 23578,
+        "endTime": 25443,
+        "slowStartTime": 35517,
+        "slowEndTime": 38390
+    },
+    {
+        "text": "Vow to tell them this Valentine's Day.",
+        "startTime": 25935,
+        "endTime": 27847,
+        "slowStartTime": 39052,
+        "slowEndTime": 41995
+    }
+]

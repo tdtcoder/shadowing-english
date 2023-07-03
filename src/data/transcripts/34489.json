@@ -1,0 +1,156 @@
+[
+    {
+        "text": "Good morning.",
+        "startTime": 7393,
+        "endTime": 7979,
+        "slowStartTime": 11239,
+        "slowEndTime": 12194
+    },
+    {
+        "text": "It's seven thirty.",
+        "startTime": 8060,
+        "endTime": 8944,
+        "slowStartTime": 12240,
+        "slowEndTime": 13641
+    },
+    {
+        "text": "I'm Gary Fenton.",
+        "startTime": 9094,
+        "endTime": 10075,
+        "slowStartTime": 13791,
+        "slowEndTime": 15337
+    },
+    {
+        "text": "Here is the news.",
+        "startTime": 10267,
+        "endTime": 11180,
+        "slowStartTime": 15550,
+        "slowEndTime": 16995
+    },
+    {
+        "text": "The Prime Minister is in the United States today...",
+        "startTime": 12207,
+        "endTime": 14693,
+        "slowStartTime": 18461,
+        "slowEndTime": 22265
+    },
+    {
+        "text": "...for talks with the American president at the White House.",
+        "startTime": 14822,
+        "endTime": 17383,
+        "slowStartTime": 22383,
+        "slowEndTime": 26299
+    },
+    {
+        "text": "The talks are very important for British and American.",
+        "startTime": 18320,
+        "endTime": 20602,
+        "slowStartTime": 27630,
+        "slowEndTime": 31128
+    },
+    {
+        "text": "Look at the time!",
+        "startTime": 20731,
+        "endTime": 21855,
+        "slowStartTime": 31247,
+        "slowEndTime": 33008
+    },
+    {
+        "text": "Julia!",
+        "startTime": 23339,
+        "endTime": 24210,
+        "slowStartTime": 35159,
+        "slowEndTime": 36540
+    },
+    {
+        "text": "It's half past seven.",
+        "startTime": 25415,
+        "endTime": 26757,
+        "slowStartTime": 38272,
+        "slowEndTime": 40361
+    },
+    {
+        "text": "Your train's at quarter to eight.",
+        "startTime": 26841,
+        "endTime": 28525,
+        "slowStartTime": 40411,
+        "slowEndTime": 43012
+    },
+    {
+        "text": "Coming.",
+        "startTime": 28751,
+        "endTime": 29555,
+        "slowStartTime": 43277,
+        "slowEndTime": 44557
+    },
+    {
+        "text": "Is this OK?",
+        "startTime": 34956,
+        "endTime": 35925,
+        "slowStartTime": 52584,
+        "slowEndTime": 54113
+    },
+    {
+        "text": "Lovely, dear.",
+        "startTime": 38264,
+        "endTime": 39143,
+        "slowStartTime": 57546,
+        "slowEndTime": 58939
+    },
+    {
+        "text": "Well, good luck.",
+        "startTime": 39974,
+        "endTime": 41128,
+        "slowStartTime": 60111,
+        "slowEndTime": 61917
+    },
+    {
+        "text": "Thanks, Mum.",
+        "startTime": 42314,
+        "endTime": 43140,
+        "slowStartTime": 63621,
+        "slowEndTime": 64935
+    },
+    {
+        "text": "Bye, Dad.",
+        "startTime": 43728,
+        "endTime": 44613,
+        "slowStartTime": 65742,
+        "slowEndTime": 67144
+    },
+    {
+        "text": "Bye, love.",
+        "startTime": 44878,
+        "endTime": 45741,
+        "slowStartTime": 67467,
+        "slowEndTime": 68837
+    },
+    {
+        "text": "Colin. It's her first day today.",
+        "startTime": 46049,
+        "endTime": 49220,
+        "slowStartTime": 69224,
+        "slowEndTime": 74055
+    },
+    {
+        "text": "What? Oh yes.",
+        "startTime": 49869,
+        "endTime": 53047,
+        "slowStartTime": 74954,
+        "slowEndTime": 79795
+    },
+    {
+        "text": "Thanks, Dad.",
+        "startTime": 56253,
+        "endTime": 57089,
+        "slowStartTime": 84530,
+        "slowEndTime": 85858
+    },
+    {
+        "text": "Bye.",
+        "startTime": 58123,
+        "endTime": 59043,
+        "slowStartTime": 87334,
+        "slowEndTime": 88789
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "text": "This is the truth.",
+        "startTime": 280,
+        "endTime": 1190,
+        "slowStartTime": 570,
+        "slowEndTime": 2010
+    },
+    {
+        "text": "I'm not the best.",
+        "startTime": 2860,
+        "endTime": 3850,
+        "slowStartTime": 4440,
+        "slowEndTime": 6000
+    },
+    {
+        "text": "Not the greatest of all time.",
+        "startTime": 5410,
+        "endTime": 6770,
+        "slowStartTime": 8260,
+        "slowEndTime": 10380
+    },
+    {
+        "text": "I'm not here to shout, boast, or preach.",
+        "startTime": 7770,
+        "endTime": 10410,
+        "slowStartTime": 11800,
+        "slowEndTime": 15890
+    },
+    {
+        "text": "I'm not the second coming.",
+        "startTime": 13640,
+        "endTime": 14770,
+        "slowStartTime": 20610,
+        "slowEndTime": 22380
+    },
+    {
+        "text": "I'm not there yet, but...",
+        "startTime": 15530,
+        "endTime": 17940,
+        "slowStartTime": 23440,
+        "slowEndTime": 27130
+    },
+    {
+        "text": "...I'm runnin' up on you.",
+        "startTime": 20780,
+        "endTime": 21700,
+        "slowStartTime": 31330,
+        "slowEndTime": 32780
+    },
+    {
+        "text": "I'm fast because I'm light.",
+        "startTime": 24550,
+        "endTime": 26110,
+        "slowStartTime": 36970,
+        "slowEndTime": 39390
+    },
+    {
+        "text": "I'm D. Rose and fast don't lie.",
+        "startTime": 26600,
+        "endTime": 28950,
+        "slowStartTime": 40050,
+        "slowEndTime": 43660
+    }
+]

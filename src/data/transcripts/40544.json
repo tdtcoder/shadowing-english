@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Hello, friends.",
+        "startTime": 495,
+        "endTime": 1437,
+        "slowStartTime": 892,
+        "slowEndTime": 2381
+    },
+    {
+        "text": "Today, we'll learn about the Stone Age.",
+        "startTime": 1693,
+        "endTime": 4281,
+        "slowStartTime": 2690,
+        "slowEndTime": 6646
+    },
+    {
+        "text": "The Stone Age is a very ancient period of human history...",
+        "startTime": 4601,
+        "endTime": 8103,
+        "slowStartTime": 7052,
+        "slowEndTime": 12379
+    },
+    {
+        "text": "...when people used weapons and tools made of stone.",
+        "startTime": 8409,
+        "endTime": 11947,
+        "slowStartTime": 12764,
+        "slowEndTime": 18145
+    },
+    {
+        "text": "The Stone Age is a period of history in which humans used primitive stone tools.",
+        "startTime": 12591,
+        "endTime": 18421,
+        "slowStartTime": 19037,
+        "slowEndTime": 27857
+    },
+    {
+        "text": "Lasting about two and a half million years,...",
+        "startTime": 18691,
+        "endTime": 21027,
+        "slowStartTime": 28187,
+        "slowEndTime": 31766
+    },
+    {
+        "text": "...the Stone Age ended approximately 5,000 years ago...",
+        "startTime": 21300,
+        "endTime": 24817,
+        "slowStartTime": 32100,
+        "slowEndTime": 37451
+    },
+    {
+        "text": "...when humans in the Near East began working with metal.",
+        "startTime": 25090,
+        "endTime": 28500,
+        "slowStartTime": 37785,
+        "slowEndTime": 42975
+    },
+    {
+        "text": "This age is the first period of human history,...",
+        "startTime": 29161,
+        "endTime": 32349,
+        "slowStartTime": 43892,
+        "slowEndTime": 48748
+    },
+    {
+        "text": "...so people from the Stone Age were the first to create clothing.",
+        "startTime": 32600,
+        "endTime": 36465,
+        "slowStartTime": 49050,
+        "slowEndTime": 54923
+    },
+    {
+        "text": "People wore clothes made of animal skins during the winter months,...",
+        "startTime": 36952,
+        "endTime": 41168,
+        "slowStartTime": 55578,
+        "slowEndTime": 61977
+    },
+    {
+        "text": "...and clothes built from grass and bark of trees during the summers.",
+        "startTime": 41429,
+        "endTime": 45798,
+        "slowStartTime": 62293,
+        "slowEndTime": 68922
+    }
+]

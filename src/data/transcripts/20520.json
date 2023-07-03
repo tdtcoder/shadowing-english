@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Hi Susan, mind if I join you?",
+        "startTime": 1173,
+        "endTime": 2677,
+        "slowStartTime": 1909,
+        "slowEndTime": 4240
+    },
+    {
+        "text": "No.",
+        "startTime": 3631,
+        "endTime": 4213,
+        "slowStartTime": 5596,
+        "slowEndTime": 6544
+    },
+    {
+        "text": "Do I know you?",
+        "startTime": 5504,
+        "endTime": 6259,
+        "slowStartTime": 8406,
+        "slowEndTime": 9614
+    },
+    {
+        "text": "I'm Brian, IT Brian.",
+        "startTime": 6511,
+        "endTime": 8094,
+        "slowStartTime": 9917,
+        "slowEndTime": 12366
+    },
+    {
+        "text": "Oh right, IT Brian.",
+        "startTime": 8328,
+        "endTime": 10610,
+        "slowStartTime": 12642,
+        "slowEndTime": 16140
+    },
+    {
+        "text": "Many times, I've been wanting to ask you out for a long time now.",
+        "startTime": 14932,
+        "endTime": 19989,
+        "slowStartTime": 22548,
+        "slowEndTime": 30209
+    },
+    {
+        "text": "Rebecca in HR gave me your number, and I don't think you have mine.",
+        "startTime": 20621,
+        "endTime": 24531,
+        "slowStartTime": 31081,
+        "slowEndTime": 37022
+    },
+    {
+        "text": "Now you do.",
+        "startTime": 24649,
+        "endTime": 25456,
+        "slowStartTime": 37123,
+        "slowEndTime": 38409
+    },
+    {
+        "text": "You love me?",
+        "startTime": 27317,
+        "endTime": 28505,
+        "slowStartTime": 41126,
+        "slowEndTime": 42982
+    },
+    {
+        "text": "This is making me very uncomfortable.",
+        "startTime": 30589,
+        "endTime": 32009,
+        "slowStartTime": 46034,
+        "slowEndTime": 48238
+    },
+    {
+        "text": "I'm sorry.",
+        "startTime": 32100,
+        "endTime": 32954,
+        "slowStartTime": 48300,
+        "slowEndTime": 49656
+    },
+    {
+        "text": "I'm sorry.",
+        "startTime": 34757,
+        "endTime": 35651,
+        "slowStartTime": 52285,
+        "slowEndTime": 53702
+    },
+    {
+        "text": "Keep the night of the 13th open.",
+        "startTime": 39652,
+        "endTime": 41801,
+        "slowStartTime": 59628,
+        "slowEndTime": 62927
+    },
+    {
+        "text": "Why?",
+        "startTime": 42234,
+        "endTime": 42808,
+        "slowStartTime": 63501,
+        "slowEndTime": 64437
+    },
+    {
+        "text": "For our parents to meet.",
+        "startTime": 43126,
+        "endTime": 44051,
+        "slowStartTime": 64839,
+        "slowEndTime": 66302
+    },
+    {
+        "text": "We'll show them our new apartment.",
+        "startTime": 45475,
+        "endTime": 46863,
+        "slowStartTime": 68363,
+        "slowEndTime": 70520
+    },
+    {
+        "text": "Here's your key.",
+        "startTime": 47799,
+        "endTime": 48557,
+        "slowStartTime": 71849,
+        "slowEndTime": 73060
+    }
+]

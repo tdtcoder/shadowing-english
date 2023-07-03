@@ -1,0 +1,163 @@
+[
+    {
+        "text": "What's your name?",
+        "startTime": 419,
+        "endTime": 1042,
+        "slowStartTime": 778,
+        "slowEndTime": 1788
+    },
+    {
+        "text": "I'm Anna Sarah.",
+        "startTime": 1325,
+        "endTime": 2245,
+        "slowStartTime": 2137,
+        "slowEndTime": 3593
+    },
+    {
+        "text": "How is that spelled?",
+        "startTime": 2724,
+        "endTime": 3503,
+        "slowStartTime": 4236,
+        "slowEndTime": 5480
+    },
+    {
+        "text": "A, N, N, A, S, A, R, A, H",
+        "startTime": 3864,
+        "endTime": 7327,
+        "slowStartTime": 5946,
+        "slowEndTime": 11215
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 8323,
+        "endTime": 8952,
+        "slowStartTime": 12635,
+        "slowEndTime": 13653
+    },
+    {
+        "text": "Shelli.",
+        "startTime": 9295,
+        "endTime": 9787,
+        "slowStartTime": 14093,
+        "slowEndTime": 14906
+    },
+    {
+        "text": "How is that spelled?",
+        "startTime": 10617,
+        "endTime": 11554,
+        "slowStartTime": 16075,
+        "slowEndTime": 17556
+    },
+    {
+        "text": "S, H, E, L, L, I",
+        "startTime": 11826,
+        "endTime": 14733,
+        "slowStartTime": 17889,
+        "slowEndTime": 22325
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 15195,
+        "endTime": 15891,
+        "slowStartTime": 22942,
+        "slowEndTime": 24062
+    },
+    {
+        "text": "My name is Joe.",
+        "startTime": 16257,
+        "endTime": 16935,
+        "slowStartTime": 24535,
+        "slowEndTime": 25627
+    },
+    {
+        "text": "How is that spelled?",
+        "startTime": 17558,
+        "endTime": 18371,
+        "slowStartTime": 26487,
+        "slowEndTime": 27781
+    },
+    {
+        "text": "J, O, E",
+        "startTime": 18901,
+        "endTime": 20403,
+        "slowStartTime": 28502,
+        "slowEndTime": 30830
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 21461,
+        "endTime": 22385,
+        "slowStartTime": 32341,
+        "slowEndTime": 33802
+    },
+    {
+        "text": "My name is Beth.",
+        "startTime": 22650,
+        "endTime": 23682,
+        "slowStartTime": 34125,
+        "slowEndTime": 35748
+    },
+    {
+        "text": "How is that spelled?",
+        "startTime": 24352,
+        "endTime": 25046,
+        "slowStartTime": 36678,
+        "slowEndTime": 37794
+    },
+    {
+        "text": "B, E, T, H",
+        "startTime": 25476,
+        "endTime": 27349,
+        "slowStartTime": 38364,
+        "slowEndTime": 41248
+    },
+    {
+        "text": "Are they younger or older?",
+        "startTime": 29825,
+        "endTime": 31145,
+        "slowStartTime": 44888,
+        "slowEndTime": 46943
+    },
+    {
+        "text": "They're both younger, so I'm the oldest of the family...",
+        "startTime": 31308,
+        "endTime": 34243,
+        "slowStartTime": 47112,
+        "slowEndTime": 51589
+    },
+    {
+        "text": "...and then there's Teagan who's the middle child.",
+        "startTime": 34311,
+        "endTime": 37614,
+        "slowStartTime": 51616,
+        "slowEndTime": 56646
+    },
+    {
+        "text": "And then Sophie who is the youngest...",
+        "startTime": 37831,
+        "endTime": 41206,
+        "slowStartTime": 56897,
+        "slowEndTime": 62034
+    },
+    {
+        "text": "...but she's the tallest of the family, too, so she's amazing at sport.",
+        "startTime": 41334,
+        "endTime": 45381,
+        "slowStartTime": 62151,
+        "slowEndTime": 68296
+    },
+    {
+        "text": "I bet you're the loudest, though.",
+        "startTime": 45746,
+        "endTime": 46749,
+        "slowStartTime": 68769,
+        "slowEndTime": 70349
+    },
+    {
+        "text": "Yeah, I am.",
+        "startTime": 47930,
+        "endTime": 48670,
+        "slowStartTime": 72045,
+        "slowEndTime": 73230
+    }
+]

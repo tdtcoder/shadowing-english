@@ -1,0 +1,72 @@
+[
+    {
+        "text": "In Yemen, at least 46 people are dead after two suicide bombings...",
+        "startTime": 3086,
+        "endTime": 7255,
+        "slowStartTime": 4779,
+        "slowEndTime": 11107
+    },
+    {
+        "text": "...at mosques in the capital Sanaa.",
+        "startTime": 7352,
+        "endTime": 9297,
+        "slowStartTime": 11178,
+        "slowEndTime": 14171
+    },
+    {
+        "text": "In Afghanistan, a mob beats a woman to death before burning her body...",
+        "startTime": 12231,
+        "endTime": 16431,
+        "slowStartTime": 18496,
+        "slowEndTime": 24871
+    },
+    {
+        "text": "...and tossing it into a river for allegedly setting a Quran on fire.",
+        "startTime": 16510,
+        "endTime": 20807,
+        "slowStartTime": 24915,
+        "slowEndTime": 31436
+    },
+    {
+        "text": "In India, 15 people are dead after three cars from a train derail...",
+        "startTime": 25311,
+        "endTime": 29444,
+        "slowStartTime": 38117,
+        "slowEndTime": 44391
+    },
+    {
+        "text": "...in Uttar Pradesh state.",
+        "startTime": 29667,
+        "endTime": 30919,
+        "slowStartTime": 44650,
+        "slowEndTime": 46603
+    },
+    {
+        "text": "In the US, President Barack Obama sends greetings to Iranians for Persian New Year,...",
+        "startTime": 35309,
+        "endTime": 40118,
+        "slowStartTime": 53113,
+        "slowEndTime": 60402
+    },
+    {
+        "text": "...urging progress on a nuclear deal.",
+        "startTime": 40571,
+        "endTime": 42512,
+        "slowStartTime": 61007,
+        "slowEndTime": 63993
+    },
+    {
+        "text": "And finally from Myanmar, the first round-the-world solar flight ends its third leg...",
+        "startTime": 46430,
+        "endTime": 51295,
+        "slowStartTime": 69795,
+        "slowEndTime": 77167
+    },
+    {
+        "text": "...in Myanmar's Mandalay International Airport.",
+        "startTime": 51452,
+        "endTime": 54033,
+        "slowStartTime": 77328,
+        "slowEndTime": 81274
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "text": "Hi! My name is Eggy.",
+        "startTime": 611,
+        "endTime": 2429,
+        "slowStartTime": 1067,
+        "slowEndTime": 3869
+    },
+    {
+        "text": "Let me tell you about an amazing day I had.",
+        "startTime": 3072,
+        "endTime": 6003,
+        "slowStartTime": 4758,
+        "slowEndTime": 9230
+    },
+    {
+        "text": "I saw lots of amazing things.",
+        "startTime": 6690,
+        "endTime": 8867,
+        "slowStartTime": 10185,
+        "slowEndTime": 13525
+    },
+    {
+        "text": "Do you want to know what happened?",
+        "startTime": 9635,
+        "endTime": 10974,
+        "slowStartTime": 14602,
+        "slowEndTime": 16686
+    },
+    {
+        "text": "Really? ",
+        "startTime": 11644,
+        "endTime": 12331,
+        "slowStartTime": 17616,
+        "slowEndTime": 18721
+    },
+    {
+        "text": "Do you? ",
+        "startTime": 12691,
+        "endTime": 13437,
+        "slowStartTime": 19186,
+        "slowEndTime": 20380
+    },
+    {
+        "text": "Okay.",
+        "startTime": 13796,
+        "endTime": 14481,
+        "slowStartTime": 20844,
+        "slowEndTime": 21947
+    },
+    {
+        "text": "Well, first,...",
+        "startTime": 14775,
+        "endTime": 16322,
+        "slowStartTime": 22313,
+        "slowEndTime": 24708
+    },
+    {
+        "text": "I saw a cat.",
+        "startTime": 18191,
+        "endTime": 19306,
+        "slowStartTime": 27436,
+        "slowEndTime": 29184
+    },
+    {
+        "text": "I saw a bat.",
+        "startTime": 20475,
+        "endTime": 21625,
+        "slowStartTime": 30863,
+        "slowEndTime": 32662
+    },
+    {
+        "text": "I saw that cat and I saw that bat sit on a mat.",
+        "startTime": 22955,
+        "endTime": 28321,
+        "slowStartTime": 34583,
+        "slowEndTime": 42707
+    },
+    {
+        "text": "I saw a frog.",
+        "startTime": 29956,
+        "endTime": 31055,
+        "slowStartTime": 45084,
+        "slowEndTime": 46808
+    },
+    {
+        "text": "I saw a dog.",
+        "startTime": 32201,
+        "endTime": 33347,
+        "slowStartTime": 48452,
+        "slowEndTime": 50246
+    },
+    {
+        "text": "I saw that frog and I saw that dog dance on a log.",
+        "startTime": 34351,
+        "endTime": 39740,
+        "slowStartTime": 51677,
+        "slowEndTime": 59835
+    },
+    {
+        "text": "I saw a bear.",
+        "startTime": 40647,
+        "endTime": 41863,
+        "slowStartTime": 61121,
+        "slowEndTime": 63020
+    },
+    {
+        "text": "I saw a chair.",
+        "startTime": 42939,
+        "endTime": 44038,
+        "slowStartTime": 64559,
+        "slowEndTime": 66282
+    },
+    {
+        "text": "I saw that bear sit on that chair.",
+        "startTime": 45033,
+        "endTime": 48437,
+        "slowStartTime": 67700,
+        "slowEndTime": 72881
+    },
+    {
+        "text": "What did I see today?",
+        "startTime": 49482,
+        "endTime": 50762,
+        "slowStartTime": 74373,
+        "slowEndTime": 76368
+    },
+    {
+        "text": "Well, I saw a cat and a bat on a mat,...",
+        "startTime": 51204,
+        "endTime": 55399,
+        "slowStartTime": 76956,
+        "slowEndTime": 83324
+    },
+    {
+        "text": "...a dog and a frog on a log,...",
+        "startTime": 56459,
+        "endTime": 58593,
+        "slowStartTime": 84839,
+        "slowEndTime": 88115
+    },
+    {
+        "text": "...a bear on a chair.",
+        "startTime": 59577,
+        "endTime": 60984,
+        "slowStartTime": 89515,
+        "slowEndTime": 91701
+    },
+    {
+        "text": "Thanks for listening.",
+        "startTime": 61521,
+        "endTime": 62475,
+        "slowStartTime": 92432,
+        "slowEndTime": 93938
+    },
+    {
+        "text": "It was an amazing day.",
+        "startTime": 62831,
+        "endTime": 64811,
+        "slowStartTime": 94397,
+        "slowEndTime": 97441
+    },
+    {
+        "text": "Bye!",
+        "startTime": 65087,
+        "endTime": 65906,
+        "slowStartTime": 97781,
+        "slowEndTime": 99084
+    }
+]

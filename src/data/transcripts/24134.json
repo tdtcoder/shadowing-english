@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Everyone loves a good combination.",
+        "startTime": 2759,
+        "endTime": 4843,
+        "slowStartTime": 4288,
+        "slowEndTime": 7489
+    },
+    {
+        "text": "New York City is home to one breakfast treat...",
+        "startTime": 5375,
+        "endTime": 7409,
+        "slowStartTime": 8212,
+        "slowEndTime": 11338
+    },
+    {
+        "text": "...that combines two popular goodies in one tasty menu item.",
+        "startTime": 7483,
+        "endTime": 10960,
+        "slowStartTime": 11374,
+        "slowEndTime": 16665
+    },
+    {
+        "text": "Called the cronut, it is essentially a croissant and donut.",
+        "startTime": 11615,
+        "endTime": 14783,
+        "slowStartTime": 17572,
+        "slowEndTime": 22400
+    },
+    {
+        "text": "The owner of the Dominique Ansel Bakery is responsible for the cronut's debut.",
+        "startTime": 15020,
+        "endTime": 19237,
+        "slowStartTime": 22680,
+        "slowEndTime": 29080
+    },
+    {
+        "text": "Shaped like a standard donut, it is comprised of several layers of croissant dough,...",
+        "startTime": 19819,
+        "endTime": 23922,
+        "slowStartTime": 29878,
+        "slowEndTime": 36108
+    },
+    {
+        "text": "...which are deep-fried and stuffed with vanilla cream.",
+        "startTime": 24073,
+        "endTime": 26696,
+        "slowStartTime": 36259,
+        "slowEndTime": 40269
+    },
+    {
+        "text": "The outer shell is warm and crunchy while the inside layers are soft and airy.",
+        "startTime": 27278,
+        "endTime": 31609,
+        "slowStartTime": 41067,
+        "slowEndTime": 47638
+    },
+    {
+        "text": "To finish off the masterpiece,...",
+        "startTime": 32173,
+        "endTime": 33667,
+        "slowStartTime": 48410,
+        "slowEndTime": 50726
+    },
+    {
+        "text": "...bakery workers roll the cronut in rose sugar and cover it in a glaze.",
+        "startTime": 33788,
+        "endTime": 37919,
+        "slowStartTime": 50832,
+        "slowEndTime": 57104
+    }
+]

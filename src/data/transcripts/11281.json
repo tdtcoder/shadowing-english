@@ -1,0 +1,170 @@
+[
+    {
+        "text": "Go into a room with a mirror.",
+        "startTime": 2350,
+        "endTime": 4150,
+        "slowStartTime": 3750,
+        "slowEndTime": 6450
+    },
+    {
+        "text": "Turn off all the lights.",
+        "startTime": 4600,
+        "endTime": 5900,
+        "slowStartTime": 7100,
+        "slowEndTime": 9100
+    },
+    {
+        "text": "Light a candle, look into the mirror, and start chanting \"Bloody Mary.\"",
+        "startTime": 6350,
+        "endTime": 10750,
+        "slowStartTime": 9700,
+        "slowEndTime": 16400
+    },
+    {
+        "text": "Say this spooky phrase thirteen times,...",
+        "startTime": 11300,
+        "endTime": 13750,
+        "slowStartTime": 17150,
+        "slowEndTime": 20900
+    },
+    {
+        "text": "...and the image of Bloody Mary will appear in the mirror!",
+        "startTime": 14100,
+        "endTime": 17100,
+        "slowStartTime": 21350,
+        "slowEndTime": 25900
+    },
+    {
+        "text": "She will be standing behind you, over your left shoulder!",
+        "startTime": 17850,
+        "endTime": 20750,
+        "slowStartTime": 27000,
+        "slowEndTime": 31400
+    },
+    {
+        "text": "But beware: Bloody Mary has surprises waiting for those who call her.",
+        "startTime": 21350,
+        "endTime": 25950,
+        "slowStartTime": 32250,
+        "slowEndTime": 39150
+    },
+    {
+        "text": "She sometimes kills the caller.",
+        "startTime": 26600,
+        "endTime": 28450,
+        "slowStartTime": 40050,
+        "slowEndTime": 42950
+    },
+    {
+        "text": "Other times, she scratches out his or her eyes.",
+        "startTime": 29000,
+        "endTime": 31800,
+        "slowStartTime": 43700,
+        "slowEndTime": 47950
+    },
+    {
+        "text": "She can drive the person crazy.",
+        "startTime": 32200,
+        "endTime": 33900,
+        "slowStartTime": 48500,
+        "slowEndTime": 51100
+    },
+    {
+        "text": "Sometimes, she grabs people and pulls them into the mirror with her!",
+        "startTime": 34450,
+        "endTime": 38100,
+        "slowStartTime": 51850,
+        "slowEndTime": 57400
+    },
+    {
+        "text": "The urban legend of Bloody Mary has been around for generations.",
+        "startTime": 38950,
+        "endTime": 42550,
+        "slowStartTime": 58650,
+        "slowEndTime": 64050
+    },
+    {
+        "text": "School kids all around the world have entered dark bathrooms to try this game.",
+        "startTime": 43050,
+        "endTime": 47400,
+        "slowStartTime": 64800,
+        "slowEndTime": 71350
+    },
+    {
+        "text": "Many run away in fright as they say \"Bloody Mary\" for the thirteenth time.",
+        "startTime": 48100,
+        "endTime": 52500,
+        "slowStartTime": 72400,
+        "slowEndTime": 79000
+    },
+    {
+        "text": "In 1978, folklorist Janet Langlois became interested in the legend.",
+        "startTime": 53350,
+        "endTime": 58250,
+        "slowStartTime": 80250,
+        "slowEndTime": 87650
+    },
+    {
+        "text": "At that time, the legend was already widespread around the United States.",
+        "startTime": 58800,
+        "endTime": 63100,
+        "slowStartTime": 88350,
+        "slowEndTime": 94850
+    },
+    {
+        "text": "Langlois visited a Catholic girls' school and interviewed eighty students.",
+        "startTime": 63600,
+        "endTime": 67350,
+        "slowStartTime": 95600,
+        "slowEndTime": 101300
+    },
+    {
+        "text": "She compared their stories and determined that the story of Bloody Mary...",
+        "startTime": 67900,
+        "endTime": 71350,
+        "slowStartTime": 102050,
+        "slowEndTime": 107250
+    },
+    {
+        "text": "...might come from an old legend about the crying ghost of a woman...",
+        "startTime": 71650,
+        "endTime": 75100,
+        "slowStartTime": 107650,
+        "slowEndTime": 112900
+    },
+    {
+        "text": "...who eternally searches for her murdered children.",
+        "startTime": 75400,
+        "endTime": 77800,
+        "slowStartTime": 113300,
+        "slowEndTime": 116950
+    },
+    {
+        "text": "However, no one really knows who Mary may have been.",
+        "startTime": 78350,
+        "endTime": 81500,
+        "slowStartTime": 117750,
+        "slowEndTime": 122500
+    },
+    {
+        "text": "The Bloody Mary legend is renewed with each generation of daring adolescents.",
+        "startTime": 82300,
+        "endTime": 86750,
+        "slowStartTime": 123600,
+        "slowEndTime": 130400
+    },
+    {
+        "text": "Generations from now,...",
+        "startTime": 87350,
+        "endTime": 88450,
+        "slowStartTime": 131200,
+        "slowEndTime": 132900
+    },
+    {
+        "text": "...school children will probably still be scaring themselves with this timeless, terrifying legend.",
+        "startTime": 88750,
+        "endTime": 93650,
+        "slowStartTime": 133300,
+        "slowEndTime": 140750
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "text": "I can't wait until my car gets fixed!",
+        "startTime": 2404,
+        "endTime": 4569,
+        "slowStartTime": 3756,
+        "slowEndTime": 7079
+    },
+    {
+        "text": "Didn't you say it's convenient to take the subway to work?",
+        "startTime": 5163,
+        "endTime": 7687,
+        "slowStartTime": 7894,
+        "slowEndTime": 11756
+    },
+    {
+        "text": "With all due respect, Oyon, I beg to differ.",
+        "startTime": 8058,
+        "endTime": 10691,
+        "slowStartTime": 12237,
+        "slowEndTime": 16261
+    },
+    {
+        "text": "First of all, it takes 2 hours for me to get to work!",
+        "startTime": 11046,
+        "endTime": 14189,
+        "slowStartTime": 16719,
+        "slowEndTime": 21508
+    },
+    {
+        "text": "That's 4 hours of my precious time going down the drain, every morning and evening.",
+        "startTime": 14732,
+        "endTime": 19872,
+        "slowStartTime": 22248,
+        "slowEndTime": 30033
+    },
+    {
+        "text": "Second of all, there are so many people on the subway!",
+        "startTime": 20353,
+        "endTime": 23187,
+        "slowStartTime": 30679,
+        "slowEndTime": 35006
+    },
+    {
+        "text": "Why is it always so crowded?",
+        "startTime": 23547,
+        "endTime": 25023,
+        "slowStartTime": 35470,
+        "slowEndTime": 37759
+    },
+    {
+        "text": "No privacy at all, either.",
+        "startTime": 25241,
+        "endTime": 26659,
+        "slowStartTime": 38011,
+        "slowEndTime": 40213
+    },
+    {
+        "text": "People talk so loud on their cell phones, it's incredible.",
+        "startTime": 27217,
+        "endTime": 30387,
+        "slowStartTime": 40976,
+        "slowEndTime": 45806
+    },
+    {
+        "text": "I respect what you said, but I still think you're better off on the subway than behind the wheel.",
+        "startTime": 31470,
+        "endTime": 36344,
+        "slowStartTime": 47355,
+        "slowEndTime": 54741
+    },
+    {
+        "text": "First of all, you can use those 4 hours of time to do something useful.",
+        "startTime": 36817,
+        "endTime": 41185,
+        "slowStartTime": 55375,
+        "slowEndTime": 62002
+    },
+    {
+        "text": "You can read books or the newspaper,...",
+        "startTime": 41681,
+        "endTime": 43646,
+        "slowStartTime": 62671,
+        "slowEndTime": 65694
+    },
+    {
+        "text": "...or you can even take a nap if you have a seat.",
+        "startTime": 43981,
+        "endTime": 46297,
+        "slowStartTime": 66122,
+        "slowEndTime": 69671
+    },
+    {
+        "text": "But there's no way you can do those things while driving.",
+        "startTime": 46829,
+        "endTime": 49562,
+        "slowStartTime": 70393,
+        "slowEndTime": 74568
+    },
+    {
+        "text": "Second of all, taking the subway does not cost as much money as driving a car.",
+        "startTime": 50073,
+        "endTime": 54441,
+        "slowStartTime": 75260,
+        "slowEndTime": 81887
+    },
+    {
+        "text": "You have to pay for gas and maintenance if you have a car,...",
+        "startTime": 54941,
+        "endTime": 57736,
+        "slowStartTime": 82562,
+        "slowEndTime": 86829
+    },
+    {
+        "text": "...but that's not the case with public transportation.",
+        "startTime": 58111,
+        "endTime": 60559,
+        "slowStartTime": 87316,
+        "slowEndTime": 91064
+    },
+    {
+        "text": "Speaking of public transportation, the subway is not the only means.",
+        "startTime": 61212,
+        "endTime": 65206,
+        "slowStartTime": 91968,
+        "slowEndTime": 98034
+    },
+    {
+        "text": "There are buses, too!",
+        "startTime": 65499,
+        "endTime": 66564,
+        "slowStartTime": 98398,
+        "slowEndTime": 100071
+    },
+    {
+        "text": "Let's see if there's a bus that runs between here and where you live.",
+        "startTime": 67111,
+        "endTime": 70665,
+        "slowStartTime": 100817,
+        "slowEndTime": 106222
+    }
+]

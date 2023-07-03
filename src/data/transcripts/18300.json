@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Hello, Ellen DeGeneres.",
+        "startTime": 121,
+        "endTime": 1189,
+        "slowStartTime": 332,
+        "slowEndTime": 2009
+    },
+    {
+        "text": "This is your personalized weather forecast from the brand-new weather.com.",
+        "startTime": 1266,
+        "endTime": 5447,
+        "slowStartTime": 2049,
+        "slowEndTime": 8396
+    },
+    {
+        "text": "Today, you can expect partly cloudy skies in the morning with the marine layer hanging around,...",
+        "startTime": 5541,
+        "endTime": 9470,
+        "slowStartTime": 8462,
+        "slowEndTime": 14430
+    },
+    {
+        "text": "...mostly sunny by the afternoon.",
+        "startTime": 9575,
+        "endTime": 11114,
+        "slowStartTime": 14513,
+        "slowEndTime": 16896
+    },
+    {
+        "text": "Looking good in Los Angeles,...",
+        "startTime": 11379,
+        "endTime": 12737,
+        "slowStartTime": 17219,
+        "slowEndTime": 19331
+    },
+    {
+        "text": "...not quite merengue weather, but perhaps a good day for some calypso and a little pop and lock.",
+        "startTime": 12935,
+        "endTime": 19111,
+        "slowStartTime": 19553,
+        "slowEndTime": 28891
+    },
+    {
+        "text": "High temperatures will reach the mid-60s.",
+        "startTime": 19385,
+        "endTime": 21645,
+        "slowStartTime": 29228,
+        "slowEndTime": 32692
+    },
+    {
+        "text": "Temperatures like this will make you want to straddle your studio coffee table maybe,...",
+        "startTime": 21717,
+        "endTime": 25910,
+        "slowStartTime": 32725,
+        "slowEndTime": 39090
+    },
+    {
+        "text": "...run into the audience and do some krumping with a random audience member.",
+        "startTime": 25995,
+        "endTime": 29407,
+        "slowStartTime": 39142,
+        "slowEndTime": 44335
+    },
+    {
+        "text": "Overnight, lows are gonna drop into the low teens.",
+        "startTime": 29778,
+        "endTime": 32481,
+        "slowStartTime": 44817,
+        "slowEndTime": 48946
+    },
+    {
+        "text": "Seriously, I'm kidding.",
+        "startTime": 32814,
+        "endTime": 33653,
+        "slowStartTime": 49371,
+        "slowEndTime": 50704
+    },
+    {
+        "text": "The low will only be 55.",
+        "startTime": 33968,
+        "endTime": 35647,
+        "slowStartTime": 51102,
+        "slowEndTime": 53695
+    },
+    {
+        "text": "If you don't have plans, you can always just stay home, rearrange your closet full of daytime Emmy statues,...",
+        "startTime": 35921,
+        "endTime": 41068,
+        "slowStartTime": 54032,
+        "slowEndTime": 61827
+    },
+    {
+        "text": "...and spend the rest of the night reading bizarre Craigslist ads.",
+        "startTime": 41166,
+        "endTime": 43910,
+        "slowStartTime": 61899,
+        "slowEndTime": 66090
+    },
+    {
+        "text": "And don't forget, check back anytime, weather.com, to see what's in store for Socal this weekend.",
+        "startTime": 44269,
+        "endTime": 49632,
+        "slowStartTime": 66553,
+        "slowEndTime": 74673
+    }
+]

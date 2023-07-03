@@ -1,0 +1,121 @@
+[
+    {
+        "text": "In this new era of travel, there will be stricter hygiene standards...",
+        "startTime": 807,
+        "endTime": 4225,
+        "slowStartTime": 1361,
+        "slowEndTime": 6562
+    },
+    {
+        "text": "...with hand sanitizers, face masks and social distancing becoming the norm.",
+        "startTime": 4529,
+        "endTime": 8711,
+        "slowStartTime": 6944,
+        "slowEndTime": 13291
+    },
+    {
+        "text": "The World Travel and Tourism Council says a coordinated response is key.",
+        "startTime": 9007,
+        "endTime": 12621,
+        "slowStartTime": 13660,
+        "slowEndTime": 19157
+    },
+    {
+        "text": "It is crucial to use the same standard protocols across the world...",
+        "startTime": 12760,
+        "endTime": 16797,
+        "slowStartTime": 19290,
+        "slowEndTime": 25420
+    },
+    {
+        "text": "...so that the traveler feels comfortable.",
+        "startTime": 17118,
+        "endTime": 19145,
+        "slowStartTime": 25827,
+        "slowEndTime": 28943
+    },
+    {
+        "text": "So, we could well see standardized cleaning and testing protocols...",
+        "startTime": 19363,
+        "endTime": 22775,
+        "slowStartTime": 29194,
+        "slowEndTime": 34388
+    },
+    {
+        "text": "...introduced around the world.",
+        "startTime": 22863,
+        "endTime": 24059,
+        "slowStartTime": 34444,
+        "slowEndTime": 36313
+    },
+    {
+        "text": "In airports, we'll likely see health screening processes...",
+        "startTime": 24293,
+        "endTime": 26865,
+        "slowStartTime": 36589,
+        "slowEndTime": 40523
+    },
+    {
+        "text": "...like temperature checks and COVID-19 tests.",
+        "startTime": 26954,
+        "endTime": 29721,
+        "slowStartTime": 40581,
+        "slowEndTime": 44807
+    },
+    {
+        "text": "Your in-flight experience may look a little different too,...",
+        "startTime": 30432,
+        "endTime": 32982,
+        "slowStartTime": 45798,
+        "slowEndTime": 49698
+    },
+    {
+        "text": "...with an increasing number of airlines telling passengers to wear face masks.",
+        "startTime": 33064,
+        "endTime": 36555,
+        "slowStartTime": 49746,
+        "slowEndTime": 55057
+    },
+    {
+        "text": "EasyJet is said to be looking into social distancing measures...",
+        "startTime": 37100,
+        "endTime": 40655,
+        "slowStartTime": 55800,
+        "slowEndTime": 61208
+    },
+    {
+        "text": "...such as leaving middle seats empty, and if air capacity is down...",
+        "startTime": 40739,
+        "endTime": 44769,
+        "slowStartTime": 61259,
+        "slowEndTime": 67379
+    },
+    {
+        "text": "...as a result, then the cost of travel could well go up.",
+        "startTime": 44857,
+        "endTime": 47409,
+        "slowStartTime": 67435,
+        "slowEndTime": 71338
+    },
+    {
+        "text": "At sea, cruises are talking about introducing one-way systems on board,...",
+        "startTime": 47556,
+        "endTime": 51265,
+        "slowStartTime": 71484,
+        "slowEndTime": 77122
+    },
+    {
+        "text": "...and it's unlikely you'll be able to find buffets in the post-COVID world.",
+        "startTime": 51803,
+        "endTime": 55143,
+        "slowStartTime": 77854,
+        "slowEndTime": 82939
+    },
+    {
+        "text": "They could become a thing of the past in hotels, too.",
+        "startTime": 55728,
+        "endTime": 58550,
+        "slowStartTime": 83742,
+        "slowEndTime": 88050
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Here are some phrases you can use when starting and ending a conversation.",
+        "startTime": 607,
+        "endTime": 5770,
+        "slowStartTime": 1061,
+        "slowEndTime": 8880
+    },
+    {
+        "text": "Long time no see.",
+        "startTime": 7433,
+        "endTime": 8897,
+        "slowStartTime": 11299,
+        "slowEndTime": 13571
+    },
+    {
+        "text": "Is this your first time here?",
+        "startTime": 10809,
+        "endTime": 12488,
+        "slowStartTime": 16364,
+        "slowEndTime": 18957
+    },
+    {
+        "text": "Do you come here often?",
+        "startTime": 14329,
+        "endTime": 15627,
+        "slowStartTime": 21644,
+        "slowEndTime": 23666
+    },
+    {
+        "text": "Hello! I wanted to introduce myself.",
+        "startTime": 17446,
+        "endTime": 20263,
+        "slowStartTime": 26319,
+        "slowEndTime": 30620
+    },
+    {
+        "text": "Hi! Do you have a minute?",
+        "startTime": 21984,
+        "endTime": 23769,
+        "slowStartTime": 33126,
+        "slowEndTime": 35879
+    },
+    {
+        "text": "I don't want to keep you any longer.",
+        "startTime": 25626,
+        "endTime": 27715,
+        "slowStartTime": 38589,
+        "slowEndTime": 41797
+    },
+    {
+        "text": "I'll let you carry on then.",
+        "startTime": 29536,
+        "endTime": 30895,
+        "slowStartTime": 44454,
+        "slowEndTime": 46568
+    },
+    {
+        "text": "Thanks again for the great time!",
+        "startTime": 32795,
+        "endTime": 34650,
+        "slowStartTime": 49342,
+        "slowEndTime": 52200
+    },
+    {
+        "text": "I have got to get going.",
+        "startTime": 36466,
+        "endTime": 38028,
+        "slowStartTime": 54849,
+        "slowEndTime": 57267
+    },
+    {
+        "text": "I shall now head out.",
+        "startTime": 39774,
+        "endTime": 41415,
+        "slowStartTime": 59811,
+        "slowEndTime": 62348
+    }
+]

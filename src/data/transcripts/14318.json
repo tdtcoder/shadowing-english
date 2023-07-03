@@ -1,0 +1,51 @@
+[
+    {
+        "text": "And perhaps the debt crisis might be solved with more Jobs,...",
+        "startTime": 5575,
+        "endTime": 9105,
+        "slowStartTime": 8513,
+        "slowEndTime": 13883
+    },
+    {
+        "text": "...as in Steve Jobs, the CEO of Apple.",
+        "startTime": 9197,
+        "endTime": 11935,
+        "slowStartTime": 13945,
+        "slowEndTime": 18127
+    },
+    {
+        "text": "The latest earnings report from the world's most highly - valued tech company shows...",
+        "startTime": 12239,
+        "endTime": 15689,
+        "slowStartTime": 18508,
+        "slowEndTime": 23759
+    },
+    {
+        "text": "...cash reserves of more than 76 billion dollars.",
+        "startTime": 16002,
+        "endTime": 19286,
+        "slowStartTime": 24153,
+        "slowEndTime": 29154
+    },
+    {
+        "text": "The US Treasury has reserves just under 74 billion dollars.",
+        "startTime": 19681,
+        "endTime": 23891,
+        "slowStartTime": 29671,
+        "slowEndTime": 36061
+    },
+    {
+        "text": "These figures may not be directly comparable since Apple's number is based on its ready cash...",
+        "startTime": 24343,
+        "endTime": 29292,
+        "slowStartTime": 36664,
+        "slowEndTime": 44163
+    },
+    {
+        "text": "...while the US figure is how much it has before hitting the debt ceiling.",
+        "startTime": 29678,
+        "endTime": 34121,
+        "slowStartTime": 44667,
+        "slowEndTime": 51407
+    }
+]

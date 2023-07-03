@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Hello, you've reached the Andersons.",
+        "startTime": 6825,
+        "endTime": 8550,
+        "slowStartTime": 10400,
+        "slowEndTime": 13055
+    },
+    {
+        "text": "Sorry we can't take your call right now...",
+        "startTime": 8700,
+        "endTime": 10535,
+        "slowStartTime": 13135,
+        "slowEndTime": 15985
+    },
+    {
+        "text": "...but please leave us a message and we'll get back to you as soon as we can.",
+        "startTime": 10770,
+        "endTime": 13880,
+        "slowStartTime": 16310,
+        "slowEndTime": 20720
+    },
+    {
+        "text": "Bye!",
+        "startTime": 14215,
+        "endTime": 14915,
+        "slowStartTime": 21415,
+        "slowEndTime": 22275
+    },
+    {
+        "text": "Hi guys, it's Helen.",
+        "startTime": 16715,
+        "endTime": 18150,
+        "slowStartTime": 25170,
+        "slowEndTime": 27200
+    },
+    {
+        "text": "I heard from Ben today that you both have the flu.",
+        "startTime": 18585,
+        "endTime": 21350,
+        "slowStartTime": 27990,
+        "slowEndTime": 32220
+    },
+    {
+        "text": "It seems to be going around.",
+        "startTime": 21850,
+        "endTime": 23590,
+        "slowStartTime": 32900,
+        "slowEndTime": 35400
+    },
+    {
+        "text": "My sister also got it last week.",
+        "startTime": 24420,
+        "endTime": 26495,
+        "slowStartTime": 36660,
+        "slowEndTime": 39715
+    },
+    {
+        "text": "I hope you'll feel better soon.",
+        "startTime": 26755,
+        "endTime": 28325,
+        "slowStartTime": 40150,
+        "slowEndTime": 42470
+    },
+    {
+        "text": "Let me know if you need anything.",
+        "startTime": 28835,
+        "endTime": 30265,
+        "slowStartTime": 43300,
+        "slowEndTime": 45485
+    },
+    {
+        "text": "Okay, take care! Bye-bye!",
+        "startTime": 30945,
+        "endTime": 32770,
+        "slowStartTime": 46425,
+        "slowEndTime": 49240
+    }
+]

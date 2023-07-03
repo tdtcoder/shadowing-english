@@ -1,0 +1,205 @@
+[
+    {
+        "text": "October 29th was the 40th anniversary of the very first message sent on the Internet.",
+        "startTime": 6337,
+        "endTime": 11103,
+        "slowStartTime": 9656,
+        "slowEndTime": 16879
+    },
+    {
+        "text": "Now of course, we send billions of these messages a day.",
+        "startTime": 11217,
+        "endTime": 13823,
+        "slowStartTime": 16975,
+        "slowEndTime": 20960
+    },
+    {
+        "text": "Hello, everybody. Welcome to 'Now You Know.'",
+        "startTime": 14279,
+        "endTime": 15970,
+        "slowStartTime": 21568,
+        "slowEndTime": 24180
+    },
+    {
+        "text": "And do you know just what is the Internet? How does it work?",
+        "startTime": 16086,
+        "endTime": 19751,
+        "slowStartTime": 24279,
+        "slowEndTime": 29852
+    },
+    {
+        "text": "Maybe we can thank the Soviet Union for the Internet.",
+        "startTime": 20316,
+        "endTime": 22778,
+        "slowStartTime": 30624,
+        "slowEndTime": 34392
+    },
+    {
+        "text": "In 1957, the USSR launched into space the first artificial satellite Sputnik I,...",
+        "startTime": 23127,
+        "endTime": 28743,
+        "slowStartTime": 34841,
+        "slowEndTime": 43339
+    },
+    {
+        "text": "....that jolted the White House and the Pentagon.",
+        "startTime": 29242,
+        "endTime": 31294,
+        "slowStartTime": 44013,
+        "slowEndTime": 47166
+    },
+    {
+        "text": "If the Soviet Union could put a satellite into space,...",
+        "startTime": 31750,
+        "endTime": 34305,
+        "slowStartTime": 47775,
+        "slowEndTime": 51682
+    },
+    {
+        "text": "...well, then they could put a nuclear ballistic missile into space,...",
+        "startTime": 34427,
+        "endTime": 38431,
+        "slowStartTime": 51791,
+        "slowEndTime": 57872
+    },
+    {
+        "text": "...and they could basically attack us from space.",
+        "startTime": 38549,
+        "endTime": 41719,
+        "slowStartTime": 57974,
+        "slowEndTime": 62804
+    },
+    {
+        "text": "So in 1958, US President Dwight Eisenhower...",
+        "startTime": 41867,
+        "endTime": 44717,
+        "slowStartTime": 62951,
+        "slowEndTime": 67300
+    },
+    {
+        "text": "...established the Pentagon's Advanced Research Projects Agency or ARPA...",
+        "startTime": 44829,
+        "endTime": 49144,
+        "slowStartTime": 67393,
+        "slowEndTime": 73941
+    },
+    {
+        "text": "...to help solve the problem of a breakdown in command, control, and communication...",
+        "startTime": 49665,
+        "endTime": 54708,
+        "slowStartTime": 74648,
+        "slowEndTime": 82287
+    },
+    {
+        "text": "...in the event that we were a victim of a Soviet nuclear ballistic attack.",
+        "startTime": 54984,
+        "endTime": 61034,
+        "slowStartTime": 82626,
+        "slowEndTime": 91776
+    },
+    {
+        "text": "And it was those people who came up with the basic ideas...",
+        "startTime": 61341,
+        "endTime": 64623,
+        "slowStartTime": 92162,
+        "slowEndTime": 97159
+    },
+    {
+        "text": "...that eventually formed the framework and architecture for the Internet.",
+        "startTime": 64864,
+        "endTime": 67915,
+        "slowStartTime": 97446,
+        "slowEndTime": 102098
+    },
+    {
+        "text": "In 1969, ARPA gave birth to the ARPANET.",
+        "startTime": 68077,
+        "endTime": 71101,
+        "slowStartTime": 102266,
+        "slowEndTime": 106876
+    },
+    {
+        "text": "This was the very first fragment of the backbone of what is now our Internet.",
+        "startTime": 71244,
+        "endTime": 75120,
+        "slowStartTime": 107016,
+        "slowEndTime": 112905
+    },
+    {
+        "text": "It consisted of four nodes or computer systems.",
+        "startTime": 75266,
+        "endTime": 77979,
+        "slowStartTime": 113049,
+        "slowEndTime": 117193
+    },
+    {
+        "text": "Three nodes were in California, and one in Utah.",
+        "startTime": 78271,
+        "endTime": 80934,
+        "slowStartTime": 117556,
+        "slowEndTime": 121626
+    },
+    {
+        "text": "One node at the University of California, Los Angeles...",
+        "startTime": 81282,
+        "endTime": 84170,
+        "slowStartTime": 122073,
+        "slowEndTime": 126480
+    },
+    {
+        "text": "...was staffed by a team of computer techies led by Leonard Kleinrock.",
+        "startTime": 84496,
+        "endTime": 88533,
+        "slowStartTime": 126894,
+        "slowEndTime": 133024
+    },
+    {
+        "text": "Kleinrock is absolutely one of the founding fathers and mothers of the Internet.",
+        "startTime": 88785,
+        "endTime": 93359,
+        "slowStartTime": 133327,
+        "slowEndTime": 140263
+    },
+    {
+        "text": "It was Kleinrock who conceived the way messages would transmit from one point to another on the Internet.",
+        "startTime": 93566,
+        "endTime": 98965,
+        "slowStartTime": 140499,
+        "slowEndTime": 148673
+    },
+    {
+        "text": "It's called packet switching,...",
+        "startTime": 99277,
+        "endTime": 100769,
+        "slowStartTime": 149066,
+        "slowEndTime": 151379
+    },
+    {
+        "text": "...where a single message is broken up into smaller packets.",
+        "startTime": 101174,
+        "endTime": 104390,
+        "slowStartTime": 151911,
+        "slowEndTime": 156810
+    },
+    {
+        "text": "...independently making their way through the network, arriving at the other end....",
+        "startTime": 104595,
+        "endTime": 109158,
+        "slowStartTime": 157043,
+        "slowEndTime": 163962
+    },
+    {
+        "text": "...being put back together again,...",
+        "startTime": 109446,
+        "endTime": 110829,
+        "slowStartTime": 164319,
+        "slowEndTime": 166469
+    },
+    {
+        "text": "...and delivered to you as an entity, as a long message.",
+        "startTime": 111047,
+        "endTime": 114269,
+        "slowStartTime": 166720,
+        "slowEndTime": 171629
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "text": "In Pakistan, at least 43 people have been killed...",
+        "startTime": 3153,
+        "endTime": 6345,
+        "slowStartTime": 4880,
+        "slowEndTime": 9742
+    },
+    {
+        "text": "...after motorists on bikes opened fire on a bus carrying Shiite Muslims.",
+        "startTime": 6547,
+        "endTime": 11105,
+        "slowStartTime": 9971,
+        "slowEndTime": 16883
+    },
+    {
+        "text": "In Ukraine, Prime Minister Arseny Yatsenyuk will meet with French President Francois Hollande...",
+        "startTime": 12603,
+        "endTime": 17728,
+        "slowStartTime": 19055,
+        "slowEndTime": 26817
+    },
+    {
+        "text": "...to discuss the crisis with Russia.",
+        "startTime": 17901,
+        "endTime": 19899,
+        "slowStartTime": 27001,
+        "slowEndTime": 30073
+    },
+    {
+        "text": "In North Korea, a South Korea spy agency says Kim Jong-Un executed a defense minister...",
+        "startTime": 25013,
+        "endTime": 31221,
+        "slowStartTime": 37669,
+        "slowEndTime": 47056
+    },
+    {
+        "text": "...for falling asleep at a military event.",
+        "startTime": 31400,
+        "endTime": 33711,
+        "slowStartTime": 47250,
+        "slowEndTime": 50792
+    },
+    {
+        "text": "In China, officials warn the US...",
+        "startTime": 39131,
+        "endTime": 41361,
+        "slowStartTime": 58846,
+        "slowEndTime": 62267
+    },
+    {
+        "text": "...not to take \"risky and provocative\" actions in the South China Sea.",
+        "startTime": 41452,
+        "endTime": 45499,
+        "slowStartTime": 62328,
+        "slowEndTime": 68473
+    },
+    {
+        "text": "And finally from Lebanon,...",
+        "startTime": 48341,
+        "endTime": 49697,
+        "slowStartTime": 72661,
+        "slowEndTime": 74770
+    },
+    {
+        "text": "...members of the Lebanese parliament fail to elect a president for the 23rd time.",
+        "startTime": 49847,
+        "endTime": 55031,
+        "slowStartTime": 74920,
+        "slowEndTime": 82771
+    }
+]

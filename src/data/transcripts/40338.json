@@ -1,0 +1,44 @@
+[
+    {
+        "text": "In my family, there are five people...",
+        "startTime": 305,
+        "endTime": 2953,
+        "slowStartTime": 607,
+        "slowEndTime": 4655
+    },
+    {
+        "text": "...my mother, father, brother, sister, and me.",
+        "startTime": 3678,
+        "endTime": 9451,
+        "slowStartTime": 5667,
+        "slowEndTime": 14401
+    },
+    {
+        "text": "My brother is younger.",
+        "startTime": 10146,
+        "endTime": 11933,
+        "slowStartTime": 15369,
+        "slowEndTime": 18124
+    },
+    {
+        "text": "He is twenty-seven years old, and I am thirty-one.",
+        "startTime": 12651,
+        "endTime": 16294,
+        "slowStartTime": 19126,
+        "slowEndTime": 24666
+    },
+    {
+        "text": "My sister is older.",
+        "startTime": 17753,
+        "endTime": 20284,
+        "slowStartTime": 26779,
+        "slowEndTime": 30651
+    },
+    {
+        "text": "She is thirty-three years old, so she is two years older than me.",
+        "startTime": 20838,
+        "endTime": 26295,
+        "slowStartTime": 31407,
+        "slowEndTime": 39668
+    }
+]

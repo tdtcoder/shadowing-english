@@ -1,0 +1,289 @@
+[
+    {
+        "text": "How many of you have heard of the company Atlassian?",
+        "startTime": 43,
+        "endTime": 2717,
+        "slowStartTime": 214,
+        "slowEndTime": 4301
+    },
+    {
+        "text": "It looks like less than half.",
+        "startTime": 4818,
+        "endTime": 6081,
+        "slowStartTime": 7377,
+        "slowEndTime": 9346
+    },
+    {
+        "text": "Atlassian is an Australian software company.",
+        "startTime": 7857,
+        "endTime": 11825,
+        "slowStartTime": 11936,
+        "slowEndTime": 17963
+    },
+    {
+        "text": "And they do something incredibly cool.",
+        "startTime": 12420,
+        "endTime": 14247,
+        "slowStartTime": 18780,
+        "slowEndTime": 21595
+    },
+    {
+        "text": "A few times a year they tell their engineers,...",
+        "startTime": 14641,
+        "endTime": 16818,
+        "slowStartTime": 22112,
+        "slowEndTime": 25452
+    },
+    {
+        "text": "...\"Go for the next 24 hours and work on anything you want,...\"",
+        "startTime": 17130,
+        "endTime": 19873,
+        "slowStartTime": 25845,
+        "slowEndTime": 30035
+    },
+    {
+        "text": "\"...as long as it's not part of your regular job.\"",
+        "startTime": 21169,
+        "endTime": 22749,
+        "slowStartTime": 31903,
+        "slowEndTime": 34348
+    },
+    {
+        "text": "\"Work on anything you want\"...",
+        "startTime": 22839,
+        "endTime": 23757,
+        "slowStartTime": 34409,
+        "slowEndTime": 35860
+    },
+    {
+        "text": "...so that engineers use this time to come up with a cool patch of code, come up with an elegant hack.",
+        "startTime": 24075,
+        "endTime": 29673,
+        "slowStartTime": 36263,
+        "slowEndTime": 44734
+    },
+    {
+        "text": "Then they present all of these stuff that they've developed to their teammates, to the rest of the company,...",
+        "startTime": 29924,
+        "endTime": 35519,
+        "slowStartTime": 45036,
+        "slowEndTime": 53503
+    },
+    {
+        "text": "...in this wild and woolly all-hands meeting at the end of the day.",
+        "startTime": 35761,
+        "endTime": 38647,
+        "slowStartTime": 53792,
+        "slowEndTime": 58195
+    },
+    {
+        "text": "And then, being Australians, everybody has a beer.",
+        "startTime": 39709,
+        "endTime": 41339,
+        "slowStartTime": 59714,
+        "slowEndTime": 62233
+    },
+    {
+        "text": "They call them FedEx Days.",
+        "startTime": 41896,
+        "endTime": 43759,
+        "slowStartTime": 62994,
+        "slowEndTime": 65864
+    },
+    {
+        "text": "Why? Because you have to deliver something overnight.",
+        "startTime": 44918,
+        "endTime": 48587,
+        "slowStartTime": 67527,
+        "slowEndTime": 73105
+    },
+    {
+        "text": "It's not bad.",
+        "startTime": 50646,
+        "endTime": 51143,
+        "slowStartTime": 76119,
+        "slowEndTime": 76939
+    },
+    {
+        "text": "It's a huge trademark violation...",
+        "startTime": 51492,
+        "endTime": 52600,
+        "slowStartTime": 77388,
+        "slowEndTime": 79125
+    },
+    {
+        "text": "...but it's pretty clever.",
+        "startTime": 52679,
+        "endTime": 53281,
+        "slowStartTime": 79169,
+        "slowEndTime": 80147
+    },
+    {
+        "text": "That one day of intense autonomy has produced a whole array of software fixes that might never have existed.",
+        "startTime": 55862,
+        "endTime": 60521,
+        "slowStartTime": 83943,
+        "slowEndTime": 91006
+    },
+    {
+        "text": "And it's worked so well that Atlassian has taken it to the next level with 20 Percent Time,...",
+        "startTime": 61315,
+        "endTime": 65207,
+        "slowStartTime": 92122,
+        "slowEndTime": 98035
+    },
+    {
+        "text": "...done famously at Google,...",
+        "startTime": 65563,
+        "endTime": 67412,
+        "slowStartTime": 98495,
+        "slowEndTime": 101343
+    },
+    {
+        "text": "...where engineers can work, spend 20% of their time working on anything they want.",
+        "startTime": 67691,
+        "endTime": 71189,
+        "slowStartTime": 101686,
+        "slowEndTime": 107009
+    },
+    {
+        "text": "They have autonomy over their time, their task, their team, their technique,...",
+        "startTime": 71829,
+        "endTime": 75466,
+        "slowStartTime": 107893,
+        "slowEndTime": 113424
+    },
+    {
+        "text": "...okay? Radical amounts of autonomy.",
+        "startTime": 75639,
+        "endTime": 77292,
+        "slowStartTime": 113609,
+        "slowEndTime": 116163
+    },
+    {
+        "text": "And at Google, as many of you know,...",
+        "startTime": 77675,
+        "endTime": 79837,
+        "slowStartTime": 116663,
+        "slowEndTime": 119981
+    },
+    {
+        "text": "...about half of the new products in a typical year are birthed during that 20 Percent Time,...",
+        "startTime": 81689,
+        "endTime": 85594,
+        "slowStartTime": 122683,
+        "slowEndTime": 128616
+    },
+    {
+        "text": "...things like Gmail, Orkut, Google News.",
+        "startTime": 86533,
+        "endTime": 88748,
+        "slowStartTime": 129949,
+        "slowEndTime": 133347
+    },
+    {
+        "text": "Let me give you an even more radical example of it.",
+        "startTime": 89425,
+        "endTime": 91484,
+        "slowStartTime": 134288,
+        "slowEndTime": 137451
+    },
+    {
+        "text": "Something called the Results Only Work Environment,...",
+        "startTime": 92201,
+        "endTime": 94353,
+        "slowStartTime": 138452,
+        "slowEndTime": 141754
+    },
+    {
+        "text": "...the ROWE,...",
+        "startTime": 94506,
+        "endTime": 95435,
+        "slowStartTime": 141909,
+        "slowEndTime": 143377
+    },
+    {
+        "text": "...created by two American consultants, in place at about a dozen companies around North America.",
+        "startTime": 96141,
+        "endTime": 100485,
+        "slowStartTime": 144362,
+        "slowEndTime": 150952
+    },
+    {
+        "text": "In a ROWE, people don't have schedules.",
+        "startTime": 100747,
+        "endTime": 103349,
+        "slowStartTime": 151271,
+        "slowEndTime": 155249
+    },
+    {
+        "text": "They show up when they want.",
+        "startTime": 104999,
+        "endTime": 106315,
+        "slowStartTime": 157648,
+        "slowEndTime": 159697
+    },
+    {
+        "text": "They don't have to be in the office at a certain time or any time.",
+        "startTime": 106587,
+        "endTime": 109920,
+        "slowStartTime": 160030,
+        "slowEndTime": 165105
+    },
+    {
+        "text": "They just have to get their work done.",
+        "startTime": 110696,
+        "endTime": 112271,
+        "slowStartTime": 166194,
+        "slowEndTime": 168631
+    },
+    {
+        "text": "How they do it, when they do it, where they do it is totally up to them.",
+        "startTime": 112594,
+        "endTime": 116809,
+        "slowStartTime": 169041,
+        "slowEndTime": 175438
+    },
+    {
+        "text": "Meetings in these kinds of environments are optional.",
+        "startTime": 117768,
+        "endTime": 121145,
+        "slowStartTime": 176802,
+        "slowEndTime": 181943
+    },
+    {
+        "text": "What happens?",
+        "startTime": 122297,
+        "endTime": 122876,
+        "slowStartTime": 183595,
+        "slowEndTime": 184539
+    },
+    {
+        "text": "Almost across the board, productivity goes up, worker engagement goes up,...",
+        "startTime": 123699,
+        "endTime": 128211,
+        "slowStartTime": 185698,
+        "slowEndTime": 192542
+    },
+    {
+        "text": "...worker satisfaction goes up, turnover goes down.",
+        "startTime": 129068,
+        "endTime": 131623,
+        "slowStartTime": 193752,
+        "slowEndTime": 197659
+    },
+    {
+        "text": "Autonomy, mastery and purpose: these are the building blocks of a new way of doing things.",
+        "startTime": 132432,
+        "endTime": 136463,
+        "slowStartTime": 198798,
+        "slowEndTime": 204919
+    },
+    {
+        "text": "Now, some of you might look at this and say, \"Hmm, that sounds nice but it's utopian.\"",
+        "startTime": 136564,
+        "endTime": 141924,
+        "slowStartTime": 204996,
+        "slowEndTime": 213111
+    }
+]

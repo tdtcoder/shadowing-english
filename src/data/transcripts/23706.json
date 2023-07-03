@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Lannister, Baratheon, Stark, Tyrell:...",
+        "startTime": 2817,
+        "endTime": 10197,
+        "slowStartTime": 4375,
+        "slowEndTime": 15521
+    },
+    {
+        "text": "...they're all just spokes on a wheel.",
+        "startTime": 11444,
+        "endTime": 12786,
+        "slowStartTime": 17316,
+        "slowEndTime": 19404
+    },
+    {
+        "text": "This one's on top, then that one's on top and on and on it spins,...",
+        "startTime": 16584,
+        "endTime": 20533,
+        "slowStartTime": 25026,
+        "slowEndTime": 31025
+    },
+    {
+        "text": "...crushing those on the ground.",
+        "startTime": 22119,
+        "endTime": 23497,
+        "slowStartTime": 33328,
+        "slowEndTime": 35470
+    },
+    {
+        "text": "I'm not going to stop the wheel.",
+        "startTime": 26692,
+        "endTime": 28023,
+        "slowStartTime": 40188,
+        "slowEndTime": 42259
+    },
+    {
+        "text": "I'm going to break the wheel.",
+        "startTime": 33158,
+        "endTime": 34579,
+        "slowStartTime": 49887,
+        "slowEndTime": 52094
+    }
+]

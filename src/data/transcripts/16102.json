@@ -1,0 +1,58 @@
+[
+    {
+        "text": "In Iraq, at a ceremony in Baghdad, US Defense Secretary Leon Panetta...",
+        "startTime": 4091,
+        "endTime": 9247,
+        "slowStartTime": 6287,
+        "slowEndTime": 14096
+    },
+    {
+        "text": "...marks the end of the US military mission in Iraq.",
+        "startTime": 9701,
+        "endTime": 12333,
+        "slowStartTime": 14701,
+        "slowEndTime": 18724
+    },
+    {
+        "text": "In Russia, Prime Minister Putin dismisses allegations of fraud in recent elections.",
+        "startTime": 16435,
+        "endTime": 21622,
+        "slowStartTime": 24802,
+        "slowEndTime": 32658
+    },
+    {
+        "text": "In India, at least 126 people are dead after drinking homemade alcohol that contained methanol.",
+        "startTime": 25202,
+        "endTime": 32103,
+        "slowStartTime": 37953,
+        "slowEndTime": 48379
+    },
+    {
+        "text": "In the Gaza Strip, Hamas commemorates the 24th anniversary of its founding...",
+        "startTime": 34259,
+        "endTime": 38802,
+        "slowStartTime": 51539,
+        "slowEndTime": 58428
+    },
+    {
+        "text": "...with a rally in Al-Katiba Square.",
+        "startTime": 39279,
+        "endTime": 41097,
+        "slowStartTime": 59069,
+        "slowEndTime": 61870
+    },
+    {
+        "text": "In Romania, former Prime Minister Nastase is found not guilty of corruption charges.",
+        "startTime": 43875,
+        "endTime": 49342,
+        "slowStartTime": 65962,
+        "slowEndTime": 74238
+    },
+    {
+        "text": "In Lebanon, teachers take to the streets in Beirut, calling for better pay.",
+        "startTime": 52603,
+        "endTime": 56995,
+        "slowStartTime": 79054,
+        "slowEndTime": 85718
+    }
+]

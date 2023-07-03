@@ -1,0 +1,282 @@
+[
+    {
+        "text": "Everything we do takes time.",
+        "startTime": 2507,
+        "endTime": 4695,
+        "slowStartTime": 3910,
+        "slowEndTime": 7267
+    },
+    {
+        "text": "But how much time does it take?",
+        "startTime": 5824,
+        "endTime": 7825,
+        "slowStartTime": 8886,
+        "slowEndTime": 11962
+    },
+    {
+        "text": "Does it take seconds?",
+        "startTime": 8853,
+        "endTime": 10237,
+        "slowStartTime": 13429,
+        "slowEndTime": 15580
+    },
+    {
+        "text": "Does it take minutes?",
+        "startTime": 11265,
+        "endTime": 12529,
+        "slowStartTime": 17047,
+        "slowEndTime": 19018
+    },
+    {
+        "text": "Does it take hours?",
+        "startTime": 13591,
+        "endTime": 15142,
+        "slowStartTime": 20536,
+        "slowEndTime": 22938
+    },
+    {
+        "text": "Pablo wanted to make a sandwich.",
+        "startTime": 16130,
+        "endTime": 18479,
+        "slowStartTime": 24345,
+        "slowEndTime": 27944
+    },
+    {
+        "text": "He began at 12:00.",
+        "startTime": 19501,
+        "endTime": 21582,
+        "slowStartTime": 29401,
+        "slowEndTime": 32598
+    },
+    {
+        "text": "The big hand was pointing at the twelve.",
+        "startTime": 22530,
+        "endTime": 24993,
+        "slowStartTime": 33945,
+        "slowEndTime": 37714
+    },
+    {
+        "text": "The little hand was pointing at the twelve, too.",
+        "startTime": 25921,
+        "endTime": 29094,
+        "slowStartTime": 39031,
+        "slowEndTime": 43866
+    },
+    {
+        "text": "Pablo finished making the sandwich.",
+        "startTime": 30115,
+        "endTime": 32364,
+        "slowStartTime": 45323,
+        "slowEndTime": 48771
+    },
+    {
+        "text": "The big hand was pointing at the two.",
+        "startTime": 33352,
+        "endTime": 35849,
+        "slowStartTime": 50178,
+        "slowEndTime": 53998
+    },
+    {
+        "text": "The little hand was just past the twelve.",
+        "startTime": 36863,
+        "endTime": 39534,
+        "slowStartTime": 55445,
+        "slowEndTime": 59526
+    },
+    {
+        "text": "It took Pablo ten minutes to make the sandwich.",
+        "startTime": 40576,
+        "endTime": 43688,
+        "slowStartTime": 61014,
+        "slowEndTime": 65757
+    },
+    {
+        "text": "Amy wanted to paint a picture.",
+        "startTime": 44717,
+        "endTime": 46758,
+        "slowStartTime": 67226,
+        "slowEndTime": 70362
+    },
+    {
+        "text": "She began at 10 o'clock.",
+        "startTime": 47800,
+        "endTime": 49649,
+        "slowStartTime": 71850,
+        "slowEndTime": 74699
+    },
+    {
+        "text": "The big hand was pointing at the twelve.",
+        "startTime": 50729,
+        "endTime": 53110,
+        "slowStartTime": 76243,
+        "slowEndTime": 79890
+    },
+    {
+        "text": "The little hand was pointing at the ten.",
+        "startTime": 54174,
+        "endTime": 56706,
+        "slowStartTime": 81411,
+        "slowEndTime": 85284
+    },
+    {
+        "text": "Amy finished her painting.",
+        "startTime": 57683,
+        "endTime": 59375,
+        "slowStartTime": 86675,
+        "slowEndTime": 89287
+    },
+    {
+        "text": "The big hand was pointing at the 6.",
+        "startTime": 60420,
+        "endTime": 62937,
+        "slowStartTime": 90780,
+        "slowEndTime": 94630
+    },
+    {
+        "text": "The little hand was between the ten and the eleven.",
+        "startTime": 63982,
+        "endTime": 67513,
+        "slowStartTime": 96123,
+        "slowEndTime": 101494
+    },
+    {
+        "text": "It took Amy 30 minutes to paint the picture.",
+        "startTime": 68569,
+        "endTime": 71663,
+        "slowStartTime": 103004,
+        "slowEndTime": 107719
+    },
+    {
+        "text": "Jamie wanted to give her dog a bath.",
+        "startTime": 72685,
+        "endTime": 75179,
+        "slowStartTime": 109178,
+        "slowEndTime": 112994
+    },
+    {
+        "text": "She started at 2:30.",
+        "startTime": 76242,
+        "endTime": 78221,
+        "slowStartTime": 114513,
+        "slowEndTime": 117557
+    },
+    {
+        "text": "The big hand was pointing at the six.",
+        "startTime": 79192,
+        "endTime": 81750,
+        "slowStartTime": 118938,
+        "slowEndTime": 122850
+    },
+    {
+        "text": "The little hand was between the two and the three.",
+        "startTime": 82795,
+        "endTime": 86117,
+        "slowStartTime": 124343,
+        "slowEndTime": 129401
+    },
+    {
+        "text": "Jamie finished giving her dog a bath.",
+        "startTime": 87148,
+        "endTime": 89600,
+        "slowStartTime": 130872,
+        "slowEndTime": 134625
+    },
+    {
+        "text": "The big hand was pointing at the six.",
+        "startTime": 90524,
+        "endTime": 92967,
+        "slowStartTime": 135936,
+        "slowEndTime": 139676
+    },
+    {
+        "text": "The little hand was between the three and the four.",
+        "startTime": 93955,
+        "endTime": 97241,
+        "slowStartTime": 141082,
+        "slowEndTime": 146086
+    },
+    {
+        "text": "It took Jamie sixty minutes, or one hour, to give her dog a bath.",
+        "startTime": 98180,
+        "endTime": 103141,
+        "slowStartTime": 147420,
+        "slowEndTime": 154936
+    },
+    {
+        "text": "Dillon wanted to build a toy boat.",
+        "startTime": 104129,
+        "endTime": 106719,
+        "slowStartTime": 156343,
+        "slowEndTime": 160303
+    },
+    {
+        "text": "He started at 9:10.",
+        "startTime": 107734,
+        "endTime": 109741,
+        "slowStartTime": 161751,
+        "slowEndTime": 164837
+    },
+    {
+        "text": "The big hand was pointing at the two.",
+        "startTime": 110803,
+        "endTime": 113246,
+        "slowStartTime": 166355,
+        "slowEndTime": 170094
+    },
+    {
+        "text": "The little hand was just past the nine.",
+        "startTime": 114261,
+        "endTime": 116885,
+        "slowStartTime": 171541,
+        "slowEndTime": 175552
+    },
+    {
+        "text": "He finished the boat.",
+        "startTime": 117960,
+        "endTime": 119197,
+        "slowStartTime": 177090,
+        "slowEndTime": 179020
+    },
+    {
+        "text": "The big hand was pointing at the six.",
+        "startTime": 120265,
+        "endTime": 122775,
+        "slowStartTime": 180548,
+        "slowEndTime": 184387
+    },
+    {
+        "text": "The little hand was between the two and the three.",
+        "startTime": 123790,
+        "endTime": 127057,
+        "slowStartTime": 185835,
+        "slowEndTime": 190810
+    },
+    {
+        "text": "The big hand went around and around.",
+        "startTime": 128092,
+        "endTime": 131105,
+        "slowStartTime": 192288,
+        "slowEndTime": 196882
+    },
+    {
+        "text": "It went around five times.",
+        "startTime": 132133,
+        "endTime": 134375,
+        "slowStartTime": 198349,
+        "slowEndTime": 201787
+    },
+    {
+        "text": "It took Dillon five hours and twenty minutes to build the boat.",
+        "startTime": 135410,
+        "endTime": 139427,
+        "slowStartTime": 203265,
+        "slowEndTime": 209366
+    },
+    {
+        "text": "When we do things we love, we sometimes forget about time.",
+        "startTime": 140469,
+        "endTime": 145479,
+        "slowStartTime": 210854,
+        "slowEndTime": 218443
+    }
+]

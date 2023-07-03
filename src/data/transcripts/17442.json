@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Phlox.",
+        "startTime": 2691,
+        "endTime": 3417,
+        "slowStartTime": 4186,
+        "slowEndTime": 5350
+    },
+    {
+        "text": "There is a phlox in the garden.",
+        "startTime": 4193,
+        "endTime": 6201,
+        "slowStartTime": 6439,
+        "slowEndTime": 9527
+    },
+    {
+        "text": "There is a purple phlox in the garden.",
+        "startTime": 7605,
+        "endTime": 10065,
+        "slowStartTime": 11557,
+        "slowEndTime": 15322
+    },
+    {
+        "text": "Phoenix.",
+        "startTime": 11428,
+        "endTime": 12261,
+        "slowStartTime": 17292,
+        "slowEndTime": 18616
+    },
+    {
+        "text": "The phoenix is a bird.",
+        "startTime": 12919,
+        "endTime": 14653,
+        "slowStartTime": 19528,
+        "slowEndTime": 22205
+    },
+    {
+        "text": "The phoenix is a beautiful bird.",
+        "startTime": 15899,
+        "endTime": 18196,
+        "slowStartTime": 23999,
+        "slowEndTime": 27519
+    },
+    {
+        "text": "Phone.",
+        "startTime": 19540,
+        "endTime": 20215,
+        "slowStartTime": 29460,
+        "slowEndTime": 30548
+    },
+    {
+        "text": "The phone is ringing.",
+        "startTime": 21050,
+        "endTime": 22470,
+        "slowStartTime": 31725,
+        "slowEndTime": 33930
+    },
+    {
+        "text": "The phone in the living room is ringing.",
+        "startTime": 23795,
+        "endTime": 26412,
+        "slowStartTime": 35843,
+        "slowEndTime": 39843
+    },
+    {
+        "text": "Photo.",
+        "startTime": 27697,
+        "endTime": 28451,
+        "slowStartTime": 41696,
+        "slowEndTime": 42902
+    },
+    {
+        "text": "This is a photo.",
+        "startTime": 29090,
+        "endTime": 30393,
+        "slowStartTime": 43785,
+        "slowEndTime": 45814
+    },
+    {
+        "text": "This is a photo of my sister.",
+        "startTime": 31776,
+        "endTime": 33942,
+        "slowStartTime": 47814,
+        "slowEndTime": 51138
+    },
+    {
+        "text": "Where, where, where, where do elk live?",
+        "startTime": 39508,
+        "endTime": 42646,
+        "slowStartTime": 59412,
+        "slowEndTime": 64194
+    },
+    {
+        "text": "Mountains, mountains, elk live in the mountains.",
+        "startTime": 43256,
+        "endTime": 46776,
+        "slowStartTime": 65034,
+        "slowEndTime": 70389
+    },
+    {
+        "text": "Where, where, where, where do camels live?",
+        "startTime": 47013,
+        "endTime": 50193,
+        "slowStartTime": 70669,
+        "slowEndTime": 75514
+    },
+    {
+        "text": "Deserts, deserts, camels live in deserts.",
+        "startTime": 50739,
+        "endTime": 54193,
+        "slowStartTime": 76259,
+        "slowEndTime": 81515
+    },
+    {
+        "text": "Where, where, where, where do hippos live?",
+        "startTime": 54511,
+        "endTime": 57679,
+        "slowStartTime": 81917,
+        "slowEndTime": 86744
+    },
+    {
+        "text": "Water, water, hippos live near water.",
+        "startTime": 58221,
+        "endTime": 61633,
+        "slowStartTime": 87481,
+        "slowEndTime": 92674
+    },
+    {
+        "text": "There are so many kinds of animals.",
+        "startTime": 61981,
+        "endTime": 65429,
+        "slowStartTime": 93121,
+        "slowEndTime": 98369
+    },
+    {
+        "text": "Different animals live in different places!",
+        "startTime": 65716,
+        "endTime": 68885,
+        "slowStartTime": 98724,
+        "slowEndTime": 103553
+    }
+]

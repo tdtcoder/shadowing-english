@@ -1,0 +1,79 @@
+[
+    {
+        "text": "It's important that all online chat customers...",
+        "startTime": 443,
+        "endTime": 2736,
+        "slowStartTime": 815,
+        "slowEndTime": 4329
+    },
+    {
+        "text": "...receive a friendly and positive greeting.",
+        "startTime": 2885,
+        "endTime": 5055,
+        "slowStartTime": 4477,
+        "slowEndTime": 7807
+    },
+    {
+        "text": "But, it's also important they receive a response quickly.",
+        "startTime": 5509,
+        "endTime": 8517,
+        "slowStartTime": 8414,
+        "slowEndTime": 13001
+    },
+    {
+        "text": "As quickly as they would if they called you.",
+        "startTime": 8713,
+        "endTime": 10777,
+        "slowStartTime": 13220,
+        "slowEndTime": 16390
+    },
+    {
+        "text": "Customers initiating an online chat...",
+        "startTime": 11288,
+        "endTime": 13199,
+        "slowStartTime": 17082,
+        "slowEndTime": 20024
+    },
+    {
+        "text": "...will have already experienced the delay whilst their message...",
+        "startTime": 13511,
+        "endTime": 16081,
+        "slowStartTime": 20417,
+        "slowEndTime": 24346
+    },
+    {
+        "text": "...is transferred to an agent.",
+        "startTime": 16149,
+        "endTime": 17616,
+        "slowStartTime": 24373,
+        "slowEndTime": 26649
+    },
+    {
+        "text": "So, it's fine for that agent to shortcut the time it takes to type a greeting...",
+        "startTime": 17806,
+        "endTime": 21572,
+        "slowStartTime": 26859,
+        "slowEndTime": 32583
+    },
+    {
+        "text": "...by using a canned response.",
+        "startTime": 21753,
+        "endTime": 23349,
+        "slowStartTime": 32780,
+        "slowEndTime": 35249
+    },
+    {
+        "text": "The key here is to ensure your canned responses are genuine,...",
+        "startTime": 23663,
+        "endTime": 26896,
+        "slowStartTime": 35645,
+        "slowEndTime": 40569
+    },
+    {
+        "text": "...suit your company image and suit the situation.",
+        "startTime": 27155,
+        "endTime": 29896,
+        "slowStartTime": 40883,
+        "slowEndTime": 45069
+    }
+]

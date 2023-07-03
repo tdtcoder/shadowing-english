@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Not all food is good for us.",
+        "startTime": 759,
+        "endTime": 2831,
+        "slowStartTime": 1288,
+        "slowEndTime": 4472
+    },
+    {
+        "text": "There are foods that might taste nice...",
+        "startTime": 3515,
+        "endTime": 5399,
+        "slowStartTime": 5422,
+        "slowEndTime": 8324
+    },
+    {
+        "text": "...but they don't give our bodies any of the nutrients we need.",
+        "startTime": 5819,
+        "endTime": 8919,
+        "slowStartTime": 8879,
+        "slowEndTime": 13604
+    },
+    {
+        "text": "Instead, they contain high levels of fat or sugar.",
+        "startTime": 9327,
+        "endTime": 12812,
+        "slowStartTime": 14141,
+        "slowEndTime": 19443
+    },
+    {
+        "text": "These are foods that we need to try to eat less often.",
+        "startTime": 13898,
+        "endTime": 16832,
+        "slowStartTime": 20997,
+        "slowEndTime": 25473
+    },
+    {
+        "text": "Which do you think  are in this group?",
+        "startTime": 17798,
+        "endTime": 19744,
+        "slowStartTime": 26847,
+        "slowEndTime": 29841
+    },
+    {
+        "text": "Foods such as sweets, crisps and chocolates certainly are.",
+        "startTime": 23173,
+        "endTime": 29561,
+        "slowStartTime": 34909,
+        "slowEndTime": 44567
+    },
+    {
+        "text": "While these foods are okay to eat once in a while,...",
+        "startTime": 30040,
+        "endTime": 32895,
+        "slowStartTime": 45210,
+        "slowEndTime": 49568
+    },
+    {
+        "text": "...they can be damaging to us if we eat too much of them.",
+        "startTime": 33229,
+        "endTime": 36169,
+        "slowStartTime": 49994,
+        "slowEndTime": 54479
+    },
+    {
+        "text": "For example, too much sugar can cause a problem for our teeth.",
+        "startTime": 36909,
+        "endTime": 40721,
+        "slowStartTime": 55514,
+        "slowEndTime": 61307
+    },
+    {
+        "text": "This is called tooth decay.",
+        "startTime": 41233,
+        "endTime": 42797,
+        "slowStartTime": 61999,
+        "slowEndTime": 64421
+    }
+]

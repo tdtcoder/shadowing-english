@@ -1,0 +1,142 @@
+[
+    {
+        "text": "What is this?",
+        "startTime": 2326,
+        "endTime": 3401,
+        "slowStartTime": 3639,
+        "slowEndTime": 5327
+    },
+    {
+        "text": "It is a crayon.",
+        "startTime": 4513,
+        "endTime": 5706,
+        "slowStartTime": 6919,
+        "slowEndTime": 8784
+    },
+    {
+        "text": "I use it for coloring.",
+        "startTime": 6153,
+        "endTime": 7647,
+        "slowStartTime": 9379,
+        "slowEndTime": 11695
+    },
+    {
+        "text": "What is that?",
+        "startTime": 8243,
+        "endTime": 9049,
+        "slowStartTime": 12515,
+        "slowEndTime": 13799
+    },
+    {
+        "text": "It is a pot.",
+        "startTime": 10235,
+        "endTime": 11231,
+        "slowStartTime": 15503,
+        "slowEndTime": 17072
+    },
+    {
+        "text": "We use it to cook.",
+        "startTime": 11905,
+        "endTime": 13489,
+        "slowStartTime": 18007,
+        "slowEndTime": 20458
+    },
+    {
+        "text": "What do you use to write?",
+        "startTime": 14604,
+        "endTime": 16561,
+        "slowStartTime": 22056,
+        "slowEndTime": 25066
+    },
+    {
+        "text": "Here is a pencil.",
+        "startTime": 17415,
+        "endTime": 19151,
+        "slowStartTime": 26272,
+        "slowEndTime": 28952
+    },
+    {
+        "text": "I use a pencil to write.",
+        "startTime": 19883,
+        "endTime": 21999,
+        "slowStartTime": 29975,
+        "slowEndTime": 33223
+    },
+    {
+        "text": "Here are a knife and scissors.",
+        "startTime": 22973,
+        "endTime": 25493,
+        "slowStartTime": 34610,
+        "slowEndTime": 38465
+    },
+    {
+        "text": "Do you use a knife for cutting paper?",
+        "startTime": 26070,
+        "endTime": 28590,
+        "slowStartTime": 39255,
+        "slowEndTime": 43110
+    },
+    {
+        "text": "No, I use scissors for cutting paper.",
+        "startTime": 29677,
+        "endTime": 33277,
+        "slowStartTime": 44665,
+        "slowEndTime": 50140
+    },
+    {
+        "text": "What, what, what, what do you see?",
+        "startTime": 40122,
+        "endTime": 43466,
+        "slowStartTime": 60333,
+        "slowEndTime": 65424
+    },
+    {
+        "text": "Hammer, hammer, hammer, here is a hammer.",
+        "startTime": 44005,
+        "endTime": 47361,
+        "slowStartTime": 66157,
+        "slowEndTime": 71266
+    },
+    {
+        "text": "What, what, what, for what do you use it?",
+        "startTime": 47757,
+        "endTime": 51104,
+        "slowStartTime": 71786,
+        "slowEndTime": 76881
+    },
+    {
+        "text": "Pound, pound, pound, I use it for pounding.",
+        "startTime": 51480,
+        "endTime": 54737,
+        "slowStartTime": 77370,
+        "slowEndTime": 82330
+    },
+    {
+        "text": "What, what, what, what do you see?",
+        "startTime": 55258,
+        "endTime": 58485,
+        "slowStartTime": 83037,
+        "slowEndTime": 87952
+    },
+    {
+        "text": "Shovel, shovel, shovel, here is a shovel.",
+        "startTime": 58891,
+        "endTime": 62356,
+        "slowStartTime": 88487,
+        "slowEndTime": 93759
+    },
+    {
+        "text": "What, what, what, for what do you use it?",
+        "startTime": 62777,
+        "endTime": 65988,
+        "slowStartTime": 94316,
+        "slowEndTime": 99207
+    },
+    {
+        "text": "Dig, dig, dig, I use it for digging.",
+        "startTime": 66487,
+        "endTime": 69883,
+        "slowStartTime": 99880,
+        "slowEndTime": 105049
+    }
+]

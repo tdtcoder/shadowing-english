@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Yay! Time to brush.",
+        "startTime": 4985,
+        "endTime": 6712,
+        "slowStartTime": 7627,
+        "slowEndTime": 10293
+    },
+    {
+        "text": "Why do we brush?",
+        "startTime": 6926,
+        "endTime": 8029,
+        "slowStartTime": 10539,
+        "slowEndTime": 12269
+    },
+    {
+        "text": "We brush to remove plaque and stay clean.",
+        "startTime": 8173,
+        "endTime": 11291,
+        "slowStartTime": 12410,
+        "slowEndTime": 17161
+    },
+    {
+        "text": "What's plaque?",
+        "startTime": 11574,
+        "endTime": 12467,
+        "slowStartTime": 17511,
+        "slowEndTime": 18926
+    },
+    {
+        "text": "Plaque is yucky stuff that can stick to your teeth.",
+        "startTime": 12857,
+        "endTime": 15637,
+        "slowStartTime": 19436,
+        "slowEndTime": 23681
+    },
+    {
+        "text": "Plaque is bad because it's full of nasty germs.",
+        "startTime": 16745,
+        "endTime": 20114,
+        "slowStartTime": 25267,
+        "slowEndTime": 30396
+    },
+    {
+        "text": "These germs can hurt teeth by making little holes called cavities.",
+        "startTime": 20847,
+        "endTime": 25324,
+        "slowStartTime": 31421,
+        "slowEndTime": 38211
+    },
+    {
+        "text": "No.",
+        "startTime": 25402,
+        "endTime": 26056,
+        "slowStartTime": 38253,
+        "slowEndTime": 39309
+    },
+    {
+        "text": "Plaque and cavities make teeth weaker...",
+        "startTime": 26256,
+        "endTime": 28713,
+        "slowStartTime": 39534,
+        "slowEndTime": 43295
+    },
+    {
+        "text": "...that's why it's super important to brush all the plaque off every day.",
+        "startTime": 29236,
+        "endTime": 33023,
+        "slowStartTime": 44004,
+        "slowEndTime": 49760
+    }
+]

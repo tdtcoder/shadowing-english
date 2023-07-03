@@ -1,0 +1,114 @@
+[
+    {
+        "text": "How's the weather today, Mom?",
+        "startTime": 1730,
+        "endTime": 3507,
+        "slowStartTime": 2745,
+        "slowEndTime": 5485
+    },
+    {
+        "text": "It's rainy.",
+        "startTime": 4587,
+        "endTime": 5623,
+        "slowStartTime": 7031,
+        "slowEndTime": 8660
+    },
+    {
+        "text": "Put on your raincoat and rain boots.",
+        "startTime": 6054,
+        "endTime": 8321,
+        "slowStartTime": 9231,
+        "slowEndTime": 12706
+    },
+    {
+        "text": "Okay, Mom.",
+        "startTime": 9445,
+        "endTime": 10630,
+        "slowStartTime": 14318,
+        "slowEndTime": 16170
+    },
+    {
+        "text": "Can I put on my pink dress today?",
+        "startTime": 13803,
+        "endTime": 16105,
+        "slowStartTime": 20854,
+        "slowEndTime": 24382
+    },
+    {
+        "text": "No, you'd better put on your jacket and pants.",
+        "startTime": 17150,
+        "endTime": 20569,
+        "slowStartTime": 25875,
+        "slowEndTime": 31079
+    },
+    {
+        "text": "It's cold and windy outside.",
+        "startTime": 21619,
+        "endTime": 23870,
+        "slowStartTime": 32579,
+        "slowEndTime": 36030
+    },
+    {
+        "text": "Then I'll put on my dress and a warm coat.",
+        "startTime": 24981,
+        "endTime": 27895,
+        "slowStartTime": 37622,
+        "slowEndTime": 42068
+    },
+    {
+        "text": "How, how, how, how does a clown put on a face?",
+        "startTime": 34341,
+        "endTime": 39482,
+        "slowStartTime": 51661,
+        "slowEndTime": 59448
+    },
+    {
+        "text": "First, she puts on white face paint, white face paint.",
+        "startTime": 41849,
+        "endTime": 46993,
+        "slowStartTime": 62923,
+        "slowEndTime": 70714
+    },
+    {
+        "text": "Next, she paints around her mouth and paints her eyelids.",
+        "startTime": 49257,
+        "endTime": 53804,
+        "slowStartTime": 74035,
+        "slowEndTime": 80931
+    },
+    {
+        "text": "Next, she puts on big eyebrows, and paints big circles on her cheeks.",
+        "startTime": 56763,
+        "endTime": 63137,
+        "slowStartTime": 85295,
+        "slowEndTime": 94930
+    },
+    {
+        "text": "Next, she puts on her red nose. It honks if you squeeze it.",
+        "startTime": 64275,
+        "endTime": 69499,
+        "slowStartTime": 96562,
+        "slowEndTime": 104473
+    },
+    {
+        "text": "After putting on a red nose, she puts on a silly wig.",
+        "startTime": 71839,
+        "endTime": 77398,
+        "slowStartTime": 107908,
+        "slowEndTime": 116322
+    },
+    {
+        "text": "Then she puts on a polka-dot jacket, striped pants, floppy shoes.",
+        "startTime": 79352,
+        "endTime": 85056,
+        "slowStartTime": 119178,
+        "slowEndTime": 127809
+    },
+    {
+        "text": "Now, it is time to make kids laugh!",
+        "startTime": 86762,
+        "endTime": 90310,
+        "slowStartTime": 130293,
+        "slowEndTime": 135690
+    }
+]

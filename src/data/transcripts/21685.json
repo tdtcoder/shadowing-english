@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Hello students, I am the teacher.",
+        "startTime": 1351,
+        "endTime": 4145,
+        "slowStartTime": 2176,
+        "slowEndTime": 6443
+    },
+    {
+        "text": "Hello teacher, we are students.",
+        "startTime": 5449,
+        "endTime": 8507,
+        "slowStartTime": 8324,
+        "slowEndTime": 12985
+    },
+    {
+        "text": "What is your name?",
+        "startTime": 9875,
+        "endTime": 11497,
+        "slowStartTime": 14963,
+        "slowEndTime": 17471
+    },
+    {
+        "text": "Please stand up.",
+        "startTime": 14554,
+        "endTime": 15907,
+        "slowStartTime": 21981,
+        "slowEndTime": 24085
+    },
+    {
+        "text": "My name is Paul.",
+        "startTime": 16707,
+        "endTime": 18534,
+        "slowStartTime": 25210,
+        "slowEndTime": 28026
+    },
+    {
+        "text": "Good, Paul.",
+        "startTime": 19502,
+        "endTime": 20336,
+        "slowStartTime": 29403,
+        "slowEndTime": 30729
+    },
+    {
+        "text": "Please sit down.",
+        "startTime": 21037,
+        "endTime": 22139,
+        "slowStartTime": 31705,
+        "slowEndTime": 33433
+    },
+    {
+        "text": "What is your name?",
+        "startTime": 23350,
+        "endTime": 24716,
+        "slowStartTime": 35175,
+        "slowEndTime": 37299
+    },
+    {
+        "text": "My name is Penelope.",
+        "startTime": 26410,
+        "endTime": 28265,
+        "slowStartTime": 39765,
+        "slowEndTime": 42623
+    },
+    {
+        "text": "What is your name?",
+        "startTime": 29196,
+        "endTime": 30910,
+        "slowStartTime": 43944,
+        "slowEndTime": 46590
+    },
+    {
+        "text": "My name is Penelope.",
+        "startTime": 32192,
+        "endTime": 34361,
+        "slowStartTime": 48438,
+        "slowEndTime": 51766
+    },
+    {
+        "text": "Please be quiet.",
+        "startTime": 37061,
+        "endTime": 38628,
+        "slowStartTime": 55742,
+        "slowEndTime": 58167
+    },
+    {
+        "text": "My name is George.",
+        "startTime": 40181,
+        "endTime": 41524,
+        "slowStartTime": 60422,
+        "slowEndTime": 62511
+    },
+    {
+        "text": "Hello George.",
+        "startTime": 42312,
+        "endTime": 43381,
+        "slowStartTime": 63618,
+        "slowEndTime": 65296
+    },
+    {
+        "text": "Now students, please take out your books.",
+        "startTime": 44057,
+        "endTime": 47364,
+        "slowStartTime": 66236,
+        "slowEndTime": 71271
+    },
+    {
+        "text": "Good.",
+        "startTime": 48682,
+        "endTime": 49261,
+        "slowStartTime": 73173,
+        "slowEndTime": 74117
+    }
+]

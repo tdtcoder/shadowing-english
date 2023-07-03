@@ -1,0 +1,128 @@
+[
+    {
+        "text": "There are 50 states in America.",
+        "startTime": 5530,
+        "endTime": 8262,
+        "slowStartTime": 8445,
+        "slowEndTime": 12618
+    },
+    {
+        "text": "50 states in America.",
+        "startTime": 8838,
+        "endTime": 11124,
+        "slowStartTime": 13407,
+        "slowEndTime": 16911
+    },
+    {
+        "text": "There are 50 states in the United States of America.",
+        "startTime": 11251,
+        "endTime": 17039,
+        "slowStartTime": 17027,
+        "slowEndTime": 25784
+    },
+    {
+        "text": "Alabama, Alaska, Arizona, Arkansas, California, Colorado,...",
+        "startTime": 17631,
+        "endTime": 25675,
+        "slowStartTime": 26596,
+        "slowEndTime": 38737
+    },
+    {
+        "text": "...Connecticut, Delaware, Florida, Georgia, Hawaii,...",
+        "startTime": 25889,
+        "endTime": 32925,
+        "slowStartTime": 38984,
+        "slowEndTime": 49613
+    },
+    {
+        "text": "...Idaho, Illinois, Indiana, Iowa, Kansas,...",
+        "startTime": 33024,
+        "endTime": 41005,
+        "slowStartTime": 49686,
+        "slowEndTime": 61732
+    },
+    {
+        "text": "...Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan,...",
+        "startTime": 42031,
+        "endTime": 51053,
+        "slowStartTime": 63196,
+        "slowEndTime": 76805
+    },
+    {
+        "text": "...Minnesota, Mississippi, Missouri, Montana,...",
+        "startTime": 51541,
+        "endTime": 57995,
+        "slowStartTime": 77462,
+        "slowEndTime": 87218
+    },
+    {
+        "text": "...Nebraska, Nevada, New Hampshire, New Jersey, New Mexico,...",
+        "startTime": 58171,
+        "endTime": 65288,
+        "slowStartTime": 87407,
+        "slowEndTime": 98157
+    },
+    {
+        "text": "....New York, North Carolina, North Dakota,...",
+        "startTime": 65470,
+        "endTime": 69473,
+        "slowStartTime": 98355,
+        "slowEndTime": 104435
+    },
+    {
+        "text": "...Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island,...",
+        "startTime": 69567,
+        "endTime": 77401,
+        "slowStartTime": 104500,
+        "slowEndTime": 116326
+    },
+    {
+        "text": "...South Carolina, South Dakota, Tennessee, Texas,...",
+        "startTime": 78290,
+        "endTime": 82881,
+        "slowStartTime": 117585,
+        "slowEndTime": 124546
+    },
+    {
+        "text": "...Utah, Vermont, Virginia, Washington, West Virginia,...",
+        "startTime": 83007,
+        "endTime": 87685,
+        "slowStartTime": 124660,
+        "slowEndTime": 131752
+    },
+    {
+        "text": "...Wisconsin, Wyoming.",
+        "startTime": 87832,
+        "endTime": 90284,
+        "slowStartTime": 131898,
+        "slowEndTime": 135651
+    },
+    {
+        "text": "There are 50 states in America.",
+        "startTime": 90409,
+        "endTime": 93080,
+        "slowStartTime": 135763,
+        "slowEndTime": 139845
+    },
+    {
+        "text": "50 states in America.",
+        "startTime": 93343,
+        "endTime": 96000,
+        "slowStartTime": 140165,
+        "slowEndTime": 144225
+    },
+    {
+        "text": "There are 50 states in the United States of America.",
+        "startTime": 96230,
+        "endTime": 101833,
+        "slowStartTime": 144495,
+        "slowEndTime": 152975
+    },
+    {
+        "text": "There are 50 states in the United States of America.",
+        "startTime": 101979,
+        "endTime": 107972,
+        "slowStartTime": 153118,
+        "slowEndTime": 162183
+    }
+]

@@ -1,0 +1,198 @@
+[
+    {
+        "text": "Mi-na, can you do me a big favor?",
+        "startTime": 3272,
+        "endTime": 5589,
+        "slowStartTime": 5058,
+        "slowEndTime": 8609
+    },
+    {
+        "text": "Can I borrow some money?",
+        "startTime": 6465,
+        "endTime": 7613,
+        "slowStartTime": 9848,
+        "slowEndTime": 11644
+    },
+    {
+        "text": "I have to pay off my credit card by next week, and I don't have enough to do that.",
+        "startTime": 8011,
+        "endTime": 11605,
+        "slowStartTime": 12167,
+        "slowEndTime": 17633
+    },
+    {
+        "text": "At this rate, I will soon become a credit delinquent.",
+        "startTime": 12188,
+        "endTime": 15059,
+        "slowStartTime": 18432,
+        "slowEndTime": 22813
+    },
+    {
+        "text": "I heard when a recruiting agency or a big - named company tries to hire you,...",
+        "startTime": 15730,
+        "endTime": 19766,
+        "slowStartTime": 23745,
+        "slowEndTime": 29874
+    },
+    {
+        "text": "...they look up your credit history and decide whether to hire you or not.",
+        "startTime": 20163,
+        "endTime": 23912,
+        "slowStartTime": 30394,
+        "slowEndTime": 36093
+    },
+    {
+        "text": "This is my first time sitting on such debt.",
+        "startTime": 24597,
+        "endTime": 27393,
+        "slowStartTime": 37045,
+        "slowEndTime": 41314
+    },
+    {
+        "text": "Could you help me out please?",
+        "startTime": 27843,
+        "endTime": 29766,
+        "slowStartTime": 41914,
+        "slowEndTime": 44874
+    },
+    {
+        "text": "How much do you owe the credit company?",
+        "startTime": 30399,
+        "endTime": 32298,
+        "slowStartTime": 45748,
+        "slowEndTime": 48672
+    },
+    {
+        "text": "Where did you spend all the money?",
+        "startTime": 32875,
+        "endTime": 34331,
+        "slowStartTime": 49462,
+        "slowEndTime": 51721
+    },
+    {
+        "text": "Let me have it.",
+        "startTime": 34763,
+        "endTime": 35597,
+        "slowStartTime": 52294,
+        "slowEndTime": 53621
+    },
+    {
+        "text": "You should at least make a minimum payment.",
+        "startTime": 36061,
+        "endTime": 38252,
+        "slowStartTime": 54242,
+        "slowEndTime": 57603
+    },
+    {
+        "text": "I also heard about an employer checking your bank account.",
+        "startTime": 38779,
+        "endTime": 41589,
+        "slowStartTime": 58319,
+        "slowEndTime": 62609
+    },
+    {
+        "text": "You should be careful about that.",
+        "startTime": 42107,
+        "endTime": 43735,
+        "slowStartTime": 63310,
+        "slowEndTime": 65828
+    },
+    {
+        "text": "I think it's more serious than we think.",
+        "startTime": 44195,
+        "endTime": 46329,
+        "slowStartTime": 66443,
+        "slowEndTime": 69719
+    },
+    {
+        "text": "As consumer spending is holding steady,...",
+        "startTime": 46896,
+        "endTime": 49311,
+        "slowStartTime": 70494,
+        "slowEndTime": 74191
+    },
+    {
+        "text": "...we see the rising level of debt people are putting on credit cards,...",
+        "startTime": 50206,
+        "endTime": 54317,
+        "slowStartTime": 75459,
+        "slowEndTime": 81700
+    },
+    {
+        "text": "...and quite a few of them are concerned about being able to pay it off.",
+        "startTime": 54727,
+        "endTime": 58496,
+        "slowStartTime": 82241,
+        "slowEndTime": 87969
+    },
+    {
+        "text": "As more consumers fall behind on credit payments,...",
+        "startTime": 59253,
+        "endTime": 61802,
+        "slowStartTime": 89029,
+        "slowEndTime": 92928
+    },
+    {
+        "text": "...there are increasing activities of so-called debt counselors or debt settlement services.",
+        "startTime": 62249,
+        "endTime": 67249,
+        "slowStartTime": 93524,
+        "slowEndTime": 101099
+    },
+    {
+        "text": "Anyways, I guess there should be new laws regarding debt settlement,...",
+        "startTime": 68256,
+        "endTime": 72317,
+        "slowStartTime": 102534,
+        "slowEndTime": 108701
+    },
+    {
+        "text": "...relieving debts of credit delinquents.",
+        "startTime": 72702,
+        "endTime": 74669,
+        "slowStartTime": 109203,
+        "slowEndTime": 112228
+    },
+    {
+        "text": "That's a good idea.",
+        "startTime": 74968,
+        "endTime": 75847,
+        "slowStartTime": 112602,
+        "slowEndTime": 113995
+    },
+    {
+        "text": "We should not just wait for them to pay back their debts,...",
+        "startTime": 76263,
+        "endTime": 78787,
+        "slowStartTime": 114544,
+        "slowEndTime": 118406
+    },
+    {
+        "text": "...but need to find some ways to solve this problem.",
+        "startTime": 79186,
+        "endTime": 81611,
+        "slowStartTime": 118929,
+        "slowEndTime": 122642
+    },
+    {
+        "text": "But the problem is, still, there are some debates going on to decide whether to help them or not.",
+        "startTime": 82347,
+        "endTime": 87506,
+        "slowStartTime": 123670,
+        "slowEndTime": 131484
+    },
+    {
+        "text": "The problem of credit delinquency is getting serious in many countries.",
+        "startTime": 88138,
+        "endTime": 91901,
+        "slowStartTime": 132357,
+        "slowEndTime": 138076
+    },
+    {
+        "text": "It is one of the big social issues.",
+        "startTime": 92402,
+        "endTime": 94481,
+        "slowStartTime": 138753,
+        "slowEndTime": 141947
+    }
+]

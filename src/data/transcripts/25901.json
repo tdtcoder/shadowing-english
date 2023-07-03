@@ -1,0 +1,51 @@
+[
+    {
+        "text": "I regret that I should never have met the media.",
+        "startTime": 468,
+        "endTime": 3376,
+        "slowStartTime": 852,
+        "slowEndTime": 5289
+    },
+    {
+        "text": "I regret I should not have spoken in public.",
+        "startTime": 3834,
+        "endTime": 6117,
+        "slowStartTime": 5901,
+        "slowEndTime": 9400
+    },
+    {
+        "text": "Because I could have my own privacy.",
+        "startTime": 7417,
+        "endTime": 9131,
+        "slowStartTime": 11276,
+        "slowEndTime": 13921
+    },
+    {
+        "text": "I regret that I worked so hard and spent so little time with my family.",
+        "startTime": 10489,
+        "endTime": 14593,
+        "slowStartTime": 15884,
+        "slowEndTime": 22114
+    },
+    {
+        "text": "And I regret that if I had another life, I would never do things like this.",
+        "startTime": 16324,
+        "endTime": 22191,
+        "slowStartTime": 24636,
+        "slowEndTime": 33511
+    },
+    {
+        "text": "And my wife just said,...",
+        "startTime": 23858,
+        "endTime": 26293,
+        "slowStartTime": 35937,
+        "slowEndTime": 39664
+    },
+    {
+        "text": "\"You do not belong to me, you belong to Alibaba.\"",
+        "startTime": 27011,
+        "endTime": 29748,
+        "slowStartTime": 40666,
+        "slowEndTime": 44847
+    }
+]

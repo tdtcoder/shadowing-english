@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Did she clean the house?",
+        "startTime": 3715,
+        "endTime": 4896,
+        "slowStartTime": 5723,
+        "slowEndTime": 7569
+    },
+    {
+        "text": "Yes, she did.",
+        "startTime": 6539,
+        "endTime": 7502,
+        "slowStartTime": 9958,
+        "slowEndTime": 11478
+    },
+    {
+        "text": "Did they walk to school?",
+        "startTime": 9165,
+        "endTime": 10295,
+        "slowStartTime": 13898,
+        "slowEndTime": 15667
+    },
+    {
+        "text": "No, they didn't walk to school.",
+        "startTime": 11973,
+        "endTime": 13733,
+        "slowStartTime": 18110,
+        "slowEndTime": 20824
+    },
+    {
+        "text": "What did he get?",
+        "startTime": 18756,
+        "endTime": 19737,
+        "slowStartTime": 28284,
+        "slowEndTime": 29830
+    },
+    {
+        "text": "He got a bike.",
+        "startTime": 21154,
+        "endTime": 22488,
+        "slowStartTime": 31881,
+        "slowEndTime": 33957
+    },
+    {
+        "text": "Where did they go?",
+        "startTime": 23987,
+        "endTime": 24959,
+        "slowStartTime": 36131,
+        "slowEndTime": 37664
+    },
+    {
+        "text": "They went to the zoo.",
+        "startTime": 26485,
+        "endTime": 27525,
+        "slowStartTime": 39878,
+        "slowEndTime": 41513
+    },
+    {
+        "text": "When did you eat?",
+        "startTime": 29253,
+        "endTime": 30263,
+        "slowStartTime": 44030,
+        "slowEndTime": 45620
+    },
+    {
+        "text": "I ate at 9 o'clock.",
+        "startTime": 31949,
+        "endTime": 33335,
+        "slowStartTime": 48074,
+        "slowEndTime": 50227
+    },
+    {
+        "text": "Who watched TV?",
+        "startTime": 34937,
+        "endTime": 36123,
+        "slowStartTime": 52556,
+        "slowEndTime": 54409
+    },
+    {
+        "text": "Bill watched TV.",
+        "startTime": 37817,
+        "endTime": 39019,
+        "slowStartTime": 56876,
+        "slowEndTime": 58754
+    }
+]

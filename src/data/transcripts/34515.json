@@ -1,0 +1,205 @@
+[
+    {
+        "text": "Welcome to the Lightsaber Helpdesk.",
+        "startTime": 6865,
+        "endTime": 8883,
+        "slowStartTime": 10447,
+        "slowEndTime": 13550
+    },
+    {
+        "text": "Ah, hello, yes, I'm having trouble with my lightsaber.",
+        "startTime": 8994,
+        "endTime": 12218,
+        "slowStartTime": 13641,
+        "slowEndTime": 18552
+    },
+    {
+        "text": "Can I have your account number, please?",
+        "startTime": 12609,
+        "endTime": 14488,
+        "slowStartTime": 19064,
+        "slowEndTime": 21957
+    },
+    {
+        "text": "My account?",
+        "startTime": 14580,
+        "endTime": 15036,
+        "slowStartTime": 22020,
+        "slowEndTime": 22779
+    },
+    {
+        "text": "Where do I find that?",
+        "startTime": 16211,
+        "endTime": 16947,
+        "slowStartTime": 24466,
+        "slowEndTime": 25646
+    },
+    {
+        "text": "It's the five-digit serial number on the handle.",
+        "startTime": 17567,
+        "endTime": 20861,
+        "slowStartTime": 26501,
+        "slowEndTime": 31517
+    },
+    {
+        "text": "Ah, yes, I see.",
+        "startTime": 21078,
+        "endTime": 21578,
+        "slowStartTime": 31767,
+        "slowEndTime": 32592
+    },
+    {
+        "text": "It's 00001.",
+        "startTime": 21697,
+        "endTime": 24089,
+        "slowStartTime": 32695,
+        "slowEndTime": 36359
+    },
+    {
+        "text": "How can I help you today, Mr. Wader?",
+        "startTime": 25507,
+        "endTime": 28443,
+        "slowStartTime": 38410,
+        "slowEndTime": 42890
+    },
+    {
+        "text": "It's Vader!",
+        "startTime": 28898,
+        "endTime": 29821,
+        "slowStartTime": 43497,
+        "slowEndTime": 44956
+    },
+    {
+        "text": "Lord Darth Vader!",
+        "startTime": 29973,
+        "endTime": 31588,
+        "slowStartTime": 45109,
+        "slowEndTime": 47607
+    },
+    {
+        "text": "Okay, Mr. Waiter, whatever.",
+        "startTime": 31875,
+        "endTime": 33421,
+        "slowStartTime": 47963,
+        "slowEndTime": 50356
+    },
+    {
+        "text": "How can I help you?",
+        "startTime": 33493,
+        "endTime": 34407,
+        "slowStartTime": 50389,
+        "slowEndTime": 51836
+    },
+    {
+        "text": "It's Vade... it doesn't matter.",
+        "startTime": 34493,
+        "endTime": 37150,
+        "slowStartTime": 51890,
+        "slowEndTime": 55950
+    },
+    {
+        "text": "Look, my lightsaber won't make the \"Voom!\" sound when it comes on.",
+        "startTime": 37241,
+        "endTime": 40257,
+        "slowStartTime": 56011,
+        "slowEndTime": 60611
+    },
+    {
+        "text": "Have you tried changing the batteries?",
+        "startTime": 40383,
+        "endTime": 42081,
+        "slowStartTime": 60725,
+        "slowEndTime": 63346
+    },
+    {
+        "text": "I have replaced them.",
+        "startTime": 42147,
+        "endTime": 43174,
+        "slowStartTime": 63370,
+        "slowEndTime": 64986
+    },
+    {
+        "text": "I'd like to speak to your supervisor.",
+        "startTime": 43299,
+        "endTime": 45402,
+        "slowStartTime": 65099,
+        "slowEndTime": 68328
+    },
+    {
+        "text": "Well, have you pushed the reset button on the bottom of the handle?",
+        "startTime": 45881,
+        "endTime": 49006,
+        "slowStartTime": 68971,
+        "slowEndTime": 73734
+    },
+    {
+        "text": "Ah, yes, I know about this.",
+        "startTime": 49116,
+        "endTime": 51030,
+        "slowStartTime": 73824,
+        "slowEndTime": 76770
+    },
+    {
+        "text": "Could you just tell me how to do it again?",
+        "startTime": 51501,
+        "endTime": 52716,
+        "slowStartTime": 77401,
+        "slowEndTime": 79299
+    },
+    {
+        "text": "Yep, try turning it 30 degrees, press reset and tap the handle at the same time.",
+        "startTime": 52951,
+        "endTime": 57117,
+        "slowStartTime": 79577,
+        "slowEndTime": 85901
+    },
+    {
+        "text": "Everybody knows that.",
+        "startTime": 57253,
+        "endTime": 58556,
+        "slowStartTime": 86029,
+        "slowEndTime": 88059
+    },
+    {
+        "text": "Ah, 30 degrees and, press and, hang on.",
+        "startTime": 58779,
+        "endTime": 64881,
+        "slowStartTime": 88319,
+        "slowEndTime": 97547
+    },
+    {
+        "text": "I'm sorry, oops.",
+        "startTime": 68765,
+        "endTime": 69715,
+        "slowStartTime": 103297,
+        "slowEndTime": 104797
+    },
+    {
+        "text": "Everything okay there?",
+        "startTime": 69913,
+        "endTime": 71004,
+        "slowStartTime": 105019,
+        "slowEndTime": 106731
+    },
+    {
+        "text": "Oh, it's all working fine.",
+        "startTime": 71700,
+        "endTime": 73057,
+        "slowStartTime": 107700,
+        "slowEndTime": 109810
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 73167,
+        "endTime": 73509,
+        "slowStartTime": 109900,
+        "slowEndTime": 110489
+    },
+    {
+        "text": "Thank you for calling the Lightsaber Helpdesk.",
+        "startTime": 73773,
+        "endTime": 76365,
+        "slowStartTime": 110809,
+        "slowEndTime": 114772
+    }
+]

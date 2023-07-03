@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Tiger,...",
+        "startTime": 130,
+        "endTime": 600,
+        "slowStartTime": 370,
+        "slowEndTime": 925
+    },
+    {
+        "text": "...I am more...",
+        "startTime": 1935,
+        "endTime": 2910,
+        "slowStartTime": 2955,
+        "slowEndTime": 4365
+    },
+    {
+        "text": "...prone to be inquisitive...",
+        "startTime": 3270,
+        "endTime": 5535,
+        "slowStartTime": 5085,
+        "slowEndTime": 8420
+    },
+    {
+        "text": "..to promote discussion.",
+        "startTime": 7740,
+        "endTime": 9260,
+        "slowStartTime": 11730,
+        "slowEndTime": 13980
+    },
+    {
+        "text": "I wanna find out what your thinking was.",
+        "startTime": 11710,
+        "endTime": 14115,
+        "slowStartTime": 17630,
+        "slowEndTime": 21250
+    },
+    {
+        "text": "I wanna find out...",
+        "startTime": 16260,
+        "endTime": 17050,
+        "slowStartTime": 24460,
+        "slowEndTime": 25680
+    },
+    {
+        "text": "...what your feelings are.",
+        "startTime": 17840,
+        "endTime": 19040,
+        "slowStartTime": 26800,
+        "slowEndTime": 28655
+    },
+    {
+        "text": "And did you learn anything?",
+        "startTime": 21790,
+        "endTime": 23555,
+        "slowStartTime": 32810,
+        "slowEndTime": 35450
+    }
+]

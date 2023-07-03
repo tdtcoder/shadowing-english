@@ -1,0 +1,58 @@
+[
+    {
+        "text": "It is a beautiful morning.",
+        "startTime": 315,
+        "endTime": 2240,
+        "slowStartTime": 623,
+        "slowEndTime": 3585
+    },
+    {
+        "text": "Donkey! Donkey! We have to leave now.",
+        "startTime": 3602,
+        "endTime": 6983,
+        "slowStartTime": 5553,
+        "slowEndTime": 10699
+    },
+    {
+        "text": "Hee-haw, hee-haw. I carry the salt every day.",
+        "startTime": 8257,
+        "endTime": 12915,
+        "slowStartTime": 12536,
+        "slowEndTime": 19598
+    },
+    {
+        "text": "But I don't like it!",
+        "startTime": 13172,
+        "endTime": 14743,
+        "slowStartTime": 19908,
+        "slowEndTime": 22339
+    },
+    {
+        "text": "I'm going to sell this salt at the market.",
+        "startTime": 15986,
+        "endTime": 18955,
+        "slowStartTime": 24129,
+        "slowEndTime": 28657
+    },
+    {
+        "text": "Donkey! Stand still, will you?",
+        "startTime": 20088,
+        "endTime": 23277,
+        "slowStartTime": 30282,
+        "slowEndTime": 35141
+    },
+    {
+        "text": "Don't worry, this salt is not heavy.",
+        "startTime": 24590,
+        "endTime": 27294,
+        "slowStartTime": 37035,
+        "slowEndTime": 41166
+    },
+    {
+        "text": "No, it is always heavy.",
+        "startTime": 28502,
+        "endTime": 31350,
+        "slowStartTime": 42903,
+        "slowEndTime": 47250
+    }
+]

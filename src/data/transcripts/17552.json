@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Did you have a good time last weekend?",
+        "startTime": 3117,
+        "endTime": 5435,
+        "slowStartTime": 4826,
+        "slowEndTime": 8378
+    },
+    {
+        "text": "Yes, I did.",
+        "startTime": 6871,
+        "endTime": 7797,
+        "slowStartTime": 10456,
+        "slowEndTime": 11921
+    },
+    {
+        "text": "What did you do?",
+        "startTime": 9245,
+        "endTime": 10548,
+        "slowStartTime": 14018,
+        "slowEndTime": 16047
+    },
+    {
+        "text": "I went hiking with my dad.",
+        "startTime": 11619,
+        "endTime": 13421,
+        "slowStartTime": 17578,
+        "slowEndTime": 20356
+    },
+    {
+        "text": "So did I.",
+        "startTime": 14629,
+        "endTime": 15735,
+        "slowStartTime": 22094,
+        "slowEndTime": 23828
+    },
+    {
+        "text": "You don't look happy. What's wrong?",
+        "startTime": 18205,
+        "endTime": 20146,
+        "slowStartTime": 27458,
+        "slowEndTime": 30444
+    },
+    {
+        "text": "I was going to visit my grandma yesterday.",
+        "startTime": 21180,
+        "endTime": 23986,
+        "slowStartTime": 31920,
+        "slowEndTime": 36204
+    },
+    {
+        "text": "I made special cookies for my grandma.",
+        "startTime": 24419,
+        "endTime": 26987,
+        "slowStartTime": 36778,
+        "slowEndTime": 40706
+    },
+    {
+        "text": "Wow. That's very nice!",
+        "startTime": 28415,
+        "endTime": 30198,
+        "slowStartTime": 42773,
+        "slowEndTime": 45522
+    },
+    {
+        "text": "But I couldn't visit her because it rained heavily.",
+        "startTime": 31538,
+        "endTime": 34902,
+        "slowStartTime": 47457,
+        "slowEndTime": 52578
+    },
+    {
+        "text": "That's too bad.",
+        "startTime": 36505,
+        "endTime": 37749,
+        "slowStartTime": 54907,
+        "slowEndTime": 56848
+    }
+]

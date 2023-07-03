@@ -1,0 +1,254 @@
+[
+    {
+        "text": "Hi, I'm Hartmut. I'm an engineer at Google.",
+        "startTime": 450,
+        "endTime": 2900,
+        "slowStartTime": 900,
+        "slowEndTime": 4600
+    },
+    {
+        "text": "Hi, I'm Shailesh, product manager at Google.",
+        "startTime": 3700,
+        "endTime": 5900,
+        "slowStartTime": 5800,
+        "slowEndTime": 9120
+    },
+    {
+        "text": "We're here to introduce Google Goggles,...",
+        "startTime": 6500,
+        "endTime": 8500,
+        "slowStartTime": 10000,
+        "slowEndTime": 13000
+    },
+    {
+        "text": "...a visual search application for Android phones.",
+        "startTime": 8600,
+        "endTime": 11100,
+        "slowStartTime": 13200,
+        "slowEndTime": 16890
+    },
+    {
+        "text": "Until now, the only option for web search has been typing or speaking.",
+        "startTime": 11750,
+        "endTime": 15950,
+        "slowStartTime": 18000,
+        "slowEndTime": 24210
+    },
+    {
+        "text": "Now, you can search by taking a photo.",
+        "startTime": 16550,
+        "endTime": 18400,
+        "slowStartTime": 25100,
+        "slowEndTime": 27800
+    },
+    {
+        "text": "Let's try this book.",
+        "startTime": 19100,
+        "endTime": 20050,
+        "slowStartTime": 28900,
+        "slowEndTime": 30300
+    },
+    {
+        "text": "Just open Google Goggles,...",
+        "startTime": 20950,
+        "endTime": 22500,
+        "slowStartTime": 31700,
+        "slowEndTime": 34000
+    },
+    {
+        "text": "...fill as much of the screen as possible with the object...",
+        "startTime": 23000,
+        "endTime": 25700,
+        "slowStartTime": 34900,
+        "slowEndTime": 38700
+    },
+    {
+        "text": "...and take a picture.",
+        "startTime": 25900,
+        "endTime": 26850,
+        "slowStartTime": 39100,
+        "slowEndTime": 40400
+    },
+    {
+        "text": "You'll see the exact book match in the search results...",
+        "startTime": 27650,
+        "endTime": 30150,
+        "slowStartTime": 41800,
+        "slowEndTime": 45350
+    },
+    {
+        "text": "...without typing or saying a word.",
+        "startTime": 30300,
+        "endTime": 32000,
+        "slowStartTime": 45700,
+        "slowEndTime": 48200
+    },
+    {
+        "text": "Another good use is on a business card.",
+        "startTime": 32550,
+        "endTime": 34600,
+        "slowStartTime": 49100,
+        "slowEndTime": 52100
+    },
+    {
+        "text": "Let's try mine.",
+        "startTime": 34850,
+        "endTime": 35700,
+        "slowStartTime": 52570,
+        "slowEndTime": 53780
+    },
+    {
+        "text": "Frame the text you're interested in well.",
+        "startTime": 36100,
+        "endTime": 38050,
+        "slowStartTime": 54300,
+        "slowEndTime": 57300
+    },
+    {
+        "text": "Google Goggles will recognize the text and return a result.",
+        "startTime": 38600,
+        "endTime": 41850,
+        "slowStartTime": 58200,
+        "slowEndTime": 62900
+    },
+    {
+        "text": "Now, I can click to call Shailesh or add him to my contacts.",
+        "startTime": 42650,
+        "endTime": 46250,
+        "slowStartTime": 64250,
+        "slowEndTime": 69500
+    },
+    {
+        "text": "Let's go out and check what else Google Goggles can do.",
+        "startTime": 46800,
+        "endTime": 49150,
+        "slowStartTime": 70400,
+        "slowEndTime": 73950
+    },
+    {
+        "text": "We can figure out the title and artist of this painting,...",
+        "startTime": 49850,
+        "endTime": 52950,
+        "slowStartTime": 75000,
+        "slowEndTime": 79600
+    },
+    {
+        "text": "...or landmark information.",
+        "startTime": 54050,
+        "endTime": 55350,
+        "slowStartTime": 81400,
+        "slowEndTime": 83100
+    },
+    {
+        "text": "For local business information, you don't even need to take a picture.",
+        "startTime": 58900,
+        "endTime": 62250,
+        "slowStartTime": 88600,
+        "slowEndTime": 93600
+    },
+    {
+        "text": "Just point your phone at the store.",
+        "startTime": 62750,
+        "endTime": 64800,
+        "slowStartTime": 94400,
+        "slowEndTime": 97400
+    },
+    {
+        "text": "Using GPS and compass, Google Goggles will show you the name.",
+        "startTime": 65200,
+        "endTime": 68750,
+        "slowStartTime": 98100,
+        "slowEndTime": 103350
+    },
+    {
+        "text": "Tap the name to learn more about that store.",
+        "startTime": 69800,
+        "endTime": 72000,
+        "slowStartTime": 104910,
+        "slowEndTime": 108200
+    },
+    {
+        "text": "Visual search technology is still in its infancy.",
+        "startTime": 72750,
+        "endTime": 75000,
+        "slowStartTime": 109400,
+        "slowEndTime": 112690
+    },
+    {
+        "text": "It works best on things like we saw today...",
+        "startTime": 75450,
+        "endTime": 77600,
+        "slowStartTime": 113500,
+        "slowEndTime": 116600
+    },
+    {
+        "text": "...but it doesn't work well yet on things like food, cars, plants or animals.",
+        "startTime": 78450,
+        "endTime": 83250,
+        "slowStartTime": 117950,
+        "slowEndTime": 125000
+    },
+    {
+        "text": "And we're only scratching the surface of the visual search technology.",
+        "startTime": 83650,
+        "endTime": 87250,
+        "slowStartTime": 125700,
+        "slowEndTime": 131200
+    },
+    {
+        "text": "In the future, it will help you do more cool things,...",
+        "startTime": 87700,
+        "endTime": 90700,
+        "slowStartTime": 131800,
+        "slowEndTime": 136300
+    },
+    {
+        "text": "...like suggesting a move in a chess game...",
+        "startTime": 91150,
+        "endTime": 93250,
+        "slowStartTime": 137000,
+        "slowEndTime": 140100
+    },
+    {
+        "text": "...or taking a picture of a leaf to identify the plant.",
+        "startTime": 93500,
+        "endTime": 96600,
+        "slowStartTime": 140600,
+        "slowEndTime": 145000
+    },
+    {
+        "text": "You might wonder what happens to all these pictures you're taking.",
+        "startTime": 97350,
+        "endTime": 99950,
+        "slowStartTime": 146300,
+        "slowEndTime": 150100
+    },
+    {
+        "text": "You can choose to discard them as soon as the search is done...",
+        "startTime": 101100,
+        "endTime": 103600,
+        "slowStartTime": 152000,
+        "slowEndTime": 155600
+    },
+    {
+        "text": "...or save them to your search history to view them at any time.",
+        "startTime": 104150,
+        "endTime": 106900,
+        "slowStartTime": 156500,
+        "slowEndTime": 160600
+    },
+    {
+        "text": "It's available for Android-powered phones now.",
+        "startTime": 107650,
+        "endTime": 110150,
+        "slowStartTime": 161800,
+        "slowEndTime": 165400
+    },
+    {
+        "text": "To download, go to Android Market from your phone and search for Google Goggles.",
+        "startTime": 110500,
+        "endTime": 115450,
+        "slowStartTime": 166000,
+        "slowEndTime": 173400
+    }
+]

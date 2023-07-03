@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Wouldn't it be great if everybody could be an artist?",
+        "startTime": 934,
+        "endTime": 3423,
+        "slowStartTime": 1551,
+        "slowEndTime": 5359
+    },
+    {
+        "text": "If we could take our ideas and turn them into compelling images?",
+        "startTime": 3757,
+        "endTime": 7489,
+        "slowStartTime": 5785,
+        "slowEndTime": 11459
+    },
+    {
+        "text": "This technology allows us to create a smart paintbrush...",
+        "startTime": 8349,
+        "endTime": 12139,
+        "slowStartTime": 12674,
+        "slowEndTime": 18433
+    },
+    {
+        "text": "...so that if you wanted to create a new picture,...",
+        "startTime": 12285,
+        "endTime": 15049,
+        "slowStartTime": 18577,
+        "slowEndTime": 22799
+    },
+    {
+        "text": "...you can just draw the shapes of the objects that you want...",
+        "startTime": 15247,
+        "endTime": 18479,
+        "slowStartTime": 23021,
+        "slowEndTime": 27943
+    },
+    {
+        "text": "...and the neural network can then fill in all the details.",
+        "startTime": 18770,
+        "endTime": 21630,
+        "slowStartTime": 28305,
+        "slowEndTime": 32670
+    },
+    {
+        "text": "If we add a water feature, the network is able to add reflections,...",
+        "startTime": 25289,
+        "endTime": 29337,
+        "slowStartTime": 38083,
+        "slowEndTime": 44231
+    },
+    {
+        "text": "...not because we told it that, but because it learned it.",
+        "startTime": 29484,
+        "endTime": 31556,
+        "slowStartTime": 44376,
+        "slowEndTime": 47559
+    },
+    {
+        "text": "Or if we change the ground to be covered with snow,...",
+        "startTime": 32855,
+        "endTime": 35840,
+        "slowStartTime": 49432,
+        "slowEndTime": 53985
+    },
+    {
+        "text": "...then it knows that the sky also needs to be a different color.",
+        "startTime": 35922,
+        "endTime": 39347,
+        "slowStartTime": 54033,
+        "slowEndTime": 59246
+    },
+    {
+        "text": "I really think this technology is gonna be great for architects, designers,...",
+        "startTime": 41055,
+        "endTime": 45898,
+        "slowStartTime": 61732,
+        "slowEndTime": 69072
+    },
+    {
+        "text": "...people making virtual worlds to train robots and self-driving cars.",
+        "startTime": 46015,
+        "endTime": 50207,
+        "slowStartTime": 69173,
+        "slowEndTime": 75535
+    },
+    {
+        "text": "The real advance here is that we're able to synthesize images...",
+        "startTime": 51812,
+        "endTime": 55349,
+        "slowStartTime": 77868,
+        "slowEndTime": 83248
+    },
+    {
+        "text": "...with a lot more diversity and more fidelity than we are able to in the past.",
+        "startTime": 55434,
+        "endTime": 59656,
+        "slowStartTime": 83301,
+        "slowEndTime": 89709
+    },
+    {
+        "text": "I really think this technology is gonna be great for the dreamers of the world.",
+        "startTime": 60005,
+        "endTime": 64505,
+        "slowStartTime": 90157,
+        "slowEndTime": 96983
+    }
+]

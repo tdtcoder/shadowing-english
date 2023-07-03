@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Hello, Mr. Rashid.",
+        "startTime": 1219,
+        "endTime": 2989,
+        "slowStartTime": 1978,
+        "slowEndTime": 4709
+    },
+    {
+        "text": "Hi!",
+        "startTime": 3064,
+        "endTime": 3503,
+        "slowStartTime": 4746,
+        "slowEndTime": 5479
+    },
+    {
+        "text": "How are you?",
+        "startTime": 3584,
+        "endTime": 4037,
+        "slowStartTime": 5526,
+        "slowEndTime": 6280
+    },
+    {
+        "text": "Fine, thank you.",
+        "startTime": 4120,
+        "endTime": 5165,
+        "slowStartTime": 6330,
+        "slowEndTime": 7972
+    },
+    {
+        "text": "How was your vacation?",
+        "startTime": 5409,
+        "endTime": 6392,
+        "slowStartTime": 8263,
+        "slowEndTime": 9813
+    },
+    {
+        "text": "It was wonderful.",
+        "startTime": 6483,
+        "endTime": 7179,
+        "slowStartTime": 9874,
+        "slowEndTime": 10994
+    },
+    {
+        "text": "I'm so happy to hear that.",
+        "startTime": 7519,
+        "endTime": 8669,
+        "slowStartTime": 11429,
+        "slowEndTime": 13229
+    },
+    {
+        "text": "Was your flight okay?",
+        "startTime": 9035,
+        "endTime": 10069,
+        "slowStartTime": 13703,
+        "slowEndTime": 15329
+    },
+    {
+        "text": "No. Pretty bad, actually.",
+        "startTime": 10381,
+        "endTime": 11709,
+        "slowStartTime": 15721,
+        "slowEndTime": 17788
+    },
+    {
+        "text": "It was so bumpy; it was very scary.",
+        "startTime": 11915,
+        "endTime": 14228,
+        "slowStartTime": 18022,
+        "slowEndTime": 21567
+    },
+    {
+        "text": "Was the hotel room nice?",
+        "startTime": 14418,
+        "endTime": 16125,
+        "slowStartTime": 21777,
+        "slowEndTime": 24412
+    },
+    {
+        "text": "The room was fine, but it was right next to the cafe,...",
+        "startTime": 16379,
+        "endTime": 19212,
+        "slowStartTime": 24719,
+        "slowEndTime": 29043
+    },
+    {
+        "text": "...and the music was very loud, I didn't sleep much.",
+        "startTime": 19583,
+        "endTime": 22409,
+        "slowStartTime": 29525,
+        "slowEndTime": 33838
+    }
+]

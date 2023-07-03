@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Camping.",
+        "startTime": 294,
+        "endTime": 995,
+        "slowStartTime": 591,
+        "slowEndTime": 1717
+    },
+    {
+        "text": "You'll need to set up a tent when you go camping.",
+        "startTime": 1528,
+        "endTime": 3950,
+        "slowStartTime": 2442,
+        "slowEndTime": 6150
+    },
+    {
+        "text": "You can sing songs around the campfire.",
+        "startTime": 7091,
+        "endTime": 9560,
+        "slowStartTime": 10787,
+        "slowEndTime": 14565
+    },
+    {
+        "text": "Roasting marshmallows is great!",
+        "startTime": 12743,
+        "endTime": 15226,
+        "slowStartTime": 19265,
+        "slowEndTime": 23064
+    },
+    {
+        "text": "S'mores are delicious, too.",
+        "startTime": 18285,
+        "endTime": 20526,
+        "slowStartTime": 27578,
+        "slowEndTime": 31014
+    },
+    {
+        "text": "Don't forget your thermos of coffee!",
+        "startTime": 23543,
+        "endTime": 25735,
+        "slowStartTime": 35464,
+        "slowEndTime": 38828
+    },
+    {
+        "text": "You'll enjoy beautiful sunrises and sunsets.",
+        "startTime": 29279,
+        "endTime": 32868,
+        "slowStartTime": 44068,
+        "slowEndTime": 49527
+    },
+    {
+        "text": "Camping can be scary!",
+        "startTime": 35767,
+        "endTime": 37896,
+        "slowStartTime": 53801,
+        "slowEndTime": 57069
+    },
+    {
+        "text": "You can go swimming when you go camping.",
+        "startTime": 41019,
+        "endTime": 43036,
+        "slowStartTime": 61678,
+        "slowEndTime": 64779
+    },
+    {
+        "text": "You can go fishing.",
+        "startTime": 46131,
+        "endTime": 47455,
+        "slowStartTime": 69347,
+        "slowEndTime": 71407
+    },
+    {
+        "text": "Don't forget your backpack!",
+        "startTime": 50389,
+        "endTime": 52171,
+        "slowStartTime": 75733,
+        "slowEndTime": 78481
+    },
+    {
+        "text": "What other things do you need when you go camping?",
+        "startTime": 55225,
+        "endTime": 58179,
+        "slowStartTime": 82987,
+        "slowEndTime": 87494
+    }
+]

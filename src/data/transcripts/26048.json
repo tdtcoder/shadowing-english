@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Let's learn how to describe people.",
+        "startTime": 877,
+        "endTime": 3159,
+        "slowStartTime": 1465,
+        "slowEndTime": 4964
+    },
+    {
+        "text": "She's friendly. She's got long red hair and a nice smile.",
+        "startTime": 5868,
+        "endTime": 11351,
+        "slowStartTime": 8952,
+        "slowEndTime": 17251
+    },
+    {
+        "text": "She's unfriendly. She's young and has straight black hair.",
+        "startTime": 14277,
+        "endTime": 20629,
+        "slowStartTime": 21565,
+        "slowEndTime": 31168
+    },
+    {
+        "text": "She's got short gray hair and is talkative.",
+        "startTime": 23879,
+        "endTime": 27790,
+        "slowStartTime": 35969,
+        "slowEndTime": 41910
+    },
+    {
+        "text": "He's funny. He's got nice hair and dresses well.",
+        "startTime": 31041,
+        "endTime": 35602,
+        "slowStartTime": 46711,
+        "slowEndTime": 53628
+    },
+    {
+        "text": "He's smart. He's got glasses and short brown hair.",
+        "startTime": 38690,
+        "endTime": 44065,
+        "slowStartTime": 58185,
+        "slowEndTime": 66322
+    },
+    {
+        "text": "He's tall and athletic.",
+        "startTime": 46774,
+        "endTime": 49735,
+        "slowStartTime": 70311,
+        "slowEndTime": 74827
+    },
+    {
+        "text": "He's got a nice smile and is friendly.",
+        "startTime": 52552,
+        "endTime": 56408,
+        "slowStartTime": 78978,
+        "slowEndTime": 84837
+    },
+    {
+        "text": "He's quiet. He's got wavy hair and nice eyes.",
+        "startTime": 59469,
+        "endTime": 64953,
+        "slowStartTime": 89353,
+        "slowEndTime": 97654
+    },
+    {
+        "text": "He's got short hair and a mustache. He's a sharp dresser.",
+        "startTime": 67932,
+        "endTime": 72846,
+        "slowStartTime": 102048,
+        "slowEndTime": 109494
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Stop watching TV and do your homework!",
+        "startTime": 1733,
+        "endTime": 5111,
+        "slowStartTime": 2749,
+        "slowEndTime": 7892
+    },
+    {
+        "text": "Okay, Mom.",
+        "startTime": 6211,
+        "endTime": 7549,
+        "slowStartTime": 9466,
+        "slowEndTime": 11548
+    },
+    {
+        "text": "Is Doris practicing the piano?",
+        "startTime": 8619,
+        "endTime": 10695,
+        "slowStartTime": 13079,
+        "slowEndTime": 16268
+    },
+    {
+        "text": "No, she is listening to music for three hours.",
+        "startTime": 11739,
+        "endTime": 15841,
+        "slowStartTime": 17758,
+        "slowEndTime": 23987
+    },
+    {
+        "text": "Doris, stop listening to music and practice the piano.",
+        "startTime": 16871,
+        "endTime": 21427,
+        "slowStartTime": 25456,
+        "slowEndTime": 32365
+    },
+    {
+        "text": "Okay, Mom.",
+        "startTime": 22489,
+        "endTime": 24038,
+        "slowStartTime": 33884,
+        "slowEndTime": 36282
+    },
+    {
+        "text": "Oh, now Doris stops listening to music.",
+        "startTime": 25059,
+        "endTime": 28505,
+        "slowStartTime": 37738,
+        "slowEndTime": 42983
+    },
+    {
+        "text": "She stops to practice the piano.",
+        "startTime": 28750,
+        "endTime": 31365,
+        "slowStartTime": 43275,
+        "slowEndTime": 47272
+    },
+    {
+        "text": "Tell, tell, tell, tell me about spring.",
+        "startTime": 36428,
+        "endTime": 39611,
+        "slowStartTime": 54792,
+        "slowEndTime": 59641
+    },
+    {
+        "text": "The snow melts, plants begin to grow.",
+        "startTime": 39952,
+        "endTime": 43389,
+        "slowStartTime": 60078,
+        "slowEndTime": 65308
+    },
+    {
+        "text": "The days get longer, the nights get shorter.",
+        "startTime": 43696,
+        "endTime": 47157,
+        "slowStartTime": 65694,
+        "slowEndTime": 70960
+    },
+    {
+        "text": "Tell, tell, tell, tell me about fall.",
+        "startTime": 47685,
+        "endTime": 50798,
+        "slowStartTime": 71678,
+        "slowEndTime": 76422
+    },
+    {
+        "text": "Leaves begin to fall, plants stop growing.",
+        "startTime": 51377,
+        "endTime": 54658,
+        "slowStartTime": 77216,
+        "slowEndTime": 82212
+    },
+    {
+        "text": "The days get shorter, the nights get longer.",
+        "startTime": 54951,
+        "endTime": 58415,
+        "slowStartTime": 82576,
+        "slowEndTime": 87847
+    },
+    {
+        "text": "The weather changes with each season.",
+        "startTime": 58708,
+        "endTime": 62163,
+        "slowStartTime": 88212,
+        "slowEndTime": 93469
+    },
+    {
+        "text": "We have four seasons. Spring, summer, fall and winter!",
+        "startTime": 62591,
+        "endTime": 66864,
+        "slowStartTime": 94037,
+        "slowEndTime": 100521
+    }
+]

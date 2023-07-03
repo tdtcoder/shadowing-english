@@ -1,0 +1,37 @@
+[
+    {
+        "text": "What is your favorite American expression?",
+        "startTime": 50,
+        "endTime": 2100,
+        "slowStartTime": 230,
+        "slowEndTime": 3200
+    },
+    {
+        "text": "August in Kansas City,...",
+        "startTime": 17550,
+        "endTime": 20000,
+        "slowStartTime": 26600,
+        "slowEndTime": 30200
+    },
+    {
+        "text": "...it's hotter than 2 rats in a f---ing wool sock.",
+        "startTime": 22300,
+        "endTime": 24750,
+        "slowStartTime": 33700,
+        "slowEndTime": 37460
+    },
+    {
+        "text": "It's my favorite.",
+        "startTime": 30000,
+        "endTime": 30900,
+        "slowStartTime": 45255,
+        "slowEndTime": 46610
+    },
+    {
+        "text": "I have a bad teammate.",
+        "startTime": 32600,
+        "endTime": 33800,
+        "slowStartTime": 49130,
+        "slowEndTime": 51030
+    }
+]

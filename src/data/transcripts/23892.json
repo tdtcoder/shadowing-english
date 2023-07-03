@@ -1,0 +1,128 @@
+[
+    {
+        "text": "What's your name?",
+        "startTime": 2069,
+        "endTime": 2604,
+        "slowStartTime": 3253,
+        "slowEndTime": 4131
+    },
+    {
+        "text": "Victoria.",
+        "startTime": 2901,
+        "endTime": 3540,
+        "slowStartTime": 4501,
+        "slowEndTime": 5535
+    },
+    {
+        "text": "Victoria.",
+        "startTime": 3623,
+        "endTime": 4317,
+        "slowStartTime": 5585,
+        "slowEndTime": 6700
+    },
+    {
+        "text": "And what's your name?",
+        "startTime": 4435,
+        "endTime": 5113,
+        "slowStartTime": 6803,
+        "slowEndTime": 7894
+    },
+    {
+        "text": "Keira.",
+        "startTime": 6443,
+        "endTime": 7147,
+        "slowStartTime": 9815,
+        "slowEndTime": 10946
+    },
+    {
+        "text": "We got a big jug of milk.",
+        "startTime": 7410,
+        "endTime": 11295,
+        "slowStartTime": 11265,
+        "slowEndTime": 17168
+    },
+    {
+        "text": "What are you gonna go home and make tonight?",
+        "startTime": 11537,
+        "endTime": 12896,
+        "slowStartTime": 17455,
+        "slowEndTime": 19569
+    },
+    {
+        "text": "Chocolate milk for her.",
+        "startTime": 13029,
+        "endTime": 14107,
+        "slowStartTime": 19693,
+        "slowEndTime": 21385
+    },
+    {
+        "text": "Are you a good cook?",
+        "startTime": 14274,
+        "endTime": 15121,
+        "slowStartTime": 21561,
+        "slowEndTime": 22907
+    },
+    {
+        "text": "Yes.",
+        "startTime": 15280,
+        "endTime": 15708,
+        "slowStartTime": 23070,
+        "slowEndTime": 23787
+    },
+    {
+        "text": "What is your best dish?",
+        "startTime": 15911,
+        "endTime": 17812,
+        "slowStartTime": 24017,
+        "slowEndTime": 26943
+    },
+    {
+        "text": "Spaghetti and meatballs.",
+        "startTime": 18060,
+        "endTime": 19702,
+        "slowStartTime": 27240,
+        "slowEndTime": 29778
+    },
+    {
+        "text": "I love spaghetti and meatballs.",
+        "startTime": 19947,
+        "endTime": 21394,
+        "slowStartTime": 30071,
+        "slowEndTime": 32316
+    },
+    {
+        "text": "What's your favorite food and why?",
+        "startTime": 21609,
+        "endTime": 23195,
+        "slowStartTime": 32564,
+        "slowEndTime": 35018
+    },
+    {
+        "text": "Chicken nuggets.",
+        "startTime": 23365,
+        "endTime": 24697,
+        "slowStartTime": 35198,
+        "slowEndTime": 37271
+    },
+    {
+        "text": "Chicken nuggets, why?",
+        "startTime": 25077,
+        "endTime": 26263,
+        "slowStartTime": 37765,
+        "slowEndTime": 39619
+    },
+    {
+        "text": "Because I like chicken nuggets.",
+        "startTime": 26453,
+        "endTime": 28858,
+        "slowStartTime": 39830,
+        "slowEndTime": 43512
+    },
+    {
+        "text": "You guys win a gallon of milk.",
+        "startTime": 28975,
+        "endTime": 32012,
+        "slowStartTime": 43612,
+        "slowEndTime": 48243
+    }
+]

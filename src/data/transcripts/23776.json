@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Love arrives exactly when love is supposed to,...",
+        "startTime": 340,
+        "endTime": 3175,
+        "slowStartTime": 660,
+        "slowEndTime": 4988
+    },
+    {
+        "text": "...and love leaves exactly when love must.",
+        "startTime": 3807,
+        "endTime": 6065,
+        "slowStartTime": 5860,
+        "slowEndTime": 9322
+    },
+    {
+        "text": "When love arrives, say, \"Welcome.\"",
+        "startTime": 6357,
+        "endTime": 8763,
+        "slowStartTime": 9685,
+        "slowEndTime": 13369
+    },
+    {
+        "text": "\"Make yourself comfortable.\"",
+        "startTime": 9204,
+        "endTime": 10587,
+        "slowStartTime": 13956,
+        "slowEndTime": 16105
+    },
+    {
+        "text": "If love leaves, ask her to leave the door open behind her.",
+        "startTime": 11210,
+        "endTime": 14532,
+        "slowStartTime": 16965,
+        "slowEndTime": 22023
+    },
+    {
+        "text": "Turn off the music, listen to the quiet, whisper, \"Thank you for stopping by.\"",
+        "startTime": 15100,
+        "endTime": 21493,
+        "slowStartTime": 22505,
+        "slowEndTime": 32464
+    }
+]

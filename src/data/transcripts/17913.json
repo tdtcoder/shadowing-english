@@ -1,0 +1,23 @@
+[
+    {
+        "text": "One day, when Ali Baba was in the forest,...",
+        "startTime": 3433,
+        "endTime": 5670,
+        "slowStartTime": 5300,
+        "slowEndTime": 8730
+    },
+    {
+        "text": "...he saw some robbers coming towards him.",
+        "startTime": 6121,
+        "endTime": 8213,
+        "slowStartTime": 9331,
+        "slowEndTime": 12545
+    },
+    {
+        "text": "Ali Baba was afraid of them so he climbed a tree.",
+        "startTime": 8899,
+        "endTime": 12607,
+        "slowStartTime": 13498,
+        "slowEndTime": 19135
+    }
+]

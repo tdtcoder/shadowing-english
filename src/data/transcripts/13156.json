@@ -1,0 +1,135 @@
+[
+    {
+        "text": "Let's go outside.",
+        "startTime": 1657,
+        "endTime": 3469,
+        "slowStartTime": 2635,
+        "slowEndTime": 5428
+    },
+    {
+        "text": "It's a beautiful sunny day.",
+        "startTime": 4044,
+        "endTime": 6517,
+        "slowStartTime": 6216,
+        "slowEndTime": 10000
+    },
+    {
+        "text": "I want to go for a bike ride.",
+        "startTime": 7249,
+        "endTime": 9979,
+        "slowStartTime": 11024,
+        "slowEndTime": 15193
+    },
+    {
+        "text": "I can ride my bike even with no handlebars.",
+        "startTime": 10817,
+        "endTime": 14798,
+        "slowStartTime": 16376,
+        "slowEndTime": 22422
+    },
+    {
+        "text": "How about you?",
+        "startTime": 15487,
+        "endTime": 16737,
+        "slowStartTime": 23380,
+        "slowEndTime": 25330
+    },
+    {
+        "text": "Biking is a great way to get around.",
+        "startTime": 17571,
+        "endTime": 21198,
+        "slowStartTime": 26507,
+        "slowEndTime": 32022
+    },
+    {
+        "text": "How fast can you ride your bike?",
+        "startTime": 22144,
+        "endTime": 25173,
+        "slowStartTime": 33366,
+        "slowEndTime": 37985
+    },
+    {
+        "text": "What kind of bike do you ride?",
+        "startTime": 26027,
+        "endTime": 28751,
+        "slowStartTime": 39190,
+        "slowEndTime": 43352
+    },
+    {
+        "text": "I have a mountain bike, like the people in this photograph.",
+        "startTime": 29847,
+        "endTime": 34768,
+        "slowStartTime": 44921,
+        "slowEndTime": 52377
+    },
+    {
+        "text": "Mountain biking always makes me feel refreshed.",
+        "startTime": 35752,
+        "endTime": 39777,
+        "slowStartTime": 53778,
+        "slowEndTime": 59891
+    },
+    {
+        "text": "Don't forget to wear your helmet.",
+        "startTime": 40621,
+        "endTime": 43047,
+        "slowStartTime": 61082,
+        "slowEndTime": 64796
+    },
+    {
+        "text": "It is important to be safe.",
+        "startTime": 43817,
+        "endTime": 45960,
+        "slowStartTime": 65875,
+        "slowEndTime": 69165
+    },
+    {
+        "text": "This is good exercise.",
+        "startTime": 46898,
+        "endTime": 49149,
+        "slowStartTime": 70497,
+        "slowEndTime": 73949
+    },
+    {
+        "text": "Are you tired yet?",
+        "startTime": 50265,
+        "endTime": 51713,
+        "slowStartTime": 75548,
+        "slowEndTime": 77795
+    },
+    {
+        "text": "Wow, I need some water.",
+        "startTime": 52562,
+        "endTime": 55583,
+        "slowStartTime": 78993,
+        "slowEndTime": 83600
+    },
+    {
+        "text": "Where would you like to ride to?",
+        "startTime": 56529,
+        "endTime": 58974,
+        "slowStartTime": 84944,
+        "slowEndTime": 88686
+    },
+    {
+        "text": "I like to ride my bike beside the river, on the way to the park.",
+        "startTime": 59876,
+        "endTime": 65774,
+        "slowStartTime": 89964,
+        "slowEndTime": 98886
+    },
+    {
+        "text": "There is so much to see and enjoy on a bike ride.",
+        "startTime": 66482,
+        "endTime": 71041,
+        "slowStartTime": 99873,
+        "slowEndTime": 106786
+    },
+    {
+        "text": "Yes, let's go!",
+        "startTime": 71653,
+        "endTime": 73825,
+        "slowStartTime": 107630,
+        "slowEndTime": 110963
+    }
+]

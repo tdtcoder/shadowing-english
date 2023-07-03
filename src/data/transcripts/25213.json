@@ -1,0 +1,135 @@
+[
+    {
+        "text": "The stage is set.",
+        "startTime": 2197,
+        "endTime": 3319,
+        "slowStartTime": 3446,
+        "slowEndTime": 5204
+    },
+    {
+        "text": "The curtain rises.",
+        "startTime": 3777,
+        "endTime": 4781,
+        "slowStartTime": 5816,
+        "slowEndTime": 7397
+    },
+    {
+        "text": "We are ready to begin.",
+        "startTime": 6123,
+        "endTime": 7395,
+        "slowStartTime": 9335,
+        "slowEndTime": 11317
+    },
+    {
+        "text": "You promised to keep him safe!",
+        "startTime": 13432,
+        "endTime": 15165,
+        "slowStartTime": 20298,
+        "slowEndTime": 22973
+    },
+    {
+        "text": "You promised!",
+        "startTime": 15285,
+        "endTime": 16437,
+        "slowStartTime": 23077,
+        "slowEndTime": 24881
+    },
+    {
+        "text": "Well, Holmes?",
+        "startTime": 18483,
+        "endTime": 19151,
+        "slowStartTime": 27874,
+        "slowEndTime": 28952
+    },
+    {
+        "text": "Surely you must have some theory.",
+        "startTime": 19841,
+        "endTime": 22132,
+        "slowStartTime": 29912,
+        "slowEndTime": 33423
+    },
+    {
+        "text": "We all have a past, Watson. Ghosts.",
+        "startTime": 22808,
+        "endTime": 24985,
+        "slowStartTime": 34362,
+        "slowEndTime": 37703
+    },
+    {
+        "text": "They are the shadows that define our every sunny day.",
+        "startTime": 25278,
+        "endTime": 27902,
+        "slowStartTime": 38067,
+        "slowEndTime": 42078
+    },
+    {
+        "text": "Every great cause has martyrs.",
+        "startTime": 31306,
+        "endTime": 32825,
+        "slowStartTime": 47109,
+        "slowEndTime": 49463
+    },
+    {
+        "text": "Every war has suicide missions, and make no mistake, this is war.",
+        "startTime": 35131,
+        "endTime": 39014,
+        "slowStartTime": 52846,
+        "slowEndTime": 58746
+    },
+    {
+        "text": "Why are you doing this?",
+        "startTime": 39145,
+        "endTime": 40011,
+        "slowStartTime": 58867,
+        "slowEndTime": 60241
+    },
+    {
+        "text": "Tell me who you are!",
+        "startTime": 40253,
+        "endTime": 41227,
+        "slowStartTime": 60530,
+        "slowEndTime": 62065
+    },
+    {
+        "text": "What made you like this?",
+        "startTime": 41615,
+        "endTime": 42820,
+        "slowStartTime": 62572,
+        "slowEndTime": 64455
+    },
+    {
+        "text": "Oh Watson, nothing made me.",
+        "startTime": 43083,
+        "endTime": 47017,
+        "slowStartTime": 64774,
+        "slowEndTime": 70751
+    },
+    {
+        "text": "I made me.",
+        "startTime": 49992,
+        "endTime": 50898,
+        "slowStartTime": 75138,
+        "slowEndTime": 76572
+    },
+    {
+        "text": "Who are you?",
+        "startTime": 51374,
+        "endTime": 52103,
+        "slowStartTime": 77211,
+        "slowEndTime": 78380
+    },
+    {
+        "text": "I demand you speak, who are you?",
+        "startTime": 53209,
+        "endTime": 55150,
+        "slowStartTime": 79963,
+        "slowEndTime": 82950
+    },
+    {
+        "text": "The name is Sherlock Holmes, and the address is 221B Baker Street.",
+        "startTime": 56228,
+        "endTime": 61727,
+        "slowStartTime": 84492,
+        "slowEndTime": 92815
+    }
+]

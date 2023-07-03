@@ -1,0 +1,121 @@
+[
+    {
+        "text": "In the morning, a teenager wakes up and uses facial recognition...",
+        "startTime": 551,
+        "endTime": 3823,
+        "slowStartTime": 977,
+        "slowEndTime": 5960
+    },
+    {
+        "text": "...to unlock her phone.",
+        "startTime": 3996,
+        "endTime": 5081,
+        "slowStartTime": 6144,
+        "slowEndTime": 7846
+    },
+    {
+        "text": "She scrolls through social media feeds to see what's new.",
+        "startTime": 5345,
+        "endTime": 8158,
+        "slowStartTime": 8167,
+        "slowEndTime": 12462
+    },
+    {
+        "text": "Then, she asks the voice assistant on her phone...",
+        "startTime": 8433,
+        "endTime": 10945,
+        "slowStartTime": 12800,
+        "slowEndTime": 16642
+    },
+    {
+        "text": "...what the weather's going to be like that day....",
+        "startTime": 11042,
+        "endTime": 12687,
+        "slowStartTime": 16713,
+        "slowEndTime": 19255
+    },
+    {
+        "text": "...so she knows how to dress for school.",
+        "startTime": 12779,
+        "endTime": 14447,
+        "slowStartTime": 19319,
+        "slowEndTime": 21895
+    },
+    {
+        "text": "A college student uses an app on his phone...",
+        "startTime": 15615,
+        "endTime": 17895,
+        "slowStartTime": 23572,
+        "slowEndTime": 27067
+    },
+    {
+        "text": "...to deposit a birthday check from his grandmother.",
+        "startTime": 17982,
+        "endTime": 20101,
+        "slowStartTime": 27123,
+        "slowEndTime": 30377
+    },
+    {
+        "text": "He takes a photo of the check,...",
+        "startTime": 20404,
+        "endTime": 21710,
+        "slowStartTime": 30756,
+        "slowEndTime": 32790
+    },
+    {
+        "text": "...and the app automatically reads the handwriting...",
+        "startTime": 22007,
+        "endTime": 24244,
+        "slowStartTime": 33161,
+        "slowEndTime": 36591
+    },
+    {
+        "text": "...to figure out the amount.",
+        "startTime": 24335,
+        "endTime": 25499,
+        "slowStartTime": 36652,
+        "slowEndTime": 38473
+    },
+    {
+        "text": "It then deposits in into his account.",
+        "startTime": 26004,
+        "endTime": 27859,
+        "slowStartTime": 39156,
+        "slowEndTime": 42013
+    },
+    {
+        "text": "Meanwhile, a younger student uses a different app...",
+        "startTime": 29205,
+        "endTime": 31639,
+        "slowStartTime": 43957,
+        "slowEndTime": 47684
+    },
+    {
+        "text": "...that is teaching her a new language.",
+        "startTime": 31822,
+        "endTime": 33769,
+        "slowStartTime": 47883,
+        "slowEndTime": 50878
+    },
+    {
+        "text": "The app listens to what she says...",
+        "startTime": 34132,
+        "endTime": 35787,
+        "slowStartTime": 51348,
+        "slowEndTime": 53906
+    },
+    {
+        "text": "...and can recognize what she's saying even if she makes mistakes.",
+        "startTime": 35873,
+        "endTime": 38938,
+        "slowStartTime": 53960,
+        "slowEndTime": 58632
+    },
+    {
+        "text": "The app then gives her personalized feedback on her pronunciation.",
+        "startTime": 39337,
+        "endTime": 42676,
+        "slowStartTime": 59155,
+        "slowEndTime": 64239
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "text": "It's one of the most visited places on earth,...",
+        "startTime": 1989,
+        "endTime": 4447,
+        "slowStartTime": 3134,
+        "slowEndTime": 6896
+    },
+    {
+        "text": "...but hidden from the eyes of tourists,...",
+        "startTime": 4652,
+        "endTime": 6313,
+        "slowStartTime": 7128,
+        "slowEndTime": 9695
+    },
+    {
+        "text": "...these people wait in line behind the Vatican's Bernini Columns.",
+        "startTime": 6401,
+        "endTime": 9941,
+        "slowStartTime": 9752,
+        "slowEndTime": 15136
+    },
+    {
+        "text": "They're homeless.",
+        "startTime": 10253,
+        "endTime": 11056,
+        "slowStartTime": 15529,
+        "slowEndTime": 16809
+    },
+    {
+        "text": "They're hoping to take a shower and get a haircut in the newly opened shower stalls.",
+        "startTime": 11303,
+        "endTime": 16260,
+        "slowStartTime": 17105,
+        "slowEndTime": 24615
+    },
+    {
+        "text": "This really helps us out a lot.",
+        "startTime": 17099,
+        "endTime": 18153,
+        "slowStartTime": 25798,
+        "slowEndTime": 27455
+    },
+    {
+        "text": "It's great for people like us who don't have a house or any belongings.",
+        "startTime": 18318,
+        "endTime": 21415,
+        "slowStartTime": 27627,
+        "slowEndTime": 32348
+    },
+    {
+        "text": "It's a very difficult situation to be in.",
+        "startTime": 21583,
+        "endTime": 23491,
+        "slowStartTime": 32524,
+        "slowEndTime": 35462
+    },
+    {
+        "text": "This Vatican Barbershop is proof that there are people willing to help.",
+        "startTime": 23690,
+        "endTime": 27521,
+        "slowStartTime": 35685,
+        "slowEndTime": 41507
+    },
+    {
+        "text": "Once a week, Marco takes a four-hour train ride from his neighborhood to Rome,...",
+        "startTime": 27883,
+        "endTime": 32407,
+        "slowStartTime": 41975,
+        "slowEndTime": 48835
+    },
+    {
+        "text": "...to donate his services.",
+        "startTime": 32707,
+        "endTime": 34166,
+        "slowStartTime": 49211,
+        "slowEndTime": 51474
+    },
+    {
+        "text": "They've taught me to never make a distinction between those who have money and those who don't.",
+        "startTime": 34233,
+        "endTime": 37723,
+        "slowStartTime": 51500,
+        "slowEndTime": 56810
+    },
+    {
+        "text": "They've shown me to look at people with integrity because everyone deserves to be listened to.",
+        "startTime": 38131,
+        "endTime": 42069,
+        "slowStartTime": 57346,
+        "slowEndTime": 63329
+    },
+    {
+        "text": "He's been a hairdresser for the last 40 years.",
+        "startTime": 42493,
+        "endTime": 44979,
+        "slowStartTime": 63889,
+        "slowEndTime": 67694
+    },
+    {
+        "text": "It's what he does for a living.",
+        "startTime": 45079,
+        "endTime": 46577,
+        "slowStartTime": 67769,
+        "slowEndTime": 70091
+    },
+    {
+        "text": "But coming to Rome to help the homeless isn't about money or profit.",
+        "startTime": 46817,
+        "endTime": 50806,
+        "slowStartTime": 70375,
+        "slowEndTime": 76434
+    },
+    {
+        "text": "Helping the needy, he says, is something that money just can't buy.",
+        "startTime": 51211,
+        "endTime": 55485,
+        "slowStartTime": 76967,
+        "slowEndTime": 83452
+    }
+]

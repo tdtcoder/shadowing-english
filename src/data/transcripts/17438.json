@@ -1,0 +1,107 @@
+[
+    {
+        "text": "A dog is in a house.",
+        "startTime": 2934,
+        "endTime": 4637,
+        "slowStartTime": 4551,
+        "slowEndTime": 7181
+    },
+    {
+        "text": "A cow is in a barn.",
+        "startTime": 5753,
+        "endTime": 7321,
+        "slowStartTime": 8779,
+        "slowEndTime": 11207
+    },
+    {
+        "text": "A pig is in the mud.",
+        "startTime": 8470,
+        "endTime": 10225,
+        "slowStartTime": 12855,
+        "slowEndTime": 15562
+    },
+    {
+        "text": "A chicken is in the hay.",
+        "startTime": 11327,
+        "endTime": 13059,
+        "slowStartTime": 17140,
+        "slowEndTime": 19814
+    },
+    {
+        "text": "A goat is in a field.",
+        "startTime": 14203,
+        "endTime": 15864,
+        "slowStartTime": 21455,
+        "slowEndTime": 24021
+    },
+    {
+        "text": "A duck is on a pond.",
+        "startTime": 17035,
+        "endTime": 18606,
+        "slowStartTime": 25702,
+        "slowEndTime": 28134
+    },
+    {
+        "text": "A sheep is on a hill.",
+        "startTime": 19726,
+        "endTime": 21284,
+        "slowStartTime": 29739,
+        "slowEndTime": 32151
+    },
+    {
+        "text": "Animals are on a farm.",
+        "startTime": 22353,
+        "endTime": 24285,
+        "slowStartTime": 33680,
+        "slowEndTime": 36653
+    },
+    {
+        "text": "Where is the dog?",
+        "startTime": 28471,
+        "endTime": 29721,
+        "slowStartTime": 42856,
+        "slowEndTime": 44806
+    },
+    {
+        "text": "It is in a house.",
+        "startTime": 30992,
+        "endTime": 32309,
+        "slowStartTime": 46638,
+        "slowEndTime": 48689
+    },
+    {
+        "text": "Is the duck in a house, too?",
+        "startTime": 33539,
+        "endTime": 35842,
+        "slowStartTime": 50458,
+        "slowEndTime": 53988
+    },
+    {
+        "text": "No, it isn't.",
+        "startTime": 36975,
+        "endTime": 38128,
+        "slowStartTime": 55613,
+        "slowEndTime": 57417
+    },
+    {
+        "text": "It is on a pond.",
+        "startTime": 38590,
+        "endTime": 39727,
+        "slowStartTime": 58035,
+        "slowEndTime": 59815
+    },
+    {
+        "text": "What is in a field?",
+        "startTime": 40924,
+        "endTime": 42407,
+        "slowStartTime": 61536,
+        "slowEndTime": 63836
+    },
+    {
+        "text": "A goat is in a field.",
+        "startTime": 43478,
+        "endTime": 45188,
+        "slowStartTime": 65367,
+        "slowEndTime": 68007
+    }
+]

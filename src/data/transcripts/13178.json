@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Good morning!",
+        "startTime": 3083,
+        "endTime": 4315,
+        "slowStartTime": 4775,
+        "slowEndTime": 6698
+    },
+    {
+        "text": "It's time for school.",
+        "startTime": 4815,
+        "endTime": 6348,
+        "slowStartTime": 7372,
+        "slowEndTime": 9747
+    },
+    {
+        "text": "Grab your school bag and hurry up.",
+        "startTime": 7004,
+        "endTime": 9927,
+        "slowStartTime": 10656,
+        "slowEndTime": 15116
+    },
+    {
+        "text": "The school bus is coming to pick us up.",
+        "startTime": 10556,
+        "endTime": 13665,
+        "slowStartTime": 15984,
+        "slowEndTime": 20722
+    },
+    {
+        "text": "Do you see it?",
+        "startTime": 14517,
+        "endTime": 15621,
+        "slowStartTime": 21925,
+        "slowEndTime": 23657
+    },
+    {
+        "text": "What color is it?",
+        "startTime": 16347,
+        "endTime": 17581,
+        "slowStartTime": 24671,
+        "slowEndTime": 26597
+    },
+    {
+        "text": "Yes, it's yellow.",
+        "startTime": 18300,
+        "endTime": 20159,
+        "slowStartTime": 27600,
+        "slowEndTime": 30464
+    },
+    {
+        "text": "Do you know why school buses are yellow?",
+        "startTime": 21095,
+        "endTime": 24225,
+        "slowStartTime": 31792,
+        "slowEndTime": 36562
+    },
+    {
+        "text": "Yellow gets your attention faster than any other color.",
+        "startTime": 25391,
+        "endTime": 29848,
+        "slowStartTime": 38237,
+        "slowEndTime": 44997
+    },
+    {
+        "text": "People notice yellow objects first.",
+        "startTime": 31005,
+        "endTime": 33753,
+        "slowStartTime": 46657,
+        "slowEndTime": 50854
+    },
+    {
+        "text": "That's why they are yellow.",
+        "startTime": 34633,
+        "endTime": 36565,
+        "slowStartTime": 52100,
+        "slowEndTime": 55073
+    },
+    {
+        "text": "Wow, there are lots of seats on our bus.",
+        "startTime": 37532,
+        "endTime": 41485,
+        "slowStartTime": 56448,
+        "slowEndTime": 62452
+    },
+    {
+        "text": "The kids are excited for school.",
+        "startTime": 42295,
+        "endTime": 44920,
+        "slowStartTime": 63592,
+        "slowEndTime": 67605
+    },
+    {
+        "text": "Sometimes we sing on the bus.",
+        "startTime": 45708,
+        "endTime": 48389,
+        "slowStartTime": 68712,
+        "slowEndTime": 72809
+    },
+    {
+        "text": "What do you like to do on a school bus?",
+        "startTime": 49401,
+        "endTime": 52437,
+        "slowStartTime": 74252,
+        "slowEndTime": 78880
+    },
+    {
+        "text": "Oh, look at the red stop sign on the bus.",
+        "startTime": 53401,
+        "endTime": 57847,
+        "slowStartTime": 80251,
+        "slowEndTime": 86996
+    },
+    {
+        "text": "It is telling other cars to stop for the kids to get on the bus.",
+        "startTime": 58802,
+        "endTime": 64626,
+        "slowStartTime": 88353,
+        "slowEndTime": 97164
+    },
+    {
+        "text": "Our bus driver is very friendly.",
+        "startTime": 65729,
+        "endTime": 68643,
+        "slowStartTime": 98743,
+        "slowEndTime": 103189
+    },
+    {
+        "text": "He picks us up at the same time every day.",
+        "startTime": 69623,
+        "endTime": 73506,
+        "slowStartTime": 104584,
+        "slowEndTime": 110484
+    },
+    {
+        "text": "He drops us off, too.",
+        "startTime": 74355,
+        "endTime": 76342,
+        "slowStartTime": 111682,
+        "slowEndTime": 114738
+    },
+    {
+        "text": "Let's get on the bus!",
+        "startTime": 77319,
+        "endTime": 79333,
+        "slowStartTime": 116128,
+        "slowEndTime": 119225
+    }
+]

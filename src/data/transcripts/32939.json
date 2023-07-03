@@ -1,0 +1,135 @@
+[
+    {
+        "text": "Hi, I'm Tiffany Young and this is everything I do in a day.",
+        "startTime": 105,
+        "endTime": 2769,
+        "slowStartTime": 308,
+        "slowEndTime": 4378
+    },
+    {
+        "text": "My usual schedule is waking up around 10 a.m.",
+        "startTime": 6136,
+        "endTime": 9512,
+        "slowStartTime": 9354,
+        "slowEndTime": 14493
+    },
+    {
+        "text": "When I actually get out of bed, the first thing I do is search for caffeine,...",
+        "startTime": 9746,
+        "endTime": 14536,
+        "slowStartTime": 14769,
+        "slowEndTime": 22029
+    },
+    {
+        "text": "...and then hop into the shower,...",
+        "startTime": 14629,
+        "endTime": 15812,
+        "slowStartTime": 22093,
+        "slowEndTime": 23943
+    },
+    {
+        "text": "...and then I head out.",
+        "startTime": 16027,
+        "endTime": 16997,
+        "slowStartTime": 24191,
+        "slowEndTime": 25720
+    },
+    {
+        "text": "I have a notebook for rehearsal and I write down all the things we rehearse each day.",
+        "startTime": 17161,
+        "endTime": 20657,
+        "slowStartTime": 25892,
+        "slowEndTime": 31211
+    },
+    {
+        "text": "Everything is at rehearsal at this point.",
+        "startTime": 21107,
+        "endTime": 22961,
+        "slowStartTime": 31810,
+        "slowEndTime": 34667
+    },
+    {
+        "text": "I'm in downtown L.A.",
+        "startTime": 23098,
+        "endTime": 24295,
+        "slowStartTime": 34797,
+        "slowEndTime": 36667
+    },
+    {
+        "text": "It starts usually at 12 p.m.",
+        "startTime": 24521,
+        "endTime": 26312,
+        "slowStartTime": 36931,
+        "slowEndTime": 39693
+    },
+    {
+        "text": "We start from warming up, we'll be harmonizing for hours,...",
+        "startTime": 26613,
+        "endTime": 29971,
+        "slowStartTime": 40070,
+        "slowEndTime": 45181
+    },
+    {
+        "text": "...going over the set list and the transition,...",
+        "startTime": 30147,
+        "endTime": 32017,
+        "slowStartTime": 45370,
+        "slowEndTime": 48250
+    },
+    {
+        "text": "...and then we go song by song,...",
+        "startTime": 32101,
+        "endTime": 34036,
+        "slowStartTime": 48302,
+        "slowEndTime": 51279
+    },
+    {
+        "text": "...and then we'll record it and I'll step back and I'll want to listen...",
+        "startTime": 34470,
+        "endTime": 37609,
+        "slowStartTime": 51855,
+        "slowEndTime": 56639
+    },
+    {
+        "text": "...and see what we need to work on and yeah, lock in.",
+        "startTime": 37680,
+        "endTime": 41439,
+        "slowStartTime": 56670,
+        "slowEndTime": 62384
+    },
+    {
+        "text": "Typical lunch, 30 to 40 minute break.",
+        "startTime": 41672,
+        "endTime": 44333,
+        "slowStartTime": 62658,
+        "slowEndTime": 66724
+    },
+    {
+        "text": "I usually unwind at the rehearsal studio.",
+        "startTime": 44537,
+        "endTime": 48963,
+        "slowStartTime": 66955,
+        "slowEndTime": 73670
+    },
+    {
+        "text": "8 p.m., meet friends for dinner.",
+        "startTime": 49236,
+        "endTime": 51025,
+        "slowStartTime": 74004,
+        "slowEndTime": 76762
+    },
+    {
+        "text": "10 p.m., I need to hit the gym.",
+        "startTime": 51249,
+        "endTime": 52987,
+        "slowStartTime": 77024,
+        "slowEndTime": 79705
+    },
+    {
+        "text": "At this point, I'm ready to kind of relax and unwind and go home.",
+        "startTime": 53125,
+        "endTime": 57410,
+        "slowStartTime": 79838,
+        "slowEndTime": 86340
+    }
+]

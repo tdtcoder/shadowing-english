@@ -1,0 +1,51 @@
+[
+    {
+        "text": "﻿Are you afraid?",
+        "startTime": 440,
+        "endTime": 1095,
+        "slowStartTime": 810,
+        "slowEndTime": 1867
+    },
+    {
+        "text": "You should be.",
+        "startTime": 2241,
+        "endTime": 2836,
+        "slowStartTime": 3512,
+        "slowEndTime": 4479
+    },
+    {
+        "text": "You're in the great game now and the great game is terrifying.",
+        "startTime": 3655,
+        "endTime": 6941,
+        "slowStartTime": 5633,
+        "slowEndTime": 10636
+    },
+    {
+        "text": "We are sinful creatures, we deserve death.",
+        "startTime": 9868,
+        "endTime": 12226,
+        "slowStartTime": 14952,
+        "slowEndTime": 18564
+    },
+    {
+        "text": "We all do.",
+        "startTime": 13133,
+        "endTime": 13641,
+        "slowStartTime": 19849,
+        "slowEndTime": 20686
+    },
+    {
+        "text": "One way or another, the Gift will be given.",
+        "startTime": 15566,
+        "endTime": 17969,
+        "slowStartTime": 23499,
+        "slowEndTime": 27179
+    },
+    {
+        "text": "One way or another, a face will be added to the hall.",
+        "startTime": 19521,
+        "endTime": 24148,
+        "slowStartTime": 29432,
+        "slowEndTime": 36447
+    }
+]

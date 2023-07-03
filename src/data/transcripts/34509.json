@@ -1,0 +1,100 @@
+[
+    {
+        "text": "In the US, the Trump administration announced a new wave of sanctions on Iran...",
+        "startTime": 3317,
+        "endTime": 9355,
+        "slowStartTime": 5126,
+        "slowEndTime": 14258
+    },
+    {
+        "text": "...following this week's missile strikes by the Islamic Republic on US bases in Iraq.",
+        "startTime": 9909,
+        "endTime": 15718,
+        "slowStartTime": 15014,
+        "slowEndTime": 23802
+    },
+    {
+        "text": "In Iran, Tehran is denying allegations...",
+        "startTime": 18600,
+        "endTime": 21915,
+        "slowStartTime": 28050,
+        "slowEndTime": 33098
+    },
+    {
+        "text": "...that one of its missiles shot down a Ukrainian jetliner...",
+        "startTime": 22287,
+        "endTime": 25827,
+        "slowStartTime": 33580,
+        "slowEndTime": 38965
+    },
+    {
+        "text": "...and is urging the US and Canada to provide any information...",
+        "startTime": 26175,
+        "endTime": 30401,
+        "slowStartTime": 39413,
+        "slowEndTime": 45826
+    },
+    {
+        "text": "...about the crash that killed all 176 people on board.",
+        "startTime": 30571,
+        "endTime": 35387,
+        "slowStartTime": 46007,
+        "slowEndTime": 53305
+    },
+    {
+        "text": "In Pakistan, a powerful bomb ripped through a packed mosque during Friday evening prayers,...",
+        "startTime": 39372,
+        "endTime": 46142,
+        "slowStartTime": 59208,
+        "slowEndTime": 69438
+    },
+    {
+        "text": "...killing at least 15 worshipers and injuring around 20 others in Quetta,...",
+        "startTime": 46741,
+        "endTime": 52153,
+        "slowStartTime": 70261,
+        "slowEndTime": 78454
+    },
+    {
+        "text": "...the capital of Baluchistan province.",
+        "startTime": 52575,
+        "endTime": 55423,
+        "slowStartTime": 79013,
+        "slowEndTime": 83360
+    },
+    {
+        "text": "In Australia, around 20,000 people gathered in Sydney for a climate rally,...",
+        "startTime": 60095,
+        "endTime": 65785,
+        "slowStartTime": 90292,
+        "slowEndTime": 98902
+    },
+    {
+        "text": "...calling on the conservative government to tackle global warming and cut back on fossil fuels,...",
+        "startTime": 66318,
+        "endTime": 72249,
+        "slowStartTime": 99627,
+        "slowEndTime": 108598
+    },
+    {
+        "text": "...as deadly climate-fueled bushfires burned out of control.",
+        "startTime": 72773,
+        "endTime": 77229,
+        "slowStartTime": 109309,
+        "slowEndTime": 116069
+    },
+    {
+        "text": "Finally, the US navy says one of its ships...",
+        "startTime": 78901,
+        "endTime": 82915,
+        "slowStartTime": 118502,
+        "slowEndTime": 124598
+    },
+    {
+        "text": "...was \"aggressively approached\" by a Russian navy vessel in the North Arabian Sea.",
+        "startTime": 83089,
+        "endTime": 88135,
+        "slowStartTime": 124784,
+        "slowEndTime": 132428
+    }
+]

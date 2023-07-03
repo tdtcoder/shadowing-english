@@ -1,0 +1,79 @@
+[
+    {
+        "text": "﻿Hey sis!",
+        "startTime": 3103,
+        "endTime": 3546,
+        "slowStartTime": 4805,
+        "slowEndTime": 5544
+    },
+    {
+        "text": "Hey!",
+        "startTime": 4017,
+        "endTime": 4849,
+        "slowStartTime": 6176,
+        "slowEndTime": 7499
+    },
+    {
+        "text": "I just wanna let you know I made it here.",
+        "startTime": 5488,
+        "endTime": 7089,
+        "slowStartTime": 8382,
+        "slowEndTime": 10858
+    },
+    {
+        "text": "Mom was right.",
+        "startTime": 8547,
+        "endTime": 9317,
+        "slowStartTime": 12971,
+        "slowEndTime": 14201
+    },
+    {
+        "text": "It took forever to find but it's perfect.",
+        "startTime": 9968,
+        "endTime": 13356,
+        "slowStartTime": 15102,
+        "slowEndTime": 20259
+    },
+    {
+        "text": "What did you say the name of this place was?",
+        "startTime": 14459,
+        "endTime": 15959,
+        "slowStartTime": 21839,
+        "slowEndTime": 24164
+    },
+    {
+        "text": "This is paradise.",
+        "startTime": 16645,
+        "endTime": 17366,
+        "slowStartTime": 25118,
+        "slowEndTime": 26274
+    },
+    {
+        "text": "Get out!",
+        "startTime": 39017,
+        "endTime": 39581,
+        "slowStartTime": 58675,
+        "slowEndTime": 59596
+    },
+    {
+        "text": "Shark!",
+        "startTime": 39963,
+        "endTime": 41538,
+        "slowStartTime": 60094,
+        "slowEndTime": 62532
+    },
+    {
+        "text": "I need help!",
+        "startTime": 45956,
+        "endTime": 46529,
+        "slowStartTime": 69084,
+        "slowEndTime": 70018
+    },
+    {
+        "text": "I got you!",
+        "startTime": 47107,
+        "endTime": 47737,
+        "slowStartTime": 70811,
+        "slowEndTime": 71831
+    }
+]

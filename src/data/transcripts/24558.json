@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Let's learn about food.",
+        "startTime": 1037,
+        "endTime": 2737,
+        "slowStartTime": 1705,
+        "slowEndTime": 4330
+    },
+    {
+        "text": "The bread is warm.",
+        "startTime": 6001,
+        "endTime": 8015,
+        "slowStartTime": 9151,
+        "slowEndTime": 12248
+    },
+    {
+        "text": "The mouse likes cheese.",
+        "startTime": 14241,
+        "endTime": 16657,
+        "slowStartTime": 21511,
+        "slowEndTime": 25210
+    },
+    {
+        "text": "The rice is ready!",
+        "startTime": 21007,
+        "endTime": 22547,
+        "slowStartTime": 31660,
+        "slowEndTime": 34046
+    },
+    {
+        "text": "The pasta is cooked.",
+        "startTime": 27650,
+        "endTime": 29674,
+        "slowStartTime": 41625,
+        "slowEndTime": 44736
+    },
+    {
+        "text": "The meat is juicy.",
+        "startTime": 36863,
+        "endTime": 39170,
+        "slowStartTime": 55445,
+        "slowEndTime": 58980
+    },
+    {
+        "text": "Eat lots of vegetables!",
+        "startTime": 47063,
+        "endTime": 48687,
+        "slowStartTime": 70745,
+        "slowEndTime": 73255
+    },
+    {
+        "text": "Fruit is very healthy.",
+        "startTime": 57602,
+        "endTime": 59287,
+        "slowStartTime": 86553,
+        "slowEndTime": 89156
+    },
+    {
+        "text": "I eat fried eggs in the morning.",
+        "startTime": 66046,
+        "endTime": 68331,
+        "slowStartTime": 99219,
+        "slowEndTime": 102721
+    },
+    {
+        "text": "He puts a lot of sugar in his coffee.",
+        "startTime": 74511,
+        "endTime": 77755,
+        "slowStartTime": 111917,
+        "slowEndTime": 116858
+    }
+]

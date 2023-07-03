@@ -1,0 +1,93 @@
+[
+    {
+        "text": "On August 6th and 9th this year,...",
+        "startTime": 600,
+        "endTime": 3650,
+        "slowStartTime": 1170,
+        "slowEndTime": 5650
+    },
+    {
+        "text": "...I visited Hiroshima and Nagasaki,...",
+        "startTime": 3950,
+        "endTime": 6350,
+        "slowStartTime": 6200,
+        "slowEndTime": 9660
+    },
+    {
+        "text": "...and spoke in person with atomic bomb survivors...",
+        "startTime": 6650,
+        "endTime": 10250,
+        "slowStartTime": 10280,
+        "slowEndTime": 15535
+    },
+    {
+        "text": "...and their second- and third-generation descendants.",
+        "startTime": 10500,
+        "endTime": 13600,
+        "slowStartTime": 16070,
+        "slowEndTime": 20500
+    },
+    {
+        "text": "I could not help feeling choked with emotion...",
+        "startTime": 14150,
+        "endTime": 17500,
+        "slowStartTime": 21560,
+        "slowEndTime": 26545
+    },
+    {
+        "text": "...at the fact that just two atomic bombs claimed more than 200 thousand lives...",
+        "startTime": 17550,
+        "endTime": 23500,
+        "slowStartTime": 26550,
+        "slowEndTime": 35400
+    },
+    {
+        "text": "...and seeing people who still suffer from the aftereffects of radiation over 60 years after the bombings.",
+        "startTime": 23900,
+        "endTime": 32450,
+        "slowStartTime": 36110,
+        "slowEndTime": 48800
+    },
+    {
+        "text": "I would like to encourage all leaders of the world to visit Hiroshima and Nagasaki...",
+        "startTime": 33100,
+        "endTime": 38950,
+        "slowStartTime": 49930,
+        "slowEndTime": 58560
+    },
+    {
+        "text": "...and absorb with their own eyes and ears the cruelty of nuclear weapons.",
+        "startTime": 39300,
+        "endTime": 45850,
+        "slowStartTime": 59220,
+        "slowEndTime": 68880
+    },
+    {
+        "text": "As a matter of historical fact,...",
+        "startTime": 46650,
+        "endTime": 49000,
+        "slowStartTime": 70230,
+        "slowEndTime": 73650
+    },
+    {
+        "text": "...Japan chose not to possess nuclear weapons even after achieving its postwar reconstruction.",
+        "startTime": 49400,
+        "endTime": 56150,
+        "slowStartTime": 74430,
+        "slowEndTime": 84335
+    },
+    {
+        "text": "In 1970, Japan signed the NPT and ratified it six years later.",
+        "startTime": 56700,
+        "endTime": 63500,
+        "slowStartTime": 85350,
+        "slowEndTime": 95330
+    },
+    {
+        "text": "In 1996, Japan signed the CTBT and ratified it a year later.",
+        "startTime": 64150,
+        "endTime": 71300,
+        "slowStartTime": 96500,
+        "slowEndTime": 107130
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "text": "A young actress is about to go onto the stage.",
+        "startTime": 2750,
+        "endTime": 5800,
+        "slowStartTime": 4300,
+        "slowEndTime": 8900
+    },
+    {
+        "text": "As she waits by the side of the stage, she looks nervous.",
+        "startTime": 6200,
+        "endTime": 9800,
+        "slowStartTime": 9500,
+        "slowEndTime": 14900
+    },
+    {
+        "text": "You might hear her whisper to her friend,...",
+        "startTime": 10350,
+        "endTime": 12300,
+        "slowStartTime": 15700,
+        "slowEndTime": 18700
+    },
+    {
+        "text": "...\"I've got butterflies in my stomach.\"",
+        "startTime": 12750,
+        "endTime": 14900,
+        "slowStartTime": 19300,
+        "slowEndTime": 22600
+    },
+    {
+        "text": "Butterflies in her stomach?",
+        "startTime": 15600,
+        "endTime": 17200,
+        "slowStartTime": 23500,
+        "slowEndTime": 26000
+    },
+    {
+        "text": "How did those get in there?",
+        "startTime": 17600,
+        "endTime": 19000,
+        "slowStartTime": 26600,
+        "slowEndTime": 28720
+    },
+    {
+        "text": "The feeling of butterflies comes from chemicals produced by the body in stressful situations.",
+        "startTime": 19750,
+        "endTime": 25500,
+        "slowStartTime": 29800,
+        "slowEndTime": 38500
+    },
+    {
+        "text": "One chemical that the body makes under stress is cortisol.",
+        "startTime": 26150,
+        "endTime": 29950,
+        "slowStartTime": 39400,
+        "slowEndTime": 45200
+    },
+    {
+        "text": "This chemical benefits the body in normal situations.",
+        "startTime": 30750,
+        "endTime": 34150,
+        "slowStartTime": 46300,
+        "slowEndTime": 51500
+    },
+    {
+        "text": "In fact, it helps the body start normal activities in the morning after waking up.",
+        "startTime": 34600,
+        "endTime": 39300,
+        "slowStartTime": 52050,
+        "slowEndTime": 59200
+    },
+    {
+        "text": "It also plays a role in helping the body and mind respond well to healthy exercise.",
+        "startTime": 39950,
+        "endTime": 45200,
+        "slowStartTime": 60100,
+        "slowEndTime": 68000
+    },
+    {
+        "text": "However, when the body is under stress,...",
+        "startTime": 45750,
+        "endTime": 48100,
+        "slowStartTime": 68800,
+        "slowEndTime": 72400
+    },
+    {
+        "text": "...extra cortisol begins to affect the stomach.",
+        "startTime": 48450,
+        "endTime": 51000,
+        "slowStartTime": 72900,
+        "slowEndTime": 76700
+    },
+    {
+        "text": "For some people, cortisol shuts down the stomach, producing the funny feeling of butterflies.",
+        "startTime": 51650,
+        "endTime": 57100,
+        "slowStartTime": 77650,
+        "slowEndTime": 85900
+    },
+    {
+        "text": "For others, cortisol speeds up the way the stomach works,...",
+        "startTime": 57700,
+        "endTime": 61000,
+        "slowStartTime": 86750,
+        "slowEndTime": 91700
+    },
+    {
+        "text": "...which makes these people feel sick.",
+        "startTime": 61250,
+        "endTime": 63250,
+        "slowStartTime": 92100,
+        "slowEndTime": 95100
+    },
+    {
+        "text": "All you need to do to get rid of a few butterflies in the stomach is just relax.",
+        "startTime": 63700,
+        "endTime": 68500,
+        "slowStartTime": 95800,
+        "slowEndTime": 103000
+    },
+    {
+        "text": "Laughing with or talking to others about your stress can help reduce it.",
+        "startTime": 69100,
+        "endTime": 74000,
+        "slowStartTime": 103800,
+        "slowEndTime": 111250
+    },
+    {
+        "text": "Stepping out onto the stage will also help those butterflies fly away.",
+        "startTime": 74600,
+        "endTime": 79500,
+        "slowStartTime": 112150,
+        "slowEndTime": 119500
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "text": "Bitcoin is a fully digital currency.",
+        "startTime": 150,
+        "endTime": 1953,
+        "slowStartTime": 130,
+        "slowEndTime": 3155
+    },
+    {
+        "text": "You can exchange bitcoins between computers in a worldwide peer-to-peer network.",
+        "startTime": 2074,
+        "endTime": 5714,
+        "slowStartTime": 3261,
+        "slowEndTime": 8796
+    },
+    {
+        "text": "The whole point of most peer-to-peer networks is sharing stuff,...",
+        "startTime": 5865,
+        "endTime": 8351,
+        "slowStartTime": 8948,
+        "slowEndTime": 12752
+    },
+    {
+        "text": "...like letting people make copies of super legal music or movies to download.",
+        "startTime": 8477,
+        "endTime": 12777,
+        "slowStartTime": 12866,
+        "slowEndTime": 19391
+    },
+    {
+        "text": "If bitcoin is a digital currency,...",
+        "startTime": 12917,
+        "endTime": 14631,
+        "slowStartTime": 19525,
+        "slowEndTime": 22172
+    },
+    {
+        "text": "...what's stopping you from making a bunch of counterfeit copies and becoming fabulously wealthy?",
+        "startTime": 14971,
+        "endTime": 18754,
+        "slowStartTime": 22607,
+        "slowEndTime": 28356
+    },
+    {
+        "text": "Well, unlike an MP3 or a video file,...",
+        "startTime": 18909,
+        "endTime": 21027,
+        "slowStartTime": 28513,
+        "slowEndTime": 31766
+    },
+    {
+        "text": "...a bitcoin isn't a string of data that can be duplicated.",
+        "startTime": 21125,
+        "endTime": 23619,
+        "slowStartTime": 31838,
+        "slowEndTime": 35654
+    },
+    {
+        "text": "A bitcoin is actually an entry on a huge, global ledger called the blockchain,..",
+        "startTime": 23754,
+        "endTime": 28143,
+        "slowStartTime": 35781,
+        "slowEndTime": 42440
+    },
+    {
+        "text": "...for reasons we'll get to in a minute.",
+        "startTime": 28379,
+        "endTime": 29492,
+        "slowStartTime": 42718,
+        "slowEndTime": 44463
+    },
+    {
+        "text": "The blockchain records every bitcoin transaction that has ever happened.",
+        "startTime": 29604,
+        "endTime": 33565,
+        "slowStartTime": 44556,
+        "slowEndTime": 50572
+    },
+    {
+        "text": "And, as of late 2016, the complete ledger is about 107 gigabytes of data.",
+        "startTime": 33811,
+        "endTime": 38675,
+        "slowStartTime": 50867,
+        "slowEndTime": 58237
+    },
+    {
+        "text": "So, when you send someone bitcoins, it's not like you're sending them a bunch of files.",
+        "startTime": 38771,
+        "endTime": 42299,
+        "slowStartTime": 58306,
+        "slowEndTime": 63673
+    },
+    {
+        "text": "Instead, you're basically writing the exchange down on that big ledger,...",
+        "startTime": 42534,
+        "endTime": 45958,
+        "slowStartTime": 63951,
+        "slowEndTime": 69162
+    },
+    {
+        "text": "...something like, \"Michael sends Hank five bitcoins.\"",
+        "startTime": 46049,
+        "endTime": 48455,
+        "slowStartTime": 69224,
+        "slowEndTime": 72908
+    },
+    {
+        "text": "Now, maybe you're thinking, \"But, wait.\"",
+        "startTime": 48561,
+        "endTime": 50136,
+        "slowStartTime": 72992,
+        "slowEndTime": 75429
+    },
+    {
+        "text": "\"You said that bitcoin doesn't have a central authority to keep track of everything!\"",
+        "startTime": 50351,
+        "endTime": 53486,
+        "slowStartTime": 75676,
+        "slowEndTime": 80454
+    },
+    {
+        "text": "Even though the blockchain is a central record, there's no official group of people...",
+        "startTime": 53614,
+        "endTime": 56917,
+        "slowStartTime": 80571,
+        "slowEndTime": 85600
+    },
+    {
+        "text": "...who update the ledger and keep track of everybody's money like a bank does.",
+        "startTime": 56989,
+        "endTime": 60061,
+        "slowStartTime": 85633,
+        "slowEndTime": 90316
+    },
+    {
+        "text": "It's decentralized.",
+        "startTime": 60283,
+        "endTime": 61417,
+        "slowStartTime": 90574,
+        "slowEndTime": 92350
+    },
+    {
+        "text": "In fact, anybody can volunteer to keep the blockchain up to date with all the new transactions...",
+        "startTime": 61525,
+        "endTime": 65944,
+        "slowStartTime": 92437,
+        "slowEndTime": 99141
+    },
+    {
+        "text": "...and a ton of people do.",
+        "startTime": 66129,
+        "endTime": 67119,
+        "slowStartTime": 99344,
+        "slowEndTime": 100904
+    },
+    {
+        "text": "It all works because there are lots of people keeping track of the same thing...",
+        "startTime": 67215,
+        "endTime": 70213,
+        "slowStartTime": 100972,
+        "slowEndTime": 105544
+    },
+    {
+        "text": "...to make sure all transactions are accurate.",
+        "startTime": 70345,
+        "endTime": 72205,
+        "slowStartTime": 105667,
+        "slowEndTime": 108533
+    }
+]

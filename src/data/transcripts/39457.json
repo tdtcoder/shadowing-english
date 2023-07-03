@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Hello, everyone.",
+        "startTime": 301,
+        "endTime": 1269,
+        "slowStartTime": 602,
+        "slowEndTime": 2129
+    },
+    {
+        "text": "Good morning, everybody.",
+        "startTime": 2517,
+        "endTime": 3809,
+        "slowStartTime": 3925,
+        "slowEndTime": 5938
+    },
+    {
+        "text": "Good afternoon, class.",
+        "startTime": 4971,
+        "endTime": 6287,
+        "slowStartTime": 7607,
+        "slowEndTime": 9656
+    },
+    {
+        "text": "Hello there, Tom.",
+        "startTime": 7353,
+        "endTime": 8603,
+        "slowStartTime": 11180,
+        "slowEndTime": 13130
+    },
+    {
+        "text": "Good afternoon, everybody.",
+        "startTime": 9843,
+        "endTime": 11408,
+        "slowStartTime": 14915,
+        "slowEndTime": 17337
+    },
+    {
+        "text": "How are you today?",
+        "startTime": 12449,
+        "endTime": 13561,
+        "slowStartTime": 18824,
+        "slowEndTime": 20566
+    },
+    {
+        "text": "How are you getting on?",
+        "startTime": 14659,
+        "endTime": 15742,
+        "slowStartTime": 22138,
+        "slowEndTime": 23838
+    },
+    {
+        "text": "How's life?",
+        "startTime": 16982,
+        "endTime": 17863,
+        "slowStartTime": 25623,
+        "slowEndTime": 27020
+    },
+    {
+        "text": "How are things with you?",
+        "startTime": 18945,
+        "endTime": 20443,
+        "slowStartTime": 28567,
+        "slowEndTime": 30889
+    },
+    {
+        "text": "Are you feeling better today, David?",
+        "startTime": 21266,
+        "endTime": 23151,
+        "slowStartTime": 32049,
+        "slowEndTime": 34951
+    },
+    {
+        "text": "What a lovely day!",
+        "startTime": 24189,
+        "endTime": 25515,
+        "slowStartTime": 36434,
+        "slowEndTime": 38498
+    }
+]

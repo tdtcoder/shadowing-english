@@ -1,0 +1,86 @@
+[
+    {
+        "text": "The dog is ugly.",
+        "startTime": 3825,
+        "endTime": 5186,
+        "slowStartTime": 5888,
+        "slowEndTime": 8004
+    },
+    {
+        "text": "The cat is cute.",
+        "startTime": 6829,
+        "endTime": 8058,
+        "slowStartTime": 10394,
+        "slowEndTime": 12312
+    },
+    {
+        "text": "The vase is white.",
+        "startTime": 9762,
+        "endTime": 11199,
+        "slowStartTime": 14793,
+        "slowEndTime": 17023
+    },
+    {
+        "text": "The flowers are pink.",
+        "startTime": 12757,
+        "endTime": 14367,
+        "slowStartTime": 19286,
+        "slowEndTime": 21776
+    },
+    {
+        "text": "The woman is not short.",
+        "startTime": 16049,
+        "endTime": 17599,
+        "slowStartTime": 24224,
+        "slowEndTime": 26623
+    },
+    {
+        "text": "She is tall.",
+        "startTime": 19179,
+        "endTime": 20124,
+        "slowStartTime": 28918,
+        "slowEndTime": 30411
+    },
+    {
+        "text": "My grandfather is not young.",
+        "startTime": 21933,
+        "endTime": 23550,
+        "slowStartTime": 33049,
+        "slowEndTime": 35550
+    },
+    {
+        "text": "He is old.",
+        "startTime": 25247,
+        "endTime": 26003,
+        "slowStartTime": 38020,
+        "slowEndTime": 39230
+    },
+    {
+        "text": "Is the drink cold?",
+        "startTime": 27947,
+        "endTime": 28968,
+        "slowStartTime": 42071,
+        "slowEndTime": 43677
+    },
+    {
+        "text": "No, it's hot.",
+        "startTime": 30709,
+        "endTime": 31709,
+        "slowStartTime": 46213,
+        "slowEndTime": 47788
+    },
+    {
+        "text": "Are the girls brave?",
+        "startTime": 33533,
+        "endTime": 34655,
+        "slowStartTime": 50450,
+        "slowEndTime": 52208
+    },
+    {
+        "text": "No, they're afraid.",
+        "startTime": 36389,
+        "endTime": 38309,
+        "slowStartTime": 54733,
+        "slowEndTime": 57689
+    }
+]

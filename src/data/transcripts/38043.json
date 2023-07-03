@@ -1,0 +1,142 @@
+[
+    {
+        "text": "A team of researchers from MIT, Harvard University and City University of Hong Kong...",
+        "startTime": 2641,
+        "endTime": 7906,
+        "slowStartTime": 4111,
+        "slowEndTime": 12084
+    },
+    {
+        "text": "...have developed tiny agile drones who look, act and maneuver like actual insects.",
+        "startTime": 8218,
+        "endTime": 14353,
+        "slowStartTime": 12477,
+        "slowEndTime": 21755
+    },
+    {
+        "text": "This new generation of tiny drones are powered by a new class of soft actuator...",
+        "startTime": 16202,
+        "endTime": 21187,
+        "slowStartTime": 24453,
+        "slowEndTime": 32005
+    },
+    {
+        "text": "...made of thin rubber cylinders coated in carbon nanotubes.",
+        "startTime": 21404,
+        "endTime": 25095,
+        "slowStartTime": 32256,
+        "slowEndTime": 37867
+    },
+    {
+        "text": "When voltage is applied to the carbon nanotubes,...",
+        "startTime": 25365,
+        "endTime": 28109,
+        "slowStartTime": 38197,
+        "slowEndTime": 42389
+    },
+    {
+        "text": "...they produce an electrostatic force that squeezes and elongates the rubber cylinder.",
+        "startTime": 28211,
+        "endTime": 33111,
+        "slowStartTime": 42467,
+        "slowEndTime": 49891
+    },
+    {
+        "text": "Repeated elongation and contraction is what causes the drones' wings to beat very fast...",
+        "startTime": 34143,
+        "endTime": 39713,
+        "slowStartTime": 51364,
+        "slowEndTime": 59795
+    },
+    {
+        "text": "...and with enough power density to actually support flight.",
+        "startTime": 40053,
+        "endTime": 43459,
+        "slowStartTime": 60230,
+        "slowEndTime": 65414
+    },
+    {
+        "text": "Typically, drones require wide, open spaces...",
+        "startTime": 44718,
+        "endTime": 47752,
+        "slowStartTime": 67227,
+        "slowEndTime": 71853
+    },
+    {
+        "text": "...because they're neither nimble enough to navigate confined ones...",
+        "startTime": 47900,
+        "endTime": 51183,
+        "slowStartTime": 72000,
+        "slowEndTime": 76999
+    },
+    {
+        "text": "...nor robust enough to withstand collisions in a crowd.",
+        "startTime": 51362,
+        "endTime": 54427,
+        "slowStartTime": 77193,
+        "slowEndTime": 81866
+    },
+    {
+        "text": "However, these insect-sized drones can flap its tiny wings nearly 500 times per second,...",
+        "startTime": 55231,
+        "endTime": 61709,
+        "slowStartTime": 82997,
+        "slowEndTime": 92789
+    },
+    {
+        "text": "...giving it the ability to recover if hit or involved in a collision...",
+        "startTime": 62220,
+        "endTime": 66053,
+        "slowStartTime": 93480,
+        "slowEndTime": 99304
+    },
+    {
+        "text": "...and do some aggressive maneuvers like somersaults in the air.",
+        "startTime": 67001,
+        "endTime": 70667,
+        "slowStartTime": 100651,
+        "slowEndTime": 106226
+    },
+    {
+        "text": "This insect-like resilience is packed into just 0.6 grams,...",
+        "startTime": 73575,
+        "endTime": 77971,
+        "slowStartTime": 110512,
+        "slowEndTime": 117181
+    },
+    {
+        "text": "...the approximate weight of a large bumblebee.",
+        "startTime": 78356,
+        "endTime": 80951,
+        "slowStartTime": 117684,
+        "slowEndTime": 121652
+    },
+    {
+        "text": "The researchers hope one day,...",
+        "startTime": 82624,
+        "endTime": 84082,
+        "slowStartTime": 124086,
+        "slowEndTime": 126348
+    },
+    {
+        "text": "...the robots could aid humans by pollinating crops...",
+        "startTime": 84168,
+        "endTime": 87153,
+        "slowStartTime": 126402,
+        "slowEndTime": 130955
+    },
+    {
+        "text": "...or completing search-and-rescue missions...",
+        "startTime": 87449,
+        "endTime": 89578,
+        "slowStartTime": 131323,
+        "slowEndTime": 134592
+    },
+    {
+        "text": "...and navigating complex machinery to ensure safety and functionality.",
+        "startTime": 89795,
+        "endTime": 94541,
+        "slowStartTime": 134842,
+        "slowEndTime": 142037
+    }
+]

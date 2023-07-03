@@ -1,0 +1,37 @@
+[
+    {
+        "text": "On the Rocks.",
+        "startTime": 7992,
+        "endTime": 9088,
+        "slowStartTime": 12138,
+        "slowEndTime": 13857
+    },
+    {
+        "text": "It means having a lot of problems.",
+        "startTime": 12337,
+        "endTime": 14518,
+        "slowStartTime": 18656,
+        "slowEndTime": 22002
+    },
+    {
+        "text": "The unhappy couple's marriage is on the rocks.",
+        "startTime": 22421,
+        "endTime": 25555,
+        "slowStartTime": 33781,
+        "slowEndTime": 38558
+    },
+    {
+        "text": "They keep on fighting because their relationship is on the rocks.",
+        "startTime": 33415,
+        "endTime": 36934,
+        "slowStartTime": 50272,
+        "slowEndTime": 55626
+    },
+    {
+        "text": "Their friendship is on the rocks that's why they're not talking anymore.",
+        "startTime": 42310,
+        "endTime": 46668,
+        "slowStartTime": 63615,
+        "slowEndTime": 70227
+    }
+]

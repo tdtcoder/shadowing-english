@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Hello? Someone called about a rental here?",
+        "startTime": 7650,
+        "endTime": 10650,
+        "slowStartTime": 11700,
+        "slowEndTime": 16200
+    },
+    {
+        "text": "You're looking at it.",
+        "startTime": 11450,
+        "endTime": 12100,
+        "slowStartTime": 17400,
+        "slowEndTime": 18350
+    },
+    {
+        "text": "Wait, what's the catch?",
+        "startTime": 12550,
+        "endTime": 13550,
+        "slowStartTime": 19000,
+        "slowEndTime": 20550
+    },
+    {
+        "text": "In every city,...",
+        "startTime": 14150,
+        "endTime": 15100,
+        "slowStartTime": 21425,
+        "slowEndTime": 22900
+    },
+    {
+        "text": "The place is huge.",
+        "startTime": 17150,
+        "endTime": 17950,
+        "slowStartTime": 25850,
+        "slowEndTime": 27200
+    },
+    {
+        "text": "Anything available for me?",
+        "startTime": 18250,
+        "endTime": 19350,
+        "slowStartTime": 27600,
+        "slowEndTime": 29250
+    },
+    {
+        "text": "...thousands of women live by themselves.",
+        "startTime": 19750,
+        "endTime": 22500,
+        "slowStartTime": 29800,
+        "slowEndTime": 34050
+    },
+    {
+        "text": "Excuse me.",
+        "startTime": 23300,
+        "endTime": 23750,
+        "slowStartTime": 35150,
+        "slowEndTime": 35900
+    },
+    {
+        "text": "Max!",
+        "startTime": 24150,
+        "endTime": 24650,
+        "slowStartTime": 36425,
+        "slowEndTime": 37200
+    },
+    {
+        "text": "Hey!",
+        "startTime": 24850,
+        "endTime": 25400,
+        "slowStartTime": 37500,
+        "slowEndTime": 38300
+    },
+    {
+        "text": "I'm just putting myself in your shoes:...",
+        "startTime": 27900,
+        "endTime": 30100,
+        "slowStartTime": 42100,
+        "slowEndTime": 45350
+    },
+    {
+        "text": "...alone in your apartment,...",
+        "startTime": 30200,
+        "endTime": 31950,
+        "slowStartTime": 45500,
+        "slowEndTime": 48150
+    },
+    {
+        "text": "...surrounded by strangers.",
+        "startTime": 32100,
+        "endTime": 33650,
+        "slowStartTime": 48300,
+        "slowEndTime": 50650
+    },
+    {
+        "text": "Juliet is not alone.",
+        "startTime": 34550,
+        "endTime": 39100,
+        "slowStartTime": 52050,
+        "slowEndTime": 58850
+    },
+    {
+        "text": "There's something creepy about my apartment.",
+        "startTime": 39500,
+        "endTime": 41000,
+        "slowStartTime": 59400,
+        "slowEndTime": 61750
+    },
+    {
+        "text": "The guy gives you a gorgeous apartment and that's creepy?",
+        "startTime": 41200,
+        "endTime": 43950,
+        "slowStartTime": 61950,
+        "slowEndTime": 66150
+    },
+    {
+        "text": "The record feature is triggered by movement,...",
+        "startTime": 55500,
+        "endTime": 57850,
+        "slowStartTime": 83400,
+        "slowEndTime": 87000
+    },
+    {
+        "text": "...so any activity in the apartment will be recorded.",
+        "startTime": 58100,
+        "endTime": 60550,
+        "slowStartTime": 87300,
+        "slowEndTime": 91000
+    },
+    {
+        "text": "These babies will get anything that moves.",
+        "startTime": 61250,
+        "endTime": 63700,
+        "slowStartTime": 92100,
+        "slowEndTime": 95775
+    },
+    {
+        "text": "I followed you one night.",
+        "startTime": 64600,
+        "endTime": 65500,
+        "slowStartTime": 97000,
+        "slowEndTime": 98500
+    },
+    {
+        "text": "You followed me home?",
+        "startTime": 66050,
+        "endTime": 66800,
+        "slowStartTime": 99150,
+        "slowEndTime": 100400
+    },
+    {
+        "text": "Help!",
+        "startTime": 83350,
+        "endTime": 84100,
+        "slowStartTime": 125250,
+        "slowEndTime": 126550
+    },
+    {
+        "text": "The Resident.",
+        "startTime": 102950,
+        "endTime": 103750,
+        "slowStartTime": 154650,
+        "slowEndTime": 155850
+    }
+]

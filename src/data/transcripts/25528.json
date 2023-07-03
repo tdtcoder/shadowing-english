@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Lights, camera, action!",
+        "startTime": 439,
+        "endTime": 2118,
+        "slowStartTime": 808,
+        "slowEndTime": 3402
+    },
+    {
+        "text": "Hey guys, do you know what these are?",
+        "startTime": 2286,
+        "endTime": 4173,
+        "slowStartTime": 3579,
+        "slowEndTime": 6484
+    },
+    {
+        "text": "They're glasses.",
+        "startTime": 4534,
+        "endTime": 5715,
+        "slowStartTime": 6951,
+        "slowEndTime": 8798
+    },
+    {
+        "text": "Glasses start with the letter G.",
+        "startTime": 6113,
+        "endTime": 8261,
+        "slowStartTime": 9319,
+        "slowEndTime": 12616
+    },
+    {
+        "text": "The letter G sounds like \"ga\".",
+        "startTime": 8778,
+        "endTime": 10686,
+        "slowStartTime": 13317,
+        "slowEndTime": 16254
+    }
+]

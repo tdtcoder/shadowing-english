@@ -1,0 +1,72 @@
+[
+    {
+        "text": "I think you eat too much meat.",
+        "startTime": 2603,
+        "endTime": 4961,
+        "slowStartTime": 4054,
+        "slowEndTime": 7666
+    },
+    {
+        "text": "I know. Now I'm trying to eat more vegetables.",
+        "startTime": 6105,
+        "endTime": 9888,
+        "slowStartTime": 9307,
+        "slowEndTime": 15057
+    },
+    {
+        "text": "And you had better do exercise every day.",
+        "startTime": 11260,
+        "endTime": 14274,
+        "slowStartTime": 17040,
+        "slowEndTime": 21636
+    },
+    {
+        "text": "I heard Jamie has already left home.",
+        "startTime": 16528,
+        "endTime": 19062,
+        "slowStartTime": 24942,
+        "slowEndTime": 28818
+    },
+    {
+        "text": "You had better start at once. You are getting late.",
+        "startTime": 19531,
+        "endTime": 22341,
+        "slowStartTime": 29446,
+        "slowEndTime": 33737
+    },
+    {
+        "text": "What time is it, Betty?",
+        "startTime": 23455,
+        "endTime": 24839,
+        "slowStartTime": 35333,
+        "slowEndTime": 37483
+    },
+    {
+        "text": "It's ten to three.",
+        "startTime": 26113,
+        "endTime": 27383,
+        "slowStartTime": 39320,
+        "slowEndTime": 41300
+    },
+    {
+        "text": "Kate said that she gained 3 kilograms.",
+        "startTime": 29465,
+        "endTime": 32349,
+        "slowStartTime": 44347,
+        "slowEndTime": 48748
+    },
+    {
+        "text": "She had better not eat after 7.",
+        "startTime": 33519,
+        "endTime": 36247,
+        "slowStartTime": 50429,
+        "slowEndTime": 54595
+    },
+    {
+        "text": "I agree with you. She always eats snacks late at night.",
+        "startTime": 37478,
+        "endTime": 41301,
+        "slowStartTime": 56367,
+        "slowEndTime": 62176
+    }
+]

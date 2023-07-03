@@ -1,0 +1,79 @@
+[
+    {
+        "text": "A calendar year is made of 365 days. It's supposed to match the solar year.",
+        "startTime": 990,
+        "endTime": 5320,
+        "slowStartTime": 1635,
+        "slowEndTime": 8205
+    },
+    {
+        "text": "But things aren't quite that simple.",
+        "startTime": 5586,
+        "endTime": 7016,
+        "slowStartTime": 8529,
+        "slowEndTime": 10749
+    },
+    {
+        "text": "It actually takes Earth 365 days, 5 hours, 48 minutes and 46 seconds to complete its orbit.",
+        "startTime": 7309,
+        "endTime": 13005,
+        "slowStartTime": 11114,
+        "slowEndTime": 19733
+    },
+    {
+        "text": "Those extra hours gradually add up...",
+        "startTime": 13209,
+        "endTime": 14876,
+        "slowStartTime": 19963,
+        "slowEndTime": 22539
+    },
+    {
+        "text": "...so that after four years, the calendar is out of step by about one day.",
+        "startTime": 14953,
+        "endTime": 18349,
+        "slowStartTime": 22580,
+        "slowEndTime": 27748
+    },
+    {
+        "text": "Every four years, an extra day is added to the calendar,...",
+        "startTime": 18522,
+        "endTime": 21108,
+        "slowStartTime": 27933,
+        "slowEndTime": 31887
+    },
+    {
+        "text": "...making the length of the year 366 days.",
+        "startTime": 21227,
+        "endTime": 23822,
+        "slowStartTime": 31990,
+        "slowEndTime": 35958
+    },
+    {
+        "text": "Easy, right?",
+        "startTime": 23946,
+        "endTime": 24699,
+        "slowStartTime": 36069,
+        "slowEndTime": 37274
+    },
+    {
+        "text": "The Egyptians were the first people to think of adding a leap day...",
+        "startTime": 24974,
+        "endTime": 27925,
+        "slowStartTime": 37611,
+        "slowEndTime": 42113
+    },
+    {
+        "text": "...to the calendar every four years.",
+        "startTime": 28008,
+        "endTime": 29559,
+        "slowStartTime": 42162,
+        "slowEndTime": 44564
+    },
+    {
+        "text": "Later, the Romans copied the idea.",
+        "startTime": 30059,
+        "endTime": 31829,
+        "slowStartTime": 45238,
+        "slowEndTime": 47969
+    }
+]

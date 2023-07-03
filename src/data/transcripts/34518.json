@@ -1,0 +1,135 @@
+[
+    {
+        "text": "Good morning, Ted.",
+        "startTime": 2777,
+        "endTime": 3516,
+        "slowStartTime": 4315,
+        "slowEndTime": 5499
+    },
+    {
+        "text": "Good morning, Tim.",
+        "startTime": 4018,
+        "endTime": 4875,
+        "slowStartTime": 6177,
+        "slowEndTime": 7538
+    },
+    {
+        "text": "How are you?",
+        "startTime": 4983,
+        "endTime": 5679,
+        "slowStartTime": 7624,
+        "slowEndTime": 8744
+    },
+    {
+        "text": "I'm fine, thanks.",
+        "startTime": 5832,
+        "endTime": 6716,
+        "slowStartTime": 8898,
+        "slowEndTime": 10299
+    },
+    {
+        "text": "And you?",
+        "startTime": 6852,
+        "endTime": 7294,
+        "slowStartTime": 10428,
+        "slowEndTime": 11166
+    },
+    {
+        "text": "Good morning.",
+        "startTime": 9285,
+        "endTime": 9653,
+        "slowStartTime": 14078,
+        "slowEndTime": 14705
+    },
+    {
+        "text": "Can I help you?",
+        "startTime": 9773,
+        "endTime": 10153,
+        "slowStartTime": 14810,
+        "slowEndTime": 15455
+    },
+    {
+        "text": "Yes.",
+        "startTime": 10326,
+        "endTime": 10804,
+        "slowStartTime": 15639,
+        "slowEndTime": 16431
+    },
+    {
+        "text": "Martha McKay, please?",
+        "startTime": 11088,
+        "endTime": 12569,
+        "slowStartTime": 16782,
+        "slowEndTime": 19079
+    },
+    {
+        "text": "She's the producer.",
+        "startTime": 12855,
+        "endTime": 13864,
+        "slowStartTime": 19432,
+        "slowEndTime": 21021
+    },
+    {
+        "text": "That's 5894.",
+        "startTime": 14588,
+        "endTime": 16141,
+        "slowStartTime": 22032,
+        "slowEndTime": 24437
+    },
+    {
+        "text": "What's your name, please?",
+        "startTime": 16277,
+        "endTime": 17121,
+        "slowStartTime": 24566,
+        "slowEndTime": 25906
+    },
+    {
+        "text": "Julia Drake.",
+        "startTime": 17396,
+        "endTime": 18391,
+        "slowStartTime": 26244,
+        "slowEndTime": 27812
+    },
+    {
+        "text": "Hello, Ms. Drake is at reception.",
+        "startTime": 19365,
+        "endTime": 22039,
+        "slowStartTime": 29197,
+        "slowEndTime": 33283
+    },
+    {
+        "text": "Yes alright.",
+        "startTime": 23464,
+        "endTime": 24653,
+        "slowStartTime": 35346,
+        "slowEndTime": 37204
+    },
+    {
+        "text": "Mrs. McKay is in room 12.",
+        "startTime": 25725,
+        "endTime": 26988,
+        "slowStartTime": 38738,
+        "slowEndTime": 40707
+    },
+    {
+        "text": "That's on the second floor.",
+        "startTime": 27075,
+        "endTime": 27901,
+        "slowStartTime": 40763,
+        "slowEndTime": 42076
+    },
+    {
+        "text": "The lift is over there.",
+        "startTime": 27993,
+        "endTime": 28768,
+        "slowStartTime": 42139,
+        "slowEndTime": 43377
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 28963,
+        "endTime": 29697,
+        "slowStartTime": 43594,
+        "slowEndTime": 44770
+    }
+]

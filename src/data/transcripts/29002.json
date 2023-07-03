@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Over the Moon.",
+        "startTime": 8225,
+        "endTime": 9317,
+        "slowStartTime": 12487,
+        "slowEndTime": 14200
+    },
+    {
+        "text": "It means very happy or pleased about something.",
+        "startTime": 12938,
+        "endTime": 16572,
+        "slowStartTime": 19557,
+        "slowEndTime": 25083
+    },
+    {
+        "text": "I'm over the moon about my test results.",
+        "startTime": 23074,
+        "endTime": 25724,
+        "slowStartTime": 34761,
+        "slowEndTime": 38811
+    },
+    {
+        "text": "He's over the moon for getting accepted into university.",
+        "startTime": 33361,
+        "endTime": 36953,
+        "slowStartTime": 50191,
+        "slowEndTime": 55654
+    },
+    {
+        "text": "He just proposed to his girlfriend and she's over the moon about it.",
+        "startTime": 42515,
+        "endTime": 46789,
+        "slowStartTime": 63922,
+        "slowEndTime": 70408
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "text": "This morning, frustration is on the rise at airports across the country.",
+        "startTime": 779,
+        "endTime": 5497,
+        "slowStartTime": 1318,
+        "slowEndTime": 8471
+    },
+    {
+        "text": "I just don't understand how this is okay.",
+        "startTime": 5731,
+        "endTime": 8108,
+        "slowStartTime": 8746,
+        "slowEndTime": 12387
+    },
+    {
+        "text": "With more than fifteen hundred flights canceled this weekend,...",
+        "startTime": 8402,
+        "endTime": 11349,
+        "slowStartTime": 12753,
+        "slowEndTime": 17248
+    },
+    {
+        "text": "...and at least thirteen thousand delays from coast to coast.",
+        "startTime": 11523,
+        "endTime": 15447,
+        "slowStartTime": 17435,
+        "slowEndTime": 23396
+    },
+    {
+        "text": "Hopefully, it doesn't get canceled again...",
+        "startTime": 15543,
+        "endTime": 17135,
+        "slowStartTime": 23464,
+        "slowEndTime": 25928
+    },
+    {
+        "text": "...because I definitely need to get home and get stuff done.",
+        "startTime": 17208,
+        "endTime": 20500,
+        "slowStartTime": 25962,
+        "slowEndTime": 30975
+    },
+    {
+        "text": "Nasty storms setting off a cascade of chaos for travelers.",
+        "startTime": 21644,
+        "endTime": 26208,
+        "slowStartTime": 32616,
+        "slowEndTime": 39537
+    },
+    {
+        "text": "It's just really draining and frustrating.",
+        "startTime": 26293,
+        "endTime": 29549,
+        "slowStartTime": 39590,
+        "slowEndTime": 44548
+    },
+    {
+        "text": "American and Southwest Airlines blaming summertime thunderstorms...",
+        "startTime": 29655,
+        "endTime": 33850,
+        "slowStartTime": 44633,
+        "slowEndTime": 51000
+    },
+    {
+        "text": "...and weather-related challenges for the disruptions.",
+        "startTime": 33957,
+        "endTime": 37203,
+        "slowStartTime": 51085,
+        "slowEndTime": 56029
+    },
+    {
+        "text": "But it's been a rocky summer for airlines dealing with crew and pilot shortages,...",
+        "startTime": 37537,
+        "endTime": 41850,
+        "slowStartTime": 56456,
+        "slowEndTime": 63000
+    },
+    {
+        "text": "...reduced flight schedules, and a record surge in travelers.",
+        "startTime": 42079,
+        "endTime": 46063,
+        "slowStartTime": 63268,
+        "slowEndTime": 69320
+    },
+    {
+        "text": "There aren't a lot of pilots sitting in reserve.",
+        "startTime": 46263,
+        "endTime": 49355,
+        "slowStartTime": 69545,
+        "slowEndTime": 74258
+    },
+    {
+        "text": "There aren't a lot of planes sitting in reserve or crew or staff.",
+        "startTime": 49443,
+        "endTime": 52859,
+        "slowStartTime": 74315,
+        "slowEndTime": 79513
+    },
+    {
+        "text": "And so when there's one cancellation,...",
+        "startTime": 52947,
+        "endTime": 54951,
+        "slowStartTime": 79571,
+        "slowEndTime": 82651
+    },
+    {
+        "text": "...there's very little buffer or slack in the system.",
+        "startTime": 55233,
+        "endTime": 58015,
+        "slowStartTime": 83000,
+        "slowEndTime": 87248
+    }
+]

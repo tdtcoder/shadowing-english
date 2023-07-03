@@ -1,0 +1,121 @@
+[
+    {
+        "text": "What make of car is that?",
+        "startTime": 2573,
+        "endTime": 3717,
+        "slowStartTime": 4009,
+        "slowEndTime": 5801
+    },
+    {
+        "text": "That one? Good choice, sir. Let's go have a look at it.",
+        "startTime": 4081,
+        "endTime": 7421,
+        "slowStartTime": 6272,
+        "slowEndTime": 11357
+    },
+    {
+        "text": "Sorry, what is the make?",
+        "startTime": 7769,
+        "endTime": 9179,
+        "slowStartTime": 11804,
+        "slowEndTime": 13994
+    },
+    {
+        "text": "What's the make?",
+        "startTime": 9545,
+        "endTime": 10433,
+        "slowStartTime": 14468,
+        "slowEndTime": 15875
+    },
+    {
+        "text": "Well, this little gem is a Bowick Nightfall.",
+        "startTime": 10724,
+        "endTime": 13731,
+        "slowStartTime": 16236,
+        "slowEndTime": 20822
+    },
+    {
+        "text": "I don't think I've ever heard of that brand before.",
+        "startTime": 14165,
+        "endTime": 16680,
+        "slowStartTime": 21398,
+        "slowEndTime": 25245
+    },
+    {
+        "text": "Yes, it's a rare find. Kind of a collector's item!",
+        "startTime": 16953,
+        "endTime": 20193,
+        "slowStartTime": 25580,
+        "slowEndTime": 30515
+    },
+    {
+        "text": "What sort of gas mileage does it get?",
+        "startTime": 20433,
+        "endTime": 22451,
+        "slowStartTime": 30799,
+        "slowEndTime": 33902
+    },
+    {
+        "text": "I think it gets pretty good mileage.",
+        "startTime": 22743,
+        "endTime": 24684,
+        "slowStartTime": 34264,
+        "slowEndTime": 37251
+    },
+    {
+        "text": "Can you check on that, please?",
+        "startTime": 25040,
+        "endTime": 26337,
+        "slowStartTime": 37710,
+        "slowEndTime": 39731
+    },
+    {
+        "text": "What about other features?",
+        "startTime": 26766,
+        "endTime": 28035,
+        "slowStartTime": 40299,
+        "slowEndTime": 42277
+    },
+    {
+        "text": "Does it come fully loaded?",
+        "startTime": 28227,
+        "endTime": 29377,
+        "slowStartTime": 42490,
+        "slowEndTime": 44290
+    },
+    {
+        "text": "Yes, it does:...",
+        "startTime": 29821,
+        "endTime": 30683,
+        "slowStartTime": 44882,
+        "slowEndTime": 46249
+    },
+    {
+        "text": "...disc brakes, power steering, sun roof, and so on.",
+        "startTime": 30963,
+        "endTime": 34593,
+        "slowStartTime": 46594,
+        "slowEndTime": 52114
+    },
+    {
+        "text": "It looks pretty good to me.",
+        "startTime": 34757,
+        "endTime": 35969,
+        "slowStartTime": 52286,
+        "slowEndTime": 54178
+    },
+    {
+        "text": "Congratulations sir,...",
+        "startTime": 36337,
+        "endTime": 37712,
+        "slowStartTime": 54655,
+        "slowEndTime": 56793
+    },
+    {
+        "text": "...I don't think you could have made a better choice.",
+        "startTime": 37912,
+        "endTime": 40119,
+        "slowStartTime": 57018,
+        "slowEndTime": 60403
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "text": "﻿Let's learn some words used in the office.",
+        "startTime": 829,
+        "endTime": 3195,
+        "slowStartTime": 1394,
+        "slowEndTime": 5017
+    },
+    {
+        "text": "This office building is 22 stories high.",
+        "startTime": 9097,
+        "endTime": 13089,
+        "slowStartTime": 13796,
+        "slowEndTime": 19859
+    },
+    {
+        "text": "It's too cold in here. Can you turn up the central heating?",
+        "startTime": 19271,
+        "endTime": 23401,
+        "slowStartTime": 29056,
+        "slowEndTime": 35327
+    },
+    {
+        "text": "The file cabinet is full of documents.",
+        "startTime": 29491,
+        "endTime": 32951,
+        "slowStartTime": 44386,
+        "slowEndTime": 49651
+    },
+    {
+        "text": "There's no more ink. We need to replace our ink cartridges.",
+        "startTime": 37125,
+        "endTime": 40731,
+        "slowStartTime": 55838,
+        "slowEndTime": 61321
+    },
+    {
+        "text": "Get rid of our old documents. Put them through the paper shredder.",
+        "startTime": 47035,
+        "endTime": 50961,
+        "slowStartTime": 70702,
+        "slowEndTime": 76667
+    },
+    {
+        "text": "All our pictures are in the memory stick.",
+        "startTime": 57204,
+        "endTime": 59728,
+        "slowStartTime": 85956,
+        "slowEndTime": 89817
+    },
+    {
+        "text": "The men are wearing business suits.",
+        "startTime": 65783,
+        "endTime": 68579,
+        "slowStartTime": 98825,
+        "slowEndTime": 103093
+    },
+    {
+        "text": "I'm not feeling well. I have to take a sick leave.",
+        "startTime": 75346,
+        "endTime": 79183,
+        "slowStartTime": 113169,
+        "slowEndTime": 118999
+    },
+    {
+        "text": "She's not at her desk. I think she took the day off.",
+        "startTime": 85397,
+        "endTime": 88771,
+        "slowStartTime": 128245,
+        "slowEndTime": 133381
+    }
+]

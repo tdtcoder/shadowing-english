@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Hello, Sir Elton John.",
+        "startTime": 50,
+        "endTime": 1205,
+        "slowStartTime": 172,
+        "slowEndTime": 2033
+    },
+    {
+        "text": "This is your personalized weather forecast from the new weather.com.",
+        "startTime": 1268,
+        "endTime": 4486,
+        "slowStartTime": 2052,
+        "slowEndTime": 6954
+    },
+    {
+        "text": "It's another lovely day in London.",
+        "startTime": 4701,
+        "endTime": 5974,
+        "slowStartTime": 7201,
+        "slowEndTime": 9186
+    },
+    {
+        "text": "We've got overcast conditions.",
+        "startTime": 6065,
+        "endTime": 7615,
+        "slowStartTime": 9247,
+        "slowEndTime": 11647
+    },
+    {
+        "text": "16 degrees Celsius ought to top us out.",
+        "startTime": 7877,
+        "endTime": 10149,
+        "slowStartTime": 11966,
+        "slowEndTime": 15449
+    },
+    {
+        "text": "UV index right there around a moderate three.",
+        "startTime": 10315,
+        "endTime": 12216,
+        "slowStartTime": 15623,
+        "slowEndTime": 18549
+    },
+    {
+        "text": "So, if you're out and about,...",
+        "startTime": 12301,
+        "endTime": 13138,
+        "slowStartTime": 18602,
+        "slowEndTime": 19932
+    },
+    {
+        "text": "...it wouldn't hurt to wear a pair of those really sweet, periwinkle, star-shaped, glitter-covered sunglasses...",
+        "startTime": 13204,
+        "endTime": 18953,
+        "slowStartTime": 19956,
+        "slowEndTime": 28654
+    },
+    {
+        "text": "...that we've all seen you in and really what you're known for, quite frankly.",
+        "startTime": 19033,
+        "endTime": 21830,
+        "slowStartTime": 28700,
+        "slowEndTime": 32970
+    },
+    {
+        "text": "Overnight lows will drop right around eight degrees so it shouldn't be all that bad.",
+        "startTime": 22044,
+        "endTime": 25156,
+        "slowStartTime": 33216,
+        "slowEndTime": 37959
+    },
+    {
+        "text": "Go outside with a light jacket like this, nice and tight.",
+        "startTime": 25401,
+        "endTime": 27667,
+        "slowStartTime": 38252,
+        "slowEndTime": 41726
+    },
+    {
+        "text": "Don't forget to check back on the new weather.com to see what your weekend has in store.",
+        "startTime": 27915,
+        "endTime": 31603,
+        "slowStartTime": 42023,
+        "slowEndTime": 47629
+    },
+    {
+        "text": "Enjoy your day in cloudy London.",
+        "startTime": 31883,
+        "endTime": 34433,
+        "slowStartTime": 47975,
+        "slowEndTime": 51874
+    }
+]

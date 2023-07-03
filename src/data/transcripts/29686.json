@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Here, you don't have to see the sun to discover radiance.",
+        "startTime": 4001,
+        "endTime": 10051,
+        "slowStartTime": 6152,
+        "slowEndTime": 15301
+    },
+    {
+        "text": "You don't have to see color to experience vibrance.",
+        "startTime": 15551,
+        "endTime": 20788,
+        "slowStartTime": 23476,
+        "slowEndTime": 31407
+    },
+    {
+        "text": "You don't have to see smiles to know you're safe.",
+        "startTime": 28389,
+        "endTime": 32721,
+        "slowStartTime": 42733,
+        "slowEndTime": 49307
+    },
+    {
+        "text": "Going home, Asaro?",
+        "startTime": 37239,
+        "endTime": 37903,
+        "slowStartTime": 56009,
+        "slowEndTime": 57079
+    },
+    {
+        "text": "No, no, no, no, next time.",
+        "startTime": 39364,
+        "endTime": 40555,
+        "slowStartTime": 59196,
+        "slowEndTime": 61058
+    },
+    {
+        "text": "You don't have to see to feel you are home.",
+        "startTime": 47011,
+        "endTime": 50347,
+        "slowStartTime": 70666,
+        "slowEndTime": 75746
+    }
+]

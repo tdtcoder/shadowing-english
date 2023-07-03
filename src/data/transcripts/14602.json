@@ -1,0 +1,212 @@
+[
+    {
+        "text": "And when most people talk about inflation, they're talking about price inflation.",
+        "startTime": 1867,
+        "endTime": 5364,
+        "slowStartTime": 2950,
+        "slowEndTime": 8271
+    },
+    {
+        "text": "And that's just the general increase in the level of prices for goods and services.",
+        "startTime": 5724,
+        "endTime": 10335,
+        "slowStartTime": 8736,
+        "slowEndTime": 15728
+    },
+    {
+        "text": "And you probably have a sense of that,...",
+        "startTime": 10730,
+        "endTime": 12094,
+        "slowStartTime": 16245,
+        "slowEndTime": 18366
+    },
+    {
+        "text": "...that every year, in kind of a normal economy,...",
+        "startTime": 12201,
+        "endTime": 14765,
+        "slowStartTime": 18452,
+        "slowEndTime": 22373
+    },
+    {
+        "text": "...things seem to get a little bit more expensive, although not everything does.",
+        "startTime": 14885,
+        "endTime": 18300,
+        "slowStartTime": 22477,
+        "slowEndTime": 27675
+    },
+    {
+        "text": "But especially if you look at something like health care or the cost of education,...",
+        "startTime": 18630,
+        "endTime": 22425,
+        "slowStartTime": 28095,
+        "slowEndTime": 33863
+    },
+    {
+        "text": "...you definitely see things getting more expensive every year.",
+        "startTime": 22562,
+        "endTime": 26023,
+        "slowStartTime": 33993,
+        "slowEndTime": 39260
+    },
+    {
+        "text": "But one interesting question is, \"How do you measure it?\"",
+        "startTime": 26424,
+        "endTime": 28851,
+        "slowStartTime": 39786,
+        "slowEndTime": 43502
+    },
+    {
+        "text": "How do you measure inflation?",
+        "startTime": 29298,
+        "endTime": 32029,
+        "slowStartTime": 44097,
+        "slowEndTime": 48268
+    },
+    {
+        "text": "And what the Bureau of Labor Statistics does...",
+        "startTime": 32520,
+        "endTime": 34454,
+        "slowStartTime": 48930,
+        "slowEndTime": 51906
+    },
+    {
+        "text": "...and this is actually the most used measure of inflation.",
+        "startTime": 34519,
+        "endTime": 36872,
+        "slowStartTime": 51928,
+        "slowEndTime": 55533
+    },
+    {
+        "text": "They create something called the \"Consumer Price Index\".",
+        "startTime": 36997,
+        "endTime": 39717,
+        "slowStartTime": 55645,
+        "slowEndTime": 59801
+    },
+    {
+        "text": "And the way they do it is that they define a basket of goods.",
+        "startTime": 40099,
+        "endTime": 43694,
+        "slowStartTime": 60299,
+        "slowEndTime": 65766
+    },
+    {
+        "text": "And actually, a basket of goods and services.",
+        "startTime": 44109,
+        "endTime": 46215,
+        "slowStartTime": 66313,
+        "slowEndTime": 69548
+    },
+    {
+        "text": "So, what they do is they go and look at the average urban consumer,...",
+        "startTime": 46300,
+        "endTime": 49263,
+        "slowStartTime": 69600,
+        "slowEndTime": 74120
+    },
+    {
+        "text": "...and they say, \"What do they need in their life?\" They might need some housing.",
+        "startTime": 49672,
+        "endTime": 53213,
+        "slowStartTime": 74658,
+        "slowEndTime": 80044
+    },
+    {
+        "text": "They might need some fuel, some natural gas for their home.",
+        "startTime": 53627,
+        "endTime": 57627,
+        "slowStartTime": 80591,
+        "slowEndTime": 86665
+    },
+    {
+        "text": "They need gasoline for their cars.",
+        "startTime": 57757,
+        "endTime": 59649,
+        "slowStartTime": 86786,
+        "slowEndTime": 89699
+    },
+    {
+        "text": "They needed energy in other ways.",
+        "startTime": 59726,
+        "endTime": 61530,
+        "slowStartTime": 89739,
+        "slowEndTime": 92520
+    },
+    {
+        "text": "They might need some type of services.",
+        "startTime": 61878,
+        "endTime": 63865,
+        "slowStartTime": 92967,
+        "slowEndTime": 96022
+    },
+    {
+        "text": "They might need transportation.",
+        "startTime": 64249,
+        "endTime": 66549,
+        "slowStartTime": 96524,
+        "slowEndTime": 100049
+    },
+    {
+        "text": "And they try to come up with a basket of all the things...",
+        "startTime": 66977,
+        "endTime": 71414,
+        "slowStartTime": 100615,
+        "slowEndTime": 107346
+    },
+    {
+        "text": "...that the average consumer in an urban environment might need.",
+        "startTime": 71503,
+        "endTime": 75204,
+        "slowStartTime": 107404,
+        "slowEndTime": 113031
+    },
+    {
+        "text": "And they figure out how much that would cost them in Year one.",
+        "startTime": 75463,
+        "endTime": 78715,
+        "slowStartTime": 113344,
+        "slowEndTime": 118297
+    },
+    {
+        "text": "And let's say that in Year one that it cost them a hundred dollars.",
+        "startTime": 79264,
+        "endTime": 82761,
+        "slowStartTime": 119046,
+        "slowEndTime": 124367
+    },
+    {
+        "text": "The actual basket that the CPI constructs would not cost a hundred dollars.",
+        "startTime": 82958,
+        "endTime": 86449,
+        "slowStartTime": 124587,
+        "slowEndTime": 129899
+    },
+    {
+        "text": "But I'm gonna do this for the sake of simplicity.",
+        "startTime": 86811,
+        "endTime": 88873,
+        "slowStartTime": 130366,
+        "slowEndTime": 133535
+    },
+    {
+        "text": "And they'll weigh these based on how much, what percentage...",
+        "startTime": 88953,
+        "endTime": 91167,
+        "slowStartTime": 133580,
+        "slowEndTime": 136976
+    },
+    {
+        "text": "...they think people spent on housing versus fuel versus services...",
+        "startTime": 91234,
+        "endTime": 93901,
+        "slowStartTime": 137001,
+        "slowEndTime": 141077
+    },
+    {
+        "text": "...versus transportation.",
+        "startTime": 93976,
+        "endTime": 95054,
+        "slowStartTime": 141114,
+        "slowEndTime": 142806
+    }
+]

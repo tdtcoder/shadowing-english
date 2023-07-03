@@ -1,0 +1,58 @@
+[
+    {
+        "text": "There is an egg.",
+        "startTime": 3759,
+        "endTime": 5209,
+        "slowStartTime": 5789,
+        "slowEndTime": 8039
+    },
+    {
+        "text": "There is a house.",
+        "startTime": 6687,
+        "endTime": 7994,
+        "slowStartTime": 10180,
+        "slowEndTime": 12216
+    },
+    {
+        "text": "There are two rulers.",
+        "startTime": 9513,
+        "endTime": 10865,
+        "slowStartTime": 14420,
+        "slowEndTime": 16523
+    },
+    {
+        "text": "There are four pencils.",
+        "startTime": 12336,
+        "endTime": 13803,
+        "slowStartTime": 18654,
+        "slowEndTime": 20929
+    },
+    {
+        "text": "There is coffee.",
+        "startTime": 18940,
+        "endTime": 19990,
+        "slowStartTime": 28560,
+        "slowEndTime": 30210
+    },
+    {
+        "text": "There is milk.",
+        "startTime": 21543,
+        "endTime": 22373,
+        "slowStartTime": 32464,
+        "slowEndTime": 33784
+    },
+    {
+        "text": "I see sand.",
+        "startTime": 23783,
+        "endTime": 24980,
+        "slowStartTime": 35825,
+        "slowEndTime": 37695
+    },
+    {
+        "text": "I see water.",
+        "startTime": 26459,
+        "endTime": 27591,
+        "slowStartTime": 39838,
+        "slowEndTime": 41611
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Did you see the memo that is circulating the office?",
+        "startTime": 1930,
+        "endTime": 4830,
+        "slowStartTime": 3010,
+        "slowEndTime": 7340
+    },
+    {
+        "text": "Do you mean the one about the meeting tomorrow? Yeah, I saw it.",
+        "startTime": 5400,
+        "endTime": 8840,
+        "slowStartTime": 8215,
+        "slowEndTime": 13230
+    },
+    {
+        "text": "I'm still not sure what the meeting is about.",
+        "startTime": 9470,
+        "endTime": 11940,
+        "slowStartTime": 14290,
+        "slowEndTime": 17915
+    },
+    {
+        "text": "We're supposed to brainstorm ideas for better sales approaches.",
+        "startTime": 12340,
+        "endTime": 15680,
+        "slowStartTime": 18620,
+        "slowEndTime": 23595
+    },
+    {
+        "text": "Is it essential that everyone attend the meeting?",
+        "startTime": 15940,
+        "endTime": 18450,
+        "slowStartTime": 24040,
+        "slowEndTime": 27745
+    },
+    {
+        "text": "I was planning to be out of the office tomorrow afternoon.",
+        "startTime": 18750,
+        "endTime": 21520,
+        "slowStartTime": 28185,
+        "slowEndTime": 32320
+    },
+    {
+        "text": "Of course, it's important.",
+        "startTime": 21780,
+        "endTime": 22950,
+        "slowStartTime": 32720,
+        "slowEndTime": 34415
+    },
+    {
+        "text": "Bob is going to chair the meeting.",
+        "startTime": 23320,
+        "endTime": 24790,
+        "slowStartTime": 35050,
+        "slowEndTime": 37240
+    },
+    {
+        "text": "I think he's going to propose an idea he came up with.",
+        "startTime": 25055,
+        "endTime": 27820,
+        "slowStartTime": 37695,
+        "slowEndTime": 41715
+    },
+    {
+        "text": "I guess the length of the meeting will be at least a few hours.",
+        "startTime": 28220,
+        "endTime": 31290,
+        "slowStartTime": 42425,
+        "slowEndTime": 47000
+    },
+    {
+        "text": "I hope we have refreshments.",
+        "startTime": 31530,
+        "endTime": 33130,
+        "slowStartTime": 47310,
+        "slowEndTime": 49730
+    }
+]

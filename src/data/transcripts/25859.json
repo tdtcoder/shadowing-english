@@ -1,0 +1,79 @@
+[
+    {
+        "text": "﻿As the airline that flies to more countries than any other,...",
+        "startTime": 1084,
+        "endTime": 3941,
+        "slowStartTime": 1776,
+        "slowEndTime": 6136
+    },
+    {
+        "text": "...Turkish Airlines is pleased to announce a new destination:...",
+        "startTime": 4953,
+        "endTime": 8073,
+        "slowStartTime": 7580,
+        "slowEndTime": 12334
+    },
+    {
+        "text": "...Metropolis.",
+        "startTime": 9153,
+        "endTime": 10033,
+        "slowStartTime": 13879,
+        "slowEndTime": 15274
+    },
+    {
+        "text": "A city reborn,...",
+        "startTime": 10947,
+        "endTime": 12127,
+        "slowStartTime": 16570,
+        "slowEndTime": 18415
+    },
+    {
+        "text": "...rebuilt and stronger than ever.",
+        "startTime": 13199,
+        "endTime": 16472,
+        "slowStartTime": 19949,
+        "slowEndTime": 24933
+    },
+    {
+        "text": "Proud of its heritage and its heroes.",
+        "startTime": 17577,
+        "endTime": 21092,
+        "slowStartTime": 26516,
+        "slowEndTime": 31863
+    },
+    {
+        "text": "Well, thanks to LexCorp's substantial contribution,...",
+        "startTime": 25661,
+        "endTime": 28307,
+        "slowStartTime": 38642,
+        "slowEndTime": 42685
+    },
+    {
+        "text": "...Metropolis is now open for business again.",
+        "startTime": 28502,
+        "endTime": 31046,
+        "slowStartTime": 42903,
+        "slowEndTime": 46794
+    },
+    {
+        "text": "Come visit the City of Tomorrow, today.",
+        "startTime": 31921,
+        "endTime": 35398,
+        "slowStartTime": 48031,
+        "slowEndTime": 53322
+    },
+    {
+        "text": "We can't wait to welcome you.",
+        "startTime": 37475,
+        "endTime": 38670,
+        "slowStartTime": 56363,
+        "slowEndTime": 58230
+    },
+    {
+        "text": "Book your flight now on Turkish Airlines.",
+        "startTime": 39946,
+        "endTime": 42527,
+        "slowStartTime": 60069,
+        "slowEndTime": 64016
+    }
+]

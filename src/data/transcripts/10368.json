@@ -1,0 +1,72 @@
+[
+    {
+        "text": "What seems to be the problem with our friend Daniel today?",
+        "startTime": 100,
+        "endTime": 2700,
+        "slowStartTime": 160,
+        "slowEndTime": 4000
+    },
+    {
+        "text": "He's been coughing a lot, he's tired all the time, he has no appetite.",
+        "startTime": 2965,
+        "endTime": 8520,
+        "slowStartTime": 4400,
+        "slowEndTime": 13055
+    },
+    {
+        "text": "Uh-huh. Is he running a fever?",
+        "startTime": 8850,
+        "endTime": 10770,
+        "slowStartTime": 13255,
+        "slowEndTime": 16370
+    },
+    {
+        "text": "Yes, he is. It was 103.7 when I checked last.",
+        "startTime": 11100,
+        "endTime": 15315,
+        "slowStartTime": 16430,
+        "slowEndTime": 23090
+    },
+    {
+        "text": "Hmm. It could be the flu, but I'd like to see him just to be sure.",
+        "startTime": 15560,
+        "endTime": 19585,
+        "slowStartTime": 23350,
+        "slowEndTime": 29645
+    },
+    {
+        "text": "Can you bring him in this afternoon at three?",
+        "startTime": 20220,
+        "endTime": 22955,
+        "slowStartTime": 30490,
+        "slowEndTime": 34700
+    },
+    {
+        "text": "At three? Yes, I can do that.",
+        "startTime": 23540,
+        "endTime": 25770,
+        "slowStartTime": 35490,
+        "slowEndTime": 38890
+    },
+    {
+        "text": "Thank you, doctor!",
+        "startTime": 26410,
+        "endTime": 27360,
+        "slowStartTime": 39750,
+        "slowEndTime": 41235
+    },
+    {
+        "text": "You're welcome!",
+        "startTime": 27670,
+        "endTime": 28400,
+        "slowStartTime": 41500,
+        "slowEndTime": 42840
+    },
+    {
+        "text": "See you at three. Bye!",
+        "startTime": 28760,
+        "endTime": 30530,
+        "slowStartTime": 43300,
+        "slowEndTime": 46010
+    }
+]

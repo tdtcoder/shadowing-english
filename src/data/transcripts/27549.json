@@ -1,0 +1,121 @@
+[
+    {
+        "text": "﻿We boarded the Avalon with a destination.",
+        "startTime": 3113,
+        "endTime": 5416,
+        "slowStartTime": 4819,
+        "slowEndTime": 8349
+    },
+    {
+        "text": "120 years hibernation means a wake-up on a new century, on a new planet.",
+        "startTime": 6399,
+        "endTime": 10931,
+        "slowStartTime": 9749,
+        "slowEndTime": 16622
+    },
+    {
+        "text": "But a year ago, everything changed.",
+        "startTime": 13220,
+        "endTime": 16019,
+        "slowStartTime": 19980,
+        "slowEndTime": 24253
+    },
+    {
+        "text": "Hello, anybody here?",
+        "startTime": 17553,
+        "endTime": 20997,
+        "slowStartTime": 26479,
+        "slowEndTime": 31721
+    },
+    {
+        "text": "Hello?",
+        "startTime": 21525,
+        "endTime": 22017,
+        "slowStartTime": 32438,
+        "slowEndTime": 33250
+    },
+    {
+        "text": "Do you know what's going on?",
+        "startTime": 24935,
+        "endTime": 26565,
+        "slowStartTime": 37552,
+        "slowEndTime": 40072
+    },
+    {
+        "text": "Nobody else is awake.",
+        "startTime": 26877,
+        "endTime": 28192,
+        "slowStartTime": 40465,
+        "slowEndTime": 42513
+    },
+    {
+        "text": "I think something went wrong with the hibernation pods.",
+        "startTime": 28543,
+        "endTime": 30576,
+        "slowStartTime": 42965,
+        "slowEndTime": 46089
+    },
+    {
+        "text": "We woke up too soon,...",
+        "startTime": 31668,
+        "endTime": 32644,
+        "slowStartTime": 47652,
+        "slowEndTime": 49191
+    },
+    {
+        "text": "...ninety years too soon.",
+        "startTime": 33733,
+        "endTime": 35393,
+        "slowStartTime": 50750,
+        "slowEndTime": 53315
+    },
+    {
+        "text": "This can't be happening, we have to go back to sleep.",
+        "startTime": 36151,
+        "endTime": 38536,
+        "slowStartTime": 54377,
+        "slowEndTime": 58029
+    },
+    {
+        "text": "We can't.",
+        "startTime": 38751,
+        "endTime": 39327,
+        "slowStartTime": 58276,
+        "slowEndTime": 59215
+    },
+    {
+        "text": "Aurora, we love you!",
+        "startTime": 40523,
+        "endTime": 42721,
+        "slowStartTime": 60934,
+        "slowEndTime": 64306
+    },
+    {
+        "text": "Something's wrong.",
+        "startTime": 49919,
+        "endTime": 50770,
+        "slowStartTime": 75028,
+        "slowEndTime": 76380
+    },
+    {
+        "text": "Something big.",
+        "startTime": 52242,
+        "endTime": 53187,
+        "slowStartTime": 78513,
+        "slowEndTime": 80005
+    },
+    {
+        "text": "There's something I have to tell you.",
+        "startTime": 57463,
+        "endTime": 58829,
+        "slowStartTime": 86345,
+        "slowEndTime": 88469
+    },
+    {
+        "text": "There's a reason we woke up early.",
+        "startTime": 67993,
+        "endTime": 69990,
+        "slowStartTime": 102140,
+        "slowEndTime": 105210
+    }
+]

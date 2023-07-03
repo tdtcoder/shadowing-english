@@ -1,0 +1,289 @@
+[
+    {
+        "text": "On February 24th,...",
+        "startTime": 355,
+        "endTime": 1554,
+        "slowStartTime": 682,
+        "slowEndTime": 2556
+    },
+    {
+        "text": "...just hours after Ukrainian president Volodymyr Zelensky addressed the nation,...",
+        "startTime": 1698,
+        "endTime": 5580,
+        "slowStartTime": 2697,
+        "slowEndTime": 8595
+    },
+    {
+        "text": "...bombing by the Russian military began,...",
+        "startTime": 5891,
+        "endTime": 7853,
+        "slowStartTime": 8986,
+        "slowEndTime": 12004
+    },
+    {
+        "text": "...followed by thousands of troops entering Ukraine.",
+        "startTime": 8162,
+        "endTime": 10407,
+        "slowStartTime": 12393,
+        "slowEndTime": 15836
+    },
+    {
+        "text": "So what led to this catastrophic invasion?",
+        "startTime": 11164,
+        "endTime": 13191,
+        "slowStartTime": 16896,
+        "slowEndTime": 20011
+    },
+    {
+        "text": "Since Vladimir Putin's ascent to power in 2000, according to U.S. officials,...",
+        "startTime": 13747,
+        "endTime": 17644,
+        "slowStartTime": 20771,
+        "slowEndTime": 26691
+    },
+    {
+        "text": "...his end goal for decades has been a restoration of the former Soviet Union,...",
+        "startTime": 17815,
+        "endTime": 21332,
+        "slowStartTime": 26873,
+        "slowEndTime": 32223
+    },
+    {
+        "text": "...including now independent countries like Ukraine.",
+        "startTime": 21865,
+        "endTime": 24417,
+        "slowStartTime": 32948,
+        "slowEndTime": 36850
+    },
+    {
+        "text": "NATO, an alliance of 30 European and North American countries...",
+        "startTime": 24942,
+        "endTime": 28073,
+        "slowStartTime": 37563,
+        "slowEndTime": 42334
+    },
+    {
+        "text": "...established after World War II,...",
+        "startTime": 28183,
+        "endTime": 29571,
+        "slowStartTime": 42424,
+        "slowEndTime": 44581
+    },
+    {
+        "text": "...has been an effective deterrent against international aggression,...",
+        "startTime": 29679,
+        "endTime": 32230,
+        "slowStartTime": 44669,
+        "slowEndTime": 48570
+    },
+    {
+        "text": "...but also an informal adversary to Putin's long-term plans.",
+        "startTime": 32709,
+        "endTime": 35631,
+        "slowStartTime": 49214,
+        "slowEndTime": 53672
+    },
+    {
+        "text": "Ukraine sits on the border between Russia and many NATO countries...",
+        "startTime": 36255,
+        "endTime": 39140,
+        "slowStartTime": 54532,
+        "slowEndTime": 58935
+    },
+    {
+        "text": "...and has made overtures in the past decade...",
+        "startTime": 39279,
+        "endTime": 40823,
+        "slowStartTime": 59068,
+        "slowEndTime": 61460
+    },
+    {
+        "text": "...to align itself closer with the European Union and NATO,...",
+        "startTime": 40923,
+        "endTime": 43535,
+        "slowStartTime": 61534,
+        "slowEndTime": 65527
+    },
+    {
+        "text": "...creating tension between Russia and Ukraine.",
+        "startTime": 43717,
+        "endTime": 45649,
+        "slowStartTime": 65726,
+        "slowEndTime": 68699
+    },
+    {
+        "text": "The conflict reached a critical point in 2014...",
+        "startTime": 46112,
+        "endTime": 48787,
+        "slowStartTime": 69318,
+        "slowEndTime": 73405
+    },
+    {
+        "text": "...when pro-Moscow Ukrainian president Viktor Yanukovych,...",
+        "startTime": 49073,
+        "endTime": 52128,
+        "slowStartTime": 73759,
+        "slowEndTime": 78417
+    },
+    {
+        "text": "...rejected an association agreement with the European Union.",
+        "startTime": 52355,
+        "endTime": 54999,
+        "slowStartTime": 78683,
+        "slowEndTime": 82724
+    },
+    {
+        "text": "Following that controversial decision, massive protests began...",
+        "startTime": 55122,
+        "endTime": 58168,
+        "slowStartTime": 82833,
+        "slowEndTime": 87477
+    },
+    {
+        "text": "...and the Ukrainian parliament voted to remove him from office...",
+        "startTime": 58520,
+        "endTime": 61135,
+        "slowStartTime": 87930,
+        "slowEndTime": 91928
+    },
+    {
+        "text": "...while efforts to join NATO resumed.",
+        "startTime": 61222,
+        "endTime": 62981,
+        "slowStartTime": 91983,
+        "slowEndTime": 94696
+    },
+    {
+        "text": "In response, Russia invaded and effectively annexed Crimea,...",
+        "startTime": 63335,
+        "endTime": 66871,
+        "slowStartTime": 95152,
+        "slowEndTime": 100532
+    },
+    {
+        "text": "...an ethnically Russian territory of Ukraine on the Black Sea.",
+        "startTime": 67023,
+        "endTime": 69883,
+        "slowStartTime": 100685,
+        "slowEndTime": 105050
+    },
+    {
+        "text": "To the east, Ukrainian separatists began fighting for control of additional regions...",
+        "startTime": 70211,
+        "endTime": 74589,
+        "slowStartTime": 105467,
+        "slowEndTime": 112108
+    },
+    {
+        "text": "...supported by Russian arms and supplies.",
+        "startTime": 74707,
+        "endTime": 76883,
+        "slowStartTime": 112210,
+        "slowEndTime": 115550
+    },
+    {
+        "text": "And while a peace agreement later in 2014...",
+        "startTime": 77211,
+        "endTime": 79337,
+        "slowStartTime": 115966,
+        "slowEndTime": 119231
+    },
+    {
+        "text": "...largely ended full-scale fighting among Ukrainians and rebel forces,...",
+        "startTime": 79463,
+        "endTime": 82573,
+        "slowStartTime": 119345,
+        "slowEndTime": 124084
+    },
+    {
+        "text": "...it allowed separatists to create their own police force...",
+        "startTime": 82923,
+        "endTime": 85279,
+        "slowStartTime": 124535,
+        "slowEndTime": 128143
+    },
+    {
+        "text": "...and keep political influence in the region,...",
+        "startTime": 85363,
+        "endTime": 87073,
+        "slowStartTime": 128195,
+        "slowEndTime": 130835
+    },
+    {
+        "text": "...effectively keeping pro-Moscow rebels in power.",
+        "startTime": 87413,
+        "endTime": 89891,
+        "slowStartTime": 131269,
+        "slowEndTime": 135061
+    },
+    {
+        "text": "Recently in the past weeks though, Putin formally rejected that peace agreement...",
+        "startTime": 90554,
+        "endTime": 94188,
+        "slowStartTime": 135981,
+        "slowEndTime": 141507
+    },
+    {
+        "text": "...and recognized these regions of Donetsk and Luhansk as independent states.",
+        "startTime": 94355,
+        "endTime": 98361,
+        "slowStartTime": 141682,
+        "slowEndTime": 147766
+    },
+    {
+        "text": "No one knows exactly why Putin has escalated the conflict to full-scale invasion now,...",
+        "startTime": 101229,
+        "endTime": 105111,
+        "slowStartTime": 151993,
+        "slowEndTime": 157891
+    },
+    {
+        "text": "...but economic sanctions from multiple countries including halting Nord Stream 2,...",
+        "startTime": 105426,
+        "endTime": 109463,
+        "slowStartTime": 158289,
+        "slowEndTime": 164419
+    },
+    {
+        "text": "...a crucial gas pipeline from Russia to Germany and the rest of Europe,...",
+        "startTime": 109580,
+        "endTime": 112688,
+        "slowStartTime": 164520,
+        "slowEndTime": 169257
+    },
+    {
+        "text": "...has not deterred the leader's aggression.",
+        "startTime": 112945,
+        "endTime": 114659,
+        "slowStartTime": 169567,
+        "slowEndTime": 172214
+    },
+    {
+        "text": "Putin has strongly denounced Ukraine's attempts to join NATO in recent years...",
+        "startTime": 115373,
+        "endTime": 119353,
+        "slowStartTime": 173209,
+        "slowEndTime": 179254
+    },
+    {
+        "text": "...and considers their inclusion a red line in diplomatic discussions...",
+        "startTime": 119698,
+        "endTime": 123395,
+        "slowStartTime": 179697,
+        "slowEndTime": 185317
+    },
+    {
+        "text": "...and has described Russians and Ukrainians as one people...",
+        "startTime": 123848,
+        "endTime": 126527,
+        "slowStartTime": 185922,
+        "slowEndTime": 190015
+    },
+    {
+        "text": "...and questioned Ukraine's right to exist as an independent country.",
+        "startTime": 126637,
+        "endTime": 130395,
+        "slowStartTime": 190105,
+        "slowEndTime": 195817
+    }
+]

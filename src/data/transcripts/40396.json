@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Have you seen Christine and Mary?",
+        "startTime": 237,
+        "endTime": 1606,
+        "slowStartTime": 506,
+        "slowEndTime": 2634
+    },
+    {
+        "text": "They are in the meeting room.",
+        "startTime": 2449,
+        "endTime": 3811,
+        "slowStartTime": 3823,
+        "slowEndTime": 5942
+    },
+    {
+        "text": "Which meeting room are they in?",
+        "startTime": 4979,
+        "endTime": 6439,
+        "slowStartTime": 7618,
+        "slowEndTime": 9883
+    },
+    {
+        "text": "The one beside the restroom.",
+        "startTime": 7396,
+        "endTime": 8739,
+        "slowStartTime": 11244,
+        "slowEndTime": 13333
+    },
+    {
+        "text": "Hi, Jenny.",
+        "startTime": 10413,
+        "endTime": 11089,
+        "slowStartTime": 15770,
+        "slowEndTime": 16858
+    },
+    {
+        "text": "Are you okay?",
+        "startTime": 12016,
+        "endTime": 12839,
+        "slowStartTime": 18174,
+        "slowEndTime": 19484
+    },
+    {
+        "text": "Where are you, anyway?",
+        "startTime": 13201,
+        "endTime": 14184,
+        "slowStartTime": 19951,
+        "slowEndTime": 21501
+    },
+    {
+        "text": "I'm in the clinic.",
+        "startTime": 14824,
+        "endTime": 15587,
+        "slowStartTime": 22386,
+        "slowEndTime": 23606
+    },
+    {
+        "text": "I'm feeling terrible.",
+        "startTime": 15831,
+        "endTime": 16864,
+        "slowStartTime": 23896,
+        "slowEndTime": 25521
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Hey, I've got some big news!",
+        "startTime": 1955,
+        "endTime": 4086,
+        "slowStartTime": 3083,
+        "slowEndTime": 6354
+    },
+    {
+        "text": "Remember my sister, Sherry?",
+        "startTime": 4254,
+        "endTime": 5735,
+        "slowStartTime": 6531,
+        "slowEndTime": 8828
+    },
+    {
+        "text": "Sure, of course I remember Sherry.",
+        "startTime": 5907,
+        "endTime": 7870,
+        "slowStartTime": 9011,
+        "slowEndTime": 12030
+    },
+    {
+        "text": "She and her boyfriend are getting married next month.",
+        "startTime": 8176,
+        "endTime": 10971,
+        "slowStartTime": 12414,
+        "slowEndTime": 16681
+    },
+    {
+        "text": "Really? That's great! Please congratulate them for me.",
+        "startTime": 11101,
+        "endTime": 14641,
+        "slowStartTime": 16802,
+        "slowEndTime": 22187
+    },
+    {
+        "text": "Actually, we're hoping that you will do that yourself.",
+        "startTime": 14927,
+        "endTime": 17541,
+        "slowStartTime": 22541,
+        "slowEndTime": 26537
+    },
+    {
+        "text": "Do you have time this Saturday?",
+        "startTime": 17820,
+        "endTime": 19199,
+        "slowStartTime": 26880,
+        "slowEndTime": 29023
+    },
+    {
+        "text": "What? What do you mean?",
+        "startTime": 19538,
+        "endTime": 21242,
+        "slowStartTime": 29457,
+        "slowEndTime": 32088
+    },
+    {
+        "text": "Would you like to join me for the wedding ceremony?",
+        "startTime": 21652,
+        "endTime": 23918,
+        "slowStartTime": 32628,
+        "slowEndTime": 36102
+    },
+    {
+        "text": "You're kidding me!",
+        "startTime": 24127,
+        "endTime": 24908,
+        "slowStartTime": 36341,
+        "slowEndTime": 37587
+    },
+    {
+        "text": "Really? I'm invited to the wedding?",
+        "startTime": 25153,
+        "endTime": 27399,
+        "slowStartTime": 37880,
+        "slowEndTime": 41323
+    },
+    {
+        "text": "Yes, and here is your official invitation.",
+        "startTime": 27660,
+        "endTime": 30337,
+        "slowStartTime": 41640,
+        "slowEndTime": 45730
+    },
+    {
+        "text": "Wow, Kathy, I'm really honored to be invited.",
+        "startTime": 30577,
+        "endTime": 33344,
+        "slowStartTime": 46016,
+        "slowEndTime": 50241
+    },
+    {
+        "text": "I'd like to go but I can't.",
+        "startTime": 33893,
+        "endTime": 35502,
+        "slowStartTime": 50989,
+        "slowEndTime": 53478
+    },
+    {
+        "text": "I am going to my grandfather's birthday party on the same day.",
+        "startTime": 35769,
+        "endTime": 38779,
+        "slowStartTime": 53804,
+        "slowEndTime": 58393
+    }
+]

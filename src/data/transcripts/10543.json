@@ -1,0 +1,205 @@
+[
+    {
+        "text": "I'm wearing a camera, just a simple webcam.",
+        "startTime": 13200,
+        "endTime": 16400,
+        "slowStartTime": 20000,
+        "slowEndTime": 24700
+    },
+    {
+        "text": "A portable, battery powered projection system with a little mirror.",
+        "startTime": 16750,
+        "endTime": 22400,
+        "slowStartTime": 25450,
+        "slowEndTime": 33770
+    },
+    {
+        "text": "These components communicate to my cellphone in my pocket...",
+        "startTime": 22800,
+        "endTime": 26400,
+        "slowStartTime": 34335,
+        "slowEndTime": 39885
+    },
+    {
+        "text": "...which acts as the communication and computation device.",
+        "startTime": 26450,
+        "endTime": 30850,
+        "slowStartTime": 39900,
+        "slowEndTime": 46510
+    },
+    {
+        "text": "And in the video here, we see my student Pranav Mistry,...",
+        "startTime": 30900,
+        "endTime": 34900,
+        "slowStartTime": 46570,
+        "slowEndTime": 52560
+    },
+    {
+        "text": "...who's really the genius, who's been implementing and designing this whole system.",
+        "startTime": 34950,
+        "endTime": 39600,
+        "slowStartTime": 52680,
+        "slowEndTime": 59530
+    },
+    {
+        "text": "And we see how this system lets him walk up to any surface and start using his hands...",
+        "startTime": 39900,
+        "endTime": 46950,
+        "slowStartTime": 60175,
+        "slowEndTime": 70515
+    },
+    {
+        "text": "...to interact with the information that is projected in front of him.",
+        "startTime": 47100,
+        "endTime": 51600,
+        "slowStartTime": 70950,
+        "slowEndTime": 77530
+    },
+    {
+        "text": "The system tracks the four significant fingers.",
+        "startTime": 51850,
+        "endTime": 56150,
+        "slowStartTime": 78100,
+        "slowEndTime": 84450
+    },
+    {
+        "text": "In this case, he's wearing simple marker caps that you may recognize...",
+        "startTime": 56200,
+        "endTime": 61150,
+        "slowStartTime": 84575,
+        "slowEndTime": 91800
+    },
+    {
+        "text": "...but if you want a more stylish version, you could also paint your nails in different colors.",
+        "startTime": 61450,
+        "endTime": 67350,
+        "slowStartTime": 92460,
+        "slowEndTime": 101090
+    },
+    {
+        "text": "And the camera basically tracks these four fingers,...",
+        "startTime": 67650,
+        "endTime": 71200,
+        "slowStartTime": 101745,
+        "slowEndTime": 107090
+    },
+    {
+        "text": "...and recognizes any gestures that he's making, so he can just go to... for example, a map of Long Beach,...",
+        "startTime": 71250,
+        "endTime": 79400,
+        "slowStartTime": 107100,
+        "slowEndTime": 119415
+    },
+    {
+        "text": "...zoom in and out, et cetera.",
+        "startTime": 79450,
+        "endTime": 81250,
+        "slowStartTime": 119430,
+        "slowEndTime": 121965
+    },
+    {
+        "text": "The system also recognizes iconic gestures such as the take-a-picture gesture...",
+        "startTime": 81900,
+        "endTime": 87400,
+        "slowStartTime": 123100,
+        "slowEndTime": 131400
+    },
+    {
+        "text": "...and then, takes a picture of whatever is in front of you.",
+        "startTime": 87450,
+        "endTime": 90500,
+        "slowStartTime": 131400,
+        "slowEndTime": 135815
+    },
+    {
+        "text": "And when he then walks back to the Media Lab,...",
+        "startTime": 91200,
+        "endTime": 94150,
+        "slowStartTime": 137100,
+        "slowEndTime": 141410
+    },
+    {
+        "text": "...he can just go up to any wall and project all the pictures that he's taken,...",
+        "startTime": 94200,
+        "endTime": 99300,
+        "slowStartTime": 141475,
+        "slowEndTime": 149020
+    },
+    {
+        "text": "...sort through them and organize them, and resize them, et cetera,...",
+        "startTime": 99550,
+        "endTime": 103000,
+        "slowStartTime": 149635,
+        "slowEndTime": 154540
+    },
+    {
+        "text": "...again using all natural gestures.",
+        "startTime": 103150,
+        "endTime": 106750,
+        "slowStartTime": 154990,
+        "slowEndTime": 160230
+    },
+    {
+        "text": "So, some of you most likely were here two years ago...",
+        "startTime": 107150,
+        "endTime": 110900,
+        "slowStartTime": 161020,
+        "slowEndTime": 166415
+    },
+    {
+        "text": "...and saw the demo by Jeff Han, or some of you may think,...",
+        "startTime": 111100,
+        "endTime": 115800,
+        "slowStartTime": 166950,
+        "slowEndTime": 173980
+    },
+    {
+        "text": "...\"Well, doesn't this look like the Microsoft Surface Table?\"...",
+        "startTime": 115850,
+        "endTime": 118550,
+        "slowStartTime": 173980,
+        "slowEndTime": 177910
+    },
+    {
+        "text": "...and yes, you also interact using natural gestures, both hands, et cetera,...",
+        "startTime": 118900,
+        "endTime": 124750,
+        "slowStartTime": 178600,
+        "slowEndTime": 187220
+    },
+    {
+        "text": "...but the difference here is that you can use any surface.",
+        "startTime": 125200,
+        "endTime": 128250,
+        "slowStartTime": 188050,
+        "slowEndTime": 192690
+    },
+    {
+        "text": "You can walk up to any surface,...",
+        "startTime": 128300,
+        "endTime": 130700,
+        "slowStartTime": 192690,
+        "slowEndTime": 196250
+    },
+    {
+        "text": "...including your hand if nothing else is available...",
+        "startTime": 130750,
+        "endTime": 133750,
+        "slowStartTime": 196330,
+        "slowEndTime": 200690
+    },
+    {
+        "text": "...and interact with this projected data.",
+        "startTime": 134650,
+        "endTime": 137600,
+        "slowStartTime": 202230,
+        "slowEndTime": 206450
+    },
+    {
+        "text": "The device is completely portable.",
+        "startTime": 137750,
+        "endTime": 140600,
+        "slowStartTime": 206950,
+        "slowEndTime": 210920
+    }
+]

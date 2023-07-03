@@ -1,0 +1,44 @@
+[
+    {
+        "text": "My name is Dr. Karen Shane, I am a veterinarian.",
+        "startTime": 8301,
+        "endTime": 10765,
+        "slowStartTime": 12601,
+        "slowEndTime": 16372
+    },
+    {
+        "text": "The best part about being a veterinarian is interacting with animals...",
+        "startTime": 13645,
+        "endTime": 16669,
+        "slowStartTime": 20617,
+        "slowEndTime": 25228
+    },
+    {
+        "text": "...and also being able to cure them and treat their illnesses.",
+        "startTime": 16829,
+        "endTime": 21909,
+        "slowStartTime": 25394,
+        "slowEndTime": 33088
+    },
+    {
+        "text": "Every day that I come to work I am rewarded with a new reason for why I became a veterinarian.",
+        "startTime": 24499,
+        "endTime": 29848,
+        "slowStartTime": 36898,
+        "slowEndTime": 44997
+    },
+    {
+        "text": "The most exciting thing about being a veterinarian is that no two days are the same.",
+        "startTime": 30483,
+        "endTime": 33643,
+        "slowStartTime": 45875,
+        "slowEndTime": 50690
+    },
+    {
+        "text": "I will see healthy puppies and kittens as well as patients that come in for surgeries.",
+        "startTime": 34246,
+        "endTime": 38742,
+        "slowStartTime": 51519,
+        "slowEndTime": 58338
+    }
+]

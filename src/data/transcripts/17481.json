@@ -1,0 +1,114 @@
+[
+    {
+        "text": "I made a mistake.",
+        "startTime": 2968,
+        "endTime": 4299,
+        "slowStartTime": 4602,
+        "slowEndTime": 6673
+    },
+    {
+        "text": "I need an eraser.",
+        "startTime": 5434,
+        "endTime": 6873,
+        "slowStartTime": 8301,
+        "slowEndTime": 10535
+    },
+    {
+        "text": "I need an eraser.",
+        "startTime": 8011,
+        "endTime": 9487,
+        "slowStartTime": 12167,
+        "slowEndTime": 14455
+    },
+    {
+        "text": "This eraser is no good.",
+        "startTime": 10576,
+        "endTime": 12747,
+        "slowStartTime": 16014,
+        "slowEndTime": 19346
+    },
+    {
+        "text": "I made a mistake.",
+        "startTime": 13803,
+        "endTime": 15272,
+        "slowStartTime": 20855,
+        "slowEndTime": 23133
+    },
+    {
+        "text": "I need an eraser.",
+        "startTime": 16362,
+        "endTime": 17877,
+        "slowStartTime": 24693,
+        "slowEndTime": 27040
+    },
+    {
+        "text": "Look in your pencil box.",
+        "startTime": 19040,
+        "endTime": 20551,
+        "slowStartTime": 28710,
+        "slowEndTime": 31052
+    },
+    {
+        "text": "You might find one there.",
+        "startTime": 21668,
+        "endTime": 23083,
+        "slowStartTime": 32652,
+        "slowEndTime": 34849
+    },
+    {
+        "text": "I still need an eraser.",
+        "startTime": 24231,
+        "endTime": 26412,
+        "slowStartTime": 36496,
+        "slowEndTime": 39843
+    },
+    {
+        "text": "This eraser is no good.",
+        "startTime": 27489,
+        "endTime": 29671,
+        "slowStartTime": 41384,
+        "slowEndTime": 44731
+    },
+    {
+        "text": "Look in my pencil drawer.",
+        "startTime": 30847,
+        "endTime": 32572,
+        "slowStartTime": 46420,
+        "slowEndTime": 49083
+    },
+    {
+        "text": "You might find one there.",
+        "startTime": 33632,
+        "endTime": 35112,
+        "slowStartTime": 50598,
+        "slowEndTime": 52893
+    },
+    {
+        "text": "I found an eraser.",
+        "startTime": 36201,
+        "endTime": 37715,
+        "slowStartTime": 54451,
+        "slowEndTime": 56797
+    },
+    {
+        "text": "I fixed my mistake.",
+        "startTime": 38869,
+        "endTime": 40681,
+        "slowStartTime": 58453,
+        "slowEndTime": 61246
+    },
+    {
+        "text": "I made a mistake.",
+        "startTime": 41770,
+        "endTime": 43133,
+        "slowStartTime": 62805,
+        "slowEndTime": 64925
+    },
+    {
+        "text": "I need some tape.",
+        "startTime": 44212,
+        "endTime": 45503,
+        "slowStartTime": 66468,
+        "slowEndTime": 68479
+    }
+]

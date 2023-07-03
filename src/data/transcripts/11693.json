@@ -1,0 +1,58 @@
+[
+    {
+        "text": "They're invading from space.",
+        "startTime": 260,
+        "endTime": 2250,
+        "slowStartTime": 460,
+        "slowEndTime": 3480
+    },
+    {
+        "text": "This is completely and totally awesome.",
+        "startTime": 2730,
+        "endTime": 4970,
+        "slowStartTime": 4170,
+        "slowEndTime": 7500
+    },
+    {
+        "text": "They call it, \"electronic mail\".",
+        "startTime": 5600,
+        "endTime": 8040,
+        "slowStartTime": 8560,
+        "slowEndTime": 12090
+    },
+    {
+        "text": "What?",
+        "startTime": 11210,
+        "endTime": 11770,
+        "slowStartTime": 16910,
+        "slowEndTime": 17570
+    },
+    {
+        "text": "No wires, but I'm still surfing.",
+        "startTime": 12240,
+        "endTime": 15780,
+        "slowStartTime": 18510,
+        "slowEndTime": 23740
+    },
+    {
+        "text": "It's boosting performance automatically.",
+        "startTime": 18150,
+        "endTime": 20780,
+        "slowStartTime": 27340,
+        "slowEndTime": 31340
+    },
+    {
+        "text": "Whoa!",
+        "startTime": 23250,
+        "endTime": 24020,
+        "slowStartTime": 34985,
+        "slowEndTime": 36217
+    },
+    {
+        "text": "Introducing the all new 2010 Intel Core processors.",
+        "startTime": 24220,
+        "endTime": 26890,
+        "slowStartTime": 36490,
+        "slowEndTime": 40570
+    }
+]

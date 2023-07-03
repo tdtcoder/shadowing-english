@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Lately, more and more variants are emerging in various places around the world.",
+        "startTime": 773,
+        "endTime": 5024,
+        "slowStartTime": 1309,
+        "slowEndTime": 7761
+    },
+    {
+        "text": "So, why are they showing up now?",
+        "startTime": 5970,
+        "endTime": 8211,
+        "slowStartTime": 9105,
+        "slowEndTime": 12542
+    },
+    {
+        "text": "And what does this mean for the pandemic?",
+        "startTime": 9200,
+        "endTime": 11069,
+        "slowStartTime": 13950,
+        "slowEndTime": 16829
+    },
+    {
+        "text": "Viruses are very simple.",
+        "startTime": 15551,
+        "endTime": 17344,
+        "slowStartTime": 23476,
+        "slowEndTime": 26241
+    },
+    {
+        "text": "They're basically just a shell of protein surrounding some genetic material:...",
+        "startTime": 17686,
+        "endTime": 21519,
+        "slowStartTime": 26679,
+        "slowEndTime": 32503
+    },
+    {
+        "text": "...either DNA or RNA.",
+        "startTime": 21743,
+        "endTime": 23365,
+        "slowStartTime": 32764,
+        "slowEndTime": 35272
+    },
+    {
+        "text": "That genetic material is made up of molecules...",
+        "startTime": 24253,
+        "endTime": 26573,
+        "slowStartTime": 36530,
+        "slowEndTime": 40084
+    },
+    {
+        "text": "...that can be represented as a series of letters, like this.",
+        "startTime": 26676,
+        "endTime": 29629,
+        "slowStartTime": 40164,
+        "slowEndTime": 44669
+    },
+    {
+        "text": "Each part of this code contains instructions for how to make one specific protein...",
+        "startTime": 30617,
+        "endTime": 34855,
+        "slowStartTime": 46076,
+        "slowEndTime": 52508
+    },
+    {
+        "text": "...that allows the virus to function.",
+        "startTime": 34962,
+        "endTime": 36603,
+        "slowStartTime": 52593,
+        "slowEndTime": 55130
+    },
+    {
+        "text": "A virus has one goal: to make more of itself.",
+        "startTime": 37315,
+        "endTime": 40329,
+        "slowStartTime": 56122,
+        "slowEndTime": 60719
+    },
+    {
+        "text": "But because it's so simple, it can't do that on its own.",
+        "startTime": 40963,
+        "endTime": 44103,
+        "slowStartTime": 61595,
+        "slowEndTime": 66379
+    },
+    {
+        "text": "So, it uses you.",
+        "startTime": 44953,
+        "endTime": 46477,
+        "slowStartTime": 67580,
+        "slowEndTime": 69941
+    },
+    {
+        "text": "Every time a virus infects a person, it uses their cells to make copies of itself...",
+        "startTime": 47412,
+        "endTime": 51789,
+        "slowStartTime": 71268,
+        "slowEndTime": 77909
+    },
+    {
+        "text": "...replicating this complex code again, and again, and again.",
+        "startTime": 52346,
+        "endTime": 57002,
+        "slowStartTime": 78669,
+        "slowEndTime": 85728
+    },
+    {
+        "text": "But eventually, it makes a mistake.",
+        "startTime": 57587,
+        "endTime": 59859,
+        "slowStartTime": 86530,
+        "slowEndTime": 90013
+    },
+    {
+        "text": "Sometimes, it deletes or adds a letter.",
+        "startTime": 60690,
+        "endTime": 62745,
+        "slowStartTime": 91185,
+        "slowEndTime": 94343
+    },
+    {
+        "text": "Sometimes it flips them around.",
+        "startTime": 62865,
+        "endTime": 64467,
+        "slowStartTime": 94448,
+        "slowEndTime": 96925
+    },
+    {
+        "text": "That mistake is called a mutation,...",
+        "startTime": 65121,
+        "endTime": 66866,
+        "slowStartTime": 97831,
+        "slowEndTime": 100524
+    },
+    {
+        "text": "...and it slightly changes the instructions for making the virus.",
+        "startTime": 66949,
+        "endTime": 69933,
+        "slowStartTime": 100574,
+        "slowEndTime": 105125
+    },
+    {
+        "text": "That slightly altered virus is a variant.",
+        "startTime": 70385,
+        "endTime": 73211,
+        "slowStartTime": 105728,
+        "slowEndTime": 110042
+    }
+]

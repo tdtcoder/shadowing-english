@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Here are some phrases you can use when making a hotel reservation.",
+        "startTime": 50,
+        "endTime": 3807,
+        "slowStartTime": 223,
+        "slowEndTime": 5935
+    },
+    {
+        "text": "Do you have any rooms available?",
+        "startTime": 6011,
+        "endTime": 7532,
+        "slowStartTime": 9166,
+        "slowEndTime": 11523
+    },
+    {
+        "text": "I'd like to make a reservation.",
+        "startTime": 9401,
+        "endTime": 10915,
+        "slowStartTime": 14251,
+        "slowEndTime": 16597
+    },
+    {
+        "text": "I'd like a single room, please.",
+        "startTime": 12820,
+        "endTime": 14376,
+        "slowStartTime": 19380,
+        "slowEndTime": 21789
+    },
+    {
+        "text": "Is breakfast included?",
+        "startTime": 16408,
+        "endTime": 17709,
+        "slowStartTime": 24762,
+        "slowEndTime": 26789
+    },
+    {
+        "text": "Have you got anything...?",
+        "startTime": 19677,
+        "endTime": 21068,
+        "slowStartTime": 29666,
+        "slowEndTime": 31827
+    },
+    {
+        "text": "Does the room have...?",
+        "startTime": 23013,
+        "endTime": 24077,
+        "slowStartTime": 34669,
+        "slowEndTime": 36341
+    },
+    {
+        "text": "Is there a...?",
+        "startTime": 26024,
+        "endTime": 27213,
+        "slowStartTime": 39186,
+        "slowEndTime": 41044
+    },
+    {
+        "text": "Okay, I'll take it.",
+        "startTime": 29054,
+        "endTime": 30425,
+        "slowStartTime": 43731,
+        "slowEndTime": 45862
+    },
+    {
+        "text": "Do you allow pets?",
+        "startTime": 32354,
+        "endTime": 33627,
+        "slowStartTime": 48681,
+        "slowEndTime": 50665
+    },
+    {
+        "text": "What time is check-in and check-out?",
+        "startTime": 35623,
+        "endTime": 37701,
+        "slowStartTime": 53584,
+        "slowEndTime": 56777
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Hello!",
+        "startTime": 419,
+        "endTime": 813,
+        "slowStartTime": 778,
+        "slowEndTime": 1445
+    },
+    {
+        "text": "I'm Matthew.",
+        "startTime": 1111,
+        "endTime": 1935,
+        "slowStartTime": 1816,
+        "slowEndTime": 3127
+    },
+    {
+        "text": "I'm the new accountant.",
+        "startTime": 2149,
+        "endTime": 3136,
+        "slowStartTime": 3373,
+        "slowEndTime": 4929
+    },
+    {
+        "text": "Hi, Matthew.",
+        "startTime": 4175,
+        "endTime": 4903,
+        "slowStartTime": 6412,
+        "slowEndTime": 7579
+    },
+    {
+        "text": "I'm Lily.",
+        "startTime": 5023,
+        "endTime": 5676,
+        "slowStartTime": 7685,
+        "slowEndTime": 8739
+    },
+    {
+        "text": "I work in sales.",
+        "startTime": 6587,
+        "endTime": 7752,
+        "slowStartTime": 10030,
+        "slowEndTime": 11853
+    },
+    {
+        "text": "Nice to meet you, Lily.",
+        "startTime": 8723,
+        "endTime": 9942,
+        "slowStartTime": 13235,
+        "slowEndTime": 15138
+    },
+    {
+        "text": "Nice to meet you too, Matthew.",
+        "startTime": 10962,
+        "endTime": 12457,
+        "slowStartTime": 16593,
+        "slowEndTime": 18911
+    },
+    {
+        "text": "Where are you from?",
+        "startTime": 14717,
+        "endTime": 15647,
+        "slowStartTime": 22225,
+        "slowEndTime": 23696
+    },
+    {
+        "text": "I'm from the USA.",
+        "startTime": 16726,
+        "endTime": 17851,
+        "slowStartTime": 25239,
+        "slowEndTime": 27002
+    },
+    {
+        "text": "Where are you from, Lily?",
+        "startTime": 19063,
+        "endTime": 20153,
+        "slowStartTime": 28745,
+        "slowEndTime": 30455
+    },
+    {
+        "text": "I'm from France.",
+        "startTime": 21442,
+        "endTime": 22561,
+        "slowStartTime": 32313,
+        "slowEndTime": 34066
+    }
+]

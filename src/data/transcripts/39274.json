@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Well, I have everything I need,...",
+        "startTime": 274,
+        "endTime": 1497,
+        "slowStartTime": 561,
+        "slowEndTime": 2470
+    },
+    {
+        "text": "...but do you have any questions for me about the company or the position?",
+        "startTime": 1615,
+        "endTime": 5497,
+        "slowStartTime": 2572,
+        "slowEndTime": 8470
+    },
+    {
+        "text": "Yes. Imagine you're looking back on this hiring decision in a year.",
+        "startTime": 6249,
+        "endTime": 11586,
+        "slowStartTime": 9523,
+        "slowEndTime": 17604
+    },
+    {
+        "text": "The person you hired has exceeded your expectations.",
+        "startTime": 12324,
+        "endTime": 15808,
+        "slowStartTime": 18636,
+        "slowEndTime": 23937
+    },
+    {
+        "text": "What did he or she do that impressed you the most?",
+        "startTime": 16144,
+        "endTime": 19118,
+        "slowStartTime": 24366,
+        "slowEndTime": 28902
+    },
+    {
+        "text": "That's a great question.",
+        "startTime": 20602,
+        "endTime": 21573,
+        "slowStartTime": 31053,
+        "slowEndTime": 32584
+    },
+    {
+        "text": "I think in one year the person would have come in...",
+        "startTime": 22754,
+        "endTime": 25251,
+        "slowStartTime": 34281,
+        "slowEndTime": 38101
+    },
+    {
+        "text": "...and spent some time learning from the team and people that have been here a while.",
+        "startTime": 25380,
+        "endTime": 28859,
+        "slowStartTime": 38220,
+        "slowEndTime": 43514
+    },
+    {
+        "text": "Then, she or he will begin making changes in an informed way.",
+        "startTime": 29635,
+        "endTime": 34291,
+        "slowStartTime": 44603,
+        "slowEndTime": 51662
+    },
+    {
+        "text": "In one year, I want this person's team to be a well-oiled machine.",
+        "startTime": 35045,
+        "endTime": 38803,
+        "slowStartTime": 52717,
+        "slowEndTime": 58429
+    },
+    {
+        "text": "I want them to be bouncing ideas off each other,...",
+        "startTime": 39207,
+        "endTime": 41449,
+        "slowStartTime": 58961,
+        "slowEndTime": 62398
+    },
+    {
+        "text": "...coming up with new designs, and making headway into new markets.",
+        "startTime": 41655,
+        "endTime": 44949,
+        "slowStartTime": 62633,
+        "slowEndTime": 67649
+    },
+    {
+        "text": "That's helpful.",
+        "startTime": 45899,
+        "endTime": 46685,
+        "slowStartTime": 68998,
+        "slowEndTime": 70253
+    },
+    {
+        "text": "It's good to know what the expectations are.",
+        "startTime": 47205,
+        "endTime": 49321,
+        "slowStartTime": 70957,
+        "slowEndTime": 74207
+    }
+]

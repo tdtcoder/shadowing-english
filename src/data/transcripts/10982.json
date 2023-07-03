@@ -1,0 +1,44 @@
+[
+    {
+        "text": "So, what do you think happens when you die?",
+        "startTime": 3000,
+        "endTime": 4900,
+        "slowStartTime": 4700,
+        "slowEndTime": 7600
+    },
+    {
+        "text": "I don't think we die.",
+        "startTime": 10000,
+        "endTime": 10900,
+        "slowStartTime": 15200,
+        "slowEndTime": 16600
+    },
+    {
+        "text": "Your body dies.",
+        "startTime": 14250,
+        "endTime": 15400,
+        "slowStartTime": 21600,
+        "slowEndTime": 23400
+    },
+    {
+        "text": "But that's just your body.",
+        "startTime": 19300,
+        "endTime": 20350,
+        "slowStartTime": 29100,
+        "slowEndTime": 30800
+    },
+    {
+        "text": "So, what continues on then...",
+        "startTime": 27600,
+        "endTime": 29150,
+        "slowStartTime": 41600,
+        "slowEndTime": 44000
+    },
+    {
+        "text": "...if it's just your body that dies?",
+        "startTime": 29800,
+        "endTime": 31700,
+        "slowStartTime": 44900,
+        "slowEndTime": 47800
+    }
+]

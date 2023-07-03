@@ -1,0 +1,142 @@
+[
+    {
+        "text": "High.",
+        "startTime": 2603,
+        "endTime": 3329,
+        "slowStartTime": 4054,
+        "slowEndTime": 5218
+    },
+    {
+        "text": "The sky is high.",
+        "startTime": 3993,
+        "endTime": 5540,
+        "slowStartTime": 6140,
+        "slowEndTime": 8535
+    },
+    {
+        "text": "The sky is high and clear.",
+        "startTime": 6818,
+        "endTime": 9122,
+        "slowStartTime": 10377,
+        "slowEndTime": 13908
+    },
+    {
+        "text": "Knight.",
+        "startTime": 10298,
+        "endTime": 11005,
+        "slowStartTime": 15597,
+        "slowEndTime": 16733
+    },
+    {
+        "text": "The knight is strong.",
+        "startTime": 11813,
+        "endTime": 13441,
+        "slowStartTime": 17869,
+        "slowEndTime": 20387
+    },
+    {
+        "text": "The knight is strong and brave.",
+        "startTime": 14740,
+        "endTime": 17085,
+        "slowStartTime": 22260,
+        "slowEndTime": 25853
+    },
+    {
+        "text": "Night.",
+        "startTime": 18425,
+        "endTime": 19091,
+        "slowStartTime": 27787,
+        "slowEndTime": 28862
+    },
+    {
+        "text": "I go to sleep at night.",
+        "startTime": 19817,
+        "endTime": 21667,
+        "slowStartTime": 29875,
+        "slowEndTime": 32725
+    },
+    {
+        "text": "I go to sleep late at night.",
+        "startTime": 23006,
+        "endTime": 25372,
+        "slowStartTime": 34659,
+        "slowEndTime": 38283
+    },
+    {
+        "text": "Sigh.",
+        "startTime": 26691,
+        "endTime": 27357,
+        "slowStartTime": 40186,
+        "slowEndTime": 41261
+    },
+    {
+        "text": "She let out a sigh.",
+        "startTime": 28124,
+        "endTime": 29791,
+        "slowStartTime": 42336,
+        "slowEndTime": 44912
+    },
+    {
+        "text": "She let out a loud sigh.",
+        "startTime": 31111,
+        "endTime": 33415,
+        "slowStartTime": 46816,
+        "slowEndTime": 50347
+    },
+    {
+        "text": "Bears, bears, bears, are there bears at the zoo?",
+        "startTime": 38901,
+        "endTime": 42167,
+        "slowStartTime": 58501,
+        "slowEndTime": 63476
+    },
+    {
+        "text": "Yes, yes, yes. Yes, there are.",
+        "startTime": 42585,
+        "endTime": 46080,
+        "slowStartTime": 64028,
+        "slowEndTime": 69345
+    },
+    {
+        "text": "Dinosaurs, dinosaurs, dinosaurs, are there dinosaurs at the zoo?",
+        "startTime": 46395,
+        "endTime": 52603,
+        "slowStartTime": 69742,
+        "slowEndTime": 79130
+    },
+    {
+        "text": "No, no, no. No, there aren't.",
+        "startTime": 53896,
+        "endTime": 57244,
+        "slowStartTime": 80994,
+        "slowEndTime": 86091
+    },
+    {
+        "text": "Hippos, hippos, hippos, are there hippos at the zoo?",
+        "startTime": 57664,
+        "endTime": 60905,
+        "slowStartTime": 86646,
+        "slowEndTime": 91583
+    },
+    {
+        "text": "Yes, yes, yes. Yes, there are.",
+        "startTime": 61397,
+        "endTime": 64806,
+        "slowStartTime": 92246,
+        "slowEndTime": 97434
+    },
+    {
+        "text": "Dragons, dragons, dragons, are there dragons at the zoo?",
+        "startTime": 65213,
+        "endTime": 68411,
+        "slowStartTime": 97969,
+        "slowEndTime": 102841
+    },
+    {
+        "text": "No, no, no. No, there aren't.",
+        "startTime": 68895,
+        "endTime": 72492,
+        "slowStartTime": 103492,
+        "slowEndTime": 108963
+    }
+]

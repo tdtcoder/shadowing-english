@@ -1,0 +1,128 @@
+[
+    {
+        "text": "﻿Hmm, Johnny what are you up to?",
+        "startTime": 1596,
+        "endTime": 4589,
+        "slowStartTime": 2544,
+        "slowEndTime": 7109
+    },
+    {
+        "text": "Johnny, Johnny.",
+        "startTime": 8069,
+        "endTime": 10053,
+        "slowStartTime": 12254,
+        "slowEndTime": 15304
+    },
+    {
+        "text": "Yes, papa?",
+        "startTime": 10187,
+        "endTime": 11884,
+        "slowStartTime": 15430,
+        "slowEndTime": 18051
+    },
+    {
+        "text": "Eating sugar?",
+        "startTime": 12095,
+        "endTime": 14005,
+        "slowStartTime": 18292,
+        "slowEndTime": 21232
+    },
+    {
+        "text": "No, papa.",
+        "startTime": 14091,
+        "endTime": 15661,
+        "slowStartTime": 21286,
+        "slowEndTime": 23717
+    },
+    {
+        "text": "Telling lies?",
+        "startTime": 16124,
+        "endTime": 17883,
+        "slowStartTime": 24336,
+        "slowEndTime": 27050
+    },
+    {
+        "text": "No, papa.",
+        "startTime": 18052,
+        "endTime": 19635,
+        "slowStartTime": 27228,
+        "slowEndTime": 29677
+    },
+    {
+        "text": "Open your mouth!",
+        "startTime": 20127,
+        "endTime": 21624,
+        "slowStartTime": 30340,
+        "slowEndTime": 32661
+    },
+    {
+        "text": "Ha ha ha.",
+        "startTime": 22022,
+        "endTime": 23621,
+        "slowStartTime": 33183,
+        "slowEndTime": 35656
+    },
+    {
+        "text": "Johnny, what are you up to?",
+        "startTime": 27750,
+        "endTime": 30084,
+        "slowStartTime": 41775,
+        "slowEndTime": 45351
+    },
+    {
+        "text": "Johnny, Johnny.",
+        "startTime": 32061,
+        "endTime": 33956,
+        "slowStartTime": 48242,
+        "slowEndTime": 51159
+    },
+    {
+        "text": "Yes, papa?",
+        "startTime": 34087,
+        "endTime": 35709,
+        "slowStartTime": 51281,
+        "slowEndTime": 53789
+    },
+    {
+        "text": "Eating sugar?",
+        "startTime": 36114,
+        "endTime": 37945,
+        "slowStartTime": 54321,
+        "slowEndTime": 57143
+    },
+    {
+        "text": "No, papa.",
+        "startTime": 38077,
+        "endTime": 39664,
+        "slowStartTime": 57265,
+        "slowEndTime": 59721
+    },
+    {
+        "text": "Telling lies?",
+        "startTime": 40044,
+        "endTime": 41883,
+        "slowStartTime": 60216,
+        "slowEndTime": 63050
+    },
+    {
+        "text": "No, papa.",
+        "startTime": 42032,
+        "endTime": 43706,
+        "slowStartTime": 63198,
+        "slowEndTime": 65784
+    },
+    {
+        "text": "Open your mouth!",
+        "startTime": 44131,
+        "endTime": 45725,
+        "slowStartTime": 66346,
+        "slowEndTime": 68813
+    },
+    {
+        "text": "Ha, Ha, Ha.",
+        "startTime": 46081,
+        "endTime": 48020,
+        "slowStartTime": 69272,
+        "slowEndTime": 72255
+    }
+]

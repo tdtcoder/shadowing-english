@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Nice to meet you.",
+        "startTime": 2065,
+        "endTime": 3391,
+        "slowStartTime": 3248,
+        "slowEndTime": 5312
+    },
+    {
+        "text": "What is your name?",
+        "startTime": 8767,
+        "endTime": 9990,
+        "slowStartTime": 13300,
+        "slowEndTime": 15210
+    },
+    {
+        "text": "Where do you live?",
+        "startTime": 17565,
+        "endTime": 18754,
+        "slowStartTime": 26497,
+        "slowEndTime": 28356
+    },
+    {
+        "text": "How big is your family?",
+        "startTime": 27873,
+        "endTime": 29555,
+        "slowStartTime": 41960,
+        "slowEndTime": 44558
+    },
+    {
+        "text": "Where have you traveled?",
+        "startTime": 35307,
+        "endTime": 36493,
+        "slowStartTime": 53110,
+        "slowEndTime": 54965
+    },
+    {
+        "text": "Do you have a favorite place in the world?",
+        "startTime": 44507,
+        "endTime": 46564,
+        "slowStartTime": 66911,
+        "slowEndTime": 70071
+    },
+    {
+        "text": "What do you like to do for exercise?",
+        "startTime": 54507,
+        "endTime": 56752,
+        "slowStartTime": 81910,
+        "slowEndTime": 85353
+    },
+    {
+        "text": "Can you play a musical instrument?",
+        "startTime": 63097,
+        "endTime": 64991,
+        "slowStartTime": 94796,
+        "slowEndTime": 97711
+    },
+    {
+        "text": "Do you have any pets?",
+        "startTime": 70077,
+        "endTime": 71509,
+        "slowStartTime": 105265,
+        "slowEndTime": 107489
+    },
+    {
+        "text": "What do you like to eat?",
+        "startTime": 80743,
+        "endTime": 82189,
+        "slowStartTime": 121264,
+        "slowEndTime": 123508
+    },
+    {
+        "text": "What's your favorite movie?",
+        "startTime": 90151,
+        "endTime": 92193,
+        "slowStartTime": 135377,
+        "slowEndTime": 138514
+    },
+    {
+        "text": "What do you like to do in your free time?",
+        "startTime": 101431,
+        "endTime": 103539,
+        "slowStartTime": 152296,
+        "slowEndTime": 155534
+    }
+]

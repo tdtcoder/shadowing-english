@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Terrorists staged multiple simultaneous attacks in Paris Friday night,...",
+        "startTime": 2731,
+        "endTime": 6985,
+        "slowStartTime": 4246,
+        "slowEndTime": 10703
+    },
+    {
+        "text": "...killing scores of people with automatic gunfire and explosions.",
+        "startTime": 7407,
+        "endTime": 10860,
+        "slowStartTime": 11260,
+        "slowEndTime": 16515
+    },
+    {
+        "text": "President Francois Hollande said he was declaring a state of emergency...",
+        "startTime": 15024,
+        "endTime": 19149,
+        "slowStartTime": 22686,
+        "slowEndTime": 28948
+    },
+    {
+        "text": "..and ordering France's borders closed, an unprecedented act in 21st century Europe.",
+        "startTime": 19481,
+        "endTime": 24459,
+        "slowStartTime": 29371,
+        "slowEndTime": 36914
+    },
+    {
+        "text": "From Washington, President Barack Obama said the United States was ready to help...",
+        "startTime": 24861,
+        "endTime": 29583,
+        "slowStartTime": 37442,
+        "slowEndTime": 44599
+    },
+    {
+        "text": "...in any way possible.",
+        "startTime": 29873,
+        "endTime": 31207,
+        "slowStartTime": 44959,
+        "slowEndTime": 47036
+    },
+    {
+        "text": "A large number of people were being held at a concert hall,...",
+        "startTime": 33137,
+        "endTime": 36262,
+        "slowStartTime": 49855,
+        "slowEndTime": 54618
+    },
+    {
+        "text": "...where a performance by an American band was interrupted by rapid-fire bursts...",
+        "startTime": 36655,
+        "endTime": 41279,
+        "slowStartTime": 55132,
+        "slowEndTime": 62143
+    },
+    {
+        "text": "...from Kalashnikov automatic rifles.",
+        "startTime": 41449,
+        "endTime": 43521,
+        "slowStartTime": 62323,
+        "slowEndTime": 65507
+    },
+    {
+        "text": "Up to a thousand people were in the audience.",
+        "startTime": 44179,
+        "endTime": 46229,
+        "slowStartTime": 66419,
+        "slowEndTime": 69568
+    },
+    {
+        "text": "Many escaped, but it is not yet clear how many were taken hostage or executed.",
+        "startTime": 46459,
+        "endTime": 51529,
+        "slowStartTime": 69838,
+        "slowEndTime": 77519
+    }
+]

@@ -1,0 +1,254 @@
+[
+    {
+        "text": "Hi! I'm Jeremy, a Consumer Experience Specialist at Google.",
+        "startTime": 3436,
+        "endTime": 6185,
+        "slowStartTime": 5304,
+        "slowEndTime": 9503
+    },
+    {
+        "text": "Today, I'm gonna talk to you about malicious software also known as malware...",
+        "startTime": 6538,
+        "endTime": 9790,
+        "slowStartTime": 9957,
+        "slowEndTime": 14910
+    },
+    {
+        "text": "...and how you can protect your computer from infection.",
+        "startTime": 10098,
+        "endTime": 11931,
+        "slowStartTime": 15297,
+        "slowEndTime": 18121
+    },
+    {
+        "text": "First, let's talk about how you get malware.",
+        "startTime": 12371,
+        "endTime": 13998,
+        "slowStartTime": 18706,
+        "slowEndTime": 21222
+    },
+    {
+        "text": "Malware is often installed on your computer without your knowledge when you visit certain websites.",
+        "startTime": 14749,
+        "endTime": 18355,
+        "slowStartTime": 22274,
+        "slowEndTime": 27758
+    },
+    {
+        "text": "Sometimes, these are good sites that have been compromised by malware creators.",
+        "startTime": 19031,
+        "endTime": 22410,
+        "slowStartTime": 28696,
+        "slowEndTime": 33840
+    },
+    {
+        "text": "And other times, they're simply bad sites built to distribute malicious software.",
+        "startTime": 22815,
+        "endTime": 26037,
+        "slowStartTime": 34372,
+        "slowEndTime": 39280
+    },
+    {
+        "text": "Malware may also be installed when you download a file that appears to be legitimate,...",
+        "startTime": 27820,
+        "endTime": 31010,
+        "slowStartTime": 41880,
+        "slowEndTime": 46740
+    },
+    {
+        "text": "...but is actually doing things that you didn't want or expect it to do.",
+        "startTime": 31362,
+        "endTime": 33939,
+        "slowStartTime": 47193,
+        "slowEndTime": 51133
+    },
+    {
+        "text": "Malware has been known to do things like delete data on your computer,...",
+        "startTime": 35632,
+        "endTime": 38444,
+        "slowStartTime": 53598,
+        "slowEndTime": 57891
+    },
+    {
+        "text": "...steal personal information such as credit card numbers and passwords,...",
+        "startTime": 38695,
+        "endTime": 41579,
+        "slowStartTime": 58193,
+        "slowEndTime": 62594
+    },
+    {
+        "text": "...send spam email, or even attack other networks and computers.",
+        "startTime": 42133,
+        "endTime": 45531,
+        "slowStartTime": 63350,
+        "slowEndTime": 68522
+    },
+    {
+        "text": "One of the most common symptoms of malware that our users report...",
+        "startTime": 47146,
+        "endTime": 49781,
+        "slowStartTime": 70869,
+        "slowEndTime": 74896
+    },
+    {
+        "text": "...is being taken to an unexpected site after clicking on a search result.",
+        "startTime": 50113,
+        "endTime": 53113,
+        "slowStartTime": 75320,
+        "slowEndTime": 79894
+    },
+    {
+        "text": "These sites are often spammy.",
+        "startTime": 53475,
+        "endTime": 54647,
+        "slowStartTime": 80362,
+        "slowEndTime": 82195
+    },
+    {
+        "text": "But malware can also cause pop-ups, unwanted tool bars, and other strange behavior.",
+        "startTime": 55603,
+        "endTime": 59425,
+        "slowStartTime": 83554,
+        "slowEndTime": 89362
+    },
+    {
+        "text": "To avoid malware from infecting your computer in the first place,...",
+        "startTime": 60965,
+        "endTime": 63489,
+        "slowStartTime": 91598,
+        "slowEndTime": 95459
+    },
+    {
+        "text": "...it's a good idea to follow a few general guidelines.",
+        "startTime": 63891,
+        "endTime": 66141,
+        "slowStartTime": 95986,
+        "slowEndTime": 99436
+    },
+    {
+        "text": "First, upgrade your operating system and all of your software to the latest versions.",
+        "startTime": 66903,
+        "endTime": 70811,
+        "slowStartTime": 100505,
+        "slowEndTime": 106442
+    },
+    {
+        "text": "Check for new versions regularly, and if possible, turn on automatic updates.",
+        "startTime": 71212,
+        "endTime": 74857,
+        "slowStartTime": 106968,
+        "slowEndTime": 112510
+    },
+    {
+        "text": "Be careful not to click on links that you don't know the destination of...",
+        "startTime": 75977,
+        "endTime": 78618,
+        "slowStartTime": 114116,
+        "slowEndTime": 118152
+    },
+    {
+        "text": "...or download files from a source that you don't trust.",
+        "startTime": 78763,
+        "endTime": 80904,
+        "slowStartTime": 118294,
+        "slowEndTime": 121581
+    },
+    {
+        "text": "Similarly, before you download email attachments or click links in an email,...",
+        "startTime": 81959,
+        "endTime": 85521,
+        "slowStartTime": 123089,
+        "slowEndTime": 128506
+    },
+    {
+        "text": "...make sure you trust the sender.",
+        "startTime": 85685,
+        "endTime": 86749,
+        "slowStartTime": 128677,
+        "slowEndTime": 130348
+    },
+    {
+        "text": "And finally, make sure that you're running up-to-date antivirus software.",
+        "startTime": 87985,
+        "endTime": 91161,
+        "slowStartTime": 132127,
+        "slowEndTime": 136967
+    },
+    {
+        "text": "If you think you've already got malware,...",
+        "startTime": 91471,
+        "endTime": 93010,
+        "slowStartTime": 137356,
+        "slowEndTime": 139740
+    },
+    {
+        "text": "...you can usually also use antivirus software to detect and remove it.",
+        "startTime": 93366,
+        "endTime": 96573,
+        "slowStartTime": 140199,
+        "slowEndTime": 145084
+    },
+    {
+        "text": "There are a number of programs that can remove the most common malware.",
+        "startTime": 98281,
+        "endTime": 101006,
+        "slowStartTime": 147571,
+        "slowEndTime": 151734
+    },
+    {
+        "text": "Although, you may need to try more than one to catch every instance on your computer.",
+        "startTime": 101467,
+        "endTime": 104803,
+        "slowStartTime": 152350,
+        "slowEndTime": 157429
+    },
+    {
+        "text": "And again, remember to keep all of your antivirus software up-to-date.",
+        "startTime": 105752,
+        "endTime": 108441,
+        "slowStartTime": 158778,
+        "slowEndTime": 162887
+    },
+    {
+        "text": "If you do find a site in our search results that installs...",
+        "startTime": 108945,
+        "endTime": 111089,
+        "slowStartTime": 163568,
+        "slowEndTime": 166859
+    },
+    {
+        "text": "...unwanted programs on your computer or redirects you somewhere that you did not intend to go,...",
+        "startTime": 111194,
+        "endTime": 114922,
+        "slowStartTime": 166941,
+        "slowEndTime": 172608
+    },
+    {
+        "text": "...please let us know.",
+        "startTime": 115581,
+        "endTime": 116288,
+        "slowStartTime": 173521,
+        "slowEndTime": 174657
+    },
+    {
+        "text": "Your report will help us improve the quality of our search results.",
+        "startTime": 117300,
+        "endTime": 119781,
+        "slowStartTime": 176100,
+        "slowEndTime": 179896
+    },
+    {
+        "text": "To learn more about malware, please visit our help center.",
+        "startTime": 121018,
+        "endTime": 123524,
+        "slowStartTime": 181677,
+        "slowEndTime": 185511
+    },
+    {
+        "text": "Thanks and safe browsing.",
+        "startTime": 123777,
+        "endTime": 124978,
+        "slowStartTime": 185815,
+        "slowEndTime": 187692
+    }
+]

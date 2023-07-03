@@ -1,0 +1,58 @@
+[
+    {
+        "text": "A little girl went to a pet shop and asked,",
+        "startTime": 339,
+        "endTime": 3076,
+        "slowStartTime": 659,
+        "slowEndTime": 4839
+    },
+    {
+        "text": "\"Excuse me, excuse me, do you have any rabbits?\"",
+        "startTime": 3865,
+        "endTime": 7653,
+        "slowStartTime": 5947,
+        "slowEndTime": 11705
+    },
+    {
+        "text": "\"Well yes, we do.\"",
+        "startTime": 8379,
+        "endTime": 9350,
+        "slowStartTime": 12718,
+        "slowEndTime": 14250
+    },
+    {
+        "text": "\"If you go down this aisle we have black rabbits.\"",
+        "startTime": 9481,
+        "endTime": 12337,
+        "slowStartTime": 14372,
+        "slowEndTime": 18730
+    },
+    {
+        "text": "\"And if you go down this aisle we have white rabbits.\"",
+        "startTime": 12437,
+        "endTime": 15359,
+        "slowStartTime": 18806,
+        "slowEndTime": 23264
+    },
+    {
+        "text": "\"And if you go down this aisle we have brown rabbits.\"",
+        "startTime": 15659,
+        "endTime": 18287,
+        "slowStartTime": 23638,
+        "slowEndTime": 27656
+    },
+    {
+        "text": "\"What kind of rabbit would you like?\"",
+        "startTime": 18621,
+        "endTime": 20132,
+        "slowStartTime": 28082,
+        "slowEndTime": 30423
+    },
+    {
+        "text": "\"Well, I don't think my pet snake really cares.\"",
+        "startTime": 21450,
+        "endTime": 24652,
+        "slowStartTime": 32325,
+        "slowEndTime": 37203
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Mom, did you have a cell phone when you were young?",
+        "startTime": 2895,
+        "endTime": 6885,
+        "slowStartTime": 4493,
+        "slowEndTime": 10553
+    },
+    {
+        "text": "No, I didn't.",
+        "startTime": 7937,
+        "endTime": 9088,
+        "slowStartTime": 12055,
+        "slowEndTime": 13857
+    },
+    {
+        "text": "I didn't have a cell phone when I was young.",
+        "startTime": 9575,
+        "endTime": 12267,
+        "slowStartTime": 14513,
+        "slowEndTime": 18625
+    },
+    {
+        "text": "You cried a lot when you were young.",
+        "startTime": 15273,
+        "endTime": 18206,
+        "slowStartTime": 23059,
+        "slowEndTime": 27534
+    },
+    {
+        "text": "No joking! I was always happy when I was young.",
+        "startTime": 19145,
+        "endTime": 23755,
+        "slowStartTime": 28868,
+        "slowEndTime": 35857
+    },
+    {
+        "text": "You did. And you also slept a lot when you were young.",
+        "startTime": 24807,
+        "endTime": 29434,
+        "slowStartTime": 37360,
+        "slowEndTime": 44376
+    },
+    {
+        "text": "Did you go to see a movie last night?",
+        "startTime": 32411,
+        "endTime": 34765,
+        "slowStartTime": 48766,
+        "slowEndTime": 52372
+    },
+    {
+        "text": "Yes, I did. It was a really good movie.",
+        "startTime": 35923,
+        "endTime": 39088,
+        "slowStartTime": 54035,
+        "slowEndTime": 58857
+    },
+    {
+        "text": "Now, we can do whatever we want, right?",
+        "startTime": 40143,
+        "endTime": 43396,
+        "slowStartTime": 60365,
+        "slowEndTime": 65319
+    },
+    {
+        "text": "Now, we can go to see a movie whenever we want to.",
+        "startTime": 44559,
+        "endTime": 48333,
+        "slowStartTime": 66989,
+        "slowEndTime": 72725
+    },
+    {
+        "text": "But we didn't have a movie theater when I was young.",
+        "startTime": 48873,
+        "endTime": 52331,
+        "slowStartTime": 73460,
+        "slowEndTime": 78722
+    }
+]

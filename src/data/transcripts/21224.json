@@ -1,0 +1,86 @@
+[
+    {
+        "text": "World's Weirdest Restaurants takes you to a roadhouse in Florida...",
+        "startTime": 4101,
+        "endTime": 7294,
+        "slowStartTime": 6302,
+        "slowEndTime": 11166
+    },
+    {
+        "text": "...where you can eat exotic game or feed it.",
+        "startTime": 7487,
+        "endTime": 9767,
+        "slowStartTime": 11380,
+        "slowEndTime": 14876
+    },
+    {
+        "text": "I've seen some wild menus before, but not quite as literal as this.",
+        "startTime": 10329,
+        "endTime": 13657,
+        "slowStartTime": 15643,
+        "slowEndTime": 20711
+    },
+    {
+        "text": "We'll travel to a cafe in Japan where maids are the masters.",
+        "startTime": 15892,
+        "endTime": 19387,
+        "slowStartTime": 23988,
+        "slowEndTime": 29306
+    },
+    {
+        "text": "My god!",
+        "startTime": 20555,
+        "endTime": 21675,
+        "slowStartTime": 30983,
+        "slowEndTime": 32738
+    },
+    {
+        "text": "I'm in love.",
+        "startTime": 22455,
+        "endTime": 23343,
+        "slowStartTime": 33832,
+        "slowEndTime": 35240
+    },
+    {
+        "text": "Then, we'll head to Vancouver for culinary matchmaking.",
+        "startTime": 23427,
+        "endTime": 26349,
+        "slowStartTime": 35291,
+        "slowEndTime": 39748
+    },
+    {
+        "text": "If you can mix food with romance, why not.",
+        "startTime": 26437,
+        "endTime": 28621,
+        "slowStartTime": 39806,
+        "slowEndTime": 43156
+    },
+    {
+        "text": "There's no question that the dating game, you got it.",
+        "startTime": 28701,
+        "endTime": 30974,
+        "slowStartTime": 43201,
+        "slowEndTime": 46686
+    },
+    {
+        "text": "And finally, we'll travel to the American Midwest with the clear alibi.",
+        "startTime": 32978,
+        "endTime": 37209,
+        "slowStartTime": 49617,
+        "slowEndTime": 56039
+    },
+    {
+        "text": "It feels like a maze.",
+        "startTime": 37295,
+        "endTime": 38195,
+        "slowStartTime": 56093,
+        "slowEndTime": 57517
+    },
+    {
+        "text": "Every time you turn a corner, you expect to run into Dr. No.",
+        "startTime": 38275,
+        "endTime": 41187,
+        "slowStartTime": 57563,
+        "slowEndTime": 62005
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "text": "The Modal Verb Can",
+        "startTime": 413,
+        "endTime": 2077,
+        "slowStartTime": 770,
+        "slowEndTime": 3341
+    },
+    {
+        "text": "Helen can paint.",
+        "startTime": 3848,
+        "endTime": 5252,
+        "slowStartTime": 5922,
+        "slowEndTime": 8103
+    },
+    {
+        "text": "The boy can swim.",
+        "startTime": 7354,
+        "endTime": 8852,
+        "slowStartTime": 11181,
+        "slowEndTime": 13503
+    },
+    {
+        "text": "They can sing.",
+        "startTime": 10763,
+        "endTime": 12199,
+        "slowStartTime": 16294,
+        "slowEndTime": 18523
+    },
+    {
+        "text": "A snake can't paint.",
+        "startTime": 14313,
+        "endTime": 16245,
+        "slowStartTime": 21620,
+        "slowEndTime": 24593
+    },
+    {
+        "text": "A snowman cannot swim.",
+        "startTime": 18144,
+        "endTime": 20385,
+        "slowStartTime": 27366,
+        "slowEndTime": 30803
+    },
+    {
+        "text": "Flowers can't sing.",
+        "startTime": 22328,
+        "endTime": 24812,
+        "slowStartTime": 33642,
+        "slowEndTime": 37443
+    }
+]

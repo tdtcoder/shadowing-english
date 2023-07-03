@@ -1,0 +1,93 @@
+[
+    {
+        "text": "In the US, US President Donald Trump...",
+        "startTime": 2571,
+        "endTime": 5776,
+        "slowStartTime": 4006,
+        "slowEndTime": 8889
+    },
+    {
+        "text": "...announced a partial travel ban on European countries in a rare Oval Office speech.",
+        "startTime": 6353,
+        "endTime": 11693,
+        "slowStartTime": 9680,
+        "slowEndTime": 17765
+    },
+    {
+        "text": "Trade will still continue with the restricted countries.",
+        "startTime": 12493,
+        "endTime": 15533,
+        "slowStartTime": 18890,
+        "slowEndTime": 23525
+    },
+    {
+        "text": "The European Union stated disappointment with the United States for imposing a travel ban on Europe...",
+        "startTime": 17584,
+        "endTime": 23646,
+        "slowStartTime": 26526,
+        "slowEndTime": 35694
+    },
+    {
+        "text": "...without first consulting with them.",
+        "startTime": 23983,
+        "endTime": 25856,
+        "slowStartTime": 36124,
+        "slowEndTime": 39009
+    },
+    {
+        "text": "They also rebuked Trump's criticism of their handling of the coronavirus pandemic.",
+        "startTime": 26517,
+        "endTime": 31624,
+        "slowStartTime": 39926,
+        "slowEndTime": 47661
+    },
+    {
+        "text": "In the US, the country's stocks plummeted after the president's travel ban announcement Wednesday.",
+        "startTime": 34284,
+        "endTime": 40941,
+        "slowStartTime": 51576,
+        "slowEndTime": 61636
+    },
+    {
+        "text": "The New York Stock Exchange experienced a 15-minute halt in trading on Thursday.",
+        "startTime": 41471,
+        "endTime": 47020,
+        "slowStartTime": 62357,
+        "slowEndTime": 70755
+    },
+    {
+        "text": "In Europe, European Central Bank President Christine Lagarde...",
+        "startTime": 49695,
+        "endTime": 53820,
+        "slowStartTime": 74692,
+        "slowEndTime": 80955
+    },
+    {
+        "text": "...revealed a new plan to help the struggling European economy during the coronavirus pandemic.",
+        "startTime": 54233,
+        "endTime": 60140,
+        "slowStartTime": 81499,
+        "slowEndTime": 90435
+    },
+    {
+        "text": "Finally from India, New Delhi ordered schools, colleges and movie theaters to close...",
+        "startTime": 62403,
+        "endTime": 69047,
+        "slowStartTime": 93754,
+        "slowEndTime": 103795
+    },
+    {
+        "text": "...in an effort to contain the spread of the coronavirus.",
+        "startTime": 69138,
+        "endTime": 72059,
+        "slowStartTime": 103857,
+        "slowEndTime": 108313
+    },
+    {
+        "text": "The number of cases in the country has now risen to 73.",
+        "startTime": 72697,
+        "endTime": 76998,
+        "slowStartTime": 109195,
+        "slowEndTime": 115722
+    }
+]

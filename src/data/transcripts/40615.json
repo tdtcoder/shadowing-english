@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Excuse me.",
+        "startTime": 4231,
+        "endTime": 5442,
+        "slowStartTime": 6496,
+        "slowEndTime": 8388
+    },
+    {
+        "text": "Are you Frank?",
+        "startTime": 5870,
+        "endTime": 6731,
+        "slowStartTime": 8955,
+        "slowEndTime": 10321
+    },
+    {
+        "text": "Yes, I am.",
+        "startTime": 7468,
+        "endTime": 8977,
+        "slowStartTime": 11352,
+        "slowEndTime": 13691
+    },
+    {
+        "text": "Hello.",
+        "startTime": 12009,
+        "endTime": 12897,
+        "slowStartTime": 18163,
+        "slowEndTime": 19571
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 13354,
+        "endTime": 14377,
+        "slowStartTime": 20181,
+        "slowEndTime": 21790
+    },
+    {
+        "text": "I'm Frank.",
+        "startTime": 15119,
+        "endTime": 16104,
+        "slowStartTime": 22829,
+        "slowEndTime": 24381
+    },
+    {
+        "text": "And you?",
+        "startTime": 16506,
+        "endTime": 16953,
+        "slowStartTime": 24909,
+        "slowEndTime": 25654
+    },
+    {
+        "text": "I'm Julie.",
+        "startTime": 18067,
+        "endTime": 18781,
+        "slowStartTime": 27251,
+        "slowEndTime": 28396
+    },
+    {
+        "text": "Where are you from?",
+        "startTime": 20195,
+        "endTime": 21275,
+        "slowStartTime": 30443,
+        "slowEndTime": 32137
+    },
+    {
+        "text": "I'm from Los Angeles.",
+        "startTime": 22573,
+        "endTime": 23906,
+        "slowStartTime": 34009,
+        "slowEndTime": 36084
+    },
+    {
+        "text": "And you?",
+        "startTime": 24271,
+        "endTime": 24780,
+        "slowStartTime": 36557,
+        "slowEndTime": 37395
+    },
+    {
+        "text": "I'm from San Diego.",
+        "startTime": 26293,
+        "endTime": 27737,
+        "slowStartTime": 39590,
+        "slowEndTime": 41831
+    },
+    {
+        "text": "We are both from California.",
+        "startTime": 28665,
+        "endTime": 30457,
+        "slowStartTime": 43147,
+        "slowEndTime": 45911
+    },
+    {
+        "text": "And you, Fernando,...",
+        "startTime": 31593,
+        "endTime": 32983,
+        "slowStartTime": 47540,
+        "slowEndTime": 49700
+    },
+    {
+        "text": "...where are you from?",
+        "startTime": 33860,
+        "endTime": 35194,
+        "slowStartTime": 50940,
+        "slowEndTime": 53016
+    },
+    {
+        "text": "I'm from Peru.",
+        "startTime": 36651,
+        "endTime": 37859,
+        "slowStartTime": 55126,
+        "slowEndTime": 57014
+    },
+    {
+        "text": "Oh, that's a great country.",
+        "startTime": 39489,
+        "endTime": 41729,
+        "slowStartTime": 59383,
+        "slowEndTime": 62819
+    },
+    {
+        "text": "Which city are you from?",
+        "startTime": 43131,
+        "endTime": 44677,
+        "slowStartTime": 64846,
+        "slowEndTime": 67241
+    },
+    {
+        "text": "I'm from Lima,...",
+        "startTime": 46300,
+        "endTime": 47568,
+        "slowStartTime": 69600,
+        "slowEndTime": 71577
+    },
+    {
+        "text": "...the capital of Peru.",
+        "startTime": 48787,
+        "endTime": 50477,
+        "slowStartTime": 73330,
+        "slowEndTime": 75941
+    }
+]

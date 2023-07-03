@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Cybertron, our home.",
+        "startTime": 2550,
+        "endTime": 5150,
+        "slowStartTime": 4000,
+        "slowEndTime": 8000
+    },
+    {
+        "text": "For generations, it has been a peaceful world.",
+        "startTime": 6050,
+        "endTime": 9300,
+        "slowStartTime": 9300,
+        "slowEndTime": 14100
+    },
+    {
+        "text": "Until pride and a lust for power divided us.",
+        "startTime": 9850,
+        "endTime": 14150,
+        "slowStartTime": 14900,
+        "slowEndTime": 21500
+    },
+    {
+        "text": "Now, we fight enemies who were once our brothers.",
+        "startTime": 15400,
+        "endTime": 20450,
+        "slowStartTime": 23300,
+        "slowEndTime": 30900
+    },
+    {
+        "text": "Our tragic war has ravaged Cybertron.",
+        "startTime": 56650,
+        "endTime": 59850,
+        "slowStartTime": 85100,
+        "slowEndTime": 90100
+    },
+    {
+        "text": "It is a necessary war to return us to glory.",
+        "startTime": 62800,
+        "endTime": 66900,
+        "slowStartTime": 94350,
+        "slowEndTime": 100600
+    },
+    {
+        "text": "The Autobots will never sacrifice freedom.",
+        "startTime": 68300,
+        "endTime": 71750,
+        "slowStartTime": 102650,
+        "slowEndTime": 107600
+    },
+    {
+        "text": "The Decepticons will bring this world to order.",
+        "startTime": 79000,
+        "endTime": 82000,
+        "slowStartTime": 118600,
+        "slowEndTime": 123200
+    },
+    {
+        "text": "Our defeat would mean the end of everything.",
+        "startTime": 83750,
+        "endTime": 86750,
+        "slowStartTime": 125800,
+        "slowEndTime": 130200
+    },
+    {
+        "text": "My victory will mark a brilliant new beginning.",
+        "startTime": 90000,
+        "endTime": 93500,
+        "slowStartTime": 135100,
+        "slowEndTime": 140500
+    },
+    {
+        "text": "One shall stand.",
+        "startTime": 102500,
+        "endTime": 104200,
+        "slowStartTime": 153950,
+        "slowEndTime": 156600
+    },
+    {
+        "text": "One shall fall.",
+        "startTime": 106800,
+        "endTime": 108550,
+        "slowStartTime": 160400,
+        "slowEndTime": 163100
+    }
+]

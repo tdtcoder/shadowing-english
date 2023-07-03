@@ -1,0 +1,205 @@
+[
+    {
+        "text": "Hello?",
+        "startTime": 9400,
+        "endTime": 9758,
+        "slowStartTime": 14250,
+        "slowEndTime": 14862
+    },
+    {
+        "text": "My dad always told me stories,...",
+        "startTime": 11920,
+        "endTime": 13484,
+        "slowStartTime": 18030,
+        "slowEndTime": 20451
+    },
+    {
+        "text": "...about a hidden world where brave warriors watch over and protect us.",
+        "startTime": 14660,
+        "endTime": 19684,
+        "slowStartTime": 22140,
+        "slowEndTime": 29751
+    },
+    {
+        "text": "Isn't that cool?",
+        "startTime": 20435,
+        "endTime": 21584,
+        "slowStartTime": 30802,
+        "slowEndTime": 32601
+    },
+    {
+        "text": "He always said,...",
+        "startTime": 22859,
+        "endTime": 23475,
+        "slowStartTime": 34438,
+        "slowEndTime": 35437
+    },
+    {
+        "text": "...\"Just because you haven't seen something, doesn't mean it's not there\".",
+        "startTime": 23930,
+        "endTime": 26966,
+        "slowStartTime": 36045,
+        "slowEndTime": 40674
+    },
+    {
+        "text": "Dad?",
+        "startTime": 34554,
+        "endTime": 34998,
+        "slowStartTime": 51981,
+        "slowEndTime": 52722
+    },
+    {
+        "text": "What's going on, baby girl?",
+        "startTime": 48545,
+        "endTime": 49924,
+        "slowStartTime": 72968,
+        "slowEndTime": 75111
+    },
+    {
+        "text": "Talking snails.",
+        "startTime": 50153,
+        "endTime": 50981,
+        "slowStartTime": 75379,
+        "slowEndTime": 76696
+    },
+    {
+        "text": "Actually, I'm a slug.",
+        "startTime": 51151,
+        "endTime": 53001,
+        "slowStartTime": 76876,
+        "slowEndTime": 79727
+    },
+    {
+        "text": "No shell over here, baby.",
+        "startTime": 53118,
+        "endTime": 54285,
+        "slowStartTime": 79827,
+        "slowEndTime": 81652
+    },
+    {
+        "text": "Who are you people?",
+        "startTime": 56786,
+        "endTime": 57526,
+        "slowStartTime": 85329,
+        "slowEndTime": 86514
+    },
+    {
+        "text": "We are the Leaf Men.",
+        "startTime": 59063,
+        "endTime": 59717,
+        "slowStartTime": 88745,
+        "slowEndTime": 89801
+    },
+    {
+        "text": "Protectors of the forest.",
+        "startTime": 60135,
+        "endTime": 61170,
+        "slowStartTime": 90352,
+        "slowEndTime": 91980
+    },
+    {
+        "text": "Wow!",
+        "startTime": 63159,
+        "endTime": 63957,
+        "slowStartTime": 94888,
+        "slowEndTime": 96160
+    },
+    {
+        "text": "My dad was right.",
+        "startTime": 65481,
+        "endTime": 66304,
+        "slowStartTime": 98372,
+        "slowEndTime": 99681
+    },
+    {
+        "text": "I am going to destroy the forest.",
+        "startTime": 71774,
+        "endTime": 73907,
+        "slowStartTime": 107811,
+        "slowEndTime": 111086
+    },
+    {
+        "text": "But I'm only going to do it once so try to pay attention.",
+        "startTime": 74291,
+        "endTime": 77576,
+        "slowStartTime": 111587,
+        "slowEndTime": 116589
+    },
+    {
+        "text": "Run!",
+        "startTime": 78651,
+        "endTime": 79229,
+        "slowStartTime": 118126,
+        "slowEndTime": 119069
+    },
+    {
+        "text": "Come on, you're with us now.",
+        "startTime": 85151,
+        "endTime": 86144,
+        "slowStartTime": 127876,
+        "slowEndTime": 129441
+    },
+    {
+        "text": "Dad, I had the most messed up dream.",
+        "startTime": 106091,
+        "endTime": 108893,
+        "slowStartTime": 159286,
+        "slowEndTime": 163564
+    },
+    {
+        "text": "There were talking slugs and tiny, little soldiers.",
+        "startTime": 109514,
+        "endTime": 113918,
+        "slowStartTime": 164421,
+        "slowEndTime": 171102
+    },
+    {
+        "text": "Hello.",
+        "startTime": 115465,
+        "endTime": 115997,
+        "slowStartTime": 173348,
+        "slowEndTime": 174221
+    },
+    {
+        "text": "Oh, man.",
+        "startTime": 116794,
+        "endTime": 118367,
+        "slowStartTime": 175341,
+        "slowEndTime": 177775
+    },
+    {
+        "text": "Dad!",
+        "startTime": 122623,
+        "endTime": 123087,
+        "slowStartTime": 184085,
+        "slowEndTime": 184856
+    },
+    {
+        "text": "I'm here.",
+        "startTime": 123791,
+        "endTime": 124489,
+        "slowStartTime": 185837,
+        "slowEndTime": 186958
+    },
+    {
+        "text": "Ozzy.",
+        "startTime": 127863,
+        "endTime": 128717,
+        "slowStartTime": 191944,
+        "slowEndTime": 193300
+    },
+    {
+        "text": "No kisses.",
+        "startTime": 128997,
+        "endTime": 130315,
+        "slowStartTime": 193645,
+        "slowEndTime": 195697
+    },
+    {
+        "text": "Run!",
+        "startTime": 130428,
+        "endTime": 131002,
+        "slowStartTime": 195792,
+        "slowEndTime": 196728
+    }
+]

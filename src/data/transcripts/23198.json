@@ -1,0 +1,79 @@
+[
+    {
+        "text": "There are three main types of chocolate:...",
+        "startTime": 2213,
+        "endTime": 4046,
+        "slowStartTime": 3469,
+        "slowEndTime": 6294
+    },
+    {
+        "text": "...dark chocolate, milk chocolate and white chocolate.",
+        "startTime": 4603,
+        "endTime": 7616,
+        "slowStartTime": 7055,
+        "slowEndTime": 11649
+    },
+    {
+        "text": "Chocolate liquor and cocoa butter are the two ingredients used to make chocolate...",
+        "startTime": 8586,
+        "endTime": 12869,
+        "slowStartTime": 13029,
+        "slowEndTime": 19529
+    },
+    {
+        "text": "...that are derived from the cocoa seed or bean.",
+        "startTime": 13215,
+        "endTime": 15685,
+        "slowStartTime": 19973,
+        "slowEndTime": 23752
+    },
+    {
+        "text": "Cocoa butter is the natural fat from the cocoa bean...",
+        "startTime": 16435,
+        "endTime": 19511,
+        "slowStartTime": 24803,
+        "slowEndTime": 29492
+    },
+    {
+        "text": "...and it enhances flavor and mouthfeel.",
+        "startTime": 19982,
+        "endTime": 22134,
+        "slowStartTime": 30123,
+        "slowEndTime": 33426
+    },
+    {
+        "text": "It is the only ingredient from the cocoa bean used to make white chocolate.",
+        "startTime": 22853,
+        "endTime": 26662,
+        "slowStartTime": 34430,
+        "slowEndTime": 40218
+    },
+    {
+        "text": "Other types of chocolate are made from cocoa butter...",
+        "startTime": 27210,
+        "endTime": 29724,
+        "slowStartTime": 40965,
+        "slowEndTime": 44811
+    },
+    {
+        "text": "...plus another ingredient made from the cocoa bean called chocolate liquor.",
+        "startTime": 30160,
+        "endTime": 34514,
+        "slowStartTime": 45390,
+        "slowEndTime": 51996
+    },
+    {
+        "text": "This is the term for cocoa beans with their shells removed...",
+        "startTime": 35051,
+        "endTime": 38348,
+        "slowStartTime": 52726,
+        "slowEndTime": 57747
+    },
+    {
+        "text": "...that have been roasted and ground until they liquefy.",
+        "startTime": 38660,
+        "endTime": 41296,
+        "slowStartTime": 58140,
+        "slowEndTime": 62169
+    }
+]

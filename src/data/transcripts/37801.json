@@ -1,0 +1,121 @@
+[
+    {
+        "text": "The UK is seeking trade deals...",
+        "startTime": 50,
+        "endTime": 1819,
+        "slowStartTime": 129,
+        "slowEndTime": 2954
+    },
+    {
+        "text": "...with new friends further afield in the Asia Pacific region.",
+        "startTime": 1917,
+        "endTime": 5642,
+        "slowStartTime": 3026,
+        "slowEndTime": 8688
+    },
+    {
+        "text": "The CPTPP covers a market of 500 million people...",
+        "startTime": 6689,
+        "endTime": 10911,
+        "slowStartTime": 10183,
+        "slowEndTime": 16591
+    },
+    {
+        "text": "...from Australia and Japan to Chile and Mexico,...",
+        "startTime": 11270,
+        "endTime": 14362,
+        "slowStartTime": 17055,
+        "slowEndTime": 21768
+    },
+    {
+        "text": "...countries around the Pacific Rim generating more than 13 percent of the world's income.",
+        "startTime": 14691,
+        "endTime": 19935,
+        "slowStartTime": 22186,
+        "slowEndTime": 30127
+    },
+    {
+        "text": "The immediate benefits to the UK might be limited.",
+        "startTime": 20706,
+        "endTime": 23764,
+        "slowStartTime": 31209,
+        "slowEndTime": 35871
+    },
+    {
+        "text": "CPTPP nations account for less than 10 percent of UK exports.",
+        "startTime": 24031,
+        "endTime": 28917,
+        "slowStartTime": 36196,
+        "slowEndTime": 43600
+    },
+    {
+        "text": "That's dwarfed by the massive 43 percent of UK exports going to the EU.",
+        "startTime": 29202,
+        "endTime": 34137,
+        "slowStartTime": 43953,
+        "slowEndTime": 51430
+    },
+    {
+        "text": "But longer term, the UK hopes to build stronger ties with nations...",
+        "startTime": 34718,
+        "endTime": 38557,
+        "slowStartTime": 52227,
+        "slowEndTime": 58061
+    },
+    {
+        "text": "...who provide UK manufacturers with components.",
+        "startTime": 38884,
+        "endTime": 41719,
+        "slowStartTime": 58476,
+        "slowEndTime": 62803
+    },
+    {
+        "text": "Tariffs would be cut on UK exports of food, drink and cars.",
+        "startTime": 42126,
+        "endTime": 46419,
+        "slowStartTime": 63339,
+        "slowEndTime": 69854
+    },
+    {
+        "text": "There would also be faster visas for business travel.",
+        "startTime": 46888,
+        "endTime": 49730,
+        "slowStartTime": 70482,
+        "slowEndTime": 74820
+    },
+    {
+        "text": "The UK will be the first country to join which wasn't there at the start.",
+        "startTime": 50087,
+        "endTime": 54161,
+        "slowStartTime": 75280,
+        "slowEndTime": 81467
+    },
+    {
+        "text": "And if all goes to plan, will be the group's second largest economy after Japan.",
+        "startTime": 54509,
+        "endTime": 59443,
+        "slowStartTime": 81913,
+        "slowEndTime": 89390
+    },
+    {
+        "text": "And the icing on the cake,...",
+        "startTime": 60396,
+        "endTime": 61925,
+        "slowStartTime": 90744,
+        "slowEndTime": 93113
+    },
+    {
+        "text": "...it may be a way of getting a warmer trade relationship with the US.",
+        "startTime": 62053,
+        "endTime": 66014,
+        "slowStartTime": 93229,
+        "slowEndTime": 99246
+    },
+    {
+        "text": "President Joe Biden has hinted at joining the partnership.",
+        "startTime": 66387,
+        "endTime": 69742,
+        "slowStartTime": 99730,
+        "slowEndTime": 104838
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "text": "The price of just about everything has gone up over the past year.",
+        "startTime": 795,
+        "endTime": 4688,
+        "slowStartTime": 1343,
+        "slowEndTime": 7257
+    },
+    {
+        "text": "Bananas will cost you six percent more on average.",
+        "startTime": 5930,
+        "endTime": 9409,
+        "slowStartTime": 9045,
+        "slowEndTime": 14339
+    },
+    {
+        "text": "Milk, 15% and eggs are 25% more expensive.",
+        "startTime": 10077,
+        "endTime": 14994,
+        "slowStartTime": 15266,
+        "slowEndTime": 22716
+    },
+    {
+        "text": "It's all part of rising inflation,...",
+        "startTime": 15589,
+        "endTime": 17971,
+        "slowStartTime": 23533,
+        "slowEndTime": 27181
+    },
+    {
+        "text": "...which hit 8.5% in March, the highest in 40 years.",
+        "startTime": 18369,
+        "endTime": 23119,
+        "slowStartTime": 27704,
+        "slowEndTime": 34903
+    },
+    {
+        "text": "Why is inflation happening?",
+        "startTime": 23511,
+        "endTime": 25108,
+        "slowStartTime": 35416,
+        "slowEndTime": 37887
+    },
+    {
+        "text": "It all goes back to supply and demand.",
+        "startTime": 25449,
+        "endTime": 28061,
+        "slowStartTime": 38324,
+        "slowEndTime": 42316
+    },
+    {
+        "text": "The price of something is a balancing act between these two factors.",
+        "startTime": 28278,
+        "endTime": 32021,
+        "slowStartTime": 42567,
+        "slowEndTime": 48256
+    },
+    {
+        "text": "Let's take beef, for example.",
+        "startTime": 32411,
+        "endTime": 34143,
+        "slowStartTime": 48766,
+        "slowEndTime": 51439
+    },
+    {
+        "text": "When COVID struck, meat production slowed dramatically...",
+        "startTime": 34633,
+        "endTime": 37993,
+        "slowStartTime": 52099,
+        "slowEndTime": 57215
+    },
+    {
+        "text": "...as farmers had to scale their operations.",
+        "startTime": 38280,
+        "endTime": 40761,
+        "slowStartTime": 57570,
+        "slowEndTime": 61366
+    },
+    {
+        "text": "Transportation costs and a labor shortage...",
+        "startTime": 41439,
+        "endTime": 44071,
+        "slowStartTime": 62309,
+        "slowEndTime": 66331
+    },
+    {
+        "text": "...has made it even harder to produce beef,...",
+        "startTime": 44397,
+        "endTime": 46337,
+        "slowStartTime": 66745,
+        "slowEndTime": 69730
+    },
+    {
+        "text": "...reducing supply and raising the price of a pound of steak...",
+        "startTime": 46521,
+        "endTime": 50011,
+        "slowStartTime": 69932,
+        "slowEndTime": 75241
+    },
+    {
+        "text": "...more than 18%.",
+        "startTime": 50173,
+        "endTime": 51305,
+        "slowStartTime": 75409,
+        "slowEndTime": 77183
+    },
+    {
+        "text": "The Federal Reserve has started using its main tool to combat inflation,...",
+        "startTime": 51831,
+        "endTime": 56291,
+        "slowStartTime": 77897,
+        "slowEndTime": 84662
+    },
+    {
+        "text": "...raising interest rates.",
+        "startTime": 56703,
+        "endTime": 57986,
+        "slowStartTime": 85204,
+        "slowEndTime": 87204
+    },
+    {
+        "text": "Which can reduce demand and bring back the economy into balance.",
+        "startTime": 58412,
+        "endTime": 62711,
+        "slowStartTime": 87768,
+        "slowEndTime": 94291
+    }
+]

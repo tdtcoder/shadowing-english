@@ -1,0 +1,205 @@
+[
+    {
+        "text": "Hey, Lawrence.",
+        "startTime": 2341,
+        "endTime": 2850,
+        "slowStartTime": 3662,
+        "slowEndTime": 4500
+    },
+    {
+        "text": "Happy Monday.",
+        "startTime": 3000,
+        "endTime": 3843,
+        "slowStartTime": 4650,
+        "slowEndTime": 5990
+    },
+    {
+        "text": "Happy Monday.",
+        "startTime": 3937,
+        "endTime": 4315,
+        "slowStartTime": 6056,
+        "slowEndTime": 6698
+    },
+    {
+        "text": "Did you have a good weekend?",
+        "startTime": 4969,
+        "endTime": 6029,
+        "slowStartTime": 7603,
+        "slowEndTime": 9268
+    },
+    {
+        "text": "Yeah, really good weekend.",
+        "startTime": 6159,
+        "endTime": 7190,
+        "slowStartTime": 9388,
+        "slowEndTime": 11010
+    },
+    {
+        "text": "It was a bit busy, but had a lot of fun.",
+        "startTime": 7275,
+        "endTime": 9082,
+        "slowStartTime": 11062,
+        "slowEndTime": 13848
+    },
+    {
+        "text": "How about you?",
+        "startTime": 9200,
+        "endTime": 9667,
+        "slowStartTime": 13950,
+        "slowEndTime": 14726
+    },
+    {
+        "text": "Yeah, mine was good.",
+        "startTime": 10109,
+        "endTime": 11203,
+        "slowStartTime": 15313,
+        "slowEndTime": 17030
+    },
+    {
+        "text": "I just had a relaxing one.",
+        "startTime": 11373,
+        "endTime": 13081,
+        "slowStartTime": 17210,
+        "slowEndTime": 19847
+    },
+    {
+        "text": "Yeah?",
+        "startTime": 13400,
+        "endTime": 13633,
+        "slowStartTime": 20250,
+        "slowEndTime": 20675
+    },
+    {
+        "text": "Had a big week?",
+        "startTime": 13754,
+        "endTime": 14213,
+        "slowStartTime": 20781,
+        "slowEndTime": 21544
+    },
+    {
+        "text": "Yeah. Well, first week on the new job.",
+        "startTime": 15008,
+        "endTime": 16793,
+        "slowStartTime": 22662,
+        "slowEndTime": 25415
+    },
+    {
+        "text": "So, yeah, I just wanted to chill out with my family at home.",
+        "startTime": 16997,
+        "endTime": 19640,
+        "slowStartTime": 25645,
+        "slowEndTime": 29685
+    },
+    {
+        "text": "How are you settling in with everything?",
+        "startTime": 19997,
+        "endTime": 21208,
+        "slowStartTime": 30145,
+        "slowEndTime": 32037
+    },
+    {
+        "text": "Not too bad.",
+        "startTime": 21389,
+        "endTime": 22581,
+        "slowStartTime": 32234,
+        "slowEndTime": 34097
+    },
+    {
+        "text": "It's been a steep learning curve, though.",
+        "startTime": 23001,
+        "endTime": 24659,
+        "slowStartTime": 34651,
+        "slowEndTime": 37214
+    },
+    {
+        "text": "Yeah, I can imagine.",
+        "startTime": 24975,
+        "endTime": 25788,
+        "slowStartTime": 37612,
+        "slowEndTime": 38907
+    },
+    {
+        "text": "I've been here for four years and I only recently switched departments.",
+        "startTime": 25978,
+        "endTime": 28587,
+        "slowStartTime": 39117,
+        "slowEndTime": 43105
+    },
+    {
+        "text": "Oh, really?",
+        "startTime": 28733,
+        "endTime": 29471,
+        "slowStartTime": 43250,
+        "slowEndTime": 44432
+    },
+    {
+        "text": "When did that happen?",
+        "startTime": 29601,
+        "endTime": 30439,
+        "slowStartTime": 44551,
+        "slowEndTime": 45883
+    },
+    {
+        "text": "About two months ago.",
+        "startTime": 30749,
+        "endTime": 31849,
+        "slowStartTime": 46274,
+        "slowEndTime": 47999
+    },
+    {
+        "text": "I mean, not much has changed, but this is new stuff to learn.",
+        "startTime": 32099,
+        "endTime": 34849,
+        "slowStartTime": 48299,
+        "slowEndTime": 52498
+    },
+    {
+        "text": "Yeah, I know what you mean.",
+        "startTime": 35075,
+        "endTime": 36286,
+        "slowStartTime": 52763,
+        "slowEndTime": 54654
+    },
+    {
+        "text": "I'm a bit the same.",
+        "startTime": 36371,
+        "endTime": 37327,
+        "slowStartTime": 54706,
+        "slowEndTime": 56216
+    },
+    {
+        "text": "Well, it was good talking to you, but I'd better get back to work.",
+        "startTime": 37700,
+        "endTime": 40105,
+        "slowStartTime": 56700,
+        "slowEndTime": 60383
+    },
+    {
+        "text": "Oh, good.",
+        "startTime": 40184,
+        "endTime": 40269,
+        "slowStartTime": 60426,
+        "slowEndTime": 60629
+    },
+    {
+        "text": "Have a good day.",
+        "startTime": 40381,
+        "endTime": 40794,
+        "slowStartTime": 60722,
+        "slowEndTime": 61416
+    },
+    {
+        "text": "You too.",
+        "startTime": 40895,
+        "endTime": 41167,
+        "slowStartTime": 61492,
+        "slowEndTime": 61975
+    },
+    {
+        "text": "Bye.",
+        "startTime": 41267,
+        "endTime": 41812,
+        "slowStartTime": 62050,
+        "slowEndTime": 62943
+    }
+]

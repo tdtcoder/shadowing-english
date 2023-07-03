@@ -1,0 +1,93 @@
+[
+    {
+        "text": "This ball. That helicopter. These balls. Those helicopters.",
+        "startTime": 423,
+        "endTime": 6192,
+        "slowStartTime": 785,
+        "slowEndTime": 9513
+    },
+    {
+        "text": "This shoe is pink.",
+        "startTime": 14680,
+        "endTime": 16401,
+        "slowStartTime": 22170,
+        "slowEndTime": 24827
+    },
+    {
+        "text": "This shoe fits her well.",
+        "startTime": 20497,
+        "endTime": 22165,
+        "slowStartTime": 30895,
+        "slowEndTime": 33473
+    },
+    {
+        "text": "I like these sandals.",
+        "startTime": 26281,
+        "endTime": 27981,
+        "slowStartTime": 39571,
+        "slowEndTime": 42196
+    },
+    {
+        "text": "These sandals are different.",
+        "startTime": 31920,
+        "endTime": 33944,
+        "slowStartTime": 48030,
+        "slowEndTime": 51141
+    },
+    {
+        "text": "She doesn't like those red shoes.",
+        "startTime": 37883,
+        "endTime": 40296,
+        "slowStartTime": 56974,
+        "slowEndTime": 60669
+    },
+    {
+        "text": "She hates those shoes.",
+        "startTime": 44041,
+        "endTime": 46583,
+        "slowStartTime": 66211,
+        "slowEndTime": 70100
+    },
+    {
+        "text": "This is a flat foot. That is a normal foot.",
+        "startTime": 50457,
+        "endTime": 55206,
+        "slowStartTime": 75836,
+        "slowEndTime": 83034
+    },
+    {
+        "text": "See that girl over there? She likes you.",
+        "startTime": 58929,
+        "endTime": 62641,
+        "slowStartTime": 88544,
+        "slowEndTime": 94187
+    },
+    {
+        "text": "I can't decide. These ones or those ones?",
+        "startTime": 66543,
+        "endTime": 71509,
+        "slowStartTime": 99964,
+        "slowEndTime": 107489
+    },
+    {
+        "text": "Do you like this one or that one?",
+        "startTime": 75500,
+        "endTime": 78243,
+        "slowStartTime": 113400,
+        "slowEndTime": 117589
+    },
+    {
+        "text": "I pick that guy, the one in the middle.",
+        "startTime": 82757,
+        "endTime": 85669,
+        "slowStartTime": 124286,
+        "slowEndTime": 128729
+    },
+    {
+        "text": "This way or that way?",
+        "startTime": 89667,
+        "endTime": 91427,
+        "slowStartTime": 134650,
+        "slowEndTime": 137366
+    }
+]

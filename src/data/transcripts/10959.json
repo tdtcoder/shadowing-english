@@ -1,0 +1,268 @@
+[
+    {
+        "text": "Hi, Kim.",
+        "startTime": 450,
+        "endTime": 1000,
+        "slowStartTime": 850,
+        "slowEndTime": 1700
+    },
+    {
+        "text": "Hi!",
+        "startTime": 1200,
+        "endTime": 1500,
+        "slowStartTime": 1950,
+        "slowEndTime": 2500
+    },
+    {
+        "text": "It's nice to see you!",
+        "startTime": 1750,
+        "endTime": 2400,
+        "slowStartTime": 2800,
+        "slowEndTime": 3900
+    },
+    {
+        "text": "Thank you! It's good to be here.",
+        "startTime": 2450,
+        "endTime": 3450,
+        "slowStartTime": 3900,
+        "slowEndTime": 5400
+    },
+    {
+        "text": "Thanks for coming in.",
+        "startTime": 3900,
+        "endTime": 4850,
+        "slowStartTime": 6000,
+        "slowEndTime": 7450
+    },
+    {
+        "text": "I have a few questions for you.",
+        "startTime": 6150,
+        "endTime": 7550,
+        "slowStartTime": 9360,
+        "slowEndTime": 11530
+    },
+    {
+        "text": "Okay, what would you like to know?",
+        "startTime": 7725,
+        "endTime": 9900,
+        "slowStartTime": 11650,
+        "slowEndTime": 15100
+    },
+    {
+        "text": "Okay. First, I'd like for you to tell me about your family.",
+        "startTime": 10050,
+        "endTime": 13500,
+        "slowStartTime": 15200,
+        "slowEndTime": 20550
+    },
+    {
+        "text": "My family. Well, I have a very small family here in Japan.",
+        "startTime": 14550,
+        "endTime": 18500,
+        "slowStartTime": 22050,
+        "slowEndTime": 27930
+    },
+    {
+        "text": "I can tell you about my family in North America too.",
+        "startTime": 18550,
+        "endTime": 20900,
+        "slowStartTime": 28000,
+        "slowEndTime": 31600
+    },
+    {
+        "text": "There are three people in my family:...",
+        "startTime": 22550,
+        "endTime": 24050,
+        "slowStartTime": 34000,
+        "slowEndTime": 36300
+    },
+    {
+        "text": "...my husband and I are both college instructors,...",
+        "startTime": 24700,
+        "endTime": 28850,
+        "slowStartTime": 37200,
+        "slowEndTime": 43500
+    },
+    {
+        "text": "...and our daughter is a student.",
+        "startTime": 29450,
+        "endTime": 31200,
+        "slowStartTime": 44400,
+        "slowEndTime": 47100
+    },
+    {
+        "text": "She is in second year in a Japanese junior high school...",
+        "startTime": 31300,
+        "endTime": 34100,
+        "slowStartTime": 47150,
+        "slowEndTime": 51350
+    },
+    {
+        "text": "...and she's 14.",
+        "startTime": 34750,
+        "endTime": 36250,
+        "slowStartTime": 52300,
+        "slowEndTime": 54600
+    },
+    {
+        "text": "14, yes.",
+        "startTime": 36350,
+        "endTime": 37300,
+        "slowStartTime": 54700,
+        "slowEndTime": 56200
+    },
+    {
+        "text": "We also have an adorable orange and white cat.",
+        "startTime": 38900,
+        "endTime": 41700,
+        "slowStartTime": 58500,
+        "slowEndTime": 62770
+    },
+    {
+        "text": "She's a part of the family.",
+        "startTime": 42050,
+        "endTime": 43100,
+        "slowStartTime": 63250,
+        "slowEndTime": 64880
+    },
+    {
+        "text": "She's four years old, which is 32 years for a human.",
+        "startTime": 43150,
+        "endTime": 48650,
+        "slowStartTime": 64940,
+        "slowEndTime": 73270
+    },
+    {
+        "text": "We're a very busy family since we're both working.",
+        "startTime": 50150,
+        "endTime": 52750,
+        "slowStartTime": 75400,
+        "slowEndTime": 79350
+    },
+    {
+        "text": "My daughter is very involved in the dance club at school,...",
+        "startTime": 54750,
+        "endTime": 58250,
+        "slowStartTime": 82300,
+        "slowEndTime": 87625
+    },
+    {
+        "text": "...so she comes home quite late.",
+        "startTime": 58300,
+        "endTime": 59700,
+        "slowStartTime": 87580,
+        "slowEndTime": 89800
+    },
+    {
+        "text": "Oh! What kind of dance?",
+        "startTime": 59750,
+        "endTime": 61250,
+        "slowStartTime": 89850,
+        "slowEndTime": 92050
+    },
+    {
+        "text": "Well, she does mainly hip-hop.",
+        "startTime": 61600,
+        "endTime": 63650,
+        "slowStartTime": 92600,
+        "slowEndTime": 95700
+    },
+    {
+        "text": "She loves the attire and the clothing.",
+        "startTime": 65000,
+        "endTime": 67350,
+        "slowStartTime": 97700,
+        "slowEndTime": 101250
+    },
+    {
+        "text": "What do you do together as a family?",
+        "startTime": 69150,
+        "endTime": 71550,
+        "slowStartTime": 103950,
+        "slowEndTime": 107500
+    },
+    {
+        "text": "Well let's see, we do a lot of things together.",
+        "startTime": 72150,
+        "endTime": 74950,
+        "slowStartTime": 108400,
+        "slowEndTime": 112750
+    },
+    {
+        "text": "We go camping in the summer and the fall.",
+        "startTime": 76950,
+        "endTime": 81450,
+        "slowStartTime": 115600,
+        "slowEndTime": 122444
+    },
+    {
+        "text": "But we especially like the latter part of the fall...",
+        "startTime": 81550,
+        "endTime": 83800,
+        "slowStartTime": 122450,
+        "slowEndTime": 126050
+    },
+    {
+        "text": "...when the leaves are turning.",
+        "startTime": 84350,
+        "endTime": 85650,
+        "slowStartTime": 126750,
+        "slowEndTime": 128700
+    },
+    {
+        "text": "We have a special place that we go to in Ibaraki-ken.",
+        "startTime": 86250,
+        "endTime": 89600,
+        "slowStartTime": 129600,
+        "slowEndTime": 134700
+    },
+    {
+        "text": "...and we've kinda made that our spot,...",
+        "startTime": 90400,
+        "endTime": 92800,
+        "slowStartTime": 135850,
+        "slowEndTime": 139450
+    },
+    {
+        "text": "...and we invite people to come and rent cabins with us.",
+        "startTime": 92850,
+        "endTime": 96500,
+        "slowStartTime": 139475,
+        "slowEndTime": 145000
+    },
+    {
+        "text": "We also like travelling.",
+        "startTime": 97100,
+        "endTime": 98650,
+        "slowStartTime": 145800,
+        "slowEndTime": 148200
+    },
+    {
+        "text": "We travel in the spring, in the summer together.",
+        "startTime": 99000,
+        "endTime": 101850,
+        "slowStartTime": 148700,
+        "slowEndTime": 153000
+    },
+    {
+        "text": "Does this mean travel abroad or in Japan?",
+        "startTime": 102700,
+        "endTime": 106500,
+        "slowStartTime": 154350,
+        "slowEndTime": 160050
+    },
+    {
+        "text": "Both.",
+        "startTime": 107400,
+        "endTime": 107650,
+        "slowStartTime": 161300,
+        "slowEndTime": 161700
+    },
+    {
+        "text": "Oh, both.",
+        "startTime": 107950,
+        "endTime": 108350,
+        "slowStartTime": 162000,
+        "slowEndTime": 162760
+    }
+]

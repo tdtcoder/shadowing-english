@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Hi.",
+        "startTime": 599,
+        "endTime": 1421,
+        "slowStartTime": 1048,
+        "slowEndTime": 2357
+    },
+    {
+        "text": "My name is Steve.",
+        "startTime": 1799,
+        "endTime": 2661,
+        "slowStartTime": 2849,
+        "slowEndTime": 4216
+    },
+    {
+        "text": "This is my wife Susan.",
+        "startTime": 4432,
+        "endTime": 6496,
+        "slowStartTime": 6798,
+        "slowEndTime": 9969
+    },
+    {
+        "text": "We have 2 kids.",
+        "startTime": 7665,
+        "endTime": 8888,
+        "slowStartTime": 11648,
+        "slowEndTime": 13557
+    },
+    {
+        "text": "This is Mary.",
+        "startTime": 9261,
+        "endTime": 9961,
+        "slowStartTime": 14042,
+        "slowEndTime": 15167
+    },
+    {
+        "text": "She is 7.",
+        "startTime": 10049,
+        "endTime": 10725,
+        "slowStartTime": 15224,
+        "slowEndTime": 16312
+    },
+    {
+        "text": "This is our boy Zack.",
+        "startTime": 13380,
+        "endTime": 14784,
+        "slowStartTime": 20220,
+        "slowEndTime": 22401
+    },
+    {
+        "text": "He is 9.",
+        "startTime": 15187,
+        "endTime": 16022,
+        "slowStartTime": 22931,
+        "slowEndTime": 24258
+    },
+    {
+        "text": "We live in Chicago, USA.",
+        "startTime": 19146,
+        "endTime": 21015,
+        "slowStartTime": 28869,
+        "slowEndTime": 31747
+    },
+    {
+        "text": "We have a dog.",
+        "startTime": 23543,
+        "endTime": 24657,
+        "slowStartTime": 35465,
+        "slowEndTime": 37210
+    },
+    {
+        "text": "Its name is Chico.",
+        "startTime": 25047,
+        "endTime": 26299,
+        "slowStartTime": 37721,
+        "slowEndTime": 39673
+    },
+    {
+        "text": "We live at 38 King Street.",
+        "startTime": 30357,
+        "endTime": 32216,
+        "slowStartTime": 45685,
+        "slowEndTime": 48549
+    },
+    {
+        "text": "Apartment number 12.",
+        "startTime": 32391,
+        "endTime": 33804,
+        "slowStartTime": 48736,
+        "slowEndTime": 50931
+    },
+    {
+        "text": "On weekends, I make breakfast for the family.",
+        "startTime": 36711,
+        "endTime": 39537,
+        "slowStartTime": 55217,
+        "slowEndTime": 59531
+    },
+    {
+        "text": "After breakfast, we take a drive.",
+        "startTime": 42215,
+        "endTime": 44775,
+        "slowStartTime": 63472,
+        "slowEndTime": 67388
+    },
+    {
+        "text": "We usually stop and buy ice cream.",
+        "startTime": 49553,
+        "endTime": 52000,
+        "slowStartTime": 74480,
+        "slowEndTime": 78225
+    },
+    {
+        "text": "We have a good life.",
+        "startTime": 54789,
+        "endTime": 56411,
+        "slowStartTime": 82334,
+        "slowEndTime": 84842
+    },
+    {
+        "text": "Hello. Nice to meet you all.",
+        "startTime": 59757,
+        "endTime": 61597,
+        "slowStartTime": 89785,
+        "slowEndTime": 92620
+    },
+    {
+        "text": "I am Bill Reed, and this is my wife, Sharon.",
+        "startTime": 61889,
+        "endTime": 64729,
+        "slowStartTime": 92983,
+        "slowEndTime": 97318
+    },
+    {
+        "text": "We have two children.",
+        "startTime": 65007,
+        "endTime": 66218,
+        "slowStartTime": 97661,
+        "slowEndTime": 99552
+    },
+    {
+        "text": "Our oldest, Tim, is five years old,...",
+        "startTime": 66444,
+        "endTime": 69009,
+        "slowStartTime": 99816,
+        "slowEndTime": 103738
+    },
+    {
+        "text": "...and our baby, Ken, is just six months.",
+        "startTime": 69265,
+        "endTime": 71978,
+        "slowStartTime": 104048,
+        "slowEndTime": 108192
+    },
+    {
+        "text": "We hope to have a daughter soon.",
+        "startTime": 72340,
+        "endTime": 73993,
+        "slowStartTime": 108660,
+        "slowEndTime": 111215
+    }
+]

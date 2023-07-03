@@ -1,0 +1,30 @@
+[
+    {
+        "text": "That's four pounds fifty, please.",
+        "startTime": 7501,
+        "endTime": 9174,
+        "slowStartTime": 11402,
+        "slowEndTime": 13986
+    },
+    {
+        "text": "Here you are.",
+        "startTime": 10066,
+        "endTime": 10598,
+        "slowStartTime": 15249,
+        "slowEndTime": 16122
+    },
+    {
+        "text": "Thank you very much.",
+        "startTime": 10854,
+        "endTime": 11413,
+        "slowStartTime": 16431,
+        "slowEndTime": 17344
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 11511,
+        "endTime": 11945,
+        "slowStartTime": 17416,
+        "slowEndTime": 18142
+    }
+]

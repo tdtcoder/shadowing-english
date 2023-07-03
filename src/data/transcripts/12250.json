@@ -1,0 +1,135 @@
+[
+    {
+        "text": "How can I help you today?",
+        "startTime": 2139,
+        "endTime": 3455,
+        "slowStartTime": 3359,
+        "slowEndTime": 5408
+    },
+    {
+        "text": "I just got here today,...",
+        "startTime": 3965,
+        "endTime": 5397,
+        "slowStartTime": 6097,
+        "slowEndTime": 8321
+    },
+    {
+        "text": "...and I'd like to rent a car while I'm here.",
+        "startTime": 5505,
+        "endTime": 7604,
+        "slowStartTime": 8407,
+        "slowEndTime": 11631
+    },
+    {
+        "text": "Very good! You have come to the right place.",
+        "startTime": 7805,
+        "endTime": 10463,
+        "slowStartTime": 11858,
+        "slowEndTime": 15920
+    },
+    {
+        "text": "We have the best rental cars in the city.",
+        "startTime": 10607,
+        "endTime": 12887,
+        "slowStartTime": 16061,
+        "slowEndTime": 19555
+    },
+    {
+        "text": "That's good to hear!",
+        "startTime": 13037,
+        "endTime": 13936,
+        "slowStartTime": 19705,
+        "slowEndTime": 21129
+    },
+    {
+        "text": "What kinds of cars are available?",
+        "startTime": 14132,
+        "endTime": 15812,
+        "slowStartTime": 21348,
+        "slowEndTime": 23943
+    },
+    {
+        "text": "We have many kinds.",
+        "startTime": 16015,
+        "endTime": 17465,
+        "slowStartTime": 24173,
+        "slowEndTime": 26423
+    },
+    {
+        "text": "What kind of car would you like to rent?",
+        "startTime": 17616,
+        "endTime": 19550,
+        "slowStartTime": 26574,
+        "slowEndTime": 29550
+    },
+    {
+        "text": "A small car with good gas mileage, if possible.",
+        "startTime": 19879,
+        "endTime": 22834,
+        "slowStartTime": 29969,
+        "slowEndTime": 34476
+    },
+    {
+        "text": "Okay, our Novas are very popular.",
+        "startTime": 23017,
+        "endTime": 25962,
+        "slowStartTime": 34675,
+        "slowEndTime": 39168
+    },
+    {
+        "text": "Here, take a look at this picture of one.",
+        "startTime": 26161,
+        "endTime": 28517,
+        "slowStartTime": 39392,
+        "slowEndTime": 43001
+    },
+    {
+        "text": "Yes, that looks good.",
+        "startTime": 28705,
+        "endTime": 29831,
+        "slowStartTime": 43207,
+        "slowEndTime": 44971
+    },
+    {
+        "text": "And you say it gets good gas mileage?",
+        "startTime": 30220,
+        "endTime": 32155,
+        "slowStartTime": 45480,
+        "slowEndTime": 48458
+    },
+    {
+        "text": "Very good. The best of any of our cars.",
+        "startTime": 32333,
+        "endTime": 35102,
+        "slowStartTime": 48649,
+        "slowEndTime": 52878
+    },
+    {
+        "text": "Okay, I'll rent one of those then.",
+        "startTime": 35323,
+        "endTime": 37231,
+        "slowStartTime": 53134,
+        "slowEndTime": 56071
+    },
+    {
+        "text": "Is it possible to rent a convertible?",
+        "startTime": 37695,
+        "endTime": 39547,
+        "slowStartTime": 56693,
+        "slowEndTime": 59546
+    },
+    {
+        "text": "I'm sorry, but those are not available in a convertible.",
+        "startTime": 39768,
+        "endTime": 42995,
+        "slowStartTime": 59802,
+        "slowEndTime": 64717
+    },
+    {
+        "text": "No problem. I'll just take the regular sedan, then.",
+        "startTime": 43154,
+        "endTime": 46119,
+        "slowStartTime": 64881,
+        "slowEndTime": 69403
+    }
+]

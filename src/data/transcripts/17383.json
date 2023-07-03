@@ -1,0 +1,114 @@
+[
+    {
+        "text": "What is your sister doing?",
+        "startTime": 1869,
+        "endTime": 3910,
+        "slowStartTime": 2954,
+        "slowEndTime": 6090
+    },
+    {
+        "text": "She is playing the piano now.",
+        "startTime": 4881,
+        "endTime": 7174,
+        "slowStartTime": 7472,
+        "slowEndTime": 10986
+    },
+    {
+        "text": "Oh, she stops playing the piano and begins to sing.",
+        "startTime": 7646,
+        "endTime": 12069,
+        "slowStartTime": 11619,
+        "slowEndTime": 18328
+    },
+    {
+        "text": "Is she a good singer?",
+        "startTime": 13225,
+        "endTime": 14824,
+        "slowStartTime": 19988,
+        "slowEndTime": 22461
+    },
+    {
+        "text": "Yes, she sings very well.",
+        "startTime": 15887,
+        "endTime": 18574,
+        "slowStartTime": 23980,
+        "slowEndTime": 28086
+    },
+    {
+        "text": "What is your brother doing?",
+        "startTime": 19628,
+        "endTime": 21449,
+        "slowStartTime": 29592,
+        "slowEndTime": 32398
+    },
+    {
+        "text": "He is making a snowman.",
+        "startTime": 22475,
+        "endTime": 24422,
+        "slowStartTime": 33863,
+        "slowEndTime": 36858
+    },
+    {
+        "text": "Oh, he stops making a snowman and begins dancing.",
+        "startTime": 25465,
+        "endTime": 29755,
+        "slowStartTime": 38348,
+        "slowEndTime": 44857
+    },
+    {
+        "text": "It is getting cold, cold, cold outside.",
+        "startTime": 35914,
+        "endTime": 39127,
+        "slowStartTime": 54021,
+        "slowEndTime": 58916
+    },
+    {
+        "text": "The wind is blowing, blowing, blowing hard.",
+        "startTime": 39431,
+        "endTime": 42527,
+        "slowStartTime": 59297,
+        "slowEndTime": 64015
+    },
+    {
+        "text": "White flakes begin falling, falling, falling.",
+        "startTime": 43409,
+        "endTime": 46624,
+        "slowStartTime": 65263,
+        "slowEndTime": 70161
+    },
+    {
+        "text": "The snow begins falling, falling, falling fast.",
+        "startTime": 46943,
+        "endTime": 50395,
+        "slowStartTime": 70564,
+        "slowEndTime": 75818
+    },
+    {
+        "text": "The snow gets deeper, deeper, deeper and deeper.",
+        "startTime": 50681,
+        "endTime": 54157,
+        "slowStartTime": 76171,
+        "slowEndTime": 81460
+    },
+    {
+        "text": "The wind blows harder, harder, harder and harder.",
+        "startTime": 54503,
+        "endTime": 57865,
+        "slowStartTime": 81904,
+        "slowEndTime": 87022
+    },
+    {
+        "text": "It gets colder, colder, colder and colder.",
+        "startTime": 58466,
+        "endTime": 61617,
+        "slowStartTime": 87849,
+        "slowEndTime": 92651
+    },
+    {
+        "text": "Let's go into the house!",
+        "startTime": 62122,
+        "endTime": 64678,
+        "slowStartTime": 93333,
+        "slowEndTime": 97242
+    }
+]

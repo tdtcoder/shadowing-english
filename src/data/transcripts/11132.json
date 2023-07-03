@@ -1,0 +1,58 @@
+[
+    {
+        "text": "This has had a huge impact on my sales over the last year.",
+        "startTime": 2500,
+        "endTime": 6280,
+        "slowStartTime": 3820,
+        "slowEndTime": 9455
+    },
+    {
+        "text": "I'm not sure I follow. Could you elaborate on your closing technique?",
+        "startTime": 6970,
+        "endTime": 10910,
+        "slowStartTime": 10520,
+        "slowEndTime": 16495
+    },
+    {
+        "text": "I don't think it's vital to go over the whole technique in detail at this meeting.",
+        "startTime": 11570,
+        "endTime": 15650,
+        "slowStartTime": 17400,
+        "slowEndTime": 23530
+    },
+    {
+        "text": "The main point is that the overall approach brings a whole new dynamic to the company client relationship.",
+        "startTime": 16080,
+        "endTime": 22180,
+        "slowStartTime": 24190,
+        "slowEndTime": 33290
+    },
+    {
+        "text": "Are you with me on that point?",
+        "startTime": 22550,
+        "endTime": 24020,
+        "slowStartTime": 33980,
+        "slowEndTime": 36060
+    },
+    {
+        "text": "In other words, you deal with clients on a much more personal level.",
+        "startTime": 24600,
+        "endTime": 28800,
+        "slowStartTime": 37010,
+        "slowEndTime": 43290
+    },
+    {
+        "text": "Exactly!",
+        "startTime": 29230,
+        "endTime": 30100,
+        "slowStartTime": 43860,
+        "slowEndTime": 45300
+    },
+    {
+        "text": "I'd be interested in exploring this idea more thoroughly at a later meeting.",
+        "startTime": 30690,
+        "endTime": 34630,
+        "slowStartTime": 46205,
+        "slowEndTime": 52010
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Linda, can you take a look at this and tell me if the punctuation is correct?",
+        "startTime": 1660,
+        "endTime": 5940,
+        "slowStartTime": 2570,
+        "slowEndTime": 8970
+    },
+    {
+        "text": "Sure, Mark. What do you want me to look at?",
+        "startTime": 6300,
+        "endTime": 8870,
+        "slowStartTime": 9610,
+        "slowEndTime": 13360
+    },
+    {
+        "text": "I'm not sure if this sentence needs commas or not.",
+        "startTime": 9100,
+        "endTime": 12070,
+        "slowStartTime": 13760,
+        "slowEndTime": 18110
+    },
+    {
+        "text": "I'm not an expert on this,...",
+        "startTime": 12310,
+        "endTime": 14080,
+        "slowStartTime": 18640,
+        "slowEndTime": 21110
+    },
+    {
+        "text": "...but I usually use a comma if I would naturally break or pause when reading the sentence out loud.",
+        "startTime": 14210,
+        "endTime": 19750,
+        "slowStartTime": 21410,
+        "slowEndTime": 29660
+    },
+    {
+        "text": "In this case, you have an introductory phrase in the sentence.",
+        "startTime": 20180,
+        "endTime": 23720,
+        "slowStartTime": 30370,
+        "slowEndTime": 35570
+    },
+    {
+        "text": "Put a comma here after the phrase.",
+        "startTime": 24020,
+        "endTime": 26100,
+        "slowStartTime": 36140,
+        "slowEndTime": 39280
+    },
+    {
+        "text": "And what about this other sentence. Should I use a colon or semicolon?",
+        "startTime": 26590,
+        "endTime": 31130,
+        "slowStartTime": 40000,
+        "slowEndTime": 46750
+    },
+    {
+        "text": "Use a colon before a list, and a semicolon between sentences.",
+        "startTime": 31460,
+        "endTime": 35730,
+        "slowStartTime": 47210,
+        "slowEndTime": 53670
+    },
+    {
+        "text": "You need a semicolon here.",
+        "startTime": 36030,
+        "endTime": 37500,
+        "slowStartTime": 54110,
+        "slowEndTime": 56370
+    }
+]

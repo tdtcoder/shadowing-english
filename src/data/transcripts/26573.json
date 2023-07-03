@@ -1,0 +1,37 @@
+[
+    {
+        "text": "﻿Cut Some Slack.",
+        "startTime": 7958,
+        "endTime": 9189,
+        "slowStartTime": 12087,
+        "slowEndTime": 14009
+    },
+    {
+        "text": "It means to treat someone in a less harsh way.",
+        "startTime": 9974,
+        "endTime": 12757,
+        "slowStartTime": 15111,
+        "slowEndTime": 19360
+    },
+    {
+        "text": "He's doing his best so cut him some slack.",
+        "startTime": 18090,
+        "endTime": 20633,
+        "slowStartTime": 27285,
+        "slowEndTime": 31174
+    },
+    {
+        "text": "The boss cut us some slack at work for a job well-done.",
+        "startTime": 24451,
+        "endTime": 27858,
+        "slowStartTime": 36827,
+        "slowEndTime": 42012
+    },
+    {
+        "text": "Cut him some slack, he just got out of the hospital.",
+        "startTime": 31915,
+        "endTime": 34941,
+        "slowStartTime": 48022,
+        "slowEndTime": 52637
+    }
+]

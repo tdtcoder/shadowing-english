@@ -1,0 +1,268 @@
+[
+    {
+        "text": "What do you think of when I say the word \"design\"?",
+        "startTime": 12873,
+        "endTime": 15519,
+        "slowStartTime": 19459,
+        "slowEndTime": 23503
+    },
+    {
+        "text": "You probably think of things like this: finely crafted objects that you can hold in your hand,...",
+        "startTime": 17001,
+        "endTime": 22011,
+        "slowStartTime": 25651,
+        "slowEndTime": 33241
+    },
+    {
+        "text": "...or maybe logos and posters and maps that visually explain things,...",
+        "startTime": 22334,
+        "endTime": 26990,
+        "slowStartTime": 33651,
+        "slowEndTime": 40710
+    },
+    {
+        "text": "...classic icons of timeless design,...",
+        "startTime": 27314,
+        "endTime": 29621,
+        "slowStartTime": 41121,
+        "slowEndTime": 44657
+    },
+    {
+        "text": "...but I'm not here to talk about that kind of design.",
+        "startTime": 30357,
+        "endTime": 32686,
+        "slowStartTime": 45685,
+        "slowEndTime": 49254
+    },
+    {
+        "text": "I want to talk about the kind that you probably use every day and may not give much thought to,...",
+        "startTime": 33198,
+        "endTime": 37897,
+        "slowStartTime": 49947,
+        "slowEndTime": 57071
+    },
+    {
+        "text": "...designs that change all the time and that live inside your pocket.",
+        "startTime": 38695,
+        "endTime": 42070,
+        "slowStartTime": 58192,
+        "slowEndTime": 63330
+    },
+    {
+        "text": "I'm talking about the design of digital experiences and specifically the design of systems...",
+        "startTime": 42913,
+        "endTime": 49379,
+        "slowStartTime": 64519,
+        "slowEndTime": 74294
+    },
+    {
+        "text": "...that are so big that their scale can be hard to comprehend.",
+        "startTime": 49482,
+        "endTime": 52569,
+        "slowStartTime": 74373,
+        "slowEndTime": 79078
+    },
+    {
+        "text": "Consider the fact that Google processes over one billion search queries every day,...",
+        "startTime": 53536,
+        "endTime": 58737,
+        "slowStartTime": 80454,
+        "slowEndTime": 88330
+    },
+    {
+        "text": "...that every minute, over 100 hours of footage are uploaded to YouTube.",
+        "startTime": 59209,
+        "endTime": 63320,
+        "slowStartTime": 88964,
+        "slowEndTime": 95205
+    },
+    {
+        "text": "That's more in a single day than all three major US networks broadcast in the last five years combined,...",
+        "startTime": 63660,
+        "endTime": 70751,
+        "slowStartTime": 95640,
+        "slowEndTime": 106352
+    },
+    {
+        "text": "...and Facebook transmitting the photos, messages and stories of over 1.23 billion people,...",
+        "startTime": 71349,
+        "endTime": 77643,
+        "slowStartTime": 107173,
+        "slowEndTime": 116690
+    },
+    {
+        "text": "...that's almost half of the Internet population and a sixth of humanity.",
+        "startTime": 78111,
+        "endTime": 82125,
+        "slowStartTime": 117316,
+        "slowEndTime": 123412
+    },
+    {
+        "text": "These are some of the products that I've helped design over the course of my career,...",
+        "startTime": 83435,
+        "endTime": 87005,
+        "slowStartTime": 125303,
+        "slowEndTime": 130733
+    },
+    {
+        "text": "...and their scale is so massive that they've produced unprecedented design challenges,...",
+        "startTime": 87300,
+        "endTime": 92466,
+        "slowStartTime": 131100,
+        "slowEndTime": 138924
+    },
+    {
+        "text": "...but what is really hard about designing at scale is this:...",
+        "startTime": 93629,
+        "endTime": 97677,
+        "slowStartTime": 140593,
+        "slowEndTime": 146741
+    },
+    {
+        "text": "...It's hard in part because it requires a combination of two things: audacity and humility;...",
+        "startTime": 98217,
+        "endTime": 105066,
+        "slowStartTime": 147475,
+        "slowEndTime": 157824
+    },
+    {
+        "text": "...audacity to believe that the thing that you're making...",
+        "startTime": 105788,
+        "endTime": 109264,
+        "slowStartTime": 158832,
+        "slowEndTime": 164121
+    },
+    {
+        "text": "...is something that the entire world wants and needs,...",
+        "startTime": 109549,
+        "endTime": 112222,
+        "slowStartTime": 164473,
+        "slowEndTime": 168558
+    },
+    {
+        "text": "...and humility to understand that as a designer,...",
+        "startTime": 112725,
+        "endTime": 115621,
+        "slowStartTime": 169238,
+        "slowEndTime": 173656
+    },
+    {
+        "text": "...it's not about you or your portfolio; it's about the people that you're designing for,...",
+        "startTime": 115951,
+        "endTime": 120647,
+        "slowStartTime": 174077,
+        "slowEndTime": 181195
+    },
+    {
+        "text": "...and how your work just might help them live better lives.",
+        "startTime": 120949,
+        "endTime": 123759,
+        "slowStartTime": 181573,
+        "slowEndTime": 185863
+    },
+    {
+        "text": "Now, unfortunately, there's no school that offers the course Designing for Humanity 101.",
+        "startTime": 124645,
+        "endTime": 130315,
+        "slowStartTime": 187118,
+        "slowEndTime": 195698
+    },
+    {
+        "text": "I and the other designers who work on these kinds of products...",
+        "startTime": 131393,
+        "endTime": 134292,
+        "slowStartTime": 197240,
+        "slowEndTime": 201663
+    },
+    {
+        "text": "...have had to kind of invent it as we go along,...",
+        "startTime": 134518,
+        "endTime": 137327,
+        "slowStartTime": 201927,
+        "slowEndTime": 206216
+    },
+    {
+        "text": "...and we are teaching ourselves the emerging best practices of designing at scale,...",
+        "startTime": 137707,
+        "endTime": 142673,
+        "slowStartTime": 206710,
+        "slowEndTime": 214234
+    },
+    {
+        "text": "...and today, I'd like to share some of the things that we've learned over the years.",
+        "startTime": 143366,
+        "endTime": 146742,
+        "slowStartTime": 215199,
+        "slowEndTime": 220338
+    },
+    {
+        "text": "Now, the first thing that you need to know about designing at scale...",
+        "startTime": 147237,
+        "endTime": 149624,
+        "slowStartTime": 221005,
+        "slowEndTime": 224661
+    },
+    {
+        "text": "...is that the little things really matter.",
+        "startTime": 149683,
+        "endTime": 152012,
+        "slowStartTime": 224675,
+        "slowEndTime": 228243
+    },
+    {
+        "text": "Here's a really good example of how a very tiny design element can make a big impact.",
+        "startTime": 152316,
+        "endTime": 157481,
+        "slowStartTime": 228624,
+        "slowEndTime": 236447
+    },
+    {
+        "text": "Now, the team at Facebook that manages the Facebook \"Like\" button...",
+        "startTime": 158047,
+        "endTime": 162865,
+        "slowStartTime": 237220,
+        "slowEndTime": 244523
+    },
+    {
+        "text": "...decided that it needed to be redesigned.",
+        "startTime": 163462,
+        "endTime": 165793,
+        "slowStartTime": 245343,
+        "slowEndTime": 248915
+    },
+    {
+        "text": "The button had kind of gotten out of sync with the evolution of our brand...",
+        "startTime": 165905,
+        "endTime": 169721,
+        "slowStartTime": 249008,
+        "slowEndTime": 254806
+    },
+    {
+        "text": "...and it needed to be modernized.",
+        "startTime": 169785,
+        "endTime": 171147,
+        "slowStartTime": 254828,
+        "slowEndTime": 256946
+    },
+    {
+        "text": "Now, you might think, well, it's a tiny little button,...",
+        "startTime": 171599,
+        "endTime": 173449,
+        "slowStartTime": 257548,
+        "slowEndTime": 260399
+    },
+    {
+        "text": "...it probably is a pretty straightforward, easy design assignment, but it wasn't.",
+        "startTime": 173543,
+        "endTime": 177757,
+        "slowStartTime": 260464,
+        "slowEndTime": 266861
+    },
+    {
+        "text": "Turns out, there were all kinds of constraints for the design of this button.",
+        "startTime": 178257,
+        "endTime": 181648,
+        "slowStartTime": 267535,
+        "slowEndTime": 272697
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "text": "A lonely, young shepherd boy tended his sheep near a forest.",
+        "startTime": 10225,
+        "endTime": 15134,
+        "slowStartTime": 15487,
+        "slowEndTime": 22926
+    },
+    {
+        "text": "One day, he shouted \"Wolf, Wolf,\" and the villagers ran to help him.",
+        "startTime": 16233,
+        "endTime": 23320,
+        "slowStartTime": 24500,
+        "slowEndTime": 35205
+    },
+    {
+        "text": "There was no wolf, but he enjoyed their company.",
+        "startTime": 24429,
+        "endTime": 28734,
+        "slowStartTime": 36793,
+        "slowEndTime": 43326
+    },
+    {
+        "text": "He tried the same thing again later.",
+        "startTime": 30869,
+        "endTime": 33609,
+        "slowStartTime": 46454,
+        "slowEndTime": 50638
+    },
+    {
+        "text": "Once again, the villagers came to help, in vain.",
+        "startTime": 34687,
+        "endTime": 38935,
+        "slowStartTime": 52180,
+        "slowEndTime": 58627
+    },
+    {
+        "text": "But then a wolf really did attack his sheep.",
+        "startTime": 40257,
+        "endTime": 43654,
+        "slowStartTime": 60536,
+        "slowEndTime": 65706
+    },
+    {
+        "text": "He cried \"Wolf, Wolf,\"...",
+        "startTime": 44450,
+        "endTime": 46741,
+        "slowStartTime": 66825,
+        "slowEndTime": 70336
+    },
+    {
+        "text": "...but no one came to help.",
+        "startTime": 47971,
+        "endTime": 49604,
+        "slowStartTime": 72106,
+        "slowEndTime": 74631
+    },
+    {
+        "text": "The villagers thought they were being fooled again.",
+        "startTime": 50514,
+        "endTime": 53569,
+        "slowStartTime": 75921,
+        "slowEndTime": 80579
+    },
+    {
+        "text": "The wolf made a good meal of the flock.",
+        "startTime": 54401,
+        "endTime": 57015,
+        "slowStartTime": 81751,
+        "slowEndTime": 85748
+    }
+]

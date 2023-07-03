@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Avengers assemble!",
+        "startTime": 3100,
+        "endTime": 4300,
+        "slowStartTime": 4900,
+        "slowEndTime": 6600
+    },
+    {
+        "text": "I've always wanted to say that.",
+        "startTime": 6100,
+        "endTime": 7500,
+        "slowStartTime": 9400,
+        "slowEndTime": 11550
+    },
+    {
+        "text": "My name is Peter Parker.",
+        "startTime": 11300,
+        "endTime": 12450,
+        "slowStartTime": 17100,
+        "slowEndTime": 18950
+    },
+    {
+        "text": "And life is pretty darn good.",
+        "startTime": 12950,
+        "endTime": 14750,
+        "slowStartTime": 19600,
+        "slowEndTime": 22350
+    },
+    {
+        "text": "Norman Osbourne is finally behind bars where he can't hurt anyone.",
+        "startTime": 15350,
+        "endTime": 19000,
+        "slowStartTime": 23100,
+        "slowEndTime": 28500
+    },
+    {
+        "text": "And after our last battle,...",
+        "startTime": 20650,
+        "endTime": 21850,
+        "slowStartTime": 31200,
+        "slowEndTime": 33000
+    },
+    {
+        "text": "...my deadliest enemies have all gone into hiding,...",
+        "startTime": 22000,
+        "endTime": 24200,
+        "slowStartTime": 33150,
+        "slowEndTime": 36550
+    },
+    {
+        "text": "...so hopefully they won't be making any trouble for me anytime soon.",
+        "startTime": 24500,
+        "endTime": 27500,
+        "slowStartTime": 36950,
+        "slowEndTime": 41450
+    },
+    {
+        "text": "Plus, I've got a new Spider-Girl protecting the friendly neighborhood with me...",
+        "startTime": 28100,
+        "endTime": 31700,
+        "slowStartTime": 42300,
+        "slowEndTime": 47800
+    },
+    {
+        "text": "...which allows me to spend time with my girlfriend, Carlie,...",
+        "startTime": 32100,
+        "endTime": 34600,
+        "slowStartTime": 48350,
+        "slowEndTime": 52150
+    },
+    {
+        "text": "...and focus on my new job at Horizon Labs.",
+        "startTime": 35150,
+        "endTime": 37450,
+        "slowStartTime": 52900,
+        "slowEndTime": 56500
+    },
+    {
+        "text": "I even have time to make new weapons and new costumes.",
+        "startTime": 38050,
+        "endTime": 40550,
+        "slowStartTime": 57250,
+        "slowEndTime": 61100
+    },
+    {
+        "text": "The world doesn't know what they're in for.",
+        "startTime": 41000,
+        "endTime": 42800,
+        "slowStartTime": 61700,
+        "slowEndTime": 64500
+    },
+    {
+        "text": "Looks like the Parker luck is finally changing.",
+        "startTime": 43200,
+        "endTime": 45550,
+        "slowStartTime": 65000,
+        "slowEndTime": 68550
+    },
+    {
+        "text": "Let's just hope it stays that way.",
+        "startTime": 46000,
+        "endTime": 47400,
+        "slowStartTime": 69200,
+        "slowEndTime": 71400
+    },
+    {
+        "text": "'Cause there's no denying, I've hit the big time!",
+        "startTime": 47600,
+        "endTime": 50350,
+        "slowStartTime": 71600,
+        "slowEndTime": 75600
+    },
+    {
+        "text": "And no one's gonna bring me down.",
+        "startTime": 50750,
+        "endTime": 52500,
+        "slowStartTime": 76350,
+        "slowEndTime": 79000
+    },
+    {
+        "text": "Let 'em try.",
+        "startTime": 54100,
+        "endTime": 54800,
+        "slowStartTime": 81300,
+        "slowEndTime": 82500
+    }
+]

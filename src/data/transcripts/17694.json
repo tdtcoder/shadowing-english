@@ -1,0 +1,240 @@
+[
+    {
+        "text": "Mother Bear wakes up.",
+        "startTime": 2560,
+        "endTime": 4320,
+        "slowStartTime": 3990,
+        "slowEndTime": 6705
+    },
+    {
+        "text": "Her cub is missing.",
+        "startTime": 5366,
+        "endTime": 6900,
+        "slowStartTime": 8199,
+        "slowEndTime": 10575
+    },
+    {
+        "text": "She looks for her cub in the cave.",
+        "startTime": 7959,
+        "endTime": 9909,
+        "slowStartTime": 12089,
+        "slowEndTime": 15088
+    },
+    {
+        "text": "She cannot find him.",
+        "startTime": 10967,
+        "endTime": 12367,
+        "slowStartTime": 16601,
+        "slowEndTime": 18775
+    },
+    {
+        "text": "Mother Bear goes to Freddy Fox.",
+        "startTime": 13389,
+        "endTime": 16005,
+        "slowStartTime": 20233,
+        "slowEndTime": 24232
+    },
+    {
+        "text": "\"Have you seen my cub?\",...",
+        "startTime": 17021,
+        "endTime": 18640,
+        "slowStartTime": 25681,
+        "slowEndTime": 28185
+    },
+    {
+        "text": "...she asks.",
+        "startTime": 19118,
+        "endTime": 20211,
+        "slowStartTime": 28827,
+        "slowEndTime": 30542
+    },
+    {
+        "text": "\"He is missing, and I am worried.\"",
+        "startTime": 21264,
+        "endTime": 23648,
+        "slowStartTime": 32046,
+        "slowEndTime": 35697
+    },
+    {
+        "text": "\"No, I have not.\",...",
+        "startTime": 24707,
+        "endTime": 26149,
+        "slowStartTime": 37210,
+        "slowEndTime": 39448
+    },
+    {
+        "text": "...says Mr. Fox.",
+        "startTime": 26603,
+        "endTime": 27873,
+        "slowStartTime": 40054,
+        "slowEndTime": 42035
+    },
+    {
+        "text": "Mother Bear goes to Doris Deer.",
+        "startTime": 28993,
+        "endTime": 31542,
+        "slowStartTime": 43640,
+        "slowEndTime": 47538
+    },
+    {
+        "text": "\"Have you seen my cub?\",...",
+        "startTime": 32570,
+        "endTime": 34104,
+        "slowStartTime": 49005,
+        "slowEndTime": 51381
+    },
+    {
+        "text": "...she asks.",
+        "startTime": 34661,
+        "endTime": 35675,
+        "slowStartTime": 52142,
+        "slowEndTime": 53738
+    },
+    {
+        "text": "\"He is missing, and I am worried.\"",
+        "startTime": 36759,
+        "endTime": 39136,
+        "slowStartTime": 55288,
+        "slowEndTime": 58929
+    },
+    {
+        "text": "\"No, I have not.\",...",
+        "startTime": 40250,
+        "endTime": 41796,
+        "slowStartTime": 60525,
+        "slowEndTime": 62919
+    },
+    {
+        "text": "...says Ms. Deer.",
+        "startTime": 42250,
+        "endTime": 43453,
+        "slowStartTime": 63525,
+        "slowEndTime": 65405
+    },
+    {
+        "text": "Mother Bear goes to Rita Rabbit.",
+        "startTime": 44549,
+        "endTime": 47043,
+        "slowStartTime": 66973,
+        "slowEndTime": 70789
+    },
+    {
+        "text": "\"Have you seen my cub?\",...",
+        "startTime": 48075,
+        "endTime": 49685,
+        "slowStartTime": 72262,
+        "slowEndTime": 74752
+    },
+    {
+        "text": "...she asks.",
+        "startTime": 50155,
+        "endTime": 51165,
+        "slowStartTime": 75382,
+        "slowEndTime": 76972
+    },
+    {
+        "text": "\"He is missing, and I am worried.\"",
+        "startTime": 52231,
+        "endTime": 54789,
+        "slowStartTime": 78496,
+        "slowEndTime": 82408
+    },
+    {
+        "text": "\"No, I have not.\",...",
+        "startTime": 55901,
+        "endTime": 57737,
+        "slowStartTime": 84001,
+        "slowEndTime": 86831
+    },
+    {
+        "text": "...says Mrs. Rabbit.",
+        "startTime": 58137,
+        "endTime": 59366,
+        "slowStartTime": 87356,
+        "slowEndTime": 89274
+    },
+    {
+        "text": "Mother Bear goes to Robert Raccoon.",
+        "startTime": 60424,
+        "endTime": 62887,
+        "slowStartTime": 90786,
+        "slowEndTime": 94556
+    },
+    {
+        "text": "\"Have you seen my cub?\",...",
+        "startTime": 63997,
+        "endTime": 65515,
+        "slowStartTime": 96146,
+        "slowEndTime": 98497
+    },
+    {
+        "text": "...she asks.",
+        "startTime": 65967,
+        "endTime": 67037,
+        "slowStartTime": 99101,
+        "slowEndTime": 100781
+    },
+    {
+        "text": "\"He is missing, and I am worried.\"",
+        "startTime": 68145,
+        "endTime": 70723,
+        "slowStartTime": 102368,
+        "slowEndTime": 106309
+    },
+    {
+        "text": "\"No, I have not.\",...",
+        "startTime": 71810,
+        "endTime": 73325,
+        "slowStartTime": 107865,
+        "slowEndTime": 110212
+    },
+    {
+        "text": "...says Mr. Raccoon.",
+        "startTime": 73711,
+        "endTime": 75161,
+        "slowStartTime": 110717,
+        "slowEndTime": 112967
+    },
+    {
+        "text": "Mother Bear hears a bee buzzing.",
+        "startTime": 76285,
+        "endTime": 78688,
+        "slowStartTime": 114577,
+        "slowEndTime": 118257
+    },
+    {
+        "text": "\"Have you seen my cub?\",...",
+        "startTime": 79812,
+        "endTime": 81422,
+        "slowStartTime": 119868,
+        "slowEndTime": 122358
+    },
+    {
+        "text": "...she asks.",
+        "startTime": 81861,
+        "endTime": 82776,
+        "slowStartTime": 122941,
+        "slowEndTime": 124389
+    },
+    {
+        "text": "\"Yes, I have.\",...",
+        "startTime": 83847,
+        "endTime": 85401,
+        "slowStartTime": 125921,
+        "slowEndTime": 128327
+    },
+    {
+        "text": "...says the bee.",
+        "startTime": 85792,
+        "endTime": 86761,
+        "slowStartTime": 128838,
+        "slowEndTime": 130366
+    },
+    {
+        "text": "\"And he is eating our honey.\"",
+        "startTime": 87860,
+        "endTime": 90113,
+        "slowStartTime": 131940,
+        "slowEndTime": 135394
+    }
+]

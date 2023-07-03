@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Is there a monster?",
+        "startTime": 4782,
+        "endTime": 6236,
+        "slowStartTime": 7323,
+        "slowEndTime": 9579
+    },
+    {
+        "text": "Yes, there is.",
+        "startTime": 7416,
+        "endTime": 9347,
+        "slowStartTime": 11274,
+        "slowEndTime": 14246
+    },
+    {
+        "text": "Is there a fish?",
+        "startTime": 11232,
+        "endTime": 12223,
+        "slowStartTime": 16998,
+        "slowEndTime": 18560
+    },
+    {
+        "text": "Yes, there is a fish.",
+        "startTime": 12877,
+        "endTime": 14320,
+        "slowStartTime": 19466,
+        "slowEndTime": 21705
+    },
+    {
+        "text": "Are there horses?",
+        "startTime": 20813,
+        "endTime": 21885,
+        "slowStartTime": 31370,
+        "slowEndTime": 33052
+    },
+    {
+        "text": "Yes, there are.",
+        "startTime": 22479,
+        "endTime": 23403,
+        "slowStartTime": 33868,
+        "slowEndTime": 35329
+    },
+    {
+        "text": "Are there hats?",
+        "startTime": 25086,
+        "endTime": 26089,
+        "slowStartTime": 37779,
+        "slowEndTime": 39358
+    },
+    {
+        "text": "Yes, there are hats.",
+        "startTime": 26588,
+        "endTime": 28175,
+        "slowStartTime": 40032,
+        "slowEndTime": 42487
+    },
+    {
+        "text": "Is there a spoon?",
+        "startTime": 34567,
+        "endTime": 35507,
+        "slowStartTime": 52000,
+        "slowEndTime": 53486
+    },
+    {
+        "text": "No, there isn't.",
+        "startTime": 36055,
+        "endTime": 37429,
+        "slowStartTime": 54233,
+        "slowEndTime": 56369
+    },
+    {
+        "text": "Are there children?",
+        "startTime": 39147,
+        "endTime": 40143,
+        "slowStartTime": 58870,
+        "slowEndTime": 60440
+    },
+    {
+        "text": "No, there aren't.",
+        "startTime": 40901,
+        "endTime": 42709,
+        "slowStartTime": 61501,
+        "slowEndTime": 64288
+    }
+]

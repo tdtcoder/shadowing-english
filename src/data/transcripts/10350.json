@@ -1,0 +1,93 @@
+[
+    {
+        "text": "What did you and your friends do last night?",
+        "startTime": 449,
+        "endTime": 2177,
+        "slowStartTime": 824,
+        "slowEndTime": 3491
+    },
+    {
+        "text": "We went to Fenway Park...",
+        "startTime": 2755,
+        "endTime": 3777,
+        "slowStartTime": 4283,
+        "slowEndTime": 5891
+    },
+    {
+        "text": "...to see the Sox play the Yankees.",
+        "startTime": 3921,
+        "endTime": 5455,
+        "slowStartTime": 6032,
+        "slowEndTime": 8407
+    },
+    {
+        "text": "That's great!",
+        "startTime": 5911,
+        "endTime": 6756,
+        "slowStartTime": 9017,
+        "slowEndTime": 10359
+    },
+    {
+        "text": "How was the game?",
+        "startTime": 7087,
+        "endTime": 7739,
+        "slowStartTime": 10781,
+        "slowEndTime": 11834
+    },
+    {
+        "text": "It was awesome!",
+        "startTime": 8110,
+        "endTime": 9058,
+        "slowStartTime": 12315,
+        "slowEndTime": 13812
+    },
+    {
+        "text": "Dice-K was pitching.",
+        "startTime": 9449,
+        "endTime": 10413,
+        "slowStartTime": 14324,
+        "slowEndTime": 15844
+    },
+    {
+        "text": "He struck out twelve batters!",
+        "startTime": 10699,
+        "endTime": 12116,
+        "slowStartTime": 16198,
+        "slowEndTime": 18399
+    },
+    {
+        "text": "He was on fire!",
+        "startTime": 12501,
+        "endTime": 13447,
+        "slowStartTime": 18902,
+        "slowEndTime": 20395
+    },
+    {
+        "text": "So, did the Red Sox win the game?",
+        "startTime": 14150,
+        "endTime": 15795,
+        "slowStartTime": 21375,
+        "slowEndTime": 23917
+    },
+    {
+        "text": "They sure did!",
+        "startTime": 16207,
+        "endTime": 16975,
+        "slowStartTime": 24461,
+        "slowEndTime": 25688
+    },
+    {
+        "text": "Pedroia hit a two-run home run in the ninth inning.",
+        "startTime": 17273,
+        "endTime": 19471,
+        "slowStartTime": 26059,
+        "slowEndTime": 29431
+    },
+    {
+        "text": "Sounds like you saw a terrific game.",
+        "startTime": 19951,
+        "endTime": 22001,
+        "slowStartTime": 30077,
+        "slowEndTime": 33226
+    }
+]

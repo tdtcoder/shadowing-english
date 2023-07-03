@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Where are you, Buffy?",
+        "startTime": 4650,
+        "endTime": 6100,
+        "slowStartTime": 7300,
+        "slowEndTime": 9300
+    },
+    {
+        "text": "Why am I here?",
+        "startTime": 7100,
+        "endTime": 8100,
+        "slowStartTime": 10900,
+        "slowEndTime": 12400
+    },
+    {
+        "text": "Buffy was almost at the Bronze.",
+        "startTime": 9600,
+        "endTime": 11950,
+        "slowStartTime": 14700,
+        "slowEndTime": 18200
+    },
+    {
+        "text": "It was the end of October, two nights before Halloween.",
+        "startTime": 12850,
+        "endTime": 16850,
+        "slowStartTime": 19600,
+        "slowEndTime": 25500
+    },
+    {
+        "text": "The evening was black and cold.",
+        "startTime": 17950,
+        "endTime": 20250,
+        "slowStartTime": 27200,
+        "slowEndTime": 30500
+    },
+    {
+        "text": "Suddenly, something hit Buffy on the back of her head.",
+        "startTime": 21600,
+        "endTime": 25650,
+        "slowStartTime": 32700,
+        "slowEndTime": 38570
+    },
+    {
+        "text": "She pulled a stake from her jacket.",
+        "startTime": 26400,
+        "endTime": 28700,
+        "slowStartTime": 39900,
+        "slowEndTime": 43200
+    },
+    {
+        "text": "Soon, it was in the vampire's body.",
+        "startTime": 29600,
+        "endTime": 32450,
+        "slowStartTime": 44700,
+        "slowEndTime": 48800
+    },
+    {
+        "text": "No more vampire.",
+        "startTime": 33600,
+        "endTime": 34900,
+        "slowStartTime": 50700,
+        "slowEndTime": 52500
+    },
+    {
+        "text": "Wow! Look at her.",
+        "startTime": 36200,
+        "endTime": 39300,
+        "slowStartTime": 54600,
+        "slowEndTime": 59200
+    },
+    {
+        "text": "Who is she?",
+        "startTime": 40850,
+        "endTime": 41750,
+        "slowStartTime": 61500,
+        "slowEndTime": 62800
+    },
+    {
+        "text": "Buffy. Buffy must die.",
+        "startTime": 43900,
+        "endTime": 47150,
+        "slowStartTime": 66100,
+        "slowEndTime": 70900
+    },
+    {
+        "text": "Drusilla needs more blood...",
+        "startTime": 47850,
+        "endTime": 50200,
+        "slowStartTime": 72100,
+        "slowEndTime": 75500
+    },
+    {
+        "text": "...but that slayer makes it so difficult.",
+        "startTime": 50700,
+        "endTime": 54300,
+        "slowStartTime": 76300,
+        "slowEndTime": 81600
+    },
+    {
+        "text": "Oh no! I'm a ghost.",
+        "startTime": 55900,
+        "endTime": 59150,
+        "slowStartTime": 84100,
+        "slowEndTime": 88900
+    },
+    {
+        "text": "I'm Willow's ghost.",
+        "startTime": 60000,
+        "endTime": 61800,
+        "slowStartTime": 90300,
+        "slowEndTime": 92900
+    },
+    {
+        "text": "Buffy? Are you OK?",
+        "startTime": 63550,
+        "endTime": 66450,
+        "slowStartTime": 95600,
+        "slowEndTime": 99900
+    },
+    {
+        "text": "What? Who is Buffy?",
+        "startTime": 67500,
+        "endTime": 70350,
+        "slowStartTime": 101600,
+        "slowEndTime": 105700
+    },
+    {
+        "text": "She's not Buffy.",
+        "startTime": 71300,
+        "endTime": 72650,
+        "slowStartTime": 107200,
+        "slowEndTime": 109200
+    },
+    {
+        "text": "Who's Buffy?",
+        "startTime": 73900,
+        "endTime": 75100,
+        "slowStartTime": 111100,
+        "slowEndTime": 112800
+    },
+    {
+        "text": "My little one.",
+        "startTime": 76100,
+        "endTime": 77450,
+        "slowStartTime": 114500,
+        "slowEndTime": 116300
+    },
+    {
+        "text": "Frightened. Alone. No one can help you now.",
+        "startTime": 78250,
+        "endTime": 82600,
+        "slowStartTime": 117700,
+        "slowEndTime": 124100
+    },
+    {
+        "text": "What's going to happen to us without the slayer?",
+        "startTime": 84000,
+        "endTime": 87050,
+        "slowStartTime": 126200,
+        "slowEndTime": 130800
+    }
+]

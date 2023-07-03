@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Let's learn the months of the year.",
+        "startTime": 1279,
+        "endTime": 3087,
+        "slowStartTime": 2069,
+        "slowEndTime": 4855
+    },
+    {
+        "text": "In January, we start a new year.",
+        "startTime": 11915,
+        "endTime": 14744,
+        "slowStartTime": 18022,
+        "slowEndTime": 22341
+    },
+    {
+        "text": "In February, we celebrate Valentine's Day.",
+        "startTime": 21058,
+        "endTime": 24811,
+        "slowStartTime": 31737,
+        "slowEndTime": 37442
+    },
+    {
+        "text": "In March, we celebrate St. Patrick's Day.",
+        "startTime": 30934,
+        "endTime": 33561,
+        "slowStartTime": 46551,
+        "slowEndTime": 50567
+    },
+    {
+        "text": "In April, Christians celebrate Easter.",
+        "startTime": 40297,
+        "endTime": 43265,
+        "slowStartTime": 60596,
+        "slowEndTime": 65122
+    },
+    {
+        "text": "Mother's Day is in May.",
+        "startTime": 49307,
+        "endTime": 50922,
+        "slowStartTime": 74110,
+        "slowEndTime": 76608
+    },
+    {
+        "text": "Father's Day is in June.",
+        "startTime": 58411,
+        "endTime": 60229,
+        "slowStartTime": 87766,
+        "slowEndTime": 90568
+    },
+    {
+        "text": "In July, Americans celebrate the Fourth of July.",
+        "startTime": 67343,
+        "endTime": 71111,
+        "slowStartTime": 101165,
+        "slowEndTime": 106891
+    },
+    {
+        "text": "August is the perfect time for baseball.",
+        "startTime": 77181,
+        "endTime": 79833,
+        "slowStartTime": 115922,
+        "slowEndTime": 119974
+    },
+    {
+        "text": "In September, students go back to school.",
+        "startTime": 87235,
+        "endTime": 89855,
+        "slowStartTime": 131002,
+        "slowEndTime": 135008
+    },
+    {
+        "text": "Halloween is in October.",
+        "startTime": 95715,
+        "endTime": 98140,
+        "slowStartTime": 143723,
+        "slowEndTime": 147435
+    },
+    {
+        "text": "In November, we celebrate Thanksgiving.",
+        "startTime": 103770,
+        "endTime": 106865,
+        "slowStartTime": 155805,
+        "slowEndTime": 160522
+    },
+    {
+        "text": "Christmas is on December 25th.",
+        "startTime": 112224,
+        "endTime": 114809,
+        "slowStartTime": 168486,
+        "slowEndTime": 172439
+    }
+]

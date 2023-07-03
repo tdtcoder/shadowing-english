@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Okay, let's try this again.",
+        "startTime": 1410,
+        "endTime": 2767,
+        "slowStartTime": 2265,
+        "slowEndTime": 4375
+    },
+    {
+        "text": "Execute handshake Omega.",
+        "startTime": 4364,
+        "endTime": 6087,
+        "slowStartTime": 6696,
+        "slowEndTime": 9355
+    },
+    {
+        "text": "Pop it, lock it,...",
+        "startTime": 10525,
+        "endTime": 11545,
+        "slowStartTime": 15937,
+        "slowEndTime": 17543
+    },
+    {
+        "text": "...come back,...",
+        "startTime": 13204,
+        "endTime": 13607,
+        "slowStartTime": 19956,
+        "slowEndTime": 20635
+    },
+    {
+        "text": "...and fly away.",
+        "startTime": 14511,
+        "endTime": 15463,
+        "slowStartTime": 21916,
+        "slowEndTime": 23419
+    },
+    {
+        "text": "It's good, right?",
+        "startTime": 16982,
+        "endTime": 17334,
+        "slowStartTime": 25623,
+        "slowEndTime": 26226
+    },
+    {
+        "text": "And who was late on the pop and lock?",
+        "startTime": 18197,
+        "endTime": 20127,
+        "slowStartTime": 27446,
+        "slowEndTime": 30415
+    },
+    {
+        "text": "We are Intel.",
+        "startTime": 25433,
+        "endTime": 26302,
+        "slowStartTime": 38300,
+        "slowEndTime": 39678
+    },
+    {
+        "text": "Sponsors of tomorrow.",
+        "startTime": 28323,
+        "endTime": 29481,
+        "slowStartTime": 42634,
+        "slowEndTime": 44446
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "text": "I climbed the mountain yesterday.",
+        "startTime": 2633,
+        "endTime": 4855,
+        "slowStartTime": 4099,
+        "slowEndTime": 7507
+    },
+    {
+        "text": "Did you have a good time there?",
+        "startTime": 6467,
+        "endTime": 8393,
+        "slowStartTime": 9850,
+        "slowEndTime": 12815
+    },
+    {
+        "text": "Yes.",
+        "startTime": 9359,
+        "endTime": 9998,
+        "slowStartTime": 14188,
+        "slowEndTime": 15222
+    },
+    {
+        "text": "There were so many clouds above the mountain.",
+        "startTime": 10513,
+        "endTime": 13671,
+        "slowStartTime": 15919,
+        "slowEndTime": 20731
+    },
+    {
+        "text": "What did you do yesterday?",
+        "startTime": 14364,
+        "endTime": 16217,
+        "slowStartTime": 21696,
+        "slowEndTime": 24551
+    },
+    {
+        "text": "I went to the river and caught fish.",
+        "startTime": 17685,
+        "endTime": 20330,
+        "slowStartTime": 26677,
+        "slowEndTime": 30720
+    },
+    {
+        "text": "There was a small bridge over the river.",
+        "startTime": 21063,
+        "endTime": 23929,
+        "slowStartTime": 31744,
+        "slowEndTime": 36119
+    },
+    {
+        "text": "And there were many ducks on the river.",
+        "startTime": 24535,
+        "endTime": 26940,
+        "slowStartTime": 36952,
+        "slowEndTime": 40635
+    },
+    {
+        "text": "Wow.",
+        "startTime": 28313,
+        "endTime": 28956,
+        "slowStartTime": 42620,
+        "slowEndTime": 43659
+    },
+    {
+        "text": "I want to go there.",
+        "startTime": 29391,
+        "endTime": 30903,
+        "slowStartTime": 44236,
+        "slowEndTime": 46579
+    },
+    {
+        "text": "Polly got out of her cage and flew out the door.",
+        "startTime": 36965,
+        "endTime": 40605,
+        "slowStartTime": 55598,
+        "slowEndTime": 61132
+    },
+    {
+        "text": "What did she fly over and what did she see?",
+        "startTime": 40725,
+        "endTime": 44172,
+        "slowStartTime": 61238,
+        "slowEndTime": 66483
+    },
+    {
+        "text": "She saw some houses when she flew over the trees.",
+        "startTime": 44421,
+        "endTime": 47835,
+        "slowStartTime": 66781,
+        "slowEndTime": 71977
+    },
+    {
+        "text": "She saw a path when she flew over the houses.",
+        "startTime": 48189,
+        "endTime": 51435,
+        "slowStartTime": 72433,
+        "slowEndTime": 77378
+    },
+    {
+        "text": "She saw a pond when she flew over the path.",
+        "startTime": 51938,
+        "endTime": 55129,
+        "slowStartTime": 78057,
+        "slowEndTime": 82919
+    },
+    {
+        "text": "She saw a playground when she flew over the pond.",
+        "startTime": 55683,
+        "endTime": 58928,
+        "slowStartTime": 83674,
+        "slowEndTime": 88617
+    },
+    {
+        "text": "She saw some flowers when she flew over the playground.",
+        "startTime": 59369,
+        "endTime": 62797,
+        "slowStartTime": 89203,
+        "slowEndTime": 94420
+    },
+    {
+        "text": "Now Polly flew into her cage.",
+        "startTime": 63166,
+        "endTime": 65817,
+        "slowStartTime": 94899,
+        "slowEndTime": 98950
+    },
+    {
+        "text": "Phew, she was safe.",
+        "startTime": 66945,
+        "endTime": 69241,
+        "slowStartTime": 100568,
+        "slowEndTime": 104087
+    }
+]

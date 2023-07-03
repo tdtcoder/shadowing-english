@@ -1,0 +1,184 @@
+[
+    {
+        "text": "For decades, scientists have believed...",
+        "startTime": 380,
+        "endTime": 2143,
+        "slowStartTime": 720,
+        "slowEndTime": 3440
+    },
+    {
+        "text": "...depression is linked to lower levels of serotonin in the brain.",
+        "startTime": 2233,
+        "endTime": 5321,
+        "slowStartTime": 3500,
+        "slowEndTime": 8207
+    },
+    {
+        "text": "That belief has shaped treatment...",
+        "startTime": 5687,
+        "endTime": 7275,
+        "slowStartTime": 8680,
+        "slowEndTime": 11137
+    },
+    {
+        "text": "...and helped create a multibillion dollar market for antidepressant drugs.",
+        "startTime": 7392,
+        "endTime": 11093,
+        "slowStartTime": 11238,
+        "slowEndTime": 16865
+    },
+    {
+        "text": "But it may be wrong.",
+        "startTime": 11961,
+        "endTime": 12661,
+        "slowStartTime": 18091,
+        "slowEndTime": 19217
+    },
+    {
+        "text": "According to research published in the Journal Molecular Psychiatry,...",
+        "startTime": 13295,
+        "endTime": 16207,
+        "slowStartTime": 20093,
+        "slowEndTime": 24536
+    },
+    {
+        "text": "...there is no convincing evidence...",
+        "startTime": 16273,
+        "endTime": 17612,
+        "slowStartTime": 24560,
+        "slowEndTime": 26643
+    },
+    {
+        "text": "...that problems with serotonin actually cause depression.",
+        "startTime": 17688,
+        "endTime": 20517,
+        "slowStartTime": 26682,
+        "slowEndTime": 31000
+    },
+    {
+        "text": "The findings stand to change the way depression is treated...",
+        "startTime": 20942,
+        "endTime": 23245,
+        "slowStartTime": 31563,
+        "slowEndTime": 35093
+    },
+    {
+        "text": "...and the use of antidepressants going forward.",
+        "startTime": 23316,
+        "endTime": 25685,
+        "slowStartTime": 35124,
+        "slowEndTime": 38753
+    },
+    {
+        "text": "For more, I want to bring in Dr. Mitch Prinstein.",
+        "startTime": 26135,
+        "endTime": 28760,
+        "slowStartTime": 39352,
+        "slowEndTime": 43365
+    },
+    {
+        "text": "He's the chief science officer at the American Psychological Association.",
+        "startTime": 28841,
+        "endTime": 32288,
+        "slowStartTime": 43412,
+        "slowEndTime": 48657
+    },
+    {
+        "text": "Dr. Prinstein, I'm gonna do something you are not supposed to do,...",
+        "startTime": 32364,
+        "endTime": 35109,
+        "slowStartTime": 48696,
+        "slowEndTime": 52889
+    },
+    {
+        "text": "...which is ask you a triple-barreled question.",
+        "startTime": 35185,
+        "endTime": 37056,
+        "slowStartTime": 52928,
+        "slowEndTime": 55809
+    },
+    {
+        "text": "First of all, what is serotonin,...",
+        "startTime": 37662,
+        "endTime": 40219,
+        "slowStartTime": 56643,
+        "slowEndTime": 60553
+    },
+    {
+        "text": "...what did we think about it before this study,...",
+        "startTime": 40759,
+        "endTime": 43675,
+        "slowStartTime": 61289,
+        "slowEndTime": 65738
+    },
+    {
+        "text": "...and what is the new way to think about it now?",
+        "startTime": 43829,
+        "endTime": 46286,
+        "slowStartTime": 65893,
+        "slowEndTime": 69654
+    },
+    {
+        "text": "Sure, okay, serotonin is a neurotransmitter.",
+        "startTime": 48047,
+        "endTime": 50585,
+        "slowStartTime": 72220,
+        "slowEndTime": 76102
+    },
+    {
+        "text": "It helps to move signals from one neuron in the brain...",
+        "startTime": 50673,
+        "endTime": 54392,
+        "slowStartTime": 76160,
+        "slowEndTime": 81813
+    },
+    {
+        "text": "...to other neurons in the brain.",
+        "startTime": 54465,
+        "endTime": 55850,
+        "slowStartTime": 81848,
+        "slowEndTime": 84000
+    },
+    {
+        "text": "We know that serotonin, selective serotonin reuptake inhibitors or SSRIs,...",
+        "startTime": 56269,
+        "endTime": 62133,
+        "slowStartTime": 84553,
+        "slowEndTime": 93425
+    },
+    {
+        "text": "...Prozac, is a really common one people know about,...",
+        "startTime": 62532,
+        "endTime": 65915,
+        "slowStartTime": 93948,
+        "slowEndTime": 99098
+    },
+    {
+        "text": "...has been effective in reducing symptoms of depression.",
+        "startTime": 66065,
+        "endTime": 69508,
+        "slowStartTime": 99247,
+        "slowEndTime": 104487
+    },
+    {
+        "text": "So people thought that maybe a lack of serotonin was the problem,...",
+        "startTime": 69595,
+        "endTime": 73807,
+        "slowStartTime": 104542,
+        "slowEndTime": 110936
+    },
+    {
+        "text": "...was the reason why people were getting depressed.",
+        "startTime": 73900,
+        "endTime": 75905,
+        "slowStartTime": 111000,
+        "slowEndTime": 114083
+    },
+    {
+        "text": "Now we know that that’s probably not the best explanation.",
+        "startTime": 76233,
+        "endTime": 79135,
+        "slowStartTime": 114500,
+        "slowEndTime": 118927
+    }
+]

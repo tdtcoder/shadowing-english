@@ -1,0 +1,205 @@
+[
+    {
+        "text": "Oh, I'm running late!",
+        "startTime": 3300,
+        "endTime": 4610,
+        "slowStartTime": 5120,
+        "slowEndTime": 7040
+    },
+    {
+        "text": "My flute tutor is coming to my house in an hour,...",
+        "startTime": 5040,
+        "endTime": 7810,
+        "slowStartTime": 7590,
+        "slowEndTime": 11770
+    },
+    {
+        "text": "...and after that, I have to go to an academy for math.",
+        "startTime": 8170,
+        "endTime": 11010,
+        "slowStartTime": 12320,
+        "slowEndTime": 16680
+    },
+    {
+        "text": "I'm all tied up even during the weekend!",
+        "startTime": 11580,
+        "endTime": 14250,
+        "slowStartTime": 17420,
+        "slowEndTime": 21410
+    },
+    {
+        "text": "But I don't see any dramatic improvement...",
+        "startTime": 14660,
+        "endTime": 17050,
+        "slowStartTime": 22010,
+        "slowEndTime": 25800
+    },
+    {
+        "text": "...either in my academic or musical scores.",
+        "startTime": 17450,
+        "endTime": 20490,
+        "slowStartTime": 26230,
+        "slowEndTime": 30800
+    },
+    {
+        "text": "Wait up! Mi-na had a suggestion.",
+        "startTime": 20760,
+        "endTime": 23260,
+        "slowStartTime": 31230,
+        "slowEndTime": 34920
+    },
+    {
+        "text": "If you are too busy and sick of having lessons,...",
+        "startTime": 23520,
+        "endTime": 26020,
+        "slowStartTime": 35360,
+        "slowEndTime": 39130
+    },
+    {
+        "text": "...why don't you stop going to academies and quit getting private tutoring?",
+        "startTime": 26320,
+        "endTime": 30030,
+        "slowStartTime": 39510,
+        "slowEndTime": 45230
+    },
+    {
+        "text": "Why don't you just focus on your school work?",
+        "startTime": 30650,
+        "endTime": 32660,
+        "slowStartTime": 46040,
+        "slowEndTime": 49090
+    },
+    {
+        "text": "Why are you wasting your time?",
+        "startTime": 33070,
+        "endTime": 34670,
+        "slowStartTime": 49670,
+        "slowEndTime": 52110
+    },
+    {
+        "text": "It's easy for you to say!",
+        "startTime": 35050,
+        "endTime": 36600,
+        "slowStartTime": 52640,
+        "slowEndTime": 55080
+    },
+    {
+        "text": "You can't survive in this education - based...",
+        "startTime": 36970,
+        "endTime": 39170,
+        "slowStartTime": 55590,
+        "slowEndTime": 58900
+    },
+    {
+        "text": "...and highly competitive country without getting private lessons.",
+        "startTime": 39320,
+        "endTime": 42700,
+        "slowStartTime": 59010,
+        "slowEndTime": 64240
+    },
+    {
+        "text": "The more private tutors you have,...",
+        "startTime": 43280,
+        "endTime": 45010,
+        "slowStartTime": 64960,
+        "slowEndTime": 67730
+    },
+    {
+        "text": "...the better results you will see.",
+        "startTime": 45380,
+        "endTime": 46980,
+        "slowStartTime": 68120,
+        "slowEndTime": 70520
+    },
+    {
+        "text": "I can't believe that I only take three extracurricular activities.",
+        "startTime": 47610,
+        "endTime": 51450,
+        "slowStartTime": 71540,
+        "slowEndTime": 77260
+    },
+    {
+        "text": "Mi-na said that when she was my age,...",
+        "startTime": 51940,
+        "endTime": 53890,
+        "slowStartTime": 77990,
+        "slowEndTime": 81020
+    },
+    {
+        "text": "...she spent all day after school at academies.",
+        "startTime": 54220,
+        "endTime": 56920,
+        "slowStartTime": 81430,
+        "slowEndTime": 85480
+    },
+    {
+        "text": "I don't agree with you.",
+        "startTime": 57090,
+        "endTime": 58160,
+        "slowStartTime": 85700,
+        "slowEndTime": 87320
+    },
+    {
+        "text": "I find this private education system in Korea quite problematic.",
+        "startTime": 58540,
+        "endTime": 63020,
+        "slowStartTime": 87830,
+        "slowEndTime": 94530
+    },
+    {
+        "text": "You shouldn't judge a person based on school tests, or report cards...",
+        "startTime": 63600,
+        "endTime": 67500,
+        "slowStartTime": 95440,
+        "slowEndTime": 101150
+    },
+    {
+        "text": "...because they can't tell you one's personality.",
+        "startTime": 67700,
+        "endTime": 70340,
+        "slowStartTime": 101690,
+        "slowEndTime": 105580
+    },
+    {
+        "text": "But it seems like people in Korea are so competitive...",
+        "startTime": 70970,
+        "endTime": 73610,
+        "slowStartTime": 106580,
+        "slowEndTime": 110580
+    },
+    {
+        "text": "...and passionate about entering big name universities.",
+        "startTime": 73840,
+        "endTime": 76940,
+        "slowStartTime": 110870,
+        "slowEndTime": 115510
+    },
+    {
+        "text": "I understand that having a high - profile education...",
+        "startTime": 77580,
+        "endTime": 80550,
+        "slowStartTime": 116560,
+        "slowEndTime": 120930
+    },
+    {
+        "text": "...might give you a better chance to make more money.",
+        "startTime": 80830,
+        "endTime": 83080,
+        "slowStartTime": 121360,
+        "slowEndTime": 124730
+    },
+    {
+        "text": "But I think that how one can progressively show and...",
+        "startTime": 83720,
+        "endTime": 87790,
+        "slowStartTime": 125670,
+        "slowEndTime": 131450
+    },
+    {
+        "text": "...demonstrate their abilities is more important.",
+        "startTime": 87960,
+        "endTime": 90590,
+        "slowStartTime": 131990,
+        "slowEndTime": 135900
+    }
+]

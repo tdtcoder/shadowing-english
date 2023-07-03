@@ -1,0 +1,51 @@
+[
+    {
+        "text": "﻿Do you have enough clothes for the trip?",
+        "startTime": 1604,
+        "endTime": 3320,
+        "slowStartTime": 2556,
+        "slowEndTime": 5205
+    },
+    {
+        "text": "Your luggage is too big!",
+        "startTime": 8627,
+        "endTime": 10692,
+        "slowStartTime": 13090,
+        "slowEndTime": 16263
+    },
+    {
+        "text": "He has a travel visa to Canada.",
+        "startTime": 16101,
+        "endTime": 18105,
+        "slowStartTime": 24302,
+        "slowEndTime": 27382
+    },
+    {
+        "text": "You need a boarding pass to get on the plane.",
+        "startTime": 23227,
+        "endTime": 25477,
+        "slowStartTime": 34990,
+        "slowEndTime": 38440
+    },
+    {
+        "text": "We need a map so we won't get lost.",
+        "startTime": 30516,
+        "endTime": 32530,
+        "slowStartTime": 45924,
+        "slowEndTime": 49020
+    },
+    {
+        "text": "A tour guide is always helpful when traveling.",
+        "startTime": 37231,
+        "endTime": 40015,
+        "slowStartTime": 55996,
+        "slowEndTime": 60247
+    },
+    {
+        "text": "I can speak the language of Brazil.",
+        "startTime": 43853,
+        "endTime": 45621,
+        "slowStartTime": 65930,
+        "slowEndTime": 68656
+    }
+]

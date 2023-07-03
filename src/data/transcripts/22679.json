@@ -1,0 +1,65 @@
+[
+    {
+        "text": "I want you to marry the princess.",
+        "startTime": 3055,
+        "endTime": 5555,
+        "slowStartTime": 4733,
+        "slowEndTime": 8557
+    },
+    {
+        "text": "Anyway, you know computers and I want you to work with Stanley.",
+        "startTime": 8356,
+        "endTime": 12873,
+        "slowStartTime": 12684,
+        "slowEndTime": 19534
+    },
+    {
+        "text": "Stop wasting my hard-earned money.",
+        "startTime": 15911,
+        "endTime": 17973,
+        "slowStartTime": 24017,
+        "slowEndTime": 27184
+    },
+    {
+        "text": "Stop watching TV and do your homework!",
+        "startTime": 20264,
+        "endTime": 23637,
+        "slowStartTime": 30546,
+        "slowEndTime": 35681
+    },
+    {
+        "text": "Make sure to be concise and answer questions directly.",
+        "startTime": 27240,
+        "endTime": 30396,
+        "slowStartTime": 41010,
+        "slowEndTime": 45819
+    },
+    {
+        "text": "Make sure to lock up on your way out.",
+        "startTime": 32649,
+        "endTime": 34243,
+        "slowStartTime": 49123,
+        "slowEndTime": 51590
+    },
+    {
+        "text": "Don't touch my hair, man!",
+        "startTime": 38396,
+        "endTime": 40181,
+        "slowStartTime": 57744,
+        "slowEndTime": 60496
+    },
+    {
+        "text": "\"Don't argue with me. I was in the jar,\" the genie said angrily.",
+        "startTime": 42821,
+        "endTime": 47543,
+        "slowStartTime": 64382,
+        "slowEndTime": 71539
+    },
+    {
+        "text": "Next, always remember to walk around the machine before you use it.",
+        "startTime": 51182,
+        "endTime": 56859,
+        "slowStartTime": 76923,
+        "slowEndTime": 85514
+    }
+]

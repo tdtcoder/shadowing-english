@@ -1,0 +1,100 @@
+[
+    {
+        "text": "﻿What time is it?",
+        "startTime": 2261,
+        "endTime": 3523,
+        "slowStartTime": 3541,
+        "slowEndTime": 5509
+    },
+    {
+        "text": "It's one o'clock.",
+        "startTime": 8620,
+        "endTime": 9940,
+        "slowStartTime": 13080,
+        "slowEndTime": 15135
+    },
+    {
+        "text": "It's quarter past twelve.",
+        "startTime": 18059,
+        "endTime": 19927,
+        "slowStartTime": 27239,
+        "slowEndTime": 30116
+    },
+    {
+        "text": "It's quarter to one.",
+        "startTime": 29332,
+        "endTime": 30547,
+        "slowStartTime": 44148,
+        "slowEndTime": 46045
+    },
+    {
+        "text": "It's 12:30.",
+        "startTime": 39747,
+        "endTime": 41185,
+        "slowStartTime": 59771,
+        "slowEndTime": 62003
+    },
+    {
+        "text": "It's two forty-six in the afternoon.",
+        "startTime": 50387,
+        "endTime": 52904,
+        "slowStartTime": 75731,
+        "slowEndTime": 79581
+    },
+    {
+        "text": "It's ten past seven in the morning.",
+        "startTime": 62177,
+        "endTime": 64546,
+        "slowStartTime": 93415,
+        "slowEndTime": 97044
+    },
+    {
+        "text": "It's ten to five.",
+        "startTime": 70647,
+        "endTime": 72221,
+        "slowStartTime": 106120,
+        "slowEndTime": 108556
+    },
+    {
+        "text": "It's 12 PM.",
+        "startTime": 85603,
+        "endTime": 86901,
+        "slowStartTime": 128554,
+        "slowEndTime": 130577
+    },
+    {
+        "text": "It's noon.",
+        "startTime": 87229,
+        "endTime": 88037,
+        "slowStartTime": 130993,
+        "slowEndTime": 132281
+    },
+    {
+        "text": "It's 12 AM.",
+        "startTime": 96745,
+        "endTime": 98049,
+        "slowStartTime": 145267,
+        "slowEndTime": 147298
+    },
+    {
+        "text": "It's midnight.",
+        "startTime": 98491,
+        "endTime": 99532,
+        "slowStartTime": 147887,
+        "slowEndTime": 149523
+    },
+    {
+        "text": "It's 11:40.",
+        "startTime": 106965,
+        "endTime": 108243,
+        "slowStartTime": 160597,
+        "slowEndTime": 162590
+    },
+    {
+        "text": "Time's up!",
+        "startTime": 126235,
+        "endTime": 127043,
+        "slowStartTime": 189503,
+        "slowEndTime": 190790
+    }
+]

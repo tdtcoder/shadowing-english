@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Hi, I'm Harry.",
+        "startTime": 335,
+        "endTime": 1365,
+        "slowStartTime": 653,
+        "slowEndTime": 2273
+    },
+    {
+        "text": "I eat lots of fruit and vegetables to stay healthy.",
+        "startTime": 2238,
+        "endTime": 4969,
+        "slowStartTime": 3507,
+        "slowEndTime": 7678
+    },
+    {
+        "text": "For breakfast, I often have egg and bread.",
+        "startTime": 6020,
+        "endTime": 9373,
+        "slowStartTime": 9180,
+        "slowEndTime": 14285
+    },
+    {
+        "text": "I also like to drink milk. Milk makes our bones and teeth strong.",
+        "startTime": 10935,
+        "endTime": 15944,
+        "slowStartTime": 16553,
+        "slowEndTime": 24141
+    },
+    {
+        "text": "For lunch, I usually eat meat and salad.",
+        "startTime": 16953,
+        "endTime": 20101,
+        "slowStartTime": 25580,
+        "slowEndTime": 30376
+    },
+    {
+        "text": "My favorite vegetables are carrot and lettuce.",
+        "startTime": 21181,
+        "endTime": 24557,
+        "slowStartTime": 31922,
+        "slowEndTime": 37061
+    },
+    {
+        "text": "For dinner, I usually have a sandwich or soup.",
+        "startTime": 25453,
+        "endTime": 28809,
+        "slowStartTime": 38329,
+        "slowEndTime": 43439
+    },
+    {
+        "text": "My mom makes the best chicken soup.",
+        "startTime": 29066,
+        "endTime": 31929,
+        "slowStartTime": 43749,
+        "slowEndTime": 48118
+    },
+    {
+        "text": "I don't like sweet food.",
+        "startTime": 32735,
+        "endTime": 34687,
+        "slowStartTime": 49253,
+        "slowEndTime": 52256
+    },
+    {
+        "text": "I like healthy food. Healthy food is good for our body.",
+        "startTime": 35672,
+        "endTime": 39917,
+        "slowStartTime": 53658,
+        "slowEndTime": 60100
+    }
+]

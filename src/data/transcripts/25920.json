@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Let's learn about words in school.",
+        "startTime": 466,
+        "endTime": 2867,
+        "slowStartTime": 849,
+        "slowEndTime": 4525
+    },
+    {
+        "text": "He is late for class.",
+        "startTime": 4203,
+        "endTime": 6319,
+        "slowStartTime": 6455,
+        "slowEndTime": 9703
+    },
+    {
+        "text": "He hates homework.",
+        "startTime": 7499,
+        "endTime": 9396,
+        "slowStartTime": 11398,
+        "slowEndTime": 14319
+    },
+    {
+        "text": "They study together.",
+        "startTime": 10862,
+        "endTime": 12591,
+        "slowStartTime": 16443,
+        "slowEndTime": 19111
+    },
+    {
+        "text": "She is a teacher.",
+        "startTime": 14535,
+        "endTime": 16284,
+        "slowStartTime": 21952,
+        "slowEndTime": 24651
+    },
+    {
+        "text": "The student is raising her hand.",
+        "startTime": 18041,
+        "endTime": 20468,
+        "slowStartTime": 27211,
+        "slowEndTime": 30927
+    },
+    {
+        "text": "The girls are in the hall.",
+        "startTime": 22258,
+        "endTime": 24250,
+        "slowStartTime": 33537,
+        "slowEndTime": 36600
+    },
+    {
+        "text": "Mary and Linda are in the cafeteria.",
+        "startTime": 26141,
+        "endTime": 29033,
+        "slowStartTime": 39361,
+        "slowEndTime": 43775
+    },
+    {
+        "text": "He is in his office.",
+        "startTime": 30637,
+        "endTime": 32564,
+        "slowStartTime": 46105,
+        "slowEndTime": 49071
+    },
+    {
+        "text": "The principal is angry.",
+        "startTime": 33979,
+        "endTime": 36345,
+        "slowStartTime": 51118,
+        "slowEndTime": 54742
+    },
+    {
+        "text": "The janitor is cleaning the floor.",
+        "startTime": 37913,
+        "endTime": 40192,
+        "slowStartTime": 57020,
+        "slowEndTime": 60513
+    }
+]

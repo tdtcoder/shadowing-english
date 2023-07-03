@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Over the last year, the world has seen what we always knew...",
+        "startTime": 100,
+        "endTime": 4075,
+        "slowStartTime": 300,
+        "slowEndTime": 6338
+    },
+    {
+        "text": "...that no people on earth are so fearless, or daring, or determined as Americans.",
+        "startTime": 4641,
+        "endTime": 10772,
+        "slowStartTime": 7112,
+        "slowEndTime": 16383
+    },
+    {
+        "text": "If there is a mountain, we climb it.",
+        "startTime": 11606,
+        "endTime": 13723,
+        "slowStartTime": 17559,
+        "slowEndTime": 20810
+    },
+    {
+        "text": "If there is a frontier, we cross it.",
+        "startTime": 14495,
+        "endTime": 17045,
+        "slowStartTime": 21892,
+        "slowEndTime": 25793
+    },
+    {
+        "text": "If there's a challenge, we tame it.",
+        "startTime": 17842,
+        "endTime": 19527,
+        "slowStartTime": 26913,
+        "slowEndTime": 29515
+    },
+    {
+        "text": "If there is an opportunity, we seize it.",
+        "startTime": 20553,
+        "endTime": 23352,
+        "slowStartTime": 30980,
+        "slowEndTime": 35253
+    },
+    {
+        "text": "Americans love their country...",
+        "startTime": 23597,
+        "endTime": 25462,
+        "slowStartTime": 35546,
+        "slowEndTime": 38418
+    },
+    {
+        "text": "...and they deserve a government that shows them the same love and loyalty in return.",
+        "startTime": 25959,
+        "endTime": 31317,
+        "slowStartTime": 39089,
+        "slowEndTime": 47200
+    },
+    {
+        "text": "We all share the same home, the same heart, the same destiny...",
+        "startTime": 31808,
+        "endTime": 37455,
+        "slowStartTime": 47862,
+        "slowEndTime": 56407
+    },
+    {
+        "text": "...and the same great American flag.",
+        "startTime": 38150,
+        "endTime": 41613,
+        "slowStartTime": 57375,
+        "slowEndTime": 62644
+    }
+]

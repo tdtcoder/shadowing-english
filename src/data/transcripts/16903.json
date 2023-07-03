@@ -1,0 +1,254 @@
+[
+    {
+        "text": "Once upon a time, there was a stingy man whose name was Ebenezer Scrooge.",
+        "startTime": 343,
+        "endTime": 7286,
+        "slowStartTime": 664,
+        "slowEndTime": 11154
+    },
+    {
+        "text": "No people in the town liked him.",
+        "startTime": 8820,
+        "endTime": 11314,
+        "slowStartTime": 13380,
+        "slowEndTime": 17196
+    },
+    {
+        "text": "Even beggars never asked him for anything.",
+        "startTime": 12819,
+        "endTime": 16288,
+        "slowStartTime": 19379,
+        "slowEndTime": 24657
+    },
+    {
+        "text": "But, he didn't care at all.",
+        "startTime": 17903,
+        "endTime": 20523,
+        "slowStartTime": 27005,
+        "slowEndTime": 31009
+    },
+    {
+        "text": "One Christmas Eve, he was working late in his office with his assistant, Bob.",
+        "startTime": 22061,
+        "endTime": 28356,
+        "slowStartTime": 33241,
+        "slowEndTime": 42759
+    },
+    {
+        "text": "It was a very cold day but they had only a small fire to save money.",
+        "startTime": 30110,
+        "endTime": 36433,
+        "slowStartTime": 45315,
+        "slowEndTime": 54875
+    },
+    {
+        "text": "It's so cold.",
+        "startTime": 37794,
+        "endTime": 39065,
+        "slowStartTime": 56841,
+        "slowEndTime": 58822
+    },
+    {
+        "text": "At that moment, Scrooge's nephew came into the store.",
+        "startTime": 40617,
+        "endTime": 44890,
+        "slowStartTime": 61076,
+        "slowEndTime": 67560
+    },
+    {
+        "text": "Merry Christmas, Uncle!",
+        "startTime": 46491,
+        "endTime": 48149,
+        "slowStartTime": 69887,
+        "slowEndTime": 72449
+    },
+    {
+        "text": "Why are you so merry?   You're poor.",
+        "startTime": 49644,
+        "endTime": 52853,
+        "slowStartTime": 74616,
+        "slowEndTime": 79505
+    },
+    {
+        "text": "Then why are you so miserable? You're rich.",
+        "startTime": 54471,
+        "endTime": 58161,
+        "slowStartTime": 81857,
+        "slowEndTime": 87466
+    },
+    {
+        "text": "Bah! Humbug!",
+        "startTime": 59487,
+        "endTime": 60467,
+        "slowStartTime": 89381,
+        "slowEndTime": 90926
+    },
+    {
+        "text": "Uncle, please come to dinner tomorrow for Christmas.",
+        "startTime": 61953,
+        "endTime": 65931,
+        "slowStartTime": 93080,
+        "slowEndTime": 99121
+    },
+    {
+        "text": "No, I'm busy.",
+        "startTime": 67453,
+        "endTime": 68339,
+        "slowStartTime": 101329,
+        "slowEndTime": 102733
+    },
+    {
+        "text": "Are you sure?",
+        "startTime": 69668,
+        "endTime": 70585,
+        "slowStartTime": 104652,
+        "slowEndTime": 106103
+    },
+    {
+        "text": "I said no. Don't bother me and go away!",
+        "startTime": 71906,
+        "endTime": 74791,
+        "slowStartTime": 108009,
+        "slowEndTime": 112411
+    },
+    {
+        "text": "Well, have a Merry Christmas anyway, Uncle.",
+        "startTime": 76225,
+        "endTime": 79344,
+        "slowStartTime": 114487,
+        "slowEndTime": 119241
+    },
+    {
+        "text": "His nephew also wished Bob a Merry Christmas and left.",
+        "startTime": 80809,
+        "endTime": 85945,
+        "slowStartTime": 121364,
+        "slowEndTime": 129143
+    },
+    {
+        "text": "I suppose you want to have tomorrow off, Bob?",
+        "startTime": 87429,
+        "endTime": 90665,
+        "slowStartTime": 131294,
+        "slowEndTime": 136223
+    },
+    {
+        "text": "Yes, please.",
+        "startTime": 91815,
+        "endTime": 92852,
+        "slowStartTime": 137872,
+        "slowEndTime": 139503
+    },
+    {
+        "text": "Okay, but you'll have to come in extra early the next day then.",
+        "startTime": 94244,
+        "endTime": 98115,
+        "slowStartTime": 141516,
+        "slowEndTime": 147397
+    },
+    {
+        "text": "Oh, sure. Thank you. Have a Merry Christmas, sir.",
+        "startTime": 99464,
+        "endTime": 102493,
+        "slowStartTime": 149346,
+        "slowEndTime": 153964
+    },
+    {
+        "text": "Bob ran home to be with his family on Christmas Eve.",
+        "startTime": 103792,
+        "endTime": 108624,
+        "slowStartTime": 155838,
+        "slowEndTime": 163161
+    },
+    {
+        "text": "Scrooge had a lonely dinner at an old restaurant that night and went home.",
+        "startTime": 109925,
+        "endTime": 115880,
+        "slowStartTime": 165037,
+        "slowEndTime": 174045
+    },
+    {
+        "text": "As he was opening the door, the knocker changed into a ghostly face.",
+        "startTime": 117296,
+        "endTime": 122903,
+        "slowStartTime": 176094,
+        "slowEndTime": 184579
+    },
+    {
+        "text": "It was the face of his dead business partner, Jacob Marley.",
+        "startTime": 124309,
+        "endTime": 128993,
+        "slowStartTime": 186613,
+        "slowEndTime": 193715
+    },
+    {
+        "text": "He shook his head and walked into the house.",
+        "startTime": 130313,
+        "endTime": 133636,
+        "slowStartTime": 195620,
+        "slowEndTime": 200679
+    },
+    {
+        "text": "He looked all through his house and saw no ghosts, so he sat down by the fire.",
+        "startTime": 135047,
+        "endTime": 141821,
+        "slowStartTime": 202720,
+        "slowEndTime": 212957
+    },
+    {
+        "text": "This is strange, but I don't believe in ghosts.",
+        "startTime": 143003,
+        "endTime": 147063,
+        "slowStartTime": 214655,
+        "slowEndTime": 220819
+    },
+    {
+        "text": "Just then, he heard strange noises and rattling chains coming up the stairs.",
+        "startTime": 148361,
+        "endTime": 155041,
+        "slowStartTime": 222691,
+        "slowEndTime": 232786
+    },
+    {
+        "text": "Scrooge! Scrooge! Scrooge!",
+        "startTime": 156349,
+        "endTime": 160729,
+        "slowStartTime": 234673,
+        "slowEndTime": 241319
+    },
+    {
+        "text": "A ghost walked through a wall and came towards him.",
+        "startTime": 162060,
+        "endTime": 166461,
+        "slowStartTime": 243240,
+        "slowEndTime": 249917
+    },
+    {
+        "text": "Who is it?",
+        "startTime": 167767,
+        "endTime": 168872,
+        "slowStartTime": 251801,
+        "slowEndTime": 253533
+    },
+    {
+        "text": "I was your partner, Jacob Marley.",
+        "startTime": 170269,
+        "endTime": 172981,
+        "slowStartTime": 255554,
+        "slowEndTime": 259697
+    },
+    {
+        "text": "What do you want from me?",
+        "startTime": 174230,
+        "endTime": 176091,
+        "slowStartTime": 261495,
+        "slowEndTime": 264362
+    },
+    {
+        "text": "I want to tell you that you still have a chance to live a happy life.",
+        "startTime": 177391,
+        "endTime": 181927,
+        "slowStartTime": 266236,
+        "slowEndTime": 273116
+    }
+]

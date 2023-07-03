@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Android phone makers are really bad about keeping your phone up-to-date...",
+        "startTime": 174,
+        "endTime": 4109,
+        "slowStartTime": 411,
+        "slowEndTime": 6389
+    },
+    {
+        "text": "...with the latest version of Android from Google.",
+        "startTime": 4217,
+        "endTime": 6458,
+        "slowStartTime": 6476,
+        "slowEndTime": 9912
+    },
+    {
+        "text": "There are a lot of reasons for this.",
+        "startTime": 6941,
+        "endTime": 8570,
+        "slowStartTime": 10562,
+        "slowEndTime": 13080
+    },
+    {
+        "text": "When Google makes a new version of Android,...",
+        "startTime": 8809,
+        "endTime": 10907,
+        "slowStartTime": 13363,
+        "slowEndTime": 16585
+    },
+    {
+        "text": "...it sends it off to phone makers who modify it for their own devices.",
+        "startTime": 10989,
+        "endTime": 15025,
+        "slowStartTime": 16633,
+        "slowEndTime": 22763
+    },
+    {
+        "text": "Then that has to go through a bunch of testing...",
+        "startTime": 15577,
+        "endTime": 17493,
+        "slowStartTime": 23515,
+        "slowEndTime": 26464
+    },
+    {
+        "text": "...before they send it off to carriers for even more testing.",
+        "startTime": 17559,
+        "endTime": 20948,
+        "slowStartTime": 26489,
+        "slowEndTime": 31647
+    },
+    {
+        "text": "By the time the software update finally hits your phone,...",
+        "startTime": 21269,
+        "endTime": 23988,
+        "slowStartTime": 32054,
+        "slowEndTime": 36207
+    },
+    {
+        "text": "...months have gone by and Google usually has a new version of Android by then.",
+        "startTime": 24155,
+        "endTime": 28471,
+        "slowStartTime": 36383,
+        "slowEndTime": 42931
+    },
+    {
+        "text": "The result:...",
+        "startTime": 28895,
+        "endTime": 29599,
+        "slowStartTime": 43493,
+        "slowEndTime": 44624
+    },
+    {
+        "text": "...94 percent of smartphones out there are running an outdated version of Android.",
+        "startTime": 30116,
+        "endTime": 35538,
+        "slowStartTime": 45324,
+        "slowEndTime": 53532
+    },
+    {
+        "text": "Android can also be a security nightmare...",
+        "startTime": 35914,
+        "endTime": 38527,
+        "slowStartTime": 54021,
+        "slowEndTime": 58015
+    },
+    {
+        "text": "...because there are so many different versions of Android out there...",
+        "startTime": 38659,
+        "endTime": 41661,
+        "slowStartTime": 58138,
+        "slowEndTime": 62716
+    },
+    {
+        "text": "...and phone makers have a hard time getting them updated in a timely manner.",
+        "startTime": 42040,
+        "endTime": 46211,
+        "slowStartTime": 63210,
+        "slowEndTime": 69542
+    },
+    {
+        "text": "If and when a vulnerability is found,...",
+        "startTime": 46641,
+        "endTime": 48790,
+        "slowStartTime": 70112,
+        "slowEndTime": 73410
+    },
+    {
+        "text": "...it can take forever for you to get the patch to update it.",
+        "startTime": 48916,
+        "endTime": 51715,
+        "slowStartTime": 73524,
+        "slowEndTime": 77797
+    },
+    {
+        "text": "The best example is Stagefright,...",
+        "startTime": 51804,
+        "endTime": 53398,
+        "slowStartTime": 77856,
+        "slowEndTime": 80322
+    },
+    {
+        "text": "...which was a severe vulnerability found a few years ago...",
+        "startTime": 53565,
+        "endTime": 56553,
+        "slowStartTime": 80497,
+        "slowEndTime": 85055
+    },
+    {
+        "text": "...in practically all Android devices.",
+        "startTime": 56646,
+        "endTime": 59199,
+        "slowStartTime": 85119,
+        "slowEndTime": 89023
+    },
+    {
+        "text": "Major manufacturers rushed to put out patches...",
+        "startTime": 59421,
+        "endTime": 61700,
+        "slowStartTime": 89281,
+        "slowEndTime": 92775
+    },
+    {
+        "text": "...to fix the bug but we still don't know if all of them got the patch.",
+        "startTime": 61788,
+        "endTime": 65918,
+        "slowStartTime": 92832,
+        "slowEndTime": 99102
+    }
+]

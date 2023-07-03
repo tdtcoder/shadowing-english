@@ -1,0 +1,212 @@
+[
+    {
+        "text": "Well, I'm not convinced that the work is as urgent as this report suggests,...",
+        "startTime": 700,
+        "endTime": 5025,
+        "slowStartTime": 1200,
+        "slowEndTime": 7762
+    },
+    {
+        "text": "...so perhaps we should...",
+        "startTime": 5456,
+        "endTime": 6243,
+        "slowStartTime": 8334,
+        "slowEndTime": 9590
+    },
+    {
+        "text": "Oh come on, the building is practically falling down!",
+        "startTime": 6348,
+        "endTime": 9467,
+        "slowStartTime": 9672,
+        "slowEndTime": 14425
+    },
+    {
+        "text": "Sorry Lin, I don't think Tan had finished.",
+        "startTime": 9583,
+        "endTime": 12076,
+        "slowStartTime": 14524,
+        "slowEndTime": 18339
+    },
+    {
+        "text": "We'll get to you in a minute.",
+        "startTime": 12368,
+        "endTime": 13528,
+        "slowStartTime": 18702,
+        "slowEndTime": 20517
+    },
+    {
+        "text": "Sorry.",
+        "startTime": 13865,
+        "endTime": 14437,
+        "slowStartTime": 20947,
+        "slowEndTime": 21880
+    },
+    {
+        "text": "As I was saying, perhaps we should get a second opinion before we spend any money.",
+        "startTime": 14937,
+        "endTime": 19752,
+        "slowStartTime": 22556,
+        "slowEndTime": 29853
+    },
+    {
+        "text": "Thank you, Tan.",
+        "startTime": 20545,
+        "endTime": 21628,
+        "slowStartTime": 30967,
+        "slowEndTime": 32667
+    },
+    {
+        "text": "What's your opinion, Walter?",
+        "startTime": 22245,
+        "endTime": 23632,
+        "slowStartTime": 33517,
+        "slowEndTime": 35673
+    },
+    {
+        "text": "Well, as far as I'm concerned, it's a question of safety, so I think we should go ahead.",
+        "startTime": 24651,
+        "endTime": 28576,
+        "slowStartTime": 37127,
+        "slowEndTime": 43089
+    },
+    {
+        "text": "Are you suggesting that someone could get hurt?",
+        "startTime": 29224,
+        "endTime": 31259,
+        "slowStartTime": 43986,
+        "slowEndTime": 47114
+    },
+    {
+        "text": "In my opinion, yes.",
+        "startTime": 31487,
+        "endTime": 32545,
+        "slowStartTime": 47381,
+        "slowEndTime": 49042
+    },
+    {
+        "text": "If you ask me, there is a serious risk of an accident.",
+        "startTime": 33215,
+        "endTime": 35672,
+        "slowStartTime": 49972,
+        "slowEndTime": 53733
+    },
+    {
+        "text": "And it's not a recent problem.",
+        "startTime": 36211,
+        "endTime": 37527,
+        "slowStartTime": 54466,
+        "slowEndTime": 56515
+    },
+    {
+        "text": "Are you implying we should have done something earlier?",
+        "startTime": 38673,
+        "endTime": 40945,
+        "slowStartTime": 58159,
+        "slowEndTime": 61642
+    },
+    {
+        "text": "Much earlier. It's a real concern.",
+        "startTime": 41493,
+        "endTime": 43958,
+        "slowStartTime": 62389,
+        "slowEndTime": 66162
+    },
+    {
+        "text": "Hear, hear!",
+        "startTime": 44157,
+        "endTime": 44871,
+        "slowStartTime": 66385,
+        "slowEndTime": 67531
+    },
+    {
+        "text": "In that case, I agree. We should do something now.",
+        "startTime": 46171,
+        "endTime": 49929,
+        "slowStartTime": 69407,
+        "slowEndTime": 75119
+    },
+    {
+        "text": "I think so, too.",
+        "startTime": 50223,
+        "endTime": 51083,
+        "slowStartTime": 75484,
+        "slowEndTime": 76850
+    },
+    {
+        "text": "Thank you, Walter.",
+        "startTime": 52407,
+        "endTime": 53377,
+        "slowStartTime": 78761,
+        "slowEndTime": 80290
+    },
+    {
+        "text": "Well, if there's no...",
+        "startTime": 54243,
+        "endTime": 55542,
+        "slowStartTime": 81515,
+        "slowEndTime": 83538
+    },
+    {
+        "text": "Excuse me, Madam Chairperson.",
+        "startTime": 55667,
+        "endTime": 57061,
+        "slowStartTime": 83651,
+        "slowEndTime": 85817
+    },
+    {
+        "text": "Yes, Barbara.",
+        "startTime": 57179,
+        "endTime": 57885,
+        "slowStartTime": 85918,
+        "slowEndTime": 87053
+    },
+    {
+        "text": "What about the problem with parking? There were no places again this morning.",
+        "startTime": 58249,
+        "endTime": 61791,
+        "slowStartTime": 87523,
+        "slowEndTime": 92911
+    },
+    {
+        "text": "Maybe if you got to work on time...",
+        "startTime": 62311,
+        "endTime": 63994,
+        "slowStartTime": 93616,
+        "slowEndTime": 96216
+    },
+    {
+        "text": "All comments through the chair if you don't mind, Walter.",
+        "startTime": 64407,
+        "endTime": 67082,
+        "slowStartTime": 96761,
+        "slowEndTime": 100848
+    },
+    {
+        "text": "Parking isn't on the agenda for this meeting.",
+        "startTime": 67617,
+        "endTime": 69889,
+        "slowStartTime": 101576,
+        "slowEndTime": 105059
+    },
+    {
+        "text": "Perhaps you could suggest it for our next meeting, Barbara.",
+        "startTime": 70265,
+        "endTime": 72877,
+        "slowStartTime": 105547,
+        "slowEndTime": 109541
+    },
+    {
+        "text": "Well, if there's no more discussion, we'll put it to a vote.",
+        "startTime": 74062,
+        "endTime": 77387,
+        "slowStartTime": 111243,
+        "slowEndTime": 116305
+    },
+    {
+        "text": "Hear, hear!",
+        "startTime": 77762,
+        "endTime": 78535,
+        "slowStartTime": 116793,
+        "slowEndTime": 118028
+    }
+]

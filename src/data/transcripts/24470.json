@@ -1,0 +1,86 @@
+[
+    {
+        "text": "﻿Let's learn sports.",
+        "startTime": 436,
+        "endTime": 2039,
+        "slowStartTime": 804,
+        "slowEndTime": 3283
+    },
+    {
+        "text": "They are playing baseball.",
+        "startTime": 7153,
+        "endTime": 8851,
+        "slowStartTime": 10879,
+        "slowEndTime": 13501
+    },
+    {
+        "text": "They are playing basketball.",
+        "startTime": 17455,
+        "endTime": 19880,
+        "slowStartTime": 26333,
+        "slowEndTime": 30045
+    },
+    {
+        "text": "The men are boxing.",
+        "startTime": 25161,
+        "endTime": 26976,
+        "slowStartTime": 37892,
+        "slowEndTime": 40689
+    },
+    {
+        "text": "The women are playing cricket.",
+        "startTime": 35889,
+        "endTime": 38131,
+        "slowStartTime": 53984,
+        "slowEndTime": 57422
+    },
+    {
+        "text": "They are cycling.",
+        "startTime": 46617,
+        "endTime": 48124,
+        "slowStartTime": 70075,
+        "slowEndTime": 72411
+    },
+    {
+        "text": "He is playing golf.",
+        "startTime": 59381,
+        "endTime": 61326,
+        "slowStartTime": 89221,
+        "slowEndTime": 92214
+    },
+    {
+        "text": "They are playing American football.",
+        "startTime": 72441,
+        "endTime": 74883,
+        "slowStartTime": 108811,
+        "slowEndTime": 112550
+    },
+    {
+        "text": "They are playing hockey.",
+        "startTime": 82655,
+        "endTime": 84211,
+        "slowStartTime": 124133,
+        "slowEndTime": 126541
+    },
+    {
+        "text": "The men are playing rugby.",
+        "startTime": 99513,
+        "endTime": 101509,
+        "slowStartTime": 149420,
+        "slowEndTime": 152488
+    },
+    {
+        "text": "Ronaldo is a famous soccer player.",
+        "startTime": 113166,
+        "endTime": 115527,
+        "slowStartTime": 169899,
+        "slowEndTime": 173516
+    },
+    {
+        "text": "Roger Federer plays tennis.",
+        "startTime": 124347,
+        "endTime": 126514,
+        "slowStartTime": 186670,
+        "slowEndTime": 189996
+    }
+]

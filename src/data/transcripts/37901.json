@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Mrs. Long?",
+        "startTime": 6887,
+        "endTime": 7559,
+        "slowStartTime": 10481,
+        "slowEndTime": 11564
+    },
+    {
+        "text": "Yes.",
+        "startTime": 7723,
+        "endTime": 8272,
+        "slowStartTime": 11735,
+        "slowEndTime": 12633
+    },
+    {
+        "text": "We've found a baby girl for your adoption.",
+        "startTime": 8937,
+        "endTime": 10877,
+        "slowStartTime": 13555,
+        "slowEndTime": 16540
+    },
+    {
+        "text": "But, there are some things you need to know.",
+        "startTime": 10999,
+        "endTime": 13200,
+        "slowStartTime": 16649,
+        "slowEndTime": 20025
+    },
+    {
+        "text": "She's in Siberia and she was born with a rare condition.",
+        "startTime": 14933,
+        "endTime": 17881,
+        "slowStartTime": 22550,
+        "slowEndTime": 27046
+    },
+    {
+        "text": "Her legs will need to be amputated.",
+        "startTime": 18897,
+        "endTime": 21437,
+        "slowStartTime": 28495,
+        "slowEndTime": 32381
+    },
+    {
+        "text": "I know this is difficult to hear.",
+        "startTime": 23249,
+        "endTime": 24825,
+        "slowStartTime": 35024,
+        "slowEndTime": 37463
+    },
+    {
+        "text": "Her life, it won't be easy.",
+        "startTime": 26065,
+        "endTime": 28515,
+        "slowStartTime": 39247,
+        "slowEndTime": 42998
+    },
+    {
+        "text": "Mrs. Long?",
+        "startTime": 39026,
+        "endTime": 39807,
+        "slowStartTime": 58689,
+        "slowEndTime": 59936
+    },
+    {
+        "text": "It might not be easy, but it'll be amazing.",
+        "startTime": 41307,
+        "endTime": 44479,
+        "slowStartTime": 62111,
+        "slowEndTime": 66944
+    },
+    {
+        "text": "I can't wait to meet her.",
+        "startTime": 46338,
+        "endTime": 48045,
+        "slowStartTime": 69657,
+        "slowEndTime": 72293
+    }
+]

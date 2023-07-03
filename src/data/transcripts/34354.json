@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Law 4: Equipment.",
+        "startTime": 107,
+        "endTime": 1433,
+        "slowStartTime": 310,
+        "slowEndTime": 2374
+    },
+    {
+        "text": "Typical soccer equipment consists of shorts, jersey, shin guards,...",
+        "startTime": 1763,
+        "endTime": 5472,
+        "slowStartTime": 2794,
+        "slowEndTime": 8433
+    },
+    {
+        "text": "...long socks that go over the shin guards and soccer cleats.",
+        "startTime": 5684,
+        "endTime": 8693,
+        "slowStartTime": 8676,
+        "slowEndTime": 13265
+    },
+    {
+        "text": "In official games, the referee controls time and may add extra time for injuries,...",
+        "startTime": 9217,
+        "endTime": 13449,
+        "slowStartTime": 13975,
+        "slowEndTime": 20399
+    },
+    {
+        "text": "...subs or anything else that cause the game to pause.",
+        "startTime": 13510,
+        "endTime": 16203,
+        "slowStartTime": 20415,
+        "slowEndTime": 24529
+    },
+    {
+        "text": "The ball is out of play when the ball has completely left the field.",
+        "startTime": 16435,
+        "endTime": 19780,
+        "slowStartTime": 24802,
+        "slowEndTime": 29895
+    },
+    {
+        "text": "If the ball is touching the touchline in the air or on the ground,...",
+        "startTime": 20000,
+        "endTime": 22947,
+        "slowStartTime": 30150,
+        "slowEndTime": 34645
+    },
+    {
+        "text": "...it is still considered in play.",
+        "startTime": 23061,
+        "endTime": 24543,
+        "slowStartTime": 34742,
+        "slowEndTime": 37039
+    },
+    {
+        "text": "The referee and goalpost are fixtures of the field...",
+        "startTime": 24759,
+        "endTime": 27666,
+        "slowStartTime": 37289,
+        "slowEndTime": 41724
+    },
+    {
+        "text": "...and play resumes when it hits any part of the fixtures.",
+        "startTime": 27929,
+        "endTime": 30523,
+        "slowStartTime": 42043,
+        "slowEndTime": 46010
+    },
+    {
+        "text": "Fouls.",
+        "startTime": 30999,
+        "endTime": 31622,
+        "slowStartTime": 46648,
+        "slowEndTime": 47658
+    },
+    {
+        "text": "A foul is when a player breaks a rule like using hands or pushing, tripping, pulling, etc.",
+        "startTime": 31965,
+        "endTime": 36733,
+        "slowStartTime": 48098,
+        "slowEndTime": 55324
+    },
+    {
+        "text": "If the referee deems it dangerous, he may call it a foul.",
+        "startTime": 37063,
+        "endTime": 40141,
+        "slowStartTime": 55744,
+        "slowEndTime": 60437
+    },
+    {
+        "text": "There are minor and major fouls.",
+        "startTime": 40619,
+        "endTime": 42386,
+        "slowStartTime": 61078,
+        "slowEndTime": 63804
+    },
+    {
+        "text": "The referee decides and may give a yellow card or red card...",
+        "startTime": 42589,
+        "endTime": 45678,
+        "slowStartTime": 64033,
+        "slowEndTime": 68742
+    },
+    {
+        "text": "...if he she believes it merits a warning for ejection of the game.",
+        "startTime": 45779,
+        "endTime": 49341,
+        "slowStartTime": 68818,
+        "slowEndTime": 74237
+    },
+    {
+        "text": "A free kick is awarded to the other team for a foul or handball.",
+        "startTime": 50360,
+        "endTime": 53671,
+        "slowStartTime": 75690,
+        "slowEndTime": 80731
+    },
+    {
+        "text": "Throw-in.",
+        "startTime": 53929,
+        "endTime": 54420,
+        "slowStartTime": 81044,
+        "slowEndTime": 81855
+    },
+    {
+        "text": "When the ball leaves the field over the sideline,...",
+        "startTime": 54715,
+        "endTime": 57029,
+        "slowStartTime": 82223,
+        "slowEndTime": 85769
+    },
+    {
+        "text": "...a throw-in is awarded to the team that did not touch the ball last.",
+        "startTime": 57134,
+        "endTime": 60549,
+        "slowStartTime": 85851,
+        "slowEndTime": 91049
+    },
+    {
+        "text": "Both feet need to touch the ground and the throw needs to be executed with both hands on the ball.",
+        "startTime": 60865,
+        "endTime": 65655,
+        "slowStartTime": 91447,
+        "slowEndTime": 98707
+    }
+]

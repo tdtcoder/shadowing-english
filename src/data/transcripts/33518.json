@@ -1,0 +1,205 @@
+[
+    {
+        "text": "So what do you want to eat for lunch?",
+        "startTime": 462,
+        "endTime": 2172,
+        "slowStartTime": 843,
+        "slowEndTime": 3483
+    },
+    {
+        "text": "I still don't know yet...",
+        "startTime": 3894,
+        "endTime": 5455,
+        "slowStartTime": 5991,
+        "slowEndTime": 8407
+    },
+    {
+        "text": "...but mom said that I have to make sure that I eat a healthy meal every day.",
+        "startTime": 5764,
+        "endTime": 9506,
+        "slowStartTime": 8796,
+        "slowEndTime": 14484
+    },
+    {
+        "text": "How do you do that?",
+        "startTime": 10152,
+        "endTime": 11197,
+        "slowStartTime": 15378,
+        "slowEndTime": 17021
+    },
+    {
+        "text": "My food should have one go food, one grow food and one glow food.",
+        "startTime": 12266,
+        "endTime": 17297,
+        "slowStartTime": 18549,
+        "slowEndTime": 26171
+    },
+    {
+        "text": "Go, grow and glow food?",
+        "startTime": 18069,
+        "endTime": 19853,
+        "slowStartTime": 27253,
+        "slowEndTime": 30005
+    },
+    {
+        "text": "What are those?",
+        "startTime": 20432,
+        "endTime": 21553,
+        "slowStartTime": 30798,
+        "slowEndTime": 32555
+    },
+    {
+        "text": "Food can be grouped into three groups.",
+        "startTime": 22117,
+        "endTime": 24277,
+        "slowStartTime": 33326,
+        "slowEndTime": 36640
+    },
+    {
+        "text": "Go, grow and glow.",
+        "startTime": 24580,
+        "endTime": 26287,
+        "slowStartTime": 37020,
+        "slowEndTime": 39656
+    },
+    {
+        "text": "Go food gives us energy.",
+        "startTime": 26684,
+        "endTime": 28175,
+        "slowStartTime": 40176,
+        "slowEndTime": 42487
+    },
+    {
+        "text": "This kind of food contains carbohydrates like rice, bread, cereals and noodles.",
+        "startTime": 28806,
+        "endTime": 35107,
+        "slowStartTime": 43359,
+        "slowEndTime": 52885
+    },
+    {
+        "text": "These help us run, jump and play all day.",
+        "startTime": 35623,
+        "endTime": 38599,
+        "slowStartTime": 53584,
+        "slowEndTime": 58123
+    },
+    {
+        "text": "Grow food makes us grow bigger and stronger.",
+        "startTime": 39047,
+        "endTime": 41553,
+        "slowStartTime": 58721,
+        "slowEndTime": 62554
+    },
+    {
+        "text": "It helps in the development of muscles.",
+        "startTime": 42313,
+        "endTime": 43953,
+        "slowStartTime": 63620,
+        "slowEndTime": 66154
+    },
+    {
+        "text": "This kind of food gives us protein.",
+        "startTime": 44675,
+        "endTime": 46503,
+        "slowStartTime": 67162,
+        "slowEndTime": 69980
+    },
+    {
+        "text": "Examples are meat, fish, milk, and egg.",
+        "startTime": 47082,
+        "endTime": 50253,
+        "slowStartTime": 70773,
+        "slowEndTime": 75605
+    },
+    {
+        "text": "Glow food makes us look good.",
+        "startTime": 50757,
+        "endTime": 52329,
+        "slowStartTime": 76285,
+        "slowEndTime": 78718
+    },
+    {
+        "text": "This kind of food makes our skin glow, our hair shine and our eyes sparkle.",
+        "startTime": 52913,
+        "endTime": 57590,
+        "slowStartTime": 79519,
+        "slowEndTime": 86610
+    },
+    {
+        "text": "It gives us vitamins and minerals.",
+        "startTime": 58141,
+        "endTime": 59943,
+        "slowStartTime": 87361,
+        "slowEndTime": 90140
+    },
+    {
+        "text": "Examples are fruits and vegetables.",
+        "startTime": 60739,
+        "endTime": 62842,
+        "slowStartTime": 91258,
+        "slowEndTime": 94488
+    },
+    {
+        "text": "Now I know what a healthy meal is made of.",
+        "startTime": 63514,
+        "endTime": 65581,
+        "slowStartTime": 95421,
+        "slowEndTime": 98596
+    },
+    {
+        "text": "I think I'll eat a sandwich today.",
+        "startTime": 66164,
+        "endTime": 67964,
+        "slowStartTime": 99396,
+        "slowEndTime": 102171
+    },
+    {
+        "text": "It has bread, meat, lettuce, and tomatoes.",
+        "startTime": 68689,
+        "endTime": 72303,
+        "slowStartTime": 103184,
+        "slowEndTime": 108680
+    },
+    {
+        "text": "Thanks, Candy.",
+        "startTime": 73342,
+        "endTime": 74108,
+        "slowStartTime": 110163,
+        "slowEndTime": 111387
+    },
+    {
+        "text": "I learned a lot from you today.",
+        "startTime": 74465,
+        "endTime": 75775,
+        "slowStartTime": 111847,
+        "slowEndTime": 113888
+    },
+    {
+        "text": "You're welcome, Dave.",
+        "startTime": 76532,
+        "endTime": 77634,
+        "slowStartTime": 114948,
+        "slowEndTime": 116676
+    },
+    {
+        "text": "Learning is always fun.",
+        "startTime": 77906,
+        "endTime": 79655,
+        "slowStartTime": 117009,
+        "slowEndTime": 119708
+    },
+    {
+        "text": "Let's go eat!",
+        "startTime": 80002,
+        "endTime": 80725,
+        "slowStartTime": 120153,
+        "slowEndTime": 121313
+    },
+    {
+        "text": "Did you have fun learning about go, grow and glow foods?",
+        "startTime": 81439,
+        "endTime": 84850,
+        "slowStartTime": 122309,
+        "slowEndTime": 127500
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "text": "Customers are getting confused.",
+        "startTime": 148,
+        "endTime": 1637,
+        "slowStartTime": 372,
+        "slowEndTime": 2681
+    },
+    {
+        "text": "It may be cultural or just different personalities.",
+        "startTime": 1733,
+        "endTime": 4701,
+        "slowStartTime": 2749,
+        "slowEndTime": 7276
+    },
+    {
+        "text": "But, I need to make sure everybody speaks up when they have something to offer.",
+        "startTime": 4993,
+        "endTime": 8441,
+        "slowStartTime": 7639,
+        "slowEndTime": 12886
+    },
+    {
+        "text": "Some speak quite easily...",
+        "startTime": 9599,
+        "endTime": 11035,
+        "slowStartTime": 14548,
+        "slowEndTime": 16777
+    },
+    {
+        "text": "...but others need encouragement and they really appreciate being heard.",
+        "startTime": 11228,
+        "endTime": 14933,
+        "slowStartTime": 16992,
+        "slowEndTime": 22625
+    },
+    {
+        "text": "Sometimes, I try to pull someone in with a compliment...",
+        "startTime": 16181,
+        "endTime": 19011,
+        "slowStartTime": 24422,
+        "slowEndTime": 28742
+    },
+    {
+        "text": "...or a comment on their experience with the issue.",
+        "startTime": 19242,
+        "endTime": 21726,
+        "slowStartTime": 29013,
+        "slowEndTime": 32814
+    },
+    {
+        "text": "Or maybe I just beg for their help.",
+        "startTime": 21965,
+        "endTime": 23803,
+        "slowStartTime": 33097,
+        "slowEndTime": 35930
+    },
+    {
+        "text": "Kida, the purchasing department seems to have figured out a way...",
+        "startTime": 24234,
+        "endTime": 27023,
+        "slowStartTime": 36501,
+        "slowEndTime": 40760
+    },
+    {
+        "text": "...to use the new part numbers.",
+        "startTime": 27108,
+        "endTime": 28551,
+        "slowStartTime": 40812,
+        "slowEndTime": 43052
+    },
+    {
+        "text": "Can you explain your workaround?",
+        "startTime": 28921,
+        "endTime": 30327,
+        "slowStartTime": 43531,
+        "slowEndTime": 45715
+    },
+    {
+        "text": "Sure. So, we saw that the website upgrade appended an extra field to each SKU.",
+        "startTime": 30776,
+        "endTime": 35617,
+        "slowStartTime": 46314,
+        "slowEndTime": 53651
+    },
+    {
+        "text": "We tried running a conversion which seemed to work fine.",
+        "startTime": 36522,
+        "endTime": 39449,
+        "slowStartTime": 54933,
+        "slowEndTime": 59399
+    },
+    {
+        "text": "But, we see it only as a temporary solution.",
+        "startTime": 39982,
+        "endTime": 42257,
+        "slowStartTime": 60123,
+        "slowEndTime": 63610
+    },
+    {
+        "text": "So, it sounds like the best solution is to add the 01 to the end.",
+        "startTime": 42703,
+        "endTime": 46479,
+        "slowStartTime": 64205,
+        "slowEndTime": 69943
+    },
+    {
+        "text": "Then, when I'm sure everyone has had their say, it's time to end the meeting.",
+        "startTime": 46569,
+        "endTime": 50438,
+        "slowStartTime": 70003,
+        "slowEndTime": 75882
+    },
+    {
+        "text": "Listen guys, the time is almost up.",
+        "startTime": 50544,
+        "endTime": 52435,
+        "slowStartTime": 75966,
+        "slowEndTime": 78877
+    },
+    {
+        "text": "Let me review what we've come up with for today.",
+        "startTime": 52921,
+        "endTime": 55419,
+        "slowStartTime": 79532,
+        "slowEndTime": 83353
+    },
+    {
+        "text": "I always try to end with a positive statement of what we accomplished or agreed on.",
+        "startTime": 55547,
+        "endTime": 59862,
+        "slowStartTime": 83470,
+        "slowEndTime": 90018
+    },
+    {
+        "text": "While concluding, I'll summarize, assign action steps or schedule the next meeting.",
+        "startTime": 60459,
+        "endTime": 65540,
+        "slowStartTime": 90838,
+        "slowEndTime": 98535
+    },
+    {
+        "text": "Thanks, everybody. I'll see you all again on Friday...",
+        "startTime": 65775,
+        "endTime": 68321,
+        "slowStartTime": 98812,
+        "slowEndTime": 102706
+    },
+    {
+        "text": "...when we've had the chance to implement and test these fixes.",
+        "startTime": 68409,
+        "endTime": 71222,
+        "slowStartTime": 102763,
+        "slowEndTime": 107058
+    },
+    {
+        "text": "See you then.",
+        "startTime": 71711,
+        "endTime": 72681,
+        "slowStartTime": 107717,
+        "slowEndTime": 109247
+    },
+    {
+        "text": "Goodbye, everyone!",
+        "startTime": 73171,
+        "endTime": 74147,
+        "slowStartTime": 109907,
+        "slowEndTime": 111446
+    }
+]

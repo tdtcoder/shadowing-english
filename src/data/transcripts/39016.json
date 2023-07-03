@@ -1,0 +1,254 @@
+[
+    {
+        "text": "Have you experienced deja vu?",
+        "startTime": 103,
+        "endTime": 1875,
+        "slowStartTime": 304,
+        "slowEndTime": 3037
+    },
+    {
+        "text": "It's that shadowy feeling you get when a situation seems familiar.",
+        "startTime": 2295,
+        "endTime": 5917,
+        "slowStartTime": 3593,
+        "slowEndTime": 9100
+    },
+    {
+        "text": "A scene in a restaurant plays out exactly as you remember.",
+        "startTime": 6398,
+        "endTime": 9222,
+        "slowStartTime": 9747,
+        "slowEndTime": 14058
+    },
+    {
+        "text": "The world moves like a ballet you've choreographed,...",
+        "startTime": 9416,
+        "endTime": 11841,
+        "slowStartTime": 14274,
+        "slowEndTime": 17987
+    },
+    {
+        "text": "...but the sequence can't be based on a past experience...",
+        "startTime": 12117,
+        "endTime": 14650,
+        "slowStartTime": 18325,
+        "slowEndTime": 22200
+    },
+    {
+        "text": "...because you've never eaten here before.",
+        "startTime": 14785,
+        "endTime": 16407,
+        "slowStartTime": 22328,
+        "slowEndTime": 24836
+    },
+    {
+        "text": "This is the first time you've had clams, so what's going on?",
+        "startTime": 16825,
+        "endTime": 20099,
+        "slowStartTime": 25387,
+        "slowEndTime": 30373
+    },
+    {
+        "text": "Unfortunately, there isn't one single explanation for deja vu.",
+        "startTime": 20519,
+        "endTime": 24044,
+        "slowStartTime": 30929,
+        "slowEndTime": 36291
+    },
+    {
+        "text": "The experience is brief and occurs without notice,...",
+        "startTime": 24271,
+        "endTime": 26920,
+        "slowStartTime": 36557,
+        "slowEndTime": 40605
+    },
+    {
+        "text": "...making it nearly impossible for scientists to record and study it.",
+        "startTime": 27101,
+        "endTime": 30333,
+        "slowStartTime": 40802,
+        "slowEndTime": 45725
+    },
+    {
+        "text": "Scientists can't simply sit around and wait for it to happen to them.",
+        "startTime": 30555,
+        "endTime": 33562,
+        "slowStartTime": 45982,
+        "slowEndTime": 50568
+    },
+    {
+        "text": "This could take years.",
+        "startTime": 33742,
+        "endTime": 34837,
+        "slowStartTime": 50763,
+        "slowEndTime": 52480
+    },
+    {
+        "text": "It has no physical manifestations...",
+        "startTime": 35200,
+        "endTime": 37097,
+        "slowStartTime": 52950,
+        "slowEndTime": 55871
+    },
+    {
+        "text": "...and in studies, it's described by the subject as a sensation or feeling.",
+        "startTime": 37195,
+        "endTime": 41047,
+        "slowStartTime": 55943,
+        "slowEndTime": 61795
+    },
+    {
+        "text": "Because of this lack of hard evidence,...",
+        "startTime": 41493,
+        "endTime": 43273,
+        "slowStartTime": 62389,
+        "slowEndTime": 65135
+    },
+    {
+        "text": "...there's been a surplus of speculation over the years.",
+        "startTime": 43509,
+        "endTime": 45989,
+        "slowStartTime": 65414,
+        "slowEndTime": 69209
+    },
+    {
+        "text": "Since Emile Boirac introduced deja vu as a French term meaning \"already seen,\"...",
+        "startTime": 46129,
+        "endTime": 50826,
+        "slowStartTime": 69344,
+        "slowEndTime": 76464
+    },
+    {
+        "text": "...more than 40 theories attempt to explain this phenomenon.",
+        "startTime": 51131,
+        "endTime": 53991,
+        "slowStartTime": 76847,
+        "slowEndTime": 81212
+    },
+    {
+        "text": "Still, recent advancements in neuroimaging and cognitive psychology...",
+        "startTime": 54356,
+        "endTime": 58297,
+        "slowStartTime": 81684,
+        "slowEndTime": 87671
+    },
+    {
+        "text": "...narrow down the field of prospects.",
+        "startTime": 58502,
+        "endTime": 60263,
+        "slowStartTime": 87903,
+        "slowEndTime": 90620
+    },
+    {
+        "text": "Let's walk through three of today's more prevalent theories,...",
+        "startTime": 60607,
+        "endTime": 63130,
+        "slowStartTime": 91061,
+        "slowEndTime": 94920
+    },
+    {
+        "text": "...using the same restaurant setting for each.",
+        "startTime": 63379,
+        "endTime": 65433,
+        "slowStartTime": 95218,
+        "slowEndTime": 98375
+    },
+    {
+        "text": "First up is dual processing.",
+        "startTime": 65665,
+        "endTime": 67322,
+        "slowStartTime": 98647,
+        "slowEndTime": 101208
+    },
+    {
+        "text": "We'll need an action.",
+        "startTime": 67600,
+        "endTime": 68463,
+        "slowStartTime": 101550,
+        "slowEndTime": 102920
+    },
+    {
+        "text": "Let's go with a waiter dropping a tray of dishes.",
+        "startTime": 68569,
+        "endTime": 70951,
+        "slowStartTime": 103004,
+        "slowEndTime": 106652
+    },
+    {
+        "text": "As the scene unfolds, your brain's hemispheres process a flurry of information:",
+        "startTime": 71325,
+        "endTime": 75379,
+        "slowStartTime": 107137,
+        "slowEndTime": 113294
+    },
+    {
+        "text": "the waiter's flailing arms, his cry for help, the smell of pasta.",
+        "startTime": 75761,
+        "endTime": 79333,
+        "slowStartTime": 113791,
+        "slowEndTime": 119224
+    },
+    {
+        "text": "Within milliseconds, this information zips through pathways...",
+        "startTime": 79719,
+        "endTime": 82715,
+        "slowStartTime": 119728,
+        "slowEndTime": 124297
+    },
+    {
+        "text": "...and is processed into a single moment.",
+        "startTime": 82804,
+        "endTime": 84804,
+        "slowStartTime": 124356,
+        "slowEndTime": 127431
+    },
+    {
+        "text": "Most of the time, everything is recorded in sync.",
+        "startTime": 85145,
+        "endTime": 87443,
+        "slowStartTime": 127867,
+        "slowEndTime": 131390
+    },
+    {
+        "text": "However, this theory asserts that deja vu occurs...",
+        "startTime": 87775,
+        "endTime": 90574,
+        "slowStartTime": 131812,
+        "slowEndTime": 136086
+    },
+    {
+        "text": "...when there's a slight delay in information from one of these pathways.",
+        "startTime": 90836,
+        "endTime": 93982,
+        "slowStartTime": 136404,
+        "slowEndTime": 141198
+    },
+    {
+        "text": "The difference in arrival times...",
+        "startTime": 94129,
+        "endTime": 95460,
+        "slowStartTime": 141344,
+        "slowEndTime": 143415
+    },
+    {
+        "text": "...causes the brain to interpret the late information as a separate event.",
+        "startTime": 95546,
+        "endTime": 99056,
+        "slowStartTime": 143469,
+        "slowEndTime": 148809
+    },
+    {
+        "text": "When it plays over the already recorded moment,...",
+        "startTime": 99747,
+        "endTime": 101927,
+        "slowStartTime": 149771,
+        "slowEndTime": 153115
+    },
+    {
+        "text": "...it feels as if it's happened before because, in a sense, it has.",
+        "startTime": 102031,
+        "endTime": 105572,
+        "slowStartTime": 153196,
+        "slowEndTime": 158583
+    }
+]

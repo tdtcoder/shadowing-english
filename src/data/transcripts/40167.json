@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Did you just arrive?",
+        "startTime": 1847,
+        "endTime": 3131,
+        "slowStartTime": 2921,
+        "slowEndTime": 4922
+    },
+    {
+        "text": "We got here on the 3rd.",
+        "startTime": 3794,
+        "endTime": 5287,
+        "slowStartTime": 5841,
+        "slowEndTime": 8156
+    },
+    {
+        "text": "And do you plan to stay long?",
+        "startTime": 5807,
+        "endTime": 7440,
+        "slowStartTime": 8861,
+        "slowEndTime": 11385
+    },
+    {
+        "text": "Yes.",
+        "startTime": 8143,
+        "endTime": 8752,
+        "slowStartTime": 12365,
+        "slowEndTime": 13353
+    },
+    {
+        "text": "We're not leaving until the end of the month.",
+        "startTime": 8983,
+        "endTime": 10994,
+        "slowStartTime": 13624,
+        "slowEndTime": 16716
+    },
+    {
+        "text": "The 31st?",
+        "startTime": 11470,
+        "endTime": 12559,
+        "slowStartTime": 17355,
+        "slowEndTime": 19063
+    },
+    {
+        "text": "That's right.",
+        "startTime": 12871,
+        "endTime": 13545,
+        "slowStartTime": 19456,
+        "slowEndTime": 20543
+    },
+    {
+        "text": "When are you going on vacation, Nick?",
+        "startTime": 17276,
+        "endTime": 19177,
+        "slowStartTime": 26064,
+        "slowEndTime": 28991
+    },
+    {
+        "text": "We're leaving on August 16th.",
+        "startTime": 20035,
+        "endTime": 21758,
+        "slowStartTime": 30203,
+        "slowEndTime": 32862
+    },
+    {
+        "text": "And when are you coming back?",
+        "startTime": 22312,
+        "endTime": 23623,
+        "slowStartTime": 33618,
+        "slowEndTime": 35660
+    },
+    {
+        "text": "On August 23rd.",
+        "startTime": 23957,
+        "endTime": 25322,
+        "slowStartTime": 36085,
+        "slowEndTime": 38208
+    },
+    {
+        "text": "Oh no, that means you'll miss my party on the 22nd.",
+        "startTime": 25636,
+        "endTime": 28580,
+        "slowStartTime": 38604,
+        "slowEndTime": 43095
+    },
+    {
+        "text": "What do you mean?",
+        "startTime": 29062,
+        "endTime": 29775,
+        "slowStartTime": 43743,
+        "slowEndTime": 44887
+    },
+    {
+        "text": "I'll be back before the 27th.",
+        "startTime": 29974,
+        "endTime": 31566,
+        "slowStartTime": 45111,
+        "slowEndTime": 47574
+    },
+    {
+        "text": "I said the 22nd, not the 27th.",
+        "startTime": 32367,
+        "endTime": 35126,
+        "slowStartTime": 48700,
+        "slowEndTime": 52914
+    },
+    {
+        "text": "But maybe I can change the date.",
+        "startTime": 35795,
+        "endTime": 37417,
+        "slowStartTime": 53842,
+        "slowEndTime": 56350
+    },
+    {
+        "text": "Are you free on the 31st?",
+        "startTime": 37803,
+        "endTime": 39261,
+        "slowStartTime": 56854,
+        "slowEndTime": 59116
+    }
+]

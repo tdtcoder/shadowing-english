@@ -1,0 +1,198 @@
+[
+    {
+        "text": "This is how the world works.",
+        "startTime": 305,
+        "endTime": 2183,
+        "slowStartTime": 608,
+        "slowEndTime": 3500
+    },
+    {
+        "text": "The sun shines, the grass grows.",
+        "startTime": 2539,
+        "endTime": 4497,
+        "slowStartTime": 3958,
+        "slowEndTime": 6971
+    },
+    {
+        "text": "Kobe Bryant arrives to practice at three.",
+        "startTime": 5123,
+        "endTime": 7222,
+        "slowStartTime": 7835,
+        "slowEndTime": 11058
+    },
+    {
+        "text": "The other three.",
+        "startTime": 8363,
+        "endTime": 9146,
+        "slowStartTime": 12694,
+        "slowEndTime": 13944
+    },
+    {
+        "text": "Chickens bock, bock, bock.",
+        "startTime": 9833,
+        "endTime": 11205,
+        "slowStartTime": 14900,
+        "slowEndTime": 17032
+    },
+    {
+        "text": "Broccoli can fight cancer.",
+        "startTime": 11593,
+        "endTime": 12885,
+        "slowStartTime": 17540,
+        "slowEndTime": 19552
+    },
+    {
+        "text": "Rice provides energy.",
+        "startTime": 13079,
+        "endTime": 14347,
+        "slowStartTime": 19769,
+        "slowEndTime": 21745
+    },
+    {
+        "text": "Kobe eats rice, broccoli, chicken...",
+        "startTime": 14609,
+        "endTime": 17170,
+        "slowStartTime": 22063,
+        "slowEndTime": 25980
+    },
+    {
+        "text": "...and the world turns.",
+        "startTime": 17395,
+        "endTime": 18705,
+        "slowStartTime": 26242,
+        "slowEndTime": 28283
+    },
+    {
+        "text": "Earthquakes shake.",
+        "startTime": 19013,
+        "endTime": 19923,
+        "slowStartTime": 28669,
+        "slowEndTime": 30109
+    },
+    {
+        "text": "Bakers bake.",
+        "startTime": 20297,
+        "endTime": 20923,
+        "slowStartTime": 30596,
+        "slowEndTime": 31610
+    },
+    {
+        "text": "Kobe Bryant shakes and bakes defenders.",
+        "startTime": 21382,
+        "endTime": 24259,
+        "slowStartTime": 32223,
+        "slowEndTime": 36613
+    },
+    {
+        "text": "Philosophers ponder existence.",
+        "startTime": 24615,
+        "endTime": 26283,
+        "slowStartTime": 37072,
+        "slowEndTime": 39650
+    },
+    {
+        "text": "Scholars read.",
+        "startTime": 26382,
+        "endTime": 27182,
+        "slowStartTime": 39723,
+        "slowEndTime": 40998
+    },
+    {
+        "text": "Kobe Bryant takes everyone to school.",
+        "startTime": 27501,
+        "endTime": 29970,
+        "slowStartTime": 41402,
+        "slowEndTime": 45180
+    },
+    {
+        "text": "Rain falls, waterfalls dump water.",
+        "startTime": 30659,
+        "endTime": 32682,
+        "slowStartTime": 46138,
+        "slowEndTime": 49248
+    },
+    {
+        "text": "Kobe owns the bucket.",
+        "startTime": 32852,
+        "endTime": 34181,
+        "slowStartTime": 49428,
+        "slowEndTime": 51496
+    },
+    {
+        "text": "That bucket.",
+        "startTime": 34841,
+        "endTime": 35749,
+        "slowStartTime": 52412,
+        "slowEndTime": 53848
+    },
+    {
+        "text": "Snakes are light, low and fast.",
+        "startTime": 37083,
+        "endTime": 39120,
+        "slowStartTime": 55775,
+        "slowEndTime": 58905
+    },
+    {
+        "text": "Kobe's shoes are like snakes.",
+        "startTime": 39230,
+        "endTime": 40892,
+        "slowStartTime": 58995,
+        "slowEndTime": 61563
+    },
+    {
+        "text": "Bees sting when threatened.",
+        "startTime": 41024,
+        "endTime": 42494,
+        "slowStartTime": 61686,
+        "slowEndTime": 63966
+    },
+    {
+        "text": "Kobe Bryant is never threatened.",
+        "startTime": 42678,
+        "endTime": 44887,
+        "slowStartTime": 64167,
+        "slowEndTime": 67555
+    },
+    {
+        "text": "Best is ahead of better.",
+        "startTime": 44997,
+        "endTime": 46221,
+        "slowStartTime": 67646,
+        "slowEndTime": 69556
+    },
+    {
+        "text": "The basket is ahead of the ball.",
+        "startTime": 46799,
+        "endTime": 48147,
+        "slowStartTime": 70348,
+        "slowEndTime": 72445
+    },
+    {
+        "text": "Kobe is light-years ahead of them all.",
+        "startTime": 48528,
+        "endTime": 50623,
+        "slowStartTime": 72942,
+        "slowEndTime": 76160
+    },
+    {
+        "text": "This is the way it was,...",
+        "startTime": 51115,
+        "endTime": 52242,
+        "slowStartTime": 76823,
+        "slowEndTime": 78588
+    },
+    {
+        "text": "...this is the way it is,...",
+        "startTime": 52374,
+        "endTime": 53357,
+        "slowStartTime": 78711,
+        "slowEndTime": 80260
+    },
+    {
+        "text": "...this is the way it will be.",
+        "startTime": 53815,
+        "endTime": 55508,
+        "slowStartTime": 80873,
+        "slowEndTime": 83487
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Hello there. What seems to be the problem today?",
+        "startTime": 2204,
+        "endTime": 4957,
+        "slowStartTime": 3456,
+        "slowEndTime": 7660
+    },
+    {
+        "text": "Hello, doctor. My throat has been sore for two days.",
+        "startTime": 5231,
+        "endTime": 8563,
+        "slowStartTime": 7996,
+        "slowEndTime": 13069
+    },
+    {
+        "text": "I see. Do you have a fever as well?",
+        "startTime": 9049,
+        "endTime": 11552,
+        "slowStartTime": 13723,
+        "slowEndTime": 17553
+    },
+    {
+        "text": "I think so, but I haven't actually taken my temperature.",
+        "startTime": 11723,
+        "endTime": 14934,
+        "slowStartTime": 17734,
+        "slowEndTime": 22626
+    },
+    {
+        "text": "Have you been able to eat okay?",
+        "startTime": 15425,
+        "endTime": 17021,
+        "slowStartTime": 23287,
+        "slowEndTime": 25757
+    },
+    {
+        "text": "Are you having any stomach problems?",
+        "startTime": 17297,
+        "endTime": 19199,
+        "slowStartTime": 26095,
+        "slowEndTime": 29024
+    },
+    {
+        "text": "No, my stomach feels fine now, but I had a stomachache yesterday.",
+        "startTime": 19517,
+        "endTime": 24109,
+        "slowStartTime": 29425,
+        "slowEndTime": 36388
+    },
+    {
+        "text": "Right. Let me take a look at your throat.",
+        "startTime": 24579,
+        "endTime": 27377,
+        "slowStartTime": 37018,
+        "slowEndTime": 41290
+    },
+    {
+        "text": "Open up and say \"aahhhh\" please.",
+        "startTime": 27550,
+        "endTime": 29518,
+        "slowStartTime": 41475,
+        "slowEndTime": 44502
+    },
+    {
+        "text": "\"Aaahhhh.\" Ouch!",
+        "startTime": 29871,
+        "endTime": 32507,
+        "slowStartTime": 44956,
+        "slowEndTime": 48986
+    },
+    {
+        "text": "Yes, your throat isn't doing so well.",
+        "startTime": 32837,
+        "endTime": 35191,
+        "slowStartTime": 49405,
+        "slowEndTime": 53011
+    },
+    {
+        "text": "But don't worry, I will give you some medicine to make it better.",
+        "startTime": 35523,
+        "endTime": 38638,
+        "slowStartTime": 53435,
+        "slowEndTime": 58182
+    },
+    {
+        "text": "Thank you, doctor. I'm feeling much better already.",
+        "startTime": 38901,
+        "endTime": 41733,
+        "slowStartTime": 58501,
+        "slowEndTime": 62825
+    }
+]

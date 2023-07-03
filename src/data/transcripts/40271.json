@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Here are expressions you can use for business emails.",
+        "startTime": 247,
+        "endTime": 3447,
+        "slowStartTime": 520,
+        "slowEndTime": 5396
+    },
+    {
+        "text": "To whom it may concern...",
+        "startTime": 5564,
+        "endTime": 7062,
+        "slowStartTime": 8496,
+        "slowEndTime": 10818
+    },
+    {
+        "text": "I'm writing today regarding...",
+        "startTime": 9009,
+        "endTime": 10724,
+        "slowStartTime": 13664,
+        "slowEndTime": 16311
+    },
+    {
+        "text": "Would you be available...?",
+        "startTime": 12559,
+        "endTime": 13829,
+        "slowStartTime": 18989,
+        "slowEndTime": 20968
+    },
+    {
+        "text": "Would it be possible for you to...?",
+        "startTime": 15772,
+        "endTime": 17745,
+        "slowStartTime": 23808,
+        "slowEndTime": 26843
+    },
+    {
+        "text": "We'd like to request...",
+        "startTime": 19664,
+        "endTime": 21105,
+        "slowStartTime": 29646,
+        "slowEndTime": 31883
+    },
+    {
+        "text": "We'd like to inquire about...",
+        "startTime": 23004,
+        "endTime": 24563,
+        "slowStartTime": 34656,
+        "slowEndTime": 37070
+    },
+    {
+        "text": "If you could be so kind as to...",
+        "startTime": 26546,
+        "endTime": 28847,
+        "slowStartTime": 39969,
+        "slowEndTime": 43495
+    },
+    {
+        "text": "I look forward to hearing from you again soon.",
+        "startTime": 30706,
+        "endTime": 32982,
+        "slowStartTime": 46209,
+        "slowEndTime": 49698
+    },
+    {
+        "text": "I look forward to working with you.",
+        "startTime": 34941,
+        "endTime": 36690,
+        "slowStartTime": 52562,
+        "slowEndTime": 55260
+    },
+    {
+        "text": "Sincerely,...",
+        "startTime": 38714,
+        "endTime": 39515,
+        "slowStartTime": 58221,
+        "slowEndTime": 59497
+    }
+]

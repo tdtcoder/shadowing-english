@@ -1,0 +1,44 @@
+[
+    {
+        "text": "I really like to ride Ronald's little red car.",
+        "startTime": 368,
+        "endTime": 3489,
+        "slowStartTime": 702,
+        "slowEndTime": 5458
+    },
+    {
+        "text": "Lawrence threw three blue rocks at the wall.",
+        "startTime": 6171,
+        "endTime": 8919,
+        "slowStartTime": 9407,
+        "slowEndTime": 13604
+    },
+    {
+        "text": "The rustling leaves of the eerie tree frighten Lola.",
+        "startTime": 11389,
+        "endTime": 15181,
+        "slowStartTime": 17234,
+        "slowEndTime": 22997
+    },
+    {
+        "text": "The brown train on the black railroad is very large.",
+        "startTime": 18001,
+        "endTime": 21545,
+        "slowStartTime": 27152,
+        "slowEndTime": 32543
+    },
+    {
+        "text": "Thirty-three runners rapidly raced around a large boulder.",
+        "startTime": 24841,
+        "endTime": 28810,
+        "slowStartTime": 37411,
+        "slowEndTime": 43440
+    },
+    {
+        "text": "Fleas flock the fluffy fur of the hairy retriever.",
+        "startTime": 31210,
+        "endTime": 34233,
+        "slowStartTime": 46965,
+        "slowEndTime": 51574
+    }
+]

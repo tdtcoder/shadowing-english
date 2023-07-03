@@ -1,0 +1,65 @@
+[
+    {
+        "text": "The word \"These\" tells us about two or more close things.",
+        "startTime": 121,
+        "endTime": 4679,
+        "slowStartTime": 331,
+        "slowEndTime": 7244
+    },
+    {
+        "text": "These are animals.",
+        "startTime": 6371,
+        "endTime": 7683,
+        "slowStartTime": 9707,
+        "slowEndTime": 11749
+    },
+    {
+        "text": "These are potatoes.",
+        "startTime": 9356,
+        "endTime": 11155,
+        "slowStartTime": 14184,
+        "slowEndTime": 16957
+    },
+    {
+        "text": "These animals are wolves.",
+        "startTime": 12951,
+        "endTime": 14887,
+        "slowStartTime": 19576,
+        "slowEndTime": 22556
+    },
+    {
+        "text": "These things are potatoes.",
+        "startTime": 16581,
+        "endTime": 18445,
+        "slowStartTime": 25022,
+        "slowEndTime": 27892
+    },
+    {
+        "text": "The word \"Those\" tells us about two or more things far away.",
+        "startTime": 20273,
+        "endTime": 24841,
+        "slowStartTime": 30560,
+        "slowEndTime": 37486
+    },
+    {
+        "text": "Those are animals.",
+        "startTime": 26633,
+        "endTime": 28138,
+        "slowStartTime": 40100,
+        "slowEndTime": 42432
+    },
+    {
+        "text": "Those animals are penguins.",
+        "startTime": 29900,
+        "endTime": 31671,
+        "slowStartTime": 45000,
+        "slowEndTime": 47732
+    },
+    {
+        "text": "Those places are stores.",
+        "startTime": 33344,
+        "endTime": 35391,
+        "slowStartTime": 50166,
+        "slowEndTime": 53312
+    }
+]

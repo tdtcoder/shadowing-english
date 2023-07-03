@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Hi, Sam. I was just calling to let you know my meeting at work finished on time...",
+        "startTime": 2230,
+        "endTime": 7040,
+        "slowStartTime": 3420,
+        "slowEndTime": 10630
+    },
+    {
+        "text": "...and I'll be leaving the office soon.",
+        "startTime": 7140,
+        "endTime": 9070,
+        "slowStartTime": 10850,
+        "slowEndTime": 13575
+    },
+    {
+        "text": "Unfortunately, a problem arose here, so I won't be able to leave for a while.",
+        "startTime": 9440,
+        "endTime": 13810,
+        "slowStartTime": 14235,
+        "slowEndTime": 20790
+    },
+    {
+        "text": "In addition, we are facing a big deadline coming up Friday,...",
+        "startTime": 14210,
+        "endTime": 17780,
+        "slowStartTime": 21415,
+        "slowEndTime": 26735
+    },
+    {
+        "text": "...so my boss wants to have a meeting tonight to tackle the root of the problem.",
+        "startTime": 18020,
+        "endTime": 22220,
+        "slowStartTime": 27125,
+        "slowEndTime": 33370
+    },
+    {
+        "text": "Then, we'll have to postpone tonight's plans with Diane and her boyfriend.",
+        "startTime": 22660,
+        "endTime": 26220,
+        "slowStartTime": 34070,
+        "slowEndTime": 39375
+    },
+    {
+        "text": "Yeah, it might be better just to reschedule with Diane for next week.",
+        "startTime": 26390,
+        "endTime": 30360,
+        "slowStartTime": 39670,
+        "slowEndTime": 45525
+    },
+    {
+        "text": "I anticipate this problem will take a few days of working overtime to deal with.",
+        "startTime": 30790,
+        "endTime": 35130,
+        "slowStartTime": 46320,
+        "slowEndTime": 52700
+    }
+]

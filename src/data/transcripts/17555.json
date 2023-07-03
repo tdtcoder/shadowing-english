@@ -1,0 +1,79 @@
+[
+    {
+        "text": "I don't know where to have a birthday party for Sam.",
+        "startTime": 2788,
+        "endTime": 6273,
+        "slowStartTime": 4332,
+        "slowEndTime": 9634
+    },
+    {
+        "text": "You had better ask him where he wants to go.",
+        "startTime": 7647,
+        "endTime": 10579,
+        "slowStartTime": 11620,
+        "slowEndTime": 16094
+    },
+    {
+        "text": "That's a good idea.",
+        "startTime": 11482,
+        "endTime": 13005,
+        "slowStartTime": 17373,
+        "slowEndTime": 19733
+    },
+    {
+        "text": "Do you know what we should eat to celebrate Thanksgiving?",
+        "startTime": 15636,
+        "endTime": 19197,
+        "slowStartTime": 23604,
+        "slowEndTime": 29020
+    },
+    {
+        "text": "I don't know what to eat.",
+        "startTime": 20574,
+        "endTime": 22067,
+        "slowStartTime": 31011,
+        "slowEndTime": 33325
+    },
+    {
+        "text": "We'd better ask mom. She knows everything!",
+        "startTime": 22473,
+        "endTime": 25803,
+        "slowStartTime": 33859,
+        "slowEndTime": 38930
+    },
+    {
+        "text": "No way. We'd better not bother her now.",
+        "startTime": 26836,
+        "endTime": 30142,
+        "slowStartTime": 40404,
+        "slowEndTime": 45438
+    },
+    {
+        "text": "She is busy taking care of the twin babies.",
+        "startTime": 30564,
+        "endTime": 33906,
+        "slowStartTime": 45996,
+        "slowEndTime": 51084
+    },
+    {
+        "text": "Mom, can I play outside?",
+        "startTime": 36815,
+        "endTime": 38561,
+        "slowStartTime": 55373,
+        "slowEndTime": 58066
+    },
+    {
+        "text": "No, you'd better not play outside after 7.",
+        "startTime": 39789,
+        "endTime": 43247,
+        "slowStartTime": 59834,
+        "slowEndTime": 65095
+    },
+    {
+        "text": "You can watch cartoons on TV instead.",
+        "startTime": 43779,
+        "endTime": 46360,
+        "slowStartTime": 65819,
+        "slowEndTime": 69765
+    }
+]

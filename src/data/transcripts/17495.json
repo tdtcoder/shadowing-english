@@ -1,0 +1,275 @@
+[
+    {
+        "text": "I like being healthy.",
+        "startTime": 2599,
+        "endTime": 4142,
+        "slowStartTime": 4048,
+        "slowEndTime": 6438
+    },
+    {
+        "text": "When I am healthy, I feel good.",
+        "startTime": 5175,
+        "endTime": 7420,
+        "slowStartTime": 7913,
+        "slowEndTime": 11355
+    },
+    {
+        "text": "I am in a better mood, and I have more energy.",
+        "startTime": 8519,
+        "endTime": 12249,
+        "slowStartTime": 12929,
+        "slowEndTime": 18599
+    },
+    {
+        "text": "I do many things to stay healthy.",
+        "startTime": 13357,
+        "endTime": 15689,
+        "slowStartTime": 20185,
+        "slowEndTime": 23758
+    },
+    {
+        "text": "I like to be active and move my body.",
+        "startTime": 16771,
+        "endTime": 19323,
+        "slowStartTime": 25306,
+        "slowEndTime": 29209
+    },
+    {
+        "text": "I run, swim, and ride my bike.",
+        "startTime": 20419,
+        "endTime": 23444,
+        "slowStartTime": 30778,
+        "slowEndTime": 35391
+    },
+    {
+        "text": "I take walks with my big brother, Bill, and our dog, Wilbur.",
+        "startTime": 24478,
+        "endTime": 28811,
+        "slowStartTime": 36867,
+        "slowEndTime": 43442
+    },
+    {
+        "text": "I like to play sports.",
+        "startTime": 29805,
+        "endTime": 31425,
+        "slowStartTime": 44858,
+        "slowEndTime": 47362
+    },
+    {
+        "text": "Soccer is my favorite game.",
+        "startTime": 32479,
+        "endTime": 34458,
+        "slowStartTime": 48869,
+        "slowEndTime": 51912
+    },
+    {
+        "text": "I also take hikes in the woods with my family.",
+        "startTime": 35520,
+        "endTime": 38461,
+        "slowStartTime": 53430,
+        "slowEndTime": 57917
+    },
+    {
+        "text": "I like television, but I don't watch it for hours.",
+        "startTime": 39558,
+        "endTime": 43148,
+        "slowStartTime": 59487,
+        "slowEndTime": 64947
+    },
+    {
+        "text": "I like computer games, but I don't play them for hours.",
+        "startTime": 44206,
+        "endTime": 48033,
+        "slowStartTime": 66459,
+        "slowEndTime": 72274
+    },
+    {
+        "text": "I get up and move around.",
+        "startTime": 49109,
+        "endTime": 50895,
+        "slowStartTime": 73813,
+        "slowEndTime": 76568
+    },
+    {
+        "text": "Eating well gives me energy.",
+        "startTime": 51964,
+        "endTime": 53946,
+        "slowStartTime": 78096,
+        "slowEndTime": 81144
+    },
+    {
+        "text": "I eat a good breakfast.",
+        "startTime": 54976,
+        "endTime": 56958,
+        "slowStartTime": 82614,
+        "slowEndTime": 85662
+    },
+    {
+        "text": "If I skip breakfast, I don't think very well.",
+        "startTime": 58037,
+        "endTime": 61275,
+        "slowStartTime": 87205,
+        "slowEndTime": 92137
+    },
+    {
+        "text": "I eat a good lunch at school.",
+        "startTime": 62302,
+        "endTime": 64481,
+        "slowStartTime": 93603,
+        "slowEndTime": 96946
+    },
+    {
+        "text": "Peanut butter and jelly is my favorite sandwich.",
+        "startTime": 65407,
+        "endTime": 68687,
+        "slowStartTime": 98260,
+        "slowEndTime": 103255
+    },
+    {
+        "text": "I drink lots of milk and water.",
+        "startTime": 69679,
+        "endTime": 71973,
+        "slowStartTime": 104669,
+        "slowEndTime": 108184
+    },
+    {
+        "text": "My favorite food is pizza.",
+        "startTime": 73015,
+        "endTime": 75172,
+        "slowStartTime": 109672,
+        "slowEndTime": 112983
+    },
+    {
+        "text": "I also like healthy foods such as apples, carrots, chicken, and yogurt.",
+        "startTime": 76269,
+        "endTime": 81710,
+        "slowStartTime": 114553,
+        "slowEndTime": 122790
+    },
+    {
+        "text": "I get plenty of rest.",
+        "startTime": 82842,
+        "endTime": 84489,
+        "slowStartTime": 124413,
+        "slowEndTime": 126958
+    },
+    {
+        "text": "I go to bed early on school days.",
+        "startTime": 85561,
+        "endTime": 88037,
+        "slowStartTime": 128491,
+        "slowEndTime": 132281
+    },
+    {
+        "text": "And I get up earlier on school days.",
+        "startTime": 89101,
+        "endTime": 91385,
+        "slowStartTime": 133802,
+        "slowEndTime": 137303
+    },
+    {
+        "text": "My dad says I need 11 to 12 hours of sleep each day because I am growing.",
+        "startTime": 92535,
+        "endTime": 98654,
+        "slowStartTime": 138953,
+        "slowEndTime": 148206
+    },
+    {
+        "text": "I keep my body clean to stay healthy.",
+        "startTime": 99728,
+        "endTime": 102520,
+        "slowStartTime": 149742,
+        "slowEndTime": 154005
+    },
+    {
+        "text": "I wash my hands before eating and after going to the restroom.",
+        "startTime": 103576,
+        "endTime": 108344,
+        "slowStartTime": 155514,
+        "slowEndTime": 162741
+    },
+    {
+        "text": "Washing keeps germs from getting into my body.",
+        "startTime": 109381,
+        "endTime": 112854,
+        "slowStartTime": 164222,
+        "slowEndTime": 169506
+    },
+    {
+        "text": "I brush my teeth three times a day.",
+        "startTime": 113872,
+        "endTime": 116509,
+        "slowStartTime": 170958,
+        "slowEndTime": 174989
+    },
+    {
+        "text": "Brushing kills germs that cause cavities.",
+        "startTime": 117557,
+        "endTime": 120444,
+        "slowStartTime": 176485,
+        "slowEndTime": 180891
+    },
+    {
+        "text": "I also take baths and showers.",
+        "startTime": 121415,
+        "endTime": 123576,
+        "slowStartTime": 182273,
+        "slowEndTime": 185589
+    },
+    {
+        "text": "And I brush my hair to keep it healthy.",
+        "startTime": 124635,
+        "endTime": 127421,
+        "slowStartTime": 187102,
+        "slowEndTime": 191356
+    },
+    {
+        "text": "I have many kinds of feelings.",
+        "startTime": 128497,
+        "endTime": 130678,
+        "slowStartTime": 192896,
+        "slowEndTime": 196242
+    },
+    {
+        "text": "Some are happy, and some are sad.",
+        "startTime": 131752,
+        "endTime": 134158,
+        "slowStartTime": 197778,
+        "slowEndTime": 201462
+    },
+    {
+        "text": "Laughing makes me feel better.",
+        "startTime": 135183,
+        "endTime": 137386,
+        "slowStartTime": 202924,
+        "slowEndTime": 206304
+    },
+    {
+        "text": "When I have sad feelings, I feel better when I talk about them with Bill, Mom, or Dad.",
+        "startTime": 138497,
+        "endTime": 144953,
+        "slowStartTime": 207895,
+        "slowEndTime": 217654
+    },
+    {
+        "text": "Sometimes I like quiet time.",
+        "startTime": 146016,
+        "endTime": 148309,
+        "slowStartTime": 219174,
+        "slowEndTime": 222688
+    },
+    {
+        "text": "When I do, I watch my tropical fish.",
+        "startTime": 149315,
+        "endTime": 152281,
+        "slowStartTime": 224122,
+        "slowEndTime": 228647
+    },
+    {
+        "text": "I imagine that I am floating through water just like my pet fish.",
+        "startTime": 153319,
+        "endTime": 158568,
+        "slowStartTime": 230129,
+        "slowEndTime": 238077
+    }
+]

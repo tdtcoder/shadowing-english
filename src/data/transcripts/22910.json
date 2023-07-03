@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Synonym for feline, three letters, starts with C.",
+        "startTime": 1193,
+        "endTime": 5363,
+        "slowStartTime": 1939,
+        "slowEndTime": 8270
+    },
+    {
+        "text": "What's a synonym?",
+        "startTime": 8013,
+        "endTime": 9178,
+        "slowStartTime": 12169,
+        "slowEndTime": 13992
+    },
+    {
+        "text": "I think it's a spice that you put on porridge.",
+        "startTime": 9650,
+        "endTime": 12615,
+        "slowStartTime": 14625,
+        "slowEndTime": 19148
+    },
+    {
+        "text": "Oh, porridge.",
+        "startTime": 12973,
+        "endTime": 14402,
+        "slowStartTime": 19610,
+        "slowEndTime": 21828
+    },
+    {
+        "text": "P - O. No, that's not gonna fit.",
+        "startTime": 14933,
+        "endTime": 20117,
+        "slowStartTime": 22550,
+        "slowEndTime": 30401
+    },
+    {
+        "text": "I hope we're sitting next to each other.",
+        "startTime": 25381,
+        "endTime": 28118,
+        "slowStartTime": 38221,
+        "slowEndTime": 42402
+    },
+    {
+        "text": "Me too.",
+        "startTime": 28470,
+        "endTime": 29330,
+        "slowStartTime": 42855,
+        "slowEndTime": 44220
+    }
+]

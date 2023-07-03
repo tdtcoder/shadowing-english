@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Let's read this storybook. Can you find a bear?",
+        "startTime": 1515,
+        "endTime": 4919,
+        "slowStartTime": 2422,
+        "slowEndTime": 7603
+    },
+    {
+        "text": "Yes, Dad. Look at this! A bear goes into the tunnel.",
+        "startTime": 6018,
+        "endTime": 10421,
+        "slowStartTime": 9177,
+        "slowEndTime": 15857
+    },
+    {
+        "text": "Then, can you find boys?",
+        "startTime": 11391,
+        "endTime": 13303,
+        "slowStartTime": 17236,
+        "slowEndTime": 20180
+    },
+    {
+        "text": "I see a boy coming out of the tunnel.",
+        "startTime": 14331,
+        "endTime": 16938,
+        "slowStartTime": 21646,
+        "slowEndTime": 25632
+    },
+    {
+        "text": "And there is another boy that goes through the forest.",
+        "startTime": 17538,
+        "endTime": 20703,
+        "slowStartTime": 26457,
+        "slowEndTime": 31279
+    },
+    {
+        "text": "Where are rabbits? Can you find them?",
+        "startTime": 21723,
+        "endTime": 24367,
+        "slowStartTime": 32735,
+        "slowEndTime": 36775
+    },
+    {
+        "text": "Yes, I see a rabbit that goes over the hill.",
+        "startTime": 25387,
+        "endTime": 29153,
+        "slowStartTime": 38230,
+        "slowEndTime": 43954
+    },
+    {
+        "text": "Good. And I see another one that goes around the corner!",
+        "startTime": 30231,
+        "endTime": 34583,
+        "slowStartTime": 45496,
+        "slowEndTime": 52100
+    },
+    {
+        "text": "Roads, roads, roads, roads go everywhere.",
+        "startTime": 40986,
+        "endTime": 44149,
+        "slowStartTime": 61629,
+        "slowEndTime": 66449
+    },
+    {
+        "text": "I see a road going around corners, and it winds around.",
+        "startTime": 44721,
+        "endTime": 50979,
+        "slowStartTime": 67232,
+        "slowEndTime": 76694
+    },
+    {
+        "text": "Roads go through the country, and they go to big cities.",
+        "startTime": 52219,
+        "endTime": 59090,
+        "slowStartTime": 78479,
+        "slowEndTime": 88860
+    },
+    {
+        "text": "I see a road going up and down the hill like a roller coaster.",
+        "startTime": 59739,
+        "endTime": 65531,
+        "slowStartTime": 89758,
+        "slowEndTime": 98521
+    },
+    {
+        "text": "Roads go over mountains, and they go through forests.",
+        "startTime": 67210,
+        "endTime": 73745,
+        "slowStartTime": 100965,
+        "slowEndTime": 110843
+    },
+    {
+        "text": "I see a road going into and coming out of the tunnel.",
+        "startTime": 74742,
+        "endTime": 81005,
+        "slowStartTime": 112263,
+        "slowEndTime": 121733
+    },
+    {
+        "text": "Roads cross over rivers, and they are on bridges.",
+        "startTime": 82177,
+        "endTime": 88633,
+        "slowStartTime": 123416,
+        "slowEndTime": 133175
+    },
+    {
+        "text": "I see a road that just stops. Wow, it is a dead end.",
+        "startTime": 89737,
+        "endTime": 96358,
+        "slowStartTime": 134755,
+        "slowEndTime": 144762
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Melbourne has been the most livable city in the world for the past seven years.",
+        "startTime": 4646,
+        "endTime": 9283,
+        "slowStartTime": 7119,
+        "slowEndTime": 14150
+    },
+    {
+        "text": "But this year it lost the top spot to Vienna.",
+        "startTime": 9662,
+        "endTime": 13668,
+        "slowStartTime": 14643,
+        "slowEndTime": 20727
+    },
+    {
+        "text": "Home to Strauss and Schubert and famous for its coffee houses,...",
+        "startTime": 14483,
+        "endTime": 17993,
+        "slowStartTime": 21874,
+        "slowEndTime": 27214
+    },
+    {
+        "text": "...Vienna scored an almost perfect 99.1%.",
+        "startTime": 18309,
+        "endTime": 22525,
+        "slowStartTime": 27613,
+        "slowEndTime": 34013
+    },
+    {
+        "text": "But what makes a city livable?",
+        "startTime": 26709,
+        "endTime": 28531,
+        "slowStartTime": 40214,
+        "slowEndTime": 43021
+    },
+    {
+        "text": "The Economist Intelligence Unit has been analyzing this.",
+        "startTime": 29723,
+        "endTime": 32831,
+        "slowStartTime": 44735,
+        "slowEndTime": 49471
+    },
+    {
+        "text": "It has ranked 140 cities according to stability, education,...",
+        "startTime": 33625,
+        "endTime": 38901,
+        "slowStartTime": 50588,
+        "slowEndTime": 58576
+    },
+    {
+        "text": "...healthcare, infrastructure, and culture and environment.",
+        "startTime": 39224,
+        "endTime": 42965,
+        "slowStartTime": 58986,
+        "slowEndTime": 64673
+    },
+    {
+        "text": "Most livable cities tend to be midsized in wealthy countries...",
+        "startTime": 44321,
+        "endTime": 48554,
+        "slowStartTime": 66632,
+        "slowEndTime": 73056
+    },
+    {
+        "text": "...and with low population densities.",
+        "startTime": 48705,
+        "endTime": 50897,
+        "slowStartTime": 73208,
+        "slowEndTime": 76570
+    },
+    {
+        "text": "Copenhagen is the only other European city in the top 10.",
+        "startTime": 53029,
+        "endTime": 56841,
+        "slowStartTime": 79694,
+        "slowEndTime": 85486
+    },
+    {
+        "text": "Australia and Canada each have three cities and Japan two.",
+        "startTime": 57242,
+        "endTime": 61310,
+        "slowStartTime": 86013,
+        "slowEndTime": 92190
+    },
+    {
+        "text": "Western Europe and North America are the most livable regions in the world.",
+        "startTime": 63107,
+        "endTime": 67329,
+        "slowStartTime": 94811,
+        "slowEndTime": 101219
+    },
+    {
+        "text": "The Middle East and Africa the least.",
+        "startTime": 67709,
+        "endTime": 69888,
+        "slowStartTime": 101714,
+        "slowEndTime": 105057
+    },
+    {
+        "text": "While Asia and Australasia...",
+        "startTime": 70505,
+        "endTime": 72191,
+        "slowStartTime": 105907,
+        "slowEndTime": 108511
+    },
+    {
+        "text": "...are home to some of the world's most livable and unlivable cities.",
+        "startTime": 72294,
+        "endTime": 76145,
+        "slowStartTime": 108591,
+        "slowEndTime": 114442
+    }
+]

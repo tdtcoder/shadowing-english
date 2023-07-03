@@ -1,0 +1,205 @@
+[
+    {
+        "text": "People always wanna drag-and-drop files directly from their desktop into Web applications.",
+        "startTime": 150,
+        "endTime": 4900,
+        "slowStartTime": 400,
+        "slowEndTime": 7500
+    },
+    {
+        "text": "With Wave, you can!",
+        "startTime": 5150,
+        "endTime": 6400,
+        "slowStartTime": 8000,
+        "slowEndTime": 9800
+    },
+    {
+        "text": "Watch as Stephanie creates a new Wave...",
+        "startTime": 7450,
+        "endTime": 9500,
+        "slowStartTime": 11400,
+        "slowEndTime": 14500
+    },
+    {
+        "text": "...and then, drag-and-drops a bunch of photos from iPhoto directly into Wave.",
+        "startTime": 10050,
+        "endTime": 14500,
+        "slowStartTime": 15400,
+        "slowEndTime": 21900
+    },
+    {
+        "text": "Thumbnails will appear on my machine as soon as they start uploading on hers.",
+        "startTime": 15500,
+        "endTime": 19700,
+        "slowStartTime": 23400,
+        "slowEndTime": 29700
+    },
+    {
+        "text": "I can then drag-and-drop photos from my machine directly into the Wave as well.",
+        "startTime": 20150,
+        "endTime": 24200,
+        "slowStartTime": 30500,
+        "slowEndTime": 36500
+    },
+    {
+        "text": "You can see at the bottom of the screen there's an images menu.",
+        "startTime": 25150,
+        "endTime": 28400,
+        "slowStartTime": 38000,
+        "slowEndTime": 42900
+    },
+    {
+        "text": "This menu allows you to operate on all of the images in the Wave...",
+        "startTime": 28550,
+        "endTime": 32200,
+        "slowStartTime": 43100,
+        "slowEndTime": 48600
+    },
+    {
+        "text": "...not just the images you added.",
+        "startTime": 32250,
+        "endTime": 33950,
+        "slowStartTime": 48600,
+        "slowEndTime": 51200
+    },
+    {
+        "text": "This is an easy and convenient way to make a collaborative photo album using Wave.",
+        "startTime": 34300,
+        "endTime": 38550,
+        "slowStartTime": 51800,
+        "slowEndTime": 58000
+    },
+    {
+        "text": "Now that we have a Wave, with lots of images in it,...",
+        "startTime": 39600,
+        "endTime": 42200,
+        "slowStartTime": 59700,
+        "slowEndTime": 63500
+    },
+    {
+        "text": "...we wanna share it with our friends.",
+        "startTime": 42250,
+        "endTime": 43600,
+        "slowStartTime": 63600,
+        "slowEndTime": 65600
+    },
+    {
+        "text": "Drag our friend, \"Bloggy\" onto the Wave.",
+        "startTime": 44250,
+        "endTime": 46800,
+        "slowStartTime": 66700,
+        "slowEndTime": 70400
+    },
+    {
+        "text": "This will publish the Wave on Steph's blog.",
+        "startTime": 47700,
+        "endTime": 50700,
+        "slowStartTime": 71900,
+        "slowEndTime": 76300
+    },
+    {
+        "text": "Embedding is an easy way to put Waves directly into any website.",
+        "startTime": 51000,
+        "endTime": 54800,
+        "slowStartTime": 76800,
+        "slowEndTime": 82400
+    },
+    {
+        "text": "Much the same way you can do with Maps today.",
+        "startTime": 54900,
+        "endTime": 57500,
+        "slowStartTime": 82600,
+        "slowEndTime": 86400
+    },
+    {
+        "text": "Watch as I go to Steph's blog.",
+        "startTime": 58400,
+        "endTime": 60200,
+        "slowStartTime": 87900,
+        "slowEndTime": 90500
+    },
+    {
+        "text": "You can see on Steph's blog that we embed the whole Wave, not just the images.",
+        "startTime": 61000,
+        "endTime": 65000,
+        "slowStartTime": 91800,
+        "slowEndTime": 97600
+    },
+    {
+        "text": "This includes all of the UI.",
+        "startTime": 65500,
+        "endTime": 67300,
+        "slowStartTime": 98500,
+        "slowEndTime": 101300
+    },
+    {
+        "text": "Watch as I leave a comment.",
+        "startTime": 68000,
+        "endTime": 69550,
+        "slowStartTime": 102300,
+        "slowEndTime": 104500
+    },
+    {
+        "text": "Everything that I type on the blog immediately appears in Steph's Wave client.",
+        "startTime": 70600,
+        "endTime": 75400,
+        "slowStartTime": 106200,
+        "slowEndTime": 113300
+    },
+    {
+        "text": "Steph can respond in her Wave client and her typing immediately appears on the blog.",
+        "startTime": 75450,
+        "endTime": 80000,
+        "slowStartTime": 113400,
+        "slowEndTime": 120200
+    },
+    {
+        "text": "Since I contributed to the blog, the Wave will also show up in my Wave client,...",
+        "startTime": 80600,
+        "endTime": 83700,
+        "slowStartTime": 121200,
+        "slowEndTime": 125800
+    },
+    {
+        "text": "...and we can continue the conversation from there.",
+        "startTime": 83800,
+        "endTime": 85750,
+        "slowStartTime": 126000,
+        "slowEndTime": 128700
+    },
+    {
+        "text": "Embedding Waves is good for developers...",
+        "startTime": 86900,
+        "endTime": 89000,
+        "slowStartTime": 130600,
+        "slowEndTime": 133700
+    },
+    {
+        "text": "...because it allows them to drop a rich, collaborative UI...",
+        "startTime": 89050,
+        "endTime": 91900,
+        "slowStartTime": 133720,
+        "slowEndTime": 138100
+    },
+    {
+        "text": "...into websites with very little code.",
+        "startTime": 92150,
+        "endTime": 94100,
+        "slowStartTime": 138500,
+        "slowEndTime": 141400
+    },
+    {
+        "text": "It's great for users because it allows them to have a consistent UI...",
+        "startTime": 94300,
+        "endTime": 98650,
+        "slowStartTime": 141700,
+        "slowEndTime": 148170
+    },
+    {
+        "text": "...as well as every conversations they care about all in one place.",
+        "startTime": 98700,
+        "endTime": 101900,
+        "slowStartTime": 148350,
+        "slowEndTime": 153100
+    }
+]

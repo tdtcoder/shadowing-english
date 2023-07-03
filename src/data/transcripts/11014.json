@@ -1,0 +1,156 @@
+[
+    {
+        "text": "The inventors of the first airplane were not scientists.",
+        "startTime": 2800,
+        "endTime": 6100,
+        "slowStartTime": 4400,
+        "slowEndTime": 9400
+    },
+    {
+        "text": "In fact, they did not even finish high school!",
+        "startTime": 6450,
+        "endTime": 9050,
+        "slowStartTime": 9850,
+        "slowEndTime": 13800
+    },
+    {
+        "text": "The inventors of the first airplane were just ordinary brothers with a big dream,...",
+        "startTime": 9700,
+        "endTime": 14250,
+        "slowStartTime": 14700,
+        "slowEndTime": 21600
+    },
+    {
+        "text": "...a dream of flying.",
+        "startTime": 14700,
+        "endTime": 16100,
+        "slowStartTime": 22260,
+        "slowEndTime": 24400
+    },
+    {
+        "text": "Wilbur and Orville Wright grew up in Indiana in a large family.",
+        "startTime": 16900,
+        "endTime": 21050,
+        "slowStartTime": 25550,
+        "slowEndTime": 31800
+    },
+    {
+        "text": "Neither of the brothers finished high school.",
+        "startTime": 21750,
+        "endTime": 23750,
+        "slowStartTime": 32750,
+        "slowEndTime": 35900
+    },
+    {
+        "text": "Instead of sitting in class and reading,...",
+        "startTime": 24450,
+        "endTime": 26500,
+        "slowStartTime": 36900,
+        "slowEndTime": 40000
+    },
+    {
+        "text": "...they wanted to work and make things, like machines.",
+        "startTime": 26900,
+        "endTime": 30300,
+        "slowStartTime": 40550,
+        "slowEndTime": 45600
+    },
+    {
+        "text": "When the brothers were 18 and 22 years old,...",
+        "startTime": 31000,
+        "endTime": 33750,
+        "slowStartTime": 46600,
+        "slowEndTime": 50850
+    },
+    {
+        "text": "...they started up their own printing press and bicycle shop.",
+        "startTime": 34150,
+        "endTime": 37200,
+        "slowStartTime": 51400,
+        "slowEndTime": 56000
+    },
+    {
+        "text": "One day, Wilbur read an interesting story in the newspaper...",
+        "startTime": 38100,
+        "endTime": 41750,
+        "slowStartTime": 57300,
+        "slowEndTime": 62850
+    },
+    {
+        "text": "...about a man trying to fly in a glider.",
+        "startTime": 42050,
+        "endTime": 44350,
+        "slowStartTime": 63300,
+        "slowEndTime": 66800
+    },
+    {
+        "text": "The man died, but the story gave Wilbur an idea.",
+        "startTime": 45050,
+        "endTime": 48500,
+        "slowStartTime": 67800,
+        "slowEndTime": 73000
+    },
+    {
+        "text": "He decided to teach himself about flying in order to make the perfect glider.",
+        "startTime": 49250,
+        "endTime": 53600,
+        "slowStartTime": 74000,
+        "slowEndTime": 80600
+    },
+    {
+        "text": "Together, Orville and Wilbur successfully tested their new glider on the beach.",
+        "startTime": 54300,
+        "endTime": 59000,
+        "slowStartTime": 81600,
+        "slowEndTime": 88750
+    },
+    {
+        "text": "Then, the brothers decided to make their glider into a flying machine.",
+        "startTime": 59650,
+        "endTime": 63450,
+        "slowStartTime": 89650,
+        "slowEndTime": 95400
+    },
+    {
+        "text": "They put an engine and propeller on the glider, and called their new machine the \"Wright Flyer\".",
+        "startTime": 64150,
+        "endTime": 69700,
+        "slowStartTime": 96400,
+        "slowEndTime": 104850
+    },
+    {
+        "text": "The plane broke down on its first test, but the Wright brothers didn't give up.",
+        "startTime": 70500,
+        "endTime": 74800,
+        "slowStartTime": 105950,
+        "slowEndTime": 112450
+    },
+    {
+        "text": "With a little more hard work, the \"Wright Flyer\" made a successful flight!",
+        "startTime": 75450,
+        "endTime": 79600,
+        "slowStartTime": 113400,
+        "slowEndTime": 119670
+    },
+    {
+        "text": "On December 17th 1903, the Wright brothers made history...",
+        "startTime": 80100,
+        "endTime": 84450,
+        "slowStartTime": 120350,
+        "slowEndTime": 126950
+    },
+    {
+        "text": "...by flying the \"Wright Flyer\" over the beach at Kitty Hawk, North Carolina.",
+        "startTime": 84750,
+        "endTime": 89000,
+        "slowStartTime": 127300,
+        "slowEndTime": 133750
+    },
+    {
+        "text": "The airplane was born.",
+        "startTime": 89650,
+        "endTime": 91200,
+        "slowStartTime": 134700,
+        "slowEndTime": 137000
+    }
+]

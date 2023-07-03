@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Are you going to in-line skate in the park?",
+        "startTime": 2955,
+        "endTime": 6211,
+        "slowStartTime": 4582,
+        "slowEndTime": 9542
+    },
+    {
+        "text": "No, I can't go in-line skating because I have a cold.",
+        "startTime": 7344,
+        "endTime": 11494,
+        "slowStartTime": 11166,
+        "slowEndTime": 17466
+    },
+    {
+        "text": "Instead of in-line skating, I'm going to read scary stories at home.",
+        "startTime": 11939,
+        "endTime": 16589,
+        "slowStartTime": 18059,
+        "slowEndTime": 25109
+    },
+    {
+        "text": "Why don't we go to the beach?",
+        "startTime": 19655,
+        "endTime": 21683,
+        "slowStartTime": 29633,
+        "slowEndTime": 32750
+    },
+    {
+        "text": "I will gather shells to make sand castles.",
+        "startTime": 22107,
+        "endTime": 25266,
+        "slowStartTime": 33310,
+        "slowEndTime": 38124
+    },
+    {
+        "text": "My mom is busy. So I have to help her clean the house.",
+        "startTime": 26447,
+        "endTime": 30185,
+        "slowStartTime": 39821,
+        "slowEndTime": 45502
+    },
+    {
+        "text": "What are you going to do this weekend?",
+        "startTime": 33263,
+        "endTime": 35462,
+        "slowStartTime": 50044,
+        "slowEndTime": 53418
+    },
+    {
+        "text": "I will visit my grandma to celebrate her 60th birthday.",
+        "startTime": 36618,
+        "endTime": 40479,
+        "slowStartTime": 55077,
+        "slowEndTime": 60943
+    },
+    {
+        "text": "What about you?",
+        "startTime": 40757,
+        "endTime": 41805,
+        "slowStartTime": 61285,
+        "slowEndTime": 62932
+    },
+    {
+        "text": "I have to take care of my brother because he is sick in bed.",
+        "startTime": 42901,
+        "endTime": 47453,
+        "slowStartTime": 64501,
+        "slowEndTime": 71405
+    }
+]

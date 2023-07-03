@@ -1,0 +1,184 @@
+[
+    {
+        "text": "Hello, Kim!",
+        "startTime": 231,
+        "endTime": 1086,
+        "slowStartTime": 496,
+        "slowEndTime": 1854
+    },
+    {
+        "text": "Good morning, Ray!",
+        "startTime": 1459,
+        "endTime": 2524,
+        "slowStartTime": 2339,
+        "slowEndTime": 4011
+    },
+    {
+        "text": "Oh, I'm sorry.",
+        "startTime": 3097,
+        "endTime": 4615,
+        "slowStartTime": 4795,
+        "slowEndTime": 7147
+    },
+    {
+        "text": "I mean, Jay!",
+        "startTime": 5223,
+        "endTime": 6343,
+        "slowStartTime": 7984,
+        "slowEndTime": 9740
+    },
+    {
+        "text": "So, tell us about yourself.",
+        "startTime": 7017,
+        "endTime": 9197,
+        "slowStartTime": 10676,
+        "slowEndTime": 14021
+    },
+    {
+        "text": "Where are you from?",
+        "startTime": 9788,
+        "endTime": 11019,
+        "slowStartTime": 14832,
+        "slowEndTime": 16754
+    },
+    {
+        "text": "No, wait!",
+        "startTime": 11473,
+        "endTime": 11969,
+        "slowStartTime": 17360,
+        "slowEndTime": 18178
+    },
+    {
+        "text": "Let me guess... I'm very good at this.",
+        "startTime": 12597,
+        "endTime": 15653,
+        "slowStartTime": 19045,
+        "slowEndTime": 23704
+    },
+    {
+        "text": "Okay.",
+        "startTime": 16009,
+        "endTime": 17029,
+        "slowStartTime": 24164,
+        "slowEndTime": 25768
+    },
+    {
+        "text": "Are you from Canada?",
+        "startTime": 18334,
+        "endTime": 20288,
+        "slowStartTime": 27651,
+        "slowEndTime": 30657
+    },
+    {
+        "text": "Are you Canadian?",
+        "startTime": 20608,
+        "endTime": 21823,
+        "slowStartTime": 31062,
+        "slowEndTime": 32960
+    },
+    {
+        "text": "No, I'm not.",
+        "startTime": 22278,
+        "endTime": 23637,
+        "slowStartTime": 33567,
+        "slowEndTime": 35680
+    },
+    {
+        "text": "I'm...",
+        "startTime": 24085,
+        "endTime": 24461,
+        "slowStartTime": 36277,
+        "slowEndTime": 36916
+    },
+    {
+        "text": "No, wait!",
+        "startTime": 24593,
+        "endTime": 25075,
+        "slowStartTime": 37039,
+        "slowEndTime": 37837
+    },
+    {
+        "text": "I'm still guessing.",
+        "startTime": 25317,
+        "endTime": 26593,
+        "slowStartTime": 38126,
+        "slowEndTime": 40115
+    },
+    {
+        "text": "Are you from Brazil?",
+        "startTime": 28007,
+        "endTime": 29646,
+        "slowStartTime": 42161,
+        "slowEndTime": 44694
+    },
+    {
+        "text": "Brazil is a beautiful country.",
+        "startTime": 30054,
+        "endTime": 32800,
+        "slowStartTime": 45231,
+        "slowEndTime": 49425
+    },
+    {
+        "text": "Yes, it is.",
+        "startTime": 33036,
+        "endTime": 34505,
+        "slowStartTime": 49704,
+        "slowEndTime": 51982
+    },
+    {
+        "text": "But no!",
+        "startTime": 34759,
+        "endTime": 35634,
+        "slowStartTime": 52289,
+        "slowEndTime": 53676
+    },
+    {
+        "text": "I'm not Brazilian.",
+        "startTime": 35899,
+        "endTime": 37254,
+        "slowStartTime": 53998,
+        "slowEndTime": 56106
+    },
+    {
+        "text": "Hmmm, Kemal Kim...",
+        "startTime": 37442,
+        "endTime": 40251,
+        "slowStartTime": 56313,
+        "slowEndTime": 60602
+    },
+    {
+        "text": "I know.",
+        "startTime": 40653,
+        "endTime": 41240,
+        "slowStartTime": 61130,
+        "slowEndTime": 62085
+    },
+    {
+        "text": "Are you from Turkey?",
+        "startTime": 41621,
+        "endTime": 43417,
+        "slowStartTime": 62582,
+        "slowEndTime": 65351
+    },
+    {
+        "text": "No, I'm not from Turkey.",
+        "startTime": 45175,
+        "endTime": 47035,
+        "slowStartTime": 67912,
+        "slowEndTime": 70777
+    },
+    {
+        "text": "I'm from Jamaica.",
+        "startTime": 47487,
+        "endTime": 48722,
+        "slowStartTime": 71381,
+        "slowEndTime": 73308
+    },
+    {
+        "text": "Jamaica!",
+        "startTime": 48805,
+        "endTime": 50487,
+        "slowStartTime": 73358,
+        "slowEndTime": 75955
+    }
+]

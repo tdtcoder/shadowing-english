@@ -1,0 +1,51 @@
+[
+    {
+        "text": "This summer,...",
+        "startTime": 14730,
+        "endTime": 15650,
+        "slowStartTime": 22250,
+        "slowEndTime": 23700
+    },
+    {
+        "text": "...enter the world...",
+        "startTime": 19300,
+        "endTime": 20530,
+        "slowStartTime": 29100,
+        "slowEndTime": 31020
+    },
+    {
+        "text": "...of the barbarian.",
+        "startTime": 23430,
+        "endTime": 24860,
+        "slowStartTime": 35290,
+        "slowEndTime": 37520
+    },
+    {
+        "text": "You are no knight, you are not even a noble.",
+        "startTime": 31920,
+        "endTime": 34030,
+        "slowStartTime": 48030,
+        "slowEndTime": 51270
+    },
+    {
+        "text": "I care not.",
+        "startTime": 34830,
+        "endTime": 35620,
+        "slowStartTime": 52390,
+        "slowEndTime": 53650
+    },
+    {
+        "text": "I live, I love, I slay,...",
+        "startTime": 35860,
+        "endTime": 38650,
+        "slowStartTime": 53940,
+        "slowEndTime": 58210
+    },
+    {
+        "text": "...and I'm content.",
+        "startTime": 39090,
+        "endTime": 40160,
+        "slowStartTime": 58790,
+        "slowEndTime": 60470
+    }
+]

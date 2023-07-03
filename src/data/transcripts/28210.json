@@ -1,0 +1,37 @@
+[
+    {
+        "text": "﻿Zero plus one equals one.",
+        "startTime": 4844,
+        "endTime": 12967,
+        "slowStartTime": 7416,
+        "slowEndTime": 19676
+    },
+    {
+        "text": "One plus one equals two.",
+        "startTime": 17593,
+        "endTime": 25716,
+        "slowStartTime": 26539,
+        "slowEndTime": 38799
+    },
+    {
+        "text": "Two plus one equals three.",
+        "startTime": 29721,
+        "endTime": 37937,
+        "slowStartTime": 44732,
+        "slowEndTime": 57131
+    },
+    {
+        "text": "Three plus one equals four.",
+        "startTime": 41663,
+        "endTime": 49725,
+        "slowStartTime": 62645,
+        "slowEndTime": 74812
+    },
+    {
+        "text": "Four plus one equals five.",
+        "startTime": 53793,
+        "endTime": 61451,
+        "slowStartTime": 80840,
+        "slowEndTime": 92401
+    }
+]

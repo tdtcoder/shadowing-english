@@ -1,0 +1,268 @@
+[
+    {
+        "text": "So, imagine you're standing on a street anywhere in America...",
+        "startTime": 16445,
+        "endTime": 19230,
+        "slowStartTime": 24815,
+        "slowEndTime": 28895
+    },
+    {
+        "text": "...and a Japanese man comes up to you and says,...",
+        "startTime": 19955,
+        "endTime": 21970,
+        "slowStartTime": 29950,
+        "slowEndTime": 33080
+    },
+    {
+        "text": "\"Excuse me, what is the name of this block?\"",
+        "startTime": 22250,
+        "endTime": 24190,
+        "slowStartTime": 33450,
+        "slowEndTime": 36305
+    },
+    {
+        "text": "You say, \"I'm sorry. Well this is Oak Street, that's Elm Street,...",
+        "startTime": 24855,
+        "endTime": 27860,
+        "slowStartTime": 37325,
+        "slowEndTime": 41900
+    },
+    {
+        "text": "...this is 26th, that's 27th.\"",
+        "startTime": 28260,
+        "endTime": 29760,
+        "slowStartTime": 42475,
+        "slowEndTime": 44665
+    },
+    {
+        "text": "He says, \"OK. But what is the name of that block?\"",
+        "startTime": 30265,
+        "endTime": 32425,
+        "slowStartTime": 45495,
+        "slowEndTime": 48655
+    },
+    {
+        "text": "\"You see, well, blocks don't have names.\"",
+        "startTime": 32930,
+        "endTime": 35035,
+        "slowStartTime": 49465,
+        "slowEndTime": 52700
+    },
+    {
+        "text": "\"Streets have names. Blocks are just the unnamed spaces in between streets.\"",
+        "startTime": 35435,
+        "endTime": 39675,
+        "slowStartTime": 53145,
+        "slowEndTime": 59615
+    },
+    {
+        "text": "He leaves a little confused and disappointed.",
+        "startTime": 40375,
+        "endTime": 42310,
+        "slowStartTime": 60585,
+        "slowEndTime": 63640
+    },
+    {
+        "text": "So now imagine you're standing on a street anywhere in Japan.",
+        "startTime": 43310,
+        "endTime": 45810,
+        "slowStartTime": 65035,
+        "slowEndTime": 68770
+    },
+    {
+        "text": "You turn to a person next to you and say,...",
+        "startTime": 45970,
+        "endTime": 47545,
+        "slowStartTime": 69015,
+        "slowEndTime": 71370
+    },
+    {
+        "text": "\"Excuse me, what is the name of this street?\"",
+        "startTime": 48045,
+        "endTime": 50050,
+        "slowStartTime": 72130,
+        "slowEndTime": 75110
+    },
+    {
+        "text": "And they say, \"Oh well, that's Block 17 and this is Block 16.\"",
+        "startTime": 50550,
+        "endTime": 53575,
+        "slowStartTime": 75870,
+        "slowEndTime": 80505
+    },
+    {
+        "text": "And you say, \"OK. But what is the name of this street?\"",
+        "startTime": 54220,
+        "endTime": 57090,
+        "slowStartTime": 81440,
+        "slowEndTime": 85670
+    },
+    {
+        "text": "They say, \"Well, streets don't have names.\"",
+        "startTime": 57525,
+        "endTime": 59690,
+        "slowStartTime": 86375,
+        "slowEndTime": 89655
+    },
+    {
+        "text": "\"Blocks have names.\"",
+        "startTime": 59895,
+        "endTime": 60900,
+        "slowStartTime": 89915,
+        "slowEndTime": 91395
+    },
+    {
+        "text": "\"Just look at Google Maps here. There's Block 14, 15, 16, 17, 18, 19.\"",
+        "startTime": 61160,
+        "endTime": 64990,
+        "slowStartTime": 91805,
+        "slowEndTime": 97550
+    },
+    {
+        "text": "\"All of these blocks have names.\"",
+        "startTime": 65765,
+        "endTime": 67200,
+        "slowStartTime": 98720,
+        "slowEndTime": 100840
+    },
+    {
+        "text": "\"The streets are just the unnamed spaces in between the blocks.\"",
+        "startTime": 67600,
+        "endTime": 70535,
+        "slowStartTime": 101390,
+        "slowEndTime": 105785
+    },
+    {
+        "text": "And you say, \"OK, then how do you know your home address?\"",
+        "startTime": 71405,
+        "endTime": 73975,
+        "slowStartTime": 107185,
+        "slowEndTime": 110955
+    },
+    {
+        "text": "He said, \"Well, easy. This is District Eight,...",
+        "startTime": 74305,
+        "endTime": 77200,
+        "slowStartTime": 111570,
+        "slowEndTime": 115805
+    },
+    {
+        "text": "...there's Block 17, house number one.\"",
+        "startTime": 77810,
+        "endTime": 80280,
+        "slowStartTime": 116780,
+        "slowEndTime": 120330
+    },
+    {
+        "text": "You say, \"OK,...",
+        "startTime": 80745,
+        "endTime": 81200,
+        "slowStartTime": 121165,
+        "slowEndTime": 121935
+    },
+    {
+        "text": "\"...but walking around the neighborhood,...\"",
+        "startTime": 81250,
+        "endTime": 82309,
+        "slowStartTime": 122025,
+        "slowEndTime": 123688
+    },
+    {
+        "text": "\"...I noticed that the house numbers don't go in order.\"",
+        "startTime": 82385,
+        "endTime": 84143,
+        "slowStartTime": 123728,
+        "slowEndTime": 126440
+    },
+    {
+        "text": "He said, \"Of course they do. They go in the order in which they were built.\"",
+        "startTime": 84485,
+        "endTime": 86985,
+        "slowStartTime": 126810,
+        "slowEndTime": 130535
+    },
+    {
+        "text": "\"The first house ever built on a block is house number one.\"",
+        "startTime": 87475,
+        "endTime": 90455,
+        "slowStartTime": 131345,
+        "slowEndTime": 135725
+    },
+    {
+        "text": "\"The second house ever built is house number two.\"",
+        "startTime": 90790,
+        "endTime": 92795,
+        "slowStartTime": 136280,
+        "slowEndTime": 139225
+    },
+    {
+        "text": "\"Third is house number three. It's easy. It's obvious.\"",
+        "startTime": 93090,
+        "endTime": 95095,
+        "slowStartTime": 139685,
+        "slowEndTime": 142705
+    },
+    {
+        "text": "So, I love that sometimes we need to go to the opposite side of the world...",
+        "startTime": 95995,
+        "endTime": 100130,
+        "slowStartTime": 144075,
+        "slowEndTime": 150195
+    },
+    {
+        "text": "...to realize assumptions we didn't even know we had,...",
+        "startTime": 100300,
+        "endTime": 102540,
+        "slowStartTime": 150480,
+        "slowEndTime": 153975
+    },
+    {
+        "text": "...and realize that the opposite of them may also be true.",
+        "startTime": 102835,
+        "endTime": 105135,
+        "slowStartTime": 154365,
+        "slowEndTime": 157745
+    },
+    {
+        "text": "And this map is also accurate.",
+        "startTime": 105705,
+        "endTime": 107085,
+        "slowStartTime": 158685,
+        "slowEndTime": 160665
+    },
+    {
+        "text": "There's a saying that whatever true thing you can say about India,...",
+        "startTime": 109575,
+        "endTime": 112580,
+        "slowStartTime": 164420,
+        "slowEndTime": 168895
+    },
+    {
+        "text": "...the opposite is also true.",
+        "startTime": 112745,
+        "endTime": 114115,
+        "slowStartTime": 169165,
+        "slowEndTime": 171255
+    },
+    {
+        "text": "So let's never forget, whether at TED or anywhere else,...",
+        "startTime": 114515,
+        "endTime": 116560,
+        "slowStartTime": 171870,
+        "slowEndTime": 175005
+    },
+    {
+        "text": "...that whatever brilliant ideas you have or hear,...",
+        "startTime": 116660,
+        "endTime": 119550,
+        "slowStartTime": 175065,
+        "slowEndTime": 179410
+    },
+    {
+        "text": "...that the opposite may also be true.",
+        "startTime": 119780,
+        "endTime": 121385,
+        "slowStartTime": 179860,
+        "slowEndTime": 182095
+    }
+]

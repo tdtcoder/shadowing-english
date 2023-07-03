@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Google's very interested in improving the speed of the Web.",
+        "startTime": 6000,
+        "endTime": 8900,
+        "slowStartTime": 9200,
+        "slowEndTime": 13600
+    },
+    {
+        "text": "Because the Web is the most important platform of our time.",
+        "startTime": 8950,
+        "endTime": 11950,
+        "slowStartTime": 13600,
+        "slowEndTime": 18100
+    },
+    {
+        "text": "And by making the Web better and faster,...",
+        "startTime": 12400,
+        "endTime": 14850,
+        "slowStartTime": 18850,
+        "slowEndTime": 22450
+    },
+    {
+        "text": "...we not only make Google applications better...",
+        "startTime": 14950,
+        "endTime": 17450,
+        "slowStartTime": 22650,
+        "slowEndTime": 26350
+    },
+    {
+        "text": "...but in fact, all the applications users know and love.",
+        "startTime": 17500,
+        "endTime": 20600,
+        "slowStartTime": 26500,
+        "slowEndTime": 31100
+    },
+    {
+        "text": "We also believe that people are using the Web more and more as a place to read, view videos...",
+        "startTime": 20700,
+        "endTime": 27600,
+        "slowStartTime": 31300,
+        "slowEndTime": 41600
+    },
+    {
+        "text": "In order for that information to be useful,...",
+        "startTime": 27650,
+        "endTime": 29850,
+        "slowStartTime": 41700,
+        "slowEndTime": 45025
+    },
+    {
+        "text": "...we need to make sure that it is delivered in a timely fashion.",
+        "startTime": 29900,
+        "endTime": 32900,
+        "slowStartTime": 45050,
+        "slowEndTime": 49450
+    },
+    {
+        "text": "You know, I think we're just at the beginning of how fast we can make the Web.",
+        "startTime": 33300,
+        "endTime": 37450,
+        "slowStartTime": 50200,
+        "slowEndTime": 56350
+    },
+    {
+        "text": "It's hard for us to imagine the improvements that we've made just in the last 15 years,...",
+        "startTime": 37800,
+        "endTime": 42350,
+        "slowStartTime": 56800,
+        "slowEndTime": 63700
+    },
+    {
+        "text": "...if you think about how slow the Web was when it initially started...",
+        "startTime": 42400,
+        "endTime": 45700,
+        "slowStartTime": 63735,
+        "slowEndTime": 68700
+    },
+    {
+        "text": "...and how far we've come.",
+        "startTime": 45850,
+        "endTime": 47100,
+        "slowStartTime": 69000,
+        "slowEndTime": 70900
+    },
+    {
+        "text": "Larry Page expressed a vision of being able to go from Web page to Web page...",
+        "startTime": 47250,
+        "endTime": 52400,
+        "slowStartTime": 71150,
+        "slowEndTime": 78800
+    },
+    {
+        "text": "...as quickly as you could turn the pages in a glossy magazine.",
+        "startTime": 52450,
+        "endTime": 57700,
+        "slowStartTime": 78830,
+        "slowEndTime": 86700
+    },
+    {
+        "text": "Uploading pictures, watching high-definition movies,...",
+        "startTime": 57850,
+        "endTime": 60900,
+        "slowStartTime": 87050,
+        "slowEndTime": 91600
+    },
+    {
+        "text": "...running very complex Javascript-based apps.",
+        "startTime": 61200,
+        "endTime": 63600,
+        "slowStartTime": 92000,
+        "slowEndTime": 95595
+    },
+    {
+        "text": "All those things can and should be instantaneous in the future.",
+        "startTime": 63850,
+        "endTime": 67700,
+        "slowStartTime": 96050,
+        "slowEndTime": 101700
+    }
+]

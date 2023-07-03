@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Approximately 750,000 years ago,...",
+        "startTime": 4308,
+        "endTime": 6428,
+        "slowStartTime": 6612,
+        "slowEndTime": 9867
+    },
+    {
+        "text": "...three volcanoes converged to form Easter Island,...",
+        "startTime": 6962,
+        "endTime": 9269,
+        "slowStartTime": 10593,
+        "slowEndTime": 14128
+    },
+    {
+        "text": "...located about 3,500 miles off the Chilean coast.",
+        "startTime": 9853,
+        "endTime": 13016,
+        "slowStartTime": 14930,
+        "slowEndTime": 19749
+    },
+    {
+        "text": "Easter Island was named after the date it was discovered in 1722...",
+        "startTime": 13735,
+        "endTime": 17247,
+        "slowStartTime": 20753,
+        "slowEndTime": 26096
+    },
+    {
+        "text": "...by the Dutch explorer, Jacob Roggeveen, who was in search of Terra Australis.",
+        "startTime": 17733,
+        "endTime": 21699,
+        "slowStartTime": 26749,
+        "slowEndTime": 32774
+    },
+    {
+        "text": "Perhaps the most iconic feature of Easter Island is the Moai statues.",
+        "startTime": 22027,
+        "endTime": 25811,
+        "slowStartTime": 33191,
+        "slowEndTime": 38941
+    },
+    {
+        "text": "They stand as tall as 30 feet and are head-to-thigh carvings of venerated ancestors.",
+        "startTime": 26482,
+        "endTime": 31123,
+        "slowStartTime": 39873,
+        "slowEndTime": 46910
+    },
+    {
+        "text": "It is still uncertain exactly how they were moved in such great distances.",
+        "startTime": 31806,
+        "endTime": 36309,
+        "slowStartTime": 47859,
+        "slowEndTime": 54688
+    }
+]

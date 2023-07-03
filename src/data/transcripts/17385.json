@@ -1,0 +1,184 @@
+[
+    {
+        "text": "Every day I watch the weatherman on TV.",
+        "startTime": 2193,
+        "endTime": 6256,
+        "slowStartTime": 3439,
+        "slowEndTime": 9609
+    },
+    {
+        "text": "Knowing about the weather is important to me.",
+        "startTime": 7246,
+        "endTime": 10443,
+        "slowStartTime": 11019,
+        "slowEndTime": 15889
+    },
+    {
+        "text": "I want to know if the wind will blow.",
+        "startTime": 11508,
+        "endTime": 14374,
+        "slowStartTime": 17412,
+        "slowEndTime": 21786
+    },
+    {
+        "text": "I want to know if it will rain.",
+        "startTime": 15379,
+        "endTime": 17847,
+        "slowStartTime": 23219,
+        "slowEndTime": 26995
+    },
+    {
+        "text": "I want to know if it will snow.",
+        "startTime": 18831,
+        "endTime": 21545,
+        "slowStartTime": 28397,
+        "slowEndTime": 32542
+    },
+    {
+        "text": "How is the weather today?",
+        "startTime": 22703,
+        "endTime": 24623,
+        "slowStartTime": 34204,
+        "slowEndTime": 37159
+    },
+    {
+        "text": "The weatherman says warm with showers.",
+        "startTime": 25647,
+        "endTime": 28680,
+        "slowStartTime": 38620,
+        "slowEndTime": 43245
+    },
+    {
+        "text": "I will wear my raincoat. I will go fishing with Dad.",
+        "startTime": 29616,
+        "endTime": 34529,
+        "slowStartTime": 44574,
+        "slowEndTime": 52018
+    },
+    {
+        "text": "How is the weather today?",
+        "startTime": 36197,
+        "endTime": 38007,
+        "slowStartTime": 54445,
+        "slowEndTime": 57235
+    },
+    {
+        "text": "The weatherman says it will be stormy. I will play in the house.",
+        "startTime": 39019,
+        "endTime": 44809,
+        "slowStartTime": 58678,
+        "slowEndTime": 67438
+    },
+    {
+        "text": "How is the weather today?",
+        "startTime": 45897,
+        "endTime": 47746,
+        "slowStartTime": 68995,
+        "slowEndTime": 71844
+    },
+    {
+        "text": "The weatherman says it will be hot.",
+        "startTime": 48695,
+        "endTime": 51105,
+        "slowStartTime": 73193,
+        "slowEndTime": 76882
+    },
+    {
+        "text": "I will go to the beach.",
+        "startTime": 52078,
+        "endTime": 53804,
+        "slowStartTime": 78267,
+        "slowEndTime": 80931
+    },
+    {
+        "text": "How is the weather today?",
+        "startTime": 55295,
+        "endTime": 57225,
+        "slowStartTime": 83093,
+        "slowEndTime": 86062
+    },
+    {
+        "text": "The weatherman says it will be cool and windy.",
+        "startTime": 58161,
+        "endTime": 61570,
+        "slowStartTime": 87392,
+        "slowEndTime": 92580
+    },
+    {
+        "text": "I will wear my jacket. I will fly my kite.",
+        "startTime": 62565,
+        "endTime": 66631,
+        "slowStartTime": 93998,
+        "slowEndTime": 100171
+    },
+    {
+        "text": "How is the weather today?",
+        "startTime": 67847,
+        "endTime": 69732,
+        "slowStartTime": 101921,
+        "slowEndTime": 104823
+    },
+    {
+        "text": "The weatherman says it will be cold and icy.",
+        "startTime": 70753,
+        "endTime": 74249,
+        "slowStartTime": 106279,
+        "slowEndTime": 111598
+    },
+    {
+        "text": "I will wear my hat and coat.",
+        "startTime": 75293,
+        "endTime": 77407,
+        "slowStartTime": 113089,
+        "slowEndTime": 116335
+    },
+    {
+        "text": "How is the weather today?",
+        "startTime": 78325,
+        "endTime": 80107,
+        "slowStartTime": 117637,
+        "slowEndTime": 120386
+    },
+    {
+        "text": "The weatherman says it will snow.",
+        "startTime": 81068,
+        "endTime": 83516,
+        "slowStartTime": 121752,
+        "slowEndTime": 125499
+    },
+    {
+        "text": "I will make a snowman.",
+        "startTime": 84539,
+        "endTime": 86283,
+        "slowStartTime": 126959,
+        "slowEndTime": 129649
+    },
+    {
+        "text": "The weather changes with the seasons.",
+        "startTime": 87361,
+        "endTime": 89914,
+        "slowStartTime": 131192,
+        "slowEndTime": 135096
+    },
+    {
+        "text": "I like changing weather.",
+        "startTime": 90881,
+        "endTime": 92701,
+        "slowStartTime": 136472,
+        "slowEndTime": 139277
+    },
+    {
+        "text": "I can wear different clothes.",
+        "startTime": 93737,
+        "endTime": 95751,
+        "slowStartTime": 140756,
+        "slowEndTime": 143852
+    },
+    {
+        "text": "I can do different things.",
+        "startTime": 96745,
+        "endTime": 98728,
+        "slowStartTime": 145267,
+        "slowEndTime": 148317
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Here in the city, parking is hard to find.",
+        "startTime": 50,
+        "endTime": 2170,
+        "slowStartTime": 101,
+        "slowEndTime": 3480
+    },
+    {
+        "text": "Seems like everyone drives.",
+        "startTime": 2303,
+        "endTime": 3807,
+        "slowStartTime": 3604,
+        "slowEndTime": 5935
+    },
+    {
+        "text": "And those who do should switch to Geico,...",
+        "startTime": 4178,
+        "endTime": 6114,
+        "slowStartTime": 6417,
+        "slowEndTime": 9396
+    },
+    {
+        "text": "...because you could save hundreds on car insurance.",
+        "startTime": 6203,
+        "endTime": 8321,
+        "slowStartTime": 9455,
+        "slowEndTime": 12706
+    },
+    {
+        "text": "Oh perfect, valet parking.",
+        "startTime": 8443,
+        "endTime": 10869,
+        "slowStartTime": 12814,
+        "slowEndTime": 16529
+    },
+    {
+        "text": "Hello.",
+        "startTime": 11298,
+        "endTime": 11619,
+        "slowStartTime": 17097,
+        "slowEndTime": 17654
+    },
+    {
+        "text": "Good evening, sir.",
+        "startTime": 11706,
+        "endTime": 12603,
+        "slowStartTime": 17709,
+        "slowEndTime": 19130
+    },
+    {
+        "text": "Here's the keys and go easy on the ride, mate.",
+        "startTime": 13027,
+        "endTime": 15794,
+        "slowStartTime": 19691,
+        "slowEndTime": 23916
+    },
+    {
+        "text": "Wouldn't mind some of that beef Wellington.",
+        "startTime": 16779,
+        "endTime": 18865,
+        "slowStartTime": 25318,
+        "slowEndTime": 28522
+    },
+    {
+        "text": "To see how much you could save on car insurance, go to geico.com.",
+        "startTime": 19439,
+        "endTime": 23229,
+        "slowStartTime": 29309,
+        "slowEndTime": 35068
+    },
+    {
+        "text": "It's okay.",
+        "startTime": 28694,
+        "endTime": 29340,
+        "slowStartTime": 43191,
+        "slowEndTime": 44235
+    }
+]

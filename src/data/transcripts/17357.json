@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Hole.",
+        "startTime": 2531,
+        "endTime": 2989,
+        "slowStartTime": 3947,
+        "slowEndTime": 4708
+    },
+    {
+        "text": "There is a hole.",
+        "startTime": 3902,
+        "endTime": 5135,
+        "slowStartTime": 6003,
+        "slowEndTime": 7927
+    },
+    {
+        "text": "There is a hole in the ground.",
+        "startTime": 6606,
+        "endTime": 8813,
+        "slowStartTime": 10059,
+        "slowEndTime": 13444
+    },
+    {
+        "text": "Bone.",
+        "startTime": 10230,
+        "endTime": 10903,
+        "slowStartTime": 15495,
+        "slowEndTime": 16579
+    },
+    {
+        "text": "The bone is hard.",
+        "startTime": 11757,
+        "endTime": 13263,
+        "slowStartTime": 17785,
+        "slowEndTime": 20120
+    },
+    {
+        "text": "The bone is hard and strong.",
+        "startTime": 14749,
+        "endTime": 17087,
+        "slowStartTime": 22274,
+        "slowEndTime": 25855
+    },
+    {
+        "text": "Rope.",
+        "startTime": 18449,
+        "endTime": 18928,
+        "slowStartTime": 27823,
+        "slowEndTime": 28617
+    },
+    {
+        "text": "I like to jump rope.",
+        "startTime": 19697,
+        "endTime": 21275,
+        "slowStartTime": 29696,
+        "slowEndTime": 32137
+    },
+    {
+        "text": "I like to jump rope outside.",
+        "startTime": 22693,
+        "endTime": 25041,
+        "slowStartTime": 34189,
+        "slowEndTime": 37786
+    },
+    {
+        "text": "Hose.",
+        "startTime": 26435,
+        "endTime": 27057,
+        "slowStartTime": 39802,
+        "slowEndTime": 40810
+    },
+    {
+        "text": "You can use the hose.",
+        "startTime": 27917,
+        "endTime": 29821,
+        "slowStartTime": 42025,
+        "slowEndTime": 44956
+    },
+    {
+        "text": "You can use the green hose.",
+        "startTime": 31071,
+        "endTime": 33232,
+        "slowStartTime": 46756,
+        "slowEndTime": 50073
+    },
+    {
+        "text": "What games do you like to play?",
+        "startTime": 39890,
+        "endTime": 42154,
+        "slowStartTime": 59985,
+        "slowEndTime": 63456
+    },
+    {
+        "text": "Tag, tag, tag, we like to play tag.",
+        "startTime": 43573,
+        "endTime": 46802,
+        "slowStartTime": 65510,
+        "slowEndTime": 70428
+    },
+    {
+        "text": "What games do you like to play?",
+        "startTime": 47378,
+        "endTime": 49649,
+        "slowStartTime": 71217,
+        "slowEndTime": 74698
+    },
+    {
+        "text": "House, house, house, we like to play house.",
+        "startTime": 51123,
+        "endTime": 54359,
+        "slowStartTime": 76835,
+        "slowEndTime": 81764
+    },
+    {
+        "text": "What games do you like to play?",
+        "startTime": 54899,
+        "endTime": 57139,
+        "slowStartTime": 82499,
+        "slowEndTime": 85934
+    },
+    {
+        "text": "Soccer, soccer, soccer, we like to play soccer.",
+        "startTime": 58428,
+        "endTime": 61927,
+        "slowStartTime": 87792,
+        "slowEndTime": 93116
+    },
+    {
+        "text": "What else do you like to play?",
+        "startTime": 62388,
+        "endTime": 64611,
+        "slowStartTime": 93732,
+        "slowEndTime": 97142
+    },
+    {
+        "text": "Baseball, hide-and-seek, and video games!",
+        "startTime": 66101,
+        "endTime": 69367,
+        "slowStartTime": 99302,
+        "slowEndTime": 104276
+    }
+]

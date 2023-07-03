@@ -1,0 +1,51 @@
+[
+    {
+        "text": "﻿Know what your teacher is asking you to do.",
+        "startTime": 229,
+        "endTime": 3090,
+        "slowStartTime": 494,
+        "slowEndTime": 4860
+    },
+    {
+        "text": "Be quiet!",
+        "startTime": 6195,
+        "endTime": 7342,
+        "slowStartTime": 9442,
+        "slowEndTime": 11238
+    },
+    {
+        "text": "Raise your hand.",
+        "startTime": 10551,
+        "endTime": 11691,
+        "slowStartTime": 15977,
+        "slowEndTime": 17761
+    },
+    {
+        "text": "Sit down.",
+        "startTime": 14813,
+        "endTime": 15899,
+        "slowStartTime": 22369,
+        "slowEndTime": 24074
+    },
+    {
+        "text": "Open your books to page 21.",
+        "startTime": 18831,
+        "endTime": 21521,
+        "slowStartTime": 28397,
+        "slowEndTime": 32506
+    },
+    {
+        "text": "Shut the door.",
+        "startTime": 24597,
+        "endTime": 25643,
+        "slowStartTime": 37046,
+        "slowEndTime": 38689
+    },
+    {
+        "text": "Turn the lights on.",
+        "startTime": 28727,
+        "endTime": 29995,
+        "slowStartTime": 43241,
+        "slowEndTime": 45217
+    }
+]

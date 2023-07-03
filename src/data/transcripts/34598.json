@@ -1,0 +1,86 @@
+[
+    {
+        "text": "In Japan, over 3,700 passengers aboard a Japanese cruise ship have been quarantined,...",
+        "startTime": 5259,
+        "endTime": 12459,
+        "slowStartTime": 8039,
+        "slowEndTime": 18914
+    },
+    {
+        "text": "...due to the possibility of coronavirus onboard.",
+        "startTime": 12893,
+        "endTime": 15869,
+        "slowStartTime": 19489,
+        "slowEndTime": 24028
+    },
+    {
+        "text": "A university laboratory in Lyon, France, is researching treatment for the coronavirus...",
+        "startTime": 18774,
+        "endTime": 24669,
+        "slowStartTime": 28311,
+        "slowEndTime": 37229
+    },
+    {
+        "text": "...by utilizing existing drugs.",
+        "startTime": 24817,
+        "endTime": 26769,
+        "slowStartTime": 37375,
+        "slowEndTime": 40378
+    },
+    {
+        "text": "In Iraq, Prime Minister-designate Mohammed Tawfiq Allawi...",
+        "startTime": 30591,
+        "endTime": 34769,
+        "slowStartTime": 46036,
+        "slowEndTime": 52378
+    },
+    {
+        "text": "...spoke on Iraq's recent protests and violence...",
+        "startTime": 35415,
+        "endTime": 38615,
+        "slowStartTime": 53272,
+        "slowEndTime": 58147
+    },
+    {
+        "text": "...and alluded to not being able to form a new government if the clashes continued.",
+        "startTime": 38881,
+        "endTime": 43895,
+        "slowStartTime": 58472,
+        "slowEndTime": 66068
+    },
+    {
+        "text": "In Ukraine, a fight broke out between lawmakers in the Ukrainian Parliament...",
+        "startTime": 46167,
+        "endTime": 50901,
+        "slowStartTime": 69400,
+        "slowEndTime": 76576
+    },
+    {
+        "text": "...while debating a proposed law that would allow the sale of the country's rich farmland.",
+        "startTime": 51326,
+        "endTime": 57071,
+        "slowStartTime": 77139,
+        "slowEndTime": 85831
+    },
+    {
+        "text": "Finally from Turkey, three are dead and 180 injured...",
+        "startTime": 58317,
+        "endTime": 62993,
+        "slowStartTime": 87625,
+        "slowEndTime": 94715
+    },
+    {
+        "text": "...after a Turkish plane failed to land correctly and skidded off the runway,...",
+        "startTime": 63469,
+        "endTime": 68128,
+        "slowStartTime": 95354,
+        "slowEndTime": 102417
+    },
+    {
+        "text": "...splitting into three parts at an airport in Istanbul.",
+        "startTime": 68409,
+        "endTime": 72066,
+        "slowStartTime": 102764,
+        "slowEndTime": 108324
+    }
+]

@@ -1,0 +1,240 @@
+[
+    {
+        "text": "\"What?\"",
+        "startTime": 2270,
+        "endTime": 3349,
+        "slowStartTime": 3555,
+        "slowEndTime": 5248
+    },
+    {
+        "text": "Asked Curious Cat.",
+        "startTime": 4380,
+        "endTime": 6022,
+        "slowStartTime": 6720,
+        "slowEndTime": 9258
+    },
+    {
+        "text": "\"What is for breakfast?\"",
+        "startTime": 7425,
+        "endTime": 9744,
+        "slowStartTime": 11288,
+        "slowEndTime": 14841
+    },
+    {
+        "text": "Asked Curious Cat.",
+        "startTime": 11286,
+        "endTime": 12889,
+        "slowStartTime": 17079,
+        "slowEndTime": 19559
+    },
+    {
+        "text": "\"Fish,\"",
+        "startTime": 14073,
+        "endTime": 15019,
+        "slowStartTime": 21260,
+        "slowEndTime": 22753
+    },
+    {
+        "text": "Said Mother Cat.",
+        "startTime": 16303,
+        "endTime": 17706,
+        "slowStartTime": 24605,
+        "slowEndTime": 26784
+    },
+    {
+        "text": "\"What is for morning snack?\"",
+        "startTime": 18950,
+        "endTime": 21467,
+        "slowStartTime": 28575,
+        "slowEndTime": 32426
+    },
+    {
+        "text": "Asked Curious Cat.",
+        "startTime": 22532,
+        "endTime": 24334,
+        "slowStartTime": 33948,
+        "slowEndTime": 36726
+    },
+    {
+        "text": "Mother Cat said.",
+        "startTime": 25479,
+        "endTime": 26882,
+        "slowStartTime": 38368,
+        "slowEndTime": 40548
+    },
+    {
+        "text": "\"Fish.\"",
+        "startTime": 28285,
+        "endTime": 29231,
+        "slowStartTime": 42578,
+        "slowEndTime": 44071
+    },
+    {
+        "text": "\"What can I have for lunch?\"",
+        "startTime": 30793,
+        "endTime": 33450,
+        "slowStartTime": 46339,
+        "slowEndTime": 50400
+    },
+    {
+        "text": "Asked Curious Cat.",
+        "startTime": 34993,
+        "endTime": 36495,
+        "slowStartTime": 52639,
+        "slowEndTime": 54968
+    },
+    {
+        "text": "\"Fish is for lunch,\"",
+        "startTime": 37779,
+        "endTime": 39780,
+        "slowStartTime": 56819,
+        "slowEndTime": 59895
+    },
+    {
+        "text": "Said Mother Cat.",
+        "startTime": 41283,
+        "endTime": 42548,
+        "slowStartTime": 62074,
+        "slowEndTime": 64047
+    },
+    {
+        "text": "\"What is for afternoon snack?\"",
+        "startTime": 44051,
+        "endTime": 47067,
+        "slowStartTime": 66227,
+        "slowEndTime": 70825
+    },
+    {
+        "text": "Asked Curious Cat.",
+        "startTime": 48291,
+        "endTime": 49774,
+        "slowStartTime": 72587,
+        "slowEndTime": 74886
+    },
+    {
+        "text": "\"Fish,\"",
+        "startTime": 51337,
+        "endTime": 52361,
+        "slowStartTime": 77155,
+        "slowEndTime": 78767
+    },
+    {
+        "text": "Said Mother Cat.",
+        "startTime": 53768,
+        "endTime": 55211,
+        "slowStartTime": 80802,
+        "slowEndTime": 83042
+    },
+    {
+        "text": "\"What are we having for dinner?\"",
+        "startTime": 56575,
+        "endTime": 59212,
+        "slowStartTime": 85012,
+        "slowEndTime": 89043
+    },
+    {
+        "text": "asked Curious Cat.",
+        "startTime": 60197,
+        "endTime": 61780,
+        "slowStartTime": 90446,
+        "slowEndTime": 92895
+    },
+    {
+        "text": "\"For dinner we are having fish,\"",
+        "startTime": 63323,
+        "endTime": 66756,
+        "slowStartTime": 95134,
+        "slowEndTime": 100359
+    },
+    {
+        "text": "Said Mother Cat.",
+        "startTime": 67985,
+        "endTime": 69268,
+        "slowStartTime": 102127,
+        "slowEndTime": 104127
+    },
+    {
+        "text": "\"Fish, fish, fish,\"",
+        "startTime": 70652,
+        "endTime": 73568,
+        "slowStartTime": 106128,
+        "slowEndTime": 110577
+    },
+    {
+        "text": "Said Curious Cat.",
+        "startTime": 74779,
+        "endTime": 76301,
+        "slowStartTime": 112319,
+        "slowEndTime": 114677
+    },
+    {
+        "text": "\"All we have is fish.\"",
+        "startTime": 77585,
+        "endTime": 80342,
+        "slowStartTime": 116528,
+        "slowEndTime": 120738
+    },
+    {
+        "text": "\"Please, please can I have pizza?",
+        "startTime": 81009,
+        "endTime": 85173,
+        "slowStartTime": 121664,
+        "slowEndTime": 127984
+    },
+    {
+        "text": "No more fish, please,\"",
+        "startTime": 85761,
+        "endTime": 88855,
+        "slowStartTime": 128792,
+        "slowEndTime": 133508
+    },
+    {
+        "text": "said Curious Cat.",
+        "startTime": 90100,
+        "endTime": 91862,
+        "slowStartTime": 135300,
+        "slowEndTime": 138018
+    },
+    {
+        "text": "What do you have for breakfast?",
+        "startTime": 95137,
+        "endTime": 97515,
+        "slowStartTime": 142855,
+        "slowEndTime": 146497
+    },
+    {
+        "text": "I have rice for breakfast.",
+        "startTime": 98819,
+        "endTime": 100759,
+        "slowStartTime": 148378,
+        "slowEndTime": 151363
+    },
+    {
+        "text": "What does your sister have for lunch?",
+        "startTime": 102262,
+        "endTime": 105063,
+        "slowStartTime": 153543,
+        "slowEndTime": 157820
+    },
+    {
+        "text": "She has sandwiches for lunch.",
+        "startTime": 106243,
+        "endTime": 108406,
+        "slowStartTime": 159514,
+        "slowEndTime": 162834
+    },
+    {
+        "text": "Does your mom have rice for dinner?",
+        "startTime": 109810,
+        "endTime": 112387,
+        "slowStartTime": 164865,
+        "slowEndTime": 168806
+    },
+    {
+        "text": "No, she doesn't. She doesn't have dinner.",
+        "startTime": 113453,
+        "endTime": 116806,
+        "slowStartTime": 170329,
+        "slowEndTime": 175434
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "text": "﻿I am happy.",
+        "startTime": 3855,
+        "endTime": 4929,
+        "slowStartTime": 5933,
+        "slowEndTime": 7619
+    },
+    {
+        "text": "We are strong.",
+        "startTime": 6478,
+        "endTime": 7676,
+        "slowStartTime": 9867,
+        "slowEndTime": 11739
+    },
+    {
+        "text": "You are cute.",
+        "startTime": 9295,
+        "endTime": 10460,
+        "slowStartTime": 14093,
+        "slowEndTime": 15915
+    },
+    {
+        "text": "He is a boy.",
+        "startTime": 12066,
+        "endTime": 12992,
+        "slowStartTime": 18249,
+        "slowEndTime": 19713
+    },
+    {
+        "text": "She is a girl.",
+        "startTime": 14657,
+        "endTime": 16041,
+        "slowStartTime": 22136,
+        "slowEndTime": 24287
+    },
+    {
+        "text": "It is a cat.",
+        "startTime": 17719,
+        "endTime": 18980,
+        "slowStartTime": 26728,
+        "slowEndTime": 28695
+    },
+    {
+        "text": "They are dancing.",
+        "startTime": 20533,
+        "endTime": 21695,
+        "slowStartTime": 30949,
+        "slowEndTime": 32768
+    },
+    {
+        "text": "They are on the floor.",
+        "startTime": 23435,
+        "endTime": 24795,
+        "slowStartTime": 35302,
+        "slowEndTime": 37417
+    }
+]

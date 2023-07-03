@@ -1,0 +1,380 @@
+[
+    {
+        "text": "Let's compare things.",
+        "startTime": 127,
+        "endTime": 2822,
+        "slowStartTime": 340,
+        "slowEndTime": 4458
+    },
+    {
+        "text": "Tell me which one is better,...",
+        "startTime": 2900,
+        "endTime": 3934,
+        "slowStartTime": 4500,
+        "slowEndTime": 6126
+    },
+    {
+        "text": "...just say Tokyo or New York.",
+        "startTime": 5607,
+        "endTime": 6641,
+        "slowStartTime": 8560,
+        "slowEndTime": 10186
+    },
+    {
+        "text": "The food?",
+        "startTime": 7850,
+        "endTime": 8422,
+        "slowStartTime": 11925,
+        "slowEndTime": 12858
+    },
+    {
+        "text": "Tokyo.",
+        "startTime": 9174,
+        "endTime": 9643,
+        "slowStartTime": 13911,
+        "slowEndTime": 14690
+    },
+    {
+        "text": "Transportation?",
+        "startTime": 11346,
+        "endTime": 12017,
+        "slowStartTime": 17169,
+        "slowEndTime": 18251
+    },
+    {
+        "text": "Tokyo.",
+        "startTime": 14945,
+        "endTime": 15625,
+        "slowStartTime": 22567,
+        "slowEndTime": 23662
+    },
+    {
+        "text": "Okay. Entertainment?",
+        "startTime": 15903,
+        "endTime": 17002,
+        "slowStartTime": 24005,
+        "slowEndTime": 25728
+    },
+    {
+        "text": "New York.",
+        "startTime": 18279,
+        "endTime": 18958,
+        "slowStartTime": 27568,
+        "slowEndTime": 28662
+    },
+    {
+        "text": "Depends though, because I love watching Rakugo and Kabuki too.",
+        "startTime": 21505,
+        "endTime": 26027,
+        "slowStartTime": 32408,
+        "slowEndTime": 39265
+    },
+    {
+        "text": "Can't get that in New York, really.",
+        "startTime": 26966,
+        "endTime": 28332,
+        "slowStartTime": 40599,
+        "slowEndTime": 42723
+    },
+    {
+        "text": "No. So, it depends.",
+        "startTime": 28426,
+        "endTime": 30183,
+        "slowStartTime": 42789,
+        "slowEndTime": 45499
+    },
+    {
+        "text": "Okay.",
+        "startTime": 30565,
+        "endTime": 31095,
+        "slowStartTime": 45997,
+        "slowEndTime": 46867
+    },
+    {
+        "text": "For music, maybe more music nightly in New York.",
+        "startTime": 32030,
+        "endTime": 35463,
+        "slowStartTime": 48195,
+        "slowEndTime": 53419
+    },
+    {
+        "text": "Certainly for jazz.",
+        "startTime": 35889,
+        "endTime": 37084,
+        "slowStartTime": 53984,
+        "slowEndTime": 55851
+    },
+    {
+        "text": "Yes.",
+        "startTime": 37195,
+        "endTime": 37570,
+        "slowStartTime": 55942,
+        "slowEndTime": 56580
+    },
+    {
+        "text": "But I'd be surprised if you couldn't find more classical concerts in Tokyo.",
+        "startTime": 37899,
+        "endTime": 43162,
+        "slowStartTime": 56999,
+        "slowEndTime": 64968
+    },
+    {
+        "text": "There's a lot of classical music going on, is there?",
+        "startTime": 43303,
+        "endTime": 44970,
+        "slowStartTime": 65105,
+        "slowEndTime": 67680
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 45461,
+        "endTime": 45792,
+        "slowStartTime": 68342,
+        "slowEndTime": 68913
+    },
+    {
+        "text": "I heard somewhere that there were like 400 classical concerts a year.",
+        "startTime": 45960,
+        "endTime": 48847,
+        "slowStartTime": 69090,
+        "slowEndTime": 73496
+    },
+    {
+        "text": "Yes.",
+        "startTime": 49207,
+        "endTime": 49470,
+        "slowStartTime": 73961,
+        "slowEndTime": 74430
+    },
+    {
+        "text": "It's nuts!",
+        "startTime": 49752,
+        "endTime": 50418,
+        "slowStartTime": 74778,
+        "slowEndTime": 75852
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 50551,
+        "endTime": 50993,
+        "slowStartTime": 75977,
+        "slowEndTime": 76714
+    },
+    {
+        "text": "Okay. Let's see, lifestyle?",
+        "startTime": 52225,
+        "endTime": 54590,
+        "slowStartTime": 78487,
+        "slowEndTime": 82110
+    },
+    {
+        "text": "I have pretty much the same lifestyle in both places so,...",
+        "startTime": 59221,
+        "endTime": 63152,
+        "slowStartTime": 88982,
+        "slowEndTime": 94953
+    },
+    {
+        "text": "Well, you're a special case though.",
+        "startTime": 63764,
+        "endTime": 65285,
+        "slowStartTime": 95796,
+        "slowEndTime": 98153
+    },
+    {
+        "text": "...yeah, I like either hanging out with friends and family or playing the piano.",
+        "startTime": 65431,
+        "endTime": 71473,
+        "slowStartTime": 98297,
+        "slowEndTime": 107435
+    },
+    {
+        "text": "So, it's the same thing.",
+        "startTime": 71571,
+        "endTime": 72539,
+        "slowStartTime": 107507,
+        "slowEndTime": 109034
+    },
+    {
+        "text": "Okay. What about the way the people hang out in Tokyo or in New York, which do you like better?",
+        "startTime": 74020,
+        "endTime": 80515,
+        "slowStartTime": 111180,
+        "slowEndTime": 120998
+    },
+    {
+        "text": "Well, the things you do with your friends, like they're not the same, right?",
+        "startTime": 83178,
+        "endTime": 86263,
+        "slowStartTime": 124917,
+        "slowEndTime": 129620
+    },
+    {
+        "text": "Do you do the same things with your friends in both places?",
+        "startTime": 86565,
+        "endTime": 88473,
+        "slowStartTime": 129997,
+        "slowEndTime": 132935
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 88693,
+        "endTime": 89185,
+        "slowStartTime": 133189,
+        "slowEndTime": 134002
+    },
+    {
+        "text": "Really?",
+        "startTime": 89315,
+        "endTime": 89759,
+        "slowStartTime": 134122,
+        "slowEndTime": 134864
+    },
+    {
+        "text": "Yes.",
+        "startTime": 89869,
+        "endTime": 90491,
+        "slowStartTime": 134954,
+        "slowEndTime": 135961
+    },
+    {
+        "text": "Your Japanese friends enjoy the same sort of things like your American friends?",
+        "startTime": 91075,
+        "endTime": 94267,
+        "slowStartTime": 136763,
+        "slowEndTime": 141626
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 94935,
+        "endTime": 95374,
+        "slowStartTime": 142553,
+        "slowEndTime": 143286
+    },
+    {
+        "text": "What do you do?",
+        "startTime": 96223,
+        "endTime": 96828,
+        "slowStartTime": 144484,
+        "slowEndTime": 145467
+    },
+    {
+        "text": "We just go out for a drink.",
+        "startTime": 98741,
+        "endTime": 100131,
+        "slowStartTime": 148262,
+        "slowEndTime": 150421
+    },
+    {
+        "text": "Yeah, but I like Japanese beer more than American beer,...",
+        "startTime": 102715,
+        "endTime": 106775,
+        "slowStartTime": 154223,
+        "slowEndTime": 160388
+    },
+    {
+        "text": "...so I enjoy, you know, more here, I mean, in a drinking point of view.",
+        "startTime": 106924,
+        "endTime": 112927,
+        "slowStartTime": 160536,
+        "slowEndTime": 169616
+    },
+    {
+        "text": "Right, right, right, right, right.",
+        "startTime": 113025,
+        "endTime": 114518,
+        "slowStartTime": 169688,
+        "slowEndTime": 172002
+    },
+    {
+        "text": "What's your favorite area in Tokyo to eat or drink?",
+        "startTime": 114929,
+        "endTime": 116587,
+        "slowStartTime": 172543,
+        "slowEndTime": 175106
+    },
+    {
+        "text": "Asakusa.",
+        "startTime": 119521,
+        "endTime": 120230,
+        "slowStartTime": 179432,
+        "slowEndTime": 180570
+    },
+    {
+        "text": "Asakusa?",
+        "startTime": 120631,
+        "endTime": 121213,
+        "slowStartTime": 181096,
+        "slowEndTime": 182045
+    },
+    {
+        "text": "Because I like rakugo and I like people there.",
+        "startTime": 121812,
+        "endTime": 124905,
+        "slowStartTime": 182868,
+        "slowEndTime": 187582
+    },
+    {
+        "text": "Really?",
+        "startTime": 127659,
+        "endTime": 128277,
+        "slowStartTime": 191638,
+        "slowEndTime": 192640
+    },
+    {
+        "text": "There are a lot of jazz clubs there too.",
+        "startTime": 128427,
+        "endTime": 130315,
+        "slowStartTime": 192791,
+        "slowEndTime": 195698
+    },
+    {
+        "text": "I know there are jazz bars there. Are there jazz clubs?",
+        "startTime": 131462,
+        "endTime": 133767,
+        "slowStartTime": 197343,
+        "slowEndTime": 200875
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 133882,
+        "endTime": 134228,
+        "slowStartTime": 200973,
+        "slowEndTime": 201567
+    },
+    {
+        "text": "There is music nightly there.",
+        "startTime": 134595,
+        "endTime": 136273,
+        "slowStartTime": 202043,
+        "slowEndTime": 204635
+    },
+    {
+        "text": "No kidding?",
+        "startTime": 136822,
+        "endTime": 137317,
+        "slowStartTime": 205383,
+        "slowEndTime": 206200
+    },
+    {
+        "text": "Yes, it's like West Village in Japan.",
+        "startTime": 137425,
+        "endTime": 139577,
+        "slowStartTime": 206287,
+        "slowEndTime": 209590
+    },
+    {
+        "text": "Japan's West Village is Asakusa.",
+        "startTime": 141659,
+        "endTime": 143459,
+        "slowStartTime": 212639,
+        "slowEndTime": 215413
+    },
+    {
+        "text": "I would have never guessed.",
+        "startTime": 143615,
+        "endTime": 145011,
+        "slowStartTime": 215572,
+        "slowEndTime": 217742
+    }
+]

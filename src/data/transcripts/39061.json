@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Hey, Jill.",
+        "startTime": 7949,
+        "endTime": 8401,
+        "slowStartTime": 12073,
+        "slowEndTime": 12826
+    },
+    {
+        "text": "Hi, Sean.",
+        "startTime": 8593,
+        "endTime": 9439,
+        "slowStartTime": 13039,
+        "slowEndTime": 14383
+    },
+    {
+        "text": "We really enjoyed meeting with you.",
+        "startTime": 9836,
+        "endTime": 11438,
+        "slowStartTime": 14904,
+        "slowEndTime": 17382
+    },
+    {
+        "text": "The salary you're asking for, it's a little higher than average.",
+        "startTime": 11744,
+        "endTime": 14914,
+        "slowStartTime": 17766,
+        "slowEndTime": 22596
+    },
+    {
+        "text": "What experience and skills do you feel support that?",
+        "startTime": 15119,
+        "endTime": 17409,
+        "slowStartTime": 22828,
+        "slowEndTime": 26338
+    },
+    {
+        "text": "I've been leading one of the fastest-growing open-source projects...",
+        "startTime": 17541,
+        "endTime": 20448,
+        "slowStartTime": 26462,
+        "slowEndTime": 30897
+    },
+    {
+        "text": "...and some of our contributors are developers for some of the biggest tech companies.",
+        "startTime": 20694,
+        "endTime": 24937,
+        "slowStartTime": 31191,
+        "slowEndTime": 37630
+    },
+    {
+        "text": "So, I've been able to see how industry leaders operate.",
+        "startTime": 25129,
+        "endTime": 27377,
+        "slowStartTime": 37844,
+        "slowEndTime": 41291
+    },
+    {
+        "text": "That's impressive.",
+        "startTime": 28431,
+        "endTime": 29613,
+        "slowStartTime": 42797,
+        "slowEndTime": 44645
+    },
+    {
+        "text": "I feel you'd be a great addition to our team.",
+        "startTime": 30123,
+        "endTime": 32147,
+        "slowStartTime": 45334,
+        "slowEndTime": 48445
+    },
+    {
+        "text": "We're willing to meet you in the middle and offer 95,000.",
+        "startTime": 32361,
+        "endTime": 34970,
+        "slowStartTime": 48692,
+        "slowEndTime": 52680
+    },
+    {
+        "text": "I appreciate the offer.",
+        "startTime": 35228,
+        "endTime": 36385,
+        "slowStartTime": 52992,
+        "slowEndTime": 54803
+    },
+    {
+        "text": "I could take on this role for that amount,...",
+        "startTime": 37081,
+        "endTime": 38693,
+        "slowStartTime": 55771,
+        "slowEndTime": 58265
+    },
+    {
+        "text": "...assuming the package includes a signing bonus and two additional weeks of vacation.",
+        "startTime": 39254,
+        "endTime": 43477,
+        "slowStartTime": 59031,
+        "slowEndTime": 65440
+    },
+    {
+        "text": "I think we can make that happen.",
+        "startTime": 44093,
+        "endTime": 45521,
+        "slowStartTime": 66289,
+        "slowEndTime": 68507
+    },
+    {
+        "text": "I'll send you the details.",
+        "startTime": 45743,
+        "endTime": 46839,
+        "slowStartTime": 68765,
+        "slowEndTime": 70483
+    }
+]

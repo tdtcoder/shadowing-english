@@ -1,0 +1,65 @@
+[
+    {
+        "text": "May I take your menus?",
+        "startTime": 3355,
+        "endTime": 4486,
+        "slowStartTime": 5183,
+        "slowEndTime": 6954
+    },
+    {
+        "text": "May I see that for a minute? Watch this.",
+        "startTime": 7107,
+        "endTime": 9253,
+        "slowStartTime": 10810,
+        "slowEndTime": 14105
+    },
+    {
+        "text": "May I sit next to you, Sally?",
+        "startTime": 11712,
+        "endTime": 13361,
+        "slowStartTime": 17718,
+        "slowEndTime": 20266
+    },
+    {
+        "text": "Yes, Doctor, thank you.  Can I leave my stick just here?",
+        "startTime": 18356,
+        "endTime": 22706,
+        "slowStartTime": 27684,
+        "slowEndTime": 34284
+    },
+    {
+        "text": "And can I have a little look? I'll just put my gloves on.",
+        "startTime": 24822,
+        "endTime": 27184,
+        "slowStartTime": 37383,
+        "slowEndTime": 41001
+    },
+    {
+        "text": "Mom, can I play outside?",
+        "startTime": 29553,
+        "endTime": 31247,
+        "slowStartTime": 44480,
+        "slowEndTime": 47096
+    },
+    {
+        "text": "Do you mind if I spend some time looking around after my shift?",
+        "startTime": 35430,
+        "endTime": 38515,
+        "slowStartTime": 53295,
+        "slowEndTime": 57997
+    },
+    {
+        "text": "Do you mind if I smoke?",
+        "startTime": 40836,
+        "endTime": 42019,
+        "slowStartTime": 61404,
+        "slowEndTime": 63254
+    },
+    {
+        "text": "Do you mind if I ask how long you've been with KH Communications?",
+        "startTime": 44295,
+        "endTime": 47431,
+        "slowStartTime": 66592,
+        "slowEndTime": 71372
+    }
+]

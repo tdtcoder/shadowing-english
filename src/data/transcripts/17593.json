@@ -1,0 +1,128 @@
+[
+    {
+        "text": "I see trees when I go to the woods.",
+        "startTime": 2482,
+        "endTime": 5049,
+        "slowStartTime": 3873,
+        "slowEndTime": 7798
+    },
+    {
+        "text": "I see big and little trees.",
+        "startTime": 6145,
+        "endTime": 8111,
+        "slowStartTime": 9368,
+        "slowEndTime": 12392
+    },
+    {
+        "text": "I see a squirrel in the woods.",
+        "startTime": 9251,
+        "endTime": 11640,
+        "slowStartTime": 14027,
+        "slowEndTime": 17685
+    },
+    {
+        "text": "It climbs up a tree.",
+        "startTime": 12719,
+        "endTime": 14266,
+        "slowStartTime": 19228,
+        "slowEndTime": 21624
+    },
+    {
+        "text": "The squirrel sees me.",
+        "startTime": 15369,
+        "endTime": 16879,
+        "slowStartTime": 23203,
+        "slowEndTime": 25543
+    },
+    {
+        "text": "I see birds when I go to the woods.",
+        "startTime": 17981,
+        "endTime": 20613,
+        "slowStartTime": 27121,
+        "slowEndTime": 31145
+    },
+    {
+        "text": "They fly around.",
+        "startTime": 21717,
+        "endTime": 23034,
+        "slowStartTime": 32726,
+        "slowEndTime": 34776
+    },
+    {
+        "text": "The birds see me.",
+        "startTime": 24153,
+        "endTime": 25476,
+        "slowStartTime": 36379,
+        "slowEndTime": 38439
+    },
+    {
+        "text": "I see a fox in the woods.",
+        "startTime": 26618,
+        "endTime": 28588,
+        "slowStartTime": 40077,
+        "slowEndTime": 43107
+    },
+    {
+        "text": "It goes into a log.",
+        "startTime": 29683,
+        "endTime": 31429,
+        "slowStartTime": 44675,
+        "slowEndTime": 47368
+    },
+    {
+        "text": "The fox sees me.",
+        "startTime": 32571,
+        "endTime": 33949,
+        "slowStartTime": 49006,
+        "slowEndTime": 51149
+    },
+    {
+        "text": "I see bugs in the woods.",
+        "startTime": 35110,
+        "endTime": 37037,
+        "slowStartTime": 52815,
+        "slowEndTime": 55781
+    },
+    {
+        "text": "They crawl in the grass.",
+        "startTime": 38180,
+        "endTime": 39913,
+        "slowStartTime": 57420,
+        "slowEndTime": 60095
+    },
+    {
+        "text": "The bugs see me.",
+        "startTime": 40999,
+        "endTime": 42367,
+        "slowStartTime": 61648,
+        "slowEndTime": 63776
+    },
+    {
+        "text": "I see a bear in the woods.",
+        "startTime": 43516,
+        "endTime": 45557,
+        "slowStartTime": 65424,
+        "slowEndTime": 68561
+    },
+    {
+        "text": "It is hiding in the bushes.",
+        "startTime": 46685,
+        "endTime": 48638,
+        "slowStartTime": 70177,
+        "slowEndTime": 73182
+    },
+    {
+        "text": "The bear sees me.",
+        "startTime": 49731,
+        "endTime": 51155,
+        "slowStartTime": 74747,
+        "slowEndTime": 76958
+    },
+    {
+        "text": "I run from the bear.",
+        "startTime": 52283,
+        "endTime": 53916,
+        "slowStartTime": 78574,
+        "slowEndTime": 81099
+    }
+]

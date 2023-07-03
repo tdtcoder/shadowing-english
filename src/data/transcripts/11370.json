@@ -1,0 +1,79 @@
+[
+    {
+        "text": "On February 25th, 1942,...",
+        "startTime": 3900,
+        "endTime": 6300,
+        "slowStartTime": 6050,
+        "slowEndTime": 9600
+    },
+    {
+        "text": "...100,000 people witnessed something in the skies above Los Angeles.",
+        "startTime": 6850,
+        "endTime": 10800,
+        "slowStartTime": 10450,
+        "slowEndTime": 16450
+    },
+    {
+        "text": "Over 1,400 antiaircraft rounds were fired by the US military to no effect.",
+        "startTime": 12900,
+        "endTime": 18150,
+        "slowStartTime": 19550,
+        "slowEndTime": 27450
+    },
+    {
+        "text": "This actual encounter was only the beginning.",
+        "startTime": 19950,
+        "endTime": 22750,
+        "slowStartTime": 30100,
+        "slowEndTime": 34400
+    },
+    {
+        "text": "Their objective has never been explained until now.",
+        "startTime": 32100,
+        "endTime": 36400,
+        "slowStartTime": 48300,
+        "slowEndTime": 54900
+    },
+    {
+        "text": "These objects were completely undetected until they entered our atmosphere.",
+        "startTime": 37350,
+        "endTime": 41100,
+        "slowStartTime": 56250,
+        "slowEndTime": 62000
+    },
+    {
+        "text": "What we just witnessed has come out of the ocean.",
+        "startTime": 42050,
+        "endTime": 44150,
+        "slowStartTime": 63300,
+        "slowEndTime": 66300
+    },
+    {
+        "text": "12 different locations across the globe were breached.",
+        "startTime": 44600,
+        "endTime": 47200,
+        "slowStartTime": 67150,
+        "slowEndTime": 70900
+    },
+    {
+        "text": "There are massive casualties in Moscow, Paris.",
+        "startTime": 49150,
+        "endTime": 52300,
+        "slowStartTime": 73950,
+        "slowEndTime": 78750
+    },
+    {
+        "text": "We've lost communications with Tokyo, Rio, and New York.",
+        "startTime": 53800,
+        "endTime": 59000,
+        "slowStartTime": 80950,
+        "slowEndTime": 88750
+    },
+    {
+        "text": "We cannot lose Los Angeles.",
+        "startTime": 66850,
+        "endTime": 69150,
+        "slowStartTime": 100500,
+        "slowEndTime": 103950
+    }
+]

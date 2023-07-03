@@ -1,0 +1,198 @@
+[
+    {
+        "text": "Hi! I'm the bus driver.",
+        "startTime": 3851,
+        "endTime": 5477,
+        "slowStartTime": 5927,
+        "slowEndTime": 8441
+    },
+    {
+        "text": "Listen, I've got to leave for a little while, so can you watch things for me until I get back?",
+        "startTime": 5653,
+        "endTime": 10808,
+        "slowStartTime": 8630,
+        "slowEndTime": 16437
+    },
+    {
+        "text": "Thanks. Oh, and remember:...",
+        "startTime": 11231,
+        "endTime": 13175,
+        "slowStartTime": 16997,
+        "slowEndTime": 19987
+    },
+    {
+        "text": "...don't let the pigeon drive the bus!",
+        "startTime": 14486,
+        "endTime": 17145,
+        "slowStartTime": 21879,
+        "slowEndTime": 25942
+    },
+    {
+        "text": "I thought he'd never leave.",
+        "startTime": 24423,
+        "endTime": 25826,
+        "slowStartTime": 36784,
+        "slowEndTime": 38964
+    },
+    {
+        "text": "Hey, can I drive the bus?",
+        "startTime": 29373,
+        "endTime": 30784,
+        "slowStartTime": 44210,
+        "slowEndTime": 46401
+    },
+    {
+        "text": "Please? I'll be careful.",
+        "startTime": 32093,
+        "endTime": 35117,
+        "slowStartTime": 48289,
+        "slowEndTime": 52900
+    },
+    {
+        "text": "I tell you what: I'll just steer.",
+        "startTime": 38135,
+        "endTime": 40447,
+        "slowStartTime": 57353,
+        "slowEndTime": 60896
+    },
+    {
+        "text": "My cousin Herb drives a bus almost every day!",
+        "startTime": 41737,
+        "endTime": 44523,
+        "slowStartTime": 62756,
+        "slowEndTime": 67010
+    },
+    {
+        "text": "True story.",
+        "startTime": 45297,
+        "endTime": 46183,
+        "slowStartTime": 68096,
+        "slowEndTime": 69499
+    },
+    {
+        "text": "Pigeon at the wheel!",
+        "startTime": 51826,
+        "endTime": 52871,
+        "slowStartTime": 77889,
+        "slowEndTime": 79532
+    },
+    {
+        "text": "No? I never get to do anything!",
+        "startTime": 54203,
+        "endTime": 57389,
+        "slowStartTime": 81455,
+        "slowEndTime": 86309
+    },
+    {
+        "text": "Hey, I've got an idea.",
+        "startTime": 58619,
+        "endTime": 60155,
+        "slowStartTime": 88078,
+        "slowEndTime": 90458
+    },
+    {
+        "text": "Let's play \"Drive the Bus\"!",
+        "startTime": 60498,
+        "endTime": 61743,
+        "slowStartTime": 90897,
+        "slowEndTime": 92839
+    },
+    {
+        "text": "I'll go first!",
+        "startTime": 62895,
+        "endTime": 64047,
+        "slowStartTime": 94492,
+        "slowEndTime": 96295
+    },
+    {
+        "text": "C'mon! Just once around the block!",
+        "startTime": 67450,
+        "endTime": 69355,
+        "slowStartTime": 101325,
+        "slowEndTime": 104258
+    },
+    {
+        "text": "I'll be your best friend!",
+        "startTime": 70669,
+        "endTime": 72030,
+        "slowStartTime": 106153,
+        "slowEndTime": 108270
+    },
+    {
+        "text": "How about I give you five bucks?",
+        "startTime": 73037,
+        "endTime": 74699,
+        "slowStartTime": 109706,
+        "slowEndTime": 112274
+    },
+    {
+        "text": "No fair!",
+        "startTime": 75818,
+        "endTime": 76582,
+        "slowStartTime": 113877,
+        "slowEndTime": 115098
+    },
+    {
+        "text": "I bet your mom would let me.",
+        "startTime": 77671,
+        "endTime": 79226,
+        "slowStartTime": 116656,
+        "slowEndTime": 119064
+    },
+    {
+        "text": "What's the big deal?",
+        "startTime": 80227,
+        "endTime": 81235,
+        "slowStartTime": 120491,
+        "slowEndTime": 122077
+    },
+    {
+        "text": "I have dreams, you know!",
+        "startTime": 82343,
+        "endTime": 83442,
+        "slowStartTime": 123665,
+        "slowEndTime": 125388
+    },
+    {
+        "text": "Fine.",
+        "startTime": 84451,
+        "endTime": 85040,
+        "slowStartTime": 126826,
+        "slowEndTime": 127785
+    },
+    {
+        "text": "Let me drive the bus!",
+        "startTime": 86001,
+        "endTime": 87861,
+        "slowStartTime": 129151,
+        "slowEndTime": 132017
+    },
+    {
+        "text": "I'm back!",
+        "startTime": 100431,
+        "endTime": 101253,
+        "slowStartTime": 150797,
+        "slowEndTime": 152104
+    },
+    {
+        "text": "You didn't let the pigeon drive the bus, did you?",
+        "startTime": 101741,
+        "endTime": 104134,
+        "slowStartTime": 152762,
+        "slowEndTime": 156426
+    },
+    {
+        "text": "Great.  Thanks a lot.",
+        "startTime": 105353,
+        "endTime": 106703,
+        "slowStartTime": 158180,
+        "slowEndTime": 160280
+    },
+    {
+        "text": "Bye!",
+        "startTime": 115561,
+        "endTime": 116268,
+        "slowStartTime": 173491,
+        "slowEndTime": 174627
+    }
+]

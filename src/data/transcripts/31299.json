@@ -1,0 +1,100 @@
+[
+    {
+        "text": "I am Suzy.",
+        "startTime": 4565,
+        "endTime": 5741,
+        "slowStartTime": 6998,
+        "slowEndTime": 8836
+    },
+    {
+        "text": "My father is a cook.",
+        "startTime": 6016,
+        "endTime": 7514,
+        "slowStartTime": 9174,
+        "slowEndTime": 11496
+    },
+    {
+        "text": "You are a student.",
+        "startTime": 9360,
+        "endTime": 10901,
+        "slowStartTime": 14190,
+        "slowEndTime": 16576
+    },
+    {
+        "text": "Your teacher is Mrs. Hill.",
+        "startTime": 11595,
+        "endTime": 13217,
+        "slowStartTime": 17542,
+        "slowEndTime": 20050
+    },
+    {
+        "text": "He is a firefighter.",
+        "startTime": 14745,
+        "endTime": 16367,
+        "slowStartTime": 22267,
+        "slowEndTime": 24775
+    },
+    {
+        "text": "His wife is a doctor.",
+        "startTime": 17127,
+        "endTime": 18625,
+        "slowStartTime": 25841,
+        "slowEndTime": 28163
+    },
+    {
+        "text": "She is a doctor.",
+        "startTime": 20018,
+        "endTime": 21454,
+        "slowStartTime": 30177,
+        "slowEndTime": 32406
+    },
+    {
+        "text": "Her husband is a firefighter.",
+        "startTime": 22441,
+        "endTime": 24249,
+        "slowStartTime": 33811,
+        "slowEndTime": 36598
+    },
+    {
+        "text": "It is a dog.",
+        "startTime": 25846,
+        "endTime": 27035,
+        "slowStartTime": 38919,
+        "slowEndTime": 40777
+    },
+    {
+        "text": "Its lunch is a bone.",
+        "startTime": 27583,
+        "endTime": 28895,
+        "slowStartTime": 41524,
+        "slowEndTime": 43567
+    },
+    {
+        "text": "We are students.",
+        "startTime": 30617,
+        "endTime": 31867,
+        "slowStartTime": 46076,
+        "slowEndTime": 48026
+    },
+    {
+        "text": "Our teacher is Mrs. Hill.",
+        "startTime": 32614,
+        "endTime": 34360,
+        "slowStartTime": 49071,
+        "slowEndTime": 51765
+    },
+    {
+        "text": "They are vets.",
+        "startTime": 35945,
+        "endTime": 37216,
+        "slowStartTime": 54068,
+        "slowEndTime": 56049
+    },
+    {
+        "text": "Their friends are animals.",
+        "startTime": 37868,
+        "endTime": 39614,
+        "slowStartTime": 56952,
+        "slowEndTime": 59646
+    }
+]

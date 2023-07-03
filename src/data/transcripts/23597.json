@@ -1,0 +1,44 @@
+[
+    {
+        "text": "How did we get this far?",
+        "startTime": 7021,
+        "endTime": 8324,
+        "slowStartTime": 10681,
+        "slowEndTime": 12711
+    },
+    {
+        "text": "Human beings have an immeasurable desire to discover, to invent, to build.",
+        "startTime": 11121,
+        "endTime": 24725,
+        "slowStartTime": 16831,
+        "slowEndTime": 37312
+    },
+    {
+        "text": "Our future depends on us furthering these ideas.",
+        "startTime": 30309,
+        "endTime": 34731,
+        "slowStartTime": 45614,
+        "slowEndTime": 52322
+    },
+    {
+        "text": "Our responsibility, it rests on the shoulders of generations to come.",
+        "startTime": 37501,
+        "endTime": 44675,
+        "slowStartTime": 56401,
+        "slowEndTime": 67238
+    },
+    {
+        "text": "But with every new discovery, there is risk,...",
+        "startTime": 52924,
+        "endTime": 60253,
+        "slowStartTime": 79536,
+        "slowEndTime": 90604
+    },
+    {
+        "text": "...there is sacrifice and there are consequences.",
+        "startTime": 63801,
+        "endTime": 69439,
+        "slowStartTime": 95851,
+        "slowEndTime": 104384
+    }
+]

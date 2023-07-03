@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Hi, Linda! I've been calling all morning, but the line has been busy.",
+        "startTime": 3213,
+        "endTime": 7511,
+        "slowStartTime": 4970,
+        "slowEndTime": 11492
+    },
+    {
+        "text": "Hello? Can you speak up?",
+        "startTime": 8181,
+        "endTime": 10144,
+        "slowStartTime": 12422,
+        "slowEndTime": 15441
+    },
+    {
+        "text": "I can hardly hear you.",
+        "startTime": 10543,
+        "endTime": 11931,
+        "slowStartTime": 15964,
+        "slowEndTime": 18122
+    },
+    {
+        "text": "Who is calling, please?",
+        "startTime": 12292,
+        "endTime": 13468,
+        "slowStartTime": 18588,
+        "slowEndTime": 20427
+    },
+    {
+        "text": "It's Diane! Can you hear me now?",
+        "startTime": 14173,
+        "endTime": 16749,
+        "slowStartTime": 21409,
+        "slowEndTime": 25348
+    },
+    {
+        "text": "Hi, Diane! What's wrong with this phone line?",
+        "startTime": 17294,
+        "endTime": 20405,
+        "slowStartTime": 26091,
+        "slowEndTime": 30833
+    },
+    {
+        "text": "Is your battery dying?",
+        "startTime": 20823,
+        "endTime": 22169,
+        "slowStartTime": 31385,
+        "slowEndTime": 33479
+    },
+    {
+        "text": "It's not my cell phone.",
+        "startTime": 22750,
+        "endTime": 24054,
+        "slowStartTime": 34153,
+        "slowEndTime": 36306
+    },
+    {
+        "text": "This line is terrible.",
+        "startTime": 24400,
+        "endTime": 25752,
+        "slowStartTime": 36604,
+        "slowEndTime": 38853
+    },
+    {
+        "text": "Let me hang up and call you right back.",
+        "startTime": 26132,
+        "endTime": 28256,
+        "slowStartTime": 39348,
+        "slowEndTime": 42609
+    },
+    {
+        "text": "Hello?",
+        "startTime": 29108,
+        "endTime": 29665,
+        "slowStartTime": 43812,
+        "slowEndTime": 44722
+    },
+    {
+        "text": "Who is this? Is this Linda?",
+        "startTime": 30323,
+        "endTime": 32323,
+        "slowStartTime": 45500,
+        "slowEndTime": 48709
+    },
+    {
+        "text": "There's no Linda here.",
+        "startTime": 32737,
+        "endTime": 34281,
+        "slowStartTime": 49256,
+        "slowEndTime": 51646
+    },
+    {
+        "text": "I think you have the wrong number.",
+        "startTime": 34649,
+        "endTime": 36649,
+        "slowStartTime": 52124,
+        "slowEndTime": 55199
+    }
+]

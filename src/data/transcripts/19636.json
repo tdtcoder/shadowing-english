@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Hey dad, what are we gonna do today?",
+        "startTime": 2796,
+        "endTime": 5206,
+        "slowStartTime": 4344,
+        "slowEndTime": 8034
+    },
+    {
+        "text": "Well...",
+        "startTime": 6519,
+        "endTime": 6975,
+        "slowStartTime": 9929,
+        "slowEndTime": 10688
+    },
+    {
+        "text": "We got a bogey on our tail!",
+        "startTime": 43183,
+        "endTime": 44434,
+        "slowStartTime": 64924,
+        "slowEndTime": 66876
+    },
+    {
+        "text": "Hey!",
+        "startTime": 51888,
+        "endTime": 52291,
+        "slowStartTime": 77982,
+        "slowEndTime": 78662
+    },
+    {
+        "text": "Make every day epic.",
+        "startTime": 86034,
+        "endTime": 87618,
+        "slowStartTime": 129201,
+        "slowEndTime": 131652
+    },
+    {
+        "text": "The new seven passenger Santa Fe from Hyundai.",
+        "startTime": 87805,
+        "endTime": 90645,
+        "slowStartTime": 131857,
+        "slowEndTime": 136193
+    },
+    {
+        "text": "Dad, what are we gonna do tomorrow?",
+        "startTime": 93540,
+        "endTime": 96135,
+        "slowStartTime": 140460,
+        "slowEndTime": 144428
+    },
+    {
+        "text": "Well...",
+        "startTime": 97633,
+        "endTime": 98180,
+        "slowStartTime": 146599,
+        "slowEndTime": 147495
+    }
+]

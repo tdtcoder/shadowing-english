@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Halloween Horror Nights is the one time per year...",
+        "startTime": 15700,
+        "endTime": 18450,
+        "slowStartTime": 23750,
+        "slowEndTime": 27900
+    },
+    {
+        "text": "...when Universal Studios Hollywood transforms itself into a living horror movie.",
+        "startTime": 18550,
+        "endTime": 23500,
+        "slowStartTime": 28000,
+        "slowEndTime": 35300
+    },
+    {
+        "text": "This year, fear comes to life...",
+        "startTime": 25600,
+        "endTime": 27800,
+        "slowStartTime": 38600,
+        "slowEndTime": 42000
+    },
+    {
+        "text": "...as Halloween Horror Nights unleashes the most terrifying horror legends of all time.",
+        "startTime": 27900,
+        "endTime": 33300,
+        "slowStartTime": 42000,
+        "slowEndTime": 50200
+    },
+    {
+        "text": "An all new A Nightmare on Elm Street maze,...",
+        "startTime": 33550,
+        "endTime": 35950,
+        "slowStartTime": 50500,
+        "slowEndTime": 54200
+    },
+    {
+        "text": "...a brand-new Friday the 13th maze,...",
+        "startTime": 36000,
+        "endTime": 38100,
+        "slowStartTime": 54200,
+        "slowEndTime": 57400
+    },
+    {
+        "text": "...and our first ever 3D maze with Rob Zombie's House of 1,000 Corpses in 3D ZombieVision.",
+        "startTime": 38200,
+        "endTime": 44700,
+        "slowStartTime": 57500,
+        "slowEndTime": 67300
+    },
+    {
+        "text": "Plus, an original maze, Vampyre: Castle of the Undead...",
+        "startTime": 44900,
+        "endTime": 48450,
+        "slowStartTime": 67550,
+        "slowEndTime": 72900
+    },
+    {
+        "text": "...and back by popular demand, Saw, with new twists and traps.",
+        "startTime": 48650,
+        "endTime": 52850,
+        "slowStartTime": 73150,
+        "slowEndTime": 79550
+    },
+    {
+        "text": "Also, all new: the spine-chilling Terror Tram...",
+        "startTime": 52900,
+        "endTime": 55950,
+        "slowStartTime": 79550,
+        "slowEndTime": 84200
+    },
+    {
+        "text": "...featuring La Llorona, Chucky, and Psycho.",
+        "startTime": 56050,
+        "endTime": 58300,
+        "slowStartTime": 84300,
+        "slowEndTime": 87800
+    },
+    {
+        "text": "Yeah, really scary.",
+        "startTime": 62550,
+        "endTime": 63900,
+        "slowStartTime": 94000,
+        "slowEndTime": 96200
+    },
+    {
+        "text": "Halloween Horror Nights: what fear fears most.",
+        "startTime": 69950,
+        "endTime": 75800,
+        "slowStartTime": 105050,
+        "slowEndTime": 113900
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "text": "I prefer to watch a movie first and make my own judgment.",
+        "startTime": 4096,
+        "endTime": 7745,
+        "slowStartTime": 6294,
+        "slowEndTime": 11842
+    },
+    {
+        "text": "I prefer to browse the Goodwill store for used clothing.",
+        "startTime": 10696,
+        "endTime": 13746,
+        "slowStartTime": 16194,
+        "slowEndTime": 20844
+    },
+    {
+        "text": "Personally, I prefer winter weather.",
+        "startTime": 16655,
+        "endTime": 19392,
+        "slowStartTime": 25132,
+        "slowEndTime": 29313
+    },
+    {
+        "text": "I won't marry Paris. I would rather die.",
+        "startTime": 26330,
+        "endTime": 29761,
+        "slowStartTime": 39645,
+        "slowEndTime": 44867
+    },
+    {
+        "text": "I'd rather have a cup of tea if you don't mind.",
+        "startTime": 32778,
+        "endTime": 36164,
+        "slowStartTime": 49317,
+        "slowEndTime": 54471
+    },
+    {
+        "text": "I love wine more than just about anything else.",
+        "startTime": 43124,
+        "endTime": 45625,
+        "slowStartTime": 64836,
+        "slowEndTime": 68663
+    },
+    {
+        "text": "I love my mom more than anything.",
+        "startTime": 48425,
+        "endTime": 51650,
+        "slowStartTime": 72788,
+        "slowEndTime": 77700
+    },
+    {
+        "text": "I like small cars better than big cars.",
+        "startTime": 58471,
+        "endTime": 60985,
+        "slowStartTime": 87856,
+        "slowEndTime": 91703
+    },
+    {
+        "text": "I like whales better than other animals.",
+        "startTime": 64114,
+        "endTime": 66955,
+        "slowStartTime": 96321,
+        "slowEndTime": 100657
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Welcome to my new apartment, Terry.",
+        "startTime": 499,
+        "endTime": 2650,
+        "slowStartTime": 898,
+        "slowEndTime": 4200
+    },
+    {
+        "text": "Thanks for having me, Karina.",
+        "startTime": 3241,
+        "endTime": 5048,
+        "slowStartTime": 5011,
+        "slowEndTime": 7797
+    },
+    {
+        "text": "It looks great!",
+        "startTime": 5407,
+        "endTime": 6455,
+        "slowStartTime": 8260,
+        "slowEndTime": 9907
+    },
+    {
+        "text": "It's quite small, but it is very comfortable.",
+        "startTime": 7007,
+        "endTime": 9753,
+        "slowStartTime": 10661,
+        "slowEndTime": 14854
+    },
+    {
+        "text": "So, is this your living room?",
+        "startTime": 10375,
+        "endTime": 12901,
+        "slowStartTime": 15713,
+        "slowEndTime": 19577
+    },
+    {
+        "text": "Yes, it is.",
+        "startTime": 13293,
+        "endTime": 14181,
+        "slowStartTime": 20090,
+        "slowEndTime": 21497
+    },
+    {
+        "text": "This is my sofa, and that is my plant.",
+        "startTime": 14644,
+        "endTime": 18175,
+        "slowStartTime": 22116,
+        "slowEndTime": 27487
+    },
+    {
+        "text": "I see.",
+        "startTime": 18421,
+        "endTime": 19329,
+        "slowStartTime": 27781,
+        "slowEndTime": 29218
+    },
+    {
+        "text": "And these are our pictures from our trip to Europe.",
+        "startTime": 19836,
+        "endTime": 23106,
+        "slowStartTime": 29904,
+        "slowEndTime": 34884
+    },
+    {
+        "text": "Very nice!",
+        "startTime": 23409,
+        "endTime": 24761,
+        "slowStartTime": 35264,
+        "slowEndTime": 37366
+    },
+    {
+        "text": "These are our cushions.",
+        "startTime": 25233,
+        "endTime": 26972,
+        "slowStartTime": 37999,
+        "slowEndTime": 40683
+    },
+    {
+        "text": "They are gifts from my mother.",
+        "startTime": 27267,
+        "endTime": 28707,
+        "slowStartTime": 41050,
+        "slowEndTime": 43286
+    },
+    {
+        "text": "They are lovely.",
+        "startTime": 29123,
+        "endTime": 30271,
+        "slowStartTime": 43834,
+        "slowEndTime": 45632
+    },
+    {
+        "text": "And through there, that is our kitchen.",
+        "startTime": 30823,
+        "endTime": 33939,
+        "slowStartTime": 46385,
+        "slowEndTime": 51134
+    },
+    {
+        "text": "Wow! It's great.",
+        "startTime": 34285,
+        "endTime": 36078,
+        "slowStartTime": 51577,
+        "slowEndTime": 54342
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 36407,
+        "endTime": 37073,
+        "slowStartTime": 54761,
+        "slowEndTime": 55835
+    }
+]

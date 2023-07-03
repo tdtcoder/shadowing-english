@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Here is a lion.",
+        "startTime": 31,
+        "endTime": 1532,
+        "slowStartTime": 89,
+        "slowEndTime": 2523
+    },
+    {
+        "text": "He is the king of the animals.",
+        "startTime": 2426,
+        "endTime": 5047,
+        "slowStartTime": 3789,
+        "slowEndTime": 7796
+    },
+    {
+        "text": "Today, he doesn't feel good.",
+        "startTime": 5940,
+        "endTime": 9103,
+        "slowStartTime": 9060,
+        "slowEndTime": 13879
+    },
+    {
+        "text": "I feel so bad.",
+        "startTime": 10129,
+        "endTime": 12678,
+        "slowStartTime": 15343,
+        "slowEndTime": 19242
+    },
+    {
+        "text": "Hmm, what can I do?",
+        "startTime": 13481,
+        "endTime": 17143,
+        "slowStartTime": 20371,
+        "slowEndTime": 25940
+    },
+    {
+        "text": "I know, I'll call up the animals.",
+        "startTime": 18106,
+        "endTime": 21325,
+        "slowStartTime": 27309,
+        "slowEndTime": 32212
+    },
+    {
+        "text": "Soon three animals come to the lion.",
+        "startTime": 22283,
+        "endTime": 25418,
+        "slowStartTime": 33575,
+        "slowEndTime": 38352
+    },
+    {
+        "text": "They are a sheep, a wolf and a fox.",
+        "startTime": 26333,
+        "endTime": 29441,
+        "slowStartTime": 39649,
+        "slowEndTime": 44387
+    },
+    {
+        "text": "Are you there, Mr. Lion?",
+        "startTime": 30372,
+        "endTime": 33052,
+        "slowStartTime": 45708,
+        "slowEndTime": 49803
+    },
+    {
+        "text": "Come in.",
+        "startTime": 33914,
+        "endTime": 34914,
+        "slowStartTime": 51021,
+        "slowEndTime": 52596
+    },
+    {
+        "text": "The sheep goes up to the lion.",
+        "startTime": 35893,
+        "endTime": 38393,
+        "slowStartTime": 53989,
+        "slowEndTime": 57815
+    },
+    {
+        "text": "How are you doing, Mr. Lion?",
+        "startTime": 39371,
+        "endTime": 42298,
+        "slowStartTime": 59207,
+        "slowEndTime": 63672
+    },
+    {
+        "text": "You look so pale.",
+        "startTime": 43303,
+        "endTime": 45239,
+        "slowStartTime": 65105,
+        "slowEndTime": 68084
+    },
+    {
+        "text": "I don't feel good today.",
+        "startTime": 46311,
+        "endTime": 49193,
+        "slowStartTime": 69617,
+        "slowEndTime": 74015
+    },
+    {
+        "text": "Sheep, I have a question for you.",
+        "startTime": 50232,
+        "endTime": 54255,
+        "slowStartTime": 75498,
+        "slowEndTime": 81607
+    },
+    {
+        "text": "Tell me everything.",
+        "startTime": 55134,
+        "endTime": 57045,
+        "slowStartTime": 82851,
+        "slowEndTime": 85793
+    },
+    {
+        "text": "Do you always tell the truth?",
+        "startTime": 58055,
+        "endTime": 60876,
+        "slowStartTime": 87233,
+        "slowEndTime": 91539
+    },
+    {
+        "text": "Yes, sir! Always.",
+        "startTime": 61919,
+        "endTime": 64298,
+        "slowStartTime": 93028,
+        "slowEndTime": 96672
+    }
+]

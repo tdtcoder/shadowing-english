@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Frog lives in a tank.",
+        "startTime": 2606,
+        "endTime": 4407,
+        "slowStartTime": 4059,
+        "slowEndTime": 6835
+    },
+    {
+        "text": "A boy feeds him frog food.",
+        "startTime": 5556,
+        "endTime": 7759,
+        "slowStartTime": 8484,
+        "slowEndTime": 11864
+    },
+    {
+        "text": "\"I love frog food!\"",
+        "startTime": 8950,
+        "endTime": 10722,
+        "slowStartTime": 13575,
+        "slowEndTime": 16308
+    },
+    {
+        "text": "Says Frog.",
+        "startTime": 11231,
+        "endTime": 12238,
+        "slowStartTime": 16997,
+        "slowEndTime": 18582
+    },
+    {
+        "text": "The boy takes Frog outside.",
+        "startTime": 13331,
+        "endTime": 15625,
+        "slowStartTime": 20147,
+        "slowEndTime": 23662
+    },
+    {
+        "text": "Frog hops away.",
+        "startTime": 16813,
+        "endTime": 18362,
+        "slowStartTime": 25369,
+        "slowEndTime": 27768
+    },
+    {
+        "text": "Hop. Hop. Hop.",
+        "startTime": 19525,
+        "endTime": 21237,
+        "slowStartTime": 29437,
+        "slowEndTime": 32080
+    },
+    {
+        "text": "\"I am hungry,\"",
+        "startTime": 22392,
+        "endTime": 23649,
+        "slowStartTime": 33738,
+        "slowEndTime": 35698
+    },
+    {
+        "text": "Says Frog.",
+        "startTime": 24284,
+        "endTime": 25251,
+        "slowStartTime": 36576,
+        "slowEndTime": 38102
+    },
+    {
+        "text": "Frog eats a flower.",
+        "startTime": 26348,
+        "endTime": 28023,
+        "slowStartTime": 39672,
+        "slowEndTime": 42259
+    },
+    {
+        "text": "Munch. Munch. Munch.",
+        "startTime": 29144,
+        "endTime": 31123,
+        "slowStartTime": 43866,
+        "slowEndTime": 46909
+    },
+    {
+        "text": "Frog eats a stick.",
+        "startTime": 32271,
+        "endTime": 33877,
+        "slowStartTime": 48557,
+        "slowEndTime": 51040
+    },
+    {
+        "text": "Crunch. Crunch. Crunch.",
+        "startTime": 35011,
+        "endTime": 36979,
+        "slowStartTime": 52667,
+        "slowEndTime": 55693
+    },
+    {
+        "text": "\"Flowers are not frog food,\"",
+        "startTime": 38127,
+        "endTime": 40402,
+        "slowStartTime": 57341,
+        "slowEndTime": 60828
+    },
+    {
+        "text": "Says Frog.",
+        "startTime": 40963,
+        "endTime": 41883,
+        "slowStartTime": 61595,
+        "slowEndTime": 63050
+    },
+    {
+        "text": "\"Sticks are not frog food,\"",
+        "startTime": 43059,
+        "endTime": 45410,
+        "slowStartTime": 64739,
+        "slowEndTime": 68340
+    },
+    {
+        "text": "Says Frog.",
+        "startTime": 45793,
+        "endTime": 46703,
+        "slowStartTime": 68840,
+        "slowEndTime": 70279
+    },
+    {
+        "text": "Buzz. Buzz. Buzz.",
+        "startTime": 47877,
+        "endTime": 50083,
+        "slowStartTime": 71966,
+        "slowEndTime": 75349
+    },
+    {
+        "text": "Frog eats a fly!",
+        "startTime": 51247,
+        "endTime": 52871,
+        "slowStartTime": 77020,
+        "slowEndTime": 79532
+    },
+    {
+        "text": "\"Now that is a very good lunch!\"",
+        "startTime": 54017,
+        "endTime": 56569,
+        "slowStartTime": 81175,
+        "slowEndTime": 85078
+    },
+    {
+        "text": "Says Frog.",
+        "startTime": 57059,
+        "endTime": 58010,
+        "slowStartTime": 85738,
+        "slowEndTime": 87240
+    },
+    {
+        "text": "What is that?",
+        "startTime": 61114,
+        "endTime": 62348,
+        "slowStartTime": 91821,
+        "slowEndTime": 93747
+    },
+    {
+        "text": "It is a frog.",
+        "startTime": 63419,
+        "endTime": 64470,
+        "slowStartTime": 95279,
+        "slowEndTime": 96930
+    },
+    {
+        "text": "It is eating a stick.",
+        "startTime": 65647,
+        "endTime": 67266,
+        "slowStartTime": 98620,
+        "slowEndTime": 101124
+    },
+    {
+        "text": "Oh, no. The stick is not frog food.",
+        "startTime": 68526,
+        "endTime": 71752,
+        "slowStartTime": 102939,
+        "slowEndTime": 107853
+    },
+    {
+        "text": "Look! A boy feeds the frog flowers.",
+        "startTime": 72981,
+        "endTime": 76426,
+        "slowStartTime": 109622,
+        "slowEndTime": 114864
+    },
+    {
+        "text": "No way. Flowers are not a good lunch.",
+        "startTime": 77669,
+        "endTime": 81348,
+        "slowStartTime": 116654,
+        "slowEndTime": 122247
+    }
+]

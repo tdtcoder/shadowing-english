@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Dan Osgood.",
+        "startTime": 3023,
+        "endTime": 3945,
+        "slowStartTime": 4684,
+        "slowEndTime": 6143
+    },
+    {
+        "text": "Dan? Mark Curtis.",
+        "startTime": 4272,
+        "endTime": 5433,
+        "slowStartTime": 6558,
+        "slowEndTime": 8375
+    },
+    {
+        "text": "I'm glad you're there.",
+        "startTime": 5667,
+        "endTime": 6540,
+        "slowStartTime": 8650,
+        "slowEndTime": 10035
+    },
+    {
+        "text": "Hey, Mark, what's up?",
+        "startTime": 6964,
+        "endTime": 7535,
+        "slowStartTime": 10596,
+        "slowEndTime": 11527
+    },
+    {
+        "text": "I'm in kind of a panic here, Dan.",
+        "startTime": 8733,
+        "endTime": 10094,
+        "slowStartTime": 13250,
+        "slowEndTime": 15366
+    },
+    {
+        "text": "Do you remember that new set of assembly line that corp dropped on us?",
+        "startTime": 10466,
+        "endTime": 13094,
+        "slowStartTime": 15849,
+        "slowEndTime": 19866
+    },
+    {
+        "text": "You know, we were talking about it over lunch last week.",
+        "startTime": 13401,
+        "endTime": 15507,
+        "slowStartTime": 20251,
+        "slowEndTime": 23486
+    },
+    {
+        "text": "Oh, yeah.",
+        "startTime": 15717,
+        "endTime": 16303,
+        "slowStartTime": 23725,
+        "slowEndTime": 24680
+    },
+    {
+        "text": "Well, the schedules changed...",
+        "startTime": 16984,
+        "endTime": 18292,
+        "slowStartTime": 25626,
+        "slowEndTime": 27663
+    },
+    {
+        "text": "...and I need a new 35 PTH in here tomorrow.",
+        "startTime": 18527,
+        "endTime": 22092,
+        "slowStartTime": 27941,
+        "slowEndTime": 33363
+    },
+    {
+        "text": "Tomorrow, that can be tough, but I'll see what I can do.",
+        "startTime": 22918,
+        "endTime": 25876,
+        "slowStartTime": 34527,
+        "slowEndTime": 39039
+    },
+    {
+        "text": "I wouldn't ask, Dan, but it's critical.",
+        "startTime": 26865,
+        "endTime": 28839,
+        "slowStartTime": 40447,
+        "slowEndTime": 43484
+    },
+    {
+        "text": "I understand.",
+        "startTime": 29529,
+        "endTime": 30241,
+        "slowStartTime": 44443,
+        "slowEndTime": 45587
+    },
+    {
+        "text": "I'll do some checking and I'll see what I can come up with.",
+        "startTime": 30319,
+        "endTime": 32467,
+        "slowStartTime": 45628,
+        "slowEndTime": 48925
+    },
+    {
+        "text": "All right, thanks.",
+        "startTime": 33105,
+        "endTime": 33901,
+        "slowStartTime": 49807,
+        "slowEndTime": 51077
+    },
+    {
+        "text": "I'll sit tight.",
+        "startTime": 34224,
+        "endTime": 34976,
+        "slowStartTime": 51486,
+        "slowEndTime": 52689
+    }
+]

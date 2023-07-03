@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Did you hear there's going to be a big anti-fur rally downtown today?",
+        "startTime": 2213,
+        "endTime": 6127,
+        "slowStartTime": 3470,
+        "slowEndTime": 9415
+    },
+    {
+        "text": "Anti-fur rally? What is that all about?",
+        "startTime": 6409,
+        "endTime": 9101,
+        "slowStartTime": 9764,
+        "slowEndTime": 13877
+    },
+    {
+        "text": "You know, people are against killing animals.",
+        "startTime": 9369,
+        "endTime": 11791,
+        "slowStartTime": 14204,
+        "slowEndTime": 17912
+    },
+    {
+        "text": "Oh, well, I agree with that.",
+        "startTime": 12215,
+        "endTime": 13973,
+        "slowStartTime": 18473,
+        "slowEndTime": 21185
+    },
+    {
+        "text": "Maybe I should go to the rally.",
+        "startTime": 14268,
+        "endTime": 15931,
+        "slowStartTime": 21552,
+        "slowEndTime": 24122
+    },
+    {
+        "text": "Sure, why not?",
+        "startTime": 16305,
+        "endTime": 17549,
+        "slowStartTime": 24607,
+        "slowEndTime": 26549
+    },
+    {
+        "text": "It's going to be in front of Blumenthal's Department Store.",
+        "startTime": 17761,
+        "endTime": 20447,
+        "slowStartTime": 26792,
+        "slowEndTime": 30896
+    },
+    {
+        "text": "Blumenthal's? Why there?",
+        "startTime": 20704,
+        "endTime": 22663,
+        "slowStartTime": 31206,
+        "slowEndTime": 34220
+    },
+    {
+        "text": "Because they just signed a multimillion dollar deal to import expensive rare...",
+        "startTime": 22963,
+        "endTime": 27429,
+        "slowStartTime": 34595,
+        "slowEndTime": 41368
+    },
+    {
+        "text": "...furs from Russia.",
+        "startTime": 27578,
+        "endTime": 28586,
+        "slowStartTime": 41517,
+        "slowEndTime": 43104
+    },
+    {
+        "text": "Oh, I see. Then I guess that's a good place to hold the rally.",
+        "startTime": 28715,
+        "endTime": 32250,
+        "slowStartTime": 43223,
+        "slowEndTime": 48600
+    },
+    {
+        "text": "I heard even the mayor is going to be there.",
+        "startTime": 32513,
+        "endTime": 34765,
+        "slowStartTime": 48919,
+        "slowEndTime": 52372
+    },
+    {
+        "text": "He's going to make a speech, too.",
+        "startTime": 34945,
+        "endTime": 36742,
+        "slowStartTime": 52567,
+        "slowEndTime": 55338
+    },
+    {
+        "text": "He must feel very strongly about the issue.",
+        "startTime": 36860,
+        "endTime": 39071,
+        "slowStartTime": 55440,
+        "slowEndTime": 58831
+    },
+    {
+        "text": "He does. He is well-known to be a strong environmentalist.",
+        "startTime": 39294,
+        "endTime": 42938,
+        "slowStartTime": 59091,
+        "slowEndTime": 64632
+    }
+]

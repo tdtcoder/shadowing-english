@@ -1,0 +1,93 @@
+[
+    {
+        "text": "We're playing PIG, right?",
+        "startTime": 650,
+        "endTime": 1500,
+        "slowStartTime": 1250,
+        "slowEndTime": 2530
+    },
+    {
+        "text": "I am behind you.",
+        "startTime": 1550,
+        "endTime": 2250,
+        "slowStartTime": 2530,
+        "slowEndTime": 3650
+    },
+    {
+        "text": "Are you behind me?",
+        "startTime": 2800,
+        "endTime": 3500,
+        "slowStartTime": 4400,
+        "slowEndTime": 5310
+    },
+    {
+        "text": "That was the plan.",
+        "startTime": 4000,
+        "endTime": 4800,
+        "slowStartTime": 6240,
+        "slowEndTime": 7260
+    },
+    {
+        "text": "It's the White House rim.",
+        "startTime": 8650,
+        "endTime": 9750,
+        "slowStartTime": 13180,
+        "slowEndTime": 14800
+    },
+    {
+        "text": "Don't throw the game.",
+        "startTime": 22150,
+        "endTime": 23000,
+        "slowStartTime": 33500,
+        "slowEndTime": 34770
+    },
+    {
+        "text": "Got P, got P.",
+        "startTime": 26550,
+        "endTime": 28400,
+        "slowStartTime": 40075,
+        "slowEndTime": 42800
+    },
+    {
+        "text": "I'll play the whole team at this point.",
+        "startTime": 31100,
+        "endTime": 32600,
+        "slowStartTime": 46930,
+        "slowEndTime": 48900
+    },
+    {
+        "text": "Use your legs, girl.",
+        "startTime": 36800,
+        "endTime": 37650,
+        "slowStartTime": 55530,
+        "slowEndTime": 56640
+    },
+    {
+        "text": "That's mine.",
+        "startTime": 42300,
+        "endTime": 42950,
+        "slowStartTime": 65435,
+        "slowEndTime": 66180
+    },
+    {
+        "text": "Who else is up?",
+        "startTime": 43900,
+        "endTime": 44650,
+        "slowStartTime": 66200,
+        "slowEndTime": 67090
+    },
+    {
+        "text": "Come on now, let's see what you've got.",
+        "startTime": 55150,
+        "endTime": 56750,
+        "slowStartTime": 83030,
+        "slowEndTime": 85240
+    },
+    {
+        "text": "We might have to move it back a little bit.",
+        "startTime": 61650,
+        "endTime": 63100,
+        "slowStartTime": 92620,
+        "slowEndTime": 94745
+    }
+]

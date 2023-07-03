@@ -1,0 +1,58 @@
+[
+    {
+        "text": "How was the movie?",
+        "startTime": 95,
+        "endTime": 1294,
+        "slowStartTime": 293,
+        "slowEndTime": 2166
+    },
+    {
+        "text": "It was really good.",
+        "startTime": 2417,
+        "endTime": 3869,
+        "slowStartTime": 3775,
+        "slowEndTime": 6029
+    },
+    {
+        "text": "Was it scary?",
+        "startTime": 4933,
+        "endTime": 6093,
+        "slowStartTime": 7550,
+        "slowEndTime": 9365
+    },
+    {
+        "text": "Yes, it was really scary.",
+        "startTime": 7353,
+        "endTime": 9697,
+        "slowStartTime": 11179,
+        "slowEndTime": 14770
+    },
+    {
+        "text": "Nice!",
+        "startTime": 9979,
+        "endTime": 10713,
+        "slowStartTime": 15118,
+        "slowEndTime": 16295
+    },
+    {
+        "text": "Was it crowded?",
+        "startTime": 11195,
+        "endTime": 12183,
+        "slowStartTime": 16942,
+        "slowEndTime": 18499
+    },
+    {
+        "text": "No, it wasn't.",
+        "startTime": 12468,
+        "endTime": 13747,
+        "slowStartTime": 18852,
+        "slowEndTime": 20845
+    },
+    {
+        "text": "There weren't many people there, surprisingly.",
+        "startTime": 14037,
+        "endTime": 16585,
+        "slowStartTime": 21205,
+        "slowEndTime": 25103
+    }
+]

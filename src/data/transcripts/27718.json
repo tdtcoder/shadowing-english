@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Ashley Bryant you are a teacher of small children.",
+        "startTime": 607,
+        "endTime": 3549,
+        "slowStartTime": 1061,
+        "slowEndTime": 5549
+    },
+    {
+        "text": "That's right.",
+        "startTime": 3744,
+        "endTime": 4175,
+        "slowStartTime": 5766,
+        "slowEndTime": 6488
+    },
+    {
+        "text": "I have read it is the hardest job in the world.",
+        "startTime": 4420,
+        "endTime": 6918,
+        "slowStartTime": 6780,
+        "slowEndTime": 10602
+    },
+    {
+        "text": "That's why I'm here, can you...",
+        "startTime": 6994,
+        "endTime": 8132,
+        "slowStartTime": 10641,
+        "slowEndTime": 12423
+    },
+    {
+        "text": "I can offer advice from the accumulated knowledge of other educators.",
+        "startTime": 8188,
+        "endTime": 11759,
+        "slowStartTime": 12432,
+        "slowEndTime": 17863
+    },
+    {
+        "text": "That's wonderful but I...",
+        "startTime": 11839,
+        "endTime": 13223,
+        "slowStartTime": 17909,
+        "slowEndTime": 20059
+    },
+    {
+        "text": "I can tailor a curriculum for each student...",
+        "startTime": 13279,
+        "endTime": 15302,
+        "slowStartTime": 20069,
+        "slowEndTime": 23178
+    },
+    {
+        "text": "...by cross-referencing aptitude, development, geography...",
+        "startTime": 15423,
+        "endTime": 18219,
+        "slowStartTime": 23284,
+        "slowEndTime": 27554
+    },
+    {
+        "text": "Sorry to interrupt but I just have one question.",
+        "startTime": 18287,
+        "endTime": 20847,
+        "slowStartTime": 27581,
+        "slowEndTime": 31495
+    },
+    {
+        "text": "How do I keep them quiet?",
+        "startTime": 21405,
+        "endTime": 22332,
+        "slowStartTime": 32258,
+        "slowEndTime": 33723
+    },
+    {
+        "text": "Watson?",
+        "startTime": 25037,
+        "endTime": 25405,
+        "slowStartTime": 37706,
+        "slowEndTime": 38333
+    },
+    {
+        "text": "There is no known solution.",
+        "startTime": 26792,
+        "endTime": 28399,
+        "slowStartTime": 40338,
+        "slowEndTime": 42823
+    }
+]

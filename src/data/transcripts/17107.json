@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Good morning, my name is Bond, James Bond.",
+        "startTime": 525,
+        "endTime": 3715,
+        "slowStartTime": 938,
+        "slowEndTime": 5798
+    },
+    {
+        "text": "Who are you?",
+        "startTime": 4139,
+        "endTime": 4869,
+        "slowStartTime": 6359,
+        "slowEndTime": 7280
+    },
+    {
+        "text": "My name is Bond, James Bond.",
+        "startTime": 7085,
+        "endTime": 9431,
+        "slowStartTime": 10777,
+        "slowEndTime": 14372
+    },
+    {
+        "text": "This is the new banker, Mr...",
+        "startTime": 10137,
+        "endTime": 11959,
+        "slowStartTime": 15356,
+        "slowEndTime": 18164
+    },
+    {
+        "text": "Bond, James Bond.",
+        "startTime": 12971,
+        "endTime": 15244,
+        "slowStartTime": 19607,
+        "slowEndTime": 23091
+    },
+    {
+        "text": "Good evening, my name is Bond, James Bond.",
+        "startTime": 15975,
+        "endTime": 19425,
+        "slowStartTime": 24113,
+        "slowEndTime": 29362
+    },
+    {
+        "text": "I admire your luck, Mr...",
+        "startTime": 19962,
+        "endTime": 22493,
+        "slowStartTime": 30093,
+        "slowEndTime": 33965
+    },
+    {
+        "text": "Bond, James Bond.",
+        "startTime": 23043,
+        "endTime": 26325,
+        "slowStartTime": 34714,
+        "slowEndTime": 39712
+    },
+    {
+        "text": "Oh by the way, we haven't been properly introduced, Melina.",
+        "startTime": 26771,
+        "endTime": 29158,
+        "slowStartTime": 40307,
+        "slowEndTime": 43962
+    },
+    {
+        "text": "My name is Bond, James Bond.",
+        "startTime": 29436,
+        "endTime": 31659,
+        "slowStartTime": 44304,
+        "slowEndTime": 47714
+    },
+    {
+        "text": "Well, actually captain, I'm with the British Secret Service.",
+        "startTime": 32466,
+        "endTime": 34737,
+        "slowStartTime": 48849,
+        "slowEndTime": 52331
+    },
+    {
+        "text": "The name is Bond, James Bond.",
+        "startTime": 35147,
+        "endTime": 36911,
+        "slowStartTime": 52870,
+        "slowEndTime": 55592
+    },
+    {
+        "text": "So, you're a British spy.",
+        "startTime": 37694,
+        "endTime": 39052,
+        "slowStartTime": 56691,
+        "slowEndTime": 58803
+    },
+    {
+        "text": "Do you have a name?",
+        "startTime": 39207,
+        "endTime": 39830,
+        "slowStartTime": 58961,
+        "slowEndTime": 59970
+    },
+    {
+        "text": "The name is Bond, James Bond.",
+        "startTime": 39932,
+        "endTime": 46993,
+        "slowStartTime": 60048,
+        "slowEndTime": 70715
+    }
+]

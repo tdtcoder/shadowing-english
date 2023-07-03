@@ -1,0 +1,177 @@
+[
+    {
+        "text": "I can't find my cell phone.",
+        "startTime": 2982,
+        "endTime": 5303,
+        "slowStartTime": 4623,
+        "slowEndTime": 8180
+    },
+    {
+        "text": "Did you look under the table?",
+        "startTime": 6989,
+        "endTime": 8802,
+        "slowStartTime": 10633,
+        "slowEndTime": 13428
+    },
+    {
+        "text": "I did.",
+        "startTime": 10437,
+        "endTime": 11240,
+        "slowStartTime": 15806,
+        "slowEndTime": 17085
+    },
+    {
+        "text": "It wasn't there.",
+        "startTime": 11533,
+        "endTime": 12686,
+        "slowStartTime": 17449,
+        "slowEndTime": 19254
+    },
+    {
+        "text": "Oh, my cell phone is under the sofa!",
+        "startTime": 13448,
+        "endTime": 16765,
+        "slowStartTime": 20322,
+        "slowEndTime": 25373
+    },
+    {
+        "text": "I can't find my kids.",
+        "startTime": 20000,
+        "endTime": 21911,
+        "slowStartTime": 30150,
+        "slowEndTime": 33091
+    },
+    {
+        "text": "I saw them playing below the deck.",
+        "startTime": 24102,
+        "endTime": 26503,
+        "slowStartTime": 36303,
+        "slowEndTime": 39979
+    },
+    {
+        "text": "Oh, thanks a lot.",
+        "startTime": 27991,
+        "endTime": 29696,
+        "slowStartTime": 42137,
+        "slowEndTime": 44769
+    },
+    {
+        "text": "Oh, no!",
+        "startTime": 32786,
+        "endTime": 33668,
+        "slowStartTime": 49329,
+        "slowEndTime": 50727
+    },
+    {
+        "text": "There is a roach beneath the table.",
+        "startTime": 34177,
+        "endTime": 36827,
+        "slowStartTime": 51416,
+        "slowEndTime": 55465
+    },
+    {
+        "text": "What?",
+        "startTime": 38595,
+        "endTime": 38923,
+        "slowStartTime": 58043,
+        "slowEndTime": 58609
+    },
+    {
+        "text": "I hate roaches.",
+        "startTime": 39307,
+        "endTime": 40435,
+        "slowStartTime": 59111,
+        "slowEndTime": 60878
+    },
+    {
+        "text": "Let's get out of this room.",
+        "startTime": 40809,
+        "endTime": 42666,
+        "slowStartTime": 61363,
+        "slowEndTime": 64224
+    },
+    {
+        "text": "Lily walked through the door.",
+        "startTime": 49310,
+        "endTime": 51110,
+        "slowStartTime": 74115,
+        "slowEndTime": 76890
+    },
+    {
+        "text": "What did Lily see?",
+        "startTime": 51291,
+        "endTime": 52551,
+        "slowStartTime": 77087,
+        "slowEndTime": 79051
+    },
+    {
+        "text": "A room, a room, she saw a room.",
+        "startTime": 52961,
+        "endTime": 56339,
+        "slowStartTime": 79591,
+        "slowEndTime": 84734
+    },
+    {
+        "text": "Lily crossed the room.",
+        "startTime": 56879,
+        "endTime": 58732,
+        "slowStartTime": 85468,
+        "slowEndTime": 88323
+    },
+    {
+        "text": "What did Lily see?",
+        "startTime": 58816,
+        "endTime": 59997,
+        "slowStartTime": 88374,
+        "slowEndTime": 90221
+    },
+    {
+        "text": "A chair, a chair, she saw a chair.",
+        "startTime": 60428,
+        "endTime": 63847,
+        "slowStartTime": 90792,
+        "slowEndTime": 95996
+    },
+    {
+        "text": "Lily circled the chair.",
+        "startTime": 64346,
+        "endTime": 66168,
+        "slowStartTime": 96669,
+        "slowEndTime": 99477
+    },
+    {
+        "text": "What did Lily see?",
+        "startTime": 66279,
+        "endTime": 67544,
+        "slowStartTime": 99569,
+        "slowEndTime": 101541
+    },
+    {
+        "text": "A table, a table, she saw a table.",
+        "startTime": 67929,
+        "endTime": 71349,
+        "slowStartTime": 102044,
+        "slowEndTime": 107248
+    },
+    {
+        "text": "Lily jumped up on the couch.",
+        "startTime": 71909,
+        "endTime": 73684,
+        "slowStartTime": 108013,
+        "slowEndTime": 110751
+    },
+    {
+        "text": "What did she do?",
+        "startTime": 73793,
+        "endTime": 75047,
+        "slowStartTime": 110840,
+        "slowEndTime": 112795
+    },
+    {
+        "text": "She curled up and took a nap!",
+        "startTime": 75575,
+        "endTime": 78850,
+        "slowStartTime": 113513,
+        "slowEndTime": 118500
+    }
+]

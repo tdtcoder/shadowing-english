@@ -1,0 +1,128 @@
+[
+    {
+        "text": "What is arbitrage?",
+        "startTime": 715,
+        "endTime": 2218,
+        "slowStartTime": 1222,
+        "slowEndTime": 3552
+    },
+    {
+        "text": "Arbitrage is when you buy low and then sell high.",
+        "startTime": 2839,
+        "endTime": 5564,
+        "slowStartTime": 4408,
+        "slowEndTime": 8571
+    },
+    {
+        "text": "More specifically, you buy a low-priced good in one market...",
+        "startTime": 6267,
+        "endTime": 9341,
+        "slowStartTime": 9551,
+        "slowEndTime": 14237
+    },
+    {
+        "text": "...and resell that same good in a market where its price is higher.",
+        "startTime": 9639,
+        "endTime": 12887,
+        "slowStartTime": 14608,
+        "slowEndTime": 19555
+    },
+    {
+        "text": "The effect of arbitrage is to bring the prices in those two markets closer together,...",
+        "startTime": 13475,
+        "endTime": 17812,
+        "slowStartTime": 20363,
+        "slowEndTime": 26943
+    },
+    {
+        "text": "...therefore making it more difficult for firms to price-discriminate.",
+        "startTime": 18388,
+        "endTime": 21750,
+        "slowStartTime": 27732,
+        "slowEndTime": 32850
+    },
+    {
+        "text": "Let's see this with an example.",
+        "startTime": 22677,
+        "endTime": 24130,
+        "slowStartTime": 34165,
+        "slowEndTime": 36420
+    },
+    {
+        "text": "Rohm and Haas was a producer of a special plastic material...",
+        "startTime": 24836,
+        "endTime": 28065,
+        "slowStartTime": 37404,
+        "slowEndTime": 42322
+    },
+    {
+        "text": "...that had uses in both industry and dentistry.",
+        "startTime": 28176,
+        "endTime": 31305,
+        "slowStartTime": 42414,
+        "slowEndTime": 47182
+    },
+    {
+        "text": "This plastic had a variety of substitutes in industry,...",
+        "startTime": 32039,
+        "endTime": 34780,
+        "slowStartTime": 48209,
+        "slowEndTime": 52395
+    },
+    {
+        "text": "...but very few substitutes in dentistry.",
+        "startTime": 35137,
+        "endTime": 37225,
+        "slowStartTime": 52855,
+        "slowEndTime": 56062
+    },
+    {
+        "text": "Therefore, it was less expensive in industry than in dentistry,...",
+        "startTime": 37788,
+        "endTime": 41179,
+        "slowStartTime": 56832,
+        "slowEndTime": 61994
+    },
+    {
+        "text": "...85 cents per pound versus 22 dollars per pound.",
+        "startTime": 41728,
+        "endTime": 45548,
+        "slowStartTime": 62742,
+        "slowEndTime": 68547
+    },
+    {
+        "text": "Of course, with a price difference like that,...",
+        "startTime": 46209,
+        "endTime": 48385,
+        "slowStartTime": 69463,
+        "slowEndTime": 72802
+    },
+    {
+        "text": "...entrepreneurs started to arbitrage.",
+        "startTime": 48736,
+        "endTime": 50698,
+        "slowStartTime": 73254,
+        "slowEndTime": 76272
+    },
+    {
+        "text": "To buy up the industrial plastic,...",
+        "startTime": 51175,
+        "endTime": 52701,
+        "slowStartTime": 76913,
+        "slowEndTime": 79277
+    },
+    {
+        "text": "...convert it to the plastic for dentures,...",
+        "startTime": 52995,
+        "endTime": 54871,
+        "slowStartTime": 79642,
+        "slowEndTime": 82531
+    },
+    {
+        "text": "...and then resell that plastic at the higher price.",
+        "startTime": 55025,
+        "endTime": 57645,
+        "slowStartTime": 82688,
+        "slowEndTime": 86692
+    }
+]

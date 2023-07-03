@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Maybe it's my own fault.",
+        "startTime": 2000,
+        "endTime": 2900,
+        "slowStartTime": 3150,
+        "slowEndTime": 4500
+    },
+    {
+        "text": "Maybe I led you to believe it was easy, when it wasn't.",
+        "startTime": 4700,
+        "endTime": 7600,
+        "slowStartTime": 7250,
+        "slowEndTime": 11600
+    },
+    {
+        "text": "Maybe I made you think my highlights started at the free throw line...",
+        "startTime": 9350,
+        "endTime": 12200,
+        "slowStartTime": 14200,
+        "slowEndTime": 18650
+    },
+    {
+        "text": "...and not in the gym.",
+        "startTime": 12650,
+        "endTime": 13500,
+        "slowStartTime": 19200,
+        "slowEndTime": 20500
+    },
+    {
+        "text": "Maybe I made you think that every shot I took was a game winner,...",
+        "startTime": 15650,
+        "endTime": 18450,
+        "slowStartTime": 23650,
+        "slowEndTime": 27950
+    },
+    {
+        "text": "...that my game was built on flash and not fire.",
+        "startTime": 21200,
+        "endTime": 24200,
+        "slowStartTime": 32050,
+        "slowEndTime": 36500
+    },
+    {
+        "text": "Maybe it's my fault that you didn't see that failure gave me strength,...",
+        "startTime": 26900,
+        "endTime": 29900,
+        "slowStartTime": 40575,
+        "slowEndTime": 45000
+    },
+    {
+        "text": "...that my pain was my motivation.",
+        "startTime": 30500,
+        "endTime": 32600,
+        "slowStartTime": 45950,
+        "slowEndTime": 49125
+    },
+    {
+        "text": "Maybe I led you to believe that basketball was a God-given gift,...",
+        "startTime": 34850,
+        "endTime": 38000,
+        "slowStartTime": 52500,
+        "slowEndTime": 57250
+    },
+    {
+        "text": "...and not something I worked for every single day of my life.",
+        "startTime": 38550,
+        "endTime": 43200,
+        "slowStartTime": 58000,
+        "slowEndTime": 65050
+    },
+    {
+        "text": "Maybe I destroyed the game.",
+        "startTime": 47250,
+        "endTime": 48600,
+        "slowStartTime": 71100,
+        "slowEndTime": 73050
+    },
+    {
+        "text": "Or maybe, you're just making excuses.",
+        "startTime": 52000,
+        "endTime": 55000,
+        "slowStartTime": 78200,
+        "slowEndTime": 82700
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Please call me.",
+        "startTime": 248,
+        "endTime": 1023,
+        "slowStartTime": 522,
+        "slowEndTime": 1760
+    },
+    {
+        "text": "My phone number is 775-09375.",
+        "startTime": 1351,
+        "endTime": 6017,
+        "slowStartTime": 2177,
+        "slowEndTime": 9251
+    },
+    {
+        "text": "I will. Thank you.",
+        "startTime": 6359,
+        "endTime": 7522,
+        "slowStartTime": 9689,
+        "slowEndTime": 11508
+    },
+    {
+        "text": "You're welcome.",
+        "startTime": 8039,
+        "endTime": 8511,
+        "slowStartTime": 12208,
+        "slowEndTime": 12992
+    },
+    {
+        "text": "Please call me in the morning.",
+        "startTime": 10850,
+        "endTime": 12117,
+        "slowStartTime": 16425,
+        "slowEndTime": 18400
+    },
+    {
+        "text": "My phone number is 541-97493.",
+        "startTime": 12587,
+        "endTime": 16793,
+        "slowStartTime": 19031,
+        "slowEndTime": 25415
+    },
+    {
+        "text": "I will. Thank you.",
+        "startTime": 17727,
+        "endTime": 19115,
+        "slowStartTime": 26740,
+        "slowEndTime": 28897
+    },
+    {
+        "text": "You can call me, too.",
+        "startTime": 19684,
+        "endTime": 20683,
+        "slowStartTime": 29676,
+        "slowEndTime": 31250
+    },
+    {
+        "text": "My phone number is 435-93572.",
+        "startTime": 20947,
+        "endTime": 24785,
+        "slowStartTime": 31570,
+        "slowEndTime": 37402
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 25541,
+        "endTime": 26193,
+        "slowStartTime": 38461,
+        "slowEndTime": 39515
+    },
+    {
+        "text": "You're welcome.",
+        "startTime": 27209,
+        "endTime": 27765,
+        "slowStartTime": 40964,
+        "slowEndTime": 41872
+    },
+    {
+        "text": "Please send me an email at jamesnorton@company.com.",
+        "startTime": 30973,
+        "endTime": 34950,
+        "slowStartTime": 46610,
+        "slowEndTime": 52650
+    },
+    {
+        "text": "I will.",
+        "startTime": 35566,
+        "endTime": 36075,
+        "slowStartTime": 53499,
+        "slowEndTime": 54337
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 36212,
+        "endTime": 36751,
+        "slowStartTime": 54468,
+        "slowEndTime": 55351
+    },
+    {
+        "text": "You're welcome.",
+        "startTime": 37222,
+        "endTime": 37943,
+        "slowStartTime": 55983,
+        "slowEndTime": 57139
+    },
+    {
+        "text": "Please send me an email in the afternoon.",
+        "startTime": 43677,
+        "endTime": 46189,
+        "slowStartTime": 65665,
+        "slowEndTime": 69508
+    },
+    {
+        "text": "My email address is janemiller@mail.com.",
+        "startTime": 46862,
+        "endTime": 51605,
+        "slowStartTime": 70443,
+        "slowEndTime": 77632
+    },
+    {
+        "text": "I will.",
+        "startTime": 52219,
+        "endTime": 52595,
+        "slowStartTime": 78478,
+        "slowEndTime": 79118
+    },
+    {
+        "text": "Thanks!",
+        "startTime": 52728,
+        "endTime": 53355,
+        "slowStartTime": 79242,
+        "slowEndTime": 80258
+    },
+    {
+        "text": "You can send me an email, too.",
+        "startTime": 53841,
+        "endTime": 55290,
+        "slowStartTime": 80911,
+        "slowEndTime": 83160
+    },
+    {
+        "text": "My email address is markdavis@mail.com",
+        "startTime": 55937,
+        "endTime": 59305,
+        "slowStartTime": 84055,
+        "slowEndTime": 89183
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 60051,
+        "endTime": 60818,
+        "slowStartTime": 90227,
+        "slowEndTime": 91452
+    },
+    {
+        "text": "You're welcome.",
+        "startTime": 61276,
+        "endTime": 62300,
+        "slowStartTime": 92064,
+        "slowEndTime": 93675
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "text": "I'm going to put a vast majority of my energy, attention and dollars...",
+        "startTime": 50,
+        "endTime": 4544,
+        "slowStartTime": 168,
+        "slowEndTime": 7041
+    },
+    {
+        "text": "...into building a great product or service...",
+        "startTime": 4861,
+        "endTime": 7080,
+        "slowStartTime": 7442,
+        "slowEndTime": 10845
+    },
+    {
+        "text": "...and put a smaller amount into shouting about it, marketing it.",
+        "startTime": 7499,
+        "endTime": 11381,
+        "slowStartTime": 11399,
+        "slowEndTime": 17297
+    }
+]

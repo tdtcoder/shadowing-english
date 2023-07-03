@@ -1,0 +1,72 @@
+[
+    {
+        "text": "﻿Let's learn about places in the city.",
+        "startTime": 301,
+        "endTime": 2728,
+        "slowStartTime": 601,
+        "slowEndTime": 4317
+    },
+    {
+        "text": "She works at a pharmacy.",
+        "startTime": 4358,
+        "endTime": 6023,
+        "slowStartTime": 6687,
+        "slowEndTime": 9260
+    },
+    {
+        "text": "The police work at a police station.",
+        "startTime": 7549,
+        "endTime": 9845,
+        "slowStartTime": 11474,
+        "slowEndTime": 14993
+    },
+    {
+        "text": "They are at the post office.",
+        "startTime": 12389,
+        "endTime": 14336,
+        "slowStartTime": 18734,
+        "slowEndTime": 21729
+    },
+    {
+        "text": "They got married in a church.",
+        "startTime": 17713,
+        "endTime": 19643,
+        "slowStartTime": 26720,
+        "slowEndTime": 29689
+    },
+    {
+        "text": "This is an art gallery.",
+        "startTime": 22272,
+        "endTime": 23989,
+        "slowStartTime": 33558,
+        "slowEndTime": 36209
+    },
+    {
+        "text": "This is the bus station.",
+        "startTime": 27193,
+        "endTime": 28767,
+        "slowStartTime": 40940,
+        "slowEndTime": 43376
+    },
+    {
+        "text": "People shop at the supermarket.",
+        "startTime": 31479,
+        "endTime": 33743,
+        "slowStartTime": 47369,
+        "slowEndTime": 50839
+    },
+    {
+        "text": "The men are at the car dealership.",
+        "startTime": 36064,
+        "endTime": 38422,
+        "slowStartTime": 54246,
+        "slowEndTime": 57858
+    },
+    {
+        "text": "This is a train station.",
+        "startTime": 39719,
+        "endTime": 41771,
+        "slowStartTime": 59728,
+        "slowEndTime": 62881
+    }
+]

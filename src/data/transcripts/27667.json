@@ -1,0 +1,44 @@
+[
+    {
+        "text": "﻿Today's Yekaterinburg has a vibrant cultural scene,...",
+        "startTime": 497,
+        "endTime": 3728,
+        "slowStartTime": 895,
+        "slowEndTime": 5817
+    },
+    {
+        "text": "...home to many libraries, theaters and playwrights...",
+        "startTime": 3867,
+        "endTime": 7439,
+        "slowStartTime": 5950,
+        "slowEndTime": 11384
+    },
+    {
+        "text": "...and dance companies, as well as popular Russian rock bands.",
+        "startTime": 7667,
+        "endTime": 11394,
+        "slowStartTime": 11651,
+        "slowEndTime": 17316
+    },
+    {
+        "text": "Russia's fourth largest city also has more than 30 museums,...",
+        "startTime": 11887,
+        "endTime": 15769,
+        "slowStartTime": 17980,
+        "slowEndTime": 23878
+    },
+    {
+        "text": "...including the oldest wood sculpture in the world at the Shigir collection.",
+        "startTime": 16007,
+        "endTime": 19905,
+        "slowStartTime": 24160,
+        "slowEndTime": 30083
+    },
+    {
+        "text": "Another museum houses more than 300 Nevyansk icons.",
+        "startTime": 20324,
+        "endTime": 24577,
+        "slowStartTime": 30636,
+        "slowEndTime": 37091
+    }
+]

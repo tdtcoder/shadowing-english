@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Hi, Jake.",
+        "startTime": 1517,
+        "endTime": 2491,
+        "slowStartTime": 2426,
+        "slowEndTime": 3961
+    },
+    {
+        "text": "Hi, Dora. What are you doing here?",
+        "startTime": 3492,
+        "endTime": 6170,
+        "slowStartTime": 5388,
+        "slowEndTime": 9480
+    },
+    {
+        "text": "My puppy is missing. I'm looking for him.",
+        "startTime": 7203,
+        "endTime": 10373,
+        "slowStartTime": 10955,
+        "slowEndTime": 15784
+    },
+    {
+        "text": "Have you seen my puppy?",
+        "startTime": 10604,
+        "endTime": 12291,
+        "slowStartTime": 16056,
+        "slowEndTime": 18662
+    },
+    {
+        "text": "No, I haven't seen him.",
+        "startTime": 13309,
+        "endTime": 14924,
+        "slowStartTime": 20113,
+        "slowEndTime": 22611
+    },
+    {
+        "text": "What does he look like?",
+        "startTime": 15323,
+        "endTime": 16843,
+        "slowStartTime": 23134,
+        "slowEndTime": 25489
+    },
+    {
+        "text": "He is a small puppy with white fur.",
+        "startTime": 17709,
+        "endTime": 20253,
+        "slowStartTime": 26714,
+        "slowEndTime": 30604
+    },
+    {
+        "text": "Do you want me to help you look for your puppy?",
+        "startTime": 21215,
+        "endTime": 23662,
+        "slowStartTime": 31972,
+        "slowEndTime": 35718
+    },
+    {
+        "text": "Yes, please.",
+        "startTime": 24664,
+        "endTime": 25819,
+        "slowStartTime": 37146,
+        "slowEndTime": 38954
+    },
+    {
+        "text": "Mother Bear wakes up. Her cub is missing.",
+        "startTime": 31834,
+        "endTime": 37266,
+        "slowStartTime": 47901,
+        "slowEndTime": 56124
+    },
+    {
+        "text": "She looks for her cub in the cave. She can't find him.",
+        "startTime": 39275,
+        "endTime": 44823,
+        "slowStartTime": 59062,
+        "slowEndTime": 67459
+    },
+    {
+        "text": "Mother Bear goes to Fox, Deer, Rabbit and Raccoon.",
+        "startTime": 46864,
+        "endTime": 53889,
+        "slowStartTime": 70446,
+        "slowEndTime": 81058
+    },
+    {
+        "text": "\"Have you seen my cub?",
+        "startTime": 54429,
+        "endTime": 56715,
+        "slowStartTime": 81793,
+        "slowEndTime": 85297
+    },
+    {
+        "text": "He is missing, and I am worried.\",...",
+        "startTime": 58122,
+        "endTime": 61236,
+        "slowStartTime": 87333,
+        "slowEndTime": 92079
+    },
+    {
+        "text": "...Mother Bear asks them, but they say, \"No, I have not.\".",
+        "startTime": 61875,
+        "endTime": 68128,
+        "slowStartTime": 92963,
+        "slowEndTime": 102417
+    },
+    {
+        "text": "Mother Bear hears a bee buzzing, and goes to the bee to ask,...",
+        "startTime": 69423,
+        "endTime": 75626,
+        "slowStartTime": 104284,
+        "slowEndTime": 113664
+    },
+    {
+        "text": "...\"Have you seen my cub? He is missing, and I am worried.\".",
+        "startTime": 76930,
+        "endTime": 84113,
+        "slowStartTime": 115545,
+        "slowEndTime": 126395
+    },
+    {
+        "text": "\"Yes, I have. He is eating our honey.\", says the bee.",
+        "startTime": 84435,
+        "endTime": 90246,
+        "slowStartTime": 126802,
+        "slowEndTime": 135594
+    }
+]

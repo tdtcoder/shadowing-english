@@ -1,0 +1,86 @@
+[
+    {
+        "text": "My name is Tom.",
+        "startTime": 1032,
+        "endTime": 2190,
+        "slowStartTime": 1698,
+        "slowEndTime": 3510
+    },
+    {
+        "text": "I live in Los Angeles.",
+        "startTime": 3302,
+        "endTime": 5047,
+        "slowStartTime": 5103,
+        "slowEndTime": 7795
+    },
+    {
+        "text": "I work as a pilot.",
+        "startTime": 6263,
+        "endTime": 7541,
+        "slowStartTime": 9545,
+        "slowEndTime": 11537
+    },
+    {
+        "text": "I know how to fly planes.",
+        "startTime": 8360,
+        "endTime": 10161,
+        "slowStartTime": 12690,
+        "slowEndTime": 15466
+    },
+    {
+        "text": "On weekends, I can play football,...",
+        "startTime": 11560,
+        "endTime": 14134,
+        "slowStartTime": 17490,
+        "slowEndTime": 21426
+    },
+    {
+        "text": "...I can ride a motorcycle with my girlfriend...",
+        "startTime": 14879,
+        "endTime": 17297,
+        "slowStartTime": 22469,
+        "slowEndTime": 26170
+    },
+    {
+        "text": "...or I can drive my car.",
+        "startTime": 18469,
+        "endTime": 20299,
+        "slowStartTime": 27854,
+        "slowEndTime": 30674
+    },
+    {
+        "text": "I know how to cook Asian and Italian food.",
+        "startTime": 21963,
+        "endTime": 24842,
+        "slowStartTime": 33094,
+        "slowEndTime": 37488
+    },
+    {
+        "text": "I'm able to run very fast.",
+        "startTime": 26033,
+        "endTime": 28368,
+        "slowStartTime": 39199,
+        "slowEndTime": 42777
+    },
+    {
+        "text": "I also know how to fix computers.",
+        "startTime": 29403,
+        "endTime": 31375,
+        "slowStartTime": 44254,
+        "slowEndTime": 47288
+    },
+    {
+        "text": "I am good at singing and dancing.",
+        "startTime": 32851,
+        "endTime": 35731,
+        "slowStartTime": 49426,
+        "slowEndTime": 53821
+    },
+    {
+        "text": "I can do a lot of things.",
+        "startTime": 36921,
+        "endTime": 38789,
+        "slowStartTime": 55532,
+        "slowEndTime": 58409
+    }
+]

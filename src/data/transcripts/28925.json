@@ -1,0 +1,72 @@
+[
+    {
+        "text": "﻿Let's learn about words used in the operating room.",
+        "startTime": 571,
+        "endTime": 3852,
+        "slowStartTime": 1006,
+        "slowEndTime": 6003
+    },
+    {
+        "text": "Doctors are taking Bart to the operating room.",
+        "startTime": 10241,
+        "endTime": 12943,
+        "slowStartTime": 15512,
+        "slowEndTime": 19640
+    },
+    {
+        "text": "They carried him on a stretcher after the accident.",
+        "startTime": 20721,
+        "endTime": 23723,
+        "slowStartTime": 31231,
+        "slowEndTime": 35809
+    },
+    {
+        "text": "He works as a surgeon at the hospital.",
+        "startTime": 31053,
+        "endTime": 33429,
+        "slowStartTime": 46729,
+        "slowEndTime": 50368
+    },
+    {
+        "text": "The patient is on the operating table.",
+        "startTime": 39725,
+        "endTime": 42000,
+        "slowStartTime": 59737,
+        "slowEndTime": 63225
+    },
+    {
+        "text": "He is wearing an oxygen mask.",
+        "startTime": 48445,
+        "endTime": 50713,
+        "slowStartTime": 72818,
+        "slowEndTime": 76295
+    },
+    {
+        "text": "The surgeon is putting stitches on the patient's eyelid.",
+        "startTime": 56811,
+        "endTime": 60080,
+        "slowStartTime": 85367,
+        "slowEndTime": 90345
+    },
+    {
+        "text": "Dr. Lee uses a scalpel during surgeries.",
+        "startTime": 66161,
+        "endTime": 69293,
+        "slowStartTime": 99391,
+        "slowEndTime": 104165
+    },
+    {
+        "text": "Grandpa has a catheter under his bed.",
+        "startTime": 75540,
+        "endTime": 77847,
+        "slowStartTime": 113460,
+        "slowEndTime": 116995
+    },
+    {
+        "text": "She sits on a wheelchair in the waiting area.",
+        "startTime": 83975,
+        "endTime": 86877,
+        "slowStartTime": 126113,
+        "slowEndTime": 130541
+    }
+]

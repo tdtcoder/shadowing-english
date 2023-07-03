@@ -1,0 +1,79 @@
+[
+    {
+        "text": "In Indonesia, the Attorney General confirms the execution of eight drug traffickers,...",
+        "startTime": 3646,
+        "endTime": 8513,
+        "slowStartTime": 5619,
+        "slowEndTime": 12994
+    },
+    {
+        "text": "...including seven foreigners.",
+        "startTime": 8632,
+        "endTime": 10116,
+        "slowStartTime": 13098,
+        "slowEndTime": 15399
+    },
+    {
+        "text": "In Togo, election authorities declare incumbent President Faure Gnassingbe...",
+        "startTime": 13227,
+        "endTime": 18189,
+        "slowStartTime": 19990,
+        "slowEndTime": 27508
+    },
+    {
+        "text": "...the provisional winner of the country's latest presidential election.",
+        "startTime": 18301,
+        "endTime": 21750,
+        "slowStartTime": 27602,
+        "slowEndTime": 32850
+    },
+    {
+        "text": "In the United States, Japanese Prime Minister Shinzo Abe and President Obama...",
+        "startTime": 23015,
+        "endTime": 27431,
+        "slowStartTime": 34672,
+        "slowEndTime": 41371
+    },
+    {
+        "text": "...toast to bilateral relations at a White House state dinner...",
+        "startTime": 27639,
+        "endTime": 30603,
+        "slowStartTime": 41608,
+        "slowEndTime": 46130
+    },
+    {
+        "text": "...the evening before Abe will address a joint meeting of Congress.",
+        "startTime": 30716,
+        "endTime": 34193,
+        "slowStartTime": 46224,
+        "slowEndTime": 51515
+    },
+    {
+        "text": "In Yemen, the Saudi-led coalition bombed the Sanaa airport...",
+        "startTime": 35220,
+        "endTime": 39096,
+        "slowStartTime": 52980,
+        "slowEndTime": 58869
+    },
+    {
+        "text": "...to prevent an Iranian plane from landing.",
+        "startTime": 39398,
+        "endTime": 41794,
+        "slowStartTime": 59247,
+        "slowEndTime": 62916
+    },
+    {
+        "text": "And finally from Saudi Arabia, King Salman bin Abdulaziz shuffles top leaders...",
+        "startTime": 44999,
+        "endTime": 50541,
+        "slowStartTime": 67649,
+        "slowEndTime": 76036
+    },
+    {
+        "text": "...in a decree naming a new crown prince, foreign prime minister and deputy crown prince.",
+        "startTime": 50647,
+        "endTime": 55603,
+        "slowStartTime": 76120,
+        "slowEndTime": 83630
+    }
+]

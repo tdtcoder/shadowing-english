@@ -1,0 +1,72 @@
+[
+    {
+        "text": "No one else can do this but her.",
+        "startTime": 2150,
+        "endTime": 3653,
+        "slowStartTime": 3375,
+        "slowEndTime": 5704
+    },
+    {
+        "text": "She won't be able to handle it.",
+        "startTime": 4549,
+        "endTime": 5971,
+        "slowStartTime": 6973,
+        "slowEndTime": 9182
+    },
+    {
+        "text": "The games destroyed her.",
+        "startTime": 6511,
+        "endTime": 7917,
+        "slowStartTime": 9916,
+        "slowEndTime": 12101
+    },
+    {
+        "text": "Let her see what the Capitol did to District 12.",
+        "startTime": 8616,
+        "endTime": 11006,
+        "slowStartTime": 13074,
+        "slowEndTime": 16734
+    },
+    {
+        "text": "They're coming, Katniss",
+        "startTime": 11679,
+        "endTime": 12306,
+        "slowStartTime": 17669,
+        "slowEndTime": 18684
+    },
+    {
+        "text": "They're gonna kill everyone.",
+        "startTime": 13422,
+        "endTime": 14254,
+        "slowStartTime": 20283,
+        "slowEndTime": 21606
+    },
+    {
+        "text": "Ms. Everdeen.",
+        "startTime": 14397,
+        "endTime": 15281,
+        "slowStartTime": 21746,
+        "slowEndTime": 23147
+    },
+    {
+        "text": "Prepare to pay the ultimate price.",
+        "startTime": 15641,
+        "endTime": 18158,
+        "slowStartTime": 23611,
+        "slowEndTime": 27462
+    },
+    {
+        "text": "I have a message for President Snow.",
+        "startTime": 18772,
+        "endTime": 20801,
+        "slowStartTime": 28308,
+        "slowEndTime": 31426
+    },
+    {
+        "text": "If we burn, you burn with us.",
+        "startTime": 22455,
+        "endTime": 25637,
+        "slowStartTime": 33832,
+        "slowEndTime": 38681
+    }
+]

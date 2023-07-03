@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Do you like taking pictures?",
+        "startTime": 2465,
+        "endTime": 4350,
+        "slowStartTime": 3847,
+        "slowEndTime": 6750
+    },
+    {
+        "text": "Yes, I really like it. How about you?",
+        "startTime": 5553,
+        "endTime": 9278,
+        "slowStartTime": 8480,
+        "slowEndTime": 14142
+    },
+    {
+        "text": "I also like taking pictures.",
+        "startTime": 10405,
+        "endTime": 12414,
+        "slowStartTime": 15757,
+        "slowEndTime": 18846
+    },
+    {
+        "text": "Why don't we go to the park and take pictures together?",
+        "startTime": 13001,
+        "endTime": 16592,
+        "slowStartTime": 19652,
+        "slowEndTime": 25113
+    },
+    {
+        "text": "That's a good idea. When shall we go?",
+        "startTime": 17607,
+        "endTime": 20600,
+        "slowStartTime": 26561,
+        "slowEndTime": 31125
+    },
+    {
+        "text": "I'll check my schedule and let you know when to go.",
+        "startTime": 21775,
+        "endTime": 25295,
+        "slowStartTime": 32813,
+        "slowEndTime": 38168
+    },
+    {
+        "text": "OK.",
+        "startTime": 26307,
+        "endTime": 27084,
+        "slowStartTime": 39611,
+        "slowEndTime": 40851
+    },
+    {
+        "text": "I dislike drawing pictures. I don't know how to draw and color.",
+        "startTime": 30157,
+        "endTime": 35184,
+        "slowStartTime": 45386,
+        "slowEndTime": 53001
+    },
+    {
+        "text": "Do you want me to help you with drawing?",
+        "startTime": 36253,
+        "endTime": 38267,
+        "slowStartTime": 54529,
+        "slowEndTime": 57625
+    },
+    {
+        "text": "Yes, please.",
+        "startTime": 39326,
+        "endTime": 40456,
+        "slowStartTime": 59139,
+        "slowEndTime": 60909
+    }
+]

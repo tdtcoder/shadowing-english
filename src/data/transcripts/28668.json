@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Use \"so\" before an adjective and \"such\" before a noun.",
+        "startTime": 383,
+        "endTime": 6525,
+        "slowStartTime": 725,
+        "slowEndTime": 10013
+    },
+    {
+        "text": "It's so snowy.",
+        "startTime": 19331,
+        "endTime": 20673,
+        "slowStartTime": 29146,
+        "slowEndTime": 31234
+    },
+    {
+        "text": "It's such a snowy day.",
+        "startTime": 21045,
+        "endTime": 22976,
+        "slowStartTime": 31717,
+        "slowEndTime": 34689
+    },
+    {
+        "text": "This meeting is so boring.",
+        "startTime": 27004,
+        "endTime": 29741,
+        "slowStartTime": 40656,
+        "slowEndTime": 44836
+    },
+    {
+        "text": "It's such a boring meeting.",
+        "startTime": 30679,
+        "endTime": 33168,
+        "slowStartTime": 46169,
+        "slowEndTime": 49977
+    },
+    {
+        "text": "He's so tall!",
+        "startTime": 37068,
+        "endTime": 38690,
+        "slowStartTime": 55752,
+        "slowEndTime": 58260
+    },
+    {
+        "text": "He's such a tall guy.",
+        "startTime": 39447,
+        "endTime": 41099,
+        "slowStartTime": 59320,
+        "slowEndTime": 61874
+    },
+    {
+        "text": "So many people.",
+        "startTime": 45199,
+        "endTime": 47193,
+        "slowStartTime": 67949,
+        "slowEndTime": 71014
+    },
+    {
+        "text": "Such a big crowd.",
+        "startTime": 48037,
+        "endTime": 50216,
+        "slowStartTime": 72205,
+        "slowEndTime": 75549
+    },
+    {
+        "text": "It's so delicious.",
+        "startTime": 54512,
+        "endTime": 56887,
+        "slowStartTime": 81918,
+        "slowEndTime": 85555
+    },
+    {
+        "text": "It's such a delicious sandwich.",
+        "startTime": 57570,
+        "endTime": 60121,
+        "slowStartTime": 86505,
+        "slowEndTime": 90406
+    },
+    {
+        "text": "I'm so beautiful.",
+        "startTime": 64121,
+        "endTime": 66237,
+        "slowStartTime": 96331,
+        "slowEndTime": 99581
+    },
+    {
+        "text": "I'm such a beautiful person.",
+        "startTime": 67054,
+        "endTime": 69357,
+        "slowStartTime": 100731,
+        "slowEndTime": 104261
+    },
+    {
+        "text": "It's so nice out today.",
+        "startTime": 73337,
+        "endTime": 75078,
+        "slowStartTime": 110155,
+        "slowEndTime": 112842
+    },
+    {
+        "text": "It's such a nice day.",
+        "startTime": 75871,
+        "endTime": 78173,
+        "slowStartTime": 113956,
+        "slowEndTime": 117485
+    },
+    {
+        "text": "He is so lazy.",
+        "startTime": 82608,
+        "endTime": 85363,
+        "slowStartTime": 124062,
+        "slowEndTime": 128270
+    },
+    {
+        "text": "He's such a lazy cat.",
+        "startTime": 86209,
+        "endTime": 88697,
+        "slowStartTime": 129463,
+        "slowEndTime": 133270
+    }
+]

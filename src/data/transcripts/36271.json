@@ -1,0 +1,177 @@
+[
+    {
+        "text": "The first step in the process is to test the vaccine in a lab...",
+        "startTime": 1089,
+        "endTime": 4187,
+        "slowStartTime": 1783,
+        "slowEndTime": 6505
+    },
+    {
+        "text": "...on either human cells or on animals,...",
+        "startTime": 4252,
+        "endTime": 6371,
+        "slowStartTime": 6528,
+        "slowEndTime": 9781
+    },
+    {
+        "text": "...just to see if it causes any harm.",
+        "startTime": 6819,
+        "endTime": 8671,
+        "slowStartTime": 10379,
+        "slowEndTime": 13232
+    },
+    {
+        "text": "This is called the preclinical phase.",
+        "startTime": 9300,
+        "endTime": 11189,
+        "slowStartTime": 14100,
+        "slowEndTime": 17008
+    },
+    {
+        "text": "If it passes that test, it enters human trials.",
+        "startTime": 12199,
+        "endTime": 15108,
+        "slowStartTime": 18449,
+        "slowEndTime": 22887
+    },
+    {
+        "text": "This is the longest and most important part.",
+        "startTime": 15340,
+        "endTime": 17796,
+        "slowStartTime": 23160,
+        "slowEndTime": 26919
+    },
+    {
+        "text": "If it passes human trials, the vaccine gets licensed by regulators...",
+        "startTime": 18601,
+        "endTime": 22859,
+        "slowStartTime": 28052,
+        "slowEndTime": 34513
+    },
+    {
+        "text": "...and can be manufactured and distributed to the public.",
+        "startTime": 23182,
+        "endTime": 26337,
+        "slowStartTime": 34923,
+        "slowEndTime": 39731
+    },
+    {
+        "text": "Human trials typically have three phases,...",
+        "startTime": 27901,
+        "endTime": 30195,
+        "slowStartTime": 42002,
+        "slowEndTime": 45518
+    },
+    {
+        "text": "...each one testing a larger and larger group of people.",
+        "startTime": 30353,
+        "endTime": 33281,
+        "slowStartTime": 45680,
+        "slowEndTime": 50146
+    },
+    {
+        "text": "Phase 1 involves a very small group of people, maybe 50,...",
+        "startTime": 34449,
+        "endTime": 38010,
+        "slowStartTime": 51823,
+        "slowEndTime": 57240
+    },
+    {
+        "text": "...and mainly tests if the vaccine is safe.",
+        "startTime": 38390,
+        "endTime": 40697,
+        "slowStartTime": 57735,
+        "slowEndTime": 61270
+    },
+    {
+        "text": "Phase 2 usually involves a few hundred participants.",
+        "startTime": 41245,
+        "endTime": 44269,
+        "slowStartTime": 62017,
+        "slowEndTime": 66629
+    },
+    {
+        "text": "This is where we start learning if the vaccine actually works.",
+        "startTime": 44710,
+        "endTime": 47625,
+        "slowStartTime": 67215,
+        "slowEndTime": 71663
+    },
+    {
+        "text": "And there's the final test: the Phase 3 trial.",
+        "startTime": 48833,
+        "endTime": 51922,
+        "slowStartTime": 73399,
+        "slowEndTime": 78108
+    },
+    {
+        "text": "It's expensive, it takes time, it requires tens of thousands of volunteers,...",
+        "startTime": 52205,
+        "endTime": 56994,
+        "slowStartTime": 78458,
+        "slowEndTime": 85716
+    },
+    {
+        "text": "...and it involves as broad a cross-section of participants as possible,",
+        "startTime": 57209,
+        "endTime": 60962,
+        "slowStartTime": 85964,
+        "slowEndTime": 91668
+    },
+    {
+        "text": "The entire process of developing a vaccine usually takes around 10 years,...",
+        "startTime": 61955,
+        "endTime": 67259,
+        "slowStartTime": 93083,
+        "slowEndTime": 101113
+    },
+    {
+        "text": "...but many COVID-19 vaccine developers are racing to compress this entire process...",
+        "startTime": 67635,
+        "endTime": 72389,
+        "slowStartTime": 101603,
+        "slowEndTime": 108808
+    },
+    {
+        "text": "...into about a year and a half.",
+        "startTime": 72757,
+        "endTime": 74423,
+        "slowStartTime": 109285,
+        "slowEndTime": 111859
+    },
+    {
+        "text": "One way they're doing this is to overlap the different phases,...",
+        "startTime": 75958,
+        "endTime": 79159,
+        "slowStartTime": 114087,
+        "slowEndTime": 118964
+    },
+    {
+        "text": "...conducting several different trials at once,...",
+        "startTime": 79250,
+        "endTime": 81729,
+        "slowStartTime": 119025,
+        "slowEndTime": 122819
+    },
+    {
+        "text": "...or, to ramp up the manufacturing of a vaccine...",
+        "startTime": 82447,
+        "endTime": 84961,
+        "slowStartTime": 123820,
+        "slowEndTime": 127666
+    },
+    {
+        "text": "...while it's still being tested,...",
+        "startTime": 85033,
+        "endTime": 86300,
+        "slowStartTime": 127699,
+        "slowEndTime": 129675
+    },
+    {
+        "text": "...so that if it works, it can be distributed right away.",
+        "startTime": 86408,
+        "endTime": 89026,
+        "slowStartTime": 129762,
+        "slowEndTime": 133764
+    }
+]

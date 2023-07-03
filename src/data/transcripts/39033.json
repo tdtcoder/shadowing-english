@@ -1,0 +1,107 @@
+[
+    {
+        "text": "What are your plans this summer?",
+        "startTime": 695,
+        "endTime": 2332,
+        "slowStartTime": 1193,
+        "slowEndTime": 3723
+    },
+    {
+        "text": "I will be taking English classes twice a week...",
+        "startTime": 3049,
+        "endTime": 5665,
+        "slowStartTime": 4723,
+        "slowEndTime": 8722
+    },
+    {
+        "text": "...and studying for the TOEIC test. What about you?",
+        "startTime": 6395,
+        "endTime": 9953,
+        "slowStartTime": 9743,
+        "slowEndTime": 15155
+    },
+    {
+        "text": "My dad owns a restaurant by the beach,...",
+        "startTime": 10523,
+        "endTime": 12713,
+        "slowStartTime": 15935,
+        "slowEndTime": 19294
+    },
+    {
+        "text": "...which gets busy during the summer.",
+        "startTime": 12886,
+        "endTime": 14485,
+        "slowStartTime": 19479,
+        "slowEndTime": 21952
+    },
+    {
+        "text": "He asked if I could help, and I said yes.",
+        "startTime": 15099,
+        "endTime": 17814,
+        "slowStartTime": 22798,
+        "slowEndTime": 26946
+    },
+    {
+        "text": "I thought it would be good for me...",
+        "startTime": 18767,
+        "endTime": 20173,
+        "slowStartTime": 28301,
+        "slowEndTime": 30484
+    },
+    {
+        "text": "...because I plan to be in the food business in the future.",
+        "startTime": 20609,
+        "endTime": 23220,
+        "slowStartTime": 31064,
+        "slowEndTime": 35055
+    },
+    {
+        "text": "I will be working there on weekends.",
+        "startTime": 24009,
+        "endTime": 26101,
+        "slowStartTime": 36164,
+        "slowEndTime": 39377
+    },
+    {
+        "text": "Nice. Does he need any more people?",
+        "startTime": 26809,
+        "endTime": 29049,
+        "slowStartTime": 40363,
+        "slowEndTime": 43798
+    },
+    {
+        "text": "I need more money...",
+        "startTime": 29608,
+        "endTime": 30873,
+        "slowStartTime": 44562,
+        "slowEndTime": 46534
+    },
+    {
+        "text": "...to pay for my classes at university this fall.",
+        "startTime": 31411,
+        "endTime": 34117,
+        "slowStartTime": 47266,
+        "slowEndTime": 51401
+    },
+    {
+        "text": "That's a good idea!",
+        "startTime": 34688,
+        "endTime": 36339,
+        "slowStartTime": 52182,
+        "slowEndTime": 54733
+    },
+    {
+        "text": "I'll ask my dad and let you know.",
+        "startTime": 36921,
+        "endTime": 38544,
+        "slowStartTime": 55532,
+        "slowEndTime": 58041
+    },
+    {
+        "text": "That would be great. Thanks!",
+        "startTime": 39566,
+        "endTime": 41325,
+        "slowStartTime": 59499,
+        "slowEndTime": 62212
+    }
+]

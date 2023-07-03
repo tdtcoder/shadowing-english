@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Let's say there's this machine and the machine makes toys.",
+        "startTime": 501,
+        "endTime": 4841,
+        "slowStartTime": 901,
+        "slowEndTime": 7487
+    },
+    {
+        "text": "The machine makes red toys and the machine makes blue toys.",
+        "startTime": 6117,
+        "endTime": 9373,
+        "slowStartTime": 9326,
+        "slowEndTime": 14284
+    },
+    {
+        "text": "All day long, the machine makes blue and red toys.",
+        "startTime": 9721,
+        "endTime": 12487,
+        "slowStartTime": 14732,
+        "slowEndTime": 18955
+    },
+    {
+        "text": "But then, sometimes the machine makes a purple toy.",
+        "startTime": 12759,
+        "endTime": 15397,
+        "slowStartTime": 19289,
+        "slowEndTime": 23321
+    },
+    {
+        "text": "And someone says, \"This is a blue toy...\"",
+        "startTime": 15898,
+        "endTime": 18403,
+        "slowStartTime": 23997,
+        "slowEndTime": 27829
+    },
+    {
+        "text": "\"...because this machine only makes blue or red toys.\"",
+        "startTime": 19339,
+        "endTime": 22217,
+        "slowStartTime": 29158,
+        "slowEndTime": 33551
+    },
+    {
+        "text": "So, the purple toy is a blue toy.",
+        "startTime": 22645,
+        "endTime": 24450,
+        "slowStartTime": 34118,
+        "slowEndTime": 36900
+    },
+    {
+        "text": "But then, sometimes the machine makes another purple toy.",
+        "startTime": 25119,
+        "endTime": 28285,
+        "slowStartTime": 37829,
+        "slowEndTime": 42652
+    },
+    {
+        "text": "And someone says, \"This is a red toy...\"",
+        "startTime": 28605,
+        "endTime": 30678,
+        "slowStartTime": 43057,
+        "slowEndTime": 46242
+    },
+    {
+        "text": "\"...because this machine only makes blue or red toys.\"",
+        "startTime": 31259,
+        "endTime": 34037,
+        "slowStartTime": 47039,
+        "slowEndTime": 51280
+    },
+    {
+        "text": "So, the purple toys try to fit in.",
+        "startTime": 34637,
+        "endTime": 36684,
+        "slowStartTime": 52105,
+        "slowEndTime": 55251
+    },
+    {
+        "text": "But one day, someone says, \"Maybe this machine also makes purple toys.\"",
+        "startTime": 37766,
+        "endTime": 42357,
+        "slowStartTime": 56799,
+        "slowEndTime": 63761
+    },
+    {
+        "text": "And everyone stops for a second...",
+        "startTime": 43344,
+        "endTime": 44955,
+        "slowStartTime": 65166,
+        "slowEndTime": 67658
+    },
+    {
+        "text": "...because the world's been built with the understanding...",
+        "startTime": 46025,
+        "endTime": 48846,
+        "slowStartTime": 69187,
+        "slowEndTime": 73494
+    },
+    {
+        "text": "...that the machine only makes blue toys or red toys.",
+        "startTime": 48917,
+        "endTime": 51651,
+        "slowStartTime": 73526,
+        "slowEndTime": 77702
+    },
+    {
+        "text": "Blue toys are mad because there may be purple toys among them, red toys too.",
+        "startTime": 51917,
+        "endTime": 56421,
+        "slowStartTime": 78025,
+        "slowEndTime": 84856
+    },
+    {
+        "text": "But it would be much easier...",
+        "startTime": 56784,
+        "endTime": 58559,
+        "slowStartTime": 85326,
+        "slowEndTime": 88063
+    },
+    {
+        "text": "...if red and blue toys realize that the machine may be more complicated...",
+        "startTime": 58683,
+        "endTime": 63278,
+        "slowStartTime": 88174,
+        "slowEndTime": 95142
+    },
+    {
+        "text": "...than just making red toys and blue toys.",
+        "startTime": 63371,
+        "endTime": 65453,
+        "slowStartTime": 95207,
+        "slowEndTime": 98404
+    },
+    {
+        "text": "The toys talk more and more about the purple toys...",
+        "startTime": 65783,
+        "endTime": 68801,
+        "slowStartTime": 98824,
+        "slowEndTime": 103426
+    },
+    {
+        "text": "...and slowly, considerations are made for purple toys.",
+        "startTime": 69529,
+        "endTime": 73083,
+        "slowStartTime": 104444,
+        "slowEndTime": 109850
+    }
+]

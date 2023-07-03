@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Is there weather on the Moon?",
+        "startTime": 2350,
+        "endTime": 4169,
+        "slowStartTime": 3675,
+        "slowEndTime": 6478
+    },
+    {
+        "text": "Well, because the Moon doesn't have a significant atmosphere like Earth,...",
+        "startTime": 9771,
+        "endTime": 14211,
+        "slowStartTime": 14806,
+        "slowEndTime": 21541
+    },
+    {
+        "text": "...it does not experience weather like wind or atmospheric temperature...",
+        "startTime": 14375,
+        "endTime": 19007,
+        "slowStartTime": 21712,
+        "slowEndTime": 28735
+    },
+    {
+        "text": "...or precipitation like rain and snow.",
+        "startTime": 19206,
+        "endTime": 21220,
+        "slowStartTime": 28959,
+        "slowEndTime": 32055
+    },
+    {
+        "text": "However, the Moon does experience what we refer to as space weather.",
+        "startTime": 21634,
+        "endTime": 26291,
+        "slowStartTime": 32601,
+        "slowEndTime": 39661
+    },
+    {
+        "text": "Space weather loosely refers to how changing conditions throughout the solar system,...",
+        "startTime": 26771,
+        "endTime": 32488,
+        "slowStartTime": 40307,
+        "slowEndTime": 48957
+    },
+    {
+        "text": "...like the burning solar wind,...",
+        "startTime": 32601,
+        "endTime": 33973,
+        "slowStartTime": 49051,
+        "slowEndTime": 51184
+    },
+    {
+        "text": "...which is composed of charged particles from the sun and meteoroid streams,...",
+        "startTime": 34085,
+        "endTime": 38511,
+        "slowStartTime": 51278,
+        "slowEndTime": 57991
+    },
+    {
+        "text": "...affect planetary surfaces and volatile cycles.",
+        "startTime": 38619,
+        "endTime": 42264,
+        "slowStartTime": 58078,
+        "slowEndTime": 63621
+    },
+    {
+        "text": "So at the Moon, the solar wind and meteoroids have direct access to the surface,...",
+        "startTime": 42533,
+        "endTime": 47964,
+        "slowStartTime": 63950,
+        "slowEndTime": 72171
+    },
+    {
+        "text": "...and they continuously alter the lunar soil.",
+        "startTime": 48185,
+        "endTime": 51191,
+        "slowStartTime": 72428,
+        "slowEndTime": 77012
+    },
+    {
+        "text": "These same processes can eject gases from the lunar soil...",
+        "startTime": 51373,
+        "endTime": 55319,
+        "slowStartTime": 77210,
+        "slowEndTime": 83204
+    },
+    {
+        "text": "...and form a very tenuous lunar atmosphere,....",
+        "startTime": 55457,
+        "endTime": 58519,
+        "slowStartTime": 83336,
+        "slowEndTime": 88003
+    },
+    {
+        "text": "...which we refer to as an exosphere.",
+        "startTime": 58619,
+        "endTime": 60403,
+        "slowStartTime": 88078,
+        "slowEndTime": 90829
+    },
+    {
+        "text": "At Earth, our atmosphere and magnetosphere largely protects us from space weather.",
+        "startTime": 60641,
+        "endTime": 65743,
+        "slowStartTime": 91111,
+        "slowEndTime": 98840
+    },
+    {
+        "text": "However, in the uppermost regions of Earth's atmosphere,...",
+        "startTime": 65984,
+        "endTime": 68924,
+        "slowStartTime": 99126,
+        "slowEndTime": 103611
+    },
+    {
+        "text": "...it can be a problem for satellite technologies.",
+        "startTime": 69049,
+        "endTime": 72005,
+        "slowStartTime": 103724,
+        "slowEndTime": 108233
+    },
+    {
+        "text": "So is there weather on the Moon?",
+        "startTime": 72327,
+        "endTime": 74845,
+        "slowStartTime": 108640,
+        "slowEndTime": 112493
+    },
+    {
+        "text": "The Moon does not experience weather like on Earth related to the atmosphere.",
+        "startTime": 75144,
+        "endTime": 78975,
+        "slowStartTime": 112866,
+        "slowEndTime": 118687
+    },
+    {
+        "text": "However, it does experience space weather,...",
+        "startTime": 79087,
+        "endTime": 81387,
+        "slowStartTime": 118781,
+        "slowEndTime": 122305
+    },
+    {
+        "text": "...and that will be very important to forecast as humans return to the Moon.",
+        "startTime": 81475,
+        "endTime": 85322,
+        "slowStartTime": 122363,
+        "slowEndTime": 128208
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Five plus zero equals one, two, three four, five.",
+        "startTime": 1837,
+        "endTime": 12870,
+        "slowStartTime": 2905,
+        "slowEndTime": 19530
+    },
+    {
+        "text": "Five plus zero equals five.",
+        "startTime": 15177,
+        "endTime": 17804,
+        "slowStartTime": 22915,
+        "slowEndTime": 26931
+    },
+    {
+        "text": "That was awesome.",
+        "startTime": 18236,
+        "endTime": 19703,
+        "slowStartTime": 27504,
+        "slowEndTime": 29779
+    },
+    {
+        "text": "Two plus two equals one, two, three, four.",
+        "startTime": 20285,
+        "endTime": 30225,
+        "slowStartTime": 30577,
+        "slowEndTime": 45563
+    },
+    {
+        "text": "Two plus two equals four.",
+        "startTime": 31757,
+        "endTime": 34617,
+        "slowStartTime": 47785,
+        "slowEndTime": 52151
+    },
+    {
+        "text": "You are the best.",
+        "startTime": 34921,
+        "endTime": 36327,
+        "slowStartTime": 52532,
+        "slowEndTime": 54715
+    },
+    {
+        "text": "One plus one equals one, two.",
+        "startTime": 36899,
+        "endTime": 44898,
+        "slowStartTime": 55498,
+        "slowEndTime": 67572
+    },
+    {
+        "text": "One plus one equals two.",
+        "startTime": 47034,
+        "endTime": 49616,
+        "slowStartTime": 70701,
+        "slowEndTime": 74649
+    },
+    {
+        "text": "That was awesome.",
+        "startTime": 50057,
+        "endTime": 51435,
+        "slowStartTime": 75236,
+        "slowEndTime": 77378
+    },
+    {
+        "text": "Three plus one equals one, two, three, four.",
+        "startTime": 52184,
+        "endTime": 63775,
+        "slowStartTime": 78426,
+        "slowEndTime": 95887
+    },
+    {
+        "text": "Three plus one equals four.",
+        "startTime": 65712,
+        "endTime": 68293,
+        "slowStartTime": 98718,
+        "slowEndTime": 102665
+    },
+    {
+        "text": "You are the best.",
+        "startTime": 68685,
+        "endTime": 70183,
+        "slowStartTime": 103178,
+        "slowEndTime": 105500
+    }
+]

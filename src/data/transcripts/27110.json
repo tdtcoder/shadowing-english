@@ -1,0 +1,37 @@
+[
+    {
+        "text": "﻿Black Sheep.",
+        "startTime": 8007,
+        "endTime": 8573,
+        "slowStartTime": 12160,
+        "slowEndTime": 13084
+    },
+    {
+        "text": "It means someone who is considered to be a disgrace in a group.",
+        "startTime": 11761,
+        "endTime": 15480,
+        "slowStartTime": 17791,
+        "slowEndTime": 23445
+    },
+    {
+        "text": "The black sheep of the family is a troublemaker.",
+        "startTime": 20879,
+        "endTime": 23723,
+        "slowStartTime": 31469,
+        "slowEndTime": 35810
+    },
+    {
+        "text": "The black sheep brings nothing but embarrassment.",
+        "startTime": 30193,
+        "endTime": 33341,
+        "slowStartTime": 45440,
+        "slowEndTime": 50236
+    },
+    {
+        "text": "The black sheep of the group doesn't participate in the discussion.",
+        "startTime": 38927,
+        "endTime": 43166,
+        "slowStartTime": 58540,
+        "slowEndTime": 64974
+    }
+]

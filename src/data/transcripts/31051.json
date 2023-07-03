@@ -1,0 +1,121 @@
+[
+    {
+        "text": "﻿Wake up!",
+        "startTime": 3665,
+        "endTime": 4545,
+        "slowStartTime": 5648,
+        "slowEndTime": 7042
+    },
+    {
+        "text": "Get up.",
+        "startTime": 5941,
+        "endTime": 6655,
+        "slowStartTime": 9061,
+        "slowEndTime": 10208
+    },
+    {
+        "text": "Get up.",
+        "startTime": 8955,
+        "endTime": 9697,
+        "slowStartTime": 13583,
+        "slowEndTime": 14771
+    },
+    {
+        "text": "I get up at 7:00.",
+        "startTime": 12519,
+        "endTime": 14637,
+        "slowStartTime": 18929,
+        "slowEndTime": 22180
+    },
+    {
+        "text": "Have breakfast.",
+        "startTime": 20151,
+        "endTime": 21830,
+        "slowStartTime": 30377,
+        "slowEndTime": 32970
+    },
+    {
+        "text": "Have breakfast.",
+        "startTime": 23495,
+        "endTime": 25097,
+        "slowStartTime": 35392,
+        "slowEndTime": 37871
+    },
+    {
+        "text": "I have breakfast.",
+        "startTime": 27711,
+        "endTime": 29310,
+        "slowStartTime": 41717,
+        "slowEndTime": 44190
+    },
+    {
+        "text": "Brush my teeth.",
+        "startTime": 35680,
+        "endTime": 37101,
+        "slowStartTime": 53670,
+        "slowEndTime": 55876
+    },
+    {
+        "text": "Brush my teeth.",
+        "startTime": 39061,
+        "endTime": 40457,
+        "slowStartTime": 58742,
+        "slowEndTime": 60911
+    },
+    {
+        "text": "I brush my teeth.",
+        "startTime": 41617,
+        "endTime": 43237,
+        "slowStartTime": 62575,
+        "slowEndTime": 65081
+    },
+    {
+        "text": "Wash my face.",
+        "startTime": 46567,
+        "endTime": 48077,
+        "slowStartTime": 70001,
+        "slowEndTime": 72340
+    },
+    {
+        "text": "Wash my face.",
+        "startTime": 50263,
+        "endTime": 51762,
+        "slowStartTime": 75545,
+        "slowEndTime": 77868
+    },
+    {
+        "text": "I wash my face.",
+        "startTime": 54003,
+        "endTime": 55663,
+        "slowStartTime": 81154,
+        "slowEndTime": 83720
+    },
+    {
+        "text": "Get dressed.",
+        "startTime": 62417,
+        "endTime": 63574,
+        "slowStartTime": 93775,
+        "slowEndTime": 95586
+    },
+    {
+        "text": "Get dressed.",
+        "startTime": 65905,
+        "endTime": 66959,
+        "slowStartTime": 99007,
+        "slowEndTime": 100663
+    },
+    {
+        "text": "I get dressed.",
+        "startTime": 69337,
+        "endTime": 70751,
+        "slowStartTime": 104156,
+        "slowEndTime": 106352
+    },
+    {
+        "text": "Hurry up!",
+        "startTime": 71527,
+        "endTime": 72465,
+        "slowStartTime": 107440,
+        "slowEndTime": 108922
+    }
+]

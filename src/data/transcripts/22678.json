@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Could you please turn that down?",
+        "startTime": 3642,
+        "endTime": 5245,
+        "slowStartTime": 5613,
+        "slowEndTime": 8093
+    },
+    {
+        "text": "Oh yeah, could you please bring the water glasses from the lazy susan?",
+        "startTime": 8335,
+        "endTime": 12229,
+        "slowStartTime": 12652,
+        "slowEndTime": 18568
+    },
+    {
+        "text": "Could you please wait here for a moment?",
+        "startTime": 15470,
+        "endTime": 17843,
+        "slowStartTime": 23355,
+        "slowEndTime": 26989
+    },
+    {
+        "text": "Would you please hold me?",
+        "startTime": 23036,
+        "endTime": 24405,
+        "slowStartTime": 34704,
+        "slowEndTime": 36833
+    },
+    {
+        "text": "Winston, would you please put out that cigarette?",
+        "startTime": 27519,
+        "endTime": 30291,
+        "slowStartTime": 41429,
+        "slowEndTime": 45661
+    },
+    {
+        "text": "Would you please tell Mr. Cooper that I'm here?",
+        "startTime": 33231,
+        "endTime": 36150,
+        "slowStartTime": 49996,
+        "slowEndTime": 54450
+    },
+    {
+        "text": "Would you mind bringing the drinks menu?",
+        "startTime": 41609,
+        "endTime": 43757,
+        "slowStartTime": 62564,
+        "slowEndTime": 65861
+    },
+    {
+        "text": "Would you mind telling me what all this is about?",
+        "startTime": 47519,
+        "endTime": 49742,
+        "slowStartTime": 71429,
+        "slowEndTime": 74838
+    },
+    {
+        "text": "Please don't call me. Please.",
+        "startTime": 55785,
+        "endTime": 58355,
+        "slowStartTime": 83828,
+        "slowEndTime": 87757
+    },
+    {
+        "text": "Please don't be late for dinner in the future.",
+        "startTime": 61595,
+        "endTime": 63563,
+        "slowStartTime": 92542,
+        "slowEndTime": 95570
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "text": "How are we doing with those flyers, Ms. Krall?",
+        "startTime": 458,
+        "endTime": 1876,
+        "slowStartTime": 837,
+        "slowEndTime": 3039
+    },
+    {
+        "text": "They're all good to go here.",
+        "startTime": 1971,
+        "endTime": 3682,
+        "slowStartTime": 3106,
+        "slowEndTime": 5748
+    },
+    {
+        "text": "Bye, Gail.",
+        "startTime": 16544,
+        "endTime": 16913,
+        "slowStartTime": 24966,
+        "slowEndTime": 25595
+    },
+    {
+        "text": "Bye, Lory.",
+        "startTime": 17014,
+        "endTime": 17423,
+        "slowStartTime": 25671,
+        "slowEndTime": 26360
+    },
+    {
+        "text": "Bye, Mickey.",
+        "startTime": 17513,
+        "endTime": 17887,
+        "slowStartTime": 26420,
+        "slowEndTime": 27056
+    },
+    {
+        "text": "Bye, Moe.",
+        "startTime": 17980,
+        "endTime": 18353,
+        "slowStartTime": 27120,
+        "slowEndTime": 27755
+    },
+    {
+        "text": "Bye, Nelson.",
+        "startTime": 18430,
+        "endTime": 18942,
+        "slowStartTime": 27795,
+        "slowEndTime": 28638
+    },
+    {
+        "text": "Bye, Hannah.",
+        "startTime": 19015,
+        "endTime": 19417,
+        "slowStartTime": 28672,
+        "slowEndTime": 29350
+    },
+    {
+        "text": "Bye, Tess.",
+        "startTime": 19510,
+        "endTime": 19922,
+        "slowStartTime": 29415,
+        "slowEndTime": 30108
+    },
+    {
+        "text": "Bye-bye, Casper.",
+        "startTime": 20059,
+        "endTime": 20894,
+        "slowStartTime": 30239,
+        "slowEndTime": 31566
+    },
+    {
+        "text": "Hey, hey, hey!",
+        "startTime": 24866,
+        "endTime": 25411,
+        "slowStartTime": 37449,
+        "slowEndTime": 38342
+    },
+    {
+        "text": "What do you think...",
+        "startTime": 25485,
+        "endTime": 25865,
+        "slowStartTime": 38377,
+        "slowEndTime": 39023
+    },
+    {
+        "text": "A singing competition.",
+        "startTime": 27957,
+        "endTime": 29457,
+        "slowStartTime": 42086,
+        "slowEndTime": 44410
+    },
+    {
+        "text": "Just think: your neighbor, the grocery store manager,...",
+        "startTime": 29997,
+        "endTime": 32613,
+        "slowStartTime": 45146,
+        "slowEndTime": 49144
+    },
+    {
+        "text": "...that chicken right there!",
+        "startTime": 33068,
+        "endTime": 34329,
+        "slowStartTime": 49752,
+        "slowEndTime": 51719
+    },
+    {
+        "text": "Everyone in this city gets a shot at being a star, live on my stage.",
+        "startTime": 34652,
+        "endTime": 39703,
+        "slowStartTime": 52128,
+        "slowEndTime": 59779
+    },
+    {
+        "text": "Want your bad romance.",
+        "startTime": 46241,
+        "endTime": 48169,
+        "slowStartTime": 69512,
+        "slowEndTime": 72478
+    }
+]

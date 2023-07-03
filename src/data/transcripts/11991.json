@@ -1,0 +1,44 @@
+[
+    {
+        "text": "A train crashes in Soweto, South Africa and injures more than 640 passengers.",
+        "startTime": 5480,
+        "endTime": 12110,
+        "slowStartTime": 8380,
+        "slowEndTime": 18390
+    },
+    {
+        "text": "In Turkey, a 6.0 magnitude earthquake kills at least three and injures more than 70.",
+        "startTime": 14590,
+        "endTime": 21360,
+        "slowStartTime": 22040,
+        "slowEndTime": 32260
+    },
+    {
+        "text": "President Ali Abdullah Saleh calls for early presidential elections to end bloodshed.",
+        "startTime": 25350,
+        "endTime": 31570,
+        "slowStartTime": 38170,
+        "slowEndTime": 47580
+    },
+    {
+        "text": "Former International Monetary Fund head, Dominique Strauss-Kahn, has been granted bail pending his trial.",
+        "startTime": 35560,
+        "endTime": 42820,
+        "slowStartTime": 53490,
+        "slowEndTime": 64450
+    },
+    {
+        "text": "Youths camp out in Central Madrid to protest against the political establishment.",
+        "startTime": 46020,
+        "endTime": 51270,
+        "slowStartTime": 69190,
+        "slowEndTime": 77130
+    },
+    {
+        "text": "The crew of the space shuttle Endeavor begins its first space walk.",
+        "startTime": 55670,
+        "endTime": 59980,
+        "slowStartTime": 83660,
+        "slowEndTime": 90200
+    }
+]

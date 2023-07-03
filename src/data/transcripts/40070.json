@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Is that your friend, Sarah?",
+        "startTime": 1395,
+        "endTime": 2775,
+        "slowStartTime": 2242,
+        "slowEndTime": 4388
+    },
+    {
+        "text": "Yes, that's my friend.",
+        "startTime": 4453,
+        "endTime": 5990,
+        "slowStartTime": 6830,
+        "slowEndTime": 9210
+    },
+    {
+        "text": "How about that girl?",
+        "startTime": 8074,
+        "endTime": 9330,
+        "slowStartTime": 12261,
+        "slowEndTime": 14220
+    },
+    {
+        "text": "Is she your friend, too?",
+        "startTime": 9815,
+        "endTime": 11066,
+        "slowStartTime": 14873,
+        "slowEndTime": 16824
+    },
+    {
+        "text": "Yes, she is.",
+        "startTime": 12315,
+        "endTime": 13533,
+        "slowStartTime": 18622,
+        "slowEndTime": 20525
+    },
+    {
+        "text": "She's my friend Mary.",
+        "startTime": 13691,
+        "endTime": 14891,
+        "slowStartTime": 20686,
+        "slowEndTime": 22561
+    },
+    {
+        "text": "John, are Tom and Bob your friends?",
+        "startTime": 16855,
+        "endTime": 18971,
+        "slowStartTime": 25432,
+        "slowEndTime": 28682
+    },
+    {
+        "text": "Yes, they are my friends.",
+        "startTime": 20730,
+        "endTime": 22783,
+        "slowStartTime": 31245,
+        "slowEndTime": 34400
+    },
+    {
+        "text": "How about Lara and Penny?",
+        "startTime": 24711,
+        "endTime": 26358,
+        "slowStartTime": 37216,
+        "slowEndTime": 39762
+    },
+    {
+        "text": "Yes, they are my friends, too.",
+        "startTime": 27594,
+        "endTime": 29411,
+        "slowStartTime": 41541,
+        "slowEndTime": 44342
+    }
+]

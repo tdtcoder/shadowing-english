@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Hi! Today we're in Tokyo, the capital of Japan.",
+        "startTime": 727,
+        "endTime": 4815,
+        "slowStartTime": 1241,
+        "slowEndTime": 7448
+    },
+    {
+        "text": "So, this is Tokyo at night.",
+        "startTime": 5828,
+        "endTime": 7124,
+        "slowStartTime": 8892,
+        "slowEndTime": 10911
+    },
+    {
+        "text": "It's beautiful.",
+        "startTime": 7646,
+        "endTime": 8308,
+        "slowStartTime": 11619,
+        "slowEndTime": 12687
+    },
+    {
+        "text": "Yeah, it's a big city.",
+        "startTime": 8830,
+        "endTime": 10676,
+        "slowStartTime": 13395,
+        "slowEndTime": 16239
+    },
+    {
+        "text": "It has about 12 million people.",
+        "startTime": 10871,
+        "endTime": 13332,
+        "slowStartTime": 16457,
+        "slowEndTime": 20223
+    },
+    {
+        "text": "Wow! It looks like a fun city to visit.",
+        "startTime": 13762,
+        "endTime": 16223,
+        "slowStartTime": 20793,
+        "slowEndTime": 24559
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "text": "﻿Good evening.",
+        "startTime": 2804,
+        "endTime": 3307,
+        "slowStartTime": 4356,
+        "slowEndTime": 5186
+    },
+    {
+        "text": "It was cloudy with occasional rain today.",
+        "startTime": 3391,
+        "endTime": 5071,
+        "slowStartTime": 5236,
+        "slowEndTime": 7831
+    },
+    {
+        "text": "A warm and humid maritime airstream is affecting the coastal areas of Guangdong.",
+        "startTime": 5362,
+        "endTime": 9247,
+        "slowStartTime": 8193,
+        "slowEndTime": 14095
+    },
+    {
+        "text": "Meanwhile, pressure is rising over central China.",
+        "startTime": 9637,
+        "endTime": 11920,
+        "slowStartTime": 14605,
+        "slowEndTime": 18105
+    },
+    {
+        "text": "Today's temperatures ranged from 20 to 21.9 degrees Celsius...",
+        "startTime": 12393,
+        "endTime": 16127,
+        "slowStartTime": 18739,
+        "slowEndTime": 24416
+    },
+    {
+        "text": "...with a relative humidity between 95 and 98 percent,...",
+        "startTime": 16385,
+        "endTime": 19491,
+        "slowStartTime": 24728,
+        "slowEndTime": 29461
+    },
+    {
+        "text": "...moderate to fresh easterly winds.",
+        "startTime": 19735,
+        "endTime": 21444,
+        "slowStartTime": 29752,
+        "slowEndTime": 32391
+    },
+    {
+        "text": "The current temperature is now standing at 21.9 degrees Celsius...",
+        "startTime": 21831,
+        "endTime": 25279,
+        "slowStartTime": 32897,
+        "slowEndTime": 38143
+    },
+    {
+        "text": "...with a relative humidity at 97 percent.",
+        "startTime": 25543,
+        "endTime": 27849,
+        "slowStartTime": 38465,
+        "slowEndTime": 41999
+    },
+    {
+        "text": "10.7 millimeters of rain has been recorded since midnight.",
+        "startTime": 28103,
+        "endTime": 31073,
+        "slowStartTime": 42304,
+        "slowEndTime": 46835
+    },
+    {
+        "text": "Cloudy with a few rain patches tonight.",
+        "startTime": 31498,
+        "endTime": 32999,
+        "slowStartTime": 47397,
+        "slowEndTime": 49724
+    },
+    {
+        "text": "Tomorrow, it'll cool significantly and temperatures will range from 18 to 23 degrees,...",
+        "startTime": 33081,
+        "endTime": 37456,
+        "slowStartTime": 49771,
+        "slowEndTime": 56409
+    },
+    {
+        "text": "...and it will be mainly cloudy in the following few days.",
+        "startTime": 37766,
+        "endTime": 40073,
+        "slowStartTime": 56799,
+        "slowEndTime": 60334
+    },
+    {
+        "text": "Tomorrow's API is forecast at 20 to 70,...",
+        "startTime": 40383,
+        "endTime": 43389,
+        "slowStartTime": 60724,
+        "slowEndTime": 65309
+    },
+    {
+        "text": "...and the pollution level will range from low to high.",
+        "startTime": 43657,
+        "endTime": 45865,
+        "slowStartTime": 65635,
+        "slowEndTime": 69022
+    },
+    {
+        "text": "The maximum UV index forecast for tomorrow will be about 3.",
+        "startTime": 46188,
+        "endTime": 49337,
+        "slowStartTime": 69432,
+        "slowEndTime": 74230
+    },
+    {
+        "text": "Now, to the latest global weather update.",
+        "startTime": 49693,
+        "endTime": 51569,
+        "slowStartTime": 74690,
+        "slowEndTime": 77579
+    },
+    {
+        "text": "Cloudy in Shanghai and Xiamen.",
+        "startTime": 54581,
+        "endTime": 56257,
+        "slowStartTime": 82021,
+        "slowEndTime": 84610
+    },
+    {
+        "text": "Showers in Guangzhou, rainy in Macau.",
+        "startTime": 59563,
+        "endTime": 61465,
+        "slowStartTime": 89495,
+        "slowEndTime": 92422
+    },
+    {
+        "text": "Rainy in Seoul and Tokyo.",
+        "startTime": 65867,
+        "endTime": 67363,
+        "slowStartTime": 98951,
+        "slowEndTime": 101270
+    },
+    {
+        "text": "Thunderstorms in Bangkok, sunny in Manila.",
+        "startTime": 70427,
+        "endTime": 72427,
+        "slowStartTime": 105790,
+        "slowEndTime": 108866
+    },
+    {
+        "text": "Thunderstorms in Kuala Lumpur and Singapore.",
+        "startTime": 75443,
+        "endTime": 77386,
+        "slowStartTime": 113314,
+        "slowEndTime": 116304
+    },
+    {
+        "text": "Sunny in New Delhi, Karachi and Mumbai.",
+        "startTime": 80853,
+        "endTime": 83145,
+        "slowStartTime": 121430,
+        "slowEndTime": 124943
+    },
+    {
+        "text": "Sunny in Cairo, showers in Nairobi...",
+        "startTime": 86031,
+        "endTime": 87835,
+        "slowStartTime": 129197,
+        "slowEndTime": 131977
+    },
+    {
+        "text": "...and it's bright in Sydney and Auckland.",
+        "startTime": 91313,
+        "endTime": 93232,
+        "slowStartTime": 137119,
+        "slowEndTime": 140073
+    }
+]

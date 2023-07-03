@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Excuse me, sir.",
+        "startTime": 2425,
+        "endTime": 3295,
+        "slowStartTime": 3788,
+        "slowEndTime": 5167
+    },
+    {
+        "text": "I'm sorry to bother you, but could you tell me how to get to the Citibank?",
+        "startTime": 3648,
+        "endTime": 7272,
+        "slowStartTime": 5622,
+        "slowEndTime": 11133
+    },
+    {
+        "text": "Yes, no problem.",
+        "startTime": 7824,
+        "endTime": 8941,
+        "slowStartTime": 11886,
+        "slowEndTime": 13636
+    },
+    {
+        "text": "There's a Citibank branch not too far from here.",
+        "startTime": 9390,
+        "endTime": 12017,
+        "slowStartTime": 14235,
+        "slowEndTime": 18250
+    },
+    {
+        "text": "How long does it take to get to the bank?",
+        "startTime": 12563,
+        "endTime": 14219,
+        "slowStartTime": 18995,
+        "slowEndTime": 21553
+    },
+    {
+        "text": "It's about 5 minutes walking.",
+        "startTime": 14833,
+        "endTime": 16558,
+        "slowStartTime": 22400,
+        "slowEndTime": 25062
+    },
+    {
+        "text": "Do you see the department store up ahead one block?",
+        "startTime": 17151,
+        "endTime": 20304,
+        "slowStartTime": 25877,
+        "slowEndTime": 30681
+    },
+    {
+        "text": "Yes, on the right side, right?",
+        "startTime": 20843,
+        "endTime": 22602,
+        "slowStartTime": 31414,
+        "slowEndTime": 34128
+    },
+    {
+        "text": "Yes, that's it, just go past the department store and take your first right.",
+        "startTime": 22977,
+        "endTime": 28097,
+        "slowStartTime": 34615,
+        "slowEndTime": 42370
+    },
+    {
+        "text": "Okay, take a right after the department store?",
+        "startTime": 28675,
+        "endTime": 31475,
+        "slowStartTime": 43162,
+        "slowEndTime": 47438
+    },
+    {
+        "text": "Yes, then go straight about a block and a half...",
+        "startTime": 31943,
+        "endTime": 34867,
+        "slowStartTime": 48064,
+        "slowEndTime": 52526
+    },
+    {
+        "text": "...and you'll see Citibank on your left.",
+        "startTime": 35294,
+        "endTime": 37195,
+        "slowStartTime": 53091,
+        "slowEndTime": 56018
+    },
+    {
+        "text": "It's next to a sporting goods store.",
+        "startTime": 37571,
+        "endTime": 39476,
+        "slowStartTime": 56507,
+        "slowEndTime": 59439
+    },
+    {
+        "text": "You can't miss it!",
+        "startTime": 39689,
+        "endTime": 40672,
+        "slowStartTime": 59683,
+        "slowEndTime": 61233
+    },
+    {
+        "text": "Thank you very much for your help!",
+        "startTime": 41221,
+        "endTime": 42545,
+        "slowStartTime": 61982,
+        "slowEndTime": 64042
+    }
+]

@@ -1,0 +1,275 @@
+[
+    {
+        "text": "Eve?",
+        "startTime": 11864,
+        "endTime": 12479,
+        "slowStartTime": 17946,
+        "slowEndTime": 18943
+    },
+    {
+        "text": "Eve, where are you?",
+        "startTime": 12915,
+        "endTime": 14173,
+        "slowStartTime": 19522,
+        "slowEndTime": 21484
+    },
+    {
+        "text": "Yes, Hunter.",
+        "startTime": 14415,
+        "endTime": 15159,
+        "slowStartTime": 21773,
+        "slowEndTime": 22964
+    },
+    {
+        "text": "I'm right here.",
+        "startTime": 15321,
+        "endTime": 16071,
+        "slowStartTime": 23132,
+        "slowEndTime": 24332
+    },
+    {
+        "text": "Is everything okay?",
+        "startTime": 16319,
+        "endTime": 17414,
+        "slowStartTime": 24629,
+        "slowEndTime": 26346
+    },
+    {
+        "text": "I'm trying to stay calm, but I think I'm stuck.",
+        "startTime": 17727,
+        "endTime": 20575,
+        "slowStartTime": 26741,
+        "slowEndTime": 31088
+    },
+    {
+        "text": "The snow is so deep, I can't wiggle my way out.",
+        "startTime": 20857,
+        "endTime": 23611,
+        "slowStartTime": 31436,
+        "slowEndTime": 35641
+    },
+    {
+        "text": "Well, you're doing a great job keeping calm.",
+        "startTime": 23947,
+        "endTime": 26091,
+        "slowStartTime": 36070,
+        "slowEndTime": 39361
+    },
+    {
+        "text": "Let's take a breath and figure this out.",
+        "startTime": 26423,
+        "endTime": 28406,
+        "slowStartTime": 39785,
+        "slowEndTime": 42834
+    },
+    {
+        "text": "Now, do you know how to get help when you need it?",
+        "startTime": 31701,
+        "endTime": 34181,
+        "slowStartTime": 47702,
+        "slowEndTime": 51496
+    },
+    {
+        "text": "How do I do that?",
+        "startTime": 34550,
+        "endTime": 35600,
+        "slowStartTime": 51975,
+        "slowEndTime": 53625
+    },
+    {
+        "text": "Well, when you recognize you need help,...",
+        "startTime": 35789,
+        "endTime": 37653,
+        "slowStartTime": 53833,
+        "slowEndTime": 56705
+    },
+    {
+        "text": "...think about a safe person who might help you.",
+        "startTime": 37934,
+        "endTime": 39971,
+        "slowStartTime": 57051,
+        "slowEndTime": 60182
+    },
+    {
+        "text": "Can you help me, Eve?",
+        "startTime": 41089,
+        "endTime": 42605,
+        "slowStartTime": 61783,
+        "slowEndTime": 64132
+    },
+    {
+        "text": "I would love to help you, Hunter,...",
+        "startTime": 43063,
+        "endTime": 44630,
+        "slowStartTime": 64745,
+        "slowEndTime": 67170
+    },
+    {
+        "text": "...but I'm afraid I'm not strong enough to fly you out of there.",
+        "startTime": 44734,
+        "endTime": 47101,
+        "slowStartTime": 67251,
+        "slowEndTime": 70876
+    },
+    {
+        "text": "Any other ideas?",
+        "startTime": 47351,
+        "endTime": 48467,
+        "slowStartTime": 71176,
+        "slowEndTime": 72925
+    },
+    {
+        "text": "Hey, there's Mr. Garcia.",
+        "startTime": 50119,
+        "endTime": 51673,
+        "slowStartTime": 75329,
+        "slowEndTime": 77734
+    },
+    {
+        "text": "He's my next door neighbor and is really nice.",
+        "startTime": 52003,
+        "endTime": 54495,
+        "slowStartTime": 78154,
+        "slowEndTime": 81968
+    },
+    {
+        "text": "Plus, he's really strong.",
+        "startTime": 55023,
+        "endTime": 56974,
+        "slowStartTime": 82684,
+        "slowEndTime": 85686
+    },
+    {
+        "text": "What should I say?",
+        "startTime": 58153,
+        "endTime": 59421,
+        "slowStartTime": 87379,
+        "slowEndTime": 89356
+    },
+    {
+        "text": "Ask for help by explaining what you are trying to do or what you need.",
+        "startTime": 59781,
+        "endTime": 63292,
+        "slowStartTime": 89821,
+        "slowEndTime": 95163
+    },
+    {
+        "text": "Okay, but what if he says no or he can't help?",
+        "startTime": 63533,
+        "endTime": 66869,
+        "slowStartTime": 95449,
+        "slowEndTime": 100528
+    },
+    {
+        "text": "It never hurts to ask.",
+        "startTime": 67193,
+        "endTime": 68473,
+        "slowStartTime": 100939,
+        "slowEndTime": 102934
+    },
+    {
+        "text": "Just be polite.",
+        "startTime": 68800,
+        "endTime": 70027,
+        "slowStartTime": 103350,
+        "slowEndTime": 105266
+    },
+    {
+        "text": "You will be surprised how often others are willing to help you.",
+        "startTime": 70293,
+        "endTime": 73537,
+        "slowStartTime": 105590,
+        "slowEndTime": 110530
+    },
+    {
+        "text": "Excuse me, Mr. Garcia.",
+        "startTime": 74637,
+        "endTime": 77066,
+        "slowStartTime": 112105,
+        "slowEndTime": 115824
+    },
+    {
+        "text": "Hey, little buddy.",
+        "startTime": 78257,
+        "endTime": 79330,
+        "slowStartTime": 117535,
+        "slowEndTime": 119220
+    },
+    {
+        "text": "What's up?",
+        "startTime": 79622,
+        "endTime": 80283,
+        "slowStartTime": 119583,
+        "slowEndTime": 120650
+    },
+    {
+        "text": "I think I'm stuck.",
+        "startTime": 81226,
+        "endTime": 82415,
+        "slowStartTime": 121989,
+        "slowEndTime": 123848
+    },
+    {
+        "text": "Would you mind pulling me out?",
+        "startTime": 83085,
+        "endTime": 84750,
+        "slowStartTime": 124778,
+        "slowEndTime": 127350
+    },
+    {
+        "text": "Sure, no problem.",
+        "startTime": 85093,
+        "endTime": 86387,
+        "slowStartTime": 127789,
+        "slowEndTime": 129806
+    },
+    {
+        "text": "Hold still.",
+        "startTime": 86872,
+        "endTime": 88296,
+        "slowStartTime": 130458,
+        "slowEndTime": 132669
+    },
+    {
+        "text": "Hunter, do you know what step three is?",
+        "startTime": 89944,
+        "endTime": 92415,
+        "slowStartTime": 135066,
+        "slowEndTime": 138847
+    },
+    {
+        "text": "I bet I can guess.",
+        "startTime": 92643,
+        "endTime": 94009,
+        "slowStartTime": 139115,
+        "slowEndTime": 141239
+    },
+    {
+        "text": "Step three is to say thanks for the help you receive.",
+        "startTime": 94824,
+        "endTime": 98195,
+        "slowStartTime": 142386,
+        "slowEndTime": 147517
+    },
+    {
+        "text": "Thank you, Mr. Garcia.",
+        "startTime": 99067,
+        "endTime": 100595,
+        "slowStartTime": 148750,
+        "slowEndTime": 151117
+    },
+    {
+        "text": "Very good.",
+        "startTime": 100944,
+        "endTime": 101763,
+        "slowStartTime": 151566,
+        "slowEndTime": 152869
+    },
+    {
+        "text": "I couldn't have said it better myself.",
+        "startTime": 101911,
+        "endTime": 103347,
+        "slowStartTime": 153017,
+        "slowEndTime": 155245
+    }
+]

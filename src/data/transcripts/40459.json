@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Do you know where Brian is?",
+        "startTime": 313,
+        "endTime": 2080,
+        "slowStartTime": 620,
+        "slowEndTime": 3345
+    },
+    {
+        "text": "I saw him leaving the building.",
+        "startTime": 3041,
+        "endTime": 4562,
+        "slowStartTime": 4711,
+        "slowEndTime": 7068
+    },
+    {
+        "text": "Why?",
+        "startTime": 4707,
+        "endTime": 5032,
+        "slowStartTime": 7210,
+        "slowEndTime": 7773
+    },
+    {
+        "text": "I need to ask him about the details of his project with Dana.",
+        "startTime": 5769,
+        "endTime": 9025,
+        "slowStartTime": 8803,
+        "slowEndTime": 13762
+    },
+    {
+        "text": "I called him several times, but he didn't answer.",
+        "startTime": 9654,
+        "endTime": 12576,
+        "slowStartTime": 14631,
+        "slowEndTime": 19089
+    },
+    {
+        "text": "He said he was going to meet our boss at the nearby coffee shop.",
+        "startTime": 13423,
+        "endTime": 16945,
+        "slowStartTime": 20285,
+        "slowEndTime": 25642
+    },
+    {
+        "text": "They should be back soon.",
+        "startTime": 17462,
+        "endTime": 18683,
+        "slowStartTime": 26343,
+        "slowEndTime": 28250
+    },
+    {
+        "text": "Will they?",
+        "startTime": 19299,
+        "endTime": 19907,
+        "slowStartTime": 29098,
+        "slowEndTime": 30085
+    },
+    {
+        "text": "But I can't wait until Brian comes back.",
+        "startTime": 20247,
+        "endTime": 22510,
+        "slowStartTime": 30520,
+        "slowEndTime": 33990
+    },
+    {
+        "text": "Why don't you call Dana then?",
+        "startTime": 23180,
+        "endTime": 24539,
+        "slowStartTime": 34920,
+        "slowEndTime": 37034
+    },
+    {
+        "text": "I saw her at her workstation a few minutes ago.",
+        "startTime": 25429,
+        "endTime": 27743,
+        "slowStartTime": 38293,
+        "slowEndTime": 41839
+    },
+    {
+        "text": "She must be there.",
+        "startTime": 28061,
+        "endTime": 29063,
+        "slowStartTime": 42242,
+        "slowEndTime": 43819
+    },
+    {
+        "text": "Thanks, Bobby.",
+        "startTime": 29531,
+        "endTime": 30481,
+        "slowStartTime": 44446,
+        "slowEndTime": 45946
+    }
+]

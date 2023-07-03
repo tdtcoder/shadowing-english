@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Platform three for the 18:20 southwest train service to Woking via Weybridge.",
+        "startTime": 1069,
+        "endTime": 7951,
+        "slowStartTime": 1753,
+        "slowEndTime": 12152
+    },
+    {
+        "text": "Calling at Vauxhall, Clapham Junction, Earlsfield, Wimbledon, Surbiton, Esher,...",
+        "startTime": 8537,
+        "endTime": 15210,
+        "slowStartTime": 12956,
+        "slowEndTime": 23040
+    },
+    {
+        "text": "...Hersham, Walton-on-Thames, Weybridge, Byfleet and New Haw, West Byfleet and Woking.",
+        "startTime": 15565,
+        "endTime": 22545,
+        "slowStartTime": 23497,
+        "slowEndTime": 34043
+    },
+    {
+        "text": "This train is formed of eight coaches.",
+        "startTime": 23091,
+        "endTime": 25607,
+        "slowStartTime": 34786,
+        "slowEndTime": 38636
+    },
+    {
+        "text": "Platform three for the 18:20 southwest train service to Woking via Weybridge.",
+        "startTime": 26057,
+        "endTime": 32917,
+        "slowStartTime": 39235,
+        "slowEndTime": 49601
+    },
+    {
+        "text": "Platform 18 for the 18:22 southwest train service to Addlestone via Hounslow.",
+        "startTime": 37391,
+        "endTime": 44991,
+        "slowStartTime": 56237,
+        "slowEndTime": 67712
+    },
+    {
+        "text": "Calling at Vauxhall, Queenstown Road Battersea, Clapham Junction,...",
+        "startTime": 45714,
+        "endTime": 50161,
+        "slowStartTime": 68721,
+        "slowEndTime": 75466
+    },
+    {
+        "text": "...Wandsworth Town, Putney, Barnes, Barnes Bridge, Chiswick, Kew Bridge,...",
+        "startTime": 50493,
+        "endTime": 56660,
+        "slowStartTime": 75889,
+        "slowEndTime": 85215
+    },
+    {
+        "text": "...Bradford, Syon Lane, Isleworth, Hounslow, Felton, Ashford Middlesex, Staines,...",
+        "startTime": 57040,
+        "endTime": 64742,
+        "slowStartTime": 85710,
+        "slowEndTime": 97338
+    },
+    {
+        "text": "....Egham, Virginia Water, Chertsey and Addlestone.",
+        "startTime": 65072,
+        "endTime": 68965,
+        "slowStartTime": 97758,
+        "slowEndTime": 103673
+    },
+    {
+        "text": "Due to short platforms, customers for Isleworth and Chertsey...",
+        "startTime": 69479,
+        "endTime": 74200,
+        "slowStartTime": 104369,
+        "slowEndTime": 111525
+    },
+    {
+        "text": "...should join the front four coaches.",
+        "startTime": 74347,
+        "endTime": 76386,
+        "slowStartTime": 111671,
+        "slowEndTime": 114804
+    }
+]

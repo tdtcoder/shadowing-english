@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Line lets users express themselves with more than 10,000 Line emojis...",
+        "startTime": 1263,
+        "endTime": 5951,
+        "slowStartTime": 2045,
+        "slowEndTime": 9152
+    },
+    {
+        "text": "...and larger cartoons also known as stickers.",
+        "startTime": 6198,
+        "endTime": 9027,
+        "slowStartTime": 9447,
+        "slowEndTime": 13766
+    },
+    {
+        "text": "Line's sticker business has made more than 270 million dollars last year.",
+        "startTime": 10762,
+        "endTime": 15851,
+        "slowStartTime": 16293,
+        "slowEndTime": 24002
+    },
+    {
+        "text": "It offers an algorithm that predicts what kind of emojis or stickers users might need.",
+        "startTime": 16538,
+        "endTime": 21658,
+        "slowStartTime": 24957,
+        "slowEndTime": 32712
+    },
+    {
+        "text": "Users can have an entire conversation just in stickers.",
+        "startTime": 22042,
+        "endTime": 26326,
+        "slowStartTime": 33213,
+        "slowEndTime": 39714
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Flower.",
+        "startTime": 2700,
+        "endTime": 3299,
+        "slowStartTime": 4200,
+        "slowEndTime": 5173
+    },
+    {
+        "text": "The flower is pretty.",
+        "startTime": 4163,
+        "endTime": 5653,
+        "slowStartTime": 6394,
+        "slowEndTime": 8705
+    },
+    {
+        "text": "The flower is nice and pretty.",
+        "startTime": 7067,
+        "endTime": 9223,
+        "slowStartTime": 10750,
+        "slowEndTime": 14060
+    },
+    {
+        "text": "Herb.",
+        "startTime": 10614,
+        "endTime": 11117,
+        "slowStartTime": 16071,
+        "slowEndTime": 16901
+    },
+    {
+        "text": "Herbs are good.",
+        "startTime": 11923,
+        "endTime": 12991,
+        "slowStartTime": 18035,
+        "slowEndTime": 19711
+    },
+    {
+        "text": "Herbs are good for your health.",
+        "startTime": 14307,
+        "endTime": 16107,
+        "slowStartTime": 21611,
+        "slowEndTime": 24385
+    },
+    {
+        "text": "Singer.",
+        "startTime": 17497,
+        "endTime": 18076,
+        "slowStartTime": 26396,
+        "slowEndTime": 27339
+    },
+    {
+        "text": "The singer is famous.",
+        "startTime": 18935,
+        "endTime": 20573,
+        "slowStartTime": 28552,
+        "slowEndTime": 31084
+    },
+    {
+        "text": "The singer is very famous.",
+        "startTime": 21973,
+        "endTime": 24066,
+        "slowStartTime": 33110,
+        "slowEndTime": 36324
+    },
+    {
+        "text": "Water.",
+        "startTime": 25527,
+        "endTime": 26117,
+        "slowStartTime": 38440,
+        "slowEndTime": 39401
+    },
+    {
+        "text": "I want to drink water.",
+        "startTime": 26993,
+        "endTime": 28642,
+        "slowStartTime": 40640,
+        "slowEndTime": 43188
+    },
+    {
+        "text": "I want to drink cold water.",
+        "startTime": 30033,
+        "endTime": 32066,
+        "slowStartTime": 45200,
+        "slowEndTime": 48324
+    },
+    {
+        "text": "Can you name the animals that live in the mountains?",
+        "startTime": 37213,
+        "endTime": 40633,
+        "slowStartTime": 55969,
+        "slowEndTime": 61174
+    },
+    {
+        "text": "Small gray squirrels live in the mountains.",
+        "startTime": 40800,
+        "endTime": 44404,
+        "slowStartTime": 61350,
+        "slowEndTime": 66831
+    },
+    {
+        "text": "Small furry rabbits live in the mountains.",
+        "startTime": 44537,
+        "endTime": 48133,
+        "slowStartTime": 66955,
+        "slowEndTime": 72425
+    },
+    {
+        "text": "Big strong eagles live in the mountains.",
+        "startTime": 48424,
+        "endTime": 51902,
+        "slowStartTime": 72786,
+        "slowEndTime": 78078
+    },
+    {
+        "text": "Big proud deer live in the mountains.",
+        "startTime": 52153,
+        "endTime": 55627,
+        "slowStartTime": 78380,
+        "slowEndTime": 83665
+    },
+    {
+        "text": "Does anything else live in the mountains?",
+        "startTime": 55712,
+        "endTime": 59330,
+        "slowStartTime": 83718,
+        "slowEndTime": 89220
+    },
+    {
+        "text": "Chipmunks, foxes and bears live in the mountains.",
+        "startTime": 59661,
+        "endTime": 63149,
+        "slowStartTime": 89641,
+        "slowEndTime": 94948
+    },
+    {
+        "text": "Many, many different animals live in the mountains.",
+        "startTime": 63423,
+        "endTime": 67476,
+        "slowStartTime": 95284,
+        "slowEndTime": 101439
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text": "The ECB's main task is to ensure prices in the euro area remain stable,...",
+        "startTime": 481,
+        "endTime": 4947,
+        "slowStartTime": 871,
+        "slowEndTime": 7646
+    },
+    {
+        "text": "...keeping inflation at a reasonable target rate of around 2%.",
+        "startTime": 5212,
+        "endTime": 8816,
+        "slowStartTime": 7968,
+        "slowEndTime": 13449
+    },
+    {
+        "text": "It does this by fixing interest rates.",
+        "startTime": 11260,
+        "endTime": 13352,
+        "slowStartTime": 17040,
+        "slowEndTime": 20253
+    },
+    {
+        "text": "These decisions have a direct impact on the credit policies...",
+        "startTime": 13579,
+        "endTime": 16525,
+        "slowStartTime": 20518,
+        "slowEndTime": 25012
+    },
+    {
+        "text": "...of the banking institutions.",
+        "startTime": 16629,
+        "endTime": 17908,
+        "slowStartTime": 25094,
+        "slowEndTime": 27087
+    },
+    {
+        "text": "For example, in the case of overheating eurozone economies,...",
+        "startTime": 18139,
+        "endTime": 21115,
+        "slowStartTime": 27358,
+        "slowEndTime": 31898
+    },
+    {
+        "text": "...the ECB raises interest rates to cool inflation.",
+        "startTime": 21213,
+        "endTime": 24152,
+        "slowStartTime": 31970,
+        "slowEndTime": 36453
+    },
+    {
+        "text": "Higher rates prompt banks to limit lending by settling unattractive rates.",
+        "startTime": 24517,
+        "endTime": 28518,
+        "slowStartTime": 36925,
+        "slowEndTime": 43002
+    },
+    {
+        "text": "On the other hand, to encourage growth in a struggling eurozone...",
+        "startTime": 29435,
+        "endTime": 32442,
+        "slowStartTime": 44303,
+        "slowEndTime": 48888
+    },
+    {
+        "text": "...the ECB can cut interest rates to incite banks to issue clients...",
+        "startTime": 32635,
+        "endTime": 36330,
+        "slowStartTime": 49102,
+        "slowEndTime": 54720
+    },
+    {
+        "text": "...with more credit thereby encouraging investment.",
+        "startTime": 36417,
+        "endTime": 39033,
+        "slowStartTime": 54775,
+        "slowEndTime": 58774
+    }
+]

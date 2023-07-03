@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Baby birds sometimes fall from their nests,...",
+        "startTime": 6379,
+        "endTime": 8823,
+        "slowStartTime": 9719,
+        "slowEndTime": 13460
+    },
+    {
+        "text": "...and sometimes are knocked out by storms or other natural causes.",
+        "startTime": 9083,
+        "endTime": 12289,
+        "slowStartTime": 13774,
+        "slowEndTime": 18659
+    },
+    {
+        "text": "If you find a baby bird, here's how to feed it.",
+        "startTime": 12455,
+        "endTime": 14903,
+        "slowStartTime": 18833,
+        "slowEndTime": 22580
+    },
+    {
+        "text": "You will need: a container, a heating pad, dog kibble, hot sugar water,...",
+        "startTime": 15500,
+        "endTime": 20704,
+        "slowStartTime": 23400,
+        "slowEndTime": 31281
+    },
+    {
+        "text": "...a bowl, a spoon, hard-boiled eggs, baby cereal, toothpicks, canned cat or dog food, lean raw beef and fruit.",
+        "startTime": 20962,
+        "endTime": 28786,
+        "slowStartTime": 31593,
+        "slowEndTime": 43404
+    },
+    {
+        "text": "Step 1 : Place the baby bird in a container on top of a heating pad to keep it warm.",
+        "startTime": 29515,
+        "endTime": 34387,
+        "slowStartTime": 44423,
+        "slowEndTime": 51805
+    },
+    {
+        "text": "Handle the bird only when necessary.",
+        "startTime": 35758,
+        "endTime": 37600,
+        "slowStartTime": 53787,
+        "slowEndTime": 56625
+    },
+    {
+        "text": "Step 2 : Prepare the food by soaking dog kibble in hot sugar water for one hour.",
+        "startTime": 38467,
+        "endTime": 43205,
+        "slowStartTime": 57851,
+        "slowEndTime": 65033
+    },
+    {
+        "text": "Step 3 : Remove the kibble from the water and mix it with baby cereal and a hard-boiled egg.",
+        "startTime": 43845,
+        "endTime": 48991,
+        "slowStartTime": 65917,
+        "slowEndTime": 73711
+    },
+    {
+        "text": "Feed the baby bird with this mixture for the first couple of days.",
+        "startTime": 49353,
+        "endTime": 52252,
+        "slowStartTime": 74179,
+        "slowEndTime": 78603
+    },
+    {
+        "text": "Step 4 : Make a pea - size ball with the food mixture and place it in the baby's mouth using a toothpick.",
+        "startTime": 53037,
+        "endTime": 58726,
+        "slowStartTime": 79705,
+        "slowEndTime": 88314
+    },
+    {
+        "text": "Never force food or water into the bird's mouth.",
+        "startTime": 59508,
+        "endTime": 62072,
+        "slowStartTime": 89412,
+        "slowEndTime": 93333
+    },
+    {
+        "text": "Step 5 : Feed the bird every 15 minutes over the first couple of days.",
+        "startTime": 62833,
+        "endTime": 67005,
+        "slowStartTime": 94400,
+        "slowEndTime": 100732
+    },
+    {
+        "text": "When it's stronger, feed it every 30 to 60 minutes.",
+        "startTime": 67377,
+        "endTime": 70244,
+        "slowStartTime": 101216,
+        "slowEndTime": 105591
+    },
+    {
+        "text": "Step 6 : Feed the baby bird room temperature canned dog food, lean raw beef and fruit after the first couple of days.",
+        "startTime": 70685,
+        "endTime": 77317,
+        "slowStartTime": 106177,
+        "slowEndTime": 116200
+    },
+    {
+        "text": "Step 7 : Wean it away from hand - feeding once it starts moving around.",
+        "startTime": 78109,
+        "endTime": 82406,
+        "slowStartTime": 117314,
+        "slowEndTime": 123834
+    },
+    {
+        "text": "Did you know? In 2007, an ostrich egg set a record for the largest egg from a living bird at five pounds nine ounces.",
+        "startTime": 83620,
+        "endTime": 90593,
+        "slowStartTime": 125580,
+        "slowEndTime": 136115
+    }
+]

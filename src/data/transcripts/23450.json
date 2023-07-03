@@ -1,0 +1,44 @@
+[
+    {
+        "text": "If you're bored and you know it, eat a snack.",
+        "startTime": 959,
+        "endTime": 3545,
+        "slowStartTime": 1588,
+        "slowEndTime": 5543
+    },
+    {
+        "text": "If you're lonely and you know it, eat a snack.",
+        "startTime": 4657,
+        "endTime": 7276,
+        "slowStartTime": 7136,
+        "slowEndTime": 11139
+    },
+    {
+        "text": "If you're sleepy and you know it, if you're guilty and you know it,...",
+        "startTime": 8324,
+        "endTime": 11775,
+        "slowStartTime": 12636,
+        "slowEndTime": 17888
+    },
+    {
+        "text": "...if you're stressed, eat a snack.",
+        "startTime": 12061,
+        "endTime": 14605,
+        "slowStartTime": 18242,
+        "slowEndTime": 22132
+    },
+    {
+        "text": "If you're human and you know it, then your face will surely show it.",
+        "startTime": 19403,
+        "endTime": 23013,
+        "slowStartTime": 29254,
+        "slowEndTime": 34744
+    },
+    {
+        "text": "If you're human, eat your feelings, eat a snack.",
+        "startTime": 23360,
+        "endTime": 25701,
+        "slowStartTime": 35190,
+        "slowEndTime": 38777
+    }
+]

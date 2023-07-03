@@ -1,0 +1,338 @@
+[
+    {
+        "text": "Mike was having a bad day.",
+        "startTime": 2370,
+        "endTime": 4620,
+        "slowStartTime": 3705,
+        "slowEndTime": 7155
+    },
+    {
+        "text": "At breakfast, he tripped over Tiger's bowl.",
+        "startTime": 5037,
+        "endTime": 7885,
+        "slowStartTime": 7706,
+        "slowEndTime": 12052
+    },
+    {
+        "text": "Cat food spilled everywhere.",
+        "startTime": 8367,
+        "endTime": 10389,
+        "slowStartTime": 12700,
+        "slowEndTime": 15808
+    },
+    {
+        "text": "I'll clean up, clumsy.",
+        "startTime": 11411,
+        "endTime": 12875,
+        "slowStartTime": 17267,
+        "slowEndTime": 19538
+    },
+    {
+        "text": "teased his older sister.",
+        "startTime": 13960,
+        "endTime": 15485,
+        "slowStartTime": 21090,
+        "slowEndTime": 23453
+    },
+    {
+        "text": "You need to get the bus.",
+        "startTime": 16471,
+        "endTime": 18183,
+        "slowStartTime": 24856,
+        "slowEndTime": 27499
+    },
+    {
+        "text": "Thanks!",
+        "startTime": 19331,
+        "endTime": 20183,
+        "slowStartTime": 29146,
+        "slowEndTime": 30500
+    },
+    {
+        "text": "called Mike.",
+        "startTime": 21167,
+        "endTime": 21981,
+        "slowStartTime": 31901,
+        "slowEndTime": 33197
+    },
+    {
+        "text": "At the school library, Mike checked out eight shark books.",
+        "startTime": 23165,
+        "endTime": 27054,
+        "slowStartTime": 34898,
+        "slowEndTime": 40806
+    },
+    {
+        "text": "THUMP THUMP fell the books.",
+        "startTime": 28019,
+        "endTime": 30085,
+        "slowStartTime": 42179,
+        "slowEndTime": 45352
+    },
+    {
+        "text": "He couldn't carry them all.",
+        "startTime": 30530,
+        "endTime": 31960,
+        "slowStartTime": 45945,
+        "slowEndTime": 48165
+    },
+    {
+        "text": "Need help?",
+        "startTime": 33135,
+        "endTime": 33990,
+        "slowStartTime": 49852,
+        "slowEndTime": 51210
+    },
+    {
+        "text": "asked Pam.",
+        "startTime": 34747,
+        "endTime": 35609,
+        "slowStartTime": 52270,
+        "slowEndTime": 53638
+    },
+    {
+        "text": "I only have two books.",
+        "startTime": 36559,
+        "endTime": 38227,
+        "slowStartTime": 54989,
+        "slowEndTime": 57565
+    },
+    {
+        "text": "Sure!",
+        "startTime": 39227,
+        "endTime": 40133,
+        "slowStartTime": 58990,
+        "slowEndTime": 60425
+    },
+    {
+        "text": "said Mike.",
+        "startTime": 41125,
+        "endTime": 41896,
+        "slowStartTime": 61838,
+        "slowEndTime": 63069
+    },
+    {
+        "text": "Thanks, Pam!",
+        "startTime": 42757,
+        "endTime": 43727,
+        "slowStartTime": 64286,
+        "slowEndTime": 65816
+    },
+    {
+        "text": "Pam carried some of his books back to class.",
+        "startTime": 44860,
+        "endTime": 47439,
+        "slowStartTime": 67440,
+        "slowEndTime": 71383
+    },
+    {
+        "text": "Time to frost cookies for the fall festival this afternoon.",
+        "startTime": 48585,
+        "endTime": 52218,
+        "slowStartTime": 73028,
+        "slowEndTime": 78552
+    },
+    {
+        "text": "said Ms. Platt.",
+        "startTime": 53112,
+        "endTime": 54072,
+        "slowStartTime": 79818,
+        "slowEndTime": 81333
+    },
+    {
+        "text": "Take out your frosting.",
+        "startTime": 55001,
+        "endTime": 56355,
+        "slowStartTime": 82652,
+        "slowEndTime": 84758
+    },
+    {
+        "text": "Uh-oh.",
+        "startTime": 57483,
+        "endTime": 58463,
+        "slowStartTime": 86374,
+        "slowEndTime": 87919
+    },
+    {
+        "text": "said Mike.",
+        "startTime": 59344,
+        "endTime": 60078,
+        "slowStartTime": 89166,
+        "slowEndTime": 90342
+    },
+    {
+        "text": "My frosting is at home.",
+        "startTime": 61129,
+        "endTime": 63031,
+        "slowStartTime": 91843,
+        "slowEndTime": 94772
+    },
+    {
+        "text": "You can use some of mine.",
+        "startTime": 64006,
+        "endTime": 65905,
+        "slowStartTime": 96159,
+        "slowEndTime": 99083
+    },
+    {
+        "text": "said José.",
+        "startTime": 66805,
+        "endTime": 67741,
+        "slowStartTime": 100357,
+        "slowEndTime": 101837
+    },
+    {
+        "text": "I have a lot.",
+        "startTime": 68582,
+        "endTime": 69859,
+        "slowStartTime": 103023,
+        "slowEndTime": 105013
+    },
+    {
+        "text": "Mike smiled.",
+        "startTime": 70901,
+        "endTime": 71954,
+        "slowStartTime": 106502,
+        "slowEndTime": 108156
+    },
+    {
+        "text": "Thanks, José.",
+        "startTime": 72757,
+        "endTime": 73870,
+        "slowStartTime": 109286,
+        "slowEndTime": 111030
+    },
+    {
+        "text": "The fall festival was here.",
+        "startTime": 75038,
+        "endTime": 76809,
+        "slowStartTime": 112707,
+        "slowEndTime": 115439
+    },
+    {
+        "text": "Mike was carving a pumpkin, when SPLASH.",
+        "startTime": 77680,
+        "endTime": 81387,
+        "slowStartTime": 116670,
+        "slowEndTime": 122305
+    },
+    {
+        "text": "His elbow bumped his orange punch.",
+        "startTime": 82138,
+        "endTime": 84589,
+        "slowStartTime": 123357,
+        "slowEndTime": 127109
+    },
+    {
+        "text": "Now you look like a pumpkin.",
+        "startTime": 85507,
+        "endTime": 87995,
+        "slowStartTime": 128411,
+        "slowEndTime": 132217
+    },
+    {
+        "text": "joked Dave.",
+        "startTime": 88897,
+        "endTime": 89785,
+        "slowStartTime": 133495,
+        "slowEndTime": 134902
+    },
+    {
+        "text": "I'll get my soccer shirt.",
+        "startTime": 90473,
+        "endTime": 92469,
+        "slowStartTime": 135860,
+        "slowEndTime": 138929
+    },
+    {
+        "text": "Dave said.",
+        "startTime": 93097,
+        "endTime": 93874,
+        "slowStartTime": 139796,
+        "slowEndTime": 141036
+    },
+    {
+        "text": "You can wear it.",
+        "startTime": 94777,
+        "endTime": 96083,
+        "slowStartTime": 142315,
+        "slowEndTime": 144349
+    },
+    {
+        "text": "Great!",
+        "startTime": 96964,
+        "endTime": 97823,
+        "slowStartTime": 145596,
+        "slowEndTime": 146960
+    },
+    {
+        "text": "said Mike.",
+        "startTime": 98639,
+        "endTime": 99387,
+        "slowStartTime": 148108,
+        "slowEndTime": 149306
+    },
+    {
+        "text": "Thanks, Dave.",
+        "startTime": 100347,
+        "endTime": 101541,
+        "slowStartTime": 150670,
+        "slowEndTime": 152537
+    },
+    {
+        "text": "That night, Mike told his mom all that went wrong that day.",
+        "startTime": 102914,
+        "endTime": 106893,
+        "slowStartTime": 154521,
+        "slowEndTime": 160564
+    },
+    {
+        "text": "But he also told her how nice everyone had been.",
+        "startTime": 107355,
+        "endTime": 110541,
+        "slowStartTime": 161183,
+        "slowEndTime": 166036
+    },
+    {
+        "text": "Just then, Mike heard a CRASH!",
+        "startTime": 111347,
+        "endTime": 113896,
+        "slowStartTime": 167170,
+        "slowEndTime": 171069
+    },
+    {
+        "text": "His sister tripped over Tiger's bowl.",
+        "startTime": 115143,
+        "endTime": 117646,
+        "slowStartTime": 172865,
+        "slowEndTime": 176694
+    },
+    {
+        "text": "Need help, clumsy?",
+        "startTime": 118636,
+        "endTime": 120146,
+        "slowStartTime": 178104,
+        "slowEndTime": 180444
+    },
+    {
+        "text": "laughed Mike, as he came down the stairs.",
+        "startTime": 121545,
+        "endTime": 124085,
+        "slowStartTime": 182468,
+        "slowEndTime": 186352
+    },
+    {
+        "text": "Thanks.",
+        "startTime": 125588,
+        "endTime": 126533,
+        "slowStartTime": 188532,
+        "slowEndTime": 190025
+    },
+    {
+        "text": "said his sleepy sister.",
+        "startTime": 127461,
+        "endTime": 128825,
+        "slowStartTime": 191341,
+        "slowEndTime": 193462
+    }
+]

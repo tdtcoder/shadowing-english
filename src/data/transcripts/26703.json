@@ -1,0 +1,58 @@
+[
+    {
+        "text": "﻿Let's learn about objects in the office.",
+        "startTime": 645,
+        "endTime": 3345,
+        "slowStartTime": 1117,
+        "slowEndTime": 5243
+    },
+    {
+        "text": "The paper clips are red.",
+        "startTime": 6470,
+        "endTime": 8394,
+        "slowStartTime": 9855,
+        "slowEndTime": 12816
+    },
+    {
+        "text": "Here is my file.",
+        "startTime": 11454,
+        "endTime": 12634,
+        "slowStartTime": 17331,
+        "slowEndTime": 19176
+    },
+    {
+        "text": "She is reading from a ring binder.",
+        "startTime": 15597,
+        "endTime": 17877,
+        "slowStartTime": 23545,
+        "slowEndTime": 27040
+    },
+    {
+        "text": "Plug the flash drive into the computer.",
+        "startTime": 20904,
+        "endTime": 23508,
+        "slowStartTime": 31506,
+        "slowEndTime": 35487
+    },
+    {
+        "text": "She wrote something on a Post-it note.",
+        "startTime": 25559,
+        "endTime": 27683,
+        "slowStartTime": 38489,
+        "slowEndTime": 41749
+    },
+    {
+        "text": "His briefcase is full of money.",
+        "startTime": 29721,
+        "endTime": 32306,
+        "slowStartTime": 44731,
+        "slowEndTime": 48684
+    },
+    {
+        "text": "Click the mouse.",
+        "startTime": 35387,
+        "endTime": 36939,
+        "slowStartTime": 53231,
+        "slowEndTime": 55634
+    }
+]

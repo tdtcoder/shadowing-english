@@ -1,0 +1,23 @@
+[
+    {
+        "text": "I love bridge.",
+        "startTime": 228,
+        "endTime": 1096,
+        "slowStartTime": 492,
+        "slowEndTime": 1869
+    },
+    {
+        "text": "Bridge helps you think.",
+        "startTime": 1594,
+        "endTime": 3237,
+        "slowStartTime": 2541,
+        "slowEndTime": 5081
+    },
+    {
+        "text": "It's a game you can play your entire life and keep getting better and better.",
+        "startTime": 3403,
+        "endTime": 6913,
+        "slowStartTime": 5254,
+        "slowEndTime": 10595
+    }
+]

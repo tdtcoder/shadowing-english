@@ -1,0 +1,310 @@
+[
+    {
+        "text": "So, here we are in Austin, Texas.",
+        "startTime": 2661,
+        "endTime": 4255,
+        "slowStartTime": 4141,
+        "slowEndTime": 6608
+    },
+    {
+        "text": "A few days ago, you texted it to the Associated Press and said,...",
+        "startTime": 5311,
+        "endTime": 9003,
+        "slowStartTime": 8117,
+        "slowEndTime": 13729
+    },
+    {
+        "text": "...\"I told her to go wherever she wants\", \"her\" meaning me,...",
+        "startTime": 9879,
+        "endTime": 14741,
+        "slowStartTime": 14968,
+        "slowEndTime": 22336
+    },
+    {
+        "text": "...\"and I'll answer the questions directly, honestly, and candidly.\"",
+        "startTime": 15489,
+        "endTime": 20123,
+        "slowStartTime": 23383,
+        "slowEndTime": 30409
+    },
+    {
+        "text": "\"That's all I can say.\"",
+        "startTime": 20639,
+        "endTime": 21501,
+        "slowStartTime": 31109,
+        "slowEndTime": 32476
+    },
+    {
+        "text": "Those are your words.",
+        "startTime": 22165,
+        "endTime": 22828,
+        "slowStartTime": 33398,
+        "slowEndTime": 34467
+    },
+    {
+        "text": "Those are my words.",
+        "startTime": 24001,
+        "endTime": 24683,
+        "slowStartTime": 36152,
+        "slowEndTime": 37249
+    },
+    {
+        "text": "When we first met a week ago today, we agreed that there would be no holds barred,...",
+        "startTime": 25119,
+        "endTime": 29523,
+        "slowStartTime": 37828,
+        "slowEndTime": 44509
+    },
+    {
+        "text": "...there would be no conditions on this interview,....",
+        "startTime": 29695,
+        "endTime": 31899,
+        "slowStartTime": 44692,
+        "slowEndTime": 48073
+    },
+    {
+        "text": "...and that this would be an open field.",
+        "startTime": 31997,
+        "endTime": 33591,
+        "slowStartTime": 48145,
+        "slowEndTime": 50611
+    },
+    {
+        "text": "I think that's best for both of us.",
+        "startTime": 35388,
+        "endTime": 36721,
+        "slowStartTime": 53232,
+        "slowEndTime": 55307
+    },
+    {
+        "text": "Alright, I agree.",
+        "startTime": 36893,
+        "endTime": 37657,
+        "slowStartTime": 55489,
+        "slowEndTime": 56710
+    },
+    {
+        "text": "So, here we go open field.",
+        "startTime": 38165,
+        "endTime": 39755,
+        "slowStartTime": 57398,
+        "slowEndTime": 59857
+    },
+    {
+        "text": "So, let's start with the questions that people around the world...",
+        "startTime": 41165,
+        "endTime": 43703,
+        "slowStartTime": 61898,
+        "slowEndTime": 65779
+    },
+    {
+        "text": "...have been waiting for you to answer,...",
+        "startTime": 43799,
+        "endTime": 45271,
+        "slowStartTime": 65848,
+        "slowEndTime": 68132
+    },
+    {
+        "text": "...and for now, I just like a \"yes\" or \"no\".",
+        "startTime": 45381,
+        "endTime": 49240,
+        "slowStartTime": 68221,
+        "slowEndTime": 74085
+    },
+    {
+        "text": "Okay.",
+        "startTime": 49379,
+        "endTime": 49552,
+        "slowStartTime": 74218,
+        "slowEndTime": 74553
+    },
+    {
+        "text": "Okay?",
+        "startTime": 49774,
+        "endTime": 50102,
+        "slowStartTime": 74811,
+        "slowEndTime": 75378
+    },
+    {
+        "text": "This whole conversation, we have a lot of time, will be about the details.",
+        "startTime": 50728,
+        "endTime": 54357,
+        "slowStartTime": 76242,
+        "slowEndTime": 81760
+    },
+    {
+        "text": "Yes or no: did you ever take banned substances to enhance your cycling performance?",
+        "startTime": 55048,
+        "endTime": 59788,
+        "slowStartTime": 82722,
+        "slowEndTime": 89907
+    },
+    {
+        "text": "Yes.",
+        "startTime": 60010,
+        "endTime": 60265,
+        "slowStartTime": 90165,
+        "slowEndTime": 90622
+    },
+    {
+        "text": "Yes or no: was one of those banned substances EPO?",
+        "startTime": 62641,
+        "endTime": 66259,
+        "slowStartTime": 94112,
+        "slowEndTime": 99614
+    },
+    {
+        "text": "Yes.",
+        "startTime": 66601,
+        "endTime": 66819,
+        "slowStartTime": 100051,
+        "slowEndTime": 100453
+    },
+    {
+        "text": "Did you ever blood dope or use blood transfusions to enhance your cycling performance?",
+        "startTime": 68474,
+        "endTime": 73539,
+        "slowStartTime": 102861,
+        "slowEndTime": 110534
+    },
+    {
+        "text": "Yes.",
+        "startTime": 73708,
+        "endTime": 73897,
+        "slowStartTime": 110712,
+        "slowEndTime": 111070
+    },
+    {
+        "text": "Did you ever use any other banned substances...",
+        "startTime": 75979,
+        "endTime": 78467,
+        "slowStartTime": 114118,
+        "slowEndTime": 117925
+    },
+    {
+        "text": "...like testosterone, cortisone, or human growth hormone?",
+        "startTime": 78578,
+        "endTime": 82171,
+        "slowStartTime": 118017,
+        "slowEndTime": 123481
+    },
+    {
+        "text": "Yes.",
+        "startTime": 83086,
+        "endTime": 83413,
+        "slowStartTime": 124779,
+        "slowEndTime": 125345
+    },
+    {
+        "text": "Yes or no: in all seven of your Tour de France victories,...",
+        "startTime": 85421,
+        "endTime": 90614,
+        "slowStartTime": 128281,
+        "slowEndTime": 136146
+    },
+    {
+        "text": "...did you ever take banned substances or blood dope?",
+        "startTime": 91017,
+        "endTime": 94372,
+        "slowStartTime": 136675,
+        "slowEndTime": 141783
+    },
+    {
+        "text": "Yes.",
+        "startTime": 94573,
+        "endTime": 94881,
+        "slowStartTime": 142010,
+        "slowEndTime": 142547
+    },
+    {
+        "text": "In your opinion, was it humanly possible to win the Tour de France without doping...",
+        "startTime": 96698,
+        "endTime": 102664,
+        "slowStartTime": 145197,
+        "slowEndTime": 154221
+    },
+    {
+        "text": "...seven times in a row?",
+        "startTime": 103522,
+        "endTime": 104601,
+        "slowStartTime": 155433,
+        "slowEndTime": 157127
+    },
+    {
+        "text": "Not in my opinion.",
+        "startTime": 106305,
+        "endTime": 107204,
+        "slowStartTime": 159608,
+        "slowEndTime": 161031
+    },
+    {
+        "text": "So, when did you first start doping?",
+        "startTime": 109051,
+        "endTime": 111623,
+        "slowStartTime": 163726,
+        "slowEndTime": 167659
+    },
+    {
+        "text": "We're done with the yes and nos?",
+        "startTime": 112339,
+        "endTime": 113405,
+        "slowStartTime": 168659,
+        "slowEndTime": 170333
+    },
+    {
+        "text": "We're done with the yes and nos.",
+        "startTime": 113779,
+        "endTime": 114898,
+        "slowStartTime": 170819,
+        "slowEndTime": 172572
+    },
+    {
+        "text": "I suppose earlier in my career there was cortisone,...",
+        "startTime": 116543,
+        "endTime": 120619,
+        "slowStartTime": 174964,
+        "slowEndTime": 181153
+    },
+    {
+        "text": "...and then the EPO generation began.",
+        "startTime": 120700,
+        "endTime": 126476,
+        "slowStartTime": 181200,
+        "slowEndTime": 189939
+    },
+    {
+        "text": "Began when?",
+        "startTime": 128276,
+        "endTime": 128817,
+        "slowStartTime": 192564,
+        "slowEndTime": 193451
+    },
+    {
+        "text": "For me or for?",
+        "startTime": 130105,
+        "endTime": 131001,
+        "slowStartTime": 195308,
+        "slowEndTime": 196726
+    },
+    {
+        "text": "For you.",
+        "startTime": 131195,
+        "endTime": 131581,
+        "slowStartTime": 196943,
+        "slowEndTime": 197597
+    },
+    {
+        "text": "Mid 90s.",
+        "startTime": 132642,
+        "endTime": 133257,
+        "slowStartTime": 199113,
+        "slowEndTime": 200110
+    },
+    {
+        "text": "Mid 90s.",
+        "startTime": 133610,
+        "endTime": 134296,
+        "slowStartTime": 200565,
+        "slowEndTime": 201669
+    }
+]

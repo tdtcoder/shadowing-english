@@ -1,0 +1,114 @@
+[
+    {
+        "text": "﻿Add NOT to make a negative sentence.",
+        "startTime": 584,
+        "endTime": 3196,
+        "slowStartTime": 1026,
+        "slowEndTime": 5019
+    },
+    {
+        "text": "I am a student.",
+        "startTime": 5070,
+        "endTime": 6167,
+        "slowStartTime": 7755,
+        "slowEndTime": 9475
+    },
+    {
+        "text": "I am not a student.",
+        "startTime": 7655,
+        "endTime": 9202,
+        "slowStartTime": 11632,
+        "slowEndTime": 14028
+    },
+    {
+        "text": "The man is a cook.",
+        "startTime": 10677,
+        "endTime": 12067,
+        "slowStartTime": 16165,
+        "slowEndTime": 18326
+    },
+    {
+        "text": "The man is not a cook.",
+        "startTime": 13597,
+        "endTime": 15427,
+        "slowStartTime": 20546,
+        "slowEndTime": 23366
+    },
+    {
+        "text": "She is an artist.",
+        "startTime": 17044,
+        "endTime": 18341,
+        "slowStartTime": 25716,
+        "slowEndTime": 27736
+    },
+    {
+        "text": "She is not an artist.",
+        "startTime": 19857,
+        "endTime": 21708,
+        "slowStartTime": 29936,
+        "slowEndTime": 32787
+    },
+    {
+        "text": "Change the word order to make a question.",
+        "startTime": 23225,
+        "endTime": 25713,
+        "slowStartTime": 34987,
+        "slowEndTime": 38794
+    },
+    {
+        "text": "I am a student.",
+        "startTime": 27323,
+        "endTime": 28475,
+        "slowStartTime": 41134,
+        "slowEndTime": 42938
+    },
+    {
+        "text": "Am I a student?",
+        "startTime": 30139,
+        "endTime": 31369,
+        "slowStartTime": 45358,
+        "slowEndTime": 47278
+    },
+    {
+        "text": "It is a bird.",
+        "startTime": 32834,
+        "endTime": 33851,
+        "slowStartTime": 49401,
+        "slowEndTime": 51001
+    },
+    {
+        "text": "Is it a bird?",
+        "startTime": 35435,
+        "endTime": 36571,
+        "slowStartTime": 53302,
+        "slowEndTime": 55082
+    },
+    {
+        "text": "We are sisters.",
+        "startTime": 38155,
+        "endTime": 39358,
+        "slowStartTime": 57382,
+        "slowEndTime": 59262
+    },
+    {
+        "text": "Are we sisters?",
+        "startTime": 40913,
+        "endTime": 42010,
+        "slowStartTime": 61520,
+        "slowEndTime": 63240
+    },
+    {
+        "text": "They are men.",
+        "startTime": 43607,
+        "endTime": 44877,
+        "slowStartTime": 65560,
+        "slowEndTime": 67540
+    },
+    {
+        "text": "Are they men?",
+        "startTime": 46340,
+        "endTime": 47491,
+        "slowStartTime": 69660,
+        "slowEndTime": 71461
+    }
+]

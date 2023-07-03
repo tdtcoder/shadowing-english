@@ -1,0 +1,65 @@
+[
+    {
+        "text": "I'm a little worried about calling Mr. Sanchez in Mexico, Mark.",
+        "startTime": 4130,
+        "endTime": 7840,
+        "slowStartTime": 6280,
+        "slowEndTime": 11760
+    },
+    {
+        "text": "I'm not used to dealing with international clients. Any suggestions?",
+        "startTime": 8100,
+        "endTime": 12237,
+        "slowStartTime": 12270,
+        "slowEndTime": 18330
+    },
+    {
+        "text": "I've heard it's good to start with small talk before you get down to business.",
+        "startTime": 12783,
+        "endTime": 16557,
+        "slowStartTime": 19090,
+        "slowEndTime": 24720
+    },
+    {
+        "text": "Americans respect directness, but other cultures may not.",
+        "startTime": 17019,
+        "endTime": 20647,
+        "slowStartTime": 25480,
+        "slowEndTime": 31020
+    },
+    {
+        "text": "Is it appropriate for me to call him \"Mr.\" or should I use \"Senor\"?",
+        "startTime": 21801,
+        "endTime": 26033,
+        "slowStartTime": 32700,
+        "slowEndTime": 38770
+    },
+    {
+        "text": "I think Mr. is the safer title to use.",
+        "startTime": 26488,
+        "endTime": 29078,
+        "slowStartTime": 39790,
+        "slowEndTime": 43510
+    },
+    {
+        "text": "I'm also worried I might not understand his accent.",
+        "startTime": 29360,
+        "endTime": 32407,
+        "slowStartTime": 43950,
+        "slowEndTime": 48520
+    },
+    {
+        "text": "I guarantee you won't understand everything. But don't worry.",
+        "startTime": 33041,
+        "endTime": 36336,
+        "slowStartTime": 49485,
+        "slowEndTime": 54405
+    },
+    {
+        "text": "Just ask him to repeat or clarify and concisely summarize your notes before you hang up.",
+        "startTime": 36658,
+        "endTime": 42494,
+        "slowStartTime": 54925,
+        "slowEndTime": 63710
+    }
+]

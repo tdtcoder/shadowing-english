@@ -1,0 +1,58 @@
+[
+    {
+        "text": "﻿Welcome to the world, 2116.",
+        "startTime": 212,
+        "endTime": 2551,
+        "slowStartTime": 468,
+        "slowEndTime": 4051
+    },
+    {
+        "text": "You can fly across town in minutes...",
+        "startTime": 2883,
+        "endTime": 4876,
+        "slowStartTime": 4474,
+        "slowEndTime": 7539
+    },
+    {
+        "text": "...or across the globe in under an hour.",
+        "startTime": 5861,
+        "endTime": 7793,
+        "slowStartTime": 8942,
+        "slowEndTime": 11914
+    },
+    {
+        "text": "Whole communities are living on Mars...",
+        "startTime": 8619,
+        "endTime": 11108,
+        "slowStartTime": 13079,
+        "slowEndTime": 16887
+    },
+    {
+        "text": "...and solar satellites provide Earth with unlimited clean power.",
+        "startTime": 11582,
+        "endTime": 15278,
+        "slowStartTime": 17523,
+        "slowEndTime": 23142
+    },
+    {
+        "text": "In less than a century, Boeing took the world from seaplanes to spaceplanes...",
+        "startTime": 15587,
+        "endTime": 20057,
+        "slowStartTime": 23530,
+        "slowEndTime": 30311
+    },
+    {
+        "text": "...across the universe and beyond.",
+        "startTime": 20167,
+        "endTime": 22098,
+        "slowStartTime": 30400,
+        "slowEndTime": 33372
+    },
+    {
+        "text": "And if you thought that was amazing, you just wait.",
+        "startTime": 22469,
+        "endTime": 26443,
+        "slowStartTime": 33853,
+        "slowEndTime": 39890
+    }
+]

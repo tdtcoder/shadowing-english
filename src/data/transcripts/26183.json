@@ -1,0 +1,65 @@
+[
+    {
+        "text": "﻿Let's learn about sickness.",
+        "startTime": 287,
+        "endTime": 2397,
+        "slowStartTime": 581,
+        "slowEndTime": 3821
+    },
+    {
+        "text": "He has an earache.",
+        "startTime": 5486,
+        "endTime": 7399,
+        "slowStartTime": 8379,
+        "slowEndTime": 11324
+    },
+    {
+        "text": "The tiger has a toothache.",
+        "startTime": 10485,
+        "endTime": 13006,
+        "slowStartTime": 15878,
+        "slowEndTime": 19734
+    },
+    {
+        "text": "He has a stomachache.",
+        "startTime": 16055,
+        "endTime": 17861,
+        "slowStartTime": 24233,
+        "slowEndTime": 27016
+    },
+    {
+        "text": "She has the flu.",
+        "startTime": 21057,
+        "endTime": 22521,
+        "slowStartTime": 31736,
+        "slowEndTime": 34006
+    },
+    {
+        "text": "He's got a sore back.",
+        "startTime": 25561,
+        "endTime": 27645,
+        "slowStartTime": 38491,
+        "slowEndTime": 41693
+    },
+    {
+        "text": "She has a bad cold.",
+        "startTime": 30993,
+        "endTime": 33132,
+        "slowStartTime": 46640,
+        "slowEndTime": 49923
+    },
+    {
+        "text": "He's got a headache.",
+        "startTime": 36187,
+        "endTime": 37985,
+        "slowStartTime": 54431,
+        "slowEndTime": 57203
+    },
+    {
+        "text": "She suffers from allergies.",
+        "startTime": 41099,
+        "endTime": 43233,
+        "slowStartTime": 61798,
+        "slowEndTime": 65075
+    }
+]

@@ -1,0 +1,275 @@
+[
+    {
+        "text": "Hey everyone, I'm Mr. Willis and this is your Macro Minute...",
+        "startTime": 491,
+        "endTime": 2967,
+        "slowStartTime": 886,
+        "slowEndTime": 4676
+    },
+    {
+        "text": "...on demand-side versus supply-side economics.",
+        "startTime": 3065,
+        "endTime": 5500,
+        "slowStartTime": 4748,
+        "slowEndTime": 8475
+    },
+    {
+        "text": "In the aggregate economy, there are demand-side and supply-side economics.",
+        "startTime": 6155,
+        "endTime": 9615,
+        "slowStartTime": 9383,
+        "slowEndTime": 14647
+    },
+    {
+        "text": "Demand-side economics pertain to the behaviors of all consumers...",
+        "startTime": 10327,
+        "endTime": 13243,
+        "slowStartTime": 15641,
+        "slowEndTime": 20090
+    },
+    {
+        "text": "...who purchase goods and services in the domestic economy.",
+        "startTime": 13577,
+        "endTime": 15809,
+        "slowStartTime": 20515,
+        "slowEndTime": 23939
+    },
+    {
+        "text": "This includes consumer spending, investment spending by firms,...",
+        "startTime": 16513,
+        "endTime": 19451,
+        "slowStartTime": 24919,
+        "slowEndTime": 29401
+    },
+    {
+        "text": "...and spending by government at the local, state, and federal level.",
+        "startTime": 19754,
+        "endTime": 22429,
+        "slowStartTime": 29781,
+        "slowEndTime": 33868
+    },
+    {
+        "text": "Supply-side economics pertain to the behavior of all firms...",
+        "startTime": 23340,
+        "endTime": 25715,
+        "slowStartTime": 35160,
+        "slowEndTime": 38798
+    },
+    {
+        "text": "...who produce goods and services in the domestic economy.",
+        "startTime": 25805,
+        "endTime": 28001,
+        "slowStartTime": 38858,
+        "slowEndTime": 42227
+    },
+    {
+        "text": "When using policy to correct economic conditions,...",
+        "startTime": 28847,
+        "endTime": 31047,
+        "slowStartTime": 43420,
+        "slowEndTime": 46795
+    },
+    {
+        "text": "...government focuses on demand-side economics...",
+        "startTime": 31565,
+        "endTime": 33790,
+        "slowStartTime": 47498,
+        "slowEndTime": 50910
+    },
+    {
+        "text": "...by trying to influence aggregate demand and consumer behaviors.",
+        "startTime": 34120,
+        "endTime": 37181,
+        "slowStartTime": 51330,
+        "slowEndTime": 55996
+    },
+    {
+        "text": "But why? Aren't there policies that government can use...",
+        "startTime": 37730,
+        "endTime": 40037,
+        "slowStartTime": 56745,
+        "slowEndTime": 60280
+    },
+    {
+        "text": "...to influence aggregate supply and the behavior of firms?",
+        "startTime": 40113,
+        "endTime": 42501,
+        "slowStartTime": 60319,
+        "slowEndTime": 63976
+    },
+    {
+        "text": "Government can change corporate taxes, subsidies,...",
+        "startTime": 43307,
+        "endTime": 45377,
+        "slowStartTime": 65111,
+        "slowEndTime": 68290
+    },
+    {
+        "text": "...and regulation laws to try to incentivize changes in output production.",
+        "startTime": 45454,
+        "endTime": 48836,
+        "slowStartTime": 68331,
+        "slowEndTime": 73479
+    },
+    {
+        "text": "However, no matter how advantageous government makes it...",
+        "startTime": 49541,
+        "endTime": 52412,
+        "slowStartTime": 74462,
+        "slowEndTime": 78843
+    },
+    {
+        "text": "...for domestic firms to change their behaviors, it can never force firms...",
+        "startTime": 52539,
+        "endTime": 55814,
+        "slowStartTime": 78958,
+        "slowEndTime": 83946
+    },
+    {
+        "text": "... to produce a greater or lesser amount of real GDP output.",
+        "startTime": 55980,
+        "endTime": 58184,
+        "slowStartTime": 84120,
+        "slowEndTime": 87501
+    },
+    {
+        "text": "Firms are in control of their own production process...",
+        "startTime": 58981,
+        "endTime": 61102,
+        "slowStartTime": 88621,
+        "slowEndTime": 91878
+    },
+    {
+        "text": "...and so supply-side policies are unpredictable in the results,...",
+        "startTime": 61348,
+        "endTime": 64091,
+        "slowStartTime": 92172,
+        "slowEndTime": 96362
+    },
+    {
+        "text": "...making them poor tools to fix the aggregate economy.",
+        "startTime": 64525,
+        "endTime": 66831,
+        "slowStartTime": 96938,
+        "slowEndTime": 100472
+    },
+    {
+        "text": "Demand-side policies, however, are much more predictable.",
+        "startTime": 67729,
+        "endTime": 70223,
+        "slowStartTime": 101743,
+        "slowEndTime": 105559
+    },
+    {
+        "text": "When government alters its expenditures,...",
+        "startTime": 70758,
+        "endTime": 72374,
+        "slowStartTime": 106287,
+        "slowEndTime": 108786
+    },
+    {
+        "text": "...it has an instant effect on aggregate demand...",
+        "startTime": 72704,
+        "endTime": 74594,
+        "slowStartTime": 109206,
+        "slowEndTime": 112116
+    },
+    {
+        "text": "...because government is acting as a consumer...",
+        "startTime": 75053,
+        "endTime": 76843,
+        "slowStartTime": 112730,
+        "slowEndTime": 115490
+    },
+    {
+        "text": "...to change their consumption patterns.",
+        "startTime": 77104,
+        "endTime": 78588,
+        "slowStartTime": 115806,
+        "slowEndTime": 118107
+    },
+    {
+        "text": "When government alters tax policy,...",
+        "startTime": 79273,
+        "endTime": 80831,
+        "slowStartTime": 119060,
+        "slowEndTime": 121471
+    },
+    {
+        "text": "...it changes consumer disposable income,...",
+        "startTime": 81072,
+        "endTime": 82851,
+        "slowStartTime": 121758,
+        "slowEndTime": 124502
+    },
+    {
+        "text": "...which will have an instant effect on aggregate demand.",
+        "startTime": 83531,
+        "endTime": 85538,
+        "slowStartTime": 125446,
+        "slowEndTime": 128532
+    },
+    {
+        "text": "For example, if I give you 100 dollars,...",
+        "startTime": 86085,
+        "endTime": 88144,
+        "slowStartTime": 129277,
+        "slowEndTime": 132441
+    },
+    {
+        "text": "...it's a pretty safe bet you're gonna spend at least a portion of it.",
+        "startTime": 88627,
+        "endTime": 90780,
+        "slowStartTime": 133090,
+        "slowEndTime": 136395
+    },
+    {
+        "text": "If I take 100 dollars away from you, you're not gonna buy...",
+        "startTime": 91132,
+        "endTime": 93709,
+        "slowStartTime": 136848,
+        "slowEndTime": 140789
+    },
+    {
+        "text": "...as many things as you used to.",
+        "startTime": 93801,
+        "endTime": 95089,
+        "slowStartTime": 140852,
+        "slowEndTime": 142858
+    },
+    {
+        "text": "No money, no spending.",
+        "startTime": 95464,
+        "endTime": 96786,
+        "slowStartTime": 143346,
+        "slowEndTime": 145404
+    },
+    {
+        "text": "\"Help me, I'm poor.\"",
+        "startTime": 97290,
+        "endTime": 98425,
+        "slowStartTime": 146085,
+        "slowEndTime": 147862
+    },
+    {
+        "text": "As a result, the government will use policies that affect aggregate demand...",
+        "startTime": 99151,
+        "endTime": 102514,
+        "slowStartTime": 148876,
+        "slowEndTime": 153996
+    },
+    {
+        "text": "...when its goal is to return the aggregate economy...",
+        "startTime": 102701,
+        "endTime": 104707,
+        "slowStartTime": 154201,
+        "slowEndTime": 157286
+    },
+    {
+        "text": "...to long-run equilibrium.",
+        "startTime": 104886,
+        "endTime": 106056,
+        "slowStartTime": 157479,
+        "slowEndTime": 159309
+    }
+]

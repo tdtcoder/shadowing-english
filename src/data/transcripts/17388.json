@@ -1,0 +1,107 @@
+[
+    {
+        "text": "We pack grapes.",
+        "startTime": 3213,
+        "endTime": 5089,
+        "slowStartTime": 4969,
+        "slowEndTime": 7859
+    },
+    {
+        "text": "We pack sandwiches.",
+        "startTime": 6057,
+        "endTime": 7905,
+        "slowStartTime": 9235,
+        "slowEndTime": 12083
+    },
+    {
+        "text": "We pack drinks.",
+        "startTime": 9207,
+        "endTime": 10854,
+        "slowStartTime": 13961,
+        "slowEndTime": 16506
+    },
+    {
+        "text": "We pack apples.",
+        "startTime": 12061,
+        "endTime": 13720,
+        "slowStartTime": 18242,
+        "slowEndTime": 20805
+    },
+    {
+        "text": "We pack cheese.",
+        "startTime": 14974,
+        "endTime": 16698,
+        "slowStartTime": 22611,
+        "slowEndTime": 25272
+    },
+    {
+        "text": "We pack carrots.",
+        "startTime": 17959,
+        "endTime": 19760,
+        "slowStartTime": 27088,
+        "slowEndTime": 29865
+    },
+    {
+        "text": "We pack crackers.",
+        "startTime": 20887,
+        "endTime": 22689,
+        "slowStartTime": 31481,
+        "slowEndTime": 34259
+    },
+    {
+        "text": "We pack a picnic!",
+        "startTime": 23881,
+        "endTime": 25949,
+        "slowStartTime": 35972,
+        "slowEndTime": 39148
+    },
+    {
+        "text": "Let's go on a picnic!",
+        "startTime": 30399,
+        "endTime": 32398,
+        "slowStartTime": 45749,
+        "slowEndTime": 48822
+    },
+    {
+        "text": "Sounds good.",
+        "startTime": 33761,
+        "endTime": 34789,
+        "slowStartTime": 50791,
+        "slowEndTime": 52409
+    },
+    {
+        "text": "Let's pack something to eat.",
+        "startTime": 35173,
+        "endTime": 37387,
+        "slowStartTime": 52910,
+        "slowEndTime": 56306
+    },
+    {
+        "text": "I pack a banana.",
+        "startTime": 39063,
+        "endTime": 40789,
+        "slowStartTime": 58745,
+        "slowEndTime": 61409
+    },
+    {
+        "text": "We pack grapes.",
+        "startTime": 42116,
+        "endTime": 43956,
+        "slowStartTime": 63324,
+        "slowEndTime": 66159
+    },
+    {
+        "text": "You pack an orange.",
+        "startTime": 45289,
+        "endTime": 47151,
+        "slowStartTime": 68084,
+        "slowEndTime": 70951
+    },
+    {
+        "text": "We pack sandwiches and drinks.",
+        "startTime": 48494,
+        "endTime": 51323,
+        "slowStartTime": 72891,
+        "slowEndTime": 77209
+    }
+]

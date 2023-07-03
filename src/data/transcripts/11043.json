@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Somehow, I always manage to come through.",
+        "startTime": 8400,
+        "endTime": 11200,
+        "slowStartTime": 12750,
+        "slowEndTime": 17100
+    },
+    {
+        "text": "Not this time.",
+        "startTime": 15400,
+        "endTime": 16400,
+        "slowStartTime": 23300,
+        "slowEndTime": 24700
+    },
+    {
+        "text": "I messed up.",
+        "startTime": 21400,
+        "endTime": 23500,
+        "slowStartTime": 32300,
+        "slowEndTime": 35500
+    },
+    {
+        "text": "You think you'll get away with this?",
+        "startTime": 34800,
+        "endTime": 36450,
+        "slowStartTime": 52400,
+        "slowEndTime": 54900
+    },
+    {
+        "text": "I already have, Jill.",
+        "startTime": 39300,
+        "endTime": 41000,
+        "slowStartTime": 59100,
+        "slowEndTime": 61700
+    },
+    {
+        "text": "Did you?",
+        "startTime": 41600,
+        "endTime": 42200,
+        "slowStartTime": 62600,
+        "slowEndTime": 63600
+    },
+    {
+        "text": "Do you have it?",
+        "startTime": 42600,
+        "endTime": 43200,
+        "slowStartTime": 64100,
+        "slowEndTime": 65100
+    },
+    {
+        "text": "Maybe. You'll have to kill me to find out.",
+        "startTime": 43700,
+        "endTime": 47200,
+        "slowStartTime": 65700,
+        "slowEndTime": 71100
+    },
+    {
+        "text": "Now, what would you do if you found it?",
+        "startTime": 52550,
+        "endTime": 54600,
+        "slowStartTime": 79000,
+        "slowEndTime": 82250
+    },
+    {
+        "text": "It doesn't matter because you're already...",
+        "startTime": 55300,
+        "endTime": 58750,
+        "slowStartTime": 83100,
+        "slowEndTime": 88400
+    }
+]

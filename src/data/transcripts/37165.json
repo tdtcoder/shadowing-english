@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Hi! Welcome to Heritage.",
+        "startTime": 3445,
+        "endTime": 5213,
+        "slowStartTime": 5318,
+        "slowEndTime": 8044
+    },
+    {
+        "text": "Here.",
+        "startTime": 5362,
+        "endTime": 5911,
+        "slowStartTime": 8193,
+        "slowEndTime": 9091
+    },
+    {
+        "text": "Okay, thanks.",
+        "startTime": 6927,
+        "endTime": 7793,
+        "slowStartTime": 10540,
+        "slowEndTime": 11915
+    },
+    {
+        "text": "Let's see, so you're returning?",
+        "startTime": 8185,
+        "endTime": 9505,
+        "slowStartTime": 12428,
+        "slowEndTime": 14483
+    },
+    {
+        "text": "I couldn't find where to return.",
+        "startTime": 9641,
+        "endTime": 11359,
+        "slowStartTime": 14612,
+        "slowEndTime": 17264
+    },
+    {
+        "text": "I need a replacement.",
+        "startTime": 11483,
+        "endTime": 12696,
+        "slowStartTime": 17374,
+        "slowEndTime": 19269
+    },
+    {
+        "text": "That's fine, I can help you here.",
+        "startTime": 13361,
+        "endTime": 14702,
+        "slowStartTime": 20191,
+        "slowEndTime": 22278
+    },
+    {
+        "text": "I'm sorry to hear you had a problem.",
+        "startTime": 14799,
+        "endTime": 16255,
+        "slowStartTime": 22349,
+        "slowEndTime": 24607
+    },
+    {
+        "text": "We'll take care of it right away.",
+        "startTime": 16748,
+        "endTime": 18169,
+        "slowStartTime": 25272,
+        "slowEndTime": 27478
+    },
+    {
+        "text": "Can you tell me what happened?",
+        "startTime": 18655,
+        "endTime": 19809,
+        "slowStartTime": 28132,
+        "slowEndTime": 29938
+    },
+    {
+        "text": "Well, I was coming off your lot and everything was fine...",
+        "startTime": 20127,
+        "endTime": 22772,
+        "slowStartTime": 30341,
+        "slowEndTime": 34383
+    },
+    {
+        "text": "When a customer is unhappy, let them tell their story.",
+        "startTime": 22861,
+        "endTime": 25833,
+        "slowStartTime": 34441,
+        "slowEndTime": 38974
+    },
+    {
+        "text": "They want to feel they've been heard and that somebody cares.",
+        "startTime": 26001,
+        "endTime": 28940,
+        "slowStartTime": 39151,
+        "slowEndTime": 43635
+    },
+    {
+        "text": "The car started shaking.",
+        "startTime": 29040,
+        "endTime": 30295,
+        "slowStartTime": 43710,
+        "slowEndTime": 45667
+    },
+    {
+        "text": "Then, ask questions that help you guide them to a solution.",
+        "startTime": 30433,
+        "endTime": 33327,
+        "slowStartTime": 45799,
+        "slowEndTime": 50216
+    },
+    {
+        "text": "So, the steering didn't feel quite right but you were still able to control the car?",
+        "startTime": 33525,
+        "endTime": 37703,
+        "slowStartTime": 50438,
+        "slowEndTime": 56780
+    },
+    {
+        "text": "Well, just barely.",
+        "startTime": 37933,
+        "endTime": 38885,
+        "slowStartTime": 57050,
+        "slowEndTime": 58552
+    },
+    {
+        "text": "Control your own emotions.",
+        "startTime": 39583,
+        "endTime": 41189,
+        "slowStartTime": 59524,
+        "slowEndTime": 62009
+    },
+    {
+        "text": "Instead of taking it personally, stay calm and focus on solving the problem.",
+        "startTime": 41530,
+        "endTime": 46158,
+        "slowStartTime": 62445,
+        "slowEndTime": 69462
+    },
+    {
+        "text": "It often helps to find something you can agree with.",
+        "startTime": 46411,
+        "endTime": 48887,
+        "slowStartTime": 69767,
+        "slowEndTime": 73556
+    },
+    {
+        "text": "This shows your willingness to work with the customer to solve the problem.",
+        "startTime": 49497,
+        "endTime": 53440,
+        "slowStartTime": 74395,
+        "slowEndTime": 80385
+    },
+    {
+        "text": "Someone should have told me that your lot would be closed.",
+        "startTime": 53561,
+        "endTime": 56205,
+        "slowStartTime": 80492,
+        "slowEndTime": 84532
+    },
+    {
+        "text": "Yes, I'm sorry about that.",
+        "startTime": 56761,
+        "endTime": 58217,
+        "slowStartTime": 85292,
+        "slowEndTime": 87550
+    },
+    {
+        "text": "We weren't expecting you back before the lot reopened.",
+        "startTime": 58335,
+        "endTime": 60749,
+        "slowStartTime": 87653,
+        "slowEndTime": 91348
+    },
+    {
+        "text": "But, it would have been good to mention it just in case.",
+        "startTime": 60904,
+        "endTime": 63441,
+        "slowStartTime": 91506,
+        "slowEndTime": 95387
+    },
+    {
+        "text": "No kidding.",
+        "startTime": 63568,
+        "endTime": 64335,
+        "slowStartTime": 95502,
+        "slowEndTime": 96728
+    },
+    {
+        "text": "Well, let me see what I can do because I'm sure we can make this right for you.",
+        "startTime": 64560,
+        "endTime": 68297,
+        "slowStartTime": 96990,
+        "slowEndTime": 102671
+    }
+]

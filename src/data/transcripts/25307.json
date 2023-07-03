@@ -1,0 +1,72 @@
+[
+    {
+        "text": "When your cable goes out, you get stressed.",
+        "startTime": 41,
+        "endTime": 2384,
+        "slowStartTime": 211,
+        "slowEndTime": 3801
+    },
+    {
+        "text": "When you get stressed, you need to get away.",
+        "startTime": 2743,
+        "endTime": 4830,
+        "slowStartTime": 4264,
+        "slowEndTime": 7470
+    },
+    {
+        "text": "When you need to get away, you go for something exotic.",
+        "startTime": 5215,
+        "endTime": 7923,
+        "slowStartTime": 7972,
+        "slowEndTime": 12110
+    },
+    {
+        "text": "When you go for something exotic, you get bitten by something exotic.",
+        "startTime": 8295,
+        "endTime": 11604,
+        "slowStartTime": 12592,
+        "slowEndTime": 17631
+    },
+    {
+        "text": "When you get bitten by something exotic, things swell up.",
+        "startTime": 11890,
+        "endTime": 14813,
+        "slowStartTime": 17985,
+        "slowEndTime": 22444
+    },
+    {
+        "text": "When things swell up, you can't go home.",
+        "startTime": 15251,
+        "endTime": 17595,
+        "slowStartTime": 23027,
+        "slowEndTime": 26617
+    },
+    {
+        "text": "And when you can't go home, you become a local fisherman they call \"Big Fatty Face.\"",
+        "startTime": 18151,
+        "endTime": 22555,
+        "slowStartTime": 27376,
+        "slowEndTime": 34057
+    },
+    {
+        "text": "Don't become a local fisherman they call \"Big Fatty Face.\"",
+        "startTime": 22909,
+        "endTime": 25725,
+        "slowStartTime": 34514,
+        "slowEndTime": 38812
+    },
+    {
+        "text": "Get rid of cable and upgrade to DIRECTV.",
+        "startTime": 25869,
+        "endTime": 28043,
+        "slowStartTime": 38954,
+        "slowEndTime": 42290
+    },
+    {
+        "text": "Call 1800-DIRECTV.",
+        "startTime": 28154,
+        "endTime": 29847,
+        "slowStartTime": 42381,
+        "slowEndTime": 44995
+    }
+]

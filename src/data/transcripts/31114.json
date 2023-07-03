@@ -1,0 +1,58 @@
+[
+    {
+        "text": "It was sunny.",
+        "startTime": 3713,
+        "endTime": 4782,
+        "slowStartTime": 5719,
+        "slowEndTime": 7398
+    },
+    {
+        "text": "It was not cloudy.",
+        "startTime": 6356,
+        "endTime": 7540,
+        "slowStartTime": 9684,
+        "slowEndTime": 11535
+    },
+    {
+        "text": "They were at home.",
+        "startTime": 9084,
+        "endTime": 10637,
+        "slowStartTime": 13776,
+        "slowEndTime": 16181
+    },
+    {
+        "text": "They weren't at the park.",
+        "startTime": 12159,
+        "endTime": 13662,
+        "slowStartTime": 18389,
+        "slowEndTime": 20718
+    },
+    {
+        "text": "Were you at school?",
+        "startTime": 18512,
+        "endTime": 19643,
+        "slowStartTime": 27918,
+        "slowEndTime": 29689
+    },
+    {
+        "text": "Yes, I was.",
+        "startTime": 21121,
+        "endTime": 21996,
+        "slowStartTime": 31831,
+        "slowEndTime": 33219
+    },
+    {
+        "text": "Was your dog sick?",
+        "startTime": 23562,
+        "endTime": 24799,
+        "slowStartTime": 35493,
+        "slowEndTime": 37423
+    },
+    {
+        "text": "No, he was not sick.",
+        "startTime": 26355,
+        "endTime": 27645,
+        "slowStartTime": 39683,
+        "slowEndTime": 41693
+    }
+]

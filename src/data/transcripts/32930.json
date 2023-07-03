@@ -1,0 +1,100 @@
+[
+    {
+        "text": "This is a blueprint of what my Rube Goldberg machine will be like.",
+        "startTime": 4579,
+        "endTime": 7749,
+        "slowStartTime": 7018,
+        "slowEndTime": 11848
+    },
+    {
+        "text": "There is rarely an occasion where I'll make a Rube Goldberg machine...",
+        "startTime": 8197,
+        "endTime": 11391,
+        "slowStartTime": 12446,
+        "slowEndTime": 17312
+    },
+    {
+        "text": "...that works on the first try,...",
+        "startTime": 11499,
+        "endTime": 12681,
+        "slowStartTime": 17398,
+        "slowEndTime": 19246
+    },
+    {
+        "text": "...but if I plan everything out well and I've tested out enough,...",
+        "startTime": 13022,
+        "endTime": 16461,
+        "slowStartTime": 19683,
+        "slowEndTime": 24917
+    },
+    {
+        "text": "...sometimes if I get lucky and it will work on the first try.",
+        "startTime": 16909,
+        "endTime": 20125,
+        "slowStartTime": 25514,
+        "slowEndTime": 30412
+    },
+    {
+        "text": "Big thing with this basically, a lot of times you just have to try and try again.",
+        "startTime": 25165,
+        "endTime": 30102,
+        "slowStartTime": 37897,
+        "slowEndTime": 45378
+    },
+    {
+        "text": "Basically, it's all about trial and error.",
+        "startTime": 30175,
+        "endTime": 31983,
+        "slowStartTime": 45413,
+        "slowEndTime": 48200
+    },
+    {
+        "text": "It's fascinating for me to see how all the parts work together to complete a task.",
+        "startTime": 36039,
+        "endTime": 41314,
+        "slowStartTime": 54208,
+        "slowEndTime": 62196
+    },
+    {
+        "text": "Alright, attempt number five in 3, 2, 1.",
+        "startTime": 43795,
+        "endTime": 48081,
+        "slowStartTime": 65843,
+        "slowEndTime": 72346
+    },
+    {
+        "text": "Alright, good, good.",
+        "startTime": 51081,
+        "endTime": 52475,
+        "slowStartTime": 76772,
+        "slowEndTime": 78937
+    },
+    {
+        "text": "Alrighty.",
+        "startTime": 52601,
+        "endTime": 53377,
+        "slowStartTime": 79051,
+        "slowEndTime": 80291
+    },
+    {
+        "text": "Come on, come on.",
+        "startTime": 53957,
+        "endTime": 54614,
+        "slowStartTime": 81086,
+        "slowEndTime": 82146
+    },
+    {
+        "text": "Did that go in?",
+        "startTime": 58499,
+        "endTime": 59192,
+        "slowStartTime": 87899,
+        "slowEndTime": 89013
+    },
+    {
+        "text": "Yes!",
+        "startTime": 59530,
+        "endTime": 60459,
+        "slowStartTime": 89445,
+        "slowEndTime": 90913
+    }
+]

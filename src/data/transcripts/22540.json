@@ -1,0 +1,93 @@
+[
+    {
+        "text": "﻿Hey Steph!",
+        "startTime": 5669,
+        "endTime": 6250,
+        "slowStartTime": 8654,
+        "slowEndTime": 9600
+    },
+    {
+        "text": "What do you say we go out Saturday night?",
+        "startTime": 6367,
+        "endTime": 8017,
+        "slowStartTime": 9700,
+        "slowEndTime": 12251
+    },
+    {
+        "text": "What?",
+        "startTime": 8427,
+        "endTime": 8657,
+        "slowStartTime": 12790,
+        "slowEndTime": 13211
+    },
+    {
+        "text": "Hello?",
+        "startTime": 10087,
+        "endTime": 10635,
+        "slowStartTime": 15281,
+        "slowEndTime": 16178
+    },
+    {
+        "text": "Hey, yeah, Steph! This is Dave from History class.",
+        "startTime": 10833,
+        "endTime": 13670,
+        "slowStartTime": 16399,
+        "slowEndTime": 20730
+    },
+    {
+        "text": "Oh, Dave.",
+        "startTime": 13889,
+        "endTime": 15080,
+        "slowStartTime": 20983,
+        "slowEndTime": 22845
+    },
+    {
+        "text": "Hey, I was wondering what are you doing this weekend?",
+        "startTime": 15428,
+        "endTime": 17027,
+        "slowStartTime": 23292,
+        "slowEndTime": 25766
+    },
+    {
+        "text": "Dave, I was just diagnosed with H1N1.",
+        "startTime": 17360,
+        "endTime": 20009,
+        "slowStartTime": 26190,
+        "slowEndTime": 30239
+    },
+    {
+        "text": "I got a headache.",
+        "startTime": 20098,
+        "endTime": 20914,
+        "slowStartTime": 30297,
+        "slowEndTime": 31596
+    },
+    {
+        "text": "My stomach's acting up.",
+        "startTime": 21047,
+        "endTime": 22260,
+        "slowStartTime": 31720,
+        "slowEndTime": 33615
+    },
+    {
+        "text": "If this fails, use step two.",
+        "startTime": 22341,
+        "endTime": 24167,
+        "slowStartTime": 33661,
+        "slowEndTime": 36476
+    },
+    {
+        "text": "Oh, Saturday I have to take my brother to the gynecologist.",
+        "startTime": 25015,
+        "endTime": 28379,
+        "slowStartTime": 37673,
+        "slowEndTime": 42793
+    },
+    {
+        "text": "Fake someone else's illness.",
+        "startTime": 28453,
+        "endTime": 29739,
+        "slowStartTime": 42830,
+        "slowEndTime": 44833
+    }
+]

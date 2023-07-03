@@ -1,0 +1,58 @@
+[
+    {
+        "text": "I'm going back to see the place where I come from.",
+        "startTime": 1643,
+        "endTime": 6145,
+        "slowStartTime": 2615,
+        "slowEndTime": 9443
+    },
+    {
+        "text": "I can't wait to get back there, its been too long.",
+        "startTime": 7167,
+        "endTime": 11366,
+        "slowStartTime": 10900,
+        "slowEndTime": 17274
+    },
+    {
+        "text": "I'm going back to stay.",
+        "startTime": 12491,
+        "endTime": 18772,
+        "slowStartTime": 18886,
+        "slowEndTime": 28383
+    },
+    {
+        "text": "Some people tell me that I must be mad...",
+        "startTime": 18855,
+        "endTime": 22491,
+        "slowStartTime": 28432,
+        "slowEndTime": 33962
+    },
+    {
+        "text": "...to give up what I got for what I had.",
+        "startTime": 23898,
+        "endTime": 27417,
+        "slowStartTime": 35997,
+        "slowEndTime": 41350
+    },
+    {
+        "text": "I don't know, there ain't no knowing.",
+        "startTime": 29806,
+        "endTime": 32666,
+        "slowStartTime": 44859,
+        "slowEndTime": 49224
+    },
+    {
+        "text": "But I don't care because I'm going back.",
+        "startTime": 34031,
+        "endTime": 41110,
+        "slowStartTime": 51196,
+        "slowEndTime": 61890
+    },
+    {
+        "text": "I'm going back to stay.",
+        "startTime": 49509,
+        "endTime": 60589,
+        "slowStartTime": 74414,
+        "slowEndTime": 91108
+    }
+]

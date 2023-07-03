@@ -1,0 +1,198 @@
+[
+    {
+        "text": "﻿Hello?",
+        "startTime": 88,
+        "endTime": 525,
+        "slowStartTime": 282,
+        "slowEndTime": 1012
+    },
+    {
+        "text": "Hi, Amanda.",
+        "startTime": 1057,
+        "endTime": 1750,
+        "slowStartTime": 1736,
+        "slowEndTime": 2850
+    },
+    {
+        "text": "How's it going?",
+        "startTime": 2277,
+        "endTime": 2923,
+        "slowStartTime": 3566,
+        "slowEndTime": 4609
+    },
+    {
+        "text": "It's going great.",
+        "startTime": 3195,
+        "endTime": 4313,
+        "slowStartTime": 4943,
+        "slowEndTime": 6694
+    },
+    {
+        "text": "You sound excited.",
+        "startTime": 4587,
+        "endTime": 5659,
+        "slowStartTime": 7031,
+        "slowEndTime": 8714
+    },
+    {
+        "text": "What's going on?",
+        "startTime": 5948,
+        "endTime": 6795,
+        "slowStartTime": 9072,
+        "slowEndTime": 10418
+    },
+    {
+        "text": "I am preparing a surprise party.",
+        "startTime": 7189,
+        "endTime": 9077,
+        "slowStartTime": 10934,
+        "slowEndTime": 13841
+    },
+    {
+        "text": "How fun!",
+        "startTime": 9265,
+        "endTime": 10281,
+        "slowStartTime": 14047,
+        "slowEndTime": 15646
+    },
+    {
+        "text": "What is the party for?",
+        "startTime": 10581,
+        "endTime": 11624,
+        "slowStartTime": 16021,
+        "slowEndTime": 17661
+    },
+    {
+        "text": "A friend of mine is pregnant.",
+        "startTime": 12065,
+        "endTime": 13825,
+        "slowStartTime": 18247,
+        "slowEndTime": 20962
+    },
+    {
+        "text": "That's lovely.",
+        "startTime": 14019,
+        "endTime": 15155,
+        "slowStartTime": 21179,
+        "slowEndTime": 22957
+    },
+    {
+        "text": "So, what is your plan?",
+        "startTime": 15569,
+        "endTime": 16577,
+        "slowStartTime": 23504,
+        "slowEndTime": 25091
+    },
+    {
+        "text": "First of all, we're inviting all of her friends.",
+        "startTime": 17300,
+        "endTime": 20092,
+        "slowStartTime": 26100,
+        "slowEndTime": 30363
+    },
+    {
+        "text": "What else?",
+        "startTime": 20394,
+        "endTime": 21110,
+        "slowStartTime": 30741,
+        "slowEndTime": 31890
+    },
+    {
+        "text": "We'll be decorating a party room and then wrapping all the gifts.",
+        "startTime": 21559,
+        "endTime": 25265,
+        "slowStartTime": 32488,
+        "slowEndTime": 38122
+    },
+    {
+        "text": "What are you getting for her?",
+        "startTime": 25651,
+        "endTime": 26679,
+        "slowStartTime": 38627,
+        "slowEndTime": 40243
+    },
+    {
+        "text": "I got her packs of diapers.",
+        "startTime": 27297,
+        "endTime": 28923,
+        "slowStartTime": 41096,
+        "slowEndTime": 43610
+    },
+    {
+        "text": "Are you getting any munchies?",
+        "startTime": 29539,
+        "endTime": 30945,
+        "slowStartTime": 44458,
+        "slowEndTime": 46642
+    },
+    {
+        "text": "I think we are going to bring our own dishes.",
+        "startTime": 31463,
+        "endTime": 33993,
+        "slowStartTime": 47345,
+        "slowEndTime": 51215
+    },
+    {
+        "text": "That's a good idea.",
+        "startTime": 34489,
+        "endTime": 35450,
+        "slowStartTime": 51884,
+        "slowEndTime": 53400
+    },
+    {
+        "text": "It will save you some time.",
+        "startTime": 35727,
+        "endTime": 36899,
+        "slowStartTime": 53740,
+        "slowEndTime": 55574
+    },
+    {
+        "text": "And of course, we will hide ourselves.",
+        "startTime": 37457,
+        "endTime": 40133,
+        "slowStartTime": 56335,
+        "slowEndTime": 60424
+    },
+    {
+        "text": "That's the fun part.",
+        "startTime": 40382,
+        "endTime": 41488,
+        "slowStartTime": 60723,
+        "slowEndTime": 62457
+    },
+    {
+        "text": "Yes, but remember not to shout, \"Surprise!\"",
+        "startTime": 41799,
+        "endTime": 44491,
+        "slowStartTime": 62849,
+        "slowEndTime": 66962
+    },
+    {
+        "text": "You know, she's pregnant.",
+        "startTime": 44869,
+        "endTime": 45900,
+        "slowStartTime": 67453,
+        "slowEndTime": 69075
+    },
+    {
+        "text": "Right.",
+        "startTime": 46323,
+        "endTime": 46807,
+        "slowStartTime": 69634,
+        "slowEndTime": 70435
+    },
+    {
+        "text": "I almost forgot.",
+        "startTime": 47125,
+        "endTime": 48404,
+        "slowStartTime": 70837,
+        "slowEndTime": 72831
+    },
+    {
+        "text": "Have fun!",
+        "startTime": 48879,
+        "endTime": 49561,
+        "slowStartTime": 73469,
+        "slowEndTime": 74566
+    }
+]

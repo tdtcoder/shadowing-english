@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Dog.",
+        "startTime": 3349,
+        "endTime": 3865,
+        "slowStartTime": 5174,
+        "slowEndTime": 6022
+    },
+    {
+        "text": "My dog is small.",
+        "startTime": 4759,
+        "endTime": 6291,
+        "slowStartTime": 7289,
+        "slowEndTime": 9661
+    },
+    {
+        "text": "My dog is very small.",
+        "startTime": 7787,
+        "endTime": 9953,
+        "slowStartTime": 11831,
+        "slowEndTime": 15155
+    },
+    {
+        "text": "Mop.",
+        "startTime": 11387,
+        "endTime": 11669,
+        "slowStartTime": 17230,
+        "slowEndTime": 17728
+    },
+    {
+        "text": "I need a mop.",
+        "startTime": 12447,
+        "endTime": 13687,
+        "slowStartTime": 18821,
+        "slowEndTime": 20755
+    },
+    {
+        "text": "I need a big mop.",
+        "startTime": 15005,
+        "endTime": 16837,
+        "slowStartTime": 22657,
+        "slowEndTime": 25480
+    },
+    {
+        "text": "Pot.",
+        "startTime": 18063,
+        "endTime": 18553,
+        "slowStartTime": 27245,
+        "slowEndTime": 28054
+    },
+    {
+        "text": "I found a pot.",
+        "startTime": 19313,
+        "endTime": 20832,
+        "slowStartTime": 29120,
+        "slowEndTime": 31473
+    },
+    {
+        "text": "I found a flower pot.",
+        "startTime": 22264,
+        "endTime": 24277,
+        "slowStartTime": 33546,
+        "slowEndTime": 36640
+    },
+    {
+        "text": "Fox.",
+        "startTime": 25630,
+        "endTime": 26201,
+        "slowStartTime": 38595,
+        "slowEndTime": 39526
+    },
+    {
+        "text": "There is a fox.",
+        "startTime": 27009,
+        "endTime": 28455,
+        "slowStartTime": 40663,
+        "slowEndTime": 42907
+    },
+    {
+        "text": "There is a little fox.",
+        "startTime": 29821,
+        "endTime": 31583,
+        "slowStartTime": 44881,
+        "slowEndTime": 47600
+    },
+    {
+        "text": "The dogs go in, in, into the mud.",
+        "startTime": 38725,
+        "endTime": 42146,
+        "slowStartTime": 58238,
+        "slowEndTime": 63444
+    },
+    {
+        "text": "The dogs go out, out, out of the mud.",
+        "startTime": 42470,
+        "endTime": 45855,
+        "slowStartTime": 63855,
+        "slowEndTime": 69007
+    },
+    {
+        "text": "The cats go in, in, into the mud.",
+        "startTime": 46205,
+        "endTime": 49635,
+        "slowStartTime": 69458,
+        "slowEndTime": 74677
+    },
+    {
+        "text": "The cats go out, out, out of the mud.",
+        "startTime": 49980,
+        "endTime": 53324,
+        "slowStartTime": 75120,
+        "slowEndTime": 80211
+    },
+    {
+        "text": "The cows go in, in, into the mud.",
+        "startTime": 53691,
+        "endTime": 57118,
+        "slowStartTime": 80687,
+        "slowEndTime": 85902
+    },
+    {
+        "text": "The cows go out, out, out of the mud.",
+        "startTime": 57473,
+        "endTime": 60848,
+        "slowStartTime": 86359,
+        "slowEndTime": 91497
+    },
+    {
+        "text": "The pigs go in, in, into the mud.",
+        "startTime": 61195,
+        "endTime": 64612,
+        "slowStartTime": 91942,
+        "slowEndTime": 97143
+    },
+    {
+        "text": "Dogs, cats, cows and pigs. They are all muddy!",
+        "startTime": 65171,
+        "endTime": 68568,
+        "slowStartTime": 97907,
+        "slowEndTime": 103077
+    }
+]

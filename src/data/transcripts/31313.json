@@ -1,0 +1,86 @@
+[
+    {
+        "text": "I like books.",
+        "startTime": 3742,
+        "endTime": 4992,
+        "slowStartTime": 5763,
+        "slowEndTime": 7713
+    },
+    {
+        "text": "She likes books",
+        "startTime": 5752,
+        "endTime": 6867,
+        "slowStartTime": 8778,
+        "slowEndTime": 10526
+    },
+    {
+        "text": "You want a treat.",
+        "startTime": 8656,
+        "endTime": 9783,
+        "slowStartTime": 13134,
+        "slowEndTime": 14899
+    },
+    {
+        "text": "It wants a treat.",
+        "startTime": 10600,
+        "endTime": 11899,
+        "slowStartTime": 16050,
+        "slowEndTime": 18074
+    },
+    {
+        "text": "I brush my hair.",
+        "startTime": 17361,
+        "endTime": 18655,
+        "slowStartTime": 26192,
+        "slowEndTime": 28208
+    },
+    {
+        "text": "He brushes his hair.",
+        "startTime": 19506,
+        "endTime": 21127,
+        "slowStartTime": 29409,
+        "slowEndTime": 31916
+    },
+    {
+        "text": "The girl washes her hands.",
+        "startTime": 22741,
+        "endTime": 24795,
+        "slowStartTime": 34261,
+        "slowEndTime": 37418
+    },
+    {
+        "text": "Cindy washes her hands.",
+        "startTime": 25493,
+        "endTime": 27609,
+        "slowStartTime": 38389,
+        "slowEndTime": 41639
+    },
+    {
+        "text": "We study.",
+        "startTime": 32842,
+        "endTime": 33869,
+        "slowStartTime": 49413,
+        "slowEndTime": 51029
+    },
+    {
+        "text": "She studies.",
+        "startTime": 34557,
+        "endTime": 35685,
+        "slowStartTime": 51986,
+        "slowEndTime": 53752
+    },
+    {
+        "text": "The baby cries.",
+        "startTime": 37233,
+        "endTime": 38545,
+        "slowStartTime": 56000,
+        "slowEndTime": 58043
+    },
+    {
+        "text": "Sam cries.",
+        "startTime": 39118,
+        "endTime": 40307,
+        "slowStartTime": 58827,
+        "slowEndTime": 60685
+    }
+]

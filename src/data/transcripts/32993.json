@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Sports song.",
+        "startTime": 539,
+        "endTime": 1718,
+        "slowStartTime": 959,
+        "slowEndTime": 2802
+    },
+    {
+        "text": "What do you like?",
+        "startTime": 5083,
+        "endTime": 6479,
+        "slowStartTime": 7775,
+        "slowEndTime": 9944
+    },
+    {
+        "text": "What do you like?",
+        "startTime": 6813,
+        "endTime": 8283,
+        "slowStartTime": 10370,
+        "slowEndTime": 12650
+    },
+    {
+        "text": "What do you like?",
+        "startTime": 10258,
+        "endTime": 11785,
+        "slowStartTime": 15537,
+        "slowEndTime": 17902
+    },
+    {
+        "text": "Baseball, baseball.",
+        "startTime": 12088,
+        "endTime": 13632,
+        "slowStartTime": 18282,
+        "slowEndTime": 20673
+    },
+    {
+        "text": "I like baseball.",
+        "startTime": 13841,
+        "endTime": 15340,
+        "slowStartTime": 20912,
+        "slowEndTime": 23235
+    },
+    {
+        "text": "Basketball, basketball.",
+        "startTime": 15505,
+        "endTime": 17185,
+        "slowStartTime": 23408,
+        "slowEndTime": 26002
+    },
+    {
+        "text": "I like basketball.",
+        "startTime": 17295,
+        "endTime": 18899,
+        "slowStartTime": 26092,
+        "slowEndTime": 28573
+    },
+    {
+        "text": "Volleyball, volleyball.",
+        "startTime": 18993,
+        "endTime": 20509,
+        "slowStartTime": 28640,
+        "slowEndTime": 30988
+    },
+    {
+        "text": "I like volleyball.",
+        "startTime": 20785,
+        "endTime": 22239,
+        "slowStartTime": 31328,
+        "slowEndTime": 33584
+    },
+    {
+        "text": "Soccer, soccer.",
+        "startTime": 22347,
+        "endTime": 23876,
+        "slowStartTime": 33671,
+        "slowEndTime": 36039
+    },
+    {
+        "text": "I like soccer.",
+        "startTime": 24204,
+        "endTime": 25701,
+        "slowStartTime": 36456,
+        "slowEndTime": 38776
+    },
+    {
+        "text": "Baseball, basketball, volleyball, soccer.",
+        "startTime": 25921,
+        "endTime": 29155,
+        "slowStartTime": 39032,
+        "slowEndTime": 43957
+    },
+    {
+        "text": "I like sports! Hurray!",
+        "startTime": 29443,
+        "endTime": 32521,
+        "slowStartTime": 44315,
+        "slowEndTime": 49006
+    },
+    {
+        "text": "What do you like?",
+        "startTime": 33857,
+        "endTime": 35173,
+        "slowStartTime": 50936,
+        "slowEndTime": 52984
+    },
+    {
+        "text": "What do you like?",
+        "startTime": 35499,
+        "endTime": 36955,
+        "slowStartTime": 53399,
+        "slowEndTime": 55658
+    },
+    {
+        "text": "What do you like?",
+        "startTime": 38911,
+        "endTime": 40475,
+        "slowStartTime": 58516,
+        "slowEndTime": 60938
+    },
+    {
+        "text": "Diving, diving.",
+        "startTime": 40607,
+        "endTime": 42258,
+        "slowStartTime": 61060,
+        "slowEndTime": 63612
+    },
+    {
+        "text": "I like diving.",
+        "startTime": 42486,
+        "endTime": 43932,
+        "slowStartTime": 63879,
+        "slowEndTime": 66123
+    },
+    {
+        "text": "Swimming, swimming.",
+        "startTime": 44051,
+        "endTime": 45729,
+        "slowStartTime": 66227,
+        "slowEndTime": 68819
+    },
+    {
+        "text": "I like swimming.",
+        "startTime": 45944,
+        "endTime": 47348,
+        "slowStartTime": 69066,
+        "slowEndTime": 71247
+    },
+    {
+        "text": "Skiing, skiing.",
+        "startTime": 47609,
+        "endTime": 49181,
+        "slowStartTime": 71563,
+        "slowEndTime": 73997
+    },
+    {
+        "text": "I like skiing.",
+        "startTime": 49421,
+        "endTime": 50889,
+        "slowStartTime": 74282,
+        "slowEndTime": 76558
+    },
+    {
+        "text": "Skating, skating.",
+        "startTime": 51013,
+        "endTime": 52677,
+        "slowStartTime": 76669,
+        "slowEndTime": 79240
+    },
+    {
+        "text": "I like skating.",
+        "startTime": 52930,
+        "endTime": 54476,
+        "slowStartTime": 79545,
+        "slowEndTime": 81939
+    },
+    {
+        "text": "Diving, swimming, skiing, skating.",
+        "startTime": 54645,
+        "endTime": 57870,
+        "slowStartTime": 82118,
+        "slowEndTime": 87030
+    },
+    {
+        "text": "I like sports! Hurray!",
+        "startTime": 58039,
+        "endTime": 61272,
+        "slowStartTime": 87209,
+        "slowEndTime": 92133
+    }
+]

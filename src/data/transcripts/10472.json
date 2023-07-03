@@ -1,0 +1,156 @@
+[
+    {
+        "text": "Hello, Rick.",
+        "startTime": 2450,
+        "endTime": 3000,
+        "slowStartTime": 3900,
+        "slowEndTime": 4600
+    },
+    {
+        "text": "Hello, Louis.",
+        "startTime": 3300,
+        "endTime": 3850,
+        "slowStartTime": 5200,
+        "slowEndTime": 5910
+    },
+    {
+        "text": "How extravagant you are, throwing away women like that.",
+        "startTime": 4100,
+        "endTime": 6300,
+        "slowStartTime": 6430,
+        "slowEndTime": 9650
+    },
+    {
+        "text": "Someday, they may be scarce.",
+        "startTime": 6350,
+        "endTime": 7700,
+        "slowStartTime": 9750,
+        "slowEndTime": 11670
+    },
+    {
+        "text": "You know, I think now I shall pay a call on Yvonne, maybe get her on the rebound, huh?",
+        "startTime": 8550,
+        "endTime": 12100,
+        "slowStartTime": 13050,
+        "slowEndTime": 18300
+    },
+    {
+        "text": "When it comes to women, you're a true democrat.",
+        "startTime": 12250,
+        "endTime": 14350,
+        "slowStartTime": 18600,
+        "slowEndTime": 21680
+    },
+    {
+        "text": "If he gets a word in, it'll be a major Italian victory.",
+        "startTime": 24200,
+        "endTime": 26650,
+        "slowStartTime": 36600,
+        "slowEndTime": 40250
+    },
+    {
+        "text": "The plane to Lisbon.",
+        "startTime": 31200,
+        "endTime": 32250,
+        "slowStartTime": 47110,
+        "slowEndTime": 48450
+    },
+    {
+        "text": "You would like to be on it?",
+        "startTime": 37350,
+        "endTime": 38200,
+        "slowStartTime": 56100,
+        "slowEndTime": 57390
+    },
+    {
+        "text": "Why? What's in Lisbon?",
+        "startTime": 39200,
+        "endTime": 40200,
+        "slowStartTime": 59040,
+        "slowEndTime": 60440
+    },
+    {
+        "text": "The clipper to America.",
+        "startTime": 41000,
+        "endTime": 42200,
+        "slowStartTime": 61800,
+        "slowEndTime": 63400
+    },
+    {
+        "text": "I've often speculated on why you don't return to America.",
+        "startTime": 43200,
+        "endTime": 45750,
+        "slowStartTime": 65000,
+        "slowEndTime": 68705
+    },
+    {
+        "text": "Did you abscond with the church funds?",
+        "startTime": 45950,
+        "endTime": 47600,
+        "slowStartTime": 69200,
+        "slowEndTime": 71500
+    },
+    {
+        "text": "Did you run off with a senator's wife?",
+        "startTime": 48100,
+        "endTime": 49500,
+        "slowStartTime": 72300,
+        "slowEndTime": 74500
+    },
+    {
+        "text": "I like to think that you killed a man.",
+        "startTime": 50050,
+        "endTime": 51400,
+        "slowStartTime": 75300,
+        "slowEndTime": 77385
+    },
+    {
+        "text": "It's the romantic in me.",
+        "startTime": 51450,
+        "endTime": 52650,
+        "slowStartTime": 77385,
+        "slowEndTime": 79000
+    },
+    {
+        "text": "It's a combination of all three.",
+        "startTime": 52950,
+        "endTime": 54500,
+        "slowStartTime": 79700,
+        "slowEndTime": 81900
+    },
+    {
+        "text": "And what in heaven's name brought you to Casablanca?",
+        "startTime": 54600,
+        "endTime": 56700,
+        "slowStartTime": 82200,
+        "slowEndTime": 85170
+    },
+    {
+        "text": "My health. I came to Casablanca for the waters.",
+        "startTime": 57000,
+        "endTime": 59500,
+        "slowStartTime": 85690,
+        "slowEndTime": 89300
+    },
+    {
+        "text": "The waters? What waters?",
+        "startTime": 59800,
+        "endTime": 61300,
+        "slowStartTime": 90000,
+        "slowEndTime": 92100
+    },
+    {
+        "text": "We're in the desert.",
+        "startTime": 61650,
+        "endTime": 62600,
+        "slowStartTime": 92765,
+        "slowEndTime": 94000
+    },
+    {
+        "text": "I was misinformed.",
+        "startTime": 63500,
+        "endTime": 64800,
+        "slowStartTime": 95500,
+        "slowEndTime": 97230
+    }
+]

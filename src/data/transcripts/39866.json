@@ -1,0 +1,30 @@
+[
+    {
+        "text": "My office number is 471-3006 extension 204.",
+        "startTime": 299,
+        "endTime": 7069,
+        "slowStartTime": 598,
+        "slowEndTime": 10829
+    },
+    {
+        "text": "Let me repeat that back to make sure I got it.",
+        "startTime": 7847,
+        "endTime": 10419,
+        "slowStartTime": 11920,
+        "slowEndTime": 15854
+    },
+    {
+        "text": "471-3006 and extension 204.",
+        "startTime": 11179,
+        "endTime": 15829,
+        "slowStartTime": 16919,
+        "slowEndTime": 23968
+    },
+    {
+        "text": "That's right.",
+        "startTime": 16733,
+        "endTime": 17390,
+        "slowStartTime": 25250,
+        "slowEndTime": 26310
+    }
+]

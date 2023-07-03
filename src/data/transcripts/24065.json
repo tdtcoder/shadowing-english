@@ -1,0 +1,100 @@
+[
+    {
+        "text": "So you have ten years experience?",
+        "startTime": 345,
+        "endTime": 2007,
+        "slowStartTime": 667,
+        "slowEndTime": 3236
+    },
+    {
+        "text": "I do.",
+        "startTime": 2075,
+        "endTime": 2657,
+        "slowStartTime": 3262,
+        "slowEndTime": 4211
+    },
+    {
+        "text": "But no PHD.",
+        "startTime": 2745,
+        "endTime": 3721,
+        "slowStartTime": 4268,
+        "slowEndTime": 5807
+    },
+    {
+        "text": "I do have a master's in early childhood development.",
+        "startTime": 3791,
+        "endTime": 6218,
+        "slowStartTime": 5837,
+        "slowEndTime": 9552
+    },
+    {
+        "text": "You don't mind if I just record this, do you?",
+        "startTime": 6423,
+        "endTime": 8691,
+        "slowStartTime": 9784,
+        "slowEndTime": 13262
+    },
+    {
+        "text": "No, why would I?",
+        "startTime": 8816,
+        "endTime": 10577,
+        "slowStartTime": 13374,
+        "slowEndTime": 16091
+    },
+    {
+        "text": "First kid?",
+        "startTime": 13505,
+        "endTime": 14331,
+        "slowStartTime": 20407,
+        "slowEndTime": 21721
+    },
+    {
+        "text": "Here's all the numbers.",
+        "startTime": 14482,
+        "endTime": 15359,
+        "slowStartTime": 21873,
+        "slowEndTime": 23263
+    },
+    {
+        "text": "Food is in the fridge.",
+        "startTime": 15438,
+        "endTime": 16141,
+        "slowStartTime": 23307,
+        "slowEndTime": 24437
+    },
+    {
+        "text": "Oh, and Lucas likes to pawn jewelry so you might wanna lose the nose ring.",
+        "startTime": 16351,
+        "endTime": 19124,
+        "slowStartTime": 24676,
+        "slowEndTime": 28911
+    },
+    {
+        "text": "Second kid.",
+        "startTime": 19462,
+        "endTime": 20116,
+        "slowStartTime": 29343,
+        "slowEndTime": 30399
+    },
+    {
+        "text": "See you at elevenish.",
+        "startTime": 20306,
+        "endTime": 22687,
+        "slowStartTime": 30609,
+        "slowEndTime": 34255
+    },
+    {
+        "text": "By their second kid, every mom is an expert and more likely to choose Luvs than first-time moms.",
+        "startTime": 22756,
+        "endTime": 27467,
+        "slowStartTime": 34284,
+        "slowEndTime": 41425
+    },
+    {
+        "text": "Live, learn and get Luvs.",
+        "startTime": 27581,
+        "endTime": 29095,
+        "slowStartTime": 41522,
+        "slowEndTime": 43867
+    }
+]

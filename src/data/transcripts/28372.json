@@ -1,0 +1,107 @@
+[
+    {
+        "text": "'Round and 'round the mulberry bush,...",
+        "startTime": 3111,
+        "endTime": 5831,
+        "slowStartTime": 4816,
+        "slowEndTime": 8972
+    },
+    {
+        "text": "...the monkey chased the weasel.",
+        "startTime": 7547,
+        "endTime": 10678,
+        "slowStartTime": 11471,
+        "slowEndTime": 16242
+    },
+    {
+        "text": "The monkey stopped to pull up his sock.",
+        "startTime": 10891,
+        "endTime": 14737,
+        "slowStartTime": 16486,
+        "slowEndTime": 22330
+    },
+    {
+        "text": "Pop! Goes the weasel.",
+        "startTime": 15136,
+        "endTime": 18988,
+        "slowStartTime": 22854,
+        "slowEndTime": 28707
+    },
+    {
+        "text": "I've got no time to plead and pine.",
+        "startTime": 19077,
+        "endTime": 22786,
+        "slowStartTime": 28766,
+        "slowEndTime": 34404
+    },
+    {
+        "text": "Oh, no.",
+        "startTime": 23144,
+        "endTime": 23869,
+        "slowStartTime": 34866,
+        "slowEndTime": 36029
+    },
+    {
+        "text": "I've got no time to wheedle.",
+        "startTime": 23950,
+        "endTime": 26802,
+        "slowStartTime": 36075,
+        "slowEndTime": 40428
+    },
+    {
+        "text": "Kiss me quick and then I'm gone.",
+        "startTime": 27636,
+        "endTime": 31637,
+        "slowStartTime": 41604,
+        "slowEndTime": 47680
+    },
+    {
+        "text": "Pop! Goes the weasel.",
+        "startTime": 31825,
+        "endTime": 35889,
+        "slowStartTime": 47888,
+        "slowEndTime": 54058
+    },
+    {
+        "text": "Pop goes the...",
+        "startTime": 36085,
+        "endTime": 37913,
+        "slowStartTime": 54277,
+        "slowEndTime": 57094
+    },
+    {
+        "text": "Pop goes the...",
+        "startTime": 38032,
+        "endTime": 39954,
+        "slowStartTime": 57198,
+        "slowEndTime": 60156
+    },
+    {
+        "text": "Pop goes the...",
+        "startTime": 40077,
+        "endTime": 41893,
+        "slowStartTime": 60265,
+        "slowEndTime": 63065
+    },
+    {
+        "text": "Pop goes the...",
+        "startTime": 42023,
+        "endTime": 44031,
+        "slowStartTime": 63184,
+        "slowEndTime": 66271
+    },
+    {
+        "text": "Pop goes the...",
+        "startTime": 44137,
+        "endTime": 47381,
+        "slowStartTime": 66355,
+        "slowEndTime": 71297
+    },
+    {
+        "text": "...weasel.",
+        "startTime": 47983,
+        "endTime": 51725,
+        "slowStartTime": 72124,
+        "slowEndTime": 77812
+    }
+]

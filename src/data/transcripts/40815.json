@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Let's take a look at this conversation between David and John.",
+        "startTime": 515,
+        "endTime": 5842,
+        "slowStartTime": 923,
+        "slowEndTime": 8988
+    },
+    {
+        "text": "Do you know when Anna's birthday is?",
+        "startTime": 7101,
+        "endTime": 9937,
+        "slowStartTime": 10801,
+        "slowEndTime": 15131
+    },
+    {
+        "text": "Can you help John to answer when Anna's birthday is?",
+        "startTime": 10529,
+        "endTime": 15129,
+        "slowStartTime": 15943,
+        "slowEndTime": 22919
+    },
+    {
+        "text": "Pause the video and try to answer.",
+        "startTime": 15283,
+        "endTime": 17621,
+        "slowStartTime": 23075,
+        "slowEndTime": 26656
+    },
+    {
+        "text": "Yes, I do.",
+        "startTime": 19405,
+        "endTime": 20265,
+        "slowStartTime": 29258,
+        "slowEndTime": 30622
+    },
+    {
+        "text": "It's on January 26.",
+        "startTime": 20715,
+        "endTime": 22598,
+        "slowStartTime": 31222,
+        "slowEndTime": 34122
+    },
+    {
+        "text": "She was born in winter.",
+        "startTime": 23419,
+        "endTime": 25261,
+        "slowStartTime": 35279,
+        "slowEndTime": 38117
+    },
+    {
+        "text": "No, because she was born in Brazil.",
+        "startTime": 25905,
+        "endTime": 28405,
+        "slowStartTime": 39008,
+        "slowEndTime": 42832
+    },
+    {
+        "text": "In January, it's summer in Brazil.",
+        "startTime": 28977,
+        "endTime": 31171,
+        "slowStartTime": 43616,
+        "slowEndTime": 46981
+    },
+    {
+        "text": "Where were you born, John?",
+        "startTime": 31779,
+        "endTime": 33463,
+        "slowStartTime": 47818,
+        "slowEndTime": 50420
+    },
+    {
+        "text": "I was born in my dad's farm.",
+        "startTime": 33913,
+        "endTime": 35657,
+        "slowStartTime": 51019,
+        "slowEndTime": 53711
+    },
+    {
+        "text": "Isn't your dad's farm in Minas Gerais?",
+        "startTime": 35903,
+        "endTime": 38559,
+        "slowStartTime": 54005,
+        "slowEndTime": 58063
+    },
+    {
+        "text": "Yes, it is.",
+        "startTime": 38983,
+        "endTime": 40435,
+        "slowStartTime": 58624,
+        "slowEndTime": 60877
+    },
+    {
+        "text": "I was born in Minas Gerais.",
+        "startTime": 40643,
+        "endTime": 42379,
+        "slowStartTime": 61114,
+        "slowEndTime": 63794
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Here are some expressions you can use when giving bad news.",
+        "startTime": 429,
+        "endTime": 4690,
+        "slowStartTime": 793,
+        "slowEndTime": 7260
+    },
+    {
+        "text": "I'm afraid to inform you that...",
+        "startTime": 6440,
+        "endTime": 8248,
+        "slowStartTime": 9810,
+        "slowEndTime": 12597
+    },
+    {
+        "text": "Please don't take this the wrong way... but...",
+        "startTime": 10195,
+        "endTime": 12443,
+        "slowStartTime": 15442,
+        "slowEndTime": 18889
+    },
+    {
+        "text": "I'm sorry I have to tell you this, but...",
+        "startTime": 14333,
+        "endTime": 16765,
+        "slowStartTime": 21649,
+        "slowEndTime": 25372
+    },
+    {
+        "text": "I've got some bad news, I'm afraid.",
+        "startTime": 18567,
+        "endTime": 20828,
+        "slowStartTime": 28000,
+        "slowEndTime": 31467
+    },
+    {
+        "text": "I need to warn you, I have some bad news.",
+        "startTime": 22527,
+        "endTime": 25888,
+        "slowStartTime": 33940,
+        "slowEndTime": 39057
+    },
+    {
+        "text": "There is no easy way to say this but...",
+        "startTime": 27613,
+        "endTime": 30348,
+        "slowStartTime": 41570,
+        "slowEndTime": 45747
+    },
+    {
+        "text": "I regret to inform you that...",
+        "startTime": 32173,
+        "endTime": 34608,
+        "slowStartTime": 48410,
+        "slowEndTime": 52137
+    },
+    {
+        "text": "I am sorry to have to tell you this, but...",
+        "startTime": 36385,
+        "endTime": 39771,
+        "slowStartTime": 54728,
+        "slowEndTime": 59881
+    },
+    {
+        "text": "I'm afraid I've got something sad to tell you...",
+        "startTime": 41567,
+        "endTime": 44155,
+        "slowStartTime": 62500,
+        "slowEndTime": 66457
+    },
+    {
+        "text": "I tried... but...",
+        "startTime": 45993,
+        "endTime": 47775,
+        "slowStartTime": 69140,
+        "slowEndTime": 71888
+    }
+]

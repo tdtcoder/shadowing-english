@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Can I have your name?",
+        "startTime": 1728,
+        "endTime": 2673,
+        "slowStartTime": 2742,
+        "slowEndTime": 4234
+    },
+    {
+        "text": "My name is Nobuko Iizuka.",
+        "startTime": 3663,
+        "endTime": 5921,
+        "slowStartTime": 5645,
+        "slowEndTime": 9107
+    },
+    {
+        "text": "I'm sorry, I didn't catch that.",
+        "startTime": 6676,
+        "endTime": 8764,
+        "slowStartTime": 10164,
+        "slowEndTime": 13371
+    },
+    {
+        "text": "Nobuko?",
+        "startTime": 9641,
+        "endTime": 11609,
+        "slowStartTime": 14611,
+        "slowEndTime": 17639
+    },
+    {
+        "text": "Iizuka.",
+        "startTime": 12053,
+        "endTime": 12773,
+        "slowStartTime": 18229,
+        "slowEndTime": 19385
+    },
+    {
+        "text": "Iizuka.",
+        "startTime": 13787,
+        "endTime": 14587,
+        "slowStartTime": 20831,
+        "slowEndTime": 22105
+    },
+    {
+        "text": "Nobuko Iizuka.",
+        "startTime": 15119,
+        "endTime": 17131,
+        "slowStartTime": 22829,
+        "slowEndTime": 25921
+    },
+    {
+        "text": "Yes.",
+        "startTime": 17625,
+        "endTime": 17901,
+        "slowStartTime": 26587,
+        "slowEndTime": 27076
+    },
+    {
+        "text": "How do you spell that?",
+        "startTime": 18499,
+        "endTime": 20060,
+        "slowStartTime": 27898,
+        "slowEndTime": 30315
+    },
+    {
+        "text": "N, O, B, U, K, O.",
+        "startTime": 21019,
+        "endTime": 23099,
+        "slowStartTime": 31678,
+        "slowEndTime": 34874
+    },
+    {
+        "text": "N, O, B, U, K, O.",
+        "startTime": 23582,
+        "endTime": 27246,
+        "slowStartTime": 35523,
+        "slowEndTime": 41094
+    },
+    {
+        "text": "Yes.",
+        "startTime": 27670,
+        "endTime": 28147,
+        "slowStartTime": 41655,
+        "slowEndTime": 42445
+    },
+    {
+        "text": "That's your first name, right?",
+        "startTime": 29006,
+        "endTime": 30835,
+        "slowStartTime": 43659,
+        "slowEndTime": 46477
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 31403,
+        "endTime": 31919,
+        "slowStartTime": 47254,
+        "slowEndTime": 48104
+    },
+    {
+        "text": "And how do you spell your last name?",
+        "startTime": 32949,
+        "endTime": 34890,
+        "slowStartTime": 49573,
+        "slowEndTime": 52560
+    },
+    {
+        "text": "My last name is I, I, Z, U, K, A.",
+        "startTime": 35700,
+        "endTime": 39537,
+        "slowStartTime": 53700,
+        "slowEndTime": 59530
+    },
+    {
+        "text": "I, I?",
+        "startTime": 40518,
+        "endTime": 41194,
+        "slowStartTime": 60927,
+        "slowEndTime": 62016
+    },
+    {
+        "text": "Yes, that's right.",
+        "startTime": 42506,
+        "endTime": 43908,
+        "slowStartTime": 63909,
+        "slowEndTime": 66087
+    },
+    {
+        "text": "I, I, Z, U, K, A?",
+        "startTime": 44803,
+        "endTime": 49293,
+        "slowStartTime": 67355,
+        "slowEndTime": 74165
+    },
+    {
+        "text": "Yes, that's right.",
+        "startTime": 50306,
+        "endTime": 51353,
+        "slowStartTime": 75609,
+        "slowEndTime": 77255
+    }
+]

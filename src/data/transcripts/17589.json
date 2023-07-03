@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Plants and animals live in the deserts.",
+        "startTime": 2585,
+        "endTime": 5284,
+        "slowStartTime": 4027,
+        "slowEndTime": 8151
+    },
+    {
+        "text": "Deserts are very dry.",
+        "startTime": 6339,
+        "endTime": 7977,
+        "slowStartTime": 9658,
+        "slowEndTime": 12190
+    },
+    {
+        "text": "Deserts can be very hot.",
+        "startTime": 9013,
+        "endTime": 10877,
+        "slowStartTime": 13669,
+        "slowEndTime": 16541
+    },
+    {
+        "text": "Plants and animals live in the oceans.",
+        "startTime": 11933,
+        "endTime": 14499,
+        "slowStartTime": 18049,
+        "slowEndTime": 21974
+    },
+    {
+        "text": "Ocean water is very salty.",
+        "startTime": 15535,
+        "endTime": 17469,
+        "slowStartTime": 23453,
+        "slowEndTime": 26428
+    },
+    {
+        "text": "Plants and animals live in the mountains.",
+        "startTime": 18485,
+        "endTime": 20919,
+        "slowStartTime": 27878,
+        "slowEndTime": 31604
+    },
+    {
+        "text": "Mountains are very tall and steep.",
+        "startTime": 21937,
+        "endTime": 24143,
+        "slowStartTime": 33055,
+        "slowEndTime": 36439
+    },
+    {
+        "text": "Plants and animals live in the plains.",
+        "startTime": 25160,
+        "endTime": 27609,
+        "slowStartTime": 37890,
+        "slowEndTime": 41639
+    },
+    {
+        "text": "Plains are very grassy and flat.",
+        "startTime": 28607,
+        "endTime": 30965,
+        "slowStartTime": 43061,
+        "slowEndTime": 46673
+    },
+    {
+        "text": "Plants and animals live in rivers.",
+        "startTime": 31982,
+        "endTime": 34208,
+        "slowStartTime": 48123,
+        "slowEndTime": 51537
+    },
+    {
+        "text": "River water is not salty.",
+        "startTime": 35301,
+        "endTime": 37223,
+        "slowStartTime": 53101,
+        "slowEndTime": 56059
+    },
+    {
+        "text": "Plants and animals live in rainforests.",
+        "startTime": 38221,
+        "endTime": 41220,
+        "slowStartTime": 57481,
+        "slowEndTime": 62055
+    },
+    {
+        "text": "Rainforests are very wet.",
+        "startTime": 42218,
+        "endTime": 44196,
+        "slowStartTime": 63477,
+        "slowEndTime": 66519
+    },
+    {
+        "text": "Plants and animals live in the tundra.",
+        "startTime": 45176,
+        "endTime": 47685,
+        "slowStartTime": 67914,
+        "slowEndTime": 71753
+    },
+    {
+        "text": "The tundra is very cold.",
+        "startTime": 48703,
+        "endTime": 50585,
+        "slowStartTime": 73204,
+        "slowEndTime": 76103
+    },
+    {
+        "text": "The tundra has no trees.",
+        "startTime": 51583,
+        "endTime": 53391,
+        "slowStartTime": 77525,
+        "slowEndTime": 80312
+    },
+    {
+        "text": "Plants and animals live all around the world.",
+        "startTime": 54465,
+        "endTime": 57487,
+        "slowStartTime": 81848,
+        "slowEndTime": 86456
+    },
+    {
+        "text": "Plants and animals live in the mountains.",
+        "startTime": 61001,
+        "endTime": 63947,
+        "slowStartTime": 91652,
+        "slowEndTime": 96146
+    },
+    {
+        "text": "Right. Tigers live in the mountains.",
+        "startTime": 65021,
+        "endTime": 67626,
+        "slowStartTime": 97682,
+        "slowEndTime": 101664
+    },
+    {
+        "text": "What else lives in the mountains?",
+        "startTime": 68681,
+        "endTime": 70963,
+        "slowStartTime": 103171,
+        "slowEndTime": 106670
+    },
+    {
+        "text": "Bears and rabbits also live in the mountains.",
+        "startTime": 72121,
+        "endTime": 75238,
+        "slowStartTime": 108332,
+        "slowEndTime": 113082
+    },
+    {
+        "text": "Do camels live in the mountains, too?",
+        "startTime": 76388,
+        "endTime": 79220,
+        "slowStartTime": 114732,
+        "slowEndTime": 119055
+    },
+    {
+        "text": "No. Camels live in the deserts.",
+        "startTime": 80237,
+        "endTime": 83088,
+        "slowStartTime": 120506,
+        "slowEndTime": 124857
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "text": "I do the same things every day.",
+        "startTime": 313,
+        "endTime": 3403,
+        "slowStartTime": 619,
+        "slowEndTime": 5330
+    },
+    {
+        "text": "How does your day go?",
+        "startTime": 3937,
+        "endTime": 5032,
+        "slowStartTime": 6055,
+        "slowEndTime": 7773
+    },
+    {
+        "text": "I get up at seven in the morning.",
+        "startTime": 5444,
+        "endTime": 7889,
+        "slowStartTime": 8316,
+        "slowEndTime": 12059
+    },
+    {
+        "text": "I get ready to go to work, and go to work on an overcrowded subway.",
+        "startTime": 8457,
+        "endTime": 13567,
+        "slowStartTime": 12836,
+        "slowEndTime": 20575
+    },
+    {
+        "text": "Then I start my boring work routine, check emails,...",
+        "startTime": 14052,
+        "endTime": 17673,
+        "slowStartTime": 21228,
+        "slowEndTime": 26735
+    },
+    {
+        "text": "...attend meetings, and answer calls, and so on.",
+        "startTime": 17866,
+        "endTime": 21462,
+        "slowStartTime": 26949,
+        "slowEndTime": 32418
+    },
+    {
+        "text": "That's pretty much the same for most office workers.",
+        "startTime": 22091,
+        "endTime": 25332,
+        "slowStartTime": 33286,
+        "slowEndTime": 38223
+    },
+    {
+        "text": "You could do something fun after work.",
+        "startTime": 25994,
+        "endTime": 27863,
+        "slowStartTime": 39141,
+        "slowEndTime": 42019
+    },
+    {
+        "text": "By the time I get off work, I just want to go home and rest.",
+        "startTime": 28633,
+        "endTime": 32573,
+        "slowStartTime": 43100,
+        "slowEndTime": 49084
+    }
+]

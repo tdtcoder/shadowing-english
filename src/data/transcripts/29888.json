@@ -1,0 +1,114 @@
+[
+    {
+        "text": "We are in the preliminary stage of one of the greatest battles in history.",
+        "startTime": 1861,
+        "endTime": 7252,
+        "slowStartTime": 2942,
+        "slowEndTime": 11103
+    },
+    {
+        "text": "Mr. Winston Churchill.",
+        "startTime": 8059,
+        "endTime": 9255,
+        "slowStartTime": 12239,
+        "slowEndTime": 14107
+    },
+    {
+        "text": "You have an enormous task ahead of you.",
+        "startTime": 9413,
+        "endTime": 11025,
+        "slowStartTime": 14269,
+        "slowEndTime": 16762
+    },
+    {
+        "text": "Winston lacks judgement.",
+        "startTime": 12490,
+        "endTime": 14285,
+        "slowStartTime": 18885,
+        "slowEndTime": 21653
+    },
+    {
+        "text": "He's a bully.",
+        "startTime": 14457,
+        "endTime": 15327,
+        "slowStartTime": 21835,
+        "slowEndTime": 23216
+    },
+    {
+        "text": "We may have to replace him.",
+        "startTime": 15529,
+        "endTime": 16850,
+        "slowStartTime": 23444,
+        "slowEndTime": 25500
+    },
+    {
+        "text": "All our forces are in Dunkirk.",
+        "startTime": 17879,
+        "endTime": 19765,
+        "slowStartTime": 26969,
+        "slowEndTime": 29872
+    },
+    {
+        "text": "The Germans are pushing us into the sea.",
+        "startTime": 19979,
+        "endTime": 22435,
+        "slowStartTime": 30118,
+        "slowEndTime": 33877
+    },
+    {
+        "text": "You have the full weight of the world on your shoulders.",
+        "startTime": 23605,
+        "endTime": 26100,
+        "slowStartTime": 35557,
+        "slowEndTime": 39375
+    },
+    {
+        "text": "Are you not afraid?",
+        "startTime": 26205,
+        "endTime": 27008,
+        "slowStartTime": 39458,
+        "slowEndTime": 40737
+    },
+    {
+        "text": "Most terribly.",
+        "startTime": 27396,
+        "endTime": 29217,
+        "slowStartTime": 41244,
+        "slowEndTime": 44051
+    },
+    {
+        "text": "I speak to you for the first time as Prime Minister...",
+        "startTime": 30475,
+        "endTime": 33878,
+        "slowStartTime": 45863,
+        "slowEndTime": 51042
+    },
+    {
+        "text": "...in a solemn hour, for the life of our country.",
+        "startTime": 34248,
+        "endTime": 37709,
+        "slowStartTime": 51522,
+        "slowEndTime": 56788
+    },
+    {
+        "text": "You ask, what is our policy?",
+        "startTime": 39009,
+        "endTime": 41795,
+        "slowStartTime": 58663,
+        "slowEndTime": 62917
+    },
+    {
+        "text": "I say it is to wage war by sea, land and air, with all our might.",
+        "startTime": 42995,
+        "endTime": 50438,
+        "slowStartTime": 64643,
+        "slowEndTime": 75882
+    },
+    {
+        "text": "We shall never surrender!",
+        "startTime": 51325,
+        "endTime": 53450,
+        "slowStartTime": 77137,
+        "slowEndTime": 80400
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "text": "What is your job?",
+        "startTime": 5161,
+        "endTime": 6567,
+        "slowStartTime": 7892,
+        "slowEndTime": 10075
+    },
+    {
+        "text": "My job is a chef.",
+        "startTime": 9247,
+        "endTime": 11213,
+        "slowStartTime": 14021,
+        "slowEndTime": 17044
+    },
+    {
+        "text": "What do you do?",
+        "startTime": 16860,
+        "endTime": 18265,
+        "slowStartTime": 25440,
+        "slowEndTime": 27623
+    },
+    {
+        "text": "I'm in the fashion business.",
+        "startTime": 20834,
+        "endTime": 22519,
+        "slowStartTime": 31401,
+        "slowEndTime": 34003
+    },
+    {
+        "text": "What do you do?",
+        "startTime": 29454,
+        "endTime": 30580,
+        "slowStartTime": 44331,
+        "slowEndTime": 46095
+    },
+    {
+        "text": "I'm a manager.",
+        "startTime": 33485,
+        "endTime": 34778,
+        "slowStartTime": 50377,
+        "slowEndTime": 52392
+    },
+    {
+        "text": "What is your work?",
+        "startTime": 41321,
+        "endTime": 42725,
+        "slowStartTime": 62131,
+        "slowEndTime": 64313
+    },
+    {
+        "text": "I work as a secretary.",
+        "startTime": 45183,
+        "endTime": 47174,
+        "slowStartTime": 67924,
+        "slowEndTime": 70986
+    },
+    {
+        "text": "What is your work?",
+        "startTime": 53524,
+        "endTime": 54974,
+        "slowStartTime": 80436,
+        "slowEndTime": 82686
+    },
+    {
+        "text": "I work in a restaurant.",
+        "startTime": 57124,
+        "endTime": 59024,
+        "slowStartTime": 85836,
+        "slowEndTime": 88761
+    },
+    {
+        "text": "What is your work?",
+        "startTime": 65149,
+        "endTime": 66657,
+        "slowStartTime": 97874,
+        "slowEndTime": 100210
+    },
+    {
+        "text": "I work for an online English company.",
+        "startTime": 69682,
+        "endTime": 72224,
+        "slowStartTime": 104673,
+        "slowEndTime": 108561
+    }
+]

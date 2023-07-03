@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Here are some words with the suffixes -less and -ful.",
+        "startTime": 513,
+        "endTime": 4860,
+        "slowStartTime": 920,
+        "slowEndTime": 7515
+    },
+    {
+        "text": "A search engine is useful in getting information.",
+        "startTime": 6202,
+        "endTime": 9248,
+        "slowStartTime": 9453,
+        "slowEndTime": 14097
+    },
+    {
+        "text": "A library with no books is useless.",
+        "startTime": 10367,
+        "endTime": 13413,
+        "slowStartTime": 15700,
+        "slowEndTime": 20344
+    },
+    {
+        "text": "The woman at the front desk was very helpful.",
+        "startTime": 14499,
+        "endTime": 17669,
+        "slowStartTime": 21898,
+        "slowEndTime": 26728
+    },
+    {
+        "text": "A baby is helpless and vulnerable.",
+        "startTime": 18896,
+        "endTime": 21385,
+        "slowStartTime": 28494,
+        "slowEndTime": 32302
+    },
+    {
+        "text": "Be careful when you use the knife.",
+        "startTime": 22977,
+        "endTime": 24881,
+        "slowStartTime": 34616,
+        "slowEndTime": 37546
+    },
+    {
+        "text": "It was very careless of you to forget your wallet.",
+        "startTime": 26109,
+        "endTime": 29155,
+        "slowStartTime": 39313,
+        "slowEndTime": 43957
+    },
+    {
+        "text": "Bezos and Zuckerberg are successful businessmen.",
+        "startTime": 30612,
+        "endTime": 33720,
+        "slowStartTime": 46068,
+        "slowEndTime": 50805
+    },
+    {
+        "text": "There are many homeless people in America.",
+        "startTime": 35153,
+        "endTime": 37642,
+        "slowStartTime": 52879,
+        "slowEndTime": 56688
+    }
+]

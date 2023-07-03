@@ -1,0 +1,37 @@
+[
+    {
+        "text": "In Northern Italy, in the foothills of the Alps,...",
+        "startTime": 1599,
+        "endTime": 4162,
+        "slowStartTime": 2549,
+        "slowEndTime": 6468
+    },
+    {
+        "text": "...a collection of temples dedicated to the human spirit...",
+        "startTime": 4903,
+        "endTime": 7707,
+        "slowStartTime": 7504,
+        "slowEndTime": 11785
+    },
+    {
+        "text": "...sit 100 feet below ground.",
+        "startTime": 8181,
+        "endTime": 10126,
+        "slowStartTime": 12421,
+        "slowEndTime": 15414
+    },
+    {
+        "text": "Built in secret over a period of 15 years,...",
+        "startTime": 14313,
+        "endTime": 16955,
+        "slowStartTime": 21619,
+        "slowEndTime": 25657
+    },
+    {
+        "text": "...this is Damanhur, the Temples of Humankind.",
+        "startTime": 17595,
+        "endTime": 20611,
+        "slowStartTime": 26542,
+        "slowEndTime": 31141
+    }
+]

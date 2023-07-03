@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Encore. Baby, give me one more.",
+        "startTime": 900,
+        "endTime": 4850,
+        "slowStartTime": 1550,
+        "slowEndTime": 7500
+    },
+    {
+        "text": "Baby, give me one more.",
+        "startTime": 4900,
+        "endTime": 6100,
+        "slowStartTime": 7500,
+        "slowEndTime": 9380
+    },
+    {
+        "text": "Said I know I had to get it even when you walk off.",
+        "startTime": 6150,
+        "endTime": 9100,
+        "slowStartTime": 9450,
+        "slowEndTime": 13900
+    },
+    {
+        "text": "All I knew is that I knew I want more.",
+        "startTime": 9150,
+        "endTime": 11500,
+        "slowStartTime": 13930,
+        "slowEndTime": 17500
+    },
+    {
+        "text": "Yeah, encore.",
+        "startTime": 11700,
+        "endTime": 14500,
+        "slowStartTime": 17670,
+        "slowEndTime": 22050
+    },
+    {
+        "text": "Baby, give me one more. Baby, give me one more.",
+        "startTime": 14800,
+        "endTime": 17800,
+        "slowStartTime": 22400,
+        "slowEndTime": 26850
+    },
+    {
+        "text": "Not one second did I...",
+        "startTime": 18000,
+        "endTime": 19550,
+        "slowStartTime": 27225,
+        "slowEndTime": 29550
+    },
+    {
+        "text": "...at all question that you...",
+        "startTime": 19800,
+        "endTime": 21000,
+        "slowStartTime": 29900,
+        "slowEndTime": 31700
+    },
+    {
+        "text": "...would come back out on the stage and deliver my encore.",
+        "startTime": 21250,
+        "endTime": 24750,
+        "slowStartTime": 32100,
+        "slowEndTime": 37170
+    }
+]

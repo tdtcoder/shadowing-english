@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Changmin, you said you're from Korea, right?",
+        "startTime": 41,
+        "endTime": 2682,
+        "slowStartTime": 212,
+        "slowEndTime": 4248
+    },
+    {
+        "text": "Where in Korea are you from?",
+        "startTime": 2947,
+        "endTime": 4591,
+        "slowStartTime": 4571,
+        "slowEndTime": 7112
+    },
+    {
+        "text": "I'm from Busan. It's the second largest city in Korea.",
+        "startTime": 4789,
+        "endTime": 8277,
+        "slowStartTime": 7334,
+        "slowEndTime": 12640
+    },
+    {
+        "text": "Are you from New York?",
+        "startTime": 8597,
+        "endTime": 9695,
+        "slowStartTime": 13046,
+        "slowEndTime": 14768
+    },
+    {
+        "text": "Yes, I'm from Long Island, but I am originally from England.",
+        "startTime": 10050,
+        "endTime": 13728,
+        "slowStartTime": 15225,
+        "slowEndTime": 20817
+    },
+    {
+        "text": "How about your family? Where do they live?",
+        "startTime": 14026,
+        "endTime": 16342,
+        "slowStartTime": 21189,
+        "slowEndTime": 24738
+    },
+    {
+        "text": "I'm from a big family, and they all live in England.",
+        "startTime": 16699,
+        "endTime": 19664,
+        "slowStartTime": 25198,
+        "slowEndTime": 29721
+    }
+]

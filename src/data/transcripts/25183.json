@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Let's learn about men's clothing.",
+        "startTime": 580,
+        "endTime": 2607,
+        "slowStartTime": 1020,
+        "slowEndTime": 4135
+    },
+    {
+        "text": "He is wearing a suit.",
+        "startTime": 7934,
+        "endTime": 9697,
+        "slowStartTime": 12051,
+        "slowEndTime": 14770
+    },
+    {
+        "text": "They aren't wearing pants.",
+        "startTime": 18898,
+        "endTime": 21332,
+        "slowStartTime": 28497,
+        "slowEndTime": 32223
+    },
+    {
+        "text": "He is wearing a dress shirt.",
+        "startTime": 28591,
+        "endTime": 30265,
+        "slowStartTime": 43037,
+        "slowEndTime": 45622
+    },
+    {
+        "text": "He's wearing a baseball cap.",
+        "startTime": 35823,
+        "endTime": 37856,
+        "slowStartTime": 53885,
+        "slowEndTime": 57009
+    },
+    {
+        "text": "He's wearing socks and dress shoes.",
+        "startTime": 43228,
+        "endTime": 45617,
+        "slowStartTime": 64992,
+        "slowEndTime": 68651
+    },
+    {
+        "text": "He is taking off his belt.",
+        "startTime": 48097,
+        "endTime": 50053,
+        "slowStartTime": 72296,
+        "slowEndTime": 75304
+    },
+    {
+        "text": "They are wearing jackets.",
+        "startTime": 57346,
+        "endTime": 59352,
+        "slowStartTime": 86169,
+        "slowEndTime": 89253
+    },
+    {
+        "text": "He is wearing shorts.",
+        "startTime": 66399,
+        "endTime": 68231,
+        "slowStartTime": 99749,
+        "slowEndTime": 102571
+    },
+    {
+        "text": "He is wearing a sweater.",
+        "startTime": 74375,
+        "endTime": 76391,
+        "slowStartTime": 111713,
+        "slowEndTime": 114811
+    },
+    {
+        "text": "Do you like wearing a tie?",
+        "startTime": 86423,
+        "endTime": 88333,
+        "slowStartTime": 129785,
+        "slowEndTime": 132725
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "text": "It's a beautiful day.",
+        "startTime": 3462,
+        "endTime": 5011,
+        "slowStartTime": 5343,
+        "slowEndTime": 7741
+    },
+    {
+        "text": "Let's go for a walk.",
+        "startTime": 6180,
+        "endTime": 7445,
+        "slowStartTime": 9420,
+        "slowEndTime": 11392
+    },
+    {
+        "text": "Hello Marty.",
+        "startTime": 15430,
+        "endTime": 16534,
+        "slowStartTime": 23295,
+        "slowEndTime": 25026
+    },
+    {
+        "text": "Hello snail.",
+        "startTime": 17433,
+        "endTime": 18240,
+        "slowStartTime": 26299,
+        "slowEndTime": 27585
+    },
+    {
+        "text": "How are you today?",
+        "startTime": 20092,
+        "endTime": 21005,
+        "slowStartTime": 30288,
+        "slowEndTime": 31733
+    },
+    {
+        "text": "I am sad.",
+        "startTime": 22630,
+        "endTime": 24095,
+        "slowStartTime": 34095,
+        "slowEndTime": 36368
+    },
+    {
+        "text": "Oh, I'm sorry.",
+        "startTime": 25891,
+        "endTime": 27812,
+        "slowStartTime": 38986,
+        "slowEndTime": 41943
+    },
+    {
+        "text": "Hello Marty!",
+        "startTime": 34036,
+        "endTime": 35319,
+        "slowStartTime": 51204,
+        "slowEndTime": 53203
+    },
+    {
+        "text": "Hello clown.",
+        "startTime": 35725,
+        "endTime": 36658,
+        "slowStartTime": 53737,
+        "slowEndTime": 55212
+    },
+    {
+        "text": "How are you today?",
+        "startTime": 37349,
+        "endTime": 38267,
+        "slowStartTime": 56173,
+        "slowEndTime": 57626
+    },
+    {
+        "text": "I'm happy!",
+        "startTime": 39157,
+        "endTime": 40290,
+        "slowStartTime": 58886,
+        "slowEndTime": 60660
+    },
+    {
+        "text": "That's great!",
+        "startTime": 40784,
+        "endTime": 41947,
+        "slowStartTime": 61326,
+        "slowEndTime": 63145
+    },
+    {
+        "text": "Hello Marty.",
+        "startTime": 47345,
+        "endTime": 48545,
+        "slowStartTime": 71168,
+        "slowEndTime": 73042
+    },
+    {
+        "text": "Hello grasshopper.",
+        "startTime": 49186,
+        "endTime": 50480,
+        "slowStartTime": 73929,
+        "slowEndTime": 75945
+    },
+    {
+        "text": "How are you today?",
+        "startTime": 51045,
+        "endTime": 51971,
+        "slowStartTime": 76717,
+        "slowEndTime": 78181
+    },
+    {
+        "text": "I'm sleepy.",
+        "startTime": 53080,
+        "endTime": 55312,
+        "slowStartTime": 79770,
+        "slowEndTime": 83193
+    },
+    {
+        "text": "Pleasant dreams!",
+        "startTime": 57479,
+        "endTime": 58602,
+        "slowStartTime": 86368,
+        "slowEndTime": 88128
+    },
+    {
+        "text": "Hey Marty!",
+        "startTime": 68295,
+        "endTime": 69345,
+        "slowStartTime": 102592,
+        "slowEndTime": 104243
+    },
+    {
+        "text": "How are you today?",
+        "startTime": 69922,
+        "endTime": 70936,
+        "slowStartTime": 105033,
+        "slowEndTime": 106629
+    },
+    {
+        "text": "I'm scared.",
+        "startTime": 71459,
+        "endTime": 73013,
+        "slowStartTime": 107338,
+        "slowEndTime": 109745
+    },
+    {
+        "text": "How are you today?",
+        "startTime": 79729,
+        "endTime": 80743,
+        "slowStartTime": 119744,
+        "slowEndTime": 121339
+    }
+]

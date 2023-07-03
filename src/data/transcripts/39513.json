@@ -1,0 +1,100 @@
+[
+    {
+        "text": "What's your job or occupation?",
+        "startTime": 290,
+        "endTime": 1953,
+        "slowStartTime": 585,
+        "slowEndTime": 3155
+    },
+    {
+        "text": "I'm a graphic designer.",
+        "startTime": 2127,
+        "endTime": 3298,
+        "slowStartTime": 3340,
+        "slowEndTime": 5172
+    },
+    {
+        "text": "What's your job or occupation?",
+        "startTime": 5195,
+        "endTime": 6591,
+        "slowStartTime": 7943,
+        "slowEndTime": 10111
+    },
+    {
+        "text": "I'm a chef.",
+        "startTime": 7042,
+        "endTime": 7572,
+        "slowStartTime": 10713,
+        "slowEndTime": 11583
+    },
+    {
+        "text": "What's your job?",
+        "startTime": 10417,
+        "endTime": 11187,
+        "slowStartTime": 15776,
+        "slowEndTime": 17006
+    },
+    {
+        "text": "My job is a computer engineer.",
+        "startTime": 11703,
+        "endTime": 14197,
+        "slowStartTime": 17704,
+        "slowEndTime": 21521
+    },
+    {
+        "text": "So, do you have a part-time job?",
+        "startTime": 15501,
+        "endTime": 17132,
+        "slowStartTime": 23402,
+        "slowEndTime": 25923
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 17389,
+        "endTime": 17820,
+        "slowStartTime": 26233,
+        "slowEndTime": 26955
+    },
+    {
+        "text": "What do you do?",
+        "startTime": 18321,
+        "endTime": 19047,
+        "slowStartTime": 27631,
+        "slowEndTime": 28796
+    },
+    {
+        "text": "I'm a waitress at a local restaurant.",
+        "startTime": 19290,
+        "endTime": 21291,
+        "slowStartTime": 29085,
+        "slowEndTime": 32162
+    },
+    {
+        "text": "How often do you work?",
+        "startTime": 21717,
+        "endTime": 22741,
+        "slowStartTime": 32725,
+        "slowEndTime": 34337
+    },
+    {
+        "text": "Three, four days a week.",
+        "startTime": 23152,
+        "endTime": 24549,
+        "slowStartTime": 34878,
+        "slowEndTime": 37048
+    },
+    {
+        "text": "After school?",
+        "startTime": 25077,
+        "endTime": 25661,
+        "slowStartTime": 37765,
+        "slowEndTime": 38717
+    },
+    {
+        "text": "No, in the evenings.",
+        "startTime": 26023,
+        "endTime": 27343,
+        "slowStartTime": 39185,
+        "slowEndTime": 41239
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Man, I can't believe the boss just did that!",
+        "startTime": 2726,
+        "endTime": 5843,
+        "slowStartTime": 4239,
+        "slowEndTime": 8990
+    },
+    {
+        "text": "What happened? What's wrong?",
+        "startTime": 5964,
+        "endTime": 7410,
+        "slowStartTime": 9096,
+        "slowEndTime": 11340
+    },
+    {
+        "text": "He didn't give me the promotion that he had promised me.",
+        "startTime": 7706,
+        "endTime": 10615,
+        "slowStartTime": 11709,
+        "slowEndTime": 16148
+    },
+    {
+        "text": "Again? Didn't the same thing happen last year?",
+        "startTime": 10779,
+        "endTime": 13571,
+        "slowStartTime": 16318,
+        "slowEndTime": 20582
+    },
+    {
+        "text": "Yes, it did.",
+        "startTime": 13745,
+        "endTime": 14551,
+        "slowStartTime": 20768,
+        "slowEndTime": 22051
+    },
+    {
+        "text": "I've had it with him and with this place.",
+        "startTime": 14858,
+        "endTime": 17275,
+        "slowStartTime": 22437,
+        "slowEndTime": 26138
+    },
+    {
+        "text": "I don't blame you for feeling that way, but...",
+        "startTime": 17455,
+        "endTime": 19884,
+        "slowStartTime": 26333,
+        "slowEndTime": 30051
+    },
+    {
+        "text": "No really, I can't take being treated like this anymore.",
+        "startTime": 20061,
+        "endTime": 23591,
+        "slowStartTime": 30242,
+        "slowEndTime": 35612
+    },
+    {
+        "text": "I totally understand how you feel.",
+        "startTime": 23762,
+        "endTime": 25717,
+        "slowStartTime": 35793,
+        "slowEndTime": 38800
+    },
+    {
+        "text": "The more I think about it, the more furious I get.",
+        "startTime": 26005,
+        "endTime": 29091,
+        "slowStartTime": 39158,
+        "slowEndTime": 43861
+    },
+    {
+        "text": "You've been here for a long time and have always done a great job.",
+        "startTime": 29430,
+        "endTime": 32759,
+        "slowStartTime": 44295,
+        "slowEndTime": 49364
+    },
+    {
+        "text": "More than that!",
+        "startTime": 33127,
+        "endTime": 34099,
+        "slowStartTime": 49840,
+        "slowEndTime": 51373
+    },
+    {
+        "text": "Every time he asked me to stay late, or do extra work,...",
+        "startTime": 34359,
+        "endTime": 37302,
+        "slowStartTime": 51688,
+        "slowEndTime": 56178
+    },
+    {
+        "text": "...I've always done it!",
+        "startTime": 37427,
+        "endTime": 38671,
+        "slowStartTime": 56291,
+        "slowEndTime": 58231
+    },
+    {
+        "text": "Did you remind him of that?",
+        "startTime": 38857,
+        "endTime": 40052,
+        "slowStartTime": 58436,
+        "slowEndTime": 60303
+    },
+    {
+        "text": "Of course! Do you think it did any good?",
+        "startTime": 40325,
+        "endTime": 42629,
+        "slowStartTime": 60638,
+        "slowEndTime": 64168
+    },
+    {
+        "text": "I guess not. I'm really sorry.",
+        "startTime": 42867,
+        "endTime": 44936,
+        "slowStartTime": 64450,
+        "slowEndTime": 67629
+    }
+]

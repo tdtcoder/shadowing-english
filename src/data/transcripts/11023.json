@@ -1,0 +1,156 @@
+[
+    {
+        "text": "Every mammal needs sleep, as do birds and reptiles, such as snakes.",
+        "startTime": 2500,
+        "endTime": 7400,
+        "slowStartTime": 3900,
+        "slowEndTime": 11300
+    },
+    {
+        "text": "But what about insects?",
+        "startTime": 7800,
+        "endTime": 9250,
+        "slowStartTime": 11800,
+        "slowEndTime": 14100
+    },
+    {
+        "text": "Do they need sleep?",
+        "startTime": 9400,
+        "endTime": 10350,
+        "slowStartTime": 14300,
+        "slowEndTime": 15700
+    },
+    {
+        "text": "Scientists have been trying to discover the truth about insect sleep behavior for years.",
+        "startTime": 11000,
+        "endTime": 16350,
+        "slowStartTime": 16700,
+        "slowEndTime": 24700
+    },
+    {
+        "text": "Scientists first thought insects did not need sleep.",
+        "startTime": 16900,
+        "endTime": 20350,
+        "slowStartTime": 25500,
+        "slowEndTime": 30700
+    },
+    {
+        "text": "According to them, the insect brain was not complex enough to need it.",
+        "startTime": 20750,
+        "endTime": 24850,
+        "slowStartTime": 31300,
+        "slowEndTime": 37500
+    },
+    {
+        "text": "Scientists said that some kinds of brain activity, like dreaming, were sleep behaviors.",
+        "startTime": 25500,
+        "endTime": 31100,
+        "slowStartTime": 38450,
+        "slowEndTime": 46900
+    },
+    {
+        "text": "Insects do not dream, so scientists said that they did not sleep.",
+        "startTime": 31500,
+        "endTime": 35600,
+        "slowStartTime": 47400,
+        "slowEndTime": 53600
+    },
+    {
+        "text": "They believed that insects rested, instead.",
+        "startTime": 36050,
+        "endTime": 38700,
+        "slowStartTime": 54300,
+        "slowEndTime": 58300
+    },
+    {
+        "text": "However, new studies have shown that some insects may actually sleep.",
+        "startTime": 39400,
+        "endTime": 43600,
+        "slowStartTime": 59200,
+        "slowEndTime": 65600
+    },
+    {
+        "text": "There are four types of behavior during sleep.",
+        "startTime": 44250,
+        "endTime": 46900,
+        "slowStartTime": 66500,
+        "slowEndTime": 70500
+    },
+    {
+        "text": "First, sleeping people and animals don't move much.",
+        "startTime": 47350,
+        "endTime": 51150,
+        "slowStartTime": 71200,
+        "slowEndTime": 77000
+    },
+    {
+        "text": "Also, they have a position for sleeping.",
+        "startTime": 51550,
+        "endTime": 54000,
+        "slowStartTime": 77500,
+        "slowEndTime": 81300
+    },
+    {
+        "text": "For example, they lie down.",
+        "startTime": 54350,
+        "endTime": 55750,
+        "slowStartTime": 81700,
+        "slowEndTime": 83800
+    },
+    {
+        "text": "Additionally, they don't wake up easily when hearing noises or seeing light.",
+        "startTime": 56150,
+        "endTime": 60600,
+        "slowStartTime": 84400,
+        "slowEndTime": 91100
+    },
+    {
+        "text": "Lastly, they are able to come out of sleep quickly in response to some intense stimulant.",
+        "startTime": 61400,
+        "endTime": 66900,
+        "slowStartTime": 92250,
+        "slowEndTime": 100600
+    },
+    {
+        "text": "Scientists have now seen similar behaviors in fruit flies.",
+        "startTime": 67650,
+        "endTime": 71200,
+        "slowStartTime": 101650,
+        "slowEndTime": 107000
+    },
+    {
+        "text": "For example, fruit flies become still every night for about seven hours.",
+        "startTime": 71600,
+        "endTime": 76550,
+        "slowStartTime": 107500,
+        "slowEndTime": 115100
+    },
+    {
+        "text": "At these times, they sit in a different way,...",
+        "startTime": 77050,
+        "endTime": 79350,
+        "slowStartTime": 115700,
+        "slowEndTime": 119300
+    },
+    {
+        "text": "...let their antennae drop and do not respond to quiet noises.",
+        "startTime": 79750,
+        "endTime": 83850,
+        "slowStartTime": 119800,
+        "slowEndTime": 126000
+    },
+    {
+        "text": "The flies do begin to move around when louder noises are made.",
+        "startTime": 84500,
+        "endTime": 88050,
+        "slowStartTime": 126900,
+        "slowEndTime": 132300
+    },
+    {
+        "text": "Scientists think that some insects may have their own unique kind of sleep.",
+        "startTime": 88700,
+        "endTime": 93000,
+        "slowStartTime": 133200,
+        "slowEndTime": 139700
+    }
+]

@@ -1,0 +1,254 @@
+[
+    {
+        "text": "This is a pomodoro.",
+        "startTime": 127,
+        "endTime": 3081,
+        "slowStartTime": 340,
+        "slowEndTime": 4846
+    },
+    {
+        "text": "This is a pomodoro timer.",
+        "startTime": 3949,
+        "endTime": 5629,
+        "slowStartTime": 6073,
+        "slowEndTime": 8668
+    },
+    {
+        "text": "This is the Pomodoro Technique.",
+        "startTime": 6290,
+        "endTime": 8435,
+        "slowStartTime": 9585,
+        "slowEndTime": 12877
+    },
+    {
+        "text": "The Pomodoro Technique is a simple yet very effective way...",
+        "startTime": 9197,
+        "endTime": 12607,
+        "slowStartTime": 13946,
+        "slowEndTime": 19136
+    },
+    {
+        "text": "...to improve your work and study habits.",
+        "startTime": 12687,
+        "endTime": 15096,
+        "slowStartTime": 19181,
+        "slowEndTime": 22869
+    },
+    {
+        "text": "The basic requirement of this technique is to set a kitchen timer to 25 minutes.",
+        "startTime": 16381,
+        "endTime": 21431,
+        "slowStartTime": 24721,
+        "slowEndTime": 32372
+    },
+    {
+        "text": "But this is just the beginning.",
+        "startTime": 23542,
+        "endTime": 25514,
+        "slowStartTime": 35463,
+        "slowEndTime": 38496
+    },
+    {
+        "text": "In order to become a certified Pomodoro master,...",
+        "startTime": 26417,
+        "endTime": 29126,
+        "slowStartTime": 39775,
+        "slowEndTime": 43914
+    },
+    {
+        "text": "...you need to achieve the following six objectives.",
+        "startTime": 29487,
+        "endTime": 32266,
+        "slowStartTime": 44380,
+        "slowEndTime": 48624
+    },
+    {
+        "text": "First: Find out how much effort an activity requires you...",
+        "startTime": 33019,
+        "endTime": 36611,
+        "slowStartTime": 49679,
+        "slowEndTime": 55141
+    },
+    {
+        "text": "...by monitoring how many pomodoros you need...",
+        "startTime": 36954,
+        "endTime": 39289,
+        "slowStartTime": 55581,
+        "slowEndTime": 59158
+    },
+    {
+        "text": "...in order to accomplish a specific task.",
+        "startTime": 39588,
+        "endTime": 42201,
+        "slowStartTime": 59532,
+        "slowEndTime": 63526
+    },
+    {
+        "text": "Second: Learn to protect your pomodoro from the internal and external interruptions.",
+        "startTime": 43775,
+        "endTime": 49189,
+        "slowStartTime": 65813,
+        "slowEndTime": 74008
+    },
+    {
+        "text": "Third: Make accurate estimations of how many pomodoros you need...",
+        "startTime": 50282,
+        "endTime": 54765,
+        "slowStartTime": 75573,
+        "slowEndTime": 82372
+    },
+    {
+        "text": "...for a certain activity.",
+        "startTime": 54967,
+        "endTime": 56229,
+        "slowStartTime": 82600,
+        "slowEndTime": 84569
+    },
+    {
+        "text": "Fourth: Use your pomodoro time not just to work on your task,...",
+        "startTime": 57499,
+        "endTime": 61980,
+        "slowStartTime": 86399,
+        "slowEndTime": 93195
+    },
+    {
+        "text": "...but spend a few minutes for recap and the last ones for review.",
+        "startTime": 62351,
+        "endTime": 66139,
+        "slowStartTime": 93676,
+        "slowEndTime": 99433
+    },
+    {
+        "text": "Fifth: Set a timetable according to your to-dos, to your time or even to the season.",
+        "startTime": 67785,
+        "endTime": 75106,
+        "slowStartTime": 101827,
+        "slowEndTime": 112884
+    },
+    {
+        "text": "This is good for organizing work and also for creating more free time.",
+        "startTime": 75600,
+        "endTime": 80028,
+        "slowStartTime": 113550,
+        "slowEndTime": 120267
+    },
+    {
+        "text": "Sixth: Once you have completed these objectives, find your own personal objective,...",
+        "startTime": 81272,
+        "endTime": 86587,
+        "slowStartTime": 122058,
+        "slowEndTime": 130106
+    },
+    {
+        "text": "...such as being more efficient or improving the quality of your work.",
+        "startTime": 87081,
+        "endTime": 91163,
+        "slowStartTime": 130771,
+        "slowEndTime": 136970
+    },
+    {
+        "text": "For example, a writer could track more accurately...",
+        "startTime": 91553,
+        "endTime": 94402,
+        "slowStartTime": 137479,
+        "slowEndTime": 141828
+    },
+    {
+        "text": "...what he's doing during a pomodoro.",
+        "startTime": 94557,
+        "endTime": 96243,
+        "slowStartTime": 141985,
+        "slowEndTime": 144590
+    },
+    {
+        "text": "Or a team may want to find out how good its cooperation is.",
+        "startTime": 96897,
+        "endTime": 100020,
+        "slowStartTime": 145496,
+        "slowEndTime": 150255
+    },
+    {
+        "text": "But remember, you have to choose your own final objective.",
+        "startTime": 100600,
+        "endTime": 105028,
+        "slowStartTime": 151050,
+        "slowEndTime": 157767
+    },
+    {
+        "text": "In order to achieve the best results, the objective should be done incrementally.",
+        "startTime": 105887,
+        "endTime": 110143,
+        "slowStartTime": 158981,
+        "slowEndTime": 165440
+    },
+    {
+        "text": "In other words, if you didn't complete an objective,...",
+        "startTime": 110651,
+        "endTime": 113300,
+        "slowStartTime": 166126,
+        "slowEndTime": 170175
+    },
+    {
+        "text": "...don't move ahead to the next one.",
+        "startTime": 113707,
+        "endTime": 115114,
+        "slowStartTime": 170711,
+        "slowEndTime": 172896
+    },
+    {
+        "text": "Continue trying to do better with the current objective...",
+        "startTime": 115575,
+        "endTime": 118386,
+        "slowStartTime": 173513,
+        "slowEndTime": 177804
+    },
+    {
+        "text": "...until you feel that you've mastered it.",
+        "startTime": 118862,
+        "endTime": 120325,
+        "slowStartTime": 178443,
+        "slowEndTime": 180712
+    },
+    {
+        "text": "For more in-depth tips, read the original book,...",
+        "startTime": 121264,
+        "endTime": 124095,
+        "slowStartTime": 182046,
+        "slowEndTime": 186367
+    },
+    {
+        "text": "...record your progress and become a certified pomodoro master.",
+        "startTime": 124529,
+        "endTime": 128847,
+        "slowStartTime": 186943,
+        "slowEndTime": 193495
+    },
+    {
+        "text": "Pomodorotechnique.com.",
+        "startTime": 129743,
+        "endTime": 131567,
+        "slowStartTime": 194764,
+        "slowEndTime": 197575
+    },
+    {
+        "text": "I love my time.",
+        "startTime": 132083,
+        "endTime": 133319,
+        "slowStartTime": 198274,
+        "slowEndTime": 200203
+    },
+    {
+        "text": "Two hours and 43 minutes were saved...",
+        "startTime": 134485,
+        "endTime": 135968,
+        "slowStartTime": 201877,
+        "slowEndTime": 204177
+    },
+    {
+        "text": "...using the Pomodoro Technique in the making of this video.",
+        "startTime": 136042,
+        "endTime": 138174,
+        "slowStartTime": 204213,
+        "slowEndTime": 207486
+    }
+]

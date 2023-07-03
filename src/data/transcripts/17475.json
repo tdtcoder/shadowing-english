@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Whale.",
+        "startTime": 2662,
+        "endTime": 3413,
+        "slowStartTime": 4143,
+        "slowEndTime": 5345
+    },
+    {
+        "text": "A whale can swim.",
+        "startTime": 4133,
+        "endTime": 5757,
+        "slowStartTime": 6350,
+        "slowEndTime": 8861
+    },
+    {
+        "text": "A whale can swim in the sea.",
+        "startTime": 7147,
+        "endTime": 9390,
+        "slowStartTime": 10871,
+        "slowEndTime": 14310
+    },
+    {
+        "text": "Wheat.",
+        "startTime": 10753,
+        "endTime": 11219,
+        "slowStartTime": 16280,
+        "slowEndTime": 17053
+    },
+    {
+        "text": "I eat wheat bread.",
+        "startTime": 11964,
+        "endTime": 13511,
+        "slowStartTime": 18096,
+        "slowEndTime": 20492
+    },
+    {
+        "text": "I eat white wheat bread.",
+        "startTime": 14823,
+        "endTime": 16835,
+        "slowStartTime": 22385,
+        "slowEndTime": 25477
+    },
+    {
+        "text": "Wheel.",
+        "startTime": 18224,
+        "endTime": 18921,
+        "slowStartTime": 27486,
+        "slowEndTime": 28607
+    },
+    {
+        "text": "The wheel is black.",
+        "startTime": 19563,
+        "endTime": 21255,
+        "slowStartTime": 29495,
+        "slowEndTime": 32107
+    },
+    {
+        "text": "The wheel is dark black.",
+        "startTime": 22593,
+        "endTime": 24656,
+        "slowStartTime": 34040,
+        "slowEndTime": 37209
+    },
+    {
+        "text": "Whip.",
+        "startTime": 25917,
+        "endTime": 26407,
+        "slowStartTime": 39025,
+        "slowEndTime": 39836
+    },
+    {
+        "text": "The whip is long.",
+        "startTime": 27075,
+        "endTime": 28571,
+        "slowStartTime": 40763,
+        "slowEndTime": 43082
+    },
+    {
+        "text": "The whip is very long.",
+        "startTime": 29909,
+        "endTime": 31920,
+        "slowStartTime": 45014,
+        "slowEndTime": 48105
+    },
+    {
+        "text": "Can you, can you, can you help clean the house?",
+        "startTime": 37129,
+        "endTime": 40535,
+        "slowStartTime": 55844,
+        "slowEndTime": 61028
+    },
+    {
+        "text": "Yes, yes, yes. Yes, I can.",
+        "startTime": 40876,
+        "endTime": 44176,
+        "slowStartTime": 61464,
+        "slowEndTime": 66489
+    },
+    {
+        "text": "Can you, can you, can you help wash the dishes?",
+        "startTime": 44620,
+        "endTime": 48075,
+        "slowStartTime": 67080,
+        "slowEndTime": 72338
+    },
+    {
+        "text": "No, no, no. No, I can't.",
+        "startTime": 48328,
+        "endTime": 51678,
+        "slowStartTime": 72642,
+        "slowEndTime": 77742
+    },
+    {
+        "text": "Can you, can you, can you help make the bed?",
+        "startTime": 52065,
+        "endTime": 55409,
+        "slowStartTime": 78247,
+        "slowEndTime": 83338
+    },
+    {
+        "text": "Yes, yes, yes. Yes, I can.",
+        "startTime": 55854,
+        "endTime": 59139,
+        "slowStartTime": 83931,
+        "slowEndTime": 88934
+    },
+    {
+        "text": "Can you, can you, can you help pull the weeds?",
+        "startTime": 59600,
+        "endTime": 63025,
+        "slowStartTime": 89550,
+        "slowEndTime": 94762
+    },
+    {
+        "text": "No, no, no. No, I can't.",
+        "startTime": 63339,
+        "endTime": 66827,
+        "slowStartTime": 95158,
+        "slowEndTime": 100465
+    }
+]

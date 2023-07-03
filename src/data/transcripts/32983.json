@@ -1,0 +1,100 @@
+[
+    {
+        "text": "In the US, media reports say that US President Donald Trump...",
+        "startTime": 3483,
+        "endTime": 8559,
+        "slowStartTime": 5375,
+        "slowEndTime": 13064
+    },
+    {
+        "text": "...spoke with Russian President Vladimir Putin over the phone.",
+        "startTime": 9032,
+        "endTime": 12589,
+        "slowStartTime": 13698,
+        "slowEndTime": 19109
+    },
+    {
+        "text": "Among the topics the two leaders discussed...",
+        "startTime": 13881,
+        "endTime": 16331,
+        "slowStartTime": 20972,
+        "slowEndTime": 24721
+    },
+    {
+        "text": "...was the Mueller report on Russian interference in US elections.",
+        "startTime": 16810,
+        "endTime": 20820,
+        "slowStartTime": 25365,
+        "slowEndTime": 31455
+    },
+    {
+        "text": "In Venezuela, opposition leader Juan Guaido held a news conference with lawmakers in Caracas...",
+        "startTime": 21991,
+        "endTime": 28935,
+        "slowStartTime": 33137,
+        "slowEndTime": 43628
+    },
+    {
+        "text": "...after he called for peaceful demonstrations at army bases.",
+        "startTime": 29477,
+        "endTime": 33498,
+        "slowStartTime": 44366,
+        "slowEndTime": 50472
+    },
+    {
+        "text": "In India, Cyclone Fani has made landfall near the eastern city of Puri.",
+        "startTime": 36173,
+        "endTime": 42219,
+        "slowStartTime": 54410,
+        "slowEndTime": 63554
+    },
+    {
+        "text": "A grade 5 storm, it's replete with heavy rain and wind gusting to 205 kilometers per hour.",
+        "startTime": 42949,
+        "endTime": 51057,
+        "slowStartTime": 64574,
+        "slowEndTime": 76811
+    },
+    {
+        "text": "Two people have died from the storm.",
+        "startTime": 51964,
+        "endTime": 53883,
+        "slowStartTime": 78096,
+        "slowEndTime": 81050
+    },
+    {
+        "text": "A historic \"loya jirga\" peace summit in Kabul ends with delegates from across Afghanistan...",
+        "startTime": 55791,
+        "endTime": 62542,
+        "slowStartTime": 83836,
+        "slowEndTime": 94038
+    },
+    {
+        "text": "...demanding an immediate and permanent ceasefire.",
+        "startTime": 63067,
+        "endTime": 66101,
+        "slowStartTime": 94751,
+        "slowEndTime": 99376
+    },
+    {
+        "text": "Lastly, in Uganda, as World Press Freedom Day was celebrated,...",
+        "startTime": 67478,
+        "endTime": 72096,
+        "slowStartTime": 101367,
+        "slowEndTime": 108369
+    },
+    {
+        "text": "...television and radio stations are being targeted...",
+        "startTime": 72661,
+        "endTime": 75619,
+        "slowStartTime": 109141,
+        "slowEndTime": 113654
+    },
+    {
+        "text": "...over coverage of an opposition figure's appearance in court.",
+        "startTime": 75730,
+        "endTime": 79871,
+        "slowStartTime": 113745,
+        "slowEndTime": 120031
+    }
+]

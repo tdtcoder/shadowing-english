@@ -1,0 +1,289 @@
+[
+    {
+        "text": "Come here.",
+        "startTime": 800,
+        "endTime": 1430,
+        "slowStartTime": 1400,
+        "slowEndTime": 2310
+    },
+    {
+        "text": "No!",
+        "startTime": 7470,
+        "endTime": 7770,
+        "slowStartTime": 11300,
+        "slowEndTime": 11615
+    },
+    {
+        "text": "Outside!",
+        "startTime": 9540,
+        "endTime": 9950,
+        "slowStartTime": 14475,
+        "slowEndTime": 15060
+    },
+    {
+        "text": "Meow.",
+        "startTime": 23220,
+        "endTime": 24220,
+        "slowStartTime": 34970,
+        "slowEndTime": 36380
+    },
+    {
+        "text": "Agent 127 breaking radio silence, I have spotted Kitty Galore.",
+        "startTime": 27760,
+        "endTime": 32160,
+        "slowStartTime": 41730,
+        "slowEndTime": 48400
+    },
+    {
+        "text": "Your mission will be revealed in HQ.",
+        "startTime": 32730,
+        "endTime": 34500,
+        "slowStartTime": 49160,
+        "slowEndTime": 51840
+    },
+    {
+        "text": "This squirrel will self-destruct, but first...",
+        "startTime": 34600,
+        "endTime": 36640,
+        "slowStartTime": 52030,
+        "slowEndTime": 55005
+    },
+    {
+        "text": "...a little dance.",
+        "startTime": 36730,
+        "endTime": 37560,
+        "slowStartTime": 55200,
+        "slowEndTime": 56430
+    },
+    {
+        "text": "Next summer,...",
+        "startTime": 43740,
+        "endTime": 44640,
+        "slowStartTime": 65770,
+        "slowEndTime": 67110
+    },
+    {
+        "text": "How you doin', big shot?",
+        "startTime": 44710,
+        "endTime": 45680,
+        "slowStartTime": 67200,
+        "slowEndTime": 68500
+    },
+    {
+        "text": "Fine! Good!",
+        "startTime": 45800,
+        "endTime": 46940,
+        "slowStartTime": 68750,
+        "slowEndTime": 70455
+    },
+    {
+        "text": "Nope, not good.",
+        "startTime": 47510,
+        "endTime": 48350,
+        "slowStartTime": 71360,
+        "slowEndTime": 72550
+    },
+    {
+        "text": "Yeah, I'm gonna barf.",
+        "startTime": 48650,
+        "endTime": 49480,
+        "slowStartTime": 72965,
+        "slowEndTime": 74390
+    },
+    {
+        "text": "...to take on a new breed of evil,...",
+        "startTime": 50320,
+        "endTime": 52520,
+        "slowStartTime": 75533,
+        "slowEndTime": 78800
+    },
+    {
+        "text": "I will enslave all mankind.",
+        "startTime": 52630,
+        "endTime": 55620,
+        "slowStartTime": 79010,
+        "slowEndTime": 83515
+    },
+    {
+        "text": "Someone's having a bad hair day.",
+        "startTime": 56940,
+        "endTime": 58160,
+        "slowStartTime": 85550,
+        "slowEndTime": 87300
+    },
+    {
+        "text": "...two sworn enemies will have to do the unthinkable.",
+        "startTime": 58620,
+        "endTime": 62430,
+        "slowStartTime": 88045,
+        "slowEndTime": 93760
+    },
+    {
+        "text": "Cats and dogs will have to work together.",
+        "startTime": 62530,
+        "endTime": 65560,
+        "slowStartTime": 93770,
+        "slowEndTime": 98530
+    },
+    {
+        "text": "Am I the only one who thinks this is a bad idea?",
+        "startTime": 66500,
+        "endTime": 68590,
+        "slowStartTime": 99780,
+        "slowEndTime": 102965
+    },
+    {
+        "text": "From Warner Bros. Pictures.",
+        "startTime": 69030,
+        "endTime": 70350,
+        "slowStartTime": 103700,
+        "slowEndTime": 105750
+    },
+    {
+        "text": "Oh, yeah!",
+        "startTime": 70700,
+        "endTime": 71270,
+        "slowStartTime": 106170,
+        "slowEndTime": 106960
+    },
+    {
+        "text": "I can't find my dog. Have you seen him anywhere?",
+        "startTime": 71370,
+        "endTime": 73060,
+        "slowStartTime": 107170,
+        "slowEndTime": 109665
+    },
+    {
+        "text": "I love being a spy dog.",
+        "startTime": 74240,
+        "endTime": 76210,
+        "slowStartTime": 111440,
+        "slowEndTime": 114390
+    },
+    {
+        "text": "This is historic. Three species putting aside all differences to solve a mystery.",
+        "startTime": 76500,
+        "endTime": 81140,
+        "slowStartTime": 114870,
+        "slowEndTime": 121855
+    },
+    {
+        "text": "Real professional.",
+        "startTime": 81910,
+        "endTime": 82900,
+        "slowStartTime": 122950,
+        "slowEndTime": 124465
+    },
+    {
+        "text": "What? I slipped.",
+        "startTime": 83010,
+        "endTime": 84020,
+        "slowStartTime": 124570,
+        "slowEndTime": 126085
+    },
+    {
+        "text": "I don't know anything I tell you; my brain is a size of a grape...",
+        "startTime": 84280,
+        "endTime": 86980,
+        "slowStartTime": 126500,
+        "slowEndTime": 130490
+    },
+    {
+        "text": "...or a raisin, either a big raisin or a little grape.",
+        "startTime": 87350,
+        "endTime": 89380,
+        "slowStartTime": 131030,
+        "slowEndTime": 134350
+    },
+    {
+        "text": "Oh boy.",
+        "startTime": 90090,
+        "endTime": 90850,
+        "slowStartTime": 135195,
+        "slowEndTime": 136330
+    },
+    {
+        "text": "Kitty, I'm home!",
+        "startTime": 91990,
+        "endTime": 94290,
+        "slowStartTime": 138035,
+        "slowEndTime": 141395
+    },
+    {
+        "text": "Is it true there's a spot on your tummy...",
+        "startTime": 101450,
+        "endTime": 103700,
+        "slowStartTime": 152330,
+        "slowEndTime": 155700
+    },
+    {
+        "text": "...and if I tickle it, your foot will shake?",
+        "startTime": 103850,
+        "endTime": 105470,
+        "slowStartTime": 155840,
+        "slowEndTime": 158310
+    },
+    {
+        "text": "Nah! That's just a myth.",
+        "startTime": 105730,
+        "endTime": 106800,
+        "slowStartTime": 158710,
+        "slowEndTime": 160355
+    },
+    {
+        "text": "Oh boy, that's it!",
+        "startTime": 108340,
+        "endTime": 108990,
+        "slowStartTime": 162525,
+        "slowEndTime": 163525
+    },
+    {
+        "text": "Cats and Dogs: The Revenge of Kitty Galore.",
+        "startTime": 110070,
+        "endTime": 112740,
+        "slowStartTime": 165200,
+        "slowEndTime": 169245
+    },
+    {
+        "text": "Awesome.",
+        "startTime": 113480,
+        "endTime": 114650,
+        "slowStartTime": 170360,
+        "slowEndTime": 172120
+    },
+    {
+        "text": "'Sup with these guys?",
+        "startTime": 114800,
+        "endTime": 115840,
+        "slowStartTime": 172275,
+        "slowEndTime": 173865
+    },
+    {
+        "text": "Hopped up on catnip.",
+        "startTime": 115940,
+        "endTime": 117050,
+        "slowStartTime": 173990,
+        "slowEndTime": 175700
+    },
+    {
+        "text": "Dude, I saw it blink.",
+        "startTime": 118350,
+        "endTime": 119710,
+        "slowStartTime": 177720,
+        "slowEndTime": 179640
+    },
+    {
+        "text": "Unleashed in 3D...",
+        "startTime": 120830,
+        "endTime": 122080,
+        "slowStartTime": 181285,
+        "slowEndTime": 183125
+    },
+    {
+        "text": "...next summer.",
+        "startTime": 122410,
+        "endTime": 123350,
+        "slowStartTime": 183775,
+        "slowEndTime": 185170
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Today, Nokia and Microsoft intend to enter into a strategic alliance.",
+        "startTime": 2960,
+        "endTime": 7200,
+        "slowStartTime": 4550,
+        "slowEndTime": 10930
+    },
+    {
+        "text": "Together, we will bring consumers a new mobile experience with stellar hardware,....",
+        "startTime": 7700,
+        "endTime": 12040,
+        "slowStartTime": 11620,
+        "slowEndTime": 18330
+    },
+    {
+        "text": "...innovative software, and great services.",
+        "startTime": 12210,
+        "endTime": 14810,
+        "slowStartTime": 18430,
+        "slowEndTime": 22220
+    },
+    {
+        "text": "We will create opportunities beyond anything that currently exists.",
+        "startTime": 15280,
+        "endTime": 19280,
+        "slowStartTime": 23050,
+        "slowEndTime": 29010
+    },
+    {
+        "text": "In this partnership with Nokia, Microsoft brings its Windows phone software...",
+        "startTime": 22720,
+        "endTime": 27560,
+        "slowStartTime": 34240,
+        "slowEndTime": 41520
+    },
+    {
+        "text": "...and the brands that mobile consumers want like Bing, Office, and of course Xbox LIVE.",
+        "startTime": 27890,
+        "endTime": 34330,
+        "slowStartTime": 42000,
+        "slowEndTime": 51740
+    }
+]

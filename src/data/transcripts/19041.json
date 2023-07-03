@@ -1,0 +1,114 @@
+[
+    {
+        "text": "In Flanders Fields, the poppies blow...",
+        "startTime": 14842,
+        "endTime": 17404,
+        "slowStartTime": 22413,
+        "slowEndTime": 26331
+    },
+    {
+        "text": "...between the crosses, row on row...",
+        "startTime": 18210,
+        "endTime": 22365,
+        "slowStartTime": 27465,
+        "slowEndTime": 33772
+    },
+    {
+        "text": "...that mark our place.",
+        "startTime": 23680,
+        "endTime": 25581,
+        "slowStartTime": 35670,
+        "slowEndTime": 38597
+    },
+    {
+        "text": "And in the sky, the larks, still bravely singing, fly,...",
+        "startTime": 26055,
+        "endTime": 29213,
+        "slowStartTime": 39233,
+        "slowEndTime": 44045
+    },
+    {
+        "text": "...scarce heard amid the guns below.",
+        "startTime": 30229,
+        "endTime": 33215,
+        "slowStartTime": 45493,
+        "slowEndTime": 50048
+    },
+    {
+        "text": "We are the dead.",
+        "startTime": 34581,
+        "endTime": 35659,
+        "slowStartTime": 52021,
+        "slowEndTime": 53713
+    },
+    {
+        "text": "Short days ago, we lived,...",
+        "startTime": 36764,
+        "endTime": 38883,
+        "slowStartTime": 55296,
+        "slowEndTime": 58550
+    },
+    {
+        "text": "...felt dawn, saw sunset glow,...",
+        "startTime": 39662,
+        "endTime": 44549,
+        "slowStartTime": 59643,
+        "slowEndTime": 67048
+    },
+    {
+        "text": "...loved and were loved.",
+        "startTime": 45113,
+        "endTime": 48141,
+        "slowStartTime": 67819,
+        "slowEndTime": 72436
+    },
+    {
+        "text": "And now we lie in Flanders Fields.",
+        "startTime": 49799,
+        "endTime": 53391,
+        "slowStartTime": 74848,
+        "slowEndTime": 80312
+    },
+    {
+        "text": "Take up our quarrel with the foe,...",
+        "startTime": 65261,
+        "endTime": 67507,
+        "slowStartTime": 98042,
+        "slowEndTime": 101485
+    },
+    {
+        "text": "...to you from failing hands, we throw the torch;...",
+        "startTime": 68481,
+        "endTime": 72064,
+        "slowStartTime": 102871,
+        "slowEndTime": 108321
+    },
+    {
+        "text": "...be yours to hold it high.",
+        "startTime": 72473,
+        "endTime": 74435,
+        "slowStartTime": 108860,
+        "slowEndTime": 111878
+    },
+    {
+        "text": "If ye break faith with us who die,...",
+        "startTime": 75075,
+        "endTime": 77805,
+        "slowStartTime": 112762,
+        "slowEndTime": 116933
+    },
+    {
+        "text": "we shall not sleep,...",
+        "startTime": 78345,
+        "endTime": 80492,
+        "slowStartTime": 117668,
+        "slowEndTime": 120963
+    },
+    {
+        "text": "...though poppies grow in Flanders Fields.",
+        "startTime": 81664,
+        "endTime": 85841,
+        "slowStartTime": 122646,
+        "slowEndTime": 128987
+    }
+]

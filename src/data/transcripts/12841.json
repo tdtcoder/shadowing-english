@@ -1,0 +1,100 @@
+[
+    {
+        "text": "What are you watching?",
+        "startTime": 3909,
+        "endTime": 4897,
+        "slowStartTime": 6013,
+        "slowEndTime": 7570
+    },
+    {
+        "text": "A basketball game.",
+        "startTime": 5531,
+        "endTime": 6521,
+        "slowStartTime": 8446,
+        "slowEndTime": 10007
+    },
+    {
+        "text": "Wow, look at the players. They're huge!",
+        "startTime": 6757,
+        "endTime": 9539,
+        "slowStartTime": 10285,
+        "slowEndTime": 14533
+    },
+    {
+        "text": "Most basketball players are really tall, aren't they?",
+        "startTime": 9990,
+        "endTime": 12694,
+        "slowStartTime": 15135,
+        "slowEndTime": 19266
+    },
+    {
+        "text": "Yeah. They're really tall.",
+        "startTime": 12940,
+        "endTime": 14845,
+        "slowStartTime": 19560,
+        "slowEndTime": 22493
+    },
+    {
+        "text": "How tall are professional players?",
+        "startTime": 15335,
+        "endTime": 17292,
+        "slowStartTime": 23152,
+        "slowEndTime": 26163
+    },
+    {
+        "text": "In the NBA, the tallest player is over 210 centimeters tall!",
+        "startTime": 17789,
+        "endTime": 21712,
+        "slowStartTime": 26833,
+        "slowEndTime": 32793
+    },
+    {
+        "text": "That's like a giant! Are soccer players that tall, too?",
+        "startTime": 22183,
+        "endTime": 25923,
+        "slowStartTime": 33424,
+        "slowEndTime": 39109
+    },
+    {
+        "text": "No, not really. Soccer players are usually just average height.",
+        "startTime": 26121,
+        "endTime": 29719,
+        "slowStartTime": 39331,
+        "slowEndTime": 44804
+    },
+    {
+        "text": "Maybe around 180 centimeters or so.",
+        "startTime": 30056,
+        "endTime": 32707,
+        "slowStartTime": 45234,
+        "slowEndTime": 49286
+    },
+    {
+        "text": "Yes, that's more like everybody else.",
+        "startTime": 33083,
+        "endTime": 35237,
+        "slowStartTime": 49774,
+        "slowEndTime": 53081
+    },
+    {
+        "text": "Changmin, you're about that tall and good at soccer!",
+        "startTime": 35711,
+        "endTime": 38462,
+        "slowStartTime": 53717,
+        "slowEndTime": 57918
+    },
+    {
+        "text": "Maybe you should become a soccer player.",
+        "startTime": 38727,
+        "endTime": 40563,
+        "slowStartTime": 58240,
+        "slowEndTime": 61069
+    },
+    {
+        "text": "I wish, but I'm overweight. I weigh 80 kilograms.",
+        "startTime": 40719,
+        "endTime": 44203,
+        "slowStartTime": 61229,
+        "slowEndTime": 66530
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "text": "The small striped chipmunk lives in the mountains.",
+        "startTime": 2399,
+        "endTime": 5619,
+        "slowStartTime": 3749,
+        "slowEndTime": 8653
+    },
+    {
+        "text": "Does anything else live in the mountains?",
+        "startTime": 6682,
+        "endTime": 9117,
+        "slowStartTime": 10173,
+        "slowEndTime": 13900
+    },
+    {
+        "text": "Yes, the small gray squirrel lives in the mountains.",
+        "startTime": 10180,
+        "endTime": 14194,
+        "slowStartTime": 15420,
+        "slowEndTime": 21516
+    },
+    {
+        "text": "Does anything else live in the mountains?",
+        "startTime": 15257,
+        "endTime": 17704,
+        "slowStartTime": 23036,
+        "slowEndTime": 26781
+    },
+    {
+        "text": "Yes, the small furry rabbit lives in the mountains.",
+        "startTime": 18779,
+        "endTime": 22401,
+        "slowStartTime": 28319,
+        "slowEndTime": 33826
+    },
+    {
+        "text": "Does anything else live in the mountains?",
+        "startTime": 23394,
+        "endTime": 25660,
+        "slowStartTime": 35241,
+        "slowEndTime": 38715
+    },
+    {
+        "text": "Yes, the small sly fox lives in the mountains.",
+        "startTime": 26718,
+        "endTime": 30549,
+        "slowStartTime": 40227,
+        "slowEndTime": 46049
+    },
+    {
+        "text": "Does anything else live in the mountains?",
+        "startTime": 31607,
+        "endTime": 34182,
+        "slowStartTime": 47561,
+        "slowEndTime": 51498
+    },
+    {
+        "text": "Yes, the big strong eagle lives in the mountains.",
+        "startTime": 35175,
+        "endTime": 39393,
+        "slowStartTime": 52913,
+        "slowEndTime": 59314
+    },
+    {
+        "text": "Does anything else live in the mountains?",
+        "startTime": 40365,
+        "endTime": 42889,
+        "slowStartTime": 60698,
+        "slowEndTime": 64558
+    },
+    {
+        "text": "Yes, the big proud deer lives in the mountains.",
+        "startTime": 43775,
+        "endTime": 47949,
+        "slowStartTime": 65812,
+        "slowEndTime": 72149
+    },
+    {
+        "text": "Does anything else live in the mountains?",
+        "startTime": 48897,
+        "endTime": 51185,
+        "slowStartTime": 73496,
+        "slowEndTime": 77003
+    },
+    {
+        "text": "Yes, the big hungry bear lives in the mountains.",
+        "startTime": 52200,
+        "endTime": 56568,
+        "slowStartTime": 78450,
+        "slowEndTime": 85077
+    },
+    {
+        "text": "Does anything else live in the mountains?",
+        "startTime": 57497,
+        "endTime": 59849,
+        "slowStartTime": 86395,
+        "slowEndTime": 89998
+    },
+    {
+        "text": "Yes, many animals live in the mountains.",
+        "startTime": 60821,
+        "endTime": 64617,
+        "slowStartTime": 91381,
+        "slowEndTime": 97150
+    },
+    {
+        "text": "Can you name these animals that live in the mountains?",
+        "startTime": 65631,
+        "endTime": 69405,
+        "slowStartTime": 98597,
+        "slowEndTime": 104333
+    },
+    {
+        "text": "Where do small striped chipmunks live?",
+        "startTime": 72672,
+        "endTime": 75101,
+        "slowStartTime": 109158,
+        "slowEndTime": 112876
+    },
+    {
+        "text": "Small striped chipmunks live in the mountains.",
+        "startTime": 76223,
+        "endTime": 78939,
+        "slowStartTime": 114484,
+        "slowEndTime": 118633
+    },
+    {
+        "text": "Do small furry rabbits live in the mountains, too?",
+        "startTime": 80061,
+        "endTime": 83163,
+        "slowStartTime": 120242,
+        "slowEndTime": 124970
+    },
+    {
+        "text": "Yes, they do.",
+        "startTime": 84114,
+        "endTime": 85383,
+        "slowStartTime": 126321,
+        "slowEndTime": 128299
+    },
+    {
+        "text": "Do giant blue whales also live in the mountains?",
+        "startTime": 86463,
+        "endTime": 89972,
+        "slowStartTime": 129844,
+        "slowEndTime": 135183
+    },
+    {
+        "text": "No, they don't. They live in the sea.",
+        "startTime": 90965,
+        "endTime": 93811,
+        "slowStartTime": 136598,
+        "slowEndTime": 140941
+    }
+]

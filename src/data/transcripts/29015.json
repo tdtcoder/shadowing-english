@@ -1,0 +1,51 @@
+[
+    {
+        "text": "According to Fitbit, you've taken about 8200 steps.",
+        "startTime": 2053,
+        "endTime": 5910,
+        "slowStartTime": 3229,
+        "slowEndTime": 9090
+    },
+    {
+        "text": "About 8300 steps.",
+        "startTime": 7961,
+        "endTime": 9988,
+        "slowStartTime": 12092,
+        "slowEndTime": 15207
+    },
+    {
+        "text": "About 8400 steps.",
+        "startTime": 11387,
+        "endTime": 13396,
+        "slowStartTime": 17230,
+        "slowEndTime": 20319
+    },
+    {
+        "text": "Okay, ordering jumbo sushi platter from Amazon restaurants.",
+        "startTime": 16934,
+        "endTime": 20749,
+        "slowStartTime": 25551,
+        "slowEndTime": 31348
+    },
+    {
+        "text": "Okay, playing your Caturday playlist.",
+        "startTime": 22888,
+        "endTime": 25242,
+        "slowStartTime": 34482,
+        "slowEndTime": 38088
+    },
+    {
+        "text": "Okay, launching automatic ball thrower.",
+        "startTime": 27205,
+        "endTime": 29839,
+        "slowStartTime": 40958,
+        "slowEndTime": 44983
+    },
+    {
+        "text": "Okay,  reordering a picture frame.",
+        "startTime": 36189,
+        "endTime": 38493,
+        "slowStartTime": 54434,
+        "slowEndTime": 57965
+    }
+]

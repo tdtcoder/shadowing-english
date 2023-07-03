@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Hello guys.",
+        "startTime": 173,
+        "endTime": 1256,
+        "slowStartTime": 410,
+        "slowEndTime": 2109
+    },
+    {
+        "text": "Glad to meet you.",
+        "startTime": 1427,
+        "endTime": 2572,
+        "slowStartTime": 2291,
+        "slowEndTime": 4083
+    },
+    {
+        "text": "Do you know who I am?",
+        "startTime": 2751,
+        "endTime": 3798,
+        "slowStartTime": 4277,
+        "slowEndTime": 5922
+    },
+    {
+        "text": "I'm part of an army that's everywhere.",
+        "startTime": 4045,
+        "endTime": 6434,
+        "slowStartTime": 6217,
+        "slowEndTime": 9876
+    },
+    {
+        "text": "What?",
+        "startTime": 6729,
+        "endTime": 7249,
+        "slowStartTime": 10243,
+        "slowEndTime": 11099
+    },
+    {
+        "text": "You don't see us around you?",
+        "startTime": 7438,
+        "endTime": 9193,
+        "slowStartTime": 11307,
+        "slowEndTime": 14015
+    },
+    {
+        "text": "We're very, very, very tiny.",
+        "startTime": 9396,
+        "endTime": 11892,
+        "slowStartTime": 14244,
+        "slowEndTime": 18063
+    },
+    {
+        "text": "You can't see us with open eyes.",
+        "startTime": 12276,
+        "endTime": 14518,
+        "slowStartTime": 18564,
+        "slowEndTime": 22002
+    },
+    {
+        "text": "You can only see us under a microscope.",
+        "startTime": 14755,
+        "endTime": 17279,
+        "slowStartTime": 22282,
+        "slowEndTime": 26143
+    },
+    {
+        "text": "But we're everywhere.",
+        "startTime": 17537,
+        "endTime": 18965,
+        "slowStartTime": 26455,
+        "slowEndTime": 28673
+    },
+    {
+        "text": "On the doorknob, on the table, on your skin, everywhere.",
+        "startTime": 19103,
+        "endTime": 24316,
+        "slowStartTime": 28805,
+        "slowEndTime": 36699
+    },
+    {
+        "text": "We're also called microbes as we can only be seen under a microscope.",
+        "startTime": 24686,
+        "endTime": 28659,
+        "slowStartTime": 37179,
+        "slowEndTime": 43214
+    },
+    {
+        "text": "And some people call us germs, too.",
+        "startTime": 28911,
+        "endTime": 31041,
+        "slowStartTime": 43516,
+        "slowEndTime": 46787
+    },
+    {
+        "text": "Germs, yes, germs!",
+        "startTime": 31415,
+        "endTime": 33247,
+        "slowStartTime": 47273,
+        "slowEndTime": 50096
+    },
+    {
+        "text": "We can cause many diseases.",
+        "startTime": 33327,
+        "endTime": 35852,
+        "slowStartTime": 50141,
+        "slowEndTime": 54003
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "text": "﻿Let's learn places at home.",
+        "startTime": 245,
+        "endTime": 2631,
+        "slowStartTime": 517,
+        "slowEndTime": 4171
+    },
+    {
+        "text": "They are in the living room.",
+        "startTime": 3955,
+        "endTime": 5708,
+        "slowStartTime": 6083,
+        "slowEndTime": 8787
+    },
+    {
+        "text": "The dog is in the kitchen.",
+        "startTime": 10381,
+        "endTime": 12377,
+        "slowStartTime": 15722,
+        "slowEndTime": 18790
+    },
+    {
+        "text": "The dogs are eating in the dining room.",
+        "startTime": 19434,
+        "endTime": 22027,
+        "slowStartTime": 29301,
+        "slowEndTime": 33265
+    },
+    {
+        "text": "The boy is cleaning up his bedroom.",
+        "startTime": 25167,
+        "endTime": 27847,
+        "slowStartTime": 37900,
+        "slowEndTime": 41995
+    },
+    {
+        "text": "The dog is in the bathroom.",
+        "startTime": 32795,
+        "endTime": 34825,
+        "slowStartTime": 49343,
+        "slowEndTime": 52462
+    },
+    {
+        "text": "The man is in the hallway.",
+        "startTime": 39739,
+        "endTime": 41901,
+        "slowStartTime": 59758,
+        "slowEndTime": 63077
+    },
+    {
+        "text": "This closet is big!",
+        "startTime": 45105,
+        "endTime": 47414,
+        "slowStartTime": 67807,
+        "slowEndTime": 71346
+    },
+    {
+        "text": "The boy is skateboarding in the basement.",
+        "startTime": 54216,
+        "endTime": 56779,
+        "slowStartTime": 81474,
+        "slowEndTime": 85393
+    },
+    {
+        "text": "The dog is going up the stairs.",
+        "startTime": 62495,
+        "endTime": 65014,
+        "slowStartTime": 93893,
+        "slowEndTime": 97746
+    },
+    {
+        "text": "He is working in the office.",
+        "startTime": 71623,
+        "endTime": 73961,
+        "slowStartTime": 107585,
+        "slowEndTime": 111167
+    },
+    {
+        "text": "They are going into the garage.",
+        "startTime": 82185,
+        "endTime": 84606,
+        "slowStartTime": 123427,
+        "slowEndTime": 127134
+    },
+    {
+        "text": "He is in the backyard.",
+        "startTime": 95245,
+        "endTime": 96886,
+        "slowStartTime": 143017,
+        "slowEndTime": 145554
+    }
+]

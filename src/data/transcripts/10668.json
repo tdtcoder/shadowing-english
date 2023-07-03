@@ -1,0 +1,58 @@
+[
+    {
+        "text": "In case you haven't heard the news,...",
+        "startTime": 350,
+        "endTime": 2300,
+        "slowStartTime": 800,
+        "slowEndTime": 3670
+    },
+    {
+        "text": "...the Eiffel Tower is 120 years old this year.",
+        "startTime": 2600,
+        "endTime": 6100,
+        "slowStartTime": 4200,
+        "slowEndTime": 9300
+    },
+    {
+        "text": "To celebrate, they installed a new set of lights...",
+        "startTime": 6850,
+        "endTime": 10100,
+        "slowStartTime": 10550,
+        "slowEndTime": 15300
+    },
+    {
+        "text": "...on the side facing the Trocadero.",
+        "startTime": 10350,
+        "endTime": 12550,
+        "slowStartTime": 15800,
+        "slowEndTime": 19000
+    },
+    {
+        "text": "And every night from 8 p.m. to 11 p.m.,...",
+        "startTime": 13100,
+        "endTime": 16400,
+        "slowStartTime": 19900,
+        "slowEndTime": 24700
+    },
+    {
+        "text": "...they \"play\" with them for 12 minutes.",
+        "startTime": 16700,
+        "endTime": 19850,
+        "slowStartTime": 25400,
+        "slowEndTime": 30000
+    },
+    {
+        "text": "Well, when I say, \"they,\" I mean, the computer,...",
+        "startTime": 20700,
+        "endTime": 24150,
+        "slowStartTime": 31400,
+        "slowEndTime": 36400
+    },
+    {
+        "text": "...as of course, all these lights are computer controlled.",
+        "startTime": 24350,
+        "endTime": 28000,
+        "slowStartTime": 36800,
+        "slowEndTime": 42100
+    }
+]

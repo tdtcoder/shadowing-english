@@ -1,0 +1,100 @@
+[
+    {
+        "text": "﻿The sun and Jupiter have a lot in common.",
+        "startTime": 5,
+        "endTime": 2875,
+        "slowStartTime": 158,
+        "slowEndTime": 4538
+    },
+    {
+        "text": "The sun is made almost entirely of hydrogen and helium.",
+        "startTime": 3063,
+        "endTime": 7845,
+        "slowStartTime": 4744,
+        "slowEndTime": 11993
+    },
+    {
+        "text": "There's a sprinkling of the other elements,...",
+        "startTime": 8421,
+        "endTime": 10827,
+        "slowStartTime": 12782,
+        "slowEndTime": 16465
+    },
+    {
+        "text": "...but mostly hydrogen and helium.",
+        "startTime": 11263,
+        "endTime": 13320,
+        "slowStartTime": 17045,
+        "slowEndTime": 20205
+    },
+    {
+        "text": "But Jupiter is made of almost exactly the same stuff as the sun.",
+        "startTime": 14893,
+        "endTime": 20459,
+        "slowStartTime": 22490,
+        "slowEndTime": 30914
+    },
+    {
+        "text": "And yet Jupiter has a higher concentration of these heavier elements in it.",
+        "startTime": 20621,
+        "endTime": 25469,
+        "slowStartTime": 31081,
+        "slowEndTime": 38429
+    },
+    {
+        "text": "These elements are heavier.",
+        "startTime": 26037,
+        "endTime": 28189,
+        "slowStartTime": 39206,
+        "slowEndTime": 42508
+    },
+    {
+        "text": "They're more massive than hydrogen or helium.",
+        "startTime": 28612,
+        "endTime": 31044,
+        "slowStartTime": 43068,
+        "slowEndTime": 46791
+    },
+    {
+        "text": "So, you might have expected them to fall into the center of the solar system,...",
+        "startTime": 31664,
+        "endTime": 36342,
+        "slowStartTime": 47646,
+        "slowEndTime": 54738
+    },
+    {
+        "text": "...but no, they are stuck way out here at Jupiter.",
+        "startTime": 36428,
+        "endTime": 39929,
+        "slowStartTime": 54792,
+        "slowEndTime": 60119
+    },
+    {
+        "text": "Now, these elements are significant,...",
+        "startTime": 40047,
+        "endTime": 41417,
+        "slowStartTime": 60221,
+        "slowEndTime": 62351
+    },
+    {
+        "text": "...because these are the elements that make up the earth and you and me.",
+        "startTime": 41556,
+        "endTime": 45553,
+        "slowStartTime": 62484,
+        "slowEndTime": 68555
+    },
+    {
+        "text": "And you know why they're out here in Jupiter?",
+        "startTime": 45807,
+        "endTime": 47721,
+        "slowStartTime": 68860,
+        "slowEndTime": 71807
+    },
+    {
+        "text": "Nobody knows why, that's why we're sending the Juno mission out there.",
+        "startTime": 48481,
+        "endTime": 51501,
+        "slowStartTime": 72872,
+        "slowEndTime": 77477
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Giving Directions",
+        "startTime": 1036,
+        "endTime": 2097,
+        "slowStartTime": 1704,
+        "slowEndTime": 3370
+    },
+    {
+        "text": "Excuse me, how do I get to the Convention Center?",
+        "startTime": 3360,
+        "endTime": 6851,
+        "slowStartTime": 5190,
+        "slowEndTime": 10501
+    },
+    {
+        "text": "It's easy. Keep driving straight ahead.",
+        "startTime": 13559,
+        "endTime": 16440,
+        "slowStartTime": 20489,
+        "slowEndTime": 24885
+    },
+    {
+        "text": "Keep going straight across the bridge.",
+        "startTime": 22643,
+        "endTime": 24860,
+        "slowStartTime": 34115,
+        "slowEndTime": 37515
+    },
+    {
+        "text": "Turn left on Park Road.",
+        "startTime": 30859,
+        "endTime": 32135,
+        "slowStartTime": 46438,
+        "slowEndTime": 48428
+    },
+    {
+        "text": "It's the first exit after you get off the bridge.",
+        "startTime": 38249,
+        "endTime": 40549,
+        "slowStartTime": 57524,
+        "slowEndTime": 61048
+    },
+    {
+        "text": "Turn right before the factory.",
+        "startTime": 46394,
+        "endTime": 47889,
+        "slowStartTime": 69741,
+        "slowEndTime": 72058
+    },
+    {
+        "text": "Go through the next intersection.",
+        "startTime": 53901,
+        "endTime": 55565,
+        "slowStartTime": 81001,
+        "slowEndTime": 83573
+    },
+    {
+        "text": "Go past the big building.",
+        "startTime": 61594,
+        "endTime": 63397,
+        "slowStartTime": 92541,
+        "slowEndTime": 95320
+    },
+    {
+        "text": "Take your next left and park.",
+        "startTime": 69476,
+        "endTime": 71599,
+        "slowStartTime": 104364,
+        "slowEndTime": 107623
+    },
+    {
+        "text": "Get out and cross the street.",
+        "startTime": 77543,
+        "endTime": 79215,
+        "slowStartTime": 116464,
+        "slowEndTime": 119047
+    },
+    {
+        "text": "Walk through the park.",
+        "startTime": 85131,
+        "endTime": 86365,
+        "slowStartTime": 127847,
+        "slowEndTime": 129773
+    },
+    {
+        "text": "You are there. You can't miss it. It's a huge building.",
+        "startTime": 92360,
+        "endTime": 96460,
+        "slowStartTime": 138690,
+        "slowEndTime": 144915
+    },
+    {
+        "text": "Thanks! You've been a big help.",
+        "startTime": 102474,
+        "endTime": 104030,
+        "slowStartTime": 153861,
+        "slowEndTime": 156270
+    }
+]

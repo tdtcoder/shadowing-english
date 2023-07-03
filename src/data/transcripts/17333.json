@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Bed.",
+        "startTime": 2007,
+        "endTime": 2500,
+        "slowStartTime": 3160,
+        "slowEndTime": 3975
+    },
+    {
+        "text": "It is time for bed.",
+        "startTime": 3318,
+        "endTime": 4753,
+        "slowStartTime": 5127,
+        "slowEndTime": 7354
+    },
+    {
+        "text": "It is almost time for bed.",
+        "startTime": 6122,
+        "endTime": 8140,
+        "slowStartTime": 9333,
+        "slowEndTime": 12435
+    },
+    {
+        "text": "Hen.",
+        "startTime": 9563,
+        "endTime": 10137,
+        "slowStartTime": 14494,
+        "slowEndTime": 15430
+    },
+    {
+        "text": "The hen is big.",
+        "startTime": 10935,
+        "endTime": 12489,
+        "slowStartTime": 16553,
+        "slowEndTime": 18959
+    },
+    {
+        "text": "The hen is big and red.",
+        "startTime": 13912,
+        "endTime": 16251,
+        "slowStartTime": 21018,
+        "slowEndTime": 24602
+    },
+    {
+        "text": "Jet.",
+        "startTime": 17673,
+        "endTime": 18229,
+        "slowStartTime": 26659,
+        "slowEndTime": 27569
+    },
+    {
+        "text": "I can see a jet plane.",
+        "startTime": 19145,
+        "endTime": 21241,
+        "slowStartTime": 28867,
+        "slowEndTime": 32087
+    },
+    {
+        "text": "I can see a blue jet plane.",
+        "startTime": 22662,
+        "endTime": 25353,
+        "slowStartTime": 34143,
+        "slowEndTime": 38254
+    },
+    {
+        "text": "Leg.",
+        "startTime": 26737,
+        "endTime": 27311,
+        "slowStartTime": 40255,
+        "slowEndTime": 41192
+    },
+    {
+        "text": "I hurt my leg.",
+        "startTime": 28180,
+        "endTime": 29552,
+        "slowStartTime": 42420,
+        "slowEndTime": 44553
+    },
+    {
+        "text": "I hurt my left leg.",
+        "startTime": 31024,
+        "endTime": 32960,
+        "slowStartTime": 46686,
+        "slowEndTime": 49665
+    },
+    {
+        "text": "Does the bird go over the tree?",
+        "startTime": 40793,
+        "endTime": 43249,
+        "slowStartTime": 61340,
+        "slowEndTime": 65099
+    },
+    {
+        "text": "Yes, yes, yes, it goes over the tree.",
+        "startTime": 44553,
+        "endTime": 47757,
+        "slowStartTime": 66979,
+        "slowEndTime": 71861
+    },
+    {
+        "text": "Does the bird go over the park?",
+        "startTime": 48305,
+        "endTime": 50739,
+        "slowStartTime": 72608,
+        "slowEndTime": 76333
+    },
+    {
+        "text": "No, no, no, it goes over the farm.",
+        "startTime": 51970,
+        "endTime": 55328,
+        "slowStartTime": 78105,
+        "slowEndTime": 83217
+    },
+    {
+        "text": "Does the bird go over the city?",
+        "startTime": 55811,
+        "endTime": 58071,
+        "slowStartTime": 83866,
+        "slowEndTime": 87332
+    },
+    {
+        "text": "Yes, yes, yes, it goes over the city.",
+        "startTime": 59553,
+        "endTime": 62843,
+        "slowStartTime": 89480,
+        "slowEndTime": 94489
+    },
+    {
+        "text": "The bird goes over the tree and city.",
+        "startTime": 63075,
+        "endTime": 66522,
+        "slowStartTime": 94762,
+        "slowEndTime": 100008
+    },
+    {
+        "text": "The bird doesn't go over the park.",
+        "startTime": 66801,
+        "endTime": 70257,
+        "slowStartTime": 100352,
+        "slowEndTime": 105610
+    }
+]

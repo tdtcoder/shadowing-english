@@ -1,0 +1,142 @@
+[
+    {
+        "text": "I'm closest to the sun.",
+        "startTime": 1139,
+        "endTime": 2815,
+        "slowStartTime": 1859,
+        "slowEndTime": 4448
+    },
+    {
+        "text": "I'm Mercury, Mercury.",
+        "startTime": 4255,
+        "endTime": 6620,
+        "slowStartTime": 6533,
+        "slowEndTime": 10155
+    },
+    {
+        "text": "I'm the brightest in the sky.",
+        "startTime": 7490,
+        "endTime": 9246,
+        "slowStartTime": 11385,
+        "slowEndTime": 14094
+    },
+    {
+        "text": "I'm Venus, Venus.",
+        "startTime": 9873,
+        "endTime": 12821,
+        "slowStartTime": 14960,
+        "slowEndTime": 19457
+    },
+    {
+        "text": "And I'm your planet.",
+        "startTime": 14037,
+        "endTime": 15876,
+        "slowStartTime": 21206,
+        "slowEndTime": 24039
+    },
+    {
+        "text": "I'm Earth, Earth.",
+        "startTime": 17075,
+        "endTime": 19923,
+        "slowStartTime": 25762,
+        "slowEndTime": 30109
+    },
+    {
+        "text": "I'm the red planet.",
+        "startTime": 20517,
+        "endTime": 22398,
+        "slowStartTime": 30926,
+        "slowEndTime": 33822
+    },
+    {
+        "text": "I'm Mars, Mars.",
+        "startTime": 23502,
+        "endTime": 26465,
+        "slowStartTime": 35403,
+        "slowEndTime": 39923
+    },
+    {
+        "text": "We are the planets big and round.",
+        "startTime": 27126,
+        "endTime": 30147,
+        "slowStartTime": 40839,
+        "slowEndTime": 45446
+    },
+    {
+        "text": "Watch us happily fly around.",
+        "startTime": 30301,
+        "endTime": 33316,
+        "slowStartTime": 45602,
+        "slowEndTime": 50199
+    },
+    {
+        "text": "We are the planets big and round.",
+        "startTime": 33476,
+        "endTime": 36460,
+        "slowStartTime": 50364,
+        "slowEndTime": 54915
+    },
+    {
+        "text": "Watch us happily fly around.",
+        "startTime": 36701,
+        "endTime": 40119,
+        "slowStartTime": 55202,
+        "slowEndTime": 60404
+    },
+    {
+        "text": "I'm the largest planet.",
+        "startTime": 52324,
+        "endTime": 54045,
+        "slowStartTime": 78636,
+        "slowEndTime": 81293
+    },
+    {
+        "text": "I'm Jupiter, Jupiter.",
+        "startTime": 55471,
+        "endTime": 58227,
+        "slowStartTime": 83357,
+        "slowEndTime": 87566
+    },
+    {
+        "text": "I'm the planet with the rings.",
+        "startTime": 58699,
+        "endTime": 60848,
+        "slowStartTime": 88199,
+        "slowEndTime": 91497
+    },
+    {
+        "text": "I'm Saturn, Saturn.",
+        "startTime": 61783,
+        "endTime": 64735,
+        "slowStartTime": 92824,
+        "slowEndTime": 97328
+    },
+    {
+        "text": "I have 27 moons!",
+        "startTime": 65050,
+        "endTime": 67322,
+        "slowStartTime": 97725,
+        "slowEndTime": 101208
+    },
+    {
+        "text": "I'm Uranus, Uranus.",
+        "startTime": 68330,
+        "endTime": 71158,
+        "slowStartTime": 102645,
+        "slowEndTime": 106962
+    },
+    {
+        "text": "I am made of gas.",
+        "startTime": 71762,
+        "endTime": 73722,
+        "slowStartTime": 107793,
+        "slowEndTime": 110808
+    },
+    {
+        "text": "I'm Neptune, Neptune.",
+        "startTime": 74667,
+        "endTime": 77743,
+        "slowStartTime": 112150,
+        "slowEndTime": 116840
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "text": "It is an expensive summer of travel stress at airports worldwide...",
+        "startTime": 1679,
+        "endTime": 5975,
+        "slowStartTime": 2668,
+        "slowEndTime": 9187
+    },
+    {
+        "text": "...with airlines struggling with staffing shortages and schedule meltdowns.",
+        "startTime": 6179,
+        "endTime": 10211,
+        "slowStartTime": 9418,
+        "slowEndTime": 15541
+    },
+    {
+        "text": "Now we're stranded.",
+        "startTime": 10495,
+        "endTime": 11353,
+        "slowStartTime": 15893,
+        "slowEndTime": 17254
+    },
+    {
+        "text": "From Thursday to Monday, airlines in the U.S....",
+        "startTime": 11538,
+        "endTime": 13873,
+        "slowStartTime": 17457,
+        "slowEndTime": 21035
+    },
+    {
+        "text": "...canceled more than 5400 flights.",
+        "startTime": 14043,
+        "endTime": 16663,
+        "slowStartTime": 21214,
+        "slowEndTime": 25219
+    },
+    {
+        "text": "Makes me not want to travel at all, go on no airplanes.",
+        "startTime": 16791,
+        "endTime": 20801,
+        "slowStartTime": 25337,
+        "slowEndTime": 31427
+    },
+    {
+        "text": "Nothing.",
+        "startTime": 20919,
+        "endTime": 21417,
+        "slowStartTime": 31529,
+        "slowEndTime": 32351
+    },
+    {
+        "text": "New analysis from travel site Hopper says....",
+        "startTime": 21557,
+        "endTime": 23587,
+        "slowStartTime": 32485,
+        "slowEndTime": 35605
+    },
+    {
+        "text": "...flight cancellations have jumped 34% in the last month.",
+        "startTime": 23758,
+        "endTime": 27813,
+        "slowStartTime": 35787,
+        "slowEndTime": 41945
+    },
+    {
+        "text": "Domestic ticket prices are up too by 18% since 2019.",
+        "startTime": 28189,
+        "endTime": 32665,
+        "slowStartTime": 42433,
+        "slowEndTime": 49223
+    },
+    {
+        "text": "Even still, passengers are packing planes.",
+        "startTime": 32908,
+        "endTime": 35690,
+        "slowStartTime": 49512,
+        "slowEndTime": 53760
+    },
+    {
+        "text": "Last weekend, the TSA screened more people at airports nationwide...",
+        "startTime": 35906,
+        "endTime": 39349,
+        "slowStartTime": 54009,
+        "slowEndTime": 59248
+    },
+    {
+        "text": "...than any weekend since the start of the pandemic.",
+        "startTime": 39619,
+        "endTime": 42820,
+        "slowStartTime": 59579,
+        "slowEndTime": 64455
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "text": "What's your name?",
+        "startTime": 22841,
+        "endTime": 23315,
+        "slowStartTime": 34412,
+        "slowEndTime": 35198
+    },
+    {
+        "text": "Can I have your name?",
+        "startTime": 25539,
+        "endTime": 26114,
+        "slowStartTime": 38458,
+        "slowEndTime": 39396
+    },
+    {
+        "text": "Could you tell me your name please?",
+        "startTime": 28172,
+        "endTime": 30135,
+        "slowStartTime": 42408,
+        "slowEndTime": 45427
+    },
+    {
+        "text": "Where do you live?",
+        "startTime": 34041,
+        "endTime": 34925,
+        "slowStartTime": 51211,
+        "slowEndTime": 52613
+    },
+    {
+        "text": "What kind of place do you live in? A house, a flat or a dormitory?",
+        "startTime": 37043,
+        "endTime": 42425,
+        "slowStartTime": 55714,
+        "slowEndTime": 63862
+    },
+    {
+        "text": "Okay, and could I have your address, please?",
+        "startTime": 44381,
+        "endTime": 46909,
+        "slowStartTime": 66721,
+        "slowEndTime": 70589
+    },
+    {
+        "text": "So, do you have a part-time job? What do you do?",
+        "startTime": 50345,
+        "endTime": 53161,
+        "slowStartTime": 75667,
+        "slowEndTime": 79966
+    },
+    {
+        "text": "So, what do you do for a living?",
+        "startTime": 54887,
+        "endTime": 55985,
+        "slowStartTime": 82481,
+        "slowEndTime": 84203
+    },
+    {
+        "text": "When is your birthday?",
+        "startTime": 59375,
+        "endTime": 60161,
+        "slowStartTime": 89212,
+        "slowEndTime": 90467
+    }
+]

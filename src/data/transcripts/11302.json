@@ -1,0 +1,219 @@
+[
+    {
+        "text": "Hello, welcome to Michael's Business Top Tips!",
+        "startTime": 67,
+        "endTime": 3117,
+        "slowStartTime": 250,
+        "slowEndTime": 4900
+    },
+    {
+        "text": "This month, we're looking at leadership versus management.",
+        "startTime": 3600,
+        "endTime": 6517,
+        "slowStartTime": 5550,
+        "slowEndTime": 10000
+    },
+    {
+        "text": "What does this mean?",
+        "startTime": 7233,
+        "endTime": 8050,
+        "slowStartTime": 11000,
+        "slowEndTime": 12300
+    },
+    {
+        "text": "An expert in this field is a gentleman called John Kotter...",
+        "startTime": 8633,
+        "endTime": 11850,
+        "slowStartTime": 13100,
+        "slowEndTime": 18000
+    },
+    {
+        "text": "...who's a professor of leadership at Harvard Business School.",
+        "startTime": 12167,
+        "endTime": 14650,
+        "slowStartTime": 18400,
+        "slowEndTime": 22200
+    },
+    {
+        "text": "He argues that management is focused very much on complexity,...",
+        "startTime": 15500,
+        "endTime": 18917,
+        "slowStartTime": 23400,
+        "slowEndTime": 28600
+    },
+    {
+        "text": "...dealing with the complex daily routines such as budgeting, organizing, problem solving, etc.",
+        "startTime": 19533,
+        "endTime": 25403,
+        "slowStartTime": 29450,
+        "slowEndTime": 38330
+    },
+    {
+        "text": "All very important, but not leadership.",
+        "startTime": 26067,
+        "endTime": 29583,
+        "slowStartTime": 39250,
+        "slowEndTime": 44600
+    },
+    {
+        "text": "John Kotter says leadership is to deal with change,...",
+        "startTime": 30300,
+        "endTime": 33317,
+        "slowStartTime": 45600,
+        "slowEndTime": 50200
+    },
+    {
+        "text": "...helping companies grow, develop, and move into new areas.",
+        "startTime": 33633,
+        "endTime": 37950,
+        "slowStartTime": 50600,
+        "slowEndTime": 57150
+    },
+    {
+        "text": "He identifies four principles to being a successful leader.",
+        "startTime": 39100,
+        "endTime": 42517,
+        "slowStartTime": 58800,
+        "slowEndTime": 64000
+    },
+    {
+        "text": "First, create vision and strategy.",
+        "startTime": 43299,
+        "endTime": 45317,
+        "slowStartTime": 65099,
+        "slowEndTime": 68200
+    },
+    {
+        "text": "A leader has a clear vision of where they want to go to and their company to go to,...",
+        "startTime": 46233,
+        "endTime": 50783,
+        "slowStartTime": 69500,
+        "slowEndTime": 76400
+    },
+    {
+        "text": "...and strategy sets the map how to get there.",
+        "startTime": 51300,
+        "endTime": 54850,
+        "slowStartTime": 77100,
+        "slowEndTime": 82500
+    },
+    {
+        "text": "Second, communicate and set direction.",
+        "startTime": 56133,
+        "endTime": 59017,
+        "slowStartTime": 84350,
+        "slowEndTime": 88750
+    },
+    {
+        "text": "A good leader needs to be a good communicator.",
+        "startTime": 59867,
+        "endTime": 62117,
+        "slowStartTime": 89950,
+        "slowEndTime": 93400
+    },
+    {
+        "text": "They need to communicate their vision clearly to the people they work with...",
+        "startTime": 62900,
+        "endTime": 66317,
+        "slowStartTime": 94500,
+        "slowEndTime": 99700
+    },
+    {
+        "text": "...and also set a clear direction for everybody to move forward.",
+        "startTime": 66667,
+        "endTime": 70150,
+        "slowStartTime": 100150,
+        "slowEndTime": 105450
+    },
+    {
+        "text": "Third, motivate action.",
+        "startTime": 71433,
+        "endTime": 73217,
+        "slowStartTime": 107300,
+        "slowEndTime": 110050
+    },
+    {
+        "text": "Here, emotion is key.",
+        "startTime": 74200,
+        "endTime": 75650,
+        "slowStartTime": 111450,
+        "slowEndTime": 113700
+    },
+    {
+        "text": "A good leader should be using persuasive skills,...",
+        "startTime": 76300,
+        "endTime": 79865,
+        "slowStartTime": 114600,
+        "slowEndTime": 120022
+    },
+    {
+        "text": "...inspiring, praising, recognizing the work of others,...",
+        "startTime": 80053,
+        "endTime": 84317,
+        "slowStartTime": 120229,
+        "slowEndTime": 126700
+    },
+    {
+        "text": "...to encourage them and motivate them to successful action.",
+        "startTime": 84567,
+        "endTime": 87783,
+        "slowStartTime": 127000,
+        "slowEndTime": 131900
+    },
+    {
+        "text": "Finally, align people.",
+        "startTime": 88967,
+        "endTime": 90517,
+        "slowStartTime": 133600,
+        "slowEndTime": 136000
+    },
+    {
+        "text": "A good leader needs to make sure everybody is working in the same direction.",
+        "startTime": 91133,
+        "endTime": 95250,
+        "slowStartTime": 136850,
+        "slowEndTime": 143100
+    },
+    {
+        "text": "Everybody is aiming at the same goals.",
+        "startTime": 95867,
+        "endTime": 97917,
+        "slowStartTime": 143950,
+        "slowEndTime": 147100
+    },
+    {
+        "text": "This is key to success of achieving the vision.",
+        "startTime": 98300,
+        "endTime": 100617,
+        "slowStartTime": 147600,
+        "slowEndTime": 151150
+    },
+    {
+        "text": "Now remember, anybody can be a leader.",
+        "startTime": 102067,
+        "endTime": 105050,
+        "slowStartTime": 153250,
+        "slowEndTime": 157800
+    },
+    {
+        "text": "It doesn't have to be a manager to be a leader.",
+        "startTime": 105700,
+        "endTime": 107683,
+        "slowStartTime": 158700,
+        "slowEndTime": 161750
+    },
+    {
+        "text": "So, use these four principles to become a leader yourself.",
+        "startTime": 108333,
+        "endTime": 111850,
+        "slowStartTime": 162650,
+        "slowEndTime": 168000
+    },
+    {
+        "text": "Thank you and good luck!",
+        "startTime": 112933,
+        "endTime": 114150,
+        "slowStartTime": 169550,
+        "slowEndTime": 171450
+    }
+]

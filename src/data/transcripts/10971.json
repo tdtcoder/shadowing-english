@@ -1,0 +1,163 @@
+[
+    {
+        "text": "I'm from New York.",
+        "startTime": 200,
+        "endTime": 950,
+        "slowStartTime": 550,
+        "slowEndTime": 1650
+    },
+    {
+        "text": "And one of the things that I miss about New York...",
+        "startTime": 1250,
+        "endTime": 2700,
+        "slowStartTime": 2050,
+        "slowEndTime": 4300
+    },
+    {
+        "text": "...was that when you're waiting for a long light...",
+        "startTime": 2750,
+        "endTime": 5200,
+        "slowStartTime": 4300,
+        "slowEndTime": 8050
+    },
+    {
+        "text": "...at the intersection to cross.",
+        "startTime": 8150,
+        "endTime": 9425,
+        "slowStartTime": 12450,
+        "slowEndTime": 14350
+    },
+    {
+        "text": "Almost every time, if you get there and you're just not able to cross the street...",
+        "startTime": 9550,
+        "endTime": 13700,
+        "slowStartTime": 14550,
+        "slowEndTime": 20820
+    },
+    {
+        "text": "...and you decide to wait for the light to turn green,...",
+        "startTime": 13750,
+        "endTime": 16100,
+        "slowStartTime": 20820,
+        "slowEndTime": 24400
+    },
+    {
+        "text": "...someone will start talking to you...",
+        "startTime": 16400,
+        "endTime": 17700,
+        "slowStartTime": 24850,
+        "slowEndTime": 26800
+    },
+    {
+        "text": "...or you will start talking to somebody.",
+        "startTime": 17800,
+        "endTime": 19650,
+        "slowStartTime": 26900,
+        "slowEndTime": 29700
+    },
+    {
+        "text": "It's like this sort of demilitarized zone.",
+        "startTime": 19700,
+        "endTime": 22600,
+        "slowStartTime": 29725,
+        "slowEndTime": 34150
+    },
+    {
+        "text": "At each intersection and then the light turns red,...",
+        "startTime": 23000,
+        "endTime": 25600,
+        "slowStartTime": 34700,
+        "slowEndTime": 38650
+    },
+    {
+        "text": "...you just get to talk to people who are around you.",
+        "startTime": 25650,
+        "endTime": 27550,
+        "slowStartTime": 38650,
+        "slowEndTime": 41560
+    },
+    {
+        "text": "That is cool.",
+        "startTime": 27600,
+        "endTime": 28000,
+        "slowStartTime": 41600,
+        "slowEndTime": 42290
+    },
+    {
+        "text": "And it's wonderful because the light is gonna turn green,...",
+        "startTime": 28050,
+        "endTime": 31350,
+        "slowStartTime": 42300,
+        "slowEndTime": 47300
+    },
+    {
+        "text": "...and then that's a very comfortable, natural way to just sort of...",
+        "startTime": 31500,
+        "endTime": 34650,
+        "slowStartTime": 47400,
+        "slowEndTime": 52200
+    },
+    {
+        "text": "...move back into the stream of your day,...",
+        "startTime": 35100,
+        "endTime": 37250,
+        "slowStartTime": 52850,
+        "slowEndTime": 56125
+    },
+    {
+        "text": "...and just sort of separate from someone.",
+        "startTime": 37300,
+        "endTime": 38550,
+        "slowStartTime": 56125,
+        "slowEndTime": 58100
+    },
+    {
+        "text": "Yeah, with little interaction.",
+        "startTime": 39550,
+        "endTime": 40550,
+        "slowStartTime": 59450,
+        "slowEndTime": 61100
+    },
+    {
+        "text": "You can have a little interaction, you go off...",
+        "startTime": 40600,
+        "endTime": 42200,
+        "slowStartTime": 61100,
+        "slowEndTime": 63530
+    },
+    {
+        "text": "...and you have a sense of what that person's soul is,...",
+        "startTime": 42250,
+        "endTime": 44950,
+        "slowStartTime": 63550,
+        "slowEndTime": 67620
+    },
+    {
+        "text": "...you know, sort of and what they're like.",
+        "startTime": 45000,
+        "endTime": 46750,
+        "slowStartTime": 67650,
+        "slowEndTime": 70400
+    },
+    {
+        "text": "If your car stopped at the light, they'll come up and wash your window.",
+        "startTime": 48000,
+        "endTime": 50700,
+        "slowStartTime": 72100,
+        "slowEndTime": 76300
+    },
+    {
+        "text": "If you park your car, they'll sometimes break the window.",
+        "startTime": 52450,
+        "endTime": 54900,
+        "slowStartTime": 78800,
+        "slowEndTime": 82625
+    },
+    {
+        "text": "They'll pull you out, steal your car. Carjacking.",
+        "startTime": 55900,
+        "endTime": 58700,
+        "slowStartTime": 84000,
+        "slowEndTime": 88300
+    }
+]

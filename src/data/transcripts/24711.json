@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Meet the Simpson Family.",
+        "startTime": 975,
+        "endTime": 2648,
+        "slowStartTime": 1613,
+        "slowEndTime": 4197
+    },
+    {
+        "text": "Homer is the father.",
+        "startTime": 9344,
+        "endTime": 11013,
+        "slowStartTime": 14166,
+        "slowEndTime": 16745
+    },
+    {
+        "text": "Marge and Homer are husband and wife.",
+        "startTime": 18075,
+        "endTime": 21237,
+        "slowStartTime": 27263,
+        "slowEndTime": 32081
+    },
+    {
+        "text": "They have three children.",
+        "startTime": 27989,
+        "endTime": 29963,
+        "slowStartTime": 42133,
+        "slowEndTime": 45170
+    },
+    {
+        "text": "Bart is their son.",
+        "startTime": 36421,
+        "endTime": 38164,
+        "slowStartTime": 54782,
+        "slowEndTime": 57471
+    },
+    {
+        "text": "Lisa is their daughter.",
+        "startTime": 44018,
+        "endTime": 45896,
+        "slowStartTime": 66177,
+        "slowEndTime": 69069
+    },
+    {
+        "text": "Maggie is their baby.",
+        "startTime": 51928,
+        "endTime": 53819,
+        "slowStartTime": 78042,
+        "slowEndTime": 80954
+    },
+    {
+        "text": "Lisa hates her brother.",
+        "startTime": 61297,
+        "endTime": 63396,
+        "slowStartTime": 92096,
+        "slowEndTime": 95319
+    },
+    {
+        "text": "Lisa's brother makes her angry.",
+        "startTime": 68539,
+        "endTime": 71872,
+        "slowStartTime": 102958,
+        "slowEndTime": 108033
+    },
+    {
+        "text": "Bart's grandfather comes and leaves.",
+        "startTime": 77533,
+        "endTime": 80423,
+        "slowStartTime": 116450,
+        "slowEndTime": 120859
+    },
+    {
+        "text": "The family is having fun.",
+        "startTime": 85337,
+        "endTime": 87387,
+        "slowStartTime": 128155,
+        "slowEndTime": 131305
+    }
+]

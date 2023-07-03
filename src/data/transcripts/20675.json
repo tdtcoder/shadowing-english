@@ -1,0 +1,79 @@
+[
+    {
+        "text": "It was an accident.",
+        "startTime": 4999,
+        "endTime": 5767,
+        "slowStartTime": 7648,
+        "slowEndTime": 8876
+    },
+    {
+        "text": "Frankly, I'm amazed that anyone manages to keep their trunks on.",
+        "startTime": 7549,
+        "endTime": 10212,
+        "slowStartTime": 11474,
+        "slowEndTime": 15543
+    },
+    {
+        "text": "I did.",
+        "startTime": 10594,
+        "endTime": 11069,
+        "slowStartTime": 16041,
+        "slowEndTime": 16828
+    },
+    {
+        "text": "That poor family.",
+        "startTime": 11867,
+        "endTime": 13112,
+        "slowStartTime": 17951,
+        "slowEndTime": 19893
+    },
+    {
+        "text": "He's jiggling.",
+        "startTime": 13843,
+        "endTime": 14433,
+        "slowStartTime": 20915,
+        "slowEndTime": 21875
+    },
+    {
+        "text": "I wasn't jiggling.",
+        "startTime": 14607,
+        "endTime": 15325,
+        "slowStartTime": 22060,
+        "slowEndTime": 23213
+    },
+    {
+        "text": "Lucky for you that nice man from Thomas Cook was here.",
+        "startTime": 15641,
+        "endTime": 18159,
+        "slowStartTime": 23611,
+        "slowEndTime": 27464
+    },
+    {
+        "text": "Come on son, let's get wet.",
+        "startTime": 20434,
+        "endTime": 21771,
+        "slowStartTime": 30801,
+        "slowEndTime": 32881
+    },
+    {
+        "text": "For fabulous water parks and resorts around the world.",
+        "startTime": 23081,
+        "endTime": 25408,
+        "slowStartTime": 34772,
+        "slowEndTime": 38337
+    },
+    {
+        "text": "Don't just book it, Thomas Cook it.",
+        "startTime": 26032,
+        "endTime": 27847,
+        "slowStartTime": 39198,
+        "slowEndTime": 41996
+    },
+    {
+        "text": "Auto protected.",
+        "startTime": 28285,
+        "endTime": 29026,
+        "slowStartTime": 42578,
+        "slowEndTime": 43764
+    }
+]

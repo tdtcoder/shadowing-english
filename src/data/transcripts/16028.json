@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Here are four frequently asked questions that many interviewees find hard to answer.",
+        "startTime": 1443,
+        "endTime": 6519,
+        "slowStartTime": 2315,
+        "slowEndTime": 10004
+    },
+    {
+        "text": "Number One. \"Tell me about yourself.\"",
+        "startTime": 7429,
+        "endTime": 9776,
+        "slowStartTime": 11294,
+        "slowEndTime": 14889
+    },
+    {
+        "text": "Here, you need to talk about what you have to offer, your experiences, skills and strengths.",
+        "startTime": 10275,
+        "endTime": 15785,
+        "slowStartTime": 15562,
+        "slowEndTime": 23903
+    },
+    {
+        "text": "Concentrate on what they want in an applicant.",
+        "startTime": 16222,
+        "endTime": 18576,
+        "slowStartTime": 24483,
+        "slowEndTime": 28089
+    },
+    {
+        "text": "Number Two. \"Why are you leaving your job?\"",
+        "startTime": 19306,
+        "endTime": 21972,
+        "slowStartTime": 29109,
+        "slowEndTime": 33183
+    },
+    {
+        "text": "The interviewer is testing whether there were any problems and if you might become a problem.",
+        "startTime": 22706,
+        "endTime": 27257,
+        "slowStartTime": 34209,
+        "slowEndTime": 41111
+    },
+    {
+        "text": "Change the focus and reword the answer to emphasize the positive.",
+        "startTime": 27722,
+        "endTime": 31361,
+        "slowStartTime": 41733,
+        "slowEndTime": 47266
+    },
+    {
+        "text": "Number Three. \"Why do you want to work here?\"",
+        "startTime": 32067,
+        "endTime": 34895,
+        "slowStartTime": 48250,
+        "slowEndTime": 52568
+    },
+    {
+        "text": "Talk about your research about the company, their policies and mission statement.",
+        "startTime": 35491,
+        "endTime": 39723,
+        "slowStartTime": 53387,
+        "slowEndTime": 59810
+    },
+    {
+        "text": "Or else, say that you've attended the interview to find out if...",
+        "startTime": 40250,
+        "endTime": 43588,
+        "slowStartTime": 60525,
+        "slowEndTime": 65607
+    },
+    {
+        "text": "...this would be the right place for you.",
+        "startTime": 43689,
+        "endTime": 45299,
+        "slowStartTime": 65684,
+        "slowEndTime": 68173
+    },
+    {
+        "text": "Number Four. \"What is your weakness?\"",
+        "startTime": 46024,
+        "endTime": 48452,
+        "slowStartTime": 69186,
+        "slowEndTime": 72903
+    },
+    {
+        "text": "Always a difficult one, because you might give the interviewer a lot of information with your shortcomings.",
+        "startTime": 49045,
+        "endTime": 54489,
+        "slowStartTime": 73717,
+        "slowEndTime": 81958
+    },
+    {
+        "text": "Mention a negative aspect, but tell how this could also be seen positively,...",
+        "startTime": 55032,
+        "endTime": 59125,
+        "slowStartTime": 82698,
+        "slowEndTime": 88913
+    },
+    {
+        "text": "...or mention what you are doing to overcome the weakness.",
+        "startTime": 59480,
+        "endTime": 62453,
+        "slowStartTime": 89370,
+        "slowEndTime": 93904
+    }
+]

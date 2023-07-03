@@ -1,0 +1,170 @@
+[
+    {
+        "text": "Bad dog.",
+        "startTime": 1720,
+        "endTime": 2292,
+        "slowStartTime": 2730,
+        "slowEndTime": 3663
+    },
+    {
+        "text": "Bad home.",
+        "startTime": 3557,
+        "endTime": 4119,
+        "slowStartTime": 5485,
+        "slowEndTime": 6403
+    },
+    {
+        "text": "Bad owner.",
+        "startTime": 5345,
+        "endTime": 5996,
+        "slowStartTime": 8167,
+        "slowEndTime": 9219
+    },
+    {
+        "text": "Shut up!",
+        "startTime": 6082,
+        "endTime": 7032,
+        "slowStartTime": 9273,
+        "slowEndTime": 10773
+    },
+    {
+        "text": "Bad treatment.",
+        "startTime": 11195,
+        "endTime": 11939,
+        "slowStartTime": 16942,
+        "slowEndTime": 18133
+    },
+    {
+        "text": "I need to look at her.",
+        "startTime": 12835,
+        "endTime": 13451,
+        "slowStartTime": 19402,
+        "slowEndTime": 20401
+    },
+    {
+        "text": "What do you need to examine her for you're not a doctor.",
+        "startTime": 13978,
+        "endTime": 16097,
+        "slowStartTime": 21117,
+        "slowEndTime": 24370
+    },
+    {
+        "text": "That's careless.",
+        "startTime": 16773,
+        "endTime": 18024,
+        "slowStartTime": 25310,
+        "slowEndTime": 27261
+    },
+    {
+        "text": "Bad health.",
+        "startTime": 19491,
+        "endTime": 20040,
+        "slowStartTime": 29386,
+        "slowEndTime": 30285
+    },
+    {
+        "text": "Bad bed.",
+        "startTime": 22307,
+        "endTime": 22987,
+        "slowStartTime": 33610,
+        "slowEndTime": 34706
+    },
+    {
+        "text": "Bad food.",
+        "startTime": 23978,
+        "endTime": 24659,
+        "slowStartTime": 36117,
+        "slowEndTime": 37213
+    },
+    {
+        "text": "Let me have a look at this leg.",
+        "startTime": 27850,
+        "endTime": 29503,
+        "slowStartTime": 41925,
+        "slowEndTime": 44479
+    },
+    {
+        "text": "Good food.",
+        "startTime": 32195,
+        "endTime": 32752,
+        "slowStartTime": 48442,
+        "slowEndTime": 49353
+    },
+    {
+        "text": "Good bed.",
+        "startTime": 34207,
+        "endTime": 34794,
+        "slowStartTime": 51461,
+        "slowEndTime": 52416
+    },
+    {
+        "text": "Mojo, come on.",
+        "startTime": 35369,
+        "endTime": 36221,
+        "slowStartTime": 53203,
+        "slowEndTime": 54557
+    },
+    {
+        "text": "Stay.",
+        "startTime": 37616,
+        "endTime": 38112,
+        "slowStartTime": 56574,
+        "slowEndTime": 57393
+    },
+    {
+        "text": "Good health.",
+        "startTime": 38179,
+        "endTime": 38805,
+        "slowStartTime": 57419,
+        "slowEndTime": 58433
+    },
+    {
+        "text": "Come on, Mojo.",
+        "startTime": 39332,
+        "endTime": 39974,
+        "slowStartTime": 59148,
+        "slowEndTime": 60186
+    },
+    {
+        "text": "Good treatment.",
+        "startTime": 42336,
+        "endTime": 43081,
+        "slowStartTime": 63654,
+        "slowEndTime": 64846
+    },
+    {
+        "text": "Good owner.",
+        "startTime": 46591,
+        "endTime": 47310,
+        "slowStartTime": 70037,
+        "slowEndTime": 71190
+    },
+    {
+        "text": "Good home.",
+        "startTime": 48527,
+        "endTime": 49333,
+        "slowStartTime": 72941,
+        "slowEndTime": 74225
+    },
+    {
+        "text": "Good dog.",
+        "startTime": 50527,
+        "endTime": 51282,
+        "slowStartTime": 75940,
+        "slowEndTime": 77148
+    },
+    {
+        "text": "For rescued dogs, the right nutrition is the first step to a brighter future.",
+        "startTime": 52539,
+        "endTime": 56145,
+        "slowStartTime": 78958,
+        "slowEndTime": 84443
+    },
+    {
+        "text": "So we're donating one million meals this year.",
+        "startTime": 56469,
+        "endTime": 58923,
+        "slowStartTime": 84854,
+        "slowEndTime": 88609
+    }
+]

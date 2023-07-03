@@ -1,0 +1,86 @@
+[
+    {
+        "text": "The iPhone is the result of years of innovation.",
+        "startTime": 1008,
+        "endTime": 3807,
+        "slowStartTime": 1662,
+        "slowEndTime": 5935
+    },
+    {
+        "text": "But true innovation means considering what happens to a product...",
+        "startTime": 4457,
+        "endTime": 7435,
+        "slowStartTime": 6836,
+        "slowEndTime": 11378
+    },
+    {
+        "text": "...at every stage of its life cycle.",
+        "startTime": 8109,
+        "endTime": 9631,
+        "slowStartTime": 12314,
+        "slowEndTime": 14672
+    },
+    {
+        "text": "Meet Liam.",
+        "startTime": 12041,
+        "endTime": 13405,
+        "slowStartTime": 18211,
+        "slowEndTime": 20332
+    },
+    {
+        "text": "When it's time, Liam deconstructs your iPhone.",
+        "startTime": 15094,
+        "endTime": 18066,
+        "slowStartTime": 22791,
+        "slowEndTime": 27324
+    },
+    {
+        "text": "Parts are detected and removed and separated...",
+        "startTime": 19891,
+        "endTime": 25148,
+        "slowStartTime": 29987,
+        "slowEndTime": 37947
+    },
+    {
+        "text": "...so the materials inside those parts can be repurposed.",
+        "startTime": 27708,
+        "endTime": 32150,
+        "slowStartTime": 41712,
+        "slowEndTime": 48450
+    },
+    {
+        "text": "To rescue cobalt and lithium from the battery,...",
+        "startTime": 34119,
+        "endTime": 36488,
+        "slowStartTime": 51328,
+        "slowEndTime": 54957
+    },
+    {
+        "text": "...separate the gold and copper in the camera,...",
+        "startTime": 37624,
+        "endTime": 39910,
+        "slowStartTime": 56586,
+        "slowEndTime": 60090
+    },
+    {
+        "text": "...extract silver and platinum from the main logic board,...",
+        "startTime": 40893,
+        "endTime": 43763,
+        "slowStartTime": 61490,
+        "slowEndTime": 65870
+    },
+    {
+        "text": "...so the materials in your iPhone can live on.",
+        "startTime": 45486,
+        "endTime": 48625,
+        "slowStartTime": 68379,
+        "slowEndTime": 73162
+    },
+    {
+        "text": "Because in a world with limited resources, some things can't be replaced.",
+        "startTime": 50971,
+        "endTime": 56525,
+        "slowStartTime": 76607,
+        "slowEndTime": 85012
+    }
+]

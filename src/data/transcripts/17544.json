@@ -1,0 +1,100 @@
+[
+    {
+        "text": "I can be like many things.",
+        "startTime": 2689,
+        "endTime": 5048,
+        "slowStartTime": 4183,
+        "slowEndTime": 7797
+    },
+    {
+        "text": "I can be as loud as a lion.",
+        "startTime": 6103,
+        "endTime": 8847,
+        "slowStartTime": 9304,
+        "slowEndTime": 13496
+    },
+    {
+        "text": "I can be as silent as a snake.",
+        "startTime": 9875,
+        "endTime": 12771,
+        "slowStartTime": 14962,
+        "slowEndTime": 19382
+    },
+    {
+        "text": "I can be as proud as a peacock.",
+        "startTime": 13838,
+        "endTime": 16941,
+        "slowStartTime": 20907,
+        "slowEndTime": 25636
+    },
+    {
+        "text": "I can be as meek as a mouse.",
+        "startTime": 17982,
+        "endTime": 20685,
+        "slowStartTime": 27123,
+        "slowEndTime": 31253
+    },
+    {
+        "text": "I can be as fast as a cheetah.",
+        "startTime": 21731,
+        "endTime": 24434,
+        "slowStartTime": 32746,
+        "slowEndTime": 36876
+    },
+    {
+        "text": "I can be as slow as a slug.",
+        "startTime": 25461,
+        "endTime": 28950,
+        "slowStartTime": 38342,
+        "slowEndTime": 43650
+    },
+    {
+        "text": "I can also be just me!",
+        "startTime": 30019,
+        "endTime": 32398,
+        "slowStartTime": 45178,
+        "slowEndTime": 48822
+    },
+    {
+        "text": "Who is that pretty girl?",
+        "startTime": 35903,
+        "endTime": 37767,
+        "slowStartTime": 54005,
+        "slowEndTime": 56876
+    },
+    {
+        "text": "She is Amy's sister. She is as pretty as Amy.",
+        "startTime": 38905,
+        "endTime": 43273,
+        "slowStartTime": 58507,
+        "slowEndTime": 65135
+    },
+    {
+        "text": "Jeff is very tall.",
+        "startTime": 44425,
+        "endTime": 46275,
+        "slowStartTime": 66788,
+        "slowEndTime": 69638
+    },
+    {
+        "text": "Right. He is as tall as his father.",
+        "startTime": 47495,
+        "endTime": 50374,
+        "slowStartTime": 71393,
+        "slowEndTime": 75786
+    },
+    {
+        "text": "Look at the boys. They run very fast.",
+        "startTime": 51443,
+        "endTime": 55247,
+        "slowStartTime": 77314,
+        "slowEndTime": 83095
+    },
+    {
+        "text": "Wow. They run as fast as a cheetah.",
+        "startTime": 56305,
+        "endTime": 59522,
+        "slowStartTime": 84607,
+        "slowEndTime": 89508
+    }
+]

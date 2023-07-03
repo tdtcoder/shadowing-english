@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Life forms can exist on Earth in extreme conditions like ice cores, caves,...",
+        "startTime": 3082,
+        "endTime": 6647,
+        "slowStartTime": 4773,
+        "slowEndTime": 10195
+    },
+    {
+        "text": "...and in the deepest parts of the ocean.",
+        "startTime": 6713,
+        "endTime": 8252,
+        "slowStartTime": 10220,
+        "slowEndTime": 12603
+    },
+    {
+        "text": "Scientific researchers from the British Antarctic Survey have found what they believe...",
+        "startTime": 8978,
+        "endTime": 12567,
+        "slowStartTime": 13617,
+        "slowEndTime": 19076
+    },
+    {
+        "text": "...to be the lowest temperature under which life can still survive and grow.",
+        "startTime": 12674,
+        "endTime": 15781,
+        "slowStartTime": 19161,
+        "slowEndTime": 23897
+    },
+    {
+        "text": "To test this, the researchers put single cell organisms in a watery environment...",
+        "startTime": 16559,
+        "endTime": 20244,
+        "slowStartTime": 24989,
+        "slowEndTime": 30591
+    },
+    {
+        "text": "...and lowered the temperature to see when the organisms became vitrified,...",
+        "startTime": 20464,
+        "endTime": 23461,
+        "slowStartTime": 30846,
+        "slowEndTime": 35416
+    },
+    {
+        "text": "...or unable to reproduce, which the scientists considered to be no longer living.",
+        "startTime": 23612,
+        "endTime": 27309,
+        "slowStartTime": 35568,
+        "slowEndTime": 41189
+    },
+    {
+        "text": "The researchers determined that negative 20 degrees Celsius...",
+        "startTime": 27865,
+        "endTime": 30735,
+        "slowStartTime": 41947,
+        "slowEndTime": 46328
+    },
+    {
+        "text": "...is the lowest temperature the organisms could reproduce before becoming vitrified.",
+        "startTime": 30836,
+        "endTime": 34579,
+        "slowStartTime": 46404,
+        "slowEndTime": 52093
+    },
+    {
+        "text": "Lead author of the study, Professor Andrew Clarke said:...",
+        "startTime": 35132,
+        "endTime": 37263,
+        "slowStartTime": 52848,
+        "slowEndTime": 56119
+    },
+    {
+        "text": "...\"The interesting thing about vitrification is that in general a cell will survive,...",
+        "startTime": 37607,
+        "endTime": 41239,
+        "slowStartTime": 56561,
+        "slowEndTime": 62084
+    },
+    {
+        "text": "...where it wouldn't survive freezing.\"",
+        "startTime": 41368,
+        "endTime": 42571,
+        "slowStartTime": 62202,
+        "slowEndTime": 64081
+    },
+    {
+        "text": "But if you can do a controlled vitrification you can survive.",
+        "startTime": 42927,
+        "endTime": 45618,
+        "slowStartTime": 64541,
+        "slowEndTime": 68652
+    },
+    {
+        "text": "Once a cell is vitrified it can continue to survive right down to incredibly low temperatures.",
+        "startTime": 45941,
+        "endTime": 50484,
+        "slowStartTime": 69061,
+        "slowEndTime": 75951
+    },
+    {
+        "text": "The results of the study help explain why deep freezing food preserves it...",
+        "startTime": 51268,
+        "endTime": 54388,
+        "slowStartTime": 77052,
+        "slowEndTime": 81807
+    },
+    {
+        "text": "...and stops it from rotting, because bacteria and mold cannot multiply in such cold temperatures.",
+        "startTime": 54506,
+        "endTime": 58850,
+        "slowStartTime": 81909,
+        "slowEndTime": 88500
+    }
+]

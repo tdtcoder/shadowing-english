@@ -1,0 +1,51 @@
+[
+    {
+        "text": "These people are not here because of a crime they have committed.",
+        "startTime": 6100,
+        "endTime": 9300,
+        "slowStartTime": 9350,
+        "slowEndTime": 14200
+    },
+    {
+        "text": "They are not here for their political opinions.",
+        "startTime": 10500,
+        "endTime": 12700,
+        "slowStartTime": 15950,
+        "slowEndTime": 19250
+    },
+    {
+        "text": "Neither for their religion...",
+        "startTime": 13800,
+        "endTime": 14900,
+        "slowStartTime": 20900,
+        "slowEndTime": 22550
+    },
+    {
+        "text": "...nor for the color of their skin.",
+        "startTime": 15850,
+        "endTime": 17550,
+        "slowStartTime": 23950,
+        "slowEndTime": 26600
+    },
+    {
+        "text": "They are just here to pick the tomatoes we buy every day at the supermarket.",
+        "startTime": 18300,
+        "endTime": 22600,
+        "slowStartTime": 27650,
+        "slowEndTime": 34100
+    },
+    {
+        "text": "What's behind the things we buy?",
+        "startTime": 23500,
+        "endTime": 25250,
+        "slowStartTime": 35500,
+        "slowEndTime": 38100
+    },
+    {
+        "text": "Find out on buyresponsibly.org.",
+        "startTime": 25950,
+        "endTime": 28750,
+        "slowStartTime": 39150,
+        "slowEndTime": 43400
+    }
+]

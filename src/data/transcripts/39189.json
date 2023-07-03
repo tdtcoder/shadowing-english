@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Dad, how do you get a job?",
+        "startTime": 301,
+        "endTime": 1774,
+        "slowStartTime": 601,
+        "slowEndTime": 2886
+    },
+    {
+        "text": "Well, first, you search for one, that's terrible.",
+        "startTime": 1914,
+        "endTime": 4365,
+        "slowStartTime": 3021,
+        "slowEndTime": 6772
+    },
+    {
+        "text": "Send off your resume and wait.",
+        "startTime": 4943,
+        "endTime": 6446,
+        "slowStartTime": 7565,
+        "slowEndTime": 9894
+    },
+    {
+        "text": "Then if you're lucky, you work a job you hate until you die.",
+        "startTime": 6699,
+        "endTime": 9573,
+        "slowStartTime": 10198,
+        "slowEndTime": 14585
+    },
+    {
+        "text": "Night, buddy.",
+        "startTime": 11171,
+        "endTime": 11729,
+        "slowStartTime": 16907,
+        "slowEndTime": 17818
+    },
+    {
+        "text": "Daddy, what's it like to work?",
+        "startTime": 13059,
+        "endTime": 15157,
+        "slowStartTime": 19738,
+        "slowEndTime": 22961
+    },
+    {
+        "text": "Well, first you get a job and it's exciting.",
+        "startTime": 15464,
+        "endTime": 18101,
+        "slowStartTime": 23346,
+        "slowEndTime": 27377
+    },
+    {
+        "text": "Then that wears off, so eventually, you quit.",
+        "startTime": 18641,
+        "endTime": 20754,
+        "slowStartTime": 28112,
+        "slowEndTime": 31356
+    },
+    {
+        "text": "Then you think, \"I'll just search for a new job...\"",
+        "startTime": 21308,
+        "endTime": 23301,
+        "slowStartTime": 32112,
+        "slowEndTime": 35177
+    },
+    {
+        "text": "...that's terrible.",
+        "startTime": 23595,
+        "endTime": 24397,
+        "slowStartTime": 35543,
+        "slowEndTime": 36821
+    },
+    {
+        "text": "So, a part of you withers away until you don't even feel like a person anymore.",
+        "startTime": 24731,
+        "endTime": 29077,
+        "slowStartTime": 37246,
+        "slowEndTime": 43840
+    },
+    {
+        "text": "And you do it again and again and again until you die.",
+        "startTime": 29561,
+        "endTime": 34795,
+        "slowStartTime": 44492,
+        "slowEndTime": 52418
+    },
+    {
+        "text": "Night, buddy.",
+        "startTime": 36663,
+        "endTime": 37181,
+        "slowStartTime": 55145,
+        "slowEndTime": 55997
+    }
+]

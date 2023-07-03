@@ -1,0 +1,135 @@
+[
+    {
+        "text": "This is my house.",
+        "startTime": 419,
+        "endTime": 2084,
+        "slowStartTime": 778,
+        "slowEndTime": 3351
+    },
+    {
+        "text": "House.",
+        "startTime": 3433,
+        "endTime": 4126,
+        "slowStartTime": 5299,
+        "slowEndTime": 6414
+    },
+    {
+        "text": "House.",
+        "startTime": 5727,
+        "endTime": 6375,
+        "slowStartTime": 8741,
+        "slowEndTime": 9787
+    },
+    {
+        "text": "There are roofs, windows, and a door.",
+        "startTime": 7182,
+        "endTime": 11033,
+        "slowStartTime": 10923,
+        "slowEndTime": 16774
+    },
+    {
+        "text": "The roof is red.",
+        "startTime": 12395,
+        "endTime": 14362,
+        "slowStartTime": 18743,
+        "slowEndTime": 21768
+    },
+    {
+        "text": "Roof.",
+        "startTime": 16124,
+        "endTime": 16779,
+        "slowStartTime": 24336,
+        "slowEndTime": 25393
+    },
+    {
+        "text": "Roof.",
+        "startTime": 17767,
+        "endTime": 18443,
+        "slowStartTime": 26801,
+        "slowEndTime": 27890
+    },
+    {
+        "text": "There are many windows in my house.",
+        "startTime": 20265,
+        "endTime": 23376,
+        "slowStartTime": 30548,
+        "slowEndTime": 35289
+    },
+    {
+        "text": "Window.",
+        "startTime": 25693,
+        "endTime": 26568,
+        "slowStartTime": 38689,
+        "slowEndTime": 40077
+    },
+    {
+        "text": "Window.",
+        "startTime": 28428,
+        "endTime": 29367,
+        "slowStartTime": 42792,
+        "slowEndTime": 44276
+    },
+    {
+        "text": "The door is large.",
+        "startTime": 30668,
+        "endTime": 32459,
+        "slowStartTime": 46152,
+        "slowEndTime": 48914
+    },
+    {
+        "text": "Door.",
+        "startTime": 34309,
+        "endTime": 34979,
+        "slowStartTime": 51614,
+        "slowEndTime": 52694
+    },
+    {
+        "text": "Door.",
+        "startTime": 35877,
+        "endTime": 36559,
+        "slowStartTime": 53965,
+        "slowEndTime": 55064
+    },
+    {
+        "text": "Look, there is a beautiful garden.",
+        "startTime": 38227,
+        "endTime": 41667,
+        "slowStartTime": 57491,
+        "slowEndTime": 62726
+    },
+    {
+        "text": "Garden.",
+        "startTime": 43333,
+        "endTime": 44198,
+        "slowStartTime": 65150,
+        "slowEndTime": 66522
+    },
+    {
+        "text": "Garden.",
+        "startTime": 45954,
+        "endTime": 46804,
+        "slowStartTime": 69081,
+        "slowEndTime": 70431
+    },
+    {
+        "text": "The car is parked in the garage.",
+        "startTime": 48143,
+        "endTime": 50869,
+        "slowStartTime": 72365,
+        "slowEndTime": 76528
+    },
+    {
+        "text": "Garage.",
+        "startTime": 52242,
+        "endTime": 53207,
+        "slowStartTime": 78513,
+        "slowEndTime": 80035
+    },
+    {
+        "text": "Garage.",
+        "startTime": 54967,
+        "endTime": 55900,
+        "slowStartTime": 82600,
+        "slowEndTime": 84075
+    }
+]

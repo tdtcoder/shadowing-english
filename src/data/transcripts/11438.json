@@ -1,0 +1,240 @@
+[
+    {
+        "text": "One day, Bassanio came to visit Antonio.",
+        "startTime": 2330,
+        "endTime": 5000,
+        "slowStartTime": 3540,
+        "slowEndTime": 7480
+    },
+    {
+        "text": "He already owed Antonio a lot of money, but now he wanted to borrow some more.",
+        "startTime": 5730,
+        "endTime": 11270,
+        "slowStartTime": 8690,
+        "slowEndTime": 16990
+    },
+    {
+        "text": "Of course, Antonio wanted to know why Bassanio needed the money.",
+        "startTime": 12010,
+        "endTime": 16210,
+        "slowStartTime": 18120,
+        "slowEndTime": 24240
+    },
+    {
+        "text": "Bassanio told him about a rich young lady in Belmont.",
+        "startTime": 17010,
+        "endTime": 20450,
+        "slowStartTime": 25610,
+        "slowEndTime": 30580
+    },
+    {
+        "text": "Her name was Portia.",
+        "startTime": 20980,
+        "endTime": 22180,
+        "slowStartTime": 31550,
+        "slowEndTime": 33210
+    },
+    {
+        "text": "He told Antonio that if he had enough money, he would soon make her his wife.",
+        "startTime": 22600,
+        "endTime": 26820,
+        "slowStartTime": 34040,
+        "slowEndTime": 40240
+    },
+    {
+        "text": "Antonio laughed. \"You are my friend, Bassanio,\" he comforted, \"and I will help you.\"",
+        "startTime": 27530,
+        "endTime": 33460,
+        "slowStartTime": 41420,
+        "slowEndTime": 50000
+    },
+    {
+        "text": "\"You know that all my ships are at sea just now,...",
+        "startTime": 34030,
+        "endTime": 36630,
+        "slowStartTime": 51070,
+        "slowEndTime": 55050
+    },
+    {
+        "text": "...so I do not have much money to give you.\"",
+        "startTime": 36800,
+        "endTime": 38930,
+        "slowStartTime": 55260,
+        "slowEndTime": 58350
+    },
+    {
+        "text": "\"However, you can go into town and try to borrow the money.\"",
+        "startTime": 39500,
+        "endTime": 42500,
+        "slowStartTime": 59350,
+        "slowEndTime": 63730
+    },
+    {
+        "text": "\"Tell the moneylenders that Antonio will guarantee the money is paid back to them.\"",
+        "startTime": 43300,
+        "endTime": 47610,
+        "slowStartTime": 65040,
+        "slowEndTime": 71380
+    },
+    {
+        "text": "When Antonio told Bassanio to go to town and borrow money, Bassanio visited Shylock.",
+        "startTime": 49040,
+        "endTime": 55220,
+        "slowStartTime": 73720,
+        "slowEndTime": 82890
+    },
+    {
+        "text": "He asked Shylock to lend him 30 thousand dollars...",
+        "startTime": 56120,
+        "endTime": 58990,
+        "slowStartTime": 84300,
+        "slowEndTime": 88520
+    },
+    {
+        "text": "...and said he would pay it back in three months.",
+        "startTime": 59350,
+        "endTime": 61860,
+        "slowStartTime": 89110,
+        "slowEndTime": 92840
+    },
+    {
+        "text": "\"How do I know you can pay it back?\" asked Shylock.",
+        "startTime": 62760,
+        "endTime": 65930,
+        "slowStartTime": 94200,
+        "slowEndTime": 98820
+    },
+    {
+        "text": "Bassanio smiled. \"My friend Antonio will help me.\"",
+        "startTime": 66730,
+        "endTime": 70500,
+        "slowStartTime": 100160,
+        "slowEndTime": 105750
+    },
+    {
+        "text": "\"If I do not pay you in three months, he will do it for me.\"",
+        "startTime": 70870,
+        "endTime": 73840,
+        "slowStartTime": 106360,
+        "slowEndTime": 110610
+    },
+    {
+        "text": "Shylock went to visit Antonio.",
+        "startTime": 74300,
+        "endTime": 76300,
+        "slowStartTime": 111550,
+        "slowEndTime": 114470
+    },
+    {
+        "text": "\"Come with me to the judge,\" said Shylock, \"so he can write the contract.\"",
+        "startTime": 77140,
+        "endTime": 80910,
+        "slowStartTime": 115840,
+        "slowEndTime": 121310
+    },
+    {
+        "text": "\"I will lend you 30 thousand dollars for three months.\"",
+        "startTime": 81510,
+        "endTime": 84810,
+        "slowStartTime": 122400,
+        "slowEndTime": 127240
+    },
+    {
+        "text": "\"You will pay no interest.\"",
+        "startTime": 85680,
+        "endTime": 87080,
+        "slowStartTime": 128580,
+        "slowEndTime": 130600
+    },
+    {
+        "text": "\"Just for fun, however, let's agree that if you do not pay me on time,...",
+        "startTime": 87820,
+        "endTime": 92120,
+        "slowStartTime": 131900,
+        "slowEndTime": 138260
+    },
+    {
+        "text": "...you will give me one pound of your flesh from wherever I choose to take it!\"",
+        "startTime": 92550,
+        "endTime": 97030,
+        "slowStartTime": 138960,
+        "slowEndTime": 145515
+    },
+    {
+        "text": "The news for Antonio was not good.",
+        "startTime": 98260,
+        "endTime": 100430,
+        "slowStartTime": 147480,
+        "slowEndTime": 150730
+    },
+    {
+        "text": "The ship that sank in the sea between England and France was his.",
+        "startTime": 101030,
+        "endTime": 104700,
+        "slowStartTime": 151660,
+        "slowEndTime": 157130
+    },
+    {
+        "text": "Its valuable cargo lay at the bottom of the sea and Antonio had lost his money.",
+        "startTime": 105170,
+        "endTime": 110440,
+        "slowStartTime": 157840,
+        "slowEndTime": 165700
+    },
+    {
+        "text": "The news soon came to Venice and Shylock was happier than ever.",
+        "startTime": 111070,
+        "endTime": 114980,
+        "slowStartTime": 166690,
+        "slowEndTime": 172600
+    },
+    {
+        "text": "\"You will not take a pound of his flesh, will you?\" Antonio's friends asked Shylock.",
+        "startTime": 115710,
+        "endTime": 120320,
+        "slowStartTime": 173660,
+        "slowEndTime": 180455
+    },
+    {
+        "text": "\"What use is that? What can you do with it?\"",
+        "startTime": 120980,
+        "endTime": 123750,
+        "slowStartTime": 181575,
+        "slowEndTime": 185585
+    },
+    {
+        "text": "\"I can use it to go fishing,\" he replied.",
+        "startTime": 124590,
+        "endTime": 126890,
+        "slowStartTime": 186980,
+        "slowEndTime": 190260
+    },
+    {
+        "text": "\"I can't eat it, but it will make me feel good.\"",
+        "startTime": 127590,
+        "endTime": 130160,
+        "slowStartTime": 191450,
+        "slowEndTime": 195240
+    },
+    {
+        "text": "\"He lends money to people for no interest...",
+        "startTime": 130660,
+        "endTime": 132790,
+        "slowStartTime": 196130,
+        "slowEndTime": 199215
+    },
+    {
+        "text": "...and so he takes away my friends and my business.\"",
+        "startTime": 133130,
+        "endTime": 135800,
+        "slowStartTime": 199790,
+        "slowEndTime": 203820
+    },
+    {
+        "text": "\"If you do me wrong, won't I take revenge?\"",
+        "startTime": 136530,
+        "endTime": 139330,
+        "slowStartTime": 204860,
+        "slowEndTime": 208990
+    }
+]

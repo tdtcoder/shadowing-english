@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Welcome to Abbey Road.",
+        "startTime": 8645,
+        "endTime": 10995,
+        "slowStartTime": 13117,
+        "slowEndTime": 16718
+    },
+    {
+        "text": "Home to the world-famous studio.",
+        "startTime": 15888,
+        "endTime": 17943,
+        "slowStartTime": 23982,
+        "slowEndTime": 27140
+    },
+    {
+        "text": "Where only legends had been able to step inside...",
+        "startTime": 21583,
+        "endTime": 24662,
+        "slowStartTime": 32524,
+        "slowEndTime": 37218
+    },
+    {
+        "text": "...until now.",
+        "startTime": 28601,
+        "endTime": 29519,
+        "slowStartTime": 43052,
+        "slowEndTime": 44503
+    },
+    {
+        "text": "For the first time ever, you can explore the studio.",
+        "startTime": 31985,
+        "endTime": 36145,
+        "slowStartTime": 48128,
+        "slowEndTime": 54443
+    },
+    {
+        "text": "And discover what goes on beyond these doors.",
+        "startTime": 37843,
+        "endTime": 42060,
+        "slowStartTime": 56915,
+        "slowEndTime": 63315
+    },
+    {
+        "text": "Google presents: Inside Abbey Road.",
+        "startTime": 43857,
+        "endTime": 47277,
+        "slowStartTime": 65935,
+        "slowEndTime": 71140
+    }
+]

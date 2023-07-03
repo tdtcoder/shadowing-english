@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Monkeypox is a virus that causes fever...",
+        "startTime": 331,
+        "endTime": 2817,
+        "slowStartTime": 646,
+        "slowEndTime": 4450
+    },
+    {
+        "text": "...and a distinctive bumpy rash.",
+        "startTime": 2919,
+        "endTime": 4682,
+        "slowStartTime": 4529,
+        "slowEndTime": 7248
+    },
+    {
+        "text": "There are two main strains.",
+        "startTime": 5139,
+        "endTime": 6740,
+        "slowStartTime": 7859,
+        "slowEndTime": 10335
+    },
+    {
+        "text": "The Congo strain is more severe with up to 10 percent mortality.",
+        "startTime": 7242,
+        "endTime": 11379,
+        "slowStartTime": 11013,
+        "slowEndTime": 17293
+    },
+    {
+        "text": "The West African strain has a fatality rate of 1 percent.",
+        "startTime": 12037,
+        "endTime": 15683,
+        "slowStartTime": 18205,
+        "slowEndTime": 23750
+    },
+    {
+        "text": "The virus was first found in monkeys in 1958, hence the name,...",
+        "startTime": 15881,
+        "endTime": 20484,
+        "slowStartTime": 23972,
+        "slowEndTime": 30951
+    },
+    {
+        "text": "...but rodents are now seen as the main source of transmission.",
+        "startTime": 20933,
+        "endTime": 24209,
+        "slowStartTime": 31549,
+        "slowEndTime": 36538
+    },
+    {
+        "text": "The virus spreads through close contact,...",
+        "startTime": 24743,
+        "endTime": 26886,
+        "slowStartTime": 37265,
+        "slowEndTime": 40554
+    },
+    {
+        "text": "...both in spillovers from animal hosts...",
+        "startTime": 27078,
+        "endTime": 29285,
+        "slowStartTime": 40767,
+        "slowEndTime": 44152
+    },
+    {
+        "text": "...and less commonly between humans.",
+        "startTime": 29593,
+        "endTime": 32427,
+        "slowStartTime": 44539,
+        "slowEndTime": 48866
+    },
+    {
+        "text": "One likely scenario behind the jump in cases is increased travel...",
+        "startTime": 33107,
+        "endTime": 36765,
+        "slowStartTime": 49810,
+        "slowEndTime": 55372
+    },
+    {
+        "text": "....after COVID restrictions were lifted.",
+        "startTime": 36869,
+        "endTime": 38867,
+        "slowStartTime": 55454,
+        "slowEndTime": 58525
+    },
+    {
+        "text": "Monkeypox puts virologists on the alert...",
+        "startTime": 39859,
+        "endTime": 42493,
+        "slowStartTime": 59938,
+        "slowEndTime": 63965
+    },
+    {
+        "text": "....because it is in the smallpox family,...",
+        "startTime": 42667,
+        "endTime": 44875,
+        "slowStartTime": 64151,
+        "slowEndTime": 67537
+    },
+    {
+        "text": "...although it causes less serious illness.",
+        "startTime": 45126,
+        "endTime": 47382,
+        "slowStartTime": 67839,
+        "slowEndTime": 71298
+    },
+    {
+        "text": "Smallpox was eradicated by vaccination in 1980...",
+        "startTime": 47971,
+        "endTime": 51833,
+        "slowStartTime": 72107,
+        "slowEndTime": 77974
+    },
+    {
+        "text": "....and the shot has been phased out,...",
+        "startTime": 51957,
+        "endTime": 53665,
+        "slowStartTime": 78085,
+        "slowEndTime": 80723
+    },
+    {
+        "text": "...but it also protects against monkeypox.",
+        "startTime": 54132,
+        "endTime": 56701,
+        "slowStartTime": 81348,
+        "slowEndTime": 85277
+    }
+]

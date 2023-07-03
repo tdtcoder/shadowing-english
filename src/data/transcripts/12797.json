@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Oh my god, fire!",
+        "startTime": 3526,
+        "endTime": 5122,
+        "slowStartTime": 5439,
+        "slowEndTime": 7908
+    },
+    {
+        "text": "Are you okay, Kathy?",
+        "startTime": 5583,
+        "endTime": 6680,
+        "slowStartTime": 8525,
+        "slowEndTime": 10245
+    },
+    {
+        "text": "I just got burned. Call 911!",
+        "startTime": 7011,
+        "endTime": 11804,
+        "slowStartTime": 10667,
+        "slowEndTime": 17931
+    },
+    {
+        "text": "911 emergency service.",
+        "startTime": 12396,
+        "endTime": 14139,
+        "slowStartTime": 18744,
+        "slowEndTime": 21434
+    },
+    {
+        "text": "Hello? I'd like to report a fire in my home.",
+        "startTime": 14719,
+        "endTime": 17483,
+        "slowStartTime": 22228,
+        "slowEndTime": 26450
+    },
+    {
+        "text": "A fire in your home, sir?",
+        "startTime": 17852,
+        "endTime": 19369,
+        "slowStartTime": 26928,
+        "slowEndTime": 29279
+    },
+    {
+        "text": "Are you okay? ",
+        "startTime": 19660,
+        "endTime": 20401,
+        "slowStartTime": 29640,
+        "slowEndTime": 30827
+    },
+    {
+        "text": "Have you been hurt at all?",
+        "startTime": 20655,
+        "endTime": 21745,
+        "slowStartTime": 31132,
+        "slowEndTime": 32842
+    },
+    {
+        "text": "No, I haven't, but my friend seems to be burned.",
+        "startTime": 22351,
+        "endTime": 25352,
+        "slowStartTime": 33677,
+        "slowEndTime": 38253
+    },
+    {
+        "text": "Send an ambulance over here, please.",
+        "startTime": 25779,
+        "endTime": 27581,
+        "slowStartTime": 38819,
+        "slowEndTime": 41597
+    },
+    {
+        "text": "Yes, sir, we will. Where are you now?",
+        "startTime": 27885,
+        "endTime": 30163,
+        "slowStartTime": 41977,
+        "slowEndTime": 45470
+    },
+    {
+        "text": "I'm standing outside of my house.",
+        "startTime": 30761,
+        "endTime": 32498,
+        "slowStartTime": 46291,
+        "slowEndTime": 48972
+    },
+    {
+        "text": "What is the address there?",
+        "startTime": 32810,
+        "endTime": 34186,
+        "slowStartTime": 49365,
+        "slowEndTime": 51504
+    },
+    {
+        "text": "It's 4428 Pine Street. Can you send someone here right away?",
+        "startTime": 34597,
+        "endTime": 39026,
+        "slowStartTime": 52045,
+        "slowEndTime": 58764
+    },
+    {
+        "text": "Yes, sir. We will send a fire truck and ambulance there immediately.",
+        "startTime": 39357,
+        "endTime": 43313,
+        "slowStartTime": 59185,
+        "slowEndTime": 65194
+    }
+]

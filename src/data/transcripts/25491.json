@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Hello, IT department.",
+        "startTime": 308,
+        "endTime": 1259,
+        "slowStartTime": 612,
+        "slowEndTime": 2113
+    },
+    {
+        "text": "Hi.",
+        "startTime": 1465,
+        "endTime": 1717,
+        "slowStartTime": 2347,
+        "slowEndTime": 2800
+    },
+    {
+        "text": "My mouse isn't working.",
+        "startTime": 2006,
+        "endTime": 2861,
+        "slowStartTime": 3159,
+        "slowEndTime": 4517
+    },
+    {
+        "text": "I've tried everything.",
+        "startTime": 2948,
+        "endTime": 3863,
+        "slowStartTime": 4572,
+        "slowEndTime": 6019
+    },
+    {
+        "text": "I think I know what your problem is.",
+        "startTime": 4031,
+        "endTime": 5284,
+        "slowStartTime": 6197,
+        "slowEndTime": 8151
+    },
+    {
+        "text": "How's that?",
+        "startTime": 7825,
+        "endTime": 8272,
+        "slowStartTime": 11887,
+        "slowEndTime": 12633
+    },
+    {
+        "text": "That's much better, thanks!",
+        "startTime": 8407,
+        "endTime": 9693,
+        "slowStartTime": 12760,
+        "slowEndTime": 14765
+    },
+    {
+        "text": "Of course!",
+        "startTime": 9779,
+        "endTime": 10257,
+        "slowStartTime": 14819,
+        "slowEndTime": 15610
+    },
+    {
+        "text": "But now, my TV is broken.",
+        "startTime": 10839,
+        "endTime": 12169,
+        "slowStartTime": 16408,
+        "slowEndTime": 18478
+    }
+]

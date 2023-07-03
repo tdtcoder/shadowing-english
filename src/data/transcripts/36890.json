@@ -1,0 +1,44 @@
+[
+    {
+        "text": "\"Anton has joined the meeting.\"",
+        "startTime": 403,
+        "endTime": 2322,
+        "slowStartTime": 755,
+        "slowEndTime": 3708
+    },
+    {
+        "text": "While it may be astounding that we can have a virtual meeting  with people on different continents,..",
+        "startTime": 5687,
+        "endTime": 10608,
+        "slowStartTime": 8680,
+        "slowEndTime": 16137
+    },
+    {
+        "text": "...it can also be frustrating.",
+        "startTime": 12227,
+        "endTime": 14631,
+        "slowStartTime": 18491,
+        "slowEndTime": 22171
+    },
+    {
+        "text": "And these frustrations can affect morale, engagement, productivity and innovation.",
+        "startTime": 15409,
+        "endTime": 21151,
+        "slowStartTime": 23263,
+        "slowEndTime": 31952
+    },
+    {
+        "text": "When changes in the ways we communicate lead to changes in how others perceive our communications,...",
+        "startTime": 22753,
+        "endTime": 28998,
+        "slowStartTime": 34279,
+        "slowEndTime": 43722
+    },
+    {
+        "text": "...this calls for a new set of protocols and behaviors.",
+        "startTime": 29192,
+        "endTime": 32462,
+        "slowStartTime": 43938,
+        "slowEndTime": 48918
+    }
+]

@@ -1,0 +1,310 @@
+[
+    {
+        "text": "This is a chart of reported measles cases in the US.",
+        "startTime": 470,
+        "endTime": 3355,
+        "slowStartTime": 855,
+        "slowEndTime": 5258
+    },
+    {
+        "text": "In the 1950s, measles was one of those diseases that nearly every child got.",
+        "startTime": 3771,
+        "endTime": 8715,
+        "slowStartTime": 5807,
+        "slowEndTime": 13298
+    },
+    {
+        "text": "It caused a high fever and a spotty rash all over the body,...",
+        "startTime": 9267,
+        "endTime": 12437,
+        "slowStartTime": 14051,
+        "slowEndTime": 18881
+    },
+    {
+        "text": "...and while most recovered easily, it still killed around 500 children each year.",
+        "startTime": 12760,
+        "endTime": 17230,
+        "slowStartTime": 19290,
+        "slowEndTime": 26070
+    },
+    {
+        "text": "Then in 1963, a vaccine became available,...",
+        "startTime": 17751,
+        "endTime": 20580,
+        "slowStartTime": 26776,
+        "slowEndTime": 31095
+    },
+    {
+        "text": "...and measles became an easily preventable and unnecessary disease.",
+        "startTime": 20860,
+        "endTime": 24804,
+        "slowStartTime": 31440,
+        "slowEndTime": 37431
+    },
+    {
+        "text": "By 2000, measles was officially eliminated in the US,...",
+        "startTime": 24997,
+        "endTime": 28600,
+        "slowStartTime": 37645,
+        "slowEndTime": 43125
+    },
+    {
+        "text": "...and for a time, less than a hundred Americans a year got it,...",
+        "startTime": 28951,
+        "endTime": 31869,
+        "slowStartTime": 43576,
+        "slowEndTime": 48029
+    },
+    {
+        "text": "...but in the last decade, that number has started to grow.",
+        "startTime": 32124,
+        "endTime": 34798,
+        "slowStartTime": 48336,
+        "slowEndTime": 52422
+    },
+    {
+        "text": "Now, there have been more cases through the first three months of 2019 than in all of 2018.",
+        "startTime": 35317,
+        "endTime": 41243,
+        "slowStartTime": 53126,
+        "slowEndTime": 62089
+    },
+    {
+        "text": "Measles is back,...",
+        "startTime": 41763,
+        "endTime": 42831,
+        "slowStartTime": 62795,
+        "slowEndTime": 64471
+    },
+    {
+        "text": "...and to understand why, you have to understand where it's back.",
+        "startTime": 42986,
+        "endTime": 46311,
+        "slowStartTime": 64629,
+        "slowEndTime": 69691
+    },
+    {
+        "text": "Here are those recent measles cases again.",
+        "startTime": 46891,
+        "endTime": 48753,
+        "slowStartTime": 70487,
+        "slowEndTime": 73354
+    },
+    {
+        "text": "If we look at the 2013 spike, we noticed something.",
+        "startTime": 49131,
+        "endTime": 52143,
+        "slowStartTime": 73847,
+        "slowEndTime": 78439
+    },
+    {
+        "text": "A good chunk of those cases can be attributed to an outbreak...",
+        "startTime": 52507,
+        "endTime": 55486,
+        "slowStartTime": 78911,
+        "slowEndTime": 83454
+    },
+    {
+        "text": "...among Orthodox Jews in New York.",
+        "startTime": 55559,
+        "endTime": 57343,
+        "slowStartTime": 83489,
+        "slowEndTime": 86240
+    },
+    {
+        "text": "That huge spike in 2014?",
+        "startTime": 57841,
+        "endTime": 59729,
+        "slowStartTime": 86912,
+        "slowEndTime": 89819
+    },
+    {
+        "text": "Most of those cases are all from one outbreak among the Amish in Ohio.",
+        "startTime": 59943,
+        "endTime": 63793,
+        "slowStartTime": 90064,
+        "slowEndTime": 95915
+    },
+    {
+        "text": "2017, one outbreak in the Somali-American community in Minnesota.",
+        "startTime": 64099,
+        "endTime": 68229,
+        "slowStartTime": 96299,
+        "slowEndTime": 102569
+    },
+    {
+        "text": "2018, different communities of New York Orthodox Jews,...",
+        "startTime": 68560,
+        "endTime": 72101,
+        "slowStartTime": 102990,
+        "slowEndTime": 108377
+    },
+    {
+        "text": "...and again in 2019.",
+        "startTime": 72325,
+        "endTime": 74132,
+        "slowStartTime": 108637,
+        "slowEndTime": 111423
+    },
+    {
+        "text": "What all of this shows...",
+        "startTime": 74559,
+        "endTime": 75553,
+        "slowStartTime": 111989,
+        "slowEndTime": 113555
+    },
+    {
+        "text": "...is that the return of measles isn't as widespread as you might think.",
+        "startTime": 75625,
+        "endTime": 78764,
+        "slowStartTime": 113587,
+        "slowEndTime": 118371
+    },
+    {
+        "text": "75% of recent cases have happened in these close-knit communities.",
+        "startTime": 78978,
+        "endTime": 83541,
+        "slowStartTime": 118617,
+        "slowEndTime": 125537
+    },
+    {
+        "text": "Anti-vaccination misinformation can reach anyone,...",
+        "startTime": 83809,
+        "endTime": 87381,
+        "slowStartTime": 125863,
+        "slowEndTime": 131297
+    },
+    {
+        "text": "...but it's in these small communities where it does the most damage.",
+        "startTime": 87595,
+        "endTime": 90827,
+        "slowStartTime": 131542,
+        "slowEndTime": 136465
+    },
+    {
+        "text": "Most people in these communities are vaccinated.",
+        "startTime": 91128,
+        "endTime": 93751,
+        "slowStartTime": 136842,
+        "slowEndTime": 140852
+    },
+    {
+        "text": "The problem starts when not enough people are vaccinated.",
+        "startTime": 93969,
+        "endTime": 96781,
+        "slowStartTime": 141103,
+        "slowEndTime": 145397
+    },
+    {
+        "text": "It prevents them from reaching what's called herd immunity.",
+        "startTime": 97125,
+        "endTime": 99790,
+        "slowStartTime": 145838,
+        "slowEndTime": 149910
+    },
+    {
+        "text": "If a group of people comes into contact with one person contagious with measles...",
+        "startTime": 100144,
+        "endTime": 104397,
+        "slowStartTime": 150366,
+        "slowEndTime": 156821
+    },
+    {
+        "text": "...and none of them are vaccinated,...",
+        "startTime": 104667,
+        "endTime": 106257,
+        "slowStartTime": 157150,
+        "slowEndTime": 159611
+    },
+    {
+        "text": "...virtually everyone will get sick.",
+        "startTime": 106703,
+        "endTime": 108379,
+        "slowStartTime": 160204,
+        "slowEndTime": 162794
+    },
+    {
+        "text": "If 50% of the group is vaccinated, that's not enough.",
+        "startTime": 109304,
+        "endTime": 112642,
+        "slowStartTime": 164106,
+        "slowEndTime": 169188
+    },
+    {
+        "text": "The rest are likely to get sick and spread the disease.",
+        "startTime": 113007,
+        "endTime": 115662,
+        "slowStartTime": 169660,
+        "slowEndTime": 173718
+    },
+    {
+        "text": "But at a certain point, if enough people are vaccinated,...",
+        "startTime": 116329,
+        "endTime": 119198,
+        "slowStartTime": 174643,
+        "slowEndTime": 179022
+    },
+    {
+        "text": "...they can actually protect the few that aren't vaccinated from getting sick,...",
+        "startTime": 119701,
+        "endTime": 123065,
+        "slowStartTime": 179701,
+        "slowEndTime": 184823
+    },
+    {
+        "text": "...stopping the spread of the disease: herd immunity.",
+        "startTime": 123264,
+        "endTime": 126355,
+        "slowStartTime": 185046,
+        "slowEndTime": 189758
+    },
+    {
+        "text": "This is important because there are people who can't get vaccinated...",
+        "startTime": 126851,
+        "endTime": 130043,
+        "slowStartTime": 190427,
+        "slowEndTime": 195289
+    },
+    {
+        "text": "...because of their immune system:...",
+        "startTime": 130119,
+        "endTime": 131417,
+        "slowStartTime": 195329,
+        "slowEndTime": 197351
+    },
+    {
+        "text": "...people like cancer patients and newborn babies.",
+        "startTime": 131594,
+        "endTime": 134207,
+        "slowStartTime": 197541,
+        "slowEndTime": 201535
+    },
+    {
+        "text": "So, how do we make sure everyone who can get vaccinated does?",
+        "startTime": 134415,
+        "endTime": 138421,
+        "slowStartTime": 201773,
+        "slowEndTime": 207856
+    },
+    {
+        "text": "Maybe the best way to make sure all communities reach herd immunity...",
+        "startTime": 139120,
+        "endTime": 142538,
+        "slowStartTime": 208830,
+        "slowEndTime": 214032
+    },
+    {
+        "text": "...and protect those that can't be vaccinated...",
+        "startTime": 142913,
+        "endTime": 145030,
+        "slowStartTime": 214519,
+        "slowEndTime": 217770
+    },
+    {
+        "text": "...is just not let them opt out in the first place.",
+        "startTime": 145281,
+        "endTime": 147397,
+        "slowStartTime": 218071,
+        "slowEndTime": 221321
+    }
+]

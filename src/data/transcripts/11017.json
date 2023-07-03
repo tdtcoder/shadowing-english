@@ -1,0 +1,72 @@
+[
+    {
+        "text": "No sign of him, my lord.",
+        "startTime": 1550,
+        "endTime": 3500,
+        "slowStartTime": 2450,
+        "slowEndTime": 5450
+    },
+    {
+        "text": "Bring him to me.",
+        "startTime": 6150,
+        "endTime": 7050,
+        "slowStartTime": 9450,
+        "slowEndTime": 10800
+    },
+    {
+        "text": "I must be the one to kill Harry Potter.",
+        "startTime": 9250,
+        "endTime": 11850,
+        "slowStartTime": 14050,
+        "slowEndTime": 18050
+    },
+    {
+        "text": "The boy who lived. Come to die.",
+        "startTime": 19350,
+        "endTime": 23700,
+        "slowStartTime": 29200,
+        "slowEndTime": 35800
+    },
+    {
+        "text": "You think I don't know how this feels?",
+        "startTime": 27200,
+        "endTime": 28450,
+        "slowStartTime": 41100,
+        "slowEndTime": 42900
+    },
+    {
+        "text": "You don't know how it feels.",
+        "startTime": 28500,
+        "endTime": 29750,
+        "slowStartTime": 42850,
+        "slowEndTime": 44900
+    },
+    {
+        "text": "Your parents are dead.",
+        "startTime": 30200,
+        "endTime": 31400,
+        "slowStartTime": 45500,
+        "slowEndTime": 47350
+    },
+    {
+        "text": "You have no family.",
+        "startTime": 31750,
+        "endTime": 32850,
+        "slowStartTime": 47800,
+        "slowEndTime": 49500
+    },
+    {
+        "text": "Stop!",
+        "startTime": 33300,
+        "endTime": 33750,
+        "slowStartTime": 50200,
+        "slowEndTime": 50800
+    },
+    {
+        "text": "You really don't stand a chance.",
+        "startTime": 41700,
+        "endTime": 43750,
+        "slowStartTime": 62750,
+        "slowEndTime": 65850
+    }
+]

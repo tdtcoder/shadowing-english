@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Hyundai is planning a new electric vehicle manufacturing plant in the U.S....",
+        "startTime": 472,
+        "endTime": 4674,
+        "slowStartTime": 858,
+        "slowEndTime": 7236
+    },
+    {
+        "text": "...with discussions about building a facility in Georgia...",
+        "startTime": 4933,
+        "endTime": 7709,
+        "slowStartTime": 7550,
+        "slowEndTime": 11789
+    },
+    {
+        "text": "...near the South Korean automaker's existing plants.",
+        "startTime": 7885,
+        "endTime": 10584,
+        "slowStartTime": 11977,
+        "slowEndTime": 16101
+    },
+    {
+        "text": "Hyundai confirmed it would announce a plan soon.",
+        "startTime": 11437,
+        "endTime": 13856,
+        "slowStartTime": 17305,
+        "slowEndTime": 21009
+    },
+    {
+        "text": "The Biden administration has been pushing for more investments in EV production...",
+        "startTime": 14706,
+        "endTime": 19192,
+        "slowStartTime": 22209,
+        "slowEndTime": 29013
+    },
+    {
+        "text": "...and related suppliers to create jobs and drive a clean energy agenda.",
+        "startTime": 19483,
+        "endTime": 23399,
+        "slowStartTime": 29375,
+        "slowEndTime": 35323
+    },
+    {
+        "text": "It says it will allocate more than 3 billion dollars in infrastructure funding...",
+        "startTime": 23716,
+        "endTime": 28153,
+        "slowStartTime": 35724,
+        "slowEndTime": 42454
+    },
+    {
+        "text": "...to help make good on its pledge for half of the vehicles...",
+        "startTime": 28350,
+        "endTime": 30789,
+        "slowStartTime": 42675,
+        "slowEndTime": 46408
+    },
+    {
+        "text": "...sold in the United States to be electric by 2030.",
+        "startTime": 30924,
+        "endTime": 33918,
+        "slowStartTime": 46536,
+        "slowEndTime": 51102
+    },
+    {
+        "text": "In April, Hyundai announced a 300-million-dollar investment...",
+        "startTime": 34470,
+        "endTime": 38301,
+        "slowStartTime": 51855,
+        "slowEndTime": 57676
+    },
+    {
+        "text": "...to manufacture all electric and hybrid vehicles at its Alabama plant.",
+        "startTime": 38501,
+        "endTime": 42721,
+        "slowStartTime": 57902,
+        "slowEndTime": 64307
+    }
+]

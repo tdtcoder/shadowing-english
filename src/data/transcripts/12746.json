@@ -1,0 +1,44 @@
+[
+    {
+        "text": "The half brother of Afghan President Karzai is shot dead at his home in Kandahar province.",
+        "startTime": 5993,
+        "endTime": 12853,
+        "slowStartTime": 9140,
+        "slowEndTime": 19505
+    },
+    {
+        "text": "In Northern Ireland, rioting erupts on the streets of West Belfast before the start of a major Protestant march.",
+        "startTime": 15239,
+        "endTime": 22787,
+        "slowStartTime": 23008,
+        "slowEndTime": 34405
+    },
+    {
+        "text": "In Egypt, saboteurs blow up a natural gas pipeline that distributes supplies to Israel and Jordan.",
+        "startTime": 24919,
+        "endTime": 32307,
+        "slowStartTime": 37528,
+        "slowEndTime": 48685
+    },
+    {
+        "text": "In the Palestinian territories, Israeli troops use stun grenades to disperse demonstrators in Hebron.",
+        "startTime": 34874,
+        "endTime": 41881,
+        "slowStartTime": 52461,
+        "slowEndTime": 63047
+    },
+    {
+        "text": "US Secretary of State Clinton hosts a meeting on the Middle East in Washington DC.",
+        "startTime": 44744,
+        "endTime": 50671,
+        "slowStartTime": 67266,
+        "slowEndTime": 76231
+    },
+    {
+        "text": "Scientists launch a new data relay satellite in China's Sichuan province.",
+        "startTime": 54659,
+        "endTime": 60493,
+        "slowStartTime": 82138,
+        "slowEndTime": 90964
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Did you look for your shoe?",
+        "startTime": 2503,
+        "endTime": 4324,
+        "slowStartTime": 3904,
+        "slowEndTime": 6711
+    },
+    {
+        "text": "I looked everywhere.",
+        "startTime": 5753,
+        "endTime": 7503,
+        "slowStartTime": 8779,
+        "slowEndTime": 11480
+    },
+    {
+        "text": "My shoe is not there.",
+        "startTime": 7977,
+        "endTime": 9998,
+        "slowStartTime": 12115,
+        "slowEndTime": 15222
+    },
+    {
+        "text": "Did you look under the bed?",
+        "startTime": 11515,
+        "endTime": 13370,
+        "slowStartTime": 17422,
+        "slowEndTime": 20280
+    },
+    {
+        "text": "I looked everywhere.",
+        "startTime": 14765,
+        "endTime": 17077,
+        "slowStartTime": 22298,
+        "slowEndTime": 25841
+    },
+    {
+        "text": "My shoe is not there.",
+        "startTime": 17847,
+        "endTime": 19959,
+        "slowStartTime": 26921,
+        "slowEndTime": 30164
+    },
+    {
+        "text": "Did you look in your toy box?",
+        "startTime": 21806,
+        "endTime": 23858,
+        "slowStartTime": 32859,
+        "slowEndTime": 36012
+    },
+    {
+        "text": "I looked everywhere.",
+        "startTime": 25066,
+        "endTime": 27038,
+        "slowStartTime": 37749,
+        "slowEndTime": 40782
+    },
+    {
+        "text": "My shoe is not there.",
+        "startTime": 27383,
+        "endTime": 29491,
+        "slowStartTime": 41225,
+        "slowEndTime": 44462
+    },
+    {
+        "text": "Did you look in your closet?",
+        "startTime": 31070,
+        "endTime": 33165,
+        "slowStartTime": 46755,
+        "slowEndTime": 49973
+    },
+    {
+        "text": "Oh, no!",
+        "startTime": 34555,
+        "endTime": 35509,
+        "slowStartTime": 51982,
+        "slowEndTime": 53489
+    },
+    {
+        "text": "I did not look everywhere.",
+        "startTime": 36105,
+        "endTime": 38133,
+        "slowStartTime": 54308,
+        "slowEndTime": 57424
+    },
+    {
+        "text": "I did not look there.",
+        "startTime": 38639,
+        "endTime": 40435,
+        "slowStartTime": 58109,
+        "slowEndTime": 60878
+    }
+]

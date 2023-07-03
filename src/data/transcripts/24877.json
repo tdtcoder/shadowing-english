@@ -1,0 +1,93 @@
+[
+    {
+        "text": "﻿We use these words to show who owns a thing.",
+        "startTime": 568,
+        "endTime": 4830,
+        "slowStartTime": 1002,
+        "slowEndTime": 7470
+    },
+    {
+        "text": "He is walking his dog.",
+        "startTime": 8532,
+        "endTime": 10602,
+        "slowStartTime": 12948,
+        "slowEndTime": 16128
+    },
+    {
+        "text": "The dog is his.",
+        "startTime": 11195,
+        "endTime": 12696,
+        "slowStartTime": 16942,
+        "slowEndTime": 19269
+    },
+    {
+        "text": "That is her wine.",
+        "startTime": 14336,
+        "endTime": 15729,
+        "slowStartTime": 21654,
+        "slowEndTime": 23818
+    },
+    {
+        "text": "The wine is hers.",
+        "startTime": 16373,
+        "endTime": 18307,
+        "slowStartTime": 24709,
+        "slowEndTime": 27685
+    },
+    {
+        "text": "This is my toy.",
+        "startTime": 20028,
+        "endTime": 21529,
+        "slowStartTime": 30192,
+        "slowEndTime": 32519
+    },
+    {
+        "text": "It's mine, mine, mine!",
+        "startTime": 22353,
+        "endTime": 23882,
+        "slowStartTime": 33679,
+        "slowEndTime": 36048
+    },
+    {
+        "text": "This is our room.",
+        "startTime": 25853,
+        "endTime": 27219,
+        "slowStartTime": 38929,
+        "slowEndTime": 41053
+    },
+    {
+        "text": "The room is ours.",
+        "startTime": 27806,
+        "endTime": 29644,
+        "slowStartTime": 41859,
+        "slowEndTime": 44691
+    },
+    {
+        "text": "Is that your food?",
+        "startTime": 31069,
+        "endTime": 32278,
+        "slowStartTime": 46754,
+        "slowEndTime": 48642
+    },
+    {
+        "text": "Yours looks better than mine.",
+        "startTime": 33142,
+        "endTime": 35129,
+        "slowStartTime": 49863,
+        "slowEndTime": 52918
+    },
+    {
+        "text": "That is their horse.",
+        "startTime": 36474,
+        "endTime": 37911,
+        "slowStartTime": 54861,
+        "slowEndTime": 57091
+    },
+    {
+        "text": "The horse is theirs.",
+        "startTime": 39493,
+        "endTime": 41487,
+        "slowStartTime": 59390,
+        "slowEndTime": 62456
+    }
+]

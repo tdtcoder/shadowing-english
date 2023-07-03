@@ -1,0 +1,324 @@
+[
+    {
+        "text": "You're nice, baby.",
+        "startTime": 4750,
+        "endTime": 5650,
+        "slowStartTime": 7300,
+        "slowEndTime": 8800
+    },
+    {
+        "text": "Thanks.",
+        "startTime": 5900,
+        "endTime": 6350,
+        "slowStartTime": 9000,
+        "slowEndTime": 9750
+    },
+    {
+        "text": "Hello!",
+        "startTime": 9650,
+        "endTime": 10150,
+        "slowStartTime": 14700,
+        "slowEndTime": 15500
+    },
+    {
+        "text": "Hey!",
+        "startTime": 10450,
+        "endTime": 10950,
+        "slowStartTime": 15900,
+        "slowEndTime": 16700
+    },
+    {
+        "text": "Laura, this is Joanna, my wife.",
+        "startTime": 11150,
+        "endTime": 12350,
+        "slowStartTime": 16900,
+        "slowEndTime": 18650
+    },
+    {
+        "text": "Hi, nice to meet you.",
+        "startTime": 12500,
+        "endTime": 13500,
+        "slowStartTime": 18900,
+        "slowEndTime": 20400
+    },
+    {
+        "text": "Laura is the new designer that we've been working with.",
+        "startTime": 14500,
+        "endTime": 16950,
+        "slowStartTime": 21900,
+        "slowEndTime": 25650
+    },
+    {
+        "text": "Did you just say new?",
+        "startTime": 17600,
+        "endTime": 19150,
+        "slowStartTime": 26600,
+        "slowEndTime": 28950
+    },
+    {
+        "text": "I've been here like three months.",
+        "startTime": 20950,
+        "endTime": 22500,
+        "slowStartTime": 31650,
+        "slowEndTime": 33950
+    },
+    {
+        "text": "You didn't tell me anything about her before tonight.",
+        "startTime": 26150,
+        "endTime": 28000,
+        "slowStartTime": 39400,
+        "slowEndTime": 42175
+    },
+    {
+        "text": "'Cause it makes you like this, baby.",
+        "startTime": 28150,
+        "endTime": 29450,
+        "slowStartTime": 42500,
+        "slowEndTime": 44300
+    },
+    {
+        "text": "I mean, seriously, did you think that I just wouldn't notice?",
+        "startTime": 30150,
+        "endTime": 32550,
+        "slowStartTime": 45400,
+        "slowEndTime": 49050
+    },
+    {
+        "text": "You two already slept together?",
+        "startTime": 32850,
+        "endTime": 33900,
+        "slowStartTime": 49450,
+        "slowEndTime": 51000
+    },
+    {
+        "text": "There's nothing going on.",
+        "startTime": 34500,
+        "endTime": 35450,
+        "slowStartTime": 52000,
+        "slowEndTime": 53300
+    },
+    {
+        "text": "Is she going to Philadelphia with you and Andy tomorrow?",
+        "startTime": 35700,
+        "endTime": 37550,
+        "slowStartTime": 53750,
+        "slowEndTime": 56400
+    },
+    {
+        "text": "Laura's just someone I work with.",
+        "startTime": 37800,
+        "endTime": 39100,
+        "slowStartTime": 57100,
+        "slowEndTime": 58850
+    },
+    {
+        "text": "Michael, it'd kill you if you knew how much I knew about you.",
+        "startTime": 39600,
+        "endTime": 42500,
+        "slowStartTime": 59550,
+        "slowEndTime": 63900
+    },
+    {
+        "text": "Hey.",
+        "startTime": 45350,
+        "endTime": 45550,
+        "slowStartTime": 68200,
+        "slowEndTime": 68550
+    },
+    {
+        "text": "Hey.",
+        "startTime": 45750,
+        "endTime": 45950,
+        "slowStartTime": 68800,
+        "slowEndTime": 69200
+    },
+    {
+        "text": "Joanna.",
+        "startTime": 54000,
+        "endTime": 54400,
+        "slowStartTime": 81200,
+        "slowEndTime": 81850
+    },
+    {
+        "text": "Alex, what are you doing here?",
+        "startTime": 57700,
+        "endTime": 59250,
+        "slowStartTime": 86750,
+        "slowEndTime": 89100
+    },
+    {
+        "text": "I have some work here.",
+        "startTime": 59350,
+        "endTime": 60200,
+        "slowStartTime": 89200,
+        "slowEndTime": 90500
+    },
+    {
+        "text": "I can't believe this.",
+        "startTime": 61350,
+        "endTime": 62300,
+        "slowStartTime": 92200,
+        "slowEndTime": 93600
+    },
+    {
+        "text": "And I leave tomorrow.",
+        "startTime": 62550,
+        "endTime": 63400,
+        "slowStartTime": 94050,
+        "slowEndTime": 95300
+    },
+    {
+        "text": "Do you have time for me now?",
+        "startTime": 64000,
+        "endTime": 64850,
+        "slowStartTime": 96250,
+        "slowEndTime": 97500
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 65200,
+        "endTime": 65850,
+        "slowStartTime": 98000,
+        "slowEndTime": 99000
+    },
+    {
+        "text": "Yeah, sure.",
+        "startTime": 66800,
+        "endTime": 67350,
+        "slowStartTime": 100400,
+        "slowEndTime": 101200
+    },
+    {
+        "text": "I had no idea you were seeing someone in New York.",
+        "startTime": 68750,
+        "endTime": 70500,
+        "slowStartTime": 103300,
+        "slowEndTime": 106000
+    },
+    {
+        "text": "Oh, no. We're just good friends.",
+        "startTime": 70700,
+        "endTime": 72600,
+        "slowStartTime": 106250,
+        "slowEndTime": 109200
+    },
+    {
+        "text": "Remind me why it didn't work.",
+        "startTime": 75350,
+        "endTime": 77400,
+        "slowStartTime": 113200,
+        "slowEndTime": 116050
+    },
+    {
+        "text": "Geography.",
+        "startTime": 77650,
+        "endTime": 78550,
+        "slowStartTime": 116700,
+        "slowEndTime": 117600
+    },
+    {
+        "text": "What are you drinking?",
+        "startTime": 78850,
+        "endTime": 79250,
+        "slowStartTime": 118400,
+        "slowEndTime": 119100
+    },
+    {
+        "text": "Scotch.",
+        "startTime": 79600,
+        "endTime": 80100,
+        "slowStartTime": 119600,
+        "slowEndTime": 120300
+    },
+    {
+        "text": "And timing.",
+        "startTime": 81450,
+        "endTime": 82000,
+        "slowStartTime": 122350,
+        "slowEndTime": 123300
+    },
+    {
+        "text": "I'd love another drink.",
+        "startTime": 82950,
+        "endTime": 83800,
+        "slowStartTime": 124650,
+        "slowEndTime": 125900
+    },
+    {
+        "text": "Okay.",
+        "startTime": 84250,
+        "endTime": 84500,
+        "slowStartTime": 126550,
+        "slowEndTime": 126950
+    },
+    {
+        "text": "Just not here.",
+        "startTime": 84750,
+        "endTime": 85350,
+        "slowStartTime": 127300,
+        "slowEndTime": 128300
+    },
+    {
+        "text": "Are you getting a divorce?",
+        "startTime": 88100,
+        "endTime": 89150,
+        "slowStartTime": 132350,
+        "slowEndTime": 133950
+    },
+    {
+        "text": "No.",
+        "startTime": 89450,
+        "endTime": 89950,
+        "slowStartTime": 134375,
+        "slowEndTime": 135050
+    },
+    {
+        "text": "So, have you ever been cheated on?",
+        "startTime": 90700,
+        "endTime": 92950,
+        "slowStartTime": 136300,
+        "slowEndTime": 139700
+    },
+    {
+        "text": "No.",
+        "startTime": 93650,
+        "endTime": 93850,
+        "slowStartTime": 140650,
+        "slowEndTime": 141050
+    },
+    {
+        "text": "I've never told him about us.",
+        "startTime": 102000,
+        "endTime": 103200,
+        "slowStartTime": 153200,
+        "slowEndTime": 155000
+    },
+    {
+        "text": "Why? Would he be angry?",
+        "startTime": 103550,
+        "endTime": 105200,
+        "slowStartTime": 155550,
+        "slowEndTime": 158000
+    },
+    {
+        "text": "Have you thought about what he might be doing right now?",
+        "startTime": 108500,
+        "endTime": 110500,
+        "slowStartTime": 162900,
+        "slowEndTime": 166000
+    },
+    {
+        "text": "Michael isn't doing anything.",
+        "startTime": 110950,
+        "endTime": 112150,
+        "slowStartTime": 166600,
+        "slowEndTime": 168500
+    },
+    {
+        "text": "He could be thinking the same thing about you.",
+        "startTime": 112250,
+        "endTime": 113850,
+        "slowStartTime": 168525,
+        "slowEndTime": 171050
+    }
+]

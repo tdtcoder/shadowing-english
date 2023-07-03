@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Hi, my name is Carol.",
+        "startTime": 3150,
+        "endTime": 5375,
+        "slowStartTime": 4875,
+        "slowEndTime": 8288
+    },
+    {
+        "text": "Hi, Carol.",
+        "startTime": 6639,
+        "endTime": 7475,
+        "slowStartTime": 10109,
+        "slowEndTime": 11438
+    },
+    {
+        "text": "My name is Michael.",
+        "startTime": 8162,
+        "endTime": 9402,
+        "slowStartTime": 12393,
+        "slowEndTime": 14328
+    },
+    {
+        "text": "Where are you from?",
+        "startTime": 10043,
+        "endTime": 11237,
+        "slowStartTime": 15215,
+        "slowEndTime": 17081
+    },
+    {
+        "text": "I am from York in England.",
+        "startTime": 12524,
+        "endTime": 14242,
+        "slowStartTime": 18936,
+        "slowEndTime": 21588
+    },
+    {
+        "text": "It's a nice place to live.",
+        "startTime": 15049,
+        "endTime": 16558,
+        "slowStartTime": 22724,
+        "slowEndTime": 25062
+    },
+    {
+        "text": "How about you?",
+        "startTime": 17373,
+        "endTime": 18511,
+        "slowStartTime": 26210,
+        "slowEndTime": 27991
+    },
+    {
+        "text": "I'm from Dallas, Texas.",
+        "startTime": 19247,
+        "endTime": 21113,
+        "slowStartTime": 29020,
+        "slowEndTime": 31894
+    },
+    {
+        "text": "Everything there is very big.",
+        "startTime": 21737,
+        "endTime": 23841,
+        "slowStartTime": 32755,
+        "slowEndTime": 35986
+    }
+]

@@ -1,0 +1,240 @@
+[
+    {
+        "text": "I'm a comedy writer.",
+        "startTime": 61,
+        "endTime": 911,
+        "slowStartTime": 241,
+        "slowEndTime": 1591
+    },
+    {
+        "text": "All right guys, very funny stuff.",
+        "startTime": 1217,
+        "endTime": 2972,
+        "slowStartTime": 1976,
+        "slowEndTime": 4683
+    },
+    {
+        "text": "I also write for Broadway and movies.",
+        "startTime": 3099,
+        "endTime": 5027,
+        "slowStartTime": 4798,
+        "slowEndTime": 7766
+    },
+    {
+        "text": "Why is your face suddenly bigger than it was before?",
+        "startTime": 5216,
+        "endTime": 7003,
+        "slowStartTime": 7974,
+        "slowEndTime": 10730
+    },
+    {
+        "text": "Oh my god!",
+        "startTime": 7096,
+        "endTime": 7435,
+        "slowStartTime": 10794,
+        "slowEndTime": 11378
+    },
+    {
+        "text": "Are you allergic to seafood?",
+        "startTime": 7508,
+        "endTime": 8517,
+        "slowStartTime": 11412,
+        "slowEndTime": 13000
+    },
+    {
+        "text": "She doesn't have insurance...",
+        "startTime": 10466,
+        "endTime": 11277,
+        "slowStartTime": 15849,
+        "slowEndTime": 17140
+    },
+    {
+        "text": "...and she really shouldn't be leaving him by herself.",
+        "startTime": 11367,
+        "endTime": 13141,
+        "slowStartTime": 17201,
+        "slowEndTime": 19936
+    },
+    {
+        "text": "You daughter is going to be fine.",
+        "startTime": 13309,
+        "endTime": 14573,
+        "slowStartTime": 20114,
+        "slowEndTime": 22084
+    },
+    {
+        "text": "Why did you tell the doctor that I was your father?",
+        "startTime": 15461,
+        "endTime": 17286,
+        "slowStartTime": 23342,
+        "slowEndTime": 26154
+    },
+    {
+        "text": "I was a little loopy by then.",
+        "startTime": 17359,
+        "endTime": 18722,
+        "slowStartTime": 26189,
+        "slowEndTime": 28308
+    },
+    {
+        "text": "Who are they?",
+        "startTime": 20213,
+        "endTime": 20889,
+        "slowStartTime": 30469,
+        "slowEndTime": 31558
+    },
+    {
+        "text": "That's my family.",
+        "startTime": 21981,
+        "endTime": 22683,
+        "slowStartTime": 33122,
+        "slowEndTime": 34250
+    },
+    {
+        "text": "If they're your family, why do you have their names written down?",
+        "startTime": 22904,
+        "endTime": 24909,
+        "slowStartTime": 34506,
+        "slowEndTime": 37588
+    },
+    {
+        "text": "Charlie, you can't be alone anymore.",
+        "startTime": 25758,
+        "endTime": 27644,
+        "slowStartTime": 38787,
+        "slowEndTime": 41691
+    },
+    {
+        "text": "If you ever need my help, I'm here.",
+        "startTime": 27836,
+        "endTime": 29113,
+        "slowStartTime": 41904,
+        "slowEndTime": 43894
+    },
+    {
+        "text": "I'm writing something and I have to finish before my words run out.",
+        "startTime": 29332,
+        "endTime": 32129,
+        "slowStartTime": 44148,
+        "slowEndTime": 48418
+    },
+    {
+        "text": "I'll take care of them.",
+        "startTime": 32646,
+        "endTime": 33416,
+        "slowStartTime": 49119,
+        "slowEndTime": 50349
+    },
+    {
+        "text": "May I ask what your relationship is?",
+        "startTime": 33538,
+        "endTime": 35015,
+        "slowStartTime": 50457,
+        "slowEndTime": 52747
+    },
+    {
+        "text": "I don't know.",
+        "startTime": 35545,
+        "endTime": 35810,
+        "slowStartTime": 53468,
+        "slowEndTime": 53940
+    },
+    {
+        "text": "I don't know.",
+        "startTime": 35918,
+        "endTime": 36280,
+        "slowStartTime": 54027,
+        "slowEndTime": 54645
+    },
+    {
+        "text": "Do you live here?",
+        "startTime": 44763,
+        "endTime": 45413,
+        "slowStartTime": 67294,
+        "slowEndTime": 68345
+    },
+    {
+        "text": "I'm his friend.",
+        "startTime": 45512,
+        "endTime": 46125,
+        "slowStartTime": 68418,
+        "slowEndTime": 69412
+    },
+    {
+        "text": "But your dad needs you right now.",
+        "startTime": 46203,
+        "endTime": 47661,
+        "slowStartTime": 69454,
+        "slowEndTime": 71717
+    },
+    {
+        "text": "I mean, this young woman is full of surprises.",
+        "startTime": 48043,
+        "endTime": 49639,
+        "slowStartTime": 72214,
+        "slowEndTime": 74684
+    },
+    {
+        "text": "This is no time for jokes.",
+        "startTime": 49901,
+        "endTime": 51518,
+        "slowStartTime": 75001,
+        "slowEndTime": 77502
+    },
+    {
+        "text": "It's the perfect time for jokes.",
+        "startTime": 51618,
+        "endTime": 52830,
+        "slowStartTime": 77577,
+        "slowEndTime": 79470
+    },
+    {
+        "text": "You funny old man.",
+        "startTime": 53962,
+        "endTime": 55287,
+        "slowStartTime": 81093,
+        "slowEndTime": 83156
+    },
+    {
+        "text": "I want to have fun.",
+        "startTime": 61199,
+        "endTime": 62031,
+        "slowStartTime": 91949,
+        "slowEndTime": 93271
+    },
+    {
+        "text": "I want to laugh.",
+        "startTime": 62505,
+        "endTime": 63297,
+        "slowStartTime": 93907,
+        "slowEndTime": 95171
+    },
+    {
+        "text": "I want to not be scared...",
+        "startTime": 63773,
+        "endTime": 64949,
+        "slowStartTime": 95809,
+        "slowEndTime": 97649
+    },
+    {
+        "text": "...and I want to write the book...",
+        "startTime": 65348,
+        "endTime": 66197,
+        "slowStartTime": 98172,
+        "slowEndTime": 99521
+    },
+    {
+        "text": "...and I want to do all of that with you.",
+        "startTime": 66323,
+        "endTime": 67725,
+        "slowStartTime": 99634,
+        "slowEndTime": 101812
+    },
+    {
+        "text": "Hell yeah!",
+        "startTime": 68635,
+        "endTime": 69508,
+        "slowStartTime": 103102,
+        "slowEndTime": 104487
+    }
+]

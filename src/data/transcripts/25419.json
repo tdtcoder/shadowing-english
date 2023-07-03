@@ -1,0 +1,65 @@
+[
+    {
+        "text": "If you lined up all the blood vessels in your body,...",
+        "startTime": 6547,
+        "endTime": 10831,
+        "slowStartTime": 9971,
+        "slowEndTime": 16471
+    },
+    {
+        "text": "...they'd be 95,000 kilometers long...",
+        "startTime": 11041,
+        "endTime": 14570,
+        "slowStartTime": 16712,
+        "slowEndTime": 22080
+    },
+    {
+        "text": "...and every day, they carry the equivalent of over 7,500 liters of blood,...",
+        "startTime": 15048,
+        "endTime": 21435,
+        "slowStartTime": 22722,
+        "slowEndTime": 32378
+    },
+    {
+        "text": "...though that's actually the same four or five liters recycled over and over,...",
+        "startTime": 21705,
+        "endTime": 26809,
+        "slowStartTime": 32707,
+        "slowEndTime": 40438
+    },
+    {
+        "text": "...delivering oxygen and precious nutrients like glucose and amino acids...",
+        "startTime": 27009,
+        "endTime": 32135,
+        "slowStartTime": 40663,
+        "slowEndTime": 48428
+    },
+    {
+        "text": "...to the body's tissues.",
+        "startTime": 32419,
+        "endTime": 33632,
+        "slowStartTime": 48779,
+        "slowEndTime": 50673
+    },
+    {
+        "text": "All that blood exerts a force on the muscular walls of the blood vessels.",
+        "startTime": 34223,
+        "endTime": 39653,
+        "slowStartTime": 51485,
+        "slowEndTime": 59705
+    },
+    {
+        "text": "That force is called blood pressure...",
+        "startTime": 40184,
+        "endTime": 42436,
+        "slowStartTime": 60426,
+        "slowEndTime": 63879
+    },
+    {
+        "text": "...and it rises and falls with the phases of the heartbeat.",
+        "startTime": 42722,
+        "endTime": 46373,
+        "slowStartTime": 64233,
+        "slowEndTime": 69784
+    }
+]

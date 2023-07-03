@@ -1,0 +1,338 @@
+[
+    {
+        "text": "Billy is a puppy.",
+        "startTime": 2536,
+        "endTime": 4019,
+        "slowStartTime": 3954,
+        "slowEndTime": 6254
+    },
+    {
+        "text": "He lives in a big house with a blue roof.",
+        "startTime": 5088,
+        "endTime": 8084,
+        "slowStartTime": 7782,
+        "slowEndTime": 12351
+    },
+    {
+        "text": "He loves to play fetch with Emmy.",
+        "startTime": 9131,
+        "endTime": 11319,
+        "slowStartTime": 13847,
+        "slowEndTime": 17203
+    },
+    {
+        "text": "Emmy throws the ball.",
+        "startTime": 12408,
+        "endTime": 13823,
+        "slowStartTime": 18762,
+        "slowEndTime": 20960
+    },
+    {
+        "text": "Billy chases it.",
+        "startTime": 14881,
+        "endTime": 16103,
+        "slowStartTime": 22472,
+        "slowEndTime": 24379
+    },
+    {
+        "text": "Then, Billy sees Cat.",
+        "startTime": 17145,
+        "endTime": 18980,
+        "slowStartTime": 25867,
+        "slowEndTime": 28695
+    },
+    {
+        "text": "He drops the ball and chases Cat.",
+        "startTime": 19944,
+        "endTime": 22577,
+        "slowStartTime": 30066,
+        "slowEndTime": 34091
+    },
+    {
+        "text": "Cat runs down the street, and Billy chases him.",
+        "startTime": 23525,
+        "endTime": 27057,
+        "slowStartTime": 35438,
+        "slowEndTime": 40810
+    },
+    {
+        "text": "Emmy cries,...",
+        "startTime": 28193,
+        "endTime": 29235,
+        "slowStartTime": 42440,
+        "slowEndTime": 44078
+    },
+    {
+        "text": "...\"Come back, Billy.\"",
+        "startTime": 29690,
+        "endTime": 31137,
+        "slowStartTime": 44685,
+        "slowEndTime": 46930
+    },
+    {
+        "text": "Cat runs through a farm, and Billy chases him.",
+        "startTime": 32158,
+        "endTime": 35637,
+        "slowStartTime": 48387,
+        "slowEndTime": 53680
+    },
+    {
+        "text": "Cat runs into the forest, and Billy chases him.",
+        "startTime": 36716,
+        "endTime": 40189,
+        "slowStartTime": 55224,
+        "slowEndTime": 60509
+    },
+    {
+        "text": "Cat climbs up a tree.",
+        "startTime": 41259,
+        "endTime": 43069,
+        "slowStartTime": 62039,
+        "slowEndTime": 64828
+    },
+    {
+        "text": "He cannot see the big house with a blue roof.",
+        "startTime": 43885,
+        "endTime": 47465,
+        "slowStartTime": 65977,
+        "slowEndTime": 71422
+    },
+    {
+        "text": "\"Oh, no, I am lost.\"",
+        "startTime": 48193,
+        "endTime": 50828,
+        "slowStartTime": 72440,
+        "slowEndTime": 76467
+    },
+    {
+        "text": "Billy says.",
+        "startTime": 51195,
+        "endTime": 52230,
+        "slowStartTime": 76942,
+        "slowEndTime": 78570
+    },
+    {
+        "text": "Billy runs down a path.",
+        "startTime": 53275,
+        "endTime": 54859,
+        "slowStartTime": 80062,
+        "slowEndTime": 82514
+    },
+    {
+        "text": "He sees Fox.",
+        "startTime": 55925,
+        "endTime": 57097,
+        "slowStartTime": 84038,
+        "slowEndTime": 85870
+    },
+    {
+        "text": "\"How can I get home?\"",
+        "startTime": 58178,
+        "endTime": 59585,
+        "slowStartTime": 87417,
+        "slowEndTime": 89603
+    },
+    {
+        "text": "He asks Fox.",
+        "startTime": 60112,
+        "endTime": 61315,
+        "slowStartTime": 90318,
+        "slowEndTime": 92197
+    },
+    {
+        "text": "\"I have never been out of the forest.\"",
+        "startTime": 62313,
+        "endTime": 64319,
+        "slowStartTime": 93620,
+        "slowEndTime": 96704
+    },
+    {
+        "text": "Says Fox.",
+        "startTime": 64834,
+        "endTime": 65899,
+        "slowStartTime": 97401,
+        "slowEndTime": 99073
+    },
+    {
+        "text": "\"Ask Cow in the farmer's field.\"",
+        "startTime": 66882,
+        "endTime": 68995,
+        "slowStartTime": 100473,
+        "slowEndTime": 103718
+    },
+    {
+        "text": "Fox says.",
+        "startTime": 69407,
+        "endTime": 70535,
+        "slowStartTime": 104260,
+        "slowEndTime": 106028
+    },
+    {
+        "text": "Billy runs to the farmer's field.",
+        "startTime": 71537,
+        "endTime": 73598,
+        "slowStartTime": 107456,
+        "slowEndTime": 110622
+    },
+    {
+        "text": "Billy says to Cow,...",
+        "startTime": 74645,
+        "endTime": 76017,
+        "slowStartTime": 112117,
+        "slowEndTime": 114250
+    },
+    {
+        "text": "\"I am lost.\"",
+        "startTime": 76476,
+        "endTime": 77734,
+        "slowStartTime": 114864,
+        "slowEndTime": 116826
+    },
+    {
+        "text": "\"Do you know the way to my house?\"",
+        "startTime": 78745,
+        "endTime": 80573,
+        "slowStartTime": 118267,
+        "slowEndTime": 121085
+    },
+    {
+        "text": "Billy asks.",
+        "startTime": 81127,
+        "endTime": 82235,
+        "slowStartTime": 121841,
+        "slowEndTime": 123578
+    },
+    {
+        "text": "\"I have never been off the farm.\"",
+        "startTime": 83281,
+        "endTime": 85863,
+        "slowStartTime": 125072,
+        "slowEndTime": 129019
+    },
+    {
+        "text": "Says Cow.",
+        "startTime": 86279,
+        "endTime": 87135,
+        "slowStartTime": 129568,
+        "slowEndTime": 130927
+    },
+    {
+        "text": "\"Ask Owl.\"",
+        "startTime": 88189,
+        "endTime": 89587,
+        "slowStartTime": 132433,
+        "slowEndTime": 134606
+    },
+    {
+        "text": "Cow says.",
+        "startTime": 90024,
+        "endTime": 90914,
+        "slowStartTime": 135186,
+        "slowEndTime": 136596
+    },
+    {
+        "text": "Billy goes to Owl in the barn.",
+        "startTime": 91981,
+        "endTime": 94144,
+        "slowStartTime": 138122,
+        "slowEndTime": 141441
+    },
+    {
+        "text": "\"Please wake up, Owl.\"",
+        "startTime": 95199,
+        "endTime": 96689,
+        "slowStartTime": 142949,
+        "slowEndTime": 145259
+    },
+    {
+        "text": "Says Billy.",
+        "startTime": 97169,
+        "endTime": 97985,
+        "slowStartTime": 145903,
+        "slowEndTime": 147202
+    },
+    {
+        "text": "\"I need your help.\"",
+        "startTime": 99015,
+        "endTime": 100151,
+        "slowStartTime": 148673,
+        "slowEndTime": 150451
+    },
+    {
+        "text": "He says.",
+        "startTime": 100551,
+        "endTime": 101344,
+        "slowStartTime": 150977,
+        "slowEndTime": 152241
+    },
+    {
+        "text": "\"I am lost!\"",
+        "startTime": 102414,
+        "endTime": 103633,
+        "slowStartTime": 153771,
+        "slowEndTime": 155674
+    },
+    {
+        "text": "He cries.",
+        "startTime": 104065,
+        "endTime": 104983,
+        "slowStartTime": 156247,
+        "slowEndTime": 157700
+    },
+    {
+        "text": "\"Do you know a big house with a blue roof?\"",
+        "startTime": 106057,
+        "endTime": 108859,
+        "slowStartTime": 159236,
+        "slowEndTime": 163513
+    },
+    {
+        "text": "Billy asks.",
+        "startTime": 109279,
+        "endTime": 110174,
+        "slowStartTime": 164068,
+        "slowEndTime": 165486
+    },
+    {
+        "text": "\"Yes, I do.\"",
+        "startTime": 111252,
+        "endTime": 113002,
+        "slowStartTime": 167028,
+        "slowEndTime": 169728
+    },
+    {
+        "text": "Owl says.",
+        "startTime": 113347,
+        "endTime": 114349,
+        "slowStartTime": 170171,
+        "slowEndTime": 171748
+    },
+    {
+        "text": "Owl flies, and Billy chases her.",
+        "startTime": 115435,
+        "endTime": 118000,
+        "slowStartTime": 173302,
+        "slowEndTime": 177225
+    },
+    {
+        "text": "Then, Billy sees Emmy at the big house with a blue roof.",
+        "startTime": 119077,
+        "endTime": 123569,
+        "slowStartTime": 178766,
+        "slowEndTime": 185578
+    },
+    {
+        "text": "\"Thank you, Owl.\"",
+        "startTime": 124521,
+        "endTime": 125845,
+        "slowStartTime": 186931,
+        "slowEndTime": 188992
+    },
+    {
+        "text": "Says Billy.",
+        "startTime": 126281,
+        "endTime": 127307,
+        "slowStartTime": 189571,
+        "slowEndTime": 191186
+    }
+]

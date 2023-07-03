@@ -1,0 +1,121 @@
+[
+    {
+        "text": "I'll go get our drinks.",
+        "startTime": 2959,
+        "endTime": 4154,
+        "slowStartTime": 4589,
+        "slowEndTime": 6456
+    },
+    {
+        "text": "Thank you. That's very sweet of you.",
+        "startTime": 4383,
+        "endTime": 6597,
+        "slowStartTime": 6725,
+        "slowEndTime": 10121
+    },
+    {
+        "text": "Kathy? Hi! What are you doing here?",
+        "startTime": 7326,
+        "endTime": 10367,
+        "slowStartTime": 11139,
+        "slowEndTime": 15775
+    },
+    {
+        "text": "Susie? Hi, long time no see. How have you been?",
+        "startTime": 10879,
+        "endTime": 15250,
+        "slowStartTime": 16468,
+        "slowEndTime": 23100
+    },
+    {
+        "text": "I've been good. How about you?",
+        "startTime": 15623,
+        "endTime": 17671,
+        "slowStartTime": 23584,
+        "slowEndTime": 26732
+    },
+    {
+        "text": "Fine. Did you enjoy yourself during the summer holidays?",
+        "startTime": 17983,
+        "endTime": 21742,
+        "slowStartTime": 27125,
+        "slowEndTime": 32838
+    },
+    {
+        "text": "Yeah, I just came back from Venezuela. Are you with someone right now?",
+        "startTime": 22057,
+        "endTime": 26978,
+        "slowStartTime": 33235,
+        "slowEndTime": 40692
+    },
+    {
+        "text": "Actually, yes. Oh, here he comes. Susie, this is my friend Changmin.",
+        "startTime": 27299,
+        "endTime": 32893,
+        "slowStartTime": 41099,
+        "slowEndTime": 49565
+    },
+    {
+        "text": "Changmin, I'd like you to meet my best friend Susie.",
+        "startTime": 33303,
+        "endTime": 36446,
+        "slowStartTime": 50105,
+        "slowEndTime": 54894
+    },
+    {
+        "text": "She's an exchange student from Venezuela.",
+        "startTime": 36785,
+        "endTime": 39114,
+        "slowStartTime": 55327,
+        "slowEndTime": 58896
+    },
+    {
+        "text": "Hello, nice to meet you.",
+        "startTime": 39319,
+        "endTime": 40723,
+        "slowStartTime": 59128,
+        "slowEndTime": 61310
+    },
+    {
+        "text": "Nice to meet you, too. You look familiar, though.",
+        "startTime": 41166,
+        "endTime": 44182,
+        "slowStartTime": 61899,
+        "slowEndTime": 66498
+    },
+    {
+        "text": "I think we are in the same computer class.",
+        "startTime": 44521,
+        "endTime": 46870,
+        "slowStartTime": 66932,
+        "slowEndTime": 70530
+    },
+    {
+        "text": "Yes. I think so, too. Sorry, I didn't recognize you at first.",
+        "startTime": 47075,
+        "endTime": 50953,
+        "slowStartTime": 70762,
+        "slowEndTime": 76655
+    },
+    {
+        "text": "Oh, that's all right. I have to go. My friend is waiting for me there.",
+        "startTime": 51193,
+        "endTime": 55174,
+        "slowStartTime": 76940,
+        "slowEndTime": 82986
+    },
+    {
+        "text": "I will see you around, Changmin.",
+        "startTime": 55462,
+        "endTime": 56949,
+        "slowStartTime": 83343,
+        "slowEndTime": 85649
+    },
+    {
+        "text": "Yes, it was nice meeting you.",
+        "startTime": 57154,
+        "endTime": 58809,
+        "slowStartTime": 85881,
+        "slowEndTime": 88439
+    }
+]

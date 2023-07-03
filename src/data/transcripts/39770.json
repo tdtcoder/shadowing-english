@@ -1,0 +1,170 @@
+[
+    {
+        "text": "I'm planning to go on a trip with my sister.",
+        "startTime": 172,
+        "endTime": 2853,
+        "slowStartTime": 408,
+        "slowEndTime": 4504
+    },
+    {
+        "text": "You two must be excited.",
+        "startTime": 3455,
+        "endTime": 4855,
+        "slowStartTime": 5333,
+        "slowEndTime": 7507
+    },
+    {
+        "text": "Yes!",
+        "startTime": 5231,
+        "endTime": 5834,
+        "slowStartTime": 7997,
+        "slowEndTime": 8976
+    },
+    {
+        "text": "Do you have a brother or sister?",
+        "startTime": 6141,
+        "endTime": 7836,
+        "slowStartTime": 9362,
+        "slowEndTime": 11979
+    },
+    {
+        "text": "I have one older brother.",
+        "startTime": 8231,
+        "endTime": 9615,
+        "slowStartTime": 12496,
+        "slowEndTime": 14648
+    },
+    {
+        "text": "When was the last time you went on a trip with him?",
+        "startTime": 10581,
+        "endTime": 13419,
+        "slowStartTime": 16021,
+        "slowEndTime": 20354
+    },
+    {
+        "text": "Gee, I can't remember.",
+        "startTime": 14512,
+        "endTime": 15977,
+        "slowStartTime": 21918,
+        "slowEndTime": 24191
+    },
+    {
+        "text": "My sister and I go on a trip every summer.",
+        "startTime": 16986,
+        "endTime": 19892,
+        "slowStartTime": 25629,
+        "slowEndTime": 30063
+    },
+    {
+        "text": "Maybe I should plan a trip with my brother, too.",
+        "startTime": 21579,
+        "endTime": 24341,
+        "slowStartTime": 32518,
+        "slowEndTime": 36737
+    },
+    {
+        "text": "When did you take this picture?",
+        "startTime": 26165,
+        "endTime": 27767,
+        "slowStartTime": 39397,
+        "slowEndTime": 41875
+    },
+    {
+        "text": "Is this your sister?",
+        "startTime": 28473,
+        "endTime": 29369,
+        "slowStartTime": 42860,
+        "slowEndTime": 44278
+    },
+    {
+        "text": "Yes!",
+        "startTime": 29993,
+        "endTime": 30376,
+        "slowStartTime": 45140,
+        "slowEndTime": 45789
+    },
+    {
+        "text": "That's my older sister.",
+        "startTime": 30567,
+        "endTime": 31548,
+        "slowStartTime": 46000,
+        "slowEndTime": 47547
+    },
+    {
+        "text": "Wow.",
+        "startTime": 31779,
+        "endTime": 32076,
+        "slowStartTime": 47819,
+        "slowEndTime": 48339
+    },
+    {
+        "text": "We took it last summer when we were in Hawaii.",
+        "startTime": 32263,
+        "endTime": 34040,
+        "slowStartTime": 48545,
+        "slowEndTime": 51285
+    },
+    {
+        "text": "You two look a lot alike.",
+        "startTime": 34508,
+        "endTime": 36402,
+        "slowStartTime": 51912,
+        "slowEndTime": 54828
+    },
+    {
+        "text": "Do you have any other siblings?",
+        "startTime": 36879,
+        "endTime": 38399,
+        "slowStartTime": 55468,
+        "slowEndTime": 57824
+    },
+    {
+        "text": "Yeah!",
+        "startTime": 38963,
+        "endTime": 39318,
+        "slowStartTime": 58594,
+        "slowEndTime": 59202
+    },
+    {
+        "text": "Well, I have a younger sister.",
+        "startTime": 39419,
+        "endTime": 40905,
+        "slowStartTime": 59279,
+        "slowEndTime": 61582
+    },
+    {
+        "text": "She looks very different, though.",
+        "startTime": 41365,
+        "endTime": 42839,
+        "slowStartTime": 62197,
+        "slowEndTime": 64483
+    },
+    {
+        "text": "I envy you.",
+        "startTime": 43771,
+        "endTime": 44585,
+        "slowStartTime": 65807,
+        "slowEndTime": 67102
+    },
+    {
+        "text": "It must be nice to have so many siblings.",
+        "startTime": 44720,
+        "endTime": 46551,
+        "slowStartTime": 67230,
+        "slowEndTime": 70051
+    },
+    {
+        "text": "Well, sometimes it's annoying to have sisters.",
+        "startTime": 47010,
+        "endTime": 50224,
+        "slowStartTime": 70665,
+        "slowEndTime": 75561
+    },
+    {
+        "text": "As an only child, I've always wished I could have a sibling.",
+        "startTime": 52379,
+        "endTime": 55228,
+        "slowStartTime": 78718,
+        "slowEndTime": 83067
+    }
+]

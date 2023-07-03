@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Traveling through the checkpoint with medications or a medical device?",
+        "startTime": 233,
+        "endTime": 3207,
+        "slowStartTime": 499,
+        "slowEndTime": 5036
+    },
+    {
+        "text": "Here's what you need to know to get to your destination with all you need.",
+        "startTime": 3695,
+        "endTime": 6936,
+        "slowStartTime": 5692,
+        "slowEndTime": 10629
+    },
+    {
+        "text": "Medications in liquid or solid form and paste or creams...",
+        "startTime": 7830,
+        "endTime": 11015,
+        "slowStartTime": 11895,
+        "slowEndTime": 16747
+    },
+    {
+        "text": "...in excess of 3.4 ounces are allowed in your carry-on bag.",
+        "startTime": 11081,
+        "endTime": 14686,
+        "slowStartTime": 16771,
+        "slowEndTime": 22254
+    },
+    {
+        "text": "This also goes for medical accessories...",
+        "startTime": 14922,
+        "endTime": 16594,
+        "slowStartTime": 22533,
+        "slowEndTime": 25116
+    },
+    {
+        "text": "...such as freezer packs, IV bags, pumps and syringes.",
+        "startTime": 16751,
+        "endTime": 20486,
+        "slowStartTime": 25277,
+        "slowEndTime": 30954
+    },
+    {
+        "text": "To ease the screening process,...",
+        "startTime": 20895,
+        "endTime": 22275,
+        "slowStartTime": 31492,
+        "slowEndTime": 33638
+    },
+    {
+        "text": "...make sure they are clearly labeled.",
+        "startTime": 22429,
+        "endTime": 24327,
+        "slowStartTime": 33793,
+        "slowEndTime": 36716
+    },
+    {
+        "text": "If you're traveling with a medical device that is attached to your body,...",
+        "startTime": 25616,
+        "endTime": 28886,
+        "slowStartTime": 38574,
+        "slowEndTime": 43554
+    },
+    {
+        "text": "...you will need to be sure to inform the TSA officer...",
+        "startTime": 29221,
+        "endTime": 31899,
+        "slowStartTime": 43982,
+        "slowEndTime": 48073
+    },
+    {
+        "text": "...prior to the start of your pat down.",
+        "startTime": 32057,
+        "endTime": 33720,
+        "slowStartTime": 48235,
+        "slowEndTime": 50805
+    },
+    {
+        "text": "If you can safely disconnect from your medical device...",
+        "startTime": 34381,
+        "endTime": 37029,
+        "slowStartTime": 51721,
+        "slowEndTime": 55768
+    },
+    {
+        "text": "...and that the device manufacturer allows it,...",
+        "startTime": 37385,
+        "endTime": 39369,
+        "slowStartTime": 56227,
+        "slowEndTime": 59278
+    },
+    {
+        "text": "...device can be screened via x-ray.",
+        "startTime": 39747,
+        "endTime": 41766,
+        "slowStartTime": 59771,
+        "slowEndTime": 62874
+    },
+    {
+        "text": "If you cannot disconnect from the device,...",
+        "startTime": 42399,
+        "endTime": 44331,
+        "slowStartTime": 63749,
+        "slowEndTime": 66721
+    },
+    {
+        "text": "...it may require additional screening.",
+        "startTime": 44613,
+        "endTime": 46517,
+        "slowStartTime": 67069,
+        "slowEndTime": 70000
+    }
+]

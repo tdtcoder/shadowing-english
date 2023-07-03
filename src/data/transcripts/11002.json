@@ -1,0 +1,37 @@
+[
+    {
+        "text": "A brighter idea.",
+        "startTime": 5800,
+        "endTime": 6800,
+        "slowStartTime": 8790,
+        "slowEndTime": 10330
+    },
+    {
+        "text": "Compact fluorescent lights (CFLs),...",
+        "startTime": 12010,
+        "endTime": 14280,
+        "slowStartTime": 18095,
+        "slowEndTime": 21625
+    },
+    {
+        "text": "...last up to 10 times longer than traditional bulbs and use only a fraction of the energy,...",
+        "startTime": 14640,
+        "endTime": 19320,
+        "slowStartTime": 22080,
+        "slowEndTime": 29080
+    },
+    {
+        "text": "...saving you 30 to 50 dollars over their lifespan.",
+        "startTime": 19750,
+        "endTime": 22590,
+        "slowStartTime": 29675,
+        "slowEndTime": 33925
+    },
+    {
+        "text": "Answer the call.",
+        "startTime": 23220,
+        "endTime": 24090,
+        "slowStartTime": 34975,
+        "slowEndTime": 36230
+    }
+]

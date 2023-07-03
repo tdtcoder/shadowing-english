@@ -1,0 +1,296 @@
+[
+    {
+        "text": "I gotta get to school.",
+        "startTime": 6135,
+        "endTime": 7312,
+        "slowStartTime": 9352,
+        "slowEndTime": 11193
+    },
+    {
+        "text": "I never should have stopped and picked all those blueberries.",
+        "startTime": 7659,
+        "endTime": 10504,
+        "slowStartTime": 11638,
+        "slowEndTime": 15981
+    },
+    {
+        "text": "Whoa.",
+        "startTime": 11661,
+        "endTime": 12818,
+        "slowStartTime": 17641,
+        "slowEndTime": 19452
+    },
+    {
+        "text": "Hunter, what's going on?",
+        "startTime": 13835,
+        "endTime": 15562,
+        "slowStartTime": 20902,
+        "slowEndTime": 23568
+    },
+    {
+        "text": "Look at that flooded creek.",
+        "startTime": 16233,
+        "endTime": 18021,
+        "slowStartTime": 24499,
+        "slowEndTime": 27256
+    },
+    {
+        "text": "I'm done for.",
+        "startTime": 18323,
+        "endTime": 19528,
+        "slowStartTime": 27634,
+        "slowEndTime": 29517
+    },
+    {
+        "text": "This is a big problem.",
+        "startTime": 20165,
+        "endTime": 21785,
+        "slowStartTime": 30397,
+        "slowEndTime": 32903
+    },
+    {
+        "text": "I give up.",
+        "startTime": 22316,
+        "endTime": 23142,
+        "slowStartTime": 33624,
+        "slowEndTime": 34938
+    },
+    {
+        "text": "Wait a minute.",
+        "startTime": 23780,
+        "endTime": 24459,
+        "slowStartTime": 35820,
+        "slowEndTime": 36913
+    },
+    {
+        "text": "Let's talk this through and make sure we understand the problem.",
+        "startTime": 24595,
+        "endTime": 28018,
+        "slowStartTime": 37042,
+        "slowEndTime": 42252
+    },
+    {
+        "text": "Maybe we can come up with a solution.",
+        "startTime": 28337,
+        "endTime": 30222,
+        "slowStartTime": 42655,
+        "slowEndTime": 45558
+    },
+    {
+        "text": "Well, the problem is that because of all the rain,...",
+        "startTime": 31189,
+        "endTime": 35005,
+        "slowStartTime": 46933,
+        "slowEndTime": 52732
+    },
+    {
+        "text": "...I can't safely cross the flooded creek and get to school.",
+        "startTime": 35110,
+        "endTime": 38281,
+        "slowStartTime": 52815,
+        "slowEndTime": 57646
+    },
+    {
+        "text": "Okay, now that we understand the problem.",
+        "startTime": 38654,
+        "endTime": 41371,
+        "slowStartTime": 58131,
+        "slowEndTime": 62281
+    },
+    {
+        "text": "Let's see if we can come up with some solutions for getting to school safely.",
+        "startTime": 41534,
+        "endTime": 44969,
+        "slowStartTime": 62451,
+        "slowEndTime": 67678
+    },
+    {
+        "text": "Let me think.",
+        "startTime": 46993,
+        "endTime": 48021,
+        "slowStartTime": 70640,
+        "slowEndTime": 72256
+    },
+    {
+        "text": "How could I solve this problem and find a way to get to school safely?",
+        "startTime": 48630,
+        "endTime": 52675,
+        "slowStartTime": 73095,
+        "slowEndTime": 79238
+    },
+    {
+        "text": "I got it.",
+        "startTime": 53605,
+        "endTime": 54420,
+        "slowStartTime": 80558,
+        "slowEndTime": 81855
+    },
+    {
+        "text": "Would you fly me over the creek, Eve?",
+        "startTime": 54969,
+        "endTime": 56948,
+        "slowStartTime": 82604,
+        "slowEndTime": 85647
+    },
+    {
+        "text": "Hunter, I'd love to, but owls can't fly very well in the rain.",
+        "startTime": 57823,
+        "endTime": 61037,
+        "slowStartTime": 86885,
+        "slowEndTime": 91780
+    },
+    {
+        "text": "I'll have to stay under this tree until it stops.",
+        "startTime": 61182,
+        "endTime": 63609,
+        "slowStartTime": 91923,
+        "slowEndTime": 95639
+    },
+    {
+        "text": "Oh well, I'm stuck.",
+        "startTime": 64231,
+        "endTime": 66189,
+        "slowStartTime": 96497,
+        "slowEndTime": 99508
+    },
+    {
+        "text": "No use trying.",
+        "startTime": 66693,
+        "endTime": 68015,
+        "slowStartTime": 100189,
+        "slowEndTime": 102248
+    },
+    {
+        "text": "Problems can be tricky,...",
+        "startTime": 68397,
+        "endTime": 69591,
+        "slowStartTime": 102745,
+        "slowEndTime": 104611
+    },
+    {
+        "text": "...but you're smart.",
+        "startTime": 69731,
+        "endTime": 70817,
+        "slowStartTime": 104747,
+        "slowEndTime": 106450
+    },
+    {
+        "text": "I know that together we can find a way across that creek.",
+        "startTime": 70939,
+        "endTime": 73994,
+        "slowStartTime": 106559,
+        "slowEndTime": 111216
+    },
+    {
+        "text": "Okay, let me think some more.",
+        "startTime": 74620,
+        "endTime": 77201,
+        "slowStartTime": 112080,
+        "slowEndTime": 116026
+    },
+    {
+        "text": "Well, that won't work.",
+        "startTime": 85270,
+        "endTime": 87003,
+        "slowStartTime": 128055,
+        "slowEndTime": 130729
+    },
+    {
+        "text": "Maybe...",
+        "startTime": 88807,
+        "endTime": 89783,
+        "slowStartTime": 133360,
+        "slowEndTime": 134899
+    },
+    {
+        "text": "What if I fall in?",
+        "startTime": 96027,
+        "endTime": 97333,
+        "slowStartTime": 144190,
+        "slowEndTime": 146225
+    },
+    {
+        "text": "My mom said never to swim in rushing water.",
+        "startTime": 97678,
+        "endTime": 100409,
+        "slowStartTime": 146667,
+        "slowEndTime": 150838
+    },
+    {
+        "text": "Yikes.",
+        "startTime": 108284,
+        "endTime": 109623,
+        "slowStartTime": 162576,
+        "slowEndTime": 164659
+    },
+    {
+        "text": "I don't know what to do, Eve.",
+        "startTime": 111665,
+        "endTime": 113499,
+        "slowStartTime": 167648,
+        "slowEndTime": 170473
+    },
+    {
+        "text": "I give up.",
+        "startTime": 113684,
+        "endTime": 114256,
+        "slowStartTime": 170676,
+        "slowEndTime": 171609
+    },
+    {
+        "text": "Hunter, don't give up.",
+        "startTime": 114782,
+        "endTime": 116149,
+        "slowStartTime": 172323,
+        "slowEndTime": 174449
+    },
+    {
+        "text": "Keep trying.",
+        "startTime": 116278,
+        "endTime": 117430,
+        "slowStartTime": 174567,
+        "slowEndTime": 176370
+    },
+    {
+        "text": "Well, there is a brand new bridge up the creek.",
+        "startTime": 119339,
+        "endTime": 122904,
+        "slowStartTime": 179158,
+        "slowEndTime": 184581
+    },
+    {
+        "text": "It's a longer walk to school than usual,...",
+        "startTime": 123067,
+        "endTime": 125321,
+        "slowStartTime": 184751,
+        "slowEndTime": 188207
+    },
+    {
+        "text": "...but the beavers built it high and sturdy,...",
+        "startTime": 125578,
+        "endTime": 127456,
+        "slowStartTime": 188517,
+        "slowEndTime": 191409
+    },
+    {
+        "text": "...so I'm sure it's safe and not flooded.",
+        "startTime": 127697,
+        "endTime": 130359,
+        "slowStartTime": 191695,
+        "slowEndTime": 195764
+    },
+    {
+        "text": "Great job, Hunter!",
+        "startTime": 130755,
+        "endTime": 131881,
+        "slowStartTime": 196283,
+        "slowEndTime": 198046
+    },
+    {
+        "text": "I think you've come up with a good and safe solution.",
+        "startTime": 132159,
+        "endTime": 135198,
+        "slowStartTime": 198389,
+        "slowEndTime": 203022
+    }
+]

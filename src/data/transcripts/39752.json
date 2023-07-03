@@ -1,0 +1,163 @@
+[
+    {
+        "text": "What time is the football match tomorrow?",
+        "startTime": 811,
+        "endTime": 2745,
+        "slowStartTime": 1366,
+        "slowEndTime": 4342
+    },
+    {
+        "text": "It's 2 p.m.",
+        "startTime": 3147,
+        "endTime": 4482,
+        "slowStartTime": 4870,
+        "slowEndTime": 6948
+    },
+    {
+        "text": "Great!",
+        "startTime": 4923,
+        "endTime": 5610,
+        "slowStartTime": 7535,
+        "slowEndTime": 8640
+    },
+    {
+        "text": "And what time does it finish?",
+        "startTime": 6045,
+        "endTime": 7366,
+        "slowStartTime": 9217,
+        "slowEndTime": 11274
+    },
+    {
+        "text": "It finishes at 4 p.m.",
+        "startTime": 7808,
+        "endTime": 9415,
+        "slowStartTime": 11862,
+        "slowEndTime": 14347
+    },
+    {
+        "text": "Thanks, Mike.",
+        "startTime": 9785,
+        "endTime": 10459,
+        "slowStartTime": 14828,
+        "slowEndTime": 15914
+    },
+    {
+        "text": "What time is the party in the evening?",
+        "startTime": 11048,
+        "endTime": 12941,
+        "slowStartTime": 16722,
+        "slowEndTime": 19637
+    },
+    {
+        "text": "It's at 7 p.m.",
+        "startTime": 13311,
+        "endTime": 14711,
+        "slowStartTime": 20116,
+        "slowEndTime": 22292
+    },
+    {
+        "text": "It finishes at 11 p.m.",
+        "startTime": 15142,
+        "endTime": 17251,
+        "slowStartTime": 22863,
+        "slowEndTime": 26101
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 18101,
+        "endTime": 18646,
+        "slowStartTime": 27302,
+        "slowEndTime": 28194
+    },
+    {
+        "text": "See you there!",
+        "startTime": 18779,
+        "endTime": 19501,
+        "slowStartTime": 28319,
+        "slowEndTime": 29477
+    },
+    {
+        "text": "See you there, Jane!",
+        "startTime": 19828,
+        "endTime": 21095,
+        "slowStartTime": 29892,
+        "slowEndTime": 31867
+    },
+    {
+        "text": "What time is the concert on Sunday?",
+        "startTime": 25288,
+        "endTime": 27273,
+        "slowStartTime": 38082,
+        "slowEndTime": 41135
+    },
+    {
+        "text": "It starts at 8 p.m.",
+        "startTime": 27621,
+        "endTime": 29152,
+        "slowStartTime": 41582,
+        "slowEndTime": 43953
+    },
+    {
+        "text": "Is there a break?",
+        "startTime": 29769,
+        "endTime": 30800,
+        "slowStartTime": 44804,
+        "slowEndTime": 46425
+    },
+    {
+        "text": "Yes.",
+        "startTime": 30918,
+        "endTime": 31400,
+        "slowStartTime": 46527,
+        "slowEndTime": 47325
+    },
+    {
+        "text": "The break is at half past nine.",
+        "startTime": 31633,
+        "endTime": 33555,
+        "slowStartTime": 47600,
+        "slowEndTime": 50558
+    },
+    {
+        "text": "And what time does it start again?",
+        "startTime": 34051,
+        "endTime": 36273,
+        "slowStartTime": 51227,
+        "slowEndTime": 54634
+    },
+    {
+        "text": "It starts again at 10 p.m.",
+        "startTime": 36570,
+        "endTime": 38636,
+        "slowStartTime": 55005,
+        "slowEndTime": 58179
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 39814,
+        "endTime": 40507,
+        "slowStartTime": 59871,
+        "slowEndTime": 60985
+    },
+    {
+        "text": "Does it finish at 11 p.m.?",
+        "startTime": 40941,
+        "endTime": 42729,
+        "slowStartTime": 61561,
+        "slowEndTime": 64319
+    },
+    {
+        "text": "No.",
+        "startTime": 42912,
+        "endTime": 43301,
+        "slowStartTime": 64518,
+        "slowEndTime": 65177
+    },
+    {
+        "text": "It finishes at half past 11.",
+        "startTime": 43555,
+        "endTime": 45654,
+        "slowStartTime": 65483,
+        "slowEndTime": 68706
+    }
+]

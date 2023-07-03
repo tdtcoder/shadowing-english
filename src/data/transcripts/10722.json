@@ -1,0 +1,163 @@
+[
+    {
+        "text": "She looks at me every day.",
+        "startTime": 4750,
+        "endTime": 6350,
+        "slowStartTime": 7400,
+        "slowEndTime": 9700
+    },
+    {
+        "text": "Mary Jane Watson.",
+        "startTime": 7500,
+        "endTime": 9100,
+        "slowStartTime": 11500,
+        "slowEndTime": 13900
+    },
+    {
+        "text": "I love her.",
+        "startTime": 10400,
+        "endTime": 11150,
+        "slowStartTime": 15800,
+        "slowEndTime": 17000
+    },
+    {
+        "text": "But she doesn't know.",
+        "startTime": 12000,
+        "endTime": 13050,
+        "slowStartTime": 18200,
+        "slowEndTime": 19800
+    },
+    {
+        "text": "She can never know.",
+        "startTime": 14000,
+        "endTime": 15050,
+        "slowStartTime": 21250,
+        "slowEndTime": 22800
+    },
+    {
+        "text": "Who am I?",
+        "startTime": 16450,
+        "endTime": 17100,
+        "slowStartTime": 24900,
+        "slowEndTime": 25800
+    },
+    {
+        "text": "I'm Spider-Man and I have an important job to do.",
+        "startTime": 18100,
+        "endTime": 22000,
+        "slowStartTime": 27500,
+        "slowEndTime": 33250
+    },
+    {
+        "text": "Everyone's talking about it!",
+        "startTime": 22750,
+        "endTime": 25100,
+        "slowStartTime": 34400,
+        "slowEndTime": 37900
+    },
+    {
+        "text": "A crazy scientist with four metal arms.",
+        "startTime": 25450,
+        "endTime": 29150,
+        "slowStartTime": 38500,
+        "slowEndTime": 43930
+    },
+    {
+        "text": "Dr. Octopus! Doc Ock!",
+        "startTime": 30850,
+        "endTime": 34250,
+        "slowStartTime": 46500,
+        "slowEndTime": 51600
+    },
+    {
+        "text": "I can't live your dreams anymore, Uncle Ben.",
+        "startTime": 35500,
+        "endTime": 38300,
+        "slowStartTime": 53500,
+        "slowEndTime": 57620
+    },
+    {
+        "text": "I can't be Spider-Man.",
+        "startTime": 38950,
+        "endTime": 40400,
+        "slowStartTime": 58700,
+        "slowEndTime": 60850
+    },
+    {
+        "text": "I want a life of my own.",
+        "startTime": 41300,
+        "endTime": 42900,
+        "slowStartTime": 62200,
+        "slowEndTime": 64600
+    },
+    {
+        "text": "Peter, I'm getting married.",
+        "startTime": 44000,
+        "endTime": 46100,
+        "slowStartTime": 66310,
+        "slowEndTime": 69300
+    },
+    {
+        "text": "There never was a you and me, Peter.",
+        "startTime": 47100,
+        "endTime": 49250,
+        "slowStartTime": 70900,
+        "slowEndTime": 74100
+    },
+    {
+        "text": "Crime up, 75%. Where is Spider-Man now?",
+        "startTime": 50050,
+        "endTime": 54200,
+        "slowStartTime": 75350,
+        "slowEndTime": 81550
+    },
+    {
+        "text": "It's all my fault.",
+        "startTime": 55100,
+        "endTime": 56750,
+        "slowStartTime": 82900,
+        "slowEndTime": 85375
+    },
+    {
+        "text": "I drove Spider-Man away.",
+        "startTime": 57650,
+        "endTime": 60200,
+        "slowStartTime": 86800,
+        "slowEndTime": 90500
+    },
+    {
+        "text": "Spider-Man was a hero.",
+        "startTime": 60850,
+        "endTime": 62650,
+        "slowStartTime": 91500,
+        "slowEndTime": 94150
+    },
+    {
+        "text": "If you're with Spider-Man, you're always in danger.",
+        "startTime": 63100,
+        "endTime": 66700,
+        "slowStartTime": 94900,
+        "slowEndTime": 100300
+    },
+    {
+        "text": "I will always be Spider-Man.",
+        "startTime": 67550,
+        "endTime": 69500,
+        "slowStartTime": 101600,
+        "slowEndTime": 104400
+    },
+    {
+        "text": "You and I can never be together.",
+        "startTime": 70100,
+        "endTime": 72200,
+        "slowStartTime": 105400,
+        "slowEndTime": 108575
+    },
+    {
+        "text": "Find him or I'll kill her.",
+        "startTime": 75650,
+        "endTime": 79600,
+        "slowStartTime": 113750,
+        "slowEndTime": 119700
+    }
+]

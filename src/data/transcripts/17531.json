@@ -1,0 +1,72 @@
+[
+    {
+        "text": "What did you do yesterday afternoon?",
+        "startTime": 2701,
+        "endTime": 5190,
+        "slowStartTime": 4202,
+        "slowEndTime": 8010
+    },
+    {
+        "text": "I just watched TV all day.",
+        "startTime": 6237,
+        "endTime": 8925,
+        "slowStartTime": 9505,
+        "slowEndTime": 13612
+    },
+    {
+        "text": "Did you? I called you but you didn't answer.",
+        "startTime": 10023,
+        "endTime": 13039,
+        "slowStartTime": 15184,
+        "slowEndTime": 19783
+    },
+    {
+        "text": "I couldn't get it because I was taking a shower then.",
+        "startTime": 14255,
+        "endTime": 17537,
+        "slowStartTime": 21532,
+        "slowEndTime": 26531
+    },
+    {
+        "text": "Could you Speak Chinese when you were 7?",
+        "startTime": 19935,
+        "endTime": 22691,
+        "slowStartTime": 30053,
+        "slowEndTime": 34261
+    },
+    {
+        "text": "No, I couldn't speak Chinese then.",
+        "startTime": 23331,
+        "endTime": 25635,
+        "slowStartTime": 35147,
+        "slowEndTime": 38678
+    },
+    {
+        "text": "But now I can speak Chinese.",
+        "startTime": 25859,
+        "endTime": 27811,
+        "slowStartTime": 38939,
+        "slowEndTime": 41942
+    },
+    {
+        "text": "Where were you an hour ago?",
+        "startTime": 29937,
+        "endTime": 31975,
+        "slowStartTime": 45056,
+        "slowEndTime": 48187
+    },
+    {
+        "text": "I was playing in the backyard.",
+        "startTime": 33029,
+        "endTime": 34911,
+        "slowStartTime": 49693,
+        "slowEndTime": 52591
+    },
+    {
+        "text": "You didn't hear me calling your name?",
+        "startTime": 36050,
+        "endTime": 38403,
+        "slowStartTime": 54225,
+        "slowEndTime": 57830
+    }
+]

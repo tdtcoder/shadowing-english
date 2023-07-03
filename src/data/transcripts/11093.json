@@ -1,0 +1,191 @@
+[
+    {
+        "text": "As computer use becomes more common, the need for security is more important than ever.",
+        "startTime": 3300,
+        "endTime": 8650,
+        "slowStartTime": 5100,
+        "slowEndTime": 13250
+    },
+    {
+        "text": "One of the greatest security threats in the online world is computer hacking.",
+        "startTime": 9150,
+        "endTime": 12800,
+        "slowStartTime": 13900,
+        "slowEndTime": 19375
+    },
+    {
+        "text": "Computer hacking is the unauthorized access to a computer or network of computers.",
+        "startTime": 13400,
+        "endTime": 18200,
+        "slowStartTime": 20300,
+        "slowEndTime": 27500
+    },
+    {
+        "text": "Hackers are people who illegally enter systems.",
+        "startTime": 18650,
+        "endTime": 21500,
+        "slowStartTime": 28150,
+        "slowEndTime": 32500
+    },
+    {
+        "text": "They may alter or delete information, steal private information,...",
+        "startTime": 22000,
+        "endTime": 25700,
+        "slowStartTime": 33200,
+        "slowEndTime": 38850
+    },
+    {
+        "text": "...or spread viruses that can damage or destroy files.",
+        "startTime": 26000,
+        "endTime": 29400,
+        "slowStartTime": 39150,
+        "slowEndTime": 44400
+    },
+    {
+        "text": "But how exactly can a hacker get into a system to do these things?",
+        "startTime": 30000,
+        "endTime": 33650,
+        "slowStartTime": 45200,
+        "slowEndTime": 50650
+    },
+    {
+        "text": "Most hackers use information called protocols that are built into computer software.",
+        "startTime": 34250,
+        "endTime": 39400,
+        "slowStartTime": 51500,
+        "slowEndTime": 59400
+    },
+    {
+        "text": "These protocols allow computers to interact with one another.",
+        "startTime": 40050,
+        "endTime": 43350,
+        "slowStartTime": 60250,
+        "slowEndTime": 65300
+    },
+    {
+        "text": "Protocols are sort of like computer police officers.",
+        "startTime": 43850,
+        "endTime": 46800,
+        "slowStartTime": 65950,
+        "slowEndTime": 70500
+    },
+    {
+        "text": "When a computer connects to another system, the protocols check to see if the access is valid.",
+        "startTime": 47200,
+        "endTime": 52200,
+        "slowStartTime": 70950,
+        "slowEndTime": 78500
+    },
+    {
+        "text": "The protocols can also determine how much information can be shared between the two systems.",
+        "startTime": 52650,
+        "endTime": 57450,
+        "slowStartTime": 79100,
+        "slowEndTime": 86400
+    },
+    {
+        "text": "Hackers can manipulate the protocols to get unlimited access to a computer system.",
+        "startTime": 57800,
+        "endTime": 62250,
+        "slowStartTime": 86900,
+        "slowEndTime": 93600
+    },
+    {
+        "text": "In fact, just the act of entering a computer network is considered hacking.",
+        "startTime": 62800,
+        "endTime": 66900,
+        "slowStartTime": 94400,
+        "slowEndTime": 100500
+    },
+    {
+        "text": "This is commonly called passive hacking.",
+        "startTime": 67450,
+        "endTime": 69900,
+        "slowStartTime": 101400,
+        "slowEndTime": 105100
+    },
+    {
+        "text": "Passive hackers get a rush from just being able to access a challenging system like a bank or military network.",
+        "startTime": 70500,
+        "endTime": 76600,
+        "slowStartTime": 105950,
+        "slowEndTime": 115100
+    },
+    {
+        "text": "Another kind of hacker tries to do damage to a system.",
+        "startTime": 77200,
+        "endTime": 80100,
+        "slowStartTime": 116050,
+        "slowEndTime": 120400
+    },
+    {
+        "text": "After hacking into systems, these hackers release viruses or alter, delete, or take information.",
+        "startTime": 80650,
+        "endTime": 87150,
+        "slowStartTime": 121200,
+        "slowEndTime": 130900
+    },
+    {
+        "text": "Known as active hackers, they are by far, the more dangerous of the two.",
+        "startTime": 87800,
+        "endTime": 91700,
+        "slowStartTime": 131900,
+        "slowEndTime": 137800
+    },
+    {
+        "text": "The easiest way to protect a system is with a good password.",
+        "startTime": 92500,
+        "endTime": 95800,
+        "slowStartTime": 138900,
+        "slowEndTime": 143900
+    },
+    {
+        "text": "Long and unusual passwords are harder for hackers to guess.",
+        "startTime": 96250,
+        "endTime": 99800,
+        "slowStartTime": 144500,
+        "slowEndTime": 149900
+    },
+    {
+        "text": "For even greater security, some online services now use \"password-plus\" systems.",
+        "startTime": 100250,
+        "endTime": 105450,
+        "slowStartTime": 150550,
+        "slowEndTime": 158400
+    },
+    {
+        "text": "In this case, users first put in a password...",
+        "startTime": 105750,
+        "endTime": 108550,
+        "slowStartTime": 158800,
+        "slowEndTime": 163080
+    },
+    {
+        "text": "...and then put in a second code that changes after the user accesses the site.",
+        "startTime": 108600,
+        "endTime": 113200,
+        "slowStartTime": 163100,
+        "slowEndTime": 170000
+    },
+    {
+        "text": "Users either have special cards or devices that show them the new code to use the next time.",
+        "startTime": 113850,
+        "endTime": 119250,
+        "slowStartTime": 170900,
+        "slowEndTime": 179200
+    },
+    {
+        "text": "Even if a hacker steals the password, they won't have the code.",
+        "startTime": 120000,
+        "endTime": 122900,
+        "slowStartTime": 180150,
+        "slowEndTime": 184600
+    },
+    {
+        "text": "Or if the hacker somehow gets the code, they still don't know the password.",
+        "startTime": 123400,
+        "endTime": 127100,
+        "slowStartTime": 185300,
+        "slowEndTime": 190800
+    }
+]

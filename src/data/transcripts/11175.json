@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Welcome home, honey!",
+        "startTime": 2390,
+        "endTime": 3535,
+        "slowStartTime": 3735,
+        "slowEndTime": 5527
+    },
+    {
+        "text": "How was your trip?",
+        "startTime": 3923,
+        "endTime": 4685,
+        "slowStartTime": 6034,
+        "slowEndTime": 7252
+    },
+    {
+        "text": "It was very good.",
+        "startTime": 4919,
+        "endTime": 6462,
+        "slowStartTime": 7528,
+        "slowEndTime": 9918
+    },
+    {
+        "text": "It gave me a new perspective on the behavior of managers.",
+        "startTime": 6701,
+        "endTime": 9837,
+        "slowStartTime": 10202,
+        "slowEndTime": 14981
+    },
+    {
+        "text": "What do you mean?",
+        "startTime": 10300,
+        "endTime": 11122,
+        "slowStartTime": 15600,
+        "slowEndTime": 16908
+    },
+    {
+        "text": "Mr. Miller has a very interesting attitude regarding his position.",
+        "startTime": 11405,
+        "endTime": 15451,
+        "slowStartTime": 17257,
+        "slowEndTime": 23401
+    },
+    {
+        "text": "The office hierarchy is the same,...",
+        "startTime": 15769,
+        "endTime": 17653,
+        "slowStartTime": 23804,
+        "slowEndTime": 26705
+    },
+    {
+        "text": "...but he seems to have a much closer personal bond with his employees.",
+        "startTime": 18006,
+        "endTime": 21425,
+        "slowStartTime": 27159,
+        "slowEndTime": 32363
+    },
+    {
+        "text": "And he has a genuine sensitivity and respect...",
+        "startTime": 21727,
+        "endTime": 24569,
+        "slowStartTime": 32741,
+        "slowEndTime": 37079
+    },
+    {
+        "text": "...for how employees divide their work time and personal time.",
+        "startTime": 24655,
+        "endTime": 27907,
+        "slowStartTime": 37133,
+        "slowEndTime": 42086
+    },
+    {
+        "text": "Sounds like he really doesn't fit the manager stereotype at all.",
+        "startTime": 28377,
+        "endTime": 31741,
+        "slowStartTime": 42716,
+        "slowEndTime": 47836
+    }
+]

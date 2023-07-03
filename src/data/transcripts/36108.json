@@ -1,0 +1,226 @@
+[
+    {
+        "text": "Hello there, you've reached the voice mailbox of Ryan Reynolds,...",
+        "startTime": 106,
+        "endTime": 2524,
+        "slowStartTime": 309,
+        "slowEndTime": 4011
+    },
+    {
+        "text": "...owner of Mint Mobile.",
+        "startTime": 2679,
+        "endTime": 3684,
+        "slowStartTime": 4168,
+        "slowEndTime": 5751
+    },
+    {
+        "text": "Please leave your name, message...",
+        "startTime": 4185,
+        "endTime": 5861,
+        "slowStartTime": 6428,
+        "slowEndTime": 9016
+    },
+    {
+        "text": "...and least favorite Ryan Reynolds movie after the beep.",
+        "startTime": 5948,
+        "endTime": 8351,
+        "slowStartTime": 9072,
+        "slowEndTime": 12751
+    },
+    {
+        "text": "Oh my god!",
+        "startTime": 9061,
+        "endTime": 10119,
+        "slowStartTime": 13741,
+        "slowEndTime": 15403
+    },
+    {
+        "text": "Did I really just miss a phone call from Ryan Reynolds?",
+        "startTime": 10243,
+        "endTime": 13399,
+        "slowStartTime": 15514,
+        "slowEndTime": 20324
+    },
+    {
+        "text": "I'm not sure why you called me or who you are.",
+        "startTime": 13491,
+        "endTime": 16639,
+        "slowStartTime": 20386,
+        "slowEndTime": 25183
+    },
+    {
+        "text": "You're probably expecting a lot of people to say Green Lantern,...",
+        "startTime": 16769,
+        "endTime": 19035,
+        "slowStartTime": 25303,
+        "slowEndTime": 28778
+    },
+    {
+        "text": "...but I really liked Green Lantern...",
+        "startTime": 19118,
+        "endTime": 20804,
+        "slowStartTime": 28827,
+        "slowEndTime": 31431
+    },
+    {
+        "text": "The Proposal.",
+        "startTime": 21274,
+        "endTime": 22494,
+        "slowStartTime": 32061,
+        "slowEndTime": 33966
+    },
+    {
+        "text": "Hey, I thought you were awesome as a child actor on Little House on the Prairie.",
+        "startTime": 22595,
+        "endTime": 25497,
+        "slowStartTime": 34043,
+        "slowEndTime": 38471
+    },
+    {
+        "text": "This is hilarious!",
+        "startTime": 25641,
+        "endTime": 27079,
+        "slowStartTime": 38611,
+        "slowEndTime": 40843
+    },
+    {
+        "text": "We are also bored crazy in quarantine, so I thought I'd call you back.",
+        "startTime": 27929,
+        "endTime": 31898,
+        "slowStartTime": 42043,
+        "slowEndTime": 48072
+    },
+    {
+        "text": "Yeah, I actually haven't seen that many but I really enjoyed The Proposal.",
+        "startTime": 32032,
+        "endTime": 35376,
+        "slowStartTime": 48198,
+        "slowEndTime": 53289
+    },
+    {
+        "text": "I'm a big fan of your haircut.",
+        "startTime": 35470,
+        "endTime": 37037,
+        "slowStartTime": 53355,
+        "slowEndTime": 55781
+    },
+    {
+        "text": "I actually get my haircut very much like yours.",
+        "startTime": 37182,
+        "endTime": 39280,
+        "slowStartTime": 55923,
+        "slowEndTime": 59145
+    },
+    {
+        "text": "Going stir-crazy especially with a 14-month-old,...",
+        "startTime": 39352,
+        "endTime": 42382,
+        "slowStartTime": 59178,
+        "slowEndTime": 63798
+    },
+    {
+        "text": "...so I appreciate the call.",
+        "startTime": 42691,
+        "endTime": 44205,
+        "slowStartTime": 64186,
+        "slowEndTime": 66532
+    },
+    {
+        "text": "My least favorite Ryan Reynolds movie is probably Deadpool.",
+        "startTime": 44329,
+        "endTime": 46749,
+        "slowStartTime": 66644,
+        "slowEndTime": 70349
+    },
+    {
+        "text": "I don't have a least favorite movie of yours...",
+        "startTime": 47271,
+        "endTime": 50073,
+        "slowStartTime": 71057,
+        "slowEndTime": 75335
+    },
+    {
+        "text": "...because I have never seen any of your movies...",
+        "startTime": 50252,
+        "endTime": 52303,
+        "slowStartTime": 75528,
+        "slowEndTime": 78680
+    },
+    {
+        "text": "...but thank you for the phone service.",
+        "startTime": 52419,
+        "endTime": 53555,
+        "slowStartTime": 78779,
+        "slowEndTime": 80558
+    },
+    {
+        "text": "It's been great so far.",
+        "startTime": 53645,
+        "endTime": 54725,
+        "slowStartTime": 80617,
+        "slowEndTime": 82313
+    },
+    {
+        "text": "I will recommend you guys to my friends.",
+        "startTime": 55166,
+        "endTime": 56639,
+        "slowStartTime": 82899,
+        "slowEndTime": 85184
+    },
+    {
+        "text": "That was amazing.",
+        "startTime": 56713,
+        "endTime": 57969,
+        "slowStartTime": 85220,
+        "slowEndTime": 87178
+    },
+    {
+        "text": "I loved it.",
+        "startTime": 58065,
+        "endTime": 58739,
+        "slowStartTime": 87247,
+        "slowEndTime": 88334
+    },
+    {
+        "text": "This was great to wake up to today.",
+        "startTime": 58814,
+        "endTime": 61207,
+        "slowStartTime": 88371,
+        "slowEndTime": 92035
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 61331,
+        "endTime": 62054,
+        "slowStartTime": 92147,
+        "slowEndTime": 93306
+    },
+    {
+        "text": "Okay, bye!",
+        "startTime": 62159,
+        "endTime": 62619,
+        "slowStartTime": 93389,
+        "slowEndTime": 94154
+    },
+    {
+        "text": "That was pretty cool.",
+        "startTime": 62705,
+        "endTime": 63283,
+        "slowStartTime": 94208,
+        "slowEndTime": 95150
+    },
+    {
+        "text": "Bye.",
+        "startTime": 63441,
+        "endTime": 63635,
+        "slowStartTime": 95312,
+        "slowEndTime": 95677
+    },
+    {
+        "text": "Bye.",
+        "startTime": 63767,
+        "endTime": 64444,
+        "slowStartTime": 95800,
+        "slowEndTime": 96891
+    }
+]

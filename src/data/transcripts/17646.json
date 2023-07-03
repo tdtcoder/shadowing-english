@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Wow. It is such a cute bird!",
+        "startTime": 3209,
+        "endTime": 5783,
+        "slowStartTime": 4963,
+        "slowEndTime": 8899
+    },
+    {
+        "text": "Do you want to touch it?",
+        "startTime": 6066,
+        "endTime": 7572,
+        "slowStartTime": 9249,
+        "slowEndTime": 11583
+    },
+    {
+        "text": "No way. I'm afraid of birds.",
+        "startTime": 8866,
+        "endTime": 12169,
+        "slowStartTime": 13449,
+        "slowEndTime": 18479
+    },
+    {
+        "text": "You have a such a nice bike.",
+        "startTime": 14527,
+        "endTime": 17057,
+        "slowStartTime": 21940,
+        "slowEndTime": 25810
+    },
+    {
+        "text": "Thanks. I saved money for six months to buy this bike.",
+        "startTime": 18147,
+        "endTime": 22580,
+        "slowStartTime": 27371,
+        "slowEndTime": 34095
+    },
+    {
+        "text": "If you want, you can also buy this one.",
+        "startTime": 23125,
+        "endTime": 26015,
+        "slowStartTime": 34837,
+        "slowEndTime": 39247
+    },
+    {
+        "text": "No, I can't. I'm afraid to spend all my money.",
+        "startTime": 27172,
+        "endTime": 31161,
+        "slowStartTime": 40908,
+        "slowEndTime": 46966
+    },
+    {
+        "text": "It is such a beautiful sea.",
+        "startTime": 33512,
+        "endTime": 35851,
+        "slowStartTime": 50418,
+        "slowEndTime": 54002
+    },
+    {
+        "text": "Let's jump into the sea and enjoy swimming.",
+        "startTime": 37161,
+        "endTime": 40737,
+        "slowStartTime": 55892,
+        "slowEndTime": 61331
+    },
+    {
+        "text": "No, I can't. I'm afraid of swimming in this deep water.",
+        "startTime": 41717,
+        "endTime": 46001,
+        "slowStartTime": 62725,
+        "slowEndTime": 69226
+    }
+]

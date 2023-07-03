@@ -1,0 +1,58 @@
+[
+    {
+        "text": "﻿Whose cat is that?",
+        "startTime": 4664,
+        "endTime": 5817,
+        "slowStartTime": 7146,
+        "slowEndTime": 8951
+    },
+    {
+        "text": "That is Jenna's cat.",
+        "startTime": 6620,
+        "endTime": 7967,
+        "slowStartTime": 10080,
+        "slowEndTime": 12176
+    },
+    {
+        "text": "Whose game is this?",
+        "startTime": 9359,
+        "endTime": 10513,
+        "slowStartTime": 14189,
+        "slowEndTime": 15995
+    },
+    {
+        "text": "This is the kids' game.",
+        "startTime": 11173,
+        "endTime": 12671,
+        "slowStartTime": 16910,
+        "slowEndTime": 19232
+    },
+    {
+        "text": "Whose student are you?",
+        "startTime": 19008,
+        "endTime": 20444,
+        "slowStartTime": 28662,
+        "slowEndTime": 30891
+    },
+    {
+        "text": "I am Mrs. Hill's student.",
+        "startTime": 21213,
+        "endTime": 22931,
+        "slowStartTime": 31970,
+        "slowEndTime": 34622
+    },
+    {
+        "text": "Whose wheelchair is this?",
+        "startTime": 24773,
+        "endTime": 26272,
+        "slowStartTime": 37310,
+        "slowEndTime": 39633
+    },
+    {
+        "text": "It's my grandmother's wheelchair.",
+        "startTime": 27030,
+        "endTime": 28652,
+        "slowStartTime": 40695,
+        "slowEndTime": 43203
+    }
+]

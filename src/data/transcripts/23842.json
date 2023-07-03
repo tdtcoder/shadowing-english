@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Are they still following us?",
+        "startTime": 2762,
+        "endTime": 6354,
+        "slowStartTime": 4293,
+        "slowEndTime": 9756
+    },
+    {
+        "text": "Yes.",
+        "startTime": 7163,
+        "endTime": 7980,
+        "slowStartTime": 10894,
+        "slowEndTime": 12195
+    },
+    {
+        "text": "Is there one of them?",
+        "startTime": 9907,
+        "endTime": 10701,
+        "slowStartTime": 15011,
+        "slowEndTime": 16277
+    },
+    {
+        "text": "Is he looking at us?",
+        "startTime": 13865,
+        "endTime": 15067,
+        "slowStartTime": 20947,
+        "slowEndTime": 22825
+    },
+    {
+        "text": "Does he have just one hand on the steering wheel?",
+        "startTime": 16898,
+        "endTime": 19796,
+        "slowStartTime": 25497,
+        "slowEndTime": 29919
+    },
+    {
+        "text": "When you hear something that sounds like a gunshot, drive.",
+        "startTime": 22570,
+        "endTime": 26673,
+        "slowStartTime": 34005,
+        "slowEndTime": 40235
+    },
+    {
+        "text": "Nicely done!",
+        "startTime": 40932,
+        "endTime": 41563,
+        "slowStartTime": 61548,
+        "slowEndTime": 62570
+    }
+]

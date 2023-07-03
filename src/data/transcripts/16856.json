@@ -1,0 +1,37 @@
+[
+    {
+        "text": "I love seeing the world from a new perspective.",
+        "startTime": 2411,
+        "endTime": 5190,
+        "slowStartTime": 3767,
+        "slowEndTime": 8010
+    },
+    {
+        "text": "I love that 140 characters can change the world.",
+        "startTime": 10577,
+        "endTime": 13570,
+        "slowStartTime": 16015,
+        "slowEndTime": 20580
+    },
+    {
+        "text": "I love finding inspiration.",
+        "startTime": 16701,
+        "endTime": 19259,
+        "slowStartTime": 25201,
+        "slowEndTime": 29113
+    },
+    {
+        "text": "Internet Explorer 9.",
+        "startTime": 25202,
+        "endTime": 26423,
+        "slowStartTime": 37953,
+        "slowEndTime": 39860
+    },
+    {
+        "text": "The Web you love, one click away.",
+        "startTime": 26977,
+        "endTime": 29075,
+        "slowStartTime": 40616,
+        "slowEndTime": 43838
+    }
+]

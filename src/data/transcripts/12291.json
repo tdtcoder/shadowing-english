@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Did you hear the news?",
+        "startTime": 1899,
+        "endTime": 3130,
+        "slowStartTime": 2999,
+        "slowEndTime": 4920
+    },
+    {
+        "text": "No, I don't think so.",
+        "startTime": 3283,
+        "endTime": 4555,
+        "slowStartTime": 5074,
+        "slowEndTime": 7058
+    },
+    {
+        "text": "Anyway, what happened?",
+        "startTime": 4759,
+        "endTime": 5971,
+        "slowStartTime": 7289,
+        "slowEndTime": 9181
+    },
+    {
+        "text": "The boss really dropped the bomb on us this time.",
+        "startTime": 6211,
+        "endTime": 8954,
+        "slowStartTime": 9466,
+        "slowEndTime": 13656
+    },
+    {
+        "text": "Oh no, this doesn't sound good so far.",
+        "startTime": 9339,
+        "endTime": 11715,
+        "slowStartTime": 14159,
+        "slowEndTime": 17797
+    },
+    {
+        "text": "It's worse than that.",
+        "startTime": 11999,
+        "endTime": 13229,
+        "slowStartTime": 18149,
+        "slowEndTime": 20069
+    },
+    {
+        "text": "We've all got to put in extra hours and work on the weekends for the next month.",
+        "startTime": 13428,
+        "endTime": 17854,
+        "slowStartTime": 20292,
+        "slowEndTime": 27006
+    },
+    {
+        "text": "What? He can't do that!",
+        "startTime": 18080,
+        "endTime": 19469,
+        "slowStartTime": 27270,
+        "slowEndTime": 29429
+    },
+    {
+        "text": "Well, yes and no.",
+        "startTime": 19675,
+        "endTime": 21419,
+        "slowStartTime": 29663,
+        "slowEndTime": 32353
+    },
+    {
+        "text": "If we don't get the Ambex project done by the end of the month,...",
+        "startTime": 21778,
+        "endTime": 24927,
+        "slowStartTime": 32817,
+        "slowEndTime": 37616
+    },
+    {
+        "text": "...he can fire us if he wants.",
+        "startTime": 25191,
+        "endTime": 26847,
+        "slowStartTime": 37936,
+        "slowEndTime": 40495
+    },
+    {
+        "text": "Man, this is terrible news.",
+        "startTime": 26983,
+        "endTime": 28703,
+        "slowStartTime": 40624,
+        "slowEndTime": 43279
+    },
+    {
+        "text": "I've got a lot of plans this month!",
+        "startTime": 28977,
+        "endTime": 30542,
+        "slowStartTime": 43615,
+        "slowEndTime": 46038
+    },
+    {
+        "text": "Why does he have to be like that?",
+        "startTime": 30910,
+        "endTime": 32401,
+        "slowStartTime": 46515,
+        "slowEndTime": 48826
+    },
+    {
+        "text": "I guess it's come down to the crunch for the company with this deal.",
+        "startTime": 32653,
+        "endTime": 36234,
+        "slowStartTime": 49129,
+        "slowEndTime": 54576
+    },
+    {
+        "text": "I knew it was a big deal for us,...",
+        "startTime": 36446,
+        "endTime": 38172,
+        "slowStartTime": 54819,
+        "slowEndTime": 57483
+    },
+    {
+        "text": "...but I didn't know it was that big.",
+        "startTime": 38303,
+        "endTime": 39840,
+        "slowStartTime": 57605,
+        "slowEndTime": 59985
+    },
+    {
+        "text": "Apparently it is!",
+        "startTime": 40097,
+        "endTime": 41484,
+        "slowStartTime": 60296,
+        "slowEndTime": 62451
+    }
+]

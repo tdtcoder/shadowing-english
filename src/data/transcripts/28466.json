@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Contrary to ancient wisdom,...",
+        "startTime": 1757,
+        "endTime": 3287,
+        "slowStartTime": 2786,
+        "slowEndTime": 5156
+    },
+    {
+        "text": "...the sun doesn't rise,...",
+        "startTime": 3971,
+        "endTime": 5157,
+        "slowStartTime": 6106,
+        "slowEndTime": 7960
+    },
+    {
+        "text": "...we do.",
+        "startTime": 5839,
+        "endTime": 6289,
+        "slowStartTime": 8909,
+        "slowEndTime": 9658
+    },
+    {
+        "text": "Yet the more we travel, the more the world pushes back,...",
+        "startTime": 7059,
+        "endTime": 10823,
+        "slowStartTime": 10738,
+        "slowEndTime": 16460
+    },
+    {
+        "text": "...corralling us and controlling us.",
+        "startTime": 11269,
+        "endTime": 13539,
+        "slowStartTime": 17053,
+        "slowEndTime": 20533
+    },
+    {
+        "text": "So, we seek a place...",
+        "startTime": 14399,
+        "endTime": 16449,
+        "slowStartTime": 21749,
+        "slowEndTime": 24899
+    },
+    {
+        "text": "...where we're given a choice...",
+        "startTime": 17219,
+        "endTime": 18469,
+        "slowStartTime": 25978,
+        "slowEndTime": 27929
+    },
+    {
+        "text": "...not just to get up...",
+        "startTime": 20277,
+        "endTime": 21289,
+        "slowStartTime": 30565,
+        "slowEndTime": 32159
+    },
+    {
+        "text": "...but to rise.",
+        "startTime": 25289,
+        "endTime": 26039,
+        "slowStartTime": 38083,
+        "slowEndTime": 39283
+    }
+]

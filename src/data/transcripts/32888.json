@@ -1,0 +1,93 @@
+[
+    {
+        "text": "In Britain, the House of Commons has rejected for a third time...",
+        "startTime": 4561,
+        "endTime": 9100,
+        "slowStartTime": 6992,
+        "slowEndTime": 13875
+    },
+    {
+        "text": "...a withdrawal plan backed by Prime Minister Theresa May...",
+        "startTime": 9445,
+        "endTime": 12497,
+        "slowStartTime": 14318,
+        "slowEndTime": 18971
+    },
+    {
+        "text": "...in a vote on the day Britain originally was scheduled to leave the European Union.",
+        "startTime": 13120,
+        "endTime": 17953,
+        "slowStartTime": 19830,
+        "slowEndTime": 27155
+    },
+    {
+        "text": "In the US, American and Chinese trade negotiators made progress...",
+        "startTime": 20442,
+        "endTime": 25477,
+        "slowStartTime": 30813,
+        "slowEndTime": 38441
+    },
+    {
+        "text": "...during \"candid and constructive discussions\" in Beijing, said the White House,...",
+        "startTime": 25689,
+        "endTime": 30365,
+        "slowStartTime": 38684,
+        "slowEndTime": 45773
+    },
+    {
+        "text": "...and will continue talks in Washington next week.",
+        "startTime": 30750,
+        "endTime": 34039,
+        "slowStartTime": 46275,
+        "slowEndTime": 51284
+    },
+    {
+        "text": "In Mozambique, officials in cyclone-stricken Mozambique...",
+        "startTime": 35673,
+        "endTime": 40087,
+        "slowStartTime": 53659,
+        "slowEndTime": 60355
+    },
+    {
+        "text": "...say the number of cases of cholera has skyrocketed from five to 139.",
+        "startTime": 40743,
+        "endTime": 47077,
+        "slowStartTime": 61265,
+        "slowEndTime": 70840
+    },
+    {
+        "text": "In Algeria, Algerians take to the streets in Algiers for the sixth Friday in a row...",
+        "startTime": 48065,
+        "endTime": 55041,
+        "slowStartTime": 72248,
+        "slowEndTime": 82786
+    },
+    {
+        "text": "...to call for an end to the regime of Algerian President Abdelaziz Bouteflika.",
+        "startTime": 55472,
+        "endTime": 60995,
+        "slowStartTime": 83358,
+        "slowEndTime": 91717
+    },
+    {
+        "text": "Finally from the US, a report in The Wall Street Journal...",
+        "startTime": 63609,
+        "endTime": 67226,
+        "slowStartTime": 95563,
+        "slowEndTime": 101064
+    },
+    {
+        "text": "...says an anti-stall system was activated on the Ethiopian Airlines Boeing 737 MAX 8...",
+        "startTime": 67702,
+        "endTime": 74597,
+        "slowStartTime": 101703,
+        "slowEndTime": 112121
+    },
+    {
+        "text": "...before it crashed earlier this month.",
+        "startTime": 75131,
+        "endTime": 77223,
+        "slowStartTime": 112847,
+        "slowEndTime": 116060
+    }
+]

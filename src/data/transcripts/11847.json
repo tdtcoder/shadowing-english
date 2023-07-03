@@ -1,0 +1,114 @@
+[
+    {
+        "text": "I like small cars better than big cars.",
+        "startTime": 3234,
+        "endTime": 5661,
+        "slowStartTime": 5001,
+        "slowEndTime": 8717
+    },
+    {
+        "text": "Smaller cars are easier to maneuver and easier to find parking spots for.",
+        "startTime": 5903,
+        "endTime": 10519,
+        "slowStartTime": 9004,
+        "slowEndTime": 16003
+    },
+    {
+        "text": "Some people say that small cars do not have enough trunk space, but they do!",
+        "startTime": 11102,
+        "endTime": 15173,
+        "slowStartTime": 16803,
+        "slowEndTime": 22984
+    },
+    {
+        "text": "I have no problem carrying my groceries.",
+        "startTime": 15812,
+        "endTime": 18184,
+        "slowStartTime": 23868,
+        "slowEndTime": 27501
+    },
+    {
+        "text": "I think many women would feel the same as I do,...",
+        "startTime": 18739,
+        "endTime": 21407,
+        "slowStartTime": 28258,
+        "slowEndTime": 32335
+    },
+    {
+        "text": "...but men like big cars, don't they?",
+        "startTime": 21859,
+        "endTime": 23703,
+        "slowStartTime": 32939,
+        "slowEndTime": 35779
+    },
+    {
+        "text": "Not me!",
+        "startTime": 24669,
+        "endTime": 25401,
+        "slowStartTime": 37153,
+        "slowEndTime": 38326
+    },
+    {
+        "text": "Actually, I completely support the points you just made.",
+        "startTime": 25867,
+        "endTime": 28771,
+        "slowStartTime": 38950,
+        "slowEndTime": 43381
+    },
+    {
+        "text": "I have driven a big sedan before.",
+        "startTime": 29323,
+        "endTime": 31298,
+        "slowStartTime": 44134,
+        "slowEndTime": 47172
+    },
+    {
+        "text": "The car was so long that I couldn't park it anywhere!",
+        "startTime": 31802,
+        "endTime": 34133,
+        "slowStartTime": 47853,
+        "slowEndTime": 51425
+    },
+    {
+        "text": "Compact cars are definitely the way to go.",
+        "startTime": 34825,
+        "endTime": 37181,
+        "slowStartTime": 52388,
+        "slowEndTime": 55997
+    },
+    {
+        "text": "Do you know what else is good about small cars?",
+        "startTime": 37841,
+        "endTime": 39901,
+        "slowStartTime": 56911,
+        "slowEndTime": 60076
+    },
+    {
+        "text": "They get great mileage!",
+        "startTime": 40555,
+        "endTime": 41767,
+        "slowStartTime": 60983,
+        "slowEndTime": 62876
+    },
+    {
+        "text": "My friend has a huge SUV and he fills it up once a week.",
+        "startTime": 42291,
+        "endTime": 45376,
+        "slowStartTime": 63587,
+        "slowEndTime": 68289
+    },
+    {
+        "text": "I go to the gas station about once every two weeks.",
+        "startTime": 45982,
+        "endTime": 48606,
+        "slowStartTime": 69123,
+        "slowEndTime": 73134
+    },
+    {
+        "text": "Driving a smaller car is a great way to save money.",
+        "startTime": 49201,
+        "endTime": 52171,
+        "slowStartTime": 73951,
+        "slowEndTime": 78481
+    }
+]

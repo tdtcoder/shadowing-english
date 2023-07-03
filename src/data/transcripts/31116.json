@@ -1,0 +1,58 @@
+[
+    {
+        "text": "They ate.",
+        "startTime": 3842,
+        "endTime": 4744,
+        "slowStartTime": 5913,
+        "slowEndTime": 7341
+    },
+    {
+        "text": "She didn't eat.",
+        "startTime": 6365,
+        "endTime": 7657,
+        "slowStartTime": 9697,
+        "slowEndTime": 11710
+    },
+    {
+        "text": "We went to Canada.",
+        "startTime": 12694,
+        "endTime": 13742,
+        "slowStartTime": 19191,
+        "slowEndTime": 20838
+    },
+    {
+        "text": "They ran fast.",
+        "startTime": 15317,
+        "endTime": 16693,
+        "slowStartTime": 23125,
+        "slowEndTime": 25264
+    },
+    {
+        "text": "John sat in a chair.",
+        "startTime": 18284,
+        "endTime": 19881,
+        "slowStartTime": 27576,
+        "slowEndTime": 30046
+    },
+    {
+        "text": "He swam really fast.",
+        "startTime": 21460,
+        "endTime": 23217,
+        "slowStartTime": 32340,
+        "slowEndTime": 35051
+    },
+    {
+        "text": "She taught Math.",
+        "startTime": 24863,
+        "endTime": 25956,
+        "slowStartTime": 37444,
+        "slowEndTime": 39159
+    },
+    {
+        "text": "She slept in class.",
+        "startTime": 27562,
+        "endTime": 29068,
+        "slowStartTime": 41493,
+        "slowEndTime": 43827
+    }
+]

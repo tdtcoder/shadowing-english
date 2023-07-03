@@ -1,0 +1,44 @@
+[
+    {
+        "text": "In Russia, a plane crash in the northern Republic of Karelia kills 44 people.",
+        "startTime": 4337,
+        "endTime": 10094,
+        "slowStartTime": 6656,
+        "slowEndTime": 15366
+    },
+    {
+        "text": "In Syria, tens of thousands gather for pro - Assad rallies, a day after he blamed the country's unrest on saboteurs.",
+        "startTime": 11454,
+        "endTime": 19716,
+        "slowStartTime": 17331,
+        "slowEndTime": 29799
+    },
+    {
+        "text": "At least 21 are killed in a suicide bombing attack outside the home of the local governor in central Iraq.",
+        "startTime": 21658,
+        "endTime": 29011,
+        "slowStartTime": 32637,
+        "slowEndTime": 43784
+    },
+    {
+        "text": "In Northern Ireland, violence erupts between Protestants and Catholics ahead of the annual marching season.",
+        "startTime": 33341,
+        "endTime": 40405,
+        "slowStartTime": 50161,
+        "slowEndTime": 60832
+    },
+    {
+        "text": "In Rwanda, the government erects mini hydropower stations to meet the growing energy demand in rural areas.",
+        "startTime": 44861,
+        "endTime": 52629,
+        "slowStartTime": 67441,
+        "slowEndTime": 79169
+    },
+    {
+        "text": "Expectant fathers attend a training camp in Beijing, China.",
+        "startTime": 55749,
+        "endTime": 60250,
+        "slowStartTime": 83774,
+        "slowEndTime": 90600
+    }
+]

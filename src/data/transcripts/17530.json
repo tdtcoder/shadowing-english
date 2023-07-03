@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Shh, you need to keep quiet in the library.",
+        "startTime": 2777,
+        "endTime": 5826,
+        "slowStartTime": 4316,
+        "slowEndTime": 8964
+    },
+    {
+        "text": "Sorry to bother you.",
+        "startTime": 7025,
+        "endTime": 8569,
+        "slowStartTime": 10688,
+        "slowEndTime": 13078
+    },
+    {
+        "text": "But I really want to know where Korean history books are.",
+        "startTime": 9047,
+        "endTime": 12909,
+        "slowStartTime": 13721,
+        "slowEndTime": 19589
+    },
+    {
+        "text": "What are you doing, Paula?",
+        "startTime": 15317,
+        "endTime": 16827,
+        "slowStartTime": 23125,
+        "slowEndTime": 25466
+    },
+    {
+        "text": "I'm getting ready to go to school, Mom.",
+        "startTime": 18251,
+        "endTime": 20502,
+        "slowStartTime": 27526,
+        "slowEndTime": 30978
+    },
+    {
+        "text": "Come on, it's Sunday today.",
+        "startTime": 21729,
+        "endTime": 23419,
+        "slowStartTime": 32744,
+        "slowEndTime": 35354
+    },
+    {
+        "text": "You need not go to school today.",
+        "startTime": 23724,
+        "endTime": 25548,
+        "slowStartTime": 35736,
+        "slowEndTime": 38547
+    },
+    {
+        "text": "Jake, will you please put the water in the refrigerator?",
+        "startTime": 27886,
+        "endTime": 31405,
+        "slowStartTime": 41979,
+        "slowEndTime": 47332
+    },
+    {
+        "text": "Do we need to keep water cool all the time?",
+        "startTime": 32504,
+        "endTime": 36049,
+        "slowStartTime": 48906,
+        "slowEndTime": 54299
+    },
+    {
+        "text": "Of course. Cold water keeps us cool in summer.",
+        "startTime": 37169,
+        "endTime": 40925,
+        "slowStartTime": 55903,
+        "slowEndTime": 61613
+    }
+]

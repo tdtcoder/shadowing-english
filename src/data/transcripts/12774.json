@@ -1,0 +1,93 @@
+[
+    {
+        "text": "So what do you want to get, Susie?",
+        "startTime": 3141,
+        "endTime": 4812,
+        "slowStartTime": 4862,
+        "slowEndTime": 7443
+    },
+    {
+        "text": "I want to get a couple of shirts and maybe a pair of pants as well.",
+        "startTime": 5413,
+        "endTime": 9429,
+        "slowStartTime": 8269,
+        "slowEndTime": 14368
+    },
+    {
+        "text": "How about these?",
+        "startTime": 9698,
+        "endTime": 10637,
+        "slowStartTime": 14697,
+        "slowEndTime": 16181
+    },
+    {
+        "text": "I think they'd look good on you.",
+        "startTime": 11052,
+        "endTime": 12363,
+        "slowStartTime": 16728,
+        "slowEndTime": 18770
+    },
+    {
+        "text": "No, I don't think those are what I'm looking for.",
+        "startTime": 12696,
+        "endTime": 15377,
+        "slowStartTime": 19194,
+        "slowEndTime": 23291
+    },
+    {
+        "text": "What kind of shirts are you looking for?",
+        "startTime": 15705,
+        "endTime": 17655,
+        "slowStartTime": 23708,
+        "slowEndTime": 26707
+    },
+    {
+        "text": "Something that will be good for the summer.",
+        "startTime": 18118,
+        "endTime": 19937,
+        "slowStartTime": 27327,
+        "slowEndTime": 30131
+    },
+    {
+        "text": "You know, shortsleeved or even sleeveless.",
+        "startTime": 20095,
+        "endTime": 22716,
+        "slowStartTime": 30293,
+        "slowEndTime": 34299
+    },
+    {
+        "text": "Here, these look nice.",
+        "startTime": 23067,
+        "endTime": 24715,
+        "slowStartTime": 34750,
+        "slowEndTime": 37297
+    },
+    {
+        "text": "Why don't you try on a couple of these?",
+        "startTime": 24951,
+        "endTime": 26928,
+        "slowStartTime": 37577,
+        "slowEndTime": 40617
+    },
+    {
+        "text": "Which do you prefer?",
+        "startTime": 27241,
+        "endTime": 28307,
+        "slowStartTime": 41012,
+        "slowEndTime": 42686
+    },
+    {
+        "text": "This shirt or that one?",
+        "startTime": 28651,
+        "endTime": 29991,
+        "slowStartTime": 43127,
+        "slowEndTime": 45212
+    },
+    {
+        "text": "I think I'd choose this shirt.",
+        "startTime": 30403,
+        "endTime": 31902,
+        "slowStartTime": 45754,
+        "slowEndTime": 48078
+    }
+]

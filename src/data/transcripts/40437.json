@@ -1,0 +1,100 @@
+[
+    {
+        "text": "I'm stepping out...",
+        "startTime": 1167,
+        "endTime": 2060,
+        "slowStartTime": 1901,
+        "slowEndTime": 3315
+    },
+    {
+        "text": "...and you're staying right here.",
+        "startTime": 3475,
+        "endTime": 5199,
+        "slowStartTime": 5362,
+        "slowEndTime": 8023
+    },
+    {
+        "text": "You're not coming with me.",
+        "startTime": 5820,
+        "endTime": 6771,
+        "slowStartTime": 8880,
+        "slowEndTime": 10381
+    },
+    {
+        "text": "Not today.",
+        "startTime": 7231,
+        "endTime": 7729,
+        "slowStartTime": 10996,
+        "slowEndTime": 11818
+    },
+    {
+        "text": "Hey!",
+        "startTime": 14013,
+        "endTime": 14413,
+        "slowStartTime": 21169,
+        "slowEndTime": 21844
+    },
+    {
+        "text": "I said stay put.",
+        "startTime": 15403,
+        "endTime": 16681,
+        "slowStartTime": 23255,
+        "slowEndTime": 25247
+    },
+    {
+        "text": "I see you.",
+        "startTime": 17748,
+        "endTime": 18711,
+        "slowStartTime": 26772,
+        "slowEndTime": 28292
+    },
+    {
+        "text": "You think you can hide from me?",
+        "startTime": 19089,
+        "endTime": 20346,
+        "slowStartTime": 28783,
+        "slowEndTime": 30744
+    },
+    {
+        "text": "There, there.",
+        "startTime": 20539,
+        "endTime": 22645,
+        "slowStartTime": 30958,
+        "slowEndTime": 34192
+    },
+    {
+        "text": "I am so good at hide and seek!",
+        "startTime": 23065,
+        "endTime": 25359,
+        "slowStartTime": 34748,
+        "slowEndTime": 38263
+    },
+    {
+        "text": "This is fun.",
+        "startTime": 25514,
+        "endTime": 26664,
+        "slowStartTime": 38421,
+        "slowEndTime": 40221
+    },
+    {
+        "text": "Try and get out of that.",
+        "startTime": 28168,
+        "endTime": 29554,
+        "slowStartTime": 42402,
+        "slowEndTime": 44556
+    },
+    {
+        "text": "Wow.",
+        "startTime": 30221,
+        "endTime": 30585,
+        "slowStartTime": 45482,
+        "slowEndTime": 46103
+    },
+    {
+        "text": "That's why you're late?",
+        "startTime": 30783,
+        "endTime": 31749,
+        "slowStartTime": 46325,
+        "slowEndTime": 47849
+    }
+]

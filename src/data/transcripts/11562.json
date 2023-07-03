@@ -1,0 +1,58 @@
+[
+    {
+        "text": "The critics say, I'm arrogant,...",
+        "startTime": 20080,
+        "endTime": 21420,
+        "slowStartTime": 30260,
+        "slowEndTime": 32270
+    },
+    {
+        "text": "...a doper,...",
+        "startTime": 25920,
+        "endTime": 26550,
+        "slowStartTime": 39020,
+        "slowEndTime": 39880
+    },
+    {
+        "text": "...washed-up,...",
+        "startTime": 30690,
+        "endTime": 31250,
+        "slowStartTime": 46100,
+        "slowEndTime": 47030
+    },
+    {
+        "text": "...a fraud,...",
+        "startTime": 34630,
+        "endTime": 35300,
+        "slowStartTime": 52070,
+        "slowEndTime": 53110
+    },
+    {
+        "text": "...that I couldn't let it go.",
+        "startTime": 40040,
+        "endTime": 41170,
+        "slowStartTime": 60230,
+        "slowEndTime": 61930
+    },
+    {
+        "text": "They can say whatever they want.",
+        "startTime": 45240,
+        "endTime": 46370,
+        "slowStartTime": 67990,
+        "slowEndTime": 69680
+    },
+    {
+        "text": "I'm not back on my bike...",
+        "startTime": 48110,
+        "endTime": 49380,
+        "slowStartTime": 72260,
+        "slowEndTime": 74060
+    },
+    {
+        "text": "...for them.",
+        "startTime": 49910,
+        "endTime": 50380,
+        "slowStartTime": 75010,
+        "slowEndTime": 75720
+    }
+]

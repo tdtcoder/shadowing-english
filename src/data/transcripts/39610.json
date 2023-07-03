@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Hello, this is Rena.",
+        "startTime": 817,
+        "endTime": 2155,
+        "slowStartTime": 1375,
+        "slowEndTime": 3457
+    },
+    {
+        "text": "Hi Rena, it's Liz.",
+        "startTime": 2575,
+        "endTime": 3889,
+        "slowStartTime": 4013,
+        "slowEndTime": 6059
+    },
+    {
+        "text": "Oh!",
+        "startTime": 4099,
+        "endTime": 4465,
+        "slowStartTime": 6298,
+        "slowEndTime": 6923
+    },
+    {
+        "text": "Hey, Liz! How are you?",
+        "startTime": 4729,
+        "endTime": 6185,
+        "slowStartTime": 7243,
+        "slowEndTime": 9503
+    },
+    {
+        "text": "I'm fine.",
+        "startTime": 6259,
+        "endTime": 6941,
+        "slowStartTime": 9539,
+        "slowEndTime": 10636
+    },
+    {
+        "text": "Hey, I haven't seen you in a while.",
+        "startTime": 7425,
+        "endTime": 9241,
+        "slowStartTime": 11287,
+        "slowEndTime": 14087
+    },
+    {
+        "text": "Do you want to hang out this weekend?",
+        "startTime": 9496,
+        "endTime": 11101,
+        "slowStartTime": 14394,
+        "slowEndTime": 16876
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 11665,
+        "endTime": 12077,
+        "slowStartTime": 17648,
+        "slowEndTime": 18341
+    },
+    {
+        "text": "How about doing something on Saturday?",
+        "startTime": 12713,
+        "endTime": 15083,
+        "slowStartTime": 19220,
+        "slowEndTime": 22849
+    },
+    {
+        "text": "Yeah, I was thinking we could go to the beach.",
+        "startTime": 15726,
+        "endTime": 18435,
+        "slowStartTime": 23739,
+        "slowEndTime": 27878
+    },
+    {
+        "text": "Oh, you know, I'm busy in the afternoon, so I probably can't go to the beach.",
+        "startTime": 18819,
+        "endTime": 24521,
+        "slowStartTime": 28379,
+        "slowEndTime": 37006
+    },
+    {
+        "text": "But I heard there's a really good band playing downtown that night.",
+        "startTime": 25383,
+        "endTime": 28781,
+        "slowStartTime": 38224,
+        "slowEndTime": 43396
+    },
+    {
+        "text": "Oh, okay.",
+        "startTime": 29237,
+        "endTime": 30239,
+        "slowStartTime": 44006,
+        "slowEndTime": 45583
+    },
+    {
+        "text": "A concert sounds great.",
+        "startTime": 30453,
+        "endTime": 31817,
+        "slowStartTime": 45830,
+        "slowEndTime": 47950
+    },
+    {
+        "text": "Do you want to have dinner before?",
+        "startTime": 32593,
+        "endTime": 34489,
+        "slowStartTime": 49039,
+        "slowEndTime": 51959
+    },
+    {
+        "text": "We could eat at my house.",
+        "startTime": 34835,
+        "endTime": 36381,
+        "slowStartTime": 52402,
+        "slowEndTime": 54797
+    },
+    {
+        "text": "Sure!",
+        "startTime": 36656,
+        "endTime": 37113,
+        "slowStartTime": 55134,
+        "slowEndTime": 55894
+    },
+    {
+        "text": "Is seven o'clock too early?",
+        "startTime": 37627,
+        "endTime": 39272,
+        "slowStartTime": 56590,
+        "slowEndTime": 59133
+    },
+    {
+        "text": "No, that's perfect.",
+        "startTime": 39467,
+        "endTime": 40898,
+        "slowStartTime": 59350,
+        "slowEndTime": 61572
+    },
+    {
+        "text": "Okay, I'll see you Saturday night at seven o'clock.",
+        "startTime": 41295,
+        "endTime": 44231,
+        "slowStartTime": 62093,
+        "slowEndTime": 66571
+    },
+    {
+        "text": "Great, I'm looking forward to it.",
+        "startTime": 44729,
+        "endTime": 46661,
+        "slowStartTime": 67244,
+        "slowEndTime": 70217
+    }
+]

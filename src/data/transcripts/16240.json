@@ -1,0 +1,331 @@
+[
+    {
+        "text": "Hi, I'm Katrina Szish for howdini.com.",
+        "startTime": 4234,
+        "endTime": 6435,
+        "slowStartTime": 6501,
+        "slowEndTime": 9877
+    },
+    {
+        "text": "Nothing makes a bad first impression like a bad handshake.",
+        "startTime": 6857,
+        "endTime": 10555,
+        "slowStartTime": 10435,
+        "slowEndTime": 16058
+    },
+    {
+        "text": "Here to show us how to avoid that pitfall is Melissa Kirsch,...",
+        "startTime": 11025,
+        "endTime": 13927,
+        "slowStartTime": 16687,
+        "slowEndTime": 21115
+    },
+    {
+        "text": "...the author of \"The Girl's Guide to Absolutely Everything\".",
+        "startTime": 14041,
+        "endTime": 16899,
+        "slowStartTime": 21212,
+        "slowEndTime": 25573
+    },
+    {
+        "text": "Thanks for joining us, Melissa.",
+        "startTime": 17197,
+        "endTime": 18301,
+        "slowStartTime": 25946,
+        "slowEndTime": 27677
+    },
+    {
+        "text": "Thanks for having me.",
+        "startTime": 18427,
+        "endTime": 19354,
+        "slowStartTime": 27790,
+        "slowEndTime": 29256
+    },
+    {
+        "text": "One thing that you say is most important about a handshake has nothing to do with the hands.",
+        "startTime": 19941,
+        "endTime": 25201,
+        "slowStartTime": 30061,
+        "slowEndTime": 38027
+    },
+    {
+        "text": "It's in the gaze: you don't want to be giving that come-hither glance...",
+        "startTime": 25609,
+        "endTime": 29335,
+        "slowStartTime": 38563,
+        "slowEndTime": 44227
+    },
+    {
+        "text": "...or you don't want to be looking down at your papers on the desk or anything.",
+        "startTime": 29451,
+        "endTime": 32529,
+        "slowStartTime": 44326,
+        "slowEndTime": 49018
+    },
+    {
+        "text": "You want to be making eye contact with the person that you're meeting.",
+        "startTime": 32808,
+        "endTime": 35141,
+        "slowStartTime": 49362,
+        "slowEndTime": 52937
+    },
+    {
+        "text": "Okay, now tell me about the grip.",
+        "startTime": 35297,
+        "endTime": 37197,
+        "slowStartTime": 53095,
+        "slowEndTime": 56020
+    },
+    {
+        "text": "Some people have spaghetti hands.",
+        "startTime": 37384,
+        "endTime": 39445,
+        "slowStartTime": 56226,
+        "slowEndTime": 59393
+    },
+    {
+        "text": "Some people will be trying too hard to crush you.",
+        "startTime": 39839,
+        "endTime": 42663,
+        "slowStartTime": 59908,
+        "slowEndTime": 64220
+    },
+    {
+        "text": "What's the proper balance?",
+        "startTime": 43187,
+        "endTime": 44590,
+        "slowStartTime": 64931,
+        "slowEndTime": 67110
+    },
+    {
+        "text": "We want parallel fingers, strong hand, strong arm; reach in, grip.",
+        "startTime": 44767,
+        "endTime": 51917,
+        "slowStartTime": 67300,
+        "slowEndTime": 78100
+    },
+    {
+        "text": "Okay.",
+        "startTime": 52626,
+        "endTime": 52976,
+        "slowStartTime": 79089,
+        "slowEndTime": 79689
+    },
+    {
+        "text": "No shaking, just one grip like this.",
+        "startTime": 53170,
+        "endTime": 55751,
+        "slowStartTime": 79905,
+        "slowEndTime": 83852
+    },
+    {
+        "text": "Okay, so no shaking, so shaking hands doesn't mean shaking my hand.",
+        "startTime": 56228,
+        "endTime": 60347,
+        "slowStartTime": 84492,
+        "slowEndTime": 90746
+    },
+    {
+        "text": "Exactly. It's not Hands Across America. It's not Red Rover. It's one shake.",
+        "startTime": 60494,
+        "endTime": 65273,
+        "slowStartTime": 90891,
+        "slowEndTime": 98135
+    },
+    {
+        "text": "Exactly, no violence, no. We don't want to rip anybody's arm off.",
+        "startTime": 65396,
+        "endTime": 70492,
+        "slowStartTime": 98244,
+        "slowEndTime": 105963
+    },
+    {
+        "text": "It's just one shake down like this.",
+        "startTime": 70573,
+        "endTime": 72254,
+        "slowStartTime": 106009,
+        "slowEndTime": 108606
+    },
+    {
+        "text": "Okay. Now, I know some people tend to give a very little delicate handshake.",
+        "startTime": 72448,
+        "endTime": 76761,
+        "slowStartTime": 108822,
+        "slowEndTime": 115367
+    },
+    {
+        "text": "No mincing handshakes.",
+        "startTime": 76883,
+        "endTime": 78329,
+        "slowStartTime": 115475,
+        "slowEndTime": 117718
+    },
+    {
+        "text": "We all shook hands with somebody who has all of the moxie of a dead trout.",
+        "startTime": 78409,
+        "endTime": 82047,
+        "slowStartTime": 117764,
+        "slowEndTime": 123295
+    },
+    {
+        "text": "You want parallel fingers; tight, strong, muscular arm and hand.",
+        "startTime": 82330,
+        "endTime": 86344,
+        "slowStartTime": 123645,
+        "slowEndTime": 129741
+    },
+    {
+        "text": "What about the shaking? It's called the handshake,...",
+        "startTime": 87189,
+        "endTime": 89823,
+        "slowStartTime": 130934,
+        "slowEndTime": 134959
+    },
+    {
+        "text": "...and some people like to really shake their hands up and down.",
+        "startTime": 89905,
+        "endTime": 92245,
+        "slowStartTime": 135008,
+        "slowEndTime": 138593
+    },
+    {
+        "text": "It really should be called a handgrip.",
+        "startTime": 92371,
+        "endTime": 93963,
+        "slowStartTime": 138706,
+        "slowEndTime": 141170
+    },
+    {
+        "text": "We don't want any pumping, any flailing: just one, quick grip.",
+        "startTime": 94052,
+        "endTime": 97457,
+        "slowStartTime": 141228,
+        "slowEndTime": 146411
+    },
+    {
+        "text": "Now, what if somebody starts pumping and you're trying just to grip?",
+        "startTime": 98689,
+        "endTime": 102107,
+        "slowStartTime": 148184,
+        "slowEndTime": 153386
+    },
+    {
+        "text": "How do you stop them from their overzealous handshaking?",
+        "startTime": 102223,
+        "endTime": 106135,
+        "slowStartTime": 153485,
+        "slowEndTime": 159428
+    },
+    {
+        "text": "Pull that hand out of there.",
+        "startTime": 106585,
+        "endTime": 107877,
+        "slowStartTime": 160028,
+        "slowEndTime": 162040
+    },
+    {
+        "text": "Just get out of the situation.",
+        "startTime": 108379,
+        "endTime": 109635,
+        "slowStartTime": 162718,
+        "slowEndTime": 164678
+    },
+    {
+        "text": "Exactly. It may be uncomfortable for a moment, but get yourself out of the situation.",
+        "startTime": 109800,
+        "endTime": 113933,
+        "slowStartTime": 164850,
+        "slowEndTime": 171124
+    },
+    {
+        "text": "Now, this last question is something that, I think,...",
+        "startTime": 114269,
+        "endTime": 116401,
+        "slowStartTime": 171553,
+        "slowEndTime": 174827
+    },
+    {
+        "text": "...everyone must admit has happened to them even though they don't want to:...",
+        "startTime": 116485,
+        "endTime": 119229,
+        "slowStartTime": 174877,
+        "slowEndTime": 179069
+    },
+    {
+        "text": "...you want to shake someone's hands, but your hands are kind of clammy. What do you do?",
+        "startTime": 119805,
+        "endTime": 123873,
+        "slowStartTime": 179857,
+        "slowEndTime": 186035
+    },
+    {
+        "text": "It happens to the best of us.",
+        "startTime": 124639,
+        "endTime": 125945,
+        "slowStartTime": 187109,
+        "slowEndTime": 189142
+    },
+    {
+        "text": "A discreet rubbing off of the palms on the skirt or the pants will alleviate that problem.",
+        "startTime": 126117,
+        "endTime": 131005,
+        "slowStartTime": 189325,
+        "slowEndTime": 196733
+    },
+    {
+        "text": "But, of course, you don't want just your other hand shake or to see that you are wiping your palm.",
+        "startTime": 131145,
+        "endTime": 135228,
+        "slowStartTime": 196867,
+        "slowEndTime": 203067
+    },
+    {
+        "text": "Exactly. It has to be a stealth move.",
+        "startTime": 135308,
+        "endTime": 137167,
+        "slowStartTime": 203112,
+        "slowEndTime": 205976
+    },
+    {
+        "text": "Discretion is key.",
+        "startTime": 137270,
+        "endTime": 138291,
+        "slowStartTime": 206055,
+        "slowEndTime": 207661
+    },
+    {
+        "text": "Right.",
+        "startTime": 138488,
+        "endTime": 138783,
+        "slowStartTime": 207882,
+        "slowEndTime": 208400
+    },
+    {
+        "text": "Okay well, before I say goodbye let's practice a perfect handshake.",
+        "startTime": 139757,
+        "endTime": 143291,
+        "slowStartTime": 209786,
+        "slowEndTime": 215162
+    },
+    {
+        "text": "Hopefully, I'll do this right.",
+        "startTime": 144251,
+        "endTime": 145073,
+        "slowStartTime": 216526,
+        "slowEndTime": 217835
+    },
+    {
+        "text": "Thank you for joining us, Melissa.",
+        "startTime": 148236,
+        "endTime": 149885,
+        "slowStartTime": 222504,
+        "slowEndTime": 225053
+    },
+    {
+        "text": "Thanks for having me.",
+        "startTime": 150152,
+        "endTime": 151073,
+        "slowStartTime": 225378,
+        "slowEndTime": 226834
+    }
+]

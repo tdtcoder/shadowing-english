@@ -1,0 +1,156 @@
+[
+    {
+        "text": "Hello?",
+        "startTime": 8500,
+        "endTime": 8850,
+        "slowStartTime": 12950,
+        "slowEndTime": 13600
+    },
+    {
+        "text": "It's Jack.",
+        "startTime": 9500,
+        "endTime": 10050,
+        "slowStartTime": 14500,
+        "slowEndTime": 15300
+    },
+    {
+        "text": "I want out.",
+        "startTime": 14700,
+        "endTime": 15250,
+        "slowStartTime": 22250,
+        "slowEndTime": 23100
+    },
+    {
+        "text": "Consider it your last job.",
+        "startTime": 17250,
+        "endTime": 18600,
+        "slowStartTime": 26100,
+        "slowEndTime": 28100
+    },
+    {
+        "text": "You don't even have to pull the trigger.",
+        "startTime": 19250,
+        "endTime": 20550,
+        "slowStartTime": 29050,
+        "slowEndTime": 31050
+    },
+    {
+        "text": "You're an American.",
+        "startTime": 22250,
+        "endTime": 23000,
+        "slowStartTime": 33575,
+        "slowEndTime": 34700
+    },
+    {
+        "text": "I'll say, a working vacation.",
+        "startTime": 23250,
+        "endTime": 24950,
+        "slowStartTime": 35050,
+        "slowEndTime": 37700
+    },
+    {
+        "text": "You have the hands of a craftsman.",
+        "startTime": 28500,
+        "endTime": 30500,
+        "slowStartTime": 42950,
+        "slowEndTime": 45950
+    },
+    {
+        "text": "You are good with machines.",
+        "startTime": 32350,
+        "endTime": 33600,
+        "slowStartTime": 48700,
+        "slowEndTime": 50600
+    },
+    {
+        "text": "I do what I'm good at.",
+        "startTime": 34300,
+        "endTime": 35050,
+        "slowStartTime": 51600,
+        "slowEndTime": 52800
+    },
+    {
+        "text": "The Belgians think someone might have put a tail on you.",
+        "startTime": 37750,
+        "endTime": 39850,
+        "slowStartTime": 56850,
+        "slowEndTime": 60000
+    },
+    {
+        "text": "You've got a long list of enemies, Jack.",
+        "startTime": 42150,
+        "endTime": 44100,
+        "slowStartTime": 63400,
+        "slowEndTime": 66400
+    },
+    {
+        "text": "I told them no one gets close to you.",
+        "startTime": 45250,
+        "endTime": 46850,
+        "slowStartTime": 68050,
+        "slowEndTime": 70400
+    },
+    {
+        "text": "They don't.",
+        "startTime": 47050,
+        "endTime": 47600,
+        "slowStartTime": 70800,
+        "slowEndTime": 71700
+    },
+    {
+        "text": "You're a good man, but you have a secret.",
+        "startTime": 48900,
+        "endTime": 52150,
+        "slowStartTime": 73600,
+        "slowEndTime": 78450
+    },
+    {
+        "text": "You have done a lot of sinning.",
+        "startTime": 53700,
+        "endTime": 55400,
+        "slowStartTime": 80750,
+        "slowEndTime": 83350
+    },
+    {
+        "text": "All men are sinners.",
+        "startTime": 56600,
+        "endTime": 57450,
+        "slowStartTime": 85050,
+        "slowEndTime": 86350
+    },
+    {
+        "text": "Everything I've done, I've had good cause to do.",
+        "startTime": 59250,
+        "endTime": 60850,
+        "slowStartTime": 89050,
+        "slowEndTime": 91550
+    },
+    {
+        "text": "I can't stay forever.",
+        "startTime": 66950,
+        "endTime": 68000,
+        "slowStartTime": 100650,
+        "slowEndTime": 102200
+    },
+    {
+        "text": "Take me with you.",
+        "startTime": 70550,
+        "endTime": 71400,
+        "slowStartTime": 106050,
+        "slowEndTime": 107300
+    },
+    {
+        "text": "A man can be rich if he has God in his heart.",
+        "startTime": 73850,
+        "endTime": 77950,
+        "slowStartTime": 111000,
+        "slowEndTime": 117100
+    },
+    {
+        "text": "I don't think God is very interested in me, Father.",
+        "startTime": 79350,
+        "endTime": 81200,
+        "slowStartTime": 119200,
+        "slowEndTime": 122050
+    }
+]

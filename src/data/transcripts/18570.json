@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Hello! It's me, Marty Moose.",
+        "startTime": 2109,
+        "endTime": 5579,
+        "slowStartTime": 3314,
+        "slowEndTime": 8593
+    },
+    {
+        "text": "I like maple syrup.",
+        "startTime": 6957,
+        "endTime": 8581,
+        "slowStartTime": 10586,
+        "slowEndTime": 13096
+    },
+    {
+        "text": "It's yummy.",
+        "startTime": 9677,
+        "endTime": 10559,
+        "slowStartTime": 14666,
+        "slowEndTime": 16064
+    },
+    {
+        "text": "What do you like?",
+        "startTime": 11773,
+        "endTime": 12930,
+        "slowStartTime": 17810,
+        "slowEndTime": 19620
+    },
+    {
+        "text": "Let's ask my friends what they like, okay?",
+        "startTime": 14355,
+        "endTime": 17850,
+        "slowStartTime": 21682,
+        "slowEndTime": 27000
+    },
+    {
+        "text": "Let's go!",
+        "startTime": 18709,
+        "endTime": 19561,
+        "slowStartTime": 28214,
+        "slowEndTime": 29566
+    },
+    {
+        "text": "Hello, cook!",
+        "startTime": 27318,
+        "endTime": 28267,
+        "slowStartTime": 41127,
+        "slowEndTime": 42626
+    },
+    {
+        "text": "What do you like?",
+        "startTime": 29408,
+        "endTime": 30824,
+        "slowStartTime": 44262,
+        "slowEndTime": 46461
+    },
+    {
+        "text": "I like pizza.",
+        "startTime": 33431,
+        "endTime": 34912,
+        "slowStartTime": 50296,
+        "slowEndTime": 52593
+    },
+    {
+        "text": "It's yummy!",
+        "startTime": 35961,
+        "endTime": 37143,
+        "slowStartTime": 54091,
+        "slowEndTime": 55939
+    },
+    {
+        "text": "Oh, I see.",
+        "startTime": 37783,
+        "endTime": 39269,
+        "slowStartTime": 56824,
+        "slowEndTime": 59128
+    },
+    {
+        "text": "Hello, Peter Penguin.",
+        "startTime": 45219,
+        "endTime": 46823,
+        "slowStartTime": 67979,
+        "slowEndTime": 70460
+    },
+    {
+        "text": "What do you like?",
+        "startTime": 47812,
+        "endTime": 49309,
+        "slowStartTime": 71868,
+        "slowEndTime": 74188
+    },
+    {
+        "text": "I like fish.",
+        "startTime": 51931,
+        "endTime": 53383,
+        "slowStartTime": 78046,
+        "slowEndTime": 80299
+    },
+    {
+        "text": "It's yummy!",
+        "startTime": 54205,
+        "endTime": 55257,
+        "slowStartTime": 81457,
+        "slowEndTime": 83111
+    },
+    {
+        "text": "Yeah, it is!",
+        "startTime": 55837,
+        "endTime": 57510,
+        "slowStartTime": 83905,
+        "slowEndTime": 86490
+    },
+    {
+        "text": "Hello Pirate Bob.",
+        "startTime": 64045,
+        "endTime": 65747,
+        "slowStartTime": 96217,
+        "slowEndTime": 98846
+    },
+    {
+        "text": "What do you like?",
+        "startTime": 66743,
+        "endTime": 68385,
+        "slowStartTime": 100265,
+        "slowEndTime": 102802
+    },
+    {
+        "text": "I like chocolate.",
+        "startTime": 70953,
+        "endTime": 72771,
+        "slowStartTime": 106579,
+        "slowEndTime": 109381
+    },
+    {
+        "text": "It's yummy!",
+        "startTime": 73647,
+        "endTime": 75271,
+        "slowStartTime": 110620,
+        "slowEndTime": 113132
+    },
+    {
+        "text": "Me too.",
+        "startTime": 75654,
+        "endTime": 76700,
+        "slowStartTime": 113631,
+        "slowEndTime": 115275
+    },
+    {
+        "text": "Hello, Wendy Witch.",
+        "startTime": 84903,
+        "endTime": 86295,
+        "slowStartTime": 127504,
+        "slowEndTime": 129667
+    },
+    {
+        "text": "What do you like?",
+        "startTime": 87073,
+        "endTime": 88300,
+        "slowStartTime": 130759,
+        "slowEndTime": 132675
+    },
+    {
+        "text": "Well, I like snake pudding.",
+        "startTime": 89144,
+        "endTime": 94787,
+        "slowStartTime": 133866,
+        "slowEndTime": 142406
+    },
+    {
+        "text": "Snake pudding?",
+        "startTime": 95645,
+        "endTime": 97301,
+        "slowStartTime": 143617,
+        "slowEndTime": 146177
+    },
+    {
+        "text": "Yes, it's yummy!",
+        "startTime": 97961,
+        "endTime": 100895,
+        "slowStartTime": 147091,
+        "slowEndTime": 151568
+    },
+    {
+        "text": "What do you like?",
+        "startTime": 109263,
+        "endTime": 110809,
+        "slowStartTime": 164044,
+        "slowEndTime": 166439
+    }
+]

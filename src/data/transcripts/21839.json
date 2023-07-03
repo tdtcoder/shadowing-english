@@ -1,0 +1,72 @@
+[
+    {
+        "text": "What's the matter? Are you sick?",
+        "startTime": 23447,
+        "endTime": 24569,
+        "slowStartTime": 35320,
+        "slowEndTime": 37079
+    },
+    {
+        "text": "You look pale. What's the matter?",
+        "startTime": 26895,
+        "endTime": 29265,
+        "slowStartTime": 40493,
+        "slowEndTime": 44122
+    },
+    {
+        "text": "Hey, what's the matter Anne? Do you have a problem?",
+        "startTime": 31295,
+        "endTime": 34123,
+        "slowStartTime": 47092,
+        "slowEndTime": 51409
+    },
+    {
+        "text": "Kirsten, are you all right?",
+        "startTime": 38409,
+        "endTime": 40464,
+        "slowStartTime": 57763,
+        "slowEndTime": 60921
+    },
+    {
+        "text": "Hey, are you all right? You sound terrible!",
+        "startTime": 42066,
+        "endTime": 44617,
+        "slowStartTime": 63249,
+        "slowEndTime": 67150
+    },
+    {
+        "text": "Pardon me. Excuse me. Hannah! Are you okay?",
+        "startTime": 48217,
+        "endTime": 51509,
+        "slowStartTime": 72475,
+        "slowEndTime": 77488
+    },
+    {
+        "text": "Mommy is here. Are you okay?",
+        "startTime": 53336,
+        "endTime": 56120,
+        "slowStartTime": 80154,
+        "slowEndTime": 84405
+    },
+    {
+        "text": "You don't look happy. What's wrong?",
+        "startTime": 59566,
+        "endTime": 61459,
+        "slowStartTime": 89499,
+        "slowEndTime": 92414
+    },
+    {
+        "text": "You don't look well. What's wrong with you?",
+        "startTime": 63747,
+        "endTime": 66523,
+        "slowStartTime": 95770,
+        "slowEndTime": 100010
+    },
+    {
+        "text": "Do you want to talk about it with us?",
+        "startTime": 70306,
+        "endTime": 71532,
+        "slowStartTime": 105609,
+        "slowEndTime": 107523
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "text": "For this little panda to be happy, the tree has to be happy.",
+        "startTime": 1550,
+        "endTime": 5200,
+        "slowStartTime": 2475,
+        "slowEndTime": 8100
+    },
+    {
+        "text": "And for the tree to be happy, the air it breathes has to be happy.",
+        "startTime": 6200,
+        "endTime": 9650,
+        "slowStartTime": 9500,
+        "slowEndTime": 14750
+    },
+    {
+        "text": "And if the air is happy, the climate is happy.",
+        "startTime": 10650,
+        "endTime": 13450,
+        "slowStartTime": 16150,
+        "slowEndTime": 20400
+    },
+    {
+        "text": "And if the climate is happy, nature is happy.",
+        "startTime": 14750,
+        "endTime": 17550,
+        "slowStartTime": 22300,
+        "slowEndTime": 26450
+    },
+    {
+        "text": "And if nature is happy, people and the way they live and work,...",
+        "startTime": 20550,
+        "endTime": 23800,
+        "slowStartTime": 31050,
+        "slowEndTime": 35875
+    },
+    {
+        "text": "...and the panda are all happy.",
+        "startTime": 24000,
+        "endTime": 26050,
+        "slowStartTime": 36200,
+        "slowEndTime": 39300
+    },
+    {
+        "text": "A happy future is a serious business.",
+        "startTime": 26900,
+        "endTime": 29000,
+        "slowStartTime": 40500,
+        "slowEndTime": 43750
+    },
+    {
+        "text": "We work in partnership with governments, corporations, and communities to secure that future,...",
+        "startTime": 29350,
+        "endTime": 34000,
+        "slowStartTime": 44150,
+        "slowEndTime": 51200
+    },
+    {
+        "text": "...because we're all connected.",
+        "startTime": 34400,
+        "endTime": 35850,
+        "slowStartTime": 51825,
+        "slowEndTime": 54050
+    },
+    {
+        "text": "And that's WWF's business.",
+        "startTime": 36200,
+        "endTime": 38150,
+        "slowStartTime": 54550,
+        "slowEndTime": 57450
+    }
+]

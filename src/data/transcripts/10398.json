@@ -1,0 +1,107 @@
+[
+    {
+        "text": "I'm pleased to introduce my company, Tokyo Technology.",
+        "startTime": 100,
+        "endTime": 3000,
+        "slowStartTime": 400,
+        "slowEndTime": 4600
+    },
+    {
+        "text": "Let me start off by giving a brief corporate overview, followed by a more thorough product review.",
+        "startTime": 3850,
+        "endTime": 8500,
+        "slowStartTime": 5700,
+        "slowEndTime": 12800
+    },
+    {
+        "text": "Our company was established in May of 1999. We just celebrated our 10th anniversary last month.",
+        "startTime": 9250,
+        "endTime": 15900,
+        "slowStartTime": 13800,
+        "slowEndTime": 23800
+    },
+    {
+        "text": "Our headquarters are located at Shibuya in Tokyo.",
+        "startTime": 16600,
+        "endTime": 19350,
+        "slowStartTime": 24800,
+        "slowEndTime": 29000
+    },
+    {
+        "text": "We also have a branch office in Osaka.",
+        "startTime": 20100,
+        "endTime": 22350,
+        "slowStartTime": 30100,
+        "slowEndTime": 33600
+    },
+    {
+        "text": "Our founder and CEO is Norio Matsuda.",
+        "startTime": 23100,
+        "endTime": 26100,
+        "slowStartTime": 34600,
+        "slowEndTime": 39200
+    },
+    {
+        "text": "He has more than 20 years of experience in this industry.",
+        "startTime": 26950,
+        "endTime": 29700,
+        "slowStartTime": 40400,
+        "slowEndTime": 44600
+    },
+    {
+        "text": "The total number of employees as of last month was 358.",
+        "startTime": 30500,
+        "endTime": 34900,
+        "slowStartTime": 45700,
+        "slowEndTime": 52600
+    },
+    {
+        "text": "As you can see from this chart, our revenues continue to grow.",
+        "startTime": 35800,
+        "endTime": 39600,
+        "slowStartTime": 53900,
+        "slowEndTime": 59500
+    },
+    {
+        "text": "We have grown our top line at a rate of 12% per year, since we started the business 10 years ago.",
+        "startTime": 40350,
+        "endTime": 45400,
+        "slowStartTime": 60780,
+        "slowEndTime": 68300
+    },
+    {
+        "text": "We are very proud of this achievement.",
+        "startTime": 46200,
+        "endTime": 48350,
+        "slowStartTime": 69550,
+        "slowEndTime": 72600
+    },
+    {
+        "text": "Sales in 2008 were 122 million dollars, slightly above our target of 120 million dollars.",
+        "startTime": 49200,
+        "endTime": 56050,
+        "slowStartTime": 74000,
+        "slowEndTime": 84200
+    },
+    {
+        "text": "Due to the current economic situation, this year will be very tough.",
+        "startTime": 56900,
+        "endTime": 61100,
+        "slowStartTime": 85580,
+        "slowEndTime": 91800
+    },
+    {
+        "text": "Even so, the first quarter of this year was not as bad as expected.",
+        "startTime": 61850,
+        "endTime": 65650,
+        "slowStartTime": 93000,
+        "slowEndTime": 98530
+    },
+    {
+        "text": "Sales were 27 million dollars, down 8 percent from first quarter 2008.",
+        "startTime": 65800,
+        "endTime": 70700,
+        "slowStartTime": 99000,
+        "slowEndTime": 106150
+    }
+]

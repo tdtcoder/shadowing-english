@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Heck, let's brown bag that idea.",
+        "startTime": 126,
+        "endTime": 1528,
+        "slowStartTime": 339,
+        "slowEndTime": 2517
+    },
+    {
+        "text": "I'll put it on the back burner.",
+        "startTime": 2227,
+        "endTime": 3293,
+        "slowStartTime": 3491,
+        "slowEndTime": 5164
+    },
+    {
+        "text": "I'm gonna have to marinate on that.",
+        "startTime": 3417,
+        "endTime": 4566,
+        "slowStartTime": 5276,
+        "slowEndTime": 7074
+    },
+    {
+        "text": "I don't think that's in the foreseeable future.",
+        "startTime": 4711,
+        "endTime": 6281,
+        "slowStartTime": 7216,
+        "slowEndTime": 9647
+    },
+    {
+        "text": "That doesn't sound actionable.",
+        "startTime": 6395,
+        "endTime": 7557,
+        "slowStartTime": 9743,
+        "slowEndTime": 11560
+    },
+    {
+        "text": "I'm not ready to get in bed with this.",
+        "startTime": 7732,
+        "endTime": 9023,
+        "slowStartTime": 11748,
+        "slowEndTime": 13760
+    },
+    {
+        "text": "That's not mission-critical.",
+        "startTime": 9715,
+        "endTime": 10835,
+        "slowStartTime": 14722,
+        "slowEndTime": 16477
+    },
+    {
+        "text": "I think that's sideways energy.",
+        "startTime": 10990,
+        "endTime": 12325,
+        "slowStartTime": 16635,
+        "slowEndTime": 18713
+    },
+    {
+        "text": "That's not even in our wheelhouse.",
+        "startTime": 12464,
+        "endTime": 13889,
+        "slowStartTime": 18846,
+        "slowEndTime": 21059
+    },
+    {
+        "text": "I don't have a wheelhouse.",
+        "startTime": 14044,
+        "endTime": 14789,
+        "slowStartTime": 21216,
+        "slowEndTime": 22409
+    },
+    {
+        "text": "I mean, I have a house.",
+        "startTime": 15481,
+        "endTime": 16325,
+        "slowStartTime": 23371,
+        "slowEndTime": 24713
+    }
+]

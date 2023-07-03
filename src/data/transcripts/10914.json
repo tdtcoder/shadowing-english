@@ -1,0 +1,79 @@
+[
+    {
+        "text": "From Studio Ghibli,...",
+        "startTime": 8810,
+        "endTime": 10310,
+        "slowStartTime": 13330,
+        "slowEndTime": 15595
+    },
+    {
+        "text": "...creators of the award-winning \"Spirited Away\"...",
+        "startTime": 10870,
+        "endTime": 13580,
+        "slowStartTime": 16360,
+        "slowEndTime": 20475
+    },
+    {
+        "text": "...and \"Howl's Moving Castle\",...",
+        "startTime": 13950,
+        "endTime": 15820,
+        "slowStartTime": 20990,
+        "slowEndTime": 23950
+    },
+    {
+        "text": "...comes a breathtaking adventure...",
+        "startTime": 16450,
+        "endTime": 18550,
+        "slowStartTime": 24810,
+        "slowEndTime": 27890
+    },
+    {
+        "text": "...\"Tales from Earthsea.\"",
+        "startTime": 20220,
+        "endTime": 22380,
+        "slowStartTime": 30510,
+        "slowEndTime": 33600
+    },
+    {
+        "text": "Share the adventures...",
+        "startTime": 23290,
+        "endTime": 24720,
+        "slowStartTime": 35050,
+        "slowEndTime": 37150
+    },
+    {
+        "text": "...of a powerful wizard...",
+        "startTime": 24990,
+        "endTime": 26530,
+        "slowStartTime": 37560,
+        "slowEndTime": 39890
+    },
+    {
+        "text": "...and a young prince,...",
+        "startTime": 26860,
+        "endTime": 28260,
+        "slowStartTime": 40330,
+        "slowEndTime": 42450
+    },
+    {
+        "text": "...as they journey...",
+        "startTime": 28630,
+        "endTime": 29830,
+        "slowStartTime": 43030,
+        "slowEndTime": 44860
+    },
+    {
+        "text": "...on an epic adventure...",
+        "startTime": 30130,
+        "endTime": 31960,
+        "slowStartTime": 45345,
+        "slowEndTime": 48025
+    },
+    {
+        "text": "...\"Tales from Earthsea.\"",
+        "startTime": 56920,
+        "endTime": 59260,
+        "slowStartTime": 85485,
+        "slowEndTime": 89110
+    }
+]

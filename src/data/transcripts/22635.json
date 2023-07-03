@@ -1,0 +1,114 @@
+[
+    {
+        "text": "This is a long vowel sound.",
+        "startTime": 4465,
+        "endTime": 6185,
+        "slowStartTime": 6847,
+        "slowEndTime": 9502
+    },
+    {
+        "text": "It's pronounced /u/.",
+        "startTime": 6531,
+        "endTime": 8865,
+        "slowStartTime": 9946,
+        "slowEndTime": 13522
+    },
+    {
+        "text": "Now you try.",
+        "startTime": 9665,
+        "endTime": 10447,
+        "slowStartTime": 14647,
+        "slowEndTime": 15896
+    },
+    {
+        "text": "Repeat after me /u/, /u/.",
+        "startTime": 10687,
+        "endTime": 17757,
+        "slowStartTime": 16180,
+        "slowEndTime": 26861
+    },
+    {
+        "text": "Now here are some words which have this sound.",
+        "startTime": 20699,
+        "endTime": 22755,
+        "slowStartTime": 31199,
+        "slowEndTime": 34357
+    },
+    {
+        "text": "Goose.",
+        "startTime": 23773,
+        "endTime": 24520,
+        "slowStartTime": 35810,
+        "slowEndTime": 37005
+    },
+    {
+        "text": "Two.",
+        "startTime": 25745,
+        "endTime": 26500,
+        "slowStartTime": 38768,
+        "slowEndTime": 39975
+    },
+    {
+        "text": "Blue.",
+        "startTime": 27717,
+        "endTime": 28509,
+        "slowStartTime": 41725,
+        "slowEndTime": 42989
+    },
+    {
+        "text": "Group.",
+        "startTime": 29772,
+        "endTime": 30550,
+        "slowStartTime": 44808,
+        "slowEndTime": 46050
+    },
+    {
+        "text": "Now you try.",
+        "startTime": 31269,
+        "endTime": 32200,
+        "slowStartTime": 47053,
+        "slowEndTime": 48525
+    },
+    {
+        "text": "Listen carefully and repeat after me.",
+        "startTime": 33127,
+        "endTime": 35603,
+        "slowStartTime": 49841,
+        "slowEndTime": 53630
+    },
+    {
+        "text": "Goose.",
+        "startTime": 36543,
+        "endTime": 37221,
+        "slowStartTime": 54964,
+        "slowEndTime": 56057
+    },
+    {
+        "text": "Two.",
+        "startTime": 39726,
+        "endTime": 40593,
+        "slowStartTime": 59739,
+        "slowEndTime": 61114
+    },
+    {
+        "text": "Blue.",
+        "startTime": 43603,
+        "endTime": 44605,
+        "slowStartTime": 65554,
+        "slowEndTime": 67132
+    },
+    {
+        "text": "Group.",
+        "startTime": 47733,
+        "endTime": 48674,
+        "slowStartTime": 71750,
+        "slowEndTime": 73236
+    },
+    {
+        "text": "Good.",
+        "startTime": 50693,
+        "endTime": 51448,
+        "slowStartTime": 76190,
+        "slowEndTime": 77397
+    }
+]

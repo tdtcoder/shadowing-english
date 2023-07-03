@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Hello Jenny. How are you today?",
+        "startTime": 149,
+        "endTime": 1827,
+        "slowStartTime": 373,
+        "slowEndTime": 2965
+    },
+    {
+        "text": "Oh, hello Mr Jones.",
+        "startTime": 2424,
+        "endTime": 3878,
+        "slowStartTime": 3786,
+        "slowEndTime": 6042
+    },
+    {
+        "text": "I'm fine, thank you.",
+        "startTime": 4170,
+        "endTime": 5163,
+        "slowStartTime": 6405,
+        "slowEndTime": 7970
+    },
+    {
+        "text": "Jenny, let me introduce you to Claire Smith.",
+        "startTime": 5705,
+        "endTime": 8317,
+        "slowStartTime": 8707,
+        "slowEndTime": 12701
+    },
+    {
+        "text": "Claire will be taking over as shop manager from Carol...",
+        "startTime": 8565,
+        "endTime": 11131,
+        "slowStartTime": 12998,
+        "slowEndTime": 16921
+    },
+    {
+        "text": "...when she leaves at the end of the month.",
+        "startTime": 11219,
+        "endTime": 12731,
+        "slowStartTime": 16978,
+        "slowEndTime": 19321
+    },
+    {
+        "text": "Claire, Jenny is one of our three full-time shop assistants.",
+        "startTime": 13609,
+        "endTime": 17026,
+        "slowStartTime": 20563,
+        "slowEndTime": 25764
+    },
+    {
+        "text": "Pleased to meet you, Jenny.",
+        "startTime": 17637,
+        "endTime": 18774,
+        "slowStartTime": 26606,
+        "slowEndTime": 28386
+    },
+    {
+        "text": "Pleased to meet you too.",
+        "startTime": 18975,
+        "endTime": 20318,
+        "slowStartTime": 28613,
+        "slowEndTime": 30702
+    },
+    {
+        "text": "Have you been working here long?",
+        "startTime": 20699,
+        "endTime": 22063,
+        "slowStartTime": 31198,
+        "slowEndTime": 33319
+    },
+    {
+        "text": "Almost two years now.",
+        "startTime": 22545,
+        "endTime": 23695,
+        "slowStartTime": 33968,
+        "slowEndTime": 35767
+    },
+    {
+        "text": "I started right after leaving school.",
+        "startTime": 24023,
+        "endTime": 25782,
+        "slowStartTime": 36185,
+        "slowEndTime": 38898
+    },
+    {
+        "text": "Oh, and this is Simon Thompson, our accountant.",
+        "startTime": 26767,
+        "endTime": 29657,
+        "slowStartTime": 40300,
+        "slowEndTime": 44711
+    },
+    {
+        "text": "Simon's from Down Under.",
+        "startTime": 29911,
+        "endTime": 31235,
+        "slowStartTime": 45017,
+        "slowEndTime": 47078
+    },
+    {
+        "text": "How do you do?",
+        "startTime": 31663,
+        "endTime": 32289,
+        "slowStartTime": 47645,
+        "slowEndTime": 48658
+    },
+    {
+        "text": "Pleased to meet you, Simon.",
+        "startTime": 32812,
+        "endTime": 34001,
+        "slowStartTime": 49368,
+        "slowEndTime": 51226
+    },
+    {
+        "text": "I've always wanted to visit Australia.",
+        "startTime": 34403,
+        "endTime": 36332,
+        "slowStartTime": 51755,
+        "slowEndTime": 54723
+    },
+    {
+        "text": "It's a beautiful country.",
+        "startTime": 36499,
+        "endTime": 37830,
+        "slowStartTime": 54899,
+        "slowEndTime": 56970
+    },
+    {
+        "text": "I'm not gonna disagree.",
+        "startTime": 38223,
+        "endTime": 39531,
+        "slowStartTime": 57484,
+        "slowEndTime": 59522
+    },
+    {
+        "text": "Claire will be taking over from Carol, who, as you know, will be leaving us soon.",
+        "startTime": 40027,
+        "endTime": 44436,
+        "slowStartTime": 60191,
+        "slowEndTime": 66879
+    },
+    {
+        "text": "Yes, I've heard a lot about you.",
+        "startTime": 44984,
+        "endTime": 47041,
+        "slowStartTime": 67626,
+        "slowEndTime": 70786
+    },
+    {
+        "text": "Good things, I hope!",
+        "startTime": 47501,
+        "endTime": 48645,
+        "slowStartTime": 71402,
+        "slowEndTime": 73193
+    },
+    {
+        "text": "Of course.",
+        "startTime": 49062,
+        "endTime": 49691,
+        "slowStartTime": 73743,
+        "slowEndTime": 74761
+    },
+    {
+        "text": "Anyway, welcome to Chic Boutique.",
+        "startTime": 50185,
+        "endTime": 52116,
+        "slowStartTime": 75427,
+        "slowEndTime": 78399
+    },
+    {
+        "text": "I'm sure you'll enjoy working here.",
+        "startTime": 52859,
+        "endTime": 54347,
+        "slowStartTime": 79439,
+        "slowEndTime": 81746
+    },
+    {
+        "text": "It's a very friendly place.",
+        "startTime": 54719,
+        "endTime": 55995,
+        "slowStartTime": 82228,
+        "slowEndTime": 84218
+    },
+    {
+        "text": "Yes, I'm really looking forward to getting started.",
+        "startTime": 56415,
+        "endTime": 58595,
+        "slowStartTime": 84773,
+        "slowEndTime": 88117
+    }
+]

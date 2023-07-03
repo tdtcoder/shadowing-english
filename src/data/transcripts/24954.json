@@ -1,0 +1,72 @@
+[
+    {
+        "text": "﻿Let's learn about jobs.",
+        "startTime": 1567,
+        "endTime": 3680,
+        "slowStartTime": 2500,
+        "slowEndTime": 5745
+    },
+    {
+        "text": "These men are pilots.",
+        "startTime": 9967,
+        "endTime": 12135,
+        "slowStartTime": 15101,
+        "slowEndTime": 18428
+    },
+    {
+        "text": "He is a lawyer.",
+        "startTime": 16741,
+        "endTime": 18506,
+        "slowStartTime": 25262,
+        "slowEndTime": 27984
+    },
+    {
+        "text": "She is a hairdresser.",
+        "startTime": 25569,
+        "endTime": 27948,
+        "slowStartTime": 38504,
+        "slowEndTime": 42147
+    },
+    {
+        "text": "Jack Nicholson is a famous actor.",
+        "startTime": 34415,
+        "endTime": 37339,
+        "slowStartTime": 51772,
+        "slowEndTime": 56233
+    },
+    {
+        "text": "These women are models.",
+        "startTime": 43039,
+        "endTime": 45269,
+        "slowStartTime": 64709,
+        "slowEndTime": 68128
+    },
+    {
+        "text": "She is a TV reporter.",
+        "startTime": 52762,
+        "endTime": 55223,
+        "slowStartTime": 79293,
+        "slowEndTime": 83060
+    },
+    {
+        "text": "She works as a cashier.",
+        "startTime": 67197,
+        "endTime": 69243,
+        "slowStartTime": 100946,
+        "slowEndTime": 104089
+    },
+    {
+        "text": "He is a construction worker.",
+        "startTime": 80220,
+        "endTime": 82827,
+        "slowStartTime": 120480,
+        "slowEndTime": 124466
+    },
+    {
+        "text": "I think I need a plumber!",
+        "startTime": 91816,
+        "endTime": 94520,
+        "slowStartTime": 137874,
+        "slowEndTime": 142005
+    }
+]

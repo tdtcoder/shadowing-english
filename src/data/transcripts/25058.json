@@ -1,0 +1,79 @@
+[
+    {
+        "text": "﻿Let's learn about foods we love.",
+        "startTime": 363,
+        "endTime": 3093,
+        "slowStartTime": 695,
+        "slowEndTime": 4865
+    },
+    {
+        "text": "I like instant noodles.",
+        "startTime": 7841,
+        "endTime": 9607,
+        "slowStartTime": 11911,
+        "slowEndTime": 14635
+    },
+    {
+        "text": "We eat cereal in the morning.",
+        "startTime": 15199,
+        "endTime": 17291,
+        "slowStartTime": 22948,
+        "slowEndTime": 26162
+    },
+    {
+        "text": "Those cookies are delicious.",
+        "startTime": 22419,
+        "endTime": 24924,
+        "slowStartTime": 33779,
+        "slowEndTime": 37611
+    },
+    {
+        "text": "Do you like donuts?",
+        "startTime": 29128,
+        "endTime": 30705,
+        "slowStartTime": 43842,
+        "slowEndTime": 46283
+    },
+    {
+        "text": "I eat fast food on the weekend.",
+        "startTime": 36214,
+        "endTime": 38797,
+        "slowStartTime": 54471,
+        "slowEndTime": 58421
+    },
+    {
+        "text": "This is a hamburger.",
+        "startTime": 43101,
+        "endTime": 45051,
+        "slowStartTime": 64802,
+        "slowEndTime": 67802
+    },
+    {
+        "text": "These are french fries.",
+        "startTime": 51002,
+        "endTime": 52837,
+        "slowStartTime": 76653,
+        "slowEndTime": 79480
+    },
+    {
+        "text": "Mr. Bean likes fried chicken.",
+        "startTime": 58620,
+        "endTime": 60601,
+        "slowStartTime": 88080,
+        "slowEndTime": 91127
+    },
+    {
+        "text": "I love submarine sandwiches!",
+        "startTime": 66281,
+        "endTime": 69005,
+        "slowStartTime": 99572,
+        "slowEndTime": 103733
+    },
+    {
+        "text": "He really loves pizza.",
+        "startTime": 75668,
+        "endTime": 77859,
+        "slowStartTime": 113652,
+        "slowEndTime": 117014
+    }
+]

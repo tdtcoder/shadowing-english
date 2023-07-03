@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Superlatives",
+        "startTime": 551,
+        "endTime": 1757,
+        "slowStartTime": 977,
+        "slowEndTime": 2860
+    },
+    {
+        "text": "My grandmother is the oldest person in my family.",
+        "startTime": 3932,
+        "endTime": 7473,
+        "slowStartTime": 6048,
+        "slowEndTime": 11435
+    },
+    {
+        "text": "The tiger is the scariest animal.",
+        "startTime": 9736,
+        "endTime": 12844,
+        "slowStartTime": 14754,
+        "slowEndTime": 19491
+    },
+    {
+        "text": "A is the best grade.",
+        "startTime": 15355,
+        "endTime": 17225,
+        "slowStartTime": 23183,
+        "slowEndTime": 26062
+    },
+    {
+        "text": "F is the worst grade.",
+        "startTime": 19243,
+        "endTime": 21565,
+        "slowStartTime": 29014,
+        "slowEndTime": 32573
+    },
+    {
+        "text": "Chris is the most handsome.",
+        "startTime": 24119,
+        "endTime": 26732,
+        "slowStartTime": 36329,
+        "slowEndTime": 40323
+    },
+    {
+        "text": "The pink flower is the most beautiful flower.",
+        "startTime": 29067,
+        "endTime": 32361,
+        "slowStartTime": 43751,
+        "slowEndTime": 48766
+    },
+    {
+        "text": "Is the red apple the most delicious?",
+        "startTime": 34841,
+        "endTime": 37515,
+        "slowStartTime": 52411,
+        "slowEndTime": 56498
+    }
+]

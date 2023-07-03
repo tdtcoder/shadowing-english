@@ -1,0 +1,275 @@
+[
+    {
+        "text": "California is suing Amazon, accusing the world's largest retailer...",
+        "startTime": 275,
+        "endTime": 4050,
+        "slowStartTime": 562,
+        "slowEndTime": 6300
+    },
+    {
+        "text": "...of alleged antitrust law violations.",
+        "startTime": 4129,
+        "endTime": 6425,
+        "slowStartTime": 6343,
+        "slowEndTime": 9862
+    },
+    {
+        "text": "That's right, the state's attorney general claims the company's practices...",
+        "startTime": 6547,
+        "endTime": 9850,
+        "slowStartTime": 9971,
+        "slowEndTime": 15000
+    },
+    {
+        "text": "...stifle competitors while driving up online prices.",
+        "startTime": 9935,
+        "endTime": 13857,
+        "slowStartTime": 15053,
+        "slowEndTime": 21011
+    },
+    {
+        "text": "Amazon serves roughly 25 million people in California alone.",
+        "startTime": 14210,
+        "endTime": 18897,
+        "slowStartTime": 21465,
+        "slowEndTime": 28571
+    },
+    {
+        "text": "According to the 2020 census, California's total population...",
+        "startTime": 19176,
+        "endTime": 22611,
+        "slowStartTime": 28914,
+        "slowEndTime": 34141
+    },
+    {
+        "text": "...is just over 39 million people.",
+        "startTime": 22858,
+        "endTime": 25431,
+        "slowStartTime": 34437,
+        "slowEndTime": 38371
+    },
+    {
+        "text": "And while the lawsuit is restricted to the Golden State,...",
+        "startTime": 25500,
+        "endTime": 28891,
+        "slowStartTime": 38400,
+        "slowEndTime": 43562
+    },
+    {
+        "text": "...it could have significant implications nationwide.",
+        "startTime": 29163,
+        "endTime": 32427,
+        "slowStartTime": 43895,
+        "slowEndTime": 48866
+    },
+    {
+        "text": "Amazon claims the California attorney general, quote,...",
+        "startTime": 32700,
+        "endTime": 35640,
+        "slowStartTime": 49200,
+        "slowEndTime": 53685
+    },
+    {
+        "text": "\"...has it exactly backward.\"",
+        "startTime": 35853,
+        "endTime": 37558,
+        "slowStartTime": 53929,
+        "slowEndTime": 56562
+    },
+    {
+        "text": "The company's statement goes on to say,...",
+        "startTime": 37832,
+        "endTime": 39912,
+        "slowStartTime": 56898,
+        "slowEndTime": 60093
+    },
+    {
+        "text": "...\"The relief the AG seeks would force Amazon to feature higher prices...\"",
+        "startTime": 39987,
+        "endTime": 44362,
+        "slowStartTime": 60130,
+        "slowEndTime": 66768
+    },
+    {
+        "text": "\"...to customers, oddly going against core objectives of antitrust law.\"",
+        "startTime": 44433,
+        "endTime": 49387,
+        "slowStartTime": 66800,
+        "slowEndTime": 74305
+    },
+    {
+        "text": "So, let's bring in California's attorney general, Robert Bonta,...",
+        "startTime": 49900,
+        "endTime": 52383,
+        "slowStartTime": 75000,
+        "slowEndTime": 78800
+    },
+    {
+        "text": "...now for more on all of this.",
+        "startTime": 52469,
+        "endTime": 53993,
+        "slowStartTime": 78854,
+        "slowEndTime": 81214
+    },
+    {
+        "text": "Attorney General Bonta, welcome.",
+        "startTime": 54480,
+        "endTime": 56117,
+        "slowStartTime": 81870,
+        "slowEndTime": 84400
+    },
+    {
+        "text": "Thank you so much for joining us.",
+        "startTime": 56187,
+        "endTime": 57983,
+        "slowStartTime": 84431,
+        "slowEndTime": 87200
+    },
+    {
+        "text": "So, first off, we want to get your response to Amazon's statement there...",
+        "startTime": 58061,
+        "endTime": 61365,
+        "slowStartTime": 87242,
+        "slowEndTime": 92272
+    },
+    {
+        "text": "...saying that you have the situation backwards...",
+        "startTime": 61454,
+        "endTime": 63781,
+        "slowStartTime": 92331,
+        "slowEndTime": 95896
+    },
+    {
+        "text": "...that this lawsuit will only drive up prices on its platform...",
+        "startTime": 63847,
+        "endTime": 67241,
+        "slowStartTime": 95920,
+        "slowEndTime": 101086
+    },
+    {
+        "text": "...and ultimately hurt consumers.",
+        "startTime": 67324,
+        "endTime": 69090,
+        "slowStartTime": 101136,
+        "slowEndTime": 103860
+    },
+    {
+        "text": "Unfortunately, they have it exactly backwards...",
+        "startTime": 71135,
+        "endTime": 73823,
+        "slowStartTime": 106853,
+        "slowEndTime": 110960
+    },
+    {
+        "text": "...and they maintain that position at their own peril.",
+        "startTime": 73900,
+        "endTime": 76743,
+        "slowStartTime": 111000,
+        "slowEndTime": 115339
+    },
+    {
+        "text": "We have a very detailed complaint based on two and a half years of investigation...",
+        "startTime": 76827,
+        "endTime": 82988,
+        "slowStartTime": 115391,
+        "slowEndTime": 124707
+    },
+    {
+        "text": "...and document gathering and interviews...",
+        "startTime": 83060,
+        "endTime": 85057,
+        "slowStartTime": 124740,
+        "slowEndTime": 127811
+    },
+    {
+        "text": "...with businesses and vendors that do business with Amazon.",
+        "startTime": 85139,
+        "endTime": 89405,
+        "slowStartTime": 127858,
+        "slowEndTime": 134332
+    },
+    {
+        "text": "We interviewed Amazon's own employees to build this case.",
+        "startTime": 89493,
+        "endTime": 94270,
+        "slowStartTime": 134389,
+        "slowEndTime": 141630
+    },
+    {
+        "text": "And what is clear from all that evidence is that...",
+        "startTime": 94349,
+        "endTime": 97725,
+        "slowStartTime": 141673,
+        "slowEndTime": 146813
+    },
+    {
+        "text": "...Amazon has artificially inflated prices.",
+        "startTime": 98046,
+        "endTime": 101092,
+        "slowStartTime": 147219,
+        "slowEndTime": 151863
+    },
+    {
+        "text": "And the remedies and the solutions that we seek through this investigation...",
+        "startTime": 101523,
+        "endTime": 108169,
+        "slowStartTime": 152435,
+        "slowEndTime": 162478
+    },
+    {
+        "text": "...and through this lawsuit will lower prices...",
+        "startTime": 108233,
+        "endTime": 110775,
+        "slowStartTime": 162500,
+        "slowEndTime": 166387
+    },
+    {
+        "text": "...for consumers who deserve it.",
+        "startTime": 110869,
+        "endTime": 111953,
+        "slowStartTime": 166453,
+        "slowEndTime": 168154
+    },
+    {
+        "text": "Who are paying artificially high prices for everything...",
+        "startTime": 112050,
+        "endTime": 114960,
+        "slowStartTime": 168225,
+        "slowEndTime": 172665
+    },
+    {
+        "text": "...ranging from groceries and healthcare items,...",
+        "startTime": 115038,
+        "endTime": 116907,
+        "slowStartTime": 172707,
+        "slowEndTime": 175585
+    },
+    {
+        "text": "...to diapers and school supplies.",
+        "startTime": 117003,
+        "endTime": 119401,
+        "slowStartTime": 175655,
+        "slowEndTime": 179326
+    },
+    {
+        "text": "They've been paying artificially inflated prices for over a decade...",
+        "startTime": 119627,
+        "endTime": 123503,
+        "slowStartTime": 179590,
+        "slowEndTime": 185480
+    },
+    {
+        "text": "...and it needs to stop, and that's why we're telling Amazon...",
+        "startTime": 123875,
+        "endTime": 126977,
+        "slowStartTime": 185962,
+        "slowEndTime": 190691
+    },
+    {
+        "text": "...we'll see you in court.",
+        "startTime": 127055,
+        "endTime": 127815,
+        "slowStartTime": 190733,
+        "slowEndTime": 191947
+    }
+]

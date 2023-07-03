@@ -1,0 +1,128 @@
+[
+    {
+        "text": "A man had an ass and a very pretty little pet dog.",
+        "startTime": 3600,
+        "endTime": 7000,
+        "slowStartTime": 5550,
+        "slowEndTime": 10700
+    },
+    {
+        "text": "The ass slept in a warm stable at night and had plenty to eat,...",
+        "startTime": 7750,
+        "endTime": 11700,
+        "slowStartTime": 11800,
+        "slowEndTime": 17700
+    },
+    {
+        "text": "...but he had to work hard during the day.",
+        "startTime": 12450,
+        "endTime": 14250,
+        "slowStartTime": 18850,
+        "slowEndTime": 21600
+    },
+    {
+        "text": "The pet dog, on the other hand, lived in the house,...",
+        "startTime": 15100,
+        "endTime": 18200,
+        "slowStartTime": 22800,
+        "slowEndTime": 27500
+    },
+    {
+        "text": "...slept in its master's bed,...",
+        "startTime": 18600,
+        "endTime": 20050,
+        "slowStartTime": 28100,
+        "slowEndTime": 30300
+    },
+    {
+        "text": "...and had no work to do.",
+        "startTime": 20500,
+        "endTime": 21650,
+        "slowStartTime": 30900,
+        "slowEndTime": 32700
+    },
+    {
+        "text": "Its master gave it all kinds of nice things to eat and played with it.",
+        "startTime": 22600,
+        "endTime": 26200,
+        "slowStartTime": 34050,
+        "slowEndTime": 39500
+    },
+    {
+        "text": "The dog never did any work.",
+        "startTime": 27200,
+        "endTime": 28900,
+        "slowStartTime": 40950,
+        "slowEndTime": 43550
+    },
+    {
+        "text": "The ass thought it was not right that the dog had such an easy life...",
+        "startTime": 29800,
+        "endTime": 33200,
+        "slowStartTime": 44900,
+        "slowEndTime": 50050
+    },
+    {
+        "text": "...while he had to work.",
+        "startTime": 33700,
+        "endTime": 34650,
+        "slowStartTime": 50700,
+        "slowEndTime": 52150
+    },
+    {
+        "text": "\"I'll do what the dog does,\" he thought,...",
+        "startTime": 35600,
+        "endTime": 38000,
+        "slowStartTime": 53600,
+        "slowEndTime": 57200
+    },
+    {
+        "text": "...\"then I'll have the same kind of life as the dog\".",
+        "startTime": 38750,
+        "endTime": 40950,
+        "slowStartTime": 58350,
+        "slowEndTime": 61550
+    },
+    {
+        "text": "He went into the house, jumped on the bed,...",
+        "startTime": 41750,
+        "endTime": 44150,
+        "slowStartTime": 62800,
+        "slowEndTime": 66450
+    },
+    {
+        "text": "...and jumped up at his master the way the dog did.",
+        "startTime": 44650,
+        "endTime": 47000,
+        "slowStartTime": 67150,
+        "slowEndTime": 70700
+    },
+    {
+        "text": "His master did not give him a better life, however.",
+        "startTime": 48050,
+        "endTime": 50550,
+        "slowStartTime": 72250,
+        "slowEndTime": 76000
+    },
+    {
+        "text": "Instead, he hit him with a stick and chased him out of the house.",
+        "startTime": 51300,
+        "endTime": 54900,
+        "slowStartTime": 77150,
+        "slowEndTime": 82550
+    },
+    {
+        "text": "\"I have been foolish,\" the ass thought.",
+        "startTime": 55950,
+        "endTime": 58100,
+        "slowStartTime": 84100,
+        "slowEndTime": 87350
+    },
+    {
+        "text": "\"I should not have tried to be like a dog because I am not a dog.\"",
+        "startTime": 58950,
+        "endTime": 63000,
+        "slowStartTime": 88600,
+        "slowEndTime": 94750
+    }
+]

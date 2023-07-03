@@ -1,0 +1,156 @@
+[
+    {
+        "text": "Food.",
+        "startTime": 2471,
+        "endTime": 2939,
+        "slowStartTime": 3857,
+        "slowEndTime": 4634
+    },
+    {
+        "text": "I love to eat food.",
+        "startTime": 3797,
+        "endTime": 5557,
+        "slowStartTime": 5846,
+        "slowEndTime": 8561
+    },
+    {
+        "text": "I love to eat delicious food.",
+        "startTime": 6880,
+        "endTime": 9141,
+        "slowStartTime": 10470,
+        "slowEndTime": 13936
+    },
+    {
+        "text": "Mood.",
+        "startTime": 10562,
+        "endTime": 11090,
+        "slowStartTime": 15993,
+        "slowEndTime": 16860
+    },
+    {
+        "text": "She is in a good mood.",
+        "startTime": 11947,
+        "endTime": 13599,
+        "slowStartTime": 18070,
+        "slowEndTime": 20624
+    },
+    {
+        "text": "She is in a very good mood.",
+        "startTime": 15045,
+        "endTime": 17083,
+        "slowStartTime": 22718,
+        "slowEndTime": 25850
+    },
+    {
+        "text": "Room.",
+        "startTime": 18497,
+        "endTime": 19073,
+        "slowStartTime": 27895,
+        "slowEndTime": 28835
+    },
+    {
+        "text": "The room is small.",
+        "startTime": 19904,
+        "endTime": 21553,
+        "slowStartTime": 30006,
+        "slowEndTime": 32554
+    },
+    {
+        "text": "The room is a bit small.",
+        "startTime": 22812,
+        "endTime": 24764,
+        "slowStartTime": 34368,
+        "slowEndTime": 37371
+    },
+    {
+        "text": "Zoo.",
+        "startTime": 26201,
+        "endTime": 26736,
+        "slowStartTime": 39452,
+        "slowEndTime": 40329
+    },
+    {
+        "text": "I want to go to the zoo.",
+        "startTime": 27581,
+        "endTime": 29453,
+        "slowStartTime": 41522,
+        "slowEndTime": 44404
+    },
+    {
+        "text": "I want to go to the zoo tomorrow.",
+        "startTime": 30923,
+        "endTime": 33393,
+        "slowStartTime": 46534,
+        "slowEndTime": 50314
+    },
+    {
+        "text": "I am lost.",
+        "startTime": 39251,
+        "endTime": 40714,
+        "slowStartTime": 59026,
+        "slowEndTime": 61296
+    },
+    {
+        "text": "Can you, can you help me?",
+        "startTime": 41099,
+        "endTime": 42581,
+        "slowStartTime": 61799,
+        "slowEndTime": 64096
+    },
+    {
+        "text": "Where, where, where, where is my mother?",
+        "startTime": 42945,
+        "endTime": 46231,
+        "slowStartTime": 64568,
+        "slowEndTime": 69571
+    },
+    {
+        "text": "Where, where, where, where is my father?",
+        "startTime": 46742,
+        "endTime": 49985,
+        "slowStartTime": 70263,
+        "slowEndTime": 75203
+    },
+    {
+        "text": "Where, where, where, where is my house?",
+        "startTime": 50486,
+        "endTime": 53731,
+        "slowStartTime": 75879,
+        "slowEndTime": 80821
+    },
+    {
+        "text": "Where, where, where, where is my bed?",
+        "startTime": 54251,
+        "endTime": 57463,
+        "slowStartTime": 81527,
+        "slowEndTime": 86420
+    },
+    {
+        "text": "Where, where, where, where is my honey?",
+        "startTime": 57993,
+        "endTime": 61223,
+        "slowStartTime": 87140,
+        "slowEndTime": 92059
+    },
+    {
+        "text": "Where, where, where, where am I?",
+        "startTime": 61739,
+        "endTime": 64623,
+        "slowStartTime": 92759,
+        "slowEndTime": 97160
+    },
+    {
+        "text": "I am lost.",
+        "startTime": 65488,
+        "endTime": 66835,
+        "slowStartTime": 98382,
+        "slowEndTime": 100478
+    },
+    {
+        "text": "Can you, can you help me?",
+        "startTime": 67335,
+        "endTime": 68729,
+        "slowStartTime": 101152,
+        "slowEndTime": 103318
+    }
+]

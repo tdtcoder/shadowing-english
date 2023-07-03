@@ -1,0 +1,44 @@
+[
+    {
+        "text": "I was in my apartment in New York, lying on the couch watching this.",
+        "startTime": 1523,
+        "endTime": 10987,
+        "slowStartTime": 2434,
+        "slowEndTime": 16706
+    },
+    {
+        "text": "I cried.",
+        "startTime": 11667,
+        "endTime": 12164,
+        "slowStartTime": 17650,
+        "slowEndTime": 18471
+    },
+    {
+        "text": "You did?",
+        "startTime": 12659,
+        "endTime": 13073,
+        "slowStartTime": 19139,
+        "slowEndTime": 19834
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 14227,
+        "endTime": 14513,
+        "slowStartTime": 21491,
+        "slowEndTime": 21995
+    },
+    {
+        "text": "It's such a momentous event to have actually done that and come back.",
+        "startTime": 15099,
+        "endTime": 22671,
+        "slowStartTime": 22798,
+        "slowEndTime": 34232
+    },
+    {
+        "text": "Proof positive that whatever we can imagine, we can do.",
+        "startTime": 25349,
+        "endTime": 30685,
+        "slowStartTime": 38174,
+        "slowEndTime": 46253
+    }
+]

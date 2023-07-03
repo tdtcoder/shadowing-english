@@ -1,0 +1,44 @@
+[
+    {
+        "text": "The banana is one of the favorite fruits of many people around the world.",
+        "startTime": 1589,
+        "endTime": 5444,
+        "slowStartTime": 2533,
+        "slowEndTime": 8391
+    },
+    {
+        "text": "It is a sweet, yellow, fleshy fruit when it's ripe.",
+        "startTime": 9350,
+        "endTime": 12884,
+        "slowStartTime": 14175,
+        "slowEndTime": 19551
+    },
+    {
+        "text": "It has an amazing smooth yellow skin called the peel.",
+        "startTime": 16421,
+        "endTime": 19671,
+        "slowStartTime": 24781,
+        "slowEndTime": 29731
+    },
+    {
+        "text": "The skin can easily be removed by pulling it off part by part.",
+        "startTime": 23609,
+        "endTime": 27997,
+        "slowStartTime": 35564,
+        "slowEndTime": 42221
+    },
+    {
+        "text": "Isn't that amazing?",
+        "startTime": 28951,
+        "endTime": 30209,
+        "slowStartTime": 43576,
+        "slowEndTime": 45539
+    },
+    {
+        "text": "And if you watch, you'll see that monkeys too love bananas.",
+        "startTime": 30475,
+        "endTime": 34065,
+        "slowStartTime": 45862,
+        "slowEndTime": 51323
+    }
+]

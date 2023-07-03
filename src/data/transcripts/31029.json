@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Look at that.",
+        "startTime": 768,
+        "endTime": 1167,
+        "slowStartTime": 1302,
+        "slowEndTime": 1975
+    },
+    {
+        "text": "A.",
+        "startTime": 2793,
+        "endTime": 3269,
+        "slowStartTime": 4339,
+        "slowEndTime": 5128
+    },
+    {
+        "text": "Apple.",
+        "startTime": 4279,
+        "endTime": 4827,
+        "slowStartTime": 6568,
+        "slowEndTime": 7465
+    },
+    {
+        "text": "Ant.",
+        "startTime": 5595,
+        "endTime": 6005,
+        "slowStartTime": 8542,
+        "slowEndTime": 9232
+    },
+    {
+        "text": "Airplane.",
+        "startTime": 6803,
+        "endTime": 7736,
+        "slowStartTime": 10354,
+        "slowEndTime": 11829
+    },
+    {
+        "text": "B.",
+        "startTime": 9027,
+        "endTime": 9440,
+        "slowStartTime": 13690,
+        "slowEndTime": 14385
+    },
+    {
+        "text": "Bus.",
+        "startTime": 10503,
+        "endTime": 10895,
+        "slowStartTime": 15904,
+        "slowEndTime": 16568
+    },
+    {
+        "text": "Bird.",
+        "startTime": 11841,
+        "endTime": 12403,
+        "slowStartTime": 17912,
+        "slowEndTime": 18829
+    },
+    {
+        "text": "Ball.",
+        "startTime": 12963,
+        "endTime": 13506,
+        "slowStartTime": 19595,
+        "slowEndTime": 20484
+    },
+    {
+        "text": "C.",
+        "startTime": 15954,
+        "endTime": 16467,
+        "slowStartTime": 24081,
+        "slowEndTime": 24926
+    },
+    {
+        "text": "Cow.",
+        "startTime": 17305,
+        "endTime": 17952,
+        "slowStartTime": 26108,
+        "slowEndTime": 27153
+    },
+    {
+        "text": "Cake.",
+        "startTime": 18827,
+        "endTime": 19222,
+        "slowStartTime": 28390,
+        "slowEndTime": 29058
+    },
+    {
+        "text": "Car.",
+        "startTime": 19949,
+        "endTime": 20547,
+        "slowStartTime": 30073,
+        "slowEndTime": 31046
+    }
+]

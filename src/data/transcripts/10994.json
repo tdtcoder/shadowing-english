@@ -1,0 +1,170 @@
+[
+    {
+        "text": "Jack.",
+        "startTime": 300,
+        "endTime": 1100,
+        "slowStartTime": 650,
+        "slowEndTime": 1900
+    },
+    {
+        "text": "You're supposed to call me grandpa.",
+        "startTime": 1450,
+        "endTime": 2750,
+        "slowStartTime": 2350,
+        "slowEndTime": 4350
+    },
+    {
+        "text": "You don't look like a grandpa.",
+        "startTime": 2800,
+        "endTime": 4600,
+        "slowStartTime": 4350,
+        "slowEndTime": 7150
+    },
+    {
+        "text": "I couldn't agree with you more.",
+        "startTime": 4650,
+        "endTime": 5700,
+        "slowStartTime": 7150,
+        "slowEndTime": 8800
+    },
+    {
+        "text": "I wanna move back to Los Angeles with you.",
+        "startTime": 7300,
+        "endTime": 8800,
+        "slowStartTime": 11100,
+        "slowEndTime": 13500
+    },
+    {
+        "text": "Dad, I don't know what to say.",
+        "startTime": 9900,
+        "endTime": 11100,
+        "slowStartTime": 15000,
+        "slowEndTime": 16900
+    },
+    {
+        "text": "What are you doing here?",
+        "startTime": 13250,
+        "endTime": 14000,
+        "slowStartTime": 20000,
+        "slowEndTime": 21200
+    },
+    {
+        "text": "I have information.",
+        "startTime": 14050,
+        "endTime": 14900,
+        "slowStartTime": 21300,
+        "slowEndTime": 22600
+    },
+    {
+        "text": "There's a big hit going down.",
+        "startTime": 16300,
+        "endTime": 17400,
+        "slowStartTime": 24600,
+        "slowEndTime": 26350
+    },
+    {
+        "text": "I don't work for the government anymore.",
+        "startTime": 17500,
+        "endTime": 18900,
+        "slowStartTime": 26400,
+        "slowEndTime": 28600
+    },
+    {
+        "text": "President Hassan at the UN. He's getting taken out today.",
+        "startTime": 19100,
+        "endTime": 22200,
+        "slowStartTime": 28850,
+        "slowEndTime": 33500
+    },
+    {
+        "text": "Jack Bauer is on line three.",
+        "startTime": 22750,
+        "endTime": 23950,
+        "slowStartTime": 34300,
+        "slowEndTime": 36100
+    },
+    {
+        "text": "You need to pay attention to this.",
+        "startTime": 24100,
+        "endTime": 25300,
+        "slowStartTime": 36350,
+        "slowEndTime": 38200
+    },
+    {
+        "text": "This January.",
+        "startTime": 27450,
+        "endTime": 28450,
+        "slowStartTime": 41350,
+        "slowEndTime": 42900
+    },
+    {
+        "text": "Go, go!",
+        "startTime": 29200,
+        "endTime": 29900,
+        "slowStartTime": 44000,
+        "slowEndTime": 45100
+    },
+    {
+        "text": "We're under attack.",
+        "startTime": 30050,
+        "endTime": 30700,
+        "slowStartTime": 45200,
+        "slowEndTime": 46400
+    },
+    {
+        "text": "We are code red.",
+        "startTime": 30900,
+        "endTime": 32000,
+        "slowStartTime": 46500,
+        "slowEndTime": 48230
+    },
+    {
+        "text": "It's going down now.",
+        "startTime": 32650,
+        "endTime": 33650,
+        "slowStartTime": 49150,
+        "slowEndTime": 50700
+    },
+    {
+        "text": "Innocent lives are at stake.",
+        "startTime": 33850,
+        "endTime": 35050,
+        "slowStartTime": 50900,
+        "slowEndTime": 52800
+    },
+    {
+        "text": "Kiefer Sutherland.",
+        "startTime": 35350,
+        "endTime": 36200,
+        "slowStartTime": 53100,
+        "slowEndTime": 54700
+    },
+    {
+        "text": "This is over!",
+        "startTime": 36350,
+        "endTime": 37100,
+        "slowStartTime": 54700,
+        "slowEndTime": 55900
+    },
+    {
+        "text": "You're lucky I'm retired.",
+        "startTime": 38450,
+        "endTime": 39400,
+        "slowStartTime": 57800,
+        "slowEndTime": 59300
+    },
+    {
+        "text": "24. A new day begins.",
+        "startTime": 40300,
+        "endTime": 42550,
+        "slowStartTime": 60600,
+        "slowEndTime": 64100
+    },
+    {
+        "text": "This January on Fox.",
+        "startTime": 42750,
+        "endTime": 44300,
+        "slowStartTime": 64300,
+        "slowEndTime": 66700
+    }
+]

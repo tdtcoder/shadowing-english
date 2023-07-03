@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Are you sure you want to play this game?",
+        "startTime": 3398,
+        "endTime": 5265,
+        "slowStartTime": 5247,
+        "slowEndTime": 8122
+    },
+    {
+        "text": "I'm afraid there's been a mistake. Are you sure you didn't mix me up with somebody else?",
+        "startTime": 7399,
+        "endTime": 11847,
+        "slowStartTime": 11249,
+        "slowEndTime": 17996
+    },
+    {
+        "text": "Are you sure you don't wanna tell me your name?",
+        "startTime": 14006,
+        "endTime": 15703,
+        "slowStartTime": 21159,
+        "slowEndTime": 23780
+    },
+    {
+        "text": "Do you think that could really happen?",
+        "startTime": 19814,
+        "endTime": 21019,
+        "slowStartTime": 29871,
+        "slowEndTime": 31754
+    },
+    {
+        "text": "Do you think someday I will change and be a grown-up?",
+        "startTime": 23313,
+        "endTime": 27131,
+        "slowStartTime": 35119,
+        "slowEndTime": 40921
+    },
+    {
+        "text": "Do you think it will snow today?",
+        "startTime": 29351,
+        "endTime": 30609,
+        "slowStartTime": 44177,
+        "slowEndTime": 46138
+    },
+    {
+        "text": "You really mean it? It's not another trick?",
+        "startTime": 34821,
+        "endTime": 37170,
+        "slowStartTime": 52381,
+        "slowEndTime": 55980
+    },
+    {
+        "text": "Do you really go out with some guy you don't know?",
+        "startTime": 39638,
+        "endTime": 40975,
+        "slowStartTime": 59607,
+        "slowEndTime": 61688
+    },
+    {
+        "text": "Are you really gonna save the world?",
+        "startTime": 43267,
+        "endTime": 44977,
+        "slowStartTime": 65050,
+        "slowEndTime": 67691
+    },
+    {
+        "text": "Is that your final answer?",
+        "startTime": 49095,
+        "endTime": 50121,
+        "slowStartTime": 73792,
+        "slowEndTime": 75407
+    }
+]

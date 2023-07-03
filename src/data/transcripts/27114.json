@@ -1,0 +1,86 @@
+[
+    {
+        "text": "I love the snow,...",
+        "startTime": 3807,
+        "endTime": 5491,
+        "slowStartTime": 5860,
+        "slowEndTime": 8461
+    },
+    {
+        "text": "...but I also really, really love it when it rains.",
+        "startTime": 5704,
+        "endTime": 8688,
+        "slowStartTime": 8706,
+        "slowEndTime": 13257
+    },
+    {
+        "text": "It's raining, it's pouring.",
+        "startTime": 10192,
+        "endTime": 12414,
+        "slowStartTime": 15438,
+        "slowEndTime": 18846
+    },
+    {
+        "text": "The old man is snoring.",
+        "startTime": 12539,
+        "endTime": 14574,
+        "slowStartTime": 18958,
+        "slowEndTime": 22086
+    },
+    {
+        "text": "He went to bed and bumped his head...",
+        "startTime": 14739,
+        "endTime": 16617,
+        "slowStartTime": 22258,
+        "slowEndTime": 25151
+    },
+    {
+        "text": "...and couldn't get up in the morning.",
+        "startTime": 16713,
+        "endTime": 18937,
+        "slowStartTime": 25219,
+        "slowEndTime": 28630
+    },
+    {
+        "text": "Let's sing it one more time.",
+        "startTime": 19522,
+        "endTime": 21059,
+        "slowStartTime": 29433,
+        "slowEndTime": 31814
+    },
+    {
+        "text": "It's raining, it's pouring.",
+        "startTime": 22125,
+        "endTime": 24306,
+        "slowStartTime": 33337,
+        "slowEndTime": 36684
+    },
+    {
+        "text": "The old man is snoring.",
+        "startTime": 24436,
+        "endTime": 26351,
+        "slowStartTime": 36804,
+        "slowEndTime": 39751
+    },
+    {
+        "text": "He went to bed and bumped his head...",
+        "startTime": 26465,
+        "endTime": 28323,
+        "slowStartTime": 39848,
+        "slowEndTime": 42709
+    },
+    {
+        "text": "...and couldn't get up in the morning.",
+        "startTime": 28457,
+        "endTime": 30513,
+        "slowStartTime": 42836,
+        "slowEndTime": 45994
+    },
+    {
+        "text": "Thank you for singing with us. Bye!",
+        "startTime": 30758,
+        "endTime": 33618,
+        "slowStartTime": 46287,
+        "slowEndTime": 50652
+    }
+]

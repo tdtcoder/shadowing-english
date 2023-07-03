@@ -1,0 +1,44 @@
+[
+    {
+        "text": "In Iraq, a suicide attacker detonates a car bomb in the city of Tikrit killing at least 12.",
+        "startTime": 5341,
+        "endTime": 12417,
+        "slowStartTime": 8161,
+        "slowEndTime": 18851
+    },
+    {
+        "text": "In the US, the former IMF leader Dominique Strauss-Kahn pleads not guilty to sexual assault charges.",
+        "startTime": 15335,
+        "endTime": 23565,
+        "slowStartTime": 23153,
+        "slowEndTime": 35572
+    },
+    {
+        "text": "Authorities free 96 Muslim refugees in Thailand after almost six months in detention.",
+        "startTime": 26633,
+        "endTime": 33854,
+        "slowStartTime": 40099,
+        "slowEndTime": 51006
+    },
+    {
+        "text": "In Syria, mourners carry the bodies of protesters killed by Israeli troops at border clashes.",
+        "startTime": 36849,
+        "endTime": 43968,
+        "slowStartTime": 55423,
+        "slowEndTime": 66177
+    },
+    {
+        "text": "Retiring US Defense Secretary Robert Gates, bids farewell to the US troops in Afghanistan.",
+        "startTime": 48073,
+        "endTime": 55236,
+        "slowStartTime": 72260,
+        "slowEndTime": 83079
+    },
+    {
+        "text": "In Portugal, voters celebrate after unseating the ruling Socialist party.",
+        "startTime": 57174,
+        "endTime": 62498,
+        "slowStartTime": 85911,
+        "slowEndTime": 93972
+    }
+]

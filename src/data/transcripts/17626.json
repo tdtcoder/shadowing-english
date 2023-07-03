@@ -1,0 +1,163 @@
+[
+    {
+        "text": "I go to my friend's house.",
+        "startTime": 2514,
+        "endTime": 4559,
+        "slowStartTime": 3921,
+        "slowEndTime": 7064
+    },
+    {
+        "text": "I go on my skateboard.",
+        "startTime": 5622,
+        "endTime": 7497,
+        "slowStartTime": 8583,
+        "slowEndTime": 11470
+    },
+    {
+        "text": "My sister goes to school.",
+        "startTime": 8531,
+        "endTime": 10363,
+        "slowStartTime": 12946,
+        "slowEndTime": 15769
+    },
+    {
+        "text": "She goes on a bike.",
+        "startTime": 11397,
+        "endTime": 12901,
+        "slowStartTime": 17245,
+        "slowEndTime": 19577
+    },
+    {
+        "text": "My mom goes to work.",
+        "startTime": 13992,
+        "endTime": 15625,
+        "slowStartTime": 21138,
+        "slowEndTime": 23662
+    },
+    {
+        "text": "She goes in a car.",
+        "startTime": 16749,
+        "endTime": 18353,
+        "slowStartTime": 25274,
+        "slowEndTime": 27755
+    },
+    {
+        "text": "My dad goes to work.",
+        "startTime": 19437,
+        "endTime": 21072,
+        "slowStartTime": 29306,
+        "slowEndTime": 31833
+    },
+    {
+        "text": "He goes on the subway.",
+        "startTime": 22121,
+        "endTime": 23837,
+        "slowStartTime": 33332,
+        "slowEndTime": 35981
+    },
+    {
+        "text": "My grandpa goes to the airport.",
+        "startTime": 24887,
+        "endTime": 27302,
+        "slowStartTime": 37480,
+        "slowEndTime": 41178
+    },
+    {
+        "text": "He goes in a taxi.",
+        "startTime": 28218,
+        "endTime": 29874,
+        "slowStartTime": 42477,
+        "slowEndTime": 45036
+    },
+    {
+        "text": "My aunt goes to the store.",
+        "startTime": 30893,
+        "endTime": 32828,
+        "slowStartTime": 46489,
+        "slowEndTime": 49467
+    },
+    {
+        "text": "She goes on a bus.",
+        "startTime": 33798,
+        "endTime": 35395,
+        "slowStartTime": 50847,
+        "slowEndTime": 53317
+    },
+    {
+        "text": "My uncle goes to his office.",
+        "startTime": 36413,
+        "endTime": 38736,
+        "slowStartTime": 54770,
+        "slowEndTime": 58329
+    },
+    {
+        "text": "He goes on a ferry boat.",
+        "startTime": 39803,
+        "endTime": 41545,
+        "slowStartTime": 59854,
+        "slowEndTime": 62542
+    },
+    {
+        "text": "We all go to the park.",
+        "startTime": 42612,
+        "endTime": 44402,
+        "slowStartTime": 64068,
+        "slowEndTime": 66828
+    },
+    {
+        "text": "We walk.",
+        "startTime": 45421,
+        "endTime": 46581,
+        "slowStartTime": 68281,
+        "slowEndTime": 70097
+    },
+    {
+        "text": "Where are you going, Jeff?",
+        "startTime": 50329,
+        "endTime": 51834,
+        "slowStartTime": 75644,
+        "slowEndTime": 77976
+    },
+    {
+        "text": "I go to the park.",
+        "startTime": 53033,
+        "endTime": 54605,
+        "slowStartTime": 79700,
+        "slowEndTime": 82133
+    },
+    {
+        "text": "How do you go to the park?",
+        "startTime": 55669,
+        "endTime": 57377,
+        "slowStartTime": 83654,
+        "slowEndTime": 86291
+    },
+    {
+        "text": "I go on my skateboard.",
+        "startTime": 58373,
+        "endTime": 60622,
+        "slowStartTime": 87710,
+        "slowEndTime": 91158
+    },
+    {
+        "text": "Does your sister go to the park, too?",
+        "startTime": 61618,
+        "endTime": 64002,
+        "slowStartTime": 92577,
+        "slowEndTime": 96228
+    },
+    {
+        "text": "No, she goes to the airport.",
+        "startTime": 64931,
+        "endTime": 67321,
+        "slowStartTime": 97546,
+        "slowEndTime": 101206
+    },
+    {
+        "text": "She goes in a taxi.",
+        "startTime": 67756,
+        "endTime": 69359,
+        "slowStartTime": 101784,
+        "slowEndTime": 104263
+    }
+]

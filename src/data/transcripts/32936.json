@@ -1,0 +1,86 @@
+[
+    {
+        "text": "I'm Kobe Bryant and I'm a basketball player.",
+        "startTime": 67,
+        "endTime": 2231,
+        "slowStartTime": 250,
+        "slowEndTime": 3571
+    },
+    {
+        "text": "I'm Megan Blunk and I'm a basketball player.",
+        "startTime": 2351,
+        "endTime": 4515,
+        "slowStartTime": 3676,
+        "slowEndTime": 6997
+    },
+    {
+        "text": "I've hit game-winning shots in overtime.",
+        "startTime": 4905,
+        "endTime": 6730,
+        "slowStartTime": 7507,
+        "slowEndTime": 10320
+    },
+    {
+        "text": "I've hit the big shot at the buzzer.",
+        "startTime": 6918,
+        "endTime": 8627,
+        "slowStartTime": 10527,
+        "slowEndTime": 13166
+    },
+    {
+        "text": "I put in countless hours of hard work.",
+        "startTime": 9077,
+        "endTime": 10934,
+        "slowStartTime": 13766,
+        "slowEndTime": 16626
+    },
+    {
+        "text": "Countless hours of hard work so I can make the shot when it counts.",
+        "startTime": 11003,
+        "endTime": 13924,
+        "slowStartTime": 16655,
+        "slowEndTime": 21111
+    },
+    {
+        "text": "...so I can make the shot when it counts.",
+        "startTime": 14010,
+        "endTime": 15862,
+        "slowStartTime": 21165,
+        "slowEndTime": 24018
+    },
+    {
+        "text": "I've hit game-winning buzzer beaters.",
+        "startTime": 16084,
+        "endTime": 17781,
+        "slowStartTime": 24276,
+        "slowEndTime": 26896
+    },
+    {
+        "text": "...game-winning buzzer beaters, but never from a wheelchair.",
+        "startTime": 17845,
+        "endTime": 21573,
+        "slowStartTime": 26917,
+        "slowEndTime": 32584
+    },
+    {
+        "text": "I salute challenged athletes like Megan Blunk,...",
+        "startTime": 22613,
+        "endTime": 25004,
+        "slowStartTime": 34069,
+        "slowEndTime": 37731
+    },
+    {
+        "text": "...the true heroes of sport.",
+        "startTime": 25317,
+        "endTime": 26567,
+        "slowStartTime": 38125,
+        "slowEndTime": 40076
+    },
+    {
+        "text": "I'm a basketball player; thanks to CAF.",
+        "startTime": 26752,
+        "endTime": 28875,
+        "slowStartTime": 40278,
+        "slowEndTime": 43537
+    }
+]

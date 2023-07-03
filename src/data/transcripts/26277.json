@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Let's learn about vegetables.",
+        "startTime": 735,
+        "endTime": 2977,
+        "slowStartTime": 1253,
+        "slowEndTime": 4690
+    },
+    {
+        "text": "Tomato.",
+        "startTime": 5637,
+        "endTime": 6366,
+        "slowStartTime": 8606,
+        "slowEndTime": 9774
+    },
+    {
+        "text": "Carrot.",
+        "startTime": 10519,
+        "endTime": 11275,
+        "slowStartTime": 15929,
+        "slowEndTime": 17137
+    },
+    {
+        "text": "Capsicum.",
+        "startTime": 14999,
+        "endTime": 16188,
+        "slowStartTime": 22649,
+        "slowEndTime": 24507
+    },
+    {
+        "text": "Eggplant.",
+        "startTime": 19924,
+        "endTime": 20927,
+        "slowStartTime": 30036,
+        "slowEndTime": 31615
+    },
+    {
+        "text": "Mushroom.",
+        "startTime": 24497,
+        "endTime": 25655,
+        "slowStartTime": 36895,
+        "slowEndTime": 38707
+    },
+    {
+        "text": "Potato.",
+        "startTime": 29298,
+        "endTime": 30239,
+        "slowStartTime": 44097,
+        "slowEndTime": 45583
+    },
+    {
+        "text": "Broccoli.",
+        "startTime": 33965,
+        "endTime": 34782,
+        "slowStartTime": 51098,
+        "slowEndTime": 52398
+    },
+    {
+        "text": "Cucumber.",
+        "startTime": 38984,
+        "endTime": 39925,
+        "slowStartTime": 58626,
+        "slowEndTime": 60112
+    }
+]

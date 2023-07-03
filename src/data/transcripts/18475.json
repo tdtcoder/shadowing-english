@@ -1,0 +1,212 @@
+[
+    {
+        "text": "A  jack-o'-lantern.",
+        "startTime": 5932,
+        "endTime": 6997,
+        "slowStartTime": 9048,
+        "slowEndTime": 10721
+    },
+    {
+        "text": "A  jack-o'-lantern.",
+        "startTime": 7861,
+        "endTime": 8733,
+        "slowStartTime": 11942,
+        "slowEndTime": 13324
+    },
+    {
+        "text": "Trick or treat.",
+        "startTime": 13757,
+        "endTime": 14512,
+        "slowStartTime": 20785,
+        "slowEndTime": 21993
+    },
+    {
+        "text": "Trick or treat.",
+        "startTime": 15326,
+        "endTime": 16230,
+        "slowStartTime": 23139,
+        "slowEndTime": 24570
+    },
+    {
+        "text": "Candy.",
+        "startTime": 20457,
+        "endTime": 21086,
+        "slowStartTime": 30836,
+        "slowEndTime": 31854
+    },
+    {
+        "text": "Candy.",
+        "startTime": 22048,
+        "endTime": 22677,
+        "slowStartTime": 33222,
+        "slowEndTime": 34240
+    },
+    {
+        "text": "A spider web.",
+        "startTime": 26663,
+        "endTime": 27449,
+        "slowStartTime": 40144,
+        "slowEndTime": 41399
+    },
+    {
+        "text": "A spider web.",
+        "startTime": 28225,
+        "endTime": 29023,
+        "slowStartTime": 42487,
+        "slowEndTime": 43759
+    },
+    {
+        "text": "A haunted house.",
+        "startTime": 33126,
+        "endTime": 34375,
+        "slowStartTime": 49839,
+        "slowEndTime": 51788
+    },
+    {
+        "text": "A haunted house.",
+        "startTime": 34801,
+        "endTime": 36009,
+        "slowStartTime": 52351,
+        "slowEndTime": 54239
+    },
+    {
+        "text": "A black cat.",
+        "startTime": 39519,
+        "endTime": 40489,
+        "slowStartTime": 59429,
+        "slowEndTime": 60958
+    },
+    {
+        "text": "A black cat.",
+        "startTime": 41181,
+        "endTime": 42175,
+        "slowStartTime": 61922,
+        "slowEndTime": 63488
+    },
+    {
+        "text": "A bat.",
+        "startTime": 46055,
+        "endTime": 46910,
+        "slowStartTime": 69232,
+        "slowEndTime": 70590
+    },
+    {
+        "text": "A bat.",
+        "startTime": 47359,
+        "endTime": 48073,
+        "slowStartTime": 71189,
+        "slowEndTime": 72334
+    },
+    {
+        "text": "A ghost.",
+        "startTime": 52439,
+        "endTime": 53206,
+        "slowStartTime": 78808,
+        "slowEndTime": 80034
+    },
+    {
+        "text": "A ghost.",
+        "startTime": 53767,
+        "endTime": 54533,
+        "slowStartTime": 80800,
+        "slowEndTime": 82025
+    },
+    {
+        "text": "A vampire.",
+        "startTime": 58923,
+        "endTime": 59823,
+        "slowStartTime": 88535,
+        "slowEndTime": 89959
+    },
+    {
+        "text": "A vampire.",
+        "startTime": 60337,
+        "endTime": 61267,
+        "slowStartTime": 90655,
+        "slowEndTime": 92126
+    },
+    {
+        "text": "A mummy.",
+        "startTime": 65201,
+        "endTime": 65819,
+        "slowStartTime": 97952,
+        "slowEndTime": 98954
+    },
+    {
+        "text": "A mummy.",
+        "startTime": 66413,
+        "endTime": 67108,
+        "slowStartTime": 99769,
+        "slowEndTime": 100887
+    },
+    {
+        "text": "Frankenstein.",
+        "startTime": 71774,
+        "endTime": 72663,
+        "slowStartTime": 107811,
+        "slowEndTime": 109219
+    },
+    {
+        "text": "Frankenstein.",
+        "startTime": 73396,
+        "endTime": 74200,
+        "slowStartTime": 110244,
+        "slowEndTime": 111525
+    },
+    {
+        "text": "A witch.",
+        "startTime": 77977,
+        "endTime": 78750,
+        "slowStartTime": 117116,
+        "slowEndTime": 118350
+    },
+    {
+        "text": "A witch.",
+        "startTime": 79390,
+        "endTime": 80148,
+        "slowStartTime": 119235,
+        "slowEndTime": 120447
+    },
+    {
+        "text": "A spider.",
+        "startTime": 84477,
+        "endTime": 85193,
+        "slowStartTime": 126865,
+        "slowEndTime": 128014
+    },
+    {
+        "text": "A spider.",
+        "startTime": 85822,
+        "endTime": 86663,
+        "slowStartTime": 128883,
+        "slowEndTime": 130220
+    },
+    {
+        "text": "A werewolf.",
+        "startTime": 90949,
+        "endTime": 91630,
+        "slowStartTime": 136574,
+        "slowEndTime": 137670
+    },
+    {
+        "text": "A werewolf.",
+        "startTime": 92291,
+        "endTime": 92972,
+        "slowStartTime": 138587,
+        "slowEndTime": 139683
+    },
+    {
+        "text": "A skeleton.",
+        "startTime": 97188,
+        "endTime": 98010,
+        "slowStartTime": 145932,
+        "slowEndTime": 147240
+    },
+    {
+        "text": "A skeleton.",
+        "startTime": 98607,
+        "endTime": 99362,
+        "slowStartTime": 148060,
+        "slowEndTime": 149268
+    }
+]

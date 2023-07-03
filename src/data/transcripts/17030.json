@@ -1,0 +1,51 @@
+[
+    {
+        "text": "No, you take it, you were here first!",
+        "startTime": 10201,
+        "endTime": 12767,
+        "slowStartTime": 15451,
+        "slowEndTime": 19376
+    },
+    {
+        "text": "Are you sure?",
+        "startTime": 13392,
+        "endTime": 14283,
+        "slowStartTime": 20238,
+        "slowEndTime": 21649
+    },
+    {
+        "text": "Absolutely!",
+        "startTime": 14745,
+        "endTime": 15908,
+        "slowStartTime": 22267,
+        "slowEndTime": 24087
+    },
+    {
+        "text": "You are a total angel!",
+        "startTime": 17068,
+        "endTime": 18742,
+        "slowStartTime": 25752,
+        "slowEndTime": 28338
+    },
+    {
+        "text": "I appreciate that!",
+        "startTime": 20022,
+        "endTime": 21350,
+        "slowStartTime": 30183,
+        "slowEndTime": 32250
+    },
+    {
+        "text": "You're a great guy!",
+        "startTime": 22873,
+        "endTime": 24255,
+        "slowStartTime": 34460,
+        "slowEndTime": 36607
+    },
+    {
+        "text": "Thank you!",
+        "startTime": 25394,
+        "endTime": 26157,
+        "slowStartTime": 38241,
+        "slowEndTime": 39460
+    }
+]

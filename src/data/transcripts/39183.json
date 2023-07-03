@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Hello, Alex in marketing speaking.",
+        "startTime": 4511,
+        "endTime": 6289,
+        "slowStartTime": 6917,
+        "slowEndTime": 9658
+    },
+    {
+        "text": "How can I help you?",
+        "startTime": 6415,
+        "endTime": 7313,
+        "slowStartTime": 9772,
+        "slowEndTime": 11195
+    },
+    {
+        "text": "Hello, Alex, this is Josh.",
+        "startTime": 7612,
+        "endTime": 9281,
+        "slowStartTime": 11568,
+        "slowEndTime": 14146
+    },
+    {
+        "text": "Is Alexandra available at the moment?",
+        "startTime": 9773,
+        "endTime": 11565,
+        "slowStartTime": 14809,
+        "slowEndTime": 17572
+    },
+    {
+        "text": "She is not at her desk at the moment.",
+        "startTime": 14646,
+        "endTime": 18334,
+        "slowStartTime": 22119,
+        "slowEndTime": 27726
+    },
+    {
+        "text": "Would you like to leave a message?",
+        "startTime": 18625,
+        "endTime": 19846,
+        "slowStartTime": 28088,
+        "slowEndTime": 29994
+    },
+    {
+        "text": "Yes, I'll leave a message.",
+        "startTime": 20272,
+        "endTime": 21627,
+        "slowStartTime": 30558,
+        "slowEndTime": 32665
+    },
+    {
+        "text": "Please let her know Josh from New Media called...",
+        "startTime": 22165,
+        "endTime": 24045,
+        "slowStartTime": 33398,
+        "slowEndTime": 36293
+    },
+    {
+        "text": "...and to contact me as soon as she can.",
+        "startTime": 24120,
+        "endTime": 26008,
+        "slowStartTime": 36330,
+        "slowEndTime": 39237
+    },
+    {
+        "text": "Okay, great.",
+        "startTime": 26273,
+        "endTime": 27576,
+        "slowStartTime": 39559,
+        "slowEndTime": 41589
+    },
+    {
+        "text": "I will let her know Josh from New Media called.",
+        "startTime": 27881,
+        "endTime": 33938,
+        "slowStartTime": 41971,
+        "slowEndTime": 51132
+    },
+    {
+        "text": "I'll tell her to contact you as soon as possible.",
+        "startTime": 34695,
+        "endTime": 37383,
+        "slowStartTime": 52192,
+        "slowEndTime": 56299
+    }
+]

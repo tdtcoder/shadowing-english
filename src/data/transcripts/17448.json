@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Tiger and Lily were enemies.",
+        "startTime": 1505,
+        "endTime": 3879,
+        "slowStartTime": 2407,
+        "slowEndTime": 6043
+    },
+    {
+        "text": "If Tiger hissed, Lily hissed.",
+        "startTime": 5189,
+        "endTime": 7638,
+        "slowStartTime": 7934,
+        "slowEndTime": 11682
+    },
+    {
+        "text": "If Lily got to the food first, Tiger hissed.",
+        "startTime": 8875,
+        "endTime": 12641,
+        "slowStartTime": 13462,
+        "slowEndTime": 19187
+    },
+    {
+        "text": "If Tiger got to the food first, Lily hissed.",
+        "startTime": 13855,
+        "endTime": 17317,
+        "slowStartTime": 20932,
+        "slowEndTime": 26201
+    },
+    {
+        "text": "If Tiger played with the toy, Lily hissed.",
+        "startTime": 18508,
+        "endTime": 22154,
+        "slowStartTime": 27912,
+        "slowEndTime": 33456
+    },
+    {
+        "text": "If Lily played with the toy, Tiger hissed.",
+        "startTime": 23539,
+        "endTime": 26659,
+        "slowStartTime": 35459,
+        "slowEndTime": 40213
+    },
+    {
+        "text": "If Lily was fast asleep, Tiger had great fun waking her up.",
+        "startTime": 27746,
+        "endTime": 32905,
+        "slowStartTime": 41769,
+        "slowEndTime": 49583
+    },
+    {
+        "text": "Sometimes Tiger was fast asleep.",
+        "startTime": 34124,
+        "endTime": 36773,
+        "slowStartTime": 51336,
+        "slowEndTime": 55385
+    },
+    {
+        "text": "Lily had great fun waking him up.",
+        "startTime": 37855,
+        "endTime": 40321,
+        "slowStartTime": 56933,
+        "slowEndTime": 60706
+    },
+    {
+        "text": "If Tiger sat in a lap first, Lily hissed.",
+        "startTime": 41563,
+        "endTime": 45513,
+        "slowStartTime": 62494,
+        "slowEndTime": 68494
+    },
+    {
+        "text": "If Lily sat in a lap first, Tiger hissed.",
+        "startTime": 46835,
+        "endTime": 50357,
+        "slowStartTime": 70403,
+        "slowEndTime": 75761
+    },
+    {
+        "text": "If the back door opened, they raced to get outside.",
+        "startTime": 51511,
+        "endTime": 55565,
+        "slowStartTime": 77417,
+        "slowEndTime": 83572
+    },
+    {
+        "text": "If Lily got there first, Tiger hissed.",
+        "startTime": 56841,
+        "endTime": 59915,
+        "slowStartTime": 85412,
+        "slowEndTime": 90097
+    },
+    {
+        "text": "If Tiger got there first, Lily hissed.",
+        "startTime": 61191,
+        "endTime": 64109,
+        "slowStartTime": 91936,
+        "slowEndTime": 96389
+    },
+    {
+        "text": "But something different happened when no one was around.",
+        "startTime": 65145,
+        "endTime": 68711,
+        "slowStartTime": 97868,
+        "slowEndTime": 103292
+    },
+    {
+        "text": "Tiger and Lily were the best of friends.",
+        "startTime": 69850,
+        "endTime": 73047,
+        "slowStartTime": 104925,
+        "slowEndTime": 109796
+    }
+]

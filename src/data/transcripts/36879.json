@@ -1,0 +1,65 @@
+[
+    {
+        "text": "There are personnel in the ASDF who are in charge of consistent ISR...",
+        "startTime": 1845,
+        "endTime": 6470,
+        "slowStartTime": 2918,
+        "slowEndTime": 9930
+    },
+    {
+        "text": "...in the airspace over Japan and the surrounding areas.",
+        "startTime": 6574,
+        "endTime": 9899,
+        "slowStartTime": 10011,
+        "slowEndTime": 15073
+    },
+    {
+        "text": "If any aircraft heading to Japan's territorial airspace are detected,...",
+        "startTime": 15370,
+        "endTime": 19593,
+        "slowStartTime": 23205,
+        "slowEndTime": 29614
+    },
+    {
+        "text": "...fighters and other aircrafts immediately scramble.",
+        "startTime": 19887,
+        "endTime": 22592,
+        "slowStartTime": 29980,
+        "slowEndTime": 34113
+    },
+    {
+        "text": "They confirm the situation and monitor the aircraft activities as necessary.",
+        "startTime": 23636,
+        "endTime": 27951,
+        "slowStartTime": 35604,
+        "slowEndTime": 42152
+    },
+    {
+        "text": "Furthermore, in the event that the suspicious aircraft...",
+        "startTime": 28479,
+        "endTime": 31506,
+        "slowStartTime": 42868,
+        "slowEndTime": 47484
+    },
+    {
+        "text": "...has actually intruded in to territorial airspace,...",
+        "startTime": 31624,
+        "endTime": 34298,
+        "slowStartTime": 47586,
+        "slowEndTime": 51672
+    },
+    {
+        "text": "...ASDF issues a warning to leave the airspace.",
+        "startTime": 34697,
+        "endTime": 37898,
+        "slowStartTime": 52196,
+        "slowEndTime": 57072
+    },
+    {
+        "text": "ASDF aircrafts scramble almost 1200 times annually.",
+        "startTime": 38296,
+        "endTime": 43013,
+        "slowStartTime": 57594,
+        "slowEndTime": 64745
+    }
+]

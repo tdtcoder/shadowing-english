@@ -1,0 +1,100 @@
+[
+    {
+        "text": "You might have plants at your home.",
+        "startTime": 1331,
+        "endTime": 3620,
+        "slowStartTime": 2146,
+        "slowEndTime": 5655
+    },
+    {
+        "text": "Plants can be inside the house or outside.",
+        "startTime": 4029,
+        "endTime": 7157,
+        "slowStartTime": 6194,
+        "slowEndTime": 10961
+    },
+    {
+        "text": "And they can be large, like a tree or small like a rose.",
+        "startTime": 7423,
+        "endTime": 12265,
+        "slowStartTime": 11284,
+        "slowEndTime": 18622
+    },
+    {
+        "text": "Some plants are very pretty and have lots of color in their leaves and flowers.",
+        "startTime": 15480,
+        "endTime": 21374,
+        "slowStartTime": 23370,
+        "slowEndTime": 32286
+    },
+    {
+        "text": "A plant that has red or purple can be used to make paint or dye.",
+        "startTime": 22735,
+        "endTime": 28350,
+        "slowStartTime": 34252,
+        "slowEndTime": 42750
+    },
+    {
+        "text": "Plants give us many things.",
+        "startTime": 31922,
+        "endTime": 34101,
+        "slowStartTime": 48033,
+        "slowEndTime": 51377
+    },
+    {
+        "text": "Most people feel good looking at flowers and people often give flowers as presents.",
+        "startTime": 34829,
+        "endTime": 41519,
+        "slowStartTime": 52394,
+        "slowEndTime": 62504
+    },
+    {
+        "text": "Many plants like roses smell so good that they're used in perfume.",
+        "startTime": 42343,
+        "endTime": 48361,
+        "slowStartTime": 63664,
+        "slowEndTime": 72766
+    },
+    {
+        "text": "Others are used in medicine.",
+        "startTime": 48787,
+        "endTime": 51029,
+        "slowStartTime": 73331,
+        "slowEndTime": 76768
+    },
+    {
+        "text": "Some plants give us food like carrot or apple and banana trees.",
+        "startTime": 51296,
+        "endTime": 56509,
+        "slowStartTime": 77094,
+        "slowEndTime": 84989
+    },
+    {
+        "text": "Many animals also eat plants.",
+        "startTime": 58830,
+        "endTime": 61648,
+        "slowStartTime": 88395,
+        "slowEndTime": 92697
+    },
+    {
+        "text": "Can you think of an animal that eats bananas?",
+        "startTime": 62255,
+        "endTime": 65363,
+        "slowStartTime": 93533,
+        "slowEndTime": 98270
+    },
+    {
+        "text": "Trees give us shade that keeps us cool on a hot day.",
+        "startTime": 67621,
+        "endTime": 71658,
+        "slowStartTime": 101581,
+        "slowEndTime": 107712
+    },
+    {
+        "text": "We use trees for exercise when we climb them to play.",
+        "startTime": 74435,
+        "endTime": 78285,
+        "slowStartTime": 111802,
+        "slowEndTime": 117653
+    }
+]

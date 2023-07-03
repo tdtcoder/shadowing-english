@@ -1,0 +1,79 @@
+[
+    {
+        "text": "\"Supposed to\" is an adjective while \"suppose\" is a verb.",
+        "startTime": 1482,
+        "endTime": 5677,
+        "slowStartTime": 2373,
+        "slowEndTime": 8741
+    },
+    {
+        "text": "The meeting was supposed to start at 9.",
+        "startTime": 11123,
+        "endTime": 13738,
+        "slowStartTime": 16835,
+        "slowEndTime": 20832
+    },
+    {
+        "text": "I suppose we'll be starting late.",
+        "startTime": 15478,
+        "endTime": 17170,
+        "slowStartTime": 23367,
+        "slowEndTime": 25980
+    },
+    {
+        "text": "He was supposed to sing tonight, but he isn't going to.",
+        "startTime": 22746,
+        "endTime": 26590,
+        "slowStartTime": 34269,
+        "slowEndTime": 40110
+    },
+    {
+        "text": "I suppose he isn't feeling well.",
+        "startTime": 28467,
+        "endTime": 30090,
+        "slowStartTime": 42851,
+        "slowEndTime": 45360
+    },
+    {
+        "text": "You're supposed to stop for pedestrians at crosswalks.",
+        "startTime": 34627,
+        "endTime": 38198,
+        "slowStartTime": 52090,
+        "slowEndTime": 57522
+    },
+    {
+        "text": "I suppose some drivers aren't following traffic rules.",
+        "startTime": 40905,
+        "endTime": 43622,
+        "slowStartTime": 61508,
+        "slowEndTime": 65658
+    },
+    {
+        "text": "She was not supposed to come here.",
+        "startTime": 49374,
+        "endTime": 51448,
+        "slowStartTime": 74211,
+        "slowEndTime": 77397
+    },
+    {
+        "text": "I suppose she thinks I wouldn't mind.",
+        "startTime": 52488,
+        "endTime": 54644,
+        "slowStartTime": 78882,
+        "slowEndTime": 82191
+    },
+    {
+        "text": "You weren't supposed to eat so much.",
+        "startTime": 61361,
+        "endTime": 64442,
+        "slowStartTime": 92191,
+        "slowEndTime": 96888
+    },
+    {
+        "text": "I suppose the food was that delicious.",
+        "startTime": 65599,
+        "endTime": 68288,
+        "slowStartTime": 98549,
+        "slowEndTime": 102657
+    }
+]

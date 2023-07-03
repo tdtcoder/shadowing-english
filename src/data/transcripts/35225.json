@@ -1,0 +1,107 @@
+[
+    {
+        "text": "The most characteristic feature of Euglena is its single long flagellum...",
+        "startTime": 259,
+        "endTime": 5325,
+        "slowStartTime": 539,
+        "slowEndTime": 8212
+    },
+    {
+        "text": "...which is used for locomotion.",
+        "startTime": 5677,
+        "endTime": 7423,
+        "slowStartTime": 8666,
+        "slowEndTime": 11359
+    },
+    {
+        "text": "it also has an organ for sensing light called the stigma or eye spot.",
+        "startTime": 8352,
+        "endTime": 13772,
+        "slowStartTime": 12678,
+        "slowEndTime": 20883
+    },
+    {
+        "text": "This enables the organism to orientate itself...",
+        "startTime": 14611,
+        "endTime": 17533,
+        "slowStartTime": 22067,
+        "slowEndTime": 26525
+    },
+    {
+        "text": "...so that it can obtain the optimum amount of light which it needs for photosynthesis.",
+        "startTime": 17704,
+        "endTime": 22545,
+        "slowStartTime": 26706,
+        "slowEndTime": 34043
+    },
+    {
+        "text": "This process is called positive phototaxis.",
+        "startTime": 23339,
+        "endTime": 27469,
+        "slowStartTime": 35159,
+        "slowEndTime": 41429
+    },
+    {
+        "text": "The chloroplasts and chlorophyll A and chlorophyll B in Euglena...",
+        "startTime": 28655,
+        "endTime": 32682,
+        "slowStartTime": 43132,
+        "slowEndTime": 49248
+    },
+    {
+        "text": "...are similar to those in plants.",
+        "startTime": 32991,
+        "endTime": 35208,
+        "slowStartTime": 49636,
+        "slowEndTime": 53037
+    },
+    {
+        "text": "However Euglena differs from plants in being motile and lacking a cellulose cell wall.",
+        "startTime": 35789,
+        "endTime": 42488,
+        "slowStartTime": 53834,
+        "slowEndTime": 63957
+    },
+    {
+        "text": "Instead, the shape of the cell is maintained to some extent by the pellicle.",
+        "startTime": 43347,
+        "endTime": 49242,
+        "slowStartTime": 65171,
+        "slowEndTime": 74088
+    },
+    {
+        "text": "A layer just outside the cell surface membrane.",
+        "startTime": 49610,
+        "endTime": 52470,
+        "slowStartTime": 74565,
+        "slowEndTime": 78930
+    },
+    {
+        "text": "Glucose is stored in the form of paramylon which is produced by the pyrenoid.",
+        "startTime": 55365,
+        "endTime": 60454,
+        "slowStartTime": 83197,
+        "slowEndTime": 90906
+    },
+    {
+        "text": "As in other protozoans,...",
+        "startTime": 61349,
+        "endTime": 62926,
+        "slowStartTime": 92173,
+        "slowEndTime": 94614
+    },
+    {
+        "text": "...the exchange of gases and the excretion of waste takes place via the plasma membrane...",
+        "startTime": 63137,
+        "endTime": 69031,
+        "slowStartTime": 94855,
+        "slowEndTime": 103772
+    },
+    {
+        "text": "...and osmoregulation is carried out by the contractile vacuoles.",
+        "startTime": 69199,
+        "endTime": 75032,
+        "slowStartTime": 103949,
+        "slowEndTime": 112773
+    }
+]

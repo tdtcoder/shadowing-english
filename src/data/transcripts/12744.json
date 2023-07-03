@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Hello there. Is there something I can help you with?",
+        "startTime": 2297,
+        "endTime": 5235,
+        "slowStartTime": 3595,
+        "slowEndTime": 8077
+    },
+    {
+        "text": "Yes, I was wondering if it would be possible to reserve a classroom.",
+        "startTime": 5682,
+        "endTime": 10057,
+        "slowStartTime": 8673,
+        "slowEndTime": 15310
+    },
+    {
+        "text": "You need to use a classroom? Is this for personal use?",
+        "startTime": 10265,
+        "endTime": 13537,
+        "slowStartTime": 15547,
+        "slowEndTime": 20531
+    },
+    {
+        "text": "No, it's for my club. I'm the president of \"Friends of the Disabled\"...",
+        "startTime": 13779,
+        "endTime": 17951,
+        "slowStartTime": 20818,
+        "slowEndTime": 27152
+    },
+    {
+        "text": "...and we were hoping to use a room for our next meeting.",
+        "startTime": 18101,
+        "endTime": 20944,
+        "slowStartTime": 27302,
+        "slowEndTime": 31641
+    },
+    {
+        "text": "I see. You need to ask the professor for permission, then it shouldn't be a problem.",
+        "startTime": 21117,
+        "endTime": 26135,
+        "slowStartTime": 31826,
+        "slowEndTime": 39428
+    },
+    {
+        "text": "Okay, sounds great. Do you happen to know how big the room is?",
+        "startTime": 26414,
+        "endTime": 30092,
+        "slowStartTime": 39771,
+        "slowEndTime": 45363
+    },
+    {
+        "text": "It's a regular lecture hall, so I imagine it has about 50 to 60 desks in it.",
+        "startTime": 30367,
+        "endTime": 35829,
+        "slowStartTime": 45700,
+        "slowEndTime": 53968
+    },
+    {
+        "text": "That will be plenty big enough for us. Thank you very much for your help.",
+        "startTime": 36436,
+        "endTime": 40120,
+        "slowStartTime": 54804,
+        "slowEndTime": 60405
+    },
+    {
+        "text": "No trouble at all. Feel free to see me when you have questions.",
+        "startTime": 40302,
+        "endTime": 44081,
+        "slowStartTime": 60603,
+        "slowEndTime": 66346
+    }
+]

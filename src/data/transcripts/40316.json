@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Excuse me, can I take a picture here?",
+        "startTime": 380,
+        "endTime": 2202,
+        "slowStartTime": 720,
+        "slowEndTime": 3528
+    },
+    {
+        "text": "Here in the lobby?",
+        "startTime": 3188,
+        "endTime": 4266,
+        "slowStartTime": 4932,
+        "slowEndTime": 6624
+    },
+    {
+        "text": "Yes, you can.",
+        "startTime": 4628,
+        "endTime": 5410,
+        "slowStartTime": 7092,
+        "slowEndTime": 8340
+    },
+    {
+        "text": "Good.",
+        "startTime": 5741,
+        "endTime": 6157,
+        "slowStartTime": 8761,
+        "slowEndTime": 9461
+    },
+    {
+        "text": "And would you take a picture of us?",
+        "startTime": 6794,
+        "endTime": 8329,
+        "slowStartTime": 10341,
+        "slowEndTime": 12719
+    },
+    {
+        "text": "Sure.",
+        "startTime": 8636,
+        "endTime": 8951,
+        "slowStartTime": 13104,
+        "slowEndTime": 13651
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 9473,
+        "endTime": 10007,
+        "slowStartTime": 14359,
+        "slowEndTime": 15236
+    },
+    {
+        "text": "We want to have a picture taken with this Christmas Tree.",
+        "startTime": 10499,
+        "endTime": 12815,
+        "slowStartTime": 15898,
+        "slowEndTime": 19448
+    },
+    {
+        "text": "You want a picture including the whole Christmas Tree, right?",
+        "startTime": 13655,
+        "endTime": 16689,
+        "slowStartTime": 20633,
+        "slowEndTime": 25259
+    },
+    {
+        "text": "In that case, it will be vertically long.",
+        "startTime": 17074,
+        "endTime": 19391,
+        "slowStartTime": 25761,
+        "slowEndTime": 29311
+    },
+    {
+        "text": "That's fine.",
+        "startTime": 19902,
+        "endTime": 20695,
+        "slowStartTime": 30003,
+        "slowEndTime": 31268
+    },
+    {
+        "text": "Can you get all of us in the picture?",
+        "startTime": 21198,
+        "endTime": 22706,
+        "slowStartTime": 31947,
+        "slowEndTime": 34284
+    },
+    {
+        "text": "Can you get closer to the center, everyone?",
+        "startTime": 23075,
+        "endTime": 25171,
+        "slowStartTime": 34762,
+        "slowEndTime": 37982
+    },
+    {
+        "text": "Say cheese.",
+        "startTime": 25378,
+        "endTime": 26270,
+        "slowStartTime": 38217,
+        "slowEndTime": 39630
+    },
+    {
+        "text": "Cheese!",
+        "startTime": 26429,
+        "endTime": 27141,
+        "slowStartTime": 39794,
+        "slowEndTime": 40937
+    },
+    {
+        "text": "Can you take one more, please?",
+        "startTime": 27801,
+        "endTime": 28988,
+        "slowStartTime": 41852,
+        "slowEndTime": 43707
+    },
+    {
+        "text": "No problem.",
+        "startTime": 29125,
+        "endTime": 29959,
+        "slowStartTime": 43837,
+        "slowEndTime": 45164
+    },
+    {
+        "text": "Thank you very much.",
+        "startTime": 30245,
+        "endTime": 31187,
+        "slowStartTime": 45518,
+        "slowEndTime": 47006
+    }
+]

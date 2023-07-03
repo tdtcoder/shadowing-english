@@ -1,0 +1,121 @@
+[
+    {
+        "text": "London is the best city in the world.",
+        "startTime": 114,
+        "endTime": 2529,
+        "slowStartTime": 321,
+        "slowEndTime": 4019
+    },
+    {
+        "text": "Well, I know what you're gonna say.",
+        "startTime": 3900,
+        "endTime": 5028,
+        "slowStartTime": 6000,
+        "slowEndTime": 7767
+    },
+    {
+        "text": "I think that London is a beautiful place.",
+        "startTime": 8965,
+        "endTime": 11785,
+        "slowStartTime": 13598,
+        "slowEndTime": 17903
+    },
+    {
+        "text": "And I love it here, but there's also other beautiful places in the world.",
+        "startTime": 11900,
+        "endTime": 17235,
+        "slowStartTime": 18000,
+        "slowEndTime": 26077
+    },
+    {
+        "text": "I'm sitting right here.",
+        "startTime": 17900,
+        "endTime": 19328,
+        "slowStartTime": 27000,
+        "slowEndTime": 29217
+    },
+    {
+        "text": "Do you know what?",
+        "startTime": 20139,
+        "endTime": 20532,
+        "slowStartTime": 30359,
+        "slowEndTime": 31023
+    },
+    {
+        "text": "I'm actually gonna go with \"Agree\"...",
+        "startTime": 20601,
+        "endTime": 21934,
+        "slowStartTime": 31051,
+        "slowEndTime": 33126
+    },
+    {
+        "text": "...because I haven't been to all the cities in the world.",
+        "startTime": 22011,
+        "endTime": 24346,
+        "slowStartTime": 33167,
+        "slowEndTime": 36744
+    },
+    {
+        "text": "And, you know, lots of places have assets that London doesn't have.",
+        "startTime": 24657,
+        "endTime": 27793,
+        "slowStartTime": 37136,
+        "slowEndTime": 41914
+    },
+    {
+        "text": "Like, you go to Barcelona, you have the beach, you know.",
+        "startTime": 27885,
+        "endTime": 29930,
+        "slowStartTime": 41978,
+        "slowEndTime": 45120
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 30009,
+        "endTime": 30337,
+        "slowStartTime": 45164,
+        "slowEndTime": 45731
+    },
+    {
+        "text": "No, I love London.",
+        "startTime": 31807,
+        "endTime": 32576,
+        "slowStartTime": 47861,
+        "slowEndTime": 49089
+    },
+    {
+        "text": "London is my home, I've grown up here.",
+        "startTime": 32647,
+        "endTime": 34383,
+        "slowStartTime": 49121,
+        "slowEndTime": 51800
+    },
+    {
+        "text": "Whenever I come back, it feels like I'm a part of the city.",
+        "startTime": 34468,
+        "endTime": 38539,
+        "slowStartTime": 51852,
+        "slowEndTime": 58033
+    },
+    {
+        "text": "It's a great city.",
+        "startTime": 38856,
+        "endTime": 39583,
+        "slowStartTime": 58434,
+        "slowEndTime": 59600
+    },
+    {
+        "text": "Great food, lovely people.",
+        "startTime": 39660,
+        "endTime": 40929,
+        "slowStartTime": 59640,
+        "slowEndTime": 61618
+    },
+    {
+        "text": "Can you tell that he's English?",
+        "startTime": 41154,
+        "endTime": 42491,
+        "slowStartTime": 61881,
+        "slowEndTime": 63962
+    }
+]

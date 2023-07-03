@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Hello there.",
+        "startTime": 2203,
+        "endTime": 3007,
+        "slowStartTime": 3455,
+        "slowEndTime": 4735
+    },
+    {
+        "text": "What have you got your wife today?",
+        "startTime": 3623,
+        "endTime": 5849,
+        "slowStartTime": 5585,
+        "slowEndTime": 8998
+    },
+    {
+        "text": "It's the 14th, Valentine's Day!",
+        "startTime": 6376,
+        "endTime": 9597,
+        "slowStartTime": 9714,
+        "slowEndTime": 14620
+    },
+    {
+        "text": "You better get her something good.",
+        "startTime": 10323,
+        "endTime": 11908,
+        "slowStartTime": 15634,
+        "slowEndTime": 18087
+    },
+    {
+        "text": "Some nice flowers at least or she'll know you forgot.",
+        "startTime": 12119,
+        "endTime": 16336,
+        "slowStartTime": 18329,
+        "slowEndTime": 24729
+    },
+    {
+        "text": "You can't be serious!",
+        "startTime": 18995,
+        "endTime": 20954,
+        "slowStartTime": 28642,
+        "slowEndTime": 31656
+    },
+    {
+        "text": "She'll know!",
+        "startTime": 21451,
+        "endTime": 22993,
+        "slowStartTime": 32326,
+        "slowEndTime": 34715
+    },
+    {
+        "text": "That's still not good enough.",
+        "startTime": 26534,
+        "endTime": 28064,
+        "slowStartTime": 39951,
+        "slowEndTime": 42321
+    },
+    {
+        "text": "And they smell of petrol.",
+        "startTime": 28694,
+        "endTime": 30215,
+        "slowStartTime": 43191,
+        "slowEndTime": 45547
+    },
+    {
+        "text": "She'll know!",
+        "startTime": 30830,
+        "endTime": 32313,
+        "slowStartTime": 46395,
+        "slowEndTime": 48695
+    },
+    {
+        "text": "You wouldn't dare!",
+        "startTime": 36266,
+        "endTime": 38081,
+        "slowStartTime": 54549,
+        "slowEndTime": 57347
+    },
+    {
+        "text": "She'll know!",
+        "startTime": 38347,
+        "endTime": 39936,
+        "slowStartTime": 57671,
+        "slowEndTime": 60129
+    },
+    {
+        "text": "Why not try the florists.",
+        "startTime": 41315,
+        "endTime": 43273,
+        "slowStartTime": 62123,
+        "slowEndTime": 65135
+    },
+    {
+        "text": "It might be last minute, but they are used to dealing with men like you.",
+        "startTime": 43431,
+        "endTime": 48160,
+        "slowStartTime": 65297,
+        "slowEndTime": 72465
+    },
+    {
+        "text": "Look at those.",
+        "startTime": 54541,
+        "endTime": 56235,
+        "slowStartTime": 81962,
+        "slowEndTime": 84577
+    },
+    {
+        "text": "Now when you tell her you love her, she'll know!",
+        "startTime": 58592,
+        "endTime": 62809,
+        "slowStartTime": 88038,
+        "slowEndTime": 94438
+    }
+]

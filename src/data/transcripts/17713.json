@@ -1,0 +1,226 @@
+[
+    {
+        "text": "Bongo woke up early on the day of the Animal Olympics.",
+        "startTime": 2394,
+        "endTime": 6931,
+        "slowStartTime": 3741,
+        "slowEndTime": 10622
+    },
+    {
+        "text": "He was very excited.",
+        "startTime": 7989,
+        "endTime": 10071,
+        "slowStartTime": 12134,
+        "slowEndTime": 15331
+    },
+    {
+        "text": "He was sure he could win a gold medal.",
+        "startTime": 11063,
+        "endTime": 14165,
+        "slowStartTime": 16744,
+        "slowEndTime": 21473
+    },
+    {
+        "text": "The Animal Olympics were being held at the zoo.",
+        "startTime": 15147,
+        "endTime": 18890,
+        "slowStartTime": 22871,
+        "slowEndTime": 28560
+    },
+    {
+        "text": "All the young animals were invited to compete in the games.",
+        "startTime": 19957,
+        "endTime": 24443,
+        "slowStartTime": 30085,
+        "slowEndTime": 36890
+    },
+    {
+        "text": "The first event was running.",
+        "startTime": 25501,
+        "endTime": 27400,
+        "slowStartTime": 38402,
+        "slowEndTime": 41325
+    },
+    {
+        "text": "Bongo thought he was a good runner.",
+        "startTime": 28482,
+        "endTime": 31242,
+        "slowStartTime": 42873,
+        "slowEndTime": 47088
+    },
+    {
+        "text": "He was sure he would win the race.",
+        "startTime": 32261,
+        "endTime": 35035,
+        "slowStartTime": 48542,
+        "slowEndTime": 52777
+    },
+    {
+        "text": "The animals lined up at the starting line.",
+        "startTime": 36045,
+        "endTime": 39242,
+        "slowStartTime": 54217,
+        "slowEndTime": 59088
+    },
+    {
+        "text": "\"Ready, set, go!\",...",
+        "startTime": 40223,
+        "endTime": 43251,
+        "slowStartTime": 60485,
+        "slowEndTime": 65102
+    },
+    {
+        "text": "...yelled the starter.",
+        "startTime": 44355,
+        "endTime": 45614,
+        "slowStartTime": 66683,
+        "slowEndTime": 68646
+    },
+    {
+        "text": "Bongo had only run three steps when the winner reached the finish line.",
+        "startTime": 46680,
+        "endTime": 52409,
+        "slowStartTime": 70170,
+        "slowEndTime": 78839
+    },
+    {
+        "text": "The cheetah won.",
+        "startTime": 53391,
+        "endTime": 55045,
+        "slowStartTime": 80236,
+        "slowEndTime": 82792
+    },
+    {
+        "text": "Bongo was last.",
+        "startTime": 56186,
+        "endTime": 57811,
+        "slowStartTime": 84429,
+        "slowEndTime": 86942
+    },
+    {
+        "text": "Bongo was not worried.",
+        "startTime": 58793,
+        "endTime": 60710,
+        "slowStartTime": 88340,
+        "slowEndTime": 91290
+    },
+    {
+        "text": "There were still five events left.",
+        "startTime": 61805,
+        "endTime": 64334,
+        "slowStartTime": 92858,
+        "slowEndTime": 96726
+    },
+    {
+        "text": "He would win the next event, the long jump.",
+        "startTime": 65429,
+        "endTime": 68541,
+        "slowStartTime": 98293,
+        "slowEndTime": 103036
+    },
+    {
+        "text": "He was a great jumper.",
+        "startTime": 69655,
+        "endTime": 71477,
+        "slowStartTime": 104632,
+        "slowEndTime": 107441
+    },
+    {
+        "text": "He was sure he would win the long jump.",
+        "startTime": 72497,
+        "endTime": 75289,
+        "slowStartTime": 108895,
+        "slowEndTime": 113159
+    },
+    {
+        "text": "Bongo did not even reach the sandpit.",
+        "startTime": 76337,
+        "endTime": 79628,
+        "slowStartTime": 114655,
+        "slowEndTime": 119667
+    },
+    {
+        "text": "The kangaroo jumped to the end of the sandpit.",
+        "startTime": 80676,
+        "endTime": 84692,
+        "slowStartTime": 121164,
+        "slowEndTime": 127263
+    },
+    {
+        "text": "The kangaroo was the winner.",
+        "startTime": 85663,
+        "endTime": 88203,
+        "slowStartTime": 128645,
+        "slowEndTime": 132529
+    },
+    {
+        "text": "Bongo was last.",
+        "startTime": 89183,
+        "endTime": 91280,
+        "slowStartTime": 133925,
+        "slowEndTime": 137145
+    },
+    {
+        "text": "Bongo was not worried.",
+        "startTime": 92328,
+        "endTime": 94489,
+        "slowStartTime": 138642,
+        "slowEndTime": 141959
+    },
+    {
+        "text": "There were still four events left.",
+        "startTime": 95453,
+        "endTime": 98499,
+        "slowStartTime": 143329,
+        "slowEndTime": 147973
+    },
+    {
+        "text": "He would win the next event, swimming.",
+        "startTime": 99528,
+        "endTime": 102433,
+        "slowStartTime": 149442,
+        "slowEndTime": 153875
+    },
+    {
+        "text": "He was a great swimmer.",
+        "startTime": 103481,
+        "endTime": 105595,
+        "slowStartTime": 155371,
+        "slowEndTime": 158618
+    },
+    {
+        "text": "He was sure he would win the swimming race.",
+        "startTime": 106577,
+        "endTime": 109671,
+        "slowStartTime": 160016,
+        "slowEndTime": 164731
+    },
+    {
+        "text": "Bongo had only swum three strokes when the winner reached the end of the pool.",
+        "startTime": 111057,
+        "endTime": 117135,
+        "slowStartTime": 166736,
+        "slowEndTime": 175927
+    },
+    {
+        "text": "The dolphin was the winner.",
+        "startTime": 118209,
+        "endTime": 120201,
+        "slowStartTime": 177464,
+        "slowEndTime": 180527
+    },
+    {
+        "text": "Bongo was last.",
+        "startTime": 121268,
+        "endTime": 122969,
+        "slowStartTime": 182052,
+        "slowEndTime": 184678
+    },
+    {
+        "text": "Bongo was not worried.",
+        "startTime": 123997,
+        "endTime": 125915,
+        "slowStartTime": 186146,
+        "slowEndTime": 189097
+    }
+]

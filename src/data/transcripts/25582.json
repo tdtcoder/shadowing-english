@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Let's learn about animals in Africa.",
+        "startTime": 658,
+        "endTime": 3696,
+        "slowStartTime": 1137,
+        "slowEndTime": 5769
+    },
+    {
+        "text": "The cheetah is fast.",
+        "startTime": 9315,
+        "endTime": 11641,
+        "slowStartTime": 14123,
+        "slowEndTime": 17687
+    },
+    {
+        "text": "The baby elephant is dirty.",
+        "startTime": 19569,
+        "endTime": 21789,
+        "slowStartTime": 29504,
+        "slowEndTime": 32909
+    },
+    {
+        "text": "The giraffes are fighting.",
+        "startTime": 28817,
+        "endTime": 30787,
+        "slowStartTime": 43376,
+        "slowEndTime": 46406
+    },
+    {
+        "text": "The flamingo is walking.",
+        "startTime": 39021,
+        "endTime": 41063,
+        "slowStartTime": 58681,
+        "slowEndTime": 61820
+    },
+    {
+        "text": "The lion is sitting.",
+        "startTime": 47662,
+        "endTime": 50203,
+        "slowStartTime": 71643,
+        "slowEndTime": 75530
+    },
+    {
+        "text": "The lioness is watching the water buffalo.",
+        "startTime": 57232,
+        "endTime": 60117,
+        "slowStartTime": 85998,
+        "slowEndTime": 90401
+    },
+    {
+        "text": "The monkeys are friends.",
+        "startTime": 66489,
+        "endTime": 68310,
+        "slowStartTime": 99884,
+        "slowEndTime": 102690
+    },
+    {
+        "text": "The crocodile is swimming.",
+        "startTime": 76697,
+        "endTime": 79076,
+        "slowStartTime": 115195,
+        "slowEndTime": 118839
+    },
+    {
+        "text": "The gorilla is angry.",
+        "startTime": 87671,
+        "endTime": 90233,
+        "slowStartTime": 131657,
+        "slowEndTime": 135574
+    },
+    {
+        "text": "The hippos are fighting.",
+        "startTime": 96717,
+        "endTime": 98668,
+        "slowStartTime": 145225,
+        "slowEndTime": 148227
+    },
+    {
+        "text": "The zebra is running.",
+        "startTime": 105639,
+        "endTime": 107573,
+        "slowStartTime": 158608,
+        "slowEndTime": 161584
+    }
+]

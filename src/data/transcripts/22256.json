@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Long before they step on the podium,...",
+        "startTime": 3859,
+        "endTime": 5913,
+        "slowStartTime": 5938,
+        "slowEndTime": 9095
+    },
+    {
+        "text": "...before they cross the finish line or see the score...",
+        "startTime": 7490,
+        "endTime": 11515,
+        "slowStartTime": 11385,
+        "slowEndTime": 17498
+    },
+    {
+        "text": "...there's a moment when they know...",
+        "startTime": 14315,
+        "endTime": 18150,
+        "slowStartTime": 21622,
+        "slowEndTime": 27450
+    },
+    {
+        "text": "...they nailed it.",
+        "startTime": 19119,
+        "endTime": 19991,
+        "slowStartTime": 28829,
+        "slowEndTime": 30212
+    },
+    {
+        "text": "That's their everywhere.",
+        "startTime": 24179,
+        "endTime": 25864,
+        "slowStartTime": 36418,
+        "slowEndTime": 39021
+    },
+    {
+        "text": "VISA, everywhere you want to be.",
+        "startTime": 27014,
+        "endTime": 29770,
+        "slowStartTime": 40671,
+        "slowEndTime": 44880
+    }
+]

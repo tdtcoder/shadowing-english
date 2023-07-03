@@ -1,0 +1,114 @@
+[
+    {
+        "text": "In a nuclear reactor, there are three primary barriers to radiation release.",
+        "startTime": 854,
+        "endTime": 4895,
+        "slowStartTime": 1401,
+        "slowEndTime": 7501
+    },
+    {
+        "text": "The first is the fuel assembly.",
+        "startTime": 5345,
+        "endTime": 6706,
+        "slowStartTime": 8196,
+        "slowEndTime": 10203
+    },
+    {
+        "text": "The Zircaloy rods around the fuel protect from the release of radioactive material.",
+        "startTime": 7486,
+        "endTime": 13107,
+        "slowStartTime": 11405,
+        "slowEndTime": 19811
+    },
+    {
+        "text": "The second is the pressure vessel which surrounds the core...",
+        "startTime": 13374,
+        "endTime": 16001,
+        "slowStartTime": 20219,
+        "slowEndTime": 24206
+    },
+    {
+        "text": "...that also prevents the release of radioactive material.",
+        "startTime": 16501,
+        "endTime": 19548,
+        "slowStartTime": 24915,
+        "slowEndTime": 29508
+    },
+    {
+        "text": "The third is the containment structure surrounding the entire reactor.",
+        "startTime": 19952,
+        "endTime": 24047,
+        "slowStartTime": 30112,
+        "slowEndTime": 36249
+    },
+    {
+        "text": "The containment structure prevents the uncontrolled release of radioactive material from the reactor.",
+        "startTime": 24547,
+        "endTime": 30212,
+        "slowStartTime": 37003,
+        "slowEndTime": 45549
+    },
+    {
+        "text": "Now, the entire structure is designed to withstand a multitude of natural disasters...",
+        "startTime": 30756,
+        "endTime": 35877,
+        "slowStartTime": 46308,
+        "slowEndTime": 53997
+    },
+    {
+        "text": "...including tornado, earthquake, fire, flood, tsunami, hurricanes as well,...",
+        "startTime": 36177,
+        "endTime": 42747,
+        "slowStartTime": 54416,
+        "slowEndTime": 64361
+    },
+    {
+        "text": "...and the storm surge associated with those facilities.",
+        "startTime": 42856,
+        "endTime": 45659,
+        "slowStartTime": 64462,
+        "slowEndTime": 68706
+    },
+    {
+        "text": "And the facility, to give you an idea of some of the design things that we incorporate,...",
+        "startTime": 46862,
+        "endTime": 51496,
+        "slowStartTime": 70455,
+        "slowEndTime": 77451
+    },
+    {
+        "text": "...the picture shown here has a picture of a building that contains a diesel generator.",
+        "startTime": 51842,
+        "endTime": 57395,
+        "slowStartTime": 77916,
+        "slowEndTime": 86285
+    },
+    {
+        "text": "The intake structure for the diesel generator where the air comes in to supply the diesel...",
+        "startTime": 57751,
+        "endTime": 62216,
+        "slowStartTime": 86747,
+        "slowEndTime": 93551
+    },
+    {
+        "text": "...is raised above ground at about 25 to 30 feet off...",
+        "startTime": 62664,
+        "endTime": 66516,
+        "slowStartTime": 94157,
+        "slowEndTime": 100029
+    },
+    {
+        "text": "...to protect it from any storm surge that might occur from a hurricane for example.",
+        "startTime": 66607,
+        "endTime": 70544,
+        "slowStartTime": 100102,
+        "slowEndTime": 106055
+    },
+    {
+        "text": "The surrounding equipment at ground level is not essential to maintaining the ability to safely shut down the facility.",
+        "startTime": 71101,
+        "endTime": 77506,
+        "slowStartTime": 106793,
+        "slowEndTime": 116529
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Amazing Grace,...",
+        "startTime": 2695,
+        "endTime": 8661,
+        "slowStartTime": 4192,
+        "slowEndTime": 13217
+    },
+    {
+        "text": "...how sweet the sound...",
+        "startTime": 9196,
+        "endTime": 15295,
+        "slowStartTime": 13944,
+        "slowEndTime": 23167
+    },
+    {
+        "text": "...that saved a wretch like me.",
+        "startTime": 15922,
+        "endTime": 28459,
+        "slowStartTime": 24033,
+        "slowEndTime": 42914
+    },
+    {
+        "text": "I once was lost...",
+        "startTime": 29267,
+        "endTime": 36505,
+        "slowStartTime": 44050,
+        "slowEndTime": 54983
+    },
+    {
+        "text": "...but now I'm found,...",
+        "startTime": 36854,
+        "endTime": 43085,
+        "slowStartTime": 55431,
+        "slowEndTime": 64852
+    },
+    {
+        "text": "...was blind but now I see.",
+        "startTime": 43461,
+        "endTime": 56617,
+        "slowStartTime": 65342,
+        "slowEndTime": 85150
+    },
+    {
+        "text": "Through countless dangers, doubts and fears,...",
+        "startTime": 61282,
+        "endTime": 69281,
+        "slowStartTime": 92073,
+        "slowEndTime": 104146
+    },
+    {
+        "text": "...I have already come.",
+        "startTime": 69643,
+        "endTime": 77339,
+        "slowStartTime": 104614,
+        "slowEndTime": 116234
+    },
+    {
+        "text": "God's grace hath brought me safely here...",
+        "startTime": 77954,
+        "endTime": 85914,
+        "slowStartTime": 117081,
+        "slowEndTime": 129096
+    },
+    {
+        "text": "...and grace will lead me home.",
+        "startTime": 86300,
+        "endTime": 92945,
+        "slowStartTime": 129600,
+        "slowEndTime": 139643
+    }
+]

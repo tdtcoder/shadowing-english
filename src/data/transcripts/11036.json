@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Some doctors think that you should drink a glass of water each morning.",
+        "startTime": 2850,
+        "endTime": 6650,
+        "slowStartTime": 4500,
+        "slowEndTime": 10200
+    },
+    {
+        "text": "You should drink this water first thing, before doing anything else.",
+        "startTime": 7100,
+        "endTime": 10500,
+        "slowStartTime": 10800,
+        "slowEndTime": 15950
+    },
+    {
+        "text": "The temperature of the water should be similar to body temperature,...",
+        "startTime": 11000,
+        "endTime": 14050,
+        "slowStartTime": 16700,
+        "slowEndTime": 21300
+    },
+    {
+        "text": "...neither too hot nor too cold.",
+        "startTime": 14450,
+        "endTime": 16400,
+        "slowStartTime": 21800,
+        "slowEndTime": 24800
+    },
+    {
+        "text": "Why should you drink this water?",
+        "startTime": 16950,
+        "endTime": 18550,
+        "slowStartTime": 25600,
+        "slowEndTime": 27800
+    },
+    {
+        "text": "Water helps your body in many ways.",
+        "startTime": 19050,
+        "endTime": 21050,
+        "slowStartTime": 28750,
+        "slowEndTime": 31800
+    },
+    {
+        "text": "It helps clean out your kidneys.",
+        "startTime": 21450,
+        "endTime": 23000,
+        "slowStartTime": 32400,
+        "slowEndTime": 34700
+    },
+    {
+        "text": "It prepares your stomach for digestion.",
+        "startTime": 23500,
+        "endTime": 25650,
+        "slowStartTime": 35450,
+        "slowEndTime": 38700
+    },
+    {
+        "text": "Water can also help your intestines work better.",
+        "startTime": 26300,
+        "endTime": 28750,
+        "slowStartTime": 39600,
+        "slowEndTime": 43350
+    },
+    {
+        "text": "After drinking water, the intestines can more easily take out nutrients from our food.",
+        "startTime": 29500,
+        "endTime": 34400,
+        "slowStartTime": 44400,
+        "slowEndTime": 51800
+    },
+    {
+        "text": "Water also helps us go to the bathroom more easily.",
+        "startTime": 35200,
+        "endTime": 38300,
+        "slowStartTime": 53000,
+        "slowEndTime": 57600
+    },
+    {
+        "text": "Scientists suggest that people take in 1,600 milliliters of water each day.",
+        "startTime": 39100,
+        "endTime": 44300,
+        "slowStartTime": 58800,
+        "slowEndTime": 66600
+    },
+    {
+        "text": "But don't drink all of that water in one sitting.",
+        "startTime": 44950,
+        "endTime": 47350,
+        "slowStartTime": 67400,
+        "slowEndTime": 71200
+    },
+    {
+        "text": "If you do, your kidneys will have to work much harder to eliminate it.",
+        "startTime": 47800,
+        "endTime": 51500,
+        "slowStartTime": 71900,
+        "slowEndTime": 77500
+    },
+    {
+        "text": "It's better to drink some in the morning and some in the afternoon.",
+        "startTime": 52150,
+        "endTime": 55700,
+        "slowStartTime": 78400,
+        "slowEndTime": 83800
+    },
+    {
+        "text": "Some people think it's better to drink between meals and not during meals.",
+        "startTime": 56450,
+        "endTime": 60200,
+        "slowStartTime": 84850,
+        "slowEndTime": 90550
+    },
+    {
+        "text": "They think water dilutes the juices produced in our stomachs.",
+        "startTime": 60850,
+        "endTime": 64300,
+        "slowStartTime": 91450,
+        "slowEndTime": 96500
+    },
+    {
+        "text": "This can interfere with normal digestion.",
+        "startTime": 64650,
+        "endTime": 66900,
+        "slowStartTime": 97100,
+        "slowEndTime": 100550
+    },
+    {
+        "text": "Are you drinking enough water every day?",
+        "startTime": 67700,
+        "endTime": 69700,
+        "slowStartTime": 101700,
+        "slowEndTime": 104700
+    },
+    {
+        "text": "Check the color of your urine.",
+        "startTime": 70250,
+        "endTime": 71850,
+        "slowStartTime": 105550,
+        "slowEndTime": 107950
+    },
+    {
+        "text": "If it is light yellow, you are probably drinking enough.",
+        "startTime": 72250,
+        "endTime": 75250,
+        "slowStartTime": 108600,
+        "slowEndTime": 113150
+    },
+    {
+        "text": "If your urine is very dark yellow, you probably need to drink more water.",
+        "startTime": 75900,
+        "endTime": 80600,
+        "slowStartTime": 114000,
+        "slowEndTime": 120900
+    },
+    {
+        "text": "A little more water each day could make you much healthier!",
+        "startTime": 81000,
+        "endTime": 84300,
+        "slowStartTime": 121700,
+        "slowEndTime": 126700
+    }
+]

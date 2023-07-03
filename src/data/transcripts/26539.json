@@ -1,0 +1,72 @@
+[
+    {
+        "text": "When you're a kid, that's lots of fun to be had.",
+        "startTime": 2031,
+        "endTime": 4948,
+        "slowStartTime": 3197,
+        "slowEndTime": 7647
+    },
+    {
+        "text": "Do you like to have a great time?",
+        "startTime": 7087,
+        "endTime": 9059,
+        "slowStartTime": 10781,
+        "slowEndTime": 13814
+    },
+    {
+        "text": "Sometimes, kids can do silly things to make you sad.",
+        "startTime": 10439,
+        "endTime": 14069,
+        "slowStartTime": 15809,
+        "slowEndTime": 21329
+    },
+    {
+        "text": "Oh, no!",
+        "startTime": 17770,
+        "endTime": 18865,
+        "slowStartTime": 26805,
+        "slowEndTime": 28523
+    },
+    {
+        "text": "Someone took Cliff!",
+        "startTime": 19150,
+        "endTime": 20488,
+        "slowStartTime": 28875,
+        "slowEndTime": 30957
+    },
+    {
+        "text": "But no matter how much you might get angry,...",
+        "startTime": 22425,
+        "endTime": 27228,
+        "slowStartTime": 33787,
+        "slowEndTime": 41067
+    },
+    {
+        "text": "Wow!",
+        "startTime": 30026,
+        "endTime": 31491,
+        "slowStartTime": 45189,
+        "slowEndTime": 47461
+    },
+    {
+        "text": "Can you get my doggy back, please?",
+        "startTime": 33261,
+        "endTime": 35355,
+        "slowStartTime": 50042,
+        "slowEndTime": 53258
+    },
+    {
+        "text": "...it's always good to give that kid a chance to say sorry.",
+        "startTime": 40537,
+        "endTime": 45104,
+        "slowStartTime": 60955,
+        "slowEndTime": 67881
+    },
+    {
+        "text": "Be a giant, say sorry.",
+        "startTime": 52689,
+        "endTime": 56382,
+        "slowStartTime": 79184,
+        "slowEndTime": 84798
+    }
+]

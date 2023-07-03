@@ -1,0 +1,100 @@
+[
+    {
+        "text": "﻿Dude, not again.",
+        "startTime": 4123,
+        "endTime": 6055,
+        "slowStartTime": 6335,
+        "slowEndTime": 9307
+    },
+    {
+        "text": "Where are you?",
+        "startTime": 6284,
+        "endTime": 6953,
+        "slowStartTime": 9576,
+        "slowEndTime": 10655
+    },
+    {
+        "text": "I have no idea.",
+        "startTime": 7247,
+        "endTime": 8239,
+        "slowStartTime": 11021,
+        "slowEndTime": 12583
+    },
+    {
+        "text": "One second I was with you, and the next, I wasn't.",
+        "startTime": 8420,
+        "endTime": 10289,
+        "slowStartTime": 12780,
+        "slowEndTime": 15659
+    },
+    {
+        "text": "Calm down. Calm down.",
+        "startTime": 10389,
+        "endTime": 11537,
+        "slowStartTime": 15734,
+        "slowEndTime": 17530
+    },
+    {
+        "text": "Describe it to me.",
+        "startTime": 11955,
+        "endTime": 12675,
+        "slowStartTime": 18082,
+        "slowEndTime": 19238
+    },
+    {
+        "text": "It's like that one place we went to...",
+        "startTime": 13916,
+        "endTime": 15309,
+        "slowStartTime": 21024,
+        "slowEndTime": 23189
+    },
+    {
+        "text": "...and it had all the things.",
+        "startTime": 15789,
+        "endTime": 17167,
+        "slowStartTime": 23834,
+        "slowEndTime": 25976
+    },
+    {
+        "text": "Dude.",
+        "startTime": 17360,
+        "endTime": 17831,
+        "slowStartTime": 26190,
+        "slowEndTime": 26972
+    },
+    {
+        "text": "Remember?",
+        "startTime": 17997,
+        "endTime": 18666,
+        "slowStartTime": 27146,
+        "slowEndTime": 28224
+    },
+    {
+        "text": "Dude, that does not help me.",
+        "startTime": 18834,
+        "endTime": 20545,
+        "slowStartTime": 28401,
+        "slowEndTime": 31043
+    },
+    {
+        "text": "Can you just come get me?",
+        "startTime": 21262,
+        "endTime": 22489,
+        "slowStartTime": 32043,
+        "slowEndTime": 33958
+    },
+    {
+        "text": "I don't think I'm alone here.",
+        "startTime": 23065,
+        "endTime": 24319,
+        "slowStartTime": 34748,
+        "slowEndTime": 36704
+    },
+    {
+        "text": "That tickles!",
+        "startTime": 27917,
+        "endTime": 28913,
+        "slowStartTime": 42025,
+        "slowEndTime": 43594
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "text": "The F-35 has been a dream to fly.",
+        "startTime": 17457,
+        "endTime": 20041,
+        "slowStartTime": 26336,
+        "slowEndTime": 30287
+    },
+    {
+        "text": "It's wonderful.",
+        "startTime": 20173,
+        "endTime": 20873,
+        "slowStartTime": 30410,
+        "slowEndTime": 31534
+    },
+    {
+        "text": "I've never flown an airplane like this...",
+        "startTime": 26157,
+        "endTime": 28760,
+        "slowStartTime": 39386,
+        "slowEndTime": 43365
+    },
+    {
+        "text": "...where you can control the motion of the airplane so precisely.",
+        "startTime": 28862,
+        "endTime": 33054,
+        "slowStartTime": 43443,
+        "slowEndTime": 49806
+    },
+    {
+        "text": "I'm not sure we've even scratched the surface yet of what this airplane,...",
+        "startTime": 38717,
+        "endTime": 42211,
+        "slowStartTime": 58225,
+        "slowEndTime": 63542
+    },
+    {
+        "text": "...when it's operating with other F-35s, is going to be able to do.",
+        "startTime": 42328,
+        "endTime": 45369,
+        "slowStartTime": 63642,
+        "slowEndTime": 68279
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "text": "So, I've downloaded Tor, which looks like a normal web browser...",
+        "startTime": 701,
+        "endTime": 4680,
+        "slowStartTime": 1201,
+        "slowEndTime": 7245
+    },
+    {
+        "text": "...and seems to behave like one too.",
+        "startTime": 4935,
+        "endTime": 7015,
+        "slowStartTime": 7552,
+        "slowEndTime": 10747
+    },
+    {
+        "text": "I can visit any site I like.",
+        "startTime": 7163,
+        "endTime": 8877,
+        "slowStartTime": 10894,
+        "slowEndTime": 13541
+    },
+    {
+        "text": "But unlike normal web browsers which would register my IP address straightaway,...",
+        "startTime": 9192,
+        "endTime": 13707,
+        "slowStartTime": 13938,
+        "slowEndTime": 20785
+    },
+    {
+        "text": "...the Tor browser bounces my request to enter the site...",
+        "startTime": 14050,
+        "endTime": 16829,
+        "slowStartTime": 21225,
+        "slowEndTime": 25469
+    },
+    {
+        "text": "...via several computers around the world,...",
+        "startTime": 16973,
+        "endTime": 19554,
+        "slowStartTime": 25609,
+        "slowEndTime": 29556
+    },
+    {
+        "text": "...encrypting and decrypting my identification as it goes...",
+        "startTime": 19727,
+        "endTime": 23579,
+        "slowStartTime": 29741,
+        "slowEndTime": 35593
+    },
+    {
+        "text": "...so that no one knows where the request has come from.",
+        "startTime": 23805,
+        "endTime": 26511,
+        "slowStartTime": 35858,
+        "slowEndTime": 39991
+    },
+    {
+        "text": "Now that I'm browsing the internet anonymously, certain websites have become accessible.",
+        "startTime": 26923,
+        "endTime": 31406,
+        "slowStartTime": 40535,
+        "slowEndTime": 47334
+    },
+    {
+        "text": "Websites like the infamous Silk Road.",
+        "startTime": 31559,
+        "endTime": 34233,
+        "slowStartTime": 47489,
+        "slowEndTime": 51575
+    },
+    {
+        "text": "The Silk Road was one of the first online black markets...",
+        "startTime": 34976,
+        "endTime": 37885,
+        "slowStartTime": 52614,
+        "slowEndTime": 57053
+    },
+    {
+        "text": "...where you can buy drugs, guns and child pornography.",
+        "startTime": 38147,
+        "endTime": 40852,
+        "slowStartTime": 57370,
+        "slowEndTime": 61503
+    },
+    {
+        "text": "Two years after starting the site, the founder, Ross Ulbricht was arrested in 2013...",
+        "startTime": 41253,
+        "endTime": 46528,
+        "slowStartTime": 62029,
+        "slowEndTime": 70017
+    },
+    {
+        "text": "...and sentenced to life in prison for money laundering, drug trafficking, hacking and fraud.",
+        "startTime": 46788,
+        "endTime": 52001,
+        "slowStartTime": 70332,
+        "slowEndTime": 78226
+    },
+    {
+        "text": "This was quickly followed by a shutdown of its successor, Silk Road 2.0,...",
+        "startTime": 52241,
+        "endTime": 56649,
+        "slowStartTime": 78512,
+        "slowEndTime": 85199
+    },
+    {
+        "text": "...along with similar sites such as Project Black Flag and Black Market Reloaded.",
+        "startTime": 56946,
+        "endTime": 61726,
+        "slowStartTime": 85569,
+        "slowEndTime": 92814
+    }
+]

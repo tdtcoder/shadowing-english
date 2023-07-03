@@ -1,0 +1,135 @@
+[
+    {
+        "text": "Hey.",
+        "startTime": 4604,
+        "endTime": 5119,
+        "slowStartTime": 7056,
+        "slowEndTime": 7903
+    },
+    {
+        "text": "Sorry, I was just checking out your phone.",
+        "startTime": 5364,
+        "endTime": 7012,
+        "slowStartTime": 8196,
+        "slowEndTime": 10743
+    },
+    {
+        "text": "That's the Galaxy S4, right?",
+        "startTime": 7138,
+        "endTime": 8454,
+        "slowStartTime": 10857,
+        "slowEndTime": 12906
+    },
+    {
+        "text": "Yeah, I just got it.",
+        "startTime": 8575,
+        "endTime": 9281,
+        "slowStartTime": 13012,
+        "slowEndTime": 14147
+    },
+    {
+        "text": "Did it really just pause on its own?",
+        "startTime": 9516,
+        "endTime": 10941,
+        "slowStartTime": 14424,
+        "slowEndTime": 16636
+    },
+    {
+        "text": "Yeah, it does it every time you look away from the screen.",
+        "startTime": 11189,
+        "endTime": 13161,
+        "slowStartTime": 16934,
+        "slowEndTime": 19966
+    },
+    {
+        "text": "And that's a big screen too.",
+        "startTime": 13258,
+        "endTime": 14530,
+        "slowStartTime": 20037,
+        "slowEndTime": 22020
+    },
+    {
+        "text": "Five inches, HD.",
+        "startTime": 14674,
+        "endTime": 15994,
+        "slowStartTime": 22161,
+        "slowEndTime": 24216
+    },
+    {
+        "text": "Is that that phone that you answer by waving your hand over it?",
+        "startTime": 16077,
+        "endTime": 18225,
+        "slowStartTime": 24265,
+        "slowEndTime": 27563
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 18322,
+        "endTime": 18580,
+        "slowStartTime": 27633,
+        "slowEndTime": 28095
+    },
+    {
+        "text": "Is it?",
+        "startTime": 18741,
+        "endTime": 19295,
+        "slowStartTime": 28262,
+        "slowEndTime": 29168
+    },
+    {
+        "text": "Am I doing it right?",
+        "startTime": 19366,
+        "endTime": 19908,
+        "slowStartTime": 29199,
+        "slowEndTime": 30087
+    },
+    {
+        "text": "Someone has to call you first.",
+        "startTime": 20204,
+        "endTime": 21551,
+        "slowStartTime": 30456,
+        "slowEndTime": 32552
+    },
+    {
+        "text": "Well, give me your number, I'll call you.",
+        "startTime": 21684,
+        "endTime": 23065,
+        "slowStartTime": 32676,
+        "slowEndTime": 34822
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 23441,
+        "endTime": 23772,
+        "slowStartTime": 35311,
+        "slowEndTime": 35883
+    },
+    {
+        "text": "Give me your number.",
+        "startTime": 24323,
+        "endTime": 24875,
+        "slowStartTime": 36635,
+        "slowEndTime": 37537
+    },
+    {
+        "text": "Come on.",
+        "startTime": 25144,
+        "endTime": 25528,
+        "slowStartTime": 37866,
+        "slowEndTime": 38517
+    },
+    {
+        "text": "Introducing the Samsung Galaxy S4.",
+        "startTime": 25685,
+        "endTime": 27782,
+        "slowStartTime": 38677,
+        "slowEndTime": 41898
+    },
+    {
+        "text": "The next big thing is here.",
+        "startTime": 28007,
+        "endTime": 29233,
+        "slowStartTime": 42161,
+        "slowEndTime": 44074
+    }
+]

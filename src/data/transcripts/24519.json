@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Hong Kong is one of the most densely populated places on the planet.",
+        "startTime": 583,
+        "endTime": 4231,
+        "slowStartTime": 1024,
+        "slowEndTime": 6571
+    },
+    {
+        "text": "Its dramatic cityscapes cling to the hillsides...",
+        "startTime": 4681,
+        "endTime": 7557,
+        "slowStartTime": 7171,
+        "slowEndTime": 11561
+    },
+    {
+        "text": "...and the edges of its spectacular harbor.",
+        "startTime": 7685,
+        "endTime": 10053,
+        "slowStartTime": 11677,
+        "slowEndTime": 15304
+    },
+    {
+        "text": "Hong Kong is the embodiment of yin and yang, the Chinese concept of balance.",
+        "startTime": 11286,
+        "endTime": 16185,
+        "slowStartTime": 17079,
+        "slowEndTime": 24503
+    },
+    {
+        "text": "It is filled with neighborhoods that resonate with Chinese and colonial tradition,...",
+        "startTime": 17483,
+        "endTime": 22495,
+        "slowStartTime": 26374,
+        "slowEndTime": 33968
+    },
+    {
+        "text": "...while its soaring skylines look boldly towards the future.",
+        "startTime": 22985,
+        "endTime": 26565,
+        "slowStartTime": 34628,
+        "slowEndTime": 40072
+    },
+    {
+        "text": "For visitors, Hong Kong offers some of the world's...",
+        "startTime": 27247,
+        "endTime": 30051,
+        "slowStartTime": 41020,
+        "slowEndTime": 45302
+    },
+    {
+        "text": "...most intense shopping, sightseeing, and dining experiences,...",
+        "startTime": 30149,
+        "endTime": 34253,
+        "slowStartTime": 45374,
+        "slowEndTime": 51604
+    },
+    {
+        "text": "...yet moments of stillness await at every turn.",
+        "startTime": 35134,
+        "endTime": 39180,
+        "slowStartTime": 52851,
+        "slowEndTime": 58995
+    }
+]

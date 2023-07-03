@@ -1,0 +1,79 @@
+[
+    {
+        "text": "﻿Let's review when to use \"a\" or \"an.\"",
+        "startTime": 661,
+        "endTime": 4248,
+        "slowStartTime": 1141,
+        "slowEndTime": 6597
+    },
+    {
+        "text": "He is eating an apple.",
+        "startTime": 9699,
+        "endTime": 12080,
+        "slowStartTime": 14698,
+        "slowEndTime": 18345
+    },
+    {
+        "text": "That is an elephant.",
+        "startTime": 15808,
+        "endTime": 18059,
+        "slowStartTime": 23862,
+        "slowEndTime": 27313
+    },
+    {
+        "text": "He is eating an ice cream.",
+        "startTime": 21764,
+        "endTime": 24295,
+        "slowStartTime": 32796,
+        "slowEndTime": 36667
+    },
+    {
+        "text": "Would you like an orange?",
+        "startTime": 27855,
+        "endTime": 30775,
+        "slowStartTime": 41933,
+        "slowEndTime": 46387
+    },
+    {
+        "text": "She has an umbrella.",
+        "startTime": 34184,
+        "endTime": 36064,
+        "slowStartTime": 51426,
+        "slowEndTime": 54321
+    },
+    {
+        "text": "I see a cat in a bag.",
+        "startTime": 39708,
+        "endTime": 42219,
+        "slowStartTime": 59712,
+        "slowEndTime": 63554
+    },
+    {
+        "text": "He opened a door in a wall.",
+        "startTime": 45702,
+        "endTime": 48479,
+        "slowStartTime": 68703,
+        "slowEndTime": 72944
+    },
+    {
+        "text": "This is a plan for a house.",
+        "startTime": 52111,
+        "endTime": 54845,
+        "slowStartTime": 78317,
+        "slowEndTime": 82492
+    },
+    {
+        "text": "A lamp is playing with a ball.",
+        "startTime": 58466,
+        "endTime": 61218,
+        "slowStartTime": 87849,
+        "slowEndTime": 92052
+    },
+    {
+        "text": "She has a tomato.",
+        "startTime": 64645,
+        "endTime": 67027,
+        "slowStartTime": 97118,
+        "slowEndTime": 100765
+    }
+]

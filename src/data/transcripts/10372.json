@@ -1,0 +1,65 @@
+[
+    {
+        "text": "You're invited to a graduation party!",
+        "startTime": 300,
+        "endTime": 2489,
+        "slowStartTime": 600,
+        "slowEndTime": 3958
+    },
+    {
+        "text": "Please join us as we celebrate Christine's graduation from high school.",
+        "startTime": 3072,
+        "endTime": 6860,
+        "slowStartTime": 4758,
+        "slowEndTime": 10515
+    },
+    {
+        "text": "Date: May 26, 2009.",
+        "startTime": 7470,
+        "endTime": 10538,
+        "slowStartTime": 11355,
+        "slowEndTime": 16032
+    },
+    {
+        "text": "Place: The Hassan residence, 22 Cedar Court, Mayfield, OH",
+        "startTime": 11121,
+        "endTime": 17149,
+        "slowStartTime": 16832,
+        "slowEndTime": 25948
+    },
+    {
+        "text": "Time: 3 PM to whenever",
+        "startTime": 18021,
+        "endTime": 20911,
+        "slowStartTime": 27182,
+        "slowEndTime": 31591
+    },
+    {
+        "text": "Please bring your swimsuits and towels.",
+        "startTime": 21403,
+        "endTime": 23720,
+        "slowStartTime": 32255,
+        "slowEndTime": 35805
+    },
+    {
+        "text": "We'll have a barbeque, drinks and cake.",
+        "startTime": 24450,
+        "endTime": 27075,
+        "slowStartTime": 36825,
+        "slowEndTime": 40838
+    },
+    {
+        "text": "RSVP please call 913 555 2446.",
+        "startTime": 27919,
+        "endTime": 35553,
+        "slowStartTime": 42028,
+        "slowEndTime": 53554
+    },
+    {
+        "text": "Hope to see you there!",
+        "startTime": 36041,
+        "endTime": 37155,
+        "slowStartTime": 54212,
+        "slowEndTime": 55957
+    }
+]

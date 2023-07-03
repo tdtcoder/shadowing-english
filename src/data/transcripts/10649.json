@@ -1,0 +1,100 @@
+[
+    {
+        "text": "The second way for us to add to your social circle...",
+        "startTime": 50,
+        "endTime": 2650,
+        "slowStartTime": 400,
+        "slowEndTime": 4200
+    },
+    {
+        "text": "...is from your Google chat buddies.",
+        "startTime": 2950,
+        "endTime": 4700,
+        "slowStartTime": 4650,
+        "slowEndTime": 7300
+    },
+    {
+        "text": "If you have eight chat buddies,...",
+        "startTime": 5000,
+        "endTime": 6500,
+        "slowStartTime": 7800,
+        "slowEndTime": 10000
+    },
+    {
+        "text": "...we'll add those eight people to your social graph.",
+        "startTime": 6650,
+        "endTime": 9200,
+        "slowStartTime": 10250,
+        "slowEndTime": 14000
+    },
+    {
+        "text": "It's important to know that we don't publish your list of chat buddies,...",
+        "startTime": 9400,
+        "endTime": 12750,
+        "slowStartTime": 14400,
+        "slowEndTime": 19400
+    },
+    {
+        "text": "...we just add them to your social circle...",
+        "startTime": 13000,
+        "endTime": 14800,
+        "slowStartTime": 19750,
+        "slowEndTime": 22440
+    },
+    {
+        "text": "...so we can show you their public information.",
+        "startTime": 15000,
+        "endTime": 17200,
+        "slowStartTime": 22750,
+        "slowEndTime": 25950
+    },
+    {
+        "text": "The third way, we surface content from your social circle is through Google Reader.",
+        "startTime": 17450,
+        "endTime": 21600,
+        "slowStartTime": 26450,
+        "slowEndTime": 32600
+    },
+    {
+        "text": "For example, if you subscribe to a blog in Google Reader,...",
+        "startTime": 21950,
+        "endTime": 24750,
+        "slowStartTime": 33200,
+        "slowEndTime": 37400
+    },
+    {
+        "text": "...then we can surface a post from that blog in your social search results.",
+        "startTime": 25050,
+        "endTime": 28400,
+        "slowStartTime": 37850,
+        "slowEndTime": 42800
+    },
+    {
+        "text": "Once Google builds your social circle, things are pretty simple after that.",
+        "startTime": 29300,
+        "endTime": 33300,
+        "slowStartTime": 44250,
+        "slowEndTime": 50150
+    },
+    {
+        "text": "We take our regular Web index data and annotate it with social information.",
+        "startTime": 34300,
+        "endTime": 38500,
+        "slowStartTime": 51750,
+        "slowEndTime": 57940
+    },
+    {
+        "text": "When our algorithms determine that it would improve your search experience,...",
+        "startTime": 38950,
+        "endTime": 42850,
+        "slowStartTime": 58750,
+        "slowEndTime": 64500
+    },
+    {
+        "text": "...we surface public content from your social circle at the bottom of the search results.",
+        "startTime": 43200,
+        "endTime": 48000,
+        "slowStartTime": 65100,
+        "slowEndTime": 72200
+    }
+]

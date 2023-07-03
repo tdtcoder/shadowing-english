@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Where is the chick?",
+        "startTime": 4663,
+        "endTime": 5909,
+        "slowStartTime": 7144,
+        "slowEndTime": 9088
+    },
+    {
+        "text": "It is out of the egg.",
+        "startTime": 6761,
+        "endTime": 8011,
+        "slowStartTime": 10291,
+        "slowEndTime": 12242
+    },
+    {
+        "text": "Where is the teacher?",
+        "startTime": 9603,
+        "endTime": 10705,
+        "slowStartTime": 14554,
+        "slowEndTime": 16283
+    },
+    {
+        "text": "She's behind the students.",
+        "startTime": 11564,
+        "endTime": 13257,
+        "slowStartTime": 17496,
+        "slowEndTime": 20111
+    },
+    {
+        "text": "Where are the students?",
+        "startTime": 19508,
+        "endTime": 20819,
+        "slowStartTime": 29412,
+        "slowEndTime": 31454
+    },
+    {
+        "text": "They are in the classroom.",
+        "startTime": 21723,
+        "endTime": 23186,
+        "slowStartTime": 32734,
+        "slowEndTime": 35004
+    },
+    {
+        "text": "Where are the cars?",
+        "startTime": 24791,
+        "endTime": 25935,
+        "slowStartTime": 37337,
+        "slowEndTime": 39127
+    },
+    {
+        "text": "They're in front of the house.",
+        "startTime": 26535,
+        "endTime": 28117,
+        "slowStartTime": 39953,
+        "slowEndTime": 42400
+    }
+]

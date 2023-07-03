@@ -1,0 +1,30 @@
+[
+    {
+        "text": "How do you run a meeting?",
+        "startTime": 363,
+        "endTime": 1805,
+        "slowStartTime": 695,
+        "slowEndTime": 2933
+    },
+    {
+        "text": "Listen more,...",
+        "startTime": 3067,
+        "endTime": 4085,
+        "slowStartTime": 4751,
+        "slowEndTime": 6352
+    },
+    {
+        "text": "...talk less,...",
+        "startTime": 5068,
+        "endTime": 6120,
+        "slowStartTime": 7752,
+        "slowEndTime": 9405
+    },
+    {
+        "text": "...and be decisive when the time comes.",
+        "startTime": 6863,
+        "endTime": 8999,
+        "slowStartTime": 10444,
+        "slowEndTime": 13724
+    }
+]

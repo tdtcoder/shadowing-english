@@ -1,0 +1,219 @@
+[
+    {
+        "text": "Well, ladies and gentlemen and boys and girls of all ages,...",
+        "startTime": 2875,
+        "endTime": 5903,
+        "slowStartTime": 4462,
+        "slowEndTime": 9079
+    },
+    {
+        "text": "...a very pleasant good evening to everybody from your flight deck crew.",
+        "startTime": 5996,
+        "endTime": 9239,
+        "slowStartTime": 9144,
+        "slowEndTime": 14084
+    },
+    {
+        "text": "Well folks, you are now on board the Millennium Falcon...",
+        "startTime": 9852,
+        "endTime": 12135,
+        "slowStartTime": 14928,
+        "slowEndTime": 18428
+    },
+    {
+        "text": "...and we're preparing to operate AirTran Airways flight number 556.",
+        "startTime": 12326,
+        "endTime": 15732,
+        "slowStartTime": 18639,
+        "slowEndTime": 23823
+    },
+    {
+        "text": "We are now blasting off the Dagobah system tonight...",
+        "startTime": 16169,
+        "endTime": 18271,
+        "slowStartTime": 24404,
+        "slowEndTime": 27632
+    },
+    {
+        "text": "...but we do have a scheduled refueling stop at Buffalo, New York.",
+        "startTime": 18566,
+        "endTime": 21319,
+        "slowStartTime": 27999,
+        "slowEndTime": 32203
+    },
+    {
+        "text": "Well folks, this is your Captain for tonight's mission.",
+        "startTime": 22067,
+        "endTime": 23955,
+        "slowStartTime": 33250,
+        "slowEndTime": 36157
+    },
+    {
+        "text": "My name is Luke Skywalker.",
+        "startTime": 24076,
+        "endTime": 25234,
+        "slowStartTime": 36264,
+        "slowEndTime": 38076
+    },
+    {
+        "text": "With me in the cockpit tonight is Princess Leia.",
+        "startTime": 25693,
+        "endTime": 27534,
+        "slowStartTime": 38690,
+        "slowEndTime": 41526
+    },
+    {
+        "text": "Our flight engineer for this mission is Chewbacca the Wookiee.",
+        "startTime": 27977,
+        "endTime": 30555,
+        "slowStartTime": 42116,
+        "slowEndTime": 46058
+    },
+    {
+        "text": "Well folks, Chewie's underneath the airplane right now. He's working on our hyperdrive unit.",
+        "startTime": 31439,
+        "endTime": 34705,
+        "slowStartTime": 47309,
+        "slowEndTime": 52282
+    },
+    {
+        "text": "If he gets it installed in time for blastoff,...",
+        "startTime": 34936,
+        "endTime": 36849,
+        "slowStartTime": 52554,
+        "slowEndTime": 55499
+    },
+    {
+        "text": "...we'll make that jump up to hyperspace, Miami up to Buffalo, in just a matter of moments.",
+        "startTime": 36966,
+        "endTime": 41024,
+        "slowStartTime": 55599,
+        "slowEndTime": 61761
+    },
+    {
+        "text": "If Chewie can't get it working in time for blastoff,...",
+        "startTime": 41617,
+        "endTime": 43624,
+        "slowStartTime": 62576,
+        "slowEndTime": 65661
+    },
+    {
+        "text": "...we're going to remain in lower earth orbit at 35,000 feet tonight...",
+        "startTime": 43922,
+        "endTime": 46857,
+        "slowStartTime": 66033,
+        "slowEndTime": 70511
+    },
+    {
+        "text": "...and should just take about one hour and 40 minutes from blastoff...",
+        "startTime": 47226,
+        "endTime": 50009,
+        "slowStartTime": 70989,
+        "slowEndTime": 75239
+    },
+    {
+        "text": "...to touchdown and get to Buffalo.",
+        "startTime": 50166,
+        "endTime": 51402,
+        "slowStartTime": 75399,
+        "slowEndTime": 77328
+    },
+    {
+        "text": "Folks, Buffalo's looking real good tonight.",
+        "startTime": 51949,
+        "endTime": 53340,
+        "slowStartTime": 78074,
+        "slowEndTime": 80235
+    },
+    {
+        "text": "Right now, mostly clear skies reported and temperature right at 79 Earth degrees.",
+        "startTime": 53443,
+        "endTime": 58632,
+        "slowStartTime": 80314,
+        "slowEndTime": 88173
+    },
+    {
+        "text": "Well folks, we're probably gonna use the launchpad tonight,...",
+        "startTime": 59436,
+        "endTime": 60999,
+        "slowStartTime": 89304,
+        "slowEndTime": 91723
+    },
+    {
+        "text": "...and I do wanna call everybody's attention at the seat belt sign up there.",
+        "startTime": 61072,
+        "endTime": 63503,
+        "slowStartTime": 91758,
+        "slowEndTime": 95480
+    },
+    {
+        "text": "And that's about it.",
+        "startTime": 64567,
+        "endTime": 65352,
+        "slowStartTime": 97001,
+        "slowEndTime": 98253
+    },
+    {
+        "text": "Please look out and make sure you're snuggled up and buckled up in those anti-gravity seats.",
+        "startTime": 65469,
+        "endTime": 69348,
+        "slowStartTime": 98354,
+        "slowEndTime": 104247
+    },
+    {
+        "text": "Now, ladies and gentlemen, last but not least,...",
+        "startTime": 70631,
+        "endTime": 72347,
+        "slowStartTime": 106097,
+        "slowEndTime": 108745
+    },
+    {
+        "text": "...I'd like to introduce you to three of AirTran Airways' finest flight attendants.",
+        "startTime": 72435,
+        "endTime": 75723,
+        "slowStartTime": 108803,
+        "slowEndTime": 113810
+    },
+    {
+        "text": "Folks, unfortunately, they are on the 1 o'clock flight to Los Angeles.",
+        "startTime": 76971,
+        "endTime": 80307,
+        "slowStartTime": 115607,
+        "slowEndTime": 120685
+    },
+    {
+        "text": "However, in your cabin tonight, you got Yoda, R2-D2 and C-3PO.",
+        "startTime": 82069,
+        "endTime": 86169,
+        "slowStartTime": 123253,
+        "slowEndTime": 129478
+    },
+    {
+        "text": "While we taxi around here, I'm gonna be revealing some very important safety issues.",
+        "startTime": 86630,
+        "endTime": 89693,
+        "slowStartTime": 130095,
+        "slowEndTime": 134764
+    },
+    {
+        "text": "Please give them your undivided attention for the few moments that takes.",
+        "startTime": 89904,
+        "endTime": 92630,
+        "slowStartTime": 135006,
+        "slowEndTime": 139170
+    },
+    {
+        "text": "Folks, we have been cleared for blastoff,...",
+        "startTime": 93718,
+        "endTime": 95148,
+        "slowStartTime": 140727,
+        "slowEndTime": 142947
+    },
+    {
+        "text": "...so thanks so much for coming with us tonight and may the Force be with you.",
+        "startTime": 95221,
+        "endTime": 98225,
+        "slowStartTime": 142982,
+        "slowEndTime": 147562
+    }
+]

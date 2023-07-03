@@ -1,0 +1,135 @@
+[
+    {
+        "text": "Good morning, sir.",
+        "startTime": 2215,
+        "endTime": 3175,
+        "slowStartTime": 3472,
+        "slowEndTime": 4987
+    },
+    {
+        "text": "I'm here to see a doctor.",
+        "startTime": 3563,
+        "endTime": 4902,
+        "slowStartTime": 5494,
+        "slowEndTime": 7578
+    },
+    {
+        "text": "Have you been to our clinic before?",
+        "startTime": 5180,
+        "endTime": 6863,
+        "slowStartTime": 7920,
+        "slowEndTime": 10520
+    },
+    {
+        "text": "No, it's my first visit.",
+        "startTime": 7068,
+        "endTime": 8527,
+        "slowStartTime": 10752,
+        "slowEndTime": 13015
+    },
+    {
+        "text": "I just moved to this city a couple of months ago.",
+        "startTime": 8853,
+        "endTime": 11278,
+        "slowStartTime": 13429,
+        "slowEndTime": 17142
+    },
+    {
+        "text": "Do you have any sort of medical insurance?",
+        "startTime": 11636,
+        "endTime": 13929,
+        "slowStartTime": 17604,
+        "slowEndTime": 21119
+    },
+    {
+        "text": "Yes, here is my insurance card.",
+        "startTime": 14097,
+        "endTime": 16005,
+        "slowStartTime": 21295,
+        "slowEndTime": 24233
+    },
+    {
+        "text": "Thank you. Please fill out this form.",
+        "startTime": 16381,
+        "endTime": 18551,
+        "slowStartTime": 24722,
+        "slowEndTime": 28051
+    },
+    {
+        "text": "The doctor will be with you shortly.",
+        "startTime": 18685,
+        "endTime": 20413,
+        "slowStartTime": 28177,
+        "slowEndTime": 30845
+    },
+    {
+        "text": "Can I have a seat?",
+        "startTime": 21896,
+        "endTime": 22669,
+        "slowStartTime": 32994,
+        "slowEndTime": 34229
+    },
+    {
+        "text": "Sure.",
+        "startTime": 23000,
+        "endTime": 23507,
+        "slowStartTime": 34650,
+        "slowEndTime": 35485
+    },
+    {
+        "text": "What seems to be the problem today?",
+        "startTime": 23700,
+        "endTime": 25457,
+        "slowStartTime": 35700,
+        "slowEndTime": 38411
+    },
+    {
+        "text": "I think I threw my back out.",
+        "startTime": 25694,
+        "endTime": 27242,
+        "slowStartTime": 38691,
+        "slowEndTime": 41088
+    },
+    {
+        "text": "It's really killing me.",
+        "startTime": 27419,
+        "endTime": 28475,
+        "slowStartTime": 41279,
+        "slowEndTime": 42938
+    },
+    {
+        "text": "How did you do that?",
+        "startTime": 28809,
+        "endTime": 30066,
+        "slowStartTime": 43363,
+        "slowEndTime": 45324
+    },
+    {
+        "text": "I was carrying some heavy boxes around at work yesterday.",
+        "startTime": 30185,
+        "endTime": 33215,
+        "slowStartTime": 45427,
+        "slowEndTime": 50047
+    },
+    {
+        "text": "I see, let's have a look.",
+        "startTime": 33422,
+        "endTime": 35245,
+        "slowStartTime": 50283,
+        "slowEndTime": 53092
+    },
+    {
+        "text": "Where does it hurt?",
+        "startTime": 35687,
+        "endTime": 36581,
+        "slowStartTime": 53680,
+        "slowEndTime": 55096
+    },
+    {
+        "text": "Mostly in the lower back.",
+        "startTime": 36785,
+        "endTime": 38163,
+        "slowStartTime": 55328,
+        "slowEndTime": 57469
+    }
+]

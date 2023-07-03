@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Please help me finish the report today.",
+        "startTime": 557,
+        "endTime": 2561,
+        "slowStartTime": 986,
+        "slowEndTime": 4066
+    },
+    {
+        "text": "Okay, I will.",
+        "startTime": 3067,
+        "endTime": 3794,
+        "slowStartTime": 4751,
+        "slowEndTime": 5916
+    },
+    {
+        "text": "Please give me some ideas.",
+        "startTime": 5299,
+        "endTime": 6648,
+        "slowStartTime": 8099,
+        "slowEndTime": 10197
+    },
+    {
+        "text": "Sure.",
+        "startTime": 6935,
+        "endTime": 7355,
+        "slowStartTime": 10552,
+        "slowEndTime": 11257
+    },
+    {
+        "text": "Can you please explain this to us?",
+        "startTime": 8472,
+        "endTime": 9979,
+        "slowStartTime": 12858,
+        "slowEndTime": 15194
+    },
+    {
+        "text": "No problem.",
+        "startTime": 10221,
+        "endTime": 11028,
+        "slowStartTime": 15481,
+        "slowEndTime": 16767
+    },
+    {
+        "text": "Tina, could you write these details for me?",
+        "startTime": 11968,
+        "endTime": 14147,
+        "slowStartTime": 18102,
+        "slowEndTime": 21446
+    },
+    {
+        "text": "Alright.",
+        "startTime": 14417,
+        "endTime": 14840,
+        "slowStartTime": 21775,
+        "slowEndTime": 22485
+    }
+]

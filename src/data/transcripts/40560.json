@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Do you feel the helplessness?",
+        "startTime": 3143,
+        "endTime": 5472,
+        "slowStartTime": 4864,
+        "slowEndTime": 8433
+    },
+    {
+        "text": "My keys!",
+        "startTime": 15651,
+        "endTime": 16769,
+        "slowStartTime": 23626,
+        "slowEndTime": 25378
+    },
+    {
+        "text": "I'll go.",
+        "startTime": 16892,
+        "endTime": 17587,
+        "slowStartTime": 25488,
+        "slowEndTime": 26606
+    },
+    {
+        "text": "Do you feel the gratitude?",
+        "startTime": 25141,
+        "endTime": 27583,
+        "slowStartTime": 37862,
+        "slowEndTime": 41600
+    },
+    {
+        "text": "And what do you feel now?",
+        "startTime": 37604,
+        "endTime": 38909,
+        "slowStartTime": 56556,
+        "slowEndTime": 58589
+    }
+]

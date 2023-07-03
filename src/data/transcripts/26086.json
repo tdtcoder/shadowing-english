@@ -1,0 +1,37 @@
+[
+    {
+        "text": "London will always be a city...",
+        "startTime": 1340,
+        "endTime": 3037,
+        "slowStartTime": 2160,
+        "slowEndTime": 4781
+    },
+    {
+        "text": "...that looks towards the past and the future in equal measure.",
+        "startTime": 3115,
+        "endTime": 6681,
+        "slowStartTime": 4823,
+        "slowEndTime": 10246
+    },
+    {
+        "text": "From \"Rule, Britannia!\" to \"Cool Britannia\",...",
+        "startTime": 7390,
+        "endTime": 9393,
+        "slowStartTime": 11235,
+        "slowEndTime": 14315
+    },
+    {
+        "text": "...the fabric and the skyline of this city is forever turning over a new page,...",
+        "startTime": 9805,
+        "endTime": 14339,
+        "slowStartTime": 14858,
+        "slowEndTime": 21734
+    },
+    {
+        "text": "...which is, after all, what every great story should do.",
+        "startTime": 15004,
+        "endTime": 18929,
+        "slowStartTime": 22656,
+        "slowEndTime": 28618
+    }
+]

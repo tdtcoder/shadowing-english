@@ -1,0 +1,79 @@
+[
+    {
+        "text": "As part of your credit card's reward program,...",
+        "startTime": 264,
+        "endTime": 2381,
+        "slowStartTime": 546,
+        "slowEndTime": 3796
+    },
+    {
+        "text": "...there's a five percent discount applied to your hotel room.",
+        "startTime": 2921,
+        "endTime": 5512,
+        "slowStartTime": 4532,
+        "slowEndTime": 8493
+    },
+    {
+        "text": "A hundred and twenty dollars for the night, please.",
+        "startTime": 6027,
+        "endTime": 8059,
+        "slowStartTime": 9190,
+        "slowEndTime": 12313
+    },
+    {
+        "text": "Oh, five percent off, as well as free Wi-Fi, not bad.",
+        "startTime": 8127,
+        "endTime": 11385,
+        "slowStartTime": 12341,
+        "slowEndTime": 17303
+    },
+    {
+        "text": "Ninety-five dollars for the night please, sir.",
+        "startTime": 11509,
+        "endTime": 13442,
+        "slowStartTime": 17414,
+        "slowEndTime": 20388
+    },
+    {
+        "text": "Wait, wait, what?",
+        "startTime": 13554,
+        "endTime": 15297,
+        "slowStartTime": 20481,
+        "slowEndTime": 23171
+    },
+    {
+        "text": "If you use Trivago,...",
+        "startTime": 15802,
+        "endTime": 16669,
+        "slowStartTime": 23853,
+        "slowEndTime": 25229
+    },
+    {
+        "text": "...Trivago will compare hotel prices from hundreds of websites worldwide.",
+        "startTime": 16749,
+        "endTime": 19788,
+        "slowStartTime": 25273,
+        "slowEndTime": 29907
+    },
+    {
+        "text": "So, you can often find a better deal for your hotel room.",
+        "startTime": 19917,
+        "endTime": 21752,
+        "slowStartTime": 30026,
+        "slowEndTime": 32853
+    },
+    {
+        "text": "And also free Wi-Fi.",
+        "startTime": 22244,
+        "endTime": 23409,
+        "slowStartTime": 33516,
+        "slowEndTime": 35339
+    },
+    {
+        "text": "Maybe you should try Trivago next time.",
+        "startTime": 23863,
+        "endTime": 25301,
+        "slowStartTime": 35944,
+        "slowEndTime": 38177
+    }
+]

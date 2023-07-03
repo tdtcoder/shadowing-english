@@ -1,0 +1,184 @@
+[
+    {
+        "text": "﻿Hey dad, why do we have to stop here?",
+        "startTime": 2615,
+        "endTime": 4878,
+        "slowStartTime": 4073,
+        "slowEndTime": 7542
+    },
+    {
+        "text": "I just want to get on the plane.",
+        "startTime": 5462,
+        "endTime": 6780,
+        "slowStartTime": 8343,
+        "slowEndTime": 10395
+    },
+    {
+        "text": "Well, we have to \"stop, screen, go\" before we get on the plane.",
+        "startTime": 7186,
+        "endTime": 10583,
+        "slowStartTime": 10929,
+        "slowEndTime": 16099
+    },
+    {
+        "text": "This is a security checkpoint.",
+        "startTime": 10881,
+        "endTime": 12282,
+        "slowStartTime": 16472,
+        "slowEndTime": 18648
+    },
+    {
+        "text": "First, we stop here and hand our travel documents to the officer.",
+        "startTime": 12893,
+        "endTime": 17577,
+        "slowStartTime": 19490,
+        "slowEndTime": 26591
+    },
+    {
+        "text": "She screens it.",
+        "startTime": 18781,
+        "endTime": 19987,
+        "slowStartTime": 28321,
+        "slowEndTime": 30205
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 21151,
+        "endTime": 21588,
+        "slowStartTime": 31877,
+        "slowEndTime": 32607
+    },
+    {
+        "text": "Then we go.",
+        "startTime": 21946,
+        "endTime": 22903,
+        "slowStartTime": 33069,
+        "slowEndTime": 34580
+    },
+    {
+        "text": "Wow!",
+        "startTime": 24469,
+        "endTime": 24829,
+        "slowStartTime": 36853,
+        "slowEndTime": 37468
+    },
+    {
+        "text": "That was easy.",
+        "startTime": 25095,
+        "endTime": 25763,
+        "slowStartTime": 37793,
+        "slowEndTime": 38870
+    },
+    {
+        "text": "What's next?",
+        "startTime": 26312,
+        "endTime": 27073,
+        "slowStartTime": 39618,
+        "slowEndTime": 40834
+    },
+    {
+        "text": "We stop.",
+        "startTime": 27665,
+        "endTime": 28199,
+        "slowStartTime": 41647,
+        "slowEndTime": 42524
+    },
+    {
+        "text": "Then we put our stuff in the bins and the machine screens it.",
+        "startTime": 32178,
+        "endTime": 37453,
+        "slowStartTime": 48417,
+        "slowEndTime": 56404
+    },
+    {
+        "text": "Then we go.",
+        "startTime": 38540,
+        "endTime": 39577,
+        "slowStartTime": 57960,
+        "slowEndTime": 59591
+    },
+    {
+        "text": "Do I need to take off my shoes too?",
+        "startTime": 40241,
+        "endTime": 42617,
+        "slowStartTime": 60511,
+        "slowEndTime": 64150
+    },
+    {
+        "text": "Nope.",
+        "startTime": 43024,
+        "endTime": 43337,
+        "slowStartTime": 64686,
+        "slowEndTime": 65230
+    },
+    {
+        "text": "Kids under 12 don't have to,...",
+        "startTime": 43623,
+        "endTime": 45092,
+        "slowStartTime": 65584,
+        "slowEndTime": 67863
+    },
+    {
+        "text": "...but your game system and Molly's bear need to take a ride.",
+        "startTime": 45597,
+        "endTime": 49418,
+        "slowStartTime": 68546,
+        "slowEndTime": 74352
+    },
+    {
+        "text": "Do we get our toys back?",
+        "startTime": 49581,
+        "endTime": 50659,
+        "slowStartTime": 74522,
+        "slowEndTime": 76214
+    },
+    {
+        "text": "Yup, you just need to walk through that rectangle first.",
+        "startTime": 51524,
+        "endTime": 54231,
+        "slowStartTime": 77436,
+        "slowEndTime": 81571
+    },
+    {
+        "text": "It's a metal detector.",
+        "startTime": 54729,
+        "endTime": 55933,
+        "slowStartTime": 82243,
+        "slowEndTime": 84125
+    },
+    {
+        "text": "Do we have to \"stop, screen, go\" here too?",
+        "startTime": 56273,
+        "endTime": 58962,
+        "slowStartTime": 84560,
+        "slowEndTime": 88668
+    },
+    {
+        "text": "Yep, you got it!",
+        "startTime": 59344,
+        "endTime": 60474,
+        "slowStartTime": 89166,
+        "slowEndTime": 90936
+    },
+    {
+        "text": "Stop, screen and go!",
+        "startTime": 60914,
+        "endTime": 63402,
+        "slowStartTime": 91521,
+        "slowEndTime": 95328
+    },
+    {
+        "text": "Are we all done?",
+        "startTime": 65505,
+        "endTime": 66249,
+        "slowStartTime": 98408,
+        "slowEndTime": 99598
+    },
+    {
+        "text": "Yup, that's what it takes to get ready for takeoff.",
+        "startTime": 66889,
+        "endTime": 69621,
+        "slowStartTime": 100484,
+        "slowEndTime": 104656
+    }
+]

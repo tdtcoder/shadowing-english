@@ -1,0 +1,37 @@
+[
+    {
+        "text": "In a city filled with stunning Byzantine and Ottoman architecture,...",
+        "startTime": 8006,
+        "endTime": 11917,
+        "slowStartTime": 12159,
+        "slowEndTime": 18100
+    },
+    {
+        "text": "...one masterpiece stands head and shoulders above all others: Hagia Sophia.",
+        "startTime": 12319,
+        "endTime": 17702,
+        "slowStartTime": 18629,
+        "slowEndTime": 26778
+    },
+    {
+        "text": "Formerly the greatest church in Christendom,...",
+        "startTime": 22223,
+        "endTime": 24408,
+        "slowStartTime": 33485,
+        "slowEndTime": 36837
+    },
+    {
+        "text": "...this magnificent domed building was converted into a mosque in the 15th century...",
+        "startTime": 24854,
+        "endTime": 29631,
+        "slowStartTime": 37431,
+        "slowEndTime": 44672
+    },
+    {
+        "text": "...and is now the city's most famous icon.",
+        "startTime": 29945,
+        "endTime": 32382,
+        "slowStartTime": 45068,
+        "slowEndTime": 48798
+    }
+]

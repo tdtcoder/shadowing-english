@@ -1,0 +1,37 @@
+[
+    {
+        "text": "﻿Newcomers to New York spend much of their time looking skyward,...",
+        "startTime": 3036,
+        "endTime": 6668,
+        "slowStartTime": 4704,
+        "slowEndTime": 10227
+    },
+    {
+        "text": "...but since the 2001 attacks on the World Trade Center,...",
+        "startTime": 7127,
+        "endTime": 10541,
+        "slowStartTime": 10840,
+        "slowEndTime": 16036
+    },
+    {
+        "text": "...a new attraction gives locals and visitors a chance to pause and bow their heads.",
+        "startTime": 10941,
+        "endTime": 15579,
+        "slowStartTime": 16562,
+        "slowEndTime": 23593
+    },
+    {
+        "text": "The Reflecting Absence Memorial and Museum honors the 3,000 people...",
+        "startTime": 17909,
+        "endTime": 22462,
+        "slowStartTime": 27014,
+        "slowEndTime": 33918
+    },
+    {
+        "text": "...who lost their lives on that darkest of September days.",
+        "startTime": 22567,
+        "endTime": 25787,
+        "slowStartTime": 34000,
+        "slowEndTime": 38906
+    }
+]

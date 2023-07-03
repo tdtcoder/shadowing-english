@@ -1,0 +1,100 @@
+[
+    {
+        "text": "How was the party?",
+        "startTime": 205,
+        "endTime": 1164,
+        "slowStartTime": 458,
+        "slowEndTime": 1971
+    },
+    {
+        "text": "It was boring.",
+        "startTime": 1977,
+        "endTime": 3006,
+        "slowStartTime": 3115,
+        "slowEndTime": 4734
+    },
+    {
+        "text": "It's a birthday party.",
+        "startTime": 4207,
+        "endTime": 5523,
+        "slowStartTime": 6460,
+        "slowEndTime": 8510
+    },
+    {
+        "text": "I'm sure it was.",
+        "startTime": 5781,
+        "endTime": 6708,
+        "slowStartTime": 8822,
+        "slowEndTime": 10287
+    },
+    {
+        "text": "Was there a clown?",
+        "startTime": 7363,
+        "endTime": 8778,
+        "slowStartTime": 11195,
+        "slowEndTime": 13392
+    },
+    {
+        "text": "No, there was no clown.",
+        "startTime": 9064,
+        "endTime": 10262,
+        "slowStartTime": 13746,
+        "slowEndTime": 15618
+    },
+    {
+        "text": "Was there a magician?",
+        "startTime": 10500,
+        "endTime": 11783,
+        "slowStartTime": 15900,
+        "slowEndTime": 17900
+    },
+    {
+        "text": "No, there was no magician.",
+        "startTime": 12123,
+        "endTime": 13432,
+        "slowStartTime": 18334,
+        "slowEndTime": 20373
+    },
+    {
+        "text": "Now I understand why this party was boring.",
+        "startTime": 14841,
+        "endTime": 18668,
+        "slowStartTime": 22411,
+        "slowEndTime": 28227
+    },
+    {
+        "text": "Were there any gifts?",
+        "startTime": 20091,
+        "endTime": 22819,
+        "slowStartTime": 30287,
+        "slowEndTime": 34453
+    },
+    {
+        "text": "Yes, there were lots of gifts.",
+        "startTime": 23345,
+        "endTime": 25540,
+        "slowStartTime": 35168,
+        "slowEndTime": 38535
+    },
+    {
+        "text": "What kinds of gifts?",
+        "startTime": 25975,
+        "endTime": 27311,
+        "slowStartTime": 39112,
+        "slowEndTime": 41191
+    },
+    {
+        "text": "There were lots of cards with lots of money inside of them.",
+        "startTime": 28371,
+        "endTime": 31291,
+        "slowStartTime": 42706,
+        "slowEndTime": 47162
+    },
+    {
+        "text": "Okay.",
+        "startTime": 31553,
+        "endTime": 32267,
+        "slowStartTime": 47479,
+        "slowEndTime": 48626
+    }
+]

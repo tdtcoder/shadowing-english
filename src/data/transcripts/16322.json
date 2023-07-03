@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Can you believe that there is a 217-kilometer-long train track...",
+        "startTime": 2475,
+        "endTime": 7395,
+        "slowStartTime": 3863,
+        "slowEndTime": 11317
+    },
+    {
+        "text": "...at a height of 4,000 meters above the sea?",
+        "startTime": 7557,
+        "endTime": 10569,
+        "slowStartTime": 11486,
+        "slowEndTime": 16078
+    },
+    {
+        "text": "Let's go to Salta Railway Station in the Northeast of Argentina.",
+        "startTime": 11296,
+        "endTime": 15791,
+        "slowStartTime": 17094,
+        "slowEndTime": 23911
+    },
+    {
+        "text": "This could surely be a once in a lifetime ride.",
+        "startTime": 16596,
+        "endTime": 19493,
+        "slowStartTime": 25044,
+        "slowEndTime": 29464
+    },
+    {
+        "text": "This trip will take you to the desert and the remote Chilean town of Socompa.",
+        "startTime": 20193,
+        "endTime": 25217,
+        "slowStartTime": 30439,
+        "slowEndTime": 38051
+    },
+    {
+        "text": "Just imagine!",
+        "startTime": 25818,
+        "endTime": 26926,
+        "slowStartTime": 38877,
+        "slowEndTime": 40614
+    },
+    {
+        "text": "After sunset over the desert plains, the night sky will be lit up by many stars...",
+        "startTime": 27243,
+        "endTime": 33000,
+        "slowStartTime": 41015,
+        "slowEndTime": 49725
+    },
+    {
+        "text": "...and you will probably chat with other travelers.",
+        "startTime": 33373,
+        "endTime": 35922,
+        "slowStartTime": 50209,
+        "slowEndTime": 54108
+    },
+    {
+        "text": "Here are some tips for you, though.",
+        "startTime": 36682,
+        "endTime": 38281,
+        "slowStartTime": 55173,
+        "slowEndTime": 57647
+    },
+    {
+        "text": "It is better to wear something really comfortable...",
+        "startTime": 38717,
+        "endTime": 41181,
+        "slowStartTime": 58225,
+        "slowEndTime": 61996
+    },
+    {
+        "text": "...because you spend more than 16 hours on the train.",
+        "startTime": 41278,
+        "endTime": 44543,
+        "slowStartTime": 62067,
+        "slowEndTime": 67040
+    },
+    {
+        "text": "The train starts at 7 am and arrives at 11 pm.",
+        "startTime": 45100,
+        "endTime": 49451,
+        "slowStartTime": 67800,
+        "slowEndTime": 74401
+    },
+    {
+        "text": "In addition, the train ticket only includes a cup of coffee,...",
+        "startTime": 50183,
+        "endTime": 53905,
+        "slowStartTime": 75425,
+        "slowEndTime": 81082
+    },
+    {
+        "text": "...so it is better to bring your favorite food with you.",
+        "startTime": 54160,
+        "endTime": 57218,
+        "slowStartTime": 81390,
+        "slowEndTime": 86052
+    },
+    {
+        "text": "Otherwise, you would have to pay for your lunch and dinner on board.",
+        "startTime": 57685,
+        "endTime": 61839,
+        "slowStartTime": 86678,
+        "slowEndTime": 92983
+    }
+]

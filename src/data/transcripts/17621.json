@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Hello.",
+        "startTime": 2653,
+        "endTime": 3337,
+        "slowStartTime": 4130,
+        "slowEndTime": 5231
+    },
+    {
+        "text": "Hello. Who is calling please?",
+        "startTime": 4378,
+        "endTime": 6565,
+        "slowStartTime": 6717,
+        "slowEndTime": 10073
+    },
+    {
+        "text": "This is Erica. Can I talk to Linda?",
+        "startTime": 7584,
+        "endTime": 10504,
+        "slowStartTime": 11526,
+        "slowEndTime": 15981
+    },
+    {
+        "text": "Hold on, please.",
+        "startTime": 11555,
+        "endTime": 12559,
+        "slowStartTime": 17482,
+        "slowEndTime": 19064
+    },
+    {
+        "text": "This is she speaking.",
+        "startTime": 13625,
+        "endTime": 15025,
+        "slowStartTime": 20587,
+        "slowEndTime": 22762
+    },
+    {
+        "text": "Hi, This is Erica. What are you doing, Linda?",
+        "startTime": 16063,
+        "endTime": 19891,
+        "slowStartTime": 24244,
+        "slowEndTime": 30062
+    },
+    {
+        "text": "I was just about to clean my room.",
+        "startTime": 20969,
+        "endTime": 23007,
+        "slowStartTime": 31603,
+        "slowEndTime": 34735
+    },
+    {
+        "text": "Why don't you go to see a movie with me?",
+        "startTime": 24051,
+        "endTime": 26490,
+        "slowStartTime": 36227,
+        "slowEndTime": 39960
+    },
+    {
+        "text": "I do want to see a movie today!",
+        "startTime": 27523,
+        "endTime": 29862,
+        "slowStartTime": 41435,
+        "slowEndTime": 45018
+    },
+    {
+        "text": "That sounds great. What time shall we meet?",
+        "startTime": 30921,
+        "endTime": 33727,
+        "slowStartTime": 46531,
+        "slowEndTime": 50816
+    },
+    {
+        "text": "Let's meet at the bus stop at 3:00.",
+        "startTime": 34791,
+        "endTime": 37384,
+        "slowStartTime": 52337,
+        "slowEndTime": 56301
+    },
+    {
+        "text": "OK. See you then.",
+        "startTime": 38439,
+        "endTime": 40276,
+        "slowStartTime": 57808,
+        "slowEndTime": 60639
+    }
+]

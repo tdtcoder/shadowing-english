@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Let's learn about countries.",
+        "startTime": 667,
+        "endTime": 2932,
+        "slowStartTime": 1151,
+        "slowEndTime": 4623
+    },
+    {
+        "text": "In China, they speak Chinese.",
+        "startTime": 5747,
+        "endTime": 8321,
+        "slowStartTime": 8771,
+        "slowEndTime": 12707
+    },
+    {
+        "text": "They are Chinese.",
+        "startTime": 9073,
+        "endTime": 10602,
+        "slowStartTime": 13760,
+        "slowEndTime": 16128
+    },
+    {
+        "text": "In the United States, they speak English.",
+        "startTime": 14835,
+        "endTime": 17820,
+        "slowStartTime": 22402,
+        "slowEndTime": 26955
+    },
+    {
+        "text": "They are American.",
+        "startTime": 18695,
+        "endTime": 20187,
+        "slowStartTime": 28193,
+        "slowEndTime": 30506
+    },
+    {
+        "text": "In Brazil, they speak Portuguese.",
+        "startTime": 22977,
+        "endTime": 25751,
+        "slowStartTime": 34616,
+        "slowEndTime": 38851
+    },
+    {
+        "text": "They are Brazilian.",
+        "startTime": 26304,
+        "endTime": 27831,
+        "slowStartTime": 39606,
+        "slowEndTime": 41972
+    },
+    {
+        "text": "In Japan, they speak Japanese.",
+        "startTime": 31445,
+        "endTime": 34073,
+        "slowStartTime": 47317,
+        "slowEndTime": 51334
+    },
+    {
+        "text": "They are Japanese.",
+        "startTime": 34685,
+        "endTime": 36424,
+        "slowStartTime": 52178,
+        "slowEndTime": 54861
+    },
+    {
+        "text": "In France, they speak French.",
+        "startTime": 40671,
+        "endTime": 42997,
+        "slowStartTime": 61157,
+        "slowEndTime": 64721
+    },
+    {
+        "text": "They are French.",
+        "startTime": 43646,
+        "endTime": 44954,
+        "slowStartTime": 65619,
+        "slowEndTime": 67656
+    },
+    {
+        "text": "In Spain, they speak Spanish.",
+        "startTime": 50098,
+        "endTime": 52598,
+        "slowStartTime": 75297,
+        "slowEndTime": 79122
+    },
+    {
+        "text": "They are Spanish.",
+        "startTime": 53786,
+        "endTime": 55007,
+        "slowStartTime": 80829,
+        "slowEndTime": 82735
+    },
+    {
+        "text": "In Turkey, they speak Turkish.",
+        "startTime": 60796,
+        "endTime": 63091,
+        "slowStartTime": 91344,
+        "slowEndTime": 94861
+    },
+    {
+        "text": "They are Turkish.",
+        "startTime": 63855,
+        "endTime": 65142,
+        "slowStartTime": 95933,
+        "slowEndTime": 97938
+    },
+    {
+        "text": "In Russia, they speak Russian.",
+        "startTime": 71073,
+        "endTime": 73495,
+        "slowStartTime": 106759,
+        "slowEndTime": 110467
+    },
+    {
+        "text": "They are Russian.",
+        "startTime": 74336,
+        "endTime": 75440,
+        "slowStartTime": 111654,
+        "slowEndTime": 113385
+    },
+    {
+        "text": "In Germany, they speak German.",
+        "startTime": 81439,
+        "endTime": 83599,
+        "slowStartTime": 122308,
+        "slowEndTime": 125624
+    },
+    {
+        "text": "They are German.",
+        "startTime": 84508,
+        "endTime": 85768,
+        "slowStartTime": 126912,
+        "slowEndTime": 128877
+    },
+    {
+        "text": "In South Korea, they speak Korean.",
+        "startTime": 92840,
+        "endTime": 95541,
+        "slowStartTime": 139410,
+        "slowEndTime": 143536
+    },
+    {
+        "text": "They are Korean.",
+        "startTime": 96054,
+        "endTime": 97523,
+        "slowStartTime": 144231,
+        "slowEndTime": 146510
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "text": "What do you see in the sky?",
+        "startTime": 2411,
+        "endTime": 4300,
+        "slowStartTime": 3766,
+        "slowEndTime": 6675
+    },
+    {
+        "text": "I see puffy clouds in the sky.",
+        "startTime": 5430,
+        "endTime": 7753,
+        "slowStartTime": 8295,
+        "slowEndTime": 11855
+    },
+    {
+        "text": "What do you see in the puffy clouds?",
+        "startTime": 8924,
+        "endTime": 11569,
+        "slowStartTime": 13536,
+        "slowEndTime": 17579
+    },
+    {
+        "text": "I see a snowman!",
+        "startTime": 12661,
+        "endTime": 13993,
+        "slowStartTime": 19141,
+        "slowEndTime": 21215
+    },
+    {
+        "text": "Do you see a snowman, too?",
+        "startTime": 14397,
+        "endTime": 16072,
+        "slowStartTime": 21745,
+        "slowEndTime": 24333
+    },
+    {
+        "text": "Yes, I can see it.",
+        "startTime": 17225,
+        "endTime": 18909,
+        "slowStartTime": 25987,
+        "slowEndTime": 28588
+    },
+    {
+        "text": "What else do you see in the clouds?",
+        "startTime": 19479,
+        "endTime": 21746,
+        "slowStartTime": 29368,
+        "slowEndTime": 32844
+    },
+    {
+        "text": "I see a creamy pie and a sheep.",
+        "startTime": 22906,
+        "endTime": 25654,
+        "slowStartTime": 34509,
+        "slowEndTime": 38706
+    },
+    {
+        "text": "Big white clouds fill the blue sky.",
+        "startTime": 33009,
+        "endTime": 36163,
+        "slowStartTime": 49663,
+        "slowEndTime": 54469
+    },
+    {
+        "text": "Look at the puffy clouds.",
+        "startTime": 36759,
+        "endTime": 38546,
+        "slowStartTime": 55288,
+        "slowEndTime": 58044
+    },
+    {
+        "text": "What do you see?",
+        "startTime": 38623,
+        "endTime": 39963,
+        "slowStartTime": 58085,
+        "slowEndTime": 60170
+    },
+    {
+        "text": "Snowman, snowman, I see a snowman.",
+        "startTime": 40321,
+        "endTime": 43720,
+        "slowStartTime": 60631,
+        "slowEndTime": 65805
+    },
+    {
+        "text": "Look at the jumbo clouds.",
+        "startTime": 44252,
+        "endTime": 46053,
+        "slowStartTime": 66528,
+        "slowEndTime": 69305
+    },
+    {
+        "text": "What do you see?",
+        "startTime": 46131,
+        "endTime": 47381,
+        "slowStartTime": 69346,
+        "slowEndTime": 71296
+    },
+    {
+        "text": "Whale, whale, a whale is what I see.",
+        "startTime": 48001,
+        "endTime": 51165,
+        "slowStartTime": 72152,
+        "slowEndTime": 76973
+    },
+    {
+        "text": "Look at the fuzzy clouds.",
+        "startTime": 51744,
+        "endTime": 53529,
+        "slowStartTime": 77766,
+        "slowEndTime": 80519
+    },
+    {
+        "text": "What do you see?",
+        "startTime": 53628,
+        "endTime": 54849,
+        "slowStartTime": 80592,
+        "slowEndTime": 82498
+    },
+    {
+        "text": "Sheep, sheep, a sheep is what I see.",
+        "startTime": 55380,
+        "endTime": 58673,
+        "slowStartTime": 83220,
+        "slowEndTime": 88235
+    },
+    {
+        "text": "It's starting to rain.",
+        "startTime": 59248,
+        "endTime": 60967,
+        "slowStartTime": 89022,
+        "slowEndTime": 91675
+    },
+    {
+        "text": "Let's go inside.",
+        "startTime": 61121,
+        "endTime": 62466,
+        "slowStartTime": 91832,
+        "slowEndTime": 93924
+    }
+]

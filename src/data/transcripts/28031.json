@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Use \"has\" for he, she and it. Use \"have\" for I, you, we, they, don't and doesn't.",
+        "startTime": 651,
+        "endTime": 12039,
+        "slowStartTime": 1126,
+        "slowEndTime": 18283
+    },
+    {
+        "text": "I have a nice bicycle.",
+        "startTime": 14473,
+        "endTime": 16941,
+        "slowStartTime": 21860,
+        "slowEndTime": 25636
+    },
+    {
+        "text": "I don't have a sports car.",
+        "startTime": 20745,
+        "endTime": 23123,
+        "slowStartTime": 31267,
+        "slowEndTime": 34910
+    },
+    {
+        "text": "You have a blue shirt while I have a white shirt.",
+        "startTime": 26927,
+        "endTime": 31867,
+        "slowStartTime": 40541,
+        "slowEndTime": 48026
+    },
+    {
+        "text": "Trump has blond hair.",
+        "startTime": 35760,
+        "endTime": 37507,
+        "slowStartTime": 53790,
+        "slowEndTime": 56486
+    },
+    {
+        "text": "He doesn't have long hair.",
+        "startTime": 41226,
+        "endTime": 44035,
+        "slowStartTime": 61989,
+        "slowEndTime": 66278
+    },
+    {
+        "text": "She doesn't have a boyfriend.",
+        "startTime": 47647,
+        "endTime": 50460,
+        "slowStartTime": 71620,
+        "slowEndTime": 75915
+    },
+    {
+        "text": "The dog has very short legs.",
+        "startTime": 54018,
+        "endTime": 57034,
+        "slowStartTime": 81177,
+        "slowEndTime": 85776
+    },
+    {
+        "text": "It doesn't have a long tail.",
+        "startTime": 58006,
+        "endTime": 60697,
+        "slowStartTime": 87159,
+        "slowEndTime": 91270
+    },
+    {
+        "text": "We have a big family.",
+        "startTime": 64465,
+        "endTime": 66623,
+        "slowStartTime": 96848,
+        "slowEndTime": 100160
+    },
+    {
+        "text": "They have brown hair.",
+        "startTime": 70471,
+        "endTime": 72629,
+        "slowStartTime": 105857,
+        "slowEndTime": 109169
+    }
+]

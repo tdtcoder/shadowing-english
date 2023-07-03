@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Bow.",
+        "startTime": 2467,
+        "endTime": 2953,
+        "slowStartTime": 3850,
+        "slowEndTime": 4655
+    },
+    {
+        "text": "This is a bow.",
+        "startTime": 3829,
+        "endTime": 4989,
+        "slowStartTime": 5894,
+        "slowEndTime": 7709
+    },
+    {
+        "text": "This is a big bow.",
+        "startTime": 6354,
+        "endTime": 7967,
+        "slowStartTime": 9681,
+        "slowEndTime": 12176
+    },
+    {
+        "text": "Bowl.",
+        "startTime": 9417,
+        "endTime": 10045,
+        "slowStartTime": 14275,
+        "slowEndTime": 15293
+    },
+    {
+        "text": "I pour milk into a bowl.",
+        "startTime": 10924,
+        "endTime": 13145,
+        "slowStartTime": 16536,
+        "slowEndTime": 19943
+    },
+    {
+        "text": "I pour milk into a bowl for breakfast.",
+        "startTime": 14594,
+        "endTime": 17629,
+        "slowStartTime": 22041,
+        "slowEndTime": 26669
+    },
+    {
+        "text": "Row.",
+        "startTime": 19037,
+        "endTime": 19652,
+        "slowStartTime": 28705,
+        "slowEndTime": 29703
+    },
+    {
+        "text": "They row the boat.",
+        "startTime": 20447,
+        "endTime": 21781,
+        "slowStartTime": 30821,
+        "slowEndTime": 32897
+    },
+    {
+        "text": "They row the big boat.",
+        "startTime": 23162,
+        "endTime": 24815,
+        "slowStartTime": 34893,
+        "slowEndTime": 37448
+    },
+    {
+        "text": "Mow.",
+        "startTime": 26287,
+        "endTime": 26851,
+        "slowStartTime": 39581,
+        "slowEndTime": 40502
+    },
+    {
+        "text": "I will mow the grass.",
+        "startTime": 27660,
+        "endTime": 29269,
+        "slowStartTime": 41640,
+        "slowEndTime": 44128
+    },
+    {
+        "text": "I will mow the green grass.",
+        "startTime": 30666,
+        "endTime": 32995,
+        "slowStartTime": 46149,
+        "slowEndTime": 49717
+    },
+    {
+        "text": "What, what, what, what do you pick up?",
+        "startTime": 38981,
+        "endTime": 42446,
+        "slowStartTime": 58622,
+        "slowEndTime": 63894
+    },
+    {
+        "text": "Book, book, book, I pick up my book.",
+        "startTime": 42734,
+        "endTime": 45845,
+        "slowStartTime": 64251,
+        "slowEndTime": 68992
+    },
+    {
+        "text": "What, what, what, what do you pick up?",
+        "startTime": 46459,
+        "endTime": 49938,
+        "slowStartTime": 69838,
+        "slowEndTime": 75132
+    },
+    {
+        "text": "Car, car, car, I pick up my car.",
+        "startTime": 50215,
+        "endTime": 53417,
+        "slowStartTime": 75473,
+        "slowEndTime": 80350
+    },
+    {
+        "text": "What, what, what, what do you pick up?",
+        "startTime": 53956,
+        "endTime": 57471,
+        "slowStartTime": 81084,
+        "slowEndTime": 86432
+    },
+    {
+        "text": "Hat, hat, hat, I pick up my hat.",
+        "startTime": 57679,
+        "endTime": 60866,
+        "slowStartTime": 86668,
+        "slowEndTime": 91524
+    },
+    {
+        "text": "I pick up my book, car, hat.",
+        "startTime": 61461,
+        "endTime": 64685,
+        "slowStartTime": 92342,
+        "slowEndTime": 97253
+    },
+    {
+        "text": "My room is all picked up!",
+        "startTime": 65187,
+        "endTime": 67493,
+        "slowStartTime": 97930,
+        "slowEndTime": 101465
+    }
+]

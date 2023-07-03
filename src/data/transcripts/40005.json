@@ -1,0 +1,37 @@
+[
+    {
+        "text": "It's impossible to take hold of the world spotlight overnight,...",
+        "startTime": 1604,
+        "endTime": 7647,
+        "slowStartTime": 2556,
+        "slowEndTime": 11696
+    },
+    {
+        "text": "...create your own uniform,...",
+        "startTime": 8012,
+        "endTime": 9585,
+        "slowStartTime": 12168,
+        "slowEndTime": 14602
+    },
+    {
+        "text": "...be a cover model, a powerful athlete.",
+        "startTime": 10028,
+        "endTime": 13473,
+        "slowStartTime": 15192,
+        "slowEndTime": 20434
+    },
+    {
+        "text": "Impossible.",
+        "startTime": 20057,
+        "endTime": 20809,
+        "slowStartTime": 30235,
+        "slowEndTime": 31439
+    },
+    {
+        "text": "No, I'm possible.",
+        "startTime": 22323,
+        "endTime": 24914,
+        "slowStartTime": 33634,
+        "slowEndTime": 37596
+    }
+]

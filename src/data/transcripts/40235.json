@@ -1,0 +1,135 @@
+[
+    {
+        "text": "Welcome to our office, Mr. Jones.",
+        "startTime": 1110,
+        "endTime": 3266,
+        "slowStartTime": 1815,
+        "slowEndTime": 5124
+    },
+    {
+        "text": "Thanks for having me, Karina.",
+        "startTime": 3647,
+        "endTime": 4997,
+        "slowStartTime": 5621,
+        "slowEndTime": 7720
+    },
+    {
+        "text": "The office looks great!",
+        "startTime": 5362,
+        "endTime": 7129,
+        "slowStartTime": 8193,
+        "slowEndTime": 10919
+    },
+    {
+        "text": "It's quite small, but it is very comfortable.",
+        "startTime": 7372,
+        "endTime": 9871,
+        "slowStartTime": 11208,
+        "slowEndTime": 15032
+    },
+    {
+        "text": "So, is this your reception area?",
+        "startTime": 10621,
+        "endTime": 12869,
+        "slowStartTime": 16082,
+        "slowEndTime": 19528
+    },
+    {
+        "text": "Yes, it is.",
+        "startTime": 13319,
+        "endTime": 14276,
+        "slowStartTime": 20128,
+        "slowEndTime": 21639
+    },
+    {
+        "text": "This is our reception desk and right there is our common space.",
+        "startTime": 14606,
+        "endTime": 18310,
+        "slowStartTime": 22059,
+        "slowEndTime": 27690
+    },
+    {
+        "text": "I see.",
+        "startTime": 18570,
+        "endTime": 19219,
+        "slowStartTime": 28005,
+        "slowEndTime": 29053
+    },
+    {
+        "text": "The sofas look very comfortable.",
+        "startTime": 19573,
+        "endTime": 21063,
+        "slowStartTime": 29509,
+        "slowEndTime": 31819
+    },
+    {
+        "text": "They are.",
+        "startTime": 21386,
+        "endTime": 21953,
+        "slowStartTime": 32229,
+        "slowEndTime": 33154
+    },
+    {
+        "text": "And here is our CEO's office.",
+        "startTime": 22258,
+        "endTime": 24611,
+        "slowStartTime": 33537,
+        "slowEndTime": 37142
+    },
+    {
+        "text": "There is also a shelf here with some books we can borrow.",
+        "startTime": 24958,
+        "endTime": 28347,
+        "slowStartTime": 37587,
+        "slowEndTime": 42746
+    },
+    {
+        "text": "That's lovely.",
+        "startTime": 28799,
+        "endTime": 29863,
+        "slowStartTime": 43348,
+        "slowEndTime": 45019
+    },
+    {
+        "text": "And that is our meeting room.",
+        "startTime": 30103,
+        "endTime": 31578,
+        "slowStartTime": 45304,
+        "slowEndTime": 47592
+    },
+    {
+        "text": "We also have our meals there sometimes.",
+        "startTime": 31907,
+        "endTime": 34281,
+        "slowStartTime": 48010,
+        "slowEndTime": 51647
+    },
+    {
+        "text": "I see.",
+        "startTime": 34779,
+        "endTime": 35405,
+        "slowStartTime": 52319,
+        "slowEndTime": 53333
+    },
+    {
+        "text": "The office sure does feel comfortable.",
+        "startTime": 35748,
+        "endTime": 37468,
+        "slowStartTime": 53772,
+        "slowEndTime": 56427
+    },
+    {
+        "text": "I like it.",
+        "startTime": 37604,
+        "endTime": 38126,
+        "slowStartTime": 56556,
+        "slowEndTime": 57414
+    },
+    {
+        "text": "Thanks!",
+        "startTime": 38553,
+        "endTime": 39179,
+        "slowStartTime": 57979,
+        "slowEndTime": 58993
+    }
+]

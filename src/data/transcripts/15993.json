@@ -1,0 +1,114 @@
+[
+    {
+        "text": "In order to analyze how you use your time, create a time log.",
+        "startTime": 1773,
+        "endTime": 5455,
+        "slowStartTime": 2810,
+        "slowEndTime": 8407
+    },
+    {
+        "text": "A good way would be to divide the day into 15-minute slots.",
+        "startTime": 6190,
+        "endTime": 10081,
+        "slowStartTime": 9435,
+        "slowEndTime": 15346
+    },
+    {
+        "text": "Note tasks that you do a lot, like writing, emailing, traveling, etc., across the top of the page.",
+        "startTime": 10852,
+        "endTime": 17591,
+        "slowStartTime": 16428,
+        "slowEndTime": 26611
+    },
+    {
+        "text": "Underneath could be a row where you write down what you actually did.",
+        "startTime": 18569,
+        "endTime": 22159,
+        "slowStartTime": 28004,
+        "slowEndTime": 33464
+    },
+    {
+        "text": "Three columns entitled \"enjoyment,\" \"productivity\" and \"energy\" could be below that.",
+        "startTime": 23020,
+        "endTime": 28330,
+        "slowStartTime": 34680,
+        "slowEndTime": 42720
+    },
+    {
+        "text": "In the first column, jot down activities that you liked or disliked.",
+        "startTime": 29248,
+        "endTime": 33129,
+        "slowStartTime": 44022,
+        "slowEndTime": 49918
+    },
+    {
+        "text": "Under \"productivity,\" mark \"high\" or \"low,\" and the same under the energy column.",
+        "startTime": 33863,
+        "endTime": 38557,
+        "slowStartTime": 50945,
+        "slowEndTime": 58061
+    },
+    {
+        "text": "Why? Because you can be highly energetic, yet still be very low in productivity, doing something unnecessary.",
+        "startTime": 39039,
+        "endTime": 46570,
+        "slowStartTime": 58708,
+        "slowEndTime": 70080
+    },
+    {
+        "text": "Alternatively, you could have low energy but be productive.",
+        "startTime": 47543,
+        "endTime": 51491,
+        "slowStartTime": 71465,
+        "slowEndTime": 77462
+    },
+    {
+        "text": "Do the logs only for a few consecutive days.",
+        "startTime": 52261,
+        "endTime": 54963,
+        "slowStartTime": 78541,
+        "slowEndTime": 82669
+    },
+    {
+        "text": "Then, consider the following five questions:...",
+        "startTime": 55559,
+        "endTime": 57819,
+        "slowStartTime": 83489,
+        "slowEndTime": 86953
+    },
+    {
+        "text": "...Do you need to do it?",
+        "startTime": 58413,
+        "endTime": 59306,
+        "slowStartTime": 87769,
+        "slowEndTime": 89184
+    },
+    {
+        "text": "Can the frequency be changed?",
+        "startTime": 60049,
+        "endTime": 61596,
+        "slowStartTime": 90223,
+        "slowEndTime": 92619
+    },
+    {
+        "text": "Can the quality be changed?",
+        "startTime": 62299,
+        "endTime": 63721,
+        "slowStartTime": 93599,
+        "slowEndTime": 95807
+    },
+    {
+        "text": "Can the method be changed?",
+        "startTime": 64288,
+        "endTime": 65557,
+        "slowStartTime": 96582,
+        "slowEndTime": 98561
+    },
+    {
+        "text": "Can you delegate part or the whole task?",
+        "startTime": 66257,
+        "endTime": 68657,
+        "slowStartTime": 99536,
+        "slowEndTime": 103210
+    }
+]

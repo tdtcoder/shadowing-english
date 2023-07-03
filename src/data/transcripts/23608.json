@@ -1,0 +1,93 @@
+[
+    {
+        "text": "﻿Are you ready?",
+        "startTime": 280,
+        "endTime": 746,
+        "slowStartTime": 570,
+        "slowEndTime": 1344
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 1108,
+        "endTime": 1493,
+        "slowStartTime": 1812,
+        "slowEndTime": 2464
+    },
+    {
+        "text": "What are you doing?",
+        "startTime": 2139,
+        "endTime": 2754,
+        "slowStartTime": 3359,
+        "slowEndTime": 4356
+    },
+    {
+        "text": "Put your hands out.",
+        "startTime": 3348,
+        "endTime": 3854,
+        "slowStartTime": 5172,
+        "slowEndTime": 6006
+    },
+    {
+        "text": "Oh my gosh, you got me that brand-new purse that I wanted.",
+        "startTime": 5099,
+        "endTime": 7284,
+        "slowStartTime": 7798,
+        "slowEndTime": 11151
+    },
+    {
+        "text": "Oh, I couldn't find it anywhere.",
+        "startTime": 7353,
+        "endTime": 8709,
+        "slowStartTime": 11179,
+        "slowEndTime": 13289
+    },
+    {
+        "text": "It was sold out in five different stores.",
+        "startTime": 9177,
+        "endTime": 11321,
+        "slowStartTime": 13915,
+        "slowEndTime": 17207
+    },
+    {
+        "text": "Just give me a second.",
+        "startTime": 15733,
+        "endTime": 16697,
+        "slowStartTime": 23750,
+        "slowEndTime": 25270
+    },
+    {
+        "text": "Keep your eyes closed.",
+        "startTime": 19451,
+        "endTime": 20518,
+        "slowStartTime": 29327,
+        "slowEndTime": 31002
+    },
+    {
+        "text": "I'm so excited.",
+        "startTime": 21020,
+        "endTime": 22094,
+        "slowStartTime": 31680,
+        "slowEndTime": 33366
+    },
+    {
+        "text": "Chris?",
+        "startTime": 26601,
+        "endTime": 27057,
+        "slowStartTime": 40051,
+        "slowEndTime": 40810
+    },
+    {
+        "text": "Happy Valentine's Day.",
+        "startTime": 31785,
+        "endTime": 32765,
+        "slowStartTime": 47828,
+        "slowEndTime": 49372
+    },
+    {
+        "text": "Thank you!",
+        "startTime": 34847,
+        "endTime": 35804,
+        "slowStartTime": 52421,
+        "slowEndTime": 53931
+    }
+]

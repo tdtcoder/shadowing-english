@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Our Planet Earth",
+        "startTime": 4085,
+        "endTime": 6083,
+        "slowStartTime": 6277,
+        "slowEndTime": 9349
+    },
+    {
+        "text": "Earth: This is the blue planet, Earth, we live in.",
+        "startTime": 9455,
+        "endTime": 13843,
+        "slowStartTime": 14333,
+        "slowEndTime": 20989
+    },
+    {
+        "text": "Earth continents: There are continents on the Earth.",
+        "startTime": 16212,
+        "endTime": 23162,
+        "slowStartTime": 24468,
+        "slowEndTime": 34968
+    },
+    {
+        "text": "Continents: Asia, Europe, North America, South America, Africa, Oceania, Antarctica.",
+        "startTime": 25216,
+        "endTime": 48803,
+        "slowStartTime": 37974,
+        "slowEndTime": 73430
+    },
+    {
+        "text": "Asia, Europe, North America, South America, Africa, Oceania, and Antarctica.",
+        "startTime": 50555,
+        "endTime": 61001,
+        "slowStartTime": 75982,
+        "slowEndTime": 91726
+    },
+    {
+        "text": "Oceans: There are oceans on the Earth.",
+        "startTime": 64665,
+        "endTime": 68498,
+        "slowStartTime": 97148,
+        "slowEndTime": 102972
+    },
+    {
+        "text": "Oceans: the Pacific, the Atlantic, the Indian, the Antarctic, the Arctic.",
+        "startTime": 69747,
+        "endTime": 87275,
+        "slowStartTime": 104770,
+        "slowEndTime": 131138
+    },
+    {
+        "text": "The Pacific, the Atlantic, the Indian, the Antarctic, and the Arctic.",
+        "startTime": 88685,
+        "endTime": 96178,
+        "slowStartTime": 133177,
+        "slowEndTime": 144492
+    }
+]

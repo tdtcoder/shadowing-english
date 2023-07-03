@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Bare.",
+        "startTime": 2733,
+        "endTime": 3343,
+        "slowStartTime": 4250,
+        "slowEndTime": 5240
+    },
+    {
+        "text": "He walked in bare feet.",
+        "startTime": 4133,
+        "endTime": 5755,
+        "slowStartTime": 6350,
+        "slowEndTime": 8858
+    },
+    {
+        "text": "He walked on the road in bare feet.",
+        "startTime": 7167,
+        "endTime": 9411,
+        "slowStartTime": 10900,
+        "slowEndTime": 14341
+    },
+    {
+        "text": "Care.",
+        "startTime": 10854,
+        "endTime": 11319,
+        "slowStartTime": 16431,
+        "slowEndTime": 17203
+    },
+    {
+        "text": "Please take care of her.",
+        "startTime": 12132,
+        "endTime": 13491,
+        "slowStartTime": 18348,
+        "slowEndTime": 20462
+    },
+    {
+        "text": "Please take good care of her.",
+        "startTime": 14876,
+        "endTime": 16573,
+        "slowStartTime": 22464,
+        "slowEndTime": 25085
+    },
+    {
+        "text": "Fare.",
+        "startTime": 17845,
+        "endTime": 18439,
+        "slowStartTime": 26918,
+        "slowEndTime": 27883
+    },
+    {
+        "text": "The train fare was cheap.",
+        "startTime": 19165,
+        "endTime": 20830,
+        "slowStartTime": 28898,
+        "slowEndTime": 31470
+    },
+    {
+        "text": "The train fare was quite cheap.",
+        "startTime": 22219,
+        "endTime": 24121,
+        "slowStartTime": 33479,
+        "slowEndTime": 36407
+    },
+    {
+        "text": "Hare.",
+        "startTime": 25522,
+        "endTime": 26019,
+        "slowStartTime": 38433,
+        "slowEndTime": 39253
+    },
+    {
+        "text": "The hare ran away.",
+        "startTime": 26831,
+        "endTime": 28335,
+        "slowStartTime": 40396,
+        "slowEndTime": 42728
+    },
+    {
+        "text": "The hare ran away into the forest.",
+        "startTime": 29725,
+        "endTime": 32141,
+        "slowStartTime": 44738,
+        "slowEndTime": 48436
+    },
+    {
+        "text": "Deserts are very, very dry and hot.",
+        "startTime": 37603,
+        "endTime": 40832,
+        "slowStartTime": 56554,
+        "slowEndTime": 61473
+    },
+    {
+        "text": "Ocean water is very, very salty.",
+        "startTime": 41353,
+        "endTime": 44138,
+        "slowStartTime": 62180,
+        "slowEndTime": 66432
+    },
+    {
+        "text": "Mountains are very, very tall and steep.",
+        "startTime": 45115,
+        "endTime": 48316,
+        "slowStartTime": 67822,
+        "slowEndTime": 72699
+    },
+    {
+        "text": "Plains are very, very grassy and flat.",
+        "startTime": 48831,
+        "endTime": 52071,
+        "slowStartTime": 73396,
+        "slowEndTime": 78331
+    },
+    {
+        "text": "Rainforests are very, very wet.",
+        "startTime": 52587,
+        "endTime": 55845,
+        "slowStartTime": 79030,
+        "slowEndTime": 83992
+    },
+    {
+        "text": "The tundra is very, very cold.",
+        "startTime": 56111,
+        "endTime": 58827,
+        "slowStartTime": 84317,
+        "slowEndTime": 88466
+    },
+    {
+        "text": "Plants and animals live all around the world.",
+        "startTime": 60061,
+        "endTime": 63511,
+        "slowStartTime": 90242,
+        "slowEndTime": 95491
+    },
+    {
+        "text": "Deserts, oceans, mountains!",
+        "startTime": 63818,
+        "endTime": 66663,
+        "slowStartTime": 95877,
+        "slowEndTime": 100220
+    },
+    {
+        "text": "Plains, rainforests, tundra!",
+        "startTime": 67573,
+        "endTime": 70149,
+        "slowStartTime": 101510,
+        "slowEndTime": 105448
+    }
+]

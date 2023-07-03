@@ -1,0 +1,107 @@
+[
+    {
+        "text": "﻿Oh, hey! Hello again.",
+        "startTime": 503,
+        "endTime": 2644,
+        "slowStartTime": 904,
+        "slowEndTime": 4191
+    },
+    {
+        "text": "Hi. How are you?",
+        "startTime": 2807,
+        "endTime": 5155,
+        "slowStartTime": 4361,
+        "slowEndTime": 7957
+    },
+    {
+        "text": "I am here in a park.",
+        "startTime": 5720,
+        "endTime": 7739,
+        "slowStartTime": 8730,
+        "slowEndTime": 11834
+    },
+    {
+        "text": "Because it's nice and quiet.",
+        "startTime": 8053,
+        "endTime": 10171,
+        "slowStartTime": 12230,
+        "slowEndTime": 15481
+    },
+    {
+        "text": "And relaxing, yeah.",
+        "startTime": 10696,
+        "endTime": 12971,
+        "slowStartTime": 16194,
+        "slowEndTime": 19681
+    },
+    {
+        "text": "Hey, what was that?",
+        "startTime": 13500,
+        "endTime": 15065,
+        "slowStartTime": 20400,
+        "slowEndTime": 22822
+    },
+    {
+        "text": "There is something up in a tree.",
+        "startTime": 15614,
+        "endTime": 17755,
+        "slowStartTime": 23571,
+        "slowEndTime": 26858
+    },
+    {
+        "text": "What is it?",
+        "startTime": 18367,
+        "endTime": 19064,
+        "slowStartTime": 27700,
+        "slowEndTime": 28821
+    },
+    {
+        "text": "What is it?",
+        "startTime": 19980,
+        "endTime": 20673,
+        "slowStartTime": 30120,
+        "slowEndTime": 31234
+    },
+    {
+        "text": "Oh look, it's a cat.",
+        "startTime": 20957,
+        "endTime": 23669,
+        "slowStartTime": 31586,
+        "slowEndTime": 35729
+    },
+    {
+        "text": "Hello, little cat.",
+        "startTime": 23779,
+        "endTime": 24931,
+        "slowStartTime": 35818,
+        "slowEndTime": 37621
+    },
+    {
+        "text": "Hey. Oh, and what was that?",
+        "startTime": 25037,
+        "endTime": 27077,
+        "slowStartTime": 37705,
+        "slowEndTime": 40840
+    },
+    {
+        "text": "Oh look, fish.",
+        "startTime": 27689,
+        "endTime": 29340,
+        "slowStartTime": 41684,
+        "slowEndTime": 44235
+    },
+    {
+        "text": "Oh and frogs. Wow!",
+        "startTime": 29459,
+        "endTime": 32253,
+        "slowStartTime": 44339,
+        "slowEndTime": 48604
+    },
+    {
+        "text": "And hey, dogs!",
+        "startTime": 32493,
+        "endTime": 34608,
+        "slowStartTime": 48889,
+        "slowEndTime": 52137
+    }
+]

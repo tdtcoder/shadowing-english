@@ -1,0 +1,72 @@
+[
+    {
+        "text": "﻿Use the Amazon Go app to enter,...",
+        "startTime": 709,
+        "endTime": 2924,
+        "slowStartTime": 1214,
+        "slowEndTime": 4611
+    },
+    {
+        "text": "...then put away your phone and start shopping.",
+        "startTime": 3749,
+        "endTime": 6361,
+        "slowStartTime": 5773,
+        "slowEndTime": 9767
+    },
+    {
+        "text": "It's really that simple.",
+        "startTime": 7023,
+        "endTime": 8551,
+        "slowStartTime": 10684,
+        "slowEndTime": 13052
+    },
+    {
+        "text": "Take whatever you like.",
+        "startTime": 9630,
+        "endTime": 10911,
+        "slowStartTime": 14595,
+        "slowEndTime": 16591
+    },
+    {
+        "text": "Anything you pick up is automatically added to your virtual cart.",
+        "startTime": 11304,
+        "endTime": 14846,
+        "slowStartTime": 17106,
+        "slowEndTime": 22494
+    },
+    {
+        "text": "If you change your mind about that cupcake, just put it back.",
+        "startTime": 16965,
+        "endTime": 21095,
+        "slowStartTime": 25598,
+        "slowEndTime": 31867
+    },
+    {
+        "text": "Our technology will update your virtual cart automatically.",
+        "startTime": 22006,
+        "endTime": 25207,
+        "slowStartTime": 33159,
+        "slowEndTime": 38035
+    },
+    {
+        "text": "Once you've got everything you want, you can just go.",
+        "startTime": 27459,
+        "endTime": 30877,
+        "slowStartTime": 41339,
+        "slowEndTime": 46541
+    },
+    {
+        "text": "When you leave, our Just Walk Out Technology adds up your virtual cart...",
+        "startTime": 31423,
+        "endTime": 35081,
+        "slowStartTime": 47284,
+        "slowEndTime": 52847
+    },
+    {
+        "text": "...and charges your Amazon account.",
+        "startTime": 35215,
+        "endTime": 36713,
+        "slowStartTime": 52972,
+        "slowEndTime": 55294
+    }
+]

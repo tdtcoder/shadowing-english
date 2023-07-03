@@ -1,0 +1,37 @@
+[
+    {
+        "text": "﻿Cut to the Chase.",
+        "startTime": 7341,
+        "endTime": 8393,
+        "slowStartTime": 11161,
+        "slowEndTime": 12815
+    },
+    {
+        "text": "It means to get to the important parts of a story.",
+        "startTime": 9602,
+        "endTime": 12409,
+        "slowStartTime": 14553,
+        "slowEndTime": 18839
+    },
+    {
+        "text": "Skip the details of your story and cut to the chase.",
+        "startTime": 14114,
+        "endTime": 17645,
+        "slowStartTime": 21321,
+        "slowEndTime": 26693
+    },
+    {
+        "text": "I don't have time to explain things so let me cut to the chase.",
+        "startTime": 19645,
+        "endTime": 23427,
+        "slowStartTime": 29617,
+        "slowEndTime": 35366
+    },
+    {
+        "text": "Could you cut to the chase and just tell me what you need?",
+        "startTime": 25398,
+        "endTime": 28673,
+        "slowStartTime": 38247,
+        "slowEndTime": 43235
+    }
+]

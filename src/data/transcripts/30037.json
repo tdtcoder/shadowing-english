@@ -1,0 +1,212 @@
+[
+    {
+        "text": "A jar of marmalade.",
+        "startTime": 2951,
+        "endTime": 4083,
+        "slowStartTime": 4577,
+        "slowEndTime": 6349
+    },
+    {
+        "text": "Thank you, Santa.",
+        "startTime": 4798,
+        "endTime": 5683,
+        "slowStartTime": 7347,
+        "slowEndTime": 8750
+    },
+    {
+        "text": "Santa?",
+        "startTime": 8735,
+        "endTime": 9346,
+        "slowStartTime": 13252,
+        "slowEndTime": 14244
+    },
+    {
+        "text": "They're coming.",
+        "startTime": 9487,
+        "endTime": 9953,
+        "slowStartTime": 14380,
+        "slowEndTime": 15155
+    },
+    {
+        "text": "Oh no, no.",
+        "startTime": 10081,
+        "endTime": 11069,
+        "slowStartTime": 15272,
+        "slowEndTime": 16829
+    },
+    {
+        "text": "Hello?",
+        "startTime": 11191,
+        "endTime": 11633,
+        "slowStartTime": 16936,
+        "slowEndTime": 17674
+    },
+    {
+        "text": "Santa!",
+        "startTime": 13800,
+        "endTime": 14600,
+        "slowStartTime": 20961,
+        "slowEndTime": 22037
+    },
+    {
+        "text": "Oh, I'm ever so sorry.",
+        "startTime": 14793,
+        "endTime": 16353,
+        "slowStartTime": 22340,
+        "slowEndTime": 24755
+    },
+    {
+        "text": "I'm not Santa.",
+        "startTime": 16711,
+        "endTime": 18001,
+        "slowStartTime": 25217,
+        "slowEndTime": 27227
+    },
+    {
+        "text": "Oh, this is for Alice!",
+        "startTime": 18415,
+        "endTime": 19555,
+        "slowStartTime": 27773,
+        "slowEndTime": 29557
+    },
+    {
+        "text": "I know her!",
+        "startTime": 20127,
+        "endTime": 20973,
+        "slowStartTime": 30340,
+        "slowEndTime": 31684
+    },
+    {
+        "text": "What?",
+        "startTime": 21157,
+        "endTime": 21663,
+        "slowStartTime": 31886,
+        "slowEndTime": 32719
+    },
+    {
+        "text": "Let me help you.",
+        "startTime": 21973,
+        "endTime": 22679,
+        "slowStartTime": 33110,
+        "slowEndTime": 34244
+    },
+    {
+        "text": "Follow me.",
+        "startTime": 23114,
+        "endTime": 23847,
+        "slowStartTime": 34821,
+        "slowEndTime": 35995
+    },
+    {
+        "text": "Hey, they're mine.",
+        "startTime": 23963,
+        "endTime": 25275,
+        "slowStartTime": 36094,
+        "slowEndTime": 38137
+    },
+    {
+        "text": "She'll love it.",
+        "startTime": 25793,
+        "endTime": 26634,
+        "slowStartTime": 38840,
+        "slowEndTime": 40176
+    },
+    {
+        "text": "Oh and here's one from Gran.",
+        "startTime": 26895,
+        "endTime": 28090,
+        "slowStartTime": 40493,
+        "slowEndTime": 42360
+    },
+    {
+        "text": "And one from Grandad.",
+        "startTime": 28271,
+        "endTime": 29332,
+        "slowStartTime": 42557,
+        "slowEndTime": 44223
+    },
+    {
+        "text": "We've got loads more to deliver!",
+        "startTime": 30507,
+        "endTime": 32057,
+        "slowStartTime": 45910,
+        "slowEndTime": 48310
+    },
+    {
+        "text": "This goes in here.",
+        "startTime": 33037,
+        "endTime": 34147,
+        "slowStartTime": 49705,
+        "slowEndTime": 51445
+    },
+    {
+        "text": "Pop that under there.",
+        "startTime": 35161,
+        "endTime": 36196,
+        "slowStartTime": 52892,
+        "slowEndTime": 54519
+    },
+    {
+        "text": "Let's take your sleigh!",
+        "startTime": 40022,
+        "endTime": 41106,
+        "slowStartTime": 60183,
+        "slowEndTime": 61884
+    },
+    {
+        "text": "Sleigh?",
+        "startTime": 41234,
+        "endTime": 41843,
+        "slowStartTime": 62001,
+        "slowEndTime": 62990
+    },
+    {
+        "text": "Giddy-up.",
+        "startTime": 42043,
+        "endTime": 42465,
+        "slowStartTime": 63214,
+        "slowEndTime": 63923
+    },
+    {
+        "text": "Merry Christmas!",
+        "startTime": 50901,
+        "endTime": 52460,
+        "slowStartTime": 76502,
+        "slowEndTime": 78915
+    },
+    {
+        "text": "Look!",
+        "startTime": 57826,
+        "endTime": 58331,
+        "slowStartTime": 86889,
+        "slowEndTime": 87722
+    },
+    {
+        "text": "I'm super Alice!",
+        "startTime": 59031,
+        "endTime": 61334,
+        "slowStartTime": 88696,
+        "slowEndTime": 92226
+    },
+    {
+        "text": "Oh, I almost forgot.",
+        "startTime": 66135,
+        "endTime": 67680,
+        "slowStartTime": 99352,
+        "slowEndTime": 101745
+    },
+    {
+        "text": "Merry Christmas, Mr. Claus.",
+        "startTime": 69142,
+        "endTime": 70549,
+        "slowStartTime": 103863,
+        "slowEndTime": 106049
+    },
+    {
+        "text": "Oh, thank you little bear.",
+        "startTime": 71871,
+        "endTime": 73400,
+        "slowStartTime": 107956,
+        "slowEndTime": 110325
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "text": "There are fifteen apples.",
+        "startTime": 3833,
+        "endTime": 5779,
+        "slowStartTime": 5900,
+        "slowEndTime": 8893
+    },
+    {
+        "text": "There are some apples.",
+        "startTime": 7398,
+        "endTime": 8631,
+        "slowStartTime": 11247,
+        "slowEndTime": 13171
+    },
+    {
+        "text": "There is juice.",
+        "startTime": 10272,
+        "endTime": 11191,
+        "slowStartTime": 15558,
+        "slowEndTime": 17011
+    },
+    {
+        "text": "There is some juice.",
+        "startTime": 12860,
+        "endTime": 14035,
+        "slowStartTime": 19440,
+        "slowEndTime": 21278
+    },
+    {
+        "text": "There are not any boys.",
+        "startTime": 19095,
+        "endTime": 20481,
+        "slowStartTime": 28792,
+        "slowEndTime": 30947
+    },
+    {
+        "text": "There aren't any books.",
+        "startTime": 21994,
+        "endTime": 23329,
+        "slowStartTime": 33141,
+        "slowEndTime": 35219
+    },
+    {
+        "text": "There is not any milk.",
+        "startTime": 25034,
+        "endTime": 26453,
+        "slowStartTime": 37701,
+        "slowEndTime": 39905
+    },
+    {
+        "text": "There isn't any cheese.",
+        "startTime": 28024,
+        "endTime": 29577,
+        "slowStartTime": 42186,
+        "slowEndTime": 44591
+    },
+    {
+        "text": "Are there any flowers?",
+        "startTime": 34809,
+        "endTime": 36061,
+        "slowStartTime": 52364,
+        "slowEndTime": 54317
+    },
+    {
+        "text": "Yes, there are.",
+        "startTime": 37729,
+        "endTime": 38462,
+        "slowStartTime": 56744,
+        "slowEndTime": 57918
+    },
+    {
+        "text": "Is there any juice?",
+        "startTime": 40064,
+        "endTime": 41137,
+        "slowStartTime": 60246,
+        "slowEndTime": 61930
+    },
+    {
+        "text": "No, there isn't any juice.",
+        "startTime": 42659,
+        "endTime": 44405,
+        "slowStartTime": 64138,
+        "slowEndTime": 66833
+    }
+]

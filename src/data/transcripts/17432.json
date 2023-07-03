@@ -1,0 +1,107 @@
+[
+    {
+        "text": "\"Where?\" asked the little brown bear.",
+        "startTime": 2220,
+        "endTime": 5185,
+        "slowStartTime": 3480,
+        "slowEndTime": 8003
+    },
+    {
+        "text": "Where is my mother?",
+        "startTime": 6387,
+        "endTime": 7572,
+        "slowStartTime": 9731,
+        "slowEndTime": 11583
+    },
+    {
+        "text": "Where is my father?",
+        "startTime": 8741,
+        "endTime": 10145,
+        "slowStartTime": 13261,
+        "slowEndTime": 15443
+    },
+    {
+        "text": "Where is my house?",
+        "startTime": 11334,
+        "endTime": 12616,
+        "slowStartTime": 17151,
+        "slowEndTime": 19149
+    },
+    {
+        "text": "Where is my bed?",
+        "startTime": 13788,
+        "endTime": 15137,
+        "slowStartTime": 20832,
+        "slowEndTime": 22930
+    },
+    {
+        "text": "Where is my pot of honey?",
+        "startTime": 16401,
+        "endTime": 18101,
+        "slowStartTime": 24751,
+        "slowEndTime": 27376
+    },
+    {
+        "text": "Where am I?",
+        "startTime": 19254,
+        "endTime": 20399,
+        "slowStartTime": 29031,
+        "slowEndTime": 30823
+    },
+    {
+        "text": "I am lost.",
+        "startTime": 21587,
+        "endTime": 22669,
+        "slowStartTime": 32531,
+        "slowEndTime": 34229
+    },
+    {
+        "text": "Can you help me?",
+        "startTime": 23256,
+        "endTime": 24415,
+        "slowStartTime": 35034,
+        "slowEndTime": 36848
+    },
+    {
+        "text": "Where are you?",
+        "startTime": 28072,
+        "endTime": 29169,
+        "slowStartTime": 42258,
+        "slowEndTime": 43978
+    },
+    {
+        "text": "I am in my bedroom.",
+        "startTime": 30276,
+        "endTime": 31659,
+        "slowStartTime": 45564,
+        "slowEndTime": 47714
+    },
+    {
+        "text": "Where is your mom?",
+        "startTime": 32815,
+        "endTime": 34112,
+        "slowStartTime": 49373,
+        "slowEndTime": 51393
+    },
+    {
+        "text": "She is in the kitchen.",
+        "startTime": 35199,
+        "endTime": 36690,
+        "slowStartTime": 52948,
+        "slowEndTime": 55260
+    },
+    {
+        "text": "Where are your brothers?",
+        "startTime": 37803,
+        "endTime": 39274,
+        "slowStartTime": 56855,
+        "slowEndTime": 59136
+    },
+    {
+        "text": "They are in the living room.",
+        "startTime": 40410,
+        "endTime": 41994,
+        "slowStartTime": 60765,
+        "slowEndTime": 63216
+    }
+]

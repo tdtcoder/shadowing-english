@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Monday night's 5.8 magnitude earthquake...",
+        "startTime": 635,
+        "endTime": 2851,
+        "slowStartTime": 1102,
+        "slowEndTime": 4501
+    },
+    {
+        "text": "...shook not only the southwestern part of Korea close to the epicenter,...",
+        "startTime": 2931,
+        "endTime": 6559,
+        "slowStartTime": 4547,
+        "slowEndTime": 10063
+    },
+    {
+        "text": "...but also Seoul and other parts of the country.",
+        "startTime": 6955,
+        "endTime": 9433,
+        "slowStartTime": 10582,
+        "slowEndTime": 14375
+    },
+    {
+        "text": "The Korea Meteorological Administration...",
+        "startTime": 10563,
+        "endTime": 12610,
+        "slowStartTime": 15994,
+        "slowEndTime": 19140
+    },
+    {
+        "text": "...said that this quake's actual waveform was very extensive,...",
+        "startTime": 12672,
+        "endTime": 16274,
+        "slowStartTime": 19158,
+        "slowEndTime": 24636
+    },
+    {
+        "text": "...so much so that it spread throughout the nation.",
+        "startTime": 16695,
+        "endTime": 18963,
+        "slowStartTime": 25192,
+        "slowEndTime": 28670
+    },
+    {
+        "text": "The strongest earthquake prior to the one on Monday night...",
+        "startTime": 19867,
+        "endTime": 22720,
+        "slowStartTime": 29951,
+        "slowEndTime": 34305
+    },
+    {
+        "text": "...was a 5.3 magnitude quake that occurred in Euiju,...",
+        "startTime": 22855,
+        "endTime": 26312,
+        "slowStartTime": 34433,
+        "slowEndTime": 39693
+    },
+    {
+        "text": "...Pyongan-bukdo province, in North Korea in 1980.",
+        "startTime": 26709,
+        "endTime": 30401,
+        "slowStartTime": 40213,
+        "slowEndTime": 45826
+    },
+    {
+        "text": "The Korean Peninsula has been relatively safe from earthquakes...",
+        "startTime": 30975,
+        "endTime": 33835,
+        "slowStartTime": 46612,
+        "slowEndTime": 50977
+    },
+    {
+        "text": "...since it is located away from the edge of a tectonic plate.",
+        "startTime": 33921,
+        "endTime": 37482,
+        "slowStartTime": 51031,
+        "slowEndTime": 56448
+    },
+    {
+        "text": "Nonetheless, experts predict that the country could be hit...",
+        "startTime": 38149,
+        "endTime": 41089,
+        "slowStartTime": 57373,
+        "slowEndTime": 61858
+    },
+    {
+        "text": "...by an earthquake as strong as 6.5 magnitude.",
+        "startTime": 41251,
+        "endTime": 44822,
+        "slowStartTime": 62027,
+        "slowEndTime": 67458
+    }
+]

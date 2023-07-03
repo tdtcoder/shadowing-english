@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Here are some verbs used in business.",
+        "startTime": 1401,
+        "endTime": 3977,
+        "slowStartTime": 2251,
+        "slowEndTime": 6190
+    },
+    {
+        "text": "He buys his breakfast at McDonald's.",
+        "startTime": 9701,
+        "endTime": 12699,
+        "slowStartTime": 14702,
+        "slowEndTime": 19274
+    },
+    {
+        "text": "She is paying the man.",
+        "startTime": 19080,
+        "endTime": 21093,
+        "slowStartTime": 28770,
+        "slowEndTime": 31865
+    },
+    {
+        "text": "Write your name on the paper.",
+        "startTime": 27287,
+        "endTime": 29347,
+        "slowStartTime": 41080,
+        "slowEndTime": 44246
+    },
+    {
+        "text": "I'm sending an email.",
+        "startTime": 35400,
+        "endTime": 36897,
+        "slowStartTime": 53250,
+        "slowEndTime": 55571
+    },
+    {
+        "text": "Zuckerberg has a phone.",
+        "startTime": 42950,
+        "endTime": 44658,
+        "slowStartTime": 64575,
+        "slowEndTime": 67212
+    },
+    {
+        "text": "This is our boss.",
+        "startTime": 50899,
+        "endTime": 52678,
+        "slowStartTime": 76498,
+        "slowEndTime": 79242
+    },
+    {
+        "text": "She works as a waitress.",
+        "startTime": 58707,
+        "endTime": 60837,
+        "slowStartTime": 88210,
+        "slowEndTime": 91481
+    }
+]

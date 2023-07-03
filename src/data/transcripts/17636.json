@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Last Saturday was my mom's birthday.",
+        "startTime": 2161,
+        "endTime": 4759,
+        "slowStartTime": 3391,
+        "slowEndTime": 7364
+    },
+    {
+        "text": "Did you buy anything special for her?",
+        "startTime": 5957,
+        "endTime": 8157,
+        "slowStartTime": 9085,
+        "slowEndTime": 12461
+    },
+    {
+        "text": "No, I didn't buy anything for her.",
+        "startTime": 9261,
+        "endTime": 11945,
+        "slowStartTime": 14042,
+        "slowEndTime": 18143
+    },
+    {
+        "text": "I cleaned the house and cooked dinner instead.",
+        "startTime": 12549,
+        "endTime": 15822,
+        "slowStartTime": 18973,
+        "slowEndTime": 23958
+    },
+    {
+        "text": "Then did your mom get nothing for her birthday?",
+        "startTime": 16923,
+        "endTime": 19870,
+        "slowStartTime": 25534,
+        "slowEndTime": 30030
+    },
+    {
+        "text": "My brother gave her a bunch of flowers and a hair pin.",
+        "startTime": 21007,
+        "endTime": 24465,
+        "slowStartTime": 31661,
+        "slowEndTime": 36922
+    },
+    {
+        "text": "My dad bought her a beautiful dress and a scarf!",
+        "startTime": 25195,
+        "endTime": 29070,
+        "slowStartTime": 37943,
+        "slowEndTime": 43830
+    },
+    {
+        "text": "Wow.",
+        "startTime": 30199,
+        "endTime": 30821,
+        "slowStartTime": 45448,
+        "slowEndTime": 46456
+    },
+    {
+        "text": "She might be very happy.",
+        "startTime": 31286,
+        "endTime": 33042,
+        "slowStartTime": 47079,
+        "slowEndTime": 49788
+    },
+    {
+        "text": "My dad wants nothing for Father's Day.",
+        "startTime": 39839,
+        "endTime": 43029,
+        "slowStartTime": 59908,
+        "slowEndTime": 64769
+    },
+    {
+        "text": "Last year I gave him a tie and now he has enough ties.",
+        "startTime": 43836,
+        "endTime": 50109,
+        "slowStartTime": 65904,
+        "slowEndTime": 75389
+    },
+    {
+        "text": "My sister gave him a hat and now he has enough hats.",
+        "startTime": 51077,
+        "endTime": 57593,
+        "slowStartTime": 76765,
+        "slowEndTime": 86614
+    },
+    {
+        "text": "My brother gave him socks and now he has enough socks.",
+        "startTime": 58588,
+        "endTime": 65089,
+        "slowStartTime": 88032,
+        "slowEndTime": 97858
+    },
+    {
+        "text": "Mom gave him a computer game and now he has enough games.",
+        "startTime": 66309,
+        "endTime": 72679,
+        "slowStartTime": 99614,
+        "slowEndTime": 109244
+    },
+    {
+        "text": "This year, Dad wants nothing but we have a plan.",
+        "startTime": 73801,
+        "endTime": 79990,
+        "slowStartTime": 110852,
+        "slowEndTime": 120210
+    },
+    {
+        "text": "We will watch TV, watch TV.",
+        "startTime": 81289,
+        "endTime": 83757,
+        "slowStartTime": 122083,
+        "slowEndTime": 125860
+    },
+    {
+        "text": "We will play, play, play.",
+        "startTime": 85029,
+        "endTime": 87349,
+        "slowStartTime": 127693,
+        "slowEndTime": 131249
+    },
+    {
+        "text": "And we will give him the biggest hug just for Father's Day.",
+        "startTime": 88789,
+        "endTime": 94394,
+        "slowStartTime": 133333,
+        "slowEndTime": 141816
+    }
+]

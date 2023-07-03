@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Hi?",
+        "startTime": 4635,
+        "endTime": 5309,
+        "slowStartTime": 7102,
+        "slowEndTime": 8188
+    },
+    {
+        "text": "You chose wisely.",
+        "startTime": 5635,
+        "endTime": 6463,
+        "slowStartTime": 8603,
+        "slowEndTime": 9919
+    },
+    {
+        "text": "With Yoplait Greek Yogurt, not only do you get twice the protein, you get this.",
+        "startTime": 6812,
+        "endTime": 11333,
+        "slowStartTime": 10368,
+        "slowEndTime": 17225
+    },
+    {
+        "text": "Thanks but I just wanted twice the protein.",
+        "startTime": 11948,
+        "endTime": 14223,
+        "slowStartTime": 18072,
+        "slowEndTime": 21560
+    },
+    {
+        "text": "Feisty! Me likey.",
+        "startTime": 14836,
+        "endTime": 17452,
+        "slowStartTime": 22404,
+        "slowEndTime": 26403
+    },
+    {
+        "text": "Yoplait Greek has twice the protein of the leading yogurt...",
+        "startTime": 20573,
+        "endTime": 23270,
+        "slowStartTime": 31009,
+        "slowEndTime": 35130
+    },
+    {
+        "text": "...to help satisfy your hunger.",
+        "startTime": 23657,
+        "endTime": 25190,
+        "slowStartTime": 35636,
+        "slowEndTime": 38010
+    },
+    {
+        "text": "Can you please stop flexing?",
+        "startTime": 26624,
+        "endTime": 27929,
+        "slowStartTime": 40086,
+        "slowEndTime": 42118
+    },
+    {
+        "text": "Nope.",
+        "startTime": 28941,
+        "endTime": 29361,
+        "slowStartTime": 43561,
+        "slowEndTime": 44266
+    }
+]

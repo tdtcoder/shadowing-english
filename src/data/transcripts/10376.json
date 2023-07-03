@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Hello. Can I sit here?",
+        "startTime": 750,
+        "endTime": 2700,
+        "slowStartTime": 1230,
+        "slowEndTime": 4330
+    },
+    {
+        "text": "Sure. Hi, I'm Julia.",
+        "startTime": 3350,
+        "endTime": 6200,
+        "slowStartTime": 5160,
+        "slowEndTime": 9610
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 6750,
+        "endTime": 7800,
+        "slowStartTime": 10220,
+        "slowEndTime": 12000
+    },
+    {
+        "text": "My name is Nat.",
+        "startTime": 8100,
+        "endTime": 9500,
+        "slowStartTime": 12320,
+        "slowEndTime": 14350
+    },
+    {
+        "text": "Hi Nat. Where are you from?",
+        "startTime": 9900,
+        "endTime": 12600,
+        "slowStartTime": 15060,
+        "slowEndTime": 19120
+    },
+    {
+        "text": "I'm from Thailand.",
+        "startTime": 12950,
+        "endTime": 14200,
+        "slowStartTime": 19700,
+        "slowEndTime": 21500
+    },
+    {
+        "text": "What about you?",
+        "startTime": 14900,
+        "endTime": 15850,
+        "slowStartTime": 22600,
+        "slowEndTime": 24000
+    },
+    {
+        "text": "Where are you from?",
+        "startTime": 16350,
+        "endTime": 17400,
+        "slowStartTime": 24800,
+        "slowEndTime": 26200
+    },
+    {
+        "text": "I'm from Australia. Sydney is my hometown.",
+        "startTime": 18000,
+        "endTime": 21700,
+        "slowStartTime": 27200,
+        "slowEndTime": 32800
+    },
+    {
+        "text": "Really? It's a beautiful city.",
+        "startTime": 21800,
+        "endTime": 24600,
+        "slowStartTime": 33000,
+        "slowEndTime": 37030
+    },
+    {
+        "text": "Yes it is. What are you studying?",
+        "startTime": 24800,
+        "endTime": 28100,
+        "slowStartTime": 37400,
+        "slowEndTime": 42200
+    },
+    {
+        "text": "I study Business.",
+        "startTime": 28500,
+        "endTime": 29800,
+        "slowStartTime": 43000,
+        "slowEndTime": 44800
+    },
+    {
+        "text": "And you? What are you studying?",
+        "startTime": 30450,
+        "endTime": 32900,
+        "slowStartTime": 45800,
+        "slowEndTime": 49500
+    },
+    {
+        "text": "I'm studying Business too.",
+        "startTime": 33500,
+        "endTime": 35450,
+        "slowStartTime": 50500,
+        "slowEndTime": 53400
+    },
+    {
+        "text": "Nice to meet you, Nat.",
+        "startTime": 35850,
+        "endTime": 37500,
+        "slowStartTime": 53900,
+        "slowEndTime": 56390
+    },
+    {
+        "text": "Nice to meet you too, Julia.",
+        "startTime": 37650,
+        "endTime": 39400,
+        "slowStartTime": 56700,
+        "slowEndTime": 59300
+    }
+]

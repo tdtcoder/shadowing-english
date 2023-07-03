@@ -1,0 +1,100 @@
+[
+    {
+        "text": "What is your job?",
+        "startTime": 213,
+        "endTime": 1295,
+        "slowStartTime": 470,
+        "slowEndTime": 2167
+    },
+    {
+        "text": "I'm a teacher.",
+        "startTime": 2759,
+        "endTime": 3461,
+        "slowStartTime": 4288,
+        "slowEndTime": 5417
+    },
+    {
+        "text": "I'm a student.",
+        "startTime": 4542,
+        "endTime": 5191,
+        "slowStartTime": 6963,
+        "slowEndTime": 8012
+    },
+    {
+        "text": "I'm a doctor.",
+        "startTime": 6195,
+        "endTime": 6937,
+        "slowStartTime": 9442,
+        "slowEndTime": 10631
+    },
+    {
+        "text": "I'm a manager.",
+        "startTime": 7630,
+        "endTime": 8654,
+        "slowStartTime": 11595,
+        "slowEndTime": 13206
+    },
+    {
+        "text": "I am a music producer.",
+        "startTime": 9986,
+        "endTime": 11393,
+        "slowStartTime": 15129,
+        "slowEndTime": 17314
+    },
+    {
+        "text": "I'm a journalist.",
+        "startTime": 12368,
+        "endTime": 13371,
+        "slowStartTime": 18702,
+        "slowEndTime": 20281
+    },
+    {
+        "text": "I'm a television producer.",
+        "startTime": 14399,
+        "endTime": 15502,
+        "slowStartTime": 21748,
+        "slowEndTime": 23478
+    },
+    {
+        "text": "I'm an architect.",
+        "startTime": 16320,
+        "endTime": 17144,
+        "slowStartTime": 24630,
+        "slowEndTime": 25941
+    },
+    {
+        "text": "I'm a student.",
+        "startTime": 17857,
+        "endTime": 18637,
+        "slowStartTime": 26936,
+        "slowEndTime": 28180
+    },
+    {
+        "text": "I work in an office.",
+        "startTime": 19589,
+        "endTime": 20635,
+        "slowStartTime": 29534,
+        "slowEndTime": 31177
+    },
+    {
+        "text": "I work in IT.",
+        "startTime": 21549,
+        "endTime": 22459,
+        "slowStartTime": 32473,
+        "slowEndTime": 33914
+    },
+    {
+        "text": "I'm a student.",
+        "startTime": 23323,
+        "endTime": 24183,
+        "slowStartTime": 35134,
+        "slowEndTime": 36499
+    },
+    {
+        "text": "I'm an engineer.",
+        "startTime": 25143,
+        "endTime": 26003,
+        "slowStartTime": 37864,
+        "slowEndTime": 39229
+    }
+]

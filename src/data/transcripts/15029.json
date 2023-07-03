@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Once in a great while,...",
+        "startTime": 1067,
+        "endTime": 2421,
+        "slowStartTime": 1750,
+        "slowEndTime": 3856
+    },
+    {
+        "text": "...something new comes along...",
+        "startTime": 2836,
+        "endTime": 4340,
+        "slowStartTime": 4404,
+        "slowEndTime": 6735
+    },
+    {
+        "text": "...and nothing is ever the same again.",
+        "startTime": 4859,
+        "endTime": 7152,
+        "slowStartTime": 7438,
+        "slowEndTime": 10953
+    },
+    {
+        "text": "For computers, that moment is now.",
+        "startTime": 8637,
+        "endTime": 11421,
+        "slowStartTime": 13105,
+        "slowEndTime": 17356
+    },
+    {
+        "text": "The second generation of Intel Core processors has arrived.",
+        "startTime": 12451,
+        "endTime": 15943,
+        "slowStartTime": 18827,
+        "slowEndTime": 24139
+    },
+    {
+        "text": "Stunning visuals. Intelligent performance.",
+        "startTime": 16412,
+        "endTime": 19148,
+        "slowStartTime": 24768,
+        "slowEndTime": 28947
+    },
+    {
+        "text": "When you see it, you'll know it.",
+        "startTime": 19375,
+        "endTime": 21144,
+        "slowStartTime": 29212,
+        "slowEndTime": 31941
+    },
+    {
+        "text": "And when you use it, you'll feel it.",
+        "startTime": 21463,
+        "endTime": 23471,
+        "slowStartTime": 32345,
+        "slowEndTime": 35431
+    },
+    {
+        "text": "This is visibly smart.",
+        "startTime": 23833,
+        "endTime": 25856,
+        "slowStartTime": 35900,
+        "slowEndTime": 39009
+    }
+]

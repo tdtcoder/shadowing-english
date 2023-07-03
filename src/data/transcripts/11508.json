@@ -1,0 +1,205 @@
+[
+    {
+        "text": "Rapunzel was a beautiful child who grew into an even more beautiful young woman.",
+        "startTime": 2800,
+        "endTime": 7000,
+        "slowStartTime": 4400,
+        "slowEndTime": 10700
+    },
+    {
+        "text": "For a time, the witch took good care of her,...",
+        "startTime": 7850,
+        "endTime": 10350,
+        "slowStartTime": 11950,
+        "slowEndTime": 15800
+    },
+    {
+        "text": "...but when Rapunzel turned 16, she locked her in a room at the top of a tower.",
+        "startTime": 10750,
+        "endTime": 15250,
+        "slowStartTime": 16300,
+        "slowEndTime": 23100
+    },
+    {
+        "text": "When the witch wanted to speak to Rapunzel, she shouted,...",
+        "startTime": 16150,
+        "endTime": 18800,
+        "slowStartTime": 24450,
+        "slowEndTime": 28500
+    },
+    {
+        "text": "...\"Rapunzel, Rapunzel, let down your hair.\"",
+        "startTime": 19250,
+        "endTime": 22950,
+        "slowStartTime": 29100,
+        "slowEndTime": 34700
+    },
+    {
+        "text": "One day, a young prince came by the tower.",
+        "startTime": 23750,
+        "endTime": 26000,
+        "slowStartTime": 35850,
+        "slowEndTime": 39250
+    },
+    {
+        "text": "\"Come away with me,\" he said.",
+        "startTime": 26900,
+        "endTime": 28700,
+        "slowStartTime": 40500,
+        "slowEndTime": 43300
+    },
+    {
+        "text": "\"We will get married.\"",
+        "startTime": 29000,
+        "endTime": 30000,
+        "slowStartTime": 43700,
+        "slowEndTime": 45300
+    },
+    {
+        "text": "\"I would like to,\" Rapunzel said,...",
+        "startTime": 30450,
+        "endTime": 32950,
+        "slowStartTime": 45800,
+        "slowEndTime": 49500
+    },
+    {
+        "text": "...\"But, how can I get down?\"",
+        "startTime": 33050,
+        "endTime": 35350,
+        "slowStartTime": 49800,
+        "slowEndTime": 53350
+    },
+    {
+        "text": "Then she had an idea.",
+        "startTime": 35650,
+        "endTime": 37050,
+        "slowStartTime": 53600,
+        "slowEndTime": 55800
+    },
+    {
+        "text": "\"Bring me some silk every time you come,\" she said.",
+        "startTime": 37400,
+        "endTime": 40900,
+        "slowStartTime": 56300,
+        "slowEndTime": 61500
+    },
+    {
+        "text": "\"I will spin it into a rope.\"",
+        "startTime": 41150,
+        "endTime": 43200,
+        "slowStartTime": 61950,
+        "slowEndTime": 65000
+    },
+    {
+        "text": "Then one day Rapunzel, who was beautiful but not very clever, said to the witch,...",
+        "startTime": 43950,
+        "endTime": 48450,
+        "slowStartTime": 66100,
+        "slowEndTime": 72950
+    },
+    {
+        "text": "...\"Why is it that you are much heavier than the prince who comes here every day?\"",
+        "startTime": 49000,
+        "endTime": 53200,
+        "slowStartTime": 73700,
+        "slowEndTime": 80125
+    },
+    {
+        "text": "\"You wicked girl!\" the witch said.",
+        "startTime": 53950,
+        "endTime": 57250,
+        "slowStartTime": 81100,
+        "slowEndTime": 86200
+    },
+    {
+        "text": "\"I shall put a stop to that.\"",
+        "startTime": 57350,
+        "endTime": 59700,
+        "slowStartTime": 86250,
+        "slowEndTime": 89800
+    },
+    {
+        "text": "And with these words, she cut off Rapunzel's hair.",
+        "startTime": 60750,
+        "endTime": 63600,
+        "slowStartTime": 91300,
+        "slowEndTime": 95700
+    },
+    {
+        "text": "She took the girl into the desert and left her there.",
+        "startTime": 64100,
+        "endTime": 66600,
+        "slowStartTime": 96300,
+        "slowEndTime": 100200
+    },
+    {
+        "text": "Then she went back to the tower and waited for the prince.",
+        "startTime": 66900,
+        "endTime": 69650,
+        "slowStartTime": 100500,
+        "slowEndTime": 104700
+    },
+    {
+        "text": "\"You'll never find Rapunzel alive,\" the witch shouted at him.",
+        "startTime": 70500,
+        "endTime": 75200,
+        "slowStartTime": 105950,
+        "slowEndTime": 113100
+    },
+    {
+        "text": "\"She's in the desert.\"",
+        "startTime": 75350,
+        "endTime": 76900,
+        "slowStartTime": 113200,
+        "slowEndTime": 115600
+    },
+    {
+        "text": "\"By the time you find her, she'll be dead.\"",
+        "startTime": 77100,
+        "endTime": 80000,
+        "slowStartTime": 115800,
+        "slowEndTime": 120250
+    },
+    {
+        "text": "The prince, who was not badly hurt, rode away.",
+        "startTime": 80500,
+        "endTime": 83100,
+        "slowStartTime": 120950,
+        "slowEndTime": 124900
+    },
+    {
+        "text": "He looked everywhere for Rapunzel.",
+        "startTime": 83400,
+        "endTime": 85000,
+        "slowStartTime": 125300,
+        "slowEndTime": 127700
+    },
+    {
+        "text": "Then at last, many years later, he found her.",
+        "startTime": 85500,
+        "endTime": 87900,
+        "slowStartTime": 128450,
+        "slowEndTime": 132050
+    },
+    {
+        "text": "\"I am now king,\" the prince said.",
+        "startTime": 88800,
+        "endTime": 91100,
+        "slowStartTime": 133450,
+        "slowEndTime": 136900
+    },
+    {
+        "text": "\"You shall be my queen, and our two sons shall be princes.\"",
+        "startTime": 91450,
+        "endTime": 95550,
+        "slowStartTime": 137350,
+        "slowEndTime": 143600
+    },
+    {
+        "text": "He married Rapunzel and they lived happily together.",
+        "startTime": 96250,
+        "endTime": 99100,
+        "slowStartTime": 144600,
+        "slowEndTime": 148900
+    }
+]

@@ -1,0 +1,233 @@
+[
+    {
+        "text": "Oh!",
+        "startTime": 2894,
+        "endTime": 3163,
+        "slowStartTime": 4491,
+        "slowEndTime": 4970
+    },
+    {
+        "text": "It swam out.",
+        "startTime": 7047,
+        "endTime": 8099,
+        "slowStartTime": 10720,
+        "slowEndTime": 12374
+    },
+    {
+        "text": "I think you've got a fish.",
+        "startTime": 8203,
+        "endTime": 9173,
+        "slowStartTime": 12455,
+        "slowEndTime": 13984
+    },
+    {
+        "text": "Pull it up.",
+        "startTime": 11353,
+        "endTime": 11747,
+        "slowStartTime": 17180,
+        "slowEndTime": 17845
+    },
+    {
+        "text": "Hey!",
+        "startTime": 13401,
+        "endTime": 14770,
+        "slowStartTime": 20252,
+        "slowEndTime": 22380
+    },
+    {
+        "text": "That's a fishy.",
+        "startTime": 16049,
+        "endTime": 17179,
+        "slowStartTime": 24224,
+        "slowEndTime": 25993
+    },
+    {
+        "text": "Bring him in.",
+        "startTime": 17269,
+        "endTime": 17754,
+        "slowStartTime": 26053,
+        "slowEndTime": 26856
+    },
+    {
+        "text": "Hey!",
+        "startTime": 21093,
+        "endTime": 22526,
+        "slowStartTime": 31789,
+        "slowEndTime": 34014
+    },
+    {
+        "text": "I caught one!",
+        "startTime": 23346,
+        "endTime": 24581,
+        "slowStartTime": 35169,
+        "slowEndTime": 37097
+    },
+    {
+        "text": "Oh fishy.",
+        "startTime": 25943,
+        "endTime": 26798,
+        "slowStartTime": 39065,
+        "slowEndTime": 40422
+    },
+    {
+        "text": "Can we touch him?",
+        "startTime": 27697,
+        "endTime": 28566,
+        "slowStartTime": 41696,
+        "slowEndTime": 43074
+    },
+    {
+        "text": "You can touch him.",
+        "startTime": 29637,
+        "endTime": 30404,
+        "slowStartTime": 44606,
+        "slowEndTime": 45831
+    },
+    {
+        "text": "Can you touch him?",
+        "startTime": 33820,
+        "endTime": 34982,
+        "slowStartTime": 50880,
+        "slowEndTime": 52698
+    },
+    {
+        "text": "This is your first fish.",
+        "startTime": 35225,
+        "endTime": 36151,
+        "slowStartTime": 52988,
+        "slowEndTime": 54451
+    },
+    {
+        "text": "Yeah, I caught some.",
+        "startTime": 38959,
+        "endTime": 40155,
+        "slowStartTime": 58589,
+        "slowEndTime": 60457
+    },
+    {
+        "text": "What name has he?",
+        "startTime": 40974,
+        "endTime": 41833,
+        "slowStartTime": 61611,
+        "slowEndTime": 62974
+    },
+    {
+        "text": "I don't know, what do you want to name him?",
+        "startTime": 42899,
+        "endTime": 44505,
+        "slowStartTime": 64498,
+        "slowEndTime": 66982
+    },
+    {
+        "text": "Hmm, Free.",
+        "startTime": 47759,
+        "endTime": 48441,
+        "slowStartTime": 71788,
+        "slowEndTime": 72886
+    },
+    {
+        "text": "What do you wanna name him?",
+        "startTime": 49549,
+        "endTime": 50329,
+        "slowStartTime": 74473,
+        "slowEndTime": 75718
+    },
+    {
+        "text": "Free.",
+        "startTime": 50882,
+        "endTime": 51032,
+        "slowStartTime": 76473,
+        "slowEndTime": 76773
+    },
+    {
+        "text": "Free?",
+        "startTime": 51746,
+        "endTime": 51997,
+        "slowStartTime": 77769,
+        "slowEndTime": 78221
+    },
+    {
+        "text": "He's a nice fishy.",
+        "startTime": 53883,
+        "endTime": 55560,
+        "slowStartTime": 80974,
+        "slowEndTime": 83565
+    },
+    {
+        "text": "He's beautiful.",
+        "startTime": 56032,
+        "endTime": 57102,
+        "slowStartTime": 84198,
+        "slowEndTime": 85878
+    },
+    {
+        "text": "Can you touch him?",
+        "startTime": 57513,
+        "endTime": 58567,
+        "slowStartTime": 86420,
+        "slowEndTime": 88076
+    },
+    {
+        "text": "Touch him, dad.",
+        "startTime": 59218,
+        "endTime": 60147,
+        "slowStartTime": 88977,
+        "slowEndTime": 90445
+    },
+    {
+        "text": "You can touch him, I'm holding him up.",
+        "startTime": 60452,
+        "endTime": 62164,
+        "slowStartTime": 90828,
+        "slowEndTime": 93471
+    },
+    {
+        "text": "I can't, do you wanna touch him?",
+        "startTime": 63869,
+        "endTime": 66131,
+        "slowStartTime": 95953,
+        "slowEndTime": 99421
+    },
+    {
+        "text": "This is your first fish, you can pet him, give him a little touch.",
+        "startTime": 66436,
+        "endTime": 69133,
+        "slowStartTime": 99804,
+        "slowEndTime": 103925
+    },
+    {
+        "text": "But...",
+        "startTime": 71755,
+        "endTime": 72025,
+        "slowStartTime": 107783,
+        "slowEndTime": 108262
+    },
+    {
+        "text": "He likes you.",
+        "startTime": 72458,
+        "endTime": 73019,
+        "slowStartTime": 108837,
+        "slowEndTime": 109753
+    },
+    {
+        "text": "I touched him.",
+        "startTime": 75331,
+        "endTime": 76185,
+        "slowStartTime": 113147,
+        "slowEndTime": 114503
+    },
+    {
+        "text": "Okay, we're gonna put him back in the water, okay?",
+        "startTime": 77677,
+        "endTime": 79399,
+        "slowStartTime": 116666,
+        "slowEndTime": 119324
+    },
+    {
+        "text": "Okay.",
+        "startTime": 79785,
+        "endTime": 80328,
+        "slowStartTime": 119827,
+        "slowEndTime": 120717
+    }
+]

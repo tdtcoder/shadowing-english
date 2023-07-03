@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Sorry about the interruption.",
+        "startTime": 3800,
+        "endTime": 5100,
+        "slowStartTime": 5900,
+        "slowEndTime": 7800
+    },
+    {
+        "text": "That was my fiancee calling.",
+        "startTime": 5350,
+        "endTime": 6900,
+        "slowStartTime": 8200,
+        "slowEndTime": 10500
+    },
+    {
+        "text": "Your fiancee?",
+        "startTime": 7250,
+        "endTime": 8200,
+        "slowStartTime": 11075,
+        "slowEndTime": 12500
+    },
+    {
+        "text": "I would have guessed from your age, you were married already.",
+        "startTime": 8650,
+        "endTime": 11350,
+        "slowStartTime": 13200,
+        "slowEndTime": 17150
+    },
+    {
+        "text": "I was married for six years, but my wife and I separated two years ago.",
+        "startTime": 11800,
+        "endTime": 16100,
+        "slowStartTime": 18000,
+        "slowEndTime": 24250
+    },
+    {
+        "text": "So, you're not divorced yet?",
+        "startTime": 16350,
+        "endTime": 18150,
+        "slowStartTime": 24750,
+        "slowEndTime": 27450
+    },
+    {
+        "text": "No. I didn't see much use in getting a divorce until recently.",
+        "startTime": 18450,
+        "endTime": 22400,
+        "slowStartTime": 27900,
+        "slowEndTime": 33800
+    },
+    {
+        "text": "I met a wonderful woman through a dating service.",
+        "startTime": 22750,
+        "endTime": 25000,
+        "slowStartTime": 34350,
+        "slowEndTime": 37700
+    },
+    {
+        "text": "We've been dating for several months and now, I've decided to remarry.",
+        "startTime": 25350,
+        "endTime": 28700,
+        "slowStartTime": 38200,
+        "slowEndTime": 43200
+    },
+    {
+        "text": "We got engaged two weeks ago.",
+        "startTime": 29100,
+        "endTime": 30600,
+        "slowStartTime": 43850,
+        "slowEndTime": 46050
+    },
+    {
+        "text": "Congratulations!",
+        "startTime": 30950,
+        "endTime": 32550,
+        "slowStartTime": 46600,
+        "slowEndTime": 49000
+    }
+]

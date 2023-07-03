@@ -1,0 +1,72 @@
+[
+    {
+        "text": "We use \"a few\" for countable nouns and \"a little\" for uncountable nouns.",
+        "startTime": 414,
+        "endTime": 6061,
+        "slowStartTime": 771,
+        "slowEndTime": 9316
+    },
+    {
+        "text": "How many cats do you have?",
+        "startTime": 9626,
+        "endTime": 11246,
+        "slowStartTime": 14589,
+        "slowEndTime": 17094
+    },
+    {
+        "text": "I have a few cats.",
+        "startTime": 15059,
+        "endTime": 16991,
+        "slowStartTime": 22739,
+        "slowEndTime": 25711
+    },
+    {
+        "text": "There are a few dogs in my home.",
+        "startTime": 21009,
+        "endTime": 22960,
+        "slowStartTime": 31664,
+        "slowEndTime": 34665
+    },
+    {
+        "text": "She has a few apples.",
+        "startTime": 26812,
+        "endTime": 28329,
+        "slowStartTime": 40368,
+        "slowEndTime": 42718
+    },
+    {
+        "text": "I need a little water.",
+        "startTime": 31959,
+        "endTime": 33705,
+        "slowStartTime": 48089,
+        "slowEndTime": 50783
+    },
+    {
+        "text": "Just add a little salt.",
+        "startTime": 37423,
+        "endTime": 39603,
+        "slowStartTime": 56285,
+        "slowEndTime": 59629
+    },
+    {
+        "text": "How much sugar do you take in your coffee?",
+        "startTime": 43212,
+        "endTime": 45886,
+        "slowStartTime": 64968,
+        "slowEndTime": 69054
+    },
+    {
+        "text": "Stop! That's too much.",
+        "startTime": 49356,
+        "endTime": 51473,
+        "slowStartTime": 74184,
+        "slowEndTime": 77434
+    },
+    {
+        "text": "I only want a little.",
+        "startTime": 55213,
+        "endTime": 56773,
+        "slowStartTime": 82970,
+        "slowEndTime": 85385
+    }
+]

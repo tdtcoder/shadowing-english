@@ -1,0 +1,65 @@
+[
+    {
+        "text": "﻿Here's your duck.",
+        "startTime": 7503,
+        "endTime": 8513,
+        "slowStartTime": 11404,
+        "slowEndTime": 12995
+    },
+    {
+        "text": "Look, here's your duck.",
+        "startTime": 9803,
+        "endTime": 11004,
+        "slowStartTime": 14854,
+        "slowEndTime": 16731
+    },
+    {
+        "text": "Are you collecting letters?",
+        "startTime": 12619,
+        "endTime": 14117,
+        "slowStartTime": 19078,
+        "slowEndTime": 21400
+    },
+    {
+        "text": "Clever boy.",
+        "startTime": 14402,
+        "endTime": 15447,
+        "slowStartTime": 21753,
+        "slowEndTime": 23395
+    },
+    {
+        "text": "Bounce, bounce, bounce.",
+        "startTime": 18749,
+        "endTime": 20825,
+        "slowStartTime": 28273,
+        "slowEndTime": 31462
+    },
+    {
+        "text": "What a big splash!",
+        "startTime": 25771,
+        "endTime": 27642,
+        "slowStartTime": 38807,
+        "slowEndTime": 41688
+    },
+    {
+        "text": "Alright, come here buddy.",
+        "startTime": 28325,
+        "endTime": 29760,
+        "slowStartTime": 42638,
+        "slowEndTime": 44865
+    },
+    {
+        "text": "Let's get you dried off.",
+        "startTime": 29865,
+        "endTime": 30839,
+        "slowStartTime": 44947,
+        "slowEndTime": 46484
+    },
+    {
+        "text": "You like splashing, don't you?",
+        "startTime": 33651,
+        "endTime": 36139,
+        "slowStartTime": 50626,
+        "slowEndTime": 54434
+    }
+]

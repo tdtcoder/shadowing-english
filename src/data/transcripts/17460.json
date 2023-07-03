@@ -1,0 +1,114 @@
+[
+    {
+        "text": "This is a cherry.",
+        "startTime": 2975,
+        "endTime": 4629,
+        "slowStartTime": 4613,
+        "slowEndTime": 7169
+    },
+    {
+        "text": "This is a pear.",
+        "startTime": 5759,
+        "endTime": 7201,
+        "slowStartTime": 8788,
+        "slowEndTime": 11026
+    },
+    {
+        "text": "This is a banana.",
+        "startTime": 8295,
+        "endTime": 9933,
+        "slowStartTime": 12593,
+        "slowEndTime": 15124
+    },
+    {
+        "text": "This is a tomato.",
+        "startTime": 11015,
+        "endTime": 12695,
+        "slowStartTime": 16672,
+        "slowEndTime": 19268
+    },
+    {
+        "text": "This is an apple.",
+        "startTime": 13793,
+        "endTime": 15466,
+        "slowStartTime": 20840,
+        "slowEndTime": 23424
+    },
+    {
+        "text": "This is an orange.",
+        "startTime": 16545,
+        "endTime": 18330,
+        "slowStartTime": 24968,
+        "slowEndTime": 27720
+    },
+    {
+        "text": "This is a lemon.",
+        "startTime": 19365,
+        "endTime": 21059,
+        "slowStartTime": 29197,
+        "slowEndTime": 31813
+    },
+    {
+        "text": "This is fruit.",
+        "startTime": 22126,
+        "endTime": 23631,
+        "slowStartTime": 33339,
+        "slowEndTime": 35672
+    },
+    {
+        "text": "What is this?",
+        "startTime": 27047,
+        "endTime": 28219,
+        "slowStartTime": 40720,
+        "slowEndTime": 42553
+    },
+    {
+        "text": "It is an apple.",
+        "startTime": 29354,
+        "endTime": 30630,
+        "slowStartTime": 44181,
+        "slowEndTime": 46170
+    },
+    {
+        "text": "Is this a lemon?",
+        "startTime": 31784,
+        "endTime": 33057,
+        "slowStartTime": 47826,
+        "slowEndTime": 49810
+    },
+    {
+        "text": "No, it is not.",
+        "startTime": 34191,
+        "endTime": 35491,
+        "slowStartTime": 51436,
+        "slowEndTime": 53461
+    },
+    {
+        "text": "It is an orange.",
+        "startTime": 35904,
+        "endTime": 37097,
+        "slowStartTime": 54006,
+        "slowEndTime": 55871
+    },
+    {
+        "text": "This is a pear, isn't it?",
+        "startTime": 38272,
+        "endTime": 40027,
+        "slowStartTime": 57558,
+        "slowEndTime": 60266
+    },
+    {
+        "text": "Yes, it is.",
+        "startTime": 41092,
+        "endTime": 42166,
+        "slowStartTime": 61788,
+        "slowEndTime": 63474
+    },
+    {
+        "text": "It is a pear.",
+        "startTime": 42538,
+        "endTime": 43708,
+        "slowStartTime": 63957,
+        "slowEndTime": 65787
+    }
+]

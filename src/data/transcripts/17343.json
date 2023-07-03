@@ -1,0 +1,100 @@
+[
+    {
+        "text": "The dogs go in.",
+        "startTime": 3023,
+        "endTime": 4917,
+        "slowStartTime": 4685,
+        "slowEndTime": 7600
+    },
+    {
+        "text": "The dogs go out.",
+        "startTime": 6009,
+        "endTime": 7965,
+        "slowStartTime": 9163,
+        "slowEndTime": 12173
+    },
+    {
+        "text": "The cats go in.",
+        "startTime": 9066,
+        "endTime": 11068,
+        "slowStartTime": 13749,
+        "slowEndTime": 16827
+    },
+    {
+        "text": "The cats go out.",
+        "startTime": 12128,
+        "endTime": 14029,
+        "slowStartTime": 18342,
+        "slowEndTime": 21268
+    },
+    {
+        "text": "The cows go in.",
+        "startTime": 15049,
+        "endTime": 17084,
+        "slowStartTime": 22723,
+        "slowEndTime": 25851
+    },
+    {
+        "text": "The cows go out.",
+        "startTime": 18127,
+        "endTime": 19954,
+        "slowStartTime": 27341,
+        "slowEndTime": 30156
+    },
+    {
+        "text": "The pigs go in.",
+        "startTime": 21002,
+        "endTime": 22947,
+        "slowStartTime": 31653,
+        "slowEndTime": 34645
+    },
+    {
+        "text": "Oh boy, mud.",
+        "startTime": 24005,
+        "endTime": 25843,
+        "slowStartTime": 36157,
+        "slowEndTime": 38989
+    },
+    {
+        "text": "Where does the pig go?",
+        "startTime": 30058,
+        "endTime": 31808,
+        "slowStartTime": 45237,
+        "slowEndTime": 47937
+    },
+    {
+        "text": "It goes into the mud.",
+        "startTime": 32884,
+        "endTime": 34733,
+        "slowStartTime": 49476,
+        "slowEndTime": 52324
+    },
+    {
+        "text": "Where do the cows go?",
+        "startTime": 35785,
+        "endTime": 37534,
+        "slowStartTime": 53827,
+        "slowEndTime": 56526
+    },
+    {
+        "text": "They go out of the pool.",
+        "startTime": 38596,
+        "endTime": 40673,
+        "slowStartTime": 58044,
+        "slowEndTime": 61235
+    },
+    {
+        "text": "Does the dog go into the barn?",
+        "startTime": 41757,
+        "endTime": 44294,
+        "slowStartTime": 62785,
+        "slowEndTime": 66666
+    },
+    {
+        "text": "No, it goes out of the barn.",
+        "startTime": 45410,
+        "endTime": 48023,
+        "slowStartTime": 68265,
+        "slowEndTime": 72260
+    }
+]

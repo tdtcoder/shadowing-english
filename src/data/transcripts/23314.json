@@ -1,0 +1,51 @@
+[
+    {
+        "text": "﻿Wow, that's beautiful!",
+        "startTime": 255,
+        "endTime": 2131,
+        "slowStartTime": 533,
+        "slowEndTime": 3421
+    },
+    {
+        "text": "I gotta take a picture.",
+        "startTime": 2215,
+        "endTime": 3241,
+        "slowStartTime": 3472,
+        "slowEndTime": 5086
+    },
+    {
+        "text": "Yeah, me too.",
+        "startTime": 4373,
+        "endTime": 5137,
+        "slowStartTime": 6710,
+        "slowEndTime": 7930
+    },
+    {
+        "text": "Got it.",
+        "startTime": 9201,
+        "endTime": 9497,
+        "slowStartTime": 13951,
+        "slowEndTime": 14471
+    },
+    {
+        "text": "I can send it to you.",
+        "startTime": 9873,
+        "endTime": 10441,
+        "slowStartTime": 14960,
+        "slowEndTime": 15887
+    },
+    {
+        "text": "Actually, I'm gonna take one too because the flash usually leaves hard shadows.",
+        "startTime": 11129,
+        "endTime": 15839,
+        "slowStartTime": 16844,
+        "slowEndTime": 23983
+    },
+    {
+        "text": "Perfect.",
+        "startTime": 27429,
+        "endTime": 28071,
+        "slowStartTime": 41294,
+        "slowEndTime": 42332
+    }
+]

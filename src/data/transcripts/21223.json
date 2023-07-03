@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Can I help you?",
+        "startTime": 1949,
+        "endTime": 2534,
+        "slowStartTime": 3074,
+        "slowEndTime": 4026
+    },
+    {
+        "text": "Excuse me, hi.",
+        "startTime": 3404,
+        "endTime": 4066,
+        "slowStartTime": 5256,
+        "slowEndTime": 6324
+    },
+    {
+        "text": "I wanted to find out about the unlimited for life guarantee.",
+        "startTime": 4660,
+        "endTime": 7719,
+        "slowStartTime": 7140,
+        "slowEndTime": 11803
+    },
+    {
+        "text": "Sure, Sprint is guaranteeing unlimited talk, text and data for life.",
+        "startTime": 7799,
+        "endTime": 11135,
+        "slowStartTime": 11848,
+        "slowEndTime": 16928
+    },
+    {
+        "text": "Cool, cool, cool, cool.",
+        "startTime": 11216,
+        "endTime": 11935,
+        "slowStartTime": 16974,
+        "slowEndTime": 18128
+    },
+    {
+        "text": "And what if, say, technically, you were not alive?",
+        "startTime": 12159,
+        "endTime": 15019,
+        "slowStartTime": 18388,
+        "slowEndTime": 22753
+    },
+    {
+        "text": "Like maybe you were undead?",
+        "startTime": 15139,
+        "endTime": 17223,
+        "slowStartTime": 22858,
+        "slowEndTime": 26059
+    },
+    {
+        "text": "Like a zombie.",
+        "startTime": 17365,
+        "endTime": 18149,
+        "slowStartTime": 26198,
+        "slowEndTime": 27449
+    },
+    {
+        "text": "Whoa.",
+        "startTime": 18251,
+        "endTime": 18933,
+        "slowStartTime": 27527,
+        "slowEndTime": 28625
+    },
+    {
+        "text": "Let's not go putting labels on people.",
+        "startTime": 19027,
+        "endTime": 20822,
+        "slowStartTime": 28690,
+        "slowEndTime": 31458
+    },
+    {
+        "text": "I'm a zombie.",
+        "startTime": 23714,
+        "endTime": 24351,
+        "slowStartTime": 35721,
+        "slowEndTime": 36751
+    },
+    {
+        "text": "Unlimited from Sprint.",
+        "startTime": 24998,
+        "endTime": 26110,
+        "slowStartTime": 37647,
+        "slowEndTime": 39390
+    },
+    {
+        "text": "It's guaranteed for life.",
+        "startTime": 26187,
+        "endTime": 27400,
+        "slowStartTime": 39431,
+        "slowEndTime": 41325
+    },
+    {
+        "text": "Now for only 80 dollars a month.",
+        "startTime": 27565,
+        "endTime": 29397,
+        "slowStartTime": 41497,
+        "slowEndTime": 44321
+    }
+]

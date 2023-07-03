@@ -1,0 +1,247 @@
+[
+    {
+        "text": "We surveyed experts across the country on what they plan on doing post-vaccination.",
+        "startTime": 202,
+        "endTime": 5144,
+        "slowStartTime": 453,
+        "slowEndTime": 7941
+    },
+    {
+        "text": "On travel, the answers were mixed.",
+        "startTime": 5561,
+        "endTime": 7687,
+        "slowStartTime": 8491,
+        "slowEndTime": 11755
+    },
+    {
+        "text": "Will you get on an airplane?",
+        "startTime": 8095,
+        "endTime": 9175,
+        "slowStartTime": 12292,
+        "slowEndTime": 13987
+    },
+    {
+        "text": "Not immediately.",
+        "startTime": 9446,
+        "endTime": 10233,
+        "slowStartTime": 14319,
+        "slowEndTime": 15575
+    },
+    {
+        "text": "Yes, I will.",
+        "startTime": 10762,
+        "endTime": 11721,
+        "slowStartTime": 16293,
+        "slowEndTime": 17807
+    },
+    {
+        "text": "Now that I've been vaccinated,...",
+        "startTime": 11830,
+        "endTime": 13201,
+        "slowStartTime": 17895,
+        "slowEndTime": 20026
+    },
+    {
+        "text": "...if I had to travel either for a family emergency or for work, I would.",
+        "startTime": 13296,
+        "endTime": 16845,
+        "slowStartTime": 20094,
+        "slowEndTime": 25493
+    },
+    {
+        "text": "I would not travel for pleasure at least yet.",
+        "startTime": 16991,
+        "endTime": 19293,
+        "slowStartTime": 25637,
+        "slowEndTime": 29165
+    },
+    {
+        "text": "The same for heading to a restaurant.",
+        "startTime": 19597,
+        "endTime": 21579,
+        "slowStartTime": 29545,
+        "slowEndTime": 32593
+    },
+    {
+        "text": "Will you eat indoors?",
+        "startTime": 21733,
+        "endTime": 22874,
+        "slowStartTime": 32749,
+        "slowEndTime": 34536
+    },
+    {
+        "text": "Yes, I would eat indoors because I'm still protected.",
+        "startTime": 23061,
+        "endTime": 25447,
+        "slowStartTime": 34741,
+        "slowEndTime": 38395
+    },
+    {
+        "text": "And then I would mask to protect others during ordering.",
+        "startTime": 25545,
+        "endTime": 27753,
+        "slowStartTime": 38467,
+        "slowEndTime": 41855
+    },
+    {
+        "text": "I do not plan to dine indoors until community rates are lower.",
+        "startTime": 28125,
+        "endTime": 31968,
+        "slowStartTime": 42338,
+        "slowEndTime": 48177
+    },
+    {
+        "text": "Their hesitation?",
+        "startTime": 32243,
+        "endTime": 33461,
+        "slowStartTime": 48515,
+        "slowEndTime": 50416
+    },
+    {
+        "text": "While your chance of getting sick when vaccinated is very low, you could still carry it.",
+        "startTime": 33574,
+        "endTime": 38495,
+        "slowStartTime": 50511,
+        "slowEndTime": 57968
+    },
+    {
+        "text": "While they all say they would avoid mass gathering indoors...",
+        "startTime": 38685,
+        "endTime": 42045,
+        "slowStartTime": 58177,
+        "slowEndTime": 63293
+    },
+    {
+        "text": "...like concerts and sporting events, they're split on small groups indoors.",
+        "startTime": 42283,
+        "endTime": 46542,
+        "slowStartTime": 63574,
+        "slowEndTime": 70038
+    },
+    {
+        "text": "Would you gather with friends inside?",
+        "startTime": 46701,
+        "endTime": 48443,
+        "slowStartTime": 70201,
+        "slowEndTime": 72889
+    },
+    {
+        "text": "I would gather only with vaccinated friends inside and have a dinner party.",
+        "startTime": 48773,
+        "endTime": 52703,
+        "slowStartTime": 73310,
+        "slowEndTime": 79279
+    },
+    {
+        "text": "No, I would be happy to continue hosting my backyard for small get-togethers.",
+        "startTime": 52938,
+        "endTime": 58095,
+        "slowStartTime": 79557,
+        "slowEndTime": 87368
+    },
+    {
+        "text": "Even returning to the gym, some more cautious than others.",
+        "startTime": 58313,
+        "endTime": 61950,
+        "slowStartTime": 87619,
+        "slowEndTime": 93150
+    },
+    {
+        "text": "Would you go to the gym?",
+        "startTime": 62175,
+        "endTime": 63149,
+        "slowStartTime": 93412,
+        "slowEndTime": 94948
+    },
+    {
+        "text": "I would go to the gym indoors.",
+        "startTime": 63542,
+        "endTime": 65469,
+        "slowStartTime": 95463,
+        "slowEndTime": 98428
+    },
+    {
+        "text": "In a few months.",
+        "startTime": 65790,
+        "endTime": 66579,
+        "slowStartTime": 98835,
+        "slowEndTime": 100093
+    },
+    {
+        "text": "If it were partially open with social distancing...",
+        "startTime": 67062,
+        "endTime": 70069,
+        "slowStartTime": 100743,
+        "slowEndTime": 105328
+    },
+    {
+        "text": "...and masking and good disinfection, probably.",
+        "startTime": 70169,
+        "endTime": 73556,
+        "slowStartTime": 105404,
+        "slowEndTime": 110559
+    },
+    {
+        "text": "Something many are looking forward to: a haircut while masked.",
+        "startTime": 73795,
+        "endTime": 78039,
+        "slowStartTime": 110843,
+        "slowEndTime": 117284
+    },
+    {
+        "text": "I would love to get a haircut.",
+        "startTime": 78209,
+        "endTime": 79513,
+        "slowStartTime": 117463,
+        "slowEndTime": 119494
+    },
+    {
+        "text": "If you look at this, this hair was cut by my 11-year-old daughter.",
+        "startTime": 79623,
+        "endTime": 83710,
+        "slowStartTime": 119585,
+        "slowEndTime": 125790
+    },
+    {
+        "text": "And one thing they all agree on:",
+        "startTime": 84046,
+        "endTime": 86086,
+        "slowStartTime": 126219,
+        "slowEndTime": 129354
+    },
+    {
+        "text": "Will you stop wearing a mask?",
+        "startTime": 86345,
+        "endTime": 87746,
+        "slowStartTime": 129668,
+        "slowEndTime": 131844
+    },
+    {
+        "text": "No.",
+        "startTime": 88417,
+        "endTime": 88693,
+        "slowStartTime": 132776,
+        "slowEndTime": 133264
+    },
+    {
+        "text": "No.",
+        "startTime": 89262,
+        "endTime": 89609,
+        "slowStartTime": 134043,
+        "slowEndTime": 134639
+    },
+    {
+        "text": "Absolutely not.",
+        "startTime": 90104,
+        "endTime": 90688,
+        "slowStartTime": 135306,
+        "slowEndTime": 136257
+    },
+    {
+        "text": "I would not stop wearing a mask.",
+        "startTime": 90818,
+        "endTime": 92133,
+        "slowStartTime": 136377,
+        "slowEndTime": 138425
+    }
+]

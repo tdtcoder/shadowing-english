@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Hello, My name is Jacob Smith.",
+        "startTime": 62,
+        "endTime": 2365,
+        "slowStartTime": 243,
+        "slowEndTime": 3772
+    },
+    {
+        "text": "I am a teacher.",
+        "startTime": 2773,
+        "endTime": 3585,
+        "slowStartTime": 4309,
+        "slowEndTime": 5603
+    },
+    {
+        "text": "Nice to meet you.",
+        "startTime": 4028,
+        "endTime": 5211,
+        "slowStartTime": 6192,
+        "slowEndTime": 8041
+    },
+    {
+        "text": "Good morning. I am Ralph Martin.",
+        "startTime": 6176,
+        "endTime": 7989,
+        "slowStartTime": 9414,
+        "slowEndTime": 12208
+    },
+    {
+        "text": "I work as a doctor.",
+        "startTime": 8638,
+        "endTime": 9644,
+        "slowStartTime": 13107,
+        "slowEndTime": 14691
+    },
+    {
+        "text": "Good to meet you.",
+        "startTime": 10121,
+        "endTime": 10927,
+        "slowStartTime": 15332,
+        "slowEndTime": 16616
+    },
+    {
+        "text": "Hi, I'm Luis Cruz.",
+        "startTime": 12157,
+        "endTime": 14161,
+        "slowStartTime": 18385,
+        "slowEndTime": 21466
+    },
+    {
+        "text": "I am a restaurant owner.",
+        "startTime": 14783,
+        "endTime": 15912,
+        "slowStartTime": 22324,
+        "slowEndTime": 24093
+    },
+    {
+        "text": "It's a pleasure to meet you.",
+        "startTime": 16443,
+        "endTime": 18158,
+        "slowStartTime": 24814,
+        "slowEndTime": 27462
+    }
+]

@@ -1,0 +1,261 @@
+[
+    {
+        "text": "Hi, how are you?",
+        "startTime": 5631,
+        "endTime": 6336,
+        "slowStartTime": 8597,
+        "slowEndTime": 9729
+    },
+    {
+        "text": "Very good, and yourself?",
+        "startTime": 6599,
+        "endTime": 7790,
+        "slowStartTime": 10048,
+        "slowEndTime": 11910
+    },
+    {
+        "text": "I'm great, thanks.",
+        "startTime": 8103,
+        "endTime": 8979,
+        "slowStartTime": 12304,
+        "slowEndTime": 13694
+    },
+    {
+        "text": "Hi, how are you?",
+        "startTime": 9471,
+        "endTime": 10109,
+        "slowStartTime": 14357,
+        "slowEndTime": 15389
+    },
+    {
+        "text": "Hi, I'm fine, thank you.",
+        "startTime": 10249,
+        "endTime": 11607,
+        "slowStartTime": 15523,
+        "slowEndTime": 17635
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 12189,
+        "endTime": 12826,
+        "slowStartTime": 18433,
+        "slowEndTime": 19464
+    },
+    {
+        "text": "I'm Anna Sarah.",
+        "startTime": 13123,
+        "endTime": 14141,
+        "slowStartTime": 19834,
+        "slowEndTime": 21436
+    },
+    {
+        "text": "How's that spelled?",
+        "startTime": 14515,
+        "endTime": 15306,
+        "slowStartTime": 21923,
+        "slowEndTime": 23184
+    },
+    {
+        "text": "A - N - N - A S - A - R - A - H",
+        "startTime": 15655,
+        "endTime": 19042,
+        "slowStartTime": 23633,
+        "slowEndTime": 28788
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 19755,
+        "endTime": 20744,
+        "slowStartTime": 29782,
+        "slowEndTime": 31341
+    },
+    {
+        "text": "Shelli.",
+        "startTime": 21097,
+        "endTime": 21659,
+        "slowStartTime": 31795,
+        "slowEndTime": 32714
+    },
+    {
+        "text": "How's that spelled?",
+        "startTime": 22337,
+        "endTime": 23324,
+        "slowStartTime": 33656,
+        "slowEndTime": 35211
+    },
+    {
+        "text": "S - H - E - L - L - I",
+        "startTime": 23635,
+        "endTime": 26217,
+        "slowStartTime": 35603,
+        "slowEndTime": 39550
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 26935,
+        "endTime": 27683,
+        "slowStartTime": 40552,
+        "slowEndTime": 41749
+    },
+    {
+        "text": "My name is Joe.",
+        "startTime": 28046,
+        "endTime": 28801,
+        "slowStartTime": 42219,
+        "slowEndTime": 43426
+    },
+    {
+        "text": "How is that spelled?",
+        "startTime": 29377,
+        "endTime": 30255,
+        "slowStartTime": 44215,
+        "slowEndTime": 45608
+    },
+    {
+        "text": "J - O - E",
+        "startTime": 30836,
+        "endTime": 32148,
+        "slowStartTime": 46404,
+        "slowEndTime": 48447
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 33303,
+        "endTime": 34204,
+        "slowStartTime": 50104,
+        "slowEndTime": 51531
+    },
+    {
+        "text": "My name is Beth.",
+        "startTime": 34472,
+        "endTime": 35407,
+        "slowStartTime": 51858,
+        "slowEndTime": 53335
+    },
+    {
+        "text": "How is that spelled?",
+        "startTime": 36111,
+        "endTime": 36865,
+        "slowStartTime": 54316,
+        "slowEndTime": 55523
+    },
+    {
+        "text": "B - E - T - H",
+        "startTime": 37231,
+        "endTime": 38795,
+        "slowStartTime": 55996,
+        "slowEndTime": 58417
+    },
+    {
+        "text": "Where are you from?",
+        "startTime": 45503,
+        "endTime": 46177,
+        "slowStartTime": 68404,
+        "slowEndTime": 69490
+    },
+    {
+        "text": "Columbus, Ohio.",
+        "startTime": 46537,
+        "endTime": 47535,
+        "slowStartTime": 69955,
+        "slowEndTime": 71528
+    },
+    {
+        "text": "Where are you from?",
+        "startTime": 48889,
+        "endTime": 49854,
+        "slowStartTime": 73484,
+        "slowEndTime": 75006
+    },
+    {
+        "text": "I was born on the East Coast outside of Washington DC,...",
+        "startTime": 50227,
+        "endTime": 53526,
+        "slowStartTime": 75491,
+        "slowEndTime": 80514
+    },
+    {
+        "text": "...but now I live in Santa Monica.",
+        "startTime": 53629,
+        "endTime": 55069,
+        "slowStartTime": 80594,
+        "slowEndTime": 82828
+    },
+    {
+        "text": "Are you a student?",
+        "startTime": 62590,
+        "endTime": 63377,
+        "slowStartTime": 94035,
+        "slowEndTime": 95290
+    },
+    {
+        "text": "I'm a student and a teacher.",
+        "startTime": 63930,
+        "endTime": 65281,
+        "slowStartTime": 96045,
+        "slowEndTime": 98147
+    },
+    {
+        "text": "What's your teaching job?",
+        "startTime": 66999,
+        "endTime": 68015,
+        "slowStartTime": 100649,
+        "slowEndTime": 102248
+    },
+    {
+        "text": "Third grade.",
+        "startTime": 68789,
+        "endTime": 69599,
+        "slowStartTime": 103333,
+        "slowEndTime": 104623
+    },
+    {
+        "text": "So, I'm forever a student.",
+        "startTime": 70125,
+        "endTime": 71896,
+        "slowStartTime": 105338,
+        "slowEndTime": 108069
+    },
+    {
+        "text": "What's your job or occupation?",
+        "startTime": 74071,
+        "endTime": 75522,
+        "slowStartTime": 111256,
+        "slowEndTime": 113508
+    },
+    {
+        "text": "I'm a graphic designer.",
+        "startTime": 75853,
+        "endTime": 77038,
+        "slowStartTime": 113930,
+        "slowEndTime": 115782
+    },
+    {
+        "text": "What's your job or occupation?",
+        "startTime": 79010,
+        "endTime": 80385,
+        "slowStartTime": 118665,
+        "slowEndTime": 120802
+    },
+    {
+        "text": "I'm a chef.",
+        "startTime": 80705,
+        "endTime": 81307,
+        "slowStartTime": 121208,
+        "slowEndTime": 122186
+    },
+    {
+        "text": "What's your job?",
+        "startTime": 84139,
+        "endTime": 84933,
+        "slowStartTime": 126358,
+        "slowEndTime": 127624
+    },
+    {
+        "text": "My job is a computer engineer.",
+        "startTime": 85469,
+        "endTime": 87505,
+        "slowStartTime": 128354,
+        "slowEndTime": 131482
+    }
+]

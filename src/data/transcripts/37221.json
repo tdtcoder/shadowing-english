@@ -1,0 +1,198 @@
+[
+    {
+        "text": "I'll keep this one simple.",
+        "startTime": 1015,
+        "endTime": 2158,
+        "slowStartTime": 1672,
+        "slowEndTime": 3462
+    },
+    {
+        "text": "There is a correct way to sign off an email.",
+        "startTime": 3224,
+        "endTime": 6649,
+        "slowStartTime": 4986,
+        "slowEndTime": 10198
+    },
+    {
+        "text": "It is \"Best wishes.\"",
+        "startTime": 7574,
+        "endTime": 10312,
+        "slowStartTime": 11511,
+        "slowEndTime": 15693
+    },
+    {
+        "text": "\"Best\" and \"All the best\" are also acceptable.",
+        "startTime": 11568,
+        "endTime": 14807,
+        "slowStartTime": 17502,
+        "slowEndTime": 22436
+    },
+    {
+        "text": "Anything else?",
+        "startTime": 15297,
+        "endTime": 15971,
+        "slowStartTime": 23095,
+        "slowEndTime": 24181
+    },
+    {
+        "text": "Sorry, no.",
+        "startTime": 16717,
+        "endTime": 17895,
+        "slowStartTime": 25225,
+        "slowEndTime": 27068
+    },
+    {
+        "text": "\"Yours sincerely\"?",
+        "startTime": 19015,
+        "endTime": 20047,
+        "slowStartTime": 28672,
+        "slowEndTime": 30295
+    },
+    {
+        "text": "Too formal.",
+        "startTime": 20756,
+        "endTime": 21547,
+        "slowStartTime": 31284,
+        "slowEndTime": 32545
+    },
+    {
+        "text": "\"Yours\"?",
+        "startTime": 22497,
+        "endTime": 23002,
+        "slowStartTime": 33895,
+        "slowEndTime": 34728
+    },
+    {
+        "text": "Too intimate.",
+        "startTime": 23818,
+        "endTime": 24978,
+        "slowStartTime": 35877,
+        "slowEndTime": 37692
+    },
+    {
+        "text": "\"Cheers\"?",
+        "startTime": 26137,
+        "endTime": 26807,
+        "slowStartTime": 39356,
+        "slowEndTime": 40436
+    },
+    {
+        "text": "Okay for friends, but too casual for a professional context.",
+        "startTime": 27563,
+        "endTime": 30920,
+        "slowStartTime": 41494,
+        "slowEndTime": 46605
+    },
+    {
+        "text": "\"BW\"?",
+        "startTime": 31834,
+        "endTime": 32902,
+        "slowStartTime": 47901,
+        "slowEndTime": 49578
+    },
+    {
+        "text": "Tacky.",
+        "startTime": 33099,
+        "endTime": 33857,
+        "slowStartTime": 49799,
+        "slowEndTime": 51011
+    },
+    {
+        "text": "\"Kind regards\"?",
+        "startTime": 34536,
+        "endTime": 35595,
+        "slowStartTime": 51954,
+        "slowEndTime": 53618
+    },
+    {
+        "text": "Just a bit pompous.",
+        "startTime": 35988,
+        "endTime": 37450,
+        "slowStartTime": 54132,
+        "slowEndTime": 56400
+    },
+    {
+        "text": "Those are all terrible,...",
+        "startTime": 38965,
+        "endTime": 40319,
+        "slowStartTime": 58598,
+        "slowEndTime": 60704
+    },
+    {
+        "text": "...but my absolute least favorite email sign-off is \"Thanks in advance.\"",
+        "startTime": 40847,
+        "endTime": 47709,
+        "slowStartTime": 61420,
+        "slowEndTime": 71788
+    },
+    {
+        "text": "What's wrong with \"Thanks in advance\"?",
+        "startTime": 50797,
+        "endTime": 52659,
+        "slowStartTime": 76346,
+        "slowEndTime": 79214
+    },
+    {
+        "text": "It's incredibly presumptive,...",
+        "startTime": 53771,
+        "endTime": 56153,
+        "slowStartTime": 80807,
+        "slowEndTime": 84455
+    },
+    {
+        "text": "...you can't thank someone for doing something before they've agreed to do it.",
+        "startTime": 56375,
+        "endTime": 60406,
+        "slowStartTime": 84713,
+        "slowEndTime": 90834
+    },
+    {
+        "text": "That's not how gratitude works.",
+        "startTime": 60763,
+        "endTime": 62819,
+        "slowStartTime": 91295,
+        "slowEndTime": 94454
+    },
+    {
+        "text": "When you say \"Thanks in advance\" in an email,...",
+        "startTime": 63985,
+        "endTime": 66101,
+        "slowStartTime": 96128,
+        "slowEndTime": 99376
+    },
+    {
+        "text": "...you're basically saying, \"Hey, by the way, you have no choice whether to do this or not.\"",
+        "startTime": 66171,
+        "endTime": 70077,
+        "slowStartTime": 99406,
+        "slowEndTime": 105340
+    },
+    {
+        "text": "So, stick to \"Best\" or \"Best wishes,\" and you can't go wrong.",
+        "startTime": 72918,
+        "endTime": 77113,
+        "slowStartTime": 109527,
+        "slowEndTime": 115894
+    },
+    {
+        "text": "And you do need to write that out every time.",
+        "startTime": 77199,
+        "endTime": 79199,
+        "slowStartTime": 115948,
+        "slowEndTime": 119023
+    },
+    {
+        "text": "Relying on your automated signature to do it for you is the height of laziness.",
+        "startTime": 79704,
+        "endTime": 84438,
+        "slowStartTime": 119706,
+        "slowEndTime": 126882
+    },
+    {
+        "text": "Plus, it won't show up in some email clients.",
+        "startTime": 84847,
+        "endTime": 87786,
+        "slowStartTime": 127421,
+        "slowEndTime": 131904
+    }
+]

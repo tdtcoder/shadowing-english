@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Hi.",
+        "startTime": 787,
+        "endTime": 1192,
+        "slowStartTime": 1330,
+        "slowEndTime": 2013
+    },
+    {
+        "text": "My name is Steve.",
+        "startTime": 1657,
+        "endTime": 2593,
+        "slowStartTime": 2636,
+        "slowEndTime": 4114
+    },
+    {
+        "text": "This is my wife Susan.",
+        "startTime": 4398,
+        "endTime": 5687,
+        "slowStartTime": 6747,
+        "slowEndTime": 8756
+    },
+    {
+        "text": "We have 2 kids.",
+        "startTime": 7613,
+        "endTime": 8753,
+        "slowStartTime": 11570,
+        "slowEndTime": 13355
+    },
+    {
+        "text": "This is Mary.",
+        "startTime": 9234,
+        "endTime": 9847,
+        "slowStartTime": 14001,
+        "slowEndTime": 14995
+    },
+    {
+        "text": "She is 7.",
+        "startTime": 9960,
+        "endTime": 10631,
+        "slowStartTime": 15090,
+        "slowEndTime": 16171
+    },
+    {
+        "text": "This is our boy Zack.",
+        "startTime": 13398,
+        "endTime": 14692,
+        "slowStartTime": 20247,
+        "slowEndTime": 22263
+    },
+    {
+        "text": "He is 9.",
+        "startTime": 15139,
+        "endTime": 15878,
+        "slowStartTime": 22859,
+        "slowEndTime": 24042
+    },
+    {
+        "text": "We live in Chicago, USA.",
+        "startTime": 19144,
+        "endTime": 20775,
+        "slowStartTime": 28866,
+        "slowEndTime": 31388
+    },
+    {
+        "text": "We have a dog.",
+        "startTime": 23616,
+        "endTime": 24531,
+        "slowStartTime": 35574,
+        "slowEndTime": 37022
+    },
+    {
+        "text": "Its name is Chico.",
+        "startTime": 25072,
+        "endTime": 26080,
+        "slowStartTime": 37758,
+        "slowEndTime": 39345
+    },
+    {
+        "text": "We live at 38 King Street.",
+        "startTime": 30313,
+        "endTime": 32029,
+        "slowStartTime": 45619,
+        "slowEndTime": 48268
+    },
+    {
+        "text": "Apartment number 12.",
+        "startTime": 32317,
+        "endTime": 33548,
+        "slowStartTime": 48626,
+        "slowEndTime": 50547
+    },
+    {
+        "text": "On weekends, I make breakfast for the family.",
+        "startTime": 36762,
+        "endTime": 39280,
+        "slowStartTime": 55293,
+        "slowEndTime": 59145
+    },
+    {
+        "text": "After breakfast, we take a drive.",
+        "startTime": 42133,
+        "endTime": 44543,
+        "slowStartTime": 63349,
+        "slowEndTime": 67039
+    },
+    {
+        "text": "We usually stop and buy ice cream.",
+        "startTime": 49809,
+        "endTime": 51789,
+        "slowStartTime": 74864,
+        "slowEndTime": 77909
+    },
+    {
+        "text": "We have a good life.",
+        "startTime": 54845,
+        "endTime": 56355,
+        "slowStartTime": 82417,
+        "slowEndTime": 84758
+    }
+]

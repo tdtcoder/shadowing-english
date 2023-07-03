@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Sweetie, I'm home!",
+        "startTime": 3200,
+        "endTime": 5337,
+        "slowStartTime": 4950,
+        "slowEndTime": 8231
+    },
+    {
+        "text": "Hello?",
+        "startTime": 10930,
+        "endTime": 11566,
+        "slowStartTime": 16545,
+        "slowEndTime": 17574
+    },
+    {
+        "text": "Sweetie!",
+        "startTime": 12844,
+        "endTime": 13622,
+        "slowStartTime": 19416,
+        "slowEndTime": 20658
+    },
+    {
+        "text": "But you're a potato!",
+        "startTime": 18789,
+        "endTime": 20546,
+        "slowStartTime": 28334,
+        "slowEndTime": 31044
+    },
+    {
+        "text": "The light crispy taste of Lay's Potato Chips.",
+        "startTime": 21179,
+        "endTime": 23739,
+        "slowStartTime": 31919,
+        "slowEndTime": 35833
+    },
+    {
+        "text": "One taste and you're in love.",
+        "startTime": 24419,
+        "endTime": 26647,
+        "slowStartTime": 36779,
+        "slowEndTime": 40196
+    },
+    {
+        "text": "Our little secret, okay?",
+        "startTime": 27334,
+        "endTime": 28667,
+        "slowStartTime": 41151,
+        "slowEndTime": 43226
+    }
+]

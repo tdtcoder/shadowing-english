@@ -1,0 +1,135 @@
+[
+    {
+        "text": "﻿Make a circle.",
+        "startTime": 1294,
+        "endTime": 2894,
+        "slowStartTime": 2091,
+        "slowEndTime": 4566
+    },
+    {
+        "text": "Big, big, big.",
+        "startTime": 3059,
+        "endTime": 4187,
+        "slowStartTime": 4739,
+        "slowEndTime": 6505
+    },
+    {
+        "text": "Small, small, small.",
+        "startTime": 4641,
+        "endTime": 6042,
+        "slowStartTime": 7112,
+        "slowEndTime": 9288
+    },
+    {
+        "text": "Big, big, big.",
+        "startTime": 6507,
+        "endTime": 7683,
+        "slowStartTime": 9910,
+        "slowEndTime": 11750
+    },
+    {
+        "text": "Make a circle.",
+        "startTime": 8214,
+        "endTime": 9735,
+        "slowStartTime": 12471,
+        "slowEndTime": 14828
+    },
+    {
+        "text": "Small, small, small.",
+        "startTime": 9807,
+        "endTime": 11359,
+        "slowStartTime": 14860,
+        "slowEndTime": 17263
+    },
+    {
+        "text": "Hello, hello, hello.",
+        "startTime": 11677,
+        "endTime": 14343,
+        "slowStartTime": 17666,
+        "slowEndTime": 21739
+    },
+    {
+        "text": "Make a circle.",
+        "startTime": 18559,
+        "endTime": 20145,
+        "slowStartTime": 27988,
+        "slowEndTime": 30442
+    },
+    {
+        "text": "Round and round.",
+        "startTime": 20326,
+        "endTime": 21582,
+        "slowStartTime": 30639,
+        "slowEndTime": 32598
+    },
+    {
+        "text": "Round and round.",
+        "startTime": 22051,
+        "endTime": 23313,
+        "slowStartTime": 33226,
+        "slowEndTime": 35195
+    },
+    {
+        "text": "Round and round.",
+        "startTime": 23754,
+        "endTime": 25074,
+        "slowStartTime": 35781,
+        "slowEndTime": 37836
+    },
+    {
+        "text": "Make a circle, round and round.",
+        "startTime": 25495,
+        "endTime": 28580,
+        "slowStartTime": 38392,
+        "slowEndTime": 43095
+    },
+    {
+        "text": "Hello, hello, hello.",
+        "startTime": 28961,
+        "endTime": 31905,
+        "slowStartTime": 43592,
+        "slowEndTime": 48082
+    },
+    {
+        "text": "Make a circle.",
+        "startTime": 35829,
+        "endTime": 37437,
+        "slowStartTime": 53893,
+        "slowEndTime": 56381
+    },
+    {
+        "text": "Up, up, up.",
+        "startTime": 37602,
+        "endTime": 38603,
+        "slowStartTime": 56553,
+        "slowEndTime": 58130
+    },
+    {
+        "text": "Down, down, down.",
+        "startTime": 39319,
+        "endTime": 40581,
+        "slowStartTime": 59128,
+        "slowEndTime": 61096
+    },
+    {
+        "text": "Up, up, up.",
+        "startTime": 41054,
+        "endTime": 42213,
+        "slowStartTime": 61731,
+        "slowEndTime": 63544
+    },
+    {
+        "text": "Make a circle, down, down, down.",
+        "startTime": 42757,
+        "endTime": 45743,
+        "slowStartTime": 64285,
+        "slowEndTime": 68839
+    },
+    {
+        "text": "Now, sit down.",
+        "startTime": 46211,
+        "endTime": 48710,
+        "slowStartTime": 69467,
+        "slowEndTime": 73290
+    }
+]

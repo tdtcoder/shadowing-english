@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Corn.",
+        "startTime": 2656,
+        "endTime": 3243,
+        "slowStartTime": 4134,
+        "slowEndTime": 5090
+    },
+    {
+        "text": "I like corn.",
+        "startTime": 4088,
+        "endTime": 5219,
+        "slowStartTime": 6282,
+        "slowEndTime": 8054
+    },
+    {
+        "text": "I like to eat corn.",
+        "startTime": 6513,
+        "endTime": 8083,
+        "slowStartTime": 9920,
+        "slowEndTime": 12350
+    },
+    {
+        "text": "Fork.",
+        "startTime": 9419,
+        "endTime": 9986,
+        "slowStartTime": 14279,
+        "slowEndTime": 15204
+    },
+    {
+        "text": "I eat with a fork.",
+        "startTime": 10788,
+        "endTime": 12161,
+        "slowStartTime": 16332,
+        "slowEndTime": 18467
+    },
+    {
+        "text": "I eat with a fork and knife.",
+        "startTime": 13623,
+        "endTime": 15538,
+        "slowStartTime": 20584,
+        "slowEndTime": 23532
+    },
+    {
+        "text": "Horse.",
+        "startTime": 16832,
+        "endTime": 17388,
+        "slowStartTime": 25398,
+        "slowEndTime": 26307
+    },
+    {
+        "text": "My horse runs.",
+        "startTime": 18211,
+        "endTime": 19603,
+        "slowStartTime": 27466,
+        "slowEndTime": 29629
+    },
+    {
+        "text": "My horse runs very fast.",
+        "startTime": 21004,
+        "endTime": 23013,
+        "slowStartTime": 31656,
+        "slowEndTime": 34745
+    },
+    {
+        "text": "North.",
+        "startTime": 24433,
+        "endTime": 25007,
+        "slowStartTime": 36799,
+        "slowEndTime": 37736
+    },
+    {
+        "text": "The wind blows from the North.",
+        "startTime": 25831,
+        "endTime": 27725,
+        "slowStartTime": 38897,
+        "slowEndTime": 41813
+    },
+    {
+        "text": "The cold wind blows from the North.",
+        "startTime": 29019,
+        "endTime": 31332,
+        "slowStartTime": 43679,
+        "slowEndTime": 47223
+    },
+    {
+        "text": "I go to my house on a skateboard, on a skateboard.",
+        "startTime": 36798,
+        "endTime": 40178,
+        "slowStartTime": 55347,
+        "slowEndTime": 60492
+    },
+    {
+        "text": "My sister goes to school on a bike, on a bike.",
+        "startTime": 40353,
+        "endTime": 43773,
+        "slowStartTime": 60680,
+        "slowEndTime": 65885
+    },
+    {
+        "text": "My mom goes to work in a car, in a car.",
+        "startTime": 44021,
+        "endTime": 47490,
+        "slowStartTime": 66181,
+        "slowEndTime": 71460
+    },
+    {
+        "text": "My dad goes to work on the subway, on the subway.",
+        "startTime": 47753,
+        "endTime": 51309,
+        "slowStartTime": 71780,
+        "slowEndTime": 77188
+    },
+    {
+        "text": "My grandpa goes to the airport in a taxi, in a taxi.",
+        "startTime": 51551,
+        "endTime": 55051,
+        "slowStartTime": 77476,
+        "slowEndTime": 82802
+    },
+    {
+        "text": "My aunt goes to the store on a bus, on a bus.",
+        "startTime": 55336,
+        "endTime": 58729,
+        "slowStartTime": 83154,
+        "slowEndTime": 88318
+    },
+    {
+        "text": "My uncle goes to his office on a boat, on a boat.",
+        "startTime": 59061,
+        "endTime": 62388,
+        "slowStartTime": 88742,
+        "slowEndTime": 93807
+    },
+    {
+        "text": "We all go to the park on foot. Walk, walk, walk!",
+        "startTime": 62804,
+        "endTime": 66659,
+        "slowStartTime": 94356,
+        "slowEndTime": 100213
+    }
+]

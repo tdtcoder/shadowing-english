@@ -1,0 +1,58 @@
+[
+    {
+        "text": "﻿Learn about different places in the airport.",
+        "startTime": 543,
+        "endTime": 3345,
+        "slowStartTime": 965,
+        "slowEndTime": 5243
+    },
+    {
+        "text": "We are in the departure lounge.",
+        "startTime": 8712,
+        "endTime": 11104,
+        "slowStartTime": 13218,
+        "slowEndTime": 16881
+    },
+    {
+        "text": "They held the old woman at security.",
+        "startTime": 16682,
+        "endTime": 19448,
+        "slowStartTime": 25173,
+        "slowEndTime": 29397
+    },
+    {
+        "text": "You need to show your ticket at the check-in counter.",
+        "startTime": 25221,
+        "endTime": 28407,
+        "slowStartTime": 37982,
+        "slowEndTime": 42835
+    },
+    {
+        "text": "Your passport is stamped at immigration.",
+        "startTime": 33099,
+        "endTime": 36284,
+        "slowStartTime": 49798,
+        "slowEndTime": 54651
+    },
+    {
+        "text": "Passengers are now boarding at gate 2.",
+        "startTime": 40273,
+        "endTime": 43037,
+        "slowStartTime": 60560,
+        "slowEndTime": 64780
+    },
+    {
+        "text": "Souvenirs are sold at duty-free shops.",
+        "startTime": 47307,
+        "endTime": 50474,
+        "slowStartTime": 71110,
+        "slowEndTime": 75936
+    },
+    {
+        "text": "I will meet you at the arrivals area.",
+        "startTime": 55575,
+        "endTime": 57951,
+        "slowStartTime": 83513,
+        "slowEndTime": 87151
+    }
+]

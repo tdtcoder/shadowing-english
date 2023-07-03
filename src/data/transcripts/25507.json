@@ -1,0 +1,58 @@
+[
+    {
+        "text": "This is the word \"red\".",
+        "startTime": 291,
+        "endTime": 1737,
+        "slowStartTime": 587,
+        "slowEndTime": 2831
+    },
+    {
+        "text": "The word \"red\" starts with the letter R.",
+        "startTime": 2024,
+        "endTime": 4683,
+        "slowStartTime": 3186,
+        "slowEndTime": 7249
+    },
+    {
+        "text": "This is the letter R.",
+        "startTime": 5269,
+        "endTime": 6700,
+        "slowStartTime": 8054,
+        "slowEndTime": 10275
+    },
+    {
+        "text": "R.",
+        "startTime": 7301,
+        "endTime": 7651,
+        "slowStartTime": 11101,
+        "slowEndTime": 11702
+    },
+    {
+        "text": "E.",
+        "startTime": 8183,
+        "endTime": 8487,
+        "slowStartTime": 12424,
+        "slowEndTime": 12955
+    },
+    {
+        "text": "D.",
+        "startTime": 9069,
+        "endTime": 9346,
+        "slowStartTime": 13753,
+        "slowEndTime": 14244
+    },
+    {
+        "text": "What does that spell?",
+        "startTime": 9648,
+        "endTime": 10843,
+        "slowStartTime": 14622,
+        "slowEndTime": 16489
+    },
+    {
+        "text": "Red.",
+        "startTime": 11431,
+        "endTime": 11801,
+        "slowStartTime": 17297,
+        "slowEndTime": 17926
+    }
+]

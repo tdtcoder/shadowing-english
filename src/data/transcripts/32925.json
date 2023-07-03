@@ -1,0 +1,79 @@
+[
+    {
+        "text": "In the US, House Judiciary Committee Chairman Jerrold Nadler issued a subpoena...",
+        "startTime": 2581,
+        "endTime": 8941,
+        "slowStartTime": 4021,
+        "slowEndTime": 13637
+    },
+    {
+        "text": "...to get special counsel Robert Mueller's full report...",
+        "startTime": 9362,
+        "endTime": 12259,
+        "slowStartTime": 14193,
+        "slowEndTime": 18613
+    },
+    {
+        "text": "...on his investigation into Russia's meddling in the 2016 US national election.",
+        "startTime": 12437,
+        "endTime": 18475,
+        "slowStartTime": 18805,
+        "slowEndTime": 27937
+    },
+    {
+        "text": "In Sudan, thousands of demonstrators performed Friday prayers...",
+        "startTime": 19976,
+        "endTime": 24558,
+        "slowStartTime": 30114,
+        "slowEndTime": 37062
+    },
+    {
+        "text": "...outside of the army headquarters in the capital, Khartoum.",
+        "startTime": 24687,
+        "endTime": 28509,
+        "slowStartTime": 37180,
+        "slowEndTime": 42989
+    },
+    {
+        "text": "In Northern Ireland, journalist and author Lyra McKee was shot and killed...",
+        "startTime": 30937,
+        "endTime": 36797,
+        "slowStartTime": 46556,
+        "slowEndTime": 55420
+    },
+    {
+        "text": "...following overnight rioting in the city of Londonderry.",
+        "startTime": 37201,
+        "endTime": 40534,
+        "slowStartTime": 55952,
+        "slowEndTime": 61026
+    },
+    {
+        "text": "In Mali, Prime Minister Soumeylou Boubeye Maiga and his entire government...",
+        "startTime": 41823,
+        "endTime": 47674,
+        "slowStartTime": 62885,
+        "slowEndTime": 71736
+    },
+    {
+        "text": "...resigned amid an uptick in violence in the country.",
+        "startTime": 48041,
+        "endTime": 51281,
+        "slowStartTime": 72212,
+        "slowEndTime": 77146
+    },
+    {
+        "text": "Finally from the Philippines, devout Catholics in the province of Pampanga...",
+        "startTime": 52462,
+        "endTime": 57383,
+        "slowStartTime": 78843,
+        "slowEndTime": 86300
+    },
+    {
+        "text": "...marked Good Friday with a reenactment of the crucifixion of Jesus Christ.",
+        "startTime": 57921,
+        "endTime": 62919,
+        "slowStartTime": 87031,
+        "slowEndTime": 94604
+    }
+]

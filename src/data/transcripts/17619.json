@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Dad, what time did you come home last night?",
+        "startTime": 2680,
+        "endTime": 5456,
+        "slowStartTime": 4170,
+        "slowEndTime": 8409
+    },
+    {
+        "text": "I came home at 11:00.",
+        "startTime": 6533,
+        "endTime": 8193,
+        "slowStartTime": 9949,
+        "slowEndTime": 12515
+    },
+    {
+        "text": "Aren't you tired?",
+        "startTime": 9217,
+        "endTime": 10422,
+        "slowStartTime": 13975,
+        "slowEndTime": 15858
+    },
+    {
+        "text": "Of course I am. I'm really tired with hard work.",
+        "startTime": 11467,
+        "endTime": 15037,
+        "slowStartTime": 17350,
+        "slowEndTime": 22780
+    },
+    {
+        "text": "Then can't you take us to the zoo today?",
+        "startTime": 16120,
+        "endTime": 18941,
+        "slowStartTime": 24330,
+        "slowEndTime": 28636
+    },
+    {
+        "text": "Umm. Why don't we watch cartoons instead?",
+        "startTime": 20035,
+        "endTime": 23501,
+        "slowStartTime": 30203,
+        "slowEndTime": 35476
+    },
+    {
+        "text": "I'm sick and tired of watching cartoons at home, Dad.",
+        "startTime": 24551,
+        "endTime": 28417,
+        "slowStartTime": 36976,
+        "slowEndTime": 42850
+    },
+    {
+        "text": "Jeff and I watched cartoons yesterday.",
+        "startTime": 29009,
+        "endTime": 31547,
+        "slowStartTime": 43663,
+        "slowEndTime": 47545
+    },
+    {
+        "text": "How about playing video games then?",
+        "startTime": 32624,
+        "endTime": 34775,
+        "slowStartTime": 49086,
+        "slowEndTime": 52387
+    },
+    {
+        "text": "Don't you like playing video games?",
+        "startTime": 35243,
+        "endTime": 37210,
+        "slowStartTime": 53015,
+        "slowEndTime": 56040
+    },
+    {
+        "text": "Yes, I do like video games.",
+        "startTime": 38195,
+        "endTime": 40560,
+        "slowStartTime": 57443,
+        "slowEndTime": 61065
+    },
+    {
+        "text": "Let's play games!",
+        "startTime": 40843,
+        "endTime": 42132,
+        "slowStartTime": 61414,
+        "slowEndTime": 63423
+    }
+]

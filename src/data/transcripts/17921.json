@@ -1,0 +1,37 @@
+[
+    {
+        "text": "So, you wanna help me hook up this DVD?",
+        "startTime": 973,
+        "endTime": 2809,
+        "slowStartTime": 1609,
+        "slowEndTime": 4438
+    },
+    {
+        "text": "I thought we were going cycling?",
+        "startTime": 3121,
+        "endTime": 4262,
+        "slowStartTime": 4832,
+        "slowEndTime": 6618
+    },
+    {
+        "text": "Nah, cycling with you is no fun.",
+        "startTime": 4501,
+        "endTime": 6601,
+        "slowStartTime": 6902,
+        "slowEndTime": 10126
+    },
+    {
+        "text": "Why not?",
+        "startTime": 6932,
+        "endTime": 7342,
+        "slowStartTime": 10548,
+        "slowEndTime": 11238
+    },
+    {
+        "text": "It's just not.",
+        "startTime": 8712,
+        "endTime": 9393,
+        "slowStartTime": 13218,
+        "slowEndTime": 14315
+    }
+]

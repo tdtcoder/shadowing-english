@@ -1,0 +1,212 @@
+[
+    {
+        "text": "﻿Walk.",
+        "startTime": 1855,
+        "endTime": 2609,
+        "slowStartTime": 2932,
+        "slowEndTime": 4139
+    },
+    {
+        "text": "You can walk.",
+        "startTime": 3349,
+        "endTime": 4834,
+        "slowStartTime": 5173,
+        "slowEndTime": 7476
+    },
+    {
+        "text": "You can walk like a cat.",
+        "startTime": 7278,
+        "endTime": 9718,
+        "slowStartTime": 11067,
+        "slowEndTime": 14802
+    },
+    {
+        "text": "Walk.",
+        "startTime": 10867,
+        "endTime": 11539,
+        "slowStartTime": 16451,
+        "slowEndTime": 17533
+    },
+    {
+        "text": "Walk.",
+        "startTime": 12782,
+        "endTime": 13403,
+        "slowStartTime": 19323,
+        "slowEndTime": 20330
+    },
+    {
+        "text": "Stomp.",
+        "startTime": 16765,
+        "endTime": 17539,
+        "slowStartTime": 25298,
+        "slowEndTime": 26533
+    },
+    {
+        "text": "You can stomp.",
+        "startTime": 17999,
+        "endTime": 19469,
+        "slowStartTime": 27148,
+        "slowEndTime": 29429
+    },
+    {
+        "text": "You can stomp like an elephant.",
+        "startTime": 20523,
+        "endTime": 23391,
+        "slowStartTime": 30934,
+        "slowEndTime": 35312
+    },
+    {
+        "text": "Stomp.",
+        "startTime": 24443,
+        "endTime": 25445,
+        "slowStartTime": 36815,
+        "slowEndTime": 38393
+    },
+    {
+        "text": "Stomp.",
+        "startTime": 26563,
+        "endTime": 27333,
+        "slowStartTime": 39995,
+        "slowEndTime": 41225
+    },
+    {
+        "text": "Waddle.",
+        "startTime": 30829,
+        "endTime": 31509,
+        "slowStartTime": 46394,
+        "slowEndTime": 47488
+    },
+    {
+        "text": "You can waddle.",
+        "startTime": 32355,
+        "endTime": 33869,
+        "slowStartTime": 48682,
+        "slowEndTime": 51029
+    },
+    {
+        "text": "You can waddle like a duck.",
+        "startTime": 35811,
+        "endTime": 38429,
+        "slowStartTime": 53866,
+        "slowEndTime": 57868
+    },
+    {
+        "text": "Waddle.",
+        "startTime": 39083,
+        "endTime": 39887,
+        "slowStartTime": 58775,
+        "slowEndTime": 60055
+    },
+    {
+        "text": "Waddle.",
+        "startTime": 42036,
+        "endTime": 42882,
+        "slowStartTime": 63204,
+        "slowEndTime": 64548
+    },
+    {
+        "text": "Stand.",
+        "startTime": 45749,
+        "endTime": 46436,
+        "slowStartTime": 68774,
+        "slowEndTime": 69879
+    },
+    {
+        "text": "You can stand.",
+        "startTime": 46999,
+        "endTime": 48501,
+        "slowStartTime": 70649,
+        "slowEndTime": 72977
+    },
+    {
+        "text": "You can stand like a flamingo.",
+        "startTime": 50219,
+        "endTime": 52944,
+        "slowStartTime": 75478,
+        "slowEndTime": 79641
+    },
+    {
+        "text": "Stand.",
+        "startTime": 54267,
+        "endTime": 55087,
+        "slowStartTime": 81550,
+        "slowEndTime": 82856
+    },
+    {
+        "text": "Stand.",
+        "startTime": 56940,
+        "endTime": 57888,
+        "slowStartTime": 85560,
+        "slowEndTime": 87057
+    },
+    {
+        "text": "Run.",
+        "startTime": 60718,
+        "endTime": 61411,
+        "slowStartTime": 91227,
+        "slowEndTime": 92342
+    },
+    {
+        "text": "You can run.",
+        "startTime": 61983,
+        "endTime": 63403,
+        "slowStartTime": 93125,
+        "slowEndTime": 95329
+    },
+    {
+        "text": "You can run like a cheetah.",
+        "startTime": 64715,
+        "endTime": 67139,
+        "slowStartTime": 97222,
+        "slowEndTime": 100933
+    },
+    {
+        "text": "Run.",
+        "startTime": 68137,
+        "endTime": 68907,
+        "slowStartTime": 102356,
+        "slowEndTime": 103585
+    },
+    {
+        "text": "Run.",
+        "startTime": 71105,
+        "endTime": 71951,
+        "slowStartTime": 106808,
+        "slowEndTime": 108151
+    },
+    {
+        "text": "Jump.",
+        "startTime": 75133,
+        "endTime": 75744,
+        "slowStartTime": 112849,
+        "slowEndTime": 113841
+    },
+    {
+        "text": "You can jump.",
+        "startTime": 76439,
+        "endTime": 77874,
+        "slowStartTime": 114808,
+        "slowEndTime": 117036
+    },
+    {
+        "text": "You can jump like a kangaroo.",
+        "startTime": 79181,
+        "endTime": 81855,
+        "slowStartTime": 118922,
+        "slowEndTime": 123008
+    },
+    {
+        "text": "Jump.",
+        "startTime": 83155,
+        "endTime": 83818,
+        "slowStartTime": 124883,
+        "slowEndTime": 125952
+    },
+    {
+        "text": "Jump.",
+        "startTime": 85785,
+        "endTime": 86397,
+        "slowStartTime": 128828,
+        "slowEndTime": 129820
+    }
+]

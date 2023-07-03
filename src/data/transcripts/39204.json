@@ -1,0 +1,44 @@
+[
+    {
+        "text": "So, tell me about yourself.",
+        "startTime": 237,
+        "endTime": 1172,
+        "slowStartTime": 505,
+        "slowEndTime": 1983
+    },
+    {
+        "text": "Well, I just graduated with a degree in marketing and a focus in statistics.",
+        "startTime": 1495,
+        "endTime": 6131,
+        "slowStartTime": 2393,
+        "slowEndTime": 9422
+    },
+    {
+        "text": "I've had a couple of internships...",
+        "startTime": 6275,
+        "endTime": 7870,
+        "slowStartTime": 9562,
+        "slowEndTime": 12030
+    },
+    {
+        "text": "...where I was able to really use my love of number crunching...",
+        "startTime": 8261,
+        "endTime": 11086,
+        "slowStartTime": 12541,
+        "slowEndTime": 16854
+    },
+    {
+        "text": "...to help analyze data so companies can strategize their campaigns.",
+        "startTime": 11177,
+        "endTime": 16266,
+        "slowStartTime": 16915,
+        "slowEndTime": 24624
+    },
+    {
+        "text": "And that's why I think I'd be a really great fit here.",
+        "startTime": 16550,
+        "endTime": 18492,
+        "slowStartTime": 24975,
+        "slowEndTime": 27963
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "text": "This building in Hamburg, Germany, is entirely powered by algae.",
+        "startTime": 2271,
+        "endTime": 6933,
+        "slowStartTime": 3556,
+        "slowEndTime": 10625
+    },
+    {
+        "text": "Inside these glass panels is a green liquid...",
+        "startTime": 8071,
+        "endTime": 10847,
+        "slowStartTime": 12257,
+        "slowEndTime": 16495
+    },
+    {
+        "text": "...in which you can see the bubbles rising to the surface.",
+        "startTime": 11115,
+        "endTime": 14157,
+        "slowStartTime": 16822,
+        "slowEndTime": 21461
+    },
+    {
+        "text": "This is the result of having a bioreactor built into the facade,...",
+        "startTime": 15167,
+        "endTime": 18903,
+        "slowStartTime": 22900,
+        "slowEndTime": 28579
+    },
+    {
+        "text": "...which heats the 15 flats in the building.",
+        "startTime": 19216,
+        "endTime": 21555,
+        "slowStartTime": 28974,
+        "slowEndTime": 32557
+    },
+    {
+        "text": "The motor is microalgae, and the principle is photosynthesis.",
+        "startTime": 22419,
+        "endTime": 27655,
+        "slowStartTime": 33778,
+        "slowEndTime": 41708
+    },
+    {
+        "text": "Heat is produced here in this facade by the bioreactors,...",
+        "startTime": 34059,
+        "endTime": 37850,
+        "slowStartTime": 51238,
+        "slowEndTime": 57000
+    },
+    {
+        "text": "...then it is stored here before being redistributed.",
+        "startTime": 38453,
+        "endTime": 41806,
+        "slowStartTime": 57829,
+        "slowEndTime": 62934
+    },
+    {
+        "text": "The heat is used to power the central systems supplying heating and hot water.",
+        "startTime": 43656,
+        "endTime": 48819,
+        "slowStartTime": 65634,
+        "slowEndTime": 73454
+    },
+    {
+        "text": "The building, therefore, effectively heats itself.",
+        "startTime": 50958,
+        "endTime": 53665,
+        "slowStartTime": 76587,
+        "slowEndTime": 80723
+    },
+    {
+        "text": "Laura is one of the people who live here.",
+        "startTime": 54471,
+        "endTime": 56506,
+        "slowStartTime": 81857,
+        "slowEndTime": 84984
+    },
+    {
+        "text": "Her balcony looks like an aquarium with all the algae growing there.",
+        "startTime": 57281,
+        "endTime": 61077,
+        "slowStartTime": 86072,
+        "slowEndTime": 91840
+    },
+    {
+        "text": "Also, this passive construction means that the building...",
+        "startTime": 61585,
+        "endTime": 64890,
+        "slowStartTime": 92527,
+        "slowEndTime": 97560
+    },
+    {
+        "text": "...maintains a comfortable interior temperature without heating.",
+        "startTime": 64984,
+        "endTime": 68220,
+        "slowStartTime": 97626,
+        "slowEndTime": 102555
+    }
+]

@@ -1,0 +1,219 @@
+[
+    {
+        "text": "Hi, I'm Rachel Bloom.",
+        "startTime": 80,
+        "endTime": 904,
+        "slowStartTime": 270,
+        "slowEndTime": 1581
+    },
+    {
+        "text": "Here are some alternative facts about me.",
+        "startTime": 998,
+        "endTime": 2274,
+        "slowStartTime": 1647,
+        "slowEndTime": 3636
+    },
+    {
+        "text": "Emma Stone and I used to date.",
+        "startTime": 2668,
+        "endTime": 3919,
+        "slowStartTime": 4152,
+        "slowEndTime": 6104
+    },
+    {
+        "text": "We've been dating since we were about two years old...",
+        "startTime": 6977,
+        "endTime": 8745,
+        "slowStartTime": 10616,
+        "slowEndTime": 13342
+    },
+    {
+        "text": "...and we had a very public breakup in the middle of a playground.",
+        "startTime": 8857,
+        "endTime": 11701,
+        "slowStartTime": 13435,
+        "slowEndTime": 17777
+    },
+    {
+        "text": "My favorite dress is a brown paper bag.",
+        "startTime": 11918,
+        "endTime": 14451,
+        "slowStartTime": 18027,
+        "slowEndTime": 21902
+    },
+    {
+        "text": "I'm an extraordinary baton twirler.",
+        "startTime": 14669,
+        "endTime": 16519,
+        "slowStartTime": 22153,
+        "slowEndTime": 25004
+    },
+    {
+        "text": "This is completely made of chocolate.",
+        "startTime": 16667,
+        "endTime": 18127,
+        "slowStartTime": 25150,
+        "slowEndTime": 27416
+    },
+    {
+        "text": "It was such a bad physical fight, we just started hurling children at each other.",
+        "startTime": 18227,
+        "endTime": 21557,
+        "slowStartTime": 27490,
+        "slowEndTime": 32561
+    },
+    {
+        "text": "It's like Hanukkah gelt: you peel it, it's delicious.",
+        "startTime": 21689,
+        "endTime": 23682,
+        "slowStartTime": 32683,
+        "slowEndTime": 35748
+    },
+    {
+        "text": "Hi, I'm Megan Mullally and I'm a man.",
+        "startTime": 23792,
+        "endTime": 25989,
+        "slowStartTime": 35838,
+        "slowEndTime": 39208
+    },
+    {
+        "text": "Hello, I'm Nick Offerman and I'm known for my personal hygiene.",
+        "startTime": 26149,
+        "endTime": 29732,
+        "slowStartTime": 39374,
+        "slowEndTime": 44823
+    },
+    {
+        "text": "I have a master's in marine biology.",
+        "startTime": 30184,
+        "endTime": 32999,
+        "slowStartTime": 45426,
+        "slowEndTime": 49723
+    },
+    {
+        "text": "Well, let's see.",
+        "startTime": 33353,
+        "endTime": 34122,
+        "slowStartTime": 50179,
+        "slowEndTime": 51408
+    },
+    {
+        "text": "I'm proud to say and I don't want to boast...",
+        "startTime": 34689,
+        "endTime": 36038,
+        "slowStartTime": 52184,
+        "slowEndTime": 54282
+    },
+    {
+        "text": "...but I am a five-time Best Actor defender tonight and I'm so excited about that.",
+        "startTime": 36237,
+        "endTime": 40757,
+        "slowStartTime": 54506,
+        "slowEndTime": 61360
+    },
+    {
+        "text": "I am a very, very devoted hockey fan.",
+        "startTime": 40987,
+        "endTime": 46295,
+        "slowStartTime": 61631,
+        "slowEndTime": 69667
+    },
+    {
+        "text": "Nobody likes a good actor more than me...",
+        "startTime": 46439,
+        "endTime": 48023,
+        "slowStartTime": 69809,
+        "slowEndTime": 72260
+    },
+    {
+        "text": "...because I've won Best Actor five years in a row.",
+        "startTime": 48309,
+        "endTime": 49863,
+        "slowStartTime": 72614,
+        "slowEndTime": 75019
+    },
+    {
+        "text": "I have an IQ of 290.",
+        "startTime": 50008,
+        "endTime": 53296,
+        "slowStartTime": 75162,
+        "slowEndTime": 80169
+    },
+    {
+        "text": "That's what you call it now, alternative facts?",
+        "startTime": 53653,
+        "endTime": 55503,
+        "slowStartTime": 80629,
+        "slowEndTime": 83479
+    },
+    {
+        "text": "I did not eat a full pizza to myself before tonight's party.",
+        "startTime": 55691,
+        "endTime": 59169,
+        "slowStartTime": 83687,
+        "slowEndTime": 88979
+    },
+    {
+        "text": "I'm six foot seven.",
+        "startTime": 59322,
+        "endTime": 60287,
+        "slowStartTime": 89133,
+        "slowEndTime": 90655
+    },
+    {
+        "text": "I was the third-string quarterback for the Broncos...",
+        "startTime": 60405,
+        "endTime": 62745,
+        "slowStartTime": 90757,
+        "slowEndTime": 94343
+    },
+    {
+        "text": "...in my fifties.",
+        "startTime": 62871,
+        "endTime": 64519,
+        "slowStartTime": 94457,
+        "slowEndTime": 97004
+    },
+    {
+        "text": "Are you watching?",
+        "startTime": 64743,
+        "endTime": 65347,
+        "slowStartTime": 97264,
+        "slowEndTime": 98246
+    },
+    {
+        "text": "I'm available.",
+        "startTime": 65577,
+        "endTime": 66101,
+        "slowStartTime": 98515,
+        "slowEndTime": 99377
+    },
+    {
+        "text": "I can still throw a few.",
+        "startTime": 66189,
+        "endTime": 67088,
+        "slowStartTime": 99434,
+        "slowEndTime": 100857
+    },
+    {
+        "text": "I have x-ray vision and I can see you looking at me and I don't appreciate it.",
+        "startTime": 67273,
+        "endTime": 70687,
+        "slowStartTime": 101060,
+        "slowEndTime": 106256
+    },
+    {
+        "text": "Hi, I'm Thomas Keller from The French Laundry.",
+        "startTime": 70855,
+        "endTime": 72434,
+        "slowStartTime": 106433,
+        "slowEndTime": 108876
+    },
+    {
+        "text": "Our food has zero calories.",
+        "startTime": 72623,
+        "endTime": 75352,
+        "slowStartTime": 109084,
+        "slowEndTime": 113253
+    }
+]

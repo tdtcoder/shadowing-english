@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Uber's expansion into Asia hit a snag Wednesday...",
+        "startTime": 2624,
+        "endTime": 5525,
+        "slowStartTime": 4086,
+        "slowEndTime": 8512
+    },
+    {
+        "text": "...when prosecutors in South Korea indicted the company's CEO, Travis Kalanick,...",
+        "startTime": 5632,
+        "endTime": 10147,
+        "slowStartTime": 8598,
+        "slowEndTime": 15446
+    },
+    {
+        "text": "...on the grounds that the service violates the country's transportation law.",
+        "startTime": 10252,
+        "endTime": 13786,
+        "slowStartTime": 15528,
+        "slowEndTime": 20904
+    },
+    {
+        "text": "The Seoul Central District Prosecutors' Office charged that Uber's service...",
+        "startTime": 13901,
+        "endTime": 17862,
+        "slowStartTime": 21002,
+        "slowEndTime": 27018
+    },
+    {
+        "text": "...and those of its competitors are unsafe...",
+        "startTime": 18015,
+        "endTime": 20111,
+        "slowStartTime": 27172,
+        "slowEndTime": 30391
+    },
+    {
+        "text": "...and violate a law that bans rental car operators...",
+        "startTime": 20252,
+        "endTime": 22946,
+        "slowStartTime": 30528,
+        "slowEndTime": 34644
+    },
+    {
+        "text": "...from competing with taxis to offer rides for free.",
+        "startTime": 23018,
+        "endTime": 25951,
+        "slowStartTime": 34677,
+        "slowEndTime": 39152
+    },
+    {
+        "text": "The company announced earlier this month...",
+        "startTime": 26063,
+        "endTime": 27986,
+        "slowStartTime": 39244,
+        "slowEndTime": 42204
+    },
+    {
+        "text": "...that it had secured 1.2 billion dollars in financing, prompting a 40-billion-dollar valuation.",
+        "startTime": 28111,
+        "endTime": 34149,
+        "slowStartTime": 42317,
+        "slowEndTime": 51448
+    }
+]

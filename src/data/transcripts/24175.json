@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Good afternoon, ladies and gentlemen!",
+        "startTime": 2665,
+        "endTime": 4318,
+        "slowStartTime": 4147,
+        "slowEndTime": 6702
+    },
+    {
+        "text": "My name is Ryan Wang, and I'm a representative from the Metropolitan Transit Authority.",
+        "startTime": 4501,
+        "endTime": 8664,
+        "slowStartTime": 6902,
+        "slowEndTime": 13221
+    },
+    {
+        "text": "And it is my honor to announce that this subway car has been recognized officially...",
+        "startTime": 8790,
+        "endTime": 14353,
+        "slowStartTime": 13335,
+        "slowEndTime": 21754
+    },
+    {
+        "text": "...as the most courteous subway car in the entire New York City subway system.",
+        "startTime": 14461,
+        "endTime": 20090,
+        "slowStartTime": 21842,
+        "slowEndTime": 30360
+    },
+    {
+        "text": "We want to thank you.",
+        "startTime": 20284,
+        "endTime": 21232,
+        "slowStartTime": 30576,
+        "slowEndTime": 32073
+    },
+    {
+        "text": "We are providing you a pizza party,...",
+        "startTime": 21337,
+        "endTime": 23131,
+        "slowStartTime": 32156,
+        "slowEndTime": 34922
+    },
+    {
+        "text": "...so please give yourselves a round of applause for your outstanding behavior.",
+        "startTime": 23297,
+        "endTime": 26569,
+        "slowStartTime": 35096,
+        "slowEndTime": 40078
+    },
+    {
+        "text": "You have worked hard to reduce the amount of trash,...",
+        "startTime": 27852,
+        "endTime": 30412,
+        "slowStartTime": 41928,
+        "slowEndTime": 45843
+    },
+    {
+        "text": "...and this train has the lowest percentage of manspreading of any car...",
+        "startTime": 30567,
+        "endTime": 35694,
+        "slowStartTime": 46001,
+        "slowEndTime": 53766
+    },
+    {
+        "text": "...throughout the entire subway system.",
+        "startTime": 35833,
+        "endTime": 38053,
+        "slowStartTime": 53900,
+        "slowEndTime": 57304
+    },
+    {
+        "text": "Congratulations and please enjoy your pizza party.",
+        "startTime": 38487,
+        "endTime": 42347,
+        "slowStartTime": 57880,
+        "slowEndTime": 63745
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Cloud.",
+        "startTime": 2681,
+        "endTime": 3317,
+        "slowStartTime": 4171,
+        "slowEndTime": 5201
+    },
+    {
+        "text": "I see a cloud.",
+        "startTime": 4124,
+        "endTime": 5353,
+        "slowStartTime": 6336,
+        "slowEndTime": 8254
+    },
+    {
+        "text": "I see a white cloud.",
+        "startTime": 6729,
+        "endTime": 8341,
+        "slowStartTime": 10243,
+        "slowEndTime": 12737
+    },
+    {
+        "text": "Ground.",
+        "startTime": 9712,
+        "endTime": 10343,
+        "slowStartTime": 14718,
+        "slowEndTime": 15739
+    },
+    {
+        "text": "I sit on the ground.",
+        "startTime": 11167,
+        "endTime": 12715,
+        "slowStartTime": 16901,
+        "slowEndTime": 19297
+    },
+    {
+        "text": "I sit on the hard ground.",
+        "startTime": 14109,
+        "endTime": 16125,
+        "slowStartTime": 21313,
+        "slowEndTime": 24412
+    },
+    {
+        "text": "House.",
+        "startTime": 17467,
+        "endTime": 18044,
+        "slowStartTime": 26350,
+        "slowEndTime": 27291
+    },
+    {
+        "text": "I live in a house.",
+        "startTime": 18825,
+        "endTime": 20149,
+        "slowStartTime": 28387,
+        "slowEndTime": 30448
+    },
+    {
+        "text": "I live in a nice house.",
+        "startTime": 21542,
+        "endTime": 23221,
+        "slowStartTime": 32463,
+        "slowEndTime": 35057
+    },
+    {
+        "text": "Mouse.",
+        "startTime": 24620,
+        "endTime": 25275,
+        "slowStartTime": 37080,
+        "slowEndTime": 38138
+    },
+    {
+        "text": "There is a mouse.",
+        "startTime": 26125,
+        "endTime": 27278,
+        "slowStartTime": 39337,
+        "slowEndTime": 41142
+    },
+    {
+        "text": "There is a big mouse.",
+        "startTime": 28686,
+        "endTime": 30279,
+        "slowStartTime": 43179,
+        "slowEndTime": 45644
+    },
+    {
+        "text": "Popcorn, popcorn, I like popcorn.",
+        "startTime": 35557,
+        "endTime": 39182,
+        "slowStartTime": 53486,
+        "slowEndTime": 58998
+    },
+    {
+        "text": "Yummy, yummy, it is yummy.",
+        "startTime": 39449,
+        "endTime": 42795,
+        "slowStartTime": 59323,
+        "slowEndTime": 64418
+    },
+    {
+        "text": "Pizza, pizza, I don't like pizza.",
+        "startTime": 43211,
+        "endTime": 46629,
+        "slowStartTime": 64967,
+        "slowEndTime": 70168
+    },
+    {
+        "text": "Yucky, yucky, It is yucky.",
+        "startTime": 46877,
+        "endTime": 50224,
+        "slowStartTime": 70466,
+        "slowEndTime": 75561
+    },
+    {
+        "text": "Corn, corn, I really like corn.",
+        "startTime": 50665,
+        "endTime": 54053,
+        "slowStartTime": 76147,
+        "slowEndTime": 81304
+    },
+    {
+        "text": "Beans, beans, I don't like beans.",
+        "startTime": 54418,
+        "endTime": 57831,
+        "slowStartTime": 81777,
+        "slowEndTime": 86972
+    },
+    {
+        "text": "I like it, I like it, I like popcorn.",
+        "startTime": 57942,
+        "endTime": 61685,
+        "slowStartTime": 87063,
+        "slowEndTime": 92752
+    },
+    {
+        "text": "I don't like it, I don't like it, I don't like pizza.",
+        "startTime": 61997,
+        "endTime": 65371,
+        "slowStartTime": 93146,
+        "slowEndTime": 98282
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Rebellions happen all the time.",
+        "startTime": 150,
+        "endTime": 1455,
+        "slowStartTime": 90,
+        "slowEndTime": 2407
+    },
+    {
+        "text": "The question is, how did the Imperial Fleet respond to those rebellions?",
+        "startTime": 1706,
+        "endTime": 4951,
+        "slowStartTime": 2709,
+        "slowEndTime": 7652
+    },
+    {
+        "text": "And what will it do to these fully-operational battles?",
+        "startTime": 5063,
+        "endTime": 8237,
+        "slowStartTime": 7745,
+        "slowEndTime": 12580
+    },
+    {
+        "text": "I think one of your droids has just wandered in.",
+        "startTime": 9090,
+        "endTime": 11151,
+        "slowStartTime": 13785,
+        "slowEndTime": 16952
+    },
+    {
+        "text": "I mean deeply unsettling signs as we comb the galaxy.",
+        "startTime": 12039,
+        "endTime": 14962,
+        "slowStartTime": 18209,
+        "slowEndTime": 22668
+    },
+    {
+        "text": "Do you think relations with the Imperial Senate may change?",
+        "startTime": 15452,
+        "endTime": 18017,
+        "slowStartTime": 23328,
+        "slowEndTime": 27250
+    },
+    {
+        "text": "I would be surprised if they do.",
+        "startTime": 19338,
+        "endTime": 20615,
+        "slowStartTime": 29157,
+        "slowEndTime": 31147
+    },
+    {
+        "text": "Pardon me.",
+        "startTime": 22837,
+        "endTime": 23253,
+        "slowStartTime": 34405,
+        "slowEndTime": 35104
+    },
+    {
+        "text": "My apologies.",
+        "startTime": 27075,
+        "endTime": 27867,
+        "slowStartTime": 40763,
+        "slowEndTime": 42025
+    },
+    {
+        "text": "Most apologetic.",
+        "startTime": 33448,
+        "endTime": 34581,
+        "slowStartTime": 50322,
+        "slowEndTime": 52097
+    },
+    {
+        "text": "Outer Rim.",
+        "startTime": 38784,
+        "endTime": 39396,
+        "slowStartTime": 58326,
+        "slowEndTime": 59319
+    },
+    {
+        "text": "The Intergalactic Policy choices on the Outer Rim...",
+        "startTime": 40318,
+        "endTime": 42869,
+        "slowStartTime": 60627,
+        "slowEndTime": 64529
+    },
+    {
+        "text": "...have been severely limited since the 12 parsecs Kessel Run...",
+        "startTime": 43151,
+        "endTime": 45937,
+        "slowStartTime": 64876,
+        "slowEndTime": 69131
+    }
+]

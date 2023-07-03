@@ -1,0 +1,177 @@
+[
+    {
+        "text": "Reuters reported exclusively on Sunday that Google's parent company Alphabet...",
+        "startTime": 573,
+        "endTime": 4886,
+        "slowStartTime": 1010,
+        "slowEndTime": 7554
+    },
+    {
+        "text": "...has suspended some business with Huawei, a major blow  to the Chinese tech giant...",
+        "startTime": 5281,
+        "endTime": 10055,
+        "slowStartTime": 8071,
+        "slowEndTime": 15307
+    },
+    {
+        "text": "...that the US government has sought to blacklist around the world.",
+        "startTime": 10142,
+        "endTime": 13453,
+        "slowStartTime": 15363,
+        "slowEndTime": 20405
+    },
+    {
+        "text": "A source close to the matter told Reuters...",
+        "startTime": 14010,
+        "endTime": 15663,
+        "slowStartTime": 21165,
+        "slowEndTime": 23719
+    },
+    {
+        "text": "...that business requiring the transfer of hardware and software products,...",
+        "startTime": 15744,
+        "endTime": 19686,
+        "slowStartTime": 23766,
+        "slowEndTime": 29754
+    },
+    {
+        "text": "...except those covered by open source licenses, is suspended,...",
+        "startTime": 19763,
+        "endTime": 23219,
+        "slowStartTime": 29794,
+        "slowEndTime": 35054
+    },
+    {
+        "text": "...though details of the specific services were still being discussed internally at Google.",
+        "startTime": 23607,
+        "endTime": 28306,
+        "slowStartTime": 35561,
+        "slowEndTime": 42684
+    },
+    {
+        "text": "The suspension means Huawei will immediately lose access...",
+        "startTime": 28739,
+        "endTime": 31743,
+        "slowStartTime": 43258,
+        "slowEndTime": 47839
+    },
+    {
+        "text": "...to updates to the Android operating system,...",
+        "startTime": 31840,
+        "endTime": 34072,
+        "slowStartTime": 47910,
+        "slowEndTime": 51333
+    },
+    {
+        "text": "...and the next version of its smartphones outside of China...",
+        "startTime": 34380,
+        "endTime": 37223,
+        "slowStartTime": 51720,
+        "slowEndTime": 56060
+    },
+    {
+        "text": "...will also lose access to popular applications and services...",
+        "startTime": 37285,
+        "endTime": 40732,
+        "slowStartTime": 56078,
+        "slowEndTime": 61323
+    },
+    {
+        "text": "...including the Google Play Store and Gmail.",
+        "startTime": 41189,
+        "endTime": 43408,
+        "slowStartTime": 61934,
+        "slowEndTime": 65337
+    },
+    {
+        "text": "Last week, the Trump administration officially added Huawei to the trade blacklist,...",
+        "startTime": 44025,
+        "endTime": 48209,
+        "slowStartTime": 66188,
+        "slowEndTime": 72539
+    },
+    {
+        "text": "...immediately enacting restrictions that will make it extremely difficult for Huawei...",
+        "startTime": 48577,
+        "endTime": 52605,
+        "slowStartTime": 73015,
+        "slowEndTime": 79132
+    },
+    {
+        "text": "...to do business with US companies.",
+        "startTime": 52663,
+        "endTime": 54509,
+        "slowStartTime": 79145,
+        "slowEndTime": 81988
+    },
+    {
+        "text": "But on Friday, the US Commerce Department told Reuters...",
+        "startTime": 54835,
+        "endTime": 57427,
+        "slowStartTime": 82403,
+        "slowEndTime": 86365
+    },
+    {
+        "text": "...that it may soon scale back restrictions on Huawei,...",
+        "startTime": 57515,
+        "endTime": 60183,
+        "slowStartTime": 86422,
+        "slowEndTime": 90500
+    },
+    {
+        "text": "...saying it's considering temporary licenses for the Chinese company's existing clients.",
+        "startTime": 60653,
+        "endTime": 65138,
+        "slowStartTime": 91130,
+        "slowEndTime": 97932
+    },
+    {
+        "text": "The US believes Huawei's smartphones and network equipment...",
+        "startTime": 65649,
+        "endTime": 68483,
+        "slowStartTime": 98624,
+        "slowEndTime": 102949
+    },
+    {
+        "text": "...could be used by China to spy on Americans.",
+        "startTime": 68553,
+        "endTime": 70971,
+        "slowStartTime": 102980,
+        "slowEndTime": 106681
+    },
+    {
+        "text": "Huawei has repeatedly denied those allegations.",
+        "startTime": 71290,
+        "endTime": 74037,
+        "slowStartTime": 107085,
+        "slowEndTime": 111281
+    },
+    {
+        "text": "The Google suspension comes...",
+        "startTime": 74515,
+        "endTime": 75637,
+        "slowStartTime": 111923,
+        "slowEndTime": 113681
+    },
+    {
+        "text": "...as China strikes a more aggressive tone in its trade war with the United States...",
+        "startTime": 75737,
+        "endTime": 79819,
+        "slowStartTime": 113755,
+        "slowEndTime": 119954
+    },
+    {
+        "text": "...and Beijing has suggested that a resumption in talks will be meaningless...",
+        "startTime": 80190,
+        "endTime": 83815,
+        "slowStartTime": 120435,
+        "slowEndTime": 125948
+    },
+    {
+        "text": "...unless Washington changed course.",
+        "startTime": 84206,
+        "endTime": 86241,
+        "slowStartTime": 126459,
+        "slowEndTime": 129586
+    }
+]

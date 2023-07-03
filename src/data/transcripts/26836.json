@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Miss the Boat.",
+        "startTime": 16125,
+        "endTime": 16971,
+        "slowStartTime": 24338,
+        "slowEndTime": 25681
+    },
+    {
+        "text": "It means to fail to use an opportunity.",
+        "startTime": 17925,
+        "endTime": 20853,
+        "slowStartTime": 27037,
+        "slowEndTime": 31504
+    },
+    {
+        "text": "I should have invested in stocks and now I've missed the boat.",
+        "startTime": 28266,
+        "endTime": 32311,
+        "slowStartTime": 42549,
+        "slowEndTime": 48692
+    },
+    {
+        "text": "He waited too long to accept the job offer and missed the boat.",
+        "startTime": 38623,
+        "endTime": 42795,
+        "slowStartTime": 58085,
+        "slowEndTime": 64417
+    },
+    {
+        "text": "I missed the boat on the discounted tickets and now they're sold out.",
+        "startTime": 50497,
+        "endTime": 54757,
+        "slowStartTime": 75895,
+        "slowEndTime": 82361
+    }
+]

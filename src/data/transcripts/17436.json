@@ -1,0 +1,100 @@
+[
+    {
+        "text": "The cow is in a car.",
+        "startTime": 2520,
+        "endTime": 4247,
+        "slowStartTime": 3930,
+        "slowEndTime": 6596
+    },
+    {
+        "text": "The pig is on a bike.",
+        "startTime": 5413,
+        "endTime": 7093,
+        "slowStartTime": 8270,
+        "slowEndTime": 10865
+    },
+    {
+        "text": "The goat is in a boat.",
+        "startTime": 8225,
+        "endTime": 9801,
+        "slowStartTime": 12487,
+        "slowEndTime": 14926
+    },
+    {
+        "text": "The dog is on a train.",
+        "startTime": 10947,
+        "endTime": 12852,
+        "slowStartTime": 16571,
+        "slowEndTime": 19503
+    },
+    {
+        "text": "The bird is on skates.",
+        "startTime": 13938,
+        "endTime": 15843,
+        "slowStartTime": 21057,
+        "slowEndTime": 23990
+    },
+    {
+        "text": "The duck is in a plane.",
+        "startTime": 16976,
+        "endTime": 18837,
+        "slowStartTime": 25614,
+        "slowEndTime": 28481
+    },
+    {
+        "text": "The cat is on a horse.",
+        "startTime": 19909,
+        "endTime": 21889,
+        "slowStartTime": 30014,
+        "slowEndTime": 33058
+    },
+    {
+        "text": "Go animals go.",
+        "startTime": 23051,
+        "endTime": 24761,
+        "slowStartTime": 34727,
+        "slowEndTime": 37367
+    },
+    {
+        "text": "Where is the cow?",
+        "startTime": 27781,
+        "endTime": 29317,
+        "slowStartTime": 41822,
+        "slowEndTime": 44201
+    },
+    {
+        "text": "It is in a car.",
+        "startTime": 30323,
+        "endTime": 31765,
+        "slowStartTime": 45635,
+        "slowEndTime": 47872
+    },
+    {
+        "text": "Is the pig in a car, too?",
+        "startTime": 32685,
+        "endTime": 35109,
+        "slowStartTime": 49178,
+        "slowEndTime": 52889
+    },
+    {
+        "text": "No, it is on a bike.",
+        "startTime": 36249,
+        "endTime": 38288,
+        "slowStartTime": 54524,
+        "slowEndTime": 57657
+    },
+    {
+        "text": "What is in a plane?",
+        "startTime": 39311,
+        "endTime": 40891,
+        "slowStartTime": 59117,
+        "slowEndTime": 61561
+    },
+    {
+        "text": "The duck is in a plane.",
+        "startTime": 42011,
+        "endTime": 43684,
+        "slowStartTime": 63166,
+        "slowEndTime": 65751
+    }
+]

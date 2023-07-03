@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Hi my name is Jesse Goldhammer...",
+        "startTime": 125,
+        "endTime": 1493,
+        "slowStartTime": 337,
+        "slowEndTime": 2465
+    },
+    {
+        "text": "...and I'm the associate dean at UC Berkeley School of Information...",
+        "startTime": 1588,
+        "endTime": 4603,
+        "slowStartTime": 2532,
+        "slowEndTime": 7129
+    },
+    {
+        "text": "...with another Kantola learning minute.",
+        "startTime": 5012,
+        "endTime": 6661,
+        "slowStartTime": 7668,
+        "slowEndTime": 10216
+    },
+    {
+        "text": "Today Mike asks,...",
+        "startTime": 7489,
+        "endTime": 8522,
+        "slowStartTime": 11384,
+        "slowEndTime": 13008
+    },
+    {
+        "text": "\"What's the truth about using the internet in my local coffee shop or at the airport?\"",
+        "startTime": 9094,
+        "endTime": 13381,
+        "slowStartTime": 13791,
+        "slowEndTime": 20297
+    },
+    {
+        "text": "Well, the truth is that those public wi-fi networks are insecure.",
+        "startTime": 13812,
+        "endTime": 19489,
+        "slowStartTime": 20868,
+        "slowEndTime": 29459
+    },
+    {
+        "text": "Even if you're using a password to access them.",
+        "startTime": 19959,
+        "endTime": 22320,
+        "slowStartTime": 30089,
+        "slowEndTime": 33705
+    },
+    {
+        "text": "And the reason is that there may be others on that network...",
+        "startTime": 22644,
+        "endTime": 25491,
+        "slowStartTime": 34116,
+        "slowEndTime": 38462
+    },
+    {
+        "text": "...who may also be using that password...",
+        "startTime": 25669,
+        "endTime": 27812,
+        "slowStartTime": 38654,
+        "slowEndTime": 41943
+    },
+    {
+        "text": "...who can potentially get access to information on your computer...",
+        "startTime": 28151,
+        "endTime": 31453,
+        "slowStartTime": 42377,
+        "slowEndTime": 47404
+    },
+    {
+        "text": "...or can access information that your computer is sending elsewhere on the internet.",
+        "startTime": 31575,
+        "endTime": 36248,
+        "slowStartTime": 47512,
+        "slowEndTime": 54597
+    },
+    {
+        "text": "There are two things you can do to stay safe.",
+        "startTime": 36693,
+        "endTime": 38382,
+        "slowStartTime": 55189,
+        "slowEndTime": 57798
+    },
+    {
+        "text": "The first is when you're on the wi-fi network, the public wi-fi network,...",
+        "startTime": 38473,
+        "endTime": 42413,
+        "slowStartTime": 57859,
+        "slowEndTime": 63844
+    },
+    {
+        "text": "...don't access information that is sensitive.",
+        "startTime": 42583,
+        "endTime": 44601,
+        "slowStartTime": 64025,
+        "slowEndTime": 67126
+    },
+    {
+        "text": "So don't log on to your bank account to conduct the transaction.",
+        "startTime": 44683,
+        "endTime": 47473,
+        "slowStartTime": 67175,
+        "slowEndTime": 71435
+    },
+    {
+        "text": "The better solution is to use a virtual private network or VPN.",
+        "startTime": 47999,
+        "endTime": 51603,
+        "slowStartTime": 72149,
+        "slowEndTime": 77629
+    },
+    {
+        "text": "What that software does is it encrypts the data that moves from your computer...",
+        "startTime": 51953,
+        "endTime": 55957,
+        "slowStartTime": 78079,
+        "slowEndTime": 84160
+    },
+    {
+        "text": "...elsewhere on the internet so even if someone else is accessing it,...",
+        "startTime": 56059,
+        "endTime": 59723,
+        "slowStartTime": 84238,
+        "slowEndTime": 89810
+    },
+    {
+        "text": "...they won't be able to read it.",
+        "startTime": 60025,
+        "endTime": 61131,
+        "slowStartTime": 90187,
+        "slowEndTime": 91922
+    },
+    {
+        "text": "Thank you so much.",
+        "startTime": 61886,
+        "endTime": 62566,
+        "slowStartTime": 92979,
+        "slowEndTime": 94074
+    }
+]

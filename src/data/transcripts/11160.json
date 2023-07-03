@@ -1,0 +1,72 @@
+[
+    {
+        "text": "I noticed signs around town advertising the touring production of the musical \"Ghost of the Opera House\".",
+        "startTime": 3250,
+        "endTime": 9150,
+        "slowStartTime": 5050,
+        "slowEndTime": 13900
+    },
+    {
+        "text": "Yes, it's in town right now.",
+        "startTime": 9600,
+        "endTime": 11800,
+        "slowStartTime": 14550,
+        "slowEndTime": 17900
+    },
+    {
+        "text": "Have you seen it?",
+        "startTime": 12200,
+        "endTime": 12800,
+        "slowStartTime": 18500,
+        "slowEndTime": 19400
+    },
+    {
+        "text": "I caught the premiere of the show on Broadway a few years ago.",
+        "startTime": 13200,
+        "endTime": 15900,
+        "slowStartTime": 20000,
+        "slowEndTime": 24100
+    },
+    {
+        "text": "Really? You saw it when Vera Wilson played the lead?",
+        "startTime": 16150,
+        "endTime": 19800,
+        "slowStartTime": 24400,
+        "slowEndTime": 29900
+    },
+    {
+        "text": "I heard that was an excellent production.",
+        "startTime": 20250,
+        "endTime": 22500,
+        "slowStartTime": 30600,
+        "slowEndTime": 34000
+    },
+    {
+        "text": "The critics gave it rave reviews.",
+        "startTime": 22850,
+        "endTime": 25050,
+        "slowStartTime": 34500,
+        "slowEndTime": 37800
+    },
+    {
+        "text": "It was great.",
+        "startTime": 25250,
+        "endTime": 26100,
+        "slowStartTime": 38100,
+        "slowEndTime": 39400
+    },
+    {
+        "text": "The plot was predictable, but the whole cast gave an outstanding performance...",
+        "startTime": 26500,
+        "endTime": 30700,
+        "slowStartTime": 39900,
+        "slowEndTime": 46300
+    },
+    {
+        "text": "...and the scenery in the show was amazing!",
+        "startTime": 31050,
+        "endTime": 33350,
+        "slowStartTime": 46800,
+        "slowEndTime": 50300
+    }
+]

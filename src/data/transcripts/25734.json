@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Likes and dislikes.",
+        "startTime": 879,
+        "endTime": 2497,
+        "slowStartTime": 1468,
+        "slowEndTime": 3971
+    },
+    {
+        "text": "My sister likes coffee.",
+        "startTime": 4303,
+        "endTime": 6008,
+        "slowStartTime": 6604,
+        "slowEndTime": 9237
+    },
+    {
+        "text": "She doesn't like tea.",
+        "startTime": 7497,
+        "endTime": 8914,
+        "slowStartTime": 11395,
+        "slowEndTime": 13596
+    },
+    {
+        "text": "My father loves Coca-Cola.",
+        "startTime": 10691,
+        "endTime": 12626,
+        "slowStartTime": 16186,
+        "slowEndTime": 19164
+    },
+    {
+        "text": "She doesn't like Pepsi.",
+        "startTime": 14661,
+        "endTime": 16453,
+        "slowStartTime": 22142,
+        "slowEndTime": 24904
+    },
+    {
+        "text": "I like happy people.",
+        "startTime": 18805,
+        "endTime": 20165,
+        "slowStartTime": 28357,
+        "slowEndTime": 30472
+    },
+    {
+        "text": "I don't like angry people at all.",
+        "startTime": 22171,
+        "endTime": 24279,
+        "slowStartTime": 33406,
+        "slowEndTime": 36644
+    },
+    {
+        "text": "I like taking hot showers.",
+        "startTime": 26272,
+        "endTime": 28337,
+        "slowStartTime": 39558,
+        "slowEndTime": 42730
+    },
+    {
+        "text": "I don't like taking baths.",
+        "startTime": 31063,
+        "endTime": 32955,
+        "slowStartTime": 46744,
+        "slowEndTime": 49657
+    }
+]

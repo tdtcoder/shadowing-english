@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Sue left her dormitory early that morning.",
+        "startTime": 3565,
+        "endTime": 6165,
+        "slowStartTime": 5465,
+        "slowEndTime": 9215
+    },
+    {
+        "text": "She had even washed her uniform the night before.",
+        "startTime": 6865,
+        "endTime": 9465,
+        "slowStartTime": 10370,
+        "slowEndTime": 14185
+    },
+    {
+        "text": "She wanted to look nice for the day.",
+        "startTime": 10160,
+        "endTime": 12130,
+        "slowStartTime": 15345,
+        "slowEndTime": 18255
+    },
+    {
+        "text": "Sue was committed to learning,...",
+        "startTime": 13160,
+        "endTime": 14900,
+        "slowStartTime": 19905,
+        "slowEndTime": 22289
+    },
+    {
+        "text": "...and she had a talent for getting good grades.",
+        "startTime": 15227,
+        "endTime": 17450,
+        "slowStartTime": 23086,
+        "slowEndTime": 26189
+    },
+    {
+        "text": "In fact, Sue didn't sleep much.",
+        "startTime": 18325,
+        "endTime": 20895,
+        "slowStartTime": 27565,
+        "slowEndTime": 31295
+    },
+    {
+        "text": "She composed a paper and found the perfect thesis about the importance of greenhouses.",
+        "startTime": 21660,
+        "endTime": 26290,
+        "slowStartTime": 32605,
+        "slowEndTime": 39445
+    },
+    {
+        "text": "She also studied for her physics test.",
+        "startTime": 27190,
+        "endTime": 29390,
+        "slowStartTime": 40860,
+        "slowEndTime": 44105
+    },
+    {
+        "text": "Sue was already tired.",
+        "startTime": 30225,
+        "endTime": 31955,
+        "slowStartTime": 45455,
+        "slowEndTime": 47855
+    },
+    {
+        "text": "During the test, she calculated her answers.",
+        "startTime": 32755,
+        "endTime": 35455,
+        "slowStartTime": 49205,
+        "slowEndTime": 53175
+    },
+    {
+        "text": "Soon, she felt sick.",
+        "startTime": 36320,
+        "endTime": 38355,
+        "slowStartTime": 54550,
+        "slowEndTime": 57475
+    },
+    {
+        "text": "Her face got hot and her vision began to blur.",
+        "startTime": 39255,
+        "endTime": 42720,
+        "slowStartTime": 58980,
+        "slowEndTime": 64110
+    },
+    {
+        "text": "She was blind for a moment.",
+        "startTime": 43520,
+        "endTime": 44950,
+        "slowStartTime": 65345,
+        "slowEndTime": 67445
+    },
+    {
+        "text": "The teacher saw Sue's apparent sickness.",
+        "startTime": 45785,
+        "endTime": 48085,
+        "slowStartTime": 68795,
+        "slowEndTime": 72105
+    },
+    {
+        "text": "He wanted to send her to the nurse, but she wouldn't go.",
+        "startTime": 49015,
+        "endTime": 52381,
+        "slowStartTime": 73585,
+        "slowEndTime": 78519
+    },
+    {
+        "text": "Sue still had a portion of the test to finish.",
+        "startTime": 53280,
+        "endTime": 55745,
+        "slowStartTime": 80015,
+        "slowEndTime": 83560
+    },
+    {
+        "text": "After that, Sue went to the nurse.",
+        "startTime": 56615,
+        "endTime": 59045,
+        "slowStartTime": 85045,
+        "slowEndTime": 88580
+    },
+    {
+        "text": "After seeing the secretary, she waited.",
+        "startTime": 59980,
+        "endTime": 62275,
+        "slowStartTime": 90065,
+        "slowEndTime": 93455
+    },
+    {
+        "text": "A few minutes later, the nurse came in with a glass of juice...",
+        "startTime": 63245,
+        "endTime": 66445,
+        "slowStartTime": 95000,
+        "slowEndTime": 99610
+    },
+    {
+        "text": "...and told Sue they needed to chat.",
+        "startTime": 66775,
+        "endTime": 68445,
+        "slowStartTime": 100280,
+        "slowEndTime": 102695
+    },
+    {
+        "text": "\"It is obvious you have exhausted yourself,\" the nurse said.",
+        "startTime": 69840,
+        "endTime": 73405,
+        "slowStartTime": 104911,
+        "slowEndTime": 110105
+    },
+    {
+        "text": "\"If you keep working so hard, it could have severe results.\"",
+        "startTime": 74400,
+        "endTime": 78040,
+        "slowStartTime": 111665,
+        "slowEndTime": 117125
+    },
+    {
+        "text": "\"My parents tell me that all the time.\"",
+        "startTime": 78805,
+        "endTime": 80885,
+        "slowStartTime": 118310,
+        "slowEndTime": 121350
+    },
+    {
+        "text": "\"I guess I shouldn't ignore them,\" Sue said.",
+        "startTime": 81505,
+        "endTime": 84205,
+        "slowStartTime": 122300,
+        "slowEndTime": 126270
+    },
+    {
+        "text": "\"You have to remind yourself it is OK to rest,\" the nurse said.",
+        "startTime": 84970,
+        "endTime": 89435,
+        "slowStartTime": 127622,
+        "slowEndTime": 134110
+    },
+    {
+        "text": "When Sue got back to her room, she went right to bed.",
+        "startTime": 90235,
+        "endTime": 93365,
+        "slowStartTime": 135435,
+        "slowEndTime": 140030
+    },
+    {
+        "text": "She made sure she got enough rest every night after that.",
+        "startTime": 94135,
+        "endTime": 97300,
+        "slowStartTime": 141305,
+        "slowEndTime": 145935
+    }
+]

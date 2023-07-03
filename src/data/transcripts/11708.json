@@ -1,0 +1,177 @@
+[
+    {
+        "text": "We made a big effort this year to make Search more interactive...",
+        "startTime": 205,
+        "endTime": 3208,
+        "slowStartTime": 453,
+        "slowEndTime": 5005
+    },
+    {
+        "text": "...and you can see that with Google Instant.",
+        "startTime": 3658,
+        "endTime": 5447,
+        "slowStartTime": 5659,
+        "slowEndTime": 8398
+    },
+    {
+        "text": "And then more recently, we made those previews instant as well.",
+        "startTime": 5946,
+        "endTime": 9554,
+        "slowStartTime": 9102,
+        "slowEndTime": 14597
+    },
+    {
+        "text": "And earlier in the year, we launched new user interfaces for both web search and image search...",
+        "startTime": 10246,
+        "endTime": 15554,
+        "slowStartTime": 15594,
+        "slowEndTime": 23600
+    },
+    {
+        "text": "...to make it easier and to make it more intuitive,...",
+        "startTime": 15904,
+        "endTime": 17796,
+        "slowStartTime": 24000,
+        "slowEndTime": 26987
+    },
+    {
+        "text": "...to work with the results after you run a search. ",
+        "startTime": 18051,
+        "endTime": 20141,
+        "slowStartTime": 27294,
+        "slowEndTime": 30502
+    },
+    {
+        "text": "And we're also making Search more intelligent. ",
+        "startTime": 20651,
+        "endTime": 23292,
+        "slowStartTime": 31102,
+        "slowEndTime": 35214
+    },
+    {
+        "text": "We made several changes to results. ",
+        "startTime": 23748,
+        "endTime": 25712,
+        "slowStartTime": 35847,
+        "slowEndTime": 38791
+    },
+    {
+        "text": "So now you can see things like a concert schedule or the answers to the questions...",
+        "startTime": 26100,
+        "endTime": 30853,
+        "slowStartTime": 39284,
+        "slowEndTime": 46546
+    },
+    {
+        "text": "...highlighted right in the snippet. ",
+        "startTime": 31099,
+        "endTime": 32945,
+        "slowStartTime": 46824,
+        "slowEndTime": 49618
+    },
+    {
+        "text": "And we're also now starting to roll out Place Search...",
+        "startTime": 33546,
+        "endTime": 36056,
+        "slowStartTime": 50501,
+        "slowEndTime": 54316
+    },
+    {
+        "text": "...so when we know that you're looking for something that's in the neighborhood like an ice cream shop or something,...",
+        "startTime": 36353,
+        "endTime": 41795,
+        "slowStartTime": 54706,
+        "slowEndTime": 62908
+    },
+    {
+        "text": "...we'll pull reviews, web pages, the address, and a photo altogether for you.",
+        "startTime": 42101,
+        "endTime": 47590,
+        "slowStartTime": 63351,
+        "slowEndTime": 71614
+    },
+    {
+        "text": "We also doubled down on the ad side of the house.",
+        "startTime": 48401,
+        "endTime": 51095,
+        "slowStartTime": 72736,
+        "slowEndTime": 76655
+    },
+    {
+        "text": "In the past year, we've launched several new ad formats which we've told you about,...",
+        "startTime": 51547,
+        "endTime": 55306,
+        "slowStartTime": 77502,
+        "slowEndTime": 83139
+    },
+    {
+        "text": "...site links, seller rating ads.",
+        "startTime": 55652,
+        "endTime": 57751,
+        "slowStartTime": 83486,
+        "slowEndTime": 86851
+    },
+    {
+        "text": "Recently, we just added this product listing ads with photos and prices.",
+        "startTime": 57953,
+        "endTime": 62000,
+        "slowStartTime": 87105,
+        "slowEndTime": 93132
+    },
+    {
+        "text": "It makes sense that if I'm shopping for something like a coffee maker,...",
+        "startTime": 62754,
+        "endTime": 66652,
+        "slowStartTime": 94300,
+        "slowEndTime": 100220
+    },
+    {
+        "text": "...it's helpful to see more information in the ad. ",
+        "startTime": 67052,
+        "endTime": 70004,
+        "slowStartTime": 100742,
+        "slowEndTime": 105257
+    },
+    {
+        "text": "But the biggest boost of all came from good old-fashioned ads quality improvements.",
+        "startTime": 70647,
+        "endTime": 76793,
+        "slowStartTime": 106186,
+        "slowEndTime": 115443
+    },
+    {
+        "text": "Q4 was our best quarter in years from a quality standpoint. ",
+        "startTime": 77348,
+        "endTime": 82253,
+        "slowStartTime": 116193,
+        "slowEndTime": 123642
+    },
+    {
+        "text": "We launched over 20 updates which led to gains...",
+        "startTime": 82848,
+        "endTime": 86460,
+        "slowStartTime": 124449,
+        "slowEndTime": 129969
+    },
+    {
+        "text": "...that were nearly double those that we would normally see in a strong quarter. ",
+        "startTime": 86599,
+        "endTime": 91255,
+        "slowStartTime": 130101,
+        "slowEndTime": 137103
+    },
+    {
+        "text": "So although we've been at this for years,...",
+        "startTime": 91904,
+        "endTime": 94343,
+        "slowStartTime": 137996,
+        "slowEndTime": 141708
+    },
+    {
+        "text": "...we're still finding lots and lots of ways to make ads better.",
+        "startTime": 94695,
+        "endTime": 99397,
+        "slowStartTime": 142248,
+        "slowEndTime": 149364
+    }
+]

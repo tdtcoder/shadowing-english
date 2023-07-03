@@ -1,0 +1,65 @@
+[
+    {
+        "text": "My name is John.",
+        "startTime": 341,
+        "endTime": 1457,
+        "slowStartTime": 662,
+        "slowEndTime": 2411
+    },
+    {
+        "text": "I am a high school student.",
+        "startTime": 2111,
+        "endTime": 3687,
+        "slowStartTime": 3316,
+        "slowEndTime": 5756
+    },
+    {
+        "text": "I like to read books and write stories.",
+        "startTime": 4646,
+        "endTime": 7327,
+        "slowStartTime": 7119,
+        "slowEndTime": 11215
+    },
+    {
+        "text": "I want to study education in college.",
+        "startTime": 8299,
+        "endTime": 10409,
+        "slowStartTime": 12598,
+        "slowEndTime": 15839
+    },
+    {
+        "text": "My dream is to become a teacher.",
+        "startTime": 11017,
+        "endTime": 13045,
+        "slowStartTime": 16675,
+        "slowEndTime": 19792
+    },
+    {
+        "text": "I want to teach many students...",
+        "startTime": 13909,
+        "endTime": 15744,
+        "slowStartTime": 21013,
+        "slowEndTime": 23841
+    },
+    {
+        "text": "...and work in different schools.",
+        "startTime": 16121,
+        "endTime": 17615,
+        "slowStartTime": 24331,
+        "slowEndTime": 26648
+    },
+    {
+        "text": "I want to help children achieve their dreams.",
+        "startTime": 18560,
+        "endTime": 21174,
+        "slowStartTime": 27990,
+        "slowEndTime": 31986
+    },
+    {
+        "text": "Someday, I hope to write books for children.",
+        "startTime": 21898,
+        "endTime": 24748,
+        "slowStartTime": 32997,
+        "slowEndTime": 37347
+    }
+]

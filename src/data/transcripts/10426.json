@@ -1,0 +1,198 @@
+[
+    {
+        "text": "Taxi, miss?",
+        "startTime": 13000,
+        "endTime": 13980,
+        "slowStartTime": 20220,
+        "slowEndTime": 21440
+    },
+    {
+        "text": "Cheapest rates in Glen Cove.",
+        "startTime": 14180,
+        "endTime": 15645,
+        "slowStartTime": 21800,
+        "slowEndTime": 23920
+    },
+    {
+        "text": "Well, hello! How are you?",
+        "startTime": 16215,
+        "endTime": 18150,
+        "slowStartTime": 25060,
+        "slowEndTime": 27865
+    },
+    {
+        "text": "Well, I'm fine. How are you?",
+        "startTime": 18685,
+        "endTime": 20320,
+        "slowStartTime": 28525,
+        "slowEndTime": 31065
+    },
+    {
+        "text": "And I might add, who are you?",
+        "startTime": 20550,
+        "endTime": 22155,
+        "slowStartTime": 31330,
+        "slowEndTime": 33805
+    },
+    {
+        "text": "Who am I?",
+        "startTime": 23155,
+        "endTime": 24190,
+        "slowStartTime": 35385,
+        "slowEndTime": 36710
+    },
+    {
+        "text": "Am I supposed to know?",
+        "startTime": 24690,
+        "endTime": 25825,
+        "slowStartTime": 37615,
+        "slowEndTime": 39260
+    },
+    {
+        "text": "Come to think of it, no, you're not supposed to know.",
+        "startTime": 27490,
+        "endTime": 29280,
+        "slowStartTime": 41795,
+        "slowEndTime": 44568
+    },
+    {
+        "text": "Are you stranded?",
+        "startTime": 29395,
+        "endTime": 30465,
+        "slowStartTime": 44670,
+        "slowEndTime": 46178
+    },
+    {
+        "text": "My father was supposed to pick me up but something must've happened.",
+        "startTime": 31050,
+        "endTime": 33700,
+        "slowStartTime": 47200,
+        "slowEndTime": 51225
+    },
+    {
+        "text": "Whoever your father is and whatever happened, I'll be eternally grateful.",
+        "startTime": 33830,
+        "endTime": 36800,
+        "slowStartTime": 51452,
+        "slowEndTime": 55765
+    },
+    {
+        "text": "That is if I can give you a lift.",
+        "startTime": 36935,
+        "endTime": 38070,
+        "slowStartTime": 55940,
+        "slowEndTime": 57690
+    },
+    {
+        "text": "You certainly can. You can drive me home.",
+        "startTime": 38500,
+        "endTime": 40475,
+        "slowStartTime": 58255,
+        "slowEndTime": 61345
+    },
+    {
+        "text": "Good! I'll get your bags.",
+        "startTime": 40670,
+        "endTime": 42000,
+        "slowStartTime": 61540,
+        "slowEndTime": 63445
+    },
+    {
+        "text": "Where do you live?",
+        "startTime": 44555,
+        "endTime": 45275,
+        "slowStartTime": 67540,
+        "slowEndTime": 68440
+    },
+    {
+        "text": "Dosoris Lane.",
+        "startTime": 46270,
+        "endTime": 47245,
+        "slowStartTime": 70105,
+        "slowEndTime": 71510
+    },
+    {
+        "text": "Dosoris Lane?",
+        "startTime": 47845,
+        "endTime": 48715,
+        "slowStartTime": 72395,
+        "slowEndTime": 73590
+    },
+    {
+        "text": "Say, that's where I live.",
+        "startTime": 49280,
+        "endTime": 51050,
+        "slowStartTime": 74335,
+        "slowEndTime": 77235
+    },
+    {
+        "text": "Really?",
+        "startTime": 51150,
+        "endTime": 51785,
+        "slowStartTime": 77290,
+        "slowEndTime": 78315
+    },
+    {
+        "text": "Sure. We must be neighbors.",
+        "startTime": 51980,
+        "endTime": 53655,
+        "slowStartTime": 78520,
+        "slowEndTime": 81135
+    },
+    {
+        "text": "And if there's one thing I believe in, it's \"love thy neighbor\".",
+        "startTime": 53720,
+        "endTime": 56385,
+        "slowStartTime": 81250,
+        "slowEndTime": 85100
+    },
+    {
+        "text": "Oh! So do I.",
+        "startTime": 56655,
+        "endTime": 58355,
+        "slowStartTime": 85580,
+        "slowEndTime": 88140
+    },
+    {
+        "text": "Come on, David.",
+        "startTime": 59400,
+        "endTime": 60275,
+        "slowStartTime": 89833,
+        "slowEndTime": 90955
+    },
+    {
+        "text": "David? Is his name David?",
+        "startTime": 61210,
+        "endTime": 63565,
+        "slowStartTime": 92525,
+        "slowEndTime": 95860
+    },
+    {
+        "text": "Yes, it is.",
+        "startTime": 63695,
+        "endTime": 64465,
+        "slowStartTime": 96025,
+        "slowEndTime": 97155
+    },
+    {
+        "text": "That's funny.",
+        "startTime": 65095,
+        "endTime": 65765,
+        "slowStartTime": 98350,
+        "slowEndTime": 99127
+    },
+    {
+        "text": "My name's David too.",
+        "startTime": 65865,
+        "endTime": 67035,
+        "slowStartTime": 99402,
+        "slowEndTime": 101068
+    },
+    {
+        "text": "That is funny, isn't it?",
+        "startTime": 68465,
+        "endTime": 69735,
+        "slowStartTime": 103355,
+        "slowEndTime": 105245
+    }
+]

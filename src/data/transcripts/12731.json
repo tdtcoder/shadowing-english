@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Hey Kathy, Changmin, how are you guys doing?",
+        "startTime": 2465,
+        "endTime": 5034,
+        "slowStartTime": 3847,
+        "slowEndTime": 7776
+    },
+    {
+        "text": "Did you enjoy the holiday?",
+        "startTime": 5363,
+        "endTime": 6538,
+        "slowStartTime": 8195,
+        "slowEndTime": 10032
+    },
+    {
+        "text": "Hi Susie. Yes, I had a great time. I recharged my batteries.",
+        "startTime": 7025,
+        "endTime": 11355,
+        "slowStartTime": 10688,
+        "slowEndTime": 17258
+    },
+    {
+        "text": "Yes, I enjoyed the holiday, too, I guess, but I'm a bit tired.",
+        "startTime": 11989,
+        "endTime": 16253,
+        "slowStartTime": 18134,
+        "slowEndTime": 24604
+    },
+    {
+        "text": "You don't sound very convincing there, and you look tired.",
+        "startTime": 16959,
+        "endTime": 20702,
+        "slowStartTime": 25588,
+        "slowEndTime": 31278
+    },
+    {
+        "text": "Why didn't you take a rest during the weekend?",
+        "startTime": 21025,
+        "endTime": 23081,
+        "slowStartTime": 31687,
+        "slowEndTime": 34847
+    },
+    {
+        "text": "I did rest.",
+        "startTime": 23295,
+        "endTime": 23961,
+        "slowStartTime": 35092,
+        "slowEndTime": 36167
+    },
+    {
+        "text": "It's just that I had planned to get a lot of work done over the holiday,...",
+        "startTime": 24529,
+        "endTime": 27707,
+        "slowStartTime": 36943,
+        "slowEndTime": 41785
+    },
+    {
+        "text": "...but I ended up doing nothing.",
+        "startTime": 28195,
+        "endTime": 29766,
+        "slowStartTime": 42442,
+        "slowEndTime": 44874
+    },
+    {
+        "text": "What kind of work did you want to do?",
+        "startTime": 30209,
+        "endTime": 32023,
+        "slowStartTime": 45463,
+        "slowEndTime": 48260
+    },
+    {
+        "text": "Well, I have a big project due for my computer science class.",
+        "startTime": 32459,
+        "endTime": 35629,
+        "slowStartTime": 48839,
+        "slowEndTime": 53669
+    },
+    {
+        "text": "I see what you mean, but I don't think you should worry too much about it.",
+        "startTime": 35983,
+        "endTime": 39444,
+        "slowStartTime": 54124,
+        "slowEndTime": 59391
+    },
+    {
+        "text": "Susie's right.",
+        "startTime": 40015,
+        "endTime": 40906,
+        "slowStartTime": 60172,
+        "slowEndTime": 61584
+    },
+    {
+        "text": "I wish you had done it before, but there's still plenty of time left in this semester.",
+        "startTime": 41325,
+        "endTime": 45431,
+        "slowStartTime": 62137,
+        "slowEndTime": 68372
+    },
+    {
+        "text": "Yes, but I really think I should have gotten more work done.",
+        "startTime": 45701,
+        "endTime": 48830,
+        "slowStartTime": 68702,
+        "slowEndTime": 73470
+    }
+]

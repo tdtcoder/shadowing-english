@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Chris and I were looking at Chris's book about tigers.",
+        "startTime": 1147,
+        "endTime": 4736,
+        "slowStartTime": 1871,
+        "slowEndTime": 7329
+    },
+    {
+        "text": "It was so cool.",
+        "startTime": 5413,
+        "endTime": 7054,
+        "slowStartTime": 8270,
+        "slowEndTime": 10806
+    },
+    {
+        "text": "It had pictures of orange tigers and white tigers.",
+        "startTime": 7391,
+        "endTime": 12767,
+        "slowStartTime": 11236,
+        "slowEndTime": 19375
+    },
+    {
+        "text": "Then out of nowhere, we went over a bump.",
+        "startTime": 13397,
+        "endTime": 17032,
+        "slowStartTime": 20246,
+        "slowEndTime": 25773
+    },
+    {
+        "text": "We dropped the book and it landed far away.",
+        "startTime": 21083,
+        "endTime": 23938,
+        "slowStartTime": 31775,
+        "slowEndTime": 36132
+    },
+    {
+        "text": "\"Don't worry, I'll get it,\" I said.",
+        "startTime": 24641,
+        "endTime": 26780,
+        "slowStartTime": 37112,
+        "slowEndTime": 40395
+    },
+    {
+        "text": "\"Wait!\" Chris said.",
+        "startTime": 27420,
+        "endTime": 28655,
+        "slowStartTime": 41280,
+        "slowEndTime": 43208
+    },
+    {
+        "text": "\"You should stay seated until the bus driver says that it is okay to stand,\"...",
+        "startTime": 29269,
+        "endTime": 34067,
+        "slowStartTime": 44054,
+        "slowEndTime": 51326
+    },
+    {
+        "text": "...he told me.",
+        "startTime": 34603,
+        "endTime": 35283,
+        "slowStartTime": 52054,
+        "slowEndTime": 53149
+    },
+    {
+        "text": "\"But I'm going to get your book,\" I said.",
+        "startTime": 35831,
+        "endTime": 38802,
+        "slowStartTime": 53897,
+        "slowEndTime": 58428
+    },
+    {
+        "text": "Then, we went over another bump.",
+        "startTime": 39543,
+        "endTime": 41777,
+        "slowStartTime": 59464,
+        "slowEndTime": 62891
+    },
+    {
+        "text": "And I fell back into my seat.",
+        "startTime": 43619,
+        "endTime": 45851,
+        "slowStartTime": 65578,
+        "slowEndTime": 69001
+    },
+    {
+        "text": "\"Are you okay?\" Chris asked.",
+        "startTime": 46659,
+        "endTime": 48900,
+        "slowStartTime": 70139,
+        "slowEndTime": 73575
+    },
+    {
+        "text": "\"Yes,\" I said.",
+        "startTime": 49715,
+        "endTime": 51331,
+        "slowStartTime": 74723,
+        "slowEndTime": 77222
+    },
+    {
+        "text": "But you're right.",
+        "startTime": 51727,
+        "endTime": 52901,
+        "slowStartTime": 77740,
+        "slowEndTime": 79576
+    },
+    {
+        "text": "It's safer to stay seated when I'm on the bus.",
+        "startTime": 53519,
+        "endTime": 56530,
+        "slowStartTime": 80429,
+        "slowEndTime": 85020
+    },
+    {
+        "text": "We can get the book when we get there.",
+        "startTime": 56881,
+        "endTime": 58799,
+        "slowStartTime": 85472,
+        "slowEndTime": 88423
+    },
+    {
+        "text": "And when the bus driver says it's okay to stand.",
+        "startTime": 59045,
+        "endTime": 61789,
+        "slowStartTime": 88718,
+        "slowEndTime": 92909
+    }
+]

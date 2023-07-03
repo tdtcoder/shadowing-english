@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Imagine you're trapped in a cell with a killer and he asked you to play a game.",
+        "startTime": 1612,
+        "endTime": 7002,
+        "slowStartTime": 2568,
+        "slowEndTime": 10728
+    },
+    {
+        "text": "Place your finger or the cursor on any of the green squares.",
+        "startTime": 7984,
+        "endTime": 12377,
+        "slowStartTime": 12126,
+        "slowEndTime": 18790
+    },
+    {
+        "text": "You're going to make four moves.",
+        "startTime": 13441,
+        "endTime": 15044,
+        "slowStartTime": 20311,
+        "slowEndTime": 22791
+    },
+    {
+        "text": "Each move may involve going across one square or several.",
+        "startTime": 15436,
+        "endTime": 18733,
+        "slowStartTime": 23304,
+        "slowEndTime": 28324
+    },
+    {
+        "text": "Now move left or right to the nearest pink square.",
+        "startTime": 19759,
+        "endTime": 23591,
+        "slowStartTime": 29789,
+        "slowEndTime": 35611
+    },
+    {
+        "text": "Now, move up or down to the nearest green square.",
+        "startTime": 25174,
+        "endTime": 28307,
+        "slowStartTime": 37911,
+        "slowEndTime": 42685
+    },
+    {
+        "text": "Now move diagonally to the nearest pink square...",
+        "startTime": 30101,
+        "endTime": 32813,
+        "slowStartTime": 45302,
+        "slowEndTime": 49445
+    },
+    {
+        "text": "...and now move either down or to the right to the nearest green square.",
+        "startTime": 33481,
+        "endTime": 39075,
+        "slowStartTime": 50372,
+        "slowEndTime": 58838
+    },
+    {
+        "text": "If you've chosen any of these squares, the killer is going to let you go free.",
+        "startTime": 40033,
+        "endTime": 45849,
+        "slowStartTime": 60199,
+        "slowEndTime": 68998
+    },
+    {
+        "text": "Any of these squares are absolutely fine.",
+        "startTime": 52861,
+        "endTime": 55901,
+        "slowStartTime": 79442,
+        "slowEndTime": 84076
+    },
+    {
+        "text": "But if you've chosen this square, then your time has come.",
+        "startTime": 57190,
+        "endTime": 61302,
+        "slowStartTime": 85935,
+        "slowEndTime": 92178
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Piece of cake.",
+        "startTime": 5427,
+        "endTime": 6629,
+        "slowStartTime": 8291,
+        "slowEndTime": 10168
+    },
+    {
+        "text": "It means something that is easy to do.",
+        "startTime": 7349,
+        "endTime": 10427,
+        "slowStartTime": 11173,
+        "slowEndTime": 15866
+    },
+    {
+        "text": "Aaron got a perfect score on his test.",
+        "startTime": 12217,
+        "endTime": 14897,
+        "slowStartTime": 18475,
+        "slowEndTime": 22571
+    },
+    {
+        "text": "It was a piece of cake for him.",
+        "startTime": 15613,
+        "endTime": 17895,
+        "slowStartTime": 23569,
+        "slowEndTime": 27067
+    },
+    {
+        "text": "Math is a difficult subject but English is a piece of cake for me.",
+        "startTime": 19531,
+        "endTime": 25113,
+        "slowStartTime": 29446,
+        "slowEndTime": 37894
+    },
+    {
+        "text": "I can finish the project in one hour.",
+        "startTime": 27197,
+        "endTime": 29935,
+        "slowStartTime": 40945,
+        "slowEndTime": 45127
+    },
+    {
+        "text": "It will be a piece of cake.",
+        "startTime": 30877,
+        "endTime": 33217,
+        "slowStartTime": 46466,
+        "slowEndTime": 50050
+    }
+]

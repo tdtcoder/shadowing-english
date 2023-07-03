@@ -1,0 +1,100 @@
+[
+    {
+        "text": "I go to the park.",
+        "startTime": 3487,
+        "endTime": 4919,
+        "slowStartTime": 5381,
+        "slowEndTime": 7603
+    },
+    {
+        "text": "I go to the store.",
+        "startTime": 6021,
+        "endTime": 7739,
+        "slowStartTime": 9181,
+        "slowEndTime": 11833
+    },
+    {
+        "text": "I go to the movies.",
+        "startTime": 8819,
+        "endTime": 10473,
+        "slowStartTime": 13379,
+        "slowEndTime": 15935
+    },
+    {
+        "text": "I go to the zoo.",
+        "startTime": 11623,
+        "endTime": 13167,
+        "slowStartTime": 17585,
+        "slowEndTime": 19976
+    },
+    {
+        "text": "I go to the ice cream shop.",
+        "startTime": 14315,
+        "endTime": 16385,
+        "slowStartTime": 21623,
+        "slowEndTime": 24802
+    },
+    {
+        "text": "I go to the library.",
+        "startTime": 17527,
+        "endTime": 19336,
+        "slowStartTime": 26441,
+        "slowEndTime": 29229
+    },
+    {
+        "text": "I go to my room.",
+        "startTime": 20451,
+        "endTime": 22157,
+        "slowStartTime": 30827,
+        "slowEndTime": 33461
+    },
+    {
+        "text": "I go to sleep.",
+        "startTime": 23227,
+        "endTime": 24477,
+        "slowStartTime": 34991,
+        "slowEndTime": 36940
+    },
+    {
+        "text": "Where do you go?",
+        "startTime": 28485,
+        "endTime": 29738,
+        "slowStartTime": 42877,
+        "slowEndTime": 44832
+    },
+    {
+        "text": "I go to the playground.",
+        "startTime": 30811,
+        "endTime": 32457,
+        "slowStartTime": 46366,
+        "slowEndTime": 48910
+    },
+    {
+        "text": "Where does your sister go?",
+        "startTime": 33506,
+        "endTime": 35379,
+        "slowStartTime": 50409,
+        "slowEndTime": 53294
+    },
+    {
+        "text": "She goes to the supermarket.",
+        "startTime": 36397,
+        "endTime": 38649,
+        "slowStartTime": 54746,
+        "slowEndTime": 58199
+    },
+    {
+        "text": "Where do your mom and dad go?",
+        "startTime": 39673,
+        "endTime": 41933,
+        "slowStartTime": 59659,
+        "slowEndTime": 63124
+    },
+    {
+        "text": "They go to the restaurant.",
+        "startTime": 42989,
+        "endTime": 45119,
+        "slowStartTime": 64634,
+        "slowEndTime": 67904
+    }
+]

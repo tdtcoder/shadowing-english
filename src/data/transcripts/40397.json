@@ -1,0 +1,135 @@
+[
+    {
+        "text": "Hey, here's your pen.",
+        "startTime": 341,
+        "endTime": 2193,
+        "slowStartTime": 662,
+        "slowEndTime": 3514
+    },
+    {
+        "text": "Do you want to join us for some coffee?",
+        "startTime": 2931,
+        "endTime": 4731,
+        "slowStartTime": 4547,
+        "slowEndTime": 7321
+    },
+    {
+        "text": "Oh yeah.",
+        "startTime": 5994,
+        "endTime": 6626,
+        "slowStartTime": 9141,
+        "slowEndTime": 10164
+    },
+    {
+        "text": "Yes I do, but I'm going to finish a report right now.",
+        "startTime": 7115,
+        "endTime": 10523,
+        "slowStartTime": 10823,
+        "slowEndTime": 16010
+    },
+    {
+        "text": "What time are you going to the coffee shop?",
+        "startTime": 11367,
+        "endTime": 13385,
+        "slowStartTime": 17201,
+        "slowEndTime": 20302
+    },
+    {
+        "text": "We plan to go at 2:45.",
+        "startTime": 14221,
+        "endTime": 16976,
+        "slowStartTime": 21482,
+        "slowEndTime": 25689
+    },
+    {
+        "text": "2:45.",
+        "startTime": 18129,
+        "endTime": 19415,
+        "slowStartTime": 27344,
+        "slowEndTime": 29347
+    },
+    {
+        "text": "I'm going to meet the marketing team at 2:30.",
+        "startTime": 19997,
+        "endTime": 22837,
+        "slowStartTime": 30146,
+        "slowEndTime": 34481
+    },
+    {
+        "text": "We have to talk about our presentation.",
+        "startTime": 23262,
+        "endTime": 25573,
+        "slowStartTime": 35043,
+        "slowEndTime": 38585
+    },
+    {
+        "text": "What time will you finish?",
+        "startTime": 26574,
+        "endTime": 28408,
+        "slowStartTime": 40011,
+        "slowEndTime": 42837
+    },
+    {
+        "text": "We will finish at 3:30.",
+        "startTime": 29227,
+        "endTime": 31057,
+        "slowStartTime": 43991,
+        "slowEndTime": 46811
+    },
+    {
+        "text": "Did you say 3:30?",
+        "startTime": 31841,
+        "endTime": 33367,
+        "slowStartTime": 47911,
+        "slowEndTime": 50275
+    },
+    {
+        "text": "I did.",
+        "startTime": 34748,
+        "endTime": 35704,
+        "slowStartTime": 52272,
+        "slowEndTime": 53781
+    },
+    {
+        "text": "Where will you meet?",
+        "startTime": 36623,
+        "endTime": 37726,
+        "slowStartTime": 55084,
+        "slowEndTime": 56814
+    },
+    {
+        "text": "At the meeting room next to the stairs.",
+        "startTime": 38413,
+        "endTime": 40663,
+        "slowStartTime": 57770,
+        "slowEndTime": 61219
+    },
+    {
+        "text": "Okay, let's have a coffee break after your meeting.",
+        "startTime": 41269,
+        "endTime": 45089,
+        "slowStartTime": 62053,
+        "slowEndTime": 67858
+    },
+    {
+        "text": "We'll wait outside the coffee shop.",
+        "startTime": 45767,
+        "endTime": 47610,
+        "slowStartTime": 68800,
+        "slowEndTime": 71640
+    },
+    {
+        "text": "Great.",
+        "startTime": 48334,
+        "endTime": 48927,
+        "slowStartTime": 72651,
+        "slowEndTime": 73615
+    },
+    {
+        "text": "See you later.",
+        "startTime": 49309,
+        "endTime": 50178,
+        "slowStartTime": 74114,
+        "slowEndTime": 75492
+    }
+]

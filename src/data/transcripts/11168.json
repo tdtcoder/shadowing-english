@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Let me see if I have this correct.",
+        "startTime": 3151,
+        "endTime": 4735,
+        "slowStartTime": 4877,
+        "slowEndTime": 7327
+    },
+    {
+        "text": "From your point of view, it's more important to order the units you need...",
+        "startTime": 5341,
+        "endTime": 9326,
+        "slowStartTime": 8161,
+        "slowEndTime": 14214
+    },
+    {
+        "text": "...rather than to get the cheapest price.",
+        "startTime": 9563,
+        "endTime": 11673,
+        "slowStartTime": 14494,
+        "slowEndTime": 17735
+    },
+    {
+        "text": "Right.",
+        "startTime": 12606,
+        "endTime": 12930,
+        "slowStartTime": 19059,
+        "slowEndTime": 19620
+    },
+    {
+        "text": "Most importantly, we don't want to keep a lot of back stock...",
+        "startTime": 13486,
+        "endTime": 16821,
+        "slowStartTime": 20379,
+        "slowEndTime": 25456
+    },
+    {
+        "text": "...and we're prepared to suffer a slight increase in cost for orders if necessary.",
+        "startTime": 17309,
+        "endTime": 21737,
+        "slowStartTime": 26113,
+        "slowEndTime": 32830
+    },
+    {
+        "text": "Then, may I suggest an alternative proposal.",
+        "startTime": 22601,
+        "endTime": 25119,
+        "slowStartTime": 34052,
+        "slowEndTime": 37903
+    },
+    {
+        "text": "With your past orders ranging between 600 and 800 units,...",
+        "startTime": 26191,
+        "endTime": 29491,
+        "slowStartTime": 39437,
+        "slowEndTime": 44461
+    },
+    {
+        "text": "...I would propose setting the discount rate 3% lower.",
+        "startTime": 30027,
+        "endTime": 33199,
+        "slowStartTime": 45190,
+        "slowEndTime": 50024
+    },
+    {
+        "text": "Would you be willing to accept that?",
+        "startTime": 33847,
+        "endTime": 35219,
+        "slowStartTime": 50921,
+        "slowEndTime": 53053
+    },
+    {
+        "text": "Before I respond to that offer, let me do a few calculations of my own.",
+        "startTime": 36383,
+        "endTime": 40553,
+        "slowStartTime": 54725,
+        "slowEndTime": 61054
+    }
+]

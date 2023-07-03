@@ -1,0 +1,142 @@
+[
+    {
+        "text": "﻿Who took the cookie from the cookie jar?",
+        "startTime": 8365,
+        "endTime": 11574,
+        "slowStartTime": 12697,
+        "slowEndTime": 17586
+    },
+    {
+        "text": "Panda took the cookie from the cookie jar.",
+        "startTime": 12381,
+        "endTime": 15629,
+        "slowStartTime": 18722,
+        "slowEndTime": 23668
+    },
+    {
+        "text": "Who me?",
+        "startTime": 15881,
+        "endTime": 16757,
+        "slowStartTime": 23971,
+        "slowEndTime": 25360
+    },
+    {
+        "text": "Yes, you.",
+        "startTime": 16847,
+        "endTime": 17667,
+        "slowStartTime": 25420,
+        "slowEndTime": 26725
+    },
+    {
+        "text": "Not me.",
+        "startTime": 17863,
+        "endTime": 18758,
+        "slowStartTime": 26944,
+        "slowEndTime": 28362
+    },
+    {
+        "text": "Then who?",
+        "startTime": 18862,
+        "endTime": 19914,
+        "slowStartTime": 28443,
+        "slowEndTime": 30096
+    },
+    {
+        "text": "Rabbit.",
+        "startTime": 22353,
+        "endTime": 22919,
+        "slowStartTime": 33680,
+        "slowEndTime": 34604
+    },
+    {
+        "text": "Who took the cookie from the cookie jar?",
+        "startTime": 26361,
+        "endTime": 29594,
+        "slowStartTime": 39691,
+        "slowEndTime": 44616
+    },
+    {
+        "text": "Rabbit took the cookie from the cookie jar.",
+        "startTime": 30361,
+        "endTime": 33715,
+        "slowStartTime": 45692,
+        "slowEndTime": 50798
+    },
+    {
+        "text": "Who me?",
+        "startTime": 33882,
+        "endTime": 34743,
+        "slowStartTime": 50973,
+        "slowEndTime": 52339
+    },
+    {
+        "text": "Yes, you.",
+        "startTime": 34861,
+        "endTime": 35743,
+        "slowStartTime": 52442,
+        "slowEndTime": 53840
+    },
+    {
+        "text": "Not me.",
+        "startTime": 35826,
+        "endTime": 36811,
+        "slowStartTime": 53889,
+        "slowEndTime": 55442
+    },
+    {
+        "text": "Then who?",
+        "startTime": 36885,
+        "endTime": 37905,
+        "slowStartTime": 55478,
+        "slowEndTime": 57083
+    },
+    {
+        "text": "Bear.",
+        "startTime": 40367,
+        "endTime": 40953,
+        "slowStartTime": 60701,
+        "slowEndTime": 61654
+    },
+    {
+        "text": "Who took the cookie from the cookie jar?",
+        "startTime": 44327,
+        "endTime": 47577,
+        "slowStartTime": 66641,
+        "slowEndTime": 71590
+    },
+    {
+        "text": "Bear took the cookie from the cookie jar.",
+        "startTime": 48334,
+        "endTime": 51663,
+        "slowStartTime": 72651,
+        "slowEndTime": 77719
+    },
+    {
+        "text": "Who me?",
+        "startTime": 51877,
+        "endTime": 52689,
+        "slowStartTime": 77966,
+        "slowEndTime": 79259
+    },
+    {
+        "text": "Yes, you.",
+        "startTime": 52826,
+        "endTime": 53696,
+        "slowStartTime": 79389,
+        "slowEndTime": 80769
+    },
+    {
+        "text": "Not me.",
+        "startTime": 53870,
+        "endTime": 54649,
+        "slowStartTime": 80955,
+        "slowEndTime": 82199
+    },
+    {
+        "text": "Then who?",
+        "startTime": 54832,
+        "endTime": 55724,
+        "slowStartTime": 82398,
+        "slowEndTime": 83811
+    }
+]

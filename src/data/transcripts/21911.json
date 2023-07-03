@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Our climate is changing.",
+        "startTime": 83,
+        "endTime": 2061,
+        "slowStartTime": 275,
+        "slowEndTime": 3316
+    },
+    {
+        "text": "The choices we make affect the amount of greenhouse gases we put into the atmosphere.",
+        "startTime": 2595,
+        "endTime": 8057,
+        "slowStartTime": 4043,
+        "slowEndTime": 12310
+    },
+    {
+        "text": "Making a few changes around the office can cut carbon emissions.",
+        "startTime": 8559,
+        "endTime": 12411,
+        "slowStartTime": 12989,
+        "slowEndTime": 18842
+    },
+    {
+        "text": "Shut off your computer, monitor and other electronics when you're not using them.",
+        "startTime": 12923,
+        "endTime": 18195,
+        "slowStartTime": 19534,
+        "slowEndTime": 27518
+    },
+    {
+        "text": "Turn off the lights in rooms you're not using and at the end of the day.",
+        "startTime": 19506,
+        "endTime": 24032,
+        "slowStartTime": 29409,
+        "slowEndTime": 36273
+    },
+    {
+        "text": "Buy Energy Star qualified office products, like copiers, printers and computers.",
+        "startTime": 25005,
+        "endTime": 31761,
+        "slowStartTime": 37658,
+        "slowEndTime": 47728
+    },
+    {
+        "text": "Green your commute by walking, biking, taking public transportation and carpooling.",
+        "startTime": 32452,
+        "endTime": 39065,
+        "slowStartTime": 48828,
+        "slowEndTime": 58823
+    },
+    {
+        "text": "Recycle paper and plastic.",
+        "startTime": 39981,
+        "endTime": 42087,
+        "slowStartTime": 60122,
+        "slowEndTime": 63355
+    },
+    {
+        "text": "Print on both sides of the paper.",
+        "startTime": 42652,
+        "endTime": 44866,
+        "slowStartTime": 64128,
+        "slowEndTime": 67524
+    },
+    {
+        "text": "And buy office products that use recycled content.",
+        "startTime": 45523,
+        "endTime": 48873,
+        "slowStartTime": 68434,
+        "slowEndTime": 73534
+    },
+    {
+        "text": "Reduce your carbon impact to the environment.",
+        "startTime": 49289,
+        "endTime": 51904,
+        "slowStartTime": 74084,
+        "slowEndTime": 78081
+    },
+    {
+        "text": "Act now on climate change.",
+        "startTime": 52373,
+        "endTime": 54589,
+        "slowStartTime": 78709,
+        "slowEndTime": 82108
+    }
+]

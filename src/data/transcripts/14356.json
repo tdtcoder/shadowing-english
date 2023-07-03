@@ -1,0 +1,149 @@
+[
+    {
+        "text": "This morning, I got up and got ready quickly because I have to get a lot of stuff done.",
+        "startTime": 11952,
+        "endTime": 16529,
+        "slowStartTime": 18078,
+        "slowEndTime": 25019
+    },
+    {
+        "text": "I sat down at my desk to start getting my stuff done...",
+        "startTime": 16855,
+        "endTime": 19685,
+        "slowStartTime": 25433,
+        "slowEndTime": 29753
+    },
+    {
+        "text": "...and I spilled my coffee so I got a sponge to clean it up.",
+        "startTime": 19769,
+        "endTime": 22815,
+        "slowStartTime": 29804,
+        "slowEndTime": 34448
+    },
+    {
+        "text": "And I figured I'd take an extra minute to clean the whole desk...",
+        "startTime": 23001,
+        "endTime": 25838,
+        "slowStartTime": 34652,
+        "slowEndTime": 38982
+    },
+    {
+        "text": "...because a clean desk would help me get my stuff done.",
+        "startTime": 25978,
+        "endTime": 28516,
+        "slowStartTime": 39117,
+        "slowEndTime": 42999
+    },
+    {
+        "text": "When I was finished, I realized I hadn't eaten anything...",
+        "startTime": 29010,
+        "endTime": 31791,
+        "slowStartTime": 43665,
+        "slowEndTime": 47912
+    },
+    {
+        "text": "...and I didn't wanna be hungry while I got my stuff done.",
+        "startTime": 31885,
+        "endTime": 34608,
+        "slowStartTime": 47977,
+        "slowEndTime": 52137
+    },
+    {
+        "text": "So I went into the kitchen and I was out of cereal.",
+        "startTime": 34699,
+        "endTime": 37147,
+        "slowStartTime": 52199,
+        "slowEndTime": 55945
+    },
+    {
+        "text": "When I got into the grocery store, I remembered a bunch of other crap I needed to get.",
+        "startTime": 37625,
+        "endTime": 41539,
+        "slowStartTime": 56588,
+        "slowEndTime": 62533
+    },
+    {
+        "text": "And I figured I was already there so I did my shopping for the week...",
+        "startTime": 41623,
+        "endTime": 44751,
+        "slowStartTime": 62585,
+        "slowEndTime": 67352
+    },
+    {
+        "text": "...so I didn't have to worry about it while I got my stuff done.",
+        "startTime": 44863,
+        "endTime": 47755,
+        "slowStartTime": 67444,
+        "slowEndTime": 71857
+    },
+    {
+        "text": "When I got home, I didn't feel like cereal anymore and so I made an omelet...",
+        "startTime": 48178,
+        "endTime": 51903,
+        "slowStartTime": 72417,
+        "slowEndTime": 78079
+    },
+    {
+        "text": "...and I did the dishes so I wouldn't have to do them after I got my stuff done.",
+        "startTime": 51969,
+        "endTime": 55601,
+        "slowStartTime": 78103,
+        "slowEndTime": 83627
+    },
+    {
+        "text": "And then I went out to get some oil from the hardware store...",
+        "startTime": 55685,
+        "endTime": 58436,
+        "slowStartTime": 83678,
+        "slowEndTime": 87879
+    },
+    {
+        "text": "...because my desk chair is kind of squeaky...",
+        "startTime": 58509,
+        "endTime": 60473,
+        "slowStartTime": 87913,
+        "slowEndTime": 90934
+    },
+    {
+        "text": "...and I didn't want to be distracted by a squeaky chair while I got my stuff done.",
+        "startTime": 60568,
+        "endTime": 64487,
+        "slowStartTime": 91002,
+        "slowEndTime": 96955
+    },
+    {
+        "text": "When I got back it was getting kind of late...",
+        "startTime": 64950,
+        "endTime": 66976,
+        "slowStartTime": 97575,
+        "slowEndTime": 100689
+    },
+    {
+        "text": "...and I knew I wouldn't be able to get my stuff done today...",
+        "startTime": 67070,
+        "endTime": 69549,
+        "slowStartTime": 100755,
+        "slowEndTime": 104548
+    },
+    {
+        "text": "...so I started watching the Twilight Zone marathon on TV.",
+        "startTime": 69637,
+        "endTime": 72850,
+        "slowStartTime": 104605,
+        "slowEndTime": 109500
+    },
+    {
+        "text": "I just have to make sure I get to bed early because I want to be well rested tomorrow...",
+        "startTime": 73237,
+        "endTime": 77285,
+        "slowStartTime": 110006,
+        "slowEndTime": 116153
+    },
+    {
+        "text": "...so I can get my stuff done.",
+        "startTime": 77395,
+        "endTime": 78878,
+        "slowStartTime": 116242,
+        "slowEndTime": 118542
+    }
+]

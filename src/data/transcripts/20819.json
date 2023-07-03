@@ -1,0 +1,219 @@
+[
+    {
+        "text": "Hello?",
+        "startTime": 1739,
+        "endTime": 2158,
+        "slowStartTime": 2759,
+        "slowEndTime": 3462
+    },
+    {
+        "text": "Hi, Amanda.",
+        "startTime": 3114,
+        "endTime": 3879,
+        "slowStartTime": 4821,
+        "slowEndTime": 6044
+    },
+    {
+        "text": "How is it going?",
+        "startTime": 4143,
+        "endTime": 4901,
+        "slowStartTime": 6364,
+        "slowEndTime": 7577
+    },
+    {
+        "text": "Everything is fine.",
+        "startTime": 5321,
+        "endTime": 6411,
+        "slowStartTime": 8132,
+        "slowEndTime": 9841
+    },
+    {
+        "text": "Cool.",
+        "startTime": 6679,
+        "endTime": 7167,
+        "slowStartTime": 10168,
+        "slowEndTime": 10976
+    },
+    {
+        "text": "How's your weekend?",
+        "startTime": 7564,
+        "endTime": 8473,
+        "slowStartTime": 11496,
+        "slowEndTime": 12934
+    },
+    {
+        "text": "What did you do?",
+        "startTime": 8688,
+        "endTime": 9423,
+        "slowStartTime": 13182,
+        "slowEndTime": 14360
+    },
+    {
+        "text": "I went to the movies with my friends.",
+        "startTime": 9881,
+        "endTime": 11900,
+        "slowStartTime": 14971,
+        "slowEndTime": 18075
+    },
+    {
+        "text": "What did you watch?",
+        "startTime": 12337,
+        "endTime": 13247,
+        "slowStartTime": 18656,
+        "slowEndTime": 20095
+    },
+    {
+        "text": "I watched a romantic comedy movie.",
+        "startTime": 13571,
+        "endTime": 15728,
+        "slowStartTime": 20507,
+        "slowEndTime": 23817
+    },
+    {
+        "text": "Who's in the movie?",
+        "startTime": 16443,
+        "endTime": 17329,
+        "slowStartTime": 24815,
+        "slowEndTime": 26218
+    },
+    {
+        "text": "Will Smith.",
+        "startTime": 17679,
+        "endTime": 18485,
+        "slowStartTime": 26669,
+        "slowEndTime": 27952
+    },
+    {
+        "text": "I love him very much.",
+        "startTime": 18825,
+        "endTime": 20480,
+        "slowStartTime": 28388,
+        "slowEndTime": 30945
+    },
+    {
+        "text": "Oh, you love Will Smith?",
+        "startTime": 20833,
+        "endTime": 22411,
+        "slowStartTime": 31399,
+        "slowEndTime": 33841
+    },
+    {
+        "text": "Did you watch \"Men in Black\"?",
+        "startTime": 22898,
+        "endTime": 24245,
+        "slowStartTime": 34497,
+        "slowEndTime": 36593
+    },
+    {
+        "text": "Of course.",
+        "startTime": 24649,
+        "endTime": 25389,
+        "slowStartTime": 37124,
+        "slowEndTime": 38308
+    },
+    {
+        "text": "I watched it twice!",
+        "startTime": 25738,
+        "endTime": 26983,
+        "slowStartTime": 38757,
+        "slowEndTime": 40699
+    },
+    {
+        "text": "You must be really crazy about him.",
+        "startTime": 27332,
+        "endTime": 29168,
+        "slowStartTime": 41148,
+        "slowEndTime": 43977
+    },
+    {
+        "text": "What movies with him would you recommend?",
+        "startTime": 29679,
+        "endTime": 31523,
+        "slowStartTime": 44668,
+        "slowEndTime": 47509
+    },
+    {
+        "text": "Do you know \"I Am Legend\"?",
+        "startTime": 32167,
+        "endTime": 34075,
+        "slowStartTime": 48401,
+        "slowEndTime": 51338
+    },
+    {
+        "text": "I strongly recommend this movie.",
+        "startTime": 34749,
+        "endTime": 36767,
+        "slowStartTime": 52273,
+        "slowEndTime": 55375
+    },
+    {
+        "text": "What kind of movie is it?",
+        "startTime": 37253,
+        "endTime": 38440,
+        "slowStartTime": 56030,
+        "slowEndTime": 57885
+    },
+    {
+        "text": "It's kind of science fiction.",
+        "startTime": 38751,
+        "endTime": 40542,
+        "slowStartTime": 58277,
+        "slowEndTime": 61038
+    },
+    {
+        "text": "Okay.",
+        "startTime": 40946,
+        "endTime": 41614,
+        "slowStartTime": 61569,
+        "slowEndTime": 62646
+    },
+    {
+        "text": "Well, so what did you do after watching the movie?",
+        "startTime": 41965,
+        "endTime": 44718,
+        "slowStartTime": 63098,
+        "slowEndTime": 67302
+    },
+    {
+        "text": "We went to Insa-dong for dinner.",
+        "startTime": 45283,
+        "endTime": 47043,
+        "slowStartTime": 68075,
+        "slowEndTime": 70790
+    },
+    {
+        "text": "It's a famous traditional street in Korea.",
+        "startTime": 47675,
+        "endTime": 50166,
+        "slowStartTime": 71663,
+        "slowEndTime": 75474
+    },
+    {
+        "text": "Did you have Korean traditional food for dinner?",
+        "startTime": 50831,
+        "endTime": 53198,
+        "slowStartTime": 76397,
+        "slowEndTime": 80022
+    },
+    {
+        "text": "Yes, we had bibimbap for dinner.",
+        "startTime": 53818,
+        "endTime": 56085,
+        "slowStartTime": 80877,
+        "slowEndTime": 84352
+    },
+    {
+        "text": "It was very delicious!",
+        "startTime": 56425,
+        "endTime": 57945,
+        "slowStartTime": 84788,
+        "slowEndTime": 87143
+    },
+    {
+        "text": "You had a fun weekend!",
+        "startTime": 58225,
+        "endTime": 59660,
+        "slowStartTime": 87487,
+        "slowEndTime": 89715
+    }
+]

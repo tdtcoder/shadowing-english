@@ -1,0 +1,58 @@
+[
+    {
+        "text": "This is a Robobee.",
+        "startTime": 7784,
+        "endTime": 8812,
+        "slowStartTime": 11826,
+        "slowEndTime": 13443
+    },
+    {
+        "text": "These miniature robots are inspired by the biology of bees and hive behavior,...",
+        "startTime": 9966,
+        "endTime": 14356,
+        "slowStartTime": 15099,
+        "slowEndTime": 21759
+    },
+    {
+        "text": "...new materials, compact high energy power sources and new control systems...",
+        "startTime": 15937,
+        "endTime": 20161,
+        "slowStartTime": 24056,
+        "slowEndTime": 30467
+    },
+    {
+        "text": "...and a new method of self-assembly and pop-up manufacturing.",
+        "startTime": 20739,
+        "endTime": 23927,
+        "slowStartTime": 31258,
+        "slowEndTime": 36115
+    },
+    {
+        "text": "I'm Elizabeth Farrell, a PhD student at SEAS.",
+        "startTime": 24827,
+        "endTime": 27573,
+        "slowStartTime": 37391,
+        "slowEndTime": 41584
+    },
+    {
+        "text": "I am energized by the potential of an autonomous device that thinks on its own.",
+        "startTime": 28279,
+        "endTime": 32108,
+        "slowStartTime": 42569,
+        "slowEndTime": 48387
+    },
+    {
+        "text": "It could impact everything from crop pollination to search and rescue.",
+        "startTime": 32717,
+        "endTime": 36155,
+        "slowStartTime": 49226,
+        "slowEndTime": 54457
+    },
+    {
+        "text": "And that's science not fiction.",
+        "startTime": 36829,
+        "endTime": 38631,
+        "slowStartTime": 55393,
+        "slowEndTime": 58172
+    }
+]

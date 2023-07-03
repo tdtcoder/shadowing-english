@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Hello?",
+        "startTime": 2270,
+        "endTime": 2762,
+        "slowStartTime": 3555,
+        "slowEndTime": 4368
+    },
+    {
+        "text": "Hello sir, how are you this evening?",
+        "startTime": 3247,
+        "endTime": 5373,
+        "slowStartTime": 5020,
+        "slowEndTime": 8284
+    },
+    {
+        "text": "Can I speak to Mr. Kim?",
+        "startTime": 5587,
+        "endTime": 6979,
+        "slowStartTime": 8531,
+        "slowEndTime": 10693
+    },
+    {
+        "text": "I'm fine, thank you. This is Kim Changmin.",
+        "startTime": 7546,
+        "endTime": 9978,
+        "slowStartTime": 11469,
+        "slowEndTime": 15192
+    },
+    {
+        "text": "May I ask who's calling, please?",
+        "startTime": 10517,
+        "endTime": 11859,
+        "slowStartTime": 15925,
+        "slowEndTime": 18014
+    },
+    {
+        "text": "This is Jeff Copeland calling.",
+        "startTime": 12311,
+        "endTime": 14133,
+        "slowStartTime": 18616,
+        "slowEndTime": 21425
+    },
+    {
+        "text": "I'm a representative of Wandex Investments.",
+        "startTime": 14463,
+        "endTime": 17131,
+        "slowStartTime": 21844,
+        "slowEndTime": 25922
+    },
+    {
+        "text": "Yes?",
+        "startTime": 17777,
+        "endTime": 18200,
+        "slowStartTime": 26815,
+        "slowEndTime": 27525
+    },
+    {
+        "text": "I'd like to let you know about some great investment opportunities.",
+        "startTime": 18685,
+        "endTime": 22617,
+        "slowStartTime": 28178,
+        "slowEndTime": 34150
+    },
+    {
+        "text": "Well, uh, I think you have the wrong number.",
+        "startTime": 23314,
+        "endTime": 25744,
+        "slowStartTime": 35121,
+        "slowEndTime": 38841
+    },
+    {
+        "text": "I'm not really looking to invest any money right now.",
+        "startTime": 26274,
+        "endTime": 28623,
+        "slowStartTime": 39561,
+        "slowEndTime": 43159
+    },
+    {
+        "text": "We're offering a great investment deal and I'm sure you will be interested after you hear about it.",
+        "startTime": 29199,
+        "endTime": 34789,
+        "slowStartTime": 43949,
+        "slowEndTime": 52408
+    },
+    {
+        "text": "Well, to be honest with you, I'm a little bit busy at the moment.",
+        "startTime": 35441,
+        "endTime": 39120,
+        "slowStartTime": 53312,
+        "slowEndTime": 58905
+    },
+    {
+        "text": "OK, I see. Then have a good day, sir.",
+        "startTime": 39637,
+        "endTime": 42788,
+        "slowStartTime": 59606,
+        "slowEndTime": 64407
+    }
+]

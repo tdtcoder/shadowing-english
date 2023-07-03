@@ -1,0 +1,65 @@
+[
+    {
+        "text": "I heard about your mother, Jack.",
+        "startTime": 1223,
+        "endTime": 2666,
+        "slowStartTime": 1984,
+        "slowEndTime": 4224
+    },
+    {
+        "text": "I'm sorry.",
+        "startTime": 3359,
+        "endTime": 3925,
+        "slowStartTime": 5189,
+        "slowEndTime": 6113
+    },
+    {
+        "text": "I don't remember anything.",
+        "startTime": 5875,
+        "endTime": 6961,
+        "slowStartTime": 8963,
+        "slowEndTime": 10667
+    },
+    {
+        "text": "You can't remember her,...",
+        "startTime": 7385,
+        "endTime": 8603,
+        "slowStartTime": 11228,
+        "slowEndTime": 13129
+    },
+    {
+        "text": "...but I cannot forget.",
+        "startTime": 9205,
+        "endTime": 10359,
+        "slowStartTime": 13957,
+        "slowEndTime": 15764
+    },
+    {
+        "text": "This house deserves to have its history honored.",
+        "startTime": 14683,
+        "endTime": 17668,
+        "slowStartTime": 22175,
+        "slowEndTime": 26727
+    },
+    {
+        "text": "Everyone lets everyone down at some point.",
+        "startTime": 34534,
+        "endTime": 36688,
+        "slowStartTime": 51951,
+        "slowEndTime": 55257
+    },
+    {
+        "text": "How do you come back from that?",
+        "startTime": 38507,
+        "endTime": 39796,
+        "slowStartTime": 57910,
+        "slowEndTime": 59919
+    },
+    {
+        "text": "That's romance.",
+        "startTime": 41579,
+        "endTime": 42735,
+        "slowStartTime": 62519,
+        "slowEndTime": 64328
+    }
+]

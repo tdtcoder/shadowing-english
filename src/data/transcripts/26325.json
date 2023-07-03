@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Hi mum, my sentence was:...",
+        "startTime": 697,
+        "endTime": 2859,
+        "slowStartTime": 1196,
+        "slowEndTime": 4513
+    },
+    {
+        "text": "...\"Thank you for giving me a platform to be open-minded,\"...",
+        "startTime": 3115,
+        "endTime": 6227,
+        "slowStartTime": 4823,
+        "slowEndTime": 9566
+    },
+    {
+        "text": "...\"that you've helped me through very difficult decisions\"...",
+        "startTime": 6522,
+        "endTime": 9557,
+        "slowStartTime": 9933,
+        "slowEndTime": 14560
+    },
+    {
+        "text": "...\"or encouraged me to make those decisions.\"",
+        "startTime": 9621,
+        "endTime": 11901,
+        "slowStartTime": 14582,
+        "slowEndTime": 18077
+    },
+    {
+        "text": "The woman I am today comes from the strength...",
+        "startTime": 24943,
+        "endTime": 28496,
+        "slowStartTime": 37564,
+        "slowEndTime": 42969
+    },
+    {
+        "text": "...that you have passed on to me.",
+        "startTime": 29052,
+        "endTime": 30654,
+        "slowStartTime": 43728,
+        "slowEndTime": 46206
+    },
+    {
+        "text": "Well done, mum.",
+        "startTime": 31437,
+        "endTime": 32114,
+        "slowStartTime": 47306,
+        "slowEndTime": 48396
+    },
+    {
+        "text": "You've just been completely unstoppable in your will and character.",
+        "startTime": 41272,
+        "endTime": 47167,
+        "slowStartTime": 62058,
+        "slowEndTime": 70976
+    },
+    {
+        "text": "I hope if I can have 10% of that in my life, I'm gonna be okay.",
+        "startTime": 47575,
+        "endTime": 52905,
+        "slowStartTime": 71512,
+        "slowEndTime": 79582
+    },
+    {
+        "text": "Thank you for giving me the ability to dream.",
+        "startTime": 53190,
+        "endTime": 55312,
+        "slowStartTime": 79935,
+        "slowEndTime": 83193
+    },
+    {
+        "text": "You've always been a really good storyteller.",
+        "startTime": 55402,
+        "endTime": 57777,
+        "slowStartTime": 83253,
+        "slowEndTime": 86890
+    },
+    {
+        "text": "Now, I just want to thank you for being so amazing.",
+        "startTime": 58766,
+        "endTime": 61971,
+        "slowStartTime": 88299,
+        "slowEndTime": 93181
+    }
+]

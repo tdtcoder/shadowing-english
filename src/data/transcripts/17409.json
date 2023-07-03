@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Die.",
+        "startTime": 2392,
+        "endTime": 2945,
+        "slowStartTime": 3738,
+        "slowEndTime": 4642
+    },
+    {
+        "text": "My dog died.",
+        "startTime": 3776,
+        "endTime": 5073,
+        "slowStartTime": 5814,
+        "slowEndTime": 7834
+    },
+    {
+        "text": "My little dog died.",
+        "startTime": 6488,
+        "endTime": 8085,
+        "slowStartTime": 9882,
+        "slowEndTime": 12353
+    },
+    {
+        "text": "Lie.",
+        "startTime": 9519,
+        "endTime": 10110,
+        "slowStartTime": 14428,
+        "slowEndTime": 15390
+    },
+    {
+        "text": "It is bad to lie.",
+        "startTime": 10939,
+        "endTime": 12484,
+        "slowStartTime": 16559,
+        "slowEndTime": 18951
+    },
+    {
+        "text": "It is very bad to lie.",
+        "startTime": 13903,
+        "endTime": 15957,
+        "slowStartTime": 21005,
+        "slowEndTime": 24160
+    },
+    {
+        "text": "Pie.",
+        "startTime": 17342,
+        "endTime": 17889,
+        "slowStartTime": 26163,
+        "slowEndTime": 27058
+    },
+    {
+        "text": "I like to eat pie.",
+        "startTime": 18762,
+        "endTime": 20371,
+        "slowStartTime": 28293,
+        "slowEndTime": 30781
+    },
+    {
+        "text": "I like to eat apple pie.",
+        "startTime": 21851,
+        "endTime": 23965,
+        "slowStartTime": 32927,
+        "slowEndTime": 36172
+    },
+    {
+        "text": "Tie.",
+        "startTime": 25375,
+        "endTime": 25958,
+        "slowStartTime": 38212,
+        "slowEndTime": 39162
+    },
+    {
+        "text": "My dad wears a tie.",
+        "startTime": 26767,
+        "endTime": 28648,
+        "slowStartTime": 40301,
+        "slowEndTime": 43197
+    },
+    {
+        "text": "My dad wears a blue tie.",
+        "startTime": 30015,
+        "endTime": 32387,
+        "slowStartTime": 45173,
+        "slowEndTime": 48806
+    },
+    {
+        "text": "Mouse, mouse, Puppy sees a little mouse.",
+        "startTime": 39477,
+        "endTime": 43224,
+        "slowStartTime": 59366,
+        "slowEndTime": 65061
+    },
+    {
+        "text": "Puppy, Puppy, let it be, Puppy.",
+        "startTime": 43350,
+        "endTime": 46701,
+        "slowStartTime": 65175,
+        "slowEndTime": 70277
+    },
+    {
+        "text": "Frog, frog, Puppy sees a little frog.",
+        "startTime": 47088,
+        "endTime": 50700,
+        "slowStartTime": 70782,
+        "slowEndTime": 76275
+    },
+    {
+        "text": "Puppy, Puppy, let it be, Puppy.",
+        "startTime": 50863,
+        "endTime": 54177,
+        "slowStartTime": 76444,
+        "slowEndTime": 81490
+    },
+    {
+        "text": "Turtle, turtle, Puppy sees a little turtle.",
+        "startTime": 54599,
+        "endTime": 58225,
+        "slowStartTime": 82048,
+        "slowEndTime": 87563
+    },
+    {
+        "text": "Puppy, Puppy, let it be, Puppy.",
+        "startTime": 58338,
+        "endTime": 61582,
+        "slowStartTime": 87657,
+        "slowEndTime": 92598
+    },
+    {
+        "text": "Ball, ball, Puppy sees a little ball.",
+        "startTime": 62113,
+        "endTime": 65711,
+        "slowStartTime": 93319,
+        "slowEndTime": 98792
+    },
+    {
+        "text": "Puppy, Puppy, get the ball, Puppy!",
+        "startTime": 65841,
+        "endTime": 69252,
+        "slowStartTime": 98911,
+        "slowEndTime": 104103
+    }
+]

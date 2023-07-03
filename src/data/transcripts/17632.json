@@ -1,0 +1,170 @@
+[
+    {
+        "text": "How was your weekend, Sally?",
+        "startTime": 2401,
+        "endTime": 3949,
+        "slowStartTime": 3752,
+        "slowEndTime": 6148
+    },
+    {
+        "text": "I had a really good time last weekend.",
+        "startTime": 5091,
+        "endTime": 7789,
+        "slowStartTime": 7787,
+        "slowEndTime": 11908
+    },
+    {
+        "text": "My dad took me to the amusement park.",
+        "startTime": 8131,
+        "endTime": 10517,
+        "slowStartTime": 12346,
+        "slowEndTime": 16001
+    },
+    {
+        "text": "Did you ride a merry-go-round there?",
+        "startTime": 11687,
+        "endTime": 13900,
+        "slowStartTime": 17680,
+        "slowEndTime": 21075
+    },
+    {
+        "text": "Yes, I did.",
+        "startTime": 14998,
+        "endTime": 15987,
+        "slowStartTime": 22647,
+        "slowEndTime": 24205
+    },
+    {
+        "text": "It was fun.",
+        "startTime": 16237,
+        "endTime": 17293,
+        "slowStartTime": 24506,
+        "slowEndTime": 26165
+    },
+    {
+        "text": "Did you ride a roller coaster, too?",
+        "startTime": 18436,
+        "endTime": 20691,
+        "slowStartTime": 27804,
+        "slowEndTime": 31262
+    },
+    {
+        "text": "No, I didn't ride a roller coaster.",
+        "startTime": 21826,
+        "endTime": 24341,
+        "slowStartTime": 32889,
+        "slowEndTime": 36737
+    },
+    {
+        "text": "Why not?",
+        "startTime": 25511,
+        "endTime": 26435,
+        "slowStartTime": 38417,
+        "slowEndTime": 39877
+    },
+    {
+        "text": "It is really exciting!",
+        "startTime": 26837,
+        "endTime": 28399,
+        "slowStartTime": 40405,
+        "slowEndTime": 42823
+    },
+    {
+        "text": "When my family is sick, Doctor Jen makes us feel better.",
+        "startTime": 34755,
+        "endTime": 40809,
+        "slowStartTime": 52282,
+        "slowEndTime": 61438
+    },
+    {
+        "text": "My sisters have a fever.",
+        "startTime": 42067,
+        "endTime": 44763,
+        "slowStartTime": 63251,
+        "slowEndTime": 67369
+    },
+    {
+        "text": "Let's take them to Doctor Jen.",
+        "startTime": 46045,
+        "endTime": 48327,
+        "slowStartTime": 69218,
+        "slowEndTime": 72715
+    },
+    {
+        "text": "My father has a cough.",
+        "startTime": 49553,
+        "endTime": 52292,
+        "slowStartTime": 74480,
+        "slowEndTime": 78663
+    },
+    {
+        "text": "Let's take him to Doctor Jen.",
+        "startTime": 53544,
+        "endTime": 55814,
+        "slowStartTime": 80466,
+        "slowEndTime": 83946
+    },
+    {
+        "text": "My mother has a sore throat.",
+        "startTime": 57066,
+        "endTime": 59531,
+        "slowStartTime": 85749,
+        "slowEndTime": 89521
+    },
+    {
+        "text": "Let's take her to Doctor Jen.",
+        "startTime": 61047,
+        "endTime": 63273,
+        "slowStartTime": 91721,
+        "slowEndTime": 95135
+    },
+    {
+        "text": "My grandpa has stiff knees.",
+        "startTime": 64560,
+        "endTime": 67487,
+        "slowStartTime": 96990,
+        "slowEndTime": 101456
+    },
+    {
+        "text": "Let's take him to Doctor Jen.",
+        "startTime": 68545,
+        "endTime": 70827,
+        "slowStartTime": 102968,
+        "slowEndTime": 106465
+    },
+    {
+        "text": "My grandma has an earache.",
+        "startTime": 72064,
+        "endTime": 74567,
+        "slowStartTime": 108246,
+        "slowEndTime": 112076
+    },
+    {
+        "text": "Let's take her to Doctor Jen.",
+        "startTime": 76045,
+        "endTime": 78213,
+        "slowStartTime": 114217,
+        "slowEndTime": 117545
+    },
+    {
+        "text": "My dog has a sore paw.",
+        "startTime": 79569,
+        "endTime": 82229,
+        "slowStartTime": 119504,
+        "slowEndTime": 123569
+    },
+    {
+        "text": "We can't take him to Doctor Jen.",
+        "startTime": 83279,
+        "endTime": 85816,
+        "slowStartTime": 125069,
+        "slowEndTime": 128949
+    },
+    {
+        "text": "Let's take him to the vet!",
+        "startTime": 87241,
+        "endTime": 89725,
+        "slowStartTime": 131011,
+        "slowEndTime": 134812
+    }
+]

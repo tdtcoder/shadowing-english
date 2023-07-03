@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Here are phrases you can use when you're asking for or giving directions.",
+        "startTime": 50,
+        "endTime": 4341,
+        "slowStartTime": 188,
+        "slowEndTime": 6736
+    },
+    {
+        "text": "Where is...?",
+        "startTime": 5875,
+        "endTime": 7027,
+        "slowStartTime": 8962,
+        "slowEndTime": 10766
+    },
+    {
+        "text": "What's the fastest way to get to...?",
+        "startTime": 8635,
+        "endTime": 10686,
+        "slowStartTime": 13102,
+        "slowEndTime": 16254
+    },
+    {
+        "text": "How do I get to...?",
+        "startTime": 12392,
+        "endTime": 13472,
+        "slowStartTime": 18738,
+        "slowEndTime": 20433
+    },
+    {
+        "text": "Could you give me directions to the...?",
+        "startTime": 15212,
+        "endTime": 16909,
+        "slowStartTime": 22968,
+        "slowEndTime": 25588
+    },
+    {
+        "text": "Excuse me, do you know where...?",
+        "startTime": 18559,
+        "endTime": 20776,
+        "slowStartTime": 27989,
+        "slowEndTime": 31389
+    },
+    {
+        "text": "Follow the road.",
+        "startTime": 22603,
+        "endTime": 23665,
+        "slowStartTime": 34055,
+        "slowEndTime": 35722
+    },
+    {
+        "text": "Go along the...",
+        "startTime": 25345,
+        "endTime": 26397,
+        "slowStartTime": 38167,
+        "slowEndTime": 39820
+    },
+    {
+        "text": "Go past the...",
+        "startTime": 27987,
+        "endTime": 29316,
+        "slowStartTime": 42131,
+        "slowEndTime": 44199
+    },
+    {
+        "text": "It's on your...",
+        "startTime": 30913,
+        "endTime": 31943,
+        "slowStartTime": 46519,
+        "slowEndTime": 48139
+    },
+    {
+        "text": "Do you know where...?",
+        "startTime": 33653,
+        "endTime": 34670,
+        "slowStartTime": 50630,
+        "slowEndTime": 52230
+    }
+]

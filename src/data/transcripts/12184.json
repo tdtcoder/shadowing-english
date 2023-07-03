@@ -1,0 +1,86 @@
+[
+    {
+        "text": "I'm going to need to start looking for a place to live.",
+        "startTime": 1303,
+        "endTime": 3735,
+        "slowStartTime": 2104,
+        "slowEndTime": 5827
+    },
+    {
+        "text": "Good idea. You don't want to stay in that hotel the whole time you are here!",
+        "startTime": 3977,
+        "endTime": 8123,
+        "slowStartTime": 6115,
+        "slowEndTime": 12409
+    },
+    {
+        "text": "Do you know a good way to find an apartment to rent?",
+        "startTime": 8379,
+        "endTime": 10823,
+        "slowStartTime": 12719,
+        "slowEndTime": 16460
+    },
+    {
+        "text": "Well, I think the best thing to do is look at the rental ads in the newspapers.",
+        "startTime": 11121,
+        "endTime": 15329,
+        "slowStartTime": 16831,
+        "slowEndTime": 23218
+    },
+    {
+        "text": "Okay, I'll try that. Is there anything else?",
+        "startTime": 15523,
+        "endTime": 17930,
+        "slowStartTime": 23434,
+        "slowEndTime": 27120
+    },
+    {
+        "text": "Sure, you could visit a real estate agency.",
+        "startTime": 18208,
+        "endTime": 20951,
+        "slowStartTime": 27462,
+        "slowEndTime": 31652
+    },
+    {
+        "text": "Hmm. Well, I think I will start by looking in the newspapers.",
+        "startTime": 21211,
+        "endTime": 24887,
+        "slowStartTime": 31966,
+        "slowEndTime": 37555
+    },
+    {
+        "text": "Let me look with you. Maybe I can give you a hand. I know this city pretty well.",
+        "startTime": 25132,
+        "endTime": 29873,
+        "slowStartTime": 37848,
+        "slowEndTime": 45034
+    },
+    {
+        "text": "Okay, what should I be looking for?",
+        "startTime": 30011,
+        "endTime": 31905,
+        "slowStartTime": 45167,
+        "slowEndTime": 48082
+    },
+    {
+        "text": "Most of all, I think you should get a place that is in a nice neighborhood.",
+        "startTime": 32203,
+        "endTime": 36040,
+        "slowStartTime": 48454,
+        "slowEndTime": 54285
+    },
+    {
+        "text": "I also don't want to be too far from work.",
+        "startTime": 36461,
+        "endTime": 38713,
+        "slowStartTime": 54841,
+        "slowEndTime": 58295
+    },
+    {
+        "text": "Good point!",
+        "startTime": 38916,
+        "endTime": 39817,
+        "slowStartTime": 58524,
+        "slowEndTime": 59951
+    }
+]

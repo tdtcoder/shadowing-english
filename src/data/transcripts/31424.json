@@ -1,0 +1,121 @@
+[
+    {
+        "text": "The idea of shipping started in 3rd century BC,...",
+        "startTime": 459,
+        "endTime": 3154,
+        "slowStartTime": 839,
+        "slowEndTime": 4956
+    },
+    {
+        "text": "...when merchants realized that sending products over sea...",
+        "startTime": 3458,
+        "endTime": 6046,
+        "slowStartTime": 5337,
+        "slowEndTime": 9294
+    },
+    {
+        "text": "...was cheaper and faster than by land.",
+        "startTime": 6425,
+        "endTime": 8683,
+        "slowStartTime": 9787,
+        "slowEndTime": 13250
+    },
+    {
+        "text": "Early on, goods were loaded onto ships in sacks, barrels and wooden crates...",
+        "startTime": 9283,
+        "endTime": 13445,
+        "slowStartTime": 14074,
+        "slowEndTime": 20393
+    },
+    {
+        "text": "...with scores of dockworkers squeezing them on decks...",
+        "startTime": 13539,
+        "endTime": 16485,
+        "slowStartTime": 20458,
+        "slowEndTime": 24953
+    },
+    {
+        "text": "...or in tight spaces below.",
+        "startTime": 16563,
+        "endTime": 17854,
+        "slowStartTime": 24995,
+        "slowEndTime": 27006
+    },
+    {
+        "text": "Ships often spent more time at ports than sailing.",
+        "startTime": 18589,
+        "endTime": 21862,
+        "slowStartTime": 28033,
+        "slowEndTime": 33018
+    },
+    {
+        "text": "And not much changed until 1956.",
+        "startTime": 22402,
+        "endTime": 24658,
+        "slowStartTime": 33753,
+        "slowEndTime": 37212
+    },
+    {
+        "text": "That's when American truck driver Malcolm McLane...",
+        "startTime": 25451,
+        "endTime": 28359,
+        "slowStartTime": 38326,
+        "slowEndTime": 42763
+    },
+    {
+        "text": "...stacked 58 metal boxes on a ship going from New Jersey to Houston.",
+        "startTime": 28654,
+        "endTime": 33093,
+        "slowStartTime": 43131,
+        "slowEndTime": 49864
+    },
+    {
+        "text": "This idea completely revolutionized the industry.",
+        "startTime": 33678,
+        "endTime": 36986,
+        "slowStartTime": 50667,
+        "slowEndTime": 55704
+    },
+    {
+        "text": "The containers not only protected the products,...",
+        "startTime": 38315,
+        "endTime": 40643,
+        "slowStartTime": 57623,
+        "slowEndTime": 61190
+    },
+    {
+        "text": "...but when the ships docked at ports,...",
+        "startTime": 40997,
+        "endTime": 42309,
+        "slowStartTime": 61646,
+        "slowEndTime": 63689
+    },
+    {
+        "text": "...truck beds and freight trains could take them away without repackaging.",
+        "startTime": 42952,
+        "endTime": 46870,
+        "slowStartTime": 64578,
+        "slowEndTime": 70530
+    },
+    {
+        "text": "Cargo could now be moved from purpose-built vessels...",
+        "startTime": 47500,
+        "endTime": 50511,
+        "slowStartTime": 71400,
+        "slowEndTime": 75992
+    },
+    {
+        "text": "...to rail and roads in massive volumes,...",
+        "startTime": 50741,
+        "endTime": 53368,
+        "slowStartTime": 76262,
+        "slowEndTime": 80277
+    },
+    {
+        "text": "...cutting transport cost by at least 75 percent.",
+        "startTime": 53701,
+        "endTime": 57232,
+        "slowStartTime": 80702,
+        "slowEndTime": 86073
+    }
+]

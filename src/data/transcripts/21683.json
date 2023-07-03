@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Google Voice allows you to have different voicemail greetings based on who is calling.",
+        "startTime": 73,
+        "endTime": 3977,
+        "slowStartTime": 259,
+        "slowEndTime": 6190
+    },
+    {
+        "text": "This is useful for example, if you want one message for work.",
+        "startTime": 4471,
+        "endTime": 7692,
+        "slowStartTime": 6856,
+        "slowEndTime": 11763
+    },
+    {
+        "text": "You've reached the cell phone of Jason Toss.",
+        "startTime": 7797,
+        "endTime": 9553,
+        "slowStartTime": 11846,
+        "slowEndTime": 14554
+    },
+    {
+        "text": "Please leave a message.",
+        "startTime": 9723,
+        "endTime": 10663,
+        "slowStartTime": 14734,
+        "slowEndTime": 16219
+    },
+    {
+        "text": "And another message for friends.",
+        "startTime": 10844,
+        "endTime": 12458,
+        "slowStartTime": 16416,
+        "slowEndTime": 18912
+    },
+    {
+        "text": "Hey, sorry I missed you.",
+        "startTime": 12848,
+        "endTime": 14003,
+        "slowStartTime": 19422,
+        "slowEndTime": 21229
+    },
+    {
+        "text": "Leave a message.",
+        "startTime": 14131,
+        "endTime": 14855,
+        "slowStartTime": 21347,
+        "slowEndTime": 22508
+    },
+    {
+        "text": "To set up a personalized greeting for someone,...",
+        "startTime": 15321,
+        "endTime": 17459,
+        "slowStartTime": 23131,
+        "slowEndTime": 26413
+    },
+    {
+        "text": "...go to that contact and select \"Edit Google Voice Settings.\"",
+        "startTime": 17702,
+        "endTime": 22175,
+        "slowStartTime": 26703,
+        "slowEndTime": 33487
+    },
+    {
+        "text": "Choose a greeting you've already recorded or select \"Record New Greeting\"...",
+        "startTime": 22731,
+        "endTime": 26907,
+        "slowStartTime": 34247,
+        "slowEndTime": 40586
+    },
+    {
+        "text": "...and Google Voice will call your cell phone so you can record the greeting.",
+        "startTime": 26987,
+        "endTime": 30083,
+        "slowStartTime": 40630,
+        "slowEndTime": 45350
+    },
+    {
+        "text": "Start recording your greeting after the tone.",
+        "startTime": 30817,
+        "endTime": 32919,
+        "slowStartTime": 46376,
+        "slowEndTime": 49603
+    },
+    {
+        "text": "When you are finished, press #.",
+        "startTime": 33101,
+        "endTime": 34692,
+        "slowStartTime": 49801,
+        "slowEndTime": 52263
+    },
+    {
+        "text": "If you wanna set up a personalized greeting for a group,...",
+        "startTime": 35206,
+        "endTime": 37887,
+        "slowStartTime": 52959,
+        "slowEndTime": 57055
+    },
+    {
+        "text": "...just go to \"Settings,\" \"Groups,\" and click \"Edit.\"",
+        "startTime": 38180,
+        "endTime": 41155,
+        "slowStartTime": 57420,
+        "slowEndTime": 61958
+    },
+    {
+        "text": "Then choose your greeting.",
+        "startTime": 41400,
+        "endTime": 42456,
+        "slowStartTime": 62250,
+        "slowEndTime": 63909
+    }
+]

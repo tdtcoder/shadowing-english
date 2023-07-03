@@ -1,0 +1,86 @@
+[
+    {
+        "text": "She should have died hereafter.",
+        "startTime": 1700,
+        "endTime": 3400,
+        "slowStartTime": 2700,
+        "slowEndTime": 5330
+    },
+    {
+        "text": "There would have been a time for such a word.",
+        "startTime": 7400,
+        "endTime": 9400,
+        "slowStartTime": 11260,
+        "slowEndTime": 14330
+    },
+    {
+        "text": "Tomorrow, and tomorrow, and tomorrow,...",
+        "startTime": 10770,
+        "endTime": 21290,
+        "slowStartTime": 16310,
+        "slowEndTime": 32170
+    },
+    {
+        "text": "...creeps in this petty pace from day to day to the last syllable of recorded time,...",
+        "startTime": 23290,
+        "endTime": 32460,
+        "slowStartTime": 35080,
+        "slowEndTime": 48920
+    },
+    {
+        "text": "...and all our yesterdays have lighted fools...",
+        "startTime": 34560,
+        "endTime": 38010,
+        "slowStartTime": 51990,
+        "slowEndTime": 57240
+    },
+    {
+        "text": "...the way to dusty death.",
+        "startTime": 38790,
+        "endTime": 40610,
+        "slowStartTime": 58340,
+        "slowEndTime": 61140
+    },
+    {
+        "text": "Out, out, brief candle!",
+        "startTime": 42630,
+        "endTime": 45500,
+        "slowStartTime": 64090,
+        "slowEndTime": 68470
+    },
+    {
+        "text": "Life is but a walking shadow,...",
+        "startTime": 49610,
+        "endTime": 52880,
+        "slowStartTime": 74570,
+        "slowEndTime": 79540
+    },
+    {
+        "text": "...a poor player that struts and frets his hour upon the stage...",
+        "startTime": 55280,
+        "endTime": 59810,
+        "slowStartTime": 83070,
+        "slowEndTime": 89940
+    },
+    {
+        "text": "...and then is heard no more.",
+        "startTime": 61440,
+        "endTime": 63470,
+        "slowStartTime": 92310,
+        "slowEndTime": 95430
+    },
+    {
+        "text": "It is a tale told by an idiot,...",
+        "startTime": 65620,
+        "endTime": 70280,
+        "slowStartTime": 98590,
+        "slowEndTime": 105640
+    },
+    {
+        "text": "...full of sound and fury, signifying nothing.",
+        "startTime": 71270,
+        "endTime": 82320,
+        "slowStartTime": 107060,
+        "slowEndTime": 123710
+    }
+]

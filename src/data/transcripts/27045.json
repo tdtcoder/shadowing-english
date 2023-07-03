@@ -1,0 +1,156 @@
+[
+    {
+        "text": "Project Bloks is a research project,...",
+        "startTime": 549,
+        "endTime": 2402,
+        "slowStartTime": 973,
+        "slowEndTime": 3828
+    },
+    {
+        "text": "...and our goal is to create an open hardware platform...",
+        "startTime": 2621,
+        "endTime": 4989,
+        "slowStartTime": 4082,
+        "slowEndTime": 7708
+    },
+    {
+        "text": "...in which developers, makers and designers...",
+        "startTime": 5329,
+        "endTime": 7469,
+        "slowStartTime": 8143,
+        "slowEndTime": 11428
+    },
+    {
+        "text": "...can create hands-on programming experiences for kids.",
+        "startTime": 7838,
+        "endTime": 10446,
+        "slowStartTime": 11907,
+        "slowEndTime": 15894
+    },
+    {
+        "text": "As a first step, we've created a system for tangible programming...",
+        "startTime": 11540,
+        "endTime": 14817,
+        "slowStartTime": 17460,
+        "slowEndTime": 22451
+    },
+    {
+        "text": "...and this system consists of three main components:...",
+        "startTime": 15770,
+        "endTime": 18315,
+        "slowStartTime": 23805,
+        "slowEndTime": 27697
+    },
+    {
+        "text": "...the brain board, base boards and pucks.",
+        "startTime": 18636,
+        "endTime": 21663,
+        "slowStartTime": 28104,
+        "slowEndTime": 32720
+    },
+    {
+        "text": "The base board works by placing a puck onto it,...",
+        "startTime": 22839,
+        "endTime": 25067,
+        "slowStartTime": 34409,
+        "slowEndTime": 37826
+    },
+    {
+        "text": "...and pucks can be programmed with different instructions...",
+        "startTime": 25830,
+        "endTime": 28215,
+        "slowStartTime": 38895,
+        "slowEndTime": 42548
+    },
+    {
+        "text": "...like turn on or off, move in a direction or increase amount.",
+        "startTime": 28311,
+        "endTime": 32887,
+        "slowStartTime": 42616,
+        "slowEndTime": 49556
+    },
+    {
+        "text": "The board then simply reads that puck's instruction.",
+        "startTime": 33895,
+        "endTime": 36395,
+        "slowStartTime": 50992,
+        "slowEndTime": 54817
+    },
+    {
+        "text": "The brain board provides power and connectivity,...",
+        "startTime": 37361,
+        "endTime": 40057,
+        "slowStartTime": 56192,
+        "slowEndTime": 60311
+    },
+    {
+        "text": "...and when you connect base boards to it, it can read their instructions...",
+        "startTime": 40609,
+        "endTime": 43909,
+        "slowStartTime": 61064,
+        "slowEndTime": 66089
+    },
+    {
+        "text": "...and send them to connected objects like a toy or a tablet.",
+        "startTime": 44041,
+        "endTime": 47372,
+        "slowStartTime": 66211,
+        "slowEndTime": 71283
+    },
+    {
+        "text": "The boards can be rearranged in different ways...",
+        "startTime": 48157,
+        "endTime": 50427,
+        "slowStartTime": 72386,
+        "slowEndTime": 75865
+    },
+    {
+        "text": "...and wrapped in different forms and materials...",
+        "startTime": 51011,
+        "endTime": 52955,
+        "slowStartTime": 76666,
+        "slowEndTime": 79657
+    },
+    {
+        "text": "...to create all sorts of physical coding experiences.",
+        "startTime": 53491,
+        "endTime": 55841,
+        "slowStartTime": 80387,
+        "slowEndTime": 83986
+    },
+    {
+        "text": "Like a music maker, where you use physical code to compose music...",
+        "startTime": 56615,
+        "endTime": 60603,
+        "slowStartTime": 85072,
+        "slowEndTime": 91129
+    },
+    {
+        "text": "...and send it to a wireless speaker.",
+        "startTime": 61143,
+        "endTime": 62677,
+        "slowStartTime": 91864,
+        "slowEndTime": 94241
+    },
+    {
+        "text": "The ultimate aim of Project Bloks is to give all the work we've done...",
+        "startTime": 63483,
+        "endTime": 66759,
+        "slowStartTime": 95375,
+        "slowEndTime": 100363
+    },
+    {
+        "text": "...back to the education research and development community for free...",
+        "startTime": 66868,
+        "endTime": 70573,
+        "slowStartTime": 100452,
+        "slowEndTime": 106085
+    },
+    {
+        "text": "...to accelerate the field of physical programming for kids.",
+        "startTime": 70929,
+        "endTime": 73132,
+        "slowStartTime": 106544,
+        "slowEndTime": 109923
+    }
+]

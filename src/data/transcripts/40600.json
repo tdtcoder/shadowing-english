@@ -1,0 +1,198 @@
+[
+    {
+        "text": "Square.",
+        "startTime": 803,
+        "endTime": 1576,
+        "slowStartTime": 1355,
+        "slowEndTime": 2589
+    },
+    {
+        "text": "A town square is an open space where many streets meet.",
+        "startTime": 1831,
+        "endTime": 5284,
+        "slowStartTime": 2896,
+        "slowEndTime": 8151
+    },
+    {
+        "text": "Sometimes, there are monuments, trees and gardens in the square.",
+        "startTime": 5597,
+        "endTime": 9034,
+        "slowStartTime": 8545,
+        "slowEndTime": 13776
+    },
+    {
+        "text": "Square.",
+        "startTime": 9666,
+        "endTime": 10232,
+        "slowStartTime": 14649,
+        "slowEndTime": 15573
+    },
+    {
+        "text": "Hospital.",
+        "startTime": 11929,
+        "endTime": 12589,
+        "slowStartTime": 18044,
+        "slowEndTime": 19109
+    },
+    {
+        "text": "The hospital is where we go when we are ill.",
+        "startTime": 13021,
+        "endTime": 15411,
+        "slowStartTime": 19681,
+        "slowEndTime": 23342
+    },
+    {
+        "text": "Doctors and nurses work at the hospital.",
+        "startTime": 15885,
+        "endTime": 18002,
+        "slowStartTime": 23978,
+        "slowEndTime": 27228
+    },
+    {
+        "text": "They look after our health.",
+        "startTime": 18271,
+        "endTime": 19523,
+        "slowStartTime": 27557,
+        "slowEndTime": 29510
+    },
+    {
+        "text": "Hospital.",
+        "startTime": 20112,
+        "endTime": 20821,
+        "slowStartTime": 30318,
+        "slowEndTime": 31457
+    },
+    {
+        "text": "Bank.",
+        "startTime": 23245,
+        "endTime": 23584,
+        "slowStartTime": 35017,
+        "slowEndTime": 35601
+    },
+    {
+        "text": "We keep our savings in the bank.",
+        "startTime": 24324,
+        "endTime": 26005,
+        "slowStartTime": 36636,
+        "slowEndTime": 39233
+    },
+    {
+        "text": "Banks also loan money to people who need it...",
+        "startTime": 26686,
+        "endTime": 28751,
+        "slowStartTime": 40179,
+        "slowEndTime": 43351
+    },
+    {
+        "text": "...to buy a house or a car, for example.",
+        "startTime": 28901,
+        "endTime": 31045,
+        "slowStartTime": 43501,
+        "slowEndTime": 46792
+    },
+    {
+        "text": "Bank.",
+        "startTime": 31601,
+        "endTime": 32139,
+        "slowStartTime": 47551,
+        "slowEndTime": 48434
+    },
+    {
+        "text": "Park.",
+        "startTime": 34405,
+        "endTime": 34715,
+        "slowStartTime": 51757,
+        "slowEndTime": 52297
+    },
+    {
+        "text": "The park is an open-air space where kids have fun.",
+        "startTime": 35501,
+        "endTime": 38579,
+        "slowStartTime": 53402,
+        "slowEndTime": 58093
+    },
+    {
+        "text": "There are usually swings and slides.",
+        "startTime": 39112,
+        "endTime": 41519,
+        "slowStartTime": 58818,
+        "slowEndTime": 62504
+    },
+    {
+        "text": "Park.",
+        "startTime": 41965,
+        "endTime": 42439,
+        "slowStartTime": 63097,
+        "slowEndTime": 63884
+    },
+    {
+        "text": "Station.",
+        "startTime": 44093,
+        "endTime": 44997,
+        "slowStartTime": 66289,
+        "slowEndTime": 67720
+    },
+    {
+        "text": "The station is where trains and buses stop...",
+        "startTime": 45464,
+        "endTime": 47806,
+        "slowStartTime": 68346,
+        "slowEndTime": 71934
+    },
+    {
+        "text": "...so that passengers who travel from one place to another...",
+        "startTime": 47870,
+        "endTime": 50759,
+        "slowStartTime": 71955,
+        "slowEndTime": 76364
+    },
+    {
+        "text": "...can get on and get off.",
+        "startTime": 51018,
+        "endTime": 52373,
+        "slowStartTime": 76677,
+        "slowEndTime": 78784
+    },
+    {
+        "text": "Station.",
+        "startTime": 52719,
+        "endTime": 53517,
+        "slowStartTime": 79229,
+        "slowEndTime": 80500
+    },
+    {
+        "text": "Zoo.",
+        "startTime": 55007,
+        "endTime": 55587,
+        "slowStartTime": 82660,
+        "slowEndTime": 83606
+    },
+    {
+        "text": "All kinds of animals live at the zoo.",
+        "startTime": 55779,
+        "endTime": 57801,
+        "slowStartTime": 83819,
+        "slowEndTime": 86926
+    },
+    {
+        "text": "If you visit the zoo,...",
+        "startTime": 58169,
+        "endTime": 59384,
+        "slowStartTime": 87403,
+        "slowEndTime": 89301
+    },
+    {
+        "text": "...you'll learn lots of things about animal species around the world.",
+        "startTime": 59649,
+        "endTime": 63017,
+        "slowStartTime": 89623,
+        "slowEndTime": 94751
+    },
+    {
+        "text": "Zoo.",
+        "startTime": 63441,
+        "endTime": 64087,
+        "slowStartTime": 95311,
+        "slowEndTime": 96355
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Look at this girl!",
+        "startTime": 935,
+        "endTime": 2179,
+        "slowStartTime": 1552,
+        "slowEndTime": 3493
+    },
+    {
+        "text": "She is so cute and lovely.",
+        "startTime": 3319,
+        "endTime": 5331,
+        "slowStartTime": 5128,
+        "slowEndTime": 8222
+    },
+    {
+        "text": "She wears a red cloak.",
+        "startTime": 6503,
+        "endTime": 8171,
+        "slowStartTime": 9904,
+        "slowEndTime": 12481
+    },
+    {
+        "text": "Her name is Little Red Riding Hood.",
+        "startTime": 9373,
+        "endTime": 11849,
+        "slowStartTime": 14210,
+        "slowEndTime": 17998
+    },
+    {
+        "text": "Little Red Riding Hood!",
+        "startTime": 13073,
+        "endTime": 14772,
+        "slowStartTime": 19760,
+        "slowEndTime": 22383
+    },
+    {
+        "text": "Yes, mom!",
+        "startTime": 16093,
+        "endTime": 16999,
+        "slowStartTime": 24289,
+        "slowEndTime": 25724
+    },
+    {
+        "text": "Your grandma is ill. Carry this cake to her.",
+        "startTime": 18230,
+        "endTime": 21756,
+        "slowStartTime": 27495,
+        "slowEndTime": 32859
+    },
+    {
+        "text": "Yes, mom!",
+        "startTime": 22951,
+        "endTime": 23882,
+        "slowStartTime": 34576,
+        "slowEndTime": 36048
+    },
+    {
+        "text": "On the way, Little Red Riding Hood meets a wolf.",
+        "startTime": 25197,
+        "endTime": 28734,
+        "slowStartTime": 37946,
+        "slowEndTime": 43326
+    },
+    {
+        "text": "She looks yummy!",
+        "startTime": 30039,
+        "endTime": 32460,
+        "slowStartTime": 45208,
+        "slowEndTime": 48915
+    },
+    {
+        "text": "Hi! Where are you going?",
+        "startTime": 33703,
+        "endTime": 37239,
+        "slowStartTime": 50704,
+        "slowEndTime": 56083
+    },
+    {
+        "text": "I'm going to see my grandma. She is sick.",
+        "startTime": 38572,
+        "endTime": 42307,
+        "slowStartTime": 58008,
+        "slowEndTime": 63685
+    },
+    {
+        "text": "Where does your grandma live?",
+        "startTime": 43527,
+        "endTime": 46653,
+        "slowStartTime": 65441,
+        "slowEndTime": 70205
+    },
+    {
+        "text": "Over there, the first house in the village.",
+        "startTime": 47864,
+        "endTime": 51011,
+        "slowStartTime": 71946,
+        "slowEndTime": 76742
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Hi, Veronica! How's it going?",
+        "startTime": 283,
+        "endTime": 1984,
+        "slowStartTime": 574,
+        "slowEndTime": 3201
+    },
+    {
+        "text": "Hey, Ben! Pretty good. How are you?",
+        "startTime": 2751,
+        "endTime": 5231,
+        "slowStartTime": 4276,
+        "slowEndTime": 8071
+    },
+    {
+        "text": "Not bad. Hey, are you busy on Friday?",
+        "startTime": 5733,
+        "endTime": 8387,
+        "slowStartTime": 8750,
+        "slowEndTime": 12805
+    },
+    {
+        "text": "Actually, I'm very busy that day.",
+        "startTime": 9359,
+        "endTime": 11742,
+        "slowStartTime": 14188,
+        "slowEndTime": 17838
+    },
+    {
+        "text": "I have a ton of biology homework.",
+        "startTime": 12227,
+        "endTime": 14124,
+        "slowStartTime": 18491,
+        "slowEndTime": 21411
+    },
+    {
+        "text": "Well, how about Saturday?",
+        "startTime": 14951,
+        "endTime": 16300,
+        "slowStartTime": 22577,
+        "slowEndTime": 24675
+    },
+    {
+        "text": "I think I'm free, why?",
+        "startTime": 16963,
+        "endTime": 19104,
+        "slowStartTime": 25595,
+        "slowEndTime": 28881
+    },
+    {
+        "text": "Would you like to go to a movie?",
+        "startTime": 19843,
+        "endTime": 20968,
+        "slowStartTime": 29915,
+        "slowEndTime": 31677
+    },
+    {
+        "text": "Sure, what do you wanna see?",
+        "startTime": 21709,
+        "endTime": 23576,
+        "slowStartTime": 32713,
+        "slowEndTime": 35589
+    },
+    {
+        "text": "There's a new movie with Drew Barrymore...",
+        "startTime": 24200,
+        "endTime": 25958,
+        "slowStartTime": 36450,
+        "slowEndTime": 39162
+    },
+    {
+        "text": "I love her! Ok, I'm in.",
+        "startTime": 26537,
+        "endTime": 28707,
+        "slowStartTime": 39956,
+        "slowEndTime": 43286
+    },
+    {
+        "text": "Let's go to an early show.",
+        "startTime": 29699,
+        "endTime": 30977,
+        "slowStartTime": 44699,
+        "slowEndTime": 46690
+    },
+    {
+        "text": "I'll be at your house before 7.",
+        "startTime": 31571,
+        "endTime": 32909,
+        "slowStartTime": 47507,
+        "slowEndTime": 49588
+    }
+]

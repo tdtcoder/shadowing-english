@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Let's talk about movies.",
+        "startTime": 1333,
+        "endTime": 3171,
+        "slowStartTime": 2149,
+        "slowEndTime": 4981
+    },
+    {
+        "text": "My friends enjoyed the movie.",
+        "startTime": 11501,
+        "endTime": 13899,
+        "slowStartTime": 17401,
+        "slowEndTime": 21073
+    },
+    {
+        "text": "The special effects were amazing.",
+        "startTime": 16965,
+        "endTime": 19504,
+        "slowStartTime": 25597,
+        "slowEndTime": 29481
+    },
+    {
+        "text": "The action scene was exciting.",
+        "startTime": 22605,
+        "endTime": 24790,
+        "slowStartTime": 34058,
+        "slowEndTime": 37410
+    },
+    {
+        "text": "The hero was very brave.",
+        "startTime": 27705,
+        "endTime": 29959,
+        "slowStartTime": 41708,
+        "slowEndTime": 45163
+    },
+    {
+        "text": "She thinks the movie was wonderful.",
+        "startTime": 32970,
+        "endTime": 35860,
+        "slowStartTime": 49605,
+        "slowEndTime": 54015
+    },
+    {
+        "text": "He is a great actor.",
+        "startTime": 38858,
+        "endTime": 40916,
+        "slowStartTime": 58437,
+        "slowEndTime": 61599
+    },
+    {
+        "text": "That movie was terrible.",
+        "startTime": 43972,
+        "endTime": 46441,
+        "slowStartTime": 66108,
+        "slowEndTime": 69886
+    },
+    {
+        "text": "The story was set in New York.",
+        "startTime": 49295,
+        "endTime": 51686,
+        "slowStartTime": 74092,
+        "slowEndTime": 77754
+    },
+    {
+        "text": "This movie is so boring.",
+        "startTime": 54828,
+        "endTime": 58277,
+        "slowStartTime": 82392,
+        "slowEndTime": 87641
+    }
+]

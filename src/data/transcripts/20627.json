@@ -1,0 +1,86 @@
+[
+    {
+        "text": "People change their e-mail addresses for lots of reasons.",
+        "startTime": 323,
+        "endTime": 2846,
+        "slowStartTime": 634,
+        "slowEndTime": 4494
+    },
+    {
+        "text": "Some decide they need a more professional sounding address.",
+        "startTime": 3203,
+        "endTime": 5595,
+        "slowStartTime": 4954,
+        "slowEndTime": 8618
+    },
+    {
+        "text": "Others change their name when they get married and want a new address to match.",
+        "startTime": 5843,
+        "endTime": 8840,
+        "slowStartTime": 8914,
+        "slowEndTime": 13485
+    },
+    {
+        "text": "Others just want to switch e-mail services altogether.",
+        "startTime": 9225,
+        "endTime": 11412,
+        "slowStartTime": 13987,
+        "slowEndTime": 17343
+    },
+    {
+        "text": "To change your e-mail address, first sign up for a new one.",
+        "startTime": 11881,
+        "endTime": 14803,
+        "slowStartTime": 17972,
+        "slowEndTime": 22429
+    },
+    {
+        "text": "Fill out the online form, make sure everything is correct,...",
+        "startTime": 15757,
+        "endTime": 18611,
+        "slowStartTime": 23785,
+        "slowEndTime": 28142
+    },
+    {
+        "text": "...and then click \"I accept, create my account.\"",
+        "startTime": 18739,
+        "endTime": 21330,
+        "slowStartTime": 28258,
+        "slowEndTime": 32220
+    },
+    {
+        "text": "Then, e-mail your contacts from this new account to let them know you changed addresses.",
+        "startTime": 22554,
+        "endTime": 26874,
+        "slowStartTime": 33981,
+        "slowEndTime": 40536
+    },
+    {
+        "text": "Some Webmail services, including Gmail, let you forward mail from one account to another.",
+        "startTime": 33680,
+        "endTime": 38328,
+        "slowStartTime": 50670,
+        "slowEndTime": 57717
+    },
+    {
+        "text": "To do this, sign in to your old account, visit the Forwarding section of Settings,...",
+        "startTime": 38837,
+        "endTime": 43199,
+        "slowStartTime": 58406,
+        "slowEndTime": 65024
+    },
+    {
+        "text": "...and set up your old account to forward mail to your new one.",
+        "startTime": 43493,
+        "endTime": 46192,
+        "slowStartTime": 65390,
+        "slowEndTime": 69513
+    },
+    {
+        "text": "That way, you won't miss anything as you make the switch.",
+        "startTime": 52388,
+        "endTime": 54894,
+        "slowStartTime": 78732,
+        "slowEndTime": 82566
+    }
+]

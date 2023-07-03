@@ -1,0 +1,79 @@
+[
+    {
+        "text": "You have a sister in Boston, right?",
+        "startTime": 86,
+        "endTime": 2265,
+        "slowStartTime": 279,
+        "slowEndTime": 3622
+    },
+    {
+        "text": "Actually, I have two brothers, and I'm the eldest.",
+        "startTime": 2969,
+        "endTime": 5705,
+        "slowStartTime": 4604,
+        "slowEndTime": 8783
+    },
+    {
+        "text": "Oh, that's right.",
+        "startTime": 6307,
+        "endTime": 7369,
+        "slowStartTime": 9611,
+        "slowEndTime": 11278
+    },
+    {
+        "text": "Are your brothers here in Korea?",
+        "startTime": 7798,
+        "endTime": 9667,
+        "slowStartTime": 11847,
+        "slowEndTime": 14726
+    },
+    {
+        "text": "What do they do?",
+        "startTime": 10082,
+        "endTime": 11026,
+        "slowStartTime": 15273,
+        "slowEndTime": 16764
+    },
+    {
+        "text": "Both brothers are studying in the United States.",
+        "startTime": 11452,
+        "endTime": 14230,
+        "slowStartTime": 17328,
+        "slowEndTime": 21570
+    },
+    {
+        "text": "You must miss them.",
+        "startTime": 14628,
+        "endTime": 15818,
+        "slowStartTime": 22092,
+        "slowEndTime": 23952
+    },
+    {
+        "text": "Yes, but I'll see them soon for the holidays.",
+        "startTime": 16611,
+        "endTime": 19187,
+        "slowStartTime": 25066,
+        "slowEndTime": 29005
+    },
+    {
+        "text": "Do you have any siblings?",
+        "startTime": 19604,
+        "endTime": 20823,
+        "slowStartTime": 29556,
+        "slowEndTime": 31460
+    },
+    {
+        "text": "Plenty! I am one of five.",
+        "startTime": 21205,
+        "endTime": 23880,
+        "slowStartTime": 31958,
+        "slowEndTime": 36045
+    },
+    {
+        "text": "Wow! That must have been nice growing up in a large family.",
+        "startTime": 24275,
+        "endTime": 27953,
+        "slowStartTime": 36563,
+        "slowEndTime": 42155
+    }
+]

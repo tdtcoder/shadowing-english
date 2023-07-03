@@ -1,0 +1,191 @@
+[
+    {
+        "text": "We're all cleaning the house today.",
+        "startTime": 2195,
+        "endTime": 3948,
+        "slowStartTime": 3443,
+        "slowEndTime": 6147
+    },
+    {
+        "text": "We don't clean it every Saturday,...",
+        "startTime": 4678,
+        "endTime": 6303,
+        "slowStartTime": 7167,
+        "slowEndTime": 9680
+    },
+    {
+        "text": "...but today is different.",
+        "startTime": 6967,
+        "endTime": 8185,
+        "slowStartTime": 10601,
+        "slowEndTime": 12502
+    },
+    {
+        "text": "Jane's sister is coming to visit.",
+        "startTime": 8843,
+        "endTime": 10972,
+        "slowStartTime": 13414,
+        "slowEndTime": 16683
+    },
+    {
+        "text": "What does your sister do?",
+        "startTime": 14944,
+        "endTime": 16157,
+        "slowStartTime": 22566,
+        "slowEndTime": 24461
+    },
+    {
+        "text": "She's a student.",
+        "startTime": 16913,
+        "endTime": 17780,
+        "slowStartTime": 25519,
+        "slowEndTime": 26895
+    },
+    {
+        "text": "What's she studying?",
+        "startTime": 18671,
+        "endTime": 19749,
+        "slowStartTime": 28156,
+        "slowEndTime": 29849
+    },
+    {
+        "text": "Film Studies.",
+        "startTime": 20321,
+        "endTime": 21128,
+        "slowStartTime": 30631,
+        "slowEndTime": 31917
+    },
+    {
+        "text": "Gosh, that sounds interesting.",
+        "startTime": 21809,
+        "endTime": 23633,
+        "slowStartTime": 32863,
+        "slowEndTime": 35675
+    },
+    {
+        "text": "There.",
+        "startTime": 26026,
+        "endTime": 26361,
+        "slowStartTime": 39189,
+        "slowEndTime": 39766
+    },
+    {
+        "text": "Finished.",
+        "startTime": 26855,
+        "endTime": 27407,
+        "slowStartTime": 40433,
+        "slowEndTime": 41336
+    },
+    {
+        "text": "Actually, there's a...",
+        "startTime": 28839,
+        "endTime": 30103,
+        "slowStartTime": 43408,
+        "slowEndTime": 45380
+    },
+    {
+        "text": "What time is she arriving?",
+        "startTime": 33672,
+        "endTime": 35153,
+        "slowStartTime": 50658,
+        "slowEndTime": 52954
+    },
+    {
+        "text": "2:30.",
+        "startTime": 35515,
+        "endTime": 36279,
+        "slowStartTime": 53422,
+        "slowEndTime": 54644
+    },
+    {
+        "text": "I'm going to my yoga class and then I'm meeting her at the station.",
+        "startTime": 37252,
+        "endTime": 39666,
+        "slowStartTime": 56028,
+        "slowEndTime": 59724
+    },
+    {
+        "text": "Hello?",
+        "startTime": 48303,
+        "endTime": 49049,
+        "slowStartTime": 72604,
+        "slowEndTime": 73799
+    },
+    {
+        "text": "Can you turn that off?",
+        "startTime": 50465,
+        "endTime": 51338,
+        "slowStartTime": 75847,
+        "slowEndTime": 77232
+    },
+    {
+        "text": "What?",
+        "startTime": 51595,
+        "endTime": 52053,
+        "slowStartTime": 77543,
+        "slowEndTime": 78304
+    },
+    {
+        "text": "Can you turn that off?",
+        "startTime": 52278,
+        "endTime": 52997,
+        "slowStartTime": 78567,
+        "slowEndTime": 79721
+    },
+    {
+        "text": "Hang on a minute; what did you say?",
+        "startTime": 53431,
+        "endTime": 55633,
+        "slowStartTime": 80296,
+        "slowEndTime": 83674
+    },
+    {
+        "text": "Never mind.",
+        "startTime": 56107,
+        "endTime": 56409,
+        "slowStartTime": 84311,
+        "slowEndTime": 84839
+    },
+    {
+        "text": "Hello?",
+        "startTime": 56919,
+        "endTime": 57339,
+        "slowStartTime": 85529,
+        "slowEndTime": 86233
+    },
+    {
+        "text": "Hello, can I speak to Jane, please?",
+        "startTime": 58049,
+        "endTime": 59595,
+        "slowStartTime": 87224,
+        "slowEndTime": 89618
+    },
+    {
+        "text": "Certainly, who's calling?",
+        "startTime": 60016,
+        "endTime": 60807,
+        "slowStartTime": 90174,
+        "slowEndTime": 91435
+    },
+    {
+        "text": "It's Alison, her sister.",
+        "startTime": 61751,
+        "endTime": 62863,
+        "slowStartTime": 92776,
+        "slowEndTime": 94519
+    },
+    {
+        "text": "Just a moment.",
+        "startTime": 64109,
+        "endTime": 64727,
+        "slowStartTime": 96313,
+        "slowEndTime": 97316
+    },
+    {
+        "text": "Jane, it's your sister.",
+        "startTime": 65603,
+        "endTime": 67743,
+        "slowStartTime": 98555,
+        "slowEndTime": 101840
+    }
+]

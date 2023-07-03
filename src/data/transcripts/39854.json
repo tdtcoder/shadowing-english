@@ -1,0 +1,51 @@
+[
+    {
+        "text": "What is your email address?",
+        "startTime": 585,
+        "endTime": 2499,
+        "slowStartTime": 1028,
+        "slowEndTime": 3974
+    },
+    {
+        "text": "My email address is clairesmith@mail.com.",
+        "startTime": 3453,
+        "endTime": 7271,
+        "slowStartTime": 5330,
+        "slowEndTime": 11132
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 8796,
+        "endTime": 9460,
+        "slowStartTime": 13344,
+        "slowEndTime": 14415
+    },
+    {
+        "text": "May I have your email address, please?",
+        "startTime": 15278,
+        "endTime": 17155,
+        "slowStartTime": 23067,
+        "slowEndTime": 25957
+    },
+    {
+        "text": "Sure.",
+        "startTime": 19045,
+        "endTime": 19444,
+        "slowStartTime": 28717,
+        "slowEndTime": 29391
+    },
+    {
+        "text": "It's markjones@mail.com",
+        "startTime": 19570,
+        "endTime": 22257,
+        "slowStartTime": 29505,
+        "slowEndTime": 33610
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 23913,
+        "endTime": 24719,
+        "slowStartTime": 36019,
+        "slowEndTime": 37304
+    }
+]

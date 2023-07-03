@@ -1,0 +1,51 @@
+[
+    {
+        "text": "A new robot dog named Spot has been revealed by Boston Dynamics.",
+        "startTime": 987,
+        "endTime": 5937,
+        "slowStartTime": 1631,
+        "slowEndTime": 9130
+    },
+    {
+        "text": "The Google-owned robotics company released this YouTube video of Spot,...",
+        "startTime": 6914,
+        "endTime": 11273,
+        "slowStartTime": 10521,
+        "slowEndTime": 17135
+    },
+    {
+        "text": "...a four-legged robot that can navigate rough terrain and office cubicles alike.",
+        "startTime": 11336,
+        "endTime": 16316,
+        "slowStartTime": 17154,
+        "slowEndTime": 24699
+    },
+    {
+        "text": "The four-legged creation runs on an electric motor that powers a series of hydraulics:...",
+        "startTime": 21461,
+        "endTime": 26725,
+        "slowStartTime": 32341,
+        "slowEndTime": 40312
+    },
+    {
+        "text": "...the motors responsible for controlling the movement of a mechanical system.",
+        "startTime": 27143,
+        "endTime": 31044,
+        "slowStartTime": 40865,
+        "slowEndTime": 46791
+    },
+    {
+        "text": "Spot can be seen walking indoors, walking through various outdoor terrains,...",
+        "startTime": 34283,
+        "endTime": 38904,
+        "slowStartTime": 51575,
+        "slowEndTime": 58581
+    },
+    {
+        "text": "...climbing stairs, and running.",
+        "startTime": 38988,
+        "endTime": 40760,
+        "slowStartTime": 58632,
+        "slowEndTime": 61365
+    }
+]

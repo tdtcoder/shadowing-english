@@ -1,0 +1,93 @@
+[
+    {
+        "text": "In an all too familiar occurrence,...",
+        "startTime": 2689,
+        "endTime": 4830,
+        "slowStartTime": 4184,
+        "slowEndTime": 7470
+    },
+    {
+        "text": "...the loss of jobs due to automation...",
+        "startTime": 5009,
+        "endTime": 6993,
+        "slowStartTime": 7664,
+        "slowEndTime": 10715
+    },
+    {
+        "text": "...is in the headlines again this week...",
+        "startTime": 7097,
+        "endTime": 8694,
+        "slowStartTime": 10795,
+        "slowEndTime": 13266
+    },
+    {
+        "text": "...as the Milken Institute...",
+        "startTime": 8889,
+        "endTime": 10169,
+        "slowStartTime": 13483,
+        "slowEndTime": 15478
+    },
+    {
+        "text": "...holds their Global Conference in Beverly Hills, California.",
+        "startTime": 10250,
+        "endTime": 13347,
+        "slowStartTime": 15525,
+        "slowEndTime": 20245
+    },
+    {
+        "text": "The conference serves as a think tank...",
+        "startTime": 13867,
+        "endTime": 15481,
+        "slowStartTime": 20950,
+        "slowEndTime": 23446
+    },
+    {
+        "text": "...aimed at solving the world's growing problems.",
+        "startTime": 15565,
+        "endTime": 17717,
+        "slowStartTime": 23497,
+        "slowEndTime": 26801
+    },
+    {
+        "text": "This year, the theme centered around...",
+        "startTime": 18142,
+        "endTime": 19673,
+        "slowStartTime": 27363,
+        "slowEndTime": 29734
+    },
+    {
+        "text": "...the growing presence of robots in our society.",
+        "startTime": 19751,
+        "endTime": 22157,
+        "slowStartTime": 29776,
+        "slowEndTime": 33461
+    },
+    {
+        "text": "This is especially important...",
+        "startTime": 22683,
+        "endTime": 23851,
+        "slowStartTime": 34174,
+        "slowEndTime": 36002
+    },
+    {
+        "text": "...as workers are increasingly being replaced by robots...",
+        "startTime": 23935,
+        "endTime": 26904,
+        "slowStartTime": 36052,
+        "slowEndTime": 40581
+    },
+    {
+        "text": "...in factories, farming, retail, and even food service,...",
+        "startTime": 26977,
+        "endTime": 30523,
+        "slowStartTime": 40615,
+        "slowEndTime": 46010
+    },
+    {
+        "text": "...creating a displaced workforce with an uncertain future.",
+        "startTime": 30866,
+        "endTime": 34015,
+        "slowStartTime": 46449,
+        "slowEndTime": 51247
+    }
+]

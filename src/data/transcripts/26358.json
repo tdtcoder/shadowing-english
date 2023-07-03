@@ -1,0 +1,107 @@
+[
+    {
+        "text": "A mutual fund is a collective investment...",
+        "startTime": 127,
+        "endTime": 2351,
+        "slowStartTime": 340,
+        "slowEndTime": 3751
+    },
+    {
+        "text": "...that pools together the money of a large number of investors...",
+        "startTime": 2446,
+        "endTime": 5282,
+        "slowStartTime": 3819,
+        "slowEndTime": 8148
+    },
+    {
+        "text": "...to purchase a variety of securities like stocks or bonds.",
+        "startTime": 5347,
+        "endTime": 8641,
+        "slowStartTime": 8170,
+        "slowEndTime": 13187
+    },
+    {
+        "text": "When you purchase a share in a mutual fund,...",
+        "startTime": 9020,
+        "endTime": 11013,
+        "slowStartTime": 13680,
+        "slowEndTime": 16745
+    },
+    {
+        "text": "...you have a small stake of all investments included in that fund.",
+        "startTime": 11259,
+        "endTime": 14490,
+        "slowStartTime": 17038,
+        "slowEndTime": 21960
+    },
+    {
+        "text": "Think of a mutual fund like a basket of investments.",
+        "startTime": 15162,
+        "endTime": 18085,
+        "slowStartTime": 22893,
+        "slowEndTime": 27352
+    },
+    {
+        "text": "When you purchase a share in a mutual fund, you are buying one share of this basket,...",
+        "startTime": 18334,
+        "endTime": 22539,
+        "slowStartTime": 27651,
+        "slowEndTime": 34033
+    },
+    {
+        "text": "...and therefore have a stake in one small fraction of all the investments in that fund.",
+        "startTime": 22749,
+        "endTime": 27033,
+        "slowStartTime": 34273,
+        "slowEndTime": 40774
+    },
+    {
+        "text": "Suppose there's an investor...",
+        "startTime": 28067,
+        "endTime": 29362,
+        "slowStartTime": 42250,
+        "slowEndTime": 44268
+    },
+    {
+        "text": "...who wants to invest some of his retirement portfolio in the stock market...",
+        "startTime": 29454,
+        "endTime": 32995,
+        "slowStartTime": 44331,
+        "slowEndTime": 49718
+    },
+    {
+        "text": "...but he doesn't have time to analyze individual stocks...",
+        "startTime": 33235,
+        "endTime": 35908,
+        "slowStartTime": 50003,
+        "slowEndTime": 54087
+    },
+    {
+        "text": "...and create a diversified stock portfolio.",
+        "startTime": 35997,
+        "endTime": 38359,
+        "slowStartTime": 54146,
+        "slowEndTime": 57764
+    },
+    {
+        "text": "Instead, he decides that he'd rather purchase a mutual fund.",
+        "startTime": 38723,
+        "endTime": 41979,
+        "slowStartTime": 58234,
+        "slowEndTime": 63193
+    },
+    {
+        "text": "This way, the investor can purchase a single investment...",
+        "startTime": 42497,
+        "endTime": 45481,
+        "slowStartTime": 63895,
+        "slowEndTime": 68446
+    },
+    {
+        "text": "...which will in effect, be similar to purchasing an entire portfolio of stocks.",
+        "startTime": 45581,
+        "endTime": 49866,
+        "slowStartTime": 68522,
+        "slowEndTime": 75024
+    }
+]

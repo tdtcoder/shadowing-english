@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Ladies and gentlemen,...",
+        "startTime": 813,
+        "endTime": 1948,
+        "slowStartTime": 1369,
+        "slowEndTime": 3147
+    },
+    {
+        "text": "...welcome to the Shinkansen.",
+        "startTime": 2587,
+        "endTime": 4242,
+        "slowStartTime": 4030,
+        "slowEndTime": 6588
+    },
+    {
+        "text": "This is the Nozomi Super Express bound for Tokyo.",
+        "startTime": 4999,
+        "endTime": 9225,
+        "slowStartTime": 7649,
+        "slowEndTime": 14063
+    },
+    {
+        "text": "We'll be stopping at Kyoto, Nagoya, Shin-Yokohama and Shinagawa stations...",
+        "startTime": 10049,
+        "endTime": 16797,
+        "slowStartTime": 15224,
+        "slowEndTime": 25421
+    },
+    {
+        "text": "...before arriving at Tokyo Terminal.",
+        "startTime": 17339,
+        "endTime": 19546,
+        "slowStartTime": 26158,
+        "slowEndTime": 29544
+    },
+    {
+        "text": "Smoking is not allowed on this train except in the designated smoking rooms...",
+        "startTime": 20625,
+        "endTime": 25725,
+        "slowStartTime": 31088,
+        "slowEndTime": 38812
+    },
+    {
+        "text": "...located in cars three, seven and 15.",
+        "startTime": 25902,
+        "endTime": 29719,
+        "slowStartTime": 39003,
+        "slowEndTime": 44803
+    },
+    {
+        "text": "The smoking room in car number ten is for passengers in the green cars.",
+        "startTime": 30739,
+        "endTime": 35660,
+        "slowStartTime": 46259,
+        "slowEndTime": 53715
+    },
+    {
+        "text": "Please refrain from smoking in the train including areas at either end of the cars.",
+        "startTime": 36612,
+        "endTime": 42315,
+        "slowStartTime": 55068,
+        "slowEndTime": 63698
+    },
+    {
+        "text": "The conductor's room is in car number eight.",
+        "startTime": 43387,
+        "endTime": 46119,
+        "slowStartTime": 65230,
+        "slowEndTime": 69403
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 46904,
+        "endTime": 47511,
+        "slowStartTime": 70506,
+        "slowEndTime": 71492
+    }
+]

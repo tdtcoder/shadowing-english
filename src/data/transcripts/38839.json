@@ -1,0 +1,212 @@
+[
+    {
+        "text": "Now, we're looking at the options for handling our online orders.",
+        "startTime": 1287,
+        "endTime": 5262,
+        "slowStartTime": 2081,
+        "slowEndTime": 8118
+    },
+    {
+        "text": "They're going through the roof. And frankly, the lead time for delivery is blowing out.",
+        "startTime": 5732,
+        "endTime": 10543,
+        "slowStartTime": 8748,
+        "slowEndTime": 16039
+    },
+    {
+        "text": "We need to improve our performance in this area.",
+        "startTime": 11358,
+        "endTime": 13971,
+        "slowStartTime": 17187,
+        "slowEndTime": 21181
+    },
+    {
+        "text": "Any suggestions?",
+        "startTime": 14967,
+        "endTime": 16087,
+        "slowStartTime": 22601,
+        "slowEndTime": 24355
+    },
+    {
+        "text": "Well, as I see it, we have three options.",
+        "startTime": 16560,
+        "endTime": 18615,
+        "slowStartTime": 24990,
+        "slowEndTime": 28148
+    },
+    {
+        "text": "The obvious one is to employ more people to do the job.",
+        "startTime": 19425,
+        "endTime": 21852,
+        "slowStartTime": 29287,
+        "slowEndTime": 33003
+    },
+    {
+        "text": "Another alternative is to automate the system more...",
+        "startTime": 22762,
+        "endTime": 25561,
+        "slowStartTime": 34293,
+        "slowEndTime": 38566
+    },
+    {
+        "text": "...cut down on the physical handling.",
+        "startTime": 25896,
+        "endTime": 27276,
+        "slowStartTime": 38994,
+        "slowEndTime": 41139
+    },
+    {
+        "text": "And the third option?",
+        "startTime": 28104,
+        "endTime": 29041,
+        "slowStartTime": 42306,
+        "slowEndTime": 43786
+    },
+    {
+        "text": "We could outsource.",
+        "startTime": 30229,
+        "endTime": 31479,
+        "slowStartTime": 45493,
+        "slowEndTime": 47443
+    },
+    {
+        "text": "What are the pros and cons?",
+        "startTime": 32087,
+        "endTime": 33709,
+        "slowStartTime": 48281,
+        "slowEndTime": 50789
+    },
+    {
+        "text": "Well, looking at increasing staff versus automation, we have to consider the cost.",
+        "startTime": 34121,
+        "endTime": 38777,
+        "slowStartTime": 51332,
+        "slowEndTime": 58391
+    },
+    {
+        "text": "Automating has a higher capital cost than putting on more staff.",
+        "startTime": 39785,
+        "endTime": 43141,
+        "slowStartTime": 59827,
+        "slowEndTime": 64936
+    },
+    {
+        "text": "On the other hand, employing more people is more expensive over a long term.",
+        "startTime": 43805,
+        "endTime": 47904,
+        "slowStartTime": 65858,
+        "slowEndTime": 72081
+    },
+    {
+        "text": "If we keep growing, it'll cost more in the long run.",
+        "startTime": 48765,
+        "endTime": 51285,
+        "slowStartTime": 73298,
+        "slowEndTime": 77152
+    },
+    {
+        "text": "How likely is it that we'll see continued growth?",
+        "startTime": 52062,
+        "endTime": 55417,
+        "slowStartTime": 78243,
+        "slowEndTime": 83351
+    },
+    {
+        "text": "I'd say it's a certainty.",
+        "startTime": 55931,
+        "endTime": 57212,
+        "slowStartTime": 84047,
+        "slowEndTime": 86043
+    },
+    {
+        "text": "I'd say a high probability.",
+        "startTime": 58077,
+        "endTime": 59969,
+        "slowStartTime": 87266,
+        "slowEndTime": 90178
+    },
+    {
+        "text": "Nothing's certain in business.",
+        "startTime": 60081,
+        "endTime": 61239,
+        "slowStartTime": 90272,
+        "slowEndTime": 92083
+    },
+    {
+        "text": "So, what about the third option?",
+        "startTime": 61761,
+        "endTime": 63419,
+        "slowStartTime": 92791,
+        "slowEndTime": 95353
+    },
+    {
+        "text": "Outsourcing?",
+        "startTime": 63995,
+        "endTime": 64676,
+        "slowStartTime": 96143,
+        "slowEndTime": 97239
+    },
+    {
+        "text": "It does take the problem off our hands.",
+        "startTime": 65569,
+        "endTime": 67407,
+        "slowStartTime": 98504,
+        "slowEndTime": 101336
+    },
+    {
+        "text": "But, we lose contact with our customers.",
+        "startTime": 67824,
+        "endTime": 69464,
+        "slowStartTime": 101886,
+        "slowEndTime": 104421
+    },
+    {
+        "text": "What about the bottom line?",
+        "startTime": 69869,
+        "endTime": 71185,
+        "slowStartTime": 104954,
+        "slowEndTime": 107003
+    },
+    {
+        "text": "Outsourcing is the cheapest option, and the easiest in the short term.",
+        "startTime": 71787,
+        "endTime": 75916,
+        "slowStartTime": 107830,
+        "slowEndTime": 114099
+    },
+    {
+        "text": "But, if we want to keep the operation in-house,...",
+        "startTime": 76531,
+        "endTime": 78998,
+        "slowStartTime": 114947,
+        "slowEndTime": 118722
+    },
+    {
+        "text": "...the best option is automating our system.",
+        "startTime": 79135,
+        "endTime": 81624,
+        "slowStartTime": 118853,
+        "slowEndTime": 122661
+    },
+    {
+        "text": "The only downside is, we're taking a risk that our business will keep growing.",
+        "startTime": 82823,
+        "endTime": 86676,
+        "slowStartTime": 124384,
+        "slowEndTime": 130239
+    },
+    {
+        "text": "Which we hope it will.",
+        "startTime": 87217,
+        "endTime": 88499,
+        "slowStartTime": 130976,
+        "slowEndTime": 132973
+    },
+    {
+        "text": "We certainly do.",
+        "startTime": 88749,
+        "endTime": 90165,
+        "slowStartTime": 133274,
+        "slowEndTime": 135473
+    }
+]

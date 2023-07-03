@@ -1,0 +1,58 @@
+[
+    {
+        "text": "This is what it is, okay?",
+        "startTime": 350,
+        "endTime": 1450,
+        "slowStartTime": 700,
+        "slowEndTime": 2400
+    },
+    {
+        "text": "I said, \"Empty your mind.\"...",
+        "startTime": 4050,
+        "endTime": 5700,
+        "slowStartTime": 6260,
+        "slowEndTime": 8800
+    },
+    {
+        "text": "...\"Be formless, shapeless like water.\"",
+        "startTime": 6850,
+        "endTime": 10650,
+        "slowStartTime": 10500,
+        "slowEndTime": 16200
+    },
+    {
+        "text": "Now you put water into a cup, it becomes the cup.",
+        "startTime": 11850,
+        "endTime": 15650,
+        "slowStartTime": 17900,
+        "slowEndTime": 23750
+    },
+    {
+        "text": "You put water into a bottle, it becomes the bottle.",
+        "startTime": 15750,
+        "endTime": 18050,
+        "slowStartTime": 23800,
+        "slowEndTime": 27260
+    },
+    {
+        "text": "You put it in a teapot, it becomes the teapot.",
+        "startTime": 18100,
+        "endTime": 20900,
+        "slowStartTime": 27330,
+        "slowEndTime": 31600
+    },
+    {
+        "text": "Now, water can flow or it can crash.",
+        "startTime": 21300,
+        "endTime": 24500,
+        "slowStartTime": 32250,
+        "slowEndTime": 37000
+    },
+    {
+        "text": "Be water, my friend.",
+        "startTime": 25550,
+        "endTime": 27000,
+        "slowStartTime": 38500,
+        "slowEndTime": 40800
+    }
+]

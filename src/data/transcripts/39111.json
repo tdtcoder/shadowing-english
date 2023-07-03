@@ -1,0 +1,212 @@
+[
+    {
+        "text": "Hey, thanks for making time.",
+        "startTime": 337,
+        "endTime": 2135,
+        "slowStartTime": 655,
+        "slowEndTime": 3427
+    },
+    {
+        "text": "Did you have a chance to read through my email?",
+        "startTime": 2528,
+        "endTime": 4583,
+        "slowStartTime": 3942,
+        "slowEndTime": 7100
+    },
+    {
+        "text": "Absolutely! But before we dive in, I wanted to ask:...",
+        "startTime": 4825,
+        "endTime": 7995,
+        "slowStartTime": 7387,
+        "slowEndTime": 12217
+    },
+    {
+        "text": "You're usually pretty quiet during our team meetings...",
+        "startTime": 8177,
+        "endTime": 10355,
+        "slowStartTime": 12415,
+        "slowEndTime": 15758
+    },
+    {
+        "text": "...and then you follow up after, like today.",
+        "startTime": 10449,
+        "endTime": 12410,
+        "slowStartTime": 15824,
+        "slowEndTime": 18840
+    },
+    {
+        "text": "I would really love to see you more engaged in those meetings.",
+        "startTime": 13151,
+        "endTime": 15918,
+        "slowStartTime": 19876,
+        "slowEndTime": 24102
+    },
+    {
+        "text": "What do you think holds you back?",
+        "startTime": 16061,
+        "endTime": 17101,
+        "slowStartTime": 24242,
+        "slowEndTime": 25877
+    },
+    {
+        "text": "I know. It's just... in production, we're very process-driven.",
+        "startTime": 18473,
+        "endTime": 23678,
+        "slowStartTime": 27860,
+        "slowEndTime": 35742
+    },
+    {
+        "text": "I like to get my head around things before I say too much.",
+        "startTime": 23843,
+        "endTime": 26889,
+        "slowStartTime": 35915,
+        "slowEndTime": 40559
+    },
+    {
+        "text": "Okay.",
+        "startTime": 27168,
+        "endTime": 27505,
+        "slowStartTime": 40902,
+        "slowEndTime": 41482
+    },
+    {
+        "text": "And you seem so psyched about things.",
+        "startTime": 28145,
+        "endTime": 29786,
+        "slowStartTime": 42368,
+        "slowEndTime": 44904
+    },
+    {
+        "text": "I didn't want to be a downer in front of the team.",
+        "startTime": 29884,
+        "endTime": 32059,
+        "slowStartTime": 44976,
+        "slowEndTime": 48313
+    },
+    {
+        "text": "I totally get it.",
+        "startTime": 32572,
+        "endTime": 33482,
+        "slowStartTime": 49008,
+        "slowEndTime": 50448
+    },
+    {
+        "text": "Sometimes, I'm overexcited.",
+        "startTime": 33593,
+        "endTime": 35091,
+        "slowStartTime": 50540,
+        "slowEndTime": 52862
+    },
+    {
+        "text": "But the numbers show that our old approach isn't working.",
+        "startTime": 35567,
+        "endTime": 38985,
+        "slowStartTime": 53501,
+        "slowEndTime": 58702
+    },
+    {
+        "text": "I'm hoping this new approach can get us back on track.",
+        "startTime": 39155,
+        "endTime": 41489,
+        "slowStartTime": 58883,
+        "slowEndTime": 62459
+    },
+    {
+        "text": "I get that, we do need a new approach.",
+        "startTime": 41703,
+        "endTime": 43589,
+        "slowStartTime": 62705,
+        "slowEndTime": 65608
+    },
+    {
+        "text": "So, why don't we do this:...",
+        "startTime": 44424,
+        "endTime": 45431,
+        "slowStartTime": 66786,
+        "slowEndTime": 68372
+    },
+    {
+        "text": "Why don't I make sure that you have a little more of a heads-up...",
+        "startTime": 45944,
+        "endTime": 48567,
+        "slowStartTime": 69066,
+        "slowEndTime": 73076
+    },
+    {
+        "text": "...before I roll out something new.",
+        "startTime": 48650,
+        "endTime": 49955,
+        "slowStartTime": 73125,
+        "slowEndTime": 75157
+    },
+    {
+        "text": "That'd be awesome.",
+        "startTime": 50218,
+        "endTime": 51275,
+        "slowStartTime": 75477,
+        "slowEndTime": 77138
+    },
+    {
+        "text": "And maybe you can jump in a little more...",
+        "startTime": 52719,
+        "endTime": 55022,
+        "slowStartTime": 79229,
+        "slowEndTime": 82758
+    },
+    {
+        "text": "...even if you haven't quite thought it all through.",
+        "startTime": 55301,
+        "endTime": 57293,
+        "slowStartTime": 83101,
+        "slowEndTime": 86164
+    },
+    {
+        "text": "Okay, I can do that.",
+        "startTime": 57465,
+        "endTime": 58458,
+        "slowStartTime": 86348,
+        "slowEndTime": 87912
+    },
+    {
+        "text": "Perfect! And if you think of anything before the meeting...",
+        "startTime": 59069,
+        "endTime": 61407,
+        "slowStartTime": 88753,
+        "slowEndTime": 92335
+    },
+    {
+        "text": "...you can always send it to me and I can be sure to add it to the agenda...",
+        "startTime": 61494,
+        "endTime": 64340,
+        "slowStartTime": 92391,
+        "slowEndTime": 96735
+    },
+    {
+        "text": "...so we can be sure to discuss it.",
+        "startTime": 64427,
+        "endTime": 65730,
+        "slowStartTime": 96790,
+        "slowEndTime": 98820
+    },
+    {
+        "text": "That'd be great.",
+        "startTime": 66160,
+        "endTime": 67039,
+        "slowStartTime": 99390,
+        "slowEndTime": 100783
+    },
+    {
+        "text": "I think that works for everybody.",
+        "startTime": 67209,
+        "endTime": 69202,
+        "slowStartTime": 100963,
+        "slowEndTime": 104028
+    },
+    {
+        "text": "Nice.",
+        "startTime": 69813,
+        "endTime": 70333,
+        "slowStartTime": 104870,
+        "slowEndTime": 105725
+    }
+]

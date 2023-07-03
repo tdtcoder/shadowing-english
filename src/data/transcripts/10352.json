@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Sorry Rebecca, I can't meet you for lunch tomorrow.",
+        "startTime": 150,
+        "endTime": 3200,
+        "slowStartTime": 300,
+        "slowEndTime": 5000
+    },
+    {
+        "text": "Steve asked me to play tennis with him.",
+        "startTime": 3950,
+        "endTime": 6600,
+        "slowStartTime": 6100,
+        "slowEndTime": 10150
+    },
+    {
+        "text": "I didn't know you played tennis.",
+        "startTime": 7050,
+        "endTime": 9050,
+        "slowStartTime": 10860,
+        "slowEndTime": 13775
+    },
+    {
+        "text": "I don't- but Steve does!",
+        "startTime": 9600,
+        "endTime": 12600,
+        "slowStartTime": 14650,
+        "slowEndTime": 19000
+    },
+    {
+        "text": "Did you tell him you are a beginner?",
+        "startTime": 12800,
+        "endTime": 14900,
+        "slowStartTime": 19450,
+        "slowEndTime": 22500
+    },
+    {
+        "text": "Well, no, I 'forgot' to mention that.",
+        "startTime": 15250,
+        "endTime": 19000,
+        "slowStartTime": 23150,
+        "slowEndTime": 28550
+    },
+    {
+        "text": "You might want to practice first.",
+        "startTime": 19500,
+        "endTime": 21800,
+        "slowStartTime": 29500,
+        "slowEndTime": 32860
+    },
+    {
+        "text": "Meet me at the tennis court today at three o'clock.",
+        "startTime": 22650,
+        "endTime": 25300,
+        "slowStartTime": 34100,
+        "slowEndTime": 38000
+    },
+    {
+        "text": "I'll give you a quick tennis lesson.",
+        "startTime": 26100,
+        "endTime": 28000,
+        "slowStartTime": 39300,
+        "slowEndTime": 42200
+    },
+    {
+        "text": "Thank you, that sounds like a good idea.",
+        "startTime": 28150,
+        "endTime": 30700,
+        "slowStartTime": 42460,
+        "slowEndTime": 46215
+    }
+]

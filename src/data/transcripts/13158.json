@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Train Ride.",
+        "startTime": 198,
+        "endTime": 1095,
+        "slowStartTime": 447,
+        "slowEndTime": 1867
+    },
+    {
+        "text": "Choo Choo! All aboard!",
+        "startTime": 1608,
+        "endTime": 4211,
+        "slowStartTime": 2562,
+        "slowEndTime": 6542
+    },
+    {
+        "text": "It's time for a fantastic train ride.",
+        "startTime": 5018,
+        "endTime": 7909,
+        "slowStartTime": 7677,
+        "slowEndTime": 12088
+    },
+    {
+        "text": "Our train is taking a magic trip through the Rocky Mountains.",
+        "startTime": 8571,
+        "endTime": 12295,
+        "slowStartTime": 13006,
+        "slowEndTime": 18668
+    },
+    {
+        "text": "Look at the scenery.",
+        "startTime": 12890,
+        "endTime": 13827,
+        "slowStartTime": 19485,
+        "slowEndTime": 20965
+    },
+    {
+        "text": "Wow! Look at those big mountains.",
+        "startTime": 14445,
+        "endTime": 17157,
+        "slowStartTime": 21817,
+        "slowEndTime": 25961
+    },
+    {
+        "text": "Look at the green forest.",
+        "startTime": 17698,
+        "endTime": 19377,
+        "slowStartTime": 26697,
+        "slowEndTime": 29291
+    },
+    {
+        "text": "What else do you see?",
+        "startTime": 19632,
+        "endTime": 20817,
+        "slowStartTime": 29598,
+        "slowEndTime": 31451
+    },
+    {
+        "text": "You can sit on the top floor of the train or on the bottom.",
+        "startTime": 21386,
+        "endTime": 25152,
+        "slowStartTime": 32229,
+        "slowEndTime": 37953
+    },
+    {
+        "text": "You can even sleep on this train and order food to eat.",
+        "startTime": 25952,
+        "endTime": 29621,
+        "slowStartTime": 39078,
+        "slowEndTime": 44657
+    },
+    {
+        "text": "There are not many trains in Canada.",
+        "startTime": 30563,
+        "endTime": 32765,
+        "slowStartTime": 45994,
+        "slowEndTime": 49373
+    },
+    {
+        "text": "This train is called the Rocky Mountaineer.",
+        "startTime": 33515,
+        "endTime": 36130,
+        "slowStartTime": 50422,
+        "slowEndTime": 54420
+    },
+    {
+        "text": "It does not go fast like a bullet train.",
+        "startTime": 37249,
+        "endTime": 39705,
+        "slowStartTime": 56023,
+        "slowEndTime": 59783
+    },
+    {
+        "text": "It goes slower so that people can look at the beautiful scenes outside.",
+        "startTime": 40369,
+        "endTime": 44967,
+        "slowStartTime": 60704,
+        "slowEndTime": 67676
+    },
+    {
+        "text": "This is a special train, and it's very popular with tourists.",
+        "startTime": 45934,
+        "endTime": 50354,
+        "slowStartTime": 69051,
+        "slowEndTime": 75756
+    },
+    {
+        "text": "A train ride is a good way to see the Rocky Mountains.",
+        "startTime": 51043,
+        "endTime": 54643,
+        "slowStartTime": 76715,
+        "slowEndTime": 82189
+    }
+]

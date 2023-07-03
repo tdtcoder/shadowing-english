@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Linda is not here right now.",
+        "startTime": 2823,
+        "endTime": 4089,
+        "slowStartTime": 4385,
+        "slowEndTime": 6358
+    },
+    {
+        "text": "Can I take a message?",
+        "startTime": 4447,
+        "endTime": 5587,
+        "slowStartTime": 6821,
+        "slowEndTime": 8606
+    },
+    {
+        "text": "This is her husband.",
+        "startTime": 6333,
+        "endTime": 7364,
+        "slowStartTime": 9649,
+        "slowEndTime": 11271
+    },
+    {
+        "text": "Could you ask her to call me?",
+        "startTime": 7824,
+        "endTime": 9237,
+        "slowStartTime": 11886,
+        "slowEndTime": 14081
+    },
+    {
+        "text": "I'm at my office, but she needs to call me at extension number 204.",
+        "startTime": 9669,
+        "endTime": 14031,
+        "slowStartTime": 14654,
+        "slowEndTime": 21272
+    },
+    {
+        "text": "I'd better write this down.",
+        "startTime": 15117,
+        "endTime": 16286,
+        "slowStartTime": 22826,
+        "slowEndTime": 24654
+    },
+    {
+        "text": "Hold on a moment while I find a pen.",
+        "startTime": 16765,
+        "endTime": 18497,
+        "slowStartTime": 25298,
+        "slowEndTime": 27971
+    },
+    {
+        "text": "OK. Go ahead.",
+        "startTime": 19021,
+        "endTime": 20408,
+        "slowStartTime": 28682,
+        "slowEndTime": 30837
+    },
+    {
+        "text": "My office number is 471-3006 extension 204.",
+        "startTime": 21298,
+        "endTime": 28031,
+        "slowStartTime": 32097,
+        "slowEndTime": 42271
+    },
+    {
+        "text": "Let me repeat that back to make sure I got it.",
+        "startTime": 28841,
+        "endTime": 31375,
+        "slowStartTime": 43412,
+        "slowEndTime": 47288
+    },
+    {
+        "text": "471-3006 and extension 204.",
+        "startTime": 32185,
+        "endTime": 36881,
+        "slowStartTime": 48427,
+        "slowEndTime": 55546
+    },
+    {
+        "text": "That's right.",
+        "startTime": 37621,
+        "endTime": 38343,
+        "slowStartTime": 56582,
+        "slowEndTime": 57739
+    },
+    {
+        "text": "I'll tell her to call you as soon as she gets back to the office.",
+        "startTime": 38984,
+        "endTime": 42599,
+        "slowStartTime": 58626,
+        "slowEndTime": 64123
+    },
+    {
+        "text": "Thank you very much.",
+        "startTime": 43230,
+        "endTime": 44442,
+        "slowStartTime": 64995,
+        "slowEndTime": 66888
+    }
+]

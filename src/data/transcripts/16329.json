@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Have you ever been to Paris?",
+        "startTime": 1943,
+        "endTime": 3618,
+        "slowStartTime": 3064,
+        "slowEndTime": 5652
+    },
+    {
+        "text": "If you have, you would agree that there is something romantic and glittering about Paris.",
+        "startTime": 4047,
+        "endTime": 8957,
+        "slowStartTime": 6220,
+        "slowEndTime": 13660
+    },
+    {
+        "text": "Likewise, if you visit Beirut in Lebanon, the unique atmosphere is something that will captivate you.",
+        "startTime": 9693,
+        "endTime": 16353,
+        "slowStartTime": 14690,
+        "slowEndTime": 24755
+    },
+    {
+        "text": "The blend of peoples, cultures and religions gives the city a special vibrancy and energy that is second to none.",
+        "startTime": 17267,
+        "endTime": 24577,
+        "slowStartTime": 26051,
+        "slowEndTime": 37091
+    },
+    {
+        "text": "People watching is a fascinating form of sightseeing, and the best place to enjoy it is from the corniche.",
+        "startTime": 25459,
+        "endTime": 31906,
+        "slowStartTime": 38339,
+        "slowEndTime": 48084
+    },
+    {
+        "text": "Outdoor cafes in downtown Beirut can also be a perfect place.",
+        "startTime": 32871,
+        "endTime": 37120,
+        "slowStartTime": 49457,
+        "slowEndTime": 55905
+    },
+    {
+        "text": "The historical downtown area, damaged during the civil war, has been renovated.",
+        "startTime": 38157,
+        "endTime": 43203,
+        "slowStartTime": 57386,
+        "slowEndTime": 65029
+    },
+    {
+        "text": "In addition, if you want to have great views of the coast, visit the seaside promenade...",
+        "startTime": 44091,
+        "endTime": 49253,
+        "slowStartTime": 66286,
+        "slowEndTime": 74104
+    },
+    {
+        "text": "...from where you have a good view of Pigeon Rocks.",
+        "startTime": 49532,
+        "endTime": 52188,
+        "slowStartTime": 74448,
+        "slowEndTime": 78507
+    },
+    {
+        "text": "These dramatic rock formations in a cove will make a perfect background for your evening drinks.",
+        "startTime": 53195,
+        "endTime": 58613,
+        "slowStartTime": 79943,
+        "slowEndTime": 88145
+    },
+    {
+        "text": "Don't forget to stop there and enjoy a beverage.",
+        "startTime": 59421,
+        "endTime": 62350,
+        "slowStartTime": 89281,
+        "slowEndTime": 93750
+    }
+]

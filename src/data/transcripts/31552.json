@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Anna booked a room.",
+        "startTime": 396,
+        "endTime": 1553,
+        "slowStartTime": 744,
+        "slowEndTime": 2555
+    },
+    {
+        "text": "Her room has a double bed.",
+        "startTime": 2091,
+        "endTime": 3717,
+        "slowStartTime": 3286,
+        "slowEndTime": 5800
+    },
+    {
+        "text": "The group arrived at the hotel.",
+        "startTime": 6979,
+        "endTime": 8715,
+        "slowStartTime": 10618,
+        "slowEndTime": 13297
+    },
+    {
+        "text": "They will spend the night there.",
+        "startTime": 9572,
+        "endTime": 10807,
+        "slowStartTime": 14508,
+        "slowEndTime": 16436
+    },
+    {
+        "text": "Here is your room key.",
+        "startTime": 13969,
+        "endTime": 14951,
+        "slowStartTime": 21104,
+        "slowEndTime": 22651
+    },
+    {
+        "text": "Your room is on the 9th floor.",
+        "startTime": 15591,
+        "endTime": 17688,
+        "slowStartTime": 23536,
+        "slowEndTime": 26757
+    },
+    {
+        "text": "Check in at the hotel is at 2 PM.",
+        "startTime": 21059,
+        "endTime": 23512,
+        "slowStartTime": 31739,
+        "slowEndTime": 35493
+    },
+    {
+        "text": "Check out at the hotel is before noon.",
+        "startTime": 24155,
+        "endTime": 26627,
+        "slowStartTime": 36383,
+        "slowEndTime": 40165
+    },
+    {
+        "text": "This is your hotel bill.",
+        "startTime": 29759,
+        "endTime": 31250,
+        "slowStartTime": 44789,
+        "slowEndTime": 47100
+    },
+    {
+        "text": "These are charges for room service.",
+        "startTime": 31955,
+        "endTime": 33831,
+        "slowStartTime": 48083,
+        "slowEndTime": 50972
+    },
+    {
+        "text": "Will you pay in cash or credit card?",
+        "startTime": 34383,
+        "endTime": 36339,
+        "slowStartTime": 51724,
+        "slowEndTime": 54734
+    }
+]

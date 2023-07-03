@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Who teaches you English?",
+        "startTime": 5857,
+        "endTime": 7298,
+        "slowStartTime": 8935,
+        "slowEndTime": 11172
+    },
+    {
+        "text": "Miss Clemons teaches us English.",
+        "startTime": 8016,
+        "endTime": 10071,
+        "slowStartTime": 12174,
+        "slowEndTime": 15332
+    },
+    {
+        "text": "Who does Miss Clemons teach?",
+        "startTime": 11063,
+        "endTime": 12509,
+        "slowStartTime": 16745,
+        "slowEndTime": 18989
+    },
+    {
+        "text": "Miss Clemons teaches us.",
+        "startTime": 13455,
+        "endTime": 15201,
+        "slowStartTime": 20333,
+        "slowEndTime": 23027
+    },
+    {
+        "text": "What broke the window?",
+        "startTime": 22339,
+        "endTime": 23367,
+        "slowStartTime": 33659,
+        "slowEndTime": 35275
+    },
+    {
+        "text": "A ball broke the window.",
+        "startTime": 24084,
+        "endTime": 25520,
+        "slowStartTime": 36276,
+        "slowEndTime": 38505
+    },
+    {
+        "text": "What did the ball break?",
+        "startTime": 26836,
+        "endTime": 27991,
+        "slowStartTime": 40404,
+        "slowEndTime": 42212
+    },
+    {
+        "text": "The ball broke the window.",
+        "startTime": 28549,
+        "endTime": 30021,
+        "slowStartTime": 42974,
+        "slowEndTime": 45256
+    }
+]

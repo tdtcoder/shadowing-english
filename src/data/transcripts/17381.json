@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Cube.",
+        "startTime": 2139,
+        "endTime": 2687,
+        "slowStartTime": 3359,
+        "slowEndTime": 4256
+    },
+    {
+        "text": "I have a cube.",
+        "startTime": 3642,
+        "endTime": 4874,
+        "slowStartTime": 5613,
+        "slowEndTime": 7536
+    },
+    {
+        "text": "I have a big cube.",
+        "startTime": 6441,
+        "endTime": 8087,
+        "slowStartTime": 9811,
+        "slowEndTime": 12355
+    },
+    {
+        "text": "Dune.",
+        "startTime": 9584,
+        "endTime": 10348,
+        "slowStartTime": 14526,
+        "slowEndTime": 15747
+    },
+    {
+        "text": "I walked on the sand dune.",
+        "startTime": 11321,
+        "endTime": 13395,
+        "slowStartTime": 17132,
+        "slowEndTime": 20317
+    },
+    {
+        "text": "I walked on the long sand dune.",
+        "startTime": 14964,
+        "endTime": 17495,
+        "slowStartTime": 22596,
+        "slowEndTime": 26467
+    },
+    {
+        "text": "Fuse.",
+        "startTime": 18871,
+        "endTime": 19641,
+        "slowStartTime": 28457,
+        "slowEndTime": 29686
+    },
+    {
+        "text": "The fuse is long.",
+        "startTime": 20415,
+        "endTime": 22193,
+        "slowStartTime": 30773,
+        "slowEndTime": 33515
+    },
+    {
+        "text": "The fuse is very long.",
+        "startTime": 23630,
+        "endTime": 25786,
+        "slowStartTime": 35595,
+        "slowEndTime": 38904
+    },
+    {
+        "text": "Mule.",
+        "startTime": 27327,
+        "endTime": 27897,
+        "slowStartTime": 41140,
+        "slowEndTime": 42071
+    },
+    {
+        "text": "I see a mule.",
+        "startTime": 28789,
+        "endTime": 30046,
+        "slowStartTime": 43333,
+        "slowEndTime": 45294
+    },
+    {
+        "text": "I see a mule at the farm.",
+        "startTime": 31519,
+        "endTime": 33715,
+        "slowStartTime": 47428,
+        "slowEndTime": 50797
+    },
+    {
+        "text": "Flour, flour, we put in some flour.",
+        "startTime": 40377,
+        "endTime": 43597,
+        "slowStartTime": 60716,
+        "slowEndTime": 65620
+    },
+    {
+        "text": "Sugar, sugar, we put in some sugar.",
+        "startTime": 44011,
+        "endTime": 47466,
+        "slowStartTime": 66167,
+        "slowEndTime": 71424
+    },
+    {
+        "text": "Salt, salt, we put in a little salt.",
+        "startTime": 47780,
+        "endTime": 50983,
+        "slowStartTime": 71820,
+        "slowEndTime": 76699
+    },
+    {
+        "text": "Eggs, eggs, we put in two eggs.",
+        "startTime": 51625,
+        "endTime": 54955,
+        "slowStartTime": 77588,
+        "slowEndTime": 82658
+    },
+    {
+        "text": "Milk, milk, we put in some milk.",
+        "startTime": 55334,
+        "endTime": 58498,
+        "slowStartTime": 83151,
+        "slowEndTime": 87972
+    },
+    {
+        "text": "Butter, butter, we put in some butter.",
+        "startTime": 59115,
+        "endTime": 62467,
+        "slowStartTime": 88823,
+        "slowEndTime": 93925
+    },
+    {
+        "text": "We mix it up and put it in the oven.",
+        "startTime": 62649,
+        "endTime": 65159,
+        "slowStartTime": 94123,
+        "slowEndTime": 97964
+    },
+    {
+        "text": "Yum, yum, how yummy these cookies are!",
+        "startTime": 66514,
+        "endTime": 70325,
+        "slowStartTime": 99921,
+        "slowEndTime": 105712
+    }
+]

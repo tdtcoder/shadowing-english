@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Hey there, what can I get you?",
+        "startTime": 2204,
+        "endTime": 3832,
+        "slowStartTime": 3456,
+        "slowEndTime": 5973
+    },
+    {
+        "text": "Hi, could I get a double espresso, to go please?",
+        "startTime": 3918,
+        "endTime": 7057,
+        "slowStartTime": 6027,
+        "slowEndTime": 10811
+    },
+    {
+        "text": "Right away, miss.",
+        "startTime": 7259,
+        "endTime": 8021,
+        "slowStartTime": 11039,
+        "slowEndTime": 12257
+    },
+    {
+        "text": "Voila!",
+        "startTime": 11001,
+        "endTime": 11740,
+        "slowStartTime": 16651,
+        "slowEndTime": 17835
+    },
+    {
+        "text": "Thanks.",
+        "startTime": 11863,
+        "endTime": 12496,
+        "slowStartTime": 17944,
+        "slowEndTime": 18969
+    },
+    {
+        "text": "See you.",
+        "startTime": 13098,
+        "endTime": 13711,
+        "slowStartTime": 19797,
+        "slowEndTime": 20792
+    },
+    {
+        "text": "Hey there, sir.",
+        "startTime": 15817,
+        "endTime": 16678,
+        "slowStartTime": 23875,
+        "slowEndTime": 25242
+    },
+    {
+        "text": "Hello, young boy or girl.",
+        "startTime": 16870,
+        "endTime": 18236,
+        "slowStartTime": 25455,
+        "slowEndTime": 27579
+    },
+    {
+        "text": "I'd like a latte to take out, please.",
+        "startTime": 18431,
+        "endTime": 20893,
+        "slowStartTime": 27797,
+        "slowEndTime": 31564
+    },
+    {
+        "text": "No problem.",
+        "startTime": 21031,
+        "endTime": 21771,
+        "slowStartTime": 31696,
+        "slowEndTime": 32881
+    },
+    {
+        "text": "Hey presto!",
+        "startTime": 24321,
+        "endTime": 25426,
+        "slowStartTime": 36631,
+        "slowEndTime": 38364
+    },
+    {
+        "text": "Delicious, creamy nectar.",
+        "startTime": 25598,
+        "endTime": 27216,
+        "slowStartTime": 38547,
+        "slowEndTime": 41049
+    },
+    {
+        "text": "Goodbye.",
+        "startTime": 27687,
+        "endTime": 28215,
+        "slowStartTime": 41680,
+        "slowEndTime": 42547
+    },
+    {
+        "text": "See you soon.",
+        "startTime": 28373,
+        "endTime": 29025,
+        "slowStartTime": 42710,
+        "slowEndTime": 43763
+    },
+    {
+        "text": "Hey friend, what can I get you?",
+        "startTime": 30557,
+        "endTime": 32271,
+        "slowStartTime": 45986,
+        "slowEndTime": 48632
+    },
+    {
+        "text": "Coffee.",
+        "startTime": 34107,
+        "endTime": 35793,
+        "slowStartTime": 51311,
+        "slowEndTime": 53915
+    }
+]

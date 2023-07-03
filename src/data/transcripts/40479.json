@@ -1,0 +1,135 @@
+[
+    {
+        "text": "A record rainfall has killed at least 8 people...",
+        "startTime": 493,
+        "endTime": 3287,
+        "slowStartTime": 890,
+        "slowEndTime": 5156
+    },
+    {
+        "text": "...in and around the South Korean capital Seoul...",
+        "startTime": 3412,
+        "endTime": 5961,
+        "slowStartTime": 5268,
+        "slowEndTime": 9167
+    },
+    {
+        "text": "...according to authorities on Tuesday.",
+        "startTime": 6203,
+        "endTime": 7984,
+        "slowStartTime": 9455,
+        "slowEndTime": 12201
+    },
+    {
+        "text": "Torrential rain has knocked out power lines,...",
+        "startTime": 9007,
+        "endTime": 11364,
+        "slowStartTime": 13661,
+        "slowEndTime": 17271
+    },
+    {
+        "text": "...caused landslides and submerged roads and subways...",
+        "startTime": 11532,
+        "endTime": 14147,
+        "slowStartTime": 17448,
+        "slowEndTime": 21446
+    },
+    {
+        "text": "...across the capital and in a neighboring province.",
+        "startTime": 14227,
+        "endTime": 16855,
+        "slowStartTime": 21491,
+        "slowEndTime": 25507
+    },
+    {
+        "text": "In Seoul's glitzy Gangnam district,...",
+        "startTime": 17412,
+        "endTime": 19533,
+        "slowStartTime": 26268,
+        "slowEndTime": 29524
+    },
+    {
+        "text": "...buildings flooded and vehicles have been submerged,...",
+        "startTime": 19615,
+        "endTime": 22116,
+        "slowStartTime": 29572,
+        "slowEndTime": 33399
+    },
+    {
+        "text": "...leaving many stranded.",
+        "startTime": 22239,
+        "endTime": 23677,
+        "slowStartTime": 33509,
+        "slowEndTime": 35740
+    },
+    {
+        "text": "Official data shows at least 765 facilities have been damaged...",
+        "startTime": 24166,
+        "endTime": 28673,
+        "slowStartTime": 36399,
+        "slowEndTime": 43235
+    },
+    {
+        "text": "...while around 52 highways and roads have been blocked.",
+        "startTime": 28791,
+        "endTime": 32002,
+        "slowStartTime": 43336,
+        "slowEndTime": 48228
+    },
+    {
+        "text": "Hundreds have also been evacuated from their homes.",
+        "startTime": 32258,
+        "endTime": 35098,
+        "slowStartTime": 48537,
+        "slowEndTime": 52872
+    },
+    {
+        "text": "Visiting a flood-hit area of Seoul on Tuesday,...",
+        "startTime": 36248,
+        "endTime": 39106,
+        "slowStartTime": 54522,
+        "slowEndTime": 58884
+    },
+    {
+        "text": "...President Lee Seok-yeol blamed climate change.",
+        "startTime": 39309,
+        "endTime": 42167,
+        "slowStartTime": 59114,
+        "slowEndTime": 63476
+    },
+    {
+        "text": "The intense heavy rain that broke the record for hourly precipitation...",
+        "startTime": 46605,
+        "endTime": 50905,
+        "slowStartTime": 70057,
+        "slowEndTime": 76583
+    },
+    {
+        "text": "...in Korea's meteorological history...",
+        "startTime": 50985,
+        "endTime": 52704,
+        "slowStartTime": 76627,
+        "slowEndTime": 79281
+    },
+    {
+        "text": "...is believed to be due to abnormal weather conditions caused by climate change.",
+        "startTime": 53237,
+        "endTime": 57708,
+        "slowStartTime": 80005,
+        "slowEndTime": 86787
+    },
+    {
+        "text": "The government should review the current disaster management system from scratch,...",
+        "startTime": 58353,
+        "endTime": 62137,
+        "slowStartTime": 87680,
+        "slowEndTime": 93430
+    },
+    {
+        "text": "...taking into account these abnormal weather conditions caused by climate change.",
+        "startTime": 62440,
+        "endTime": 67427,
+        "slowStartTime": 93810,
+        "slowEndTime": 101365
+    }
+]

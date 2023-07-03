@@ -1,0 +1,65 @@
+[
+    {
+        "text": "May I suggest the procedure for today's meeting?",
+        "startTime": 2530,
+        "endTime": 5030,
+        "slowStartTime": 3860,
+        "slowEndTime": 7580
+    },
+    {
+        "text": "Certainly.",
+        "startTime": 5740,
+        "endTime": 6340,
+        "slowStartTime": 8650,
+        "slowEndTime": 9570
+    },
+    {
+        "text": "I assume you've brought the outline for the contract terms your company prefers.",
+        "startTime": 6970,
+        "endTime": 11140,
+        "slowStartTime": 10550,
+        "slowEndTime": 16775
+    },
+    {
+        "text": "Of course, we've drawn up some contract terms of our own.",
+        "startTime": 11610,
+        "endTime": 14940,
+        "slowStartTime": 17455,
+        "slowEndTime": 22370
+    },
+    {
+        "text": "So, after we both run through the proposals, we can concentrate on the areas that don't agree.",
+        "startTime": 15250,
+        "endTime": 20950,
+        "slowStartTime": 22980,
+        "slowEndTime": 31480
+    },
+    {
+        "text": "Does that sound alright with you?",
+        "startTime": 21280,
+        "endTime": 22720,
+        "slowStartTime": 31980,
+        "slowEndTime": 34100
+    },
+    {
+        "text": "That sounds fine.",
+        "startTime": 23350,
+        "endTime": 24520,
+        "slowStartTime": 35230,
+        "slowEndTime": 36790
+    },
+    {
+        "text": "Since Linda is sitting in on our negotiations, I've also asked her to take minutes for us.",
+        "startTime": 25190,
+        "endTime": 30580,
+        "slowStartTime": 37900,
+        "slowEndTime": 45935
+    },
+    {
+        "text": "So, at this point, I think we're ready to hear the new contract terms.",
+        "startTime": 30930,
+        "endTime": 35200,
+        "slowStartTime": 46500,
+        "slowEndTime": 52910
+    }
+]

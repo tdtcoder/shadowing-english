@@ -1,0 +1,93 @@
+[
+    {
+        "text": "I had a quiet weekend.",
+        "startTime": 866,
+        "endTime": 2417,
+        "slowStartTime": 1449,
+        "slowEndTime": 3850
+    },
+    {
+        "text": "On Saturday, I was busy all day.",
+        "startTime": 2729,
+        "endTime": 5002,
+        "slowStartTime": 4243,
+        "slowEndTime": 7728
+    },
+    {
+        "text": "Yesterday was my birthday.",
+        "startTime": 5410,
+        "endTime": 7591,
+        "slowStartTime": 8265,
+        "slowEndTime": 11611
+    },
+    {
+        "text": "How was the game?",
+        "startTime": 8285,
+        "endTime": 8872,
+        "slowStartTime": 12577,
+        "slowEndTime": 13533
+    },
+    {
+        "text": "It was awesome!",
+        "startTime": 9235,
+        "endTime": 10271,
+        "slowStartTime": 14003,
+        "slowEndTime": 15631
+    },
+    {
+        "text": "Welcome home, honey!",
+        "startTime": 10900,
+        "endTime": 11973,
+        "slowStartTime": 16500,
+        "slowEndTime": 18185
+    },
+    {
+        "text": "How was your trip?",
+        "startTime": 12275,
+        "endTime": 13059,
+        "slowStartTime": 18562,
+        "slowEndTime": 19813
+    },
+    {
+        "text": "It was very good.",
+        "startTime": 13331,
+        "endTime": 14951,
+        "slowStartTime": 20146,
+        "slowEndTime": 22652
+    },
+    {
+        "text": "She was absent yesterday.",
+        "startTime": 16178,
+        "endTime": 18135,
+        "slowStartTime": 24417,
+        "slowEndTime": 27428
+    },
+    {
+        "text": "We were in Japan last week.",
+        "startTime": 19414,
+        "endTime": 21385,
+        "slowStartTime": 29271,
+        "slowEndTime": 32302
+    },
+    {
+        "text": "It was a really nice trip.",
+        "startTime": 22186,
+        "endTime": 24683,
+        "slowStartTime": 33429,
+        "slowEndTime": 37249
+    },
+    {
+        "text": "He was not here when you called.",
+        "startTime": 25570,
+        "endTime": 27391,
+        "slowStartTime": 38505,
+        "slowEndTime": 41312
+    },
+    {
+        "text": "Was he sick yesterday?",
+        "startTime": 28350,
+        "endTime": 30207,
+        "slowStartTime": 42675,
+        "slowEndTime": 45535
+    }
+]

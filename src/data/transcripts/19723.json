@@ -1,0 +1,205 @@
+[
+    {
+        "text": "A ten-ton meteor slammed into Russia last night.",
+        "startTime": 177,
+        "endTime": 2843,
+        "slowStartTime": 416,
+        "slowEndTime": 4489
+    },
+    {
+        "text": "How big was it?",
+        "startTime": 3232,
+        "endTime": 3873,
+        "slowStartTime": 4998,
+        "slowEndTime": 6034
+    },
+    {
+        "text": "How much damage did it cause?",
+        "startTime": 4057,
+        "endTime": 5267,
+        "slowStartTime": 6235,
+        "slowEndTime": 8125
+    },
+    {
+        "text": "And why was it caught on so many cameras?",
+        "startTime": 5368,
+        "endTime": 7743,
+        "slowStartTime": 8202,
+        "slowEndTime": 11840
+    },
+    {
+        "text": "I'm Anthony for DNews, and last night, Trace talked about an asteroid...",
+        "startTime": 13718,
+        "endTime": 16716,
+        "slowStartTime": 20727,
+        "slowEndTime": 25299
+    },
+    {
+        "text": "...that was flying by Earth today, 2012 DA14.",
+        "startTime": 16821,
+        "endTime": 20144,
+        "slowStartTime": 25381,
+        "slowEndTime": 30441
+    },
+    {
+        "text": "Now, right after we reported on it, a totally different, unrelated meteor...",
+        "startTime": 20307,
+        "endTime": 24461,
+        "slowStartTime": 30610,
+        "slowEndTime": 36916
+    },
+    {
+        "text": "...hit Chelyabinsk, Russia, causing massive damage and over a thousand injuries.",
+        "startTime": 24730,
+        "endTime": 29397,
+        "slowStartTime": 37245,
+        "slowEndTime": 44321
+    },
+    {
+        "text": "Now, the meteor was estimated to weigh about ten tons,...",
+        "startTime": 29492,
+        "endTime": 32006,
+        "slowStartTime": 44388,
+        "slowEndTime": 48234
+    },
+    {
+        "text": "...and it entered the Earth's atmosphere over the Ural Mountains...",
+        "startTime": 32298,
+        "endTime": 34653,
+        "slowStartTime": 48597,
+        "slowEndTime": 52205
+    },
+    {
+        "text": "...at a speed of 33,000 miles per hour.",
+        "startTime": 34729,
+        "endTime": 37615,
+        "slowStartTime": 52244,
+        "slowEndTime": 56648
+    },
+    {
+        "text": "That is hypersonic speed.",
+        "startTime": 37949,
+        "endTime": 39391,
+        "slowStartTime": 57074,
+        "slowEndTime": 59311
+    },
+    {
+        "text": "It was six and a half feet long,...",
+        "startTime": 39587,
+        "endTime": 40846,
+        "slowStartTime": 59531,
+        "slowEndTime": 61494
+    },
+    {
+        "text": "...but shattered into pieces about 20 to 30 miles above the ground,...",
+        "startTime": 40947,
+        "endTime": 44229,
+        "slowStartTime": 61571,
+        "slowEndTime": 66569
+    },
+    {
+        "text": "...releasing several kilotons of energy.",
+        "startTime": 44527,
+        "endTime": 46525,
+        "slowStartTime": 66941,
+        "slowEndTime": 70012
+    },
+    {
+        "text": "Now, that's basically the same amount as a small nuclear bomb.",
+        "startTime": 46617,
+        "endTime": 49588,
+        "slowStartTime": 70076,
+        "slowEndTime": 74607
+    },
+    {
+        "text": "Just the shockwave from the meteor entering our atmosphere...",
+        "startTime": 49963,
+        "endTime": 53279,
+        "slowStartTime": 75094,
+        "slowEndTime": 80143
+    },
+    {
+        "text": "...damaged over 3,000 buildings and shattered over a million square feet of glass,...",
+        "startTime": 53387,
+        "endTime": 58429,
+        "slowStartTime": 80230,
+        "slowEndTime": 87869
+    },
+    {
+        "text": "...and that shattered glass is the cause of most of the injuries in the area.",
+        "startTime": 58575,
+        "endTime": 61285,
+        "slowStartTime": 88012,
+        "slowEndTime": 92153
+    },
+    {
+        "text": "At the time I'm recording this, anywhere from 900 to 1,200 people,...",
+        "startTime": 61417,
+        "endTime": 64845,
+        "slowStartTime": 92276,
+        "slowEndTime": 97492
+    },
+    {
+        "text": "...there were conflicting reports, have gone in for medical care for shockwave-related injuries.",
+        "startTime": 64934,
+        "endTime": 69939,
+        "slowStartTime": 97551,
+        "slowEndTime": 105133
+    },
+    {
+        "text": "Right now, there are no reports of deaths or people actually being hit by space debris.",
+        "startTime": 70023,
+        "endTime": 74411,
+        "slowStartTime": 105185,
+        "slowEndTime": 111841
+    },
+    {
+        "text": "This is the largest recorded explosion of a space object hitting the Earth since 1908.",
+        "startTime": 74539,
+        "endTime": 79454,
+        "slowStartTime": 111959,
+        "slowEndTime": 119406
+    },
+    {
+        "text": "Now, that impact was also in Russia, 3,000 miles away from this one...",
+        "startTime": 79569,
+        "endTime": 83152,
+        "slowStartTime": 119504,
+        "slowEndTime": 124953
+    },
+    {
+        "text": "...in an area called Tunguska and was estimated to be somewhere around ten megatons in force.",
+        "startTime": 83218,
+        "endTime": 88443,
+        "slowStartTime": 124977,
+        "slowEndTime": 132889
+    },
+    {
+        "text": "Yesterday's meteor's descent was recorded by a large number of dashboard cameras in Russian cars,...",
+        "startTime": 88555,
+        "endTime": 93835,
+        "slowStartTime": 132983,
+        "slowEndTime": 140978
+    },
+    {
+        "text": "...and the reason for that is that a lot of Russian drivers have them installed...",
+        "startTime": 93915,
+        "endTime": 97057,
+        "slowStartTime": 141023,
+        "slowEndTime": 145810
+    },
+    {
+        "text": "...because of high instances of insurance fraud and hit-and-run accidents in the country.",
+        "startTime": 97461,
+        "endTime": 101187,
+        "slowStartTime": 146342,
+        "slowEndTime": 152005
+    },
+    {
+        "text": "So, it may seem coincidental, but it's a very standard practice over there.",
+        "startTime": 101271,
+        "endTime": 105236,
+        "slowStartTime": 152057,
+        "slowEndTime": 158079
+    }
+]

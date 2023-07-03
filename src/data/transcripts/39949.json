@@ -1,0 +1,58 @@
+[
+    {
+        "text": "You've broken everything.",
+        "startTime": 4699,
+        "endTime": 7905,
+        "slowStartTime": 7199,
+        "slowEndTime": 12082
+    },
+    {
+        "text": "Your suffering is almost at an end.",
+        "startTime": 13669,
+        "endTime": 20985,
+        "slowStartTime": 20653,
+        "slowEndTime": 31703
+    },
+    {
+        "text": "See you on the other side.",
+        "startTime": 25878,
+        "endTime": 26816,
+        "slowStartTime": 38967,
+        "slowEndTime": 40449
+    },
+    {
+        "text": "On the other side.",
+        "startTime": 28473,
+        "endTime": 29363,
+        "slowStartTime": 42860,
+        "slowEndTime": 44270
+    },
+    {
+        "text": "I was convinced I was put here for some other reason.",
+        "startTime": 34585,
+        "endTime": 37272,
+        "slowStartTime": 52027,
+        "slowEndTime": 56133
+    },
+    {
+        "text": "Maybe I can still help...",
+        "startTime": 39472,
+        "endTime": 40369,
+        "slowStartTime": 59358,
+        "slowEndTime": 60779
+    },
+    {
+        "text": "...even if it's the last thing I do.",
+        "startTime": 41931,
+        "endTime": 43325,
+        "slowStartTime": 63046,
+        "slowEndTime": 65212
+    },
+    {
+        "text": "You have lost.",
+        "startTime": 54889,
+        "endTime": 57005,
+        "slowStartTime": 82484,
+        "slowEndTime": 85732
+    }
+]

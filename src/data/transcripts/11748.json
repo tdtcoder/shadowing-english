@@ -1,0 +1,93 @@
+[
+    {
+        "text": "There are things in this world worth fighting and dying for.",
+        "startTime": 7100,
+        "endTime": 9800,
+        "slowStartTime": 10790,
+        "slowEndTime": 14860
+    },
+    {
+        "text": "We're warriors, it's who we are.",
+        "startTime": 12240,
+        "endTime": 16040,
+        "slowStartTime": 18450,
+        "slowEndTime": 24220
+    },
+    {
+        "text": "We're the three musketeers.",
+        "startTime": 18010,
+        "endTime": 19380,
+        "slowStartTime": 27110,
+        "slowEndTime": 29160
+    },
+    {
+        "text": "I've heard of you.",
+        "startTime": 19810,
+        "endTime": 20420,
+        "slowStartTime": 29820,
+        "slowEndTime": 30790
+    },
+    {
+        "text": "We are surrounded by enemies.",
+        "startTime": 25590,
+        "endTime": 27320,
+        "slowStartTime": 38440,
+        "slowEndTime": 41010
+    },
+    {
+        "text": "War will engulf the entire continent.",
+        "startTime": 28190,
+        "endTime": 30530,
+        "slowStartTime": 42390,
+        "slowEndTime": 45890
+    },
+    {
+        "text": "Only we can prevent the coming apocalypse.",
+        "startTime": 31330,
+        "endTime": 33800,
+        "slowStartTime": 47210,
+        "slowEndTime": 50800
+    },
+    {
+        "text": "D'Artagnan, you wanna be a musketeer?",
+        "startTime": 35400,
+        "endTime": 37300,
+        "slowStartTime": 53170,
+        "slowEndTime": 55890
+    },
+    {
+        "text": "This is your chance.",
+        "startTime": 38900,
+        "endTime": 40000,
+        "slowStartTime": 58490,
+        "slowEndTime": 60020
+    },
+    {
+        "text": "There were four of us against 40 of them.",
+        "startTime": 66090,
+        "endTime": 67660,
+        "slowStartTime": 99240,
+        "slowEndTime": 101630
+    },
+    {
+        "text": "Was it 40 or 400?",
+        "startTime": 68600,
+        "endTime": 71000,
+        "slowStartTime": 103060,
+        "slowEndTime": 106660
+    },
+    {
+        "text": "Just 40.",
+        "startTime": 71150,
+        "endTime": 71700,
+        "slowStartTime": 106730,
+        "slowEndTime": 107730
+    },
+    {
+        "text": "It was an off day.",
+        "startTime": 73400,
+        "endTime": 73900,
+        "slowStartTime": 110160,
+        "slowEndTime": 111030
+    }
+]

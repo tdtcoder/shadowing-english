@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Tell me more about your mother.",
+        "startTime": 348,
+        "endTime": 1794,
+        "slowStartTime": 672,
+        "slowEndTime": 2916
+    },
+    {
+        "text": "Well, my mother is very kind and generous.",
+        "startTime": 2381,
+        "endTime": 4805,
+        "slowStartTime": 3721,
+        "slowEndTime": 7433
+    },
+    {
+        "text": "She's always done so much for me and my brother.",
+        "startTime": 5214,
+        "endTime": 7695,
+        "slowStartTime": 7971,
+        "slowEndTime": 11767
+    },
+    {
+        "text": "She sounds like a great mother. What about your father?",
+        "startTime": 8192,
+        "endTime": 11398,
+        "slowStartTime": 12438,
+        "slowEndTime": 17322
+    },
+    {
+        "text": "He has a great personality.",
+        "startTime": 11711,
+        "endTime": 13224,
+        "slowStartTime": 17717,
+        "slowEndTime": 20061
+    },
+    {
+        "text": "He's very kind, but he is always very busy.",
+        "startTime": 13446,
+        "endTime": 16465,
+        "slowStartTime": 20319,
+        "slowEndTime": 24923
+    },
+    {
+        "text": "He runs a business.",
+        "startTime": 16630,
+        "endTime": 17677,
+        "slowStartTime": 25095,
+        "slowEndTime": 26740
+    },
+    {
+        "text": "I see. What about your brother? What is he like?",
+        "startTime": 17971,
+        "endTime": 21313,
+        "slowStartTime": 27107,
+        "slowEndTime": 32194
+    },
+    {
+        "text": "Oh, he's very easygoing, not like me. We're so different.",
+        "startTime": 21537,
+        "endTime": 24935,
+        "slowStartTime": 32455,
+        "slowEndTime": 37627
+    },
+    {
+        "text": "He is kind of a troublemaker.",
+        "startTime": 25481,
+        "endTime": 26853,
+        "slowStartTime": 38372,
+        "slowEndTime": 40505
+    },
+    {
+        "text": "Do you have many cousins?",
+        "startTime": 27244,
+        "endTime": 28761,
+        "slowStartTime": 41016,
+        "slowEndTime": 43367
+    },
+    {
+        "text": "Yes, I have three cousins on my mother's side, and four on my father's side.",
+        "startTime": 29053,
+        "endTime": 33485,
+        "slowStartTime": 43730,
+        "slowEndTime": 50453
+    },
+    {
+        "text": "Are you close to them?",
+        "startTime": 33847,
+        "endTime": 34879,
+        "slowStartTime": 50920,
+        "slowEndTime": 52543
+    },
+    {
+        "text": "Yes, we practically grew up together.",
+        "startTime": 35135,
+        "endTime": 37143,
+        "slowStartTime": 52852,
+        "slowEndTime": 55939
+    }
+]

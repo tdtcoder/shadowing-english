@@ -1,0 +1,100 @@
+[
+    {
+        "text": "﻿This is Google Home.",
+        "startTime": 283,
+        "endTime": 1256,
+        "slowStartTime": 574,
+        "slowEndTime": 2109
+    },
+    {
+        "text": "It's not a phone like, it doesn't have buttons or a screen...",
+        "startTime": 1631,
+        "endTime": 4731,
+        "slowStartTime": 2597,
+        "slowEndTime": 7322
+    },
+    {
+        "text": "...but you can use it to make phone calls to pretty much anyone.",
+        "startTime": 4946,
+        "endTime": 7541,
+        "slowStartTime": 7569,
+        "slowEndTime": 11537
+    },
+    {
+        "text": "So, you can ask it to call your mom or call your brother...",
+        "startTime": 7871,
+        "endTime": 10138,
+        "slowStartTime": 11956,
+        "slowEndTime": 15432
+    },
+    {
+        "text": "...or you can be like, \"Hey Google, call that sandwich shop on Pierce Street.\"",
+        "startTime": 10272,
+        "endTime": 13639,
+        "slowStartTime": 15558,
+        "slowEndTime": 20684
+    },
+    {
+        "text": "And it'll be like,...",
+        "startTime": 13736,
+        "endTime": 14431,
+        "slowStartTime": 20754,
+        "slowEndTime": 21872
+    },
+    {
+        "text": "\"Okay, calling Gino's.\"",
+        "startTime": 14635,
+        "endTime": 16331,
+        "slowStartTime": 22103,
+        "slowEndTime": 24722
+    },
+    {
+        "text": "Gino's Deli.",
+        "startTime": 18349,
+        "endTime": 19099,
+        "slowStartTime": 27674,
+        "slowEndTime": 28873
+    },
+    {
+        "text": "See?",
+        "startTime": 19269,
+        "endTime": 19544,
+        "slowStartTime": 29053,
+        "slowEndTime": 29541
+    },
+    {
+        "text": "And you get Gino's on the phone.",
+        "startTime": 19634,
+        "endTime": 20732,
+        "slowStartTime": 29601,
+        "slowEndTime": 31323
+    },
+    {
+        "text": "Lady, you gotta stop doing this unless you're gonna order something.",
+        "startTime": 20891,
+        "endTime": 23318,
+        "slowStartTime": 31487,
+        "slowEndTime": 35202
+    },
+    {
+        "text": "No, I get it.",
+        "startTime": 23421,
+        "endTime": 24228,
+        "slowStartTime": 35281,
+        "slowEndTime": 36567
+    },
+    {
+        "text": "That's fair.",
+        "startTime": 24429,
+        "endTime": 24543,
+        "slowStartTime": 36794,
+        "slowEndTime": 37039
+    },
+    {
+        "text": "That's fair.",
+        "startTime": 25227,
+        "endTime": 25419,
+        "slowStartTime": 37990,
+        "slowEndTime": 38354
+    }
+]

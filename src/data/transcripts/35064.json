@@ -1,0 +1,107 @@
+[
+    {
+        "text": "When something is stored in the cloud,...",
+        "startTime": 605,
+        "endTime": 2243,
+        "slowStartTime": 1058,
+        "slowEndTime": 3590
+    },
+    {
+        "text": "...that means it's stored on internet servers instead of on your computer.",
+        "startTime": 2605,
+        "endTime": 6287,
+        "slowStartTime": 4058,
+        "slowEndTime": 9656
+    },
+    {
+        "text": "It's like having an extra hard drive,...",
+        "startTime": 7516,
+        "endTime": 9381,
+        "slowStartTime": 11424,
+        "slowEndTime": 14296
+    },
+    {
+        "text": "...one that you can access anywhere and anytime you're connected to the internet.",
+        "startTime": 10060,
+        "endTime": 14229,
+        "slowStartTime": 15240,
+        "slowEndTime": 21569
+    },
+    {
+        "text": "In the past, you only had a home computer and the software you installed on it.",
+        "startTime": 15953,
+        "endTime": 20445,
+        "slowStartTime": 24079,
+        "slowEndTime": 30892
+    },
+    {
+        "text": "Now you can take your files anywhere thanks to cloud-based applications called web apps,...",
+        "startTime": 22276,
+        "endTime": 27115,
+        "slowStartTime": 33564,
+        "slowEndTime": 40897
+    },
+    {
+        "text": "...which run inside your internet browser.",
+        "startTime": 27309,
+        "endTime": 29184,
+        "slowStartTime": 41114,
+        "slowEndTime": 44001
+    },
+    {
+        "text": "A web app that you may already use is Google Docs.",
+        "startTime": 30266,
+        "endTime": 33701,
+        "slowStartTime": 45549,
+        "slowEndTime": 50777
+    },
+    {
+        "text": "It's free.",
+        "startTime": 34305,
+        "endTime": 35061,
+        "slowStartTime": 51608,
+        "slowEndTime": 52816
+    },
+    {
+        "text": "You don't have to install anything to use it,...",
+        "startTime": 35521,
+        "endTime": 37819,
+        "slowStartTime": 53431,
+        "slowEndTime": 56954
+    },
+    {
+        "text": "...and it allows you to create several different types of projects.",
+        "startTime": 38149,
+        "endTime": 41640,
+        "slowStartTime": 57373,
+        "slowEndTime": 62685
+    },
+    {
+        "text": "You can access everything that you create in Google Docs...",
+        "startTime": 42631,
+        "endTime": 45577,
+        "slowStartTime": 64096,
+        "slowEndTime": 68590
+    },
+    {
+        "text": "...from any computer or device with an internet connection.",
+        "startTime": 45645,
+        "endTime": 48471,
+        "slowStartTime": 68617,
+        "slowEndTime": 72931
+    },
+    {
+        "text": "Since you only need a connected device  to access the cloud,...",
+        "startTime": 50109,
+        "endTime": 53532,
+        "slowStartTime": 75313,
+        "slowEndTime": 80523
+    },
+    {
+        "text": "...you can take your music, photos and videos with you wherever you go.",
+        "startTime": 53975,
+        "endTime": 58611,
+        "slowStartTime": 81112,
+        "slowEndTime": 88141
+    }
+]

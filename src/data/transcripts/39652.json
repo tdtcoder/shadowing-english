@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Were there children at the zoo last weekend?",
+        "startTime": 304,
+        "endTime": 2577,
+        "slowStartTime": 606,
+        "slowEndTime": 4091
+    },
+    {
+        "text": "Yes.",
+        "startTime": 4396,
+        "endTime": 4716,
+        "slowStartTime": 6744,
+        "slowEndTime": 7299
+    },
+    {
+        "text": "There were many children there last weekend.",
+        "startTime": 4806,
+        "endTime": 6619,
+        "slowStartTime": 7359,
+        "slowEndTime": 10154
+    },
+    {
+        "text": "Were there movie stars at the mall yesterday?",
+        "startTime": 10155,
+        "endTime": 12177,
+        "slowStartTime": 15383,
+        "slowEndTime": 18490
+    },
+    {
+        "text": "Yes.",
+        "startTime": 14702,
+        "endTime": 15258,
+        "slowStartTime": 22203,
+        "slowEndTime": 23112
+    },
+    {
+        "text": "There were some movie stars at the mall yesterday.",
+        "startTime": 15559,
+        "endTime": 17835,
+        "slowStartTime": 23489,
+        "slowEndTime": 26978
+    },
+    {
+        "text": "Were you at the mall last Saturday?",
+        "startTime": 21421,
+        "endTime": 23493,
+        "slowStartTime": 32281,
+        "slowEndTime": 35465
+    },
+    {
+        "text": "Yes, I was.",
+        "startTime": 26499,
+        "endTime": 27507,
+        "slowStartTime": 39898,
+        "slowEndTime": 41485
+    },
+    {
+        "text": "There were so many people at the mall last Saturday.",
+        "startTime": 28117,
+        "endTime": 30693,
+        "slowStartTime": 42326,
+        "slowEndTime": 46264
+    }
+]

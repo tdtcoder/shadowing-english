@@ -1,0 +1,128 @@
+[
+    {
+        "text": "\"The Road Not Taken\" by Robert Frost.",
+        "startTime": 146,
+        "endTime": 3211,
+        "slowStartTime": 369,
+        "slowEndTime": 5041
+    },
+    {
+        "text": "Two roads diverged in a yellow wood,...",
+        "startTime": 7337,
+        "endTime": 10833,
+        "slowStartTime": 11155,
+        "slowEndTime": 16475
+    },
+    {
+        "text": "...And sorry I could not travel both and be one traveler,...",
+        "startTime": 17869,
+        "endTime": 22517,
+        "slowStartTime": 26954,
+        "slowEndTime": 34000
+    },
+    {
+        "text": "...long I stood and looked down one as far as I could...",
+        "startTime": 27900,
+        "endTime": 32803,
+        "slowStartTime": 42000,
+        "slowEndTime": 49430
+    },
+    {
+        "text": "...To where it bent in the undergrowth;...",
+        "startTime": 33233,
+        "endTime": 36111,
+        "slowStartTime": 50000,
+        "slowEndTime": 54391
+    },
+    {
+        "text": "Then took the other, as just as fair,...",
+        "startTime": 40124,
+        "endTime": 44560,
+        "slowStartTime": 60336,
+        "slowEndTime": 67065
+    },
+    {
+        "text": "...And having perhaps the better claim,...",
+        "startTime": 44832,
+        "endTime": 47561,
+        "slowStartTime": 67398,
+        "slowEndTime": 71567
+    },
+    {
+        "text": "...Because it was grassy and wanted wear;...",
+        "startTime": 48332,
+        "endTime": 51912,
+        "slowStartTime": 72648,
+        "slowEndTime": 78093
+    },
+    {
+        "text": "...Though as for that the passing there had worn them really about the same,...",
+        "startTime": 53596,
+        "endTime": 59424,
+        "slowStartTime": 80544,
+        "slowEndTime": 89361
+    },
+    {
+        "text": "...And both that morning equally lay in leaves no step had trodden black.",
+        "startTime": 68283,
+        "endTime": 74360,
+        "slowStartTime": 102575,
+        "slowEndTime": 111765
+    },
+    {
+        "text": "Oh, I kept the first for another day!",
+        "startTime": 77486,
+        "endTime": 80397,
+        "slowStartTime": 116379,
+        "slowEndTime": 120820
+    },
+    {
+        "text": "Yet knowing how way leads on to way,...",
+        "startTime": 82425,
+        "endTime": 84925,
+        "slowStartTime": 123788,
+        "slowEndTime": 127613
+    },
+    {
+        "text": "...I doubted if I should ever come back.",
+        "startTime": 85957,
+        "endTime": 89351,
+        "slowStartTime": 129085,
+        "slowEndTime": 134252
+    },
+    {
+        "text": "I shall be telling this with a sigh...",
+        "startTime": 93980,
+        "endTime": 97212,
+        "slowStartTime": 141120,
+        "slowEndTime": 146043
+    },
+    {
+        "text": "...Somewhere ages and ages hence:...",
+        "startTime": 97737,
+        "endTime": 101226,
+        "slowStartTime": 146756,
+        "slowEndTime": 152064
+    },
+    {
+        "text": "...Two roads diverged in a wood,...",
+        "startTime": 102943,
+        "endTime": 105850,
+        "slowStartTime": 154565,
+        "slowEndTime": 159000
+    },
+    {
+        "text": "...and I, I took the one less traveled by,...",
+        "startTime": 106618,
+        "endTime": 111345,
+        "slowStartTime": 160077,
+        "slowEndTime": 167243
+    },
+    {
+        "text": "...And that has made all the difference.",
+        "startTime": 112839,
+        "endTime": 116461,
+        "slowStartTime": 169409,
+        "slowEndTime": 174917
+    }
+]

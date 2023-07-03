@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Hi, my name is Jack.",
+        "startTime": 1053,
+        "endTime": 2437,
+        "slowStartTime": 1730,
+        "slowEndTime": 3881
+    },
+    {
+        "text": "Hi, Jack!",
+        "startTime": 3087,
+        "endTime": 3747,
+        "slowStartTime": 4781,
+        "slowEndTime": 5845
+    },
+    {
+        "text": "I'm Philip.",
+        "startTime": 3995,
+        "endTime": 4641,
+        "slowStartTime": 6142,
+        "slowEndTime": 7186
+    },
+    {
+        "text": "Nice to meet you, Philip!",
+        "startTime": 4851,
+        "endTime": 6048,
+        "slowStartTime": 7426,
+        "slowEndTime": 9297
+    },
+    {
+        "text": "Nice to meet you too, Jack!",
+        "startTime": 6735,
+        "endTime": 8067,
+        "slowStartTime": 10252,
+        "slowEndTime": 12326
+    },
+    {
+        "text": "Welcome to the company!",
+        "startTime": 8755,
+        "endTime": 10155,
+        "slowStartTime": 13282,
+        "slowEndTime": 15458
+    },
+    {
+        "text": "We're happy to have you here.",
+        "startTime": 10540,
+        "endTime": 12171,
+        "slowStartTime": 15960,
+        "slowEndTime": 18481
+    },
+    {
+        "text": "Thank you!",
+        "startTime": 12811,
+        "endTime": 13276,
+        "slowStartTime": 19367,
+        "slowEndTime": 20139
+    },
+    {
+        "text": "I'm very happy to be here.",
+        "startTime": 13581,
+        "endTime": 15206,
+        "slowStartTime": 20521,
+        "slowEndTime": 23034
+    },
+    {
+        "text": "Good morning, Prim!",
+        "startTime": 20621,
+        "endTime": 21675,
+        "slowStartTime": 31082,
+        "slowEndTime": 32737
+    },
+    {
+        "text": "Welcome to the Istanbul State Library!",
+        "startTime": 22047,
+        "endTime": 24253,
+        "slowStartTime": 33220,
+        "slowEndTime": 36604
+    },
+    {
+        "text": "We are so happy to have you working with us.",
+        "startTime": 24765,
+        "endTime": 27015,
+        "slowStartTime": 37297,
+        "slowEndTime": 40747
+    },
+    {
+        "text": "Thank you, Jamie!",
+        "startTime": 27754,
+        "endTime": 28517,
+        "slowStartTime": 41781,
+        "slowEndTime": 43000
+    },
+    {
+        "text": "I'm really happy to be here.",
+        "startTime": 28693,
+        "endTime": 30118,
+        "slowStartTime": 43190,
+        "slowEndTime": 45402
+    },
+    {
+        "text": "Welcome, everyone.",
+        "startTime": 32677,
+        "endTime": 33543,
+        "slowStartTime": 49165,
+        "slowEndTime": 50539
+    },
+    {
+        "text": "Welcome to your new office.",
+        "startTime": 34213,
+        "endTime": 36648,
+        "slowStartTime": 51470,
+        "slowEndTime": 55197
+    },
+    {
+        "text": "It's good to be back.",
+        "startTime": 38172,
+        "endTime": 39419,
+        "slowStartTime": 57408,
+        "slowEndTime": 59353
+    }
+]

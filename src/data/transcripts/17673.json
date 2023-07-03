@@ -1,0 +1,219 @@
+[
+    {
+        "text": "The mice and the men ate the same food.",
+        "startTime": 2404,
+        "endTime": 6059,
+        "slowStartTime": 3756,
+        "slowEndTime": 9313
+    },
+    {
+        "text": "They lived in the same houses.",
+        "startTime": 7142,
+        "endTime": 9607,
+        "slowStartTime": 10863,
+        "slowEndTime": 14635
+    },
+    {
+        "text": "But they did not like each other at all.",
+        "startTime": 10649,
+        "endTime": 14190,
+        "slowStartTime": 16123,
+        "slowEndTime": 21510
+    },
+    {
+        "text": "The mice said the men ate too much food.",
+        "startTime": 15251,
+        "endTime": 18979,
+        "slowStartTime": 23026,
+        "slowEndTime": 28694
+    },
+    {
+        "text": "The men said the mice gnawed the walls of the houses.",
+        "startTime": 20024,
+        "endTime": 24371,
+        "slowStartTime": 30186,
+        "slowEndTime": 36782
+    },
+    {
+        "text": "The mice and men decided to go to war.",
+        "startTime": 25448,
+        "endTime": 29264,
+        "slowStartTime": 38322,
+        "slowEndTime": 44121
+    },
+    {
+        "text": "The men were sure they would win.",
+        "startTime": 30314,
+        "endTime": 32598,
+        "slowStartTime": 45621,
+        "slowEndTime": 49122
+    },
+    {
+        "text": "They were so much bigger than the mice.",
+        "startTime": 33615,
+        "endTime": 36316,
+        "slowStartTime": 50573,
+        "slowEndTime": 54699
+    },
+    {
+        "text": "The men did many things to get ready for the war.",
+        "startTime": 37383,
+        "endTime": 41217,
+        "slowStartTime": 56224,
+        "slowEndTime": 62051
+    },
+    {
+        "text": "They put new strings on their bows.",
+        "startTime": 42227,
+        "endTime": 44763,
+        "slowStartTime": 63490,
+        "slowEndTime": 67369
+    },
+    {
+        "text": "They put feathers on their arrows.",
+        "startTime": 45753,
+        "endTime": 48237,
+        "slowStartTime": 68780,
+        "slowEndTime": 72581
+    },
+    {
+        "text": "They made slings to throw rocks at the mice.",
+        "startTime": 49289,
+        "endTime": 52497,
+        "slowStartTime": 74083,
+        "slowEndTime": 78971
+    },
+    {
+        "text": "Before the war, the men had a big war dance.",
+        "startTime": 53585,
+        "endTime": 57631,
+        "slowStartTime": 80527,
+        "slowEndTime": 86672
+    },
+    {
+        "text": "The dancing made them very tired.",
+        "startTime": 58707,
+        "endTime": 61520,
+        "slowStartTime": 88211,
+        "slowEndTime": 92505
+    },
+    {
+        "text": "They all fell asleep.",
+        "startTime": 62569,
+        "endTime": 63841,
+        "slowStartTime": 94004,
+        "slowEndTime": 95986
+    },
+    {
+        "text": "Then the little mice crept into the room.",
+        "startTime": 64893,
+        "endTime": 67995,
+        "slowStartTime": 97490,
+        "slowEndTime": 102217
+    },
+    {
+        "text": "They gnawed the strings of the bows.",
+        "startTime": 69044,
+        "endTime": 71447,
+        "slowStartTime": 103716,
+        "slowEndTime": 107396
+    },
+    {
+        "text": "They cut the feathers from the arrows.",
+        "startTime": 72515,
+        "endTime": 75123,
+        "slowStartTime": 108923,
+        "slowEndTime": 112910
+    },
+    {
+        "text": "They broke the slings with their sharp teeth.",
+        "startTime": 76190,
+        "endTime": 78817,
+        "slowStartTime": 114435,
+        "slowEndTime": 118450
+    },
+    {
+        "text": "Then they gave a great war yell.",
+        "startTime": 79896,
+        "endTime": 82479,
+        "slowStartTime": 119994,
+        "slowEndTime": 123943
+    },
+    {
+        "text": "Squeak!",
+        "startTime": 83548,
+        "endTime": 85722,
+        "slowStartTime": 125472,
+        "slowEndTime": 128808
+    },
+    {
+        "text": "The men woke up, and they saw the mice.",
+        "startTime": 86826,
+        "endTime": 89883,
+        "slowStartTime": 130389,
+        "slowEndTime": 135049
+    },
+    {
+        "text": "They reached for their bows, but the strings were gnawed.",
+        "startTime": 90951,
+        "endTime": 94578,
+        "slowStartTime": 136576,
+        "slowEndTime": 142092
+    },
+    {
+        "text": "They picked up their arrows.",
+        "startTime": 95611,
+        "endTime": 97520,
+        "slowStartTime": 143566,
+        "slowEndTime": 146505
+    },
+    {
+        "text": "The feathers were all cut.",
+        "startTime": 98587,
+        "endTime": 100265,
+        "slowStartTime": 148030,
+        "slowEndTime": 150622
+    },
+    {
+        "text": "They took up their slings.",
+        "startTime": 101280,
+        "endTime": 102895,
+        "slowStartTime": 152070,
+        "slowEndTime": 154568
+    },
+    {
+        "text": "Every sling was broken.",
+        "startTime": 103933,
+        "endTime": 105958,
+        "slowStartTime": 156050,
+        "slowEndTime": 159162
+    },
+    {
+        "text": "The men had nothing to fight with.",
+        "startTime": 106986,
+        "endTime": 109448,
+        "slowStartTime": 160629,
+        "slowEndTime": 164397
+    },
+    {
+        "text": "They could not drive the mice away.",
+        "startTime": 110503,
+        "endTime": 112771,
+        "slowStartTime": 165904,
+        "slowEndTime": 169382
+    },
+    {
+        "text": "The mice won the war, even though they were smaller.",
+        "startTime": 113826,
+        "endTime": 118041,
+        "slowStartTime": 170889,
+        "slowEndTime": 177287
+    },
+    {
+        "text": "Mice have been in men's houses ever since.",
+        "startTime": 119097,
+        "endTime": 122752,
+        "slowStartTime": 178796,
+        "slowEndTime": 184353
+    }
+]

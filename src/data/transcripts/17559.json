@@ -1,0 +1,128 @@
+[
+    {
+        "text": "On Sunday Grandpa and I went fishing.",
+        "startTime": 2561,
+        "endTime": 5672,
+        "slowStartTime": 3992,
+        "slowEndTime": 8733
+    },
+    {
+        "text": "I caught a fish.",
+        "startTime": 6880,
+        "endTime": 7943,
+        "slowStartTime": 10470,
+        "slowEndTime": 12139
+    },
+    {
+        "text": "On Monday we went to the ball game.",
+        "startTime": 9507,
+        "endTime": 12156,
+        "slowStartTime": 14410,
+        "slowEndTime": 18459
+    },
+    {
+        "text": "I caught a ball.",
+        "startTime": 13442,
+        "endTime": 14927,
+        "slowStartTime": 20313,
+        "slowEndTime": 22616
+    },
+    {
+        "text": "On Tuesday we went to the museum.",
+        "startTime": 16610,
+        "endTime": 19596,
+        "slowStartTime": 25065,
+        "slowEndTime": 29619
+    },
+    {
+        "text": "I saw a dinosaur.",
+        "startTime": 20954,
+        "endTime": 22789,
+        "slowStartTime": 31581,
+        "slowEndTime": 34409
+    },
+    {
+        "text": "On Wednesday we went to the zoo.",
+        "startTime": 24251,
+        "endTime": 27023,
+        "slowStartTime": 36527,
+        "slowEndTime": 40759
+    },
+    {
+        "text": "We saw three hippos.",
+        "startTime": 28361,
+        "endTime": 30275,
+        "slowStartTime": 42691,
+        "slowEndTime": 45638
+    },
+    {
+        "text": "On Thursday we went to the beach.",
+        "startTime": 31824,
+        "endTime": 34448,
+        "slowStartTime": 47886,
+        "slowEndTime": 51897
+    },
+    {
+        "text": "We played in the waves.",
+        "startTime": 35530,
+        "endTime": 37099,
+        "slowStartTime": 53445,
+        "slowEndTime": 55873
+    },
+    {
+        "text": "On Friday we went to the movies.",
+        "startTime": 38606,
+        "endTime": 41357,
+        "slowStartTime": 58059,
+        "slowEndTime": 62260
+    },
+    {
+        "text": "We ate popcorn.",
+        "startTime": 42600,
+        "endTime": 44045,
+        "slowStartTime": 64050,
+        "slowEndTime": 66293
+    },
+    {
+        "text": "On Saturday I was tired.",
+        "startTime": 45907,
+        "endTime": 48137,
+        "slowStartTime": 69010,
+        "slowEndTime": 72431
+    },
+    {
+        "text": "I stayed in bed until ten o'clock.",
+        "startTime": 49439,
+        "endTime": 52417,
+        "slowStartTime": 74308,
+        "slowEndTime": 78851
+    },
+    {
+        "text": "Grandpa and I did not do anything.",
+        "startTime": 53957,
+        "endTime": 56655,
+        "slowStartTime": 81086,
+        "slowEndTime": 85208
+    },
+    {
+        "text": "After dinner my dad came to get me.",
+        "startTime": 58087,
+        "endTime": 61180,
+        "slowStartTime": 87280,
+        "slowEndTime": 91995
+    },
+    {
+        "text": "I went back home.",
+        "startTime": 62414,
+        "endTime": 63725,
+        "slowStartTime": 93771,
+        "slowEndTime": 95813
+    },
+    {
+        "text": "I had fun with Grandpa.",
+        "startTime": 65176,
+        "endTime": 67223,
+        "slowStartTime": 97914,
+        "slowEndTime": 101059
+    }
+]

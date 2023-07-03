@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Hi.",
+        "startTime": 10704,
+        "endTime": 11058,
+        "slowStartTime": 16206,
+        "slowEndTime": 16812
+    },
+    {
+        "text": "Hi.",
+        "startTime": 11598,
+        "endTime": 11853,
+        "slowStartTime": 17547,
+        "slowEndTime": 18005
+    },
+    {
+        "text": "I was marooned on an island for five years with this package...",
+        "startTime": 12374,
+        "endTime": 15854,
+        "slowStartTime": 18711,
+        "slowEndTime": 24006
+    },
+    {
+        "text": "...and I swore that I would deliver it to you...",
+        "startTime": 16475,
+        "endTime": 18447,
+        "slowStartTime": 24863,
+        "slowEndTime": 27896
+    },
+    {
+        "text": "...because I work for FedEx.",
+        "startTime": 19089,
+        "endTime": 20523,
+        "slowStartTime": 28784,
+        "slowEndTime": 31009
+    },
+    {
+        "text": "That's very admirable, thank you.",
+        "startTime": 21489,
+        "endTime": 24477,
+        "slowStartTime": 32384,
+        "slowEndTime": 36940
+    },
+    {
+        "text": "Hey, by the way, what's in the package?",
+        "startTime": 26439,
+        "endTime": 28695,
+        "slowStartTime": 39808,
+        "slowEndTime": 43268
+    },
+    {
+        "text": "Nothing really, just a satellite phone, GPS locator, fishing rod, water purifier and some seeds.",
+        "startTime": 30055,
+        "endTime": 37344,
+        "slowStartTime": 45233,
+        "slowEndTime": 56241
+    },
+    {
+        "text": "Just silly stuff.",
+        "startTime": 38114,
+        "endTime": 39088,
+        "slowStartTime": 57321,
+        "slowEndTime": 58857
+    },
+    {
+        "text": "Thank you again.",
+        "startTime": 40180,
+        "endTime": 40920,
+        "slowStartTime": 60420,
+        "slowEndTime": 61605
+    },
+    {
+        "text": "You keep up the good work.",
+        "startTime": 41647,
+        "endTime": 42940,
+        "slowStartTime": 62621,
+        "slowEndTime": 64635
+    }
+]

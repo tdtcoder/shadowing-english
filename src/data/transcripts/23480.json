@@ -1,0 +1,72 @@
+[
+    {
+        "text": "In France, this week's edition of the satirical Charlie Hebdo magazine...",
+        "startTime": 3199,
+        "endTime": 7301,
+        "slowStartTime": 4948,
+        "slowEndTime": 11177
+    },
+    {
+        "text": "...features the Prophet Muhammed.",
+        "startTime": 7641,
+        "endTime": 9184,
+        "slowStartTime": 11611,
+        "slowEndTime": 14001
+    },
+    {
+        "text": "In France, President Francois Hollande pays tribute to the three police officers,...",
+        "startTime": 16664,
+        "endTime": 21563,
+        "slowStartTime": 25146,
+        "slowEndTime": 32570
+    },
+    {
+        "text": "...including one Muslim, who was killed in last week's terror attacks.",
+        "startTime": 21717,
+        "endTime": 25365,
+        "slowStartTime": 32726,
+        "slowEndTime": 38272
+    },
+    {
+        "text": "Pope Francis brings a message of peace and reconciliation in Sri Lanka,...",
+        "startTime": 29636,
+        "endTime": 33597,
+        "slowStartTime": 44604,
+        "slowEndTime": 50620
+    },
+    {
+        "text": "...on a week-long trip to Asia.",
+        "startTime": 33771,
+        "endTime": 35536,
+        "slowStartTime": 50806,
+        "slowEndTime": 53529
+    },
+    {
+        "text": "In Mozambique, officials investigate the beer poisoning deaths of 69 people...",
+        "startTime": 38264,
+        "endTime": 42981,
+        "slowStartTime": 57546,
+        "slowEndTime": 64697
+    },
+    {
+        "text": "...and the government declares three days of mourning.",
+        "startTime": 43303,
+        "endTime": 45900,
+        "slowStartTime": 65105,
+        "slowEndTime": 69075
+    },
+    {
+        "text": "And finally from Switzerland, Christian Ronaldo beats Lionel Messi and Manuel Neuer...",
+        "startTime": 47475,
+        "endTime": 52204,
+        "slowStartTime": 71362,
+        "slowEndTime": 78531
+    },
+    {
+        "text": "...for Ballon d'Or soccer player of the year award.",
+        "startTime": 52501,
+        "endTime": 55125,
+        "slowStartTime": 78902,
+        "slowEndTime": 82913
+    }
+]

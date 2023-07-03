@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Cake.",
+        "startTime": 2431,
+        "endTime": 2842,
+        "slowStartTime": 3796,
+        "slowEndTime": 4488
+    },
+    {
+        "text": "I like to eat cake.",
+        "startTime": 3697,
+        "endTime": 5247,
+        "slowStartTime": 5695,
+        "slowEndTime": 8095
+    },
+    {
+        "text": "I like to eat strawberry cake.",
+        "startTime": 6796,
+        "endTime": 9126,
+        "slowStartTime": 10344,
+        "slowEndTime": 13914
+    },
+    {
+        "text": "Game.",
+        "startTime": 10560,
+        "endTime": 11219,
+        "slowStartTime": 15990,
+        "slowEndTime": 17053
+    },
+    {
+        "text": "We play a game.",
+        "startTime": 12019,
+        "endTime": 13497,
+        "slowStartTime": 18179,
+        "slowEndTime": 20470
+    },
+    {
+        "text": "We play a fun game.",
+        "startTime": 14817,
+        "endTime": 16869,
+        "slowStartTime": 22375,
+        "slowEndTime": 25528
+    },
+    {
+        "text": "Cape.",
+        "startTime": 18287,
+        "endTime": 18629,
+        "slowStartTime": 27581,
+        "slowEndTime": 28169
+    },
+    {
+        "text": "I wear a cape.",
+        "startTime": 19257,
+        "endTime": 20599,
+        "slowStartTime": 29035,
+        "slowEndTime": 31123
+    },
+    {
+        "text": "I wear a black cape.",
+        "startTime": 21857,
+        "endTime": 23514,
+        "slowStartTime": 32936,
+        "slowEndTime": 35496
+    },
+    {
+        "text": "Vase.",
+        "startTime": 24856,
+        "endTime": 25497,
+        "slowStartTime": 37434,
+        "slowEndTime": 38470
+    },
+    {
+        "text": "The vase is broken.",
+        "startTime": 26254,
+        "endTime": 28011,
+        "slowStartTime": 39531,
+        "slowEndTime": 42241
+    },
+    {
+        "text": "The flower vase is broken.",
+        "startTime": 29338,
+        "endTime": 31693,
+        "slowStartTime": 44157,
+        "slowEndTime": 47765
+    },
+    {
+        "text": "What, what, what, what can you do?",
+        "startTime": 38298,
+        "endTime": 41517,
+        "slowStartTime": 57597,
+        "slowEndTime": 62501
+    },
+    {
+        "text": "Run, run, run, I can run.",
+        "startTime": 42060,
+        "endTime": 45229,
+        "slowStartTime": 63240,
+        "slowEndTime": 68069
+    },
+    {
+        "text": "What, what, what, what can you do?",
+        "startTime": 45797,
+        "endTime": 48997,
+        "slowStartTime": 68846,
+        "slowEndTime": 73720
+    },
+    {
+        "text": "Jump, jump, jump, I can jump.",
+        "startTime": 49515,
+        "endTime": 52684,
+        "slowStartTime": 74422,
+        "slowEndTime": 79251
+    },
+    {
+        "text": "What, what, what, what can you do?",
+        "startTime": 53273,
+        "endTime": 56425,
+        "slowStartTime": 80059,
+        "slowEndTime": 84862
+    },
+    {
+        "text": "Hop, hop, hop, I can hop.",
+        "startTime": 56981,
+        "endTime": 60066,
+        "slowStartTime": 85621,
+        "slowEndTime": 90324
+    },
+    {
+        "text": "What, what, what, what else can you do?",
+        "startTime": 60734,
+        "endTime": 63965,
+        "slowStartTime": 91251,
+        "slowEndTime": 96173
+    },
+    {
+        "text": "Swing, ride, climb, I can do lots of things!",
+        "startTime": 64382,
+        "endTime": 67951,
+        "slowStartTime": 96723,
+        "slowEndTime": 102152
+    }
+]

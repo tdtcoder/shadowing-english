@@ -1,0 +1,107 @@
+[
+    {
+        "text": "I'm here at the Aloft hotel in Cupertino, California, and this is Botlr,...",
+        "startTime": 3853,
+        "endTime": 9241,
+        "slowStartTime": 5929,
+        "slowEndTime": 14087
+    },
+    {
+        "text": "...the world's first robotic bellhop.",
+        "startTime": 9771,
+        "endTime": 12032,
+        "slowStartTime": 14806,
+        "slowEndTime": 18273
+    },
+    {
+        "text": "Thanks, Botlr!",
+        "startTime": 14443,
+        "endTime": 15139,
+        "slowStartTime": 21815,
+        "slowEndTime": 22934
+    },
+    {
+        "text": "Botlr is a fully autonomous robotic servant designed to bring food, drinks...",
+        "startTime": 16978,
+        "endTime": 21230,
+        "slowStartTime": 25617,
+        "slowEndTime": 32070
+    },
+    {
+        "text": "...or even reading materials to guests in their hotel rooms.",
+        "startTime": 21353,
+        "endTime": 23887,
+        "slowStartTime": 32179,
+        "slowEndTime": 36055
+    },
+    {
+        "text": "Botlr is programmed with a map of every hallway, elevator and guest room in this hotel.",
+        "startTime": 24607,
+        "endTime": 28792,
+        "slowStartTime": 37061,
+        "slowEndTime": 43413
+    },
+    {
+        "text": "He uses Wi-Fi to choose a floor in the elevator and a laser called a \"Light Arc\"...",
+        "startTime": 29447,
+        "endTime": 33606,
+        "slowStartTime": 44320,
+        "slowEndTime": 50634
+    },
+    {
+        "text": "...to find his way through the halls.",
+        "startTime": 33683,
+        "endTime": 34996,
+        "slowStartTime": 50675,
+        "slowEndTime": 52719
+    },
+    {
+        "text": "He also has special cameras to avoid people and obstacles in his path.",
+        "startTime": 35573,
+        "endTime": 38989,
+        "slowStartTime": 53510,
+        "slowEndTime": 58708
+    },
+    {
+        "text": "The company plans to sell Botlr as a service,...",
+        "startTime": 39629,
+        "endTime": 42117,
+        "slowStartTime": 59593,
+        "slowEndTime": 63400
+    },
+    {
+        "text": "...charging a monthly fee that includes maintenance.",
+        "startTime": 42222,
+        "endTime": 44641,
+        "slowStartTime": 63483,
+        "slowEndTime": 67186
+    },
+    {
+        "text": "Eventually, the robots could be used to deliver goods...",
+        "startTime": 45018,
+        "endTime": 47321,
+        "slowStartTime": 67677,
+        "slowEndTime": 71206
+    },
+    {
+        "text": "...in restaurants, hospitals or in elderly care.",
+        "startTime": 47415,
+        "endTime": 50209,
+        "slowStartTime": 71273,
+        "slowEndTime": 75539
+    },
+    {
+        "text": "The best part about Botlr? No tipping.",
+        "startTime": 50659,
+        "endTime": 53059,
+        "slowStartTime": 76139,
+        "slowEndTime": 79813
+    },
+    {
+        "text": "All Botlr wants is a tweet.",
+        "startTime": 53511,
+        "endTime": 55367,
+        "slowStartTime": 80416,
+        "slowEndTime": 83276
+    }
+]

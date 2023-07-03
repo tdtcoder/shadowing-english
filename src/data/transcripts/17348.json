@@ -1,0 +1,142 @@
+[
+    {
+        "text": "I open the door.",
+        "startTime": 2608,
+        "endTime": 4109,
+        "slowStartTime": 4062,
+        "slowEndTime": 6388
+    },
+    {
+        "text": "You close the door.",
+        "startTime": 5067,
+        "endTime": 6500,
+        "slowStartTime": 7750,
+        "slowEndTime": 9975
+    },
+    {
+        "text": "I open the window.",
+        "startTime": 7447,
+        "endTime": 9057,
+        "slowStartTime": 11320,
+        "slowEndTime": 13811
+    },
+    {
+        "text": "You close the window.",
+        "startTime": 10037,
+        "endTime": 11557,
+        "slowStartTime": 15206,
+        "slowEndTime": 17560
+    },
+    {
+        "text": "I open the drawer.",
+        "startTime": 12594,
+        "endTime": 14113,
+        "slowStartTime": 19041,
+        "slowEndTime": 21394
+    },
+    {
+        "text": "You close the drawer.",
+        "startTime": 15112,
+        "endTime": 16775,
+        "slowStartTime": 22818,
+        "slowEndTime": 25388
+    },
+    {
+        "text": "I open the box.",
+        "startTime": 17705,
+        "endTime": 19480,
+        "slowStartTime": 26708,
+        "slowEndTime": 29445
+    },
+    {
+        "text": "You close the box.",
+        "startTime": 20491,
+        "endTime": 22277,
+        "slowStartTime": 30886,
+        "slowEndTime": 33641
+    },
+    {
+        "text": "I open the book.",
+        "startTime": 23292,
+        "endTime": 24891,
+        "slowStartTime": 35088,
+        "slowEndTime": 37561
+    },
+    {
+        "text": "You close the book.",
+        "startTime": 25917,
+        "endTime": 27426,
+        "slowStartTime": 39026,
+        "slowEndTime": 41364
+    },
+    {
+        "text": "I open the jar.",
+        "startTime": 28453,
+        "endTime": 30067,
+        "slowStartTime": 42829,
+        "slowEndTime": 45326
+    },
+    {
+        "text": "You close the jar.",
+        "startTime": 31062,
+        "endTime": 32725,
+        "slowStartTime": 46743,
+        "slowEndTime": 49312
+    },
+    {
+        "text": "I open the cage.",
+        "startTime": 33799,
+        "endTime": 35484,
+        "slowStartTime": 50849,
+        "slowEndTime": 53451
+    },
+    {
+        "text": "Quick, quick! Close the cage.",
+        "startTime": 36478,
+        "endTime": 39373,
+        "slowStartTime": 54867,
+        "slowEndTime": 59285
+    },
+    {
+        "text": "Do you open the door?",
+        "startTime": 42657,
+        "endTime": 44381,
+        "slowStartTime": 64135,
+        "slowEndTime": 66797
+    },
+    {
+        "text": "No, I don't open the door. I close the door.",
+        "startTime": 45408,
+        "endTime": 49631,
+        "slowStartTime": 68262,
+        "slowEndTime": 74672
+    },
+    {
+        "text": "Does he close the box?",
+        "startTime": 50627,
+        "endTime": 52546,
+        "slowStartTime": 76090,
+        "slowEndTime": 79044
+    },
+    {
+        "text": "No, he doesn't close the box. He closes the drawer.",
+        "startTime": 53588,
+        "endTime": 57988,
+        "slowStartTime": 80532,
+        "slowEndTime": 87207
+    },
+    {
+        "text": "Do they open the cage?",
+        "startTime": 58951,
+        "endTime": 60889,
+        "slowStartTime": 88577,
+        "slowEndTime": 91558
+    },
+    {
+        "text": "Yes, they open the cage.",
+        "startTime": 61785,
+        "endTime": 64103,
+        "slowStartTime": 92827,
+        "slowEndTime": 96380
+    }
+]

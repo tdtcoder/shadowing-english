@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Good morning, sir.",
+        "startTime": 995,
+        "endTime": 1907,
+        "slowStartTime": 1643,
+        "slowEndTime": 3085
+    },
+    {
+        "text": "Hello.",
+        "startTime": 2155,
+        "endTime": 2691,
+        "slowStartTime": 3382,
+        "slowEndTime": 4261
+    },
+    {
+        "text": "Could I see your passport and visa documentation?",
+        "startTime": 2975,
+        "endTime": 5614,
+        "slowStartTime": 4612,
+        "slowEndTime": 8646
+    },
+    {
+        "text": "Oh, yes.",
+        "startTime": 5759,
+        "endTime": 6412,
+        "slowStartTime": 8789,
+        "slowEndTime": 9843
+    },
+    {
+        "text": "Here they are.",
+        "startTime": 6620,
+        "endTime": 7231,
+        "slowStartTime": 10080,
+        "slowEndTime": 11072
+    },
+    {
+        "text": "Is this your first visit to the United Kingdom?",
+        "startTime": 9724,
+        "endTime": 12035,
+        "slowStartTime": 14736,
+        "slowEndTime": 18278
+    },
+    {
+        "text": "Yes, it is.",
+        "startTime": 12387,
+        "endTime": 13320,
+        "slowStartTime": 18730,
+        "slowEndTime": 20205
+    },
+    {
+        "text": "And where will you be staying?",
+        "startTime": 14855,
+        "endTime": 16647,
+        "slowStartTime": 22433,
+        "slowEndTime": 25196
+    },
+    {
+        "text": "With my friend in London.",
+        "startTime": 17181,
+        "endTime": 18910,
+        "slowStartTime": 25922,
+        "slowEndTime": 28590
+    },
+    {
+        "text": "And how long will you be staying?",
+        "startTime": 19966,
+        "endTime": 21488,
+        "slowStartTime": 30099,
+        "slowEndTime": 32457
+    },
+    {
+        "text": "I'll be staying for two weeks.",
+        "startTime": 22225,
+        "endTime": 24327,
+        "slowStartTime": 33487,
+        "slowEndTime": 36716
+    },
+    {
+        "text": "Do you have anything to declare?",
+        "startTime": 26405,
+        "endTime": 27893,
+        "slowStartTime": 39758,
+        "slowEndTime": 42065
+    },
+    {
+        "text": "No.",
+        "startTime": 28457,
+        "endTime": 28848,
+        "slowStartTime": 42836,
+        "slowEndTime": 43497
+    },
+    {
+        "text": "I do not have anything to declare.",
+        "startTime": 29007,
+        "endTime": 30783,
+        "slowStartTime": 43661,
+        "slowEndTime": 46399
+    },
+    {
+        "text": "Good.",
+        "startTime": 31899,
+        "endTime": 32422,
+        "slowStartTime": 47998,
+        "slowEndTime": 48858
+    },
+    {
+        "text": "Everything seems to be in order.",
+        "startTime": 32594,
+        "endTime": 33999,
+        "slowStartTime": 49041,
+        "slowEndTime": 51223
+    },
+    {
+        "text": "Please enjoy your stay.",
+        "startTime": 34863,
+        "endTime": 36030,
+        "slowStartTime": 52445,
+        "slowEndTime": 54270
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 36239,
+        "endTime": 36927,
+        "slowStartTime": 54509,
+        "slowEndTime": 55616
+    },
+    {
+        "text": "Could you tell me where is the baggage claim?",
+        "startTime": 37833,
+        "endTime": 40059,
+        "slowStartTime": 56900,
+        "slowEndTime": 60313
+    },
+    {
+        "text": "Follow the signs to your left, please.",
+        "startTime": 40755,
+        "endTime": 42602,
+        "slowStartTime": 61283,
+        "slowEndTime": 64128
+    },
+    {
+        "text": "Okay, thank you.",
+        "startTime": 43037,
+        "endTime": 44194,
+        "slowStartTime": 64706,
+        "slowEndTime": 66516
+    }
+]

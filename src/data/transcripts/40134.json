@@ -1,0 +1,44 @@
+[
+    {
+        "text": "So what did you do today?",
+        "startTime": 1236,
+        "endTime": 3291,
+        "slowStartTime": 2004,
+        "slowEndTime": 5161
+    },
+    {
+        "text": "Nothing.",
+        "startTime": 5594,
+        "endTime": 6338,
+        "slowStartTime": 8541,
+        "slowEndTime": 9732
+    },
+    {
+        "text": "Where did you go?",
+        "startTime": 8483,
+        "endTime": 9114,
+        "slowStartTime": 12874,
+        "slowEndTime": 13896
+    },
+    {
+        "text": "Nowhere.",
+        "startTime": 10091,
+        "endTime": 11032,
+        "slowStartTime": 15287,
+        "slowEndTime": 16773
+    },
+    {
+        "text": "Who's that?",
+        "startTime": 22849,
+        "endTime": 23357,
+        "slowStartTime": 34424,
+        "slowEndTime": 35260
+    },
+    {
+        "text": "No one.",
+        "startTime": 24363,
+        "endTime": 25118,
+        "slowStartTime": 36694,
+        "slowEndTime": 37902
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Ladies and gentlemen,...",
+        "startTime": 2575,
+        "endTime": 3549,
+        "slowStartTime": 4013,
+        "slowEndTime": 5549
+    },
+    {
+        "text": "...good morning.",
+        "startTime": 5139,
+        "endTime": 5600,
+        "slowStartTime": 7858,
+        "slowEndTime": 8625
+    },
+    {
+        "text": "It's still early...",
+        "startTime": 7671,
+        "endTime": 8705,
+        "slowStartTime": 11657,
+        "slowEndTime": 13283
+    },
+    {
+        "text": "...and it's time...",
+        "startTime": 9620,
+        "endTime": 10365,
+        "slowStartTime": 14580,
+        "slowEndTime": 15772
+    },
+    {
+        "text": "...to get out,...",
+        "startTime": 11882,
+        "endTime": 12765,
+        "slowStartTime": 17973,
+        "slowEndTime": 19373
+    },
+    {
+        "text": "...to be impatient.",
+        "startTime": 13536,
+        "endTime": 16066,
+        "slowStartTime": 20454,
+        "slowEndTime": 24324
+    },
+    {
+        "text": "Life is not a highway.",
+        "startTime": 21016,
+        "endTime": 22870,
+        "slowStartTime": 31674,
+        "slowEndTime": 34530
+    },
+    {
+        "text": "It is a road made of intersections, twists and turns...",
+        "startTime": 24317,
+        "endTime": 28449,
+        "slowStartTime": 36625,
+        "slowEndTime": 42898
+    },
+    {
+        "text": "...created by nobody else but you.",
+        "startTime": 29041,
+        "endTime": 32077,
+        "slowStartTime": 43712,
+        "slowEndTime": 48341
+    },
+    {
+        "text": "Don't settle.",
+        "startTime": 38565,
+        "endTime": 41008,
+        "slowStartTime": 57997,
+        "slowEndTime": 61737
+    },
+    {
+        "text": "Go.",
+        "startTime": 42206,
+        "endTime": 42573,
+        "slowStartTime": 63459,
+        "slowEndTime": 64084
+    },
+    {
+        "text": "Ride.",
+        "startTime": 44139,
+        "endTime": 44536,
+        "slowStartTime": 66358,
+        "slowEndTime": 67029
+    },
+    {
+        "text": "Find your own path.",
+        "startTime": 45948,
+        "endTime": 47991,
+        "slowStartTime": 69072,
+        "slowEndTime": 72211
+    }
+]

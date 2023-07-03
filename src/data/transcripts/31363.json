@@ -1,0 +1,86 @@
+[
+    {
+        "text": "﻿Where is the woman going?",
+        "startTime": 5217,
+        "endTime": 6839,
+        "slowStartTime": 7976,
+        "slowEndTime": 10484
+    },
+    {
+        "text": "She is going into the hotel.",
+        "startTime": 7643,
+        "endTime": 9327,
+        "slowStartTime": 11614,
+        "slowEndTime": 14215
+    },
+    {
+        "text": "Where is the dog going?",
+        "startTime": 10806,
+        "endTime": 12191,
+        "slowStartTime": 16359,
+        "slowEndTime": 18512
+    },
+    {
+        "text": "It is going out of the house.",
+        "startTime": 13115,
+        "endTime": 15097,
+        "slowStartTime": 19823,
+        "slowEndTime": 22870
+    },
+    {
+        "text": "Where is the dog going?",
+        "startTime": 16657,
+        "endTime": 17825,
+        "slowStartTime": 25136,
+        "slowEndTime": 26963
+    },
+    {
+        "text": "It is going toward the boy.",
+        "startTime": 18430,
+        "endTime": 19990,
+        "slowStartTime": 27795,
+        "slowEndTime": 30210
+    },
+    {
+        "text": "Where does the girl run?",
+        "startTime": 21587,
+        "endTime": 22961,
+        "slowStartTime": 32530,
+        "slowEndTime": 34666
+    },
+    {
+        "text": "She runs away from the bear.",
+        "startTime": 23555,
+        "endTime": 25363,
+        "slowStartTime": 35483,
+        "slowEndTime": 38270
+    },
+    {
+        "text": "Where do we climb?",
+        "startTime": 26917,
+        "endTime": 28017,
+        "slowStartTime": 40525,
+        "slowEndTime": 42251
+    },
+    {
+        "text": "We climb up the ladder.",
+        "startTime": 28479,
+        "endTime": 30241,
+        "slowStartTime": 42868,
+        "slowEndTime": 45586
+    },
+    {
+        "text": "Where do we climb?",
+        "startTime": 31739,
+        "endTime": 32851,
+        "slowStartTime": 47759,
+        "slowEndTime": 49501
+    },
+    {
+        "text": "We climb down the ladder.",
+        "startTime": 33291,
+        "endTime": 35099,
+        "slowStartTime": 50087,
+        "slowEndTime": 52873
+    }
+]

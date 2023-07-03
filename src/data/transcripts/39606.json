@@ -1,0 +1,79 @@
+[
+    {
+        "text": "I think Korea's winter is so cold.",
+        "startTime": 178,
+        "endTime": 3560,
+        "slowStartTime": 417,
+        "slowEndTime": 5565
+    },
+    {
+        "text": "Are you not used to cold weather?",
+        "startTime": 3881,
+        "endTime": 5567,
+        "slowStartTime": 5972,
+        "slowEndTime": 8576
+    },
+    {
+        "text": "Definitely not.",
+        "startTime": 5856,
+        "endTime": 6901,
+        "slowStartTime": 8934,
+        "slowEndTime": 10576
+    },
+    {
+        "text": "I'm from Miami.",
+        "startTime": 7097,
+        "endTime": 9013,
+        "slowStartTime": 10796,
+        "slowEndTime": 13744
+    },
+    {
+        "text": "Miami is warm all year round, right?",
+        "startTime": 9659,
+        "endTime": 12117,
+        "slowStartTime": 14638,
+        "slowEndTime": 18400
+    },
+    {
+        "text": "Yes.",
+        "startTime": 12272,
+        "endTime": 13035,
+        "slowStartTime": 18558,
+        "slowEndTime": 19777
+    },
+    {
+        "text": "Another thing I can't stand is the rainy season in summer.",
+        "startTime": 14195,
+        "endTime": 19014,
+        "slowStartTime": 21443,
+        "slowEndTime": 28746
+    },
+    {
+        "text": "I don't like it, either.",
+        "startTime": 19783,
+        "endTime": 21183,
+        "slowStartTime": 29824,
+        "slowEndTime": 31999
+    },
+    {
+        "text": "It gets so humid.",
+        "startTime": 21311,
+        "endTime": 22697,
+        "slowStartTime": 32116,
+        "slowEndTime": 34270
+    },
+    {
+        "text": "However, I bet Korea has the most beautiful autumns.",
+        "startTime": 24127,
+        "endTime": 28837,
+        "slowStartTime": 36340,
+        "slowEndTime": 43480
+    },
+    {
+        "text": "I agree.",
+        "startTime": 29070,
+        "endTime": 29768,
+        "slowStartTime": 43755,
+        "slowEndTime": 44877
+    }
+]

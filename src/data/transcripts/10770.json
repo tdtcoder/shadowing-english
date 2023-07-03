@@ -1,0 +1,58 @@
+[
+    {
+        "text": "In Paris, most of the luxury hotels are located on the Right Bank.",
+        "startTime": 500,
+        "endTime": 5270,
+        "slowStartTime": 830,
+        "slowEndTime": 7970
+    },
+    {
+        "text": "One on the Left Bank and the most famous one...",
+        "startTime": 6170,
+        "endTime": 9645,
+        "slowStartTime": 9385,
+        "slowEndTime": 14450
+    },
+    {
+        "text": "...is called the Lutetia and it was the first Art Deco hotel in Paris.",
+        "startTime": 10175,
+        "endTime": 14615,
+        "slowStartTime": 15395,
+        "slowEndTime": 21985
+    },
+    {
+        "text": "The facade is absolutely stunning.",
+        "startTime": 15210,
+        "endTime": 18000,
+        "slowStartTime": 22900,
+        "slowEndTime": 27005
+    },
+    {
+        "text": "It was inaugurated in December 1910 and it has a long and interesting history.",
+        "startTime": 19080,
+        "endTime": 26325,
+        "slowStartTime": 28740,
+        "slowEndTime": 39480
+    },
+    {
+        "text": "It was the Gestapo headquarters during World War II...",
+        "startTime": 26890,
+        "endTime": 30105,
+        "slowStartTime": 40465,
+        "slowEndTime": 45200
+    },
+    {
+        "text": "...and then it became the place where the camp refugees were put in transits,...",
+        "startTime": 30765,
+        "endTime": 35865,
+        "slowStartTime": 46320,
+        "slowEndTime": 53895
+    },
+    {
+        "text": "...while the authorities were looking for their families right after the war.",
+        "startTime": 36235,
+        "endTime": 41275,
+        "slowStartTime": 54495,
+        "slowEndTime": 61945
+    }
+]

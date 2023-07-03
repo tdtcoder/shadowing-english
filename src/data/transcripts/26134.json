@@ -1,0 +1,93 @@
+[
+    {
+        "text": "﻿Hello, can you hear me?",
+        "startTime": 641,
+        "endTime": 4601,
+        "slowStartTime": 1111,
+        "slowEndTime": 7127
+    },
+    {
+        "text": "I'm in California dreaming about who we used to be,...",
+        "startTime": 5721,
+        "endTime": 11283,
+        "slowStartTime": 8731,
+        "slowEndTime": 17149
+    },
+    {
+        "text": "...when we were younger and free.",
+        "startTime": 11651,
+        "endTime": 15940,
+        "slowStartTime": 17627,
+        "slowEndTime": 24135
+    },
+    {
+        "text": "I've forgotten how it felt before the world fell at our feet.",
+        "startTime": 17792,
+        "endTime": 23411,
+        "slowStartTime": 26838,
+        "slowEndTime": 35342
+    },
+    {
+        "text": "There's such a difference between us and a million miles.",
+        "startTime": 23635,
+        "endTime": 34795,
+        "slowStartTime": 35603,
+        "slowEndTime": 52418
+    },
+    {
+        "text": "Hello from the other side.",
+        "startTime": 36421,
+        "endTime": 41466,
+        "slowStartTime": 54781,
+        "slowEndTime": 62424
+    },
+    {
+        "text": "I must've called a thousand times...",
+        "startTime": 42469,
+        "endTime": 47665,
+        "slowStartTime": 63853,
+        "slowEndTime": 71722
+    },
+    {
+        "text": "...to tell you I'm sorry for everything that I've done.",
+        "startTime": 48323,
+        "endTime": 53856,
+        "slowStartTime": 72634,
+        "slowEndTime": 81009
+    },
+    {
+        "text": "But when I call, you never seem to be home.",
+        "startTime": 53967,
+        "endTime": 60447,
+        "slowStartTime": 81100,
+        "slowEndTime": 90896
+    },
+    {
+        "text": "So, hello from the outside.",
+        "startTime": 60906,
+        "endTime": 66652,
+        "slowStartTime": 91509,
+        "slowEndTime": 100203
+    },
+    {
+        "text": "At least I can say that I've tried...",
+        "startTime": 67169,
+        "endTime": 72673,
+        "slowStartTime": 100903,
+        "slowEndTime": 109234
+    },
+    {
+        "text": "...to tell you I'm sorry for breaking your heart.",
+        "startTime": 72765,
+        "endTime": 78362,
+        "slowStartTime": 109298,
+        "slowEndTime": 117768
+    },
+    {
+        "text": "But it don't matter, it clearly doesn't tear you apart anymore.",
+        "startTime": 78507,
+        "endTime": 88163,
+        "slowStartTime": 117911,
+        "slowEndTime": 132469
+    }
+]

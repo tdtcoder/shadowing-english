@@ -1,0 +1,107 @@
+[
+    {
+        "text": "When you think that an employee spends more time at work than with his family,...",
+        "startTime": 2097,
+        "endTime": 6245,
+        "slowStartTime": 3295,
+        "slowEndTime": 9593
+    },
+    {
+        "text": "...you realize that building good relationships is absolutely necessary.",
+        "startTime": 6712,
+        "endTime": 11112,
+        "slowStartTime": 10218,
+        "slowEndTime": 16893
+    },
+    {
+        "text": "Getting along with your co-workers might seem like a huge effort, but the benefits can be great.",
+        "startTime": 11922,
+        "endTime": 17581,
+        "slowStartTime": 18033,
+        "slowEndTime": 26596
+    },
+    {
+        "text": "Here are some basics.",
+        "startTime": 18407,
+        "endTime": 19456,
+        "slowStartTime": 27761,
+        "slowEndTime": 29409
+    },
+    {
+        "text": "First, a simple greeting can be most effective, and being cheerful helps you and others.",
+        "startTime": 20151,
+        "endTime": 25745,
+        "slowStartTime": 30377,
+        "slowEndTime": 38842
+    },
+    {
+        "text": "It is best not to get involved in office politics or to associate with cliques.",
+        "startTime": 26565,
+        "endTime": 31564,
+        "slowStartTime": 39998,
+        "slowEndTime": 47571
+    },
+    {
+        "text": "It will likely be counterproductive and can backfire on you.",
+        "startTime": 32338,
+        "endTime": 35688,
+        "slowStartTime": 48657,
+        "slowEndTime": 53757
+    },
+    {
+        "text": "Second, if you work on a project, make sure you do your part.",
+        "startTime": 36551,
+        "endTime": 40378,
+        "slowStartTime": 54976,
+        "slowEndTime": 60792
+    },
+    {
+        "text": "Never let others do the bulk of your work.",
+        "startTime": 40909,
+        "endTime": 43327,
+        "slowStartTime": 61514,
+        "slowEndTime": 65215
+    },
+    {
+        "text": "Third, praising and complimenting a co-worker for a good idea or a job well done will go a long way.",
+        "startTime": 44015,
+        "endTime": 51101,
+        "slowStartTime": 66172,
+        "slowEndTime": 76877
+    },
+    {
+        "text": "You should give constructive criticism at a proper time and in private,...",
+        "startTime": 51891,
+        "endTime": 56146,
+        "slowStartTime": 77987,
+        "slowEndTime": 84444
+    },
+    {
+        "text": "...rather than mentioning mistakes and shortcomings in front of the boss or the team.",
+        "startTime": 56559,
+        "endTime": 60907,
+        "slowStartTime": 84988,
+        "slowEndTime": 91585
+    },
+    {
+        "text": "Lastly, getting involved in gossip is a waste of time.",
+        "startTime": 61687,
+        "endTime": 65210,
+        "slowStartTime": 92680,
+        "slowEndTime": 98040
+    },
+    {
+        "text": "Avoid talking to a colleague about another co-worker.",
+        "startTime": 65829,
+        "endTime": 68937,
+        "slowStartTime": 98894,
+        "slowEndTime": 103631
+    },
+    {
+        "text": "It's best to change the subject, because it's not really your business.",
+        "startTime": 69487,
+        "endTime": 73493,
+        "slowStartTime": 104380,
+        "slowEndTime": 110465
+    }
+]

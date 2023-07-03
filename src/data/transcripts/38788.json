@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Good morning everyone, I'm Rebecca Stewart.",
+        "startTime": 385,
+        "endTime": 2360,
+        "slowStartTime": 728,
+        "slowEndTime": 3765
+    },
+    {
+        "text": "I'm the digital outreach coordinator...",
+        "startTime": 2737,
+        "endTime": 4563,
+        "slowStartTime": 4256,
+        "slowEndTime": 7070
+    },
+    {
+        "text": "...in our Chicago office's marketing department.",
+        "startTime": 4672,
+        "endTime": 7154,
+        "slowStartTime": 7158,
+        "slowEndTime": 10956
+    },
+    {
+        "text": "I'm looking forward to learning more about...",
+        "startTime": 7613,
+        "endTime": 9370,
+        "slowStartTime": 11569,
+        "slowEndTime": 14280
+    },
+    {
+        "text": "...how our team can help you on this project today.",
+        "startTime": 9465,
+        "endTime": 12078,
+        "slowStartTime": 14347,
+        "slowEndTime": 18342
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "text": "In Malaysia, over 100,000 people were evacuated...",
+        "startTime": 3827,
+        "endTime": 7144,
+        "slowStartTime": 5890,
+        "slowEndTime": 10941
+    },
+    {
+        "text": "...after the worst monsoon floods in decades hit the country.",
+        "startTime": 7571,
+        "endTime": 10715,
+        "slowStartTime": 11506,
+        "slowEndTime": 16297
+    },
+    {
+        "text": "In Croatia, voters gear up for the December 28 presidential elections.",
+        "startTime": 13333,
+        "endTime": 17599,
+        "slowStartTime": 20149,
+        "slowEndTime": 26624
+    },
+    {
+        "text": "In the Vatican, the Pope prays for martyrs in the fight for religious freedom...",
+        "startTime": 24141,
+        "endTime": 28271,
+        "slowStartTime": 36362,
+        "slowEndTime": 42631
+    },
+    {
+        "text": "...as he marks the Feast of St. Stephen with the Angelus prayer.",
+        "startTime": 28725,
+        "endTime": 32072,
+        "slowStartTime": 43238,
+        "slowEndTime": 48333
+    },
+    {
+        "text": "The police rescue 1000 cats from traffickers in Northeast China.",
+        "startTime": 34406,
+        "endTime": 38422,
+        "slowStartTime": 51759,
+        "slowEndTime": 57858
+    },
+    {
+        "text": "And finally from Germany, joggers join the Goose Run to burn off Christmas calories.",
+        "startTime": 47456,
+        "endTime": 52738,
+        "slowStartTime": 71334,
+        "slowEndTime": 79332
+    }
+]

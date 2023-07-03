@@ -1,0 +1,240 @@
+[
+    {
+        "text": "Now, we can see that quarter three revenue fell well below predictions.",
+        "startTime": 371,
+        "endTime": 4563,
+        "slowStartTime": 707,
+        "slowEndTime": 7069
+    },
+    {
+        "text": "We have all seen the numbers?",
+        "startTime": 5052,
+        "endTime": 6147,
+        "slowStartTime": 7728,
+        "slowEndTime": 9445
+    },
+    {
+        "text": "The data shows that customer retention was a sticky area.",
+        "startTime": 6919,
+        "endTime": 10243,
+        "slowStartTime": 10528,
+        "slowEndTime": 15590
+    },
+    {
+        "text": "I mean, if you follow this line…",
+        "startTime": 10393,
+        "endTime": 12135,
+        "slowStartTime": 15740,
+        "slowEndTime": 18427
+    },
+    {
+        "text": "Boo! Boo! Come on, Gibbons! Nobody can see that!",
+        "startTime": 12251,
+        "endTime": 17405,
+        "slowStartTime": 18526,
+        "slowEndTime": 26332
+    },
+    {
+        "text": "You should have sent it out in advance.",
+        "startTime": 17701,
+        "endTime": 19310,
+        "slowStartTime": 26701,
+        "slowEndTime": 29190
+    },
+    {
+        "text": "I can make copies.",
+        "startTime": 21629,
+        "endTime": 22701,
+        "slowStartTime": 32594,
+        "slowEndTime": 34276
+    },
+    {
+        "text": "You don't know how to use the machines! You don't! You don't!",
+        "startTime": 22897,
+        "endTime": 26967,
+        "slowStartTime": 34496,
+        "slowEndTime": 40676
+    },
+    {
+        "text": "And the rest of you, where is the energy?",
+        "startTime": 27129,
+        "endTime": 29785,
+        "slowStartTime": 40843,
+        "slowEndTime": 44903
+    },
+    {
+        "text": "Where is the focus?",
+        "startTime": 29980,
+        "endTime": 31148,
+        "slowStartTime": 45120,
+        "slowEndTime": 46947
+    },
+    {
+        "text": "Come on, let's pick up the pace, hey! C'mon! Woo!",
+        "startTime": 31231,
+        "endTime": 33587,
+        "slowStartTime": 46997,
+        "slowEndTime": 50606
+    },
+    {
+        "text": "Does he work here?",
+        "startTime": 33747,
+        "endTime": 34453,
+        "slowStartTime": 50771,
+        "slowEndTime": 51904
+    },
+    {
+        "text": "He's a big fan of the company.",
+        "startTime": 34580,
+        "endTime": 36099,
+        "slowStartTime": 52020,
+        "slowEndTime": 54373
+    },
+    {
+        "text": "Jonesy! Take us to the next item on the agenda!",
+        "startTime": 36285,
+        "endTime": 41003,
+        "slowStartTime": 54577,
+        "slowEndTime": 61730
+    },
+    {
+        "text": "Just chip it, man! You're the greatest!",
+        "startTime": 41123,
+        "endTime": 44015,
+        "slowStartTime": 61834,
+        "slowEndTime": 66247
+    },
+    {
+        "text": "Right. Well, yes, we don't have a formal agenda per se.",
+        "startTime": 44587,
+        "endTime": 47481,
+        "slowStartTime": 67030,
+        "slowEndTime": 71446
+    },
+    {
+        "text": "You stink, Jonesy!",
+        "startTime": 48131,
+        "endTime": 49707,
+        "slowStartTime": 72347,
+        "slowEndTime": 74786
+    },
+    {
+        "text": "A foul! That's a foul!",
+        "startTime": 49835,
+        "endTime": 51517,
+        "slowStartTime": 74902,
+        "slowEndTime": 77500
+    },
+    {
+        "text": "This is not how you lead a team!",
+        "startTime": 51859,
+        "endTime": 54340,
+        "slowStartTime": 77939,
+        "slowEndTime": 81735
+    },
+    {
+        "text": "What kind of meeting is this?",
+        "startTime": 54649,
+        "endTime": 55863,
+        "slowStartTime": 82123,
+        "slowEndTime": 84020
+    },
+    {
+        "text": "Nobody understands what it's for!",
+        "startTime": 55973,
+        "endTime": 57772,
+        "slowStartTime": 84110,
+        "slowEndTime": 86883
+    },
+    {
+        "text": "No, that's not true! Of course they do.",
+        "startTime": 57852,
+        "endTime": 59153,
+        "slowStartTime": 86928,
+        "slowEndTime": 88954
+    },
+    {
+        "text": "Tell him what our objective is.",
+        "startTime": 59226,
+        "endTime": 60967,
+        "slowStartTime": 88989,
+        "slowEndTime": 91676
+    },
+    {
+        "text": "Well, I don't even really understand what it is we do here.",
+        "startTime": 61079,
+        "endTime": 63486,
+        "slowStartTime": 91768,
+        "slowEndTime": 95454
+    },
+    {
+        "text": "You do meetings,...",
+        "startTime": 63858,
+        "endTime": 65236,
+        "slowStartTime": 95937,
+        "slowEndTime": 98079
+    },
+    {
+        "text": "...long, tedious meetings that amount to nothing.",
+        "startTime": 65605,
+        "endTime": 69301,
+        "slowStartTime": 98557,
+        "slowEndTime": 104176
+    },
+    {
+        "text": "I'm seeing no structure, sloppy preparation.",
+        "startTime": 69816,
+        "endTime": 73141,
+        "slowStartTime": 104874,
+        "slowEndTime": 109936
+    },
+    {
+        "text": "Nobody is prepared to attack the goal!",
+        "startTime": 73601,
+        "endTime": 76745,
+        "slowStartTime": 110552,
+        "slowEndTime": 115343
+    },
+    {
+        "text": "I've spent too long rooting for this company to watch it fall apart.",
+        "startTime": 77122,
+        "endTime": 80927,
+        "slowStartTime": 115833,
+        "slowEndTime": 121615
+    },
+    {
+        "text": "We've had a bad first half,...",
+        "startTime": 81527,
+        "endTime": 82833,
+        "slowStartTime": 122440,
+        "slowEndTime": 124475
+    },
+    {
+        "text": "...but we are still in it!",
+        "startTime": 83385,
+        "endTime": 84801,
+        "slowStartTime": 125228,
+        "slowEndTime": 127427
+    },
+    {
+        "text": "I want to see hustle and efficiency!",
+        "startTime": 85249,
+        "endTime": 87572,
+        "slowStartTime": 128023,
+        "slowEndTime": 131583
+    },
+    {
+        "text": "I want to see teamwork!",
+        "startTime": 88318,
+        "endTime": 90508,
+        "slowStartTime": 132627,
+        "slowEndTime": 135987
+    },
+    {
+        "text": "I want this to be the greatest comeback in the history of meetings!",
+        "startTime": 91138,
+        "endTime": 96659,
+        "slowStartTime": 136857,
+        "slowEndTime": 145213
+    }
+]

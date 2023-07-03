@@ -1,0 +1,128 @@
+[
+    {
+        "text": "What's in the bag?",
+        "startTime": 387,
+        "endTime": 1139,
+        "slowStartTime": 731,
+        "slowEndTime": 1934
+    },
+    {
+        "text": "My new clipboard.",
+        "startTime": 1537,
+        "endTime": 2541,
+        "slowStartTime": 2455,
+        "slowEndTime": 4037
+    },
+    {
+        "text": "What color is it?",
+        "startTime": 3136,
+        "endTime": 4045,
+        "slowStartTime": 4854,
+        "slowEndTime": 6292
+    },
+    {
+        "text": "It's black and white.",
+        "startTime": 4286,
+        "endTime": 5457,
+        "slowStartTime": 6579,
+        "slowEndTime": 8411
+    },
+    {
+        "text": "What is it made of?",
+        "startTime": 5875,
+        "endTime": 6883,
+        "slowStartTime": 8962,
+        "slowEndTime": 10550
+    },
+    {
+        "text": "It is made of thin wood.",
+        "startTime": 7120,
+        "endTime": 8787,
+        "slowStartTime": 10830,
+        "slowEndTime": 13406
+    },
+    {
+        "text": "It looks nice.",
+        "startTime": 9186,
+        "endTime": 9965,
+        "slowStartTime": 13929,
+        "slowEndTime": 15173
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 10267,
+        "endTime": 10759,
+        "slowStartTime": 15551,
+        "slowEndTime": 16364
+    },
+    {
+        "text": "What is that?",
+        "startTime": 12021,
+        "endTime": 12661,
+        "slowStartTime": 18181,
+        "slowEndTime": 19217
+    },
+    {
+        "text": "It's something for you.",
+        "startTime": 13148,
+        "endTime": 14199,
+        "slowStartTime": 19872,
+        "slowEndTime": 21523
+    },
+    {
+        "text": "Oh, what is it?",
+        "startTime": 14553,
+        "endTime": 15679,
+        "slowStartTime": 21979,
+        "slowEndTime": 23743
+    },
+    {
+        "text": "You have to guess.",
+        "startTime": 16166,
+        "endTime": 17009,
+        "slowStartTime": 24399,
+        "slowEndTime": 25739
+    },
+    {
+        "text": "Oh, I don't know.",
+        "startTime": 17323,
+        "endTime": 18427,
+        "slowStartTime": 26134,
+        "slowEndTime": 27866
+    },
+    {
+        "text": "What shape is it?",
+        "startTime": 18709,
+        "endTime": 19539,
+        "slowStartTime": 28213,
+        "slowEndTime": 29533
+    },
+    {
+        "text": "It's a rectangle.",
+        "startTime": 20019,
+        "endTime": 20879,
+        "slowStartTime": 30178,
+        "slowEndTime": 31543
+    },
+    {
+        "text": "Let me see it.",
+        "startTime": 21483,
+        "endTime": 22299,
+        "slowStartTime": 32375,
+        "slowEndTime": 33674
+    },
+    {
+        "text": "Oh, it's a new flash drive.",
+        "startTime": 22696,
+        "endTime": 24273,
+        "slowStartTime": 34194,
+        "slowEndTime": 36634
+    },
+    {
+        "text": "Thanks!",
+        "startTime": 24569,
+        "endTime": 25145,
+        "slowStartTime": 37004,
+        "slowEndTime": 37942
+    }
+]

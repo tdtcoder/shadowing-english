@@ -1,0 +1,198 @@
+[
+    {
+        "text": "It was sunny.",
+        "startTime": 559,
+        "endTime": 1682,
+        "slowStartTime": 989,
+        "slowEndTime": 2748
+    },
+    {
+        "text": "It was not cloudy.",
+        "startTime": 3161,
+        "endTime": 4503,
+        "slowStartTime": 4891,
+        "slowEndTime": 6979
+    },
+    {
+        "text": "They were at home.",
+        "startTime": 5909,
+        "endTime": 7471,
+        "slowStartTime": 9013,
+        "slowEndTime": 11431
+    },
+    {
+        "text": "They weren't at the park.",
+        "startTime": 8986,
+        "endTime": 10658,
+        "slowStartTime": 13629,
+        "slowEndTime": 16212
+    },
+    {
+        "text": "Were you at school?",
+        "startTime": 12503,
+        "endTime": 13589,
+        "slowStartTime": 18905,
+        "slowEndTime": 20608
+    },
+    {
+        "text": "Yes, I was.",
+        "startTime": 14958,
+        "endTime": 15940,
+        "slowStartTime": 22587,
+        "slowEndTime": 24135
+    },
+    {
+        "text": "Was your dog sick?",
+        "startTime": 17590,
+        "endTime": 18900,
+        "slowStartTime": 26535,
+        "slowEndTime": 28575
+    },
+    {
+        "text": "No, he was not sick.",
+        "startTime": 20134,
+        "endTime": 21645,
+        "slowStartTime": 30351,
+        "slowEndTime": 32692
+    },
+    {
+        "text": "I was here.",
+        "startTime": 24329,
+        "endTime": 25428,
+        "slowStartTime": 36643,
+        "slowEndTime": 38367
+    },
+    {
+        "text": "I was there.",
+        "startTime": 26144,
+        "endTime": 27039,
+        "slowStartTime": 39366,
+        "slowEndTime": 40784
+    },
+    {
+        "text": "I was in the office.",
+        "startTime": 28122,
+        "endTime": 29407,
+        "slowStartTime": 42333,
+        "slowEndTime": 44335
+    },
+    {
+        "text": "I was at home.",
+        "startTime": 30819,
+        "endTime": 31740,
+        "slowStartTime": 46378,
+        "slowEndTime": 47835
+    },
+    {
+        "text": "I was with my friend.",
+        "startTime": 33056,
+        "endTime": 34327,
+        "slowStartTime": 49734,
+        "slowEndTime": 51715
+    },
+    {
+        "text": "He was here.",
+        "startTime": 35467,
+        "endTime": 36226,
+        "slowStartTime": 53350,
+        "slowEndTime": 54564
+    },
+    {
+        "text": "He was there.",
+        "startTime": 37347,
+        "endTime": 38115,
+        "slowStartTime": 56171,
+        "slowEndTime": 57397
+    },
+    {
+        "text": "He was in the office.",
+        "startTime": 39358,
+        "endTime": 40921,
+        "slowStartTime": 59187,
+        "slowEndTime": 61607
+    },
+    {
+        "text": "He was at home.",
+        "startTime": 41551,
+        "endTime": 42366,
+        "slowStartTime": 62476,
+        "slowEndTime": 63774
+    },
+    {
+        "text": "He was with his friends.",
+        "startTime": 43251,
+        "endTime": 44653,
+        "slowStartTime": 65027,
+        "slowEndTime": 67205
+    },
+    {
+        "text": "She was here.",
+        "startTime": 46093,
+        "endTime": 46896,
+        "slowStartTime": 69290,
+        "slowEndTime": 70569
+    },
+    {
+        "text": "She was there.",
+        "startTime": 47869,
+        "endTime": 48694,
+        "slowStartTime": 71953,
+        "slowEndTime": 73266
+    },
+    {
+        "text": "She was in the office.",
+        "startTime": 49547,
+        "endTime": 50791,
+        "slowStartTime": 74470,
+        "slowEndTime": 76412
+    },
+    {
+        "text": "She was at home.",
+        "startTime": 51442,
+        "endTime": 52335,
+        "slowStartTime": 77313,
+        "slowEndTime": 78728
+    },
+    {
+        "text": "She was with her friends.",
+        "startTime": 52935,
+        "endTime": 54332,
+        "slowStartTime": 79553,
+        "slowEndTime": 81723
+    },
+    {
+        "text": "We were here.",
+        "startTime": 55053,
+        "endTime": 55919,
+        "slowStartTime": 82730,
+        "slowEndTime": 84103
+    },
+    {
+        "text": "We were there.",
+        "startTime": 56868,
+        "endTime": 57789,
+        "slowStartTime": 85452,
+        "slowEndTime": 86908
+    },
+    {
+        "text": "We were in the office.",
+        "startTime": 58425,
+        "endTime": 59954,
+        "slowStartTime": 87787,
+        "slowEndTime": 90156
+    },
+    {
+        "text": "We were at home.",
+        "startTime": 60639,
+        "endTime": 61495,
+        "slowStartTime": 91108,
+        "slowEndTime": 92468
+    },
+    {
+        "text": "We were with our friends.",
+        "startTime": 62638,
+        "endTime": 64263,
+        "slowStartTime": 94107,
+        "slowEndTime": 96620
+    }
+]

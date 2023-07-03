@@ -1,0 +1,72 @@
+[
+    {
+        "text": "﻿Hello.",
+        "startTime": 117,
+        "endTime": 780,
+        "slowStartTime": 326,
+        "slowEndTime": 1395
+    },
+    {
+        "text": "Go ahead put your bag right here.",
+        "startTime": 1423,
+        "endTime": 2790,
+        "slowStartTime": 2285,
+        "slowEndTime": 4410
+    },
+    {
+        "text": "Have a nice flight!",
+        "startTime": 5445,
+        "endTime": 6209,
+        "slowStartTime": 8318,
+        "slowEndTime": 9539
+    },
+    {
+        "text": "Travelling can feel like one big mystery.",
+        "startTime": 24495,
+        "endTime": 27284,
+        "slowStartTime": 36892,
+        "slowEndTime": 41151
+    },
+    {
+        "text": "You're never quite sure what is coming your way.",
+        "startTime": 30816,
+        "endTime": 33650,
+        "slowStartTime": 46374,
+        "slowEndTime": 50700
+    },
+    {
+        "text": "But when you've got an entire company...",
+        "startTime": 38039,
+        "endTime": 40256,
+        "slowStartTime": 57209,
+        "slowEndTime": 60609
+    },
+    {
+        "text": "...who knows that the fewest cancellations...",
+        "startTime": 41033,
+        "endTime": 43440,
+        "slowStartTime": 61700,
+        "slowEndTime": 65385
+    },
+    {
+        "text": "...and the most on time flights are nothing...",
+        "startTime": 43996,
+        "endTime": 47585,
+        "slowStartTime": 66144,
+        "slowEndTime": 71603
+    },
+    {
+        "text": "...if we can't get your things there too.",
+        "startTime": 48104,
+        "endTime": 50195,
+        "slowStartTime": 72306,
+        "slowEndTime": 75517
+    },
+    {
+        "text": "It's no wonder more people choose Delta than any other airline.",
+        "startTime": 54628,
+        "endTime": 59148,
+        "slowStartTime": 82092,
+        "slowEndTime": 88947
+    }
+]

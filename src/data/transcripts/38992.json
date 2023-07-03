@@ -1,0 +1,128 @@
+[
+    {
+        "text": "It's important to remember that a virus doesn't make active decisions.",
+        "startTime": 493,
+        "endTime": 4408,
+        "slowStartTime": 890,
+        "slowEndTime": 6837
+    },
+    {
+        "text": "It's not as if it creates a strategy within your cells.",
+        "startTime": 4937,
+        "endTime": 7611,
+        "slowStartTime": 7555,
+        "slowEndTime": 11642
+    },
+    {
+        "text": "Mutations are random errors,...",
+        "startTime": 8131,
+        "endTime": 10612,
+        "slowStartTime": 12347,
+        "slowEndTime": 16143
+    },
+    {
+        "text": "...but the longer a virus is around, and the more people it infects, the more it will change,...",
+        "startTime": 11739,
+        "endTime": 16665,
+        "slowStartTime": 17758,
+        "slowEndTime": 25223
+    },
+    {
+        "text": "...and the more those changes accumulate,...",
+        "startTime": 17104,
+        "endTime": 18735,
+        "slowStartTime": 25806,
+        "slowEndTime": 28327
+    },
+    {
+        "text": "...the more chances the virus has to evolve into something more dangerous.",
+        "startTime": 18983,
+        "endTime": 22138,
+        "slowStartTime": 28624,
+        "slowEndTime": 33432
+    },
+    {
+        "text": "These four variants, considered \"variants of concern\" by the World Health Organization,...",
+        "startTime": 23419,
+        "endTime": 27539,
+        "slowStartTime": 35278,
+        "slowEndTime": 41533
+    },
+    {
+        "text": "...all have mutations on the spike protein.",
+        "startTime": 27757,
+        "endTime": 29912,
+        "slowStartTime": 41786,
+        "slowEndTime": 45093
+    },
+    {
+        "text": "Delta, the most recent addition to this list, has been referred to as a \"double mutant,\"...",
+        "startTime": 30810,
+        "endTime": 35246,
+        "slowStartTime": 46365,
+        "slowEndTime": 53094
+    },
+    {
+        "text": "...because, while it has many different mutations, it has two significant ones we've seen before.",
+        "startTime": 35494,
+        "endTime": 40405,
+        "slowStartTime": 53391,
+        "slowEndTime": 60832
+    },
+    {
+        "text": "This mutation seems to make the virus more transmissible,...",
+        "startTime": 41468,
+        "endTime": 44301,
+        "slowStartTime": 62352,
+        "slowEndTime": 66677
+    },
+    {
+        "text": "...and a version of this one, found in two other variants,...",
+        "startTime": 44827,
+        "endTime": 47667,
+        "slowStartTime": 67390,
+        "slowEndTime": 71725
+    },
+    {
+        "text": "...makes it easier for the virus to reinfect people who have already had COVID-19,...",
+        "startTime": 47899,
+        "endTime": 52534,
+        "slowStartTime": 71998,
+        "slowEndTime": 79026
+    },
+    {
+        "text": "...meaning these two mutations may have evolved to dodge our natural immune response.",
+        "startTime": 53234,
+        "endTime": 58011,
+        "slowStartTime": 80001,
+        "slowEndTime": 87242
+    },
+    {
+        "text": "Fortunately, the immune response we get from vaccines...",
+        "startTime": 60192,
+        "endTime": 62725,
+        "slowStartTime": 90438,
+        "slowEndTime": 94312
+    },
+    {
+        "text": "...is much stronger than our body's natural immune response.",
+        "startTime": 62807,
+        "endTime": 65942,
+        "slowStartTime": 94360,
+        "slowEndTime": 99138
+    },
+    {
+        "text": "So, while we may see variants that make our vaccines somewhat less effective,...",
+        "startTime": 66877,
+        "endTime": 71161,
+        "slowStartTime": 100465,
+        "slowEndTime": 106966
+    },
+    {
+        "text": "...most experts think it's unlikely one will emerge that completely evades our vaccines.",
+        "startTime": 71787,
+        "endTime": 77462,
+        "slowStartTime": 107831,
+        "slowEndTime": 116418
+    }
+]

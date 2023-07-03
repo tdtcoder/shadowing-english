@@ -1,0 +1,100 @@
+[
+    {
+        "text": "So, I asked my dad where he wanted to go for his 60th birthday.",
+        "startTime": 1944,
+        "endTime": 4603,
+        "slowStartTime": 3066,
+        "slowEndTime": 7130
+    },
+    {
+        "text": "\"Norway,\" he said, \"the land of our ancestors.\"",
+        "startTime": 6637,
+        "endTime": 9356,
+        "slowStartTime": 10106,
+        "slowEndTime": 14259
+    },
+    {
+        "text": "We drank a pint at Ibsen's favorite pub.",
+        "startTime": 12977,
+        "endTime": 14865,
+        "slowStartTime": 19615,
+        "slowEndTime": 22522
+    },
+    {
+        "text": "We sampled the local fare.",
+        "startTime": 16895,
+        "endTime": 18385,
+        "slowStartTime": 25492,
+        "slowEndTime": 27803
+    },
+    {
+        "text": "We saw the fjords.",
+        "startTime": 21301,
+        "endTime": 22417,
+        "slowStartTime": 32101,
+        "slowEndTime": 33851
+    },
+    {
+        "text": "We got new sweaters.",
+        "startTime": 24890,
+        "endTime": 25878,
+        "slowStartTime": 37485,
+        "slowEndTime": 39042
+    },
+    {
+        "text": "We bonded.",
+        "startTime": 27536,
+        "endTime": 28076,
+        "slowStartTime": 41454,
+        "slowEndTime": 42339
+    },
+    {
+        "text": "It was the trip of a lifetime, dad said,...",
+        "startTime": 31331,
+        "endTime": 33125,
+        "slowStartTime": 47146,
+        "slowEndTime": 49913
+    },
+    {
+        "text": "...until we went to the hall of records to trace our family tree...",
+        "startTime": 37033,
+        "endTime": 39579,
+        "slowStartTime": 55700,
+        "slowEndTime": 59594
+    },
+    {
+        "text": "...and discovered we were actually Swedish.",
+        "startTime": 41454,
+        "endTime": 44751,
+        "slowStartTime": 62331,
+        "slowEndTime": 67351
+    },
+    {
+        "text": "Two tickets to Stockholm please.",
+        "startTime": 46423,
+        "endTime": 47925,
+        "slowStartTime": 69785,
+        "slowEndTime": 72113
+    },
+    {
+        "text": "From visiting old worlds to making new discoveries;...",
+        "startTime": 50679,
+        "endTime": 53236,
+        "slowStartTime": 76169,
+        "slowEndTime": 80079
+    },
+    {
+        "text": "...whatever your story is, your Citi Card can help you write it.",
+        "startTime": 53536,
+        "endTime": 56768,
+        "slowStartTime": 80454,
+        "slowEndTime": 85377
+    },
+    {
+        "text": "Citi: let's get it done.",
+        "startTime": 57674,
+        "endTime": 59479,
+        "slowStartTime": 86661,
+        "slowEndTime": 89443
+    }
+]

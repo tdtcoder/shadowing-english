@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Who is the boy who helped you with the books?",
+        "startTime": 2766,
+        "endTime": 5603,
+        "slowStartTime": 4299,
+        "slowEndTime": 8630
+    },
+    {
+        "text": "He is my brother Dave.",
+        "startTime": 6913,
+        "endTime": 8314,
+        "slowStartTime": 10520,
+        "slowEndTime": 12696
+    },
+    {
+        "text": "He always helps me carry heavy things.",
+        "startTime": 8737,
+        "endTime": 11255,
+        "slowStartTime": 13255,
+        "slowEndTime": 17107
+    },
+    {
+        "text": "How do you like your soup?",
+        "startTime": 13852,
+        "endTime": 15484,
+        "slowStartTime": 20928,
+        "slowEndTime": 23451
+    },
+    {
+        "text": "This soup is so yummy!",
+        "startTime": 16403,
+        "endTime": 18279,
+        "slowStartTime": 24755,
+        "slowEndTime": 27644
+    },
+    {
+        "text": "Dad helped me make this soup.",
+        "startTime": 19451,
+        "endTime": 21604,
+        "slowStartTime": 29327,
+        "slowEndTime": 32631
+    },
+    {
+        "text": "Did he? I can't believe it! He never helps me with cooking.",
+        "startTime": 22642,
+        "endTime": 27007,
+        "slowStartTime": 34113,
+        "slowEndTime": 40736
+    },
+    {
+        "text": "I can't solve this problem which is very difficult.",
+        "startTime": 29804,
+        "endTime": 33224,
+        "slowStartTime": 44856,
+        "slowEndTime": 50061
+    },
+    {
+        "text": "Let me see. I can help you with math problems.",
+        "startTime": 34309,
+        "endTime": 38324,
+        "slowStartTime": 51613,
+        "slowEndTime": 57711
+    },
+    {
+        "text": "Thanks, Jeff.",
+        "startTime": 39645,
+        "endTime": 40497,
+        "slowStartTime": 59618,
+        "slowEndTime": 60970
+    }
+]

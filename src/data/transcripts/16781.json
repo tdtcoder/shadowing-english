@@ -1,0 +1,79 @@
+[
+    {
+        "text": "It is a sunny day.",
+        "startTime": 939,
+        "endTime": 2761,
+        "slowStartTime": 1558,
+        "slowEndTime": 4366
+    },
+    {
+        "text": "The Sun shines brightly.",
+        "startTime": 4002,
+        "endTime": 6319,
+        "slowStartTime": 6153,
+        "slowEndTime": 9703
+    },
+    {
+        "text": "Then the Wind comes to the Sun.",
+        "startTime": 7532,
+        "endTime": 10552,
+        "slowStartTime": 11448,
+        "slowEndTime": 16053
+    },
+    {
+        "text": "Hi, Mr. Wind!",
+        "startTime": 11691,
+        "endTime": 13071,
+        "slowStartTime": 17686,
+        "slowEndTime": 19831
+    },
+    {
+        "text": "What are you doing here?",
+        "startTime": 14300,
+        "endTime": 16060,
+        "slowStartTime": 21600,
+        "slowEndTime": 24315
+    },
+    {
+        "text": "I'm giving light to the world.",
+        "startTime": 17186,
+        "endTime": 19146,
+        "slowStartTime": 25929,
+        "slowEndTime": 28944
+    },
+    {
+        "text": "Huh! Are you that strong?",
+        "startTime": 20338,
+        "endTime": 22856,
+        "slowStartTime": 30657,
+        "slowEndTime": 34509
+    },
+    {
+        "text": "No. But I can warm the world.",
+        "startTime": 24023,
+        "endTime": 26757,
+        "slowStartTime": 36185,
+        "slowEndTime": 40360
+    },
+    {
+        "text": "Hahaha! I can blow very strong.",
+        "startTime": 27940,
+        "endTime": 31871,
+        "slowStartTime": 42060,
+        "slowEndTime": 48031
+    },
+    {
+        "text": "I can blow away the trees.",
+        "startTime": 33117,
+        "endTime": 35557,
+        "slowStartTime": 49826,
+        "slowEndTime": 53560
+    },
+    {
+        "text": "I can blow away the houses.",
+        "startTime": 36728,
+        "endTime": 39480,
+        "slowStartTime": 55242,
+        "slowEndTime": 59445
+    }
+]

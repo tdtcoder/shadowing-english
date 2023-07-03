@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Library.",
+        "startTime": 1935,
+        "endTime": 2933,
+        "slowStartTime": 3052,
+        "slowEndTime": 4625
+    },
+    {
+        "text": "The library is a place where there are many books.",
+        "startTime": 3395,
+        "endTime": 6227,
+        "slowStartTime": 5242,
+        "slowEndTime": 9566
+    },
+    {
+        "text": "If you become a member, you can borrow any books you want.",
+        "startTime": 6574,
+        "endTime": 10053,
+        "slowStartTime": 10011,
+        "slowEndTime": 15305
+    },
+    {
+        "text": "Library.",
+        "startTime": 10251,
+        "endTime": 11195,
+        "slowStartTime": 15526,
+        "slowEndTime": 17018
+    },
+    {
+        "text": "School.",
+        "startTime": 12567,
+        "endTime": 13375,
+        "slowStartTime": 19000,
+        "slowEndTime": 20287
+    },
+    {
+        "text": "Teachers work in the school.",
+        "startTime": 13918,
+        "endTime": 15557,
+        "slowStartTime": 21027,
+        "slowEndTime": 23560
+    },
+    {
+        "text": "They teach lots of things to young children.",
+        "startTime": 15742,
+        "endTime": 18269,
+        "slowStartTime": 23763,
+        "slowEndTime": 27628
+    },
+    {
+        "text": "School.",
+        "startTime": 18769,
+        "endTime": 19566,
+        "slowStartTime": 28304,
+        "slowEndTime": 29574
+    },
+    {
+        "text": "Store.",
+        "startTime": 21479,
+        "endTime": 22283,
+        "slowStartTime": 32369,
+        "slowEndTime": 33649
+    },
+    {
+        "text": "Stores sell many things.",
+        "startTime": 22580,
+        "endTime": 24543,
+        "slowStartTime": 34020,
+        "slowEndTime": 37040
+    },
+    {
+        "text": "There are different types of stores like the grocery store...",
+        "startTime": 25125,
+        "endTime": 27783,
+        "slowStartTime": 37837,
+        "slowEndTime": 41899
+    },
+    {
+        "text": "...where we buy fruit or the shoe store where we buy shoes.",
+        "startTime": 27883,
+        "endTime": 31291,
+        "slowStartTime": 41974,
+        "slowEndTime": 47161
+    },
+    {
+        "text": "Store.",
+        "startTime": 31721,
+        "endTime": 32508,
+        "slowStartTime": 47731,
+        "slowEndTime": 48987
+    },
+    {
+        "text": "Museum.",
+        "startTime": 34793,
+        "endTime": 35532,
+        "slowStartTime": 52340,
+        "slowEndTime": 53523
+    },
+    {
+        "text": "The museum is a place...",
+        "startTime": 36139,
+        "endTime": 37429,
+        "slowStartTime": 54359,
+        "slowEndTime": 56369
+    },
+    {
+        "text": "...where you can see artwork like paintings...",
+        "startTime": 37603,
+        "endTime": 39787,
+        "slowStartTime": 56554,
+        "slowEndTime": 59906
+    },
+    {
+        "text": "...and old objects like sculptures.",
+        "startTime": 39892,
+        "endTime": 42077,
+        "slowStartTime": 59988,
+        "slowEndTime": 63341
+    },
+    {
+        "text": "Museum.",
+        "startTime": 42423,
+        "endTime": 43225,
+        "slowStartTime": 63784,
+        "slowEndTime": 65062
+    },
+    {
+        "text": "Hotel.",
+        "startTime": 45499,
+        "endTime": 46319,
+        "slowStartTime": 68399,
+        "slowEndTime": 69703
+    },
+    {
+        "text": "The hotel is where people stay for a short while.",
+        "startTime": 46683,
+        "endTime": 49564,
+        "slowStartTime": 70175,
+        "slowEndTime": 74571
+    },
+    {
+        "text": "Normally, hotels provide lodging for people...",
+        "startTime": 49883,
+        "endTime": 52760,
+        "slowStartTime": 74975,
+        "slowEndTime": 79365
+    },
+    {
+        "text": "...who don't live in the city or are on vacation.",
+        "startTime": 52855,
+        "endTime": 55707,
+        "slowStartTime": 79433,
+        "slowEndTime": 83786
+    },
+    {
+        "text": "Hotel.",
+        "startTime": 56137,
+        "endTime": 56803,
+        "slowStartTime": 84356,
+        "slowEndTime": 85429
+    },
+    {
+        "text": "Cafe.",
+        "startTime": 58795,
+        "endTime": 59444,
+        "slowStartTime": 88343,
+        "slowEndTime": 89391
+    },
+    {
+        "text": "At the cafe, you can have coffee and other drinks.",
+        "startTime": 59922,
+        "endTime": 62943,
+        "slowStartTime": 90033,
+        "slowEndTime": 94639
+    },
+    {
+        "text": "The waiter will serve them to you.",
+        "startTime": 63332,
+        "endTime": 64808,
+        "slowStartTime": 95148,
+        "slowEndTime": 97437
+    },
+    {
+        "text": "Cafe.",
+        "startTime": 65410,
+        "endTime": 66059,
+        "slowStartTime": 98265,
+        "slowEndTime": 99313
+    }
+]

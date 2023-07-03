@@ -1,0 +1,65 @@
+[
+    {
+        "text": "In English, we say \"don't\" to say the negative.",
+        "startTime": 328,
+        "endTime": 3355,
+        "slowStartTime": 642,
+        "slowEndTime": 5257
+    },
+    {
+        "text": "Do you understand?",
+        "startTime": 4525,
+        "endTime": 5563,
+        "slowStartTime": 6938,
+        "slowEndTime": 8570
+    },
+    {
+        "text": "No, I don't understand.",
+        "startTime": 6571,
+        "endTime": 8327,
+        "slowStartTime": 10007,
+        "slowEndTime": 12715
+    },
+    {
+        "text": "I don't understand.",
+        "startTime": 11416,
+        "endTime": 12701,
+        "slowStartTime": 17274,
+        "slowEndTime": 19276
+    },
+    {
+        "text": "I don't study English.",
+        "startTime": 16043,
+        "endTime": 17265,
+        "slowStartTime": 24215,
+        "slowEndTime": 26123
+    },
+    {
+        "text": "No, I don't speak English.",
+        "startTime": 20731,
+        "endTime": 22453,
+        "slowStartTime": 31247,
+        "slowEndTime": 33905
+    },
+    {
+        "text": "I don't speak English.",
+        "startTime": 25310,
+        "endTime": 27345,
+        "slowStartTime": 38115,
+        "slowEndTime": 41243
+    },
+    {
+        "text": "I don't know.",
+        "startTime": 30387,
+        "endTime": 31439,
+        "slowStartTime": 45730,
+        "slowEndTime": 47383
+    },
+    {
+        "text": "I don't like it.",
+        "startTime": 34991,
+        "endTime": 36122,
+        "slowStartTime": 52637,
+        "slowEndTime": 54408
+    }
+]

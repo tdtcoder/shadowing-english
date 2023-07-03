@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Hey bananas, what color is my hair?",
+        "startTime": 2335,
+        "endTime": 6045,
+        "slowStartTime": 3653,
+        "slowEndTime": 9292
+    },
+    {
+        "text": "That's right, it's purple!",
+        "startTime": 9771,
+        "endTime": 12693,
+        "slowStartTime": 14806,
+        "slowEndTime": 19264
+    },
+    {
+        "text": "P U R P L E.",
+        "startTime": 13325,
+        "endTime": 22962,
+        "slowStartTime": 20138,
+        "slowEndTime": 34668
+    },
+    {
+        "text": "That spelled purple.",
+        "startTime": 23099,
+        "endTime": 25154,
+        "slowStartTime": 34798,
+        "slowEndTime": 37956
+    },
+    {
+        "text": "I gathered some of my favorite purple items to put in my purple purse.",
+        "startTime": 25747,
+        "endTime": 31207,
+        "slowStartTime": 38770,
+        "slowEndTime": 47036
+    },
+    {
+        "text": "Like my purple notebook.",
+        "startTime": 31787,
+        "endTime": 34523,
+        "slowStartTime": 47830,
+        "slowEndTime": 52010
+    },
+    {
+        "text": "And a purple candle.",
+        "startTime": 37270,
+        "endTime": 39795,
+        "slowStartTime": 56055,
+        "slowEndTime": 59917
+    },
+    {
+        "text": "I have a purple scarf.",
+        "startTime": 41201,
+        "endTime": 44185,
+        "slowStartTime": 61952,
+        "slowEndTime": 66503
+    },
+    {
+        "text": "A purple headband.",
+        "startTime": 46493,
+        "endTime": 48919,
+        "slowStartTime": 69889,
+        "slowEndTime": 73604
+    },
+    {
+        "text": "And a ... a frog?",
+        "startTime": 51080,
+        "endTime": 55055,
+        "slowStartTime": 76770,
+        "slowEndTime": 82807
+    },
+    {
+        "text": "Frogs are not purple.",
+        "startTime": 55637,
+        "endTime": 58001,
+        "slowStartTime": 83605,
+        "slowEndTime": 87227
+    },
+    {
+        "text": "Crazy frog!",
+        "startTime": 58242,
+        "endTime": 59431,
+        "slowStartTime": 87513,
+        "slowEndTime": 89371
+    },
+    {
+        "text": "I also have a pair of purple scissors.",
+        "startTime": 60821,
+        "endTime": 65167,
+        "slowStartTime": 91382,
+        "slowEndTime": 97976
+    },
+    {
+        "text": "There! Now, everything is in my purple purse.",
+        "startTime": 66654,
+        "endTime": 70381,
+        "slowStartTime": 100131,
+        "slowEndTime": 105797
+    }
+]

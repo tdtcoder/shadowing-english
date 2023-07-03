@@ -1,0 +1,212 @@
+[
+    {
+        "text": "Michael, where do you live?",
+        "startTime": 343,
+        "endTime": 2100,
+        "slowStartTime": 665,
+        "slowEndTime": 3375
+    },
+    {
+        "text": "I live in Florida.",
+        "startTime": 2511,
+        "endTime": 3695,
+        "slowStartTime": 3917,
+        "slowEndTime": 5767
+    },
+    {
+        "text": "Where's Florida?",
+        "startTime": 4063,
+        "endTime": 5305,
+        "slowStartTime": 6244,
+        "slowEndTime": 8182
+    },
+    {
+        "text": "Florida is in the southeast part of America.",
+        "startTime": 7196,
+        "endTime": 10069,
+        "slowStartTime": 10944,
+        "slowEndTime": 15329
+    },
+    {
+        "text": "Our house is in a small city called Jensen Beach.",
+        "startTime": 10637,
+        "endTime": 13977,
+        "slowStartTime": 16105,
+        "slowEndTime": 21191
+    },
+    {
+        "text": "Wow, that's amazing!",
+        "startTime": 15709,
+        "endTime": 17110,
+        "slowStartTime": 23714,
+        "slowEndTime": 25890
+    },
+    {
+        "text": "Do you want to take a tour of the house?",
+        "startTime": 18021,
+        "endTime": 19197,
+        "slowStartTime": 27181,
+        "slowEndTime": 29020
+    },
+    {
+        "text": "Yeah!",
+        "startTime": 19437,
+        "endTime": 19914,
+        "slowStartTime": 29306,
+        "slowEndTime": 30096
+    },
+    {
+        "text": "Let's go!",
+        "startTime": 20092,
+        "endTime": 20943,
+        "slowStartTime": 30288,
+        "slowEndTime": 31639
+    },
+    {
+        "text": "This is the bathroom.",
+        "startTime": 22451,
+        "endTime": 23633,
+        "slowStartTime": 33827,
+        "slowEndTime": 35675
+    },
+    {
+        "text": "I wash my hands in the bathroom.",
+        "startTime": 25073,
+        "endTime": 27634,
+        "slowStartTime": 37760,
+        "slowEndTime": 41676
+    },
+    {
+        "text": "This is the kitchen.",
+        "startTime": 31749,
+        "endTime": 32939,
+        "slowStartTime": 47774,
+        "slowEndTime": 49633
+    },
+    {
+        "text": "I cook in the kitchen.",
+        "startTime": 33662,
+        "endTime": 35308,
+        "slowStartTime": 50643,
+        "slowEndTime": 53187
+    },
+    {
+        "text": "This is the dining room.",
+        "startTime": 36649,
+        "endTime": 37905,
+        "slowStartTime": 55124,
+        "slowEndTime": 57083
+    },
+    {
+        "text": "I eat food in the dining room.",
+        "startTime": 38301,
+        "endTime": 40283,
+        "slowStartTime": 57601,
+        "slowEndTime": 60649
+    },
+    {
+        "text": "Michael drinks coffee in the dining room.",
+        "startTime": 42621,
+        "endTime": 44958,
+        "slowStartTime": 64081,
+        "slowEndTime": 67662
+    },
+    {
+        "text": "This is the living room.",
+        "startTime": 47517,
+        "endTime": 48902,
+        "slowStartTime": 71426,
+        "slowEndTime": 73578
+    },
+    {
+        "text": "Michael's mom watches TV in the living room.",
+        "startTime": 49599,
+        "endTime": 52423,
+        "slowStartTime": 74549,
+        "slowEndTime": 78860
+    },
+    {
+        "text": "Let's go outside.",
+        "startTime": 54351,
+        "endTime": 55495,
+        "slowStartTime": 81676,
+        "slowEndTime": 83467
+    },
+    {
+        "text": "This is the patio.",
+        "startTime": 58682,
+        "endTime": 59891,
+        "slowStartTime": 88173,
+        "slowEndTime": 90062
+    },
+    {
+        "text": "I relax and read books on the patio.",
+        "startTime": 60412,
+        "endTime": 64117,
+        "slowStartTime": 90768,
+        "slowEndTime": 96401
+    },
+    {
+        "text": "Michael takes naps on the patio.",
+        "startTime": 67632,
+        "endTime": 70562,
+        "slowStartTime": 101598,
+        "slowEndTime": 106068
+    },
+    {
+        "text": "This is the garden.",
+        "startTime": 75467,
+        "endTime": 76569,
+        "slowStartTime": 113350,
+        "slowEndTime": 115079
+    },
+    {
+        "text": "I plant seeds in the garden.",
+        "startTime": 77151,
+        "endTime": 80238,
+        "slowStartTime": 115876,
+        "slowEndTime": 120582
+    },
+    {
+        "text": "This is the backyard.",
+        "startTime": 84217,
+        "endTime": 85562,
+        "slowStartTime": 126476,
+        "slowEndTime": 128568
+    },
+    {
+        "text": "I love to climb trees.",
+        "startTime": 86007,
+        "endTime": 87750,
+        "slowStartTime": 129160,
+        "slowEndTime": 131850
+    },
+    {
+        "text": "Hey, Katya!",
+        "startTime": 88637,
+        "endTime": 89824,
+        "slowStartTime": 133106,
+        "slowEndTime": 134961
+    },
+    {
+        "text": "Catch!",
+        "startTime": 90293,
+        "endTime": 90885,
+        "slowStartTime": 135590,
+        "slowEndTime": 136553
+    },
+    {
+        "text": "This is the swimming pool.",
+        "startTime": 94325,
+        "endTime": 95979,
+        "slowStartTime": 141637,
+        "slowEndTime": 144194
+    },
+    {
+        "text": "I swim in the swimming pool.",
+        "startTime": 99123,
+        "endTime": 101202,
+        "slowStartTime": 148834,
+        "slowEndTime": 152028
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "text": "Have you ever been told that you look like someone famous?",
+        "startTime": 2141,
+        "endTime": 5123,
+        "slowStartTime": 3361,
+        "slowEndTime": 7910
+    },
+    {
+        "text": "Of course you have!",
+        "startTime": 5476,
+        "endTime": 6523,
+        "slowStartTime": 8364,
+        "slowEndTime": 10010
+    },
+    {
+        "text": "Now there is a website that uses face recognition software...",
+        "startTime": 7002,
+        "endTime": 10446,
+        "slowStartTime": 10653,
+        "slowEndTime": 15894
+    },
+    {
+        "text": "...and compares your face to hundreds of celebrity faces in their database.",
+        "startTime": 10696,
+        "endTime": 14510,
+        "slowStartTime": 16194,
+        "slowEndTime": 21990
+    },
+    {
+        "text": "It's easy and fun.",
+        "startTime": 14989,
+        "endTime": 16201,
+        "slowStartTime": 22633,
+        "slowEndTime": 24526
+    },
+    {
+        "text": "More importantly, you can find out how true your friends flattery really was.",
+        "startTime": 16452,
+        "endTime": 20771,
+        "slowStartTime": 24828,
+        "slowEndTime": 31381
+    },
+    {
+        "text": "Face recognition runs in 3 steps.",
+        "startTime": 21560,
+        "endTime": 23822,
+        "slowStartTime": 32490,
+        "slowEndTime": 35958
+    },
+    {
+        "text": "One, the digital photo that you provide is loaded.",
+        "startTime": 24485,
+        "endTime": 27747,
+        "slowStartTime": 36878,
+        "slowEndTime": 41845
+    },
+    {
+        "text": "Two, face detection technology is applied to automatically detect human faces in your photo.",
+        "startTime": 28304,
+        "endTime": 34173,
+        "slowStartTime": 42606,
+        "slowEndTime": 51484
+    },
+    {
+        "text": "Three, face recognition technology is applied to recognize...",
+        "startTime": 34937,
+        "endTime": 39037,
+        "slowStartTime": 52556,
+        "slowEndTime": 58781
+    },
+    {
+        "text": "...the faces detected in the previous step.",
+        "startTime": 39151,
+        "endTime": 41405,
+        "slowStartTime": 58877,
+        "slowEndTime": 62332
+    },
+    {
+        "text": "Algorithms compare the faces in your photo...",
+        "startTime": 42245,
+        "endTime": 44751,
+        "slowStartTime": 63518,
+        "slowEndTime": 67352
+    },
+    {
+        "text": "...with all faces previously known to the face recognition database...",
+        "startTime": 45057,
+        "endTime": 48649,
+        "slowStartTime": 67735,
+        "slowEndTime": 73199
+    },
+    {
+        "text": "...and then they are matched with the celebrities' with your bone and facial patterns.",
+        "startTime": 49129,
+        "endTime": 52992,
+        "slowStartTime": 73844,
+        "slowEndTime": 79713
+    },
+    {
+        "text": "The more photos are added to the system, the more powerful it becomes.",
+        "startTime": 53772,
+        "endTime": 57758,
+        "slowStartTime": 80808,
+        "slowEndTime": 86862
+    },
+    {
+        "text": "If people in your photos are not recognized well,...",
+        "startTime": 58441,
+        "endTime": 61031,
+        "slowStartTime": 87812,
+        "slowEndTime": 91772
+    },
+    {
+        "text": "...it is likely that the database has never encountered them before.",
+        "startTime": 61411,
+        "endTime": 64753,
+        "slowStartTime": 92267,
+        "slowEndTime": 97355
+    },
+    {
+        "text": "By adding your photos to this database and annotating the people in the photo manually,...",
+        "startTime": 65507,
+        "endTime": 70287,
+        "slowStartTime": 98410,
+        "slowEndTime": 105656
+    },
+    {
+        "text": "...the database operators will \"learn\" these faces...",
+        "startTime": 70701,
+        "endTime": 73311,
+        "slowStartTime": 106202,
+        "slowEndTime": 110191
+    },
+    {
+        "text": "...and will be able to recognize them in future photos,...",
+        "startTime": 73793,
+        "endTime": 76549,
+        "slowStartTime": 110840,
+        "slowEndTime": 115049
+    },
+    {
+        "text": "...even in different ages of the same person's life.",
+        "startTime": 76956,
+        "endTime": 79375,
+        "slowStartTime": 115584,
+        "slowEndTime": 119287
+    },
+    {
+        "text": "The algorithms used by database operators face recognition software...",
+        "startTime": 80365,
+        "endTime": 84545,
+        "slowStartTime": 120698,
+        "slowEndTime": 127043
+    },
+    {
+        "text": "...are even likely to find relatives of people in your photo,...",
+        "startTime": 84827,
+        "endTime": 87794,
+        "slowStartTime": 127391,
+        "slowEndTime": 131916
+    },
+    {
+        "text": "...due to the genetic - based facial similarities that exist between relatives.",
+        "startTime": 88179,
+        "endTime": 92545,
+        "slowStartTime": 132419,
+        "slowEndTime": 139042
+    },
+    {
+        "text": "You might even be able to use this to form connections between people whom you never even knew were related.",
+        "startTime": 93072,
+        "endTime": 99083,
+        "slowStartTime": 139758,
+        "slowEndTime": 148850
+    }
+]

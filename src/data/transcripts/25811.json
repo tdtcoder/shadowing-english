@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Let's learn about jobs.",
+        "startTime": 727,
+        "endTime": 2324,
+        "slowStartTime": 1240,
+        "slowEndTime": 3711
+    },
+    {
+        "text": "She is a waitress.",
+        "startTime": 3998,
+        "endTime": 5611,
+        "slowStartTime": 6147,
+        "slowEndTime": 8641
+    },
+    {
+        "text": "He is a fireman.",
+        "startTime": 8110,
+        "endTime": 9851,
+        "slowStartTime": 12315,
+        "slowEndTime": 15002
+    },
+    {
+        "text": "He is a soldier in the army.",
+        "startTime": 12972,
+        "endTime": 15012,
+        "slowStartTime": 19608,
+        "slowEndTime": 22743
+    },
+    {
+        "text": "He is an office worker.",
+        "startTime": 18583,
+        "endTime": 20537,
+        "slowStartTime": 28024,
+        "slowEndTime": 31030
+    },
+    {
+        "text": "She wants to be a veterinarian.",
+        "startTime": 23310,
+        "endTime": 25340,
+        "slowStartTime": 35115,
+        "slowEndTime": 38235
+    },
+    {
+        "text": "He is a happy cook.",
+        "startTime": 28529,
+        "endTime": 30259,
+        "slowStartTime": 42943,
+        "slowEndTime": 45613
+    },
+    {
+        "text": "He is a teacher.",
+        "startTime": 33569,
+        "endTime": 34852,
+        "slowStartTime": 50504,
+        "slowEndTime": 52503
+    },
+    {
+        "text": "He is a taxi driver.",
+        "startTime": 37874,
+        "endTime": 39977,
+        "slowStartTime": 56961,
+        "slowEndTime": 60190
+    },
+    {
+        "text": "They are police officers.",
+        "startTime": 42657,
+        "endTime": 44811,
+        "slowStartTime": 64135,
+        "slowEndTime": 67441
+    },
+    {
+        "text": "He is a tractor driver.",
+        "startTime": 47679,
+        "endTime": 49679,
+        "slowStartTime": 71669,
+        "slowEndTime": 74744
+    }
+]

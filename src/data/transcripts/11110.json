@@ -1,0 +1,79 @@
+[
+    {
+        "text": "It is important for customers to feel like their ideas are valued.",
+        "startTime": 3800,
+        "endTime": 7600,
+        "slowStartTime": 5900,
+        "slowEndTime": 11500
+    },
+    {
+        "text": "I think that covers everything on my second point.",
+        "startTime": 8050,
+        "endTime": 10500,
+        "slowStartTime": 12250,
+        "slowEndTime": 15950
+    },
+    {
+        "text": "Are there any questions or comments at this point?",
+        "startTime": 10900,
+        "endTime": 13100,
+        "slowStartTime": 16500,
+        "slowEndTime": 19900
+    },
+    {
+        "text": "I have a question, Mark.",
+        "startTime": 13900,
+        "endTime": 15250,
+        "slowStartTime": 21050,
+        "slowEndTime": 23100
+    },
+    {
+        "text": "What kind of system do you use for organizing and sharing this kind of customer feedback?",
+        "startTime": 15850,
+        "endTime": 20900,
+        "slowStartTime": 23950,
+        "slowEndTime": 31500
+    },
+    {
+        "text": "That's a great question.",
+        "startTime": 21600,
+        "endTime": 22850,
+        "slowStartTime": 32600,
+        "slowEndTime": 34450
+    },
+    {
+        "text": "I plan to cover that a little later.",
+        "startTime": 23200,
+        "endTime": 25100,
+        "slowStartTime": 34950,
+        "slowEndTime": 37900
+    },
+    {
+        "text": "I have some thoughts on ways to deal with sharing such feedback.",
+        "startTime": 25650,
+        "endTime": 28850,
+        "slowStartTime": 38650,
+        "slowEndTime": 43500
+    },
+    {
+        "text": "I'll go over the final section of my presentation, then come back to your question. OK?",
+        "startTime": 29500,
+        "endTime": 34650,
+        "slowStartTime": 44400,
+        "slowEndTime": 52200
+    },
+    {
+        "text": "That's fine.",
+        "startTime": 35400,
+        "endTime": 36250,
+        "slowStartTime": 53250,
+        "slowEndTime": 54600
+    },
+    {
+        "text": "Now, I want to return to how informal feedback can be encouraged.",
+        "startTime": 37000,
+        "endTime": 41400,
+        "slowStartTime": 55700,
+        "slowEndTime": 62300
+    }
+]

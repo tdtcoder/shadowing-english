@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Here are some phrases you can use when shopping.",
+        "startTime": 131,
+        "endTime": 2945,
+        "slowStartTime": 347,
+        "slowEndTime": 4643
+    },
+    {
+        "text": "How much is it?",
+        "startTime": 4751,
+        "endTime": 5484,
+        "slowStartTime": 7276,
+        "slowEndTime": 8451
+    },
+    {
+        "text": "Do you have this in another color?",
+        "startTime": 7500,
+        "endTime": 9115,
+        "slowStartTime": 11400,
+        "slowEndTime": 13897
+    },
+    {
+        "text": "Do you have this in a medium?",
+        "startTime": 10967,
+        "endTime": 12251,
+        "slowStartTime": 16600,
+        "slowEndTime": 18602
+    },
+    {
+        "text": "I want... of this.",
+        "startTime": 14123,
+        "endTime": 16375,
+        "slowStartTime": 21334,
+        "slowEndTime": 24787
+    },
+    {
+        "text": "May I see it?",
+        "startTime": 18167,
+        "endTime": 19062,
+        "slowStartTime": 27400,
+        "slowEndTime": 28818
+    },
+    {
+        "text": "Can I try it on?",
+        "startTime": 20939,
+        "endTime": 21861,
+        "slowStartTime": 31558,
+        "slowEndTime": 33017
+    },
+    {
+        "text": "I like that one.",
+        "startTime": 23839,
+        "endTime": 24747,
+        "slowStartTime": 35908,
+        "slowEndTime": 37346
+    },
+    {
+        "text": "I don't like this color.",
+        "startTime": 26723,
+        "endTime": 28378,
+        "slowStartTime": 40235,
+        "slowEndTime": 42792
+    },
+    {
+        "text": "I love this color!",
+        "startTime": 30300,
+        "endTime": 31765,
+        "slowStartTime": 45600,
+        "slowEndTime": 47873
+    },
+    {
+        "text": "Do you take returns?",
+        "startTime": 33663,
+        "endTime": 34890,
+        "slowStartTime": 50645,
+        "slowEndTime": 52560
+    }
+]

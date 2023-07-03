@@ -1,0 +1,401 @@
+[
+    {
+        "text": "Wikipedia, on the other hand, begins with a very radical idea...",
+        "startTime": 393,
+        "endTime": 3864,
+        "slowStartTime": 740,
+        "slowEndTime": 6021
+    },
+    {
+        "text": "...and that's for all of us to imagine a world in which every single person on the planet...",
+        "startTime": 4583,
+        "endTime": 8155,
+        "slowStartTime": 7025,
+        "slowEndTime": 12457
+    },
+    {
+        "text": "...is given free access to the sum of all human knowledge.",
+        "startTime": 8672,
+        "endTime": 11171,
+        "slowStartTime": 13158,
+        "slowEndTime": 16981
+    },
+    {
+        "text": "And that's what we're doing.",
+        "startTime": 11245,
+        "endTime": 12157,
+        "slowStartTime": 17018,
+        "slowEndTime": 18460
+    },
+    {
+        "text": "So Wikipedia ; you just saw the little demonstration of it.",
+        "startTime": 13447,
+        "endTime": 16230,
+        "slowStartTime": 20321,
+        "slowEndTime": 24570
+    },
+    {
+        "text": "It's a freely licensed encyclopedia.",
+        "startTime": 17134,
+        "endTime": 19027,
+        "slowStartTime": 25851,
+        "slowEndTime": 28766
+    },
+    {
+        "text": "It's written by thousands of volunteers all over the world in many, many languages.",
+        "startTime": 19163,
+        "endTime": 22612,
+        "slowStartTime": 28895,
+        "slowEndTime": 34143
+    },
+    {
+        "text": "It's written using Wiki software which is the type of software he just demonstrated...",
+        "startTime": 23771,
+        "endTime": 27250,
+        "slowStartTime": 35807,
+        "slowEndTime": 41100
+    },
+    {
+        "text": "...so anyone can quickly edit and save and it goes live on the Internet immediately.",
+        "startTime": 27333,
+        "endTime": 31207,
+        "slowStartTime": 41149,
+        "slowEndTime": 47035
+    },
+    {
+        "text": "And everything about Wikipedia is managed by virtually an all - volunteer staff.",
+        "startTime": 32998,
+        "endTime": 37557,
+        "slowStartTime": 49647,
+        "slowEndTime": 56561
+    },
+    {
+        "text": "So, when Yochai is talking about new methods of organization,...",
+        "startTime": 37633,
+        "endTime": 42119,
+        "slowStartTime": 56600,
+        "slowEndTime": 63404
+    },
+    {
+        "text": "...he's exactly describing Wikipedia.",
+        "startTime": 42206,
+        "endTime": 44140,
+        "slowStartTime": 63459,
+        "slowEndTime": 66435
+    },
+    {
+        "text": "And what I'm gonna do today is tell you a little bit more about how it really works on the inside.",
+        "startTime": 44621,
+        "endTime": 49268,
+        "slowStartTime": 67081,
+        "slowEndTime": 74127
+    },
+    {
+        "text": "So Wikipedia's owned by the Wikimedia Foundation, which I founded,...",
+        "startTime": 50349,
+        "endTime": 54300,
+        "slowStartTime": 75673,
+        "slowEndTime": 81675
+    },
+    {
+        "text": "...a nonprofit organization.",
+        "startTime": 54561,
+        "endTime": 56002,
+        "slowStartTime": 81991,
+        "slowEndTime": 84228
+    },
+    {
+        "text": "And our goal, the core aim of the Wikimedia Foundation,...",
+        "startTime": 56169,
+        "endTime": 59755,
+        "slowStartTime": 84403,
+        "slowEndTime": 89857
+    },
+    {
+        "text": "...is to get a free encyclopedia to every single person on the planet.",
+        "startTime": 60235,
+        "endTime": 63127,
+        "slowStartTime": 90503,
+        "slowEndTime": 94915
+    },
+    {
+        "text": "And so if you think about what that means,...",
+        "startTime": 63206,
+        "endTime": 64895,
+        "slowStartTime": 94959,
+        "slowEndTime": 97567
+    },
+    {
+        "text": "...it means a lot more than just building a cool website.",
+        "startTime": 65213,
+        "endTime": 67515,
+        "slowStartTime": 97969,
+        "slowEndTime": 101497
+    },
+    {
+        "text": "We're really interested in all the issues of the digital divide, poverty worldwide;...",
+        "startTime": 67785,
+        "endTime": 71927,
+        "slowStartTime": 101827,
+        "slowEndTime": 108115
+    },
+    {
+        "text": "...empowering people everywhere to have the information that they need to make good decisions.",
+        "startTime": 72682,
+        "endTime": 77023,
+        "slowStartTime": 109173,
+        "slowEndTime": 115759
+    },
+    {
+        "text": "And so we're gonna have to do a lot of work that goes beyond just the Internet.",
+        "startTime": 77093,
+        "endTime": 81370,
+        "slowStartTime": 115790,
+        "slowEndTime": 122280
+    },
+    {
+        "text": "And so that's a big part of why we've chosen the free licensing model...",
+        "startTime": 81440,
+        "endTime": 84295,
+        "slowStartTime": 122310,
+        "slowEndTime": 126667
+    },
+    {
+        "text": "...because that empowers local entrepreneurs or anyone who wants to...",
+        "startTime": 84686,
+        "endTime": 87633,
+        "slowStartTime": 127179,
+        "slowEndTime": 131675
+    },
+    {
+        "text": "...can take our content and do anything they like with it.",
+        "startTime": 87993,
+        "endTime": 89917,
+        "slowStartTime": 132140,
+        "slowEndTime": 135101
+    },
+    {
+        "text": "You can copy it, redistribute it and you can do it commercially or non - commercially.",
+        "startTime": 90000,
+        "endTime": 94333,
+        "slowStartTime": 135150,
+        "slowEndTime": 141724
+    },
+    {
+        "text": "So, there's a lot of opportunities that are going to arise...",
+        "startTime": 94413,
+        "endTime": 96697,
+        "slowStartTime": 141770,
+        "slowEndTime": 145271
+    },
+    {
+        "text": "...around Wikipedia all over the world.",
+        "startTime": 96873,
+        "endTime": 99671,
+        "slowStartTime": 145460,
+        "slowEndTime": 149732
+    },
+    {
+        "text": "We're funded by donations from the public...",
+        "startTime": 100905,
+        "endTime": 102585,
+        "slowStartTime": 151508,
+        "slowEndTime": 154103
+    },
+    {
+        "text": "...and one of the more interesting things about that is how little money it actually takes to run Wikipedia.",
+        "startTime": 102774,
+        "endTime": 108733,
+        "slowStartTime": 154311,
+        "slowEndTime": 163325
+    },
+    {
+        "text": "So, Yochai showed you the graph of what the cost of a printing press was.",
+        "startTime": 109197,
+        "endTime": 113267,
+        "slowStartTime": 163946,
+        "slowEndTime": 170125
+    },
+    {
+        "text": "And I'm gonna tell you what the cost of Wikipedia is,...",
+        "startTime": 113764,
+        "endTime": 117163,
+        "slowStartTime": 170796,
+        "slowEndTime": 175969
+    },
+    {
+        "text": "...but first I'll show you how big it is.",
+        "startTime": 117239,
+        "endTime": 118838,
+        "slowStartTime": 176008,
+        "slowEndTime": 178482
+    },
+    {
+        "text": "So, we've got over 600,000 articles in English.",
+        "startTime": 118829,
+        "endTime": 122891,
+        "slowStartTime": 178393,
+        "slowEndTime": 184562
+    },
+    {
+        "text": "We've got two million total articles across many, many different languages.",
+        "startTime": 123433,
+        "endTime": 127551,
+        "slowStartTime": 185299,
+        "slowEndTime": 191551
+    },
+    {
+        "text": "The biggest languages are German, Japanese, French.",
+        "startTime": 127907,
+        "endTime": 130318,
+        "slowStartTime": 192011,
+        "slowEndTime": 195702
+    },
+    {
+        "text": "All the Western European languages are quite big.",
+        "startTime": 131207,
+        "endTime": 133569,
+        "slowStartTime": 196960,
+        "slowEndTime": 200579
+    },
+    {
+        "text": "But only around one-third of all of our traffic to our web clusters to the English Wikipedia,...",
+        "startTime": 134916,
+        "endTime": 139829,
+        "slowStartTime": 202524,
+        "slowEndTime": 209969
+    },
+    {
+        "text": "...which is surprising to a lot of people.",
+        "startTime": 139953,
+        "endTime": 141360,
+        "slowStartTime": 210079,
+        "slowEndTime": 212265
+    },
+    {
+        "text": "A lot of people think in a very English - centric way on the Internet,...",
+        "startTime": 141421,
+        "endTime": 144740,
+        "slowStartTime": 212281,
+        "slowEndTime": 217335
+    },
+    {
+        "text": "...but for us, we're truly global.",
+        "startTime": 145224,
+        "endTime": 147046,
+        "slowStartTime": 217986,
+        "slowEndTime": 220794
+    },
+    {
+        "text": "We're in many, many languages.",
+        "startTime": 147133,
+        "endTime": 148217,
+        "slowStartTime": 220849,
+        "slowEndTime": 222551
+    },
+    {
+        "text": "How popular we've gotten to be: we're a top 50 website and we're more popular than the New York Times.",
+        "startTime": 149280,
+        "endTime": 154383,
+        "slowStartTime": 224070,
+        "slowEndTime": 231799
+    },
+    {
+        "text": "So, this is where we get to Yochai's discussion.",
+        "startTime": 154449,
+        "endTime": 158796,
+        "slowStartTime": 231823,
+        "slowEndTime": 238419
+    },
+    {
+        "text": "This shows the growth of Wikipedia, we're the blue line there...",
+        "startTime": 159367,
+        "endTime": 162599,
+        "slowStartTime": 239200,
+        "slowEndTime": 244123
+    },
+    {
+        "text": "...and then this is the New York Times over there.",
+        "startTime": 162673,
+        "endTime": 164705,
+        "slowStartTime": 244159,
+        "slowEndTime": 247282
+    },
+    {
+        "text": "And what's interesting about this is the New York Times website...",
+        "startTime": 165430,
+        "endTime": 168652,
+        "slowStartTime": 248295,
+        "slowEndTime": 253203
+    },
+    {
+        "text": "...is a huge, enormous corporate operation...",
+        "startTime": 168742,
+        "endTime": 170869,
+        "slowStartTime": 253263,
+        "slowEndTime": 256529
+    },
+    {
+        "text": "...with, I have no idea how many, hundreds of employees.",
+        "startTime": 171135,
+        "endTime": 173459,
+        "slowStartTime": 256853,
+        "slowEndTime": 260413
+    },
+    {
+        "text": "We have exactly one employee and that employee is our lead software developer.",
+        "startTime": 174051,
+        "endTime": 178265,
+        "slowStartTime": 261226,
+        "slowEndTime": 267622
+    },
+    {
+        "text": "And he's only been our employee since January 2005, all the other growth before that.",
+        "startTime": 178565,
+        "endTime": 183083,
+        "slowStartTime": 267998,
+        "slowEndTime": 274850
+    },
+    {
+        "text": "So, the servers are managed by a ragtag band of volunteers,...",
+        "startTime": 183615,
+        "endTime": 187199,
+        "slowStartTime": 275572,
+        "slowEndTime": 281024
+    },
+    {
+        "text": "...all the editing is done by volunteers.",
+        "startTime": 187289,
+        "endTime": 188964,
+        "slowStartTime": 281084,
+        "slowEndTime": 283671
+    },
+    {
+        "text": "And the way that we're organized is not like any traditional organization you can imagine.",
+        "startTime": 189295,
+        "endTime": 193160,
+        "slowStartTime": 284093,
+        "slowEndTime": 289965
+    },
+    {
+        "text": "People are always asking, \"Well, who's in charge of this?\" or \"Who does that?\"",
+        "startTime": 193254,
+        "endTime": 196913,
+        "slowStartTime": 290031,
+        "slowEndTime": 295594
+    },
+    {
+        "text": "And the answer is, anybody who wants to pitch in.",
+        "startTime": 197261,
+        "endTime": 199435,
+        "slowStartTime": 296042,
+        "slowEndTime": 299377
+    },
+    {
+        "text": "It's a very unusual and chaotic thing.",
+        "startTime": 199527,
+        "endTime": 203141,
+        "slowStartTime": 299440,
+        "slowEndTime": 304937
+    }
+]

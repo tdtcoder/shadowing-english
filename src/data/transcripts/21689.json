@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Good evening, my lady.",
+        "startTime": 5490,
+        "endTime": 6363,
+        "slowStartTime": 8385,
+        "slowEndTime": 9769
+    },
+    {
+        "text": "Good evening, good sir.",
+        "startTime": 7503,
+        "endTime": 9022,
+        "slowStartTime": 11404,
+        "slowEndTime": 13758
+    },
+    {
+        "text": "How are you this evening?",
+        "startTime": 9298,
+        "endTime": 10655,
+        "slowStartTime": 14097,
+        "slowEndTime": 16207
+    },
+    {
+        "text": "I find myself to be most excellent this evening, yes I do.",
+        "startTime": 10859,
+        "endTime": 14788,
+        "slowStartTime": 16439,
+        "slowEndTime": 22407
+    },
+    {
+        "text": "And how do you find the tidings at Downton Abbey?",
+        "startTime": 14892,
+        "endTime": 19512,
+        "slowStartTime": 22488,
+        "slowEndTime": 29493
+    },
+    {
+        "text": "My god.",
+        "startTime": 19946,
+        "endTime": 20619,
+        "slowStartTime": 30069,
+        "slowEndTime": 31153
+    },
+    {
+        "text": "Please don't tell me that you should practice this accent.",
+        "startTime": 21535,
+        "endTime": 23839,
+        "slowStartTime": 32452,
+        "slowEndTime": 35983
+    },
+    {
+        "text": "How are you?",
+        "startTime": 24590,
+        "endTime": 25011,
+        "slowStartTime": 37035,
+        "slowEndTime": 37741
+    },
+    {
+        "text": "I'm good, thanks.",
+        "startTime": 25725,
+        "endTime": 26457,
+        "slowStartTime": 38737,
+        "slowEndTime": 39910
+    },
+    {
+        "text": "How are you?",
+        "startTime": 26587,
+        "endTime": 27089,
+        "slowStartTime": 40031,
+        "slowEndTime": 40858
+    },
+    {
+        "text": "No.",
+        "startTime": 27250,
+        "endTime": 27514,
+        "slowStartTime": 41025,
+        "slowEndTime": 41496
+    },
+    {
+        "text": "Come on now, enough of this \"I'm good, thanks\" stuff.",
+        "startTime": 27988,
+        "endTime": 30837,
+        "slowStartTime": 42132,
+        "slowEndTime": 46481
+    },
+    {
+        "text": "How you doin'?",
+        "startTime": 31618,
+        "endTime": 32090,
+        "slowStartTime": 47577,
+        "slowEndTime": 48360
+    },
+    {
+        "text": "Honestly.",
+        "startTime": 32853,
+        "endTime": 33286,
+        "slowStartTime": 49429,
+        "slowEndTime": 50154
+    },
+    {
+        "text": "Honestly?",
+        "startTime": 33878,
+        "endTime": 34464,
+        "slowStartTime": 50967,
+        "slowEndTime": 51921
+    },
+    {
+        "text": "Yes.",
+        "startTime": 34769,
+        "endTime": 35389,
+        "slowStartTime": 52304,
+        "slowEndTime": 53308
+    },
+    {
+        "text": "Honestly, I don't know.",
+        "startTime": 36287,
+        "endTime": 38662,
+        "slowStartTime": 54580,
+        "slowEndTime": 58218
+    },
+    {
+        "text": "You know, this is our fourth date and what does it mean?",
+        "startTime": 40482,
+        "endTime": 42307,
+        "slowStartTime": 60873,
+        "slowEndTime": 63686
+    },
+    {
+        "text": "And this is a risk I'm willing to take because I like you.",
+        "startTime": 43275,
+        "endTime": 48153,
+        "slowStartTime": 65063,
+        "slowEndTime": 72454
+    },
+    {
+        "text": "And I really don't want to screw this up.",
+        "startTime": 49521,
+        "endTime": 51339,
+        "slowStartTime": 74432,
+        "slowEndTime": 77234
+    },
+    {
+        "text": "I like you too.",
+        "startTime": 59282,
+        "endTime": 60018,
+        "slowStartTime": 89073,
+        "slowEndTime": 90252
+    },
+    {
+        "text": "I do.",
+        "startTime": 62289,
+        "endTime": 62655,
+        "slowStartTime": 93583,
+        "slowEndTime": 94208
+    },
+    {
+        "text": "Shall I come in, or...",
+        "startTime": 65767,
+        "endTime": 66585,
+        "slowStartTime": 98800,
+        "slowEndTime": 100103
+    },
+    {
+        "text": "I'm actually, I'm ready to go.",
+        "startTime": 67328,
+        "endTime": 68916,
+        "slowStartTime": 101142,
+        "slowEndTime": 103599
+    },
+    {
+        "text": "Okay.",
+        "startTime": 69447,
+        "endTime": 69593,
+        "slowStartTime": 104321,
+        "slowEndTime": 104614
+    },
+    {
+        "text": "My British accent is not that bad.",
+        "startTime": 70757,
+        "endTime": 71740,
+        "slowStartTime": 106286,
+        "slowEndTime": 107835
+    },
+    {
+        "text": "Oh, it's real bad.",
+        "startTime": 72039,
+        "endTime": 72789,
+        "slowStartTime": 108209,
+        "slowEndTime": 109409
+    }
+]

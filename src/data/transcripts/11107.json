@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Is this Pizza House? We ordered a pizza over an hour ago!",
+        "startTime": 1660,
+        "endTime": 5900,
+        "slowStartTime": 2570,
+        "slowEndTime": 8795
+    },
+    {
+        "text": "I apologize for that, sir. Can I get your name?",
+        "startTime": 6240,
+        "endTime": 9440,
+        "slowStartTime": 9480,
+        "slowEndTime": 14165
+    },
+    {
+        "text": "It's Sam Strait.",
+        "startTime": 9840,
+        "endTime": 11410,
+        "slowStartTime": 14810,
+        "slowEndTime": 17105
+    },
+    {
+        "text": "I'm sorry, Mr. Strait, but I can't find your order on our computer.",
+        "startTime": 11870,
+        "endTime": 16090,
+        "slowStartTime": 17940,
+        "slowEndTime": 24235
+    },
+    {
+        "text": "What?",
+        "startTime": 16450,
+        "endTime": 17050,
+        "slowStartTime": 24735,
+        "slowEndTime": 25555
+    },
+    {
+        "text": "I think there was an error.",
+        "startTime": 17300,
+        "endTime": 18750,
+        "slowStartTime": 26055,
+        "slowEndTime": 28190
+    },
+    {
+        "text": "By some oversight, your order was never recorded.",
+        "startTime": 18980,
+        "endTime": 21880,
+        "slowStartTime": 28640,
+        "slowEndTime": 32850
+    },
+    {
+        "text": "I don't know who is to blame for this. Do you know who took the order?",
+        "startTime": 22220,
+        "endTime": 26260,
+        "slowStartTime": 33445,
+        "slowEndTime": 39350
+    },
+    {
+        "text": "No, I can't remember. This kind of service is totally unacceptable.",
+        "startTime": 26420,
+        "endTime": 30820,
+        "slowStartTime": 39720,
+        "slowEndTime": 46270
+    },
+    {
+        "text": "I assure you, Mr. Strait, this kind of thing rarely happens.",
+        "startTime": 31030,
+        "endTime": 34500,
+        "slowStartTime": 46650,
+        "slowEndTime": 51805
+    },
+    {
+        "text": "We'll get a pizza to your house immediately.",
+        "startTime": 34730,
+        "endTime": 37170,
+        "slowStartTime": 52170,
+        "slowEndTime": 55735
+    },
+    {
+        "text": "We're very sorry for the inconvenience.",
+        "startTime": 37370,
+        "endTime": 39600,
+        "slowStartTime": 56140,
+        "slowEndTime": 59435
+    }
+]

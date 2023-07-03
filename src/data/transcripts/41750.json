@@ -1,0 +1,198 @@
+[
+    {
+        "text": "Is there a kill switch, a way to shut the whole thing down?",
+        "startTime": 321,
+        "endTime": 3101,
+        "slowStartTime": 631,
+        "slowEndTime": 4877
+    },
+    {
+        "text": "Yes.",
+        "startTime": 3319,
+        "endTime": 3947,
+        "slowStartTime": 5128,
+        "slowEndTime": 6146
+    },
+    {
+        "text": "What really happens is, any engineer can just say,...",
+        "startTime": 4107,
+        "endTime": 6824,
+        "slowStartTime": 6311,
+        "slowEndTime": 10461
+    },
+    {
+        "text": "...\"We're going to disable this for now\"...",
+        "startTime": 6889,
+        "endTime": 8328,
+        "slowStartTime": 10484,
+        "slowEndTime": 12717
+    },
+    {
+        "text": "...or \"We're going to deploy this new version of the model.\"",
+        "startTime": 8641,
+        "endTime": 10784,
+        "slowStartTime": 13111,
+        "slowEndTime": 16401
+    },
+    {
+        "text": "A human.",
+        "startTime": 10897,
+        "endTime": 11321,
+        "slowStartTime": 16495,
+        "slowEndTime": 17206
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 11402,
+        "endTime": 11674,
+        "slowStartTime": 17253,
+        "slowEndTime": 17736
+    },
+    {
+        "text": "The model itself, can it take the place of that human?",
+        "startTime": 12033,
+        "endTime": 16339,
+        "slowStartTime": 18200,
+        "slowEndTime": 24733
+    },
+    {
+        "text": "Could it become more powerful than that human?",
+        "startTime": 16483,
+        "endTime": 19479,
+        "slowStartTime": 24875,
+        "slowEndTime": 29444
+    },
+    {
+        "text": "So, in the sci-fi movies, yes.",
+        "startTime": 21611,
+        "endTime": 22997,
+        "slowStartTime": 32567,
+        "slowEndTime": 34720
+    },
+    {
+        "text": "In our world, in the way we're doing things,...",
+        "startTime": 23141,
+        "endTime": 25514,
+        "slowStartTime": 34862,
+        "slowEndTime": 38496
+    },
+    {
+        "text": "...this model is sitting on a server.",
+        "startTime": 25643,
+        "endTime": 28500,
+        "slowStartTime": 38614,
+        "slowEndTime": 42975
+    },
+    {
+        "text": "It waits until someone gives it an input.",
+        "startTime": 29035,
+        "endTime": 30869,
+        "slowStartTime": 43702,
+        "slowEndTime": 46529
+    },
+    {
+        "text": "But you raise an important point,...",
+        "startTime": 31685,
+        "endTime": 33557,
+        "slowStartTime": 47678,
+        "slowEndTime": 50560
+    },
+    {
+        "text": "...which is the humans who are in control of the machine right now,...",
+        "startTime": 33670,
+        "endTime": 37524,
+        "slowStartTime": 50655,
+        "slowEndTime": 56511
+    },
+    {
+        "text": "...also have a huge amount of power.",
+        "startTime": 37646,
+        "endTime": 39521,
+        "slowStartTime": 56619,
+        "slowEndTime": 59506
+    },
+    {
+        "text": "We do worry a lot about authoritarian governments developing this.",
+        "startTime": 39981,
+        "endTime": 43977,
+        "slowStartTime": 60122,
+        "slowEndTime": 66190
+    },
+    {
+        "text": "Putin has himself said, \"Whoever wins this artificial intelligence race...",
+        "startTime": 44325,
+        "endTime": 49293,
+        "slowStartTime": 66638,
+        "slowEndTime": 74164
+    },
+    {
+        "text": "...is essentially the controller of humankind.\"",
+        "startTime": 49579,
+        "endTime": 51691,
+        "slowStartTime": 74519,
+        "slowEndTime": 77762
+    },
+    {
+        "text": "Do you agree with that?",
+        "startTime": 51789,
+        "endTime": 52577,
+        "slowStartTime": 77833,
+        "slowEndTime": 79090
+    },
+    {
+        "text": "So, that was a chilling statement, for sure.",
+        "startTime": 52940,
+        "endTime": 54837,
+        "slowStartTime": 79560,
+        "slowEndTime": 82481
+    },
+    {
+        "text": "What I hope instead is that we successively develop...",
+        "startTime": 55086,
+        "endTime": 58325,
+        "slowStartTime": 82779,
+        "slowEndTime": 87712
+    },
+    {
+        "text": "...more and more powerful systems that we can all use in different ways...",
+        "startTime": 58605,
+        "endTime": 61964,
+        "slowStartTime": 88057,
+        "slowEndTime": 93171
+    },
+    {
+        "text": "...that get integrated into our daily lives, into the economy,...",
+        "startTime": 62061,
+        "endTime": 65054,
+        "slowStartTime": 93242,
+        "slowEndTime": 97806
+    },
+    {
+        "text": "...and become an amplifier of human will,...",
+        "startTime": 65517,
+        "endTime": 67607,
+        "slowStartTime": 98426,
+        "slowEndTime": 101635
+    },
+    {
+        "text": "...but not this autonomous system, that is...",
+        "startTime": 68013,
+        "endTime": 70125,
+        "slowStartTime": 102170,
+        "slowEndTime": 105413
+    },
+    {
+        "text": "The single controller, essentially god.",
+        "startTime": 70538,
+        "endTime": 72524,
+        "slowStartTime": 105957,
+        "slowEndTime": 109011
+    },
+    {
+        "text": "Really don't want that.",
+        "startTime": 72652,
+        "endTime": 73315,
+        "slowStartTime": 109128,
+        "slowEndTime": 110197
+    }
+]

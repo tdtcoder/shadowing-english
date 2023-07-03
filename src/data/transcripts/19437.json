@@ -1,0 +1,345 @@
+[
+    {
+        "text": "Listen to me, Burt.",
+        "startTime": 2471,
+        "endTime": 3210,
+        "slowStartTime": 3857,
+        "slowEndTime": 5040
+    },
+    {
+        "text": "Nobody likes you.",
+        "startTime": 3961,
+        "endTime": 4703,
+        "slowStartTime": 6091,
+        "slowEndTime": 7279
+    },
+    {
+        "text": "Nobody will ever like you.",
+        "startTime": 5015,
+        "endTime": 6182,
+        "slowStartTime": 7673,
+        "slowEndTime": 9498
+    },
+    {
+        "text": "Welcome to the amazing world of magic.",
+        "startTime": 9701,
+        "endTime": 12253,
+        "slowStartTime": 14701,
+        "slowEndTime": 18605
+    },
+    {
+        "text": "Everyone loves a magician.",
+        "startTime": 14561,
+        "endTime": 16397,
+        "slowStartTime": 21992,
+        "slowEndTime": 24821
+    },
+    {
+        "text": "And they'll love you too.",
+        "startTime": 16731,
+        "endTime": 17765,
+        "slowStartTime": 25246,
+        "slowEndTime": 26873
+    },
+    {
+        "text": "Do you want to be my partner?",
+        "startTime": 17969,
+        "endTime": 19095,
+        "slowStartTime": 27104,
+        "slowEndTime": 28867
+    },
+    {
+        "text": "More than anything!",
+        "startTime": 19181,
+        "endTime": 20639,
+        "slowStartTime": 28921,
+        "slowEndTime": 31184
+    },
+    {
+        "text": "I'm Burt Wonderstone!",
+        "startTime": 26371,
+        "endTime": 27813,
+        "slowStartTime": 39707,
+        "slowEndTime": 41944
+    },
+    {
+        "text": "And I'm Anton Marvelton!",
+        "startTime": 27889,
+        "endTime": 29343,
+        "slowStartTime": 41984,
+        "slowEndTime": 44239
+    },
+    {
+        "text": "But of course, you already knew that!",
+        "startTime": 29419,
+        "endTime": 31097,
+        "slowStartTime": 44278,
+        "slowEndTime": 46871
+    },
+    {
+        "text": "Your ticket sales suck.",
+        "startTime": 35172,
+        "endTime": 36262,
+        "slowStartTime": 52908,
+        "slowEndTime": 54618
+    },
+    {
+        "text": "What?",
+        "startTime": 37850,
+        "endTime": 38025,
+        "slowStartTime": 56925,
+        "slowEndTime": 57263
+    },
+    {
+        "text": "Steve Gray: they're calling him the future of magic.",
+        "startTime": 39949,
+        "endTime": 42843,
+        "slowStartTime": 60073,
+        "slowEndTime": 64489
+    },
+    {
+        "text": "The guy is a magician and he doesn't even have a costume.",
+        "startTime": 43387,
+        "endTime": 45435,
+        "slowStartTime": 65230,
+        "slowEndTime": 68378
+    },
+    {
+        "text": "I'm sure you've seen people walk on red-hot coals.",
+        "startTime": 46573,
+        "endTime": 49453,
+        "slowStartTime": 70009,
+        "slowEndTime": 74404
+    },
+    {
+        "text": "But I doubt you've seen anyone spend the night on red-hot coals.",
+        "startTime": 49585,
+        "endTime": 52876,
+        "slowStartTime": 74528,
+        "slowEndTime": 79539
+    },
+    {
+        "text": "You need to do something fresh.",
+        "startTime": 60225,
+        "endTime": 61751,
+        "slowStartTime": 90487,
+        "slowEndTime": 92851
+    },
+    {
+        "text": "So, this is where old entertainers go to die?",
+        "startTime": 61813,
+        "endTime": 64040,
+        "slowStartTime": 92870,
+        "slowEndTime": 96285
+    },
+    {
+        "text": "And some, not so old.",
+        "startTime": 65143,
+        "endTime": 66498,
+        "slowStartTime": 97865,
+        "slowEndTime": 99972
+    },
+    {
+        "text": "May I see that for a minute?",
+        "startTime": 67197,
+        "endTime": 68424,
+        "slowStartTime": 100946,
+        "slowEndTime": 102861
+    },
+    {
+        "text": "Watch this!",
+        "startTime": 68500,
+        "endTime": 69303,
+        "slowStartTime": 102900,
+        "slowEndTime": 104180
+    },
+    {
+        "text": "What have you done?",
+        "startTime": 70455,
+        "endTime": 71651,
+        "slowStartTime": 105833,
+        "slowEndTime": 107701
+    },
+    {
+        "text": "I'm a magician.",
+        "startTime": 71747,
+        "endTime": 72582,
+        "slowStartTime": 107771,
+        "slowEndTime": 109098
+    },
+    {
+        "text": "I should have explained that to you earlier.",
+        "startTime": 72665,
+        "endTime": 74632,
+        "slowStartTime": 109148,
+        "slowEndTime": 112173
+    },
+    {
+        "text": "You're Rance Holloway.",
+        "startTime": 75959,
+        "endTime": 76931,
+        "slowStartTime": 114089,
+        "slowEndTime": 115621
+    },
+    {
+        "text": "I had your magic kit as a kid.",
+        "startTime": 77127,
+        "endTime": 78713,
+        "slowStartTime": 115841,
+        "slowEndTime": 118295
+    },
+    {
+        "text": "I'll give you your money back.",
+        "startTime": 78949,
+        "endTime": 80151,
+        "slowStartTime": 118574,
+        "slowEndTime": 120452
+    },
+    {
+        "text": "What you're feeling right now.",
+        "startTime": 82372,
+        "endTime": 83897,
+        "slowStartTime": 123708,
+        "slowEndTime": 126071
+    },
+    {
+        "text": "That's why you became a magician.",
+        "startTime": 84011,
+        "endTime": 85569,
+        "slowStartTime": 126167,
+        "slowEndTime": 128579
+    },
+    {
+        "text": "How did you do that?",
+        "startTime": 85666,
+        "endTime": 86403,
+        "slowStartTime": 128649,
+        "slowEndTime": 129829
+    },
+    {
+        "text": "It's partially deboned.",
+        "startTime": 86522,
+        "endTime": 88037,
+        "slowStartTime": 129933,
+        "slowEndTime": 132281
+    },
+    {
+        "text": "What you do is not magic.",
+        "startTime": 89879,
+        "endTime": 91486,
+        "slowStartTime": 134969,
+        "slowEndTime": 137454
+    },
+    {
+        "text": "It's natural for a dying leaf to be frightened by the autumn wind.",
+        "startTime": 91549,
+        "endTime": 94157,
+        "slowStartTime": 137473,
+        "slowEndTime": 141461
+    },
+    {
+        "text": "Your skin makes me cry.",
+        "startTime": 94685,
+        "endTime": 95631,
+        "slowStartTime": 142177,
+        "slowEndTime": 143671
+    },
+    {
+        "text": "We need some sort of grand illusion!",
+        "startTime": 96450,
+        "endTime": 98359,
+        "slowStartTime": 144825,
+        "slowEndTime": 147763
+    },
+    {
+        "text": "You and Burt Wonderstone plan to stay in the box for an entire week?",
+        "startTime": 98519,
+        "endTime": 101230,
+        "slowStartTime": 147929,
+        "slowEndTime": 152070
+    },
+    {
+        "text": "I can't breathe!",
+        "startTime": 103567,
+        "endTime": 104274,
+        "slowStartTime": 155501,
+        "slowEndTime": 156636
+    },
+    {
+        "text": "It's only been 20 minutes!",
+        "startTime": 104343,
+        "endTime": 105469,
+        "slowStartTime": 156664,
+        "slowEndTime": 158429
+    },
+    {
+        "text": "This is the best trick ever!",
+        "startTime": 107715,
+        "endTime": 109326,
+        "slowStartTime": 161723,
+        "slowEndTime": 164214
+    },
+    {
+        "text": "For 12 days, he's held his urine.",
+        "startTime": 120957,
+        "endTime": 123981,
+        "slowStartTime": 181586,
+        "slowEndTime": 186196
+    },
+    {
+        "text": "What is going through your mind?",
+        "startTime": 124327,
+        "endTime": 126479,
+        "slowStartTime": 186641,
+        "slowEndTime": 189943
+    },
+    {
+        "text": "I really have to pee, Richard.",
+        "startTime": 126605,
+        "endTime": 127706,
+        "slowStartTime": 190058,
+        "slowEndTime": 191784
+    },
+    {
+        "text": "It's time for my final disappearing act.",
+        "startTime": 130424,
+        "endTime": 132995,
+        "slowStartTime": 195786,
+        "slowEndTime": 199717
+    },
+    {
+        "text": "Where did he go?",
+        "startTime": 134652,
+        "endTime": 135625,
+        "slowStartTime": 202128,
+        "slowEndTime": 203662
+    },
+    {
+        "text": "He has gone to a better place.",
+        "startTime": 135819,
+        "endTime": 137457,
+        "slowStartTime": 203879,
+        "slowEndTime": 206411
+    },
+    {
+        "text": "Goodbye, Rance.",
+        "startTime": 137626,
+        "endTime": 138743,
+        "slowStartTime": 206589,
+        "slowEndTime": 208339
+    },
+    {
+        "text": "He's under the bed.",
+        "startTime": 138933,
+        "endTime": 139807,
+        "slowStartTime": 208550,
+        "slowEndTime": 209936
+    },
+    {
+        "text": "I know.",
+        "startTime": 139897,
+        "endTime": 140261,
+        "slowStartTime": 209995,
+        "slowEndTime": 210617
+    }
+]

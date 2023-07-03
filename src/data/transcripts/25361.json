@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Let's learn about places in the city.",
+        "startTime": 836,
+        "endTime": 3705,
+        "slowStartTime": 1404,
+        "slowEndTime": 5783
+    },
+    {
+        "text": "She is in a cafe.",
+        "startTime": 5911,
+        "endTime": 7792,
+        "slowStartTime": 9016,
+        "slowEndTime": 11913
+    },
+    {
+        "text": "The restaurant is very busy.",
+        "startTime": 10203,
+        "endTime": 12716,
+        "slowStartTime": 15454,
+        "slowEndTime": 19299
+    },
+    {
+        "text": "Do you go to the library often?",
+        "startTime": 15391,
+        "endTime": 17471,
+        "slowStartTime": 23236,
+        "slowEndTime": 26431
+    },
+    {
+        "text": "He works in a butcher shop.",
+        "startTime": 20409,
+        "endTime": 22568,
+        "slowStartTime": 30764,
+        "slowEndTime": 34077
+    },
+    {
+        "text": "The bread is fresh at this bakery.",
+        "startTime": 25167,
+        "endTime": 28247,
+        "slowStartTime": 37900,
+        "slowEndTime": 42595
+    },
+    {
+        "text": "He is at the convenience store.",
+        "startTime": 31023,
+        "endTime": 33458,
+        "slowStartTime": 46685,
+        "slowEndTime": 50412
+    },
+    {
+        "text": "You wash clothes at the laundromat.",
+        "startTime": 36723,
+        "endTime": 38962,
+        "slowStartTime": 55234,
+        "slowEndTime": 58668
+    },
+    {
+        "text": "You can buy books at a bookstore.",
+        "startTime": 41307,
+        "endTime": 43633,
+        "slowStartTime": 62111,
+        "slowEndTime": 65675
+    },
+    {
+        "text": "This is a pet shop.",
+        "startTime": 46908,
+        "endTime": 48615,
+        "slowStartTime": 70512,
+        "slowEndTime": 73147
+    },
+    {
+        "text": "He is at the flower shop.",
+        "startTime": 51949,
+        "endTime": 54158,
+        "slowStartTime": 78073,
+        "slowEndTime": 81462
+    }
+]

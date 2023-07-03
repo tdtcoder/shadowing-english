@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Let me reiterate, if you guarantee a minimum order, the discount is higher.",
+        "startTime": 1600,
+        "endTime": 6270,
+        "slowStartTime": 2475,
+        "slowEndTime": 9385
+    },
+    {
+        "text": "We understand, but we have to consider realistic expectations of our market.",
+        "startTime": 7100,
+        "endTime": 11940,
+        "slowStartTime": 10775,
+        "slowEndTime": 17850
+    },
+    {
+        "text": "What would be the minimum acceptable order to receive an 8.5% discount on the total order?",
+        "startTime": 12640,
+        "endTime": 19010,
+        "slowStartTime": 19070,
+        "slowEndTime": 28560
+    },
+    {
+        "text": "We'd be willing to offer that kind of discount...",
+        "startTime": 19620,
+        "endTime": 21960,
+        "slowStartTime": 29520,
+        "slowEndTime": 32985
+    },
+    {
+        "text": "...with the proviso that your company guaranteed an order of 800 units.",
+        "startTime": 22220,
+        "endTime": 27160,
+        "slowStartTime": 33425,
+        "slowEndTime": 40790
+    },
+    {
+        "text": "I think our company could go along with that.",
+        "startTime": 28320,
+        "endTime": 30560,
+        "slowStartTime": 42615,
+        "slowEndTime": 45870
+    },
+    {
+        "text": "Then, do we have a deal?",
+        "startTime": 31130,
+        "endTime": 32690,
+        "slowStartTime": 46820,
+        "slowEndTime": 49070
+    }
+]

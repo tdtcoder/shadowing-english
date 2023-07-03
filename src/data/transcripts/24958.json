@@ -1,0 +1,79 @@
+[
+    {
+        "text": "﻿Let's learn about drinks.",
+        "startTime": 1627,
+        "endTime": 3874,
+        "slowStartTime": 2590,
+        "slowEndTime": 6036
+    },
+    {
+        "text": "He is drinking milk.",
+        "startTime": 7304,
+        "endTime": 9613,
+        "slowStartTime": 11106,
+        "slowEndTime": 14645
+    },
+    {
+        "text": "She is having a soft drink.",
+        "startTime": 13223,
+        "endTime": 15520,
+        "slowStartTime": 19985,
+        "slowEndTime": 23505
+    },
+    {
+        "text": "He is drinking a glass of water.",
+        "startTime": 20187,
+        "endTime": 22931,
+        "slowStartTime": 30431,
+        "slowEndTime": 34622
+    },
+    {
+        "text": "Do you like coffee?",
+        "startTime": 29229,
+        "endTime": 30527,
+        "slowStartTime": 43993,
+        "slowEndTime": 46016
+    },
+    {
+        "text": "Would you like some tea, miss?",
+        "startTime": 36511,
+        "endTime": 38415,
+        "slowStartTime": 54917,
+        "slowEndTime": 57848
+    },
+    {
+        "text": "This is orange juice.",
+        "startTime": 43901,
+        "endTime": 46169,
+        "slowStartTime": 66001,
+        "slowEndTime": 69479
+    },
+    {
+        "text": "I would love a glass of red wine, please.",
+        "startTime": 51117,
+        "endTime": 53815,
+        "slowStartTime": 76826,
+        "slowEndTime": 80947
+    },
+    {
+        "text": "How about a beer?",
+        "startTime": 62113,
+        "endTime": 63498,
+        "slowStartTime": 93320,
+        "slowEndTime": 95472
+    },
+    {
+        "text": "She likes cocktails.",
+        "startTime": 71789,
+        "endTime": 73717,
+        "slowStartTime": 107834,
+        "slowEndTime": 110800
+    },
+    {
+        "text": "He is making a smoothie.",
+        "startTime": 84673,
+        "endTime": 86753,
+        "slowStartTime": 127160,
+        "slowEndTime": 130354
+    }
+]

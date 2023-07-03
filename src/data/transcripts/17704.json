@@ -1,0 +1,254 @@
+[
+    {
+        "text": "Squirrel was scared.",
+        "startTime": 4244,
+        "endTime": 5695,
+        "slowStartTime": 6516,
+        "slowEndTime": 8768
+    },
+    {
+        "text": "He could not eat.",
+        "startTime": 6350,
+        "endTime": 7549,
+        "slowStartTime": 9675,
+        "slowEndTime": 11549
+    },
+    {
+        "text": "He could not sleep.",
+        "startTime": 8081,
+        "endTime": 9407,
+        "slowStartTime": 12271,
+        "slowEndTime": 14336
+    },
+    {
+        "text": "He could only worry.",
+        "startTime": 9989,
+        "endTime": 11687,
+        "slowStartTime": 15134,
+        "slowEndTime": 17755
+    },
+    {
+        "text": "\"What is the matter, Squirrel?\"...",
+        "startTime": 13143,
+        "endTime": 14922,
+        "slowStartTime": 19865,
+        "slowEndTime": 22608
+    },
+    {
+        "text": "...asked Raccoon.",
+        "startTime": 15841,
+        "endTime": 16859,
+        "slowStartTime": 23912,
+        "slowEndTime": 25514
+    },
+    {
+        "text": "\"Why are you so worried?\"",
+        "startTime": 17759,
+        "endTime": 19511,
+        "slowStartTime": 26788,
+        "slowEndTime": 29492
+    },
+    {
+        "text": "\"Haven't you noticed?\"...",
+        "startTime": 20747,
+        "endTime": 22137,
+        "slowStartTime": 31271,
+        "slowEndTime": 33430
+    },
+    {
+        "text": "...asked Squirrel.",
+        "startTime": 22774,
+        "endTime": 23779,
+        "slowStartTime": 34311,
+        "slowEndTime": 35894
+    },
+    {
+        "text": "\"The moon is disappearing.",
+        "startTime": 24663,
+        "endTime": 26412,
+        "slowStartTime": 37145,
+        "slowEndTime": 39843
+    },
+    {
+        "text": "We need to get all the food we can now, before it is too late.\"",
+        "startTime": 26803,
+        "endTime": 31852,
+        "slowStartTime": 40354,
+        "slowEndTime": 48003
+    },
+    {
+        "text": "Deer and Raccoon looked up at the moon.",
+        "startTime": 33367,
+        "endTime": 36265,
+        "slowStartTime": 50201,
+        "slowEndTime": 54623
+    },
+    {
+        "text": "\"The moon is not disappearing,\"...",
+        "startTime": 37448,
+        "endTime": 39515,
+        "slowStartTime": 56322,
+        "slowEndTime": 59498
+    },
+    {
+        "text": "...said Raccoon.",
+        "startTime": 40207,
+        "endTime": 41241,
+        "slowStartTime": 60461,
+        "slowEndTime": 62086
+    },
+    {
+        "text": "\"Yes, it is,\"....",
+        "startTime": 42011,
+        "endTime": 42973,
+        "slowStartTime": 63166,
+        "slowEndTime": 64684
+    },
+    {
+        "text": "...said Squirrel.",
+        "startTime": 44369,
+        "endTime": 45369,
+        "slowStartTime": 66703,
+        "slowEndTime": 68279
+    },
+    {
+        "text": "\"It is smaller than it was last night.",
+        "startTime": 46573,
+        "endTime": 49006,
+        "slowStartTime": 70010,
+        "slowEndTime": 73734
+    },
+    {
+        "text": "Just wait.",
+        "startTime": 49613,
+        "endTime": 50349,
+        "slowStartTime": 74569,
+        "slowEndTime": 75748
+    },
+    {
+        "text": "Tomorrow, it will be even smaller.\"",
+        "startTime": 50760,
+        "endTime": 53629,
+        "slowStartTime": 76290,
+        "slowEndTime": 80669
+    },
+    {
+        "text": "The next night, the animals looked at the moon.",
+        "startTime": 54800,
+        "endTime": 57902,
+        "slowStartTime": 82350,
+        "slowEndTime": 87078
+    },
+    {
+        "text": "\"Is the moon really getting smaller?\"...",
+        "startTime": 59026,
+        "endTime": 61585,
+        "slowStartTime": 88689,
+        "slowEndTime": 92602
+    },
+    {
+        "text": "...asked Deer.",
+        "startTime": 62376,
+        "endTime": 63338,
+        "slowStartTime": 93714,
+        "slowEndTime": 95232
+    },
+    {
+        "text": "\"I don't know,\"...",
+        "startTime": 64487,
+        "endTime": 65542,
+        "slowStartTime": 96881,
+        "slowEndTime": 98538
+    },
+    {
+        "text": "...said Raccoon.",
+        "startTime": 66251,
+        "endTime": 67239,
+        "slowStartTime": 99526,
+        "slowEndTime": 101084
+    },
+    {
+        "text": "But there was no question a few nights later.",
+        "startTime": 68143,
+        "endTime": 70873,
+        "slowStartTime": 102364,
+        "slowEndTime": 106535
+    },
+    {
+        "text": "The moon really was smaller.",
+        "startTime": 71583,
+        "endTime": 73647,
+        "slowStartTime": 107524,
+        "slowEndTime": 110696
+    },
+    {
+        "text": "\"Squirrel is right,\"...",
+        "startTime": 75032,
+        "endTime": 76492,
+        "slowStartTime": 112698,
+        "slowEndTime": 114963
+    },
+    {
+        "text": "...said Raccoon.",
+        "startTime": 77425,
+        "endTime": 78373,
+        "slowStartTime": 116287,
+        "slowEndTime": 117785
+    },
+    {
+        "text": "\"The moon is disappearing.\"",
+        "startTime": 79001,
+        "endTime": 80805,
+        "slowStartTime": 118652,
+        "slowEndTime": 121433
+    },
+    {
+        "text": "\"What is this I hear about the moon disappearing?\"",
+        "startTime": 81988,
+        "endTime": 85675,
+        "slowStartTime": 123132,
+        "slowEndTime": 128738
+    },
+    {
+        "text": "...asked Skunk.",
+        "startTime": 86833,
+        "endTime": 87796,
+        "slowStartTime": 130399,
+        "slowEndTime": 131919
+    },
+    {
+        "text": "\"Look!\"",
+        "startTime": 89234,
+        "endTime": 89768,
+        "slowStartTime": 134001,
+        "slowEndTime": 134877
+    },
+    {
+        "text": "Squirrel pointed up at the moon.",
+        "startTime": 91062,
+        "endTime": 93063,
+        "slowStartTime": 136743,
+        "slowEndTime": 139820
+    },
+    {
+        "text": "Only three-quarters of the moon was left now.",
+        "startTime": 93785,
+        "endTime": 96546,
+        "slowStartTime": 140828,
+        "slowEndTime": 145044
+    },
+    {
+        "text": "\"It is disappearing,\"...",
+        "startTime": 97877,
+        "endTime": 99541,
+        "slowStartTime": 146966,
+        "slowEndTime": 149536
+    },
+    {
+        "text": "...said Skunk.",
+        "startTime": 100443,
+        "endTime": 101379,
+        "slowStartTime": 150814,
+        "slowEndTime": 152294
+    }
+]

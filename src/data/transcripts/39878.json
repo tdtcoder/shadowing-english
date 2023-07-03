@@ -1,0 +1,93 @@
+[
+    {
+        "text": "What time is it?",
+        "startTime": 584,
+        "endTime": 1963,
+        "slowStartTime": 1026,
+        "slowEndTime": 3170
+    },
+    {
+        "text": "It's one o'clock.",
+        "startTime": 3001,
+        "endTime": 4336,
+        "slowStartTime": 4651,
+        "slowEndTime": 6729
+    },
+    {
+        "text": "It's quarter past twelve.",
+        "startTime": 4705,
+        "endTime": 6547,
+        "slowStartTime": 7208,
+        "slowEndTime": 10045
+    },
+    {
+        "text": "It's quarter to one.",
+        "startTime": 7005,
+        "endTime": 8340,
+        "slowStartTime": 10658,
+        "slowEndTime": 12735
+    },
+    {
+        "text": "It's 12:30.",
+        "startTime": 9049,
+        "endTime": 10569,
+        "slowStartTime": 13724,
+        "slowEndTime": 16079
+    },
+    {
+        "text": "It's 2:46 in the afternoon.",
+        "startTime": 11493,
+        "endTime": 14013,
+        "slowStartTime": 17390,
+        "slowEndTime": 21244
+    },
+    {
+        "text": "It's ten past seven in the morning.",
+        "startTime": 15461,
+        "endTime": 18160,
+        "slowStartTime": 23342,
+        "slowEndTime": 27465
+    },
+    {
+        "text": "It's ten to five.",
+        "startTime": 18909,
+        "endTime": 20327,
+        "slowStartTime": 28513,
+        "slowEndTime": 30715
+    },
+    {
+        "text": "It's 12 p.m.",
+        "startTime": 21296,
+        "endTime": 22605,
+        "slowStartTime": 32094,
+        "slowEndTime": 34133
+    },
+    {
+        "text": "It's noon.",
+        "startTime": 22920,
+        "endTime": 23837,
+        "slowStartTime": 34530,
+        "slowEndTime": 35980
+    },
+    {
+        "text": "It's 12 a.m.",
+        "startTime": 25248,
+        "endTime": 26653,
+        "slowStartTime": 38022,
+        "slowEndTime": 40205
+    },
+    {
+        "text": "It's midnight.",
+        "startTime": 26843,
+        "endTime": 28329,
+        "slowStartTime": 40415,
+        "slowEndTime": 42719
+    },
+    {
+        "text": "It's 11:40.",
+        "startTime": 29343,
+        "endTime": 30827,
+        "slowStartTime": 44165,
+        "slowEndTime": 46466
+    }
+]

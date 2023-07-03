@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Take me to pizza.",
+        "startTime": 5900,
+        "endTime": 6818,
+        "slowStartTime": 9000,
+        "slowEndTime": 10452
+    },
+    {
+        "text": "I'm cold.",
+        "startTime": 13496,
+        "endTime": 14386,
+        "slowStartTime": 20394,
+        "slowEndTime": 21804
+    },
+    {
+        "text": "Open charge port.",
+        "startTime": 17501,
+        "endTime": 18553,
+        "slowStartTime": 26402,
+        "slowEndTime": 28054
+    },
+    {
+        "text": "Lock the doors.",
+        "startTime": 20826,
+        "endTime": 21877,
+        "slowStartTime": 31389,
+        "slowEndTime": 33040
+    },
+    {
+        "text": "Open Netflix.",
+        "startTime": 24503,
+        "endTime": 25512,
+        "slowStartTime": 36905,
+        "slowEndTime": 38493
+    },
+    {
+        "text": "I'll be there in 30 minutes.",
+        "startTime": 30525,
+        "endTime": 32115,
+        "slowStartTime": 45937,
+        "slowEndTime": 48397
+    },
+    {
+        "text": "Make screen brighter.",
+        "startTime": 35272,
+        "endTime": 36806,
+        "slowStartTime": 53058,
+        "slowEndTime": 55434
+    }
+]

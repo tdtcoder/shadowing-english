@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Monday seems to be everyone's least favorite day of the week.",
+        "startTime": 631,
+        "endTime": 3673,
+        "slowStartTime": 1096,
+        "slowEndTime": 5734
+    },
+    {
+        "text": "But at Starbucks, we don't think Mondays are all bad.",
+        "startTime": 4032,
+        "endTime": 6319,
+        "slowStartTime": 6198,
+        "slowEndTime": 9704
+    },
+    {
+        "text": "We first walked on the moon on a Monday.",
+        "startTime": 7093,
+        "endTime": 9109,
+        "slowStartTime": 10790,
+        "slowEndTime": 13889
+    },
+    {
+        "text": "The first comic book superhero appeared on a Monday.",
+        "startTime": 10002,
+        "endTime": 12563,
+        "slowStartTime": 15153,
+        "slowEndTime": 19070
+    },
+    {
+        "text": "Big Ben started bonging on a Monday.",
+        "startTime": 13277,
+        "endTime": 15528,
+        "slowStartTime": 20066,
+        "slowEndTime": 23517
+    },
+    {
+        "text": "The first public lift arrived on a Monday.",
+        "startTime": 16623,
+        "endTime": 18826,
+        "slowStartTime": 25084,
+        "slowEndTime": 28464
+    },
+    {
+        "text": "The UK saw its first cinema,...",
+        "startTime": 19935,
+        "endTime": 21703,
+        "slowStartTime": 30053,
+        "slowEndTime": 32780
+    },
+    {
+        "text": "...weekly weather forecast,...",
+        "startTime": 22130,
+        "endTime": 23646,
+        "slowStartTime": 33345,
+        "slowEndTime": 35694
+    },
+    {
+        "text": "...performance of Shakespeare's Macbeth...",
+        "startTime": 23751,
+        "endTime": 25395,
+        "slowStartTime": 35777,
+        "slowEndTime": 38317
+    },
+    {
+        "text": "...and space invaders game all on a Monday.",
+        "startTime": 25779,
+        "endTime": 28557,
+        "slowStartTime": 38818,
+        "slowEndTime": 43060
+    },
+    {
+        "text": "Around half a million babies are born each Monday.",
+        "startTime": 29372,
+        "endTime": 31773,
+        "slowStartTime": 44208,
+        "slowEndTime": 47885
+    },
+    {
+        "text": "And every Monday at Starbucks until February the 18th, tall lattes are just one pound fifty.",
+        "startTime": 32137,
+        "endTime": 36997,
+        "slowStartTime": 48355,
+        "slowEndTime": 55720
+    },
+    {
+        "text": "See, Mondays can be great.",
+        "startTime": 37519,
+        "endTime": 39582,
+        "slowStartTime": 56428,
+        "slowEndTime": 59598
+    }
+]

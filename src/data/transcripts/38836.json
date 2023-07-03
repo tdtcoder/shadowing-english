@@ -1,0 +1,51 @@
+[
+    {
+        "text": "I live in an apartment, and it's in a beautiful location with a garden, trees.",
+        "startTime": 1545,
+        "endTime": 8011,
+        "slowStartTime": 2468,
+        "slowEndTime": 12242
+    },
+    {
+        "text": "It's a small townhouse,...",
+        "startTime": 8317,
+        "endTime": 10127,
+        "slowStartTime": 12626,
+        "slowEndTime": 15416
+    },
+    {
+        "text": "...and I share it with three guys.",
+        "startTime": 10680,
+        "endTime": 14264,
+        "slowStartTime": 16170,
+        "slowEndTime": 21621
+    },
+    {
+        "text": "My home is a two-bedroom house with a garden,...",
+        "startTime": 14381,
+        "endTime": 17227,
+        "slowStartTime": 21721,
+        "slowEndTime": 26066
+    },
+    {
+        "text": "...and it's very open,...",
+        "startTime": 17741,
+        "endTime": 19384,
+        "slowStartTime": 26762,
+        "slowEndTime": 29301
+    },
+    {
+        "text": "...so the living room and the kitchen are together.",
+        "startTime": 19515,
+        "endTime": 22885,
+        "slowStartTime": 29422,
+        "slowEndTime": 34552
+    },
+    {
+        "text": "So, the whole family could spend time together.",
+        "startTime": 23204,
+        "endTime": 25708,
+        "slowStartTime": 34956,
+        "slowEndTime": 38787
+    }
+]

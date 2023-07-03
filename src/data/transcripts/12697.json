@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Anyway, where's Susie?",
+        "startTime": 1468,
+        "endTime": 2921,
+        "slowStartTime": 2352,
+        "slowEndTime": 4607
+    },
+    {
+        "text": "She went to the ladies' room.",
+        "startTime": 3221,
+        "endTime": 4381,
+        "slowStartTime": 4981,
+        "slowEndTime": 6797
+    },
+    {
+        "text": "Oh, here she comes.",
+        "startTime": 4774,
+        "endTime": 5865,
+        "slowStartTime": 7311,
+        "slowEndTime": 9022
+    },
+    {
+        "text": "Hi, Kathy! You finally made it!",
+        "startTime": 6467,
+        "endTime": 8783,
+        "slowStartTime": 9851,
+        "slowEndTime": 13399
+    },
+    {
+        "text": "Hi, Susie! I'm so sorry to keep you guys waiting.",
+        "startTime": 9136,
+        "endTime": 12639,
+        "slowStartTime": 13854,
+        "slowEndTime": 19183
+    },
+    {
+        "text": "No problem, the traffic always seems to get worse when it's raining.",
+        "startTime": 12992,
+        "endTime": 17175,
+        "slowStartTime": 19638,
+        "slowEndTime": 25987
+    },
+    {
+        "text": "You're right, but you know what, I like rain.",
+        "startTime": 17507,
+        "endTime": 20461,
+        "slowStartTime": 26410,
+        "slowEndTime": 30916
+    },
+    {
+        "text": "I think rain makes all things clean in the world, including me.",
+        "startTime": 20994,
+        "endTime": 24620,
+        "slowStartTime": 31641,
+        "slowEndTime": 37155
+    },
+    {
+        "text": "What a nice day we're having!",
+        "startTime": 25222,
+        "endTime": 26677,
+        "slowStartTime": 37983,
+        "slowEndTime": 40241
+    },
+    {
+        "text": "Yeah, I like today.",
+        "startTime": 27018,
+        "endTime": 28040,
+        "slowStartTime": 40677,
+        "slowEndTime": 42285
+    },
+    {
+        "text": "It's cool, isn't it?",
+        "startTime": 28415,
+        "endTime": 29263,
+        "slowStartTime": 42772,
+        "slowEndTime": 44119
+    },
+    {
+        "text": "The weather forecast says it will be cold tomorrow again.",
+        "startTime": 29880,
+        "endTime": 32649,
+        "slowStartTime": 44970,
+        "slowEndTime": 49198
+    },
+    {
+        "text": "Really? These days, the weather hasn't been normal for this time of year.",
+        "startTime": 32977,
+        "endTime": 37215,
+        "slowStartTime": 49616,
+        "slowEndTime": 56047
+    },
+    {
+        "text": "Changmin, what's the weather like in Korea?",
+        "startTime": 37654,
+        "endTime": 40190,
+        "slowStartTime": 56631,
+        "slowEndTime": 60510
+    },
+    {
+        "text": "Well, it's also autumn in Korea...",
+        "startTime": 40461,
+        "endTime": 42356,
+        "slowStartTime": 60842,
+        "slowEndTime": 63759
+    },
+    {
+        "text": "...and beautiful around this time of year.",
+        "startTime": 42521,
+        "endTime": 44277,
+        "slowStartTime": 63932,
+        "slowEndTime": 66641
+    },
+    {
+        "text": "My favorite season is autumn.",
+        "startTime": 44879,
+        "endTime": 46258,
+        "slowStartTime": 67468,
+        "slowEndTime": 69612
+    },
+    {
+        "text": "I miss Korea.",
+        "startTime": 46611,
+        "endTime": 47555,
+        "slowStartTime": 70067,
+        "slowEndTime": 71557
+    }
+]

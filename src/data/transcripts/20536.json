@@ -1,0 +1,177 @@
+[
+    {
+        "text": "One of the best ways to get around Dublin is to ride on this double-decker, the hop-on hop-off.",
+        "startTime": 9784,
+        "endTime": 14248,
+        "slowStartTime": 14826,
+        "slowEndTime": 21597
+    },
+    {
+        "text": "Let's go.",
+        "startTime": 14352,
+        "endTime": 14611,
+        "slowStartTime": 21678,
+        "slowEndTime": 22142
+    },
+    {
+        "text": "You've arrived at Dublin City, folks.",
+        "startTime": 14912,
+        "endTime": 16215,
+        "slowStartTime": 22518,
+        "slowEndTime": 24548
+    },
+    {
+        "text": "Welcome aboard.",
+        "startTime": 16312,
+        "endTime": 16689,
+        "slowStartTime": 24618,
+        "slowEndTime": 25259
+    },
+    {
+        "text": "Okay, I've just gotten off the bus.",
+        "startTime": 20580,
+        "endTime": 22165,
+        "slowStartTime": 31020,
+        "slowEndTime": 33473
+    },
+    {
+        "text": "I'm here on Grafton Street.",
+        "startTime": 22258,
+        "endTime": 23769,
+        "slowStartTime": 33537,
+        "slowEndTime": 35878
+    },
+    {
+        "text": "There are shops everywhere, live music on every block.",
+        "startTime": 23842,
+        "endTime": 26893,
+        "slowStartTime": 35913,
+        "slowEndTime": 40565
+    },
+    {
+        "text": "It's a lot of fun.",
+        "startTime": 27236,
+        "endTime": 27907,
+        "slowStartTime": 41004,
+        "slowEndTime": 42086
+    },
+    {
+        "text": "You're pretty tall for a leprechaun.",
+        "startTime": 28304,
+        "endTime": 29513,
+        "slowStartTime": 42606,
+        "slowEndTime": 44494
+    },
+    {
+        "text": "I thought you're supposed to be short.",
+        "startTime": 29579,
+        "endTime": 30468,
+        "slowStartTime": 44519,
+        "slowEndTime": 45927
+    },
+    {
+        "text": "Probably Ireland's first great rock superstar.",
+        "startTime": 30674,
+        "endTime": 33865,
+        "slowStartTime": 46161,
+        "slowEndTime": 51023
+    },
+    {
+        "text": "Alright, here we go, getting off the bus,...",
+        "startTime": 42889,
+        "endTime": 44207,
+        "slowStartTime": 64483,
+        "slowEndTime": 66536
+    },
+    {
+        "text": "...seeing some other exciting spots.",
+        "startTime": 44516,
+        "endTime": 45690,
+        "slowStartTime": 66924,
+        "slowEndTime": 68760
+    },
+    {
+        "text": "Okay, we're at St. Stephen's Green.",
+        "startTime": 47101,
+        "endTime": 48450,
+        "slowStartTime": 70802,
+        "slowEndTime": 72900
+    },
+    {
+        "text": "We're right here in the very epicenter of the park.",
+        "startTime": 48557,
+        "endTime": 51003,
+        "slowStartTime": 72985,
+        "slowEndTime": 76730
+    },
+    {
+        "text": "Just behind us here is the ornamental duck pond.",
+        "startTime": 51298,
+        "endTime": 53140,
+        "slowStartTime": 77097,
+        "slowEndTime": 79935
+    },
+    {
+        "text": "It's very popular in the summer months with Spanish students feeding the ducks in the pond.",
+        "startTime": 53491,
+        "endTime": 57532,
+        "slowStartTime": 80386,
+        "slowEndTime": 86523
+    },
+    {
+        "text": "I'm here in Ireland at the Guinness factory.",
+        "startTime": 73939,
+        "endTime": 76829,
+        "slowStartTime": 111058,
+        "slowEndTime": 115469
+    },
+    {
+        "text": "Time to try it out.",
+        "startTime": 77401,
+        "endTime": 78091,
+        "slowStartTime": 116251,
+        "slowEndTime": 117362
+    },
+    {
+        "text": "Guinness!",
+        "startTime": 79023,
+        "endTime": 80120,
+        "slowStartTime": 118684,
+        "slowEndTime": 120405
+    },
+    {
+        "text": "I'm at Trinity College which is one of the best universities in the entire world.",
+        "startTime": 81613,
+        "endTime": 86004,
+        "slowStartTime": 122570,
+        "slowEndTime": 129231
+    },
+    {
+        "text": "And it's also home to the Book of Kells.",
+        "startTime": 86358,
+        "endTime": 88934,
+        "slowStartTime": 129687,
+        "slowEndTime": 133626
+    },
+    {
+        "text": "Wow, what a fun day!",
+        "startTime": 90381,
+        "endTime": 91458,
+        "slowStartTime": 135721,
+        "slowEndTime": 137412
+    },
+    {
+        "text": "But you know all this bus riding is making me tired.",
+        "startTime": 91588,
+        "endTime": 93995,
+        "slowStartTime": 137532,
+        "slowEndTime": 141218
+    },
+    {
+        "text": "I think it's time, time to find a pub.",
+        "startTime": 94074,
+        "endTime": 96225,
+        "slowStartTime": 141261,
+        "slowEndTime": 144562
+    }
+]

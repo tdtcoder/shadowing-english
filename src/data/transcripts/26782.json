@@ -1,0 +1,58 @@
+[
+    {
+        "text": "With no profits for seven years, Nissan had accumulated debts of 20 billion dollars.",
+        "startTime": 1097,
+        "endTime": 6557,
+        "slowStartTime": 1795,
+        "slowEndTime": 10061
+    },
+    {
+        "text": "Carlos Ghosn devised a rescue strategy.",
+        "startTime": 6926,
+        "endTime": 9229,
+        "slowStartTime": 10539,
+        "slowEndTime": 14069
+    },
+    {
+        "text": "The newly-arrived foreigner was about to make 21,000 people redundant,...",
+        "startTime": 10506,
+        "endTime": 15057,
+        "slowStartTime": 15909,
+        "slowEndTime": 22811
+    },
+    {
+        "text": "...most of them from Japan.",
+        "startTime": 15359,
+        "endTime": 16919,
+        "slowStartTime": 23189,
+        "slowEndTime": 25603
+    },
+    {
+        "text": "He blamed previous bosses for overstaffing.",
+        "startTime": 17389,
+        "endTime": 19940,
+        "slowStartTime": 26234,
+        "slowEndTime": 30135
+    },
+    {
+        "text": "With the global payroll reduced by 14 percent, Nissan's fortunes revived.",
+        "startTime": 20251,
+        "endTime": 25433,
+        "slowStartTime": 30526,
+        "slowEndTime": 38374
+    },
+    {
+        "text": "Within a year, annual profits climbed back to 2 billion dollars...",
+        "startTime": 25768,
+        "endTime": 29245,
+        "slowStartTime": 38802,
+        "slowEndTime": 44093
+    },
+    {
+        "text": "...compared to losses of 6 billion dollars the year before.",
+        "startTime": 29439,
+        "endTime": 32238,
+        "slowStartTime": 44309,
+        "slowEndTime": 48582
+    }
+]

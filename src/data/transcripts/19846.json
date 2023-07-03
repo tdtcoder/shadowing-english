@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Dude, you don't understand.",
+        "startTime": 2864,
+        "endTime": 4147,
+        "slowStartTime": 4446,
+        "slowEndTime": 6446
+    },
+    {
+        "text": "This is my dad's car.",
+        "startTime": 4273,
+        "endTime": 5408,
+        "slowStartTime": 6559,
+        "slowEndTime": 8337
+    },
+    {
+        "text": "Look at the car!",
+        "startTime": 9826,
+        "endTime": 10571,
+        "slowStartTime": 14889,
+        "slowEndTime": 16081
+    },
+    {
+        "text": "My dad's gonna kill me, dude.",
+        "startTime": 14648,
+        "endTime": 15943,
+        "slowStartTime": 22122,
+        "slowEndTime": 24140
+    },
+    {
+        "text": "The security of a 2012 IIHS Top Safety Pick.",
+        "startTime": 21981,
+        "endTime": 25649,
+        "slowStartTime": 33122,
+        "slowEndTime": 38699
+    },
+    {
+        "text": "The Volkswagen Passat.",
+        "startTime": 26075,
+        "endTime": 27331,
+        "slowStartTime": 39263,
+        "slowEndTime": 41222
+    },
+    {
+        "text": "That's the power of German engineering.",
+        "startTime": 27684,
+        "endTime": 29425,
+        "slowStartTime": 41676,
+        "slowEndTime": 44362
+    }
+]

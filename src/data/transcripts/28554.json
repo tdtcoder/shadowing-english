@@ -1,0 +1,233 @@
+[
+    {
+        "text": "﻿How much do you feel you know about my work?",
+        "startTime": 50,
+        "endTime": 2223,
+        "slowStartTime": 106,
+        "slowEndTime": 3559
+    },
+    {
+        "text": "Nothing.",
+        "startTime": 2473,
+        "endTime": 3062,
+        "slowStartTime": 3859,
+        "slowEndTime": 4818
+    },
+    {
+        "text": "What is my job title?",
+        "startTime": 7985,
+        "endTime": 9569,
+        "slowStartTime": 12127,
+        "slowEndTime": 14578
+    },
+    {
+        "text": "Baker boy?",
+        "startTime": 10387,
+        "endTime": 11250,
+        "slowStartTime": 15730,
+        "slowEndTime": 17100
+    },
+    {
+        "text": "I'm done.",
+        "startTime": 11362,
+        "endTime": 11842,
+        "slowStartTime": 17193,
+        "slowEndTime": 17988
+    },
+    {
+        "text": "You're the...",
+        "startTime": 12829,
+        "endTime": 14827,
+        "slowStartTime": 19393,
+        "slowEndTime": 22465
+    },
+    {
+        "text": "Where do I work?",
+        "startTime": 15077,
+        "endTime": 15953,
+        "slowStartTime": 22766,
+        "slowEndTime": 24155
+    },
+    {
+        "text": "You work at places with six names.",
+        "startTime": 16252,
+        "endTime": 18037,
+        "slowStartTime": 24528,
+        "slowEndTime": 27280
+    },
+    {
+        "text": "What the hell is that?",
+        "startTime": 18127,
+        "endTime": 18963,
+        "slowStartTime": 27340,
+        "slowEndTime": 28669
+    },
+    {
+        "text": "That's not the name of our company.",
+        "startTime": 19509,
+        "endTime": 20601,
+        "slowStartTime": 29414,
+        "slowEndTime": 31127
+    },
+    {
+        "text": "That's the name of our website.",
+        "startTime": 20685,
+        "endTime": 21778,
+        "slowStartTime": 31178,
+        "slowEndTime": 32892
+    },
+    {
+        "text": "What's the name of the company?",
+        "startTime": 22302,
+        "endTime": 23272,
+        "slowStartTime": 33603,
+        "slowEndTime": 35133
+    },
+    {
+        "text": "Okay, how would you describe the sort of things I do at work?",
+        "startTime": 23798,
+        "endTime": 26318,
+        "slowStartTime": 35847,
+        "slowEndTime": 39702
+    },
+    {
+        "text": "Well, I think you do all the work, I can't see the partners doing any work.",
+        "startTime": 26400,
+        "endTime": 29522,
+        "slowStartTime": 39750,
+        "slowEndTime": 44508
+    },
+    {
+        "text": "Basically, you cook stuff.",
+        "startTime": 29943,
+        "endTime": 32779,
+        "slowStartTime": 45064,
+        "slowEndTime": 49393
+    },
+    {
+        "text": "Frankly, I think in a few more years,..",
+        "startTime": 33238,
+        "endTime": 34985,
+        "slowStartTime": 50007,
+        "slowEndTime": 52702
+    },
+    {
+        "text": "...if you don't do well, you might as well pack it up.",
+        "startTime": 35059,
+        "endTime": 37021,
+        "slowStartTime": 52738,
+        "slowEndTime": 55757
+    },
+    {
+        "text": "What would your number one piece of career advice be?",
+        "startTime": 39077,
+        "endTime": 41365,
+        "slowStartTime": 58766,
+        "slowEndTime": 62273
+    },
+    {
+        "text": "Forget plan b.",
+        "startTime": 41747,
+        "endTime": 42808,
+        "slowStartTime": 62770,
+        "slowEndTime": 64437
+    },
+    {
+        "text": "Get a job.",
+        "startTime": 42959,
+        "endTime": 43497,
+        "slowStartTime": 64589,
+        "slowEndTime": 65470
+    },
+    {
+        "text": "Become a millionaire.",
+        "startTime": 43633,
+        "endTime": 44720,
+        "slowStartTime": 65599,
+        "slowEndTime": 67305
+    },
+    {
+        "text": "Am I doing the job you hoped I'd be doing?",
+        "startTime": 45117,
+        "endTime": 47837,
+        "slowStartTime": 67825,
+        "slowEndTime": 71980
+    },
+    {
+        "text": "I'm not disappointed.",
+        "startTime": 48519,
+        "endTime": 49815,
+        "slowStartTime": 72929,
+        "slowEndTime": 74948
+    },
+    {
+        "text": "Okay.",
+        "startTime": 50539,
+        "endTime": 51240,
+        "slowStartTime": 75959,
+        "slowEndTime": 77085
+    },
+    {
+        "text": "I'm just proud of you.",
+        "startTime": 51369,
+        "endTime": 52887,
+        "slowStartTime": 77204,
+        "slowEndTime": 79556
+    },
+    {
+        "text": "I know that you got quite a big job.",
+        "startTime": 53067,
+        "endTime": 55395,
+        "slowStartTime": 79751,
+        "slowEndTime": 83318
+    },
+    {
+        "text": "What do you think you would be like in my job?",
+        "startTime": 55873,
+        "endTime": 57981,
+        "slowStartTime": 83959,
+        "slowEndTime": 87197
+    },
+    {
+        "text": "I might do a bad job.",
+        "startTime": 58404,
+        "endTime": 59453,
+        "slowStartTime": 87756,
+        "slowEndTime": 89404
+    },
+    {
+        "text": "Would you like to see my workplace?",
+        "startTime": 61403,
+        "endTime": 63168,
+        "slowStartTime": 92255,
+        "slowEndTime": 94977
+    },
+    {
+        "text": "Yeah, I can do the catering!",
+        "startTime": 63283,
+        "endTime": 64837,
+        "slowStartTime": 95074,
+        "slowEndTime": 97480
+    },
+    {
+        "text": "Do we get lunch?",
+        "startTime": 65083,
+        "endTime": 66091,
+        "slowStartTime": 97775,
+        "slowEndTime": 99362
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 66655,
+        "endTime": 67529,
+        "slowStartTime": 100133,
+        "slowEndTime": 101519
+    },
+    {
+        "text": "Yeah, then I want to.",
+        "startTime": 67633,
+        "endTime": 68665,
+        "slowStartTime": 101600,
+        "slowEndTime": 103223
+    }
+]

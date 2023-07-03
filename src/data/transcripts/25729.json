@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Ninh explains the rules of kabaddi.",
+        "startTime": 106,
+        "endTime": 2363,
+        "slowStartTime": 309,
+        "slowEndTime": 3770
+    },
+    {
+        "text": "Kabaddi is an Indian sport played with two teams of 12 players,...",
+        "startTime": 2977,
+        "endTime": 6460,
+        "slowStartTime": 4615,
+        "slowEndTime": 9915
+    },
+    {
+        "text": "...with seven players taking to the court at any one time.",
+        "startTime": 6693,
+        "endTime": 9349,
+        "slowStartTime": 10190,
+        "slowEndTime": 14249
+    },
+    {
+        "text": "The game is played on a rectangular court...",
+        "startTime": 9977,
+        "endTime": 11527,
+        "slowStartTime": 15116,
+        "slowEndTime": 17516
+    },
+    {
+        "text": "...that's generally a maximum of 30 meters by 10 meters.",
+        "startTime": 11616,
+        "endTime": 14991,
+        "slowStartTime": 17574,
+        "slowEndTime": 22711
+    },
+    {
+        "text": "This is a midline that divides the court into two,...",
+        "startTime": 15141,
+        "endTime": 17657,
+        "slowStartTime": 22862,
+        "slowEndTime": 26710
+    },
+    {
+        "text": "...and these are the baulk lines, the end lines, the bonus lines...",
+        "startTime": 17863,
+        "endTime": 21561,
+        "slowStartTime": 26944,
+        "slowEndTime": 32567
+    },
+    {
+        "text": "...and this is the lobby area.",
+        "startTime": 21849,
+        "endTime": 23412,
+        "slowStartTime": 32924,
+        "slowEndTime": 35343
+    },
+    {
+        "text": "I'll explain what these are shortly.",
+        "startTime": 23847,
+        "endTime": 25389,
+        "slowStartTime": 35920,
+        "slowEndTime": 38309
+    },
+    {
+        "text": "The object of the game is for your team to score more points than the opposing team.",
+        "startTime": 26475,
+        "endTime": 29654,
+        "slowStartTime": 39863,
+        "slowEndTime": 44706
+    },
+    {
+        "text": "To score, a team must send a player, known as a raider,...",
+        "startTime": 30089,
+        "endTime": 33357,
+        "slowStartTime": 45283,
+        "slowEndTime": 50260
+    },
+    {
+        "text": "...into the opposing half of the court...",
+        "startTime": 33609,
+        "endTime": 35201,
+        "slowStartTime": 50563,
+        "slowEndTime": 53026
+    },
+    {
+        "text": "...whilst chanting the word \"kabaddi\" repeatedly.",
+        "startTime": 35483,
+        "endTime": 37713,
+        "slowStartTime": 53375,
+        "slowEndTime": 56794
+    },
+    {
+        "text": "A raider must only use one breath and chant the word \"kabaddi\" repeatedly...",
+        "startTime": 38839,
+        "endTime": 42733,
+        "slowStartTime": 58409,
+        "slowEndTime": 64325
+    },
+    {
+        "text": "...to show the referee that he is exhaling and not holding his breath.",
+        "startTime": 42978,
+        "endTime": 46183,
+        "slowStartTime": 64617,
+        "slowEndTime": 69500
+    },
+    {
+        "text": "The first goal of the raider is to reach the baulk line.",
+        "startTime": 47517,
+        "endTime": 50102,
+        "slowStartTime": 71425,
+        "slowEndTime": 75378
+    },
+    {
+        "text": "Failure to do this results in the raider being out,...",
+        "startTime": 50931,
+        "endTime": 53357,
+        "slowStartTime": 76546,
+        "slowEndTime": 80260
+    },
+    {
+        "text": "...and cannot participate in the next part of the game.",
+        "startTime": 53513,
+        "endTime": 55896,
+        "slowStartTime": 80420,
+        "slowEndTime": 84069
+    },
+    {
+        "text": "The second goal of the raider is to touch as many players as he can...",
+        "startTime": 56980,
+        "endTime": 59572,
+        "slowStartTime": 85620,
+        "slowEndTime": 89583
+    },
+    {
+        "text": "...and make it back to the midline before he is caught and tackled by the defenders.",
+        "startTime": 59707,
+        "endTime": 63668,
+        "slowStartTime": 89711,
+        "slowEndTime": 95727
+    },
+    {
+        "text": "He can do this in several ways.",
+        "startTime": 64599,
+        "endTime": 66215,
+        "slowStartTime": 97049,
+        "slowEndTime": 99547
+    },
+    {
+        "text": "With a hand touch, a toe touch, a kick...",
+        "startTime": 66679,
+        "endTime": 70283,
+        "slowStartTime": 100168,
+        "slowEndTime": 105649
+    },
+    {
+        "text": "...or by trying to escape a tackle and reaching for the midline.",
+        "startTime": 70716,
+        "endTime": 73368,
+        "slowStartTime": 106224,
+        "slowEndTime": 110277
+    },
+    {
+        "text": "He gets one point for every opposing defender that he touches...",
+        "startTime": 74183,
+        "endTime": 77101,
+        "slowStartTime": 111424,
+        "slowEndTime": 115877
+    },
+    {
+        "text": "...so long as he makes it back to the midline,...",
+        "startTime": 77279,
+        "endTime": 78867,
+        "slowStartTime": 116068,
+        "slowEndTime": 118526
+    },
+    {
+        "text": "...all whilst repeatedly chanting the word \"kabaddi.\"",
+        "startTime": 79145,
+        "endTime": 81478,
+        "slowStartTime": 118867,
+        "slowEndTime": 122442
+    },
+    {
+        "text": "And any touched defenders are out and cannot participate in the next round of play.",
+        "startTime": 82441,
+        "endTime": 87056,
+        "slowStartTime": 123811,
+        "slowEndTime": 130809
+    }
+]

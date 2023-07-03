@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Hey, I love your shoes.",
+        "startTime": 142,
+        "endTime": 2307,
+        "slowStartTime": 363,
+        "slowEndTime": 3686
+    },
+    {
+        "text": "Thank you! I just got them.",
+        "startTime": 2433,
+        "endTime": 3831,
+        "slowStartTime": 3800,
+        "slowEndTime": 5971
+    },
+    {
+        "text": "I'm Jess.",
+        "startTime": 4272,
+        "endTime": 4938,
+        "slowStartTime": 6558,
+        "slowEndTime": 7632
+    },
+    {
+        "text": "Ria.",
+        "startTime": 5235,
+        "endTime": 5797,
+        "slowStartTime": 8002,
+        "slowEndTime": 8920
+    },
+    {
+        "text": "So, what brings you here?",
+        "startTime": 9873,
+        "endTime": 10853,
+        "slowStartTime": 14960,
+        "slowEndTime": 16504
+    },
+    {
+        "text": "I'm actually a buyer.",
+        "startTime": 11089,
+        "endTime": 11861,
+        "slowStartTime": 16783,
+        "slowEndTime": 18016
+    },
+    {
+        "text": "I'm a sales associate.",
+        "startTime": 12056,
+        "endTime": 13200,
+        "slowStartTime": 18234,
+        "slowEndTime": 20025
+    },
+    {
+        "text": "Cool!",
+        "startTime": 13479,
+        "endTime": 13944,
+        "slowStartTime": 20369,
+        "slowEndTime": 21141
+    },
+    {
+        "text": "Ben!",
+        "startTime": 14211,
+        "endTime": 14747,
+        "slowStartTime": 21466,
+        "slowEndTime": 22346
+    },
+    {
+        "text": "I haven't seen you since we worked together.",
+        "startTime": 14885,
+        "endTime": 17021,
+        "slowStartTime": 22478,
+        "slowEndTime": 25757
+    },
+    {
+        "text": "How are you?",
+        "startTime": 17193,
+        "endTime": 18091,
+        "slowStartTime": 25939,
+        "slowEndTime": 27362
+    },
+    {
+        "text": "Oh, I'm great!",
+        "startTime": 21902,
+        "endTime": 23019,
+        "slowStartTime": 33003,
+        "slowEndTime": 34753
+    },
+    {
+        "text": "I'm actually managing another boutique not too far from here.",
+        "startTime": 23218,
+        "endTime": 25311,
+        "slowStartTime": 34977,
+        "slowEndTime": 38192
+    },
+    {
+        "text": "Hey, do you happen to need any sales associates or stylists even?",
+        "startTime": 25462,
+        "endTime": 29789,
+        "slowStartTime": 38343,
+        "slowEndTime": 44908
+    },
+    {
+        "text": "I'm looking.",
+        "startTime": 30027,
+        "endTime": 30571,
+        "slowStartTime": 45191,
+        "slowEndTime": 46081
+    },
+    {
+        "text": "Oh yeah? I'll pass along your info.",
+        "startTime": 30906,
+        "endTime": 32478,
+        "slowStartTime": 46509,
+        "slowEndTime": 48942
+    },
+    {
+        "text": "Do you have any business cards?",
+        "startTime": 32825,
+        "endTime": 33903,
+        "slowStartTime": 49387,
+        "slowEndTime": 51080
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 34049,
+        "endTime": 34752,
+        "slowStartTime": 51223,
+        "slowEndTime": 52353
+    },
+    {
+        "text": "Ria!",
+        "startTime": 39350,
+        "endTime": 40451,
+        "slowStartTime": 59175,
+        "slowEndTime": 60901
+    },
+    {
+        "text": "Ben, this is Ria.",
+        "startTime": 41798,
+        "endTime": 43723,
+        "slowStartTime": 62847,
+        "slowEndTime": 65810
+    }
+]

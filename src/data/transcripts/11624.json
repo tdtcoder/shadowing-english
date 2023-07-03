@@ -1,0 +1,247 @@
+[
+    {
+        "text": "We had a very simple focus, an idea.",
+        "startTime": 5500,
+        "endTime": 7317,
+        "slowStartTime": 8400,
+        "slowEndTime": 11200
+    },
+    {
+        "text": "The goal wasn't to make a huge community site,...",
+        "startTime": 7467,
+        "endTime": 9450,
+        "slowStartTime": 11350,
+        "slowEndTime": 14400
+    },
+    {
+        "text": "...it's to make something where you could type in someone's name and find out a bunch of information about them.",
+        "startTime": 9900,
+        "endTime": 13983,
+        "slowStartTime": 15000,
+        "slowEndTime": 21200
+    },
+    {
+        "text": "I don't know, I took a few days,...",
+        "startTime": 15700,
+        "endTime": 17087,
+        "slowStartTime": 23700,
+        "slowEndTime": 25855
+    },
+    {
+        "text": "...and just threw together Facebook and launched it on February 4th, 2004.",
+        "startTime": 17173,
+        "endTime": 20383,
+        "slowStartTime": 25909,
+        "slowEndTime": 30800
+    },
+    {
+        "text": "It was just me working on it that time.",
+        "startTime": 20633,
+        "endTime": 22017,
+        "slowStartTime": 31100,
+        "slowEndTime": 33250
+    },
+    {
+        "text": "But at that point, my roommate Dustin,...",
+        "startTime": 22500,
+        "endTime": 23972,
+        "slowStartTime": 33900,
+        "slowEndTime": 36183
+    },
+    {
+        "text": "...who hadn't had much computer programming experience at all was like,...",
+        "startTime": 24409,
+        "endTime": 27250,
+        "slowStartTime": 36763,
+        "slowEndTime": 41100
+    },
+    {
+        "text": "...\"You know, I can help you expand.\"",
+        "startTime": 27733,
+        "endTime": 28650,
+        "slowStartTime": 41750,
+        "slowEndTime": 43200
+    },
+    {
+        "text": "Then I'm like, \"That's cool dude, but you don't know how to program.\"",
+        "startTime": 28731,
+        "endTime": 31017,
+        "slowStartTime": 43246,
+        "slowEndTime": 46750
+    },
+    {
+        "text": "So, he's like, \"No, no, it's not an issue.\"",
+        "startTime": 32567,
+        "endTime": 34217,
+        "slowStartTime": 49000,
+        "slowEndTime": 51550
+    },
+    {
+        "text": "And he went home one weekend, bought the book Perl for Dummies,...",
+        "startTime": 34300,
+        "endTime": 37417,
+        "slowStartTime": 51600,
+        "slowEndTime": 56350
+    },
+    {
+        "text": "..came back and was like, \"Alright, I'm ready.\"",
+        "startTime": 37700,
+        "endTime": 38983,
+        "slowStartTime": 56700,
+        "slowEndTime": 58700
+    },
+    {
+        "text": "And then we started getting emails from people at a bunch of other schools asking if we can launch Facebooks there.",
+        "startTime": 39233,
+        "endTime": 43217,
+        "slowStartTime": 59000,
+        "slowEndTime": 65050
+    },
+    {
+        "text": "In the last tech bubble, most websites were run using these really expensive machines...",
+        "startTime": 43733,
+        "endTime": 48783,
+        "slowStartTime": 65750,
+        "slowEndTime": 73400
+    },
+    {
+        "text": "...which made it that you had to basically go and raise money before you can do anything.",
+        "startTime": 48967,
+        "endTime": 53550,
+        "slowStartTime": 73600,
+        "slowEndTime": 80550
+    },
+    {
+        "text": "We ran the site originally for $85 a month,...",
+        "startTime": 53800,
+        "endTime": 56183,
+        "slowStartTime": 80850,
+        "slowEndTime": 84500
+    },
+    {
+        "text": "...renting computers for the first three months.",
+        "startTime": 56367,
+        "endTime": 58283,
+        "slowStartTime": 84700,
+        "slowEndTime": 87650
+    },
+    {
+        "text": "Were you ever in debt?",
+        "startTime": 58400,
+        "endTime": 59050,
+        "slowStartTime": 87750,
+        "slowEndTime": 88800
+    },
+    {
+        "text": "I mean I was in debt $160, you know.",
+        "startTime": 60500,
+        "endTime": 64383,
+        "slowStartTime": 90900,
+        "slowEndTime": 96800
+    },
+    {
+        "text": "There are big sites on the internet.",
+        "startTime": 71700,
+        "endTime": 73117,
+        "slowStartTime": 107700,
+        "slowEndTime": 109900
+    },
+    {
+        "text": "They're like, \"15% of our users come back monthly.\"",
+        "startTime": 73467,
+        "endTime": 75983,
+        "slowStartTime": 110350,
+        "slowEndTime": 114200
+    },
+    {
+        "text": "And we're like, \"Alright, that's cool. Like 70% of our users come back every day.\"",
+        "startTime": 76100,
+        "endTime": 79050,
+        "slowStartTime": 114300,
+        "slowEndTime": 118800
+    },
+    {
+        "text": "I think I have like, 15,000 pending friend requests.",
+        "startTime": 80467,
+        "endTime": 83117,
+        "slowStartTime": 120850,
+        "slowEndTime": 124900
+    },
+    {
+        "text": "And whenever I open up that page, the site crashes.",
+        "startTime": 83400,
+        "endTime": 85517,
+        "slowStartTime": 125250,
+        "slowEndTime": 128500
+    },
+    {
+        "text": "So, I gave up on that.",
+        "startTime": 86033,
+        "endTime": 87267,
+        "slowStartTime": 129199,
+        "slowEndTime": 131125
+    },
+    {
+        "text": "Do you feel trapped or liberated in today's technology?",
+        "startTime": 87900,
+        "endTime": 89883,
+        "slowStartTime": 132000,
+        "slowEndTime": 135050
+    },
+    {
+        "text": "I don't know.",
+        "startTime": 90267,
+        "endTime": 90750,
+        "slowStartTime": 135550,
+        "slowEndTime": 136350
+    },
+    {
+        "text": "I guess it's a little bit of both.",
+        "startTime": 91300,
+        "endTime": 92683,
+        "slowStartTime": 137100,
+        "slowEndTime": 139250
+    },
+    {
+        "text": "I mean, I spend a lot of my time at the office.",
+        "startTime": 92833,
+        "endTime": 94583,
+        "slowStartTime": 139400,
+        "slowEndTime": 142100
+    },
+    {
+        "text": "And then, I have a studio apartment a couple of blocks away,...",
+        "startTime": 94667,
+        "endTime": 97850,
+        "slowStartTime": 142150,
+        "slowEndTime": 147000
+    },
+    {
+        "text": "...where it's just my bed, and like, a table and a chair and a teapot.",
+        "startTime": 98233,
+        "endTime": 103050,
+        "slowStartTime": 147500,
+        "slowEndTime": 154800
+    },
+    {
+        "text": "And I don't even have internet access at my apartment,...",
+        "startTime": 103167,
+        "endTime": 105917,
+        "slowStartTime": 154900,
+        "slowEndTime": 159100
+    },
+    {
+        "text": "...so I don't know, I'm pretty like, isolated from wherever I need to be.",
+        "startTime": 106033,
+        "endTime": 108483,
+        "slowStartTime": 159200,
+        "slowEndTime": 162950
+    },
+    {
+        "text": "Either that or the fact that I'm too lazy to get internet access.",
+        "startTime": 108767,
+        "endTime": 111483,
+        "slowStartTime": 163300,
+        "slowEndTime": 167450
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "text": "You've just seen some pictures of Macintosh.",
+        "startTime": 3017,
+        "endTime": 5152,
+        "slowStartTime": 4676,
+        "slowEndTime": 7953
+    },
+    {
+        "text": "Now, I'd like to show you Macintosh in person.",
+        "startTime": 6474,
+        "endTime": 8335,
+        "slowStartTime": 9861,
+        "slowEndTime": 12728
+    },
+    {
+        "text": "I think the way out is not to slash and burn; it's to innovate.",
+        "startTime": 19292,
+        "endTime": 22231,
+        "slowStartTime": 29088,
+        "slowEndTime": 33572
+    },
+    {
+        "text": "That's how Apple got to its glory and I think that's how Apple could return to it.",
+        "startTime": 22615,
+        "endTime": 26401,
+        "slowStartTime": 34073,
+        "slowEndTime": 39826
+    }
+]

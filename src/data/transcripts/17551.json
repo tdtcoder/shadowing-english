@@ -1,0 +1,156 @@
+[
+    {
+        "text": "Polly got out of her cage.",
+        "startTime": 2375,
+        "endTime": 4541,
+        "slowStartTime": 3713,
+        "slowEndTime": 7036
+    },
+    {
+        "text": "She flew out the door.",
+        "startTime": 5471,
+        "endTime": 7121,
+        "slowStartTime": 8356,
+        "slowEndTime": 10906
+    },
+    {
+        "text": "Polly flew over the trees.",
+        "startTime": 8643,
+        "endTime": 10885,
+        "slowStartTime": 13114,
+        "slowEndTime": 16552
+    },
+    {
+        "text": "She saw some houses.",
+        "startTime": 11906,
+        "endTime": 13723,
+        "slowStartTime": 18009,
+        "slowEndTime": 20809
+    },
+    {
+        "text": "Polly flew over the houses.",
+        "startTime": 15201,
+        "endTime": 17393,
+        "slowStartTime": 22952,
+        "slowEndTime": 26314
+    },
+    {
+        "text": "She saw a path.",
+        "startTime": 18809,
+        "endTime": 20311,
+        "slowStartTime": 28363,
+        "slowEndTime": 30691
+    },
+    {
+        "text": "Polly flew over the path.",
+        "startTime": 21585,
+        "endTime": 23660,
+        "slowStartTime": 32527,
+        "slowEndTime": 35715
+    },
+    {
+        "text": "She saw a pond.",
+        "startTime": 24896,
+        "endTime": 26432,
+        "slowStartTime": 37494,
+        "slowEndTime": 39873
+    },
+    {
+        "text": "Polly flew over the pond.",
+        "startTime": 28033,
+        "endTime": 30017,
+        "slowStartTime": 42200,
+        "slowEndTime": 45251
+    },
+    {
+        "text": "She saw a playground.",
+        "startTime": 31620,
+        "endTime": 33190,
+        "slowStartTime": 47580,
+        "slowEndTime": 50010
+    },
+    {
+        "text": "Polly flew over the playground.",
+        "startTime": 34633,
+        "endTime": 36795,
+        "slowStartTime": 52100,
+        "slowEndTime": 55417
+    },
+    {
+        "text": "She saw some flowers.",
+        "startTime": 38175,
+        "endTime": 39899,
+        "slowStartTime": 57412,
+        "slowEndTime": 60074
+    },
+    {
+        "text": "Polly flew over the flowers.",
+        "startTime": 41130,
+        "endTime": 43215,
+        "slowStartTime": 61845,
+        "slowEndTime": 65048
+    },
+    {
+        "text": "She saw some children.",
+        "startTime": 44710,
+        "endTime": 46247,
+        "slowStartTime": 67215,
+        "slowEndTime": 69595
+    },
+    {
+        "text": "Polly flew over the children.",
+        "startTime": 47717,
+        "endTime": 49638,
+        "slowStartTime": 71726,
+        "slowEndTime": 74682
+    },
+    {
+        "text": "She saw a cat.",
+        "startTime": 51245,
+        "endTime": 52617,
+        "slowStartTime": 77017,
+        "slowEndTime": 79150
+    },
+    {
+        "text": "Squawk!",
+        "startTime": 54089,
+        "endTime": 54721,
+        "slowStartTime": 81284,
+        "slowEndTime": 82306
+    },
+    {
+        "text": "Said Polly.",
+        "startTime": 56365,
+        "endTime": 57311,
+        "slowStartTime": 84698,
+        "slowEndTime": 86192
+    },
+    {
+        "text": "Polly flew back home.",
+        "startTime": 58842,
+        "endTime": 60491,
+        "slowStartTime": 88413,
+        "slowEndTime": 90961
+    },
+    {
+        "text": "Polly flew into her cage.",
+        "startTime": 61944,
+        "endTime": 64109,
+        "slowStartTime": 93066,
+        "slowEndTime": 96388
+    },
+    {
+        "text": "Phew!",
+        "startTime": 65444,
+        "endTime": 65833,
+        "slowStartTime": 98316,
+        "slowEndTime": 98975
+    },
+    {
+        "text": "Polly was safe.",
+        "startTime": 66475,
+        "endTime": 67841,
+        "slowStartTime": 99863,
+        "slowEndTime": 101987
+    }
+]

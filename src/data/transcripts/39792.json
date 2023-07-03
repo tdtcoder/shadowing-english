@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Excuse me, Dr. Lynne?",
+        "startTime": 327,
+        "endTime": 1981,
+        "slowStartTime": 640,
+        "slowEndTime": 3197
+    },
+    {
+        "text": "Could we go over your schedule for today?",
+        "startTime": 2149,
+        "endTime": 3907,
+        "slowStartTime": 3373,
+        "slowEndTime": 6085
+    },
+    {
+        "text": "At 12:30, Dr. Carrington will be stopping by to discuss some things,...",
+        "startTime": 4333,
+        "endTime": 8714,
+        "slowStartTime": 6649,
+        "slowEndTime": 13296
+    },
+    {
+        "text": "...but you can't talk to him for long.",
+        "startTime": 9069,
+        "endTime": 10918,
+        "slowStartTime": 13753,
+        "slowEndTime": 16602
+    },
+    {
+        "text": "You have a meeting at 1:00,...",
+        "startTime": 11238,
+        "endTime": 12637,
+        "slowStartTime": 17007,
+        "slowEndTime": 19180
+    },
+    {
+        "text": "...and that should last for about half an hour.",
+        "startTime": 13021,
+        "endTime": 15114,
+        "slowStartTime": 19682,
+        "slowEndTime": 22896
+    },
+    {
+        "text": "I'll be here until 3:30 to answer any calls.",
+        "startTime": 15593,
+        "endTime": 18115,
+        "slowStartTime": 23540,
+        "slowEndTime": 27397
+    }
+]

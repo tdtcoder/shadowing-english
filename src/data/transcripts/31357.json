@@ -1,0 +1,65 @@
+[
+    {
+        "text": "﻿The horse runs fast.",
+        "startTime": 5135,
+        "endTime": 6987,
+        "slowStartTime": 7852,
+        "slowEndTime": 10705
+    },
+    {
+        "text": "He arrives late for work.",
+        "startTime": 8385,
+        "endTime": 10067,
+        "slowStartTime": 12727,
+        "slowEndTime": 15326
+    },
+    {
+        "text": "Karen is pulling hard.",
+        "startTime": 11487,
+        "endTime": 13391,
+        "slowStartTime": 17381,
+        "slowEndTime": 20312
+    },
+    {
+        "text": "How does the horse run?",
+        "startTime": 19972,
+        "endTime": 21348,
+        "slowStartTime": 30108,
+        "slowEndTime": 32247
+    },
+    {
+        "text": "The horse runs fast.",
+        "startTime": 22109,
+        "endTime": 23614,
+        "slowStartTime": 33313,
+        "slowEndTime": 35646
+    },
+    {
+        "text": "How is Karen pulling?",
+        "startTime": 25097,
+        "endTime": 26401,
+        "slowStartTime": 37795,
+        "slowEndTime": 39826
+    },
+    {
+        "text": "Karen is pulling hard.",
+        "startTime": 27167,
+        "endTime": 28732,
+        "slowStartTime": 40900,
+        "slowEndTime": 43323
+    },
+    {
+        "text": "How did Dad cook?",
+        "startTime": 30199,
+        "endTime": 31380,
+        "slowStartTime": 45449,
+        "slowEndTime": 47295
+    },
+    {
+        "text": "Dad didn't cook well.",
+        "startTime": 32121,
+        "endTime": 33354,
+        "slowStartTime": 48331,
+        "slowEndTime": 50256
+    }
+]

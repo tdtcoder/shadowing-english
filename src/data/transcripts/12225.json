@@ -1,0 +1,107 @@
+[
+    {
+        "text": "I was invited to a big party this evening.",
+        "startTime": 2525,
+        "endTime": 5004,
+        "slowStartTime": 3937,
+        "slowEndTime": 7731
+    },
+    {
+        "text": "Sounds great! Who's giving it?",
+        "startTime": 5244,
+        "endTime": 7209,
+        "slowStartTime": 8016,
+        "slowEndTime": 11038
+    },
+    {
+        "text": "One of the people at work.",
+        "startTime": 7453,
+        "endTime": 8754,
+        "slowStartTime": 11330,
+        "slowEndTime": 13356
+    },
+    {
+        "text": "I think there will be mostly people from the company there.",
+        "startTime": 9118,
+        "endTime": 11851,
+        "slowStartTime": 13827,
+        "slowEndTime": 18002
+    },
+    {
+        "text": "I'm sure a lot of other people will show up as well.",
+        "startTime": 12114,
+        "endTime": 15328,
+        "slowStartTime": 18321,
+        "slowEndTime": 23217
+    },
+    {
+        "text": "They said it's \"semiformal\". What does that mean, exactly?",
+        "startTime": 15827,
+        "endTime": 19240,
+        "slowStartTime": 23890,
+        "slowEndTime": 29085
+    },
+    {
+        "text": "Well,...",
+        "startTime": 19487,
+        "endTime": 19863,
+        "slowStartTime": 29381,
+        "slowEndTime": 30020
+    },
+    {
+        "text": "...semiformal usually means that you aren't supposed to wear jeans or sneakers.",
+        "startTime": 19979,
+        "endTime": 24377,
+        "slowStartTime": 30118,
+        "slowEndTime": 36791
+    },
+    {
+        "text": "Okay. What about the shirt?",
+        "startTime": 24603,
+        "endTime": 26610,
+        "slowStartTime": 37055,
+        "slowEndTime": 40140
+    },
+    {
+        "text": "You should have a collared shirt, but a tie isn't necessary.",
+        "startTime": 26859,
+        "endTime": 30209,
+        "slowStartTime": 40438,
+        "slowEndTime": 45538
+    },
+    {
+        "text": "Right, I think I understand.",
+        "startTime": 30378,
+        "endTime": 32151,
+        "slowStartTime": 45717,
+        "slowEndTime": 48451
+    },
+    {
+        "text": "Anything else I should know before I go?",
+        "startTime": 32468,
+        "endTime": 34717,
+        "slowStartTime": 48852,
+        "slowEndTime": 52301
+    },
+    {
+        "text": "Yes, be sure to bring some sort of gift for the host or hostess.",
+        "startTime": 34855,
+        "endTime": 38630,
+        "slowStartTime": 52433,
+        "slowEndTime": 58170
+    },
+    {
+        "text": "Such as?",
+        "startTime": 38929,
+        "endTime": 39617,
+        "slowStartTime": 58544,
+        "slowEndTime": 59651
+    },
+    {
+        "text": "A bottle of wine or some flowers would be perfect.",
+        "startTime": 39823,
+        "endTime": 42967,
+        "slowStartTime": 59884,
+        "slowEndTime": 64676
+    }
+]

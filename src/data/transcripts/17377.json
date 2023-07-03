@@ -1,0 +1,156 @@
+[
+    {
+        "text": "I like popcorn.",
+        "startTime": 2629,
+        "endTime": 4113,
+        "slowStartTime": 4094,
+        "slowEndTime": 6395
+    },
+    {
+        "text": "Yummy, yummy.",
+        "startTime": 5155,
+        "endTime": 6423,
+        "slowStartTime": 7882,
+        "slowEndTime": 9859
+    },
+    {
+        "text": "I like pizza.",
+        "startTime": 7393,
+        "endTime": 8863,
+        "slowStartTime": 11240,
+        "slowEndTime": 13520
+    },
+    {
+        "text": "Yummy, yummy.",
+        "startTime": 9894,
+        "endTime": 11233,
+        "slowStartTime": 14991,
+        "slowEndTime": 17075
+    },
+    {
+        "text": "I like bread and jam.",
+        "startTime": 12231,
+        "endTime": 14290,
+        "slowStartTime": 18497,
+        "slowEndTime": 21660
+    },
+    {
+        "text": "Yummy, yummy.",
+        "startTime": 15298,
+        "endTime": 16637,
+        "slowStartTime": 23097,
+        "slowEndTime": 25181
+    },
+    {
+        "text": "I like apples and bananas.",
+        "startTime": 17668,
+        "endTime": 20135,
+        "slowStartTime": 26652,
+        "slowEndTime": 30427
+    },
+    {
+        "text": "Yummy, yummy.",
+        "startTime": 21149,
+        "endTime": 22421,
+        "slowStartTime": 31874,
+        "slowEndTime": 33857
+    },
+    {
+        "text": "I like corn on the cob.",
+        "startTime": 23436,
+        "endTime": 25396,
+        "slowStartTime": 35304,
+        "slowEndTime": 38319
+    },
+    {
+        "text": "Yummy, yummy.",
+        "startTime": 26427,
+        "endTime": 27684,
+        "slowStartTime": 39790,
+        "slowEndTime": 41751
+    },
+    {
+        "text": "I like carrots and peas",
+        "startTime": 28715,
+        "endTime": 30985,
+        "slowStartTime": 43222,
+        "slowEndTime": 46703
+    },
+    {
+        "text": "Yummy, yummy.",
+        "startTime": 32016,
+        "endTime": 33225,
+        "slowStartTime": 48174,
+        "slowEndTime": 50062
+    },
+    {
+        "text": "I like cookies and milk.",
+        "startTime": 34217,
+        "endTime": 36455,
+        "slowStartTime": 51475,
+        "slowEndTime": 54908
+    },
+    {
+        "text": "Yummy, yummy.",
+        "startTime": 37502,
+        "endTime": 38864,
+        "slowStartTime": 56403,
+        "slowEndTime": 58521
+    },
+    {
+        "text": "I don't like lima beans.",
+        "startTime": 39839,
+        "endTime": 42073,
+        "slowStartTime": 59909,
+        "slowEndTime": 63335
+    },
+    {
+        "text": "Yucky, yucky.",
+        "startTime": 43039,
+        "endTime": 44670,
+        "slowStartTime": 64709,
+        "slowEndTime": 67230
+    },
+    {
+        "text": "My mom likes popcorn. But she doesn't like corn.",
+        "startTime": 48068,
+        "endTime": 52121,
+        "slowStartTime": 72252,
+        "slowEndTime": 78406
+    },
+    {
+        "text": "My dad likes apples. But he doesn't like bananas.",
+        "startTime": 53135,
+        "endTime": 57009,
+        "slowStartTime": 79852,
+        "slowEndTime": 85738
+    },
+    {
+        "text": "Does Amy like cookies?",
+        "startTime": 57941,
+        "endTime": 59559,
+        "slowStartTime": 87062,
+        "slowEndTime": 89563
+    },
+    {
+        "text": "No, she doesn't like cookies.",
+        "startTime": 60547,
+        "endTime": 63031,
+        "slowStartTime": 90971,
+        "slowEndTime": 94771
+    },
+    {
+        "text": "Does Paul like beans?",
+        "startTime": 64061,
+        "endTime": 65705,
+        "slowStartTime": 96242,
+        "slowEndTime": 98782
+    },
+    {
+        "text": "No, he doesn't like beans. But he likes peas.",
+        "startTime": 66701,
+        "endTime": 70983,
+        "slowStartTime": 100202,
+        "slowEndTime": 106699
+    }
+]

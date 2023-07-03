@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Hello.",
+        "startTime": 5483,
+        "endTime": 6129,
+        "slowStartTime": 8374,
+        "slowEndTime": 9418
+    },
+    {
+        "text": "Hello.",
+        "startTime": 10491,
+        "endTime": 11109,
+        "slowStartTime": 15887,
+        "slowEndTime": 16888
+    },
+    {
+        "text": "Hi there!",
+        "startTime": 12005,
+        "endTime": 12686,
+        "slowStartTime": 18157,
+        "slowEndTime": 19254
+    },
+    {
+        "text": "How are you?",
+        "startTime": 13010,
+        "endTime": 13749,
+        "slowStartTime": 19665,
+        "slowEndTime": 20849
+    },
+    {
+        "text": "I love New York.",
+        "startTime": 14631,
+        "endTime": 15550,
+        "slowStartTime": 22097,
+        "slowEndTime": 23550
+    },
+    {
+        "text": "I love Amsterdam.",
+        "startTime": 15687,
+        "endTime": 16861,
+        "slowStartTime": 23681,
+        "slowEndTime": 25516
+    },
+    {
+        "text": "It's awesome.",
+        "startTime": 16955,
+        "endTime": 17689,
+        "slowStartTime": 25583,
+        "slowEndTime": 26759
+    },
+    {
+        "text": "If we high-five the screen together at the same time,...",
+        "startTime": 17912,
+        "endTime": 21509,
+        "slowStartTime": 27018,
+        "slowEndTime": 32488
+    },
+    {
+        "text": "...we can both win two tickets from New York to Amsterdam.",
+        "startTime": 21582,
+        "endTime": 24869,
+        "slowStartTime": 32523,
+        "slowEndTime": 37529
+    },
+    {
+        "text": "Here we go!",
+        "startTime": 25415,
+        "endTime": 26153,
+        "slowStartTime": 38272,
+        "slowEndTime": 39455
+    },
+    {
+        "text": "High-five!",
+        "startTime": 27972,
+        "endTime": 28701,
+        "slowStartTime": 42108,
+        "slowEndTime": 43276
+    },
+    {
+        "text": "What's up, buddy?",
+        "startTime": 29667,
+        "endTime": 30585,
+        "slowStartTime": 44651,
+        "slowEndTime": 46103
+    },
+    {
+        "text": "It's not bad.",
+        "startTime": 30863,
+        "endTime": 31463,
+        "slowStartTime": 46445,
+        "slowEndTime": 47419
+    },
+    {
+        "text": "Oh, almost.",
+        "startTime": 31539,
+        "endTime": 32558,
+        "slowStartTime": 47458,
+        "slowEndTime": 49062
+    },
+    {
+        "text": "Oh my god, we won two tickets to Amsterdam.",
+        "startTime": 34536,
+        "endTime": 36673,
+        "slowStartTime": 51954,
+        "slowEndTime": 55234
+    },
+    {
+        "text": "Congratulations.",
+        "startTime": 40431,
+        "endTime": 41745,
+        "slowStartTime": 60797,
+        "slowEndTime": 62842
+    }
+]

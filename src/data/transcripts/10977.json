@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Dear diary,...",
+        "startTime": 700,
+        "endTime": 1850,
+        "slowStartTime": 1300,
+        "slowEndTime": 3000
+    },
+    {
+        "text": "Love bites.",
+        "startTime": 2550,
+        "endTime": 3875,
+        "slowStartTime": 4050,
+        "slowEndTime": 6050
+    },
+    {
+        "text": "Sometimes, it can make you feel like it's the greatest thing in the world.",
+        "startTime": 4300,
+        "endTime": 7950,
+        "slowStartTime": 6700,
+        "slowEndTime": 12200
+    },
+    {
+        "text": "It can make you feel safe.",
+        "startTime": 8400,
+        "endTime": 9650,
+        "slowStartTime": 12800,
+        "slowEndTime": 14800
+    },
+    {
+        "text": "It can make you forget everything,...",
+        "startTime": 10050,
+        "endTime": 11550,
+        "slowStartTime": 15300,
+        "slowEndTime": 17500
+    },
+    {
+        "text": "...like you could start all over again.",
+        "startTime": 12100,
+        "endTime": 13700,
+        "slowStartTime": 18300,
+        "slowEndTime": 20750
+    },
+    {
+        "text": "But love can also make you feel out of control,...",
+        "startTime": 14800,
+        "endTime": 17800,
+        "slowStartTime": 22400,
+        "slowEndTime": 27000
+    },
+    {
+        "text": "...scared,...",
+        "startTime": 18500,
+        "endTime": 19225,
+        "slowStartTime": 27900,
+        "slowEndTime": 29100
+    },
+    {
+        "text": "...like it's eating away at you until there's nothing left.",
+        "startTime": 19900,
+        "endTime": 22600,
+        "slowStartTime": 30000,
+        "slowEndTime": 34100
+    },
+    {
+        "text": "Love really sucks.",
+        "startTime": 23550,
+        "endTime": 24900,
+        "slowStartTime": 35500,
+        "slowEndTime": 37600
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "text": "﻿Hello?",
+        "startTime": 144,
+        "endTime": 677,
+        "slowStartTime": 366,
+        "slowEndTime": 1241
+    },
+    {
+        "text": "Hey, Amanda.",
+        "startTime": 1040,
+        "endTime": 1844,
+        "slowStartTime": 1710,
+        "slowEndTime": 2991
+    },
+    {
+        "text": "How are you?",
+        "startTime": 2089,
+        "endTime": 2650,
+        "slowStartTime": 3283,
+        "slowEndTime": 4200
+    },
+    {
+        "text": "Not so good.",
+        "startTime": 3147,
+        "endTime": 4221,
+        "slowStartTime": 4871,
+        "slowEndTime": 6557
+    },
+    {
+        "text": "Why not?",
+        "startTime": 4615,
+        "endTime": 5275,
+        "slowStartTime": 7072,
+        "slowEndTime": 8138
+    },
+    {
+        "text": "What happened?",
+        "startTime": 6275,
+        "endTime": 6916,
+        "slowStartTime": 9562,
+        "slowEndTime": 10599
+    },
+    {
+        "text": "We had a big storm last night and my house is damaged badly.",
+        "startTime": 7453,
+        "endTime": 11644,
+        "slowStartTime": 11330,
+        "slowEndTime": 17691
+    },
+    {
+        "text": "Oh my god.",
+        "startTime": 12153,
+        "endTime": 12982,
+        "slowStartTime": 18380,
+        "slowEndTime": 19698
+    },
+    {
+        "text": "Are you and your family okay?",
+        "startTime": 13303,
+        "endTime": 14768,
+        "slowStartTime": 20104,
+        "slowEndTime": 22377
+    },
+    {
+        "text": "We are all right but there are things that need to be fixed.",
+        "startTime": 15295,
+        "endTime": 18545,
+        "slowStartTime": 23092,
+        "slowEndTime": 28042
+    },
+    {
+        "text": "It must have been a really huge storm.",
+        "startTime": 18857,
+        "endTime": 21028,
+        "slowStartTime": 28436,
+        "slowEndTime": 31767
+    },
+    {
+        "text": "Yes, it was.",
+        "startTime": 21227,
+        "endTime": 22485,
+        "slowStartTime": 31991,
+        "slowEndTime": 33952
+    },
+    {
+        "text": "All the windows are broken, first of all.",
+        "startTime": 22839,
+        "endTime": 25096,
+        "slowStartTime": 34409,
+        "slowEndTime": 37869
+    },
+    {
+        "text": "Every single one of them?",
+        "startTime": 25545,
+        "endTime": 26958,
+        "slowStartTime": 38467,
+        "slowEndTime": 40662
+    },
+    {
+        "text": "Yes.",
+        "startTime": 27236,
+        "endTime": 27763,
+        "slowStartTime": 41004,
+        "slowEndTime": 41870
+    },
+    {
+        "text": "Second, the roof is leaking and the wall is cracked.",
+        "startTime": 28041,
+        "endTime": 31481,
+        "slowStartTime": 42212,
+        "slowEndTime": 47447
+    },
+    {
+        "text": "Oh my god.",
+        "startTime": 31779,
+        "endTime": 33293,
+        "slowStartTime": 47818,
+        "slowEndTime": 50164
+    },
+    {
+        "text": "That's worse than I expected.",
+        "startTime": 33457,
+        "endTime": 35052,
+        "slowStartTime": 50336,
+        "slowEndTime": 52803
+    },
+    {
+        "text": "We had a blackout for the past eight hours.",
+        "startTime": 35678,
+        "endTime": 38326,
+        "slowStartTime": 53667,
+        "slowEndTime": 57714
+    },
+    {
+        "text": "I'm so sorry to hear that.",
+        "startTime": 38543,
+        "endTime": 40352,
+        "slowStartTime": 57964,
+        "slowEndTime": 60753
+    },
+    {
+        "text": "Did you call up a repair person?",
+        "startTime": 40949,
+        "endTime": 42463,
+        "slowStartTime": 61574,
+        "slowEndTime": 63920
+    },
+    {
+        "text": "Yes.",
+        "startTime": 43164,
+        "endTime": 43640,
+        "slowStartTime": 64896,
+        "slowEndTime": 65685
+    },
+    {
+        "text": "He's looking around the house right now.",
+        "startTime": 43797,
+        "endTime": 45671,
+        "slowStartTime": 65846,
+        "slowEndTime": 68732
+    },
+    {
+        "text": "Hope everything turns out okay.",
+        "startTime": 46125,
+        "endTime": 47727,
+        "slowStartTime": 69337,
+        "slowEndTime": 71815
+    },
+    {
+        "text": "Oh my goodness!",
+        "startTime": 48586,
+        "endTime": 49815,
+        "slowStartTime": 73029,
+        "slowEndTime": 74947
+    },
+    {
+        "text": "What?",
+        "startTime": 49946,
+        "endTime": 50302,
+        "slowStartTime": 75069,
+        "slowEndTime": 75678
+    },
+    {
+        "text": "The pipes are broken!",
+        "startTime": 50944,
+        "endTime": 52736,
+        "slowStartTime": 76566,
+        "slowEndTime": 79329
+    },
+    {
+        "text": "Okay.",
+        "startTime": 53219,
+        "endTime": 53790,
+        "slowStartTime": 79979,
+        "slowEndTime": 80910
+    },
+    {
+        "text": "Why don't we stop our lesson here?",
+        "startTime": 54033,
+        "endTime": 55543,
+        "slowStartTime": 81200,
+        "slowEndTime": 83539
+    },
+    {
+        "text": "Call a plumber right now.",
+        "startTime": 55856,
+        "endTime": 57423,
+        "slowStartTime": 83934,
+        "slowEndTime": 86360
+    }
+]

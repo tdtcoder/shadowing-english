@@ -1,0 +1,345 @@
+[
+    {
+        "text": "﻿Google Apps is a customizable package of workplace applications,...",
+        "startTime": 627,
+        "endTime": 4101,
+        "slowStartTime": 1090,
+        "slowEndTime": 6377
+    },
+    {
+        "text": "....and the communications hub is Gmail, our web-based email program.",
+        "startTime": 4278,
+        "endTime": 7859,
+        "slowStartTime": 6567,
+        "slowEndTime": 12013
+    },
+    {
+        "text": "Let's explore some unique features...",
+        "startTime": 8682,
+        "endTime": 10344,
+        "slowStartTime": 13173,
+        "slowEndTime": 15741
+    },
+    {
+        "text": "...that make Gmail users more connected, efficient and productive.",
+        "startTime": 10420,
+        "endTime": 13878,
+        "slowStartTime": 15780,
+        "slowEndTime": 21042
+    },
+    {
+        "text": "Mary is an employee at Altostrat, and here is her Gmail inbox.",
+        "startTime": 14575,
+        "endTime": 18425,
+        "slowStartTime": 22012,
+        "slowEndTime": 27862
+    },
+    {
+        "text": "You may notice something unusual.",
+        "startTime": 18954,
+        "endTime": 21059,
+        "slowStartTime": 28581,
+        "slowEndTime": 31814
+    },
+    {
+        "text": "She doesn't have to battle against spam,...",
+        "startTime": 21445,
+        "endTime": 23267,
+        "slowStartTime": 32317,
+        "slowEndTime": 35126
+    },
+    {
+        "text": "...thanks to Gmail's powerful spam, virus, and phishing protection.",
+        "startTime": 23467,
+        "endTime": 27030,
+        "slowStartTime": 35350,
+        "slowEndTime": 40770
+    },
+    {
+        "text": "What's more, Google Apps Premier edition allows administrators...",
+        "startTime": 27547,
+        "endTime": 30982,
+        "slowStartTime": 41471,
+        "slowEndTime": 46698
+    },
+    {
+        "text": "...to create custom filters for inbound and outbound mail,...",
+        "startTime": 31057,
+        "endTime": 34163,
+        "slowStartTime": 46735,
+        "slowEndTime": 51470
+    },
+    {
+        "text": "...a further measure to help cut out unwanted messages.",
+        "startTime": 34625,
+        "endTime": 37350,
+        "slowStartTime": 52087,
+        "slowEndTime": 56250
+    },
+    {
+        "text": "When a message is detected as a piece of spam, it's siphoned into Mary's spam folder...",
+        "startTime": 37961,
+        "endTime": 42271,
+        "slowStartTime": 57091,
+        "slowEndTime": 63632
+    },
+    {
+        "text": "...and deleted automatically after 30 days, meaning she never even has to look at it.",
+        "startTime": 42366,
+        "endTime": 46553,
+        "slowStartTime": 63699,
+        "slowEndTime": 70054
+    },
+    {
+        "text": "But even if Gmail didn't automatically protect Mary from spam,...",
+        "startTime": 46893,
+        "endTime": 50030,
+        "slowStartTime": 70490,
+        "slowEndTime": 75270
+    },
+    {
+        "text": "...she probably wouldn't ever run out of storage space...",
+        "startTime": 50412,
+        "endTime": 52865,
+        "slowStartTime": 75768,
+        "slowEndTime": 79522
+    },
+    {
+        "text": "...because Google Apps Premier edition includes 25 gigabytes of email storage per user,...",
+        "startTime": 52991,
+        "endTime": 57726,
+        "slowStartTime": 79637,
+        "slowEndTime": 86814
+    },
+    {
+        "text": "...which is about 50 times larger than the standard corporate inbox.",
+        "startTime": 58042,
+        "endTime": 61377,
+        "slowStartTime": 87213,
+        "slowEndTime": 92291
+    },
+    {
+        "text": "So, Mary never has to delete an important message, and every message is accessible...",
+        "startTime": 61700,
+        "endTime": 66365,
+        "slowStartTime": 92700,
+        "slowEndTime": 99772
+    },
+    {
+        "text": "...through Gmail's fast and comprehensive message search,...",
+        "startTime": 66471,
+        "endTime": 69153,
+        "slowStartTime": 99856,
+        "slowEndTime": 103955
+    },
+    {
+        "text": "...which helps Mary instantly find past emails.",
+        "startTime": 69590,
+        "endTime": 72113,
+        "slowStartTime": 104535,
+        "slowEndTime": 108394
+    },
+    {
+        "text": "Let's say Mary has a meeting tomorrow with her manager to discuss last year's sales figures,...",
+        "startTime": 72479,
+        "endTime": 76652,
+        "slowStartTime": 108869,
+        "slowEndTime": 115203
+    },
+    {
+        "text": "...and she remembers that David emailed her a relevant spreadsheet a few weeks back.",
+        "startTime": 77057,
+        "endTime": 80887,
+        "slowStartTime": 115735,
+        "slowEndTime": 121556
+    },
+    {
+        "text": "Even if Mary archived David's email,...",
+        "startTime": 82076,
+        "endTime": 83945,
+        "slowStartTime": 123264,
+        "slowEndTime": 126143
+    },
+    {
+        "text": "... she can find his message by typing a few words into the Gmail search box.",
+        "startTime": 84328,
+        "endTime": 87981,
+        "slowStartTime": 126642,
+        "slowEndTime": 132197
+    },
+    {
+        "text": "Working quickly is also made easier with message conversations.",
+        "startTime": 88995,
+        "endTime": 92277,
+        "slowStartTime": 133642,
+        "slowEndTime": 138640
+    },
+    {
+        "text": "Let's say Mary sends an email to her team about planning a team dinner,...",
+        "startTime": 93335,
+        "endTime": 96596,
+        "slowStartTime": 140153,
+        "slowEndTime": 145119
+    },
+    {
+        "text": "...and then her first message turns into a handful...",
+        "startTime": 97073,
+        "endTime": 99129,
+        "slowStartTime": 145760,
+        "slowEndTime": 148918
+    },
+    {
+        "text": "...after people respond with their restaurant preferences.",
+        "startTime": 99196,
+        "endTime": 101708,
+        "slowStartTime": 148944,
+        "slowEndTime": 152787
+    },
+    {
+        "text": "Instead of sorting through individual emails that are scattered throughout her inbox,...",
+        "startTime": 103123,
+        "endTime": 107021,
+        "slowStartTime": 154835,
+        "slowEndTime": 160756
+    },
+    {
+        "text": "...Mary can find all the replies about the team dinner in a single thread,...",
+        "startTime": 107417,
+        "endTime": 110655,
+        "slowStartTime": 161276,
+        "slowEndTime": 166207
+    },
+    {
+        "text": "...which are automatically grouped together as a single line in her inbox.",
+        "startTime": 111071,
+        "endTime": 114339,
+        "slowStartTime": 166756,
+        "slowEndTime": 171734
+    },
+    {
+        "text": "Because Gmail automatically groups related emails into conversations,...",
+        "startTime": 114895,
+        "endTime": 118704,
+        "slowStartTime": 172492,
+        "slowEndTime": 178281
+    },
+    {
+        "text": "...Mary can follow the thread chronologically and see how the discussion progressed,...",
+        "startTime": 119110,
+        "endTime": 123153,
+        "slowStartTime": 178815,
+        "slowEndTime": 184955
+    },
+    {
+        "text": "...all together on a single page.",
+        "startTime": 123473,
+        "endTime": 125033,
+        "slowStartTime": 185359,
+        "slowEndTime": 187774
+    },
+    {
+        "text": "Another efficiency booster in Gmail is colored labels.",
+        "startTime": 125789,
+        "endTime": 128550,
+        "slowStartTime": 188833,
+        "slowEndTime": 193050
+    },
+    {
+        "text": "To quickly spot emails from her teammates,...",
+        "startTime": 128781,
+        "endTime": 130801,
+        "slowStartTime": 193322,
+        "slowEndTime": 196426
+    },
+    {
+        "text": "...Mary has created filters that put an orange label on all incoming messages from them.",
+        "startTime": 130986,
+        "endTime": 135538,
+        "slowStartTime": 196629,
+        "slowEndTime": 203532
+    },
+    {
+        "text": "With a quick glance at her inbox, she can see if her teammates have emailed her.",
+        "startTime": 135766,
+        "endTime": 139473,
+        "slowStartTime": 203799,
+        "slowEndTime": 209434
+    },
+    {
+        "text": "And for her most important, top priority messages,...",
+        "startTime": 139676,
+        "endTime": 142389,
+        "slowStartTime": 209664,
+        "slowEndTime": 213809
+    },
+    {
+        "text": "... Mary assigns a star, so she can easily return to them later.",
+        "startTime": 142774,
+        "endTime": 145849,
+        "slowStartTime": 214311,
+        "slowEndTime": 218999
+    },
+    {
+        "text": "But we all know that important information isn't just shared in email,...",
+        "startTime": 146833,
+        "endTime": 150226,
+        "slowStartTime": 220399,
+        "slowEndTime": 225564
+    },
+    {
+        "text": "...it's often sent by instant message.",
+        "startTime": 150557,
+        "endTime": 152371,
+        "slowStartTime": 225985,
+        "slowEndTime": 228781
+    },
+    {
+        "text": "Since Gmail's integrated with Google Talk,...",
+        "startTime": 152571,
+        "endTime": 154763,
+        "slowStartTime": 229006,
+        "slowEndTime": 232370
+    },
+    {
+        "text": "...Mary can email and chat from the same interface.",
+        "startTime": 155030,
+        "endTime": 157560,
+        "slowStartTime": 232695,
+        "slowEndTime": 236565
+    },
+    {
+        "text": "And when she needs to find information from a past IM conversation,...",
+        "startTime": 158471,
+        "endTime": 161972,
+        "slowStartTime": 237856,
+        "slowEndTime": 243183
+    },
+    {
+        "text": "...she uses the same Gmail search box to find both email and chat results.",
+        "startTime": 162402,
+        "endTime": 166609,
+        "slowStartTime": 243753,
+        "slowEndTime": 250139
+    },
+    {
+        "text": "There's more we could show you, but why not see for yourself.",
+        "startTime": 167267,
+        "endTime": 169956,
+        "slowStartTime": 251051,
+        "slowEndTime": 255159
+    },
+    {
+        "text": "You can learn more about Gmail,...",
+        "startTime": 170549,
+        "endTime": 171892,
+        "slowStartTime": 255974,
+        "slowEndTime": 258063
+    },
+    {
+        "text": "...and the rest of the Google Apps suite at google.com/apps/business.",
+        "startTime": 171975,
+        "endTime": 176866,
+        "slowStartTime": 258112,
+        "slowEndTime": 265524
+    }
+]

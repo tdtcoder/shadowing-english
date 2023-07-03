@@ -1,0 +1,100 @@
+[
+    {
+        "text": "﻿Let me hear you sing.",
+        "startTime": 6539,
+        "endTime": 7998,
+        "slowStartTime": 9959,
+        "slowEndTime": 12222
+    },
+    {
+        "text": "Take me out to the ball game.",
+        "startTime": 8615,
+        "endTime": 12341,
+        "slowStartTime": 13072,
+        "slowEndTime": 18737
+    },
+    {
+        "text": "Take me out with the crowd.",
+        "startTime": 12716,
+        "endTime": 16156,
+        "slowStartTime": 19224,
+        "slowEndTime": 24459
+    },
+    {
+        "text": "Buy me some peanuts and Cracker Jack.",
+        "startTime": 16815,
+        "endTime": 20534,
+        "slowStartTime": 25372,
+        "slowEndTime": 31026
+    },
+    {
+        "text": "I don't care if I never get back.",
+        "startTime": 20887,
+        "endTime": 24099,
+        "slowStartTime": 31480,
+        "slowEndTime": 36374
+    },
+    {
+        "text": "Let me root, root, root for the home team.",
+        "startTime": 24248,
+        "endTime": 28473,
+        "slowStartTime": 36522,
+        "slowEndTime": 42934
+    },
+    {
+        "text": "If they don't win, it's a shame.",
+        "startTime": 28781,
+        "endTime": 31899,
+        "slowStartTime": 43322,
+        "slowEndTime": 48074
+    },
+    {
+        "text": "For it's one,...",
+        "startTime": 32223,
+        "endTime": 33618,
+        "slowStartTime": 48485,
+        "slowEndTime": 50652
+    },
+    {
+        "text": "...two,...",
+        "startTime": 34094,
+        "endTime": 34550,
+        "slowStartTime": 51291,
+        "slowEndTime": 52050
+    },
+    {
+        "text": "...three strikes, you're out at the old ball game.",
+        "startTime": 35082,
+        "endTime": 40487,
+        "slowStartTime": 52773,
+        "slowEndTime": 60955
+    },
+    {
+        "text": "Let's go.",
+        "startTime": 40552,
+        "endTime": 40948,
+        "slowStartTime": 60978,
+        "slowEndTime": 61647
+    },
+    {
+        "text": "For it's one,...",
+        "startTime": 41251,
+        "endTime": 42368,
+        "slowStartTime": 62026,
+        "slowEndTime": 63777
+    },
+    {
+        "text": "...two,...",
+        "startTime": 43728,
+        "endTime": 44392,
+        "slowStartTime": 65742,
+        "slowEndTime": 66813
+    },
+    {
+        "text": "...three strikes, you're out at the old ball game.",
+        "startTime": 45691,
+        "endTime": 51662,
+        "slowStartTime": 68686,
+        "slowEndTime": 77718
+    }
+]

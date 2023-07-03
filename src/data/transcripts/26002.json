@@ -1,0 +1,72 @@
+[
+    {
+        "text": "﻿Let's order food in a restaurant.",
+        "startTime": 488,
+        "endTime": 2791,
+        "slowStartTime": 882,
+        "slowEndTime": 4411
+    },
+    {
+        "text": "Waiter!",
+        "startTime": 5216,
+        "endTime": 5827,
+        "slowStartTime": 7974,
+        "slowEndTime": 8966
+    },
+    {
+        "text": "We have a reservation for two.",
+        "startTime": 9113,
+        "endTime": 11257,
+        "slowStartTime": 13819,
+        "slowEndTime": 17111
+    },
+    {
+        "text": "Hmm. What will I order?",
+        "startTime": 14931,
+        "endTime": 17948,
+        "slowStartTime": 22547,
+        "slowEndTime": 27147
+    },
+    {
+        "text": "What's in the menu?",
+        "startTime": 19419,
+        "endTime": 21439,
+        "slowStartTime": 29278,
+        "slowEndTime": 32383
+    },
+    {
+        "text": "I'll have an appetizer.",
+        "startTime": 23761,
+        "endTime": 25288,
+        "slowStartTime": 35792,
+        "slowEndTime": 38157
+    },
+    {
+        "text": "I love the main course.",
+        "startTime": 27713,
+        "endTime": 29630,
+        "slowStartTime": 41720,
+        "slowEndTime": 44670
+    },
+    {
+        "text": "I'll have some cake for dessert.",
+        "startTime": 31073,
+        "endTime": 33471,
+        "slowStartTime": 46759,
+        "slowEndTime": 50431
+    },
+    {
+        "text": "Can I have the bill, please?",
+        "startTime": 34754,
+        "endTime": 36503,
+        "slowStartTime": 52281,
+        "slowEndTime": 54980
+    },
+    {
+        "text": "Here's your tip.",
+        "startTime": 38301,
+        "endTime": 39485,
+        "slowStartTime": 57602,
+        "slowEndTime": 59453
+    }
+]

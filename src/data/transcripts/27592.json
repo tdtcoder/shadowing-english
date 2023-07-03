@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Dubai's signature landmark is the Burj Al Arab,...",
+        "startTime": 883,
+        "endTime": 4139,
+        "slowStartTime": 1474,
+        "slowEndTime": 6433
+    },
+    {
+        "text": "...the famous sail-shaped, seven-star hotel facing the Arabian Gulf.",
+        "startTime": 4565,
+        "endTime": 10045,
+        "slowStartTime": 6998,
+        "slowEndTime": 15292
+    },
+    {
+        "text": "This magnificent hotel is truly the spot for James Bond movies and superstars.",
+        "startTime": 10407,
+        "endTime": 15977,
+        "slowStartTime": 15761,
+        "slowEndTime": 24191
+    },
+    {
+        "text": "Ride the elevator to the 124th floor observation deck...",
+        "startTime": 22782,
+        "endTime": 27619,
+        "slowStartTime": 34323,
+        "slowEndTime": 41654
+    },
+    {
+        "text": "...for outstanding views over Dubai and the Arabian Gulf,...",
+        "startTime": 27937,
+        "endTime": 31765,
+        "slowStartTime": 42056,
+        "slowEndTime": 47873
+    },
+    {
+        "text": "...or take a wander through the gardens and fountains of the Burj Khalifa Park.",
+        "startTime": 31996,
+        "endTime": 36360,
+        "slowStartTime": 48144,
+        "slowEndTime": 54765
+    },
+    {
+        "text": "Skyscrapers don't get any taller than Burj Khalifa,...",
+        "startTime": 36483,
+        "endTime": 39389,
+        "slowStartTime": 54875,
+        "slowEndTime": 59309
+    },
+    {
+        "text": "...currently the tallest structure on the planet,...",
+        "startTime": 39801,
+        "endTime": 41979,
+        "slowStartTime": 59851,
+        "slowEndTime": 63194
+    },
+    {
+        "text": "...soaring 828 meters with more than 160 stories.",
+        "startTime": 42223,
+        "endTime": 47283,
+        "slowStartTime": 63485,
+        "slowEndTime": 71149
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "text": "What kind of sports do you like to play?",
+        "startTime": 300,
+        "endTime": 1900,
+        "slowStartTime": 720,
+        "slowEndTime": 3090
+    },
+    {
+        "text": "I play soccer and basketball for fun on the weekends...",
+        "startTime": 2500,
+        "endTime": 5350,
+        "slowStartTime": 3920,
+        "slowEndTime": 8280
+    },
+    {
+        "text": "...and I play baseball, too.",
+        "startTime": 5800,
+        "endTime": 7200,
+        "slowStartTime": 8950,
+        "slowEndTime": 11040
+    },
+    {
+        "text": "We have a neighborhood pickup game twice a month. It's really fun!",
+        "startTime": 8050,
+        "endTime": 11200,
+        "slowStartTime": 12300,
+        "slowEndTime": 17000
+    },
+    {
+        "text": "And I also play tennis with my brother sometimes.",
+        "startTime": 12300,
+        "endTime": 14700,
+        "slowStartTime": 18615,
+        "slowEndTime": 22420
+    },
+    {
+        "text": "How about you? Do you play any sports?",
+        "startTime": 15600,
+        "endTime": 17900,
+        "slowStartTime": 23600,
+        "slowEndTime": 27000
+    },
+    {
+        "text": "I like to do archery and karate. I'm working on my green belt now.",
+        "startTime": 18500,
+        "endTime": 21800,
+        "slowStartTime": 28020,
+        "slowEndTime": 32960
+    },
+    {
+        "text": "I also go golfing with my dad when I get a chance.",
+        "startTime": 22200,
+        "endTime": 24600,
+        "slowStartTime": 33530,
+        "slowEndTime": 37090
+    },
+    {
+        "text": "You should come with us sometime.",
+        "startTime": 24850,
+        "endTime": 26200,
+        "slowStartTime": 37550,
+        "slowEndTime": 39600
+    },
+    {
+        "text": "Sure, I'd like to learn how to play golf.",
+        "startTime": 26600,
+        "endTime": 28800,
+        "slowStartTime": 40200,
+        "slowEndTime": 43375
+    },
+    {
+        "text": "And you should come play tennis with us!",
+        "startTime": 29250,
+        "endTime": 30800,
+        "slowStartTime": 44115,
+        "slowEndTime": 46500
+    },
+    {
+        "text": "Sounds good!",
+        "startTime": 31300,
+        "endTime": 32200,
+        "slowStartTime": 47165,
+        "slowEndTime": 48590
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Thanksgiving Day.",
+        "startTime": 2869,
+        "endTime": 3827,
+        "slowStartTime": 4454,
+        "slowEndTime": 5965
+    },
+    {
+        "text": "The very first Thanksgiving celebration in North America took place in Canada...",
+        "startTime": 4467,
+        "endTime": 8083,
+        "slowStartTime": 6851,
+        "slowEndTime": 12350
+    },
+    {
+        "text": "...when Martin Frobisher, an explorer from England, arrived in Newfoundland in 1578.",
+        "startTime": 8210,
+        "endTime": 13585,
+        "slowStartTime": 12465,
+        "slowEndTime": 20602
+    },
+    {
+        "text": "He wanted to give thanks for his safe arrival to the New World.",
+        "startTime": 15049,
+        "endTime": 17882,
+        "slowStartTime": 22723,
+        "slowEndTime": 27048
+    },
+    {
+        "text": "For many Canadian families, the tradition has shifted...",
+        "startTime": 19135,
+        "endTime": 21784,
+        "slowStartTime": 28852,
+        "slowEndTime": 32901
+    },
+    {
+        "text": "...and the focus is now to eat a large turkey dinner and get together with family.",
+        "startTime": 21875,
+        "endTime": 25600,
+        "slowStartTime": 32962,
+        "slowEndTime": 38625
+    }
+]

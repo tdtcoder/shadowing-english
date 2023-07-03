@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Hi!",
+        "startTime": 1373,
+        "endTime": 1783,
+        "slowStartTime": 2209,
+        "slowEndTime": 2899
+    },
+    {
+        "text": "Welcome to Coco's.",
+        "startTime": 1902,
+        "endTime": 3709,
+        "slowStartTime": 3003,
+        "slowEndTime": 5788
+    },
+    {
+        "text": "Table for two.",
+        "startTime": 3871,
+        "endTime": 4472,
+        "slowStartTime": 5957,
+        "slowEndTime": 6933
+    },
+    {
+        "text": "Just me and my baby here.",
+        "startTime": 5012,
+        "endTime": 7152,
+        "slowStartTime": 7668,
+        "slowEndTime": 10953
+    },
+    {
+        "text": "Okay.",
+        "startTime": 9323,
+        "endTime": 9928,
+        "slowStartTime": 14135,
+        "slowEndTime": 15117
+    },
+    {
+        "text": "I heard you have some great new stuff on your kids' menu.",
+        "startTime": 10239,
+        "endTime": 12131,
+        "slowStartTime": 15208,
+        "slowEndTime": 18421
+    },
+    {
+        "text": "Yes,...",
+        "startTime": 12432,
+        "endTime": 12630,
+        "slowStartTime": 18498,
+        "slowEndTime": 19170
+    },
+    {
+        "text": "...that's true.",
+        "startTime": 12717,
+        "endTime": 13449,
+        "slowStartTime": 19225,
+        "slowEndTime": 20399
+    },
+    {
+        "text": "And kids eat free, right?",
+        "startTime": 13735,
+        "endTime": 15311,
+        "slowStartTime": 20453,
+        "slowEndTime": 23191
+    },
+    {
+        "text": "Yes, they do.",
+        "startTime": 17135,
+        "endTime": 17657,
+        "slowStartTime": 25853,
+        "slowEndTime": 26710
+    },
+    {
+        "text": "Oh, and can we get a booth?",
+        "startTime": 19063,
+        "endTime": 19968,
+        "slowStartTime": 28745,
+        "slowEndTime": 30177
+    },
+    {
+        "text": "I mean...",
+        "startTime": 20631,
+        "endTime": 20955,
+        "slowStartTime": 31097,
+        "slowEndTime": 31658
+    },
+    {
+        "text": "Coco's delicious new kids' menu.",
+        "startTime": 22800,
+        "endTime": 24560,
+        "slowStartTime": 34200,
+        "slowEndTime": 37065
+    },
+    {
+        "text": "Right now, kids eat free,...",
+        "startTime": 24991,
+        "endTime": 26018,
+        "slowStartTime": 37187,
+        "slowEndTime": 39252
+    },
+    {
+        "text": "...all day, every day.",
+        "startTime": 26310,
+        "endTime": 27366,
+        "slowStartTime": 39315,
+        "slowEndTime": 41274
+    },
+    {
+        "text": "Babies don't talk.",
+        "startTime": 27683,
+        "endTime": 28707,
+        "slowStartTime": 41374,
+        "slowEndTime": 43285
+    },
+    {
+        "text": "Coco's.",
+        "startTime": 28981,
+        "endTime": 29815,
+        "slowStartTime": 43622,
+        "slowEndTime": 44948
+    }
+]

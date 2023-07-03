@@ -1,0 +1,86 @@
+[
+    {
+        "text": "I hate traveling for business.",
+        "startTime": 3000,
+        "endTime": 4650,
+        "slowStartTime": 4700,
+        "slowEndTime": 7150
+    },
+    {
+        "text": "I always seem to come down with something.",
+        "startTime": 5100,
+        "endTime": 7100,
+        "slowStartTime": 7800,
+        "slowEndTime": 10800
+    },
+    {
+        "text": "I've heard it's easy to catch a cold from flying.",
+        "startTime": 7600,
+        "endTime": 10250,
+        "slowStartTime": 11550,
+        "slowEndTime": 15700
+    },
+    {
+        "text": "A cold wouldn't bother me.",
+        "startTime": 10650,
+        "endTime": 11800,
+        "slowStartTime": 16200,
+        "slowEndTime": 18000
+    },
+    {
+        "text": "When I get sick, it's worse than that.",
+        "startTime": 12300,
+        "endTime": 14300,
+        "slowStartTime": 18600,
+        "slowEndTime": 21700
+    },
+    {
+        "text": "Like on my last business trip, I got food poisoning!",
+        "startTime": 14750,
+        "endTime": 17850,
+        "slowStartTime": 22300,
+        "slowEndTime": 27000
+    },
+    {
+        "text": "That's terrible!",
+        "startTime": 18150,
+        "endTime": 19300,
+        "slowStartTime": 27400,
+        "slowEndTime": 29200
+    },
+    {
+        "text": "Are you sure it wasn't just an upset stomach?",
+        "startTime": 19700,
+        "endTime": 21900,
+        "slowStartTime": 29800,
+        "slowEndTime": 33100
+    },
+    {
+        "text": "No, it was food poisoning.",
+        "startTime": 22150,
+        "endTime": 23800,
+        "slowStartTime": 33400,
+        "slowEndTime": 36000
+    },
+    {
+        "text": "At first, I thought it was the flu, so I went to the doctor.",
+        "startTime": 24350,
+        "endTime": 27250,
+        "slowStartTime": 36700,
+        "slowEndTime": 41100
+    },
+    {
+        "text": "But he diagnosed it as severe food poisoning.",
+        "startTime": 27600,
+        "endTime": 30200,
+        "slowStartTime": 41550,
+        "slowEndTime": 45500
+    },
+    {
+        "text": "Luckily, he gave me a prescription that worked great and I could still get some work done.",
+        "startTime": 30700,
+        "endTime": 35250,
+        "slowStartTime": 46300,
+        "slowEndTime": 53050
+    }
+]

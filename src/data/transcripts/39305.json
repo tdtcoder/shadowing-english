@@ -1,0 +1,198 @@
+[
+    {
+        "text": "Excuse me. Can I have the menu, please?",
+        "startTime": 619,
+        "endTime": 2819,
+        "slowStartTime": 1078,
+        "slowEndTime": 4453
+    },
+    {
+        "text": "Yes, sir.",
+        "startTime": 3783,
+        "endTime": 4414,
+        "slowStartTime": 5824,
+        "slowEndTime": 6846
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 7329,
+        "endTime": 8185,
+        "slowStartTime": 11144,
+        "slowEndTime": 12503
+    },
+    {
+        "text": "Yes, sir.",
+        "startTime": 17265,
+        "endTime": 17790,
+        "slowStartTime": 26048,
+        "slowEndTime": 26910
+    },
+    {
+        "text": "Soup, please.",
+        "startTime": 18712,
+        "endTime": 19743,
+        "slowStartTime": 28218,
+        "slowEndTime": 29839
+    },
+    {
+        "text": "Soup.",
+        "startTime": 20057,
+        "endTime": 20636,
+        "slowStartTime": 30235,
+        "slowEndTime": 31179
+    },
+    {
+        "text": "And I'd like steak and chips, and salad, please.",
+        "startTime": 21479,
+        "endTime": 25515,
+        "slowStartTime": 32368,
+        "slowEndTime": 38498
+    },
+    {
+        "text": "James?",
+        "startTime": 27562,
+        "endTime": 28053,
+        "slowStartTime": 41493,
+        "slowEndTime": 42304
+    },
+    {
+        "text": "I'd like soup and chicken, please.",
+        "startTime": 29099,
+        "endTime": 33109,
+        "slowStartTime": 43798,
+        "slowEndTime": 49889
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 34307,
+        "endTime": 34717,
+        "slowStartTime": 51610,
+        "slowEndTime": 52301
+    },
+    {
+        "text": "And what would you like to drink?",
+        "startTime": 34955,
+        "endTime": 36453,
+        "slowStartTime": 52582,
+        "slowEndTime": 54904
+    },
+    {
+        "text": "A bottle of mineral water, please.",
+        "startTime": 36639,
+        "endTime": 38446,
+        "slowStartTime": 55108,
+        "slowEndTime": 57894
+    },
+    {
+        "text": "And a glass of apple juice for me, please.",
+        "startTime": 39475,
+        "endTime": 41244,
+        "slowStartTime": 59362,
+        "slowEndTime": 62091
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 43051,
+        "endTime": 43593,
+        "slowStartTime": 64727,
+        "slowEndTime": 65614
+    },
+    {
+        "text": "What would you like for dessert?",
+        "startTime": 51598,
+        "endTime": 53076,
+        "slowStartTime": 77547,
+        "slowEndTime": 79839
+    },
+    {
+        "text": "James?",
+        "startTime": 54123,
+        "endTime": 54604,
+        "slowStartTime": 81334,
+        "slowEndTime": 82131
+    },
+    {
+        "text": "I'd like strawberry cake, please.",
+        "startTime": 57467,
+        "endTime": 59460,
+        "slowStartTime": 86350,
+        "slowEndTime": 89415
+    },
+    {
+        "text": "And for you, sir?",
+        "startTime": 60883,
+        "endTime": 61639,
+        "slowStartTime": 91474,
+        "slowEndTime": 92684
+    },
+    {
+        "text": "Yes. I'd like strawberry cake, too.",
+        "startTime": 62260,
+        "endTime": 65491,
+        "slowStartTime": 93540,
+        "slowEndTime": 98462
+    },
+    {
+        "text": "Would you like a cup of coffee?",
+        "startTime": 66681,
+        "endTime": 67747,
+        "slowStartTime": 100172,
+        "slowEndTime": 101845
+    },
+    {
+        "text": "Yes, please, Tom.",
+        "startTime": 68017,
+        "endTime": 68881,
+        "slowStartTime": 102176,
+        "slowEndTime": 103547
+    },
+    {
+        "text": "Black, sir?",
+        "startTime": 69143,
+        "endTime": 69693,
+        "slowStartTime": 103864,
+        "slowEndTime": 104764
+    },
+    {
+        "text": "No. White, please.",
+        "startTime": 69893,
+        "endTime": 70855,
+        "slowStartTime": 104989,
+        "slowEndTime": 106508
+    },
+    {
+        "text": "Black for me, please.",
+        "startTime": 71589,
+        "endTime": 72667,
+        "slowStartTime": 107534,
+        "slowEndTime": 109226
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 72897,
+        "endTime": 73300,
+        "slowStartTime": 109495,
+        "slowEndTime": 110175
+    },
+    {
+        "text": "Can I have the bill, please?",
+        "startTime": 77458,
+        "endTime": 78905,
+        "slowStartTime": 116337,
+        "slowEndTime": 118582
+    },
+    {
+        "text": "Yes, sir.",
+        "startTime": 79343,
+        "endTime": 79983,
+        "slowStartTime": 119165,
+        "slowEndTime": 120199
+    },
+    {
+        "text": "No, no, no.",
+        "startTime": 83779,
+        "endTime": 84452,
+        "slowStartTime": 125818,
+        "slowEndTime": 126903
+    }
+]

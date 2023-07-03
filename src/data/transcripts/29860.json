@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Four years ago, we started to wonder.",
+        "startTime": 2183,
+        "endTime": 4264,
+        "slowStartTime": 3424,
+        "slowEndTime": 6621
+    },
+    {
+        "text": "What would shopping look like if you could walk into a store...",
+        "startTime": 6392,
+        "endTime": 9231,
+        "slowStartTime": 9738,
+        "slowEndTime": 14072
+    },
+    {
+        "text": "...grab what you want and just go?",
+        "startTime": 9777,
+        "endTime": 12034,
+        "slowStartTime": 14816,
+        "slowEndTime": 18276
+    },
+    {
+        "text": "What if we can weave the most advanced machine learning, computer vision and AI...",
+        "startTime": 13219,
+        "endTime": 17183,
+        "slowStartTime": 19979,
+        "slowEndTime": 26000
+    },
+    {
+        "text": "...into the very fabric of a store so you never have to wait in line?",
+        "startTime": 17366,
+        "endTime": 20875,
+        "slowStartTime": 26199,
+        "slowEndTime": 31538
+    },
+    {
+        "text": "No lines, no checkouts, no registers.",
+        "startTime": 21847,
+        "endTime": 25043,
+        "slowStartTime": 32921,
+        "slowEndTime": 37789
+    },
+    {
+        "text": "Welcome to Amazon Go.",
+        "startTime": 27705,
+        "endTime": 29845,
+        "slowStartTime": 41708,
+        "slowEndTime": 44993
+    },
+    {
+        "text": "Use the Amazon Go app to enter.",
+        "startTime": 31455,
+        "endTime": 33388,
+        "slowStartTime": 47332,
+        "slowEndTime": 50307
+    },
+    {
+        "text": "Then put away your phone and start shopping.",
+        "startTime": 34636,
+        "endTime": 36925,
+        "slowStartTime": 52104,
+        "slowEndTime": 55612
+    },
+    {
+        "text": "So, how does it work?",
+        "startTime": 38581,
+        "endTime": 39780,
+        "slowStartTime": 58021,
+        "slowEndTime": 59895
+    },
+    {
+        "text": "We use computer vision, deep learning algorithms, and sensor fusion,...",
+        "startTime": 41266,
+        "endTime": 45143,
+        "slowStartTime": 62049,
+        "slowEndTime": 67940
+    },
+    {
+        "text": "...much like you'd find in self-driving cars.",
+        "startTime": 45547,
+        "endTime": 47841,
+        "slowStartTime": 68470,
+        "slowEndTime": 71987
+    },
+    {
+        "text": "We call it \"Just walk out\" technology.",
+        "startTime": 48420,
+        "endTime": 50660,
+        "slowStartTime": 72780,
+        "slowEndTime": 76215
+    },
+    {
+        "text": "Once you've got everything you want, you can just go.",
+        "startTime": 53213,
+        "endTime": 56124,
+        "slowStartTime": 79970,
+        "slowEndTime": 84411
+    },
+    {
+        "text": "When you leave, our \"Just Walk Out\" technology adds up your virtual cart...",
+        "startTime": 57255,
+        "endTime": 60714,
+        "slowStartTime": 86032,
+        "slowEndTime": 91296
+    },
+    {
+        "text": "....and charges your Amazon account.",
+        "startTime": 60869,
+        "endTime": 62200,
+        "slowStartTime": 91453,
+        "slowEndTime": 93525
+    },
+    {
+        "text": "Your receipt is sent straight to the app and you can keep going.",
+        "startTime": 62649,
+        "endTime": 66067,
+        "slowStartTime": 94124,
+        "slowEndTime": 99326
+    },
+    {
+        "text": "Amazon Go.",
+        "startTime": 67043,
+        "endTime": 67932,
+        "slowStartTime": 100714,
+        "slowEndTime": 102123
+    },
+    {
+        "text": "No lines.",
+        "startTime": 69991,
+        "endTime": 70699,
+        "slowStartTime": 105136,
+        "slowEndTime": 106273
+    },
+    {
+        "text": "No checkout.",
+        "startTime": 70906,
+        "endTime": 71543,
+        "slowStartTime": 106509,
+        "slowEndTime": 107540
+    },
+    {
+        "text": "No, seriously.",
+        "startTime": 72072,
+        "endTime": 73169,
+        "slowStartTime": 108258,
+        "slowEndTime": 109978
+    }
+]

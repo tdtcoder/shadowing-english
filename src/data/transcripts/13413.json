@@ -1,0 +1,401 @@
+[
+    {
+        "text": "Hi, guys, can I be your friend?",
+        "startTime": 306,
+        "endTime": 2774,
+        "slowStartTime": 609,
+        "slowEndTime": 4386
+    },
+    {
+        "text": "Can I write on your wall?",
+        "startTime": 6180,
+        "endTime": 7236,
+        "slowStartTime": 9420,
+        "slowEndTime": 11079
+    },
+    {
+        "text": "No.",
+        "startTime": 8397,
+        "endTime": 8645,
+        "slowStartTime": 12745,
+        "slowEndTime": 13192
+    },
+    {
+        "text": "Will you be my friend?",
+        "startTime": 9708,
+        "endTime": 10548,
+        "slowStartTime": 14712,
+        "slowEndTime": 16047
+    },
+    {
+        "text": "But I write on all my friends' walls.",
+        "startTime": 12952,
+        "endTime": 14442,
+        "slowStartTime": 19578,
+        "slowEndTime": 21888
+    },
+    {
+        "text": "I think I would have to know you before I was your friend.",
+        "startTime": 14557,
+        "endTime": 16861,
+        "slowStartTime": 21985,
+        "slowEndTime": 25517
+    },
+    {
+        "text": "All my friends have got like 180 friends.",
+        "startTime": 17064,
+        "endTime": 19100,
+        "slowStartTime": 25746,
+        "slowEndTime": 29000
+    },
+    {
+        "text": "I've only got two.",
+        "startTime": 19744,
+        "endTime": 20281,
+        "slowStartTime": 29766,
+        "slowEndTime": 30647
+    },
+    {
+        "text": "Yeah?",
+        "startTime": 21175,
+        "endTime": 21350,
+        "slowStartTime": 31913,
+        "slowEndTime": 32250
+    },
+    {
+        "text": "Would it help if maybe you'd look through my photos?",
+        "startTime": 22103,
+        "endTime": 23999,
+        "slowStartTime": 33305,
+        "slowEndTime": 36223
+    },
+    {
+        "text": "And that one is with two really pretty girls.",
+        "startTime": 24063,
+        "endTime": 26217,
+        "slowStartTime": 36244,
+        "slowEndTime": 39550
+    },
+    {
+        "text": "That's my ex.",
+        "startTime": 26969,
+        "endTime": 27543,
+        "slowStartTime": 40604,
+        "slowEndTime": 41539
+    },
+    {
+        "text": "I was in a relationship with her but I've changed my status now.",
+        "startTime": 28187,
+        "endTime": 31295,
+        "slowStartTime": 42430,
+        "slowEndTime": 47167
+    },
+    {
+        "text": "What's your relationship status?",
+        "startTime": 35578,
+        "endTime": 36665,
+        "slowStartTime": 53517,
+        "slowEndTime": 55223
+    },
+    {
+        "text": "Single.",
+        "startTime": 37520,
+        "endTime": 37859,
+        "slowStartTime": 56430,
+        "slowEndTime": 57013
+    },
+    {
+        "text": "Okay, cool. I like that.",
+        "startTime": 38125,
+        "endTime": 39817,
+        "slowStartTime": 57338,
+        "slowEndTime": 59951
+    },
+    {
+        "text": "Do you?",
+        "startTime": 40201,
+        "endTime": 40385,
+        "slowStartTime": 60451,
+        "slowEndTime": 60803
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 40643,
+        "endTime": 41057,
+        "slowStartTime": 61114,
+        "slowEndTime": 61810
+    },
+    {
+        "text": "Good.",
+        "startTime": 41122,
+        "endTime": 41205,
+        "slowStartTime": 61833,
+        "slowEndTime": 62032
+    },
+    {
+        "text": "I like your jacket.",
+        "startTime": 41540,
+        "endTime": 42217,
+        "slowStartTime": 62460,
+        "slowEndTime": 63550
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 42671,
+        "endTime": 43023,
+        "slowStartTime": 64156,
+        "slowEndTime": 64759
+    },
+    {
+        "text": "I like your sunglasses.",
+        "startTime": 43173,
+        "endTime": 44087,
+        "slowStartTime": 64910,
+        "slowEndTime": 66355
+    },
+    {
+        "text": "Do you like that?",
+        "startTime": 50070,
+        "endTime": 50548,
+        "slowStartTime": 75255,
+        "slowEndTime": 76047
+    },
+    {
+        "text": "No.",
+        "startTime": 50903,
+        "endTime": 51105,
+        "slowStartTime": 76505,
+        "slowEndTime": 76883
+    },
+    {
+        "text": "Do you want to comment on that?",
+        "startTime": 51453,
+        "endTime": 52221,
+        "slowStartTime": 77329,
+        "slowEndTime": 78556
+    },
+    {
+        "text": "I like your Ray-Bans.",
+        "startTime": 58819,
+        "endTime": 59755,
+        "slowStartTime": 88378,
+        "slowEndTime": 89857
+    },
+    {
+        "text": "Could I poke you?",
+        "startTime": 63041,
+        "endTime": 63681,
+        "slowStartTime": 94711,
+        "slowEndTime": 95747
+    },
+    {
+        "text": "Poke?",
+        "startTime": 66368,
+        "endTime": 66520,
+        "slowStartTime": 99702,
+        "slowEndTime": 100005
+    },
+    {
+        "text": "Poke.",
+        "startTime": 66838,
+        "endTime": 67021,
+        "slowStartTime": 100407,
+        "slowEndTime": 100756
+    },
+    {
+        "text": "Poke?",
+        "startTime": 67341,
+        "endTime": 67428,
+        "slowStartTime": 101161,
+        "slowEndTime": 101367
+    },
+    {
+        "text": "Poke.",
+        "startTime": 67755,
+        "endTime": 67992,
+        "slowStartTime": 101782,
+        "slowEndTime": 102213
+    },
+    {
+        "text": "Poke.",
+        "startTime": 68385,
+        "endTime": 68700,
+        "slowStartTime": 102727,
+        "slowEndTime": 103275
+    },
+    {
+        "text": "No?",
+        "startTime": 69293,
+        "endTime": 69548,
+        "slowStartTime": 104090,
+        "slowEndTime": 104547
+    },
+    {
+        "text": "Ah, no.",
+        "startTime": 70379,
+        "endTime": 70981,
+        "slowStartTime": 105718,
+        "slowEndTime": 106696
+    },
+    {
+        "text": "But poke?",
+        "startTime": 71393,
+        "endTime": 71956,
+        "slowStartTime": 107240,
+        "slowEndTime": 108159
+    },
+    {
+        "text": "Poke?",
+        "startTime": 72293,
+        "endTime": 72469,
+        "slowStartTime": 108590,
+        "slowEndTime": 108928
+    },
+    {
+        "text": "What, do you want to poke?",
+        "startTime": 72689,
+        "endTime": 73319,
+        "slowStartTime": 109183,
+        "slowEndTime": 110204
+    },
+    {
+        "text": "Can I poke you?",
+        "startTime": 73847,
+        "endTime": 74480,
+        "slowStartTime": 110920,
+        "slowEndTime": 111945
+    },
+    {
+        "text": "Yeah, you can poke me if you want.",
+        "startTime": 75040,
+        "endTime": 75909,
+        "slowStartTime": 112710,
+        "slowEndTime": 114089
+    },
+    {
+        "text": "Nah.",
+        "startTime": 77965,
+        "endTime": 78159,
+        "slowStartTime": 117098,
+        "slowEndTime": 117463
+    },
+    {
+        "text": "No dude seriously, just be my friend.",
+        "startTime": 78272,
+        "endTime": 79733,
+        "slowStartTime": 117558,
+        "slowEndTime": 119824
+    },
+    {
+        "text": "If I just show you these pictures in this photo album.",
+        "startTime": 80429,
+        "endTime": 82375,
+        "slowStartTime": 120793,
+        "slowEndTime": 123787
+    },
+    {
+        "text": "Alright, so you use Twitter?",
+        "startTime": 91939,
+        "endTime": 93055,
+        "slowStartTime": 138059,
+        "slowEndTime": 139807
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 93199,
+        "endTime": 93327,
+        "slowStartTime": 139949,
+        "slowEndTime": 140215
+    },
+    {
+        "text": "I'm gonna follow you.",
+        "startTime": 93481,
+        "endTime": 94157,
+        "slowStartTime": 140372,
+        "slowEndTime": 141461
+    },
+    {
+        "text": "Okay.",
+        "startTime": 94665,
+        "endTime": 94961,
+        "slowStartTime": 142148,
+        "slowEndTime": 142667
+    },
+    {
+        "text": "Cool, cool.",
+        "startTime": 95109,
+        "endTime": 95467,
+        "slowStartTime": 142813,
+        "slowEndTime": 143426
+    },
+    {
+        "text": "Well, I'm gonna follow you.",
+        "startTime": 95757,
+        "endTime": 96603,
+        "slowStartTime": 143785,
+        "slowEndTime": 145129
+    },
+    {
+        "text": "Right, okay.",
+        "startTime": 97045,
+        "endTime": 97669,
+        "slowStartTime": 145717,
+        "slowEndTime": 146729
+    },
+    {
+        "text": "Thanks a lot, nice one. Thanks guys.",
+        "startTime": 98332,
+        "endTime": 99880,
+        "slowStartTime": 147648,
+        "slowEndTime": 150045
+    },
+    {
+        "text": "Yeah, yeah, yeah. Wicked, wicked.",
+        "startTime": 100020,
+        "endTime": 102258,
+        "slowStartTime": 150180,
+        "slowEndTime": 153612
+    },
+    {
+        "text": "Bye! Cheers! Wicked.",
+        "startTime": 102650,
+        "endTime": 104119,
+        "slowStartTime": 154125,
+        "slowEndTime": 156403
+    },
+    {
+        "text": "Alright, thank you. That's great.",
+        "startTime": 109264,
+        "endTime": 110295,
+        "slowStartTime": 164046,
+        "slowEndTime": 165668
+    },
+    {
+        "text": "Wicked. Thanks a lot. Bye.",
+        "startTime": 110494,
+        "endTime": 111905,
+        "slowStartTime": 165891,
+        "slowEndTime": 168083
+    },
+    {
+        "text": "Oh, you're actually following me.",
+        "startTime": 139161,
+        "endTime": 140283,
+        "slowStartTime": 208891,
+        "slowEndTime": 210650
+    },
+    {
+        "text": "I'm following you.",
+        "startTime": 140538,
+        "endTime": 141234,
+        "slowStartTime": 210957,
+        "slowEndTime": 212076
+    },
+    {
+        "text": "Twitter!",
+        "startTime": 141598,
+        "endTime": 142210,
+        "slowStartTime": 212547,
+        "slowEndTime": 213540
+    }
+]

@@ -1,0 +1,205 @@
+[
+    {
+        "text": "\"California Gurls\"?",
+        "startTime": 950,
+        "endTime": 2000,
+        "slowStartTime": 1500,
+        "slowEndTime": 3150
+    },
+    {
+        "text": "I wish they all could be...",
+        "startTime": 2950,
+        "endTime": 5150,
+        "slowStartTime": 4600,
+        "slowEndTime": 8000
+    },
+    {
+        "text": "No, it's a new one.",
+        "startTime": 5800,
+        "endTime": 7250,
+        "slowStartTime": 8950,
+        "slowEndTime": 11200
+    },
+    {
+        "text": "A new song?",
+        "startTime": 7750,
+        "endTime": 8700,
+        "slowStartTime": 11800,
+        "slowEndTime": 13250
+    },
+    {
+        "text": "Yes. Katy Perry and Snoop Dogg...",
+        "startTime": 8800,
+        "endTime": 11700,
+        "slowStartTime": 13400,
+        "slowEndTime": 17800
+    },
+    {
+        "text": "Uh-huh!",
+        "startTime": 11900,
+        "endTime": 12300,
+        "slowStartTime": 18050,
+        "slowEndTime": 18700
+    },
+    {
+        "text": "...and it's just kind of like a song about the West Coast.",
+        "startTime": 13500,
+        "endTime": 15650,
+        "slowStartTime": 20500,
+        "slowEndTime": 23750
+    },
+    {
+        "text": "See, Snoop Dogg is like my generation.",
+        "startTime": 15700,
+        "endTime": 17800,
+        "slowStartTime": 23750,
+        "slowEndTime": 27000
+    },
+    {
+        "text": "Oh, really?",
+        "startTime": 18000,
+        "endTime": 18400,
+        "slowStartTime": 27300,
+        "slowEndTime": 27900
+    },
+    {
+        "text": "He's coming back, I guess.",
+        "startTime": 18700,
+        "endTime": 19950,
+        "slowStartTime": 28200,
+        "slowEndTime": 30150
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 20000,
+        "endTime": 20200,
+        "slowStartTime": 30175,
+        "slowEndTime": 30600
+    },
+    {
+        "text": "Are you surprised?",
+        "startTime": 20650,
+        "endTime": 21200,
+        "slowStartTime": 31100,
+        "slowEndTime": 32100
+    },
+    {
+        "text": "And how is it then?",
+        "startTime": 21300,
+        "endTime": 22550,
+        "slowStartTime": 32150,
+        "slowEndTime": 34050
+    },
+    {
+        "text": "So, Snoop Dogg... you recommend this song \"California Gurls\" by Katy Perry and Snoop Dogg?",
+        "startTime": 23250,
+        "endTime": 27550,
+        "slowStartTime": 35100,
+        "slowEndTime": 41600
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 27700,
+        "endTime": 28050,
+        "slowStartTime": 41700,
+        "slowEndTime": 42250
+    },
+    {
+        "text": "The lyrics are just kind of like,...",
+        "startTime": 29550,
+        "endTime": 30600,
+        "slowStartTime": 44500,
+        "slowEndTime": 46200
+    },
+    {
+        "text": "...her lyrics are kind of like, different, you know, like \"I Kissed a Girl\" and stuff like that...",
+        "startTime": 30800,
+        "endTime": 34300,
+        "slowStartTime": 46400,
+        "slowEndTime": 51700
+    },
+    {
+        "text": "...or just kind of like, different, extreme, sort of like, in the whole America sense thing, but...",
+        "startTime": 34350,
+        "endTime": 40350,
+        "slowStartTime": 51700,
+        "slowEndTime": 60800
+    },
+    {
+        "text": "...it goes like, \"California girls, we're unforgettable.\"",
+        "startTime": 41950,
+        "endTime": 47600,
+        "slowStartTime": 63100,
+        "slowEndTime": 71700
+    },
+    {
+        "text": "\"Daisy Dukes, bikinis on top. Sun-kissed skin, so hot we'll melt your popsicle.\"",
+        "startTime": 48050,
+        "endTime": 53100,
+        "slowStartTime": 72300,
+        "slowEndTime": 80000
+    },
+    {
+        "text": "Awesome, \"We'll melt your popsicle\", good luck translating that.",
+        "startTime": 54050,
+        "endTime": 56450,
+        "slowStartTime": 81300,
+        "slowEndTime": 84950
+    },
+    {
+        "text": "Awesome!",
+        "startTime": 59450,
+        "endTime": 59900,
+        "slowStartTime": 89350,
+        "slowEndTime": 90100
+    },
+    {
+        "text": "Well, thanks so much for the interview.",
+        "startTime": 60400,
+        "endTime": 61700,
+        "slowStartTime": 90800,
+        "slowEndTime": 92800
+    },
+    {
+        "text": "Thank you!",
+        "startTime": 61750,
+        "endTime": 62200,
+        "slowStartTime": 92800,
+        "slowEndTime": 93580
+    },
+    {
+        "text": "And as a member of the Japanese listening public, we just want you to know, you're ill!",
+        "startTime": 62250,
+        "endTime": 69050,
+        "slowStartTime": 93600,
+        "slowEndTime": 103800
+    },
+    {
+        "text": "You're ill!",
+        "startTime": 69850,
+        "endTime": 70450,
+        "slowStartTime": 105000,
+        "slowEndTime": 105550
+    },
+    {
+        "text": "You're pretty ill also.",
+        "startTime": 70550,
+        "endTime": 71300,
+        "slowStartTime": 105900,
+        "slowEndTime": 107250
+    },
+    {
+        "text": "Thanks! We should both go to the hospital.",
+        "startTime": 71550,
+        "endTime": 74050,
+        "slowStartTime": 107500,
+        "slowEndTime": 111300
+    },
+    {
+        "text": "Yeah!",
+        "startTime": 74200,
+        "endTime": 74750,
+        "slowStartTime": 111450,
+        "slowEndTime": 112400
+    }
+]

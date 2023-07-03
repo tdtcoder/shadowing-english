@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Where can I take you tonight, ma'am?",
+        "startTime": 909,
+        "endTime": 2416,
+        "slowStartTime": 1514,
+        "slowEndTime": 3849
+    },
+    {
+        "text": "175 Springer Lane please.",
+        "startTime": 2751,
+        "endTime": 4787,
+        "slowStartTime": 4277,
+        "slowEndTime": 7406
+    },
+    {
+        "text": "You got it.",
+        "startTime": 5258,
+        "endTime": 5895,
+        "slowStartTime": 8037,
+        "slowEndTime": 9068
+    },
+    {
+        "text": "How about this weather?",
+        "startTime": 6858,
+        "endTime": 8062,
+        "slowStartTime": 10437,
+        "slowEndTime": 12318
+    },
+    {
+        "text": "It's really cold outside.",
+        "startTime": 8460,
+        "endTime": 10163,
+        "slowStartTime": 12840,
+        "slowEndTime": 15469
+    },
+    {
+        "text": "Are you warm enough or do I need to turn up the heater?",
+        "startTime": 10877,
+        "endTime": 13656,
+        "slowStartTime": 16465,
+        "slowEndTime": 20709
+    },
+    {
+        "text": "Oh no, I'm fine, but it's much colder here than I thought it would be.",
+        "startTime": 14001,
+        "endTime": 18271,
+        "slowStartTime": 21152,
+        "slowEndTime": 27631
+    },
+    {
+        "text": "Oh, are you from out of town?",
+        "startTime": 18581,
+        "endTime": 20347,
+        "slowStartTime": 28021,
+        "slowEndTime": 30745
+    },
+    {
+        "text": "Yes. It's much warmer where I'm from compared to Boston.",
+        "startTime": 20833,
+        "endTime": 24997,
+        "slowStartTime": 31399,
+        "slowEndTime": 37721
+    },
+    {
+        "text": "That sounds nice.",
+        "startTime": 25435,
+        "endTime": 26472,
+        "slowStartTime": 38302,
+        "slowEndTime": 39933
+    },
+    {
+        "text": "I can't wait for it to warm up here.",
+        "startTime": 26908,
+        "endTime": 29025,
+        "slowStartTime": 40512,
+        "slowEndTime": 43762
+    },
+    {
+        "text": "Where are you from?",
+        "startTime": 29805,
+        "endTime": 30600,
+        "slowStartTime": 44857,
+        "slowEndTime": 46125
+    },
+    {
+        "text": "I live in Atlanta.",
+        "startTime": 30852,
+        "endTime": 31918,
+        "slowStartTime": 46428,
+        "slowEndTime": 48102
+    },
+    {
+        "text": "I've been there a couple of times.",
+        "startTime": 32295,
+        "endTime": 33920,
+        "slowStartTime": 48592,
+        "slowEndTime": 51105
+    },
+    {
+        "text": "It is much warmer there.",
+        "startTime": 34367,
+        "endTime": 35700,
+        "slowStartTime": 51700,
+        "slowEndTime": 53775
+    },
+    {
+        "text": "Hey, didn't the Braves just win the National League Division Series?",
+        "startTime": 36299,
+        "endTime": 40040,
+        "slowStartTime": 54599,
+        "slowEndTime": 60285
+    },
+    {
+        "text": "Yes, they did, although the Dodgers didn't make it easy for them.",
+        "startTime": 40343,
+        "endTime": 43875,
+        "slowStartTime": 60664,
+        "slowEndTime": 66038
+    },
+    {
+        "text": "I'm not a baseball fan so I didn't watch any of the games.",
+        "startTime": 44297,
+        "endTime": 47676,
+        "slowStartTime": 66595,
+        "slowEndTime": 71739
+    },
+    {
+        "text": "But I heard it was real close.",
+        "startTime": 48203,
+        "endTime": 49909,
+        "slowStartTime": 72454,
+        "slowEndTime": 75088
+    },
+    {
+        "text": "It was but luckily the Braves came through in the last game.",
+        "startTime": 50279,
+        "endTime": 54643,
+        "slowStartTime": 75568,
+        "slowEndTime": 82189
+    }
+]

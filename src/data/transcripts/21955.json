@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Some of the latest advancements in robotics are pretty impressive.",
+        "startTime": 50,
+        "endTime": 2703,
+        "slowStartTime": 97,
+        "slowEndTime": 4279
+    },
+    {
+        "text": "Just look at Atlas, a humanoid robot built for the US defense department.",
+        "startTime": 3228,
+        "endTime": 7217,
+        "slowStartTime": 4992,
+        "slowEndTime": 11051
+    },
+    {
+        "text": "Atlas is remarkable because it's built to look and act like a person.",
+        "startTime": 7607,
+        "endTime": 10926,
+        "slowStartTime": 11560,
+        "slowEndTime": 16614
+    },
+    {
+        "text": "But sometimes, engineers get a little carried away.",
+        "startTime": 11147,
+        "endTime": 13799,
+        "slowStartTime": 16870,
+        "slowEndTime": 20924
+    },
+    {
+        "text": "They end up with a creation that drifts into a no-man's-land...",
+        "startTime": 14186,
+        "endTime": 17041,
+        "slowStartTime": 21429,
+        "slowEndTime": 25786
+    },
+    {
+        "text": "...between something that's lifelike and something that's actually alive.",
+        "startTime": 17203,
+        "endTime": 20737,
+        "slowStartTime": 25955,
+        "slowEndTime": 31331
+    },
+    {
+        "text": "This void is commonly referred to as the \"uncanny valley.\"",
+        "startTime": 21062,
+        "endTime": 24198,
+        "slowStartTime": 31743,
+        "slowEndTime": 36522
+    },
+    {
+        "text": "Journeying into the valley often elicits an emotional response...",
+        "startTime": 24525,
+        "endTime": 27829,
+        "slowStartTime": 36937,
+        "slowEndTime": 41968
+    },
+    {
+        "text": "...that's somewhere between uncomfortable and creeped out.",
+        "startTime": 27917,
+        "endTime": 30597,
+        "slowStartTime": 42025,
+        "slowEndTime": 46121
+    },
+    {
+        "text": "Japanese robotics professor Masahiro Mori coined the phrase way back in 1970.",
+        "startTime": 31055,
+        "endTime": 35671,
+        "slowStartTime": 46733,
+        "slowEndTime": 53731
+    },
+    {
+        "text": "He noted that a positive reaction toward a humanlike robot can quickly turn to disgust.",
+        "startTime": 35853,
+        "endTime": 40354,
+        "slowStartTime": 53929,
+        "slowEndTime": 60756
+    },
+    {
+        "text": "Mori thought this response...",
+        "startTime": 40747,
+        "endTime": 41996,
+        "slowStartTime": 61270,
+        "slowEndTime": 63219
+    },
+    {
+        "text": "...was triggered by subtle imperfections in the robot's appearance.",
+        "startTime": 42065,
+        "endTime": 44973,
+        "slowStartTime": 63247,
+        "slowEndTime": 67684
+    },
+    {
+        "text": "Another hypothesis has to do with our expectations...",
+        "startTime": 45321,
+        "endTime": 48061,
+        "slowStartTime": 68132,
+        "slowEndTime": 72317
+    },
+    {
+        "text": "...of how people and robots are supposed to look and act.",
+        "startTime": 48145,
+        "endTime": 51056,
+        "slowStartTime": 72367,
+        "slowEndTime": 76809
+    },
+    {
+        "text": "Atlas, for example, clearly looks like a robot.",
+        "startTime": 51288,
+        "endTime": 53855,
+        "slowStartTime": 77082,
+        "slowEndTime": 81008
+    },
+    {
+        "text": "You'd have no problem leaving him in your garage overnight.",
+        "startTime": 54128,
+        "endTime": 56525,
+        "slowStartTime": 81342,
+        "slowEndTime": 85012
+    },
+    {
+        "text": "Animation also provides us with some examples of the uncanny valley effect.",
+        "startTime": 57008,
+        "endTime": 60769,
+        "slowStartTime": 85662,
+        "slowEndTime": 91379
+    },
+    {
+        "text": "Movies like The Polar Express and Beowulf were widely panned...",
+        "startTime": 61188,
+        "endTime": 64817,
+        "slowStartTime": 91932,
+        "slowEndTime": 97451
+    },
+    {
+        "text": "...because their characters ventured in the uncanny territory.",
+        "startTime": 64917,
+        "endTime": 67569,
+        "slowStartTime": 97526,
+        "slowEndTime": 101579
+    },
+    {
+        "text": "It's especially difficult for roboticists and animators...",
+        "startTime": 67908,
+        "endTime": 70562,
+        "slowStartTime": 102012,
+        "slowEndTime": 106068
+    },
+    {
+        "text": "...to render lifelike hair, eyes and skin tone.",
+        "startTime": 70641,
+        "endTime": 73151,
+        "slowStartTime": 106112,
+        "slowEndTime": 109952
+    },
+    {
+        "text": "It's even harder when you introduce motion.",
+        "startTime": 73381,
+        "endTime": 75436,
+        "slowStartTime": 110222,
+        "slowEndTime": 113379
+    },
+    {
+        "text": "New technologies promise to bridge the gap between the lifelike and the living,...",
+        "startTime": 76045,
+        "endTime": 80091,
+        "slowStartTime": 114217,
+        "slowEndTime": 120361
+    },
+    {
+        "text": "...but they're trying to hit a moving target.",
+        "startTime": 80558,
+        "endTime": 82031,
+        "slowStartTime": 120987,
+        "slowEndTime": 123271
+    },
+    {
+        "text": "The uncanny valley begins and ends in different places for different people.",
+        "startTime": 82798,
+        "endTime": 86398,
+        "slowStartTime": 124347,
+        "slowEndTime": 129822
+    },
+    {
+        "text": "And besides, we like to think that humans can't be replicated.",
+        "startTime": 86985,
+        "endTime": 89703,
+        "slowStartTime": 130627,
+        "slowEndTime": 134779
+    }
+]

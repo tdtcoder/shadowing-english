@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Where were you two hours ago?",
+        "startTime": 2149,
+        "endTime": 3640,
+        "slowStartTime": 3373,
+        "slowEndTime": 5685
+    },
+    {
+        "text": "Go easy on him, he's had a long day.",
+        "startTime": 4375,
+        "endTime": 7215,
+        "slowStartTime": 6713,
+        "slowEndTime": 11048
+    },
+    {
+        "text": "Do you even have an alibi?",
+        "startTime": 7686,
+        "endTime": 9364,
+        "slowStartTime": 11679,
+        "slowEndTime": 14271
+    },
+    {
+        "text": "Calm down, James.",
+        "startTime": 9633,
+        "endTime": 10784,
+        "slowStartTime": 14600,
+        "slowEndTime": 16401
+    },
+    {
+        "text": "I bet you missed dinner just so you can have that Kraft Homestyle Mac and Cheese Bowl.",
+        "startTime": 12350,
+        "endTime": 18054,
+        "slowStartTime": 18675,
+        "slowEndTime": 27306
+    },
+    {
+        "text": "I was covering Kevin's shift.",
+        "startTime": 18592,
+        "endTime": 19896,
+        "slowStartTime": 28038,
+        "slowEndTime": 30069
+    },
+    {
+        "text": "Lies!",
+        "startTime": 19965,
+        "endTime": 20911,
+        "slowStartTime": 30098,
+        "slowEndTime": 31591
+    },
+    {
+        "text": "Hey, I thought I was the bad cop.",
+        "startTime": 22329,
+        "endTime": 24337,
+        "slowStartTime": 33643,
+        "slowEndTime": 36730
+    },
+    {
+        "text": "Try new Creamy Broccoli or Southwest Tortilla Kraft Homestyle Macaroni and Cheese Bowls.",
+        "startTime": 24947,
+        "endTime": 29393,
+        "slowStartTime": 37571,
+        "slowEndTime": 44315
+    }
+]

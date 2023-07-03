@@ -1,0 +1,128 @@
+[
+    {
+        "text": "I walked in the forest for about an hour.",
+        "startTime": 1930,
+        "endTime": 4070,
+        "slowStartTime": 2930,
+        "slowEndTime": 6180
+    },
+    {
+        "text": "It was pleasantly cool in the shade of the trees.",
+        "startTime": 4630,
+        "endTime": 7300,
+        "slowStartTime": 7030,
+        "slowEndTime": 10900
+    },
+    {
+        "text": "I sat down to rest by a large fallen tree, but I was so tired,...",
+        "startTime": 7640,
+        "endTime": 11840,
+        "slowStartTime": 11520,
+        "slowEndTime": 17910
+    },
+    {
+        "text": "...and the forest was so quiet that I soon fell asleep.",
+        "startTime": 12170,
+        "endTime": 15080,
+        "slowStartTime": 18370,
+        "slowEndTime": 22700
+    },
+    {
+        "text": "I dreamed that I was married to Princess Flavia and lived in the castle at Zenda.",
+        "startTime": 15680,
+        "endTime": 20080,
+        "slowStartTime": 23650,
+        "slowEndTime": 30210
+    },
+    {
+        "text": "I had never seen the Princess in real life,...",
+        "startTime": 20480,
+        "endTime": 22780,
+        "slowStartTime": 30870,
+        "slowEndTime": 34230
+    },
+    {
+        "text": "...but in my dream, I was about to kiss her when I heard a loud voice.",
+        "startTime": 23120,
+        "endTime": 27060,
+        "slowStartTime": 34740,
+        "slowEndTime": 40630
+    },
+    {
+        "text": "\"If you shaved his beard off, he would be the King!\"",
+        "startTime": 27260,
+        "endTime": 30030,
+        "slowStartTime": 41030,
+        "slowEndTime": 45080
+    },
+    {
+        "text": "I thought it was part of my dream, but then I realized that I was awake.",
+        "startTime": 30660,
+        "endTime": 34930,
+        "slowStartTime": 46110,
+        "slowEndTime": 52430
+    },
+    {
+        "text": "I slowly opened my eyes to see two men looking at me.",
+        "startTime": 35435,
+        "endTime": 38830,
+        "slowStartTime": 53280,
+        "slowEndTime": 58190
+    },
+    {
+        "text": "The younger man stepped forward. \"This is Colonel Sapt,\" he said,...",
+        "startTime": 39370,
+        "endTime": 43440,
+        "slowStartTime": 59180,
+        "slowEndTime": 65160
+    },
+    {
+        "text": "...\"and I am Count Fritz von Tarlenheim.\"",
+        "startTime": 43640,
+        "endTime": 45810,
+        "slowStartTime": 65560,
+        "slowEndTime": 68700
+    },
+    {
+        "text": "\"We serve the King of Ruritania.\"",
+        "startTime": 46340,
+        "endTime": 48210,
+        "slowStartTime": 69530,
+        "slowEndTime": 72340
+    },
+    {
+        "text": "As he spoke, a man came out of the trees.",
+        "startTime": 49080,
+        "endTime": 51510,
+        "slowStartTime": 73710,
+        "slowEndTime": 77330
+    },
+    {
+        "text": "I was so surprised that I cried out.",
+        "startTime": 51850,
+        "endTime": 54180,
+        "slowStartTime": 77890,
+        "slowEndTime": 81260
+    },
+    {
+        "text": "We were almost exactly the same.",
+        "startTime": 54580,
+        "endTime": 56650,
+        "slowStartTime": 81960,
+        "slowEndTime": 84980
+    },
+    {
+        "text": "He could have been Rudolph Rassendyll...",
+        "startTime": 57250,
+        "endTime": 59090,
+        "slowStartTime": 86020,
+        "slowEndTime": 88760
+    },
+    {
+        "text": "...and I could have been Rudolph, King of Ruritania!",
+        "startTime": 59390,
+        "endTime": 62260,
+        "slowStartTime": 89180,
+        "slowEndTime": 93430
+    }
+]

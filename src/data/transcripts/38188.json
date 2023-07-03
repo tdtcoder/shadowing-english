@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Why do you like pizza?",
+        "startTime": 523,
+        "endTime": 1969,
+        "slowStartTime": 935,
+        "slowEndTime": 3178
+    },
+    {
+        "text": "We like pizza because it's delicious.",
+        "startTime": 2912,
+        "endTime": 5729,
+        "slowStartTime": 4518,
+        "slowEndTime": 8818
+    },
+    {
+        "text": "Why do you read books?",
+        "startTime": 7275,
+        "endTime": 8783,
+        "slowStartTime": 11062,
+        "slowEndTime": 13399
+    },
+    {
+        "text": "I read books because I like to learn.",
+        "startTime": 9539,
+        "endTime": 11961,
+        "slowStartTime": 14458,
+        "slowEndTime": 18166
+    },
+    {
+        "text": "Why do you want to be a doctor?",
+        "startTime": 13485,
+        "endTime": 15352,
+        "slowStartTime": 20378,
+        "slowEndTime": 23253
+    },
+    {
+        "text": "I want to be a doctor because I want to help sick people.",
+        "startTime": 16629,
+        "endTime": 20287,
+        "slowStartTime": 25093,
+        "slowEndTime": 30656
+    },
+    {
+        "text": "Why do you have pets?",
+        "startTime": 21201,
+        "endTime": 22712,
+        "slowStartTime": 31952,
+        "slowEndTime": 34293
+    },
+    {
+        "text": "I have pets because I love animals.",
+        "startTime": 23487,
+        "endTime": 26741,
+        "slowStartTime": 35381,
+        "slowEndTime": 40336
+    }
+]

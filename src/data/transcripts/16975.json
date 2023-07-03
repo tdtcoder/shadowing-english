@@ -1,0 +1,30 @@
+[
+    {
+        "text": "People say you have to have a lot of passion for what you're doing...",
+        "startTime": 800,
+        "endTime": 4300,
+        "slowStartTime": 1350,
+        "slowEndTime": 6700
+    },
+    {
+        "text": "...and it's totally true.",
+        "startTime": 4750,
+        "endTime": 5600,
+        "slowStartTime": 7300,
+        "slowEndTime": 8700
+    },
+    {
+        "text": "And the reason is, because it's so hard,...",
+        "startTime": 5700,
+        "endTime": 10000,
+        "slowStartTime": 8750,
+        "slowEndTime": 15200
+    },
+    {
+        "text": "...that if you don't, any rational person would give up.",
+        "startTime": 10350,
+        "endTime": 13250,
+        "slowStartTime": 15700,
+        "slowEndTime": 20100
+    }
+]

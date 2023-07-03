@@ -1,0 +1,114 @@
+[
+    {
+        "text": "How do you spell your name?",
+        "startTime": 447,
+        "endTime": 2211,
+        "slowStartTime": 821,
+        "slowEndTime": 3541
+    },
+    {
+        "text": "It's Julia.",
+        "startTime": 6997,
+        "endTime": 8013,
+        "slowStartTime": 10645,
+        "slowEndTime": 12245
+    },
+    {
+        "text": "J - U - L - I - A.",
+        "startTime": 8577,
+        "endTime": 11539,
+        "slowStartTime": 13015,
+        "slowEndTime": 17534
+    },
+    {
+        "text": "It's Barack.",
+        "startTime": 17648,
+        "endTime": 18700,
+        "slowStartTime": 26622,
+        "slowEndTime": 28275
+    },
+    {
+        "text": "B - A - R - A - C - K.",
+        "startTime": 19247,
+        "endTime": 22162,
+        "slowStartTime": 29021,
+        "slowEndTime": 33468
+    },
+    {
+        "text": "Bill.",
+        "startTime": 27171,
+        "endTime": 27922,
+        "slowStartTime": 40906,
+        "slowEndTime": 42108
+    },
+    {
+        "text": "B - I - L - L.",
+        "startTime": 28641,
+        "endTime": 31027,
+        "slowStartTime": 43112,
+        "slowEndTime": 46766
+    },
+    {
+        "text": "My name is Oprah.",
+        "startTime": 34576,
+        "endTime": 36033,
+        "slowStartTime": 52014,
+        "slowEndTime": 54275
+    },
+    {
+        "text": "O - P - R - A - H.",
+        "startTime": 36847,
+        "endTime": 40135,
+        "slowStartTime": 55420,
+        "slowEndTime": 60427
+    },
+    {
+        "text": "How do you spell your last name?",
+        "startTime": 44727,
+        "endTime": 46687,
+        "slowStartTime": 67241,
+        "slowEndTime": 70255
+    },
+    {
+        "text": "Clinton.",
+        "startTime": 47861,
+        "endTime": 48737,
+        "slowStartTime": 71941,
+        "slowEndTime": 73331
+    },
+    {
+        "text": "C - L - I - N - T - O - N.",
+        "startTime": 49271,
+        "endTime": 53766,
+        "slowStartTime": 74056,
+        "slowEndTime": 80874
+    },
+    {
+        "text": "Pacino.",
+        "startTime": 58169,
+        "endTime": 58929,
+        "slowStartTime": 87403,
+        "slowEndTime": 88619
+    },
+    {
+        "text": "P - A - C - I - N - O.",
+        "startTime": 59551,
+        "endTime": 62709,
+        "slowStartTime": 89477,
+        "slowEndTime": 94288
+    },
+    {
+        "text": "It's Messi.",
+        "startTime": 67358,
+        "endTime": 68283,
+        "slowStartTime": 101187,
+        "slowEndTime": 102650
+    },
+    {
+        "text": "M - E - S - S - I.",
+        "startTime": 68820,
+        "endTime": 71659,
+        "slowStartTime": 103380,
+        "slowEndTime": 107713
+    }
+]

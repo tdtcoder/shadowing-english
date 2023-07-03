@@ -1,0 +1,16 @@
+[
+    {
+        "text": "Final call for Emirates Flight 386 to Hong Kong via Bangkok.",
+        "startTime": 720,
+        "endTime": 8535,
+        "slowStartTime": 1230,
+        "slowEndTime": 13028
+    },
+    {
+        "text": "Closing now at Gate No. 9.",
+        "startTime": 8743,
+        "endTime": 11612,
+        "slowStartTime": 13264,
+        "slowEndTime": 17643
+    }
+]

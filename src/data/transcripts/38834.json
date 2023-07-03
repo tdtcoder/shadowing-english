@@ -1,0 +1,79 @@
+[
+    {
+        "text": "My name is Jamie, and I live in a large house.",
+        "startTime": 531,
+        "endTime": 3901,
+        "slowStartTime": 947,
+        "slowEndTime": 6077
+    },
+    {
+        "text": "My house has very big rooms.",
+        "startTime": 4494,
+        "endTime": 6351,
+        "slowStartTime": 6891,
+        "slowEndTime": 9752
+    },
+    {
+        "text": "We can hold big parties in the living room...",
+        "startTime": 7377,
+        "endTime": 10045,
+        "slowStartTime": 11216,
+        "slowEndTime": 15292
+    },
+    {
+        "text": "...and we have a kitchen filled with lots of food.",
+        "startTime": 10140,
+        "endTime": 13621,
+        "slowStartTime": 15360,
+        "slowEndTime": 20657
+    },
+    {
+        "text": "My bedroom has a very big closet with lots of shelves.",
+        "startTime": 14911,
+        "endTime": 18854,
+        "slowStartTime": 22516,
+        "slowEndTime": 28506
+    },
+    {
+        "text": "I also have an office, so I can work from home.",
+        "startTime": 19959,
+        "endTime": 22824,
+        "slowStartTime": 30089,
+        "slowEndTime": 34461
+    },
+    {
+        "text": "We have a nice swimming pool behind our house.",
+        "startTime": 24017,
+        "endTime": 26489,
+        "slowStartTime": 36176,
+        "slowEndTime": 39958
+    },
+    {
+        "text": "There are a lot of tables and chairs there.",
+        "startTime": 27609,
+        "endTime": 29935,
+        "slowStartTime": 41564,
+        "slowEndTime": 45127
+    },
+    {
+        "text": "There is also a garden with lots of plants and flowers.",
+        "startTime": 30528,
+        "endTime": 34371,
+        "slowStartTime": 45942,
+        "slowEndTime": 51782
+    },
+    {
+        "text": "Our garage is under the ground,...",
+        "startTime": 35282,
+        "endTime": 37932,
+        "slowStartTime": 53073,
+        "slowEndTime": 57123
+    },
+    {
+        "text": "...and we store our bikes and park our cars there.",
+        "startTime": 38613,
+        "endTime": 41591,
+        "slowStartTime": 58069,
+        "slowEndTime": 62612
+    }
+]

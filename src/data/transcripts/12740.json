@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Hey, Changmin. Can you do me a favor?",
+        "startTime": 1851,
+        "endTime": 3997,
+        "slowStartTime": 2927,
+        "slowEndTime": 6221
+    },
+    {
+        "text": "Sure, I'd be happy to. What's wrong?",
+        "startTime": 4185,
+        "endTime": 6501,
+        "slowStartTime": 6427,
+        "slowEndTime": 9977
+    },
+    {
+        "text": "Well, I've been having a lot of trouble with my computer lately.",
+        "startTime": 6877,
+        "endTime": 10321,
+        "slowStartTime": 10466,
+        "slowEndTime": 15706
+    },
+    {
+        "text": "I'm not very good with computers, so I don't really know what to do.",
+        "startTime": 10767,
+        "endTime": 14425,
+        "slowStartTime": 16300,
+        "slowEndTime": 21863
+    },
+    {
+        "text": "I see. What is going wrong?",
+        "startTime": 14601,
+        "endTime": 16916,
+        "slowStartTime": 22051,
+        "slowEndTime": 25599
+    },
+    {
+        "text": "It keeps shutting down whenever I open up a certain program.",
+        "startTime": 17411,
+        "endTime": 20773,
+        "slowStartTime": 26267,
+        "slowEndTime": 31385
+    },
+    {
+        "text": "Uh-oh. That doesn't sound very good. You might have a virus.",
+        "startTime": 21017,
+        "endTime": 24735,
+        "slowStartTime": 31676,
+        "slowEndTime": 37327
+    },
+    {
+        "text": "Have you had your computer checked for viruses?",
+        "startTime": 25006,
+        "endTime": 27140,
+        "slowStartTime": 37659,
+        "slowEndTime": 40935
+    },
+    {
+        "text": "Viruses? No, I haven't. Would you mind checking my computer for viruses?",
+        "startTime": 27455,
+        "endTime": 32431,
+        "slowStartTime": 41333,
+        "slowEndTime": 48872
+    },
+    {
+        "text": "Sure, I have a program on a disk that will help.",
+        "startTime": 32585,
+        "endTime": 35175,
+        "slowStartTime": 49028,
+        "slowEndTime": 52988
+    },
+    {
+        "text": "Why don't I go home and get it,...",
+        "startTime": 35713,
+        "endTime": 36999,
+        "slowStartTime": 53720,
+        "slowEndTime": 55724
+    },
+    {
+        "text": "...then we can meet up and try using it on your computer?",
+        "startTime": 37299,
+        "endTime": 40173,
+        "slowStartTime": 56099,
+        "slowEndTime": 60485
+    },
+    {
+        "text": "That sounds great, Changmin. I really appreciate your help!",
+        "startTime": 40406,
+        "endTime": 43489,
+        "slowStartTime": 60759,
+        "slowEndTime": 65458
+    },
+    {
+        "text": "I owe you big.",
+        "startTime": 43785,
+        "endTime": 44801,
+        "slowStartTime": 65827,
+        "slowEndTime": 67426
+    }
+]

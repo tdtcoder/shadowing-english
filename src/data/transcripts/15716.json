@@ -1,0 +1,142 @@
+[
+    {
+        "text": "So, what have you got here?",
+        "startTime": 45,
+        "endTime": 1123,
+        "slowStartTime": 218,
+        "slowEndTime": 1909
+    },
+    {
+        "text": "So, we have quantum locking, the superconductor is locked in space.",
+        "startTime": 1799,
+        "endTime": 6153,
+        "slowStartTime": 2849,
+        "slowEndTime": 9454
+    },
+    {
+        "text": "And it stays wherever I put it.",
+        "startTime": 6549,
+        "endTime": 8029,
+        "slowStartTime": 9974,
+        "slowEndTime": 12269
+    },
+    {
+        "text": "You see this is quantum trapping.",
+        "startTime": 9389,
+        "endTime": 11221,
+        "slowStartTime": 14234,
+        "slowEndTime": 17056
+    },
+    {
+        "text": "That's amazing.",
+        "startTime": 12791,
+        "endTime": 13233,
+        "slowStartTime": 19337,
+        "slowEndTime": 20075
+    },
+    {
+        "text": "As long as it's cold,...",
+        "startTime": 13317,
+        "endTime": 14593,
+        "slowStartTime": 20126,
+        "slowEndTime": 22114
+    },
+    {
+        "text": "...the superconducting is frozen with liquid nitrogen.",
+        "startTime": 14983,
+        "endTime": 17393,
+        "slowStartTime": 22624,
+        "slowEndTime": 26314
+    },
+    {
+        "text": "Upside down.",
+        "startTime": 17519,
+        "endTime": 18414,
+        "slowStartTime": 26428,
+        "slowEndTime": 27846
+    },
+    {
+        "text": "Alright.",
+        "startTime": 18591,
+        "endTime": 18828,
+        "slowStartTime": 28036,
+        "slowEndTime": 28467
+    },
+    {
+        "text": "And it stays locked.",
+        "startTime": 19135,
+        "endTime": 20231,
+        "slowStartTime": 28853,
+        "slowEndTime": 30571
+    },
+    {
+        "text": "So the fact that it's superconducting is locking the magnetic field in three dimensions, right?",
+        "startTime": 20307,
+        "endTime": 24627,
+        "slowStartTime": 30610,
+        "slowEndTime": 37165
+    },
+    {
+        "text": "Yeah, exactly.",
+        "startTime": 24723,
+        "endTime": 25549,
+        "slowStartTime": 37234,
+        "slowEndTime": 38549
+    },
+    {
+        "text": "And that pivots...",
+        "startTime": 25872,
+        "endTime": 27172,
+        "slowStartTime": 38958,
+        "slowEndTime": 40983
+    },
+    {
+        "text": "Because this is symmetric, it can rotate without breaking the locking.",
+        "startTime": 27515,
+        "endTime": 31834,
+        "slowStartTime": 41423,
+        "slowEndTime": 47976
+    },
+    {
+        "text": "The locking doesn't break.",
+        "startTime": 32506,
+        "endTime": 33437,
+        "slowStartTime": 48909,
+        "slowEndTime": 50381
+    },
+    {
+        "text": "Alright.",
+        "startTime": 33953,
+        "endTime": 34104,
+        "slowStartTime": 51080,
+        "slowEndTime": 51381
+    },
+    {
+        "text": "So, it stays there on the x and y but it pivots on the...",
+        "startTime": 35159,
+        "endTime": 39479,
+        "slowStartTime": 52889,
+        "slowEndTime": 59443
+    },
+    {
+        "text": "...yeah, on the axis of the magnet.",
+        "startTime": 39579,
+        "endTime": 41162,
+        "slowStartTime": 59518,
+        "slowEndTime": 61968
+    },
+    {
+        "text": "You see if I can move it on the side, it will again pivot around the axis of the magnet...",
+        "startTime": 41332,
+        "endTime": 46448,
+        "slowStartTime": 62148,
+        "slowEndTime": 69897
+    },
+    {
+        "text": "...because it makes sure that the magnetic field inside of it stays the same.",
+        "startTime": 46559,
+        "endTime": 51848,
+        "slowStartTime": 69989,
+        "slowEndTime": 77997
+    }
+]

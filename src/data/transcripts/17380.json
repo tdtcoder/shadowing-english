@@ -1,0 +1,107 @@
+[
+    {
+        "text": "We put in some flour.",
+        "startTime": 3242,
+        "endTime": 5357,
+        "slowStartTime": 5013,
+        "slowEndTime": 8260
+    },
+    {
+        "text": "We put in some sugar.",
+        "startTime": 6821,
+        "endTime": 8674,
+        "slowStartTime": 10381,
+        "slowEndTime": 13236
+    },
+    {
+        "text": "We put in a little salt.",
+        "startTime": 10231,
+        "endTime": 12462,
+        "slowStartTime": 15497,
+        "slowEndTime": 18918
+    },
+    {
+        "text": "We put in two eggs.",
+        "startTime": 13928,
+        "endTime": 15997,
+        "slowStartTime": 21042,
+        "slowEndTime": 24220
+    },
+    {
+        "text": "We put in some milk.",
+        "startTime": 17465,
+        "endTime": 19451,
+        "slowStartTime": 26347,
+        "slowEndTime": 29401
+    },
+    {
+        "text": "We put in some butter.",
+        "startTime": 20829,
+        "endTime": 22827,
+        "slowStartTime": 31394,
+        "slowEndTime": 34465
+    },
+    {
+        "text": "We mix it up.",
+        "startTime": 24304,
+        "endTime": 25571,
+        "slowStartTime": 36606,
+        "slowEndTime": 38582
+    },
+    {
+        "text": "Dad puts it in the oven.",
+        "startTime": 27467,
+        "endTime": 29664,
+        "slowStartTime": 41350,
+        "slowEndTime": 44721
+    },
+    {
+        "text": "Yum, yum.",
+        "startTime": 30229,
+        "endTime": 31639,
+        "slowStartTime": 45493,
+        "slowEndTime": 47684
+    },
+    {
+        "text": "What are you doing?",
+        "startTime": 35802,
+        "endTime": 36853,
+        "slowStartTime": 53853,
+        "slowEndTime": 55505
+    },
+    {
+        "text": "I am making cookies.",
+        "startTime": 38155,
+        "endTime": 40030,
+        "slowStartTime": 57382,
+        "slowEndTime": 60270
+    },
+    {
+        "text": "What do you do first?",
+        "startTime": 41573,
+        "endTime": 43273,
+        "slowStartTime": 62510,
+        "slowEndTime": 65134
+    },
+    {
+        "text": "I put in some flour, sugar and salt.",
+        "startTime": 44569,
+        "endTime": 48238,
+        "slowStartTime": 67004,
+        "slowEndTime": 72582
+    },
+    {
+        "text": "What do you do next?",
+        "startTime": 49255,
+        "endTime": 50789,
+        "slowStartTime": 74033,
+        "slowEndTime": 76408
+    },
+    {
+        "text": "I put in some eggs.",
+        "startTime": 52200,
+        "endTime": 54142,
+        "slowStartTime": 78450,
+        "slowEndTime": 81438
+    }
+]

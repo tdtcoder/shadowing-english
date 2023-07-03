@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Have you had a chance to look over the handout for my presentation?",
+        "startTime": 3350,
+        "endTime": 6700,
+        "slowStartTime": 5200,
+        "slowEndTime": 10300
+    },
+    {
+        "text": "Yes, Mark.",
+        "startTime": 7150,
+        "endTime": 7900,
+        "slowStartTime": 10950,
+        "slowEndTime": 12100
+    },
+    {
+        "text": "And I have some questions about the content.",
+        "startTime": 8200,
+        "endTime": 10700,
+        "slowStartTime": 12500,
+        "slowEndTime": 16250
+    },
+    {
+        "text": "Really?",
+        "startTime": 11150,
+        "endTime": 11650,
+        "slowStartTime": 16950,
+        "slowEndTime": 17700
+    },
+    {
+        "text": "Do you think I need to adjust the content of the presentation?",
+        "startTime": 12100,
+        "endTime": 15000,
+        "slowStartTime": 18300,
+        "slowEndTime": 22700
+    },
+    {
+        "text": "A little.",
+        "startTime": 15300,
+        "endTime": 15950,
+        "slowStartTime": 23150,
+        "slowEndTime": 24200
+    },
+    {
+        "text": "For instance, I don't think the example you give in the introduction is really relevant...",
+        "startTime": 16250,
+        "endTime": 20900,
+        "slowStartTime": 24600,
+        "slowEndTime": 31600
+    },
+    {
+        "text": "...and the complexity of the last two sections of the presentation...",
+        "startTime": 21350,
+        "endTime": 24650,
+        "slowStartTime": 32200,
+        "slowEndTime": 37200
+    },
+    {
+        "text": "...may be too much to explain in the allotted time for this presentation.",
+        "startTime": 24950,
+        "endTime": 29000,
+        "slowStartTime": 37600,
+        "slowEndTime": 43700
+    },
+    {
+        "text": "I guess I have a lot more work to do on the structure of the whole presentation.",
+        "startTime": 29450,
+        "endTime": 33400,
+        "slowStartTime": 44400,
+        "slowEndTime": 50300
+    },
+    {
+        "text": "Maybe after you work on it more, you can practice in front of me.",
+        "startTime": 33800,
+        "endTime": 37200,
+        "slowStartTime": 50900,
+        "slowEndTime": 56000
+    },
+    {
+        "text": "Great!",
+        "startTime": 37400,
+        "endTime": 37750,
+        "slowStartTime": 56250,
+        "slowEndTime": 56800
+    },
+    {
+        "text": "You can tell me if I use good eye contact or have distracting mannerisms.",
+        "startTime": 38250,
+        "endTime": 42800,
+        "slowStartTime": 57550,
+        "slowEndTime": 64400
+    }
+]

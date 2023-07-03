@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Everybody loves apples.",
+        "startTime": 2069,
+        "endTime": 3556,
+        "slowStartTime": 3254,
+        "slowEndTime": 5559
+    },
+    {
+        "text": "An apple is a smooth, shiny, round fruit with the top and bottom pushed in.",
+        "startTime": 5664,
+        "endTime": 11274,
+        "slowStartTime": 8646,
+        "slowEndTime": 17136
+    },
+    {
+        "text": "It is green when it's raw but a deep red when it's ripe.",
+        "startTime": 13067,
+        "endTime": 16658,
+        "slowStartTime": 19751,
+        "slowEndTime": 25212
+    },
+    {
+        "text": "It tastes tangy and sweet normally.",
+        "startTime": 19487,
+        "endTime": 21712,
+        "slowStartTime": 29381,
+        "slowEndTime": 32793
+    },
+    {
+        "text": "It has a few seeds in the middle which are thrown away.",
+        "startTime": 24583,
+        "endTime": 27518,
+        "slowStartTime": 37024,
+        "slowEndTime": 41502
+    },
+    {
+        "text": "If you haven't eaten an apple so far, folks, you have missed something in life.",
+        "startTime": 30475,
+        "endTime": 34976,
+        "slowStartTime": 45863,
+        "slowEndTime": 52689
+    }
+]

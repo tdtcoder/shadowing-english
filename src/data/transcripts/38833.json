@@ -1,0 +1,226 @@
+[
+    {
+        "text": "Hi, Ryoko! We're just getting started.",
+        "startTime": 375,
+        "endTime": 2156,
+        "slowStartTime": 713,
+        "slowEndTime": 3459
+    },
+    {
+        "text": "I have you on speakerphone.",
+        "startTime": 2321,
+        "endTime": 3532,
+        "slowStartTime": 3631,
+        "slowEndTime": 5523
+    },
+    {
+        "text": "Oh, hello everybody.",
+        "startTime": 4685,
+        "endTime": 6766,
+        "slowStartTime": 7178,
+        "slowEndTime": 10374
+    },
+    {
+        "text": "Hey, Ryoko.",
+        "startTime": 6917,
+        "endTime": 7476,
+        "slowStartTime": 10526,
+        "slowEndTime": 11439
+    },
+    {
+        "text": "Hi, Ryoko.",
+        "startTime": 7722,
+        "endTime": 8432,
+        "slowStartTime": 11733,
+        "slowEndTime": 12873
+    },
+    {
+        "text": "Hi, Ryoko.",
+        "startTime": 8568,
+        "endTime": 9395,
+        "slowStartTime": 13002,
+        "slowEndTime": 14317
+    },
+    {
+        "text": "Okay, who wants to start?",
+        "startTime": 9589,
+        "endTime": 11265,
+        "slowStartTime": 14534,
+        "slowEndTime": 17122
+    },
+    {
+        "text": "I don't like talking in public...",
+        "startTime": 15929,
+        "endTime": 19330,
+        "slowStartTime": 24043,
+        "slowEndTime": 29220
+    },
+    {
+        "text": "...or at all really.",
+        "startTime": 20719,
+        "endTime": 22212,
+        "slowStartTime": 31228,
+        "slowEndTime": 33543
+    },
+    {
+        "text": "Harold, please. The floor is yours.",
+        "startTime": 22603,
+        "endTime": 23931,
+        "slowStartTime": 34055,
+        "slowEndTime": 36121
+    },
+    {
+        "text": "Yesterday, I finished the source code for the recipe request voice interface,...",
+        "startTime": 25432,
+        "endTime": 29965,
+        "slowStartTime": 38298,
+        "slowEndTime": 45172
+    },
+    {
+        "text": "...and I ran the unit test, so that's done.",
+        "startTime": 30153,
+        "endTime": 32503,
+        "slowStartTime": 45379,
+        "slowEndTime": 48979
+    },
+    {
+        "text": "But these stand-ups are okay.",
+        "startTime": 33235,
+        "endTime": 34724,
+        "slowStartTime": 50003,
+        "slowEndTime": 52311
+    },
+    {
+        "text": "You only have to answer three questions.",
+        "startTime": 36134,
+        "endTime": 38148,
+        "slowStartTime": 54351,
+        "slowEndTime": 57447
+    },
+    {
+        "text": "What did you do yesterday?",
+        "startTime": 38388,
+        "endTime": 40105,
+        "slowStartTime": 57732,
+        "slowEndTime": 60383
+    },
+    {
+        "text": "What are you doing today?",
+        "startTime": 40261,
+        "endTime": 41921,
+        "slowStartTime": 60542,
+        "slowEndTime": 63107
+    },
+    {
+        "text": "And what is your main impediment?",
+        "startTime": 42344,
+        "endTime": 43865,
+        "slowStartTime": 63666,
+        "slowEndTime": 66022
+    },
+    {
+        "text": "Today, I am working on passing the request parameters to the recipe search code.",
+        "startTime": 44189,
+        "endTime": 50021,
+        "slowStartTime": 66433,
+        "slowEndTime": 75256
+    },
+    {
+        "text": "It's structured. It's fast.",
+        "startTime": 51045,
+        "endTime": 53781,
+        "slowStartTime": 76717,
+        "slowEndTime": 80897
+    },
+    {
+        "text": "It's painless.",
+        "startTime": 58441,
+        "endTime": 59160,
+        "slowStartTime": 87812,
+        "slowEndTime": 88965
+    },
+    {
+        "text": "My main impediment is still my lack of knowledge of the speech recognition engine.",
+        "startTime": 59781,
+        "endTime": 65720,
+        "slowStartTime": 89821,
+        "slowEndTime": 98805
+    },
+    {
+        "text": "Ryoko is our expert and she's been a wonderful help.",
+        "startTime": 66209,
+        "endTime": 70277,
+        "slowStartTime": 99464,
+        "slowEndTime": 105641
+    },
+    {
+        "text": "But with the time difference, it's just challenging.",
+        "startTime": 70584,
+        "endTime": 73730,
+        "slowStartTime": 106026,
+        "slowEndTime": 110820
+    },
+    {
+        "text": "Okay. That's very good Harold, but we need to resolve that.",
+        "startTime": 73963,
+        "endTime": 77179,
+        "slowStartTime": 111095,
+        "slowEndTime": 115993
+    },
+    {
+        "text": "Ryoko?",
+        "startTime": 77501,
+        "endTime": 77985,
+        "slowStartTime": 116401,
+        "slowEndTime": 117202
+    },
+    {
+        "text": "Hi.",
+        "startTime": 78129,
+        "endTime": 78365,
+        "slowStartTime": 117343,
+        "slowEndTime": 117772
+    },
+    {
+        "text": "Can you send me your schedule?",
+        "startTime": 78763,
+        "endTime": 79800,
+        "slowStartTime": 118294,
+        "slowEndTime": 119925
+    },
+    {
+        "text": "I will look into getting travel approval.",
+        "startTime": 80133,
+        "endTime": 82049,
+        "slowStartTime": 120350,
+        "slowEndTime": 123298
+    },
+    {
+        "text": "Okay, I'll do that.",
+        "startTime": 82483,
+        "endTime": 83925,
+        "slowStartTime": 123874,
+        "slowEndTime": 126113
+    },
+    {
+        "text": "Thanks, Ryoko.",
+        "startTime": 84424,
+        "endTime": 85129,
+        "slowStartTime": 126786,
+        "slowEndTime": 127918
+    },
+    {
+        "text": "Why don't you go next?",
+        "startTime": 86170,
+        "endTime": 87126,
+        "slowStartTime": 129405,
+        "slowEndTime": 130914
+    },
+    {
+        "text": "Okay sure.",
+        "startTime": 87609,
+        "endTime": 88451,
+        "slowStartTime": 131564,
+        "slowEndTime": 132902
+    }
+]

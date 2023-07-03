@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Hi.",
+        "startTime": 217,
+        "endTime": 789,
+        "slowStartTime": 475,
+        "slowEndTime": 1409
+    },
+    {
+        "text": "Hi there!",
+        "startTime": 1073,
+        "endTime": 1349,
+        "slowStartTime": 1759,
+        "slowEndTime": 2248
+    },
+    {
+        "text": "How can I help you?",
+        "startTime": 1445,
+        "endTime": 2047,
+        "slowStartTime": 2318,
+        "slowEndTime": 3296
+    },
+    {
+        "text": "This basic response simply confirms an agent is available...",
+        "startTime": 2475,
+        "endTime": 5435,
+        "slowStartTime": 3862,
+        "slowEndTime": 8378
+    },
+    {
+        "text": "...and lets the customer know it's okay to ask their question.",
+        "startTime": 5653,
+        "endTime": 8552,
+        "slowStartTime": 8630,
+        "slowEndTime": 13053
+    },
+    {
+        "text": "At times, a canned response will not be appropriate...",
+        "startTime": 8823,
+        "endTime": 11709,
+        "slowStartTime": 13385,
+        "slowEndTime": 17789
+    },
+    {
+        "text": "...especially when online chat users skip the formalities...",
+        "startTime": 11919,
+        "endTime": 15039,
+        "slowStartTime": 18029,
+        "slowEndTime": 22784
+    },
+    {
+        "text": "...and get straight to the point.",
+        "startTime": 15144,
+        "endTime": 16367,
+        "slowStartTime": 22866,
+        "slowEndTime": 24775
+    },
+    {
+        "text": "I need to find out your pricing.",
+        "startTime": 16938,
+        "endTime": 18591,
+        "slowStartTime": 25557,
+        "slowEndTime": 28112
+    },
+    {
+        "text": "Hey there.",
+        "startTime": 18999,
+        "endTime": 19404,
+        "slowStartTime": 28649,
+        "slowEndTime": 29331
+    },
+    {
+        "text": "Great to hear from you today.",
+        "startTime": 19482,
+        "endTime": 20559,
+        "slowStartTime": 29373,
+        "slowEndTime": 31064
+    },
+    {
+        "text": "This canned response isn't appropriate.",
+        "startTime": 20793,
+        "endTime": 22606,
+        "slowStartTime": 31339,
+        "slowEndTime": 34134
+    },
+    {
+        "text": "It's clearly an automated response...",
+        "startTime": 22889,
+        "endTime": 24482,
+        "slowStartTime": 34484,
+        "slowEndTime": 36948
+    },
+    {
+        "text": "...that doesn't address the customer's specific question,...",
+        "startTime": 24583,
+        "endTime": 27115,
+        "slowStartTime": 37025,
+        "slowEndTime": 40897
+    },
+    {
+        "text": "...but instead waste their time.",
+        "startTime": 27381,
+        "endTime": 28905,
+        "slowStartTime": 41221,
+        "slowEndTime": 43582
+    },
+    {
+        "text": "A better response in this situation...",
+        "startTime": 29498,
+        "endTime": 31200,
+        "slowStartTime": 44397,
+        "slowEndTime": 47025
+    },
+    {
+        "text": "...would be to skip the canned greeting altogether...",
+        "startTime": 31458,
+        "endTime": 33522,
+        "slowStartTime": 47337,
+        "slowEndTime": 50508
+    },
+    {
+        "text": "...and respond with something like:",
+        "startTime": 33691,
+        "endTime": 35145,
+        "slowStartTime": 50686,
+        "slowEndTime": 52943
+    },
+    {
+        "text": "Hi, yes I can certainly assist with pricing.",
+        "startTime": 35763,
+        "endTime": 38255,
+        "slowStartTime": 53795,
+        "slowEndTime": 57608
+    },
+    {
+        "text": "Which product are you looking at?",
+        "startTime": 38711,
+        "endTime": 40369,
+        "slowStartTime": 58216,
+        "slowEndTime": 60779
+    }
+]

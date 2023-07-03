@@ -1,0 +1,58 @@
+[
+    {
+        "text": "The first ever atomic bomb to be used in war was dropped here on the city of Hiroshima...",
+        "startTime": 1622,
+        "endTime": 6003,
+        "slowStartTime": 2583,
+        "slowEndTime": 9230
+    },
+    {
+        "text": "...on the 6th of August 1945.",
+        "startTime": 6083,
+        "endTime": 8121,
+        "slowStartTime": 9274,
+        "slowEndTime": 12407
+    },
+    {
+        "text": "Well over 100,000 citizens were killed.",
+        "startTime": 8512,
+        "endTime": 11118,
+        "slowStartTime": 12918,
+        "slowEndTime": 16902
+    },
+    {
+        "text": "Those in the hypocenter were instantly turned into dust,...",
+        "startTime": 11377,
+        "endTime": 14145,
+        "slowStartTime": 17215,
+        "slowEndTime": 21442
+    },
+    {
+        "text": "...while countless others died from the burns and high dose of radiation they received.",
+        "startTime": 14451,
+        "endTime": 17977,
+        "slowStartTime": 21827,
+        "slowEndTime": 27191
+    },
+    {
+        "text": "Over 50,000 survivors or \"hibakusha\" still live in the city.",
+        "startTime": 21391,
+        "endTime": 25423,
+        "slowStartTime": 32237,
+        "slowEndTime": 38359
+    },
+    {
+        "text": "Each one of them has their own story to tell of the day the bomb fell.",
+        "startTime": 25933,
+        "endTime": 29298,
+        "slowStartTime": 39050,
+        "slowEndTime": 44172
+    },
+    {
+        "text": "And I was on my way to meet one.",
+        "startTime": 29699,
+        "endTime": 31296,
+        "slowStartTime": 44699,
+        "slowEndTime": 47169
+    }
+]

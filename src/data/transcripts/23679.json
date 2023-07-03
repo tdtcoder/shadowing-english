@@ -1,0 +1,58 @@
+[
+    {
+        "text": "And then with the advent of cloud computing and search, people realized,...",
+        "startTime": 220,
+        "endTime": 5131,
+        "slowStartTime": 480,
+        "slowEndTime": 7921
+    },
+    {
+        "text": "...\"Wow, machine intelligence, adaptive learning, big data.\"",
+        "startTime": 5520,
+        "endTime": 9469,
+        "slowStartTime": 8430,
+        "slowEndTime": 14429
+    },
+    {
+        "text": "Here's a new set of techniques.",
+        "startTime": 9868,
+        "endTime": 11667,
+        "slowStartTime": 14952,
+        "slowEndTime": 17726
+    },
+    {
+        "text": "And now we're able to throw enormous computational resources at it with cloud computing.",
+        "startTime": 12042,
+        "endTime": 18453,
+        "slowStartTime": 18213,
+        "slowEndTime": 27905
+    },
+    {
+        "text": "And we're starting to make real progress.",
+        "startTime": 18766,
+        "endTime": 20764,
+        "slowStartTime": 28299,
+        "slowEndTime": 31371
+    },
+    {
+        "text": "And so when you think of voice recognition in Siri or in Android,...",
+        "startTime": 21094,
+        "endTime": 25965,
+        "slowStartTime": 31791,
+        "slowEndTime": 39173
+    },
+    {
+        "text": "...it's really getting impressively good.",
+        "startTime": 26153,
+        "endTime": 28577,
+        "slowStartTime": 39379,
+        "slowEndTime": 43091
+    },
+    {
+        "text": "And it's doing this through these large-scale statistical techniques.",
+        "startTime": 28967,
+        "endTime": 33354,
+        "slowStartTime": 43600,
+        "slowEndTime": 50256
+    }
+]

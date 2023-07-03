@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Saw.",
+        "startTime": 2715,
+        "endTime": 3290,
+        "slowStartTime": 4222,
+        "slowEndTime": 5160
+    },
+    {
+        "text": "This is a saw.",
+        "startTime": 4103,
+        "endTime": 5295,
+        "slowStartTime": 6305,
+        "slowEndTime": 8167
+    },
+    {
+        "text": "This is a big saw.",
+        "startTime": 6633,
+        "endTime": 8265,
+        "slowStartTime": 10099,
+        "slowEndTime": 12623
+    },
+    {
+        "text": "Paw.",
+        "startTime": 9665,
+        "endTime": 10164,
+        "slowStartTime": 14648,
+        "slowEndTime": 15471
+    },
+    {
+        "text": "The dog has paws.",
+        "startTime": 10984,
+        "endTime": 12619,
+        "slowStartTime": 16626,
+        "slowEndTime": 19153
+    },
+    {
+        "text": "The dog has small paws.",
+        "startTime": 14030,
+        "endTime": 15994,
+        "slowStartTime": 21195,
+        "slowEndTime": 24216
+    },
+    {
+        "text": "Draw.",
+        "startTime": 17385,
+        "endTime": 18017,
+        "slowStartTime": 26227,
+        "slowEndTime": 27251
+    },
+    {
+        "text": "I can draw.",
+        "startTime": 18819,
+        "endTime": 19901,
+        "slowStartTime": 28379,
+        "slowEndTime": 30076
+    },
+    {
+        "text": "I can draw a picture.",
+        "startTime": 21300,
+        "endTime": 22967,
+        "slowStartTime": 32100,
+        "slowEndTime": 34675
+    },
+    {
+        "text": "Straw.",
+        "startTime": 24322,
+        "endTime": 24955,
+        "slowStartTime": 36633,
+        "slowEndTime": 37657
+    },
+    {
+        "text": "I drink with a straw.",
+        "startTime": 25812,
+        "endTime": 27324,
+        "slowStartTime": 38868,
+        "slowEndTime": 41211
+    },
+    {
+        "text": "I drink milk with a straw.",
+        "startTime": 28679,
+        "endTime": 30553,
+        "slowStartTime": 43169,
+        "slowEndTime": 46055
+    },
+    {
+        "text": "We are going shopping.",
+        "startTime": 36219,
+        "endTime": 38762,
+        "slowStartTime": 54479,
+        "slowEndTime": 58368
+    },
+    {
+        "text": "Happy, happy. It is a party time.",
+        "startTime": 39935,
+        "endTime": 42747,
+        "slowStartTime": 60052,
+        "slowEndTime": 64346
+    },
+    {
+        "text": "We go to the card shop.",
+        "startTime": 43668,
+        "endTime": 45977,
+        "slowStartTime": 65652,
+        "slowEndTime": 69191
+    },
+    {
+        "text": "Card, card, we get a card.",
+        "startTime": 47399,
+        "endTime": 49775,
+        "slowStartTime": 71249,
+        "slowEndTime": 74887
+    },
+    {
+        "text": "We go to the toy store.",
+        "startTime": 51191,
+        "endTime": 53574,
+        "slowStartTime": 76936,
+        "slowEndTime": 80586
+    },
+    {
+        "text": "Toy, toy, we get a toy.",
+        "startTime": 54954,
+        "endTime": 57309,
+        "slowStartTime": 82581,
+        "slowEndTime": 86189
+    },
+    {
+        "text": "We sing happy happy birthday.",
+        "startTime": 58689,
+        "endTime": 61448,
+        "slowStartTime": 88184,
+        "slowEndTime": 92397
+    },
+    {
+        "text": "We have fun!",
+        "startTime": 62393,
+        "endTime": 64972,
+        "slowStartTime": 93739,
+        "slowEndTime": 97683
+    }
+]

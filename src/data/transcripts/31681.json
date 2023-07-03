@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Good morning, how are you?",
+        "startTime": 279,
+        "endTime": 2146,
+        "slowStartTime": 569,
+        "slowEndTime": 3444
+    },
+    {
+        "text": "Hey! What's the matter?",
+        "startTime": 4619,
+        "endTime": 6537,
+        "slowStartTime": 7079,
+        "slowEndTime": 10031
+    },
+    {
+        "text": "Oh I know! Your wing is torn and you can't fly anymore.",
+        "startTime": 9744,
+        "endTime": 14489,
+        "slowStartTime": 14766,
+        "slowEndTime": 21959
+    },
+    {
+        "text": "Oh! Good to see you, Bear.",
+        "startTime": 19619,
+        "endTime": 21714,
+        "slowStartTime": 29579,
+        "slowEndTime": 32796
+    },
+    {
+        "text": "The Bee can't fly anymore, do you know how to help?",
+        "startTime": 22024,
+        "endTime": 25771,
+        "slowStartTime": 33186,
+        "slowEndTime": 38882
+    },
+    {
+        "text": "Oh hello, Bird! Do you know how to help the Bee?",
+        "startTime": 31391,
+        "endTime": 35608,
+        "slowStartTime": 47236,
+        "slowEndTime": 53637
+    },
+    {
+        "text": "Oh hello, Fox! Do you know how to help the Bee?",
+        "startTime": 42513,
+        "endTime": 47111,
+        "slowStartTime": 63920,
+        "slowEndTime": 70891
+    },
+    {
+        "text": "What?! You want to eat the Bee for dinner?!",
+        "startTime": 51037,
+        "endTime": 54821,
+        "slowStartTime": 76706,
+        "slowEndTime": 82457
+    },
+    {
+        "text": "No way, that's a really bad idea.",
+        "startTime": 56967,
+        "endTime": 59780,
+        "slowStartTime": 85601,
+        "slowEndTime": 89895
+    },
+    {
+        "text": "Oh no, does nobody know what to do?",
+        "startTime": 61999,
+        "endTime": 65739,
+        "slowStartTime": 93148,
+        "slowEndTime": 98833
+    },
+    {
+        "text": "Aha Spider, we need your help here!",
+        "startTime": 73429,
+        "endTime": 77156,
+        "slowStartTime": 110293,
+        "slowEndTime": 115959
+    },
+    {
+        "text": "Yay! Your wing is fixed!",
+        "startTime": 95149,
+        "endTime": 97168,
+        "slowStartTime": 142873,
+        "slowEndTime": 145977
+    },
+    {
+        "text": "The Spider sewed it up with her thread.",
+        "startTime": 97658,
+        "endTime": 100556,
+        "slowStartTime": 146637,
+        "slowEndTime": 151059
+    },
+    {
+        "text": "Now you can fly happily again.",
+        "startTime": 100863,
+        "endTime": 103729,
+        "slowStartTime": 151445,
+        "slowEndTime": 155819
+    }
+]

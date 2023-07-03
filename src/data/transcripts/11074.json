@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Prepare yourself...",
+        "startTime": 11950,
+        "endTime": 13100,
+        "slowStartTime": 18000,
+        "slowEndTime": 19900
+    },
+    {
+        "text": "...for something big...",
+        "startTime": 17500,
+        "endTime": 19150,
+        "slowStartTime": 26500,
+        "slowEndTime": 29000
+    },
+    {
+        "text": "...something magical...",
+        "startTime": 22600,
+        "endTime": 24150,
+        "slowStartTime": 34100,
+        "slowEndTime": 36600
+    },
+    {
+        "text": "...because next summer, our world is about to get smurf'd.",
+        "startTime": 26850,
+        "endTime": 34100,
+        "slowStartTime": 40450,
+        "slowEndTime": 51400
+    },
+    {
+        "text": "In 3D.",
+        "startTime": 37750,
+        "endTime": 38800,
+        "slowStartTime": 56800,
+        "slowEndTime": 58400
+    }
+]

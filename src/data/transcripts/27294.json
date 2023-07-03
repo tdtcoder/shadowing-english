@@ -1,0 +1,114 @@
+[
+    {
+        "text": "The city of Madrid,...",
+        "startTime": 1095,
+        "endTime": 2714,
+        "slowStartTime": 1793,
+        "slowEndTime": 4296
+    },
+    {
+        "text": "...a magical city washed by a very special light:...",
+        "startTime": 3739,
+        "endTime": 7410,
+        "slowStartTime": 5758,
+        "slowEndTime": 11340
+    },
+    {
+        "text": "...warm, welcoming, open to everyone.",
+        "startTime": 7764,
+        "endTime": 11565,
+        "slowStartTime": 11796,
+        "slowEndTime": 17573
+    },
+    {
+        "text": "Madrid is a city that lives its life from the street,...",
+        "startTime": 15755,
+        "endTime": 18834,
+        "slowStartTime": 23783,
+        "slowEndTime": 28476
+    },
+    {
+        "text": "...that finds its expression in the open air.",
+        "startTime": 19239,
+        "endTime": 21929,
+        "slowStartTime": 29009,
+        "slowEndTime": 33119
+    },
+    {
+        "text": "A place that spreads itself wide, free,...",
+        "startTime": 22057,
+        "endTime": 24967,
+        "slowStartTime": 33235,
+        "slowEndTime": 37675
+    },
+    {
+        "text": "...open, joyful, dynamic, passionate,...",
+        "startTime": 25199,
+        "endTime": 28472,
+        "slowStartTime": 37949,
+        "slowEndTime": 42933
+    },
+    {
+        "text": "...sophisticated and cosmopolitan;...",
+        "startTime": 32156,
+        "endTime": 34410,
+        "slowStartTime": 48384,
+        "slowEndTime": 51840
+    },
+    {
+        "text": "...a city whose artistic soul is captured in its amazing connection...",
+        "startTime": 35980,
+        "endTime": 39700,
+        "slowStartTime": 54120,
+        "slowEndTime": 59775
+    },
+    {
+        "text": "...with world famous museums and art galleries.",
+        "startTime": 39781,
+        "endTime": 42310,
+        "slowStartTime": 59821,
+        "slowEndTime": 63690
+    },
+    {
+        "text": "And it's also home to some of the biggest plays,...",
+        "startTime": 42724,
+        "endTime": 45267,
+        "slowStartTime": 64236,
+        "slowEndTime": 68125
+    },
+    {
+        "text": "...concerts and sports events;...",
+        "startTime": 45442,
+        "endTime": 47008,
+        "slowStartTime": 68313,
+        "slowEndTime": 70737
+    },
+    {
+        "text": "...a city committed to the passion of living.",
+        "startTime": 51745,
+        "endTime": 54392,
+        "slowStartTime": 77767,
+        "slowEndTime": 81813
+    },
+    {
+        "text": "Come and join the city that never sleeps.",
+        "startTime": 56837,
+        "endTime": 59679,
+        "slowStartTime": 85406,
+        "slowEndTime": 89744
+    },
+    {
+        "text": "Madrid is more than a city.",
+        "startTime": 60079,
+        "endTime": 61868,
+        "slowStartTime": 90269,
+        "slowEndTime": 93027
+    },
+    {
+        "text": "Madrid is a way of life.",
+        "startTime": 62586,
+        "endTime": 65381,
+        "slowStartTime": 94029,
+        "slowEndTime": 98296
+    }
+]

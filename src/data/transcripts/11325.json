@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Henry Ford was the leading manufacturer of American automobiles in the early 1900s.",
+        "startTime": 600,
+        "endTime": 6200,
+        "slowStartTime": 1100,
+        "slowEndTime": 9550
+    },
+    {
+        "text": "He revolutionized the young automobile industry...",
+        "startTime": 9700,
+        "endTime": 12400,
+        "slowStartTime": 14700,
+        "slowEndTime": 18850
+    },
+    {
+        "text": "...by developing the assembly line method of production.",
+        "startTime": 12600,
+        "endTime": 15400,
+        "slowStartTime": 19050,
+        "slowEndTime": 23250
+    },
+    {
+        "text": "By manufacturing his own parts...",
+        "startTime": 16650,
+        "endTime": 18800,
+        "slowStartTime": 25200,
+        "slowEndTime": 28450
+    },
+    {
+        "text": "...and developing a huge system of conveyors to bring the parts to the assembly line,...",
+        "startTime": 19150,
+        "endTime": 23700,
+        "slowStartTime": 28850,
+        "slowEndTime": 35800
+    },
+    {
+        "text": "...Ford reduced the cost of manufacturing automobiles.",
+        "startTime": 24100,
+        "endTime": 27400,
+        "slowStartTime": 36350,
+        "slowEndTime": 41350
+    },
+    {
+        "text": "And Ford passed on much of the savings created by the assembly line production to his customers.",
+        "startTime": 27700,
+        "endTime": 32900,
+        "slowStartTime": 41700,
+        "slowEndTime": 49600
+    },
+    {
+        "text": "In 1908, when the Ford Motor Company introduced the Model T,...",
+        "startTime": 34350,
+        "endTime": 38250,
+        "slowStartTime": 51750,
+        "slowEndTime": 57600
+    },
+    {
+        "text": "...it cost $850.",
+        "startTime": 38600,
+        "endTime": 40850,
+        "slowStartTime": 58100,
+        "slowEndTime": 61500
+    },
+    {
+        "text": "By 1924, assembly line innovations helped reduce the price of a Model T to $290...",
+        "startTime": 41300,
+        "endTime": 48500,
+        "slowStartTime": 62150,
+        "slowEndTime": 72950
+    },
+    {
+        "text": "...and automobile was now within reach of the average family.",
+        "startTime": 48900,
+        "endTime": 52400,
+        "slowStartTime": 73550,
+        "slowEndTime": 78900
+    }
+]

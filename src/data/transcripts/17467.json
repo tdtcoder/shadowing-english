@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Boil",
+        "startTime": 2301,
+        "endTime": 2868,
+        "slowStartTime": 3601,
+        "slowEndTime": 4527
+    },
+    {
+        "text": "I need to boil water.",
+        "startTime": 3677,
+        "endTime": 5261,
+        "slowStartTime": 5666,
+        "slowEndTime": 8117
+    },
+    {
+        "text": "I need to boil water for 10 minutes.",
+        "startTime": 6668,
+        "endTime": 9186,
+        "slowStartTime": 10152,
+        "slowEndTime": 14004
+    },
+    {
+        "text": "Coin",
+        "startTime": 10589,
+        "endTime": 11111,
+        "slowStartTime": 16033,
+        "slowEndTime": 16892
+    },
+    {
+        "text": "I have a coin.",
+        "startTime": 11915,
+        "endTime": 13060,
+        "slowStartTime": 18023,
+        "slowEndTime": 19815
+    },
+    {
+        "text": "I have a coin in my pocket.",
+        "startTime": 14443,
+        "endTime": 16382,
+        "slowStartTime": 21814,
+        "slowEndTime": 24798
+    },
+    {
+        "text": "Soil",
+        "startTime": 17789,
+        "endTime": 18407,
+        "slowStartTime": 26834,
+        "slowEndTime": 27836
+    },
+    {
+        "text": "The soil is wet.",
+        "startTime": 19209,
+        "endTime": 20691,
+        "slowStartTime": 28963,
+        "slowEndTime": 31261
+    },
+    {
+        "text": "The soil is very wet.",
+        "startTime": 22077,
+        "endTime": 23922,
+        "slowStartTime": 33266,
+        "slowEndTime": 36108
+    },
+    {
+        "text": "Foil",
+        "startTime": 25223,
+        "endTime": 25911,
+        "slowStartTime": 37985,
+        "slowEndTime": 39091
+    },
+    {
+        "text": "I used the foil.",
+        "startTime": 26659,
+        "endTime": 28085,
+        "slowStartTime": 40138,
+        "slowEndTime": 42353
+    },
+    {
+        "text": "I used the foil to wrap the food.",
+        "startTime": 29419,
+        "endTime": 32065,
+        "slowStartTime": 44279,
+        "slowEndTime": 48322
+    },
+    {
+        "text": "Pop, pop, pop, the sun pops up.",
+        "startTime": 38395,
+        "endTime": 41423,
+        "slowStartTime": 57743,
+        "slowEndTime": 62360
+    },
+    {
+        "text": "Pop, pop, pop, the flowers pop out.",
+        "startTime": 42183,
+        "endTime": 45371,
+        "slowStartTime": 63425,
+        "slowEndTime": 68281
+    },
+    {
+        "text": "Pop, pop, pop, the worms pop up.",
+        "startTime": 45915,
+        "endTime": 48971,
+        "slowStartTime": 69022,
+        "slowEndTime": 73682
+    },
+    {
+        "text": "Pop, pop, pop, the plants pop up.",
+        "startTime": 49659,
+        "endTime": 52711,
+        "slowStartTime": 74638,
+        "slowEndTime": 79291
+    },
+    {
+        "text": "Pop, pop, pop, the leaves pop out.",
+        "startTime": 53411,
+        "endTime": 56589,
+        "slowStartTime": 80266,
+        "slowEndTime": 85109
+    },
+    {
+        "text": "Pop, pop, pop, the birds pop out.",
+        "startTime": 57179,
+        "endTime": 60345,
+        "slowStartTime": 85918,
+        "slowEndTime": 90742
+    },
+    {
+        "text": "Pop, pop, pop, the animals pop out.",
+        "startTime": 60921,
+        "endTime": 64087,
+        "slowStartTime": 91531,
+        "slowEndTime": 96355
+    },
+    {
+        "text": "Pop, pop, pop, spring pops out everywhere.",
+        "startTime": 64665,
+        "endTime": 68200,
+        "slowStartTime": 97147,
+        "slowEndTime": 102525
+    },
+    {
+        "text": "Pop, pop, pop, pop, pop, pop!",
+        "startTime": 68415,
+        "endTime": 71495,
+        "slowStartTime": 102772,
+        "slowEndTime": 107468
+    }
+]

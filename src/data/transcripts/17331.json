@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Can.",
+        "startTime": 2463,
+        "endTime": 3093,
+        "slowStartTime": 3845,
+        "slowEndTime": 4865
+    },
+    {
+        "text": "I can open a can.",
+        "startTime": 3975,
+        "endTime": 5980,
+        "slowStartTime": 6112,
+        "slowEndTime": 9195
+    },
+    {
+        "text": "I can open a tin can.",
+        "startTime": 7343,
+        "endTime": 9759,
+        "slowStartTime": 11164,
+        "slowEndTime": 14864
+    },
+    {
+        "text": "Jam.",
+        "startTime": 11207,
+        "endTime": 11911,
+        "slowStartTime": 16960,
+        "slowEndTime": 18091
+    },
+    {
+        "text": "I like jam.",
+        "startTime": 12799,
+        "endTime": 14167,
+        "slowStartTime": 19348,
+        "slowEndTime": 21476
+    },
+    {
+        "text": "I like strawberry jam.",
+        "startTime": 15545,
+        "endTime": 17568,
+        "slowStartTime": 23467,
+        "slowEndTime": 26577
+    },
+    {
+        "text": "Bat.",
+        "startTime": 19059,
+        "endTime": 19588,
+        "slowStartTime": 28739,
+        "slowEndTime": 29607
+    },
+    {
+        "text": "This is a bat.",
+        "startTime": 20421,
+        "endTime": 21671,
+        "slowStartTime": 30782,
+        "slowEndTime": 32731
+    },
+    {
+        "text": "This is a baseball bat.",
+        "startTime": 23120,
+        "endTime": 25087,
+        "slowStartTime": 34830,
+        "slowEndTime": 37855
+    },
+    {
+        "text": "Map.",
+        "startTime": 26546,
+        "endTime": 27073,
+        "slowStartTime": 39969,
+        "slowEndTime": 40835
+    },
+    {
+        "text": "I have a map.",
+        "startTime": 27768,
+        "endTime": 28901,
+        "slowStartTime": 41802,
+        "slowEndTime": 43576
+    },
+    {
+        "text": "I have a small map.",
+        "startTime": 30309,
+        "endTime": 32022,
+        "slowStartTime": 45613,
+        "slowEndTime": 48258
+    },
+    {
+        "text": "Where, where, where, where do you go?",
+        "startTime": 39445,
+        "endTime": 42658,
+        "slowStartTime": 59318,
+        "slowEndTime": 64212
+    },
+    {
+        "text": "Park, park, park, I go to the park.",
+        "startTime": 43206,
+        "endTime": 46351,
+        "slowStartTime": 64959,
+        "slowEndTime": 69751
+    },
+    {
+        "text": "Where, where, where, where do they go?",
+        "startTime": 46978,
+        "endTime": 50167,
+        "slowStartTime": 70617,
+        "slowEndTime": 75475
+    },
+    {
+        "text": "Store, store, store, they go to the store.",
+        "startTime": 50489,
+        "endTime": 53934,
+        "slowStartTime": 75884,
+        "slowEndTime": 81126
+    },
+    {
+        "text": "Where, where, where, where does he go?",
+        "startTime": 54469,
+        "endTime": 57697,
+        "slowStartTime": 81853,
+        "slowEndTime": 86770
+    },
+    {
+        "text": "Zoo, zoo, zoo, he goes to the zoo.",
+        "startTime": 58131,
+        "endTime": 61455,
+        "slowStartTime": 87347,
+        "slowEndTime": 92407
+    },
+    {
+        "text": "We go to the movies, library, beach.",
+        "startTime": 61977,
+        "endTime": 65225,
+        "slowStartTime": 93115,
+        "slowEndTime": 98063
+    },
+    {
+        "text": "We have lots of places to go!",
+        "startTime": 65718,
+        "endTime": 68017,
+        "slowStartTime": 98727,
+        "slowEndTime": 102250
+    }
+]

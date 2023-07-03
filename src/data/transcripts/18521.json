@@ -1,0 +1,387 @@
+[
+    {
+        "text": "Thank you for tuning in to Maple Leaf's Worldwide Weather report.",
+        "startTime": 9316,
+        "endTime": 13147,
+        "slowStartTime": 14124,
+        "slowEndTime": 19945
+    },
+    {
+        "text": "We'll be checking on the weather all over the world with Tim Tiger.",
+        "startTime": 13534,
+        "endTime": 17298,
+        "slowStartTime": 20451,
+        "slowEndTime": 26172
+    },
+    {
+        "text": "First, Canada.",
+        "startTime": 17533,
+        "endTime": 18696,
+        "slowStartTime": 26449,
+        "slowEndTime": 28269
+    },
+    {
+        "text": "How's the weather?",
+        "startTime": 19279,
+        "endTime": 20001,
+        "slowStartTime": 29068,
+        "slowEndTime": 30226
+    },
+    {
+        "text": "It's snowy!",
+        "startTime": 21085,
+        "endTime": 22254,
+        "slowStartTime": 31778,
+        "slowEndTime": 33606
+    },
+    {
+        "text": "It's snowy in Canada!",
+        "startTime": 23381,
+        "endTime": 25589,
+        "slowStartTime": 35222,
+        "slowEndTime": 38608
+    },
+    {
+        "text": "Thank you, Tim.",
+        "startTime": 26651,
+        "endTime": 27531,
+        "slowStartTime": 40126,
+        "slowEndTime": 41522
+    },
+    {
+        "text": "Next, Mexico!",
+        "startTime": 28147,
+        "endTime": 29361,
+        "slowStartTime": 42370,
+        "slowEndTime": 44266
+    },
+    {
+        "text": "Tim, how's the weather?",
+        "startTime": 29900,
+        "endTime": 31360,
+        "slowStartTime": 45000,
+        "slowEndTime": 47265
+    },
+    {
+        "text": "It's sunny.",
+        "startTime": 32471,
+        "endTime": 33441,
+        "slowStartTime": 48857,
+        "slowEndTime": 50386
+    },
+    {
+        "text": "It's sunny in Mexico!",
+        "startTime": 36777,
+        "endTime": 39903,
+        "slowStartTime": 55316,
+        "slowEndTime": 60079
+    },
+    {
+        "text": "Thank you, Tim.",
+        "startTime": 40310,
+        "endTime": 41189,
+        "slowStartTime": 60615,
+        "slowEndTime": 62008
+    },
+    {
+        "text": "Next, England.",
+        "startTime": 41602,
+        "endTime": 42858,
+        "slowStartTime": 62553,
+        "slowEndTime": 64512
+    },
+    {
+        "text": "Tim, how's the weather?",
+        "startTime": 43383,
+        "endTime": 45013,
+        "slowStartTime": 65224,
+        "slowEndTime": 67744
+    },
+    {
+        "text": "It's foggy.",
+        "startTime": 48731,
+        "endTime": 50107,
+        "slowStartTime": 73246,
+        "slowEndTime": 75385
+    },
+    {
+        "text": "It's foggy in England.",
+        "startTime": 53352,
+        "endTime": 57036,
+        "slowStartTime": 80178,
+        "slowEndTime": 85779
+    },
+    {
+        "text": "Thank you, Tim.",
+        "startTime": 62827,
+        "endTime": 63615,
+        "slowStartTime": 94390,
+        "slowEndTime": 95647
+    },
+    {
+        "text": "Next, France.",
+        "startTime": 64205,
+        "endTime": 65450,
+        "slowStartTime": 96457,
+        "slowEndTime": 98400
+    },
+    {
+        "text": "Tim, how's the weather?",
+        "startTime": 65709,
+        "endTime": 67376,
+        "slowStartTime": 98713,
+        "slowEndTime": 101289
+    },
+    {
+        "text": "It's rainy.",
+        "startTime": 69767,
+        "endTime": 71064,
+        "slowStartTime": 104801,
+        "slowEndTime": 106821
+    },
+    {
+        "text": "It's rainy in France.",
+        "startTime": 73220,
+        "endTime": 76673,
+        "slowStartTime": 109980,
+        "slowEndTime": 115235
+    },
+    {
+        "text": "Thank you, Tim.",
+        "startTime": 79807,
+        "endTime": 80635,
+        "slowStartTime": 119861,
+        "slowEndTime": 121178
+    },
+    {
+        "text": "Next, Russia.",
+        "startTime": 81058,
+        "endTime": 82374,
+        "slowStartTime": 121737,
+        "slowEndTime": 123786
+    },
+    {
+        "text": "Tim, how's the weather?",
+        "startTime": 82800,
+        "endTime": 84291,
+        "slowStartTime": 124350,
+        "slowEndTime": 126661
+    },
+    {
+        "text": "It's cold.",
+        "startTime": 90997,
+        "endTime": 92964,
+        "slowStartTime": 136646,
+        "slowEndTime": 139671
+    },
+    {
+        "text": "It's cold in Russia.",
+        "startTime": 96006,
+        "endTime": 99118,
+        "slowStartTime": 144159,
+        "slowEndTime": 148902
+    },
+    {
+        "text": "Thank you, Tim.",
+        "startTime": 100127,
+        "endTime": 101013,
+        "slowStartTime": 150341,
+        "slowEndTime": 151745
+    },
+    {
+        "text": "Next, Australia.",
+        "startTime": 101383,
+        "endTime": 102943,
+        "slowStartTime": 152224,
+        "slowEndTime": 154640
+    },
+    {
+        "text": "Tim, how's the weather?",
+        "startTime": 103517,
+        "endTime": 104951,
+        "slowStartTime": 155426,
+        "slowEndTime": 157651
+    },
+    {
+        "text": "Hold on!",
+        "startTime": 105320,
+        "endTime": 106722,
+        "slowStartTime": 158130,
+        "slowEndTime": 160308
+    },
+    {
+        "text": "I'm coming!",
+        "startTime": 109898,
+        "endTime": 110570,
+        "slowStartTime": 164997,
+        "slowEndTime": 166080
+    },
+    {
+        "text": "It's hot!",
+        "startTime": 115872,
+        "endTime": 117171,
+        "slowStartTime": 173958,
+        "slowEndTime": 175982
+    },
+    {
+        "text": "It's hot in Australia.",
+        "startTime": 118481,
+        "endTime": 122378,
+        "slowStartTime": 177871,
+        "slowEndTime": 183792
+    },
+    {
+        "text": "Are you okay, Tim?",
+        "startTime": 124802,
+        "endTime": 125974,
+        "slowStartTime": 187353,
+        "slowEndTime": 189186
+    },
+    {
+        "text": "I'm good, Marty.",
+        "startTime": 127576,
+        "endTime": 128519,
+        "slowStartTime": 191514,
+        "slowEndTime": 193004
+    },
+    {
+        "text": "What's next?",
+        "startTime": 129526,
+        "endTime": 130418,
+        "slowStartTime": 194439,
+        "slowEndTime": 195852
+    },
+    {
+        "text": "Next is Japan.",
+        "startTime": 130591,
+        "endTime": 131712,
+        "slowStartTime": 196036,
+        "slowEndTime": 197793
+    },
+    {
+        "text": "Japan?",
+        "startTime": 132609,
+        "endTime": 133319,
+        "slowStartTime": 199064,
+        "slowEndTime": 200203
+    },
+    {
+        "text": "Alright!",
+        "startTime": 134826,
+        "endTime": 135459,
+        "slowStartTime": 202389,
+        "slowEndTime": 203413
+    },
+    {
+        "text": "Next is Japan.",
+        "startTime": 142499,
+        "endTime": 143649,
+        "slowStartTime": 213898,
+        "slowEndTime": 215699
+    },
+    {
+        "text": "Tim, how's the weather in Japan?",
+        "startTime": 144043,
+        "endTime": 146217,
+        "slowStartTime": 216214,
+        "slowEndTime": 219550
+    },
+    {
+        "text": "Tim?",
+        "startTime": 148329,
+        "endTime": 148739,
+        "slowStartTime": 222644,
+        "slowEndTime": 223333
+    },
+    {
+        "text": "I'm coming!",
+        "startTime": 148927,
+        "endTime": 149528,
+        "slowStartTime": 223540,
+        "slowEndTime": 224517
+    },
+    {
+        "text": "Tim?",
+        "startTime": 149969,
+        "endTime": 150390,
+        "slowStartTime": 225103,
+        "slowEndTime": 225810
+    },
+    {
+        "text": "I'm on my way.",
+        "startTime": 151045,
+        "endTime": 152087,
+        "slowStartTime": 226718,
+        "slowEndTime": 228356
+    },
+    {
+        "text": "I'm almost there.",
+        "startTime": 154993,
+        "endTime": 156053,
+        "slowStartTime": 232640,
+        "slowEndTime": 234305
+    },
+    {
+        "text": "It's cloudy.",
+        "startTime": 159473,
+        "endTime": 161136,
+        "slowStartTime": 239359,
+        "slowEndTime": 241929
+    },
+    {
+        "text": "It's cloudy in Japan.",
+        "startTime": 164367,
+        "endTime": 168744,
+        "slowStartTime": 246700,
+        "slowEndTime": 253341
+    },
+    {
+        "text": "Thank you, Tim.",
+        "startTime": 170352,
+        "endTime": 171161,
+        "slowStartTime": 255678,
+        "slowEndTime": 256966
+    },
+    {
+        "text": "Next is Mars.",
+        "startTime": 171705,
+        "endTime": 172968,
+        "slowStartTime": 257707,
+        "slowEndTime": 259677
+    },
+    {
+        "text": "Mars?",
+        "startTime": 175752,
+        "endTime": 176592,
+        "slowStartTime": 263778,
+        "slowEndTime": 265113
+    },
+    {
+        "text": "Yes, Mars.",
+        "startTime": 176685,
+        "endTime": 177789,
+        "slowStartTime": 265178,
+        "slowEndTime": 266909
+    },
+    {
+        "text": "No, Marty, I quit!",
+        "startTime": 180085,
+        "endTime": 182807,
+        "slowStartTime": 270277,
+        "slowEndTime": 274435
+    },
+    {
+        "text": "Well, thank you for tuning in to Maple Leaf's Worldwide Weather.",
+        "startTime": 188293,
+        "endTime": 191906,
+        "slowStartTime": 282590,
+        "slowEndTime": 288084
+    },
+    {
+        "text": "See you next time.",
+        "startTime": 192539,
+        "endTime": 193325,
+        "slowStartTime": 288958,
+        "slowEndTime": 290212
+    }
+]

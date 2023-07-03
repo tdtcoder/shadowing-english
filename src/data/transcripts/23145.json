@@ -1,0 +1,142 @@
+[
+    {
+        "text": "What is this place?",
+        "startTime": 3207,
+        "endTime": 4289,
+        "slowStartTime": 4961,
+        "slowEndTime": 6659
+    },
+    {
+        "text": "Can you tell me your name?",
+        "startTime": 5857,
+        "endTime": 6549,
+        "slowStartTime": 8935,
+        "slowEndTime": 10048
+    },
+    {
+        "text": "I can't remember anything.",
+        "startTime": 7875,
+        "endTime": 8989,
+        "slowStartTime": 11962,
+        "slowEndTime": 13709
+    },
+    {
+        "text": "Who put us here?",
+        "startTime": 10496,
+        "endTime": 11209,
+        "slowStartTime": 15894,
+        "slowEndTime": 17038
+    },
+    {
+        "text": "We don't know.",
+        "startTime": 13694,
+        "endTime": 14159,
+        "slowStartTime": 20691,
+        "slowEndTime": 21463
+    },
+    {
+        "text": "What's out there?",
+        "startTime": 16250,
+        "endTime": 16936,
+        "slowStartTime": 24525,
+        "slowEndTime": 25629
+    },
+    {
+        "text": "The maze.",
+        "startTime": 19195,
+        "endTime": 19894,
+        "slowStartTime": 28943,
+        "slowEndTime": 30066
+    },
+    {
+        "text": "Every morning, when those doors open, the runners look for a way out.",
+        "startTime": 20671,
+        "endTime": 24613,
+        "slowStartTime": 31157,
+        "slowEndTime": 37145
+    },
+    {
+        "text": "No one has ever survived a night in the maze.",
+        "startTime": 25764,
+        "endTime": 27736,
+        "slowStartTime": 38796,
+        "slowEndTime": 41829
+    },
+    {
+        "text": "What happens to them?",
+        "startTime": 30179,
+        "endTime": 31194,
+        "slowStartTime": 45419,
+        "slowEndTime": 47016
+    },
+    {
+        "text": "We don't belong here.",
+        "startTime": 34801,
+        "endTime": 35597,
+        "slowStartTime": 52352,
+        "slowEndTime": 53621
+    },
+    {
+        "text": "I think it's time we find out what we're really up against.",
+        "startTime": 36357,
+        "endTime": 38351,
+        "slowStartTime": 54686,
+        "slowEndTime": 57751
+    },
+    {
+        "text": "Everything started changing the moment you showed up.",
+        "startTime": 41109,
+        "endTime": 43561,
+        "slowStartTime": 61813,
+        "slowEndTime": 65566
+    },
+    {
+        "text": "It's a girl.",
+        "startTime": 45470,
+        "endTime": 46083,
+        "slowStartTime": 68355,
+        "slowEndTime": 69349
+    },
+    {
+        "text": "Thomas!",
+        "startTime": 46991,
+        "endTime": 47533,
+        "slowStartTime": 70636,
+        "slowEndTime": 71525
+    },
+    {
+        "text": "Why are we different?",
+        "startTime": 50687,
+        "endTime": 51647,
+        "slowStartTime": 76180,
+        "slowEndTime": 77696
+    },
+    {
+        "text": "What if we were sent here for a reason?",
+        "startTime": 52046,
+        "endTime": 53495,
+        "slowStartTime": 78219,
+        "slowEndTime": 80468
+    },
+    {
+        "text": "You're not like the others.",
+        "startTime": 54633,
+        "endTime": 55689,
+        "slowStartTime": 82099,
+        "slowEndTime": 83759
+    },
+    {
+        "text": "You're curious.",
+        "startTime": 56315,
+        "endTime": 56952,
+        "slowStartTime": 84623,
+        "slowEndTime": 85653
+    },
+    {
+        "text": "But if you wanna stay here, I need to know that you're gonna follow the rules.",
+        "startTime": 59508,
+        "endTime": 66887,
+        "slowStartTime": 89412,
+        "slowEndTime": 100555
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Companies these days spend thousands of dollars on their computer security.",
+        "startTime": 2900,
+        "endTime": 7200,
+        "slowStartTime": 4500,
+        "slowEndTime": 11000
+    },
+    {
+        "text": "They buy the best firewalls and computer programs.",
+        "startTime": 7650,
+        "endTime": 10650,
+        "slowStartTime": 11650,
+        "slowEndTime": 16200
+    },
+    {
+        "text": "However, Kevin Mitnick thinks the biggest danger these days is not a weakness in technology.",
+        "startTime": 11100,
+        "endTime": 16600,
+        "slowStartTime": 16800,
+        "slowEndTime": 25100
+    },
+    {
+        "text": "In the 1990s, Kevin Mitnick was an infamous hacker.",
+        "startTime": 17400,
+        "endTime": 20600,
+        "slowStartTime": 26300,
+        "slowEndTime": 31200
+    },
+    {
+        "text": "He hacked into government and corporate computer systems.",
+        "startTime": 21050,
+        "endTime": 24150,
+        "slowStartTime": 31700,
+        "slowEndTime": 36450
+    },
+    {
+        "text": "After being sent to prison, Mitnick decided to use his skills in a different way.",
+        "startTime": 24550,
+        "endTime": 28750,
+        "slowStartTime": 37000,
+        "slowEndTime": 43400
+    },
+    {
+        "text": "He started his own computer security firm.",
+        "startTime": 29250,
+        "endTime": 31700,
+        "slowStartTime": 44100,
+        "slowEndTime": 47800
+    },
+    {
+        "text": "He now advises people on how to keep their computers safe.",
+        "startTime": 32250,
+        "endTime": 35200,
+        "slowStartTime": 48600,
+        "slowEndTime": 53000
+    },
+    {
+        "text": "According to Mitnick, the biggest danger to security is people.",
+        "startTime": 35900,
+        "endTime": 39100,
+        "slowStartTime": 54050,
+        "slowEndTime": 59000
+    },
+    {
+        "text": "However by this, he doesn't mean hackers.",
+        "startTime": 39500,
+        "endTime": 41750,
+        "slowStartTime": 59400,
+        "slowEndTime": 62800
+    },
+    {
+        "text": "In fact, he means the people using the programs.",
+        "startTime": 42050,
+        "endTime": 44800,
+        "slowStartTime": 63200,
+        "slowEndTime": 67450
+    },
+    {
+        "text": "\"If an attacker can get one trusting person to give his or her information, the attacker gets in.\"",
+        "startTime": 45550,
+        "endTime": 51250,
+        "slowStartTime": 68500,
+        "slowEndTime": 77100
+    },
+    {
+        "text": "\"All that money spent is basically wasted.\"",
+        "startTime": 51550,
+        "endTime": 53800,
+        "slowStartTime": 77500,
+        "slowEndTime": 80900
+    },
+    {
+        "text": "A hacker can get around everything with just one person within the company.",
+        "startTime": 54250,
+        "endTime": 58550,
+        "slowStartTime": 81600,
+        "slowEndTime": 88100
+    },
+    {
+        "text": "Unfortunately, people are still too trusting.",
+        "startTime": 59450,
+        "endTime": 61950,
+        "slowStartTime": 89300,
+        "slowEndTime": 93200
+    },
+    {
+        "text": "In a recent test of the US tax office (the IRS),...",
+        "startTime": 62350,
+        "endTime": 65650,
+        "slowStartTime": 93700,
+        "slowEndTime": 98700
+    },
+    {
+        "text": "...security experts called 100 managers.",
+        "startTime": 65950,
+        "endTime": 68850,
+        "slowStartTime": 99100,
+        "slowEndTime": 103500
+    },
+    {
+        "text": "They posed as IRS computer technicians.",
+        "startTime": 69300,
+        "endTime": 71800,
+        "slowStartTime": 104100,
+        "slowEndTime": 107950
+    },
+    {
+        "text": "The experts were able to fool 35 of the managers.",
+        "startTime": 72300,
+        "endTime": 75700,
+        "slowStartTime": 108600,
+        "slowEndTime": 113750
+    },
+    {
+        "text": "They gave both their passwords and IDs.",
+        "startTime": 76100,
+        "endTime": 78350,
+        "slowStartTime": 114300,
+        "slowEndTime": 117700
+    },
+    {
+        "text": "In the hands of real hackers, this would have been a disaster!",
+        "startTime": 78950,
+        "endTime": 82000,
+        "slowStartTime": 118600,
+        "slowEndTime": 123200
+    }
+]

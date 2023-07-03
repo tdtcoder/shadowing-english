@@ -1,0 +1,72 @@
+[
+    {
+        "text": "﻿When you pay too much for cable, you feel powerless.",
+        "startTime": 261,
+        "endTime": 2974,
+        "slowStartTime": 541,
+        "slowEndTime": 4686
+    },
+    {
+        "text": "When you feel powerless, you want to take the power back.",
+        "startTime": 3270,
+        "endTime": 5742,
+        "slowStartTime": 5055,
+        "slowEndTime": 8838
+    },
+    {
+        "text": "When you want to take the power back, you take karate.",
+        "startTime": 6388,
+        "endTime": 8995,
+        "slowStartTime": 9732,
+        "slowEndTime": 13717
+    },
+    {
+        "text": "When you take karate, you want to use your karate.",
+        "startTime": 9640,
+        "endTime": 12133,
+        "slowStartTime": 14610,
+        "slowEndTime": 18425
+    },
+    {
+        "text": "When you want to use your karate, you become the fist of goodness.",
+        "startTime": 12539,
+        "endTime": 15941,
+        "slowStartTime": 18959,
+        "slowEndTime": 24136
+    },
+    {
+        "text": "When you become the fist of goodness, you run along rooftops.",
+        "startTime": 16057,
+        "endTime": 18758,
+        "slowStartTime": 24235,
+        "slowEndTime": 28362
+    },
+    {
+        "text": "And when you run along rooftops, you fall into a dinner party.",
+        "startTime": 18980,
+        "endTime": 23340,
+        "slowStartTime": 28620,
+        "slowEndTime": 35235
+    },
+    {
+        "text": "Don't fall into a dinner party.",
+        "startTime": 23827,
+        "endTime": 25195,
+        "slowStartTime": 35890,
+        "slowEndTime": 38017
+    },
+    {
+        "text": "Get rid of cable and upgrade to DirecTV.",
+        "startTime": 25445,
+        "endTime": 27865,
+        "slowStartTime": 38318,
+        "slowEndTime": 42022
+    },
+    {
+        "text": "Call 1-800-DIRECTV.",
+        "startTime": 28214,
+        "endTime": 29970,
+        "slowStartTime": 42471,
+        "slowEndTime": 45180
+    }
+]

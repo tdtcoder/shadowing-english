@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Hey, Tom.",
+        "startTime": 143,
+        "endTime": 609,
+        "slowStartTime": 365,
+        "slowEndTime": 1138
+    },
+    {
+        "text": "Can I borrow your pen, please?",
+        "startTime": 769,
+        "endTime": 2111,
+        "slowStartTime": 1303,
+        "slowEndTime": 3392
+    },
+    {
+        "text": "Sure.",
+        "startTime": 2357,
+        "endTime": 2636,
+        "slowStartTime": 3685,
+        "slowEndTime": 4179
+    },
+    {
+        "text": "Here you go.",
+        "startTime": 2869,
+        "endTime": 3370,
+        "slowStartTime": 4454,
+        "slowEndTime": 5280
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 3595,
+        "endTime": 4179,
+        "slowStartTime": 5543,
+        "slowEndTime": 6493
+    },
+    {
+        "text": "Tina, could you help me find some information here?",
+        "startTime": 5619,
+        "endTime": 8229,
+        "slowStartTime": 8579,
+        "slowEndTime": 12569
+    },
+    {
+        "text": "Sure.",
+        "startTime": 8522,
+        "endTime": 8913,
+        "slowStartTime": 12933,
+        "slowEndTime": 13595
+    },
+    {
+        "text": "Here you go.",
+        "startTime": 9022,
+        "endTime": 9575,
+        "slowStartTime": 13683,
+        "slowEndTime": 14587
+    },
+    {
+        "text": "Great.",
+        "startTime": 9800,
+        "endTime": 10275,
+        "slowStartTime": 14850,
+        "slowEndTime": 15638
+    },
+    {
+        "text": "Thanks for the help.",
+        "startTime": 10516,
+        "endTime": 11193,
+        "slowStartTime": 15924,
+        "slowEndTime": 17015
+    },
+    {
+        "text": "Tina, could you come here for a second?",
+        "startTime": 12469,
+        "endTime": 14073,
+        "slowStartTime": 18854,
+        "slowEndTime": 21334
+    },
+    {
+        "text": "What is it?",
+        "startTime": 14371,
+        "endTime": 14809,
+        "slowStartTime": 21706,
+        "slowEndTime": 22438
+    },
+    {
+        "text": "We can't open this laptop.",
+        "startTime": 15411,
+        "endTime": 16876,
+        "slowStartTime": 23266,
+        "slowEndTime": 25539
+    },
+    {
+        "text": "Let me see.",
+        "startTime": 17149,
+        "endTime": 17948,
+        "slowStartTime": 25873,
+        "slowEndTime": 27147
+    },
+    {
+        "text": "Oh, there.",
+        "startTime": 18293,
+        "endTime": 18970,
+        "slowStartTime": 27590,
+        "slowEndTime": 28680
+    },
+    {
+        "text": "The screen is on.",
+        "startTime": 19304,
+        "endTime": 20153,
+        "slowStartTime": 29106,
+        "slowEndTime": 30455
+    },
+    {
+        "text": "Thanks.",
+        "startTime": 20413,
+        "endTime": 20893,
+        "slowStartTime": 30770,
+        "slowEndTime": 31564
+    },
+    {
+        "text": "All right.",
+        "startTime": 21386,
+        "endTime": 21725,
+        "slowStartTime": 32229,
+        "slowEndTime": 32813
+    },
+    {
+        "text": "Anything else?",
+        "startTime": 21851,
+        "endTime": 22632,
+        "slowStartTime": 32926,
+        "slowEndTime": 34173
+    },
+    {
+        "text": "No more.",
+        "startTime": 23273,
+        "endTime": 23813,
+        "slowStartTime": 35059,
+        "slowEndTime": 35944
+    },
+    {
+        "text": "Thanks again.",
+        "startTime": 24033,
+        "endTime": 24684,
+        "slowStartTime": 36199,
+        "slowEndTime": 37251
+    }
+]

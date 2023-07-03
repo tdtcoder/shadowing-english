@@ -1,0 +1,100 @@
+[
+    {
+        "text": "July 20th, 1969.",
+        "startTime": 2246,
+        "endTime": 5292,
+        "slowStartTime": 3519,
+        "slowEndTime": 8163
+    },
+    {
+        "text": "It's one small step for man, one giant leap for mankind.",
+        "startTime": 6314,
+        "endTime": 12549,
+        "slowStartTime": 9621,
+        "slowEndTime": 19048
+    },
+    {
+        "text": "In school, you were taught that Apollo 11 lost contact with the world for two minutes.",
+        "startTime": 14143,
+        "endTime": 19852,
+        "slowStartTime": 21365,
+        "slowEndTime": 30003
+    },
+    {
+        "text": "Not true.",
+        "startTime": 28264,
+        "endTime": 28895,
+        "slowStartTime": 42546,
+        "slowEndTime": 43568
+    },
+    {
+        "text": "They found something on that day that they kept hidden for 50 years...",
+        "startTime": 31835,
+        "endTime": 39753,
+        "slowStartTime": 47903,
+        "slowEndTime": 59855
+    },
+    {
+        "text": "...and now, it's too late to stop.",
+        "startTime": 41813,
+        "endTime": 45918,
+        "slowStartTime": 62869,
+        "slowEndTime": 69102
+    },
+    {
+        "text": "In breaking news,...",
+        "startTime": 50191,
+        "endTime": 51407,
+        "slowStartTime": 75436,
+        "slowEndTime": 77335
+    },
+    {
+        "text": "...the governor has just ordered the mass evacuation of the entire West Coast.",
+        "startTime": 51541,
+        "endTime": 56040,
+        "slowStartTime": 77461,
+        "slowEndTime": 84285
+    },
+    {
+        "text": "Moving to higher ground is the only possible chance of survival.",
+        "startTime": 56372,
+        "endTime": 59748,
+        "slowStartTime": 84708,
+        "slowEndTime": 89847
+    },
+    {
+        "text": "This planet has suffered five extinctions.",
+        "startTime": 61500,
+        "endTime": 66275,
+        "slowStartTime": 92400,
+        "slowEndTime": 99638
+    },
+    {
+        "text": "This is going to be the sixth.",
+        "startTime": 67833,
+        "endTime": 70462,
+        "slowStartTime": 101900,
+        "slowEndTime": 105918
+    },
+    {
+        "text": "Are we dead?",
+        "startTime": 80736,
+        "endTime": 81331,
+        "slowStartTime": 121254,
+        "slowEndTime": 122222
+    },
+    {
+        "text": "No, we are just inside the moon.",
+        "startTime": 83786,
+        "endTime": 85852,
+        "slowStartTime": 125829,
+        "slowEndTime": 129003
+    },
+    {
+        "text": "That might be the greatest sentence anyone's ever said.",
+        "startTime": 86545,
+        "endTime": 88889,
+        "slowStartTime": 129967,
+        "slowEndTime": 133558
+    }
+]

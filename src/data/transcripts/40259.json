@@ -1,0 +1,65 @@
+[
+    {
+        "text": "David, what have you done with the toilet paper?",
+        "startTime": 4211,
+        "endTime": 8277,
+        "slowStartTime": 6467,
+        "slowEndTime": 12641
+    },
+    {
+        "text": "Get off that balcony at once, mister.",
+        "startTime": 11309,
+        "endTime": 14747,
+        "slowStartTime": 17114,
+        "slowEndTime": 22345
+    },
+    {
+        "text": "What have you done to my kitchen?",
+        "startTime": 21925,
+        "endTime": 24741,
+        "slowStartTime": 33037,
+        "slowEndTime": 37336
+    },
+    {
+        "text": "Get those piglets back to the barn.",
+        "startTime": 26009,
+        "endTime": 28625,
+        "slowStartTime": 39164,
+        "slowEndTime": 43162
+    },
+    {
+        "text": "David, get out of your grandmother's sewing room.",
+        "startTime": 32703,
+        "endTime": 37201,
+        "slowStartTime": 49205,
+        "slowEndTime": 56026
+    },
+    {
+        "text": "No baseball in the piano room.",
+        "startTime": 42317,
+        "endTime": 45867,
+        "slowStartTime": 63625,
+        "slowEndTime": 69026
+    },
+    {
+        "text": "No headstands on the furniture.",
+        "startTime": 51685,
+        "endTime": 55043,
+        "slowStartTime": 77678,
+        "slowEndTime": 82790
+    },
+    {
+        "text": "David, stop jumping on the bed.",
+        "startTime": 61528,
+        "endTime": 64709,
+        "slowStartTime": 92442,
+        "slowEndTime": 97289
+    },
+    {
+        "text": "You're going to hurt yourself.",
+        "startTime": 64964,
+        "endTime": 66769,
+        "slowStartTime": 97596,
+        "slowEndTime": 100378
+    }
+]

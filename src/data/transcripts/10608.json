@@ -1,0 +1,72 @@
+[
+    {
+        "text": "If you are a student currently planning on going to Paris to study,...",
+        "startTime": 323,
+        "endTime": 3631,
+        "slowStartTime": 634,
+        "slowEndTime": 5671
+    },
+    {
+        "text": "...and if you are looking for a place to stay,...",
+        "startTime": 4269,
+        "endTime": 6511,
+        "slowStartTime": 6553,
+        "slowEndTime": 9992
+    },
+    {
+        "text": "...then you might start by having a look...",
+        "startTime": 7372,
+        "endTime": 9027,
+        "slowStartTime": 11208,
+        "slowEndTime": 13765
+    },
+    {
+        "text": "...at the Cite Internationale Universitaire of Paris.",
+        "startTime": 9150,
+        "endTime": 12622,
+        "slowStartTime": 13875,
+        "slowEndTime": 19158
+    },
+    {
+        "text": "It's a huge park where no less than 5,600 students...",
+        "startTime": 13323,
+        "endTime": 16777,
+        "slowStartTime": 20134,
+        "slowEndTime": 25391
+    },
+    {
+        "text": "...can find accommodations, libraries, sports facilities, concert halls, etc.",
+        "startTime": 16995,
+        "endTime": 22286,
+        "slowStartTime": 25643,
+        "slowEndTime": 33654
+    },
+    {
+        "text": "It's a great place to visit and stay,...",
+        "startTime": 22969,
+        "endTime": 24775,
+        "slowStartTime": 34603,
+        "slowEndTime": 37388
+    },
+    {
+        "text": "...for all the 38 houses that have been built...",
+        "startTime": 25194,
+        "endTime": 27642,
+        "slowStartTime": 37941,
+        "slowEndTime": 41688
+    },
+    {
+        "text": "...between 1925 and 1969 have different styles.",
+        "startTime": 27764,
+        "endTime": 32217,
+        "slowStartTime": 41796,
+        "slowEndTime": 48551
+    },
+    {
+        "text": "Have a look at their website to find out how to stay there!",
+        "startTime": 32902,
+        "endTime": 36113,
+        "slowStartTime": 49503,
+        "slowEndTime": 54394
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "text": "﻿I am a swimmer.",
+        "startTime": 3870,
+        "endTime": 4960,
+        "slowStartTime": 5955,
+        "slowEndTime": 7665
+    },
+    {
+        "text": "You are a teacher.",
+        "startTime": 6680,
+        "endTime": 8150,
+        "slowStartTime": 10170,
+        "slowEndTime": 12450
+    },
+    {
+        "text": "He is a cook.",
+        "startTime": 9727,
+        "endTime": 10643,
+        "slowStartTime": 14741,
+        "slowEndTime": 16189
+    },
+    {
+        "text": "She is a scientist.",
+        "startTime": 12318,
+        "endTime": 13875,
+        "slowStartTime": 18627,
+        "slowEndTime": 21038
+    },
+    {
+        "text": "It is an orange juice.",
+        "startTime": 15572,
+        "endTime": 16974,
+        "slowStartTime": 23508,
+        "slowEndTime": 25686
+    },
+    {
+        "text": "They are girls.",
+        "startTime": 18601,
+        "endTime": 19516,
+        "slowStartTime": 28052,
+        "slowEndTime": 29499
+    },
+    {
+        "text": "We are friends.",
+        "startTime": 21271,
+        "endTime": 22341,
+        "slowStartTime": 32057,
+        "slowEndTime": 33737
+    }
+]

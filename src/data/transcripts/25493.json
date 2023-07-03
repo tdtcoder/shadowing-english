@@ -1,0 +1,86 @@
+[
+    {
+        "text": "In Saudi Arabia, the royal family announces a new Islamic military alliance...",
+        "startTime": 3477,
+        "endTime": 8263,
+        "slowStartTime": 5366,
+        "slowEndTime": 12619
+    },
+    {
+        "text": "...made up of 34 countries to fight terrorism.",
+        "startTime": 8479,
+        "endTime": 11502,
+        "slowStartTime": 12869,
+        "slowEndTime": 17478
+    },
+    {
+        "text": "In Switzerland, the United Nations-sponsored peace talks...",
+        "startTime": 11943,
+        "endTime": 15135,
+        "slowStartTime": 18064,
+        "slowEndTime": 22928
+    },
+    {
+        "text": "...aimed at finding a settlement to the conflict in Yemen open in Geneva.",
+        "startTime": 15456,
+        "endTime": 19673,
+        "slowStartTime": 23334,
+        "slowEndTime": 29734
+    },
+    {
+        "text": "In Russia, Secretary of State John Kerry tells Russian President Vladimir Putin in Moscow...",
+        "startTime": 21129,
+        "endTime": 26711,
+        "slowStartTime": 31843,
+        "slowEndTime": 40291
+    },
+    {
+        "text": "...that Russia and the United States can work together...",
+        "startTime": 27029,
+        "endTime": 29823,
+        "slowStartTime": 40694,
+        "slowEndTime": 44960
+    },
+    {
+        "text": "...to make progress in ending the war in Syria.",
+        "startTime": 30001,
+        "endTime": 32568,
+        "slowStartTime": 45152,
+        "slowEndTime": 49077
+    },
+    {
+        "text": "In the US, all public schools across Los Angeles, California...",
+        "startTime": 36219,
+        "endTime": 39809,
+        "slowStartTime": 54478,
+        "slowEndTime": 59939
+    },
+    {
+        "text": "...were closed Tuesday due to a \"credible threat.\"",
+        "startTime": 40020,
+        "endTime": 42928,
+        "slowStartTime": 60180,
+        "slowEndTime": 64617
+    },
+    {
+        "text": "And finally from the Vatican,...",
+        "startTime": 45368,
+        "endTime": 46811,
+        "slowStartTime": 68202,
+        "slowEndTime": 70442
+    },
+    {
+        "text": "...Pope Francis calls on governments to review their laws on migration...",
+        "startTime": 47103,
+        "endTime": 50751,
+        "slowStartTime": 70804,
+        "slowEndTime": 76351
+    },
+    {
+        "text": "...in order to welcome refugees and help them integrate into society.",
+        "startTime": 51004,
+        "endTime": 55164,
+        "slowStartTime": 76656,
+        "slowEndTime": 82971
+    }
+]

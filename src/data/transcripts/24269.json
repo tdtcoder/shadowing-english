@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Mike, you're reporting that Michael Jordan...",
+        "startTime": 90,
+        "endTime": 2317,
+        "slowStartTime": 285,
+        "slowEndTime": 3701
+    },
+    {
+        "text": "...is the first US professional athlete to become a billionaire.",
+        "startTime": 2389,
+        "endTime": 7593,
+        "slowStartTime": 3733,
+        "slowEndTime": 11614
+    },
+    {
+        "text": "That's right.",
+        "startTime": 7707,
+        "endTime": 8309,
+        "slowStartTime": 11711,
+        "slowEndTime": 12688
+    },
+    {
+        "text": "How did he get there?",
+        "startTime": 8477,
+        "endTime": 9459,
+        "slowStartTime": 12865,
+        "slowEndTime": 14413
+    },
+    {
+        "text": "Well, the last several months Kurt, Jordan, who is the majority owner of the Hornets...",
+        "startTime": 9664,
+        "endTime": 14686,
+        "slowStartTime": 14646,
+        "slowEndTime": 22254
+    },
+    {
+        "text": "...and has been since 2010 when he bought out Robert Johnson for 175 million dollars,...",
+        "startTime": 14777,
+        "endTime": 20360,
+        "slowStartTime": 22316,
+        "slowEndTime": 30765
+    },
+    {
+        "text": "...has been slowly increasing his ownership stake in the Hornets from 80% to 89.5%.",
+        "startTime": 20559,
+        "endTime": 27509,
+        "slowStartTime": 30989,
+        "slowEndTime": 41489
+    },
+    {
+        "text": "I've confirmed this from two sources familiar with the Hornets' financial documents.",
+        "startTime": 27596,
+        "endTime": 31786,
+        "slowStartTime": 41544,
+        "slowEndTime": 47904
+    },
+    {
+        "text": "People say the Hornets are worth between 600 million and 625 million.",
+        "startTime": 32239,
+        "endTime": 36537,
+        "slowStartTime": 48508,
+        "slowEndTime": 55031
+    },
+    {
+        "text": "We go with that lower conservative number,...",
+        "startTime": 36722,
+        "endTime": 39288,
+        "slowStartTime": 55233,
+        "slowEndTime": 59157
+    },
+    {
+        "text": "...that leaves Jordan's equity stake after subtracting debt...",
+        "startTime": 39831,
+        "endTime": 44275,
+        "slowStartTime": 59897,
+        "slowEndTime": 66638
+    },
+    {
+        "text": "...and cash he used to increase his stake worth 416 million.",
+        "startTime": 44629,
+        "endTime": 49359,
+        "slowStartTime": 67093,
+        "slowEndTime": 74263
+    },
+    {
+        "text": "When I take that net to his outside Hornet net worth which you calculate,...",
+        "startTime": 49687,
+        "endTime": 54388,
+        "slowStartTime": 74681,
+        "slowEndTime": 81807
+    },
+    {
+        "text": "...we get a total net worth of a billion dollars for Jordan.",
+        "startTime": 54788,
+        "endTime": 57850,
+        "slowStartTime": 82332,
+        "slowEndTime": 87000
+    }
+]

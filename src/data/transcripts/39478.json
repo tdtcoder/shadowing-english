@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Sixteenth",
+        "startTime": 505,
+        "endTime": 1144,
+        "slowStartTime": 908,
+        "slowEndTime": 1941
+    },
+    {
+        "text": "Seventeenth",
+        "startTime": 1757,
+        "endTime": 2526,
+        "slowStartTime": 2785,
+        "slowEndTime": 4014
+    },
+    {
+        "text": "Eighteenth",
+        "startTime": 3091,
+        "endTime": 3721,
+        "slowStartTime": 4787,
+        "slowEndTime": 5806
+    },
+    {
+        "text": "Nineteenth",
+        "startTime": 4446,
+        "endTime": 5116,
+        "slowStartTime": 6819,
+        "slowEndTime": 7899
+    },
+    {
+        "text": "Twentieth",
+        "startTime": 5881,
+        "endTime": 6533,
+        "slowStartTime": 8971,
+        "slowEndTime": 10025
+    },
+    {
+        "text": "Twenty-first",
+        "startTime": 7406,
+        "endTime": 8300,
+        "slowStartTime": 11259,
+        "slowEndTime": 12675
+    },
+    {
+        "text": "Twenty-second",
+        "startTime": 9014,
+        "endTime": 9970,
+        "slowStartTime": 13671,
+        "slowEndTime": 15180
+    },
+    {
+        "text": "Twenty-third",
+        "startTime": 10382,
+        "endTime": 11419,
+        "slowStartTime": 15723,
+        "slowEndTime": 17353
+    },
+    {
+        "text": "Twenty-fourth",
+        "startTime": 12011,
+        "endTime": 12926,
+        "slowStartTime": 18167,
+        "slowEndTime": 19614
+    },
+    {
+        "text": "Twenty-fifth",
+        "startTime": 13631,
+        "endTime": 14383,
+        "slowStartTime": 20597,
+        "slowEndTime": 21800
+    },
+    {
+        "text": "Twenty-sixth",
+        "startTime": 14930,
+        "endTime": 15761,
+        "slowStartTime": 22545,
+        "slowEndTime": 23866
+    },
+    {
+        "text": "Twenty-seventh",
+        "startTime": 16534,
+        "endTime": 17471,
+        "slowStartTime": 24951,
+        "slowEndTime": 26432
+    },
+    {
+        "text": "Twenty-eighth",
+        "startTime": 18093,
+        "endTime": 19100,
+        "slowStartTime": 27290,
+        "slowEndTime": 28875
+    },
+    {
+        "text": "Twenty-ninth",
+        "startTime": 19502,
+        "endTime": 20317,
+        "slowStartTime": 29403,
+        "slowEndTime": 30701
+    },
+    {
+        "text": "Thirtieth",
+        "startTime": 20925,
+        "endTime": 21506,
+        "slowStartTime": 31538,
+        "slowEndTime": 32484
+    },
+    {
+        "text": "Thirty-first",
+        "startTime": 22333,
+        "endTime": 23235,
+        "slowStartTime": 33650,
+        "slowEndTime": 35078
+    },
+    {
+        "text": "My birthday is on September 13th.",
+        "startTime": 23975,
+        "endTime": 26519,
+        "slowStartTime": 36113,
+        "slowEndTime": 40003
+    },
+    {
+        "text": "My birthday is on October 31st.",
+        "startTime": 27910,
+        "endTime": 30977,
+        "slowStartTime": 42015,
+        "slowEndTime": 46691
+    }
+]

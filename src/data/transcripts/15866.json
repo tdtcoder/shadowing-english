@@ -1,0 +1,107 @@
+[
+    {
+        "text": "So, we agree that banking is about money.",
+        "startTime": 33,
+        "endTime": 2452,
+        "slowStartTime": 200,
+        "slowEndTime": 3903
+    },
+    {
+        "text": "But finance is also about money.",
+        "startTime": 3476,
+        "endTime": 6172,
+        "slowStartTime": 5364,
+        "slowEndTime": 9483
+    },
+    {
+        "text": "Does this mean that banking and finance are the same?",
+        "startTime": 7218,
+        "endTime": 10594,
+        "slowStartTime": 10977,
+        "slowEndTime": 16116
+    },
+    {
+        "text": "Not really.",
+        "startTime": 11573,
+        "endTime": 12249,
+        "slowStartTime": 17510,
+        "slowEndTime": 18599
+    },
+    {
+        "text": "Banks are financial institutions but so are insurance companies and investment companies.",
+        "startTime": 13103,
+        "endTime": 19298,
+        "slowStartTime": 19805,
+        "slowEndTime": 29172
+    },
+    {
+        "text": "Some financial institutions provide banking services, but they cannot be defined as a bank.",
+        "startTime": 20248,
+        "endTime": 26253,
+        "slowStartTime": 30522,
+        "slowEndTime": 39605
+    },
+    {
+        "text": "Why not?",
+        "startTime": 27169,
+        "endTime": 27587,
+        "slowStartTime": 40903,
+        "slowEndTime": 41606
+    },
+    {
+        "text": "Because they do not fulfill the legal definition of a bank.",
+        "startTime": 28575,
+        "endTime": 32168,
+        "slowStartTime": 43012,
+        "slowEndTime": 48477
+    },
+    {
+        "text": "In Britain, all financial institutions are controlled by the Financial Services Authority or FSA.",
+        "startTime": 33071,
+        "endTime": 40125,
+        "slowStartTime": 49757,
+        "slowEndTime": 60413
+    },
+    {
+        "text": "There is legislation covering the services provided by each institution.",
+        "startTime": 41118,
+        "endTime": 45114,
+        "slowStartTime": 61827,
+        "slowEndTime": 67896
+    },
+    {
+        "text": "A bank is a government-licensed institution.",
+        "startTime": 45694,
+        "endTime": 48792,
+        "slowStartTime": 68691,
+        "slowEndTime": 73413
+    },
+    {
+        "text": "It is established under a government charter.",
+        "startTime": 49657,
+        "endTime": 52037,
+        "slowStartTime": 74636,
+        "slowEndTime": 78281
+    },
+    {
+        "text": "A banking license gives the right to conduct banking services,...",
+        "startTime": 53029,
+        "endTime": 57038,
+        "slowStartTime": 79694,
+        "slowEndTime": 85782
+    },
+    {
+        "text": "...particularly services related to the storing or keeping...",
+        "startTime": 57359,
+        "endTime": 60821,
+        "slowStartTime": 86189,
+        "slowEndTime": 91457
+    },
+    {
+        "text": "...of deposits and the extending or offering of credit.",
+        "startTime": 61185,
+        "endTime": 64848,
+        "slowStartTime": 91927,
+        "slowEndTime": 97497
+    }
+]

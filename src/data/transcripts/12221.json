@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Where are you off to?",
+        "startTime": 2647,
+        "endTime": 3909,
+        "slowStartTime": 4120,
+        "slowEndTime": 6089
+    },
+    {
+        "text": "I need to do some emailing.",
+        "startTime": 4173,
+        "endTime": 5656,
+        "slowStartTime": 6410,
+        "slowEndTime": 8709
+    },
+    {
+        "text": "Do you know if there is an Internet cafe around here?",
+        "startTime": 5890,
+        "endTime": 8415,
+        "slowStartTime": 8985,
+        "slowEndTime": 12847
+    },
+    {
+        "text": "Sure, there's one just a couple blocks away.",
+        "startTime": 8604,
+        "endTime": 11429,
+        "slowStartTime": 13056,
+        "slowEndTime": 17369
+    },
+    {
+        "text": "I'll take you there.",
+        "startTime": 11565,
+        "endTime": 12563,
+        "slowStartTime": 17497,
+        "slowEndTime": 18842
+    },
+    {
+        "text": "Thanks.",
+        "startTime": 12684,
+        "endTime": 13184,
+        "slowStartTime": 19040,
+        "slowEndTime": 19750
+    },
+    {
+        "text": "Hello, I'd like to use a computer, please.",
+        "startTime": 14255,
+        "endTime": 16451,
+        "slowStartTime": 21532,
+        "slowEndTime": 24902
+    },
+    {
+        "text": "Okay, do you want to play video games, surf the net, or print anything out?",
+        "startTime": 16701,
+        "endTime": 21431,
+        "slowStartTime": 25201,
+        "slowEndTime": 32371
+    },
+    {
+        "text": "Well, I'd like to do some emailing.",
+        "startTime": 21637,
+        "endTime": 23491,
+        "slowStartTime": 32606,
+        "slowEndTime": 35462
+    },
+    {
+        "text": "Let me go to the Internet room.",
+        "startTime": 23719,
+        "endTime": 25237,
+        "slowStartTime": 35729,
+        "slowEndTime": 38080
+    },
+    {
+        "text": "You have separate rooms?",
+        "startTime": 25606,
+        "endTime": 26864,
+        "slowStartTime": 38559,
+        "slowEndTime": 40521
+    },
+    {
+        "text": "Yeah, the kids can get pretty noisy when they play video games,...",
+        "startTime": 27101,
+        "endTime": 30641,
+        "slowStartTime": 40802,
+        "slowEndTime": 46187
+    },
+    {
+        "text": "...so I have a separate room for them.",
+        "startTime": 30785,
+        "endTime": 32492,
+        "slowStartTime": 46327,
+        "slowEndTime": 48963
+    },
+    {
+        "text": "I see. So, how much is it to use the Internet?",
+        "startTime": 32789,
+        "endTime": 35670,
+        "slowStartTime": 49333,
+        "slowEndTime": 53730
+    },
+    {
+        "text": "It's five dollars per hour.",
+        "startTime": 35995,
+        "endTime": 37539,
+        "slowStartTime": 54142,
+        "slowEndTime": 56534
+    },
+    {
+        "text": "If you want to print anything out, it's one dollar per page.",
+        "startTime": 37741,
+        "endTime": 40939,
+        "slowStartTime": 56761,
+        "slowEndTime": 61634
+    },
+    {
+        "text": "Okay, thanks.",
+        "startTime": 41157,
+        "endTime": 42091,
+        "slowStartTime": 61886,
+        "slowEndTime": 63361
+    }
+]

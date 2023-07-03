@@ -1,0 +1,86 @@
+[
+    {
+        "text": "I have many feelings.",
+        "startTime": 2543,
+        "endTime": 4147,
+        "slowStartTime": 3965,
+        "slowEndTime": 6445
+    },
+    {
+        "text": "My feelings change from time to time.",
+        "startTime": 5245,
+        "endTime": 7746,
+        "slowStartTime": 8018,
+        "slowEndTime": 11844
+    },
+    {
+        "text": "Sometimes I feel kind of happy.",
+        "startTime": 8884,
+        "endTime": 10829,
+        "slowStartTime": 13476,
+        "slowEndTime": 16469
+    },
+    {
+        "text": "Sometimes I feel very happy.",
+        "startTime": 11952,
+        "endTime": 13879,
+        "slowStartTime": 18078,
+        "slowEndTime": 21044
+    },
+    {
+        "text": "Sometimes I feel kind of sad.",
+        "startTime": 14993,
+        "endTime": 17182,
+        "slowStartTime": 22640,
+        "slowEndTime": 25998
+    },
+    {
+        "text": "Sometimes I feel very sad.",
+        "startTime": 18312,
+        "endTime": 20387,
+        "slowStartTime": 27618,
+        "slowEndTime": 30806
+    },
+    {
+        "text": "Sometimes I feel kind of angry.",
+        "startTime": 21506,
+        "endTime": 24017,
+        "slowStartTime": 32409,
+        "slowEndTime": 36250
+    },
+    {
+        "text": "Sometimes I feel very angry.",
+        "startTime": 25127,
+        "endTime": 27741,
+        "slowStartTime": 37840,
+        "slowEndTime": 41837
+    },
+    {
+        "text": "Sometimes I feel kind of scared.",
+        "startTime": 28797,
+        "endTime": 31130,
+        "slowStartTime": 43346,
+        "slowEndTime": 46920
+    },
+    {
+        "text": "Sometimes I feel very scared.",
+        "startTime": 32111,
+        "endTime": 34482,
+        "slowStartTime": 48317,
+        "slowEndTime": 51948
+    },
+    {
+        "text": "I have many different feelings.",
+        "startTime": 35504,
+        "endTime": 37613,
+        "slowStartTime": 53406,
+        "slowEndTime": 56644
+    },
+    {
+        "text": "Do you have many different feelings, too?",
+        "startTime": 38645,
+        "endTime": 40873,
+        "slowStartTime": 58117,
+        "slowEndTime": 61535
+    }
+]

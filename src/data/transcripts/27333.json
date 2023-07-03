@@ -1,0 +1,86 @@
+[
+    {
+        "text": "﻿Let's learn some words for containers.",
+        "startTime": 1509,
+        "endTime": 3593,
+        "slowStartTime": 2414,
+        "slowEndTime": 5614
+    },
+    {
+        "text": "A cat jumped out of the cardboard box.",
+        "startTime": 7049,
+        "endTime": 9993,
+        "slowStartTime": 10723,
+        "slowEndTime": 15215
+    },
+    {
+        "text": "He wants to be in the Tupperware.",
+        "startTime": 16331,
+        "endTime": 18452,
+        "slowStartTime": 24647,
+        "slowEndTime": 27903
+    },
+    {
+        "text": "The cat's head is in the bag.",
+        "startTime": 24379,
+        "endTime": 26911,
+        "slowStartTime": 36718,
+        "slowEndTime": 40592
+    },
+    {
+        "text": "He drew a bottle of Coca-cola.",
+        "startTime": 31733,
+        "endTime": 34154,
+        "slowStartTime": 47750,
+        "slowEndTime": 51456
+    },
+    {
+        "text": "I bought a can of soup.",
+        "startTime": 39264,
+        "endTime": 40969,
+        "slowStartTime": 59046,
+        "slowEndTime": 61679
+    },
+    {
+        "text": "Mary, what's in your jar?",
+        "startTime": 46185,
+        "endTime": 48441,
+        "slowStartTime": 69427,
+        "slowEndTime": 72887
+    },
+    {
+        "text": "Your ziplock bag is filled with things.",
+        "startTime": 52453,
+        "endTime": 55411,
+        "slowStartTime": 78829,
+        "slowEndTime": 83342
+    },
+    {
+        "text": "He put his hand in the pitcher of milk.",
+        "startTime": 61882,
+        "endTime": 64237,
+        "slowStartTime": 92973,
+        "slowEndTime": 96580
+    },
+    {
+        "text": "Parcel for Robert Johnson!",
+        "startTime": 69575,
+        "endTime": 71433,
+        "slowStartTime": 104512,
+        "slowEndTime": 107375
+    },
+    {
+        "text": "That's one shiny package.",
+        "startTime": 76143,
+        "endTime": 78171,
+        "slowStartTime": 114365,
+        "slowEndTime": 117481
+    },
+    {
+        "text": "Write the address on the envelope.",
+        "startTime": 82375,
+        "endTime": 84347,
+        "slowStartTime": 123713,
+        "slowEndTime": 126745
+    }
+]

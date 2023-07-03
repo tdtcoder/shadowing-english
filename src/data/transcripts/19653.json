@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Susie is dying to meet you.",
+        "startTime": 93,
+        "endTime": 2260,
+        "slowStartTime": 290,
+        "slowEndTime": 3615
+    },
+    {
+        "text": "Oh.",
+        "startTime": 2902,
+        "endTime": 3291,
+        "slowStartTime": 4503,
+        "slowEndTime": 5161
+    },
+    {
+        "text": "Steer clear of Kristen, she can't control herself around chocolate.",
+        "startTime": 3740,
+        "endTime": 6843,
+        "slowStartTime": 5760,
+        "slowEndTime": 10490
+    },
+    {
+        "text": "She'll devour you.",
+        "startTime": 7728,
+        "endTime": 8947,
+        "slowStartTime": 11742,
+        "slowEndTime": 13646
+    },
+    {
+        "text": "Really?",
+        "startTime": 9090,
+        "endTime": 9709,
+        "slowStartTime": 13785,
+        "slowEndTime": 14788
+    },
+    {
+        "text": "I'd be a terrible friend if I didn't warn you.",
+        "startTime": 10091,
+        "endTime": 11766,
+        "slowStartTime": 15287,
+        "slowEndTime": 17874
+    },
+    {
+        "text": "Got to go.",
+        "startTime": 12892,
+        "endTime": 13281,
+        "slowStartTime": 19488,
+        "slowEndTime": 20146
+    },
+    {
+        "text": "Thanks for introducing us.",
+        "startTime": 15508,
+        "endTime": 17299,
+        "slowStartTime": 23412,
+        "slowEndTime": 26173
+    },
+    {
+        "text": "Anything for a friend.",
+        "startTime": 18207,
+        "endTime": 19693,
+        "slowStartTime": 27460,
+        "slowEndTime": 29764
+    },
+    {
+        "text": "Ooh, strong grip.",
+        "startTime": 20017,
+        "endTime": 20791,
+        "slowStartTime": 30175,
+        "slowEndTime": 31411
+    },
+    {
+        "text": "So, wanna grab a bite somewhere?",
+        "startTime": 24571,
+        "endTime": 26147,
+        "slowStartTime": 37007,
+        "slowEndTime": 39446
+    },
+    {
+        "text": "Here is fine.",
+        "startTime": 26348,
+        "endTime": 27032,
+        "slowStartTime": 39672,
+        "slowEndTime": 40773
+    },
+    {
+        "text": "Oh no!",
+        "startTime": 27867,
+        "endTime": 29746,
+        "slowStartTime": 41951,
+        "slowEndTime": 44844
+    }
+]

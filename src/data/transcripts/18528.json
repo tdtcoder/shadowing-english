@@ -1,0 +1,219 @@
+[
+    {
+        "text": "Hi! It's me, Marty Moose.",
+        "startTime": 967,
+        "endTime": 4159,
+        "slowStartTime": 1600,
+        "slowEndTime": 6463
+    },
+    {
+        "text": "Today, let's ask my friends,...",
+        "startTime": 5006,
+        "endTime": 7827,
+        "slowStartTime": 7659,
+        "slowEndTime": 11966
+    },
+    {
+        "text": "...\"What do you do every day?\"",
+        "startTime": 8411,
+        "endTime": 11052,
+        "slowStartTime": 12767,
+        "slowEndTime": 16803
+    },
+    {
+        "text": "Let's go!",
+        "startTime": 12328,
+        "endTime": 13043,
+        "slowStartTime": 18642,
+        "slowEndTime": 19790
+    },
+    {
+        "text": "Hello, snail.",
+        "startTime": 17684,
+        "endTime": 18595,
+        "slowStartTime": 26676,
+        "slowEndTime": 28117
+    },
+    {
+        "text": "Hello, Marty.",
+        "startTime": 19151,
+        "endTime": 20101,
+        "slowStartTime": 28877,
+        "slowEndTime": 30376
+    },
+    {
+        "text": "What do you do every day?",
+        "startTime": 21117,
+        "endTime": 22911,
+        "slowStartTime": 31825,
+        "slowEndTime": 34591
+    },
+    {
+        "text": "I sing a song every day.",
+        "startTime": 24035,
+        "endTime": 26148,
+        "slowStartTime": 36203,
+        "slowEndTime": 39447
+    },
+    {
+        "text": "Here we go again.",
+        "startTime": 26652,
+        "endTime": 28775,
+        "slowStartTime": 40128,
+        "slowEndTime": 43388
+    },
+    {
+        "text": "Black.",
+        "startTime": 28894,
+        "endTime": 29545,
+        "slowStartTime": 43491,
+        "slowEndTime": 44543
+    },
+    {
+        "text": "Wow!",
+        "startTime": 29630,
+        "endTime": 30093,
+        "slowStartTime": 44595,
+        "slowEndTime": 45365
+    },
+    {
+        "text": "Blue.",
+        "startTime": 30246,
+        "endTime": 31337,
+        "slowStartTime": 45519,
+        "slowEndTime": 47230
+    },
+    {
+        "text": "Green.",
+        "startTime": 31723,
+        "endTime": 32617,
+        "slowStartTime": 47734,
+        "slowEndTime": 49150
+    },
+    {
+        "text": "Yellow.",
+        "startTime": 33159,
+        "endTime": 34191,
+        "slowStartTime": 49889,
+        "slowEndTime": 51512
+    },
+    {
+        "text": "Always there!",
+        "startTime": 34577,
+        "endTime": 36969,
+        "slowStartTime": 52015,
+        "slowEndTime": 55679
+    },
+    {
+        "text": "Hello, Wendy Witch!",
+        "startTime": 40103,
+        "endTime": 41506,
+        "slowStartTime": 60305,
+        "slowEndTime": 62484
+    },
+    {
+        "text": "Hello, Marty!",
+        "startTime": 42013,
+        "endTime": 43243,
+        "slowStartTime": 63170,
+        "slowEndTime": 65090
+    },
+    {
+        "text": "What do you do every day?",
+        "startTime": 43964,
+        "endTime": 45895,
+        "slowStartTime": 66096,
+        "slowEndTime": 69068
+    },
+    {
+        "text": "I play the guitar every day.",
+        "startTime": 46407,
+        "endTime": 48621,
+        "slowStartTime": 69761,
+        "slowEndTime": 73156
+    },
+    {
+        "text": "Fantastic!",
+        "startTime": 57835,
+        "endTime": 59309,
+        "slowStartTime": 86903,
+        "slowEndTime": 89188
+    },
+    {
+        "text": "Hello, clown!",
+        "startTime": 64797,
+        "endTime": 65789,
+        "slowStartTime": 97346,
+        "slowEndTime": 98908
+    },
+    {
+        "text": "Hey! Marty!",
+        "startTime": 66371,
+        "endTime": 67403,
+        "slowStartTime": 99707,
+        "slowEndTime": 101329
+    },
+    {
+        "text": "What do you do every day?",
+        "startTime": 68169,
+        "endTime": 69913,
+        "slowStartTime": 102404,
+        "slowEndTime": 105095
+    },
+    {
+        "text": "I dance.",
+        "startTime": 70949,
+        "endTime": 71951,
+        "slowStartTime": 106573,
+        "slowEndTime": 108152
+    },
+    {
+        "text": "I dance every day.",
+        "startTime": 72521,
+        "endTime": 74779,
+        "slowStartTime": 108931,
+        "slowEndTime": 112393
+    },
+    {
+        "text": "Yeah!",
+        "startTime": 77709,
+        "endTime": 78377,
+        "slowStartTime": 116713,
+        "slowEndTime": 117791
+    },
+    {
+        "text": "Working it.",
+        "startTime": 79159,
+        "endTime": 79728,
+        "slowStartTime": 118888,
+        "slowEndTime": 119817
+    },
+    {
+        "text": "Be careful.",
+        "startTime": 81122,
+        "endTime": 82132,
+        "slowStartTime": 121833,
+        "slowEndTime": 123423
+    },
+    {
+        "text": "Ouch!",
+        "startTime": 87087,
+        "endTime": 88169,
+        "slowStartTime": 130781,
+        "slowEndTime": 132478
+    },
+    {
+        "text": "Are you okay?",
+        "startTime": 89416,
+        "endTime": 90508,
+        "slowStartTime": 134274,
+        "slowEndTime": 135987
+    },
+    {
+        "text": "What do you do every day?",
+        "startTime": 94185,
+        "endTime": 96017,
+        "slowStartTime": 141427,
+        "slowEndTime": 144250
+    }
+]

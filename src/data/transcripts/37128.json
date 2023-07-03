@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Mom, is he still coming this year?",
+        "startTime": 3825,
+        "endTime": 6555,
+        "slowStartTime": 5887,
+        "slowEndTime": 10057
+    },
+    {
+        "text": "Of course, he is.",
+        "startTime": 6763,
+        "endTime": 7875,
+        "slowStartTime": 10295,
+        "slowEndTime": 12037
+    },
+    {
+        "text": "Really, dad?",
+        "startTime": 8785,
+        "endTime": 9718,
+        "slowStartTime": 13327,
+        "slowEndTime": 14802
+    },
+    {
+        "text": "He's coming.",
+        "startTime": 10361,
+        "endTime": 10899,
+        "slowStartTime": 15692,
+        "slowEndTime": 16573
+    },
+    {
+        "text": "Did you get the one he likes?",
+        "startTime": 15827,
+        "endTime": 17639,
+        "slowStartTime": 23890,
+        "slowEndTime": 26684
+    },
+    {
+        "text": "Of course, I did.",
+        "startTime": 17785,
+        "endTime": 18606,
+        "slowStartTime": 26827,
+        "slowEndTime": 28134
+    },
+    {
+        "text": "These are his favorites.",
+        "startTime": 19125,
+        "endTime": 20751,
+        "slowStartTime": 28838,
+        "slowEndTime": 31351
+    },
+    {
+        "text": "Is he definitely coming?",
+        "startTime": 25342,
+        "endTime": 27065,
+        "slowStartTime": 38163,
+        "slowEndTime": 40823
+    },
+    {
+        "text": "You just got to believe.",
+        "startTime": 29262,
+        "endTime": 30413,
+        "slowStartTime": 44043,
+        "slowEndTime": 45844
+    },
+    {
+        "text": "Are you sure?",
+        "startTime": 38154,
+        "endTime": 38932,
+        "slowStartTime": 57381,
+        "slowEndTime": 58623
+    },
+    {
+        "text": "He's coming.",
+        "startTime": 39315,
+        "endTime": 40037,
+        "slowStartTime": 59122,
+        "slowEndTime": 60281
+    },
+    {
+        "text": "Grandad!",
+        "startTime": 47910,
+        "endTime": 48937,
+        "slowStartTime": 72015,
+        "slowEndTime": 73630
+    },
+    {
+        "text": "Happy Christmas, Conor.",
+        "startTime": 49505,
+        "endTime": 50618,
+        "slowStartTime": 74408,
+        "slowEndTime": 76152
+    },
+    {
+        "text": "I knew you'd come!",
+        "startTime": 51166,
+        "endTime": 52820,
+        "slowStartTime": 76899,
+        "slowEndTime": 79455
+    }
+]

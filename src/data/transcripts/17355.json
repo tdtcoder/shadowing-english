@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Bike.",
+        "startTime": 2907,
+        "endTime": 3379,
+        "slowStartTime": 4510,
+        "slowEndTime": 5294
+    },
+    {
+        "text": "I like to ride my bike.",
+        "startTime": 4243,
+        "endTime": 6218,
+        "slowStartTime": 6515,
+        "slowEndTime": 9552
+    },
+    {
+        "text": "I like to ride my blue bike.",
+        "startTime": 7673,
+        "endTime": 10035,
+        "slowStartTime": 11659,
+        "slowEndTime": 15277
+    },
+    {
+        "text": "Nine.",
+        "startTime": 11459,
+        "endTime": 12045,
+        "slowStartTime": 17339,
+        "slowEndTime": 18293
+    },
+    {
+        "text": "I have nine cousins.",
+        "startTime": 12944,
+        "endTime": 14728,
+        "slowStartTime": 19566,
+        "slowEndTime": 22317
+    },
+    {
+        "text": "I have nine older cousins.",
+        "startTime": 16225,
+        "endTime": 18581,
+        "slowStartTime": 24488,
+        "slowEndTime": 28096
+    },
+    {
+        "text": "Kite.",
+        "startTime": 20007,
+        "endTime": 20461,
+        "slowStartTime": 30161,
+        "slowEndTime": 30917
+    },
+    {
+        "text": "I want to fly a kite.",
+        "startTime": 21277,
+        "endTime": 23285,
+        "slowStartTime": 32066,
+        "slowEndTime": 35152
+    },
+    {
+        "text": "I want to fly a big kite.",
+        "startTime": 24610,
+        "endTime": 27061,
+        "slowStartTime": 37065,
+        "slowEndTime": 40816
+    },
+    {
+        "text": "Hive.",
+        "startTime": 28399,
+        "endTime": 29067,
+        "slowStartTime": 42749,
+        "slowEndTime": 43825
+    },
+    {
+        "text": "I see a bee hive.",
+        "startTime": 29886,
+        "endTime": 31706,
+        "slowStartTime": 44979,
+        "slowEndTime": 47784
+    },
+    {
+        "text": "I see a big bee hive.",
+        "startTime": 33115,
+        "endTime": 35245,
+        "slowStartTime": 49822,
+        "slowEndTime": 53092
+    },
+    {
+        "text": "Jump, jump, jump, my dog can jump.",
+        "startTime": 41552,
+        "endTime": 44680,
+        "slowStartTime": 62478,
+        "slowEndTime": 67245
+    },
+    {
+        "text": "It can jump very, very high.",
+        "startTime": 45363,
+        "endTime": 47619,
+        "slowStartTime": 68194,
+        "slowEndTime": 71653
+    },
+    {
+        "text": "Dig, dig, dig, my dog can dig.",
+        "startTime": 49077,
+        "endTime": 52121,
+        "slowStartTime": 73766,
+        "slowEndTime": 78407
+    },
+    {
+        "text": "It can dig very, very deep.",
+        "startTime": 52849,
+        "endTime": 55007,
+        "slowStartTime": 79423,
+        "slowEndTime": 82735
+    },
+    {
+        "text": "Swim, swim, swim, my dog can swim.",
+        "startTime": 56471,
+        "endTime": 59769,
+        "slowStartTime": 84856,
+        "slowEndTime": 89879
+    },
+    {
+        "text": "It can swim very, very fast.",
+        "startTime": 60335,
+        "endTime": 62640,
+        "slowStartTime": 90652,
+        "slowEndTime": 94185
+    },
+    {
+        "text": "Jump, dig, swim, run, climb, sit.",
+        "startTime": 64053,
+        "endTime": 67187,
+        "slowStartTime": 96229,
+        "slowEndTime": 101005
+    },
+    {
+        "text": "My dog can do many, many things!",
+        "startTime": 67618,
+        "endTime": 71108,
+        "slowStartTime": 101577,
+        "slowEndTime": 106887
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "text": "We have traveled thousands of miles in search of a weapon...",
+        "startTime": 3335,
+        "endTime": 7528,
+        "slowStartTime": 5152,
+        "slowEndTime": 11517
+    },
+    {
+        "text": "...more powerful than we've ever known.",
+        "startTime": 8139,
+        "endTime": 10245,
+        "slowStartTime": 12358,
+        "slowEndTime": 15592
+    },
+    {
+        "text": "Why are you here?",
+        "startTime": 20824,
+        "endTime": 21824,
+        "slowStartTime": 31386,
+        "slowEndTime": 32961
+    },
+    {
+        "text": "We came to trade.",
+        "startTime": 22171,
+        "endTime": 23129,
+        "slowStartTime": 33406,
+        "slowEndTime": 34918
+    },
+    {
+        "text": "You lie.",
+        "startTime": 23843,
+        "endTime": 24441,
+        "slowStartTime": 35915,
+        "slowEndTime": 36887
+    },
+    {
+        "text": "You are thieves!",
+        "startTime": 25482,
+        "endTime": 26370,
+        "slowStartTime": 38373,
+        "slowEndTime": 39780
+    },
+    {
+        "text": "What was that?",
+        "startTime": 35941,
+        "endTime": 36603,
+        "slowStartTime": 54061,
+        "slowEndTime": 55130
+    },
+    {
+        "text": "There are many things you have not seen.",
+        "startTime": 36974,
+        "endTime": 38963,
+        "slowStartTime": 55611,
+        "slowEndTime": 58670
+    },
+    {
+        "text": "The Great Wall...",
+        "startTime": 41393,
+        "endTime": 42245,
+        "slowStartTime": 62239,
+        "slowEndTime": 63592
+    },
+    {
+        "text": "...is the only barrier...",
+        "startTime": 44734,
+        "endTime": 45747,
+        "slowStartTime": 67251,
+        "slowEndTime": 68845
+    },
+    {
+        "text": "...keeping the world safe.",
+        "startTime": 47481,
+        "endTime": 48857,
+        "slowStartTime": 71371,
+        "slowEndTime": 73511
+    },
+    {
+        "text": "Mother of God.",
+        "startTime": 54287,
+        "endTime": 54967,
+        "slowStartTime": 81580,
+        "slowEndTime": 82675
+    },
+    {
+        "text": "What is it they want?",
+        "startTime": 57547,
+        "endTime": 58358,
+        "slowStartTime": 86470,
+        "slowEndTime": 87762
+    },
+    {
+        "text": "To feed.",
+        "startTime": 59637,
+        "endTime": 60104,
+        "slowStartTime": 89605,
+        "slowEndTime": 90381
+    }
+]

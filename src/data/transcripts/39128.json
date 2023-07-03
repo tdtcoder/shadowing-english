@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Excuse me.",
+        "startTime": 427,
+        "endTime": 1184,
+        "slowStartTime": 791,
+        "slowEndTime": 2001
+    },
+    {
+        "text": "Is there a news agency near here?",
+        "startTime": 1414,
+        "endTime": 3112,
+        "slowStartTime": 2271,
+        "slowEndTime": 4893
+    },
+    {
+        "text": "Yes. There is one in Berry Street.",
+        "startTime": 3411,
+        "endTime": 5438,
+        "slowStartTime": 5267,
+        "slowEndTime": 8382
+    },
+    {
+        "text": "Where is that?",
+        "startTime": 5582,
+        "endTime": 6289,
+        "slowStartTime": 8523,
+        "slowEndTime": 9658
+    },
+    {
+        "text": "Go along this road and turn right. That's Berry Street.",
+        "startTime": 6673,
+        "endTime": 10167,
+        "slowStartTime": 10159,
+        "slowEndTime": 15476
+    },
+    {
+        "text": "Go past the pub and the news agency is on the right, opposite the supermarket.",
+        "startTime": 10578,
+        "endTime": 15049,
+        "slowStartTime": 16017,
+        "slowEndTime": 22798
+    },
+    {
+        "text": "So, I go along this road and turn right...",
+        "startTime": 15489,
+        "endTime": 18699,
+        "slowStartTime": 23383,
+        "slowEndTime": 28274
+    },
+    {
+        "text": "...then I go past the pub and...",
+        "startTime": 19217,
+        "endTime": 21480,
+        "slowStartTime": 28975,
+        "slowEndTime": 32445
+    },
+    {
+        "text": "And the news agency is on the right.",
+        "startTime": 21829,
+        "endTime": 23719,
+        "slowStartTime": 32893,
+        "slowEndTime": 35804
+    },
+    {
+        "text": "Opposite the supermarket.",
+        "startTime": 24045,
+        "endTime": 25307,
+        "slowStartTime": 36218,
+        "slowEndTime": 38185
+    },
+    {
+        "text": "Oh, great! Thanks a lot.",
+        "startTime": 25475,
+        "endTime": 26883,
+        "slowStartTime": 38362,
+        "slowEndTime": 40549
+    },
+    {
+        "text": "No problem.",
+        "startTime": 26990,
+        "endTime": 27552,
+        "slowStartTime": 40635,
+        "slowEndTime": 41553
+    }
+]

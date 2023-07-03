@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Football is played on a rectangular pitch marked out by touchlines and goal lines.",
+        "startTime": 3099,
+        "endTime": 7537,
+        "slowStartTime": 4799,
+        "slowEndTime": 11531
+    },
+    {
+        "text": "Play starts with a kickoff from the center circle.",
+        "startTime": 7871,
+        "endTime": 10429,
+        "slowStartTime": 11957,
+        "slowEndTime": 15869
+    },
+    {
+        "text": "A goal consists of two upright posts supporting a horizontal crossbar,...",
+        "startTime": 11491,
+        "endTime": 15200,
+        "slowStartTime": 17386,
+        "slowEndTime": 23025
+    },
+    {
+        "text": "...lines on the pitch mark the goal area and the penalty box.",
+        "startTime": 15669,
+        "endTime": 19291,
+        "slowStartTime": 23654,
+        "slowEndTime": 29161
+    },
+    {
+        "text": "Each side must have no more than 11 players on the pitch including a goalkeeper.",
+        "startTime": 20317,
+        "endTime": 24062,
+        "slowStartTime": 30626,
+        "slowEndTime": 36318
+    },
+    {
+        "text": "Positions change according to tactics.",
+        "startTime": 24497,
+        "endTime": 26342,
+        "slowStartTime": 36896,
+        "slowEndTime": 39738
+    },
+    {
+        "text": "To score a goal, the ball must cross the goal line inside the goalmouth.",
+        "startTime": 27059,
+        "endTime": 30637,
+        "slowStartTime": 40739,
+        "slowEndTime": 46180
+    },
+    {
+        "text": "However, it can be disallowed if the scorer is offside when he receives the ball.",
+        "startTime": 30987,
+        "endTime": 34662,
+        "slowStartTime": 46630,
+        "slowEndTime": 52218
+    },
+    {
+        "text": "A player is offside if he's close to the opponent's goal...",
+        "startTime": 38116,
+        "endTime": 41478,
+        "slowStartTime": 57324,
+        "slowEndTime": 62442
+    },
+    {
+        "text": "...than both the ball and the second-last opponent.",
+        "startTime": 41576,
+        "endTime": 44015,
+        "slowStartTime": 62514,
+        "slowEndTime": 66248
+    },
+    {
+        "text": "If a player kicks the ball out of play, a throw-in is taken by the opposing team.",
+        "startTime": 44976,
+        "endTime": 49033,
+        "slowStartTime": 67614,
+        "slowEndTime": 73774
+    },
+    {
+        "text": "A corner kick is awarded when the ball crosses the opposition goal line...",
+        "startTime": 51996,
+        "endTime": 55493,
+        "slowStartTime": 78144,
+        "slowEndTime": 83464
+    },
+    {
+        "text": "...after last touching one of their players.",
+        "startTime": 55773,
+        "endTime": 57713,
+        "slowStartTime": 83809,
+        "slowEndTime": 86794
+    },
+    {
+        "text": "It's taken from the corner of whichever side the ball left the field.",
+        "startTime": 58062,
+        "endTime": 61145,
+        "slowStartTime": 87243,
+        "slowEndTime": 91942
+    },
+    {
+        "text": "Free kicks are awarded to teams for fouls and misconduct outside the penalty area.",
+        "startTime": 61976,
+        "endTime": 66379,
+        "slowStartTime": 93114,
+        "slowEndTime": 99793
+    },
+    {
+        "text": "They're taken from the spot where the offense occurred.",
+        "startTime": 66883,
+        "endTime": 69185,
+        "slowStartTime": 100474,
+        "slowEndTime": 104003
+    },
+    {
+        "text": "Players from the opposing team often form a wall between the ball and the goal.",
+        "startTime": 69683,
+        "endTime": 73487,
+        "slowStartTime": 104674,
+        "slowEndTime": 110455
+    },
+    {
+        "text": "If a foul occurs within the penalty area,...",
+        "startTime": 73669,
+        "endTime": 75733,
+        "slowStartTime": 110653,
+        "slowEndTime": 113825
+    },
+    {
+        "text": "...the referee awards a penalty.",
+        "startTime": 75935,
+        "endTime": 77626,
+        "slowStartTime": 114053,
+        "slowEndTime": 116664
+    },
+    {
+        "text": "The defending goalkeeper must remain on his goal line until the ball's been kicked.",
+        "startTime": 78033,
+        "endTime": 82758,
+        "slowStartTime": 117200,
+        "slowEndTime": 124362
+    }
+]

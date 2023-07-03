@@ -1,0 +1,51 @@
+[
+    {
+        "text": "When I'm looking for  the freshest apples in the store,...",
+        "startTime": 527,
+        "endTime": 2446,
+        "slowStartTime": 940,
+        "slowEndTime": 3894
+    },
+    {
+        "text": "...I'm looking for something with no bruising, no scarring or frost marks down the side.",
+        "startTime": 2545,
+        "endTime": 7133,
+        "slowStartTime": 3967,
+        "slowEndTime": 10924
+    },
+    {
+        "text": "I'm looking for uniformity in color.",
+        "startTime": 7411,
+        "endTime": 9160,
+        "slowStartTime": 11267,
+        "slowEndTime": 13965
+    },
+    {
+        "text": "Generally, they're the ones that are on more on the outside of the tree,...",
+        "startTime": 9409,
+        "endTime": 11826,
+        "slowStartTime": 14263,
+        "slowEndTime": 17964
+    },
+    {
+        "text": "...catch more sunlight, have more sugar content and, of course, smell.",
+        "startTime": 11965,
+        "endTime": 16457,
+        "slowStartTime": 18098,
+        "slowEndTime": 24911
+    },
+    {
+        "text": "If you get a fresh apple and you love the smell of it,...",
+        "startTime": 17143,
+        "endTime": 19830,
+        "slowStartTime": 25864,
+        "slowEndTime": 29970
+    },
+    {
+        "text": "...I think you're gonna love the flavor of it.",
+        "startTime": 19913,
+        "endTime": 21206,
+        "slowStartTime": 30020,
+        "slowEndTime": 32034
+    }
+]

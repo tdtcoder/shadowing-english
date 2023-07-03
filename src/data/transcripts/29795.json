@@ -1,0 +1,107 @@
+[
+    {
+        "text": "﻿Time to say goodbye to the Google Drive app.",
+        "startTime": 203,
+        "endTime": 3110,
+        "slowStartTime": 454,
+        "slowEndTime": 4890
+    },
+    {
+        "text": "Google announced the backup program has three months to live.",
+        "startTime": 3494,
+        "endTime": 6987,
+        "slowStartTime": 5391,
+        "slowEndTime": 10705
+    },
+    {
+        "text": "But don't panic, it's actually not that big of a deal.",
+        "startTime": 7157,
+        "endTime": 10045,
+        "slowStartTime": 10885,
+        "slowEndTime": 15293
+    },
+    {
+        "text": "You see, the whole cloud storage space known as Google Drive, that's still alive.",
+        "startTime": 10325,
+        "endTime": 14547,
+        "slowStartTime": 15637,
+        "slowEndTime": 22045
+    },
+    {
+        "text": "What is going away is the app called Google Drive.",
+        "startTime": 14797,
+        "endTime": 17967,
+        "slowStartTime": 22345,
+        "slowEndTime": 27175
+    },
+    {
+        "text": "And that's used to back up your computer's files to the cloud.",
+        "startTime": 18243,
+        "endTime": 21173,
+        "slowStartTime": 27515,
+        "slowEndTime": 31985
+    },
+    {
+        "text": "The naming of it is all a bit messy.",
+        "startTime": 21302,
+        "endTime": 23343,
+        "slowStartTime": 32103,
+        "slowEndTime": 35239
+    },
+    {
+        "text": "Google Drive, the app, is being replaced by a program called Backup and Sync.",
+        "startTime": 23631,
+        "endTime": 27869,
+        "slowStartTime": 35596,
+        "slowEndTime": 42028
+    },
+    {
+        "text": "Now, this new program is pretty handy.",
+        "startTime": 27955,
+        "endTime": 29660,
+        "slowStartTime": 42082,
+        "slowEndTime": 44715
+    },
+    {
+        "text": "You tell it which folders on your computer you want to sync to the cloud,...",
+        "startTime": 29983,
+        "endTime": 33662,
+        "slowStartTime": 45124,
+        "slowEndTime": 50718
+    },
+    {
+        "text": "...even make all your photos and videos automatically back up to the Google Photos library.",
+        "startTime": 33811,
+        "endTime": 38715,
+        "slowStartTime": 50867,
+        "slowEndTime": 58298
+    },
+    {
+        "text": "So, you could use this to have important folders...",
+        "startTime": 39117,
+        "endTime": 41087,
+        "slowStartTime": 58825,
+        "slowEndTime": 61856
+    },
+    {
+        "text": "...to be continuously backed up to your Drive account.",
+        "startTime": 41166,
+        "endTime": 43517,
+        "slowStartTime": 61899,
+        "slowEndTime": 65501
+    },
+    {
+        "text": "But that means you will quickly exceed the 15 GBs of free space...",
+        "startTime": 43827,
+        "endTime": 47231,
+        "slowStartTime": 65890,
+        "slowEndTime": 71071
+    },
+    {
+        "text": "...and you'll need to pay for more.",
+        "startTime": 47315,
+        "endTime": 48937,
+        "slowStartTime": 71123,
+        "slowEndTime": 73631
+    }
+]

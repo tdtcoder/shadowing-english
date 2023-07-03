@@ -1,0 +1,72 @@
+[
+    {
+        "text": "It's time to have breakfast!",
+        "startTime": 1494,
+        "endTime": 3487,
+        "slowStartTime": 2391,
+        "slowEndTime": 5456
+    },
+    {
+        "text": "After breakfast, we do the dishes.",
+        "startTime": 8114,
+        "endTime": 10598,
+        "slowStartTime": 12321,
+        "slowEndTime": 16122
+    },
+    {
+        "text": "It's time to relax and take a break!",
+        "startTime": 14121,
+        "endTime": 17300,
+        "slowStartTime": 21332,
+        "slowEndTime": 26175
+    },
+    {
+        "text": "When is a good time to call you?",
+        "startTime": 18862,
+        "endTime": 20559,
+        "slowStartTime": 28443,
+        "slowEndTime": 31063
+    },
+    {
+        "text": "You can call me anytime after 9.",
+        "startTime": 20947,
+        "endTime": 23166,
+        "slowStartTime": 31570,
+        "slowEndTime": 34974
+    },
+    {
+        "text": "I go to bed pretty late.",
+        "startTime": 23371,
+        "endTime": 24853,
+        "slowStartTime": 35206,
+        "slowEndTime": 37504
+    },
+    {
+        "text": "What time do you usually go to bed?",
+        "startTime": 25133,
+        "endTime": 27023,
+        "slowStartTime": 37850,
+        "slowEndTime": 40759
+    },
+    {
+        "text": "I usually stay awake until 2 A.M.",
+        "startTime": 27399,
+        "endTime": 30061,
+        "slowStartTime": 41249,
+        "slowEndTime": 45316
+    },
+    {
+        "text": "What time do you usually get up?",
+        "startTime": 30343,
+        "endTime": 32039,
+        "slowStartTime": 45665,
+        "slowEndTime": 48284
+    },
+    {
+        "text": "I get up at around 8 o'clock.",
+        "startTime": 32593,
+        "endTime": 34607,
+        "slowStartTime": 49040,
+        "slowEndTime": 52136
+    }
+]

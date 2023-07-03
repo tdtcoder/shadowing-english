@@ -1,0 +1,219 @@
+[
+    {
+        "text": "The overarching goal of Project Natick...",
+        "startTime": 769,
+        "endTime": 2571,
+        "slowStartTime": 1304,
+        "slowEndTime": 4082
+    },
+    {
+        "text": "...is to evaluate the feasibility of underwater data centers.",
+        "startTime": 2822,
+        "endTime": 5337,
+        "slowStartTime": 4383,
+        "slowEndTime": 8230
+    },
+    {
+        "text": "Phase one was just to be able to figure out,...",
+        "startTime": 5807,
+        "endTime": 7417,
+        "slowStartTime": 8860,
+        "slowEndTime": 11351
+    },
+    {
+        "text": "...can we get computers into a container...",
+        "startTime": 7607,
+        "endTime": 9396,
+        "slowStartTime": 11560,
+        "slowEndTime": 14319
+    },
+    {
+        "text": "...and can we deploy them in the water without it leaking,..",
+        "startTime": 9506,
+        "endTime": 11399,
+        "slowStartTime": 14409,
+        "slowEndTime": 17324
+    },
+    {
+        "text": "...and do the computers survive and how well do they last?",
+        "startTime": 11525,
+        "endTime": 14001,
+        "slowStartTime": 17437,
+        "slowEndTime": 21226
+    },
+    {
+        "text": "Phase two was to show that we can make it in a manufacturable production scale component.",
+        "startTime": 14495,
+        "endTime": 22523,
+        "slowStartTime": 21892,
+        "slowEndTime": 34009
+    },
+    {
+        "text": "So, the container behind me, it fits on a trailer, it fits on a cargo ship,...",
+        "startTime": 22967,
+        "endTime": 27931,
+        "slowStartTime": 34601,
+        "slowEndTime": 42121
+    },
+    {
+        "text": "And it allows us to actually build up this data center to any size that we want.",
+        "startTime": 28038,
+        "endTime": 32780,
+        "slowStartTime": 42207,
+        "slowEndTime": 49395
+    },
+    {
+        "text": "Computers are not designed to work in an environment that we humans operate.",
+        "startTime": 33373,
+        "endTime": 38184,
+        "slowStartTime": 50209,
+        "slowEndTime": 57501
+    },
+    {
+        "text": "So, things like oxygen, moisture in the air,...",
+        "startTime": 38371,
+        "endTime": 41920,
+        "slowStartTime": 57706,
+        "slowEndTime": 63105
+    },
+    {
+        "text": "...that is really bad for computers, it causes corrosion on the components.",
+        "startTime": 42359,
+        "endTime": 45839,
+        "slowStartTime": 63688,
+        "slowEndTime": 68983
+    },
+    {
+        "text": "You also get temperature fluctuations.",
+        "startTime": 46336,
+        "endTime": 48231,
+        "slowStartTime": 69654,
+        "slowEndTime": 72572
+    },
+    {
+        "text": "So, the heat from night to day and summer to winter can cause those components to fail...",
+        "startTime": 48347,
+        "endTime": 52597,
+        "slowStartTime": 72671,
+        "slowEndTime": 79121
+    },
+    {
+        "text": "...and so we had this theory that if we're really in a stable environment,...",
+        "startTime": 52713,
+        "endTime": 55225,
+        "slowStartTime": 79220,
+        "slowEndTime": 83063
+    },
+    {
+        "text": "...we're in this cylinder, we've taken all the oxygen out.",
+        "startTime": 55491,
+        "endTime": 57739,
+        "slowStartTime": 83387,
+        "slowEndTime": 86834
+    },
+    {
+        "text": "We've controlled the humidity.",
+        "startTime": 57818,
+        "endTime": 58972,
+        "slowStartTime": 86877,
+        "slowEndTime": 88683
+    },
+    {
+        "text": "No one's walking around.",
+        "startTime": 59321,
+        "endTime": 60689,
+        "slowStartTime": 89131,
+        "slowEndTime": 91259
+    },
+    {
+        "text": "There's nobody bumping things and causing any additional failures...",
+        "startTime": 60787,
+        "endTime": 63800,
+        "slowStartTime": 91330,
+        "slowEndTime": 95925
+    },
+    {
+        "text": "...that we'd see better reliability.",
+        "startTime": 63917,
+        "endTime": 65137,
+        "slowStartTime": 96025,
+        "slowEndTime": 97930
+    },
+    {
+        "text": "And so far, as we've been monitoring this and the data center that we have on land...",
+        "startTime": 65744,
+        "endTime": 69932,
+        "slowStartTime": 98766,
+        "slowEndTime": 105123
+    },
+    {
+        "text": "...that are using the same components,...",
+        "startTime": 70399,
+        "endTime": 71758,
+        "slowStartTime": 105749,
+        "slowEndTime": 107862
+    },
+    {
+        "text": "...we see one-eighth the failure rate in the ocean data center than we do on land.",
+        "startTime": 71922,
+        "endTime": 76569,
+        "slowStartTime": 108033,
+        "slowEndTime": 115079
+    },
+    {
+        "text": "We got some good data on reliability.",
+        "startTime": 77465,
+        "endTime": 79655,
+        "slowStartTime": 116347,
+        "slowEndTime": 119707
+    },
+    {
+        "text": "We've proven out that we can do this whole deployment process.",
+        "startTime": 79890,
+        "endTime": 82617,
+        "slowStartTime": 119985,
+        "slowEndTime": 124150
+    },
+    {
+        "text": "Now, let's finish the story and let's show that we can do the retrieval...",
+        "startTime": 83083,
+        "endTime": 86000,
+        "slowStartTime": 124775,
+        "slowEndTime": 129225
+    },
+    {
+        "text": "...and we can do the recycling once it does reach end of life...",
+        "startTime": 86076,
+        "endTime": 88847,
+        "slowStartTime": 129264,
+        "slowEndTime": 133495
+    },
+    {
+        "text": "...and make sure that that entire cycle is possible,",
+        "startTime": 89120,
+        "endTime": 91957,
+        "slowStartTime": 133830,
+        "slowEndTime": 138160
+    },
+    {
+        "text": "This project gives us the ability to feel like we're working not just on computers,...",
+        "startTime": 93446,
+        "endTime": 97681,
+        "slowStartTime": 140319,
+        "slowEndTime": 146746
+    },
+    {
+        "text": "...not just on data centers, but on sort of moving forward environmental responsibility...",
+        "startTime": 97776,
+        "endTime": 103263,
+        "slowStartTime": 146814,
+        "slowEndTime": 155119
+    },
+    {
+        "text": "...as a company and as individuals.",
+        "startTime": 103405,
+        "endTime": 105131,
+        "slowStartTime": 155258,
+        "slowEndTime": 157922
+    }
+]

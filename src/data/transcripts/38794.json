@@ -1,0 +1,58 @@
+[
+    {
+        "text": "﻿Good morning.",
+        "startTime": 289,
+        "endTime": 933,
+        "slowStartTime": 584,
+        "slowEndTime": 1625
+    },
+    {
+        "text": "Thanks for coming today.",
+        "startTime": 1131,
+        "endTime": 2230,
+        "slowStartTime": 1846,
+        "slowEndTime": 3570
+    },
+    {
+        "text": "I'm Jeremy Griffin, managing director here at Primal Brains,...",
+        "startTime": 2439,
+        "endTime": 5517,
+        "slowStartTime": 3809,
+        "slowEndTime": 8500
+    },
+    {
+        "text": "...and this is our head of research and development, Judith Lee.",
+        "startTime": 5899,
+        "endTime": 8326,
+        "slowStartTime": 8999,
+        "slowEndTime": 12714
+    },
+    {
+        "text": "It's a pleasure to meet you.",
+        "startTime": 8965,
+        "endTime": 10227,
+        "slowStartTime": 13597,
+        "slowEndTime": 15565
+    },
+    {
+        "text": "I'm Ashley Whitman, general manager at Prometheus Incorporated,...",
+        "startTime": 10633,
+        "endTime": 14384,
+        "slowStartTime": 16100,
+        "slowEndTime": 21801
+    },
+    {
+        "text": "...and this is our creative director, Cynthia Leonard.",
+        "startTime": 14547,
+        "endTime": 17528,
+        "slowStartTime": 21970,
+        "slowEndTime": 26517
+    },
+    {
+        "text": "Nice to meet you.",
+        "startTime": 17931,
+        "endTime": 18871,
+        "slowStartTime": 27047,
+        "slowEndTime": 28531
+    }
+]

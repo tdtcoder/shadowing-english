@@ -1,0 +1,121 @@
+[
+    {
+        "text": "﻿I love to swim but I really love to dive.",
+        "startTime": 219,
+        "endTime": 4317,
+        "slowStartTime": 478,
+        "slowEndTime": 6700
+    },
+    {
+        "text": "Dive ends with - ive.",
+        "startTime": 4843,
+        "endTime": 6634,
+        "slowStartTime": 7415,
+        "slowEndTime": 10176
+    },
+    {
+        "text": "After swimming, we ordered pizza.",
+        "startTime": 7707,
+        "endTime": 10742,
+        "slowStartTime": 11710,
+        "slowEndTime": 16338
+    },
+    {
+        "text": "How soon until it will arrive?",
+        "startTime": 13137,
+        "endTime": 16827,
+        "slowStartTime": 19855,
+        "slowEndTime": 25466
+    },
+    {
+        "text": "Not too long.",
+        "startTime": 18179,
+        "endTime": 19389,
+        "slowStartTime": 27418,
+        "slowEndTime": 29308
+    },
+    {
+        "text": "It's not a far drive.",
+        "startTime": 19477,
+        "endTime": 22311,
+        "slowStartTime": 29365,
+        "slowEndTime": 33692
+    },
+    {
+        "text": "I hope you're hungry.",
+        "startTime": 22773,
+        "endTime": 24333,
+        "slowStartTime": 34310,
+        "slowEndTime": 36725
+    },
+    {
+        "text": "We ordered a lot of pizzas.",
+        "startTime": 24527,
+        "endTime": 27202,
+        "slowStartTime": 36941,
+        "slowEndTime": 41028
+    },
+    {
+        "text": "How many did we order?",
+        "startTime": 27530,
+        "endTime": 29291,
+        "slowStartTime": 41445,
+        "slowEndTime": 44162
+    },
+    {
+        "text": "Twenty-five!",
+        "startTime": 29617,
+        "endTime": 31148,
+        "slowStartTime": 44576,
+        "slowEndTime": 46947
+    },
+    {
+        "text": "I love pizza.",
+        "startTime": 34333,
+        "endTime": 35939,
+        "slowStartTime": 51649,
+        "slowEndTime": 54134
+    },
+    {
+        "text": "I'm so happy, I could dance the jive.",
+        "startTime": 36222,
+        "endTime": 39873,
+        "slowStartTime": 54483,
+        "slowEndTime": 60035
+    },
+    {
+        "text": "Uh-oh, is that a bee?",
+        "startTime": 45998,
+        "endTime": 48015,
+        "slowStartTime": 69147,
+        "slowEndTime": 72248
+    },
+    {
+        "text": "We must be sitting near a hive.",
+        "startTime": 48447,
+        "endTime": 52071,
+        "slowStartTime": 72821,
+        "slowEndTime": 78331
+    },
+    {
+        "text": "Oh no, don't squish them.",
+        "startTime": 55019,
+        "endTime": 57378,
+        "slowStartTime": 82679,
+        "slowEndTime": 86292
+    },
+    {
+        "text": "We want to keep the bees alive.",
+        "startTime": 57685,
+        "endTime": 60608,
+        "slowStartTime": 86678,
+        "slowEndTime": 91137
+    },
+    {
+        "text": "If we want to eat honey, the bees have to survive.",
+        "startTime": 65477,
+        "endTime": 70071,
+        "slowStartTime": 98366,
+        "slowEndTime": 105332
+    }
+]

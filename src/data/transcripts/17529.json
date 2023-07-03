@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Do you have any sisters, Brian?",
+        "startTime": 2476,
+        "endTime": 4620,
+        "slowStartTime": 3864,
+        "slowEndTime": 7155
+    },
+    {
+        "text": "Yes, I have a sister.",
+        "startTime": 5582,
+        "endTime": 7509,
+        "slowStartTime": 8523,
+        "slowEndTime": 11488
+    },
+    {
+        "text": "I have a sister, too.",
+        "startTime": 8765,
+        "endTime": 10499,
+        "slowStartTime": 13298,
+        "slowEndTime": 15973
+    },
+    {
+        "text": "Do you like bananas, Erika?",
+        "startTime": 12757,
+        "endTime": 14797,
+        "slowStartTime": 19285,
+        "slowEndTime": 22421
+    },
+    {
+        "text": "No, I don't like bananas. How about you?",
+        "startTime": 15975,
+        "endTime": 19402,
+        "slowStartTime": 24112,
+        "slowEndTime": 29328
+    },
+    {
+        "text": "I don't like bananas, either.",
+        "startTime": 20628,
+        "endTime": 22269,
+        "slowStartTime": 31092,
+        "slowEndTime": 33628
+    },
+    {
+        "text": "I don't eat any bananas.",
+        "startTime": 22495,
+        "endTime": 24271,
+        "slowStartTime": 33892,
+        "slowEndTime": 36632
+    },
+    {
+        "text": "Do you need any crayons?",
+        "startTime": 26683,
+        "endTime": 28581,
+        "slowStartTime": 40174,
+        "slowEndTime": 43097
+    },
+    {
+        "text": "Yes, I need some crayons to draw pictures.",
+        "startTime": 29583,
+        "endTime": 32650,
+        "slowStartTime": 44525,
+        "slowEndTime": 49200
+    },
+    {
+        "text": "You can use mine.",
+        "startTime": 33689,
+        "endTime": 35065,
+        "slowStartTime": 50683,
+        "slowEndTime": 52823
+    },
+    {
+        "text": "I don't need any of them.",
+        "startTime": 35321,
+        "endTime": 37007,
+        "slowStartTime": 53131,
+        "slowEndTime": 55735
+    }
+]

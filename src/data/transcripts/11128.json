@@ -1,0 +1,65 @@
+[
+    {
+        "text": "So, what did you think of the presentation, Linda?",
+        "startTime": 2900,
+        "endTime": 5700,
+        "slowStartTime": 4600,
+        "slowEndTime": 8750
+    },
+    {
+        "text": "I think the way you introduced yourself in the greeting really helped break the ice in the meeting.",
+        "startTime": 6200,
+        "endTime": 11100,
+        "slowStartTime": 9525,
+        "slowEndTime": 16900
+    },
+    {
+        "text": "I wanted everyone to feel relaxed.",
+        "startTime": 11650,
+        "endTime": 13450,
+        "slowStartTime": 17675,
+        "slowEndTime": 20400
+    },
+    {
+        "text": "And in the body of the presentation, you outlined your points very well.",
+        "startTime": 13900,
+        "endTime": 18200,
+        "slowStartTime": 21050,
+        "slowEndTime": 27450
+    },
+    {
+        "text": "You stated the information clearly and didn't digress from the topic.",
+        "startTime": 18550,
+        "endTime": 22350,
+        "slowStartTime": 27950,
+        "slowEndTime": 33700
+    },
+    {
+        "text": "What did you think about the length of the presentation?",
+        "startTime": 23100,
+        "endTime": 25600,
+        "slowStartTime": 34850,
+        "slowEndTime": 38550
+    },
+    {
+        "text": "It was good.",
+        "startTime": 26050,
+        "endTime": 26700,
+        "slowStartTime": 39250,
+        "slowEndTime": 40250
+    },
+    {
+        "text": "When you closed, I thought you handled all the questions from the audience well.",
+        "startTime": 27050,
+        "endTime": 30900,
+        "slowStartTime": 40775,
+        "slowEndTime": 46500
+    },
+    {
+        "text": "Thanks for your feedback, Linda.",
+        "startTime": 31250,
+        "endTime": 32600,
+        "slowStartTime": 47000,
+        "slowEndTime": 49150
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Hi! I'm Peter, a Product Manager at Google.",
+        "startTime": 2551,
+        "endTime": 5435,
+        "slowStartTime": 3977,
+        "slowEndTime": 8378
+    },
+    {
+        "text": "Today, I'm gonna tell you a little bit about SafeSearch for Google images.",
+        "startTime": 6573,
+        "endTime": 9848,
+        "slowStartTime": 10009,
+        "slowEndTime": 14997
+    },
+    {
+        "text": "SafeSearch is a feature which filters adult content from your web, images, and video results.",
+        "startTime": 10398,
+        "endTime": 15409,
+        "slowStartTime": 15747,
+        "slowEndTime": 23338
+    },
+    {
+        "text": "By default, it's set to \"moderate\".",
+        "startTime": 16279,
+        "endTime": 17882,
+        "slowStartTime": 24568,
+        "slowEndTime": 27048
+    },
+    {
+        "text": "But you can change this in the Search Settings menu...",
+        "startTime": 18524,
+        "endTime": 20495,
+        "slowStartTime": 27936,
+        "slowEndTime": 30967
+    },
+    {
+        "text": "...on any image search results page.",
+        "startTime": 20653,
+        "endTime": 22270,
+        "slowStartTime": 31129,
+        "slowEndTime": 33630
+    },
+    {
+        "text": "You'll find the three SafeSearch options in a drop-down menu to the right of the search box.",
+        "startTime": 24659,
+        "endTime": 28977,
+        "slowStartTime": 37138,
+        "slowEndTime": 43691
+    },
+    {
+        "text": "You can turn SafeSearch off to remove filtering...",
+        "startTime": 30495,
+        "endTime": 32771,
+        "slowStartTime": 45893,
+        "slowEndTime": 49382
+    },
+    {
+        "text": "...or set it to \"strict\" for a stronger set of filters.",
+        "startTime": 33391,
+        "endTime": 35847,
+        "slowStartTime": 50237,
+        "slowEndTime": 53996
+    },
+    {
+        "text": "No filter is 100% perfect, however.",
+        "startTime": 36505,
+        "endTime": 38489,
+        "slowStartTime": 54908,
+        "slowEndTime": 57958
+    },
+    {
+        "text": "So if you do happen to see an adult image while using a SafeSearch set to \"strict\" or \"moderate\",...",
+        "startTime": 38878,
+        "endTime": 42962,
+        "slowStartTime": 58467,
+        "slowEndTime": 64668
+    },
+    {
+        "text": "...we encourage you to report this to us.",
+        "startTime": 43353,
+        "endTime": 44861,
+        "slowStartTime": 65180,
+        "slowEndTime": 67516
+    },
+    {
+        "text": "To do this, click the \"report offensive images\" link in the SafeSearch drop-down menu,...",
+        "startTime": 46009,
+        "endTime": 50617,
+        "slowStartTime": 69164,
+        "slowEndTime": 76151
+    },
+    {
+        "text": "...then click the \"report\" button over the image you wish to report.",
+        "startTime": 51578,
+        "endTime": 54740,
+        "slowStartTime": 77517,
+        "slowEndTime": 82335
+    },
+    {
+        "text": "While we can't take action on all of the reports,...",
+        "startTime": 56024,
+        "endTime": 57983,
+        "slowStartTime": 84186,
+        "slowEndTime": 87200
+    },
+    {
+        "text": "...they help us improve our SafeSearch algorithm over time,...",
+        "startTime": 58169,
+        "endTime": 60681,
+        "slowStartTime": 87403,
+        "slowEndTime": 91247
+    },
+    {
+        "text": "...and create a better Images experience for everyone.",
+        "startTime": 60981,
+        "endTime": 63057,
+        "slowStartTime": 91621,
+        "slowEndTime": 94811
+    },
+    {
+        "text": "To learn more, please visit our Help Center.",
+        "startTime": 64592,
+        "endTime": 66928,
+        "slowStartTime": 97038,
+        "slowEndTime": 100617
+    }
+]

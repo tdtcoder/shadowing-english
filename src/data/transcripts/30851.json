@@ -1,0 +1,212 @@
+[
+    {
+        "text": "﻿Before we can understand the circular economy,...",
+        "startTime": 1445,
+        "endTime": 4195,
+        "slowStartTime": 2317,
+        "slowEndTime": 6518
+    },
+    {
+        "text": "...well, it helps to define the linear economy.",
+        "startTime": 4301,
+        "endTime": 6941,
+        "slowStartTime": 6602,
+        "slowEndTime": 10636
+    },
+    {
+        "text": "Most organizations today operate in the linear economy...",
+        "startTime": 7115,
+        "endTime": 10113,
+        "slowStartTime": 10823,
+        "slowEndTime": 15394
+    },
+    {
+        "text": "...which is based on a \"take, make and dispose\" model.",
+        "startTime": 10249,
+        "endTime": 13097,
+        "slowStartTime": 15523,
+        "slowEndTime": 19870
+    },
+    {
+        "text": "So, for example, a light bulb company takes resources, like glass or metal,...",
+        "startTime": 13223,
+        "endTime": 17823,
+        "slowStartTime": 19984,
+        "slowEndTime": 26959
+    },
+    {
+        "text": "...to manufacture its products.",
+        "startTime": 17937,
+        "endTime": 19371,
+        "slowStartTime": 27056,
+        "slowEndTime": 29281
+    },
+    {
+        "text": "The company makes the bulb and sells it to a customer like me who uses it.",
+        "startTime": 19441,
+        "endTime": 23380,
+        "slowStartTime": 29311,
+        "slowEndTime": 35295
+    },
+    {
+        "text": "Once the light bulb burns out, I dispose of it.",
+        "startTime": 23507,
+        "endTime": 26062,
+        "slowStartTime": 35410,
+        "slowEndTime": 39318
+    },
+    {
+        "text": "It's likely neither the company nor I will ever see that light bulb again.",
+        "startTime": 26377,
+        "endTime": 30151,
+        "slowStartTime": 39715,
+        "slowEndTime": 45451
+    },
+    {
+        "text": "For a light bulb company to make money in the linear economy,...",
+        "startTime": 31540,
+        "endTime": 34304,
+        "slowStartTime": 47460,
+        "slowEndTime": 51681
+    },
+    {
+        "text": "...it tries to buy materials for the lowest cost possible...",
+        "startTime": 34419,
+        "endTime": 37111,
+        "slowStartTime": 51779,
+        "slowEndTime": 55891
+    },
+    {
+        "text": "...and to sell as many bulbs as possible.",
+        "startTime": 37185,
+        "endTime": 39235,
+        "slowStartTime": 55928,
+        "slowEndTime": 59077
+    },
+    {
+        "text": "This model operates as if there are infinite resources,...",
+        "startTime": 39445,
+        "endTime": 42889,
+        "slowStartTime": 59317,
+        "slowEndTime": 64558
+    },
+    {
+        "text": "...like glass or metal, in the world.",
+        "startTime": 42981,
+        "endTime": 44678,
+        "slowStartTime": 64622,
+        "slowEndTime": 67242
+    },
+    {
+        "text": "But you and I know that's not the case.",
+        "startTime": 44817,
+        "endTime": 47145,
+        "slowStartTime": 67375,
+        "slowEndTime": 70943
+    },
+    {
+        "text": "That's why the circular economy treats materials like they're finite.",
+        "startTime": 47249,
+        "endTime": 50791,
+        "slowStartTime": 71024,
+        "slowEndTime": 76411
+    },
+    {
+        "text": "A company in the circular economy doesn't just recycle products...",
+        "startTime": 51174,
+        "endTime": 54673,
+        "slowStartTime": 76911,
+        "slowEndTime": 82234
+    },
+    {
+        "text": "...but maintains ownership of them all along.",
+        "startTime": 54911,
+        "endTime": 57131,
+        "slowStartTime": 82516,
+        "slowEndTime": 85922
+    },
+    {
+        "text": "So the model looks more like this: make, use and return.",
+        "startTime": 57297,
+        "endTime": 60741,
+        "slowStartTime": 86096,
+        "slowEndTime": 91337
+    },
+    {
+        "text": "Let's go back to the light bulb example.",
+        "startTime": 60947,
+        "endTime": 62813,
+        "slowStartTime": 91570,
+        "slowEndTime": 94445
+    },
+    {
+        "text": "Instead of buying bulbs,...",
+        "startTime": 63145,
+        "endTime": 64533,
+        "slowStartTime": 94867,
+        "slowEndTime": 97024
+    },
+    {
+        "text": "...this office in London leases its light from Philips Lighting.",
+        "startTime": 64607,
+        "endTime": 67709,
+        "slowStartTime": 97060,
+        "slowEndTime": 101789
+    },
+    {
+        "text": "It signed a 15-year lease for the service and pays a fee each quarter.",
+        "startTime": 68059,
+        "endTime": 71743,
+        "slowStartTime": 102238,
+        "slowEndTime": 107840
+    },
+    {
+        "text": "Philips still owns the actual light bulbs...",
+        "startTime": 71991,
+        "endTime": 74273,
+        "slowStartTime": 108136,
+        "slowEndTime": 111635
+    },
+    {
+        "text": "...and provides maintenance and replacements when needed, no extra cost.",
+        "startTime": 74349,
+        "endTime": 77735,
+        "slowStartTime": 111673,
+        "slowEndTime": 116828
+    },
+    {
+        "text": "This model gives Philips the incentive to produce energy-efficient light bulbs...",
+        "startTime": 77933,
+        "endTime": 81857,
+        "slowStartTime": 117050,
+        "slowEndTime": 123010
+    },
+    {
+        "text": "...and it saves the office money with fixed lighting costs.",
+        "startTime": 81980,
+        "endTime": 84747,
+        "slowStartTime": 123120,
+        "slowEndTime": 127346
+    },
+    {
+        "text": "It's a radically different business model...",
+        "startTime": 84880,
+        "endTime": 86961,
+        "slowStartTime": 127470,
+        "slowEndTime": 130667
+    },
+    {
+        "text": "...that makes companies more like service providers than sellers of a physical product.",
+        "startTime": 87038,
+        "endTime": 91605,
+        "slowStartTime": 130707,
+        "slowEndTime": 137633
+    },
+    {
+        "text": "And it turns out, lots of companies are looking for ways to get involved.",
+        "startTime": 91813,
+        "endTime": 95292,
+        "slowStartTime": 137869,
+        "slowEndTime": 143163
+    }
+]

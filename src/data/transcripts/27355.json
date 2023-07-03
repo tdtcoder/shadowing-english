@@ -1,0 +1,79 @@
+[
+    {
+        "text": "A good night's sleep is important,...",
+        "startTime": 306,
+        "endTime": 2283,
+        "slowStartTime": 609,
+        "slowEndTime": 3650
+    },
+    {
+        "text": "...but life often gets in the way:...",
+        "startTime": 3042,
+        "endTime": 5097,
+        "slowStartTime": 4713,
+        "slowEndTime": 7871
+    },
+    {
+        "text": "...status updates,...",
+        "startTime": 5780,
+        "endTime": 7027,
+        "slowStartTime": 8820,
+        "slowEndTime": 10766
+    },
+    {
+        "text": "...nagging thoughts,...",
+        "startTime": 8543,
+        "endTime": 10059,
+        "slowStartTime": 12964,
+        "slowEndTime": 15313
+    },
+    {
+        "text": "...season three finales.",
+        "startTime": 11162,
+        "endTime": 12795,
+        "slowStartTime": 16893,
+        "slowEndTime": 19418
+    },
+    {
+        "text": "So finding a natural rhythm, going to bed the same time,...",
+        "startTime": 14559,
+        "endTime": 18919,
+        "slowStartTime": 21989,
+        "slowEndTime": 28604
+    },
+    {
+        "text": "...and sleeping the right amount can help us think sharper, stay healthier,...",
+        "startTime": 19088,
+        "endTime": 26406,
+        "slowStartTime": 28782,
+        "slowEndTime": 39834
+    },
+    {
+        "text": "...even fight off a cold.",
+        "startTime": 27934,
+        "endTime": 29618,
+        "slowStartTime": 42051,
+        "slowEndTime": 44652
+    },
+    {
+        "text": "So let's protect our sleep,...",
+        "startTime": 30805,
+        "endTime": 32566,
+        "slowStartTime": 46358,
+        "slowEndTime": 49074
+    },
+    {
+        "text": "...not just leave it to the hours left in the day,...",
+        "startTime": 33820,
+        "endTime": 36247,
+        "slowStartTime": 50880,
+        "slowEndTime": 54595
+    },
+    {
+        "text": "...because every good day really starts with a good night.",
+        "startTime": 36916,
+        "endTime": 41941,
+        "slowStartTime": 55524,
+        "slowEndTime": 63136
+    }
+]

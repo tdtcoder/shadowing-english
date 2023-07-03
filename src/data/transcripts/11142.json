@@ -1,0 +1,51 @@
+[
+    {
+        "text": "So Linda, I'd like to get your opinion of how the meeting went.",
+        "startTime": 1700,
+        "endTime": 5140,
+        "slowStartTime": 2660,
+        "slowEndTime": 7775
+    },
+    {
+        "text": "I thought it went very well. You had a clear goal and you stuck to it.",
+        "startTime": 5610,
+        "endTime": 10480,
+        "slowStartTime": 8545,
+        "slowEndTime": 15750
+    },
+    {
+        "text": "Brainstorming suggestions was the only thing on the agenda.",
+        "startTime": 10810,
+        "endTime": 13860,
+        "slowStartTime": 16340,
+        "slowEndTime": 20870
+    },
+    {
+        "text": "I think it also helped that you prepared your own suggestion to start with.",
+        "startTime": 14280,
+        "endTime": 17880,
+        "slowStartTime": 21515,
+        "slowEndTime": 26835
+    },
+    {
+        "text": "That got people thinking before you went around the table to hear other people's views...",
+        "startTime": 18380,
+        "endTime": 22590,
+        "slowStartTime": 27625,
+        "slowEndTime": 33980
+    },
+    {
+        "text": "...and I would add that your organization kept the meeting from running over time.",
+        "startTime": 23050,
+        "endTime": 27390,
+        "slowStartTime": 34645,
+        "slowEndTime": 41145
+    },
+    {
+        "text": "Thanks, Linda. I feel we made real progress today with our sales strategy.",
+        "startTime": 27560,
+        "endTime": 32090,
+        "slowStartTime": 41465,
+        "slowEndTime": 48145
+    }
+]

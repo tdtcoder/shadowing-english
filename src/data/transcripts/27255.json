@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Can an established bank move like a start-up?",
+        "startTime": 1029,
+        "endTime": 3561,
+        "slowStartTime": 1693,
+        "slowEndTime": 5566
+    },
+    {
+        "text": "It's a question we get from some of our largest banking clients.",
+        "startTime": 3977,
+        "endTime": 6700,
+        "slowStartTime": 6116,
+        "slowEndTime": 10275
+    },
+    {
+        "text": "The face of their business was tellers, then ATMs.",
+        "startTime": 7351,
+        "endTime": 11248,
+        "slowStartTime": 11177,
+        "slowEndTime": 17097
+    },
+    {
+        "text": "Today it's their mobile app running on the IBM Cloud.",
+        "startTime": 11707,
+        "endTime": 13987,
+        "slowStartTime": 17711,
+        "slowEndTime": 21206
+    },
+    {
+        "text": "Across every transaction,...",
+        "startTime": 15148,
+        "endTime": 16659,
+        "slowStartTime": 22872,
+        "slowEndTime": 25214
+    },
+    {
+        "text": "...the hybrid cloud helps their data move quickly and securely.",
+        "startTime": 16798,
+        "endTime": 20251,
+        "slowStartTime": 25347,
+        "slowEndTime": 30601
+    },
+    {
+        "text": "Our clients are building up features and pushing updates faster on five continents.",
+        "startTime": 20943,
+        "endTime": 25669,
+        "slowStartTime": 31564,
+        "slowEndTime": 38729
+    },
+    {
+        "text": "With the IBM Cloud, they can move at the speed of any start-up.",
+        "startTime": 26183,
+        "endTime": 29214,
+        "slowStartTime": 39424,
+        "slowEndTime": 44046
+    }
+]

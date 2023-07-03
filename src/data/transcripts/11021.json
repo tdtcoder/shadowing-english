@@ -1,0 +1,317 @@
+[
+    {
+        "text": "Hi everybody! This is Mr. Duncan in England.",
+        "startTime": 19550,
+        "endTime": 22280,
+        "slowStartTime": 29450,
+        "slowEndTime": 33535
+    },
+    {
+        "text": "How are you today?",
+        "startTime": 22590,
+        "endTime": 24220,
+        "slowStartTime": 33965,
+        "slowEndTime": 36410
+    },
+    {
+        "text": "Are you OK?",
+        "startTime": 24620,
+        "endTime": 25590,
+        "slowStartTime": 36985,
+        "slowEndTime": 38395
+    },
+    {
+        "text": "I hope so.",
+        "startTime": 25830,
+        "endTime": 27320,
+        "slowStartTime": 38850,
+        "slowEndTime": 41105
+    },
+    {
+        "text": "Are you happy?",
+        "startTime": 27630,
+        "endTime": 29890,
+        "slowStartTime": 41555,
+        "slowEndTime": 44945
+    },
+    {
+        "text": "I hope so.",
+        "startTime": 30330,
+        "endTime": 31730,
+        "slowStartTime": 45620,
+        "slowEndTime": 47790
+    },
+    {
+        "text": "In today's lesson, we're going to talk all about...",
+        "startTime": 32090,
+        "endTime": 35500,
+        "slowStartTime": 48195,
+        "slowEndTime": 53380
+    },
+    {
+        "text": "...saying hello and goodbye.",
+        "startTime": 35830,
+        "endTime": 40140,
+        "slowStartTime": 53810,
+        "slowEndTime": 60290
+    },
+    {
+        "text": "When we first meet someone...",
+        "startTime": 53150,
+        "endTime": 54920,
+        "slowStartTime": 79845,
+        "slowEndTime": 82445
+    },
+    {
+        "text": "...whether it is a person we know or someone we are meeting for the first time,...",
+        "startTime": 55220,
+        "endTime": 59390,
+        "slowStartTime": 83030,
+        "slowEndTime": 89145
+    },
+    {
+        "text": "...we will normally use a simple sentence as a way of greeting them.",
+        "startTime": 59760,
+        "endTime": 63630,
+        "slowStartTime": 89770,
+        "slowEndTime": 95470
+    },
+    {
+        "text": "A greeting is a friendly way of opening a conversation...",
+        "startTime": 64130,
+        "endTime": 67510,
+        "slowStartTime": 96240,
+        "slowEndTime": 101335
+    },
+    {
+        "text": "...or as a way of letting the other person know that we have seen them.",
+        "startTime": 67740,
+        "endTime": 71570,
+        "slowStartTime": 101695,
+        "slowEndTime": 107465
+    },
+    {
+        "text": "There are many ways to say hello.",
+        "startTime": 72200,
+        "endTime": 74900,
+        "slowStartTime": 108400,
+        "slowEndTime": 112380
+    },
+    {
+        "text": "Hi!",
+        "startTime": 78570,
+        "endTime": 79410,
+        "slowStartTime": 117950,
+        "slowEndTime": 119115
+    },
+    {
+        "text": "Hello!",
+        "startTime": 80310,
+        "endTime": 81240,
+        "slowStartTime": 120560,
+        "slowEndTime": 121845
+    },
+    {
+        "text": "Hi there!",
+        "startTime": 82240,
+        "endTime": 83080,
+        "slowStartTime": 123470,
+        "slowEndTime": 124700
+    },
+    {
+        "text": "Hello there!",
+        "startTime": 83850,
+        "endTime": 84620,
+        "slowStartTime": 125835,
+        "slowEndTime": 127065
+    },
+    {
+        "text": "Hey! How are you doing?",
+        "startTime": 85550,
+        "endTime": 86780,
+        "slowStartTime": 128365,
+        "slowEndTime": 130250
+    },
+    {
+        "text": "Howdy friend!",
+        "startTime": 87780,
+        "endTime": 88660,
+        "slowStartTime": 131685,
+        "slowEndTime": 133115
+    },
+    {
+        "text": "What's up?",
+        "startTime": 89420,
+        "endTime": 90250,
+        "slowStartTime": 134195,
+        "slowEndTime": 135420
+    },
+    {
+        "text": "How's it going?",
+        "startTime": 91020,
+        "endTime": 91950,
+        "slowStartTime": 136630,
+        "slowEndTime": 137965
+    },
+    {
+        "text": "Wow! It's good to see you.",
+        "startTime": 92790,
+        "endTime": 94690,
+        "slowStartTime": 139340,
+        "slowEndTime": 142075
+    },
+    {
+        "text": "We sometimes use a double greeting.",
+        "startTime": 95660,
+        "endTime": 97860,
+        "slowStartTime": 143575,
+        "slowEndTime": 146985
+    },
+    {
+        "text": "For example,...",
+        "startTime": 98290,
+        "endTime": 99190,
+        "slowStartTime": 147530,
+        "slowEndTime": 148825
+    },
+    {
+        "text": "...\"Hi there! Hey, how are you doing?\"",
+        "startTime": 99670,
+        "endTime": 102030,
+        "slowStartTime": 149545,
+        "slowEndTime": 153280
+    },
+    {
+        "text": "\"Hello! How have you been?\"",
+        "startTime": 103060,
+        "endTime": 105060,
+        "slowStartTime": 154655,
+        "slowEndTime": 157765
+    },
+    {
+        "text": "\"It's good to see you! How's life been treating you?\"",
+        "startTime": 105860,
+        "endTime": 108840,
+        "slowStartTime": 158860,
+        "slowEndTime": 163400
+    },
+    {
+        "text": "Saying goodbye.",
+        "startTime": 110570,
+        "endTime": 112270,
+        "slowStartTime": 165965,
+        "slowEndTime": 168505
+    },
+    {
+        "text": "There are many ways to say goodbye.",
+        "startTime": 113310,
+        "endTime": 115990,
+        "slowStartTime": 170040,
+        "slowEndTime": 174005
+    },
+    {
+        "text": "Bye!",
+        "startTime": 117480,
+        "endTime": 118150,
+        "slowStartTime": 176250,
+        "slowEndTime": 177295
+    },
+    {
+        "text": "Bye for now!",
+        "startTime": 119250,
+        "endTime": 120320,
+        "slowStartTime": 178960,
+        "slowEndTime": 180480
+    },
+    {
+        "text": "Bye-bye!",
+        "startTime": 121380,
+        "endTime": 122320,
+        "slowStartTime": 182200,
+        "slowEndTime": 183500
+    },
+    {
+        "text": "See ya!",
+        "startTime": 123220,
+        "endTime": 123990,
+        "slowStartTime": 184945,
+        "slowEndTime": 185935
+    },
+    {
+        "text": "So long!",
+        "startTime": 125050,
+        "endTime": 125820,
+        "slowStartTime": 187700,
+        "slowEndTime": 188950
+    },
+    {
+        "text": "Ciao!",
+        "startTime": 127220,
+        "endTime": 127890,
+        "slowStartTime": 190860,
+        "slowEndTime": 191795
+    },
+    {
+        "text": "Later!",
+        "startTime": 129060,
+        "endTime": 129730,
+        "slowStartTime": 193630,
+        "slowEndTime": 194650
+    },
+    {
+        "text": "Cheerio!",
+        "startTime": 130990,
+        "endTime": 131990,
+        "slowStartTime": 196600,
+        "slowEndTime": 197940
+    },
+    {
+        "text": "See you around!",
+        "startTime": 132890,
+        "endTime": 134200,
+        "slowStartTime": 199435,
+        "slowEndTime": 201245
+    },
+    {
+        "text": "Farewell!",
+        "startTime": 135230,
+        "endTime": 136130,
+        "slowStartTime": 202710,
+        "slowEndTime": 204190
+    },
+    {
+        "text": "Ta-ra!",
+        "startTime": 137130,
+        "endTime": 137870,
+        "slowStartTime": 205830,
+        "slowEndTime": 206840
+    },
+    {
+        "text": "See you again!",
+        "startTime": 138970,
+        "endTime": 139970,
+        "slowStartTime": 208440,
+        "slowEndTime": 210060
+    },
+    {
+        "text": "Ta-ta for now!",
+        "startTime": 141010,
+        "endTime": 142300,
+        "slowStartTime": 211600,
+        "slowEndTime": 213450
+    },
+    {
+        "text": "Catch you later!",
+        "startTime": 143270,
+        "endTime": 144570,
+        "slowStartTime": 215000,
+        "slowEndTime": 216870
+    },
+    {
+        "text": "Goodbye!",
+        "startTime": 147480,
+        "endTime": 148240,
+        "slowStartTime": 221250,
+        "slowEndTime": 222410
+    }
+]

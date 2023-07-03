@@ -1,0 +1,240 @@
+[
+    {
+        "text": "﻿Hello?",
+        "startTime": 342,
+        "endTime": 799,
+        "slowStartTime": 663,
+        "slowEndTime": 1424
+    },
+    {
+        "text": "Hi, Amanda.",
+        "startTime": 1273,
+        "endTime": 1981,
+        "slowStartTime": 2060,
+        "slowEndTime": 3197
+    },
+    {
+        "text": "How's it going?",
+        "startTime": 2470,
+        "endTime": 3181,
+        "slowStartTime": 3855,
+        "slowEndTime": 4996
+    },
+    {
+        "text": "Everything is fine.",
+        "startTime": 3607,
+        "endTime": 4789,
+        "slowStartTime": 5561,
+        "slowEndTime": 7408
+    },
+    {
+        "text": "It's Easter today!",
+        "startTime": 4886,
+        "endTime": 5999,
+        "slowStartTime": 7479,
+        "slowEndTime": 9224
+    },
+    {
+        "text": "Yes.",
+        "startTime": 6291,
+        "endTime": 6709,
+        "slowStartTime": 9587,
+        "slowEndTime": 10289
+    },
+    {
+        "text": "My daughter got me a chocolate egg from her church.",
+        "startTime": 7073,
+        "endTime": 9349,
+        "slowStartTime": 10760,
+        "slowEndTime": 14248
+    },
+    {
+        "text": "That's so sweet of her.",
+        "startTime": 9803,
+        "endTime": 10961,
+        "slowStartTime": 14854,
+        "slowEndTime": 16666
+    },
+    {
+        "text": "What kind of holidays do you have in your country?",
+        "startTime": 11323,
+        "endTime": 13721,
+        "slowStartTime": 17135,
+        "slowEndTime": 20806
+    },
+    {
+        "text": "Well, we have New Year's Day in January, of course.",
+        "startTime": 14182,
+        "endTime": 17493,
+        "slowStartTime": 21423,
+        "slowEndTime": 26464
+    },
+    {
+        "text": "Same here.",
+        "startTime": 17811,
+        "endTime": 18487,
+        "slowStartTime": 26867,
+        "slowEndTime": 27955
+    },
+    {
+        "text": "Do you make resolutions, too?",
+        "startTime": 18837,
+        "endTime": 20285,
+        "slowStartTime": 28406,
+        "slowEndTime": 30652
+    },
+    {
+        "text": "Yeah, I think that is the common tradition all around the world.",
+        "startTime": 20570,
+        "endTime": 23821,
+        "slowStartTime": 31005,
+        "slowEndTime": 35957
+    },
+    {
+        "text": "I think so, too.",
+        "startTime": 24060,
+        "endTime": 25158,
+        "slowStartTime": 36240,
+        "slowEndTime": 37962
+    },
+    {
+        "text": "How about in February?",
+        "startTime": 25586,
+        "endTime": 26961,
+        "slowStartTime": 38529,
+        "slowEndTime": 40667
+    },
+    {
+        "text": "Do you have Valentine's Day?",
+        "startTime": 27187,
+        "endTime": 28540,
+        "slowStartTime": 40931,
+        "slowEndTime": 43035
+    },
+    {
+        "text": "Yes.",
+        "startTime": 28867,
+        "endTime": 29381,
+        "slowStartTime": 43450,
+        "slowEndTime": 44296
+    },
+    {
+        "text": "By the way, I heard that you have White Day in March and Black Day in April.",
+        "startTime": 29769,
+        "endTime": 34127,
+        "slowStartTime": 44803,
+        "slowEndTime": 51416
+    },
+    {
+        "text": "Is that right?",
+        "startTime": 34392,
+        "endTime": 35156,
+        "slowStartTime": 51738,
+        "slowEndTime": 52959
+    },
+    {
+        "text": "Yes, but I think they're celebrated only in Korea.",
+        "startTime": 35568,
+        "endTime": 38763,
+        "slowStartTime": 53502,
+        "slowEndTime": 58369
+    },
+    {
+        "text": "That's interesting.",
+        "startTime": 39089,
+        "endTime": 40148,
+        "slowStartTime": 58783,
+        "slowEndTime": 60447
+    },
+    {
+        "text": "Have you seen any parades?",
+        "startTime": 40527,
+        "endTime": 41839,
+        "slowStartTime": 60940,
+        "slowEndTime": 62983
+    },
+    {
+        "text": "Not in person, but on TV.",
+        "startTime": 42231,
+        "endTime": 44767,
+        "slowStartTime": 63496,
+        "slowEndTime": 67376
+    },
+    {
+        "text": "What was the most impressive one?",
+        "startTime": 45331,
+        "endTime": 46755,
+        "slowStartTime": 68146,
+        "slowEndTime": 70358
+    },
+    {
+        "text": "A street parade in Switzerland.",
+        "startTime": 47217,
+        "endTime": 49230,
+        "slowStartTime": 70976,
+        "slowEndTime": 74070
+    },
+    {
+        "text": "Did you find anything interesting?",
+        "startTime": 49522,
+        "endTime": 51197,
+        "slowStartTime": 74433,
+        "slowEndTime": 77020
+    },
+    {
+        "text": "Yes, they were dancing with techno music.",
+        "startTime": 51588,
+        "endTime": 54303,
+        "slowStartTime": 77532,
+        "slowEndTime": 81680
+    },
+    {
+        "text": "Techno music?",
+        "startTime": 54637,
+        "endTime": 55553,
+        "slowStartTime": 82105,
+        "slowEndTime": 83555
+    },
+    {
+        "text": "Wow, I want to see that, too.",
+        "startTime": 55894,
+        "endTime": 57905,
+        "slowStartTime": 83991,
+        "slowEndTime": 87083
+    },
+    {
+        "text": "I just can't picture it.",
+        "startTime": 58259,
+        "endTime": 59460,
+        "slowStartTime": 87539,
+        "slowEndTime": 89415
+    },
+    {
+        "text": "What else?",
+        "startTime": 60138,
+        "endTime": 60781,
+        "slowStartTime": 90357,
+        "slowEndTime": 91397
+    },
+    {
+        "text": "Do you celebrate Thanksgiving?",
+        "startTime": 61105,
+        "endTime": 62579,
+        "slowStartTime": 91807,
+        "slowEndTime": 94094
+    },
+    {
+        "text": "Sure.",
+        "startTime": 62841,
+        "endTime": 63528,
+        "slowStartTime": 94412,
+        "slowEndTime": 95517
+    },
+    {
+        "text": "That reminds me of turkey and homemade gravy sauce.",
+        "startTime": 63879,
+        "endTime": 66961,
+        "slowStartTime": 95968,
+        "slowEndTime": 100667
+    }
+]

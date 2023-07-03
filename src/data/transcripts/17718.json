@@ -1,0 +1,79 @@
+[
+    {
+        "text": "I like these key chains.",
+        "startTime": 1547,
+        "endTime": 4106,
+        "slowStartTime": 2470,
+        "slowEndTime": 6384
+    },
+    {
+        "text": "Why do you like those key chains?",
+        "startTime": 5045,
+        "endTime": 7345,
+        "slowStartTime": 7717,
+        "slowEndTime": 11242
+    },
+    {
+        "text": "They come in so many different colors.",
+        "startTime": 8320,
+        "endTime": 11287,
+        "slowStartTime": 12630,
+        "slowEndTime": 17155
+    },
+    {
+        "text": "Some of them are pink. Others are green. And the others are blue.",
+        "startTime": 11620,
+        "endTime": 16963,
+        "slowStartTime": 17580,
+        "slowEndTime": 25669
+    },
+    {
+        "text": "That's why I like them.",
+        "startTime": 17457,
+        "endTime": 18924,
+        "slowStartTime": 26336,
+        "slowEndTime": 28611
+    },
+    {
+        "text": "My mom bought me these three caps.",
+        "startTime": 22048,
+        "endTime": 24617,
+        "slowStartTime": 33222,
+        "slowEndTime": 37151
+    },
+    {
+        "text": "One is white. Another is red. And the other is green.",
+        "startTime": 25011,
+        "endTime": 29374,
+        "slowStartTime": 37666,
+        "slowEndTime": 44286
+    },
+    {
+        "text": "Wow. Where did she buy them? I also need to buy one.",
+        "startTime": 30437,
+        "endTime": 35207,
+        "slowStartTime": 45805,
+        "slowEndTime": 53035
+    },
+    {
+        "text": "Shall I give you one of them? Which one do you prefer?",
+        "startTime": 36266,
+        "endTime": 39943,
+        "slowStartTime": 54549,
+        "slowEndTime": 60139
+    },
+    {
+        "text": "Oh, thanks. This is what I want.",
+        "startTime": 40931,
+        "endTime": 44072,
+        "slowStartTime": 61547,
+        "slowEndTime": 66333
+    },
+    {
+        "text": "Pink is my favorite color.",
+        "startTime": 44467,
+        "endTime": 46353,
+        "slowStartTime": 66851,
+        "slowEndTime": 69754
+    }
+]

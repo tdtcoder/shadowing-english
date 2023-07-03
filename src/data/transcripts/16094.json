@@ -1,0 +1,37 @@
+[
+    {
+        "text": "What do you think is in the last, say, five years,...",
+        "startTime": 94,
+        "endTime": 2146,
+        "slowStartTime": 291,
+        "slowEndTime": 3444
+    },
+    {
+        "text": "...what one product would you wish you could have polished a little more?",
+        "startTime": 2655,
+        "endTime": 5998,
+        "slowStartTime": 4133,
+        "slowEndTime": 9222
+    },
+    {
+        "text": "Ask me after we ship the next version of Windows.",
+        "startTime": 8583,
+        "endTime": 10913,
+        "slowStartTime": 13024,
+        "slowEndTime": 16594
+    },
+    {
+        "text": "Okay. I will.",
+        "startTime": 11001,
+        "endTime": 12418,
+        "slowStartTime": 16651,
+        "slowEndTime": 18852
+    },
+    {
+        "text": "Then I'll be more open to give you a blunt answer.",
+        "startTime": 13004,
+        "endTime": 16443,
+        "slowStartTime": 19656,
+        "slowEndTime": 24890
+    }
+]

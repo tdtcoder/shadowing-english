@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Ladies, let's make a salad, shall we?",
+        "startTime": 1712,
+        "endTime": 4697,
+        "slowStartTime": 2718,
+        "slowEndTime": 7271
+    },
+    {
+        "text": "This is the most beautiful pepper I've ever held.",
+        "startTime": 7897,
+        "endTime": 10141,
+        "slowStartTime": 11995,
+        "slowEndTime": 15436
+    },
+    {
+        "text": "How zesty do u want it?",
+        "startTime": 13503,
+        "endTime": 14978,
+        "slowStartTime": 20404,
+        "slowEndTime": 22692
+    },
+    {
+        "text": "A little?",
+        "startTime": 15623,
+        "endTime": 16280,
+        "slowStartTime": 23585,
+        "slowEndTime": 24645
+    },
+    {
+        "text": "A little more?",
+        "startTime": 17846,
+        "endTime": 18613,
+        "slowStartTime": 26919,
+        "slowEndTime": 28145
+    },
+    {
+        "text": "How about a lot more?",
+        "startTime": 20801,
+        "endTime": 22049,
+        "slowStartTime": 31351,
+        "slowEndTime": 33299
+    },
+    {
+        "text": "Let's get zesty.",
+        "startTime": 28233,
+        "endTime": 29443,
+        "slowStartTime": 42499,
+        "slowEndTime": 44389
+    }
+]

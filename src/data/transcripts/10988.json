@@ -1,0 +1,212 @@
+[
+    {
+        "text": "This is our daughter, Lilly.",
+        "startTime": 1100,
+        "endTime": 2700,
+        "slowStartTime": 1800,
+        "slowEndTime": 4300
+    },
+    {
+        "text": "She's almost two years old...",
+        "startTime": 3100,
+        "endTime": 5150,
+        "slowStartTime": 4800,
+        "slowEndTime": 8000
+    },
+    {
+        "text": "...and she wants to show you how she's really good with the map.",
+        "startTime": 5400,
+        "endTime": 8800,
+        "slowStartTime": 8430,
+        "slowEndTime": 13460
+    },
+    {
+        "text": "Hey, Lilly!",
+        "startTime": 9950,
+        "endTime": 10600,
+        "slowStartTime": 15125,
+        "slowEndTime": 16300
+    },
+    {
+        "text": "Okay.",
+        "startTime": 13550,
+        "endTime": 14000,
+        "slowStartTime": 20500,
+        "slowEndTime": 21250
+    },
+    {
+        "text": "Hey Lilly! Where is Brazil?",
+        "startTime": 14050,
+        "endTime": 16450,
+        "slowStartTime": 21250,
+        "slowEndTime": 25000
+    },
+    {
+        "text": "Oh yeah! There it is.",
+        "startTime": 19100,
+        "endTime": 20200,
+        "slowStartTime": 28850,
+        "slowEndTime": 30500
+    },
+    {
+        "text": "Where's the USA?",
+        "startTime": 20900,
+        "endTime": 22200,
+        "slowStartTime": 31600,
+        "slowEndTime": 33500
+    },
+    {
+        "text": "There it is.",
+        "startTime": 24250,
+        "endTime": 24900,
+        "slowStartTime": 36550,
+        "slowEndTime": 37600
+    },
+    {
+        "text": "Where is Russia?",
+        "startTime": 25400,
+        "endTime": 26950,
+        "slowStartTime": 38200,
+        "slowEndTime": 40700
+    },
+    {
+        "text": "Where's Russia?",
+        "startTime": 29700,
+        "endTime": 30350,
+        "slowStartTime": 44800,
+        "slowEndTime": 45800
+    },
+    {
+        "text": "Yup. Where's Russia?",
+        "startTime": 31950,
+        "endTime": 32750,
+        "slowStartTime": 48100,
+        "slowEndTime": 49400
+    },
+    {
+        "text": "There it is.",
+        "startTime": 34450,
+        "endTime": 35100,
+        "slowStartTime": 51800,
+        "slowEndTime": 52900
+    },
+    {
+        "text": "Where is Australia?",
+        "startTime": 35600,
+        "endTime": 37000,
+        "slowStartTime": 53500,
+        "slowEndTime": 55800
+    },
+    {
+        "text": "Yay, Lilly!",
+        "startTime": 38400,
+        "endTime": 39400,
+        "slowStartTime": 57750,
+        "slowEndTime": 59400
+    },
+    {
+        "text": "Where's Australia?",
+        "startTime": 40700,
+        "endTime": 41550,
+        "slowStartTime": 61200,
+        "slowEndTime": 62550
+    },
+    {
+        "text": "There it is.",
+        "startTime": 42650,
+        "endTime": 43500,
+        "slowStartTime": 64200,
+        "slowEndTime": 65500
+    },
+    {
+        "text": "Where is South Africa?",
+        "startTime": 44000,
+        "endTime": 45850,
+        "slowStartTime": 66100,
+        "slowEndTime": 69050
+    },
+    {
+        "text": "There it is.",
+        "startTime": 51650,
+        "endTime": 52300,
+        "slowStartTime": 77600,
+        "slowEndTime": 78670
+    },
+    {
+        "text": "Yay, Lilly!",
+        "startTime": 53100,
+        "endTime": 53900,
+        "slowStartTime": 79800,
+        "slowEndTime": 81000
+    },
+    {
+        "text": "Where is Mexico?",
+        "startTime": 54600,
+        "endTime": 56700,
+        "slowStartTime": 82050,
+        "slowEndTime": 85300
+    },
+    {
+        "text": "Where's Mexico?",
+        "startTime": 59000,
+        "endTime": 59750,
+        "slowStartTime": 88700,
+        "slowEndTime": 89800
+    },
+    {
+        "text": "Good job! Where is it?",
+        "startTime": 61750,
+        "endTime": 62800,
+        "slowStartTime": 92850,
+        "slowEndTime": 94400
+    },
+    {
+        "text": "Very good. Where's Canada?",
+        "startTime": 64400,
+        "endTime": 65900,
+        "slowStartTime": 96800,
+        "slowEndTime": 99100
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 68500,
+        "endTime": 69350,
+        "slowStartTime": 103000,
+        "slowEndTime": 104200
+    },
+    {
+        "text": "Where's Greenland?",
+        "startTime": 71350,
+        "endTime": 72750,
+        "slowStartTime": 107200,
+        "slowEndTime": 109400
+    },
+    {
+        "text": "Yay!",
+        "startTime": 74050,
+        "endTime": 74850,
+        "slowStartTime": 111250,
+        "slowEndTime": 112530
+    },
+    {
+        "text": "Where's Greenland?",
+        "startTime": 75150,
+        "endTime": 76000,
+        "slowStartTime": 112900,
+        "slowEndTime": 114250
+    },
+    {
+        "text": "There it is.",
+        "startTime": 78750,
+        "endTime": 79550,
+        "slowStartTime": 118300,
+        "slowEndTime": 119550
+    },
+    {
+        "text": "Yay, Lilly!",
+        "startTime": 80100,
+        "endTime": 80900,
+        "slowStartTime": 120350,
+        "slowEndTime": 121550
+    }
+]

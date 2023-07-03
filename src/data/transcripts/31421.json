@@ -1,0 +1,247 @@
+[
+    {
+        "text": "Toyota knows how to make cars.",
+        "startTime": 3117,
+        "endTime": 5083,
+        "slowStartTime": 4825,
+        "slowEndTime": 7849
+    },
+    {
+        "text": "It does it so well it became the first company...",
+        "startTime": 6327,
+        "endTime": 8462,
+        "slowStartTime": 9641,
+        "slowEndTime": 12918
+    },
+    {
+        "text": "...to produce more than 10 million a year.",
+        "startTime": 8659,
+        "endTime": 10357,
+        "slowStartTime": 13138,
+        "slowEndTime": 15760
+    },
+    {
+        "text": "Its success is rooted in a special system...",
+        "startTime": 11926,
+        "endTime": 14121,
+        "slowStartTime": 18039,
+        "slowEndTime": 21407
+    },
+    {
+        "text": "...and began what is now known as \"Lean Manufacturing\",...",
+        "startTime": 14692,
+        "endTime": 17090,
+        "slowStartTime": 22188,
+        "slowEndTime": 25860
+    },
+    {
+        "text": "...an ethos emulated by companies around the world...",
+        "startTime": 17543,
+        "endTime": 19746,
+        "slowStartTime": 26464,
+        "slowEndTime": 29844
+    },
+    {
+        "text": "...to make products faster, cheaper and better.",
+        "startTime": 20149,
+        "endTime": 22727,
+        "slowStartTime": 30374,
+        "slowEndTime": 34316
+    },
+    {
+        "text": "Here's how Toyota changed the way we make things.",
+        "startTime": 23793,
+        "endTime": 26205,
+        "slowStartTime": 35840,
+        "slowEndTime": 39533
+    },
+    {
+        "text": "Cousin Eiji would travel to the U.S....",
+        "startTime": 26307,
+        "endTime": 27935,
+        "slowStartTime": 39610,
+        "slowEndTime": 42128
+    },
+    {
+        "text": "...with a veteran loom machinist, Taiichi Ohno.",
+        "startTime": 28042,
+        "endTime": 30452,
+        "slowStartTime": 42213,
+        "slowEndTime": 45903
+    },
+    {
+        "text": "They visited Ford's River Rouge plant in Michigan...",
+        "startTime": 31665,
+        "endTime": 33895,
+        "slowStartTime": 47647,
+        "slowEndTime": 51067
+    },
+    {
+        "text": "...and were impressed by the scale of the operation.",
+        "startTime": 34181,
+        "endTime": 36189,
+        "slowStartTime": 51421,
+        "slowEndTime": 54509
+    },
+    {
+        "text": "But knew that in cash-strapped Japan companies...",
+        "startTime": 36623,
+        "endTime": 38745,
+        "slowStartTime": 55084,
+        "slowEndTime": 58343
+    },
+    {
+        "text": "...didn't have the resources for such a system.",
+        "startTime": 38851,
+        "endTime": 40802,
+        "slowStartTime": 58426,
+        "slowEndTime": 61428
+    },
+    {
+        "text": "Having months worth of stock sitting in a warehouse...",
+        "startTime": 41622,
+        "endTime": 43850,
+        "slowStartTime": 62583,
+        "slowEndTime": 66000
+    },
+    {
+        "text": "...would tie up precious capital they didn't have.",
+        "startTime": 44165,
+        "endTime": 46215,
+        "slowStartTime": 66397,
+        "slowEndTime": 69547
+    },
+    {
+        "text": "Instead, what truly impressed Ohno was a visit to a supermarket,...",
+        "startTime": 47176,
+        "endTime": 51051,
+        "slowStartTime": 70914,
+        "slowEndTime": 76801
+    },
+    {
+        "text": "...a Piggly Wiggly according to legend.",
+        "startTime": 51359,
+        "endTime": 53218,
+        "slowStartTime": 77189,
+        "slowEndTime": 80052
+    },
+    {
+        "text": "Japan didn't really have self-service stores at this point...",
+        "startTime": 53825,
+        "endTime": 56371,
+        "slowStartTime": 80887,
+        "slowEndTime": 84781
+    },
+    {
+        "text": "...and he was struck by the way customers...",
+        "startTime": 56689,
+        "endTime": 58129,
+        "slowStartTime": 85184,
+        "slowEndTime": 87419
+    },
+    {
+        "text": "...could choose exactly what they wanted, when they wanted.",
+        "startTime": 58231,
+        "endTime": 61205,
+        "slowStartTime": 87497,
+        "slowEndTime": 92033
+    },
+    {
+        "text": "He decided to model his production line on a similar idea.",
+        "startTime": 61714,
+        "endTime": 64712,
+        "slowStartTime": 92721,
+        "slowEndTime": 97293
+    },
+    {
+        "text": "With the supermarket formula, only enough parts...",
+        "startTime": 65239,
+        "endTime": 67573,
+        "slowStartTime": 98009,
+        "slowEndTime": 101585
+    },
+    {
+        "text": "...were produced in the first phase...",
+        "startTime": 67666,
+        "endTime": 69019,
+        "slowStartTime": 101649,
+        "slowEndTime": 103754
+    },
+    {
+        "text": "...to replace what was used in the 2nd and so on.",
+        "startTime": 69115,
+        "endTime": 71462,
+        "slowStartTime": 103822,
+        "slowEndTime": 107418
+    },
+    {
+        "text": "This is where the \"Just in Time\" system really took shape.",
+        "startTime": 72430,
+        "endTime": 75495,
+        "slowStartTime": 108795,
+        "slowEndTime": 113468
+    },
+    {
+        "text": "Toyota was able to eliminate much of the waste in Ford's system,...",
+        "startTime": 78182,
+        "endTime": 81109,
+        "slowStartTime": 117423,
+        "slowEndTime": 121889
+    },
+    {
+        "text": "...making smaller numbers of parts to be used when it needed them,...",
+        "startTime": 81407,
+        "endTime": 84202,
+        "slowStartTime": 122261,
+        "slowEndTime": 126528
+    },
+    {
+        "text": "...allowing the company to operate on a tighter budget.",
+        "startTime": 84617,
+        "endTime": 86868,
+        "slowStartTime": 127076,
+        "slowEndTime": 130527
+    },
+    {
+        "text": "As part of this Ohno developed \"Kanban\"...",
+        "startTime": 87849,
+        "endTime": 90096,
+        "slowStartTime": 131924,
+        "slowEndTime": 135369
+    },
+    {
+        "text": "... a sign based scheduling method which shows goods in,...",
+        "startTime": 90425,
+        "endTime": 92952,
+        "slowStartTime": 135787,
+        "slowEndTime": 139653
+    },
+    {
+        "text": "...goods in production, and goods out.",
+        "startTime": 93303,
+        "endTime": 95107,
+        "slowStartTime": 140104,
+        "slowEndTime": 142886
+    },
+    {
+        "text": "It's now seen as a precursor to bar codes.",
+        "startTime": 95697,
+        "endTime": 97962,
+        "slowStartTime": 143696,
+        "slowEndTime": 147168
+    },
+    {
+        "text": "Ohno and Toyoda also noticed that American car companies...",
+        "startTime": 98704,
+        "endTime": 101771,
+        "slowStartTime": 148206,
+        "slowEndTime": 152882
+    },
+    {
+        "text": "...were still employing many of Henry Ford's early production techniques.",
+        "startTime": 102081,
+        "endTime": 105349,
+        "slowStartTime": 153272,
+        "slowEndTime": 158248
+    }
+]

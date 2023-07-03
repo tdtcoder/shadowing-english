@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Hi, I'm David.",
+        "startTime": 151,
+        "endTime": 1599,
+        "slowStartTime": 376,
+        "slowEndTime": 2623
+    },
+    {
+        "text": "What is your name?",
+        "startTime": 1903,
+        "endTime": 3334,
+        "slowStartTime": 3005,
+        "slowEndTime": 5226
+    },
+    {
+        "text": "My Korean name is Jun Hyung.",
+        "startTime": 3915,
+        "endTime": 6355,
+        "slowStartTime": 6023,
+        "slowEndTime": 9757
+    },
+    {
+        "text": "My friends call me just Jun.",
+        "startTime": 6973,
+        "endTime": 8509,
+        "slowStartTime": 10610,
+        "slowEndTime": 12989
+    },
+    {
+        "text": "Feel free to call me Jun.",
+        "startTime": 9097,
+        "endTime": 10416,
+        "slowStartTime": 13795,
+        "slowEndTime": 15849
+    },
+    {
+        "text": "I see.",
+        "startTime": 10789,
+        "endTime": 11634,
+        "slowStartTime": 16334,
+        "slowEndTime": 17676
+    },
+    {
+        "text": "Where do you live, Jun?",
+        "startTime": 12123,
+        "endTime": 13438,
+        "slowStartTime": 18334,
+        "slowEndTime": 20382
+    },
+    {
+        "text": "I live in Busan.",
+        "startTime": 13825,
+        "endTime": 15023,
+        "slowStartTime": 20888,
+        "slowEndTime": 22760
+    },
+    {
+        "text": "Have you been to Busan before?",
+        "startTime": 15323,
+        "endTime": 16985,
+        "slowStartTime": 23134,
+        "slowEndTime": 25703
+    },
+    {
+        "text": "Yes, but it was a long time ago.",
+        "startTime": 17235,
+        "endTime": 20347,
+        "slowStartTime": 26002,
+        "slowEndTime": 30745
+    },
+    {
+        "text": "Where do you work, David?",
+        "startTime": 20975,
+        "endTime": 22264,
+        "slowStartTime": 31612,
+        "slowEndTime": 33621
+    },
+    {
+        "text": "I work at the Grand Restaurant.",
+        "startTime": 22603,
+        "endTime": 24930,
+        "slowStartTime": 34054,
+        "slowEndTime": 37620
+    },
+    {
+        "text": "I'm a restaurant manager.",
+        "startTime": 25181,
+        "endTime": 26567,
+        "slowStartTime": 37922,
+        "slowEndTime": 40075
+    },
+    {
+        "text": "Really?",
+        "startTime": 26766,
+        "endTime": 27278,
+        "slowStartTime": 40299,
+        "slowEndTime": 41142
+    },
+    {
+        "text": "That sounds nice!",
+        "startTime": 27610,
+        "endTime": 28645,
+        "slowStartTime": 41565,
+        "slowEndTime": 43192
+    },
+    {
+        "text": "I should eat out there sometime.",
+        "startTime": 29056,
+        "endTime": 30685,
+        "slowStartTime": 43734,
+        "slowEndTime": 46253
+    }
+]

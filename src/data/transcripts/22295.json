@@ -1,0 +1,79 @@
+[
+    {
+        "text": "This stamp may be worth a lot of money.",
+        "startTime": 3181,
+        "endTime": 5350,
+        "slowStartTime": 4922,
+        "slowEndTime": 8250
+    },
+    {
+        "text": "This is a glimpse of what the future may look like.",
+        "startTime": 8218,
+        "endTime": 11183,
+        "slowStartTime": 12477,
+        "slowEndTime": 17000
+    },
+    {
+        "text": "It's possible you might have to go to court.",
+        "startTime": 14298,
+        "endTime": 16299,
+        "slowStartTime": 21597,
+        "slowEndTime": 24674
+    },
+    {
+        "text": "I'm also worried I might not understand his accent.",
+        "startTime": 18020,
+        "endTime": 21099,
+        "slowStartTime": 27180,
+        "slowEndTime": 31873
+    },
+    {
+        "text": "Maybe you could be a great writer.",
+        "startTime": 24428,
+        "endTime": 26711,
+        "slowStartTime": 36792,
+        "slowEndTime": 40291
+    },
+    {
+        "text": "Maybe I'm getting old, as my friends would say.",
+        "startTime": 28851,
+        "endTime": 31247,
+        "slowStartTime": 43427,
+        "slowEndTime": 47096
+    },
+    {
+        "text": "Perhaps we will, one day. Keep in touch, Mina.",
+        "startTime": 34629,
+        "endTime": 38106,
+        "slowStartTime": 52093,
+        "slowEndTime": 57384
+    },
+    {
+        "text": "Perhaps they'll be the beginning of a new herd in this area.",
+        "startTime": 40358,
+        "endTime": 43323,
+        "slowStartTime": 60687,
+        "slowEndTime": 65209
+    },
+    {
+        "text": "She will probably come to my house tomorrow.",
+        "startTime": 47649,
+        "endTime": 50387,
+        "slowStartTime": 71623,
+        "slowEndTime": 75805
+    },
+    {
+        "text": "Good idea. There will probably be a lot of people there.",
+        "startTime": 52255,
+        "endTime": 55106,
+        "slowStartTime": 78532,
+        "slowEndTime": 82884
+    },
+    {
+        "text": "Chances are, they're not telling you the truth.",
+        "startTime": 58261,
+        "endTime": 60714,
+        "slowStartTime": 87541,
+        "slowEndTime": 91296
+    }
+]

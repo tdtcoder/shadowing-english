@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Timothy, what's the status with the Linear Solutions?",
+        "startTime": 605,
+        "endTime": 3511,
+        "slowStartTime": 1058,
+        "slowEndTime": 5491
+    },
+    {
+        "text": "Could you give us the latest on the Square project?",
+        "startTime": 4202,
+        "endTime": 6471,
+        "slowStartTime": 6453,
+        "slowEndTime": 9931
+    },
+    {
+        "text": "The Linear Solutions department has yet again functioned at full capacity...",
+        "startTime": 6831,
+        "endTime": 10917,
+        "slowStartTime": 10397,
+        "slowEndTime": 16600
+    },
+    {
+        "text": "...and we have fulfilled 114 percent of this month's objectives.",
+        "startTime": 11179,
+        "endTime": 14578,
+        "slowStartTime": 16919,
+        "slowEndTime": 22092
+    },
+    {
+        "text": "Overall, we have very good progress with the design.",
+        "startTime": 15182,
+        "endTime": 17422,
+        "slowStartTime": 22923,
+        "slowEndTime": 26358
+    },
+    {
+        "text": "Are we on track with the schedule?",
+        "startTime": 17837,
+        "endTime": 19410,
+        "slowStartTime": 26905,
+        "slowEndTime": 29340
+    },
+    {
+        "text": "When are we required to start delivering?",
+        "startTime": 19925,
+        "endTime": 21605,
+        "slowStartTime": 30038,
+        "slowEndTime": 32633
+    },
+    {
+        "text": "I'm happy to report that we are ready to start first deliveries tomorrow,...",
+        "startTime": 22243,
+        "endTime": 26047,
+        "slowStartTime": 33515,
+        "slowEndTime": 39295
+    },
+    {
+        "text": "...which is way ahead of the requested delivery schedule.",
+        "startTime": 26195,
+        "endTime": 28467,
+        "slowStartTime": 39442,
+        "slowEndTime": 42925
+    },
+    {
+        "text": "We've only just finished system testing the prototype...",
+        "startTime": 28945,
+        "endTime": 31783,
+        "slowStartTime": 43568,
+        "slowEndTime": 47900
+    },
+    {
+        "text": "...and are only halfway through performance testing.",
+        "startTime": 31895,
+        "endTime": 34181,
+        "slowStartTime": 47993,
+        "slowEndTime": 51497
+    },
+    {
+        "text": "We haven't even released an alpha version yet.",
+        "startTime": 34555,
+        "endTime": 37081,
+        "slowStartTime": 51982,
+        "slowEndTime": 55846
+    },
+    {
+        "text": "As I said earlier, we've had very good progress with the design.",
+        "startTime": 37477,
+        "endTime": 39911,
+        "slowStartTime": 56365,
+        "slowEndTime": 60091
+    },
+    {
+        "text": "Yes, we've had very good progress; but I'd say the design of the product is only 75 percent complete.",
+        "startTime": 40045,
+        "endTime": 46399,
+        "slowStartTime": 60218,
+        "slowEndTime": 69823
+    },
+    {
+        "text": "Well, exactly.",
+        "startTime": 46565,
+        "endTime": 47281,
+        "slowStartTime": 69997,
+        "slowEndTime": 71146
+    },
+    {
+        "text": "That's 3 out of every 4.",
+        "startTime": 47422,
+        "endTime": 48770,
+        "slowStartTime": 71283,
+        "slowEndTime": 73380
+    },
+    {
+        "text": "So, we're ready to start shipping tomorrow.",
+        "startTime": 49167,
+        "endTime": 51128,
+        "slowStartTime": 73901,
+        "slowEndTime": 76917
+    },
+    {
+        "text": "What?",
+        "startTime": 51371,
+        "endTime": 51543,
+        "slowStartTime": 77206,
+        "slowEndTime": 77539
+    },
+    {
+        "text": "It doesn't work like that.",
+        "startTime": 51871,
+        "endTime": 54160,
+        "slowStartTime": 77957,
+        "slowEndTime": 81465
+    },
+    {
+        "text": "We'll produce, say, 4 units, but only ship the first 3!",
+        "startTime": 55454,
+        "endTime": 58979,
+        "slowStartTime": 83331,
+        "slowEndTime": 88694
+    },
+    {
+        "text": "Then, when you're finally 100 percent complete with the design,...",
+        "startTime": 59383,
+        "endTime": 62068,
+        "slowStartTime": 89224,
+        "slowEndTime": 93327
+    },
+    {
+        "text": "...we can then ship the fourth.",
+        "startTime": 62447,
+        "endTime": 64095,
+        "slowStartTime": 93820,
+        "slowEndTime": 96367
+    },
+    {
+        "text": "Excellent work, Timothy!",
+        "startTime": 67604,
+        "endTime": 68788,
+        "slowStartTime": 101556,
+        "slowEndTime": 103407
+    },
+    {
+        "text": "You can proceed with the production.",
+        "startTime": 69053,
+        "endTime": 70075,
+        "slowStartTime": 103729,
+        "slowEndTime": 105337
+    },
+    {
+        "text": "Anderson, send me, please a revised delivery schedule, so I can share it with the client.",
+        "startTime": 70778,
+        "endTime": 74825,
+        "slowStartTime": 106317,
+        "slowEndTime": 112463
+    },
+    {
+        "text": "Well, thank you, everyone! This was very productive.",
+        "startTime": 75469,
+        "endTime": 79577,
+        "slowStartTime": 113354,
+        "slowEndTime": 119591
+    },
+    {
+        "text": "Yet again!",
+        "startTime": 80061,
+        "endTime": 80666,
+        "slowStartTime": 120242,
+        "slowEndTime": 121224
+    }
+]

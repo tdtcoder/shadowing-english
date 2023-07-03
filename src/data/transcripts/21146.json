@@ -1,0 +1,226 @@
+[
+    {
+        "text": "Hello.",
+        "startTime": 156,
+        "endTime": 511,
+        "slowStartTime": 384,
+        "slowEndTime": 991
+    },
+    {
+        "text": "My name is Brian and today we are going to talk about introductions and making friends.",
+        "startTime": 774,
+        "endTime": 7124,
+        "slowStartTime": 1311,
+        "slowEndTime": 10911
+    },
+    {
+        "text": "An introduction is when you introduce yourself to someone.",
+        "startTime": 7474,
+        "endTime": 10800,
+        "slowStartTime": 11361,
+        "slowEndTime": 16425
+    },
+    {
+        "text": "Usually the other person will also introduce themselves as well.",
+        "startTime": 11245,
+        "endTime": 15247,
+        "slowStartTime": 17017,
+        "slowEndTime": 23095
+    },
+    {
+        "text": "Hi, my name is Brian.",
+        "startTime": 17838,
+        "endTime": 19200,
+        "slowStartTime": 26907,
+        "slowEndTime": 29025
+    },
+    {
+        "text": "Nice to meet you.",
+        "startTime": 19281,
+        "endTime": 20223,
+        "slowStartTime": 29071,
+        "slowEndTime": 30560
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 20631,
+        "endTime": 21685,
+        "slowStartTime": 31097,
+        "slowEndTime": 32753
+    },
+    {
+        "text": "My name is Joey.",
+        "startTime": 21959,
+        "endTime": 23197,
+        "slowStartTime": 33088,
+        "slowEndTime": 35020
+    },
+    {
+        "text": "When you make a new friend or when you see somebody you know,...",
+        "startTime": 23575,
+        "endTime": 26606,
+        "slowStartTime": 35513,
+        "slowEndTime": 40134
+    },
+    {
+        "text": "...you may want to shake hands.",
+        "startTime": 26915,
+        "endTime": 28831,
+        "slowStartTime": 40522,
+        "slowEndTime": 43472
+    },
+    {
+        "text": "You will then have a conversation with the person.",
+        "startTime": 29245,
+        "endTime": 31610,
+        "slowStartTime": 44018,
+        "slowEndTime": 47640
+    },
+    {
+        "text": "I am going to show you how it is done.",
+        "startTime": 32051,
+        "endTime": 34199,
+        "slowStartTime": 48227,
+        "slowEndTime": 51524
+    },
+    {
+        "text": "Do you go to school here?",
+        "startTime": 39434,
+        "endTime": 40933,
+        "slowStartTime": 59301,
+        "slowEndTime": 61625
+    },
+    {
+        "text": "Yes.",
+        "startTime": 41307,
+        "endTime": 41749,
+        "slowStartTime": 62110,
+        "slowEndTime": 62849
+    },
+    {
+        "text": "I am in Mrs. Guzman's class.",
+        "startTime": 42042,
+        "endTime": 43979,
+        "slowStartTime": 63213,
+        "slowEndTime": 66193
+    },
+    {
+        "text": "What class are you in?",
+        "startTime": 44431,
+        "endTime": 45721,
+        "slowStartTime": 66796,
+        "slowEndTime": 68806
+    },
+    {
+        "text": "I am in Mrs. Pollard's class.",
+        "startTime": 45941,
+        "endTime": 47887,
+        "slowStartTime": 69061,
+        "slowEndTime": 72055
+    },
+    {
+        "text": "She is nice.",
+        "startTime": 48228,
+        "endTime": 49063,
+        "slowStartTime": 72492,
+        "slowEndTime": 73820
+    },
+    {
+        "text": "Do you like her class?",
+        "startTime": 49513,
+        "endTime": 50719,
+        "slowStartTime": 74420,
+        "slowEndTime": 76303
+    },
+    {
+        "text": "Yeah, she is cool.",
+        "startTime": 50994,
+        "endTime": 52429,
+        "slowStartTime": 76641,
+        "slowEndTime": 78869
+    },
+    {
+        "text": "Now I am going to invite Joey to play on the playground.",
+        "startTime": 52702,
+        "endTime": 56109,
+        "slowStartTime": 79203,
+        "slowEndTime": 84388
+    },
+    {
+        "text": "You don't have to do this.",
+        "startTime": 56523,
+        "endTime": 58023,
+        "slowStartTime": 84934,
+        "slowEndTime": 87260
+    },
+    {
+        "text": "You may say something like, \"Nice to meet you. See you around,\" and walk away.",
+        "startTime": 58491,
+        "endTime": 62962,
+        "slowStartTime": 87887,
+        "slowEndTime": 94668
+    },
+    {
+        "text": "Or you can say, \"See you around. Maybe we can hang out some time.\"",
+        "startTime": 63215,
+        "endTime": 68533,
+        "slowStartTime": 94972,
+        "slowEndTime": 103024
+    },
+    {
+        "text": "For our demonstration, I am going to invite Joey to play.",
+        "startTime": 68977,
+        "endTime": 72731,
+        "slowStartTime": 103615,
+        "slowEndTime": 109321
+    },
+    {
+        "text": "Do you want to play with me on the playground?",
+        "startTime": 73254,
+        "endTime": 75797,
+        "slowStartTime": 110031,
+        "slowEndTime": 113921
+    },
+    {
+        "text": "Sure.",
+        "startTime": 76191,
+        "endTime": 76562,
+        "slowStartTime": 114437,
+        "slowEndTime": 115068
+    },
+    {
+        "text": "Let's go.",
+        "startTime": 76899,
+        "endTime": 77599,
+        "slowStartTime": 115499,
+        "slowEndTime": 116624
+    },
+    {
+        "text": "It was fun playing with you.",
+        "startTime": 83791,
+        "endTime": 85171,
+        "slowStartTime": 125836,
+        "slowEndTime": 127982
+    },
+    {
+        "text": "We should be friends.",
+        "startTime": 85262,
+        "endTime": 86405,
+        "slowStartTime": 128043,
+        "slowEndTime": 129832
+    },
+    {
+        "text": "I would love to be your friend.",
+        "startTime": 86689,
+        "endTime": 88344,
+        "slowStartTime": 130184,
+        "slowEndTime": 132741
+    },
+    {
+        "text": "See you tomorrow.",
+        "startTime": 88766,
+        "endTime": 89778,
+        "slowStartTime": 133299,
+        "slowEndTime": 134892
+    }
+]

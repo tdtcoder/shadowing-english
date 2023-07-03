@@ -1,0 +1,100 @@
+[
+    {
+        "text": "I see eight bugs.",
+        "startTime": 2403,
+        "endTime": 4446,
+        "slowStartTime": 3755,
+        "slowEndTime": 6894
+    },
+    {
+        "text": "I see seven ducks.",
+        "startTime": 5594,
+        "endTime": 7211,
+        "slowStartTime": 8541,
+        "slowEndTime": 11042
+    },
+    {
+        "text": "I see six frogs.",
+        "startTime": 8287,
+        "endTime": 9956,
+        "slowStartTime": 12580,
+        "slowEndTime": 15159
+    },
+    {
+        "text": "I see five turtles.",
+        "startTime": 11057,
+        "endTime": 12667,
+        "slowStartTime": 16736,
+        "slowEndTime": 19226
+    },
+    {
+        "text": "I see four fish.",
+        "startTime": 13784,
+        "endTime": 15427,
+        "slowStartTime": 20826,
+        "slowEndTime": 23366
+    },
+    {
+        "text": "I see three worms.",
+        "startTime": 16500,
+        "endTime": 18232,
+        "slowStartTime": 24900,
+        "slowEndTime": 27573
+    },
+    {
+        "text": "I see two swans.",
+        "startTime": 19281,
+        "endTime": 21093,
+        "slowStartTime": 29071,
+        "slowEndTime": 31864
+    },
+    {
+        "text": "I see one pond.",
+        "startTime": 22141,
+        "endTime": 23819,
+        "slowStartTime": 33362,
+        "slowEndTime": 35954
+    },
+    {
+        "text": "I see one pond.",
+        "startTime": 27628,
+        "endTime": 29195,
+        "slowStartTime": 41592,
+        "slowEndTime": 44017
+    },
+    {
+        "text": "There are many different animals.",
+        "startTime": 29769,
+        "endTime": 32013,
+        "slowStartTime": 44803,
+        "slowEndTime": 48245
+    },
+    {
+        "text": "Do you see any ducks?",
+        "startTime": 33179,
+        "endTime": 34881,
+        "slowStartTime": 49919,
+        "slowEndTime": 52546
+    },
+    {
+        "text": "Yes, I see seven ducks.",
+        "startTime": 35969,
+        "endTime": 38629,
+        "slowStartTime": 54103,
+        "slowEndTime": 58169
+    },
+    {
+        "text": "Do you see any fish?",
+        "startTime": 39777,
+        "endTime": 41529,
+        "slowStartTime": 59815,
+        "slowEndTime": 62518
+    },
+    {
+        "text": "Yes, I see four fish.",
+        "startTime": 42573,
+        "endTime": 44896,
+        "slowStartTime": 64010,
+        "slowEndTime": 67569
+    }
+]

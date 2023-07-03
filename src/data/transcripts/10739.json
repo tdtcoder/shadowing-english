@@ -1,0 +1,135 @@
+[
+    {
+        "text": "The mine is too dangerous.",
+        "startTime": 4200,
+        "endTime": 6400,
+        "slowStartTime": 6550,
+        "slowEndTime": 9800
+    },
+    {
+        "text": "We can't work here anymore.",
+        "startTime": 6850,
+        "endTime": 9050,
+        "slowStartTime": 10550,
+        "slowEndTime": 13700
+    },
+    {
+        "text": "We will have miners. New miners.",
+        "startTime": 9950,
+        "endTime": 13350,
+        "slowStartTime": 15200,
+        "slowEndTime": 20150
+    },
+    {
+        "text": "Quick, Robin! We've got one!",
+        "startTime": 14450,
+        "endTime": 16500,
+        "slowStartTime": 21950,
+        "slowEndTime": 24900
+    },
+    {
+        "text": "A cart's fallen into our hole!",
+        "startTime": 17100,
+        "endTime": 19550,
+        "slowStartTime": 26000,
+        "slowEndTime": 29350
+    },
+    {
+        "text": "Who are they?",
+        "startTime": 20800,
+        "endTime": 21550,
+        "slowStartTime": 31550,
+        "slowEndTime": 32500
+    },
+    {
+        "text": "Where are you taking them?",
+        "startTime": 22150,
+        "endTime": 23250,
+        "slowStartTime": 33500,
+        "slowEndTime": 35050
+    },
+    {
+        "text": "They're new workers for the sheriff's mine.",
+        "startTime": 23850,
+        "endTime": 27000,
+        "slowStartTime": 36100,
+        "slowEndTime": 40700
+    },
+    {
+        "text": "They're slaves.",
+        "startTime": 27500,
+        "endTime": 28800,
+        "slowStartTime": 41600,
+        "slowEndTime": 43400
+    },
+    {
+        "text": "The sheriff is buying people.",
+        "startTime": 29450,
+        "endTime": 32100,
+        "slowStartTime": 44450,
+        "slowEndTime": 48350
+    },
+    {
+        "text": "Djaq, we will help you to escape.",
+        "startTime": 33050,
+        "endTime": 35750,
+        "slowStartTime": 49900,
+        "slowEndTime": 53850
+    },
+    {
+        "text": "We want to close the mine.",
+        "startTime": 36100,
+        "endTime": 37850,
+        "slowStartTime": 54450,
+        "slowEndTime": 56950
+    },
+    {
+        "text": "One of you is going to travel in the cart as a slave.",
+        "startTime": 38650,
+        "endTime": 41950,
+        "slowStartTime": 58200,
+        "slowEndTime": 63100
+    },
+    {
+        "text": "You'll look really ill.",
+        "startTime": 42200,
+        "endTime": 44000,
+        "slowStartTime": 63550,
+        "slowEndTime": 66200
+    },
+    {
+        "text": "The guards will think you have the disease.",
+        "startTime": 44800,
+        "endTime": 47400,
+        "slowStartTime": 67400,
+        "slowEndTime": 71300
+    },
+    {
+        "text": "They'll be frightened and run away.",
+        "startTime": 47900,
+        "endTime": 50050,
+        "slowStartTime": 72100,
+        "slowEndTime": 75300
+    },
+    {
+        "text": "Forget Robin Hood!",
+        "startTime": 50750,
+        "endTime": 52750,
+        "slowStartTime": 76400,
+        "slowEndTime": 79400
+    },
+    {
+        "text": "Save the mine!",
+        "startTime": 53100,
+        "endTime": 55050,
+        "slowStartTime": 79900,
+        "slowEndTime": 82700
+    },
+    {
+        "text": "Never forget Robin Hood!",
+        "startTime": 55850,
+        "endTime": 58300,
+        "slowStartTime": 84000,
+        "slowEndTime": 87700
+    }
+]

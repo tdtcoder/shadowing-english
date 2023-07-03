@@ -1,0 +1,51 @@
+[
+    {
+        "text": "In South Korea, heavy rains trigger landslides leaving at least 18 dead.",
+        "startTime": 5063,
+        "endTime": 11337,
+        "slowStartTime": 7744,
+        "slowEndTime": 17230
+    },
+    {
+        "text": "In China, a major crackdown on human trafficking captures 369 suspects and frees 89 children.",
+        "startTime": 13261,
+        "endTime": 22722,
+        "slowStartTime": 20041,
+        "slowEndTime": 34308
+    },
+    {
+        "text": "In Afghanistan, the Taliban claims responsibility for killing the mayor of Kandahar.",
+        "startTime": 25872,
+        "endTime": 31966,
+        "slowStartTime": 38958,
+        "slowEndTime": 48174
+    },
+    {
+        "text": "Foreign ministers of India and Pakistan hold another round of peace talks.",
+        "startTime": 35287,
+        "endTime": 40671,
+        "slowStartTime": 53081,
+        "slowEndTime": 61231
+    },
+    {
+        "text": "In Morocco, King Mohammed declares three days of mourning...",
+        "startTime": 45013,
+        "endTime": 49191,
+        "slowStartTime": 67669,
+        "slowEndTime": 74011
+    },
+    {
+        "text": "...following a plane crash that killed 78 people.",
+        "startTime": 49390,
+        "endTime": 52689,
+        "slowStartTime": 74235,
+        "slowEndTime": 79258
+    },
+    {
+        "text": "In Belgium, a baby okapi makes her public debut at an Antwerp zoo.",
+        "startTime": 56642,
+        "endTime": 62363,
+        "slowStartTime": 85113,
+        "slowEndTime": 93770
+    }
+]

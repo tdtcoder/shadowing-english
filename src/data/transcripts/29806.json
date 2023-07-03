@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Peanut, peanut butter, and jelly.",
+        "startTime": 5900,
+        "endTime": 9341,
+        "slowStartTime": 9000,
+        "slowEndTime": 14236
+    },
+    {
+        "text": "Peanut, peanut butter, and jelly.",
+        "startTime": 9629,
+        "endTime": 12867,
+        "slowStartTime": 14593,
+        "slowEndTime": 19526
+    },
+    {
+        "text": "First, you take the peanuts and you crack them.",
+        "startTime": 13135,
+        "endTime": 15507,
+        "slowStartTime": 19853,
+        "slowEndTime": 23486
+    },
+    {
+        "text": "You crack them.",
+        "startTime": 15709,
+        "endTime": 16426,
+        "slowStartTime": 23713,
+        "slowEndTime": 24864
+    },
+    {
+        "text": "You crack them, crack them, crack them.",
+        "startTime": 16589,
+        "endTime": 18323,
+        "slowStartTime": 25033,
+        "slowEndTime": 27710
+    },
+    {
+        "text": "Peanut, peanut butter, and jelly.",
+        "startTime": 18508,
+        "endTime": 21740,
+        "slowStartTime": 27912,
+        "slowEndTime": 32835
+    },
+    {
+        "text": "Peanut, peanut butter, and jelly.",
+        "startTime": 22020,
+        "endTime": 25331,
+        "slowStartTime": 33180,
+        "slowEndTime": 38221
+    },
+    {
+        "text": "Then, you take the peanuts and you mash them.",
+        "startTime": 25570,
+        "endTime": 27963,
+        "slowStartTime": 38505,
+        "slowEndTime": 42169
+    },
+    {
+        "text": "You mash them.",
+        "startTime": 28091,
+        "endTime": 28859,
+        "slowStartTime": 42287,
+        "slowEndTime": 43513
+    },
+    {
+        "text": "You mash them, mash them, mash them.",
+        "startTime": 29074,
+        "endTime": 30712,
+        "slowStartTime": 43761,
+        "slowEndTime": 46293
+    },
+    {
+        "text": "Peanut, peanut butter, and jelly.",
+        "startTime": 30944,
+        "endTime": 34230,
+        "slowStartTime": 46566,
+        "slowEndTime": 51570
+    },
+    {
+        "text": "Peanut, peanut butter, and jelly.",
+        "startTime": 34382,
+        "endTime": 37697,
+        "slowStartTime": 51723,
+        "slowEndTime": 56770
+    },
+    {
+        "text": "Then, you take the bread and you spread it.",
+        "startTime": 38003,
+        "endTime": 40417,
+        "slowStartTime": 57154,
+        "slowEndTime": 60850
+    },
+    {
+        "text": "You spread it.",
+        "startTime": 40537,
+        "endTime": 41276,
+        "slowStartTime": 60955,
+        "slowEndTime": 62139
+    },
+    {
+        "text": "You spread it, spread it, spread it.",
+        "startTime": 41429,
+        "endTime": 43182,
+        "slowStartTime": 62293,
+        "slowEndTime": 64998
+    },
+    {
+        "text": "Peanut, peanut butter, and jelly.",
+        "startTime": 43321,
+        "endTime": 46492,
+        "slowStartTime": 65132,
+        "slowEndTime": 69963
+    },
+    {
+        "text": "Peanut, peanut butter, and jelly.",
+        "startTime": 46973,
+        "endTime": 50266,
+        "slowStartTime": 70609,
+        "slowEndTime": 75624
+    }
+]

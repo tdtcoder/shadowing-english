@@ -1,0 +1,58 @@
+[
+    {
+        "text": "A wolf had a bone stuck in his throat and it hurt very much.",
+        "startTime": 2830,
+        "endTime": 7440,
+        "slowStartTime": 4340,
+        "slowEndTime": 11090
+    },
+    {
+        "text": "The wolf asked a bird to use her beak and pull the bone out.",
+        "startTime": 8070,
+        "endTime": 11840,
+        "slowStartTime": 12220,
+        "slowEndTime": 17820
+    },
+    {
+        "text": "He promised to pay the bird when the bone was out.",
+        "startTime": 12540,
+        "endTime": 15110,
+        "slowStartTime": 18930,
+        "slowEndTime": 22620
+    },
+    {
+        "text": "The bird did as he was asked and pulled the bone out.",
+        "startTime": 15880,
+        "endTime": 18850,
+        "slowStartTime": 23830,
+        "slowEndTime": 28280
+    },
+    {
+        "text": "Then, she asked for the promised payment.",
+        "startTime": 19750,
+        "endTime": 21550,
+        "slowStartTime": 29710,
+        "slowEndTime": 32340
+    },
+    {
+        "text": "\"I'm not going to pay you,\" the wolf said.",
+        "startTime": 22320,
+        "endTime": 24990,
+        "slowStartTime": 33540,
+        "slowEndTime": 37430
+    },
+    {
+        "text": "\"You're lucky I didn't eat you when you had your head in my mouth!\"",
+        "startTime": 25650,
+        "endTime": 28790,
+        "slowStartTime": 38580,
+        "slowEndTime": 43280
+    },
+    {
+        "text": "Then, he ran off.",
+        "startTime": 29630,
+        "endTime": 30630,
+        "slowStartTime": 44460,
+        "slowEndTime": 45920
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "text": "As Busy as a Bee.",
+        "startTime": 8039,
+        "endTime": 9835,
+        "slowStartTime": 12208,
+        "slowEndTime": 14978
+    },
+    {
+        "text": "It means very busy and active.",
+        "startTime": 12642,
+        "endTime": 15377,
+        "slowStartTime": 19113,
+        "slowEndTime": 23290
+    },
+    {
+        "text": "Everyone is as busy as a bee in the office.",
+        "startTime": 21192,
+        "endTime": 24497,
+        "slowStartTime": 31938,
+        "slowEndTime": 36970
+    },
+    {
+        "text": "She's as busy as a bee organizing events and parties.",
+        "startTime": 30191,
+        "endTime": 34274,
+        "slowStartTime": 45436,
+        "slowEndTime": 51636
+    },
+    {
+        "text": "He's as busy as a bee attending meetings and doing projects.",
+        "startTime": 40902,
+        "endTime": 45517,
+        "slowStartTime": 61503,
+        "slowEndTime": 68501
+    }
+]

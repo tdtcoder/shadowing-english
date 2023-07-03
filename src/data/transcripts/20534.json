@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Gru, it's Jillian!",
+        "startTime": 525,
+        "endTime": 1863,
+        "slowStartTime": 937,
+        "slowEndTime": 3020
+    },
+    {
+        "text": "It's Jillian!",
+        "startTime": 1943,
+        "endTime": 2615,
+        "slowStartTime": 3065,
+        "slowEndTime": 4147
+    },
+    {
+        "text": "I'm not here!",
+        "startTime": 2751,
+        "endTime": 3323,
+        "slowStartTime": 4277,
+        "slowEndTime": 5210
+    },
+    {
+        "text": "He's not here.",
+        "startTime": 3440,
+        "endTime": 4375,
+        "slowStartTime": 5310,
+        "slowEndTime": 6787
+    },
+    {
+        "text": "Are you sure?",
+        "startTime": 4477,
+        "endTime": 5831,
+        "slowStartTime": 6865,
+        "slowEndTime": 8972
+    },
+    {
+        "text": "Yes, he just told me.",
+        "startTime": 5915,
+        "endTime": 7080,
+        "slowStartTime": 9022,
+        "slowEndTime": 10845
+    },
+    {
+        "text": "Agnes, where is Gru?",
+        "startTime": 8082,
+        "endTime": 9727,
+        "slowStartTime": 12273,
+        "slowEndTime": 14815
+    },
+    {
+        "text": "He's putting on lipstick.",
+        "startTime": 10423,
+        "endTime": 12005,
+        "slowStartTime": 15784,
+        "slowEndTime": 18233
+    },
+    {
+        "text": "No, no.",
+        "startTime": 12186,
+        "endTime": 13093,
+        "slowStartTime": 18429,
+        "slowEndTime": 19865
+    },
+    {
+        "text": "He's chopping a head off.",
+        "startTime": 13285,
+        "endTime": 14697,
+        "slowStartTime": 20077,
+        "slowEndTime": 22270
+    },
+    {
+        "text": "He's pooping?",
+        "startTime": 16248,
+        "endTime": 17791,
+        "slowStartTime": 24522,
+        "slowEndTime": 26911
+    },
+    {
+        "text": "Despicable Me 2.",
+        "startTime": 17893,
+        "endTime": 19159,
+        "slowStartTime": 26989,
+        "slowEndTime": 28963
+    }
+]

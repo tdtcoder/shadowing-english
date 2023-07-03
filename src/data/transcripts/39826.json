@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Could you please send the report to me later?",
+        "startTime": 584,
+        "endTime": 2422,
+        "slowStartTime": 1026,
+        "slowEndTime": 3858
+    },
+    {
+        "text": "Sure. No problem.",
+        "startTime": 3268,
+        "endTime": 4847,
+        "slowStartTime": 5052,
+        "slowEndTime": 7495
+    },
+    {
+        "text": "Thank you!",
+        "startTime": 5563,
+        "endTime": 6031,
+        "slowStartTime": 8494,
+        "slowEndTime": 9271
+    },
+    {
+        "text": "Can you please help me print these files?",
+        "startTime": 9930,
+        "endTime": 11982,
+        "slowStartTime": 15045,
+        "slowEndTime": 18198
+    },
+    {
+        "text": "Sure.",
+        "startTime": 13375,
+        "endTime": 13683,
+        "slowStartTime": 20212,
+        "slowEndTime": 20750
+    },
+    {
+        "text": "Thank you!",
+        "startTime": 14920,
+        "endTime": 15607,
+        "slowStartTime": 22530,
+        "slowEndTime": 23636
+    }
+]

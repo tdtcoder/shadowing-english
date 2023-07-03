@@ -1,0 +1,51 @@
+[
+    {
+        "text": "I have a science joke.",
+        "startTime": 83,
+        "endTime": 936,
+        "slowStartTime": 274,
+        "slowEndTime": 1629
+    },
+    {
+        "text": "Neutron walks into a bar.",
+        "startTime": 3215,
+        "endTime": 4843,
+        "slowStartTime": 4972,
+        "slowEndTime": 7489
+    },
+    {
+        "text": "Bartender says, \"For you, no charge.\"",
+        "startTime": 5235,
+        "endTime": 7801,
+        "slowStartTime": 8002,
+        "slowEndTime": 11927
+    },
+    {
+        "text": "Thank you, I'll be here all week.",
+        "startTime": 9037,
+        "endTime": 10133,
+        "slowStartTime": 13706,
+        "slowEndTime": 15425
+    },
+    {
+        "text": "I'm actually a terrible joke teller so this took a lot of work.",
+        "startTime": 10256,
+        "endTime": 13145,
+        "slowStartTime": 15534,
+        "slowEndTime": 19942
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 14265,
+        "endTime": 14783,
+        "slowStartTime": 21547,
+        "slowEndTime": 22400
+    },
+    {
+        "text": "You're welcome.",
+        "startTime": 14901,
+        "endTime": 15289,
+        "slowStartTime": 22501,
+        "slowEndTime": 23159
+    }
+]

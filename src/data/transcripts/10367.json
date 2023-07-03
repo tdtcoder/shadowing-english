@@ -1,0 +1,72 @@
+[
+    {
+        "text": "You can't buy any decent clothes in Springfield.",
+        "startTime": 290,
+        "endTime": 3235,
+        "slowStartTime": 1135,
+        "slowEndTime": 5730
+    },
+    {
+        "text": "I'm so bored of the stores here.",
+        "startTime": 3595,
+        "endTime": 5720,
+        "slowStartTime": 6210,
+        "slowEndTime": 9360
+    },
+    {
+        "text": "I prefer to browse the Goodwill store for used clothing.",
+        "startTime": 6400,
+        "endTime": 9660,
+        "slowStartTime": 10520,
+        "slowEndTime": 15280
+    },
+    {
+        "text": "If you really look, you can get lucky and find something nice.",
+        "startTime": 10395,
+        "endTime": 13815,
+        "slowStartTime": 16400,
+        "slowEndTime": 21600
+    },
+    {
+        "text": "The other day, I came across this beautiful cashmere scarf.",
+        "startTime": 14660,
+        "endTime": 18470,
+        "slowStartTime": 22800,
+        "slowEndTime": 28495
+    },
+    {
+        "text": "It turned out to be a Burberry!",
+        "startTime": 18950,
+        "endTime": 20920,
+        "slowStartTime": 29300,
+        "slowEndTime": 32230
+    },
+    {
+        "text": "It was like new, too!",
+        "startTime": 22155,
+        "endTime": 23840,
+        "slowStartTime": 34150,
+        "slowEndTime": 36600
+    },
+    {
+        "text": "I bought it for just three dollars and went home, all happy.",
+        "startTime": 24555,
+        "endTime": 28125,
+        "slowStartTime": 37700,
+        "slowEndTime": 42985
+    },
+    {
+        "text": "I love that store sometimes!",
+        "startTime": 28820,
+        "endTime": 30900,
+        "slowStartTime": 44120,
+        "slowEndTime": 47230
+    },
+    {
+        "text": "The only thing was that the scarf had a slightly musty smell.",
+        "startTime": 31620,
+        "endTime": 35500,
+        "slowStartTime": 48250,
+        "slowEndTime": 53850
+    }
+]

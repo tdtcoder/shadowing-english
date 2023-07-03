@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Let's learn phrases you can use at a bus or train station.",
+        "startTime": 256,
+        "endTime": 3877,
+        "slowStartTime": 534,
+        "slowEndTime": 6040
+    },
+    {
+        "text": "I'd like to go to...",
+        "startTime": 5649,
+        "endTime": 6866,
+        "slowStartTime": 8624,
+        "slowEndTime": 10524
+    },
+    {
+        "text": "Is this the right platform for...?",
+        "startTime": 8791,
+        "endTime": 10673,
+        "slowStartTime": 13337,
+        "slowEndTime": 16235
+    },
+    {
+        "text": "What time is the last train?",
+        "startTime": 12583,
+        "endTime": 14178,
+        "slowStartTime": 19024,
+        "slowEndTime": 21492
+    },
+    {
+        "text": "Where do I change for...?",
+        "startTime": 16071,
+        "endTime": 17535,
+        "slowStartTime": 24257,
+        "slowEndTime": 26528
+    },
+    {
+        "text": "Where can I buy a ticket?",
+        "startTime": 19476,
+        "endTime": 20765,
+        "slowStartTime": 29364,
+        "slowEndTime": 31372
+    },
+    {
+        "text": "How much is it to...?",
+        "startTime": 22649,
+        "endTime": 23936,
+        "slowStartTime": 34124,
+        "slowEndTime": 36129
+    },
+    {
+        "text": "Does this bus go to...?",
+        "startTime": 25787,
+        "endTime": 27678,
+        "slowStartTime": 38831,
+        "slowEndTime": 41742
+    },
+    {
+        "text": "What time is the next bus?",
+        "startTime": 29484,
+        "endTime": 31101,
+        "slowStartTime": 44376,
+        "slowEndTime": 46877
+    },
+    {
+        "text": "The train is running late.",
+        "startTime": 32966,
+        "endTime": 34568,
+        "slowStartTime": 49599,
+        "slowEndTime": 52077
+    },
+    {
+        "text": "Where are the ticket machines?",
+        "startTime": 36466,
+        "endTime": 37976,
+        "slowStartTime": 54849,
+        "slowEndTime": 57189
+    }
+]

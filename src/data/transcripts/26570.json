@@ -1,0 +1,79 @@
+[
+    {
+        "text": "On Tuesday, two major car companies announced investments in ride-hailing apps,...",
+        "startTime": 2548,
+        "endTime": 6451,
+        "slowStartTime": 3972,
+        "slowEndTime": 9902
+    },
+    {
+        "text": "...signaling both a growing role for on-demand cars...",
+        "startTime": 6552,
+        "endTime": 9097,
+        "slowStartTime": 9978,
+        "slowEndTime": 13870
+    },
+    {
+        "text": "...and a new groundwork for app-enabled self-driving fleets.",
+        "startTime": 9203,
+        "endTime": 12028,
+        "slowStartTime": 13954,
+        "slowEndTime": 18267
+    },
+    {
+        "text": "While Toyota will be investing and partnering with Uber,...",
+        "startTime": 12144,
+        "endTime": 14633,
+        "slowStartTime": 18366,
+        "slowEndTime": 22174
+    },
+    {
+        "text": "...Volkswagen is putting 300 million dollars into Tel Aviv-based ride-sharing app called Gett.",
+        "startTime": 14909,
+        "endTime": 19737,
+        "slowStartTime": 22514,
+        "slowEndTime": 29830
+    },
+    {
+        "text": "In their statement, Toyota emphasized new leasing options specifically for Uber drivers,...",
+        "startTime": 19859,
+        "endTime": 24317,
+        "slowStartTime": 29939,
+        "slowEndTime": 36701
+    },
+    {
+        "text": "...but made it clear that there would be deeper collaboration going forward.",
+        "startTime": 24425,
+        "endTime": 27613,
+        "slowStartTime": 36787,
+        "slowEndTime": 41644
+    },
+    {
+        "text": "Emil Michael, Chief Business Officer of Uber, said in a statement,...",
+        "startTime": 27732,
+        "endTime": 31175,
+        "slowStartTime": 41748,
+        "slowEndTime": 46988
+    },
+    {
+        "text": "...\"Toyota vehicles are among the most popular cars on the Uber platform worldwide...\"",
+        "startTime": 31355,
+        "endTime": 35423,
+        "slowStartTime": 47183,
+        "slowEndTime": 53360
+    },
+    {
+        "text": "\"... and we look forward to collaborating with Toyota in multiple ways going forward,...\"",
+        "startTime": 35570,
+        "endTime": 39111,
+        "slowStartTime": 53505,
+        "slowEndTime": 58892
+    },
+    {
+        "text": "\"...starting with the expansion of our vehicle financing efforts.\"",
+        "startTime": 39320,
+        "endTime": 42428,
+        "slowStartTime": 59130,
+        "slowEndTime": 63867
+    }
+]

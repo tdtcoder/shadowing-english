@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Hello?",
+        "startTime": 263,
+        "endTime": 776,
+        "slowStartTime": 545,
+        "slowEndTime": 1389
+    },
+    {
+        "text": "Hi, Amanda.",
+        "startTime": 1201,
+        "endTime": 1923,
+        "slowStartTime": 1952,
+        "slowEndTime": 3110
+    },
+    {
+        "text": "How are you feeling this morning?",
+        "startTime": 2381,
+        "endTime": 3521,
+        "slowStartTime": 3646,
+        "slowEndTime": 5507
+    },
+    {
+        "text": "I'm tired. I can barely talk.",
+        "startTime": 4240,
+        "endTime": 7028,
+        "slowStartTime": 6510,
+        "slowEndTime": 10767
+    },
+    {
+        "text": "What's wrong?",
+        "startTime": 7328,
+        "endTime": 8125,
+        "slowStartTime": 11142,
+        "slowEndTime": 12412
+    },
+    {
+        "text": "I couldn't get a good night's sleep.",
+        "startTime": 8370,
+        "endTime": 10237,
+        "slowStartTime": 12661,
+        "slowEndTime": 15580
+    },
+    {
+        "text": "Why not?",
+        "startTime": 10681,
+        "endTime": 11331,
+        "slowStartTime": 16171,
+        "slowEndTime": 17222
+    },
+    {
+        "text": "I've just started a part-time job.",
+        "startTime": 12005,
+        "endTime": 14252,
+        "slowStartTime": 18158,
+        "slowEndTime": 21558
+    },
+    {
+        "text": "Oh, what kind of job is that?",
+        "startTime": 14603,
+        "endTime": 16457,
+        "slowStartTime": 22055,
+        "slowEndTime": 24910
+    },
+    {
+        "text": "I actually have two different part-time jobs.",
+        "startTime": 17121,
+        "endTime": 20302,
+        "slowStartTime": 25831,
+        "slowEndTime": 30678
+    },
+    {
+        "text": "One is babysitting, and the other is tutoring.",
+        "startTime": 20804,
+        "endTime": 23737,
+        "slowStartTime": 31356,
+        "slowEndTime": 35831
+    },
+    {
+        "text": "Wow, those will keep you busy.",
+        "startTime": 24149,
+        "endTime": 25975,
+        "slowStartTime": 36374,
+        "slowEndTime": 39188
+    },
+    {
+        "text": "Yes, that's why I'm so tired.",
+        "startTime": 26417,
+        "endTime": 28745,
+        "slowStartTime": 39775,
+        "slowEndTime": 43342
+    },
+    {
+        "text": "How old is the kid you're babysitting?",
+        "startTime": 29213,
+        "endTime": 30943,
+        "slowStartTime": 43969,
+        "slowEndTime": 46640
+    },
+    {
+        "text": "I'm babysitting two kids.",
+        "startTime": 31449,
+        "endTime": 33029,
+        "slowStartTime": 47323,
+        "slowEndTime": 49769
+    },
+    {
+        "text": "One is 3 years old, and the other is 5 years old.",
+        "startTime": 33502,
+        "endTime": 36755,
+        "slowStartTime": 50403,
+        "slowEndTime": 55357
+    },
+    {
+        "text": "Isn't it hard to handle two of them at the same time?",
+        "startTime": 37273,
+        "endTime": 39933,
+        "slowStartTime": 56060,
+        "slowEndTime": 60125
+    },
+    {
+        "text": "Yes, it can be very difficult, but they are cute.",
+        "startTime": 40415,
+        "endTime": 44057,
+        "slowStartTime": 60773,
+        "slowEndTime": 66310
+    },
+    {
+        "text": "Are you also teaching them as a tutor?",
+        "startTime": 44509,
+        "endTime": 46314,
+        "slowStartTime": 66914,
+        "slowEndTime": 69696
+    },
+    {
+        "text": "No, I'm tutoring a high school student.",
+        "startTime": 46795,
+        "endTime": 49321,
+        "slowStartTime": 70342,
+        "slowEndTime": 74206
+    },
+    {
+        "text": "What subject are you teaching?",
+        "startTime": 49826,
+        "endTime": 51155,
+        "slowStartTime": 74889,
+        "slowEndTime": 76958
+    },
+    {
+        "text": "I'm teaching mathematics.",
+        "startTime": 51470,
+        "endTime": 53162,
+        "slowStartTime": 77355,
+        "slowEndTime": 79968
+    },
+    {
+        "text": "I didn't know you're good with numbers.",
+        "startTime": 53803,
+        "endTime": 55489,
+        "slowStartTime": 80855,
+        "slowEndTime": 83458
+    }
+]

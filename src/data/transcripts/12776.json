@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Hey Susie, I can't wait to show you the new dress I bought.",
+        "startTime": 2653,
+        "endTime": 6159,
+        "slowStartTime": 4130,
+        "slowEndTime": 9464
+    },
+    {
+        "text": "Wow, you bought a new dress today? Yeah, let's see it.",
+        "startTime": 6834,
+        "endTime": 11044,
+        "slowStartTime": 10401,
+        "slowEndTime": 16791
+    },
+    {
+        "text": "What do you think? I just love this color.",
+        "startTime": 11782,
+        "endTime": 14445,
+        "slowStartTime": 17823,
+        "slowEndTime": 21893
+    },
+    {
+        "text": "Yes, the color is great.",
+        "startTime": 14959,
+        "endTime": 16989,
+        "slowStartTime": 22588,
+        "slowEndTime": 25709
+    },
+    {
+        "text": "Why don't you put it on, so I can see how it looks on you?",
+        "startTime": 17382,
+        "endTime": 20239,
+        "slowStartTime": 26223,
+        "slowEndTime": 30583
+    },
+    {
+        "text": "Okay, good idea.",
+        "startTime": 20653,
+        "endTime": 22071,
+        "slowStartTime": 31130,
+        "slowEndTime": 33331
+    },
+    {
+        "text": "Oh, no! This is terrible! It doesn't fit me right at all.",
+        "startTime": 23490,
+        "endTime": 27979,
+        "slowStartTime": 35385,
+        "slowEndTime": 42194
+    },
+    {
+        "text": "Really? Let's see. Oh, yeah, you're right.",
+        "startTime": 28365,
+        "endTime": 32755,
+        "slowStartTime": 42698,
+        "slowEndTime": 49357
+    },
+    {
+        "text": " It looks a little bit big on you.",
+        "startTime": 33141,
+        "endTime": 35014,
+        "slowStartTime": 49862,
+        "slowEndTime": 52746
+    },
+    {
+        "text": "I feel like I'm wearing a tent! This is no good at all.",
+        "startTime": 35495,
+        "endTime": 39369,
+        "slowStartTime": 53393,
+        "slowEndTime": 59278
+    },
+    {
+        "text": "I think she gave me the wrong size again. This is the third time she's done that.",
+        "startTime": 39807,
+        "endTime": 44306,
+        "slowStartTime": 59861,
+        "slowEndTime": 66684
+    },
+    {
+        "text": "I can't stand it anymore.",
+        "startTime": 44525,
+        "endTime": 46153,
+        "slowStartTime": 66937,
+        "slowEndTime": 69454
+    },
+    {
+        "text": "Well, stop complaining, and just go back to the store and exchange it for a smaller size.",
+        "startTime": 46414,
+        "endTime": 51739,
+        "slowStartTime": 69771,
+        "slowEndTime": 77834
+    }
+]

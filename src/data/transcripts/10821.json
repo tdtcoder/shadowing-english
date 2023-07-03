@@ -1,0 +1,240 @@
+[
+    {
+        "text": "We got a walk-in.",
+        "startTime": 4550,
+        "endTime": 5200,
+        "slowStartTime": 7000,
+        "slowEndTime": 8000
+    },
+    {
+        "text": "A defector.",
+        "startTime": 6200,
+        "endTime": 6800,
+        "slowStartTime": 9500,
+        "slowEndTime": 10400
+    },
+    {
+        "text": "He's Russian.",
+        "startTime": 8650,
+        "endTime": 9150,
+        "slowStartTime": 13200,
+        "slowEndTime": 14000
+    },
+    {
+        "text": "Neuroscan is up.",
+        "startTime": 10650,
+        "endTime": 11450,
+        "slowStartTime": 16200,
+        "slowEndTime": 17500
+    },
+    {
+        "text": "Ev.",
+        "startTime": 12050,
+        "endTime": 12400,
+        "slowStartTime": 18300,
+        "slowEndTime": 18800
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 18600,
+        "endTime": 19200,
+        "slowStartTime": 28100,
+        "slowEndTime": 29000
+    },
+    {
+        "text": "My name is Vassily Orlov.",
+        "startTime": 19400,
+        "endTime": 21650,
+        "slowStartTime": 29300,
+        "slowEndTime": 32700
+    },
+    {
+        "text": "Nothing.",
+        "startTime": 22600,
+        "endTime": 23050,
+        "slowStartTime": 34100,
+        "slowEndTime": 34750
+    },
+    {
+        "text": "He doesn't exist.",
+        "startTime": 23250,
+        "endTime": 24050,
+        "slowStartTime": 35100,
+        "slowEndTime": 36300
+    },
+    {
+        "text": "Today, a Russian agent will travel to New York City...",
+        "startTime": 25100,
+        "endTime": 28800,
+        "slowStartTime": 37900,
+        "slowEndTime": 43400
+    },
+    {
+        "text": "...to kill the President.",
+        "startTime": 29350,
+        "endTime": 30550,
+        "slowStartTime": 44200,
+        "slowEndTime": 46100
+    },
+    {
+        "text": "This agent is KA12.",
+        "startTime": 32950,
+        "endTime": 34900,
+        "slowStartTime": 49600,
+        "slowEndTime": 52500
+    },
+    {
+        "text": "The KA Program is a myth.",
+        "startTime": 36500,
+        "endTime": 39100,
+        "slowStartTime": 54900,
+        "slowEndTime": 58700
+    },
+    {
+        "text": "Scan says he's truthful.",
+        "startTime": 39300,
+        "endTime": 40800,
+        "slowStartTime": 59200,
+        "slowEndTime": 61600
+    },
+    {
+        "text": "This guy is selling smoke.",
+        "startTime": 40850,
+        "endTime": 41900,
+        "slowStartTime": 61500,
+        "slowEndTime": 63150
+    },
+    {
+        "text": "Wrap it up, Ev.",
+        "startTime": 41950,
+        "endTime": 42700,
+        "slowStartTime": 63150,
+        "slowEndTime": 64300
+    },
+    {
+        "text": "Don't you want to know the name?",
+        "startTime": 43300,
+        "endTime": 45350,
+        "slowStartTime": 65100,
+        "slowEndTime": 68300
+    },
+    {
+        "text": "You're good!",
+        "startTime": 45550,
+        "endTime": 46225,
+        "slowStartTime": 68500,
+        "slowEndTime": 69625
+    },
+    {
+        "text": "You can tell the rest of your story to one of my colleagues.",
+        "startTime": 46600,
+        "endTime": 49300,
+        "slowStartTime": 70100,
+        "slowEndTime": 74275
+    },
+    {
+        "text": "The name of the agent is Evelyn Salt.",
+        "startTime": 49350,
+        "endTime": 52400,
+        "slowStartTime": 74300,
+        "slowEndTime": 78800
+    },
+    {
+        "text": "My name is Evelyn Salt.",
+        "startTime": 53000,
+        "endTime": 54250,
+        "slowStartTime": 79800,
+        "slowEndTime": 81550
+    },
+    {
+        "text": "Then you are a Russian spy.",
+        "startTime": 54650,
+        "endTime": 56300,
+        "slowStartTime": 82200,
+        "slowEndTime": 84700
+    },
+    {
+        "text": "Where'd she go?",
+        "startTime": 60200,
+        "endTime": 60700,
+        "slowStartTime": 90600,
+        "slowEndTime": 91330
+    },
+    {
+        "text": "What are you doing, Ev?",
+        "startTime": 61600,
+        "endTime": 62400,
+        "slowStartTime": 92600,
+        "slowEndTime": 93850
+    },
+    {
+        "text": "This doesn't look good.",
+        "startTime": 63650,
+        "endTime": 64400,
+        "slowStartTime": 95700,
+        "slowEndTime": 96900
+    },
+    {
+        "text": "I'm not a Russian spy.",
+        "startTime": 64700,
+        "endTime": 65900,
+        "slowStartTime": 97250,
+        "slowEndTime": 99100
+    },
+    {
+        "text": "On the ground!",
+        "startTime": 70700,
+        "endTime": 71450,
+        "slowStartTime": 106300,
+        "slowEndTime": 107400
+    },
+    {
+        "text": "I'm innocent.",
+        "startTime": 71600,
+        "endTime": 72450,
+        "slowStartTime": 107650,
+        "slowEndTime": 109000
+    },
+    {
+        "text": "Somebody's setting me up.",
+        "startTime": 72600,
+        "endTime": 73900,
+        "slowStartTime": 109100,
+        "slowEndTime": 111150
+    },
+    {
+        "text": "Salt, no!",
+        "startTime": 73950,
+        "endTime": 75000,
+        "slowStartTime": 111200,
+        "slowEndTime": 112800
+    },
+    {
+        "text": "Maybe Salt is who she says she is.",
+        "startTime": 77550,
+        "endTime": 79200,
+        "slowStartTime": 116500,
+        "slowEndTime": 119100
+    },
+    {
+        "text": "\"Maybe\" is your department.",
+        "startTime": 80600,
+        "endTime": 81650,
+        "slowStartTime": 121100,
+        "slowEndTime": 122700
+    },
+    {
+        "text": "Mine is catching her so we can find out.",
+        "startTime": 82500,
+        "endTime": 84250,
+        "slowStartTime": 124000,
+        "slowEndTime": 126600
+    },
+    {
+        "text": "Drop it!",
+        "startTime": 89250,
+        "endTime": 89900,
+        "slowStartTime": 134100,
+        "slowEndTime": 135100
+    }
+]

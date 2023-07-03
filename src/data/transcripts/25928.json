@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Commuting to and from work is an American pastime.",
+        "startTime": 239,
+        "endTime": 2790,
+        "slowStartTime": 509,
+        "slowEndTime": 4410
+    },
+    {
+        "text": "For some, it's a long drive through traffic...",
+        "startTime": 3378,
+        "endTime": 5162,
+        "slowStartTime": 5217,
+        "slowEndTime": 7968
+    },
+    {
+        "text": "...or a series of walks and subway stops.",
+        "startTime": 5261,
+        "endTime": 7441,
+        "slowStartTime": 8042,
+        "slowEndTime": 11386
+    },
+    {
+        "text": "But a very lucky few will ride to work this morning on a mountain bike.",
+        "startTime": 7817,
+        "endTime": 11048,
+        "slowStartTime": 11875,
+        "slowEndTime": 16797
+    },
+    {
+        "text": "Mountain bikes are designed to travel through the rugged terrain...",
+        "startTime": 11902,
+        "endTime": 14347,
+        "slowStartTime": 18003,
+        "slowEndTime": 21746
+    },
+    {
+        "text": "...found on mountain bike trails,...",
+        "startTime": 14411,
+        "endTime": 15835,
+        "slowStartTime": 21766,
+        "slowEndTime": 23978
+    },
+    {
+        "text": "...so by definition, they are quite durable.",
+        "startTime": 16067,
+        "endTime": 17967,
+        "slowStartTime": 24250,
+        "slowEndTime": 27175
+    },
+    {
+        "text": "Potholes, curbs, and alternate routes are no problem.",
+        "startTime": 18685,
+        "endTime": 21855,
+        "slowStartTime": 28178,
+        "slowEndTime": 33008
+    },
+    {
+        "text": "Strangely enough, the mountain bike might be the ultimate urban commuter vehicle.",
+        "startTime": 22527,
+        "endTime": 26502,
+        "slowStartTime": 33941,
+        "slowEndTime": 39978
+    },
+    {
+        "text": "They're ready for everything.",
+        "startTime": 26898,
+        "endTime": 28149,
+        "slowStartTime": 40497,
+        "slowEndTime": 42448
+    },
+    {
+        "text": "When you commute on a mountain bike, there's no such thing as traffic.",
+        "startTime": 28859,
+        "endTime": 31657,
+        "slowStartTime": 43439,
+        "slowEndTime": 47711
+    },
+    {
+        "text": "Come to think of it, you can circumvent roads altogether.",
+        "startTime": 32224,
+        "endTime": 34881,
+        "slowStartTime": 48486,
+        "slowEndTime": 52547
+    }
+]

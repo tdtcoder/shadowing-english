@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Miss Nunez is a really great teacher.",
+        "startTime": 1169,
+        "endTime": 3329,
+        "slowStartTime": 1904,
+        "slowEndTime": 5219
+    },
+    {
+        "text": "She's always there to help you.",
+        "startTime": 3429,
+        "endTime": 5001,
+        "slowStartTime": 5294,
+        "slowEndTime": 7726
+    },
+    {
+        "text": "I've had to have some surgery.",
+        "startTime": 5985,
+        "endTime": 7721,
+        "slowStartTime": 9127,
+        "slowEndTime": 11806
+    },
+    {
+        "text": "My first thought was, \"I'm not gonna be here for the week of finals.\"",
+        "startTime": 7864,
+        "endTime": 11305,
+        "slowStartTime": 11946,
+        "slowEndTime": 17183
+    },
+    {
+        "text": "\"So if they had a question, I wouldn't even be here to answer it.\"",
+        "startTime": 11459,
+        "endTime": 14216,
+        "slowStartTime": 17339,
+        "slowEndTime": 21549
+    },
+    {
+        "text": "I'm like, \"Everybody, just calm down.\"",
+        "startTime": 14733,
+        "endTime": 16521,
+        "slowStartTime": 22250,
+        "slowEndTime": 25007
+    },
+    {
+        "text": "\"I've come to a conclusion on how to fix this.\"",
+        "startTime": 16613,
+        "endTime": 18993,
+        "slowStartTime": 25069,
+        "slowEndTime": 28715
+    },
+    {
+        "text": "Good morning ladies, how are you guys doin'?",
+        "startTime": 22053,
+        "endTime": 23941,
+        "slowStartTime": 33229,
+        "slowEndTime": 36137
+    },
+    {
+        "text": "The interaction and the rapport that I build with the kids: that's what gives me my passion.",
+        "startTime": 24577,
+        "endTime": 28584,
+        "slowStartTime": 37016,
+        "slowEndTime": 43101
+    },
+    {
+        "text": "That's what gives me my drive.",
+        "startTime": 28708,
+        "endTime": 29945,
+        "slowStartTime": 43212,
+        "slowEndTime": 45142
+    }
+]

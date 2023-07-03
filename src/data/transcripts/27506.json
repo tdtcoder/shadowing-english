@@ -1,0 +1,142 @@
+[
+    {
+        "text": "﻿Hi, I'm Mike.",
+        "startTime": 1292,
+        "endTime": 2121,
+        "slowStartTime": 2088,
+        "slowEndTime": 3406
+    },
+    {
+        "text": "Hi, I'm Min.",
+        "startTime": 2438,
+        "endTime": 3243,
+        "slowStartTime": 3807,
+        "slowEndTime": 5089
+    },
+    {
+        "text": "Nice to meet you.",
+        "startTime": 3428,
+        "endTime": 4049,
+        "slowStartTime": 5292,
+        "slowEndTime": 6299
+    },
+    {
+        "text": "Nice to meet you.",
+        "startTime": 4133,
+        "endTime": 4862,
+        "slowStartTime": 6350,
+        "slowEndTime": 7518
+    },
+    {
+        "text": "So you're an international student here at Benedictine.",
+        "startTime": 5058,
+        "endTime": 7053,
+        "slowStartTime": 7737,
+        "slowEndTime": 10805
+    },
+    {
+        "text": "Yeah, I want to open a checking account.",
+        "startTime": 7185,
+        "endTime": 9862,
+        "slowStartTime": 10927,
+        "slowEndTime": 15018
+    },
+    {
+        "text": "Okay, great.",
+        "startTime": 10049,
+        "endTime": 10687,
+        "slowStartTime": 15223,
+        "slowEndTime": 16256
+    },
+    {
+        "text": "Do you have a visa?",
+        "startTime": 10914,
+        "endTime": 12582,
+        "slowStartTime": 16521,
+        "slowEndTime": 19098
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 12791,
+        "endTime": 13153,
+        "slowStartTime": 19336,
+        "slowEndTime": 19954
+    },
+    {
+        "text": "Is your passport with you? And your student ID; make sure you got them today.",
+        "startTime": 13461,
+        "endTime": 16717,
+        "slowStartTime": 20342,
+        "slowEndTime": 25300
+    },
+    {
+        "text": "That's all we need.",
+        "startTime": 19439,
+        "endTime": 20710,
+        "slowStartTime": 29309,
+        "slowEndTime": 31290
+    },
+    {
+        "text": "It's just the visa and the student ID, great.",
+        "startTime": 20954,
+        "endTime": 23537,
+        "slowStartTime": 31581,
+        "slowEndTime": 35530
+    },
+    {
+        "text": "Okay, perfect.",
+        "startTime": 25919,
+        "endTime": 27100,
+        "slowStartTime": 39028,
+        "slowEndTime": 40875
+    },
+    {
+        "text": "Alright, all I need you to do is just fill in the first couple box:..",
+        "startTime": 27549,
+        "endTime": 31700,
+        "slowStartTime": 41474,
+        "slowEndTime": 47775
+    },
+    {
+        "text": "...name, address and day of birth.",
+        "startTime": 31822,
+        "endTime": 33915,
+        "slowStartTime": 47883,
+        "slowEndTime": 51097
+    },
+    {
+        "text": "And I'll give you an idea a little bit about how the account works.",
+        "startTime": 34165,
+        "endTime": 37320,
+        "slowStartTime": 51397,
+        "slowEndTime": 56205
+    },
+    {
+        "text": "Okay.",
+        "startTime": 37492,
+        "endTime": 37979,
+        "slowStartTime": 56388,
+        "slowEndTime": 57193
+    },
+    {
+        "text": "The main benefit and the main features that we have for the Citibank student account...",
+        "startTime": 39278,
+        "endTime": 44459,
+        "slowStartTime": 59067,
+        "slowEndTime": 66913
+    },
+    {
+        "text": "...is the fact that the account has no fees, absolutely no minimum balance,...",
+        "startTime": 44883,
+        "endTime": 49353,
+        "slowStartTime": 67474,
+        "slowEndTime": 74255
+    },
+    {
+        "text": "...and there's no social security number required.",
+        "startTime": 49736,
+        "endTime": 52255,
+        "slowStartTime": 74754,
+        "slowEndTime": 78608
+    }
+]

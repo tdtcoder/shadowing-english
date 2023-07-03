@@ -1,0 +1,317 @@
+[
+    {
+        "text": "Dorothy lived with her Uncle Henry and Aunt Em on a small farm in Kansas.",
+        "startTime": 1930,
+        "endTime": 7370,
+        "slowStartTime": 3000,
+        "slowEndTime": 11090
+    },
+    {
+        "text": "Uncle Henry said,...",
+        "startTime": 7570,
+        "endTime": 8870,
+        "slowStartTime": 11440,
+        "slowEndTime": 13260
+    },
+    {
+        "text": "...\"There's a cyclone coming.\"",
+        "startTime": 9110,
+        "endTime": 10610,
+        "slowStartTime": 13740,
+        "slowEndTime": 16060
+    },
+    {
+        "text": "Dorothy picked up Toto and ran to the cellar door.",
+        "startTime": 10810,
+        "endTime": 13940,
+        "slowStartTime": 16310,
+        "slowEndTime": 20980
+    },
+    {
+        "text": "Before she could climb down the ladder into the cellar, a great wind picked up the house.",
+        "startTime": 14640,
+        "endTime": 19680,
+        "slowStartTime": 22035,
+        "slowEndTime": 29570
+    },
+    {
+        "text": "It turned it round, and round, and round, and then carried it high into the sky.",
+        "startTime": 20150,
+        "endTime": 25250,
+        "slowStartTime": 30330,
+        "slowEndTime": 37870
+    },
+    {
+        "text": "She was surprised to see three little men and a little woman walking toward her.",
+        "startTime": 25590,
+        "endTime": 30260,
+        "slowStartTime": 38410,
+        "slowEndTime": 45370
+    },
+    {
+        "text": "\"Welcome to the land of the Munchkins,\"...",
+        "startTime": 30530,
+        "endTime": 32790,
+        "slowStartTime": 45910,
+        "slowEndTime": 49220
+    },
+    {
+        "text": "...one of the little men said.",
+        "startTime": 33030,
+        "endTime": 34510,
+        "slowStartTime": 49610,
+        "slowEndTime": 51910
+    },
+    {
+        "text": "\"We thank you for killing the Wicked Witch of the East. Now, our people are free.\"",
+        "startTime": 34760,
+        "endTime": 40100,
+        "slowStartTime": 52230,
+        "slowEndTime": 60230
+    },
+    {
+        "text": "She soon came to a cornfield. There was a Scarecrow in it.",
+        "startTime": 40400,
+        "endTime": 44040,
+        "slowStartTime": 60650,
+        "slowEndTime": 66135
+    },
+    {
+        "text": "She lifted the Scarecrow up and pulled him off the pole, then she said,...",
+        "startTime": 44570,
+        "endTime": 49010,
+        "slowStartTime": 66935,
+        "slowEndTime": 73480
+    },
+    {
+        "text": "...\"Can you tell me the way to the City of Emeralds?\"",
+        "startTime": 49550,
+        "endTime": 52320,
+        "slowStartTime": 74360,
+        "slowEndTime": 78575
+    },
+    {
+        "text": "\"I don't know anything, my head is full of straw. I don't have any brains.\"",
+        "startTime": 52680,
+        "endTime": 59120,
+        "slowStartTime": 79140,
+        "slowEndTime": 88840
+    },
+    {
+        "text": "\"I feel sorry for you,\"...",
+        "startTime": 59420,
+        "endTime": 61190,
+        "slowStartTime": 89200,
+        "slowEndTime": 91830
+    },
+    {
+        "text": "...Dorothy told him.",
+        "startTime": 61420,
+        "endTime": 62550,
+        "slowStartTime": 92230,
+        "slowEndTime": 93880
+    },
+    {
+        "text": "\"If you'll come with me to the Wizard of Oz,...",
+        "startTime": 62960,
+        "endTime": 65430,
+        "slowStartTime": 94575,
+        "slowEndTime": 98265
+    },
+    {
+        "text": "I'll ask him to help you. Perhaps, he can give you some brains.\"",
+        "startTime": 65660,
+        "endTime": 69660,
+        "slowStartTime": 98545,
+        "slowEndTime": 104540
+    },
+    {
+        "text": "Before long, they saw a man standing in front of a tree.",
+        "startTime": 70200,
+        "endTime": 73840,
+        "slowStartTime": 105450,
+        "slowEndTime": 110830
+    },
+    {
+        "text": "He had an axe beside him, but he was not moving. He was made wholly of tin.",
+        "startTime": 74040,
+        "endTime": 79110,
+        "slowStartTime": 111150,
+        "slowEndTime": 118800
+    },
+    {
+        "text": "\"We are going to visit the Wizard of Oz in the City of Emeralds,\"...",
+        "startTime": 79970,
+        "endTime": 84110,
+        "slowStartTime": 120060,
+        "slowEndTime": 126170
+    },
+    {
+        "text": "...Dorothy said.",
+        "startTime": 84350,
+        "endTime": 85250,
+        "slowStartTime": 126640,
+        "slowEndTime": 127960
+    },
+    {
+        "text": "\"If he is a real wizard, perhaps he can give me a heart,\"...",
+        "startTime": 86050,
+        "endTime": 90420,
+        "slowStartTime": 129140,
+        "slowEndTime": 135775
+    },
+    {
+        "text": "...the Tin Woodman said.",
+        "startTime": 90690,
+        "endTime": 91990,
+        "slowStartTime": 136150,
+        "slowEndTime": 137990
+    },
+    {
+        "text": "Dorothy, the Scarecrow, and the Tin Woodman continued on their way to the City of Emeralds.",
+        "startTime": 92720,
+        "endTime": 98360,
+        "slowStartTime": 139170,
+        "slowEndTime": 147620
+    },
+    {
+        "text": "There was a great roar and a Lion ran out of the trees,...",
+        "startTime": 98590,
+        "endTime": 102430,
+        "slowStartTime": 147950,
+        "slowEndTime": 153760
+    },
+    {
+        "text": "...and with one great paw knocked over the Scarecrow.",
+        "startTime": 102630,
+        "endTime": 106170,
+        "slowStartTime": 154050,
+        "slowEndTime": 159360
+    },
+    {
+        "text": "Dorothy scolded him.",
+        "startTime": 106500,
+        "endTime": 107850,
+        "slowStartTime": 159850,
+        "slowEndTime": 161860
+    },
+    {
+        "text": "\"You're just a big coward.\"",
+        "startTime": 108070,
+        "endTime": 109840,
+        "slowStartTime": 162190,
+        "slowEndTime": 164880
+    },
+    {
+        "text": "The Lion looked down.",
+        "startTime": 110440,
+        "endTime": 111870,
+        "slowStartTime": 165780,
+        "slowEndTime": 167860
+    },
+    {
+        "text": "\"I know I am. Do you think,\"...",
+        "startTime": 112140,
+        "endTime": 115700,
+        "slowStartTime": 168310,
+        "slowEndTime": 173550
+    },
+    {
+        "text": "...the Lion asked,...",
+        "startTime": 115910,
+        "endTime": 116900,
+        "slowStartTime": 173950,
+        "slowEndTime": 175450
+    },
+    {
+        "text": "...\"the wizard could give me courage?\"",
+        "startTime": 117050,
+        "endTime": 119250,
+        "slowStartTime": 175670,
+        "slowEndTime": 178970
+    },
+    {
+        "text": "\"It's possible,\"...",
+        "startTime": 119420,
+        "endTime": 120480,
+        "slowStartTime": 179240,
+        "slowEndTime": 180770
+    },
+    {
+        "text": "...Dorothy said.",
+        "startTime": 120680,
+        "endTime": 121680,
+        "slowStartTime": 181160,
+        "slowEndTime": 182460
+    },
+    {
+        "text": "\"Then, may I come with you?\"...",
+        "startTime": 122120,
+        "endTime": 123850,
+        "slowStartTime": 183220,
+        "slowEndTime": 185880
+    },
+    {
+        "text": "...The Lion asked.",
+        "startTime": 124020,
+        "endTime": 125150,
+        "slowStartTime": 186150,
+        "slowEndTime": 187780
+    },
+    {
+        "text": "Dorothy and her friends were anxious to get out of the forest as soon as they could.",
+        "startTime": 125825,
+        "endTime": 130500,
+        "slowStartTime": 188750,
+        "slowEndTime": 195700
+    },
+    {
+        "text": "So, they hurried along the yellow brick road.",
+        "startTime": 130830,
+        "endTime": 133290,
+        "slowStartTime": 196380,
+        "slowEndTime": 200020
+    },
+    {
+        "text": "It was not long before they came to a wide river.",
+        "startTime": 133760,
+        "endTime": 136660,
+        "slowStartTime": 200750,
+        "slowEndTime": 205060
+    },
+    {
+        "text": "And a few minutes later, they turned a corner,...",
+        "startTime": 137270,
+        "endTime": 139830,
+        "slowStartTime": 206015,
+        "slowEndTime": 209915
+    },
+    {
+        "text": "...and there in front of them were the gates to the city.",
+        "startTime": 140170,
+        "endTime": 143140,
+        "slowStartTime": 210310,
+        "slowEndTime": 214815
+    },
+    {
+        "text": "\"We want to see the Wizard of Oz,\"...",
+        "startTime": 143770,
+        "endTime": 145940,
+        "slowStartTime": 215670,
+        "slowEndTime": 219005
+    },
+    {
+        "text": "...Dorothy told him.",
+        "startTime": 146180,
+        "endTime": 147280,
+        "slowStartTime": 219385,
+        "slowEndTime": 221040
+    },
+    {
+        "text": "The Guardian of the Gates led the way through the city to the Palace of Oz.",
+        "startTime": 147910,
+        "endTime": 152310,
+        "slowStartTime": 221980,
+        "slowEndTime": 228555
+    }
+]

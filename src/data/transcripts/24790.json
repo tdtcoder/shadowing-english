@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Forget your screaming legs,...",
+        "startTime": 6824,
+        "endTime": 8471,
+        "slowStartTime": 10386,
+        "slowEndTime": 12931
+    },
+    {
+        "text": "...your thinning breath...",
+        "startTime": 8845,
+        "endTime": 9954,
+        "slowStartTime": 13417,
+        "slowEndTime": 15156
+    },
+    {
+        "text": "...and exhausted body.",
+        "startTime": 10321,
+        "endTime": 11445,
+        "slowStartTime": 15631,
+        "slowEndTime": 17393
+    },
+    {
+        "text": "This ride isn't about you.",
+        "startTime": 13330,
+        "endTime": 14761,
+        "slowStartTime": 20145,
+        "slowEndTime": 22367
+    },
+    {
+        "text": "You're not going to win anyway.",
+        "startTime": 15371,
+        "endTime": 16595,
+        "slowStartTime": 23206,
+        "slowEndTime": 25118
+    },
+    {
+        "text": "But together, together we might.",
+        "startTime": 17643,
+        "endTime": 20951,
+        "slowStartTime": 26615,
+        "slowEndTime": 31652
+    }
+]

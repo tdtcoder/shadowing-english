@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Here is my shopping list.",
+        "startTime": 407,
+        "endTime": 1702,
+        "slowStartTime": 761,
+        "slowEndTime": 2778
+    },
+    {
+        "text": "Camera.",
+        "startTime": 2883,
+        "endTime": 3431,
+        "slowStartTime": 4475,
+        "slowEndTime": 5372
+    },
+    {
+        "text": "It is fifty dollars.",
+        "startTime": 3591,
+        "endTime": 4685,
+        "slowStartTime": 5536,
+        "slowEndTime": 7253
+    },
+    {
+        "text": "DVDs.",
+        "startTime": 6075,
+        "endTime": 6727,
+        "slowStartTime": 9262,
+        "slowEndTime": 10315
+    },
+    {
+        "text": "They are three dollars.",
+        "startTime": 6957,
+        "endTime": 8105,
+        "slowStartTime": 10586,
+        "slowEndTime": 12383
+    },
+    {
+        "text": "T-shirt.",
+        "startTime": 9049,
+        "endTime": 9623,
+        "slowStartTime": 13724,
+        "slowEndTime": 14659
+    },
+    {
+        "text": "It is five dollars.",
+        "startTime": 9847,
+        "endTime": 10932,
+        "slowStartTime": 14920,
+        "slowEndTime": 16623
+    },
+    {
+        "text": "Bread.",
+        "startTime": 11834,
+        "endTime": 12263,
+        "slowStartTime": 17901,
+        "slowEndTime": 18620
+    },
+    {
+        "text": "It is one dollar.",
+        "startTime": 12445,
+        "endTime": 13418,
+        "slowStartTime": 18818,
+        "slowEndTime": 20352
+    },
+    {
+        "text": "Cake.",
+        "startTime": 14436,
+        "endTime": 14809,
+        "slowStartTime": 21804,
+        "slowEndTime": 22438
+    },
+    {
+        "text": "It is two dollars.",
+        "startTime": 15043,
+        "endTime": 16097,
+        "slowStartTime": 22715,
+        "slowEndTime": 24371
+    },
+    {
+        "text": "Shampoo.",
+        "startTime": 16969,
+        "endTime": 17748,
+        "slowStartTime": 25604,
+        "slowEndTime": 26847
+    },
+    {
+        "text": "It is five dollars.",
+        "startTime": 18040,
+        "endTime": 19003,
+        "slowStartTime": 27210,
+        "slowEndTime": 28730
+    }
+]

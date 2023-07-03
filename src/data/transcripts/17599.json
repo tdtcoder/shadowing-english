@@ -1,0 +1,205 @@
+[
+    {
+        "text": "The country is outside the city.",
+        "startTime": 2527,
+        "endTime": 4765,
+        "slowStartTime": 3940,
+        "slowEndTime": 7373
+    },
+    {
+        "text": "There are many places in the country.",
+        "startTime": 5836,
+        "endTime": 7753,
+        "slowStartTime": 8904,
+        "slowEndTime": 11854
+    },
+    {
+        "text": "What is this place?",
+        "startTime": 8832,
+        "endTime": 10085,
+        "slowStartTime": 13398,
+        "slowEndTime": 15353
+    },
+    {
+        "text": "It is a barn.",
+        "startTime": 11137,
+        "endTime": 12056,
+        "slowStartTime": 16855,
+        "slowEndTime": 18309
+    },
+    {
+        "text": "Animals live in a barn.",
+        "startTime": 13177,
+        "endTime": 14903,
+        "slowStartTime": 19915,
+        "slowEndTime": 22579
+    },
+    {
+        "text": "What is this place?",
+        "startTime": 15981,
+        "endTime": 17198,
+        "slowStartTime": 24122,
+        "slowEndTime": 26022
+    },
+    {
+        "text": "It is a farmhouse.",
+        "startTime": 18319,
+        "endTime": 19608,
+        "slowStartTime": 27629,
+        "slowEndTime": 29637
+    },
+    {
+        "text": "A family lives in the farmhouse.",
+        "startTime": 20714,
+        "endTime": 22713,
+        "slowStartTime": 31221,
+        "slowEndTime": 34295
+    },
+    {
+        "text": "What is this place?",
+        "startTime": 23828,
+        "endTime": 24881,
+        "slowStartTime": 35892,
+        "slowEndTime": 37547
+    },
+    {
+        "text": "It is a field.",
+        "startTime": 26022,
+        "endTime": 26995,
+        "slowStartTime": 39183,
+        "slowEndTime": 40717
+    },
+    {
+        "text": "Corn grows in a field.",
+        "startTime": 28113,
+        "endTime": 29643,
+        "slowStartTime": 42319,
+        "slowEndTime": 44690
+    },
+    {
+        "text": "What is this place?",
+        "startTime": 30788,
+        "endTime": 31849,
+        "slowStartTime": 46332,
+        "slowEndTime": 47998
+    },
+    {
+        "text": "It is a shed.",
+        "startTime": 32927,
+        "endTime": 33805,
+        "slowStartTime": 49541,
+        "slowEndTime": 50933
+    },
+    {
+        "text": "Tools are kept in a shed.",
+        "startTime": 34904,
+        "endTime": 36427,
+        "slowStartTime": 52506,
+        "slowEndTime": 54865
+    },
+    {
+        "text": "What is this place?",
+        "startTime": 37557,
+        "endTime": 38602,
+        "slowStartTime": 56486,
+        "slowEndTime": 58128
+    },
+    {
+        "text": "It is a pen.",
+        "startTime": 39689,
+        "endTime": 40595,
+        "slowStartTime": 59684,
+        "slowEndTime": 61118
+    },
+    {
+        "text": "Pigs live in a pen.",
+        "startTime": 41720,
+        "endTime": 43047,
+        "slowStartTime": 62730,
+        "slowEndTime": 64795
+    },
+    {
+        "text": "What is this place?",
+        "startTime": 44132,
+        "endTime": 45221,
+        "slowStartTime": 66348,
+        "slowEndTime": 68057
+    },
+    {
+        "text": "It is a corral.",
+        "startTime": 46375,
+        "endTime": 47429,
+        "slowStartTime": 69713,
+        "slowEndTime": 71368
+    },
+    {
+        "text": "Horses run in a corral.",
+        "startTime": 48448,
+        "endTime": 50363,
+        "slowStartTime": 72822,
+        "slowEndTime": 75770
+    },
+    {
+        "text": "What is this place?",
+        "startTime": 51383,
+        "endTime": 52564,
+        "slowStartTime": 77224,
+        "slowEndTime": 79071
+    },
+    {
+        "text": "It is a garden.",
+        "startTime": 53703,
+        "endTime": 54595,
+        "slowStartTime": 80704,
+        "slowEndTime": 82117
+    },
+    {
+        "text": "Vegetables grow in the garden.",
+        "startTime": 55708,
+        "endTime": 57458,
+        "slowStartTime": 83712,
+        "slowEndTime": 86412
+    },
+    {
+        "text": "What is this place?",
+        "startTime": 58541,
+        "endTime": 59851,
+        "slowStartTime": 87961,
+        "slowEndTime": 90002
+    },
+    {
+        "text": "It is an orchard.",
+        "startTime": 60961,
+        "endTime": 62035,
+        "slowStartTime": 91592,
+        "slowEndTime": 93277
+    },
+    {
+        "text": "Apples grow in the orchard.",
+        "startTime": 63187,
+        "endTime": 64857,
+        "slowStartTime": 94930,
+        "slowEndTime": 97510
+    },
+    {
+        "text": "What is this place?",
+        "startTime": 65969,
+        "endTime": 67206,
+        "slowStartTime": 99103,
+        "slowEndTime": 101034
+    },
+    {
+        "text": "It is a farm.",
+        "startTime": 68305,
+        "endTime": 69142,
+        "slowStartTime": 102608,
+        "slowEndTime": 103938
+    },
+    {
+        "text": "It is in the country.",
+        "startTime": 70287,
+        "endTime": 71593,
+        "slowStartTime": 105581,
+        "slowEndTime": 107615
+    }
+]

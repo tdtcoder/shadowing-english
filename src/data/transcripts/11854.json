@@ -1,0 +1,107 @@
+[
+    {
+        "text": "What can I get ya?",
+        "startTime": 7540,
+        "endTime": 8073,
+        "slowStartTime": 11460,
+        "slowEndTime": 12334
+    },
+    {
+        "text": "I'll take the special and a Pepsi Max, please.",
+        "startTime": 8163,
+        "endTime": 10306,
+        "slowStartTime": 12394,
+        "slowEndTime": 15684
+    },
+    {
+        "text": "Good song.",
+        "startTime": 16295,
+        "endTime": 16877,
+        "slowStartTime": 24592,
+        "slowEndTime": 25541
+    },
+    {
+        "text": "Great song.",
+        "startTime": 17557,
+        "endTime": 18237,
+        "slowStartTime": 26485,
+        "slowEndTime": 27580
+    },
+    {
+        "text": "So, Pepsi Max has zero calories, huh?",
+        "startTime": 24905,
+        "endTime": 27223,
+        "slowStartTime": 37507,
+        "slowEndTime": 41060
+    },
+    {
+        "text": "Yup.",
+        "startTime": 27315,
+        "endTime": 27485,
+        "slowStartTime": 41122,
+        "slowEndTime": 41452
+    },
+    {
+        "text": "How many calories?",
+        "startTime": 35909,
+        "endTime": 36581,
+        "slowStartTime": 54014,
+        "slowEndTime": 55096
+    },
+    {
+        "text": "Zero.",
+        "startTime": 36654,
+        "endTime": 37075,
+        "slowStartTime": 55131,
+        "slowEndTime": 55838
+    },
+    {
+        "text": "Zero?",
+        "startTime": 37181,
+        "endTime": 37559,
+        "slowStartTime": 55922,
+        "slowEndTime": 56563
+    },
+    {
+        "text": "Zero.",
+        "startTime": 37621,
+        "endTime": 38213,
+        "slowStartTime": 56582,
+        "slowEndTime": 57545
+    },
+    {
+        "text": "I think he likes it.",
+        "startTime": 39505,
+        "endTime": 40533,
+        "slowStartTime": 59407,
+        "slowEndTime": 61024
+    },
+    {
+        "text": "What are you doin'?",
+        "startTime": 45281,
+        "endTime": 45960,
+        "slowStartTime": 68072,
+        "slowEndTime": 69165
+    },
+    {
+        "text": "YouTube.",
+        "startTime": 46471,
+        "endTime": 46999,
+        "slowStartTime": 69856,
+        "slowEndTime": 70723
+    },
+    {
+        "text": "Oh.",
+        "startTime": 48393,
+        "endTime": 48827,
+        "slowStartTime": 72740,
+        "slowEndTime": 73465
+    },
+    {
+        "text": "Pepsi Max. Zero calories, maximum Pepsi taste.",
+        "startTime": 57197,
+        "endTime": 60891,
+        "slowStartTime": 85945,
+        "slowEndTime": 91561
+    }
+]

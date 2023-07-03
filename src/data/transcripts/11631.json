@@ -1,0 +1,191 @@
+[
+    {
+        "text": "After breakfast, the two boys and Fagin played a game.",
+        "startTime": 3200,
+        "endTime": 5800,
+        "slowStartTime": 5000,
+        "slowEndTime": 8900
+    },
+    {
+        "text": "Fagin walked around the room.",
+        "startTime": 6450,
+        "endTime": 7700,
+        "slowStartTime": 9900,
+        "slowEndTime": 11800
+    },
+    {
+        "text": "He pretended he was in the street.",
+        "startTime": 8400,
+        "endTime": 9900,
+        "slowStartTime": 12800,
+        "slowEndTime": 15000
+    },
+    {
+        "text": "The two boys tried to take things from his pockets.",
+        "startTime": 10650,
+        "endTime": 13400,
+        "slowStartTime": 16150,
+        "slowEndTime": 20300
+    },
+    {
+        "text": "If Fagin felt them doing it, he would shout.",
+        "startTime": 13950,
+        "endTime": 16300,
+        "slowStartTime": 21100,
+        "slowEndTime": 24600
+    },
+    {
+        "text": "They played this game for a while.",
+        "startTime": 16850,
+        "endTime": 18250,
+        "slowStartTime": 25450,
+        "slowEndTime": 27650
+    },
+    {
+        "text": "Fagin asked Oliver to try and take a wallet from his coat pocket.",
+        "startTime": 19150,
+        "endTime": 22200,
+        "slowStartTime": 28900,
+        "slowEndTime": 33500
+    },
+    {
+        "text": "Oliver copied what the Artful Dodger did.",
+        "startTime": 22800,
+        "endTime": 25100,
+        "slowStartTime": 34400,
+        "slowEndTime": 37800
+    },
+    {
+        "text": "He told Oliver to always do what the Artful Dodger told him to do,...",
+        "startTime": 25750,
+        "endTime": 29300,
+        "slowStartTime": 38800,
+        "slowEndTime": 44200
+    },
+    {
+        "text": "...and one day he would be a great man.",
+        "startTime": 29750,
+        "endTime": 31700,
+        "slowStartTime": 44800,
+        "slowEndTime": 47850
+    },
+    {
+        "text": "Oliver asked to go out with the boys, and one day, at last, Fagin agreed.",
+        "startTime": 32650,
+        "endTime": 36700,
+        "slowStartTime": 49200,
+        "slowEndTime": 55200
+    },
+    {
+        "text": "They walked along the streets, but the boys did not hurry.",
+        "startTime": 37250,
+        "endTime": 40100,
+        "slowStartTime": 56000,
+        "slowEndTime": 60400
+    },
+    {
+        "text": "Oliver was surprised when he saw Charley Bates...",
+        "startTime": 40650,
+        "endTime": 42750,
+        "slowStartTime": 61150,
+        "slowEndTime": 64350
+    },
+    {
+        "text": "...take apples and oranges from the shops along the way and put them into his pockets.",
+        "startTime": 43100,
+        "endTime": 47150,
+        "slowStartTime": 64850,
+        "slowEndTime": 70950
+    },
+    {
+        "text": "He seemed to have a lot of pockets.",
+        "startTime": 47700,
+        "endTime": 49300,
+        "slowStartTime": 71750,
+        "slowEndTime": 74200
+    },
+    {
+        "text": "Oliver didn't like it and was about to go back to Fagin...",
+        "startTime": 49850,
+        "endTime": 52800,
+        "slowStartTime": 74950,
+        "slowEndTime": 79450
+    },
+    {
+        "text": "...when the Artful Dodger suddenly stopped and put his finger in front of his mouth.",
+        "startTime": 53100,
+        "endTime": 56900,
+        "slowStartTime": 79900,
+        "slowEndTime": 85550
+    },
+    {
+        "text": "\"Can you see that old man at the bookshop?\" asked the Artful Dodger.",
+        "startTime": 57800,
+        "endTime": 61650,
+        "slowStartTime": 86850,
+        "slowEndTime": 92700
+    },
+    {
+        "text": "Oliver saw an elderly gentleman standing outside the bookshop.",
+        "startTime": 62300,
+        "endTime": 65600,
+        "slowStartTime": 93650,
+        "slowEndTime": 98600
+    },
+    {
+        "text": "\"He'll do,\" said the Artful Dodger.",
+        "startTime": 66000,
+        "endTime": 68300,
+        "slowStartTime": 99200,
+        "slowEndTime": 102650
+    },
+    {
+        "text": "Charley Bates agreed and the two boys began to walk toward the man.",
+        "startTime": 69050,
+        "endTime": 72500,
+        "slowStartTime": 103750,
+        "slowEndTime": 108950
+    },
+    {
+        "text": "Oliver walked behind them.",
+        "startTime": 73100,
+        "endTime": 74500,
+        "slowStartTime": 109900,
+        "slowEndTime": 112000
+    },
+    {
+        "text": "He didn't know what to do.",
+        "startTime": 75150,
+        "endTime": 76250,
+        "slowStartTime": 112950,
+        "slowEndTime": 114650
+    },
+    {
+        "text": "Then he saw the Artful Dodger put his hand in the gentleman's pocket,...",
+        "startTime": 77050,
+        "endTime": 80250,
+        "slowStartTime": 115800,
+        "slowEndTime": 120600
+    },
+    {
+        "text": "...take out a handkerchief, and give it to Charley Bates.",
+        "startTime": 80550,
+        "endTime": 83300,
+        "slowStartTime": 121050,
+        "slowEndTime": 125200
+    },
+    {
+        "text": "The two boys ran around the corner as quickly as they could.",
+        "startTime": 83900,
+        "endTime": 86750,
+        "slowStartTime": 126050,
+        "slowEndTime": 130300
+    },
+    {
+        "text": "Suddenly, Oliver understood everything.",
+        "startTime": 87450,
+        "endTime": 89400,
+        "slowStartTime": 131400,
+        "slowEndTime": 134300
+    }
+]

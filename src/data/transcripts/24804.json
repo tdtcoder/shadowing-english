@@ -1,0 +1,156 @@
+[
+    {
+        "text": "Booking.com, this is Brad speaking.",
+        "startTime": 493,
+        "endTime": 2292,
+        "slowStartTime": 890,
+        "slowEndTime": 3663
+    },
+    {
+        "text": "How may I help you?",
+        "startTime": 2437,
+        "endTime": 3291,
+        "slowStartTime": 3806,
+        "slowEndTime": 5162
+    },
+    {
+        "text": "Ah, you're locked out of your hotel in the middle of the night after a 12-hour flight?",
+        "startTime": 4785,
+        "endTime": 9211,
+        "slowStartTime": 7328,
+        "slowEndTime": 14041
+    },
+    {
+        "text": "Ah, I see. Okay, so you've booked a hotel in Manchester, Vermont instead of Manchester, England.",
+        "startTime": 9399,
+        "endTime": 14356,
+        "slowStartTime": 14249,
+        "slowEndTime": 21759
+    },
+    {
+        "text": "So, they gave you a view of the kitchen instead of the mountains?",
+        "startTime": 14619,
+        "endTime": 17812,
+        "slowStartTime": 22078,
+        "slowEndTime": 26943
+    },
+    {
+        "text": "Don't worry, we'll sort it out for you.",
+        "startTime": 18879,
+        "endTime": 21417,
+        "slowStartTime": 28468,
+        "slowEndTime": 32350
+    },
+    {
+        "text": "Anytime, anywhere, we're there...",
+        "startTime": 21721,
+        "endTime": 24529,
+        "slowStartTime": 32732,
+        "slowEndTime": 37019
+    },
+    {
+        "text": "...to wow our customers with our top-notch personal service in more than 40 languages.",
+        "startTime": 24805,
+        "endTime": 29932,
+        "slowStartTime": 37357,
+        "slowEndTime": 45123
+    },
+    {
+        "text": "And guess what?",
+        "startTime": 30179,
+        "endTime": 31015,
+        "slowStartTime": 45419,
+        "slowEndTime": 46748
+    },
+    {
+        "text": "We're looking for new faces to join us in our mission.",
+        "startTime": 31565,
+        "endTime": 34757,
+        "slowStartTime": 47497,
+        "slowEndTime": 52361
+    },
+    {
+        "text": "Being a customer service executive is an exciting job,...",
+        "startTime": 35769,
+        "endTime": 38677,
+        "slowStartTime": 53803,
+        "slowEndTime": 58241
+    },
+    {
+        "text": "...requiring full commitment and the right mindset.",
+        "startTime": 38791,
+        "endTime": 41529,
+        "slowStartTime": 58336,
+        "slowEndTime": 62518
+    },
+    {
+        "text": "You are the customer's personal connection to the company.",
+        "startTime": 42271,
+        "endTime": 44903,
+        "slowStartTime": 63557,
+        "slowEndTime": 67580
+    },
+    {
+        "text": "Customers are counting on you to be there each and every time.",
+        "startTime": 45405,
+        "endTime": 48883,
+        "slowStartTime": 68257,
+        "slowEndTime": 73549
+    },
+    {
+        "text": "So, are you a born problem solver with smart and fast solutions in the heat of the moment?",
+        "startTime": 49532,
+        "endTime": 54317,
+        "slowStartTime": 74448,
+        "slowEndTime": 81701
+    },
+    {
+        "text": "Are you a superhuman communicator with a passion for friendly service?",
+        "startTime": 55918,
+        "endTime": 59509,
+        "slowStartTime": 84027,
+        "slowEndTime": 89489
+    },
+    {
+        "text": "And are you an ace in English on top of your mother tongue?",
+        "startTime": 59994,
+        "endTime": 63562,
+        "slowStartTime": 90141,
+        "slowEndTime": 95568
+    },
+    {
+        "text": "It's the operating language of the company, so you need to be fluent.",
+        "startTime": 64115,
+        "endTime": 67593,
+        "slowStartTime": 96323,
+        "slowEndTime": 101614
+    },
+    {
+        "text": "If you are, you can find yourself with the most varied job on the planet,...",
+        "startTime": 68074,
+        "endTime": 71709,
+        "slowStartTime": 102261,
+        "slowEndTime": 107788
+    },
+    {
+        "text": "...working with international colleagues across the globe.",
+        "startTime": 71921,
+        "endTime": 74602,
+        "slowStartTime": 108032,
+        "slowEndTime": 112128
+    },
+    {
+        "text": "And a whole world of people only a call or a click away,...",
+        "startTime": 74990,
+        "endTime": 78297,
+        "slowStartTime": 112635,
+        "slowEndTime": 117670
+    },
+    {
+        "text": "...looking forward to meeting you.",
+        "startTime": 81547,
+        "endTime": 83375,
+        "slowStartTime": 122471,
+        "slowEndTime": 125288
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Let's learn what some people at work are called.",
+        "startTime": 735,
+        "endTime": 3367,
+        "slowStartTime": 1253,
+        "slowEndTime": 5276
+    },
+    {
+        "text": "Bill Gates is a famous philanthropist.",
+        "startTime": 9723,
+        "endTime": 12110,
+        "slowStartTime": 14735,
+        "slowEndTime": 18390
+    },
+    {
+        "text": "Pepper Potts is Tony Stark's personal assistant.",
+        "startTime": 17764,
+        "endTime": 20917,
+        "slowStartTime": 26796,
+        "slowEndTime": 31601
+    },
+    {
+        "text": "The board of directors is satisfied with his plan.",
+        "startTime": 27247,
+        "endTime": 30255,
+        "slowStartTime": 41021,
+        "slowEndTime": 45607
+    },
+    {
+        "text": "He is today's keynote speaker.",
+        "startTime": 36195,
+        "endTime": 38586,
+        "slowStartTime": 54442,
+        "slowEndTime": 58104
+    },
+    {
+        "text": "Mark Zuckerberg is the CEO of Facebook.",
+        "startTime": 44405,
+        "endTime": 47169,
+        "slowStartTime": 66757,
+        "slowEndTime": 70978
+    },
+    {
+        "text": "Ronaldo came in as a stand-in for Kroos in the match.",
+        "startTime": 53197,
+        "endTime": 56713,
+        "slowStartTime": 79946,
+        "slowEndTime": 85294
+    },
+    {
+        "text": "Oaken is the owner. He's the proprietor of this store.",
+        "startTime": 62519,
+        "endTime": 66179,
+        "slowStartTime": 93928,
+        "slowEndTime": 99494
+    },
+    {
+        "text": "These security guards work in the mall.",
+        "startTime": 72118,
+        "endTime": 74289,
+        "slowStartTime": 108327,
+        "slowEndTime": 111658
+    },
+    {
+        "text": "The sales division staff are go-getters.",
+        "startTime": 80745,
+        "endTime": 83467,
+        "slowStartTime": 121268,
+        "slowEndTime": 125426
+    },
+    {
+        "text": "The union members are on strike.",
+        "startTime": 89993,
+        "endTime": 92383,
+        "slowStartTime": 135139,
+        "slowEndTime": 138800
+    }
+]

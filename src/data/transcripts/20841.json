@@ -1,0 +1,212 @@
+[
+    {
+        "text": "Hello?",
+        "startTime": 241,
+        "endTime": 992,
+        "slowStartTime": 512,
+        "slowEndTime": 1713
+    },
+    {
+        "text": "Hi, Amanda.",
+        "startTime": 1162,
+        "endTime": 2026,
+        "slowStartTime": 1893,
+        "slowEndTime": 3264
+    },
+    {
+        "text": "How are you?",
+        "startTime": 2183,
+        "endTime": 2919,
+        "slowStartTime": 3425,
+        "slowEndTime": 4604
+    },
+    {
+        "text": "I'm tired and sleepy.",
+        "startTime": 3345,
+        "endTime": 5124,
+        "slowStartTime": 5167,
+        "slowEndTime": 7911
+    },
+    {
+        "text": "I'm still in the office.",
+        "startTime": 5290,
+        "endTime": 6857,
+        "slowStartTime": 8085,
+        "slowEndTime": 10510
+    },
+    {
+        "text": "Really?",
+        "startTime": 6974,
+        "endTime": 7571,
+        "slowStartTime": 10611,
+        "slowEndTime": 11582
+    },
+    {
+        "text": "Go home!",
+        "startTime": 7707,
+        "endTime": 8625,
+        "slowStartTime": 11710,
+        "slowEndTime": 13163
+    },
+    {
+        "text": "I want to, but I can't!",
+        "startTime": 8743,
+        "endTime": 11148,
+        "slowStartTime": 13264,
+        "slowEndTime": 16947
+    },
+    {
+        "text": "Why not?",
+        "startTime": 11408,
+        "endTime": 12234,
+        "slowStartTime": 17262,
+        "slowEndTime": 18576
+    },
+    {
+        "text": "I have some paperwork to do tonight.",
+        "startTime": 12426,
+        "endTime": 14655,
+        "slowStartTime": 18789,
+        "slowEndTime": 22207
+    },
+    {
+        "text": "What a pity!",
+        "startTime": 14826,
+        "endTime": 15690,
+        "slowStartTime": 22389,
+        "slowEndTime": 23760
+    },
+    {
+        "text": "Can we have our lesson today?",
+        "startTime": 15953,
+        "endTime": 17558,
+        "slowStartTime": 24079,
+        "slowEndTime": 26562
+    },
+    {
+        "text": "Yes.",
+        "startTime": 17732,
+        "endTime": 18381,
+        "slowStartTime": 26748,
+        "slowEndTime": 27797
+    },
+    {
+        "text": "I need a break anyway.",
+        "startTime": 18602,
+        "endTime": 20067,
+        "slowStartTime": 28053,
+        "slowEndTime": 30326
+    },
+    {
+        "text": "Okay, then.",
+        "startTime": 20211,
+        "endTime": 21085,
+        "slowStartTime": 30466,
+        "slowEndTime": 31852
+    },
+    {
+        "text": "What are you going to do after your work?",
+        "startTime": 21420,
+        "endTime": 23302,
+        "slowStartTime": 32280,
+        "slowEndTime": 35178
+    },
+    {
+        "text": "I'm so tired, so I will just go home.",
+        "startTime": 23661,
+        "endTime": 27144,
+        "slowStartTime": 35641,
+        "slowEndTime": 40941
+    },
+    {
+        "text": "Do you always go straight home?",
+        "startTime": 27489,
+        "endTime": 29220,
+        "slowStartTime": 41383,
+        "slowEndTime": 44055
+    },
+    {
+        "text": "Not really.",
+        "startTime": 30190,
+        "endTime": 31004,
+        "slowStartTime": 45435,
+        "slowEndTime": 46731
+    },
+    {
+        "text": "Sometimes, I hang out with my friends.",
+        "startTime": 31239,
+        "endTime": 33687,
+        "slowStartTime": 47008,
+        "slowEndTime": 50756
+    },
+    {
+        "text": "What do you usually do with your friends?",
+        "startTime": 33953,
+        "endTime": 36155,
+        "slowStartTime": 51079,
+        "slowEndTime": 54458
+    },
+    {
+        "text": "We go for dinner or a drink.",
+        "startTime": 36373,
+        "endTime": 38645,
+        "slowStartTime": 54710,
+        "slowEndTime": 58192
+    },
+    {
+        "text": "Yesterday, I shot some pool with some of my friends.",
+        "startTime": 38835,
+        "endTime": 42403,
+        "slowStartTime": 58402,
+        "slowEndTime": 63829
+    },
+    {
+        "text": "That sounds fun.",
+        "startTime": 42923,
+        "endTime": 44048,
+        "slowStartTime": 64534,
+        "slowEndTime": 66297
+    },
+    {
+        "text": "Well, what are you going to do when you get back home?",
+        "startTime": 44561,
+        "endTime": 47174,
+        "slowStartTime": 66992,
+        "slowEndTime": 70986
+    },
+    {
+        "text": "I'm going to clean my room and do the laundry.",
+        "startTime": 47883,
+        "endTime": 51019,
+        "slowStartTime": 71974,
+        "slowEndTime": 76754
+    },
+    {
+        "text": "After that, I'll iron some clothes.",
+        "startTime": 51235,
+        "endTime": 53751,
+        "slowStartTime": 77003,
+        "slowEndTime": 80852
+    },
+    {
+        "text": "Hey, didn't you say you were tired and sleepy?",
+        "startTime": 53939,
+        "endTime": 56967,
+        "slowStartTime": 81058,
+        "slowEndTime": 85676
+    },
+    {
+        "text": "Yeah, but it's my daily routine.",
+        "startTime": 57199,
+        "endTime": 59871,
+        "slowStartTime": 85948,
+        "slowEndTime": 90032
+    },
+    {
+        "text": "I need to finish it today.",
+        "startTime": 60139,
+        "endTime": 61953,
+        "slowStartTime": 90359,
+        "slowEndTime": 93154
+    }
+]

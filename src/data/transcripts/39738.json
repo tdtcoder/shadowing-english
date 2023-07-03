@@ -1,0 +1,100 @@
+[
+    {
+        "text": "January",
+        "startTime": 407,
+        "endTime": 1491,
+        "slowStartTime": 760,
+        "slowEndTime": 2461
+    },
+    {
+        "text": "February",
+        "startTime": 3987,
+        "endTime": 4684,
+        "slowStartTime": 6130,
+        "slowEndTime": 7251
+    },
+    {
+        "text": "March",
+        "startTime": 7404,
+        "endTime": 8182,
+        "slowStartTime": 11256,
+        "slowEndTime": 12498
+    },
+    {
+        "text": "April",
+        "startTime": 10555,
+        "endTime": 11199,
+        "slowStartTime": 15983,
+        "slowEndTime": 17024
+    },
+    {
+        "text": "May",
+        "startTime": 13115,
+        "endTime": 13984,
+        "slowStartTime": 19823,
+        "slowEndTime": 21201
+    },
+    {
+        "text": "June",
+        "startTime": 15448,
+        "endTime": 16458,
+        "slowStartTime": 23322,
+        "slowEndTime": 24912
+    },
+    {
+        "text": "July",
+        "startTime": 18079,
+        "endTime": 18859,
+        "slowStartTime": 27268,
+        "slowEndTime": 28513
+    },
+    {
+        "text": "August",
+        "startTime": 20531,
+        "endTime": 21350,
+        "slowStartTime": 30947,
+        "slowEndTime": 32250
+    },
+    {
+        "text": "September",
+        "startTime": 22274,
+        "endTime": 23219,
+        "slowStartTime": 33561,
+        "slowEndTime": 35053
+    },
+    {
+        "text": "October",
+        "startTime": 24382,
+        "endTime": 25167,
+        "slowStartTime": 36723,
+        "slowEndTime": 37975
+    },
+    {
+        "text": "November",
+        "startTime": 26721,
+        "endTime": 27362,
+        "slowStartTime": 40232,
+        "slowEndTime": 41268
+    },
+    {
+        "text": "December",
+        "startTime": 28854,
+        "endTime": 29645,
+        "slowStartTime": 43431,
+        "slowEndTime": 44693
+    },
+    {
+        "text": "My business trip is in March.",
+        "startTime": 31942,
+        "endTime": 33555,
+        "slowStartTime": 48063,
+        "slowEndTime": 50557
+    },
+    {
+        "text": "My business trip is in September.",
+        "startTime": 35787,
+        "endTime": 37969,
+        "slowStartTime": 53831,
+        "slowEndTime": 57179
+    }
+]

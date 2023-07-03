@@ -1,0 +1,44 @@
+[
+    {
+        "text": "The monsters are always with us,...",
+        "startTime": 8400,
+        "endTime": 10150,
+        "slowStartTime": 12750,
+        "slowEndTime": 15500
+    },
+    {
+        "text": "...but there will always be heroes to fight them.",
+        "startTime": 16950,
+        "endTime": 19100,
+        "slowStartTime": 25550,
+        "slowEndTime": 29100
+    },
+    {
+        "text": "Every night, I'm going to be out here...",
+        "startTime": 26750,
+        "endTime": 29800,
+        "slowStartTime": 40300,
+        "slowEndTime": 45000
+    },
+    {
+        "text": "...leaving the mark of a spider,...",
+        "startTime": 33800,
+        "endTime": 35650,
+        "slowStartTime": 50950,
+        "slowEndTime": 53700
+    },
+    {
+        "text": "...but somehow, I know...",
+        "startTime": 39400,
+        "endTime": 40450,
+        "slowStartTime": 59200,
+        "slowEndTime": 60900
+    },
+    {
+        "text": "...I'm not the only one.",
+        "startTime": 43350,
+        "endTime": 44600,
+        "slowStartTime": 65100,
+        "slowEndTime": 67200
+    }
+]

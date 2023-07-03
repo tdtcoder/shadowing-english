@@ -1,0 +1,100 @@
+[
+    {
+        "text": "January",
+        "startTime": 620,
+        "endTime": 1671,
+        "slowStartTime": 1080,
+        "slowEndTime": 2731
+    },
+    {
+        "text": "February",
+        "startTime": 4007,
+        "endTime": 4847,
+        "slowStartTime": 6161,
+        "slowEndTime": 7495
+    },
+    {
+        "text": "March",
+        "startTime": 7522,
+        "endTime": 8277,
+        "slowStartTime": 11433,
+        "slowEndTime": 12640
+    },
+    {
+        "text": "April",
+        "startTime": 10529,
+        "endTime": 11325,
+        "slowStartTime": 15943,
+        "slowEndTime": 17213
+    },
+    {
+        "text": "May",
+        "startTime": 13323,
+        "endTime": 13867,
+        "slowStartTime": 20135,
+        "slowEndTime": 21025
+    },
+    {
+        "text": "June",
+        "startTime": 15779,
+        "endTime": 16407,
+        "slowStartTime": 23819,
+        "slowEndTime": 24836
+    },
+    {
+        "text": "July",
+        "startTime": 18193,
+        "endTime": 18948,
+        "slowStartTime": 27440,
+        "slowEndTime": 28647
+    },
+    {
+        "text": "August",
+        "startTime": 20607,
+        "endTime": 21277,
+        "slowStartTime": 31060,
+        "slowEndTime": 32140
+    },
+    {
+        "text": "September",
+        "startTime": 22385,
+        "endTime": 23309,
+        "slowStartTime": 33728,
+        "slowEndTime": 35189
+    },
+    {
+        "text": "October",
+        "startTime": 24418,
+        "endTime": 25402,
+        "slowStartTime": 36777,
+        "slowEndTime": 38328
+    },
+    {
+        "text": "November",
+        "startTime": 26791,
+        "endTime": 27585,
+        "slowStartTime": 40337,
+        "slowEndTime": 41603
+    },
+    {
+        "text": "December",
+        "startTime": 29002,
+        "endTime": 29756,
+        "slowStartTime": 43653,
+        "slowEndTime": 44859
+    },
+    {
+        "text": "My birthday is in December.",
+        "startTime": 32097,
+        "endTime": 34131,
+        "slowStartTime": 48295,
+        "slowEndTime": 51422
+    },
+    {
+        "text": "My birthday is in January.",
+        "startTime": 35849,
+        "endTime": 37627,
+        "slowStartTime": 53923,
+        "slowEndTime": 56666
+    }
+]

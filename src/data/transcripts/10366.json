@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Hey, where's Eric?",
+        "startTime": 350,
+        "endTime": 1445,
+        "slowStartTime": 1060,
+        "slowEndTime": 2585
+    },
+    {
+        "text": "He's home, still sleeping.",
+        "startTime": 1585,
+        "endTime": 3300,
+        "slowStartTime": 2870,
+        "slowEndTime": 5380
+    },
+    {
+        "text": "He was up till two AM last night.",
+        "startTime": 3610,
+        "endTime": 5370,
+        "slowStartTime": 5960,
+        "slowEndTime": 8330
+    },
+    {
+        "text": "Oh really? How come?",
+        "startTime": 5900,
+        "endTime": 7100,
+        "slowStartTime": 9255,
+        "slowEndTime": 11100
+    },
+    {
+        "text": "He wanted to catch up on all the episodes of \"Lost\"...",
+        "startTime": 7680,
+        "endTime": 9830,
+        "slowStartTime": 11975,
+        "slowEndTime": 15335
+    },
+    {
+        "text": "...that he missed while he was on vacation.",
+        "startTime": 9920,
+        "endTime": 11750,
+        "slowStartTime": 15340,
+        "slowEndTime": 18130
+    },
+    {
+        "text": "He's funny!",
+        "startTime": 12235,
+        "endTime": 13215,
+        "slowStartTime": 18875,
+        "slowEndTime": 20100
+    },
+    {
+        "text": "He's hooked on that show!",
+        "startTime": 13385,
+        "endTime": 14780,
+        "slowStartTime": 20545,
+        "slowEndTime": 22555
+    },
+    {
+        "text": "Well, I just don't care for television.",
+        "startTime": 15115,
+        "endTime": 17270,
+        "slowStartTime": 23195,
+        "slowEndTime": 26345
+    },
+    {
+        "text": "Give me a good book any day!",
+        "startTime": 17985,
+        "endTime": 19820,
+        "slowStartTime": 27395,
+        "slowEndTime": 30065
+    }
+]

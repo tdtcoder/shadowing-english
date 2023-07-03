@@ -1,0 +1,100 @@
+[
+    {
+        "text": "﻿I am not a vegetarian.",
+        "startTime": 233,
+        "endTime": 1945,
+        "slowStartTime": 500,
+        "slowEndTime": 3142
+    },
+    {
+        "text": "Look at these teeth.",
+        "startTime": 2092,
+        "endTime": 2857,
+        "slowStartTime": 3288,
+        "slowEndTime": 4510
+    },
+    {
+        "text": "They're made for meat!",
+        "startTime": 3027,
+        "endTime": 4050,
+        "slowStartTime": 4691,
+        "slowEndTime": 6300
+    },
+    {
+        "text": "Do I look like I'm stalking plants?",
+        "startTime": 4430,
+        "endTime": 6517,
+        "slowStartTime": 6795,
+        "slowEndTime": 10000
+    },
+    {
+        "text": "Most dry foods add plant protein like gluten.",
+        "startTime": 7477,
+        "endTime": 9881,
+        "slowStartTime": 11365,
+        "slowEndTime": 15047
+    },
+    {
+        "text": "But Iams never adds gluten.",
+        "startTime": 10092,
+        "endTime": 11607,
+        "slowStartTime": 15288,
+        "slowEndTime": 17635
+    },
+    {
+        "text": "Iams adds 50% more animal protein.",
+        "startTime": 11774,
+        "endTime": 14066,
+        "slowStartTime": 17811,
+        "slowEndTime": 21324
+    },
+    {
+        "text": "Look at this body.",
+        "startTime": 14469,
+        "endTime": 15575,
+        "slowStartTime": 21853,
+        "slowEndTime": 23587
+    },
+    {
+        "text": "Under this shiny coat is a lean, mean, purring machine.",
+        "startTime": 15669,
+        "endTime": 19289,
+        "slowStartTime": 23654,
+        "slowEndTime": 29158
+    },
+    {
+        "text": "I am, too.",
+        "startTime": 19605,
+        "endTime": 20450,
+        "slowStartTime": 29557,
+        "slowEndTime": 30900
+    },
+    {
+        "text": "Iams, with 50% more animal protein.",
+        "startTime": 21898,
+        "endTime": 24663,
+        "slowStartTime": 32997,
+        "slowEndTime": 37219
+    },
+    {
+        "text": "Yum!",
+        "startTime": 25041,
+        "endTime": 25688,
+        "slowStartTime": 37712,
+        "slowEndTime": 38757
+    },
+    {
+        "text": "I'm an Iams cat.",
+        "startTime": 25996,
+        "endTime": 26904,
+        "slowStartTime": 39144,
+        "slowEndTime": 40581
+    },
+    {
+        "text": "Feed me what I'm born to eat.",
+        "startTime": 27275,
+        "endTime": 28468,
+        "slowStartTime": 41063,
+        "slowEndTime": 42927
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "text": "﻿I know where she lives.",
+        "startTime": 5248,
+        "endTime": 6813,
+        "slowStartTime": 8022,
+        "slowEndTime": 10444
+    },
+    {
+        "text": "Do you know why she was crying?",
+        "startTime": 9383,
+        "endTime": 11183,
+        "slowStartTime": 14224,
+        "slowEndTime": 17000
+    },
+    {
+        "text": "Can you show me how it's done?",
+        "startTime": 13959,
+        "endTime": 15606,
+        "slowStartTime": 21089,
+        "slowEndTime": 23634
+    },
+    {
+        "text": "It was raining when we got there.",
+        "startTime": 18484,
+        "endTime": 20388,
+        "slowStartTime": 27876,
+        "slowEndTime": 30807
+    },
+    {
+        "text": "He was the one who brought you a drink.",
+        "startTime": 23061,
+        "endTime": 25325,
+        "slowStartTime": 34741,
+        "slowEndTime": 38212
+    },
+    {
+        "text": "I don't know why he got angry.",
+        "startTime": 27791,
+        "endTime": 29644,
+        "slowStartTime": 41837,
+        "slowEndTime": 44691
+    },
+    {
+        "text": "Paris is where I want to live.",
+        "startTime": 32431,
+        "endTime": 34116,
+        "slowStartTime": 48796,
+        "slowEndTime": 51399
+    },
+    {
+        "text": "The 80s was when telephones were big and bulky.",
+        "startTime": 36596,
+        "endTime": 40190,
+        "slowStartTime": 55044,
+        "slowEndTime": 60510
+    }
+]

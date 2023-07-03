@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Antonio was a wealthy merchant in the Italian city of Venice.",
+        "startTime": 2001,
+        "endTime": 6022,
+        "slowStartTime": 3152,
+        "slowEndTime": 9258
+    },
+    {
+        "text": "His friend, Bassanio, needed money to impress Portia, a wealthy heiress.",
+        "startTime": 6920,
+        "endTime": 12237,
+        "slowStartTime": 10530,
+        "slowEndTime": 18581
+    },
+    {
+        "text": "Antonio could not make the loan himself...",
+        "startTime": 13369,
+        "endTime": 15730,
+        "slowStartTime": 20203,
+        "slowEndTime": 23820
+    },
+    {
+        "text": "...because his own money was invested in a number of trade ships.",
+        "startTime": 16136,
+        "endTime": 19543,
+        "slowStartTime": 24354,
+        "slowEndTime": 29539
+    },
+    {
+        "text": "Antonio and Bassanio approached Shylock, a Jewish moneylender, for a loan.",
+        "startTime": 20654,
+        "endTime": 26039,
+        "slowStartTime": 31131,
+        "slowEndTime": 39283
+    },
+    {
+        "text": "In fact, Shylock disliked Antonio because he spoke out against his dishonest way of lending money.",
+        "startTime": 26875,
+        "endTime": 33694,
+        "slowStartTime": 40462,
+        "slowEndTime": 50766
+    },
+    {
+        "text": "To their surprise, Shylock agreed to lend Bassanio the money.",
+        "startTime": 34929,
+        "endTime": 38737,
+        "slowStartTime": 52543,
+        "slowEndTime": 58331
+    },
+    {
+        "text": "A condition, however, was that if the loan goes unpaid,...",
+        "startTime": 39718,
+        "endTime": 43501,
+        "slowStartTime": 59727,
+        "slowEndTime": 65477
+    },
+    {
+        "text": "...Shylock would be entitled to a pound of Antonio's flesh.",
+        "startTime": 44216,
+        "endTime": 47975,
+        "slowStartTime": 66474,
+        "slowEndTime": 72187
+    },
+    {
+        "text": "Antonio's ships were lost at sea, meaning that he was unable to repay the loan.",
+        "startTime": 50886,
+        "endTime": 56113,
+        "slowStartTime": 76479,
+        "slowEndTime": 84394
+    },
+    {
+        "text": "The matter went to court.",
+        "startTime": 56973,
+        "endTime": 58075,
+        "slowStartTime": 85609,
+        "slowEndTime": 87337
+    },
+    {
+        "text": "Shylock could indeed demand a pound of flesh from Antonio.",
+        "startTime": 59029,
+        "endTime": 62645,
+        "slowStartTime": 88694,
+        "slowEndTime": 94193
+    },
+    {
+        "text": "A legal expert, who was really Portia disguised as a man,...",
+        "startTime": 63691,
+        "endTime": 67310,
+        "slowStartTime": 95686,
+        "slowEndTime": 101190
+    },
+    {
+        "text": "...told Shylock that he could draw no blood.",
+        "startTime": 68052,
+        "endTime": 70552,
+        "slowStartTime": 102228,
+        "slowEndTime": 106053
+    },
+    {
+        "text": "The contract did not entitle him to any blood.",
+        "startTime": 71525,
+        "endTime": 74239,
+        "slowStartTime": 107438,
+        "slowEndTime": 111584
+    },
+    {
+        "text": "Consequently, Shylock got nothing.",
+        "startTime": 75183,
+        "endTime": 77564,
+        "slowStartTime": 112924,
+        "slowEndTime": 116571
+    },
+    {
+        "text": "He was found guilty of conspiring to kill a Venetian citizen.",
+        "startTime": 78491,
+        "endTime": 82040,
+        "slowStartTime": 117886,
+        "slowEndTime": 123285
+    },
+    {
+        "text": "The penalty was death, but all involved agreed that the punishment should be different.",
+        "startTime": 83078,
+        "endTime": 88081,
+        "slowStartTime": 124767,
+        "slowEndTime": 132346
+    },
+    {
+        "text": "Shylock was fined, and he had to convert to Christianity.",
+        "startTime": 89068,
+        "endTime": 92476,
+        "slowStartTime": 133752,
+        "slowEndTime": 138939
+    },
+    {
+        "text": "Soon after, the joyful news arrived that Antonio's ships came back safely.",
+        "startTime": 93476,
+        "endTime": 98013,
+        "slowStartTime": 140364,
+        "slowEndTime": 147245
+    }
+]

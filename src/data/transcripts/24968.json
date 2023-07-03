@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Let's learn about wild animals.",
+        "startTime": 644,
+        "endTime": 3903,
+        "slowStartTime": 1116,
+        "slowEndTime": 6080
+    },
+    {
+        "text": "The wolf really likes snow.",
+        "startTime": 8007,
+        "endTime": 10550,
+        "slowStartTime": 12160,
+        "slowEndTime": 16050
+    },
+    {
+        "text": "The bear is wet.",
+        "startTime": 19443,
+        "endTime": 21494,
+        "slowStartTime": 29315,
+        "slowEndTime": 32466
+    },
+    {
+        "text": "The tiger is yawning.",
+        "startTime": 28075,
+        "endTime": 31151,
+        "slowStartTime": 42263,
+        "slowEndTime": 46952
+    },
+    {
+        "text": "The lion is roaring.",
+        "startTime": 39238,
+        "endTime": 42306,
+        "slowStartTime": 59007,
+        "slowEndTime": 63684
+    },
+    {
+        "text": "The fox is jumping.",
+        "startTime": 48438,
+        "endTime": 50491,
+        "slowStartTime": 72807,
+        "slowEndTime": 75961
+    },
+    {
+        "text": "The deer is in the river.",
+        "startTime": 57464,
+        "endTime": 59527,
+        "slowStartTime": 86346,
+        "slowEndTime": 89516
+    },
+    {
+        "text": "The polar bear is getting into the pool.",
+        "startTime": 66970,
+        "endTime": 70059,
+        "slowStartTime": 100605,
+        "slowEndTime": 105314
+    },
+    {
+        "text": "The moose is getting out of the pool.",
+        "startTime": 76154,
+        "endTime": 79392,
+        "slowStartTime": 114381,
+        "slowEndTime": 119313
+    },
+    {
+        "text": "The raccoon is eating.",
+        "startTime": 87626,
+        "endTime": 89879,
+        "slowStartTime": 131589,
+        "slowEndTime": 135044
+    },
+    {
+        "text": "The coyote is falling asleep.",
+        "startTime": 97785,
+        "endTime": 101115,
+        "slowStartTime": 146827,
+        "slowEndTime": 151898
+    }
+]

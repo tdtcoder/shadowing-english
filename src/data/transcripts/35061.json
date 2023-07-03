@@ -1,0 +1,100 @@
+[
+    {
+        "text": "We are in the year 1886.",
+        "startTime": 1203,
+        "endTime": 4763,
+        "slowStartTime": 1955,
+        "slowEndTime": 7370
+    },
+    {
+        "text": "Carl Benz and Gottlieb Daimler independently invent the automobile:...",
+        "startTime": 5492,
+        "endTime": 11752,
+        "slowStartTime": 8388,
+        "slowEndTime": 17853
+    },
+    {
+        "text": "...Benz in Mannheim and Daimler in Stuttgart.",
+        "startTime": 12203,
+        "endTime": 15775,
+        "slowStartTime": 18454,
+        "slowEndTime": 23887
+    },
+    {
+        "text": "In 1900, businessman Emil Jellinek orders a totally new...",
+        "startTime": 16298,
+        "endTime": 20863,
+        "slowStartTime": 24597,
+        "slowEndTime": 31520
+    },
+    {
+        "text": "...and particularly fast car from Daimler.",
+        "startTime": 20979,
+        "endTime": 23849,
+        "slowStartTime": 31618,
+        "slowEndTime": 35998
+    },
+    {
+        "text": "It is to be named after his daughter, Mercedes.",
+        "startTime": 24391,
+        "endTime": 27267,
+        "slowStartTime": 36737,
+        "slowEndTime": 41125
+    },
+    {
+        "text": "At the race week in Nice, this car wins one race after another.",
+        "startTime": 27676,
+        "endTime": 31550,
+        "slowStartTime": 41664,
+        "slowEndTime": 47550
+    },
+    {
+        "text": "And this means that from 1902 on,...",
+        "startTime": 32559,
+        "endTime": 35485,
+        "slowStartTime": 48989,
+        "slowEndTime": 53452
+    },
+    {
+        "text": "...all passenger cars produced by Daimler are called Mercedes.",
+        "startTime": 35661,
+        "endTime": 40975,
+        "slowStartTime": 53641,
+        "slowEndTime": 61687
+    },
+    {
+        "text": "Driven by this success, the Benz company also begins to build new and faster cars.",
+        "startTime": 42364,
+        "endTime": 48027,
+        "slowStartTime": 63696,
+        "slowEndTime": 72265
+    },
+    {
+        "text": "As times become difficult for businesses, the two companies come together in 1926.",
+        "startTime": 49265,
+        "endTime": 56181,
+        "slowStartTime": 74047,
+        "slowEndTime": 84496
+    },
+    {
+        "text": "A new brand name is born: Mercedes-Benz.",
+        "startTime": 57171,
+        "endTime": 63599,
+        "slowStartTime": 85906,
+        "slowEndTime": 95624
+    },
+    {
+        "text": "With 160 vehicles, the Mercedes-Benz Museum in Stuttgart...",
+        "startTime": 66655,
+        "endTime": 71853,
+        "slowStartTime": 100133,
+        "slowEndTime": 108004
+    },
+    {
+        "text": "...tells the entire history of the automobile.",
+        "startTime": 72140,
+        "endTime": 75573,
+        "slowStartTime": 108360,
+        "slowEndTime": 113584
+    }
+]

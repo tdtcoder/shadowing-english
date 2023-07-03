@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Are you taking part in the singing contest next week?",
+        "startTime": 200,
+        "endTime": 2833,
+        "slowStartTime": 482,
+        "slowEndTime": 4475
+    },
+    {
+        "text": "Yes. You too?",
+        "startTime": 3185,
+        "endTime": 4497,
+        "slowStartTime": 4927,
+        "slowEndTime": 6970
+    },
+    {
+        "text": "Please feel at home, and help yourself to some beer.",
+        "startTime": 5109,
+        "endTime": 7599,
+        "slowStartTime": 7814,
+        "slowEndTime": 11623
+    },
+    {
+        "text": "Sure, I will. Thank you.",
+        "startTime": 8292,
+        "endTime": 10100,
+        "slowStartTime": 12588,
+        "slowEndTime": 15375
+    },
+    {
+        "text": "I am a bit nervous now because I need to make a speech in public tomorrow.",
+        "startTime": 11027,
+        "endTime": 15086,
+        "slowStartTime": 16690,
+        "slowEndTime": 22854
+    },
+    {
+        "text": "Liz failed the exam in spite of all her efforts the day before.",
+        "startTime": 16175,
+        "endTime": 20026,
+        "slowStartTime": 24413,
+        "slowEndTime": 30264
+    },
+    {
+        "text": "She was very sad.",
+        "startTime": 21272,
+        "endTime": 22399,
+        "slowStartTime": 32058,
+        "slowEndTime": 33823
+    },
+    {
+        "text": "I am a member of the basketball club.",
+        "startTime": 23685,
+        "endTime": 25740,
+        "slowStartTime": 35677,
+        "slowEndTime": 38835
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "text": "A volunteer in the trial of the COVID-19 vaccine...",
+        "startTime": 807,
+        "endTime": 3805,
+        "slowStartTime": 1361,
+        "slowEndTime": 5932
+    },
+    {
+        "text": "...being developed by Astra Zeneca and Oxford University...",
+        "startTime": 3908,
+        "endTime": 6789,
+        "slowStartTime": 6012,
+        "slowEndTime": 10408
+    },
+    {
+        "text": "...has died in Brazil.",
+        "startTime": 7148,
+        "endTime": 8386,
+        "slowStartTime": 10872,
+        "slowEndTime": 12804
+    },
+    {
+        "text": "Brazil's health authority said on Wednesday...",
+        "startTime": 8991,
+        "endTime": 10928,
+        "slowStartTime": 13637,
+        "slowEndTime": 16617
+    },
+    {
+        "text": "...that although the volunteer had died,...",
+        "startTime": 11201,
+        "endTime": 13143,
+        "slowStartTime": 16952,
+        "slowEndTime": 19939
+    },
+    {
+        "text": "...the trial would continue.",
+        "startTime": 13445,
+        "endTime": 15199,
+        "slowStartTime": 20318,
+        "slowEndTime": 23023
+    },
+    {
+        "text": "So far, 8,000 people had been given the first dose of the vaccine...",
+        "startTime": 15652,
+        "endTime": 19172,
+        "slowStartTime": 23628,
+        "slowEndTime": 28983
+    },
+    {
+        "text": "...in six cities in Brazil,...",
+        "startTime": 19377,
+        "endTime": 21005,
+        "slowStartTime": 29215,
+        "slowEndTime": 31733
+    },
+    {
+        "text": "...which is grappling with one of the world's worst outbreaks of the disease.",
+        "startTime": 21372,
+        "endTime": 24876,
+        "slowStartTime": 32208,
+        "slowEndTime": 37539
+    },
+    {
+        "text": "A source familiar with the matter told Reuters...",
+        "startTime": 25955,
+        "endTime": 28121,
+        "slowStartTime": 39082,
+        "slowEndTime": 42407
+    },
+    {
+        "text": "...the volunteer who died was likely to have been part of a control group...",
+        "startTime": 28471,
+        "endTime": 32253,
+        "slowStartTime": 42856,
+        "slowEndTime": 48605
+    },
+    {
+        "text": "...that did not receive the COVID-19 vaccine,...",
+        "startTime": 32595,
+        "endTime": 35145,
+        "slowStartTime": 49042,
+        "slowEndTime": 52943
+    },
+    {
+        "text": "...suggesting that the volunteer was instead given a meningitis jab.",
+        "startTime": 35631,
+        "endTime": 39133,
+        "slowStartTime": 53597,
+        "slowEndTime": 58925
+    }
+]

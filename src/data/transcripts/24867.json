@@ -1,0 +1,37 @@
+[
+    {
+        "text": "﻿Cup of Tea.",
+        "startTime": 6879,
+        "endTime": 7933,
+        "slowStartTime": 10469,
+        "slowEndTime": 12124
+    },
+    {
+        "text": "If something is your cup of tea, it means you like it or you're good at it.",
+        "startTime": 8418,
+        "endTime": 13827,
+        "slowStartTime": 12777,
+        "slowEndTime": 20966
+    },
+    {
+        "text": "Hiking is tiring and it's not my cup of tea.",
+        "startTime": 15533,
+        "endTime": 18687,
+        "slowStartTime": 23450,
+        "slowEndTime": 28256
+    },
+    {
+        "text": "I'm good at basketball and it's my cup of tea.",
+        "startTime": 19951,
+        "endTime": 23149,
+        "slowStartTime": 30076,
+        "slowEndTime": 34948
+    },
+    {
+        "text": "I don't like animals so cats are not my cup of tea.",
+        "startTime": 25084,
+        "endTime": 30347,
+        "slowStartTime": 37776,
+        "slowEndTime": 45745
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Aloha, Borneo!",
+        "startTime": 9283,
+        "endTime": 11517,
+        "slowStartTime": 14074,
+        "slowEndTime": 17500
+    },
+    {
+        "text": "So that was an orangutan.",
+        "startTime": 16771,
+        "endTime": 19761,
+        "slowStartTime": 25307,
+        "slowEndTime": 29867
+    },
+    {
+        "text": "Cool!",
+        "startTime": 24111,
+        "endTime": 24817,
+        "slowStartTime": 36317,
+        "slowEndTime": 37450
+    },
+    {
+        "text": "So do you hear that fire alarm sound?",
+        "startTime": 25786,
+        "endTime": 27456,
+        "slowStartTime": 38829,
+        "slowEndTime": 41409
+    },
+    {
+        "text": "You mean the car horn?",
+        "startTime": 27704,
+        "endTime": 28994,
+        "slowStartTime": 41706,
+        "slowEndTime": 43716
+    },
+    {
+        "text": "Nope.",
+        "startTime": 29433,
+        "endTime": 29763,
+        "slowStartTime": 44299,
+        "slowEndTime": 44870
+    },
+    {
+        "text": "I only hear you, me and...",
+        "startTime": 30143,
+        "endTime": 32379,
+        "slowStartTime": 45364,
+        "slowEndTime": 48794
+    },
+    {
+        "text": "A baby elephant!",
+        "startTime": 37229,
+        "endTime": 38795,
+        "slowStartTime": 55994,
+        "slowEndTime": 58417
+    },
+    {
+        "text": "And its mother, calling for her baby.",
+        "startTime": 48526,
+        "endTime": 50912,
+        "slowStartTime": 72939,
+        "slowEndTime": 76593
+    }
+]

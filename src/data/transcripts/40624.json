@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Tell me, is there a bank near here?",
+        "startTime": 150,
+        "endTime": 2381,
+        "slowStartTime": 366,
+        "slowEndTime": 3797
+    },
+    {
+        "text": "Actually, there's several.",
+        "startTime": 3050,
+        "endTime": 5163,
+        "slowStartTime": 4725,
+        "slowEndTime": 7970
+    },
+    {
+        "text": "There's one on the corner up here...",
+        "startTime": 5623,
+        "endTime": 7065,
+        "slowStartTime": 8584,
+        "slowEndTime": 10822
+    },
+    {
+        "text": "...and one right behind us across the street and then one diagonal.",
+        "startTime": 7305,
+        "endTime": 11580,
+        "slowStartTime": 11108,
+        "slowEndTime": 17595
+    },
+    {
+        "text": "Excuse me, is there a newsstand nearby?",
+        "startTime": 12156,
+        "endTime": 14368,
+        "slowStartTime": 18384,
+        "slowEndTime": 21777
+    },
+    {
+        "text": "Yes, there is.",
+        "startTime": 14583,
+        "endTime": 15377,
+        "slowStartTime": 22024,
+        "slowEndTime": 23291
+    },
+    {
+        "text": "There's one right down the street.",
+        "startTime": 16721,
+        "endTime": 18134,
+        "slowStartTime": 25231,
+        "slowEndTime": 27426
+    },
+    {
+        "text": "Two blocks, make a right.",
+        "startTime": 18265,
+        "endTime": 19464,
+        "slowStartTime": 27548,
+        "slowEndTime": 29421
+    },
+    {
+        "text": "Go one block, and it's right on the right-hand side.",
+        "startTime": 19589,
+        "endTime": 21604,
+        "slowStartTime": 29534,
+        "slowEndTime": 32631
+    },
+    {
+        "text": "Okay, so that was, go up this street.",
+        "startTime": 22181,
+        "endTime": 23978,
+        "slowStartTime": 33421,
+        "slowEndTime": 36192
+    },
+    {
+        "text": "Two blocks.",
+        "startTime": 24055,
+        "endTime": 24584,
+        "slowStartTime": 36233,
+        "slowEndTime": 37101
+    },
+    {
+        "text": "Yes.",
+        "startTime": 24781,
+        "endTime": 24891,
+        "slowStartTime": 37321,
+        "slowEndTime": 37561
+    },
+    {
+        "text": "Make a right.",
+        "startTime": 24951,
+        "endTime": 25557,
+        "slowStartTime": 37576,
+        "slowEndTime": 38561
+    },
+    {
+        "text": "One block.",
+        "startTime": 26175,
+        "endTime": 26803,
+        "slowStartTime": 39413,
+        "slowEndTime": 40429
+    },
+    {
+        "text": "Two blocks.",
+        "startTime": 26937,
+        "endTime": 27491,
+        "slowStartTime": 40556,
+        "slowEndTime": 41461
+    },
+    {
+        "text": "Two blocks, and it's right on the right-hand side.",
+        "startTime": 27551,
+        "endTime": 29848,
+        "slowStartTime": 41477,
+        "slowEndTime": 44997
+    },
+    {
+        "text": "On the right-hand side.",
+        "startTime": 29919,
+        "endTime": 31014,
+        "slowStartTime": 45029,
+        "slowEndTime": 46746
+    }
+]

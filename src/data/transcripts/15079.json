@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Are you curious about new ideas?",
+        "startTime": 1149,
+        "endTime": 3339,
+        "slowStartTime": 1873,
+        "slowEndTime": 5234
+    },
+    {
+        "text": "Do you wanna learn a new language or just a new word?",
+        "startTime": 5208,
+        "endTime": 9935,
+        "slowStartTime": 7962,
+        "slowEndTime": 15127
+    },
+    {
+        "text": "Maybe you wanna know more about anatomy or astronomy.",
+        "startTime": 11295,
+        "endTime": 16529,
+        "slowStartTime": 17093,
+        "slowEndTime": 25019
+    },
+    {
+        "text": "You could master something new or uncover a hidden talent.",
+        "startTime": 18297,
+        "endTime": 23335,
+        "slowStartTime": 27595,
+        "slowEndTime": 35227
+    },
+    {
+        "text": "There's never been a better time to learn.",
+        "startTime": 24909,
+        "endTime": 28381,
+        "slowStartTime": 37514,
+        "slowEndTime": 42796
+    }
+]

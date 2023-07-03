@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Three Rings for the Elven-kings under the sky.",
+        "startTime": 5219,
+        "endTime": 10494,
+        "slowStartTime": 7978,
+        "slowEndTime": 15966
+    },
+    {
+        "text": "Seven for the Dwarf-lords in their halls of stone.",
+        "startTime": 11633,
+        "endTime": 17032,
+        "slowStartTime": 17599,
+        "slowEndTime": 25773
+    },
+    {
+        "text": "Nine for Mortal Men, doomed to die.",
+        "startTime": 19547,
+        "endTime": 23708,
+        "slowStartTime": 29471,
+        "slowEndTime": 35787
+    },
+    {
+        "text": "One for the Dark Lord on his dark throne...",
+        "startTime": 25613,
+        "endTime": 29403,
+        "slowStartTime": 38570,
+        "slowEndTime": 44329
+    },
+    {
+        "text": "In the Land of Mordor where the Shadows lie.",
+        "startTime": 30611,
+        "endTime": 36505,
+        "slowStartTime": 46066,
+        "slowEndTime": 54983
+    }
+]

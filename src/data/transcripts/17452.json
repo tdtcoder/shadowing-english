@@ -1,0 +1,408 @@
+[
+    {
+        "text": "Counting to 100.",
+        "startTime": 2881,
+        "endTime": 4503,
+        "slowStartTime": 4472,
+        "slowEndTime": 6979
+    },
+    {
+        "text": "Leticia walked into the kitchen.",
+        "startTime": 5778,
+        "endTime": 8033,
+        "slowStartTime": 8817,
+        "slowEndTime": 12275
+    },
+    {
+        "text": "She washed her hands for dinner.",
+        "startTime": 8966,
+        "endTime": 10748,
+        "slowStartTime": 13599,
+        "slowEndTime": 16347
+    },
+    {
+        "text": "\"Where were you?\"",
+        "startTime": 11933,
+        "endTime": 13094,
+        "slowStartTime": 18049,
+        "slowEndTime": 19866
+    },
+    {
+        "text": "her mother asked.",
+        "startTime": 13876,
+        "endTime": 14972,
+        "slowStartTime": 20964,
+        "slowEndTime": 22683
+    },
+    {
+        "text": "\"I've been counting. I need 100 things,\"",
+        "startTime": 15801,
+        "endTime": 19415,
+        "slowStartTime": 23852,
+        "slowEndTime": 29348
+    },
+    {
+        "text": "Leticia said.",
+        "startTime": 20370,
+        "endTime": 21496,
+        "slowStartTime": 30705,
+        "slowEndTime": 32469
+    },
+    {
+        "text": "\"Why do you need 100 things?\"",
+        "startTime": 22309,
+        "endTime": 24646,
+        "slowStartTime": 33613,
+        "slowEndTime": 37194
+    },
+    {
+        "text": "her mother asked.",
+        "startTime": 25146,
+        "endTime": 26241,
+        "slowStartTime": 37869,
+        "slowEndTime": 39587
+    },
+    {
+        "text": "\"Tuesday is the 100th day of school. For a project, everyone needs to bring in 100 things,\"",
+        "startTime": 26819,
+        "endTime": 34523,
+        "slowStartTime": 40379,
+        "slowEndTime": 52010
+    },
+    {
+        "text": "Leticia said.",
+        "startTime": 35597,
+        "endTime": 36630,
+        "slowStartTime": 53546,
+        "slowEndTime": 55170
+    },
+    {
+        "text": "\"Your brother and I can help with your project,\"",
+        "startTime": 37826,
+        "endTime": 40313,
+        "slowStartTime": 56889,
+        "slowEndTime": 60694
+    },
+    {
+        "text": "her mother said.",
+        "startTime": 41114,
+        "endTime": 42091,
+        "slowStartTime": 61821,
+        "slowEndTime": 63361
+    },
+    {
+        "text": "100 of Something.",
+        "startTime": 43591,
+        "endTime": 45088,
+        "slowStartTime": 65537,
+        "slowEndTime": 67857
+    },
+    {
+        "text": "Leticia showed her family a large piece of paper.",
+        "startTime": 46411,
+        "endTime": 49404,
+        "slowStartTime": 69766,
+        "slowEndTime": 74331
+    },
+    {
+        "text": "There were 100 squares drawn on the paper.",
+        "startTime": 50543,
+        "endTime": 53281,
+        "slowStartTime": 75965,
+        "slowEndTime": 80147
+    },
+    {
+        "text": "\"I have to glue 100 things into these 100 squares,\"",
+        "startTime": 54552,
+        "endTime": 59283,
+        "slowStartTime": 81978,
+        "slowEndTime": 89150
+    },
+    {
+        "text": "Leticia said.",
+        "startTime": 60404,
+        "endTime": 61454,
+        "slowStartTime": 90756,
+        "slowEndTime": 92406
+    },
+    {
+        "text": "\"Let's think. Do you read in school?\"",
+        "startTime": 62127,
+        "endTime": 64933,
+        "slowStartTime": 93340,
+        "slowEndTime": 97625
+    },
+    {
+        "text": "her mother asked.",
+        "startTime": 66034,
+        "endTime": 67133,
+        "slowStartTime": 99201,
+        "slowEndTime": 100924
+    },
+    {
+        "text": "\"We read every day,\"",
+        "startTime": 67917,
+        "endTime": 69557,
+        "slowStartTime": 102026,
+        "slowEndTime": 104561
+    },
+    {
+        "text": "Leticia said.",
+        "startTime": 70617,
+        "endTime": 71625,
+        "slowStartTime": 106075,
+        "slowEndTime": 107662
+    },
+    {
+        "text": "Making Little Books.",
+        "startTime": 72719,
+        "endTime": 74247,
+        "slowStartTime": 109228,
+        "slowEndTime": 111596
+    },
+    {
+        "text": "\"What do you like about books?\"",
+        "startTime": 75515,
+        "endTime": 77308,
+        "slowStartTime": 113422,
+        "slowEndTime": 116187
+    },
+    {
+        "text": "her brother asked.",
+        "startTime": 78273,
+        "endTime": 79346,
+        "slowStartTime": 117559,
+        "slowEndTime": 119244
+    },
+    {
+        "text": "Leticia smiled.",
+        "startTime": 80180,
+        "endTime": 81395,
+        "slowStartTime": 120420,
+        "slowEndTime": 122318
+    },
+    {
+        "text": "\"I like the covers. I like the titles. I like the stories.\"",
+        "startTime": 82669,
+        "endTime": 87183,
+        "slowStartTime": 124153,
+        "slowEndTime": 130999
+    },
+    {
+        "text": "\"We could make little books,\"",
+        "startTime": 88509,
+        "endTime": 90343,
+        "slowStartTime": 132914,
+        "slowEndTime": 135739
+    },
+    {
+        "text": "her brother said.",
+        "startTime": 91554,
+        "endTime": 92533,
+        "slowStartTime": 137481,
+        "slowEndTime": 139025
+    },
+    {
+        "text": "Leticia wasn't sure.",
+        "startTime": 93561,
+        "endTime": 95271,
+        "slowStartTime": 140491,
+        "slowEndTime": 143132
+    },
+    {
+        "text": "\"If we made books, could I write in them?\"",
+        "startTime": 96469,
+        "endTime": 99098,
+        "slowStartTime": 144854,
+        "slowEndTime": 148872
+    },
+    {
+        "text": "\"Of course. It's your project. We're just helpers,\"",
+        "startTime": 100221,
+        "endTime": 103813,
+        "slowStartTime": 150482,
+        "slowEndTime": 155945
+    },
+    {
+        "text": "her mother said.",
+        "startTime": 105586,
+        "endTime": 106509,
+        "slowStartTime": 158529,
+        "slowEndTime": 159988
+    },
+    {
+        "text": "Leticia liked the sound of that.",
+        "startTime": 107522,
+        "endTime": 109605,
+        "slowStartTime": 161433,
+        "slowEndTime": 164633
+    },
+    {
+        "text": "Secret Messages.",
+        "startTime": 110656,
+        "endTime": 111985,
+        "slowStartTime": 166134,
+        "slowEndTime": 168203
+    },
+    {
+        "text": "Leticia and her family made the tiny books.",
+        "startTime": 113265,
+        "endTime": 116138,
+        "slowStartTime": 170047,
+        "slowEndTime": 174432
+    },
+    {
+        "text": "Then, Leticia wrote little notes in the books.",
+        "startTime": 117218,
+        "endTime": 119985,
+        "slowStartTime": 175977,
+        "slowEndTime": 180202
+    },
+    {
+        "text": "She had to write very small.",
+        "startTime": 121239,
+        "endTime": 123103,
+        "slowStartTime": 182009,
+        "slowEndTime": 184879
+    },
+    {
+        "text": "When Leticia was done, she showed her project to her mother and brother.",
+        "startTime": 124576,
+        "endTime": 128883,
+        "slowStartTime": 187014,
+        "slowEndTime": 193550
+    },
+    {
+        "text": "\"Cool,\"",
+        "startTime": 130320,
+        "endTime": 130838,
+        "slowStartTime": 195630,
+        "slowEndTime": 196482
+    },
+    {
+        "text": "her brother said.",
+        "startTime": 131311,
+        "endTime": 132183,
+        "slowStartTime": 197116,
+        "slowEndTime": 198499
+    },
+    {
+        "text": "\"This is very creative,\"",
+        "startTime": 133004,
+        "endTime": 134735,
+        "slowStartTime": 199656,
+        "slowEndTime": 202327
+    },
+    {
+        "text": "her mother said.",
+        "startTime": 136147,
+        "endTime": 137101,
+        "slowStartTime": 204371,
+        "slowEndTime": 205877
+    },
+    {
+        "text": "On the 100th day, everyone brought their projects to school.",
+        "startTime": 138377,
+        "endTime": 142433,
+        "slowStartTime": 207716,
+        "slowEndTime": 213875
+    },
+    {
+        "text": "Leticia showed her project to the class.",
+        "startTime": 143487,
+        "endTime": 146065,
+        "slowStartTime": 215381,
+        "slowEndTime": 219322
+    },
+    {
+        "text": "At the top, she had written 100 Reasons I Love to Come to School.",
+        "startTime": 147141,
+        "endTime": 152149,
+        "slowStartTime": 220862,
+        "slowEndTime": 228449
+    },
+    {
+        "text": "The title made her friends want to know more.",
+        "startTime": 153193,
+        "endTime": 155606,
+        "slowStartTime": 229939,
+        "slowEndTime": 233634
+    },
+    {
+        "text": "They began reading the words in the little books.",
+        "startTime": 156516,
+        "endTime": 159437,
+        "slowStartTime": 234924,
+        "slowEndTime": 239381
+    },
+    {
+        "text": "The Special Project.",
+        "startTime": 160891,
+        "endTime": 162239,
+        "slowStartTime": 241487,
+        "slowEndTime": 243584
+    },
+    {
+        "text": "\"Look, Kate, this one says 'I like to see Kate smile,",
+        "startTime": 163269,
+        "endTime": 168011,
+        "slowStartTime": 245053,
+        "slowEndTime": 252242
+    },
+    {
+        "text": "said Mia.",
+        "startTime": 169541,
+        "endTime": 170377,
+        "slowStartTime": 254461,
+        "slowEndTime": 255791
+    },
+    {
+        "text": "Soon there was a crowd around Leticia's project.",
+        "startTime": 171933,
+        "endTime": 174833,
+        "slowStartTime": 258050,
+        "slowEndTime": 262474
+    },
+    {
+        "text": "The teacher read the books out loud.",
+        "startTime": 176185,
+        "endTime": 178139,
+        "slowStartTime": 264428,
+        "slowEndTime": 267434
+    },
+    {
+        "text": "The class clapped for every book.",
+        "startTime": 179398,
+        "endTime": 181287,
+        "slowStartTime": 269247,
+        "slowEndTime": 272156
+    },
+    {
+        "text": "There was a book for every student in Leticia's grade.",
+        "startTime": 182541,
+        "endTime": 185765,
+        "slowStartTime": 273962,
+        "slowEndTime": 278873
+    },
+    {
+        "text": "There was also a book for everyone who worked at the school.",
+        "startTime": 186863,
+        "endTime": 190009,
+        "slowStartTime": 280444,
+        "slowEndTime": 285238
+    },
+    {
+        "text": "Leticia found a creative way to celebrate the 100th day of school.",
+        "startTime": 191108,
+        "endTime": 195794,
+        "slowStartTime": 286812,
+        "slowEndTime": 293916
+    },
+    {
+        "text": "Her 100 reasons told 100 people why they were special.",
+        "startTime": 197039,
+        "endTime": 201397,
+        "slowStartTime": 295709,
+        "slowEndTime": 302321
+    }
+]

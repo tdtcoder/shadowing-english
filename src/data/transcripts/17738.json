@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Charming.",
+        "startTime": 10010,
+        "endTime": 10740,
+        "slowStartTime": 15165,
+        "slowEndTime": 16335
+    },
+    {
+        "text": "Gaming royalty comes to England.",
+        "startTime": 17075,
+        "endTime": 18613,
+        "slowStartTime": 25762,
+        "slowEndTime": 28145
+    },
+    {
+        "text": "Mario and Sonic at the London 2012 Olympic Games.",
+        "startTime": 19112,
+        "endTime": 22199,
+        "slowStartTime": 28818,
+        "slowEndTime": 33524
+    },
+    {
+        "text": "Coming soon on Nintendo 3DS.",
+        "startTime": 22751,
+        "endTime": 24718,
+        "slowStartTime": 34276,
+        "slowEndTime": 37302
+    },
+    {
+        "text": "Rated E for everyone.",
+        "startTime": 24941,
+        "endTime": 25961,
+        "slowStartTime": 37562,
+        "slowEndTime": 39166
+    },
+    {
+        "text": "Game and system sold separately.",
+        "startTime": 26052,
+        "endTime": 27347,
+        "slowStartTime": 39228,
+        "slowEndTime": 41245
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "text": "We're looking at lifting humanitarian goods.",
+        "startTime": 959,
+        "endTime": 2996,
+        "slowStartTime": 1588,
+        "slowEndTime": 4719
+    },
+    {
+        "text": "We're looking at supply chain stuff, so transporting blood tests,...",
+        "startTime": 3368,
+        "endTime": 7303,
+        "slowStartTime": 5202,
+        "slowEndTime": 11179
+    },
+    {
+        "text": "Some new development health-related activities.",
+        "startTime": 7419,
+        "endTime": 9635,
+        "slowStartTime": 11279,
+        "slowEndTime": 14678
+    },
+    {
+        "text": "We're looking at drones providing connectivity...",
+        "startTime": 9917,
+        "endTime": 12007,
+        "slowStartTime": 15025,
+        "slowEndTime": 18235
+    },
+    {
+        "text": "...so cellphone networks or wireless networks that you can deploy with a mobile flying network.",
+        "startTime": 12213,
+        "endTime": 18197,
+        "slowStartTime": 18470,
+        "slowEndTime": 27521
+    }
+]

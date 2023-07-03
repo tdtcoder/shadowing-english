@@ -1,0 +1,93 @@
+[
+    {
+        "text": "In the past, when we thought about computing,...",
+        "startTime": 720,
+        "endTime": 2550,
+        "slowStartTime": 1210,
+        "slowEndTime": 4010
+    },
+    {
+        "text": "...we thought about boxes.",
+        "startTime": 2790,
+        "endTime": 3800,
+        "slowStartTime": 4260,
+        "slowEndTime": 6060
+    },
+    {
+        "text": "On a smarter planet, computing has left the box,...",
+        "startTime": 4650,
+        "endTime": 7480,
+        "slowStartTime": 7120,
+        "slowEndTime": 11490
+    },
+    {
+        "text": "...generating 2.5 quintillion bytes of data every day.",
+        "startTime": 7980,
+        "endTime": 11260,
+        "slowStartTime": 12050,
+        "slowEndTime": 17030
+    },
+    {
+        "text": "Today, everything computes.",
+        "startTime": 11580,
+        "endTime": 13150,
+        "slowStartTime": 17410,
+        "slowEndTime": 20250
+    },
+    {
+        "text": "Which means we need to think differently about computing.",
+        "startTime": 13450,
+        "endTime": 15640,
+        "slowStartTime": 20290,
+        "slowEndTime": 23630
+    },
+    {
+        "text": "How we manage it,...",
+        "startTime": 15880,
+        "endTime": 16890,
+        "slowStartTime": 24000,
+        "slowEndTime": 25260
+    },
+    {
+        "text": "...how we deliver it,...",
+        "startTime": 17040,
+        "endTime": 17660,
+        "slowStartTime": 25650,
+        "slowEndTime": 26710
+    },
+    {
+        "text": "...how we design it to run a railroad,...",
+        "startTime": 17890,
+        "endTime": 19340,
+        "slowStartTime": 26920,
+        "slowEndTime": 29100
+    },
+    {
+        "text": "...spot a trend,...",
+        "startTime": 19460,
+        "endTime": 20380,
+        "slowStartTime": 29220,
+        "slowEndTime": 30900
+    },
+    {
+        "text": "...spot a market change and act on it.",
+        "startTime": 20630,
+        "endTime": 22520,
+        "slowStartTime": 31110,
+        "slowEndTime": 34135
+    },
+    {
+        "text": "A smarter planet is built with smarter computing.",
+        "startTime": 23000,
+        "endTime": 25390,
+        "slowStartTime": 34500,
+        "slowEndTime": 38230
+    },
+    {
+        "text": "I'm an IBMer. Let's build a smarter planet.",
+        "startTime": 25770,
+        "endTime": 28490,
+        "slowStartTime": 38870,
+        "slowEndTime": 43000
+    }
+]

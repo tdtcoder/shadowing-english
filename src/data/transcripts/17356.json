@@ -1,0 +1,114 @@
+[
+    {
+        "text": "We like to play tag.",
+        "startTime": 3308,
+        "endTime": 4965,
+        "slowStartTime": 5112,
+        "slowEndTime": 7672
+    },
+    {
+        "text": "We like to play baseball.",
+        "startTime": 6243,
+        "endTime": 8472,
+        "slowStartTime": 9514,
+        "slowEndTime": 12933
+    },
+    {
+        "text": "We like to play soccer.",
+        "startTime": 9589,
+        "endTime": 11569,
+        "slowStartTime": 14534,
+        "slowEndTime": 17579
+    },
+    {
+        "text": "We like to play dress-up.",
+        "startTime": 12875,
+        "endTime": 14604,
+        "slowStartTime": 19463,
+        "slowEndTime": 22131
+    },
+    {
+        "text": "We like to play house.",
+        "startTime": 15910,
+        "endTime": 17534,
+        "slowStartTime": 24015,
+        "slowEndTime": 26526
+    },
+    {
+        "text": "We like to play hide-and-seek.",
+        "startTime": 18607,
+        "endTime": 20747,
+        "slowStartTime": 28061,
+        "slowEndTime": 31346
+    },
+    {
+        "text": "We like to play video games.",
+        "startTime": 21931,
+        "endTime": 24065,
+        "slowStartTime": 33046,
+        "slowEndTime": 36322
+    },
+    {
+        "text": "We do not play with fire.",
+        "startTime": 25171,
+        "endTime": 27056,
+        "slowStartTime": 37906,
+        "slowEndTime": 40809
+    },
+    {
+        "text": "What do you like to do?",
+        "startTime": 30426,
+        "endTime": 32005,
+        "slowStartTime": 45789,
+        "slowEndTime": 48232
+    },
+    {
+        "text": "I like to dance.",
+        "startTime": 33457,
+        "endTime": 34999,
+        "slowStartTime": 50336,
+        "slowEndTime": 52723
+    },
+    {
+        "text": "What about you?",
+        "startTime": 35307,
+        "endTime": 36369,
+        "slowStartTime": 53111,
+        "slowEndTime": 54779
+    },
+    {
+        "text": "I like to sing a song.",
+        "startTime": 37719,
+        "endTime": 39557,
+        "slowStartTime": 56728,
+        "slowEndTime": 59561
+    },
+    {
+        "text": "What does your sister like to do?",
+        "startTime": 40676,
+        "endTime": 42833,
+        "slowStartTime": 61164,
+        "slowEndTime": 64474
+    },
+    {
+        "text": "She likes to draw pictures.",
+        "startTime": 44127,
+        "endTime": 46125,
+        "slowStartTime": 66340,
+        "slowEndTime": 69413
+    },
+    {
+        "text": "What about your brother?",
+        "startTime": 46409,
+        "endTime": 47763,
+        "slowStartTime": 69763,
+        "slowEndTime": 71870
+    },
+    {
+        "text": "He likes to ride a bike.",
+        "startTime": 49029,
+        "endTime": 50987,
+        "slowStartTime": 73694,
+        "slowEndTime": 76706
+    }
+]

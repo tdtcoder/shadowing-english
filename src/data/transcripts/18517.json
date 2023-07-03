@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Hi Mike, what are you up to?",
+        "startTime": 243,
+        "endTime": 1415,
+        "slowStartTime": 515,
+        "slowEndTime": 2347
+    },
+    {
+        "text": "Oh, just diagramming this accident with my State Farm Pocket Agent app.",
+        "startTime": 1747,
+        "endTime": 4843,
+        "slowStartTime": 2771,
+        "slowEndTime": 7489
+    },
+    {
+        "text": "You can also get a quote and pay your premium with this thing.",
+        "startTime": 5136,
+        "endTime": 7427,
+        "slowStartTime": 7854,
+        "slowEndTime": 11365
+    },
+    {
+        "text": "I thought State Farm didn't have all those apps.",
+        "startTime": 7535,
+        "endTime": 8992,
+        "slowStartTime": 11453,
+        "slowEndTime": 13713
+    },
+    {
+        "text": "Where'd you hear that?",
+        "startTime": 9079,
+        "endTime": 9759,
+        "slowStartTime": 13769,
+        "slowEndTime": 14863
+    },
+    {
+        "text": "The Internet.",
+        "startTime": 9871,
+        "endTime": 10263,
+        "slowStartTime": 14956,
+        "slowEndTime": 15620
+    },
+    {
+        "text": "And you believed it?",
+        "startTime": 10377,
+        "endTime": 11086,
+        "slowStartTime": 15715,
+        "slowEndTime": 16854
+    },
+    {
+        "text": "Yeah. They can't put anything on the Internet that isn't true.",
+        "startTime": 11275,
+        "endTime": 13356,
+        "slowStartTime": 17062,
+        "slowEndTime": 20259
+    },
+    {
+        "text": "Where'd you hear that?",
+        "startTime": 13609,
+        "endTime": 14267,
+        "slowStartTime": 20563,
+        "slowEndTime": 21625
+    },
+    {
+        "text": "The Internet.",
+        "startTime": 14883,
+        "endTime": 15425,
+        "slowStartTime": 22475,
+        "slowEndTime": 23362
+    },
+    {
+        "text": "Oh look, here comes my date.",
+        "startTime": 16435,
+        "endTime": 17835,
+        "slowStartTime": 24802,
+        "slowEndTime": 26977
+    },
+    {
+        "text": "I met him on the Internet.",
+        "startTime": 18257,
+        "endTime": 19105,
+        "slowStartTime": 27536,
+        "slowEndTime": 28883
+    },
+    {
+        "text": "He's a French model.",
+        "startTime": 19456,
+        "endTime": 20264,
+        "slowStartTime": 29334,
+        "slowEndTime": 30621
+    },
+    {
+        "text": "Bonjour!",
+        "startTime": 22306,
+        "endTime": 23123,
+        "slowStartTime": 33609,
+        "slowEndTime": 34909
+    },
+    {
+        "text": "State Farm: more mobile than ever.",
+        "startTime": 25521,
+        "endTime": 27365,
+        "slowStartTime": 38431,
+        "slowEndTime": 41273
+    },
+    {
+        "text": "Get to a better state.",
+        "startTime": 27834,
+        "endTime": 28966,
+        "slowStartTime": 41901,
+        "slowEndTime": 43674
+    }
+]

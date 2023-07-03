@@ -1,0 +1,156 @@
+[
+    {
+        "text": "Lear, the aging king of Britain, decided to divide his kingdom evenly between his three daughters.",
+        "startTime": 1905,
+        "endTime": 9563,
+        "slowStartTime": 3008,
+        "slowEndTime": 14570
+    },
+    {
+        "text": "First, however, he put his daughters through a test.",
+        "startTime": 10425,
+        "endTime": 13844,
+        "slowStartTime": 15787,
+        "slowEndTime": 20991
+    },
+    {
+        "text": "He asked each to tell him how much she loves him.",
+        "startTime": 14707,
+        "endTime": 18035,
+        "slowStartTime": 22210,
+        "slowEndTime": 27277
+    },
+    {
+        "text": "Goneril and Regan, his older daughters, gave him flattering but meaningless answers.",
+        "startTime": 18982,
+        "endTime": 25499,
+        "slowStartTime": 28623,
+        "slowEndTime": 38474
+    },
+    {
+        "text": "Cordelia, the youngest and his favorite,...",
+        "startTime": 26575,
+        "endTime": 29631,
+        "slowStartTime": 40012,
+        "slowEndTime": 44671
+    },
+    {
+        "text": "...said she had no words to describe how much she loves him.",
+        "startTime": 30187,
+        "endTime": 34315,
+        "slowStartTime": 45430,
+        "slowEndTime": 51697
+    },
+    {
+        "text": "Lear was very angry and disowned her.",
+        "startTime": 35411,
+        "endTime": 38494,
+        "slowStartTime": 53267,
+        "slowEndTime": 57966
+    },
+    {
+        "text": "So Cordelia went to France together with the king of France,...",
+        "startTime": 39395,
+        "endTime": 43509,
+        "slowStartTime": 59242,
+        "slowEndTime": 65489
+    },
+    {
+        "text": "...who wanted to marry her even without her land.",
+        "startTime": 44003,
+        "endTime": 47323,
+        "slowStartTime": 66154,
+        "slowEndTime": 71210
+    },
+    {
+        "text": "Lear quickly learned that he had made a bad decision.",
+        "startTime": 50037,
+        "endTime": 53830,
+        "slowStartTime": 75205,
+        "slowEndTime": 80970
+    },
+    {
+        "text": "His older daughters had betrayed him.",
+        "startTime": 54749,
+        "endTime": 56911,
+        "slowStartTime": 82274,
+        "slowEndTime": 85591
+    },
+    {
+        "text": "Lear went insane and fled to wander on a heath.",
+        "startTime": 57731,
+        "endTime": 61815,
+        "slowStartTime": 86747,
+        "slowEndTime": 92947
+    },
+    {
+        "text": "An elderly nobleman named Gloucester was also having family problems.",
+        "startTime": 62901,
+        "endTime": 68324,
+        "slowStartTime": 94501,
+        "slowEndTime": 102711
+    },
+    {
+        "text": "He too headed out on the heath and met King Lear.",
+        "startTime": 69074,
+        "endTime": 72982,
+        "slowStartTime": 103761,
+        "slowEndTime": 109698
+    },
+    {
+        "text": "He decided to help Lear in spite of the danger.",
+        "startTime": 73761,
+        "endTime": 77093,
+        "slowStartTime": 110792,
+        "slowEndTime": 115864
+    },
+    {
+        "text": "But Gloucester was captured, blinded and sent away.",
+        "startTime": 77888,
+        "endTime": 81977,
+        "slowStartTime": 116982,
+        "slowEndTime": 123190
+    },
+    {
+        "text": "His son Edgar, in disguise, led Gloucester to Dover, where Lear had also gone.",
+        "startTime": 83008,
+        "endTime": 89427,
+        "slowStartTime": 124662,
+        "slowEndTime": 134365
+    },
+    {
+        "text": "Cordelia, who had married the French king,...",
+        "startTime": 90429,
+        "endTime": 93223,
+        "slowStartTime": 135794,
+        "slowEndTime": 140059
+    },
+    {
+        "text": "...led the French army to Dover in an effort to save her father.",
+        "startTime": 93704,
+        "endTime": 97961,
+        "slowStartTime": 140706,
+        "slowEndTime": 147167
+    },
+    {
+        "text": "Edmond, Gloucester's illegitimate son, led the English army against Cordelia.",
+        "startTime": 98979,
+        "endTime": 105242,
+        "slowStartTime": 148619,
+        "slowEndTime": 158088
+    },
+    {
+        "text": "Lear and Cordelia were captured.",
+        "startTime": 106167,
+        "endTime": 108401,
+        "slowStartTime": 159401,
+        "slowEndTime": 162827
+    },
+    {
+        "text": "Cordelia was executed in prison and Lear died of grief over her death.",
+        "startTime": 109402,
+        "endTime": 115236,
+        "slowStartTime": 164253,
+        "slowEndTime": 173079
+    }
+]

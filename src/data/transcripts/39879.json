@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Hi, friends!",
+        "startTime": 223,
+        "endTime": 871,
+        "slowStartTime": 485,
+        "slowEndTime": 1532
+    },
+    {
+        "text": "How are you?",
+        "startTime": 1089,
+        "endTime": 1659,
+        "slowStartTime": 1783,
+        "slowEndTime": 2713
+    },
+    {
+        "text": "Today, we are going to learn the days of the week.",
+        "startTime": 2731,
+        "endTime": 4807,
+        "slowStartTime": 4246,
+        "slowEndTime": 7436
+    },
+    {
+        "text": "Monday.",
+        "startTime": 5773,
+        "endTime": 6397,
+        "slowStartTime": 8810,
+        "slowEndTime": 9820
+    },
+    {
+        "text": "Tuesday.",
+        "startTime": 7959,
+        "endTime": 8718,
+        "slowStartTime": 12088,
+        "slowEndTime": 13302
+    },
+    {
+        "text": "Wednesday.",
+        "startTime": 9217,
+        "endTime": 10017,
+        "slowStartTime": 13976,
+        "slowEndTime": 15251
+    },
+    {
+        "text": "Thursday.",
+        "startTime": 11168,
+        "endTime": 11909,
+        "slowStartTime": 16902,
+        "slowEndTime": 18089
+    },
+    {
+        "text": "Friday.",
+        "startTime": 12953,
+        "endTime": 13464,
+        "slowStartTime": 19579,
+        "slowEndTime": 20421
+    },
+    {
+        "text": "Saturday and Sunday.",
+        "startTime": 15161,
+        "endTime": 16501,
+        "slowStartTime": 22892,
+        "slowEndTime": 24976
+    },
+    {
+        "text": "And then, the week starts again.",
+        "startTime": 17575,
+        "endTime": 19215,
+        "slowStartTime": 26512,
+        "slowEndTime": 29048
+    },
+    {
+        "text": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday.",
+        "startTime": 19782,
+        "endTime": 24155,
+        "slowStartTime": 29823,
+        "slowEndTime": 36458
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "text": "Is this room yours?",
+        "startTime": 2929,
+        "endTime": 4500,
+        "slowStartTime": 4543,
+        "slowEndTime": 6975
+    },
+    {
+        "text": "Yes, it's mine.",
+        "startTime": 5677,
+        "endTime": 7322,
+        "slowStartTime": 8665,
+        "slowEndTime": 11208
+    },
+    {
+        "text": "Your room is very clean and tidy.",
+        "startTime": 8623,
+        "endTime": 11395,
+        "slowStartTime": 13084,
+        "slowEndTime": 17317
+    },
+    {
+        "text": "I have to clean my room every day.",
+        "startTime": 12621,
+        "endTime": 15476,
+        "slowStartTime": 19081,
+        "slowEndTime": 23439
+    },
+    {
+        "text": "Frank, are these books yours?",
+        "startTime": 17880,
+        "endTime": 20081,
+        "slowStartTime": 26970,
+        "slowEndTime": 30347
+    },
+    {
+        "text": "You should put your books away after reading them.",
+        "startTime": 20517,
+        "endTime": 23702,
+        "slowStartTime": 30925,
+        "slowEndTime": 35778
+    },
+    {
+        "text": "No, they are not mine.",
+        "startTime": 24992,
+        "endTime": 26853,
+        "slowStartTime": 37638,
+        "slowEndTime": 40504
+    },
+    {
+        "text": "They are Helen's.",
+        "startTime": 27334,
+        "endTime": 28579,
+        "slowStartTime": 41151,
+        "slowEndTime": 43093
+    },
+    {
+        "text": "Oh, sorry.",
+        "startTime": 29937,
+        "endTime": 31014,
+        "slowStartTime": 45055,
+        "slowEndTime": 46746
+    },
+    {
+        "text": "Tell her to put them away.",
+        "startTime": 31536,
+        "endTime": 33265,
+        "slowStartTime": 47454,
+        "slowEndTime": 50123
+    },
+    {
+        "text": "Let's have a contest, let's have a contest.",
+        "startTime": 39481,
+        "endTime": 42791,
+        "slowStartTime": 59372,
+        "slowEndTime": 64412
+    },
+    {
+        "text": "Good, good, good, that's a good idea!",
+        "startTime": 43254,
+        "endTime": 46007,
+        "slowStartTime": 65031,
+        "slowEndTime": 69235
+    },
+    {
+        "text": "One, two, three, four, my seed went four steps away.",
+        "startTime": 46993,
+        "endTime": 52089,
+        "slowStartTime": 70640,
+        "slowEndTime": 78359
+    },
+    {
+        "text": "One, two, three, your seed went three steps away.",
+        "startTime": 54457,
+        "endTime": 59560,
+        "slowStartTime": 81836,
+        "slowEndTime": 89565
+    },
+    {
+        "text": "My seed sent one step farther than yours.",
+        "startTime": 61965,
+        "endTime": 66331,
+        "slowStartTime": 93097,
+        "slowEndTime": 99721
+    },
+    {
+        "text": "One, two, three, four, five, six, my seed went six steps away.",
+        "startTime": 69479,
+        "endTime": 76388,
+        "slowStartTime": 104369,
+        "slowEndTime": 114807
+    },
+    {
+        "text": "One, two, three, four, five, six, seven, yours went seven steps away.",
+        "startTime": 76995,
+        "endTime": 83884,
+        "slowStartTime": 115643,
+        "slowEndTime": 126051
+    },
+    {
+        "text": "We both won.",
+        "startTime": 84498,
+        "endTime": 85804,
+        "slowStartTime": 126897,
+        "slowEndTime": 128931
+    },
+    {
+        "text": "Now we have to break the tie.",
+        "startTime": 86215,
+        "endTime": 89586,
+        "slowStartTime": 129473,
+        "slowEndTime": 134604
+    }
+]

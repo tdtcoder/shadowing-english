@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Good afternoon! JP&B Associates. How can I help you?",
+        "startTime": 2100,
+        "endTime": 6100,
+        "slowStartTime": 3250,
+        "slowEndTime": 9120
+    },
+    {
+        "text": "I'd like to speak with Larry Smith, please.",
+        "startTime": 6500,
+        "endTime": 8940,
+        "slowStartTime": 9815,
+        "slowEndTime": 13410
+    },
+    {
+        "text": "Please hold while I put your call through.",
+        "startTime": 9470,
+        "endTime": 11670,
+        "slowStartTime": 14270,
+        "slowEndTime": 17465
+    },
+    {
+        "text": "I'm sorry. I'm afraid Mr. Smith is out of the office at the moment.",
+        "startTime": 13110,
+        "endTime": 17010,
+        "slowStartTime": 19810,
+        "slowEndTime": 25475
+    },
+    {
+        "text": "Would you like to leave a message?",
+        "startTime": 17350,
+        "endTime": 18880,
+        "slowStartTime": 26110,
+        "slowEndTime": 28365
+    },
+    {
+        "text": "I wanted to check to make sure he remembered our meeting tomorrow.",
+        "startTime": 19220,
+        "endTime": 22960,
+        "slowStartTime": 28895,
+        "slowEndTime": 34455
+    },
+    {
+        "text": "If you leave your name and number, I'll ask him to call you back when he gets in.",
+        "startTime": 23390,
+        "endTime": 28060,
+        "slowStartTime": 35180,
+        "slowEndTime": 42035
+    },
+    {
+        "text": "Certainly. My name is Linda Strait.",
+        "startTime": 28330,
+        "endTime": 31190,
+        "slowStartTime": 42550,
+        "slowEndTime": 46760
+    }
+]

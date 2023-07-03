@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Hello!",
+        "startTime": 304,
+        "endTime": 908,
+        "slowStartTime": 606,
+        "slowEndTime": 1587
+    },
+    {
+        "text": "Hi!",
+        "startTime": 1198,
+        "endTime": 1545,
+        "slowStartTime": 1947,
+        "slowEndTime": 2542
+    },
+    {
+        "text": "What is your name?",
+        "startTime": 2369,
+        "endTime": 3635,
+        "slowStartTime": 3703,
+        "slowEndTime": 5677
+    },
+    {
+        "text": "My name is Elizabeth.",
+        "startTime": 3980,
+        "endTime": 4937,
+        "slowStartTime": 6120,
+        "slowEndTime": 7631
+    },
+    {
+        "text": "What is your name?",
+        "startTime": 5187,
+        "endTime": 5891,
+        "slowStartTime": 7930,
+        "slowEndTime": 9062
+    },
+    {
+        "text": "My name is Tom.",
+        "startTime": 6195,
+        "endTime": 7194,
+        "slowStartTime": 9443,
+        "slowEndTime": 11016
+    },
+    {
+        "text": "Where are you from?",
+        "startTime": 7891,
+        "endTime": 8902,
+        "slowStartTime": 11986,
+        "slowEndTime": 13578
+    },
+    {
+        "text": "I am from Canada.",
+        "startTime": 9462,
+        "endTime": 10358,
+        "slowStartTime": 14343,
+        "slowEndTime": 15762
+    },
+    {
+        "text": "Where are you from?",
+        "startTime": 10518,
+        "endTime": 11395,
+        "slowStartTime": 15927,
+        "slowEndTime": 17317
+    },
+    {
+        "text": "I am from the United States.",
+        "startTime": 11690,
+        "endTime": 13572,
+        "slowStartTime": 17685,
+        "slowEndTime": 20583
+    },
+    {
+        "text": "It is nice to meet you.",
+        "startTime": 13950,
+        "endTime": 15099,
+        "slowStartTime": 21075,
+        "slowEndTime": 22873
+    },
+    {
+        "text": "It is nice to meet you, too!",
+        "startTime": 15491,
+        "endTime": 17154,
+        "slowStartTime": 23387,
+        "slowEndTime": 25956
+    }
+]

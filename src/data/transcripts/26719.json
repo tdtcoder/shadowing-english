@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Hello Bobby! What's wrong?",
+        "startTime": 1880,
+        "endTime": 4646,
+        "slowStartTime": 2970,
+        "slowEndTime": 7194
+    },
+    {
+        "text": "Are your tires flat?",
+        "startTime": 7067,
+        "endTime": 8627,
+        "slowStartTime": 10751,
+        "slowEndTime": 13166
+    },
+    {
+        "text": "Are your windows broken?",
+        "startTime": 11856,
+        "endTime": 13725,
+        "slowStartTime": 17934,
+        "slowEndTime": 20813
+    },
+    {
+        "text": "Have your lights stopped working?",
+        "startTime": 16782,
+        "endTime": 19333,
+        "slowStartTime": 25323,
+        "slowEndTime": 29224
+    },
+    {
+        "text": "What do you think is wrong with Bobby?",
+        "startTime": 22246,
+        "endTime": 24549,
+        "slowStartTime": 33519,
+        "slowEndTime": 37049
+    },
+    {
+        "text": "It sounds like your fuel tank is nearly empty.",
+        "startTime": 27139,
+        "endTime": 30433,
+        "slowStartTime": 40859,
+        "slowEndTime": 45875
+    },
+    {
+        "text": "Shall we give you a top-up?",
+        "startTime": 30919,
+        "endTime": 32262,
+        "slowStartTime": 46528,
+        "slowEndTime": 48618
+    },
+    {
+        "text": "Fill, fill, fill, let's fill up your tank.",
+        "startTime": 34417,
+        "endTime": 37586,
+        "slowStartTime": 51776,
+        "slowEndTime": 56604
+    },
+    {
+        "text": "For all of this fuel, I'm sure you'll thank.",
+        "startTime": 37974,
+        "endTime": 41144,
+        "slowStartTime": 57111,
+        "slowEndTime": 61941
+    },
+    {
+        "text": "Let's fix that light that was so dim.",
+        "startTime": 41640,
+        "endTime": 44190,
+        "slowStartTime": 62610,
+        "slowEndTime": 66510
+    },
+    {
+        "text": "Full, full, full, full to the brim!",
+        "startTime": 44726,
+        "endTime": 47819,
+        "slowStartTime": 67239,
+        "slowEndTime": 71953
+    },
+    {
+        "text": "There! All filled up and ready to go.",
+        "startTime": 49519,
+        "endTime": 52889,
+        "slowStartTime": 74429,
+        "slowEndTime": 79559
+    },
+    {
+        "text": "Bye-bye Bobby! See you again soon!",
+        "startTime": 54907,
+        "endTime": 57825,
+        "slowStartTime": 82510,
+        "slowEndTime": 86963
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Use \"might\" after a subject or \"maybe\" at the start of a sentence to express possibility.",
+        "startTime": 266,
+        "endTime": 7169,
+        "slowStartTime": 549,
+        "slowEndTime": 10978
+    },
+    {
+        "text": "This weekend, I might go clubbing...",
+        "startTime": 13406,
+        "endTime": 16195,
+        "slowStartTime": 20259,
+        "slowEndTime": 24517
+    },
+    {
+        "text": "...or I might just stay in and read a good book.",
+        "startTime": 19919,
+        "endTime": 23234,
+        "slowStartTime": 30028,
+        "slowEndTime": 35076
+    },
+    {
+        "text": "Maybe I'll go cycling with my best friend.",
+        "startTime": 27111,
+        "endTime": 29790,
+        "slowStartTime": 40816,
+        "slowEndTime": 44910
+    },
+    {
+        "text": "It might rain, so maybe we won't go biking.",
+        "startTime": 33622,
+        "endTime": 37076,
+        "slowStartTime": 50583,
+        "slowEndTime": 55839
+    },
+    {
+        "text": "I might go for a drive with friends.",
+        "startTime": 40980,
+        "endTime": 43300,
+        "slowStartTime": 61620,
+        "slowEndTime": 65175
+    },
+    {
+        "text": "I might hang out with friends at Starbucks...",
+        "startTime": 47149,
+        "endTime": 49929,
+        "slowStartTime": 70873,
+        "slowEndTime": 75119
+    },
+    {
+        "text": "...or I might go alone to the new art gallery.",
+        "startTime": 53703,
+        "endTime": 56938,
+        "slowStartTime": 80704,
+        "slowEndTime": 85632
+    },
+    {
+        "text": "Maybe I'll just stay in and talk with friends.",
+        "startTime": 60588,
+        "endTime": 63614,
+        "slowStartTime": 91032,
+        "slowEndTime": 95646
+    },
+    {
+        "text": "What might you do this weekend?",
+        "startTime": 67441,
+        "endTime": 69571,
+        "slowStartTime": 101312,
+        "slowEndTime": 104582
+    }
+]

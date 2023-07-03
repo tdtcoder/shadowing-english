@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Every year it's the same.",
+        "startTime": 1143,
+        "endTime": 2897,
+        "slowStartTime": 1864,
+        "slowEndTime": 4571
+    },
+    {
+        "text": "I want to go somewhere hot.",
+        "startTime": 3021,
+        "endTime": 4380,
+        "slowStartTime": 4682,
+        "slowEndTime": 6795
+    },
+    {
+        "text": "He wants to go somewhere there's culture.",
+        "startTime": 4603,
+        "endTime": 6559,
+        "slowStartTime": 7054,
+        "slowEndTime": 10063
+    },
+    {
+        "text": "You know my skin can't take the sun.",
+        "startTime": 6720,
+        "endTime": 8153,
+        "slowStartTime": 10230,
+        "slowEndTime": 12454
+    },
+    {
+        "text": "Is there culture here?",
+        "startTime": 8351,
+        "endTime": 10315,
+        "slowStartTime": 12676,
+        "slowEndTime": 15698
+    },
+    {
+        "text": "Well, there's yoghurt.",
+        "startTime": 10549,
+        "endTime": 11799,
+        "slowStartTime": 15974,
+        "slowEndTime": 17923
+    },
+    {
+        "text": "Mine's the same.",
+        "startTime": 12232,
+        "endTime": 13323,
+        "slowStartTime": 18498,
+        "slowEndTime": 20209
+    },
+    {
+        "text": "He won't even go on the window sill.",
+        "startTime": 13589,
+        "endTime": 14948,
+        "slowStartTime": 20534,
+        "slowEndTime": 22647
+    },
+    {
+        "text": "I want to peel off in the sun but he says he's too hairy.",
+        "startTime": 15243,
+        "endTime": 18445,
+        "slowStartTime": 23015,
+        "slowEndTime": 27893
+    },
+    {
+        "text": "Definitely.",
+        "startTime": 18887,
+        "endTime": 19383,
+        "slowStartTime": 28480,
+        "slowEndTime": 29300
+    },
+    {
+        "text": "We should probably go on our own holiday.",
+        "startTime": 19693,
+        "endTime": 21677,
+        "slowStartTime": 29690,
+        "slowEndTime": 32740
+    },
+    {
+        "text": "That's fine by me.",
+        "startTime": 22051,
+        "endTime": 23095,
+        "slowStartTime": 33226,
+        "slowEndTime": 34868
+    },
+    {
+        "text": "And me as well.",
+        "startTime": 23233,
+        "endTime": 24051,
+        "slowStartTime": 35000,
+        "slowEndTime": 36301
+    }
+]

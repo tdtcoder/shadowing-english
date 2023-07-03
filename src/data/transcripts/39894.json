@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Hello.",
+        "startTime": 423,
+        "endTime": 761,
+        "slowStartTime": 784,
+        "slowEndTime": 1367
+    },
+    {
+        "text": "May I help you?",
+        "startTime": 865,
+        "endTime": 1589,
+        "slowStartTime": 1448,
+        "slowEndTime": 2609
+    },
+    {
+        "text": "Yes.",
+        "startTime": 3688,
+        "endTime": 4232,
+        "slowStartTime": 5682,
+        "slowEndTime": 6573
+    },
+    {
+        "text": "Can you please give me ten black pens?",
+        "startTime": 4419,
+        "endTime": 6589,
+        "slowStartTime": 6778,
+        "slowEndTime": 10109
+    },
+    {
+        "text": "All right.",
+        "startTime": 8151,
+        "endTime": 8825,
+        "slowStartTime": 12377,
+        "slowEndTime": 13462
+    },
+    {
+        "text": "Anything else?",
+        "startTime": 9069,
+        "endTime": 9803,
+        "slowStartTime": 13753,
+        "slowEndTime": 14930
+    },
+    {
+        "text": "Give me two pink and one green notebooks, too, please.",
+        "startTime": 11245,
+        "endTime": 14705,
+        "slowStartTime": 17017,
+        "slowEndTime": 22282
+    },
+    {
+        "text": "Okay. Please wait here.",
+        "startTime": 16011,
+        "endTime": 17817,
+        "slowStartTime": 24166,
+        "slowEndTime": 26950
+    },
+    {
+        "text": "Good afternoon!",
+        "startTime": 21266,
+        "endTime": 21927,
+        "slowStartTime": 32049,
+        "slowEndTime": 33116
+    },
+    {
+        "text": "May I help you?",
+        "startTime": 22056,
+        "endTime": 22863,
+        "slowStartTime": 33234,
+        "slowEndTime": 34519
+    },
+    {
+        "text": "Yes.",
+        "startTime": 25372,
+        "endTime": 25987,
+        "slowStartTime": 38208,
+        "slowEndTime": 39206
+    },
+    {
+        "text": "Please give me one black shirt.",
+        "startTime": 26517,
+        "endTime": 28120,
+        "slowStartTime": 39925,
+        "slowEndTime": 42405
+    },
+    {
+        "text": "Okay.",
+        "startTime": 29246,
+        "endTime": 29681,
+        "slowStartTime": 44019,
+        "slowEndTime": 44746
+    },
+    {
+        "text": "Do you want to buy anything else?",
+        "startTime": 29807,
+        "endTime": 31423,
+        "slowStartTime": 44861,
+        "slowEndTime": 47360
+    },
+    {
+        "text": "Yes.",
+        "startTime": 33040,
+        "endTime": 33473,
+        "slowStartTime": 49710,
+        "slowEndTime": 50434
+    },
+    {
+        "text": "I want to buy this pair of shorts, too, please.",
+        "startTime": 33595,
+        "endTime": 36423,
+        "slowStartTime": 50543,
+        "slowEndTime": 54860
+    },
+    {
+        "text": "All right.",
+        "startTime": 38268,
+        "endTime": 38736,
+        "slowStartTime": 57552,
+        "slowEndTime": 58329
+    }
+]

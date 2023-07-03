@@ -1,0 +1,79 @@
+[
+    {
+        "text": "It is Monday.",
+        "startTime": 3777,
+        "endTime": 4919,
+        "slowStartTime": 5816,
+        "slowEndTime": 7603
+    },
+    {
+        "text": "It is February 11th.",
+        "startTime": 6538,
+        "endTime": 8102,
+        "slowStartTime": 9957,
+        "slowEndTime": 12378
+    },
+    {
+        "text": "It's my birthday.",
+        "startTime": 9543,
+        "endTime": 10773,
+        "slowStartTime": 14464,
+        "slowEndTime": 16384
+    },
+    {
+        "text": "What day is it?",
+        "startTime": 15856,
+        "endTime": 16985,
+        "slowStartTime": 23934,
+        "slowEndTime": 25703
+    },
+    {
+        "text": "It's Sunday.",
+        "startTime": 17561,
+        "endTime": 18356,
+        "slowStartTime": 26491,
+        "slowEndTime": 27759
+    },
+    {
+        "text": "What month is it?",
+        "startTime": 19809,
+        "endTime": 21086,
+        "slowStartTime": 29863,
+        "slowEndTime": 31854
+    },
+    {
+        "text": "It's November.",
+        "startTime": 21712,
+        "endTime": 22479,
+        "slowStartTime": 32718,
+        "slowEndTime": 33944
+    },
+    {
+        "text": "What date is it?",
+        "startTime": 23998,
+        "endTime": 25200,
+        "slowStartTime": 36147,
+        "slowEndTime": 38025
+    },
+    {
+        "text": "It is October 3rd.",
+        "startTime": 26089,
+        "endTime": 27509,
+        "slowStartTime": 39284,
+        "slowEndTime": 41489
+    },
+    {
+        "text": "What season is it?",
+        "startTime": 29037,
+        "endTime": 30170,
+        "slowStartTime": 43705,
+        "slowEndTime": 45480
+    },
+    {
+        "text": "It is winter.",
+        "startTime": 30965,
+        "endTime": 31879,
+        "slowStartTime": 46598,
+        "slowEndTime": 48044
+    }
+]

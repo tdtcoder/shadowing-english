@@ -1,0 +1,79 @@
+[
+    {
+        "text": "We are in Transylvania, in the frost-covered mountains of Romania,...",
+        "startTime": 2915,
+        "endTime": 7391,
+        "slowStartTime": 4523,
+        "slowEndTime": 11312
+    },
+    {
+        "text": "...the impaled heart of vampire country,...",
+        "startTime": 8097,
+        "endTime": 10545,
+        "slowStartTime": 12296,
+        "slowEndTime": 16043
+    },
+    {
+        "text": "...to find the region's most famous resident, the myth, the legend,...",
+        "startTime": 10945,
+        "endTime": 15068,
+        "slowStartTime": 16567,
+        "slowEndTime": 22827
+    },
+    {
+        "text": "I am Dracula.",
+        "startTime": 15237,
+        "endTime": 17266,
+        "slowStartTime": 23006,
+        "slowEndTime": 26124
+    },
+    {
+        "text": "...Count Dracula.",
+        "startTime": 17798,
+        "endTime": 18493,
+        "slowStartTime": 26847,
+        "slowEndTime": 27964
+    },
+    {
+        "text": "You are now inside the most popular and famous tourist attraction in Romania,...",
+        "startTime": 23851,
+        "endTime": 27792,
+        "slowStartTime": 35927,
+        "slowEndTime": 41913
+    },
+    {
+        "text": "...Bran Castle, better known in the whole world as Dracula castle.",
+        "startTime": 28448,
+        "endTime": 31907,
+        "slowStartTime": 42822,
+        "slowEndTime": 48086
+    },
+    {
+        "text": "Count Dracula, as we know him, is loosely based on a legend of Vlad Dracula...",
+        "startTime": 32155,
+        "endTime": 37345,
+        "slowStartTime": 48382,
+        "slowEndTime": 56242
+    },
+    {
+        "text": "...better known as \"Vlad the Impaler,\"...",
+        "startTime": 37583,
+        "endTime": 39413,
+        "slowStartTime": 56525,
+        "slowEndTime": 59344
+    },
+    {
+        "text": "...the notorious ruler of this region in the 1400s...",
+        "startTime": 39502,
+        "endTime": 42749,
+        "slowStartTime": 59403,
+        "slowEndTime": 64349
+    },
+    {
+        "text": "...known for his violent and tortuous methods of suppressing dissidents.",
+        "startTime": 43112,
+        "endTime": 46911,
+        "slowStartTime": 64818,
+        "slowEndTime": 70592
+    }
+]

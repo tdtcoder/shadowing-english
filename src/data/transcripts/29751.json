@@ -1,0 +1,44 @@
+[
+    {
+        "text": "﻿My wife is dead.",
+        "startTime": 1120,
+        "endTime": 2339,
+        "slowStartTime": 1830,
+        "slowEndTime": 3733
+    },
+    {
+        "text": "My name, disgraced.",
+        "startTime": 3727,
+        "endTime": 5254,
+        "slowStartTime": 5740,
+        "slowEndTime": 8106
+    },
+    {
+        "text": "My friends and family, tortured and hanged.",
+        "startTime": 6189,
+        "endTime": 9703,
+        "slowStartTime": 9433,
+        "slowEndTime": 14780
+    },
+    {
+        "text": "We must strike at the root.",
+        "startTime": 10287,
+        "endTime": 12213,
+        "slowStartTime": 15580,
+        "slowEndTime": 18545
+    },
+    {
+        "text": "Fawkes will light the fuse.",
+        "startTime": 13214,
+        "endTime": 15231,
+        "slowStartTime": 19971,
+        "slowEndTime": 23071
+    },
+    {
+        "text": "And I, Robert Catesby, will blow the king and all his men to hell.",
+        "startTime": 17300,
+        "endTime": 24470,
+        "slowStartTime": 26100,
+        "slowEndTime": 36930
+    }
+]

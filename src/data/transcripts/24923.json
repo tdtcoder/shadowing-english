@@ -1,0 +1,86 @@
+[
+    {
+        "text": "How old are you?",
+        "startTime": 2174,
+        "endTime": 3399,
+        "slowStartTime": 3411,
+        "slowEndTime": 5323
+    },
+    {
+        "text": "He is ten years old.",
+        "startTime": 8788,
+        "endTime": 10438,
+        "slowStartTime": 13332,
+        "slowEndTime": 15882
+    },
+    {
+        "text": "Justin Bieber is twenty.",
+        "startTime": 14753,
+        "endTime": 16631,
+        "slowStartTime": 22279,
+        "slowEndTime": 25172
+    },
+    {
+        "text": "She is thirty years old.",
+        "startTime": 24730,
+        "endTime": 26860,
+        "slowStartTime": 37245,
+        "slowEndTime": 40515
+    },
+    {
+        "text": "Brad Pitt is forty.",
+        "startTime": 33981,
+        "endTime": 35785,
+        "slowStartTime": 51122,
+        "slowEndTime": 53903
+    },
+    {
+        "text": "The President is fifty-three years old.",
+        "startTime": 43051,
+        "endTime": 45792,
+        "slowStartTime": 64727,
+        "slowEndTime": 68913
+    },
+    {
+        "text": "Bill Gates is sixty.",
+        "startTime": 53799,
+        "endTime": 55555,
+        "slowStartTime": 80849,
+        "slowEndTime": 83557
+    },
+    {
+        "text": "They are seventy years old.",
+        "startTime": 65697,
+        "endTime": 67627,
+        "slowStartTime": 98695,
+        "slowEndTime": 101665
+    },
+    {
+        "text": "He is eighty years old.",
+        "startTime": 78206,
+        "endTime": 79859,
+        "slowStartTime": 117459,
+        "slowEndTime": 120014
+    },
+    {
+        "text": "They are ninety.",
+        "startTime": 88968,
+        "endTime": 90613,
+        "slowStartTime": 133602,
+        "slowEndTime": 136144
+    },
+    {
+        "text": "They are one hundred years old.",
+        "startTime": 100818,
+        "endTime": 103249,
+        "slowStartTime": 151377,
+        "slowEndTime": 155099
+    },
+    {
+        "text": "How old are you?",
+        "startTime": 110687,
+        "endTime": 111745,
+        "slowStartTime": 166181,
+        "slowEndTime": 167843
+    }
+]

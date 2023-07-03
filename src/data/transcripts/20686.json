@@ -1,0 +1,86 @@
+[
+    {
+        "text": "And this will be your premium right here.",
+        "startTime": 581,
+        "endTime": 2093,
+        "slowStartTime": 1022,
+        "slowEndTime": 3364
+    },
+    {
+        "text": "Sorry to interrupt.",
+        "startTime": 2269,
+        "endTime": 2931,
+        "slowStartTime": 3554,
+        "slowEndTime": 4621
+    },
+    {
+        "text": "I just want to say, I combined home and auto with State Farm.",
+        "startTime": 3021,
+        "endTime": 5279,
+        "slowStartTime": 4682,
+        "slowEndTime": 8143
+    },
+    {
+        "text": "Saved $760.",
+        "startTime": 5359,
+        "endTime": 6904,
+        "slowStartTime": 8189,
+        "slowEndTime": 10581
+    },
+    {
+        "text": "I love this guy.",
+        "startTime": 7589,
+        "endTime": 8241,
+        "slowStartTime": 11534,
+        "slowEndTime": 12587
+    },
+    {
+        "text": "Okay, does it bother anybody else that the mime is talking?",
+        "startTime": 11934,
+        "endTime": 16353,
+        "slowStartTime": 18051,
+        "slowEndTime": 24755
+    },
+    {
+        "text": "Freaky!",
+        "startTime": 17079,
+        "endTime": 18227,
+        "slowStartTime": 25768,
+        "slowEndTime": 27565
+    },
+    {
+        "text": "Bundle home and auto and you can save $760.",
+        "startTime": 18894,
+        "endTime": 21949,
+        "slowStartTime": 28491,
+        "slowEndTime": 33149
+    },
+    {
+        "text": "All right momma, let's get going.",
+        "startTime": 22101,
+        "endTime": 23766,
+        "slowStartTime": 33301,
+        "slowEndTime": 35874
+    },
+    {
+        "text": "Nap time is calling my name.",
+        "startTime": 24783,
+        "endTime": 26454,
+        "slowStartTime": 37325,
+        "slowEndTime": 39906
+    },
+    {
+        "text": "Get to a better state.",
+        "startTime": 26940,
+        "endTime": 28208,
+        "slowStartTime": 40560,
+        "slowEndTime": 42537
+    },
+    {
+        "text": "State Farm.",
+        "startTime": 28405,
+        "endTime": 29151,
+        "slowStartTime": 42757,
+        "slowEndTime": 43952
+    }
+]

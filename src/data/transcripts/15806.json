@@ -1,0 +1,44 @@
+[
+    {
+        "text": "For over 200 years after the original feast at Plymouth,...",
+        "startTime": 1665,
+        "endTime": 5339,
+        "slowStartTime": 2647,
+        "slowEndTime": 8233
+    },
+    {
+        "text": "...there was no official Thanksgiving Day.",
+        "startTime": 5605,
+        "endTime": 7983,
+        "slowStartTime": 8558,
+        "slowEndTime": 12199
+    },
+    {
+        "text": "For that we need to give thanks to Sarah Josepha Hale,...",
+        "startTime": 8606,
+        "endTime": 12079,
+        "slowStartTime": 13059,
+        "slowEndTime": 18343
+    },
+    {
+        "text": "...a magazine editor in the 1800s who had spent 40 years campaigning for a national day of giving thanks.",
+        "startTime": 13229,
+        "endTime": 20297,
+        "slowStartTime": 19994,
+        "slowEndTime": 30670
+    },
+    {
+        "text": "Her persistent efforts paid off.",
+        "startTime": 21659,
+        "endTime": 23514,
+        "slowStartTime": 32639,
+        "slowEndTime": 35496
+    },
+    {
+        "text": "Finally, in 1863, President Lincoln declared Thanksgiving a national day to give thanks.",
+        "startTime": 23767,
+        "endTime": 30226,
+        "slowStartTime": 35801,
+        "slowEndTime": 45564
+    }
+]

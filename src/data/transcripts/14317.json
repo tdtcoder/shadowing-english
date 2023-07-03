@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Hello! Today I'm going to show you how I make my homemade ketchup...",
+        "startTime": 547,
+        "endTime": 5928,
+        "slowStartTime": 970,
+        "slowEndTime": 9117
+    },
+    {
+        "text": "...with one container of tomato sauce...",
+        "startTime": 7012,
+        "endTime": 9700,
+        "slowStartTime": 10668,
+        "slowEndTime": 14775
+    },
+    {
+        "text": "...and a little bit of syrup and a little bit of apple cider vinegar.",
+        "startTime": 12071,
+        "endTime": 18281,
+        "slowStartTime": 18257,
+        "slowEndTime": 27647
+    },
+    {
+        "text": "And then three tablespoons of maple syrup.",
+        "startTime": 27765,
+        "endTime": 32509,
+        "slowStartTime": 41797,
+        "slowEndTime": 48988
+    },
+    {
+        "text": "And one apple cider vinegar.",
+        "startTime": 38743,
+        "endTime": 41733,
+        "slowStartTime": 58264,
+        "slowEndTime": 62825
+    },
+    {
+        "text": "Then we stir it. And now we're testing.",
+        "startTime": 43958,
+        "endTime": 49839,
+        "slowStartTime": 66087,
+        "slowEndTime": 74983
+    }
+]

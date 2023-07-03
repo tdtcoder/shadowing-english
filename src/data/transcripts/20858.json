@@ -1,0 +1,219 @@
+[
+    {
+        "text": "Hello?",
+        "startTime": 741,
+        "endTime": 1553,
+        "slowStartTime": 1261,
+        "slowEndTime": 2555
+    },
+    {
+        "text": "Hi, Amanda.",
+        "startTime": 1941,
+        "endTime": 2736,
+        "slowStartTime": 3062,
+        "slowEndTime": 4329
+    },
+    {
+        "text": "How are you?",
+        "startTime": 2982,
+        "endTime": 3667,
+        "slowStartTime": 4623,
+        "slowEndTime": 5725
+    },
+    {
+        "text": "Good. How about you?",
+        "startTime": 4073,
+        "endTime": 5231,
+        "slowStartTime": 6260,
+        "slowEndTime": 8071
+    },
+    {
+        "text": "I'm fine.",
+        "startTime": 5447,
+        "endTime": 6143,
+        "slowStartTime": 8321,
+        "slowEndTime": 9440
+    },
+    {
+        "text": "Thank you for asking.",
+        "startTime": 6232,
+        "endTime": 7180,
+        "slowStartTime": 9498,
+        "slowEndTime": 10995
+    },
+    {
+        "text": "How was your weekend?",
+        "startTime": 7575,
+        "endTime": 8542,
+        "slowStartTime": 11513,
+        "slowEndTime": 13038
+    },
+    {
+        "text": "I moved into a new house.",
+        "startTime": 9032,
+        "endTime": 10592,
+        "slowStartTime": 13698,
+        "slowEndTime": 16113
+    },
+    {
+        "text": "Really?",
+        "startTime": 10760,
+        "endTime": 11519,
+        "slowStartTime": 16290,
+        "slowEndTime": 17504
+    },
+    {
+        "text": "Did you finish unpacking?",
+        "startTime": 11744,
+        "endTime": 12952,
+        "slowStartTime": 17766,
+        "slowEndTime": 19653
+    },
+    {
+        "text": "Not yet.",
+        "startTime": 13209,
+        "endTime": 13895,
+        "slowStartTime": 19964,
+        "slowEndTime": 21068
+    },
+    {
+        "text": "I'm still working on it.",
+        "startTime": 14110,
+        "endTime": 15325,
+        "slowStartTime": 21315,
+        "slowEndTime": 23213
+    },
+    {
+        "text": "There must be a lot of things to do.",
+        "startTime": 15531,
+        "endTime": 17349,
+        "slowStartTime": 23447,
+        "slowEndTime": 26248
+    },
+    {
+        "text": "Yes.",
+        "startTime": 17720,
+        "endTime": 18264,
+        "slowStartTime": 26730,
+        "slowEndTime": 27621
+    },
+    {
+        "text": "In the morning, I vacuumed the carpet, took out the garbage, and polished the furniture.",
+        "startTime": 18556,
+        "endTime": 23464,
+        "slowStartTime": 27984,
+        "slowEndTime": 35421
+    },
+    {
+        "text": "Wow. You must be tired now.",
+        "startTime": 23729,
+        "endTime": 25962,
+        "slowStartTime": 35744,
+        "slowEndTime": 39168
+    },
+    {
+        "text": "Do you like your house?",
+        "startTime": 26385,
+        "endTime": 27423,
+        "slowStartTime": 39727,
+        "slowEndTime": 41359
+    },
+    {
+        "text": "Yes, it's just lovely.",
+        "startTime": 27592,
+        "endTime": 29319,
+        "slowStartTime": 41538,
+        "slowEndTime": 44203
+    },
+    {
+        "text": "I like its location, too.",
+        "startTime": 29617,
+        "endTime": 31146,
+        "slowStartTime": 44575,
+        "slowEndTime": 46944
+    },
+    {
+        "text": "That's good.",
+        "startTime": 31459,
+        "endTime": 32291,
+        "slowStartTime": 47339,
+        "slowEndTime": 48661
+    },
+    {
+        "text": "It's near a subway station.",
+        "startTime": 32768,
+        "endTime": 34269,
+        "slowStartTime": 49302,
+        "slowEndTime": 51629
+    },
+    {
+        "text": "How convenient!",
+        "startTime": 34783,
+        "endTime": 35762,
+        "slowStartTime": 52325,
+        "slowEndTime": 53868
+    },
+    {
+        "text": "Right.",
+        "startTime": 35938,
+        "endTime": 36363,
+        "slowStartTime": 54057,
+        "slowEndTime": 54769
+    },
+    {
+        "text": "It takes only ten minutes to get to a local park.",
+        "startTime": 36745,
+        "endTime": 39380,
+        "slowStartTime": 55268,
+        "slowEndTime": 59295
+    },
+    {
+        "text": "Wow! You can go jogging every morning!",
+        "startTime": 39677,
+        "endTime": 42095,
+        "slowStartTime": 59666,
+        "slowEndTime": 63368
+    },
+    {
+        "text": "That's right.",
+        "startTime": 42337,
+        "endTime": 43015,
+        "slowStartTime": 63655,
+        "slowEndTime": 64748
+    },
+    {
+        "text": "I'm starting from tomorrow morning.",
+        "startTime": 43369,
+        "endTime": 44958,
+        "slowStartTime": 65203,
+        "slowEndTime": 67662
+    },
+    {
+        "text": "That's good for your health.",
+        "startTime": 45323,
+        "endTime": 46335,
+        "slowStartTime": 68135,
+        "slowEndTime": 69727
+    },
+    {
+        "text": "That is a very nice place to live!",
+        "startTime": 46717,
+        "endTime": 48734,
+        "slowStartTime": 70225,
+        "slowEndTime": 73326
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 49030,
+        "endTime": 49605,
+        "slowStartTime": 73695,
+        "slowEndTime": 74632
+    },
+    {
+        "text": "You should come over to my house someday.",
+        "startTime": 50111,
+        "endTime": 51834,
+        "slowStartTime": 75316,
+        "slowEndTime": 77976
+    }
+]

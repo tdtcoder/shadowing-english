@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Who is that girl that talks to Alex?",
+        "startTime": 2899,
+        "endTime": 5046,
+        "slowStartTime": 4499,
+        "slowEndTime": 7794
+    },
+    {
+        "text": "She is his sister, Kate.",
+        "startTime": 6203,
+        "endTime": 7941,
+        "slowStartTime": 9454,
+        "slowEndTime": 12137
+    },
+    {
+        "text": "She can help find out how he solves math problems.",
+        "startTime": 8448,
+        "endTime": 11437,
+        "slowStartTime": 12822,
+        "slowEndTime": 17380
+    },
+    {
+        "text": "What are you doing, Doris?",
+        "startTime": 14589,
+        "endTime": 15941,
+        "slowStartTime": 22033,
+        "slowEndTime": 24136
+    },
+    {
+        "text": "I'm looking for my keys.",
+        "startTime": 17121,
+        "endTime": 18659,
+        "slowStartTime": 25831,
+        "slowEndTime": 28213
+    },
+    {
+        "text": "I need them to open my drawers.",
+        "startTime": 19031,
+        "endTime": 21007,
+        "slowStartTime": 28696,
+        "slowEndTime": 31735
+    },
+    {
+        "text": "Okay.",
+        "startTime": 22137,
+        "endTime": 22789,
+        "slowStartTime": 33356,
+        "slowEndTime": 34409
+    },
+    {
+        "text": "I can help you find out where they are.",
+        "startTime": 23203,
+        "endTime": 25199,
+        "slowStartTime": 34954,
+        "slowEndTime": 38024
+    },
+    {
+        "text": "Thanks, Dad.",
+        "startTime": 26193,
+        "endTime": 27107,
+        "slowStartTime": 39440,
+        "slowEndTime": 40885
+    },
+    {
+        "text": "Can you help me find out how this game machine works?",
+        "startTime": 30133,
+        "endTime": 33230,
+        "slowStartTime": 45350,
+        "slowEndTime": 50070
+    },
+    {
+        "text": "Let's read the instructions that are written on the box.",
+        "startTime": 34390,
+        "endTime": 37551,
+        "slowStartTime": 51735,
+        "slowEndTime": 56552
+    },
+    {
+        "text": "Okay.",
+        "startTime": 38687,
+        "endTime": 39150,
+        "slowStartTime": 58181,
+        "slowEndTime": 58950
+    },
+    {
+        "text": "I'll go get it.",
+        "startTime": 39503,
+        "endTime": 40216,
+        "slowStartTime": 59405,
+        "slowEndTime": 60549
+    }
+]

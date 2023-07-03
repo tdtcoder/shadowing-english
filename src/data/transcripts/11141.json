@@ -1,0 +1,65 @@
+[
+    {
+        "text": "I thought that was a very constructive meeting this afternoon.",
+        "startTime": 2000,
+        "endTime": 5100,
+        "slowStartTime": 3120,
+        "slowEndTime": 7640
+    },
+    {
+        "text": "I agree. I think Bob had a clear goal for the meeting.",
+        "startTime": 5370,
+        "endTime": 9220,
+        "slowStartTime": 8130,
+        "slowEndTime": 13910
+    },
+    {
+        "text": "That helped a lot.",
+        "startTime": 9400,
+        "endTime": 10510,
+        "slowStartTime": 14200,
+        "slowEndTime": 15790
+    },
+    {
+        "text": "I think he also took an objective view of the suggestions everyone put forward.",
+        "startTime": 10980,
+        "endTime": 15420,
+        "slowStartTime": 16550,
+        "slowEndTime": 23160
+    },
+    {
+        "text": "I'm glad there was a unanimous decision to reconsider all the suggestions.",
+        "startTime": 15750,
+        "endTime": 19820,
+        "slowStartTime": 23775,
+        "slowEndTime": 29705
+    },
+    {
+        "text": "After Karen circulates the minutes,...",
+        "startTime": 20150,
+        "endTime": 22050,
+        "slowStartTime": 30320,
+        "slowEndTime": 33130
+    },
+    {
+        "text": "...we'll have the chance to formulate a realistic plan to implement some of those suggestions in the future.",
+        "startTime": 22250,
+        "endTime": 27460,
+        "slowStartTime": 33430,
+        "slowEndTime": 41210
+    },
+    {
+        "text": "Yeah, I'm glad there wasn't a hasty decision made to just start trying the suggestions...",
+        "startTime": 27790,
+        "endTime": 33060,
+        "slowStartTime": 41740,
+        "slowEndTime": 49670
+    },
+    {
+        "text": "...without a solid plan for carrying them out.",
+        "startTime": 33160,
+        "endTime": 35800,
+        "slowStartTime": 49930,
+        "slowEndTime": 53710
+    }
+]

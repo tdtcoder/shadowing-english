@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Good afternoon, everyone.",
+        "startTime": 1900,
+        "endTime": 3150,
+        "slowStartTime": 3000,
+        "slowEndTime": 5000
+    },
+    {
+        "text": "I'm Mark White, and my position is in the sales department.",
+        "startTime": 3400,
+        "endTime": 6900,
+        "slowStartTime": 5250,
+        "slowEndTime": 10600
+    },
+    {
+        "text": "As you can tell from the title of my presentation,...",
+        "startTime": 7550,
+        "endTime": 10200,
+        "slowStartTime": 11500,
+        "slowEndTime": 15500
+    },
+    {
+        "text": "...the topic I would like to speak about today...",
+        "startTime": 10550,
+        "endTime": 12700,
+        "slowStartTime": 16000,
+        "slowEndTime": 19250
+    },
+    {
+        "text": "...is methods to get customer feedback about products through informal communication opportunities.",
+        "startTime": 12900,
+        "endTime": 18700,
+        "slowStartTime": 19500,
+        "slowEndTime": 28350
+    },
+    {
+        "text": "First I'd like to outline my presentation...",
+        "startTime": 19450,
+        "endTime": 22000,
+        "slowStartTime": 29300,
+        "slowEndTime": 33200
+    },
+    {
+        "text": "...before I jump into the background of how feedback is usually obtained by our company...",
+        "startTime": 22300,
+        "endTime": 27150,
+        "slowStartTime": 33650,
+        "slowEndTime": 41000
+    },
+    {
+        "text": "...and why informal feedback is useful.",
+        "startTime": 27450,
+        "endTime": 30100,
+        "slowStartTime": 41350,
+        "slowEndTime": 45400
+    },
+    {
+        "text": "As you can see in the handout, there are three main points I'll talk about...",
+        "startTime": 30650,
+        "endTime": 34400,
+        "slowStartTime": 46150,
+        "slowEndTime": 51850
+    },
+    {
+        "text": "...regarding each informal communication opportunity.",
+        "startTime": 34650,
+        "endTime": 37600,
+        "slowStartTime": 52150,
+        "slowEndTime": 56700
+    },
+    {
+        "text": "Let me just write those three points on the whiteboard...",
+        "startTime": 38250,
+        "endTime": 40700,
+        "slowStartTime": 57550,
+        "slowEndTime": 61250
+    },
+    {
+        "text": "...because I'm going to be referring to them a lot in this presentation.",
+        "startTime": 41000,
+        "endTime": 44600,
+        "slowStartTime": 61650,
+        "slowEndTime": 67200
+    },
+    {
+        "text": "Then we can move on to the brief outline and introduction.",
+        "startTime": 45300,
+        "endTime": 48900,
+        "slowStartTime": 68100,
+        "slowEndTime": 73600
+    }
+]

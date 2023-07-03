@@ -1,0 +1,114 @@
+[
+    {
+        "text": "With the supermarket formula, only enough parts were produced in the first phase...",
+        "startTime": 152,
+        "endTime": 3915,
+        "slowStartTime": 378,
+        "slowEndTime": 6098
+    },
+    {
+        "text": "...to replace what was used in the second, and so on.",
+        "startTime": 3983,
+        "endTime": 6451,
+        "slowStartTime": 6125,
+        "slowEndTime": 9901
+    },
+    {
+        "text": "This is where the just-in-time system really took shape.",
+        "startTime": 7279,
+        "endTime": 10341,
+        "slowStartTime": 11068,
+        "slowEndTime": 15737
+    },
+    {
+        "text": "Toyota was able to eliminate much of the waste in Ford's system,...",
+        "startTime": 12997,
+        "endTime": 16094,
+        "slowStartTime": 19646,
+        "slowEndTime": 24366
+    },
+    {
+        "text": "...making smaller numbers of parts to be used when it needed them,...",
+        "startTime": 16293,
+        "endTime": 19124,
+        "slowStartTime": 24589,
+        "slowEndTime": 28911
+    },
+    {
+        "text": "...allowing the company to operate on a tighter budget.",
+        "startTime": 19473,
+        "endTime": 21807,
+        "slowStartTime": 29360,
+        "slowEndTime": 32936
+    },
+    {
+        "text": "Ohno and Toyoda also noticed that American car companies...",
+        "startTime": 22564,
+        "endTime": 25741,
+        "slowStartTime": 33996,
+        "slowEndTime": 38836
+    },
+    {
+        "text": "...were still employing many of Henry Ford's early production techniques.",
+        "startTime": 25977,
+        "endTime": 29223,
+        "slowStartTime": 39115,
+        "slowEndTime": 44059
+    },
+    {
+        "text": "They kept operations at full tilt in order to maximize efficiencies of scale...",
+        "startTime": 29678,
+        "endTime": 33703,
+        "slowStartTime": 44667,
+        "slowEndTime": 50779
+    },
+    {
+        "text": "...but then had to repair defective cars after they rolled off the line.",
+        "startTime": 34043,
+        "endTime": 37421,
+        "slowStartTime": 51214,
+        "slowEndTime": 56356
+    },
+    {
+        "text": "Ohno believed this caused more problems and didn't encourage workers or machines...",
+        "startTime": 38167,
+        "endTime": 42791,
+        "slowStartTime": 57400,
+        "slowEndTime": 64412
+    },
+    {
+        "text": "...to stop making the mistake,...",
+        "startTime": 43091,
+        "endTime": 44436,
+        "slowStartTime": 64786,
+        "slowEndTime": 66879
+    },
+    {
+        "text": "...so he placed a cord above every station which any worker...",
+        "startTime": 44944,
+        "endTime": 47915,
+        "slowStartTime": 67566,
+        "slowEndTime": 72097
+    },
+    {
+        "text": "...could pull to stop the entire assembly if they spotted a problem.",
+        "startTime": 48017,
+        "endTime": 51466,
+        "slowStartTime": 72176,
+        "slowEndTime": 77424
+    },
+    {
+        "text": "The whole team would work on it, to prevent it from happening again.",
+        "startTime": 51995,
+        "endTime": 54527,
+        "slowStartTime": 78143,
+        "slowEndTime": 82016
+    },
+    {
+        "text": "As teams identified more problems, the number of errors began to drop dramatically.",
+        "startTime": 54891,
+        "endTime": 59010,
+        "slowStartTime": 82486,
+        "slowEndTime": 88740
+    }
+]

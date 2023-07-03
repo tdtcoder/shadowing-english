@@ -1,0 +1,128 @@
+[
+    {
+        "text": "It's lunch time at this soup kitchen in New York city...",
+        "startTime": 130,
+        "endTime": 2470,
+        "slowStartTime": 220,
+        "slowEndTime": 3910
+    },
+    {
+        "text": "...and the turnover at the tables is brisk.",
+        "startTime": 2600,
+        "endTime": 4530,
+        "slowStartTime": 4035,
+        "slowEndTime": 6955
+    },
+    {
+        "text": "Part of the Solution or POTS...",
+        "startTime": 4930,
+        "endTime": 6670,
+        "slowStartTime": 7510,
+        "slowEndTime": 10055
+    },
+    {
+        "text": "...is widely known in the Bronx as the friendliest soup kitchen in the borough...",
+        "startTime": 6870,
+        "endTime": 10010,
+        "slowStartTime": 10425,
+        "slowEndTime": 15070
+    },
+    {
+        "text": "...and there are lines at the door for hours.",
+        "startTime": 10240,
+        "endTime": 12310,
+        "slowStartTime": 15470,
+        "slowEndTime": 18455
+    },
+    {
+        "text": "We get people that're working...",
+        "startTime": 12540,
+        "endTime": 13810,
+        "slowStartTime": 18910,
+        "slowEndTime": 20700
+    },
+    {
+        "text": "...and they come over to eat lunch because they can't afford that $7 to $10 a day...",
+        "startTime": 14040,
+        "endTime": 17710,
+        "slowStartTime": 21155,
+        "slowEndTime": 26720
+    },
+    {
+        "text": "...so they can come in and eat for nothing.",
+        "startTime": 17880,
+        "endTime": 19420,
+        "slowStartTime": 26855,
+        "slowEndTime": 29150
+    },
+    {
+        "text": "And save that money.",
+        "startTime": 20020,
+        "endTime": 20820,
+        "slowStartTime": 30090,
+        "slowEndTime": 31285
+    },
+    {
+        "text": "Michael Kennedy has a job at the nearby cinema and eats at POTS five times a week.",
+        "startTime": 21280,
+        "endTime": 25820,
+        "slowStartTime": 31995,
+        "slowEndTime": 38770
+    },
+    {
+        "text": "He found it hard at first to swallow his pride and ask for help...",
+        "startTime": 26130,
+        "endTime": 28890,
+        "slowStartTime": 39245,
+        "slowEndTime": 43440
+    },
+    {
+        "text": "...but says the soup kitchen is a powerful equalizer.",
+        "startTime": 29190,
+        "endTime": 31760,
+        "slowStartTime": 43905,
+        "slowEndTime": 47660
+    },
+    {
+        "text": "I'm well beyond the point of not me, not I, you know?",
+        "startTime": 31890,
+        "endTime": 34940,
+        "slowStartTime": 47930,
+        "slowEndTime": 52410
+    },
+    {
+        "text": "I'm beyond that, I'm like everybody else...",
+        "startTime": 36030,
+        "endTime": 38130,
+        "slowStartTime": 54145,
+        "slowEndTime": 57335
+    },
+    {
+        "text": "...and again, it doesn't really make any difference who you are and what you once were.",
+        "startTime": 38230,
+        "endTime": 42900,
+        "slowStartTime": 57390,
+        "slowEndTime": 64410
+    },
+    {
+        "text": "The reality of it is that I needed to come here...",
+        "startTime": 44790,
+        "endTime": 47110,
+        "slowStartTime": 67360,
+        "slowEndTime": 70720
+    },
+    {
+        "text": "...to get help with housing, to get help with Medicaid,...",
+        "startTime": 47580,
+        "endTime": 49980,
+        "slowStartTime": 71480,
+        "slowEndTime": 75085
+    },
+    {
+        "text": "...to get help with food stamps, and to get a meal.",
+        "startTime": 50080,
+        "endTime": 51950,
+        "slowStartTime": 75145,
+        "slowEndTime": 78090
+    }
+]

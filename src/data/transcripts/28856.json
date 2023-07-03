@@ -1,0 +1,100 @@
+[
+    {
+        "text": "﻿What time do you get up in the morning and how do you start your day?",
+        "startTime": 1855,
+        "endTime": 4785,
+        "slowStartTime": 2932,
+        "slowEndTime": 7402
+    },
+    {
+        "text": "Normally between 6:30 and 7 o'clock in the morning...",
+        "startTime": 5795,
+        "endTime": 8478,
+        "slowStartTime": 8843,
+        "slowEndTime": 12942
+    },
+    {
+        "text": "...and then I first have a cup of coffee.",
+        "startTime": 8563,
+        "endTime": 10903,
+        "slowStartTime": 12995,
+        "slowEndTime": 16579
+    },
+    {
+        "text": "How many pairs of Adidas do you own?",
+        "startTime": 11937,
+        "endTime": 14075,
+        "slowStartTime": 18056,
+        "slowEndTime": 21338
+    },
+    {
+        "text": "I don't know exactly, to be honest, but I think it's close to a hundred.",
+        "startTime": 15341,
+        "endTime": 18535,
+        "slowStartTime": 23162,
+        "slowEndTime": 28027
+    },
+    {
+        "text": "What's your favorite pair?",
+        "startTime": 19691,
+        "endTime": 20922,
+        "slowStartTime": 29686,
+        "slowEndTime": 31608
+    },
+    {
+        "text": "Stan Smiths.",
+        "startTime": 21711,
+        "endTime": 22445,
+        "slowStartTime": 32716,
+        "slowEndTime": 33893
+    },
+    {
+        "text": "I have tons of them.",
+        "startTime": 23321,
+        "endTime": 24689,
+        "slowStartTime": 35132,
+        "slowEndTime": 37258
+    },
+    {
+        "text": "Americans pronounce the brand name Adidas.",
+        "startTime": 25870,
+        "endTime": 28295,
+        "slowStartTime": 38955,
+        "slowEndTime": 42667
+    },
+    {
+        "text": "How do you feel about that?",
+        "startTime": 28693,
+        "endTime": 29614,
+        "slowStartTime": 43189,
+        "slowEndTime": 44646
+    },
+    {
+        "text": "I don't mind as long as they buy our shoes.",
+        "startTime": 30607,
+        "endTime": 32694,
+        "slowStartTime": 46060,
+        "slowEndTime": 49266
+    },
+    {
+        "text": "What did you wanna be when you grew up?",
+        "startTime": 33355,
+        "endTime": 34715,
+        "slowStartTime": 50183,
+        "slowEndTime": 52297
+    },
+    {
+        "text": "A professional football player.",
+        "startTime": 35395,
+        "endTime": 36664,
+        "slowStartTime": 53242,
+        "slowEndTime": 55221
+    },
+    {
+        "text": "My name is Herbert Hainer and I am happy to be the CEO of Adidas.",
+        "startTime": 37212,
+        "endTime": 41790,
+        "slowStartTime": 55968,
+        "slowEndTime": 62910
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "text": "Let's sleep here.",
+        "startTime": 3596,
+        "endTime": 4976,
+        "slowStartTime": 5544,
+        "slowEndTime": 7689
+    },
+    {
+        "text": "Spike said.",
+        "startTime": 5393,
+        "endTime": 6270,
+        "slowStartTime": 8240,
+        "slowEndTime": 9630
+    },
+    {
+        "text": "Is that the farmer over there?",
+        "startTime": 7387,
+        "endTime": 9442,
+        "slowStartTime": 11230,
+        "slowEndTime": 14388
+    },
+    {
+        "text": "Billy asked.",
+        "startTime": 9969,
+        "endTime": 10972,
+        "slowStartTime": 15104,
+        "slowEndTime": 16683
+    },
+    {
+        "text": "I don't think so.",
+        "startTime": 11970,
+        "endTime": 13406,
+        "slowStartTime": 18105,
+        "slowEndTime": 20334
+    },
+    {
+        "text": "Spike said.",
+        "startTime": 13928,
+        "endTime": 14931,
+        "slowStartTime": 21042,
+        "slowEndTime": 22621
+    },
+    {
+        "text": "I think it's a scarecrow. But he does not scare me!",
+        "startTime": 16036,
+        "endTime": 20383,
+        "slowStartTime": 24204,
+        "slowEndTime": 30799
+    },
+    {
+        "text": "Said Spike.",
+        "startTime": 21040,
+        "endTime": 21837,
+        "slowStartTime": 31710,
+        "slowEndTime": 32981
+    },
+    {
+        "text": "That night, Spike did get scared.",
+        "startTime": 22826,
+        "endTime": 26058,
+        "slowStartTime": 34389,
+        "slowEndTime": 39312
+    },
+    {
+        "text": "First, an arm moved.",
+        "startTime": 26937,
+        "endTime": 29388,
+        "slowStartTime": 40555,
+        "slowEndTime": 44307
+    },
+    {
+        "text": "Spike hid under the corn.",
+        "startTime": 30116,
+        "endTime": 32785,
+        "slowStartTime": 45324,
+        "slowEndTime": 49402
+    },
+    {
+        "text": "Then, both arms and the corn moved.",
+        "startTime": 33761,
+        "endTime": 37833,
+        "slowStartTime": 50792,
+        "slowEndTime": 56975
+    },
+    {
+        "text": "Spike hid under the tractor.",
+        "startTime": 38725,
+        "endTime": 41152,
+        "slowStartTime": 58238,
+        "slowEndTime": 61953
+    },
+    {
+        "text": "Spike, why are you hiding?",
+        "startTime": 42043,
+        "endTime": 44531,
+        "slowStartTime": 63214,
+        "slowEndTime": 67022
+    },
+    {
+        "text": "Billy asked.",
+        "startTime": 44981,
+        "endTime": 46046,
+        "slowStartTime": 67622,
+        "slowEndTime": 69294
+    },
+    {
+        "text": "I'm hiding from the farmer.",
+        "startTime": 46731,
+        "endTime": 48897,
+        "slowStartTime": 70247,
+        "slowEndTime": 73570
+    },
+    {
+        "text": "Said Spike.",
+        "startTime": 49325,
+        "endTime": 50266,
+        "slowStartTime": 74138,
+        "slowEndTime": 75624
+    },
+    {
+        "text": "Billy thought. He knew it was not a farmer.",
+        "startTime": 51171,
+        "endTime": 55703,
+        "slowStartTime": 76906,
+        "slowEndTime": 83779
+    },
+    {
+        "text": "He knew it was a scarecrow.",
+        "startTime": 56605,
+        "endTime": 59404,
+        "slowStartTime": 85058,
+        "slowEndTime": 89331
+    },
+    {
+        "text": "He thought about why the scarecrow moved.",
+        "startTime": 60238,
+        "endTime": 64027,
+        "slowStartTime": 90507,
+        "slowEndTime": 96266
+    },
+    {
+        "text": "The wind stopped blowing.",
+        "startTime": 64830,
+        "endTime": 66885,
+        "slowStartTime": 97395,
+        "slowEndTime": 100553
+    },
+    {
+        "text": "The corn and the scarecrow stopped moving.",
+        "startTime": 67876,
+        "endTime": 71913,
+        "slowStartTime": 101964,
+        "slowEndTime": 108094
+    },
+    {
+        "text": "Everything was still.",
+        "startTime": 72733,
+        "endTime": 74788,
+        "slowStartTime": 109249,
+        "slowEndTime": 112407
+    },
+    {
+        "text": "Billy said.",
+        "startTime": 75564,
+        "endTime": 76505,
+        "slowStartTime": 113496,
+        "slowEndTime": 114982
+    },
+    {
+        "text": "Now I know. The wind moved the scarecrow and the corn.",
+        "startTime": 76972,
+        "endTime": 82371,
+        "slowStartTime": 115608,
+        "slowEndTime": 123782
+    },
+    {
+        "text": "It is not the farmer moving.",
+        "startTime": 82692,
+        "endTime": 84995,
+        "slowStartTime": 124188,
+        "slowEndTime": 127718
+    },
+    {
+        "text": "Billy said to Spike.",
+        "startTime": 85421,
+        "endTime": 86917,
+        "slowStartTime": 128282,
+        "slowEndTime": 130600
+    },
+    {
+        "text": "It is the wind moving the scarecrow.",
+        "startTime": 87758,
+        "endTime": 91175,
+        "slowStartTime": 131787,
+        "slowEndTime": 136988
+    },
+    {
+        "text": "Said Billy.",
+        "startTime": 91685,
+        "endTime": 92563,
+        "slowStartTime": 137677,
+        "slowEndTime": 139070
+    },
+    {
+        "text": "Don't be scared.",
+        "startTime": 93493,
+        "endTime": 95053,
+        "slowStartTime": 140390,
+        "slowEndTime": 142805
+    },
+    {
+        "text": "Oh, no! Silly me.",
+        "startTime": 95940,
+        "endTime": 98707,
+        "slowStartTime": 144060,
+        "slowEndTime": 148286
+    },
+    {
+        "text": "Said Spike.",
+        "startTime": 99127,
+        "endTime": 100171,
+        "slowStartTime": 148841,
+        "slowEndTime": 150481
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "text": "Do you mind if I join you?",
+        "startTime": 1185,
+        "endTime": 2537,
+        "slowStartTime": 1927,
+        "slowEndTime": 4030
+    },
+    {
+        "text": "Of course not!",
+        "startTime": 2817,
+        "endTime": 3561,
+        "slowStartTime": 4375,
+        "slowEndTime": 5567
+    },
+    {
+        "text": "Come on, sit down.",
+        "startTime": 3743,
+        "endTime": 4495,
+        "slowStartTime": 5764,
+        "slowEndTime": 6967
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 4699,
+        "endTime": 5104,
+        "slowStartTime": 7198,
+        "slowEndTime": 7881
+    },
+    {
+        "text": "I have to leave in a minute anyway.",
+        "startTime": 6560,
+        "endTime": 7951,
+        "slowStartTime": 9990,
+        "slowEndTime": 12151
+    },
+    {
+        "text": "Could I have a large latte, please?",
+        "startTime": 12172,
+        "endTime": 14010,
+        "slowStartTime": 18408,
+        "slowEndTime": 21240
+    },
+    {
+        "text": "Of course.",
+        "startTime": 14300,
+        "endTime": 14831,
+        "slowStartTime": 21600,
+        "slowEndTime": 22472
+    },
+    {
+        "text": "Your latte.",
+        "startTime": 15473,
+        "endTime": 16114,
+        "slowStartTime": 23360,
+        "slowEndTime": 24396
+    },
+    {
+        "text": "Oh, thanks.",
+        "startTime": 16401,
+        "endTime": 17155,
+        "slowStartTime": 24752,
+        "slowEndTime": 25958
+    },
+    {
+        "text": "Can you pass the sugar?",
+        "startTime": 18117,
+        "endTime": 19345,
+        "slowStartTime": 27325,
+        "slowEndTime": 29243
+    },
+    {
+        "text": "Sure.",
+        "startTime": 19754,
+        "endTime": 20245,
+        "slowStartTime": 29781,
+        "slowEndTime": 30592
+    },
+    {
+        "text": "Oh, speaking of friends, I want to ask you a favor.",
+        "startTime": 21161,
+        "endTime": 24847,
+        "slowStartTime": 31891,
+        "slowEndTime": 37495
+    },
+    {
+        "text": "Is it okay if we change our plans a bit this week?",
+        "startTime": 25265,
+        "endTime": 27861,
+        "slowStartTime": 38048,
+        "slowEndTime": 42016
+    },
+    {
+        "text": "Sure, what's up?",
+        "startTime": 28445,
+        "endTime": 29335,
+        "slowStartTime": 42817,
+        "slowEndTime": 44228
+    },
+    {
+        "text": "I just had a call from an old friend of mine.",
+        "startTime": 29789,
+        "endTime": 32083,
+        "slowStartTime": 44833,
+        "slowEndTime": 48349
+    },
+    {
+        "text": "Could you do me a big favor?",
+        "startTime": 32345,
+        "endTime": 33977,
+        "slowStartTime": 48667,
+        "slowEndTime": 51191
+    },
+    {
+        "text": "I have to work late this evening,...",
+        "startTime": 34090,
+        "endTime": 35921,
+        "slowStartTime": 51285,
+        "slowEndTime": 54107
+    },
+    {
+        "text": "...so would you mind meeting him at the airport?",
+        "startTime": 36039,
+        "endTime": 38021,
+        "slowStartTime": 54208,
+        "slowEndTime": 57257
+    },
+    {
+        "text": "Not at all.",
+        "startTime": 38500,
+        "endTime": 39031,
+        "slowStartTime": 57900,
+        "slowEndTime": 58771
+    },
+    {
+        "text": "I'd like to meet him.",
+        "startTime": 39241,
+        "endTime": 40077,
+        "slowStartTime": 59011,
+        "slowEndTime": 60340
+    },
+    {
+        "text": "And do you think you could take him to my flat?",
+        "startTime": 40589,
+        "endTime": 42636,
+        "slowStartTime": 61034,
+        "slowEndTime": 64179
+    },
+    {
+        "text": "I'll give you the keys.",
+        "startTime": 43109,
+        "endTime": 44079,
+        "slowStartTime": 64813,
+        "slowEndTime": 66343
+    },
+    {
+        "text": "No problem, Rob.",
+        "startTime": 44172,
+        "endTime": 45035,
+        "slowStartTime": 66408,
+        "slowEndTime": 67778
+    },
+    {
+        "text": "Thank you so much, Jenny.",
+        "startTime": 45594,
+        "endTime": 46949,
+        "slowStartTime": 68541,
+        "slowEndTime": 70648
+    },
+    {
+        "text": "You're a real star.",
+        "startTime": 47066,
+        "endTime": 47789,
+        "slowStartTime": 70749,
+        "slowEndTime": 71909
+    }
+]

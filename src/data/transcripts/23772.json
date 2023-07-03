@@ -1,0 +1,58 @@
+[
+    {
+        "text": "﻿This is a hotel.",
+        "startTime": 687,
+        "endTime": 1919,
+        "slowStartTime": 1181,
+        "slowEndTime": 3104
+    },
+    {
+        "text": "You are obviously in a hotel if your breakfast includes every food known to mankind,...",
+        "startTime": 2255,
+        "endTime": 6373,
+        "slowStartTime": 3532,
+        "slowEndTime": 9785
+    },
+    {
+        "text": "...if there are chocolates on your pillow,...",
+        "startTime": 7567,
+        "endTime": 9197,
+        "slowStartTime": 11501,
+        "slowEndTime": 14021
+    },
+    {
+        "text": "...and if your bathroom features toiletries for tiny people.",
+        "startTime": 9879,
+        "endTime": 12807,
+        "slowStartTime": 14968,
+        "slowEndTime": 19436
+    },
+    {
+        "text": "You can book a hotel on Hotels.com,...",
+        "startTime": 14366,
+        "endTime": 16564,
+        "slowStartTime": 21699,
+        "slowEndTime": 25071
+    },
+    {
+        "text": "...\"Hotels\" for the hotels you could book, and \".com\" because it's on the Internet.",
+        "startTime": 17041,
+        "endTime": 20731,
+        "slowStartTime": 25712,
+        "slowEndTime": 31321
+    },
+    {
+        "text": "Hotels.com.",
+        "startTime": 21851,
+        "endTime": 22883,
+        "slowStartTime": 32926,
+        "slowEndTime": 34549
+    },
+    {
+        "text": "The obvious choice.",
+        "startTime": 23377,
+        "endTime": 24245,
+        "slowStartTime": 35216,
+        "slowEndTime": 36592
+    }
+]

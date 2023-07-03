@@ -1,0 +1,184 @@
+[
+    {
+        "text": "Today is a special day.",
+        "startTime": 1543,
+        "endTime": 3831,
+        "slowStartTime": 2464,
+        "slowEndTime": 5971
+    },
+    {
+        "text": "Today is Mother's Day.",
+        "startTime": 4957,
+        "endTime": 6935,
+        "slowStartTime": 7586,
+        "slowEndTime": 10628
+    },
+    {
+        "text": "I want to do something special for my mom.",
+        "startTime": 8192,
+        "endTime": 11763,
+        "slowStartTime": 12438,
+        "slowEndTime": 17870
+    },
+    {
+        "text": "Dad and I wake up early.",
+        "startTime": 13143,
+        "endTime": 15261,
+        "slowStartTime": 19865,
+        "slowEndTime": 23117
+    },
+    {
+        "text": "Dad and I sneak downstairs.",
+        "startTime": 16635,
+        "endTime": 18982,
+        "slowStartTime": 25102,
+        "slowEndTime": 28698
+    },
+    {
+        "text": "Quietly, quietly, quietly.",
+        "startTime": 20260,
+        "endTime": 23652,
+        "slowStartTime": 30540,
+        "slowEndTime": 35703
+    },
+    {
+        "text": "First we make her eggs.",
+        "startTime": 25059,
+        "endTime": 27295,
+        "slowStartTime": 37739,
+        "slowEndTime": 41167
+    },
+    {
+        "text": "I help crack the eggs in the bowl.",
+        "startTime": 28613,
+        "endTime": 31341,
+        "slowStartTime": 43070,
+        "slowEndTime": 47237
+    },
+    {
+        "text": "Scramble, scramble, scramble.",
+        "startTime": 32593,
+        "endTime": 35418,
+        "slowStartTime": 49040,
+        "slowEndTime": 53352
+    },
+    {
+        "text": "Then we make her bacon.",
+        "startTime": 36699,
+        "endTime": 38627,
+        "slowStartTime": 55199,
+        "slowEndTime": 58165
+    },
+    {
+        "text": "I help lay the bacon in the pan.",
+        "startTime": 39933,
+        "endTime": 42935,
+        "slowStartTime": 60049,
+        "slowEndTime": 64628
+    },
+    {
+        "text": "Sizzle, sizzle, sizzle.",
+        "startTime": 44279,
+        "endTime": 46611,
+        "slowStartTime": 66569,
+        "slowEndTime": 70142
+    },
+    {
+        "text": "Then we make her toast.",
+        "startTime": 47821,
+        "endTime": 49843,
+        "slowStartTime": 71881,
+        "slowEndTime": 74989
+    },
+    {
+        "text": "I help put the bread in the toaster.",
+        "startTime": 51075,
+        "endTime": 53808,
+        "slowStartTime": 76763,
+        "slowEndTime": 80937
+    },
+    {
+        "text": "Pop, pop, pop.",
+        "startTime": 54857,
+        "endTime": 56691,
+        "slowStartTime": 82436,
+        "slowEndTime": 85262
+    },
+    {
+        "text": "Then we make her juice.",
+        "startTime": 57833,
+        "endTime": 59635,
+        "slowStartTime": 86900,
+        "slowEndTime": 89678
+    },
+    {
+        "text": "I help pour the juice in a cup.",
+        "startTime": 60776,
+        "endTime": 62763,
+        "slowStartTime": 91314,
+        "slowEndTime": 94369
+    },
+    {
+        "text": "Pour, pour, pour.",
+        "startTime": 64157,
+        "endTime": 66259,
+        "slowStartTime": 96386,
+        "slowEndTime": 99614
+    },
+    {
+        "text": "Then we put it on a tray.",
+        "startTime": 67391,
+        "endTime": 69559,
+        "slowStartTime": 101236,
+        "slowEndTime": 104563
+    },
+    {
+        "text": "I help decorate the tray with a flower and a card.",
+        "startTime": 70595,
+        "endTime": 74929,
+        "slowStartTime": 106042,
+        "slowEndTime": 112619
+    },
+    {
+        "text": "Done, done, done.",
+        "startTime": 76223,
+        "endTime": 78361,
+        "slowStartTime": 114485,
+        "slowEndTime": 117767
+    },
+    {
+        "text": "Dad and I sneak back upstairs to Mom's bed.",
+        "startTime": 79545,
+        "endTime": 83247,
+        "slowStartTime": 119468,
+        "slowEndTime": 125095
+    },
+    {
+        "text": "I wake up Mom with a hug and a kiss.",
+        "startTime": 84600,
+        "endTime": 87891,
+        "slowStartTime": 127050,
+        "slowEndTime": 132061
+    },
+    {
+        "text": "Dad hands Mom her breakfast.",
+        "startTime": 89103,
+        "endTime": 91184,
+        "slowStartTime": 133804,
+        "slowEndTime": 137001
+    },
+    {
+        "text": "We both say.",
+        "startTime": 92433,
+        "endTime": 93357,
+        "slowStartTime": 138800,
+        "slowEndTime": 140260
+    },
+    {
+        "text": "Happy Mother's Day! We love you!",
+        "startTime": 93673,
+        "endTime": 96540,
+        "slowStartTime": 140659,
+        "slowEndTime": 145035
+    }
+]

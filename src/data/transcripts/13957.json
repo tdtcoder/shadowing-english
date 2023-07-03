@@ -1,0 +1,44 @@
+[
+    {
+        "text": "In Nigeria, a car bomb attack on a UN building in Abuja kills at least ten.",
+        "startTime": 5565,
+        "endTime": 11879,
+        "slowStartTime": 8497,
+        "slowEndTime": 18044
+    },
+    {
+        "text": "In Mexico, more than 50 are dead after arsonists set a casino in Monterrey on fire.",
+        "startTime": 14333,
+        "endTime": 21175,
+        "slowStartTime": 21650,
+        "slowEndTime": 31987
+    },
+    {
+        "text": "In Thailand, police blame Muslim militants for attacks in a southern province that kill six.",
+        "startTime": 24048,
+        "endTime": 30850,
+        "slowStartTime": 36222,
+        "slowEndTime": 46500
+    },
+    {
+        "text": "Robbers target foreign motorists on Spanish highways.",
+        "startTime": 34233,
+        "endTime": 38393,
+        "slowStartTime": 51499,
+        "slowEndTime": 57814
+    },
+    {
+        "text": "In the US, six states declare state of emergency in preparation for Hurricane Irene.",
+        "startTime": 44713,
+        "endTime": 51435,
+        "slowStartTime": 67220,
+        "slowEndTime": 77378
+    },
+    {
+        "text": "In the Czech Republic, a Prague zoo debuts two Sumatran tiger cubs born in June.",
+        "startTime": 55170,
+        "endTime": 61593,
+        "slowStartTime": 82905,
+        "slowEndTime": 92615
+    }
+]

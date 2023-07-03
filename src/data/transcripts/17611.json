@@ -1,0 +1,156 @@
+[
+    {
+        "text": "There are many places in the city.",
+        "startTime": 1665,
+        "endTime": 3629,
+        "slowStartTime": 2648,
+        "slowEndTime": 5669
+    },
+    {
+        "text": "Let's find out what some of them are.",
+        "startTime": 4791,
+        "endTime": 6786,
+        "slowStartTime": 7337,
+        "slowEndTime": 10404
+    },
+    {
+        "text": "What is this place?",
+        "startTime": 7959,
+        "endTime": 9259,
+        "slowStartTime": 12088,
+        "slowEndTime": 14113
+    },
+    {
+        "text": "It is a park.",
+        "startTime": 10385,
+        "endTime": 11348,
+        "slowStartTime": 15727,
+        "slowEndTime": 17247
+    },
+    {
+        "text": "People come here to have fun.",
+        "startTime": 12479,
+        "endTime": 14212,
+        "slowStartTime": 18868,
+        "slowEndTime": 21543
+    },
+    {
+        "text": "What is this place?",
+        "startTime": 15340,
+        "endTime": 16723,
+        "slowStartTime": 23160,
+        "slowEndTime": 25310
+    },
+    {
+        "text": "It is a store.",
+        "startTime": 17901,
+        "endTime": 18949,
+        "slowStartTime": 27001,
+        "slowEndTime": 28649
+    },
+    {
+        "text": "People come here to shop.",
+        "startTime": 20047,
+        "endTime": 21464,
+        "slowStartTime": 30220,
+        "slowEndTime": 32421
+    },
+    {
+        "text": "What is this place?",
+        "startTime": 22648,
+        "endTime": 23985,
+        "slowStartTime": 34122,
+        "slowEndTime": 36203
+    },
+    {
+        "text": "It is a zoo.",
+        "startTime": 25095,
+        "endTime": 26178,
+        "slowStartTime": 37793,
+        "slowEndTime": 39492
+    },
+    {
+        "text": "People come here to see animals.",
+        "startTime": 27325,
+        "endTime": 29431,
+        "slowStartTime": 41137,
+        "slowEndTime": 44371
+    },
+    {
+        "text": "What is this place?",
+        "startTime": 30577,
+        "endTime": 31987,
+        "slowStartTime": 46016,
+        "slowEndTime": 48205
+    },
+    {
+        "text": "It is a skyscraper.",
+        "startTime": 33060,
+        "endTime": 34597,
+        "slowStartTime": 49740,
+        "slowEndTime": 52120
+    },
+    {
+        "text": "Office workers come here to work.",
+        "startTime": 35693,
+        "endTime": 37901,
+        "slowStartTime": 53690,
+        "slowEndTime": 57076
+    },
+    {
+        "text": "What is this place?",
+        "startTime": 39055,
+        "endTime": 40355,
+        "slowStartTime": 58733,
+        "slowEndTime": 60758
+    },
+    {
+        "text": "It is a stadium.",
+        "startTime": 41489,
+        "endTime": 42823,
+        "slowStartTime": 62383,
+        "slowEndTime": 64459
+    },
+    {
+        "text": "Players come here to play ball.",
+        "startTime": 43855,
+        "endTime": 45889,
+        "slowStartTime": 65933,
+        "slowEndTime": 69058
+    },
+    {
+        "text": "What is this place?",
+        "startTime": 47022,
+        "endTime": 48312,
+        "slowStartTime": 70683,
+        "slowEndTime": 72693
+    },
+    {
+        "text": "It is a parking garage.",
+        "startTime": 49386,
+        "endTime": 51047,
+        "slowStartTime": 74229,
+        "slowEndTime": 76795
+    },
+    {
+        "text": "People come here to park their cars.",
+        "startTime": 52149,
+        "endTime": 54442,
+        "slowStartTime": 78373,
+        "slowEndTime": 81888
+    },
+    {
+        "text": "People do many different things in many places in the city.",
+        "startTime": 55581,
+        "endTime": 59608,
+        "slowStartTime": 83521,
+        "slowEndTime": 89637
+    },
+    {
+        "text": "What do you do in the city?",
+        "startTime": 60633,
+        "endTime": 62555,
+        "slowStartTime": 91099,
+        "slowEndTime": 94058
+    }
+]

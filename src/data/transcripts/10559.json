@@ -1,0 +1,135 @@
+[
+    {
+        "text": "But the problem that plagues the health care system is not just a problem for the uninsured.",
+        "startTime": 1600,
+        "endTime": 7000,
+        "slowStartTime": 2625,
+        "slowEndTime": 10600
+    },
+    {
+        "text": "Those who do have insurance have never had less security and stability than they do today.",
+        "startTime": 8400,
+        "endTime": 13400,
+        "slowStartTime": 12750,
+        "slowEndTime": 20270
+    },
+    {
+        "text": "More and more Americans worry that if you move, lose your job or change your job,...",
+        "startTime": 14800,
+        "endTime": 19350,
+        "slowStartTime": 22480,
+        "slowEndTime": 29150
+    },
+    {
+        "text": "...you'll lose your health insurance too.",
+        "startTime": 19700,
+        "endTime": 21100,
+        "slowStartTime": 29780,
+        "slowEndTime": 31830
+    },
+    {
+        "text": "More and more Americans pay their premiums...",
+        "startTime": 22350,
+        "endTime": 24250,
+        "slowStartTime": 33785,
+        "slowEndTime": 36700
+    },
+    {
+        "text": "...only to discover that their insurance company has dropped their coverage when they get sick...",
+        "startTime": 24350,
+        "endTime": 28700,
+        "slowStartTime": 36740,
+        "slowEndTime": 43120
+    },
+    {
+        "text": "...or won't pay the full cost of care.",
+        "startTime": 29600,
+        "endTime": 31100,
+        "slowStartTime": 44730,
+        "slowEndTime": 46870
+    },
+    {
+        "text": "It happens every day.",
+        "startTime": 31150,
+        "endTime": 32400,
+        "slowStartTime": 47030,
+        "slowEndTime": 48680
+    },
+    {
+        "text": "One man from Illinois lost his coverage in the middle of chemotherapy...",
+        "startTime": 34150,
+        "endTime": 37600,
+        "slowStartTime": 51490,
+        "slowEndTime": 56530
+    },
+    {
+        "text": "...because his insurer found that he hadn't reported gallstones that he didn't even know about.",
+        "startTime": 37700,
+        "endTime": 42300,
+        "slowStartTime": 56840,
+        "slowEndTime": 63590
+    },
+    {
+        "text": "They delayed his treatment...",
+        "startTime": 43500,
+        "endTime": 44550,
+        "slowStartTime": 65590,
+        "slowEndTime": 66940
+    },
+    {
+        "text": "...and he died because of it.",
+        "startTime": 45200,
+        "endTime": 46300,
+        "slowStartTime": 68090,
+        "slowEndTime": 69500
+    },
+    {
+        "text": "Another woman from Texas was about to get a double mastectomy...",
+        "startTime": 47700,
+        "endTime": 51150,
+        "slowStartTime": 71800,
+        "slowEndTime": 76700
+    },
+    {
+        "text": "...when her insurance company canceled her policy because she forgot to declare a case of acne.",
+        "startTime": 51750,
+        "endTime": 56400,
+        "slowStartTime": 77870,
+        "slowEndTime": 84640
+    },
+    {
+        "text": "By the time she had her insurance reinstated,...",
+        "startTime": 57150,
+        "endTime": 59400,
+        "slowStartTime": 86040,
+        "slowEndTime": 89200
+    },
+    {
+        "text": "...her breast cancer had more than doubled in size.",
+        "startTime": 59850,
+        "endTime": 62950,
+        "slowStartTime": 90070,
+        "slowEndTime": 94500
+    },
+    {
+        "text": "That is heartbreaking.",
+        "startTime": 64450,
+        "endTime": 65700,
+        "slowStartTime": 96930,
+        "slowEndTime": 98730
+    },
+    {
+        "text": "It is wrong...",
+        "startTime": 65800,
+        "endTime": 66600,
+        "slowStartTime": 98980,
+        "slowEndTime": 100210
+    },
+    {
+        "text": "...and no one should be treated that way in the United States of America.",
+        "startTime": 66700,
+        "endTime": 69500,
+        "slowStartTime": 100250,
+        "slowEndTime": 104470
+    }
+]

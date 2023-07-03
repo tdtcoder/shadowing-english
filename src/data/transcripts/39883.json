@@ -1,0 +1,72 @@
+[
+    {
+        "text": "What are you so busy with?",
+        "startTime": 427,
+        "endTime": 1713,
+        "slowStartTime": 791,
+        "slowEndTime": 2795
+    },
+    {
+        "text": "I'm very busy preparing for interviews.",
+        "startTime": 2034,
+        "endTime": 4383,
+        "slowStartTime": 3201,
+        "slowEndTime": 6800
+    },
+    {
+        "text": "Is there anything I can help you with?",
+        "startTime": 4532,
+        "endTime": 6618,
+        "slowStartTime": 6948,
+        "slowEndTime": 10152
+    },
+    {
+        "text": "Can you please help me with an English interview?",
+        "startTime": 7169,
+        "endTime": 9176,
+        "slowStartTime": 10904,
+        "slowEndTime": 13989
+    },
+    {
+        "text": "Of course. You should have told me earlier.",
+        "startTime": 9357,
+        "endTime": 11629,
+        "slowStartTime": 14186,
+        "slowEndTime": 17669
+    },
+    {
+        "text": "I didn't want to bother you.",
+        "startTime": 12263,
+        "endTime": 13319,
+        "slowStartTime": 18544,
+        "slowEndTime": 20204
+    },
+    {
+        "text": "It's okay. How can I help?",
+        "startTime": 13640,
+        "endTime": 15650,
+        "slowStartTime": 20610,
+        "slowEndTime": 23700
+    },
+    {
+        "text": "I have prepared some answers. Could you take a look at them?",
+        "startTime": 16381,
+        "endTime": 19571,
+        "slowStartTime": 24721,
+        "slowEndTime": 29582
+    },
+    {
+        "text": "Okay. I will correct some mistakes you have.",
+        "startTime": 19736,
+        "endTime": 23494,
+        "slowStartTime": 29754,
+        "slowEndTime": 35466
+    },
+    {
+        "text": "I really appreciate your help.",
+        "startTime": 24239,
+        "endTime": 25664,
+        "slowStartTime": 36509,
+        "slowEndTime": 38721
+    }
+]

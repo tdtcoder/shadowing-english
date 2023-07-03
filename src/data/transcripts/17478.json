@@ -1,0 +1,114 @@
+[
+    {
+        "text": "I see tools everywhere.",
+        "startTime": 2189,
+        "endTime": 4359,
+        "slowStartTime": 3433,
+        "slowEndTime": 6763
+    },
+    {
+        "text": "Tools help us work.",
+        "startTime": 5399,
+        "endTime": 6920,
+        "slowStartTime": 8249,
+        "slowEndTime": 10605
+    },
+    {
+        "text": "Here is a tool.",
+        "startTime": 7927,
+        "endTime": 9175,
+        "slowStartTime": 12040,
+        "slowEndTime": 13987
+    },
+    {
+        "text": "It is a pencil for writing.",
+        "startTime": 10283,
+        "endTime": 12453,
+        "slowStartTime": 15575,
+        "slowEndTime": 18905
+    },
+    {
+        "text": "Here is a tool.",
+        "startTime": 13357,
+        "endTime": 14674,
+        "slowStartTime": 20186,
+        "slowEndTime": 22236
+    },
+    {
+        "text": "It is a rake for raking.",
+        "startTime": 15714,
+        "endTime": 18128,
+        "slowStartTime": 23721,
+        "slowEndTime": 27417
+    },
+    {
+        "text": "Here is a tool.",
+        "startTime": 19139,
+        "endTime": 20430,
+        "slowStartTime": 28859,
+        "slowEndTime": 30870
+    },
+    {
+        "text": "It is a hammer for pounding.",
+        "startTime": 21511,
+        "endTime": 23793,
+        "slowStartTime": 32417,
+        "slowEndTime": 35914
+    },
+    {
+        "text": "Here is a tool.",
+        "startTime": 24918,
+        "endTime": 26277,
+        "slowStartTime": 37527,
+        "slowEndTime": 39641
+    },
+    {
+        "text": "It is a shovel for digging.",
+        "startTime": 27236,
+        "endTime": 29754,
+        "slowStartTime": 41004,
+        "slowEndTime": 44856
+    },
+    {
+        "text": "Here is a tool.",
+        "startTime": 30725,
+        "endTime": 32140,
+        "slowStartTime": 46237,
+        "slowEndTime": 48435
+    },
+    {
+        "text": "It is a knife for cutting.",
+        "startTime": 33173,
+        "endTime": 35363,
+        "slowStartTime": 49910,
+        "slowEndTime": 53270
+    },
+    {
+        "text": "Here is a tool.",
+        "startTime": 36459,
+        "endTime": 37787,
+        "slowStartTime": 54839,
+        "slowEndTime": 56905
+    },
+    {
+        "text": "It is a wheelbarrow for carrying.",
+        "startTime": 38854,
+        "endTime": 41597,
+        "slowStartTime": 58431,
+        "slowEndTime": 62620
+    },
+    {
+        "text": "I see tools everywhere.",
+        "startTime": 42577,
+        "endTime": 44475,
+        "slowStartTime": 64016,
+        "slowEndTime": 66937
+    },
+    {
+        "text": "What tools do you see?",
+        "startTime": 45446,
+        "endTime": 47293,
+        "slowStartTime": 68319,
+        "slowEndTime": 71164
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "text": "I like purple paint.",
+        "startTime": 3557,
+        "endTime": 5265,
+        "slowStartTime": 5485,
+        "slowEndTime": 8122
+    },
+    {
+        "text": "I paint my swing purple.",
+        "startTime": 6459,
+        "endTime": 8288,
+        "slowStartTime": 9839,
+        "slowEndTime": 12657
+    },
+    {
+        "text": "I paint the fence purple.",
+        "startTime": 9400,
+        "endTime": 11189,
+        "slowStartTime": 14250,
+        "slowEndTime": 17008
+    },
+    {
+        "text": "I paint the hose purple.",
+        "startTime": 12257,
+        "endTime": 14162,
+        "slowStartTime": 18535,
+        "slowEndTime": 21468
+    },
+    {
+        "text": "I paint my shoes purple.",
+        "startTime": 15309,
+        "endTime": 17246,
+        "slowStartTime": 23114,
+        "slowEndTime": 26094
+    },
+    {
+        "text": "I paint the grass purple.",
+        "startTime": 18355,
+        "endTime": 20348,
+        "slowStartTime": 27682,
+        "slowEndTime": 30747
+    },
+    {
+        "text": "I paint the door purple.",
+        "startTime": 21447,
+        "endTime": 23332,
+        "slowStartTime": 32320,
+        "slowEndTime": 35223
+    },
+    {
+        "text": "I paint my mom purple.",
+        "startTime": 24395,
+        "endTime": 26477,
+        "slowStartTime": 36742,
+        "slowEndTime": 39940
+    },
+    {
+        "text": "Mom does not like purple paint.",
+        "startTime": 27448,
+        "endTime": 30014,
+        "slowStartTime": 41322,
+        "slowEndTime": 45246
+    },
+    {
+        "text": "What color do you like?",
+        "startTime": 33329,
+        "endTime": 34964,
+        "slowStartTime": 50144,
+        "slowEndTime": 52671
+    },
+    {
+        "text": "I like purple.",
+        "startTime": 36197,
+        "endTime": 37501,
+        "slowStartTime": 54446,
+        "slowEndTime": 56477
+    },
+    {
+        "text": "Do you like purple, too?",
+        "startTime": 38241,
+        "endTime": 39701,
+        "slowStartTime": 57511,
+        "slowEndTime": 59777
+    },
+    {
+        "text": "No, I don't like purple.",
+        "startTime": 40954,
+        "endTime": 43237,
+        "slowStartTime": 61581,
+        "slowEndTime": 65081
+    },
+    {
+        "text": "What animals does Jack like?",
+        "startTime": 44449,
+        "endTime": 46570,
+        "slowStartTime": 66824,
+        "slowEndTime": 70080
+    },
+    {
+        "text": "He likes snakes.",
+        "startTime": 47792,
+        "endTime": 49097,
+        "slowStartTime": 71838,
+        "slowEndTime": 73870
+    },
+    {
+        "text": "Does Karen like snakes, too?",
+        "startTime": 49579,
+        "endTime": 51675,
+        "slowStartTime": 74519,
+        "slowEndTime": 77737
+    },
+    {
+        "text": "No, she doesn't like snakes.",
+        "startTime": 52798,
+        "endTime": 55293,
+        "slowStartTime": 79347,
+        "slowEndTime": 83165
+    }
+]

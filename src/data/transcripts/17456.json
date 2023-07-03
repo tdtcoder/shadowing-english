@@ -1,0 +1,268 @@
+[
+    {
+        "text": "Wing went to Singapore to visit his Uncle Lee.",
+        "startTime": 2643,
+        "endTime": 6342,
+        "slowStartTime": 4115,
+        "slowEndTime": 9738
+    },
+    {
+        "text": "Singapore was hot.",
+        "startTime": 7539,
+        "endTime": 8997,
+        "slowStartTime": 11458,
+        "slowEndTime": 13720
+    },
+    {
+        "text": "Wing did not like to be hot.",
+        "startTime": 10152,
+        "endTime": 12543,
+        "slowStartTime": 15378,
+        "slowEndTime": 19039
+    },
+    {
+        "text": "Uncle Lee liked to fish when it was hot.",
+        "startTime": 13713,
+        "endTime": 16639,
+        "slowStartTime": 20719,
+        "slowEndTime": 25183
+    },
+    {
+        "text": "He took Wing to Bedok Jetty to fish.",
+        "startTime": 17782,
+        "endTime": 20994,
+        "slowStartTime": 26823,
+        "slowEndTime": 31716
+    },
+    {
+        "text": "Wing had never fished.",
+        "startTime": 22049,
+        "endTime": 23808,
+        "slowStartTime": 33223,
+        "slowEndTime": 35937
+    },
+    {
+        "text": "\"I don't like fishing,\" said Wing.",
+        "startTime": 24913,
+        "endTime": 28107,
+        "slowStartTime": 37519,
+        "slowEndTime": 42385
+    },
+    {
+        "text": "\"How do you know if you have never tried?\" asked Uncle Lee.",
+        "startTime": 29213,
+        "endTime": 33459,
+        "slowStartTime": 43969,
+        "slowEndTime": 50414
+    },
+    {
+        "text": "\"I just know,\" said Wing.",
+        "startTime": 34576,
+        "endTime": 37398,
+        "slowStartTime": 52014,
+        "slowEndTime": 56322
+    },
+    {
+        "text": "\"Will you try?\" asked Uncle Lee.",
+        "startTime": 38519,
+        "endTime": 41559,
+        "slowStartTime": 57928,
+        "slowEndTime": 62563
+    },
+    {
+        "text": "\"Can you teach me?\" asked Wing.",
+        "startTime": 42748,
+        "endTime": 45481,
+        "slowStartTime": 64272,
+        "slowEndTime": 68447
+    },
+    {
+        "text": "\"Yes,\" said Uncle Lee.",
+        "startTime": 46571,
+        "endTime": 49245,
+        "slowStartTime": 70006,
+        "slowEndTime": 74093
+    },
+    {
+        "text": "Uncle Lee gave Wing a fishing pole.",
+        "startTime": 50375,
+        "endTime": 52867,
+        "slowStartTime": 75713,
+        "slowEndTime": 79526
+    },
+    {
+        "text": "He showed Wing how to put a worm on the hook.",
+        "startTime": 53927,
+        "endTime": 57139,
+        "slowStartTime": 81041,
+        "slowEndTime": 85933
+    },
+    {
+        "text": "Uncle Lee threw his line into the water.",
+        "startTime": 58293,
+        "endTime": 61361,
+        "slowStartTime": 87590,
+        "slowEndTime": 92266
+    },
+    {
+        "text": "Wing threw his line into the water, too.",
+        "startTime": 62457,
+        "endTime": 65488,
+        "slowStartTime": 93836,
+        "slowEndTime": 98457
+    },
+    {
+        "text": "Uncle Lee felt something pull on his line.",
+        "startTime": 66703,
+        "endTime": 69894,
+        "slowStartTime": 100205,
+        "slowEndTime": 105066
+    },
+    {
+        "text": "Wing looked to see what it was.",
+        "startTime": 71027,
+        "endTime": 73503,
+        "slowStartTime": 106690,
+        "slowEndTime": 110480
+    },
+    {
+        "text": "Uncle Lee had caught a fish.",
+        "startTime": 74520,
+        "endTime": 76643,
+        "slowStartTime": 111930,
+        "slowEndTime": 115190
+    },
+    {
+        "text": "Wing wanted to catch a fish.",
+        "startTime": 77801,
+        "endTime": 79867,
+        "slowStartTime": 116851,
+        "slowEndTime": 120025
+    },
+    {
+        "text": "Uncle Lee had caught five fish.",
+        "startTime": 81029,
+        "endTime": 83520,
+        "slowStartTime": 121693,
+        "slowEndTime": 125505
+    },
+    {
+        "text": "Wing had not caught any.",
+        "startTime": 84577,
+        "endTime": 86665,
+        "slowStartTime": 127016,
+        "slowEndTime": 130222
+    },
+    {
+        "text": "\"I don't like fishing,\" said Wing.",
+        "startTime": 87705,
+        "endTime": 91116,
+        "slowStartTime": 131708,
+        "slowEndTime": 136899
+    },
+    {
+        "text": "\"You will catch a fish,\" said Uncle Lee.",
+        "startTime": 92244,
+        "endTime": 95723,
+        "slowStartTime": 138516,
+        "slowEndTime": 143810
+    },
+    {
+        "text": "Wing felt something pull on his line.",
+        "startTime": 96799,
+        "endTime": 99567,
+        "slowStartTime": 145349,
+        "slowEndTime": 149575
+    },
+    {
+        "text": "He looked to see what it was.",
+        "startTime": 100687,
+        "endTime": 102883,
+        "slowStartTime": 151180,
+        "slowEndTime": 154550
+    },
+    {
+        "text": "He did not see a fish.",
+        "startTime": 103939,
+        "endTime": 105802,
+        "slowStartTime": 156058,
+        "slowEndTime": 158928
+    },
+    {
+        "text": "Wing pulled his line out of the water.",
+        "startTime": 106894,
+        "endTime": 109615,
+        "slowStartTime": 160491,
+        "slowEndTime": 164648
+    },
+    {
+        "text": "The worm was gone!",
+        "startTime": 110791,
+        "endTime": 112419,
+        "slowStartTime": 166337,
+        "slowEndTime": 168853
+    },
+    {
+        "text": "Uncle Lee and Wing laughed together.",
+        "startTime": 113483,
+        "endTime": 116586,
+        "slowStartTime": 170374,
+        "slowEndTime": 175104
+    },
+    {
+        "text": "\"I want to try again,\" said Wing.",
+        "startTime": 117773,
+        "endTime": 121147,
+        "slowStartTime": 176809,
+        "slowEndTime": 181946
+    },
+    {
+        "text": "Uncle Lee put a worm on Wing's hook.",
+        "startTime": 122236,
+        "endTime": 125084,
+        "slowStartTime": 183504,
+        "slowEndTime": 187851
+    },
+    {
+        "text": "Wing threw his line into the water.",
+        "startTime": 126183,
+        "endTime": 128827,
+        "slowStartTime": 189425,
+        "slowEndTime": 193466
+    },
+    {
+        "text": "He felt something pull on his line.",
+        "startTime": 129915,
+        "endTime": 132499,
+        "slowStartTime": 195023,
+        "slowEndTime": 198973
+    },
+    {
+        "text": "Uncle Lee looked to see what it was.",
+        "startTime": 133621,
+        "endTime": 136616,
+        "slowStartTime": 200582,
+        "slowEndTime": 205149
+    },
+    {
+        "text": "Wing had caught a fish.",
+        "startTime": 137629,
+        "endTime": 139469,
+        "slowStartTime": 206593,
+        "slowEndTime": 209428
+    },
+    {
+        "text": "Wing had caught a big fish.",
+        "startTime": 140645,
+        "endTime": 143157,
+        "slowStartTime": 211117,
+        "slowEndTime": 214961
+    },
+    {
+        "text": "\"I like fishing in Singapore,\" said Wing.",
+        "startTime": 144284,
+        "endTime": 148175,
+        "slowStartTime": 216576,
+        "slowEndTime": 222488
+    }
+]

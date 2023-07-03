@@ -1,0 +1,387 @@
+[
+    {
+        "text": "Anna looked out her grandmother's window as dark clouds piled up in the sky.",
+        "startTime": 2737,
+        "endTime": 7981,
+        "slowStartTime": 4255,
+        "slowEndTime": 12196
+    },
+    {
+        "text": "\"I hope it doesn't rain, Oma.\",  Anna said.",
+        "startTime": 8961,
+        "endTime": 12469,
+        "slowStartTime": 13592,
+        "slowEndTime": 18928
+    },
+    {
+        "text": "\"Remember what Opa told you.\",  Oma said.",
+        "startTime": 13515,
+        "endTime": 17196,
+        "slowStartTime": 20423,
+        "slowEndTime": 26019
+    },
+    {
+        "text": "\"A little rain makes all things better,...",
+        "startTime": 18273,
+        "endTime": 21309,
+        "slowStartTime": 27559,
+        "slowEndTime": 32189
+    },
+    {
+        "text": "...not school picnics.\", said Anna.",
+        "startTime": 22349,
+        "endTime": 25681,
+        "slowStartTime": 33674,
+        "slowEndTime": 38747
+    },
+    {
+        "text": "\"True.\", Oma nodded, \"Rain and picnics are not so good.\".",
+        "startTime": 26674,
+        "endTime": 32770,
+        "slowStartTime": 40161,
+        "slowEndTime": 49380
+    },
+    {
+        "text": "Anna looked at the box of cupcakes with pink icing.",
+        "startTime": 33805,
+        "endTime": 37327,
+        "slowStartTime": 50858,
+        "slowEndTime": 56216
+    },
+    {
+        "text": "Oma and Anna had worked hard on them.",
+        "startTime": 38310,
+        "endTime": 40667,
+        "slowStartTime": 57615,
+        "slowEndTime": 61225
+    },
+    {
+        "text": "\"Rain is not good for cupcakes, either.\", said Anna.",
+        "startTime": 41689,
+        "endTime": 45913,
+        "slowStartTime": 62683,
+        "slowEndTime": 69095
+    },
+    {
+        "text": "Oma tapped her chin.",
+        "startTime": 46942,
+        "endTime": 48516,
+        "slowStartTime": 70563,
+        "slowEndTime": 72999
+    },
+    {
+        "text": "\"I wonder if you could.\", she murmured.",
+        "startTime": 49500,
+        "endTime": 53014,
+        "slowStartTime": 74400,
+        "slowEndTime": 79746
+    },
+    {
+        "text": "\"What?\", asked Anna.",
+        "startTime": 53983,
+        "endTime": 55914,
+        "slowStartTime": 81124,
+        "slowEndTime": 84096
+    },
+    {
+        "text": "\"No.\", Oma said, \"You are too young.\".",
+        "startTime": 56946,
+        "endTime": 62024,
+        "slowStartTime": 85569,
+        "slowEndTime": 93261
+    },
+    {
+        "text": "\"Tell me!\"",
+        "startTime": 63027,
+        "endTime": 63981,
+        "slowStartTime": 94691,
+        "slowEndTime": 96196
+    },
+    {
+        "text": "\"I was thinking,\" said Oma, \"about Opa's magic coat.\"",
+        "startTime": 64920,
+        "endTime": 72106,
+        "slowStartTime": 97530,
+        "slowEndTime": 108384
+    },
+    {
+        "text": "\"Magic coat?\" asked Anna.",
+        "startTime": 73096,
+        "endTime": 75975,
+        "slowStartTime": 109794,
+        "slowEndTime": 114187
+    },
+    {
+        "text": "\"It's the long coat, gray as a cloud, that hangs by the door,\" Oma said.",
+        "startTime": 76888,
+        "endTime": 83793,
+        "slowStartTime": 115482,
+        "slowEndTime": 125914
+    },
+    {
+        "text": "Quick as lightning, Anna ran to get the coat.",
+        "startTime": 84795,
+        "endTime": 88295,
+        "slowStartTime": 127342,
+        "slowEndTime": 132667
+    },
+    {
+        "text": "\"A sailor gave it to Opa long ago,\" said Oma.",
+        "startTime": 89317,
+        "endTime": 93939,
+        "slowStartTime": 134125,
+        "slowEndTime": 141133
+    },
+    {
+        "text": "\"Whoever wears it can choose the weather.\"",
+        "startTime": 94879,
+        "endTime": 98506,
+        "slowStartTime": 142469,
+        "slowEndTime": 147984
+    },
+    {
+        "text": "Anna put on the coat.",
+        "startTime": 99476,
+        "endTime": 101249,
+        "slowStartTime": 149364,
+        "slowEndTime": 152099
+    },
+    {
+        "text": "\"Oof, magic coats are heavy,\" she said.",
+        "startTime": 102223,
+        "endTime": 106734,
+        "slowStartTime": 153484,
+        "slowEndTime": 160326
+    },
+    {
+        "text": "She took her cupcakes, ran outside, and shouted at the rain clouds, \"Be gone!\"",
+        "startTime": 107683,
+        "endTime": 114336,
+        "slowStartTime": 161675,
+        "slowEndTime": 171729
+    },
+    {
+        "text": "At once, a wind played at Anna's feet.",
+        "startTime": 115284,
+        "endTime": 118587,
+        "slowStartTime": 173076,
+        "slowEndTime": 178106
+    },
+    {
+        "text": "It lifted the bottom of Opa's coat and spun up into the sky.",
+        "startTime": 119578,
+        "endTime": 124309,
+        "slowStartTime": 179517,
+        "slowEndTime": 186688
+    },
+    {
+        "text": "The wind sliced through the clouds, and the sky turned blue.",
+        "startTime": 125277,
+        "endTime": 129406,
+        "slowStartTime": 188066,
+        "slowEndTime": 194334
+    },
+    {
+        "text": "\"It works!\" sang Anna.",
+        "startTime": 130384,
+        "endTime": 133330,
+        "slowStartTime": 195726,
+        "slowEndTime": 200220
+    },
+    {
+        "text": "\"Wait!\" called Oma, but Anna was too far away to hear.",
+        "startTime": 134309,
+        "endTime": 139495,
+        "slowStartTime": 201614,
+        "slowEndTime": 209468
+    },
+    {
+        "text": "Anna set her cupcakes on the picnic table.",
+        "startTime": 140511,
+        "endTime": 143211,
+        "slowStartTime": 210917,
+        "slowEndTime": 215042
+    },
+    {
+        "text": "\"Tag! You're it!\" said Jayda.",
+        "startTime": 144211,
+        "endTime": 147309,
+        "slowStartTime": 216466,
+        "slowEndTime": 221188
+    },
+    {
+        "text": "Anna tried to run after Jayda, but Opa's coat wrapped around her feet.",
+        "startTime": 148329,
+        "endTime": 153021,
+        "slowStartTime": 222644,
+        "slowEndTime": 229756
+    },
+    {
+        "text": "\"You could run better without your coat,\" Ms. Storm said.",
+        "startTime": 154037,
+        "endTime": 157991,
+        "slowStartTime": 231206,
+        "slowEndTime": 237211
+    },
+    {
+        "text": "Anna peeked at the blue sky.",
+        "startTime": 158975,
+        "endTime": 160707,
+        "slowStartTime": 238612,
+        "slowEndTime": 241286
+    },
+    {
+        "text": "She undid the top button of Opa's coat, and a breeze tickled her cheek.",
+        "startTime": 161717,
+        "endTime": 166137,
+        "slowStartTime": 242726,
+        "slowEndTime": 249430
+    },
+    {
+        "text": "She undid the second button, and the breeze blew stronger.",
+        "startTime": 167151,
+        "endTime": 170989,
+        "slowStartTime": 250877,
+        "slowEndTime": 256709
+    },
+    {
+        "text": "She undid the third, and a black cloud went over the sun.",
+        "startTime": 171943,
+        "endTime": 175767,
+        "slowStartTime": 258065,
+        "slowEndTime": 263875
+    },
+    {
+        "text": "\"Oh well, I don't like tag anyway,\" said Anna.",
+        "startTime": 176773,
+        "endTime": 181068,
+        "slowStartTime": 265309,
+        "slowEndTime": 271827
+    },
+    {
+        "text": "She buttoned up the coat, and the sun came back.",
+        "startTime": 182023,
+        "endTime": 185026,
+        "slowStartTime": 273185,
+        "slowEndTime": 277764
+    },
+    {
+        "text": "\"Hide-and-seek!\" shouted the children.",
+        "startTime": 185924,
+        "endTime": 189232,
+        "slowStartTime": 279036,
+        "slowEndTime": 284073
+    },
+    {
+        "text": "\"Ms. Storm is it!\"",
+        "startTime": 190279,
+        "endTime": 192017,
+        "slowStartTime": 285569,
+        "slowEndTime": 288251
+    },
+    {
+        "text": "Anna hid behind a tree.",
+        "startTime": 193021,
+        "endTime": 194739,
+        "slowStartTime": 289681,
+        "slowEndTime": 292334
+    },
+    {
+        "text": "But Opa's magic coat stuck out, and Ms. Storm found her right away.",
+        "startTime": 195640,
+        "endTime": 200300,
+        "slowStartTime": 293610,
+        "slowEndTime": 300675
+    },
+    {
+        "text": "At last, it was time to eat.",
+        "startTime": 201289,
+        "endTime": 203114,
+        "slowStartTime": 302084,
+        "slowEndTime": 304896
+    },
+    {
+        "text": "But Anna was so hot in the magic coat that her tummy hurt.",
+        "startTime": 204056,
+        "endTime": 207660,
+        "slowStartTime": 306234,
+        "slowEndTime": 311715
+    },
+    {
+        "text": "She couldn't eat one bite.",
+        "startTime": 208677,
+        "endTime": 210239,
+        "slowStartTime": 313165,
+        "slowEndTime": 315584
+    },
+    {
+        "text": "\"Darn this magic coat!\" Anna said.",
+        "startTime": 211249,
+        "endTime": 214571,
+        "slowStartTime": 317024,
+        "slowEndTime": 322082
+    },
+    {
+        "text": "\"What fun is a picnic with no games or food?\"",
+        "startTime": 215528,
+        "endTime": 218883,
+        "slowStartTime": 323442,
+        "slowEndTime": 328549
+    },
+    {
+        "text": "Anna undid the buttons of Opa's coat and took it off.",
+        "startTime": 219879,
+        "endTime": 223407,
+        "slowStartTime": 329968,
+        "slowEndTime": 335336
+    },
+    {
+        "text": "The wind swirled around her feet and up into the sky.",
+        "startTime": 224345,
+        "endTime": 228145,
+        "slowStartTime": 336668,
+        "slowEndTime": 342442
+    },
+    {
+        "text": "Black clouds piled up, and fat raindrops fell.",
+        "startTime": 229126,
+        "endTime": 233063,
+        "slowStartTime": 343839,
+        "slowEndTime": 349820
+    },
+    {
+        "text": "\"Everyone run into the gym!\", shouted Ms. Storm.",
+        "startTime": 234039,
+        "endTime": 237803,
+        "slowStartTime": 351208,
+        "slowEndTime": 356930
+    },
+    {
+        "text": "The children grabbed their plates and ran inside.",
+        "startTime": 238811,
+        "endTime": 241601,
+        "slowStartTime": 358366,
+        "slowEndTime": 362627
+    },
+    {
+        "text": "Anna hung Opa's magic coat on a hook.",
+        "startTime": 242617,
+        "endTime": 245275,
+        "slowStartTime": 364076,
+        "slowEndTime": 368137
+    },
+    {
+        "text": "\"Who wants to play Red Rover?\", Jayda asked.",
+        "startTime": 246250,
+        "endTime": 249641,
+        "slowStartTime": 369525,
+        "slowEndTime": 374687
+    },
+    {
+        "text": "\"I do!\", said Anna, and she ran, quick as lightning, to play.",
+        "startTime": 250631,
+        "endTime": 255680,
+        "slowStartTime": 376096,
+        "slowEndTime": 383745
+    }
+]

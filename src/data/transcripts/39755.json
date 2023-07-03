@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Where are you, Ken?",
+        "startTime": 552,
+        "endTime": 2043,
+        "slowStartTime": 978,
+        "slowEndTime": 3289
+    },
+    {
+        "text": "I'm on the subway.",
+        "startTime": 3119,
+        "endTime": 4140,
+        "slowStartTime": 4829,
+        "slowEndTime": 6435
+    },
+    {
+        "text": "Where are you?",
+        "startTime": 4317,
+        "endTime": 5075,
+        "slowStartTime": 6625,
+        "slowEndTime": 7838
+    },
+    {
+        "text": "I'm at work, but I will leave soon.",
+        "startTime": 6185,
+        "endTime": 8068,
+        "slowStartTime": 9428,
+        "slowEndTime": 12327
+    },
+    {
+        "text": "Where is Mike?",
+        "startTime": 8722,
+        "endTime": 9583,
+        "slowStartTime": 13233,
+        "slowEndTime": 14599
+    },
+    {
+        "text": "He is at the restaurant.",
+        "startTime": 10291,
+        "endTime": 11310,
+        "slowStartTime": 15586,
+        "slowEndTime": 17190
+    },
+    {
+        "text": "He is waiting for us there.",
+        "startTime": 11523,
+        "endTime": 12803,
+        "slowStartTime": 17434,
+        "slowEndTime": 19430
+    },
+    {
+        "text": "Okay, I'll be there soon.",
+        "startTime": 14909,
+        "endTime": 16555,
+        "slowStartTime": 22513,
+        "slowEndTime": 25058
+    },
+    {
+        "text": "See you later!",
+        "startTime": 16967,
+        "endTime": 17785,
+        "slowStartTime": 25601,
+        "slowEndTime": 26902
+    },
+    {
+        "text": "See you soon!",
+        "startTime": 20151,
+        "endTime": 21127,
+        "slowStartTime": 30377,
+        "slowEndTime": 31915
+    },
+    {
+        "text": "Hello, Sam.",
+        "startTime": 23569,
+        "endTime": 24501,
+        "slowStartTime": 35504,
+        "slowEndTime": 36977
+    },
+    {
+        "text": "I'm in a museum now.",
+        "startTime": 25079,
+        "endTime": 26444,
+        "slowStartTime": 37768,
+        "slowEndTime": 39891
+    },
+    {
+        "text": "Do you want to join me?",
+        "startTime": 26683,
+        "endTime": 27927,
+        "slowStartTime": 40174,
+        "slowEndTime": 42115
+    },
+    {
+        "text": "Sorry, I can't.",
+        "startTime": 29014,
+        "endTime": 30325,
+        "slowStartTime": 43671,
+        "slowEndTime": 45713
+    },
+    {
+        "text": "Why?",
+        "startTime": 31156,
+        "endTime": 31522,
+        "slowStartTime": 46884,
+        "slowEndTime": 47508
+    },
+    {
+        "text": "Where are you now?",
+        "startTime": 31751,
+        "endTime": 32569,
+        "slowStartTime": 47776,
+        "slowEndTime": 49079
+    },
+    {
+        "text": "I'm at the beach.",
+        "startTime": 33420,
+        "endTime": 34335,
+        "slowStartTime": 50280,
+        "slowEndTime": 51727
+    },
+    {
+        "text": "Wow!",
+        "startTime": 35200,
+        "endTime": 35802,
+        "slowStartTime": 52950,
+        "slowEndTime": 53928
+    },
+    {
+        "text": "Enjoy the sea.",
+        "startTime": 36271,
+        "endTime": 37191,
+        "slowStartTime": 54557,
+        "slowEndTime": 56011
+    },
+    {
+        "text": "I will.",
+        "startTime": 37856,
+        "endTime": 38457,
+        "slowStartTime": 56934,
+        "slowEndTime": 57911
+    },
+    {
+        "text": "Thank you!",
+        "startTime": 38719,
+        "endTime": 39329,
+        "slowStartTime": 58229,
+        "slowEndTime": 59219
+    }
+]

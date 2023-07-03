@@ -1,0 +1,51 @@
+[
+    {
+        "text": "I just got back from Africa.",
+        "startTime": 499,
+        "endTime": 1765,
+        "slowStartTime": 899,
+        "slowEndTime": 2873
+    },
+    {
+        "text": "I'm sorry.",
+        "startTime": 1949,
+        "endTime": 2424,
+        "slowStartTime": 3073,
+        "slowEndTime": 3861
+    },
+    {
+        "text": "Okay, let me check my e-mail for a second.",
+        "startTime": 2499,
+        "endTime": 3734,
+        "slowStartTime": 3898,
+        "slowEndTime": 5826
+    },
+    {
+        "text": "Today, Diego, I need you to explore the city and capture its vibrancy.",
+        "startTime": 3903,
+        "endTime": 7267,
+        "slowStartTime": 6005,
+        "slowEndTime": 11126
+    },
+    {
+        "text": "Okay, I'll go.",
+        "startTime": 7390,
+        "endTime": 7959,
+        "slowStartTime": 11235,
+        "slowEndTime": 12164
+    },
+    {
+        "text": "Don't worry.",
+        "startTime": 8036,
+        "endTime": 8369,
+        "slowStartTime": 12204,
+        "slowEndTime": 12778
+    },
+    {
+        "text": "Be creative with the Samsung Galaxy Note II.",
+        "startTime": 27141,
+        "endTime": 29806,
+        "slowStartTime": 40861,
+        "slowEndTime": 44934
+    }
+]

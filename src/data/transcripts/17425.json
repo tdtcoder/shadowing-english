@@ -1,0 +1,226 @@
+[
+    {
+        "text": "I bet I can jump over the river.",
+        "startTime": 2531,
+        "endTime": 6277,
+        "slowStartTime": 3946,
+        "slowEndTime": 9641
+    },
+    {
+        "text": "said the bear.",
+        "startTime": 7321,
+        "endTime": 8381,
+        "slowStartTime": 11132,
+        "slowEndTime": 12796
+    },
+    {
+        "text": "I bet you can't.",
+        "startTime": 9511,
+        "endTime": 11872,
+        "slowStartTime": 14417,
+        "slowEndTime": 18033
+    },
+    {
+        "text": "said the kangaroo.",
+        "startTime": 12877,
+        "endTime": 14359,
+        "slowStartTime": 19465,
+        "slowEndTime": 21764
+    },
+    {
+        "text": "So the bear ran to the river.",
+        "startTime": 15393,
+        "endTime": 18420,
+        "slowStartTime": 23239,
+        "slowEndTime": 27855
+    },
+    {
+        "text": "He jumped.",
+        "startTime": 19469,
+        "endTime": 20409,
+        "slowStartTime": 29353,
+        "slowEndTime": 30838
+    },
+    {
+        "text": "Splash, went the bear.",
+        "startTime": 21532,
+        "endTime": 23746,
+        "slowStartTime": 32448,
+        "slowEndTime": 35844
+    },
+    {
+        "text": "He did not jump over the river.",
+        "startTime": 24806,
+        "endTime": 27347,
+        "slowStartTime": 37359,
+        "slowEndTime": 41245
+    },
+    {
+        "text": "I bet I can jump over the wall.",
+        "startTime": 28471,
+        "endTime": 31820,
+        "slowStartTime": 42857,
+        "slowEndTime": 47955
+    },
+    {
+        "text": "said the bear.",
+        "startTime": 32879,
+        "endTime": 33811,
+        "slowStartTime": 49468,
+        "slowEndTime": 50942
+    },
+    {
+        "text": "I bet you can't.",
+        "startTime": 34886,
+        "endTime": 37491,
+        "slowStartTime": 52479,
+        "slowEndTime": 56461
+    },
+    {
+        "text": "said the goat.",
+        "startTime": 38621,
+        "endTime": 39592,
+        "slowStartTime": 58082,
+        "slowEndTime": 59613
+    },
+    {
+        "text": "So the bear ran toward the tall wall.",
+        "startTime": 40711,
+        "endTime": 44789,
+        "slowStartTime": 61216,
+        "slowEndTime": 67408
+    },
+    {
+        "text": "He jumped.",
+        "startTime": 45880,
+        "endTime": 46829,
+        "slowStartTime": 68970,
+        "slowEndTime": 70468
+    },
+    {
+        "text": "Splat, went the bear.",
+        "startTime": 47886,
+        "endTime": 50155,
+        "slowStartTime": 71979,
+        "slowEndTime": 75457
+    },
+    {
+        "text": "He did not jump over the tall wall.",
+        "startTime": 51175,
+        "endTime": 54374,
+        "slowStartTime": 76912,
+        "slowEndTime": 81786
+    },
+    {
+        "text": "I bet I can swing on the rope.",
+        "startTime": 55393,
+        "endTime": 58758,
+        "slowStartTime": 83240,
+        "slowEndTime": 88362
+    },
+    {
+        "text": "said the bear.",
+        "startTime": 59771,
+        "endTime": 60727,
+        "slowStartTime": 89806,
+        "slowEndTime": 91316
+    },
+    {
+        "text": "I bet you can't.",
+        "startTime": 62009,
+        "endTime": 64341,
+        "slowStartTime": 93163,
+        "slowEndTime": 96737
+    },
+    {
+        "text": "said the fox.",
+        "startTime": 65551,
+        "endTime": 66681,
+        "slowStartTime": 98477,
+        "slowEndTime": 100246
+    },
+    {
+        "text": "So the bear grabbed the rope, ran, and jumped.",
+        "startTime": 67762,
+        "endTime": 73030,
+        "slowStartTime": 101793,
+        "slowEndTime": 109770
+    },
+    {
+        "text": "Snap, went the rope.",
+        "startTime": 74055,
+        "endTime": 76461,
+        "slowStartTime": 111232,
+        "slowEndTime": 114917
+    },
+    {
+        "text": "Down went the bear.",
+        "startTime": 77495,
+        "endTime": 79119,
+        "slowStartTime": 116392,
+        "slowEndTime": 118903
+    },
+    {
+        "text": "He did not swing on the rope.",
+        "startTime": 80207,
+        "endTime": 82653,
+        "slowStartTime": 120461,
+        "slowEndTime": 124205
+    },
+    {
+        "text": "I bet I can sleep all winter.",
+        "startTime": 83663,
+        "endTime": 87354,
+        "slowStartTime": 125645,
+        "slowEndTime": 131256
+    },
+    {
+        "text": "said the bear.",
+        "startTime": 88453,
+        "endTime": 89319,
+        "slowStartTime": 132830,
+        "slowEndTime": 134203
+    },
+    {
+        "text": "I bet you can't.",
+        "startTime": 90508,
+        "endTime": 92719,
+        "slowStartTime": 135912,
+        "slowEndTime": 139304
+    },
+    {
+        "text": "said the hawk.",
+        "startTime": 93873,
+        "endTime": 94795,
+        "slowStartTime": 140960,
+        "slowEndTime": 142417
+    },
+    {
+        "text": "So the bear went into a cave.",
+        "startTime": 95845,
+        "endTime": 99567,
+        "slowStartTime": 143918,
+        "slowEndTime": 149576
+    },
+    {
+        "text": "He curled up into a big ball.",
+        "startTime": 100495,
+        "endTime": 103529,
+        "slowStartTime": 150892,
+        "slowEndTime": 155518
+    },
+    {
+        "text": "Went the bear.",
+        "startTime": 107421,
+        "endTime": 108495,
+        "slowStartTime": 161282,
+        "slowEndTime": 162967
+    },
+    {
+        "text": "And he did sleep all winter.",
+        "startTime": 109567,
+        "endTime": 112686,
+        "slowStartTime": 164501,
+        "slowEndTime": 169254
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "text": "ISIS has claimed responsibility for the three explosions...",
+        "startTime": 1009,
+        "endTime": 4535,
+        "slowStartTime": 1664,
+        "slowEndTime": 7028
+    },
+    {
+        "text": "...that rocked Brussels early Tuesday morning,...",
+        "startTime": 4632,
+        "endTime": 6908,
+        "slowStartTime": 7098,
+        "slowEndTime": 10587
+    },
+    {
+        "text": "...two at the airport and one at a metro station in the heart of the capital.",
+        "startTime": 7580,
+        "endTime": 12147,
+        "slowStartTime": 11520,
+        "slowEndTime": 18445
+    },
+    {
+        "text": "At least 34 people have been killed while 130 have been injured.",
+        "startTime": 13098,
+        "endTime": 17703,
+        "slowStartTime": 19797,
+        "slowEndTime": 26780
+    },
+    {
+        "text": "In response to the bombing, Belgium has raised its terror alert to its maximum level.",
+        "startTime": 18709,
+        "endTime": 23942,
+        "slowStartTime": 28213,
+        "slowEndTime": 36138
+    },
+    {
+        "text": "A photograph taken from closed-circuit television...",
+        "startTime": 24906,
+        "endTime": 27763,
+        "slowStartTime": 37509,
+        "slowEndTime": 41869
+    },
+    {
+        "text": "...shows a man wearing a black hat, a light-colored jacket, and sunglasses...",
+        "startTime": 28082,
+        "endTime": 32990,
+        "slowStartTime": 42273,
+        "slowEndTime": 49710
+    },
+    {
+        "text": "...pushing an airport luggage cart alongside two other men...",
+        "startTime": 33421,
+        "endTime": 36553,
+        "slowStartTime": 50281,
+        "slowEndTime": 55055
+    },
+    {
+        "text": "...who are believed to have been the suicide bombers.",
+        "startTime": 37064,
+        "endTime": 39625,
+        "slowStartTime": 55746,
+        "slowEndTime": 59663
+    }
+]

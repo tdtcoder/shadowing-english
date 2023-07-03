@@ -1,0 +1,226 @@
+[
+    {
+        "text": "Natalie?",
+        "startTime": 644,
+        "endTime": 1059,
+        "slowStartTime": 1116,
+        "slowEndTime": 1814
+    },
+    {
+        "text": "Morning, Mr. Cobb.",
+        "startTime": 1197,
+        "endTime": 2033,
+        "slowStartTime": 1946,
+        "slowEndTime": 3275
+    },
+    {
+        "text": "Look, I'm gonna need to rearrange some meetings for today, free up some time midday.",
+        "startTime": 2233,
+        "endTime": 5551,
+        "slowStartTime": 3500,
+        "slowEndTime": 8552
+    },
+    {
+        "text": "You've got meetings midday.",
+        "startTime": 5648,
+        "endTime": 6644,
+        "slowStartTime": 8622,
+        "slowEndTime": 10191
+    },
+    {
+        "text": "I've got meetings all day.",
+        "startTime": 6769,
+        "endTime": 7527,
+        "slowStartTime": 10304,
+        "slowEndTime": 11515
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 7646,
+        "endTime": 7959,
+        "slowStartTime": 11619,
+        "slowEndTime": 12163
+    },
+    {
+        "text": "Maybe we can move this 1 o'clock to 5.",
+        "startTime": 8376,
+        "endTime": 10237,
+        "slowStartTime": 12714,
+        "slowEndTime": 15581
+    },
+    {
+        "text": "There's a meeting at 5.",
+        "startTime": 10334,
+        "endTime": 11587,
+        "slowStartTime": 15651,
+        "slowEndTime": 17606
+    },
+    {
+        "text": "But, I'm gonna need some time for lunch at some point.",
+        "startTime": 13135,
+        "endTime": 14991,
+        "slowStartTime": 19853,
+        "slowEndTime": 22711
+    },
+    {
+        "text": "What sort of lunch?",
+        "startTime": 15090,
+        "endTime": 15674,
+        "slowStartTime": 22785,
+        "slowEndTime": 23736
+    },
+    {
+        "text": "What?",
+        "startTime": 15762,
+        "endTime": 16035,
+        "slowStartTime": 23793,
+        "slowEndTime": 24278
+    },
+    {
+        "text": "What sort of lunch do you like?",
+        "startTime": 16283,
+        "endTime": 17164,
+        "slowStartTime": 24574,
+        "slowEndTime": 25971
+    },
+    {
+        "text": "I'll set up a meeting to discuss lunch options.",
+        "startTime": 17269,
+        "endTime": 19350,
+        "slowStartTime": 26054,
+        "slowEndTime": 29250
+    },
+    {
+        "text": "I don't want a meeting, I want to eat at 1 o'clock.",
+        "startTime": 19458,
+        "endTime": 21882,
+        "slowStartTime": 29337,
+        "slowEndTime": 33048
+    },
+    {
+        "text": "You've got a meeting at 1 o'clock.",
+        "startTime": 21989,
+        "endTime": 22961,
+        "slowStartTime": 33134,
+        "slowEndTime": 34667
+    },
+    {
+        "text": "I know I've got...",
+        "startTime": 23067,
+        "endTime": 23876,
+        "slowStartTime": 34751,
+        "slowEndTime": 36039
+    },
+    {
+        "text": "What is this one o'clock?",
+        "startTime": 24963,
+        "endTime": 25869,
+        "slowStartTime": 37594,
+        "slowEndTime": 39028
+    },
+    {
+        "text": "Boardroom availability.",
+        "startTime": 25969,
+        "endTime": 27317,
+        "slowStartTime": 39103,
+        "slowEndTime": 41200
+    },
+    {
+        "text": "What's that?",
+        "startTime": 27558,
+        "endTime": 27924,
+        "slowStartTime": 41487,
+        "slowEndTime": 42111
+    },
+    {
+        "text": "It's a meeting to discuss the availability of the boardrooms.",
+        "startTime": 28032,
+        "endTime": 30688,
+        "slowStartTime": 42198,
+        "slowEndTime": 46257
+    },
+    {
+        "text": "Availability for?",
+        "startTime": 31395,
+        "endTime": 32351,
+        "slowStartTime": 47243,
+        "slowEndTime": 48751
+    },
+    {
+        "text": "Meetings.",
+        "startTime": 32439,
+        "endTime": 33172,
+        "slowStartTime": 48809,
+        "slowEndTime": 49983
+    },
+    {
+        "text": "Right, so this is a meeting to discuss having a meeting.",
+        "startTime": 33519,
+        "endTime": 35885,
+        "slowStartTime": 50429,
+        "slowEndTime": 54052
+    },
+    {
+        "text": "No, that's at 4 p.m.",
+        "startTime": 36014,
+        "endTime": 37747,
+        "slowStartTime": 54171,
+        "slowEndTime": 56846
+    },
+    {
+        "text": "Right, let's strip some of this out.",
+        "startTime": 37977,
+        "endTime": 39053,
+        "slowStartTime": 57115,
+        "slowEndTime": 58804
+    },
+    {
+        "text": "Let's get rid of that boardroom meeting thing,...",
+        "startTime": 39137,
+        "endTime": 41131,
+        "slowStartTime": 58856,
+        "slowEndTime": 61922
+    },
+    {
+        "text": "...the conference call, and definitely the visits to the toilet.",
+        "startTime": 41757,
+        "endTime": 44261,
+        "slowStartTime": 62786,
+        "slowEndTime": 66617
+    },
+    {
+        "text": "That'll give me some time.",
+        "startTime": 44719,
+        "endTime": 46210,
+        "slowStartTime": 67229,
+        "slowEndTime": 69540
+    },
+    {
+        "text": "Who are you calling?",
+        "startTime": 47463,
+        "endTime": 48333,
+        "slowStartTime": 71345,
+        "slowEndTime": 72724
+    },
+    {
+        "text": "Heads of department.",
+        "startTime": 48462,
+        "endTime": 49348,
+        "slowStartTime": 72843,
+        "slowEndTime": 74247
+    },
+    {
+        "text": "Emergency meeting to discuss the rearrangement of your meeting schedule.",
+        "startTime": 49519,
+        "endTime": 52483,
+        "slowStartTime": 74429,
+        "slowEndTime": 78950
+    },
+    {
+        "text": "I'll pick out the afternoon.",
+        "startTime": 52685,
+        "endTime": 54017,
+        "slowStartTime": 79178,
+        "slowEndTime": 81251
+    }
+]

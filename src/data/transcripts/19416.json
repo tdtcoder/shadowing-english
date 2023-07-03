@@ -1,0 +1,205 @@
+[
+    {
+        "text": "Today I'm going to talk about word stress and questions versus statements.",
+        "startTime": 15,
+        "endTime": 5112,
+        "slowStartTime": 169,
+        "slowEndTime": 7893
+    },
+    {
+        "text": "In English, statements generally tend to go down in pitch throughout the phrase.",
+        "startTime": 5780,
+        "endTime": 11289,
+        "slowStartTime": 8820,
+        "slowEndTime": 17158
+    },
+    {
+        "text": "Questions, on the other hand, tend to go up at the end.",
+        "startTime": 12163,
+        "endTime": 15227,
+        "slowStartTime": 18394,
+        "slowEndTime": 23066
+    },
+    {
+        "text": "For example, \"You know what I mean.\"",
+        "startTime": 15687,
+        "endTime": 17911,
+        "slowStartTime": 23680,
+        "slowEndTime": 27092
+    },
+    {
+        "text": "This can be a statement if you're talking to somebody and you're explaining something...",
+        "startTime": 18477,
+        "endTime": 22947,
+        "slowStartTime": 27866,
+        "slowEndTime": 34646
+    },
+    {
+        "text": "...but you know that they understand, maybe because they've had the same experience.",
+        "startTime": 23435,
+        "endTime": 27815,
+        "slowStartTime": 35303,
+        "slowEndTime": 41947
+    },
+    {
+        "text": "You might say, \"You know what I mean.\"",
+        "startTime": 28352,
+        "endTime": 30431,
+        "slowStartTime": 42678,
+        "slowEndTime": 45871
+    },
+    {
+        "text": "Statement.",
+        "startTime": 31095,
+        "endTime": 31816,
+        "slowStartTime": 46793,
+        "slowEndTime": 47949
+    },
+    {
+        "text": "But if you're talking and you wanna make sure that the person is understanding you,...",
+        "startTime": 32537,
+        "endTime": 36773,
+        "slowStartTime": 48955,
+        "slowEndTime": 55385
+    },
+    {
+        "text": "...you might say, \"You know what I mean?\"",
+        "startTime": 37011,
+        "endTime": 38924,
+        "slowStartTime": 55667,
+        "slowEndTime": 58611
+    },
+    {
+        "text": "Asking a question.",
+        "startTime": 39539,
+        "endTime": 40670,
+        "slowStartTime": 59458,
+        "slowEndTime": 61230
+    },
+    {
+        "text": "Statement: You know what I mean, you know what I mean.",
+        "startTime": 41310,
+        "endTime": 45255,
+        "slowStartTime": 62115,
+        "slowEndTime": 68107
+    },
+    {
+        "text": "Voice goes down.",
+        "startTime": 45667,
+        "endTime": 46601,
+        "slowStartTime": 68651,
+        "slowEndTime": 70127
+    },
+    {
+        "text": "Question:  You know what I mean?",
+        "startTime": 47356,
+        "endTime": 49405,
+        "slowStartTime": 71184,
+        "slowEndTime": 74332
+    },
+    {
+        "text": "You know what I mean?",
+        "startTime": 50143,
+        "endTime": 51006,
+        "slowStartTime": 75364,
+        "slowEndTime": 76734
+    },
+    {
+        "text": "Voice goes up at the end.",
+        "startTime": 52001,
+        "endTime": 53213,
+        "slowStartTime": 78152,
+        "slowEndTime": 80044
+    },
+    {
+        "text": "\"See you tomorrow.\"",
+        "startTime": 53849,
+        "endTime": 54784,
+        "slowStartTime": 80924,
+        "slowEndTime": 82401
+    },
+    {
+        "text": "Let's say you're at work and you know that you're going to be at work tomorrow and so is your colleague.",
+        "startTime": 55339,
+        "endTime": 60423,
+        "slowStartTime": 83159,
+        "slowEndTime": 90859
+    },
+    {
+        "text": "When you part ways, you might say, \"See you tomorrow.\"",
+        "startTime": 60950,
+        "endTime": 63849,
+        "slowStartTime": 91575,
+        "slowEndTime": 95999
+    },
+    {
+        "text": "Statement.",
+        "startTime": 64308,
+        "endTime": 64981,
+        "slowStartTime": 96612,
+        "slowEndTime": 97697
+    },
+    {
+        "text": "But maybe you're not sure that your colleague will be there.",
+        "startTime": 65731,
+        "endTime": 68105,
+        "slowStartTime": 98747,
+        "slowEndTime": 102383
+    },
+    {
+        "text": "Then you might say, \"See you tomorrow?\"",
+        "startTime": 68398,
+        "endTime": 70602,
+        "slowStartTime": 102747,
+        "slowEndTime": 106128
+    },
+    {
+        "text": "Question.",
+        "startTime": 71033,
+        "endTime": 71707,
+        "slowStartTime": 106699,
+        "slowEndTime": 107786
+    },
+    {
+        "text": "That would be like asking, \"Are you going to be in tomorrow?\"",
+        "startTime": 72060,
+        "endTime": 75177,
+        "slowStartTime": 108240,
+        "slowEndTime": 112990
+    },
+    {
+        "text": "See you tomorrow?",
+        "startTime": 75583,
+        "endTime": 76628,
+        "slowStartTime": 113524,
+        "slowEndTime": 115167
+    },
+    {
+        "text": "Statement: See you tomorrow.",
+        "startTime": 77797,
+        "endTime": 79645,
+        "slowStartTime": 116845,
+        "slowEndTime": 119693
+    },
+    {
+        "text": "Voice goes down.",
+        "startTime": 80034,
+        "endTime": 80952,
+        "slowStartTime": 120201,
+        "slowEndTime": 121653
+    },
+    {
+        "text": "Question: See you tomorrow?",
+        "startTime": 81433,
+        "endTime": 83363,
+        "slowStartTime": 122300,
+        "slowEndTime": 125269
+    },
+    {
+        "text": "Voice goes up at the end.",
+        "startTime": 83847,
+        "endTime": 85104,
+        "slowStartTime": 125920,
+        "slowEndTime": 127881
+    }
+]

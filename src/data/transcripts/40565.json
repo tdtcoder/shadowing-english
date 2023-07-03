@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Where were you last night?",
+        "startTime": 18,
+        "endTime": 1210,
+        "slowStartTime": 177,
+        "slowEndTime": 2040
+    },
+    {
+        "text": "I was at work.",
+        "startTime": 1927,
+        "endTime": 3303,
+        "slowStartTime": 3041,
+        "slowEndTime": 5179
+    },
+    {
+        "text": "Really?",
+        "startTime": 4465,
+        "endTime": 5307,
+        "slowStartTime": 6847,
+        "slowEndTime": 8186
+    },
+    {
+        "text": "I was at your shop.",
+        "startTime": 5655,
+        "endTime": 7043,
+        "slowStartTime": 8632,
+        "slowEndTime": 10790
+    },
+    {
+        "text": "You weren't there.",
+        "startTime": 7460,
+        "endTime": 8535,
+        "slowStartTime": 11340,
+        "slowEndTime": 13027
+    },
+    {
+        "text": "No, I was in the back, working.",
+        "startTime": 8885,
+        "endTime": 11031,
+        "slowStartTime": 13478,
+        "slowEndTime": 16771
+    },
+    {
+        "text": "You were?",
+        "startTime": 11296,
+        "endTime": 12185,
+        "slowStartTime": 17094,
+        "slowEndTime": 18503
+    },
+    {
+        "text": "Really?",
+        "startTime": 13817,
+        "endTime": 14415,
+        "slowStartTime": 20876,
+        "slowEndTime": 21848
+    },
+    {
+        "text": "I was there.",
+        "startTime": 14577,
+        "endTime": 15479,
+        "slowStartTime": 22016,
+        "slowEndTime": 23444
+    }
+]

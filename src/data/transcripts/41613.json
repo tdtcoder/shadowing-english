@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Now, Japan has unveiled plans...",
+        "startTime": 300,
+        "endTime": 1849,
+        "slowStartTime": 600,
+        "slowEndTime": 2998
+    },
+    {
+        "text": "...for its biggest military build-up since World War II.",
+        "startTime": 1984,
+        "endTime": 5018,
+        "slowStartTime": 3126,
+        "slowEndTime": 7752
+    },
+    {
+        "text": "The government says it will double defense spending,...",
+        "startTime": 5182,
+        "endTime": 7875,
+        "slowStartTime": 7923,
+        "slowEndTime": 12037
+    },
+    {
+        "text": "...bringing it up to the NATO standard of 2% of GDP.",
+        "startTime": 8123,
+        "endTime": 12609,
+        "slowStartTime": 12334,
+        "slowEndTime": 19139
+    },
+    {
+        "text": "Japan's move away from a self-defense only stance...",
+        "startTime": 12745,
+        "endTime": 16564,
+        "slowStartTime": 19267,
+        "slowEndTime": 25071
+    },
+    {
+        "text": "...comes as it seeks to counter regional threats.",
+        "startTime": 16656,
+        "endTime": 19261,
+        "slowStartTime": 25134,
+        "slowEndTime": 29117
+    },
+    {
+        "text": "It plans to acquire long-range missiles capable of striking China.",
+        "startTime": 19569,
+        "endTime": 23590,
+        "slowStartTime": 29503,
+        "slowEndTime": 35610
+    },
+    {
+        "text": "Beijing said the plans undermine bilateral relations.",
+        "startTime": 23897,
+        "endTime": 28297,
+        "slowStartTime": 35996,
+        "slowEndTime": 42670
+    }
+]

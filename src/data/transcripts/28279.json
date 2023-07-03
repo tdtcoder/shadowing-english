@@ -1,0 +1,51 @@
+[
+    {
+        "text": "﻿Stop jerking the trigger.",
+        "startTime": 9817,
+        "endTime": 10918,
+        "slowStartTime": 14875,
+        "slowEndTime": 16602
+    },
+    {
+        "text": "You're still jerking the trigger.",
+        "startTime": 13723,
+        "endTime": 15017,
+        "slowStartTime": 20734,
+        "slowEndTime": 22751
+    },
+    {
+        "text": "Hey, it's not as easy as it looks.",
+        "startTime": 15416,
+        "endTime": 17445,
+        "slowStartTime": 23274,
+        "slowEndTime": 26393
+    },
+    {
+        "text": "Well, you're closer to the target than I am.",
+        "startTime": 28988,
+        "endTime": 31267,
+        "slowStartTime": 43632,
+        "slowEndTime": 47126
+    },
+    {
+        "text": "Finally.",
+        "startTime": 54736,
+        "endTime": 55239,
+        "slowStartTime": 82254,
+        "slowEndTime": 83083
+    },
+    {
+        "text": "You know what, I don't need you to...",
+        "startTime": 55490,
+        "endTime": 57174,
+        "slowStartTime": 83385,
+        "slowEndTime": 85986
+    },
+    {
+        "text": "Who referred you to us?",
+        "startTime": 65081,
+        "endTime": 66607,
+        "slowStartTime": 97772,
+        "slowEndTime": 100135
+    }
+]

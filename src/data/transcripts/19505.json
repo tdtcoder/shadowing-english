@@ -1,0 +1,79 @@
+[
+    {
+        "text": "What is this?",
+        "startTime": 797,
+        "endTime": 1421,
+        "slowStartTime": 1346,
+        "slowEndTime": 2356
+    },
+    {
+        "text": "This is the plan to help take the company green.",
+        "startTime": 1541,
+        "endTime": 3313,
+        "slowStartTime": 2462,
+        "slowEndTime": 5194
+    },
+    {
+        "text": "Green?",
+        "startTime": 3564,
+        "endTime": 3965,
+        "slowStartTime": 5496,
+        "slowEndTime": 6173
+    },
+    {
+        "text": "You mean like light bulbs, recycling?",
+        "startTime": 4065,
+        "endTime": 6289,
+        "slowStartTime": 6248,
+        "slowEndTime": 9659
+    },
+    {
+        "text": "These guys got everything:...",
+        "startTime": 6563,
+        "endTime": 7598,
+        "slowStartTime": 9995,
+        "slowEndTime": 11622
+    },
+    {
+        "text": "...data centers, PCs, networking supply chains, top to bottom.",
+        "startTime": 7719,
+        "endTime": 10989,
+        "slowStartTime": 11728,
+        "slowEndTime": 16709
+    },
+    {
+        "text": "Cute.",
+        "startTime": 11368,
+        "endTime": 11565,
+        "slowStartTime": 17202,
+        "slowEndTime": 17573
+    },
+    {
+        "text": "But where is the business value in tree hugging?",
+        "startTime": 12006,
+        "endTime": 14047,
+        "slowStartTime": 18159,
+        "slowEndTime": 21296
+    },
+    {
+        "text": "They could cut our energy cost by as much as 40 percent.",
+        "startTime": 16840,
+        "endTime": 19157,
+        "slowStartTime": 25410,
+        "slowEndTime": 28961
+    },
+    {
+        "text": "40 percent?",
+        "startTime": 19406,
+        "endTime": 19857,
+        "slowStartTime": 29259,
+        "slowEndTime": 30010
+    },
+    {
+        "text": "40 percent.",
+        "startTime": 20156,
+        "endTime": 20933,
+        "slowStartTime": 30384,
+        "slowEndTime": 31520
+    }
+]

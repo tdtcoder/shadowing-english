@@ -1,0 +1,86 @@
+[
+    {
+        "text": "In Egypt, a Russian airline rules out any technical failure...",
+        "startTime": 3108,
+        "endTime": 6923,
+        "slowStartTime": 4812,
+        "slowEndTime": 10609
+    },
+    {
+        "text": "...or human error in Saturday's crash and blames \"external reasons\"...",
+        "startTime": 7020,
+        "endTime": 11032,
+        "slowStartTime": 10680,
+        "slowEndTime": 16773
+    },
+    {
+        "text": "...for the disaster that killed all 224 people aboard.",
+        "startTime": 11227,
+        "endTime": 14493,
+        "slowStartTime": 16991,
+        "slowEndTime": 21964
+    },
+    {
+        "text": "In Syria, the Russian defense ministry says its air force bombed...",
+        "startTime": 15266,
+        "endTime": 19226,
+        "slowStartTime": 23049,
+        "slowEndTime": 29064
+    },
+    {
+        "text": "...the area around the Islamic State-held ancient city of Palmyra.",
+        "startTime": 19339,
+        "endTime": 22995,
+        "slowStartTime": 29158,
+        "slowEndTime": 34717
+    },
+    {
+        "text": "In Switzerland, the United Nations refugee agency...",
+        "startTime": 23803,
+        "endTime": 26942,
+        "slowStartTime": 35854,
+        "slowEndTime": 40638
+    },
+    {
+        "text": "...says that with little more than 218,000 arrivals,...",
+        "startTime": 27290,
+        "endTime": 30860,
+        "slowStartTime": 41085,
+        "slowEndTime": 46515
+    },
+    {
+        "text": "...October's migrant flow to Europe roughly matched the whole of 2014.",
+        "startTime": 31065,
+        "endTime": 35483,
+        "slowStartTime": 46747,
+        "slowEndTime": 53450
+    },
+    {
+        "text": "Heavy snow blankets northwest China's Xinjiang Uighur Autonomous Region,...",
+        "startTime": 36017,
+        "endTime": 40290,
+        "slowStartTime": 54176,
+        "slowEndTime": 60660
+    },
+    {
+        "text": "...seriously disrupting local traffic.",
+        "startTime": 40667,
+        "endTime": 42797,
+        "slowStartTime": 61150,
+        "slowEndTime": 64421
+    },
+    {
+        "text": "And finally from Mexico, Mexican navy rescues four fishermen from Colombia and Ecuador...",
+        "startTime": 44883,
+        "endTime": 50215,
+        "slowStartTime": 67474,
+        "slowEndTime": 75547
+    },
+    {
+        "text": "...who spent more than a month adrift in a small boat.",
+        "startTime": 50612,
+        "endTime": 53286,
+        "slowStartTime": 76068,
+        "slowEndTime": 80154
+    }
+]

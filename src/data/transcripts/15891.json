@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Why does Frank Reardon spend hours searching dozens of travel sites...",
+        "startTime": 761,
+        "endTime": 4866,
+        "slowStartTime": 1292,
+        "slowEndTime": 7524
+    },
+    {
+        "text": "...instead of comparing hundreds of sites at once with Kayak.com?",
+        "startTime": 5376,
+        "endTime": 9202,
+        "slowStartTime": 8214,
+        "slowEndTime": 14028
+    },
+    {
+        "text": "Someday, I'll create a technology that compares hundreds of travel sites at once...",
+        "startTime": 14483,
+        "endTime": 18517,
+        "slowStartTime": 21875,
+        "slowEndTime": 28001
+    },
+    {
+        "text": "...and you will never get to use it.",
+        "startTime": 18933,
+        "endTime": 21105,
+        "slowStartTime": 28550,
+        "slowEndTime": 31883
+    },
+    {
+        "text": "Why?",
+        "startTime": 22539,
+        "endTime": 23037,
+        "slowStartTime": 33959,
+        "slowEndTime": 34781
+    },
+    {
+        "text": "Because Frank Reardon is banned from Kayak for life.",
+        "startTime": 23590,
+        "endTime": 26986,
+        "slowStartTime": 35535,
+        "slowEndTime": 40704
+    },
+    {
+        "text": "Kayak,...",
+        "startTime": 27777,
+        "endTime": 28236,
+        "slowStartTime": 41815,
+        "slowEndTime": 42579
+    },
+    {
+        "text": "...search one and done.",
+        "startTime": 28441,
+        "endTime": 29769,
+        "slowStartTime": 42812,
+        "slowEndTime": 44879
+    }
+]

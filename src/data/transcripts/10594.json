@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Farm Fun. By Alyssa Liang, Carlene Hamley.",
+        "startTime": 1250,
+        "endTime": 8250,
+        "slowStartTime": 2200,
+        "slowEndTime": 12500
+    },
+    {
+        "text": "This is a rooster.",
+        "startTime": 9500,
+        "endTime": 12050,
+        "slowStartTime": 14500,
+        "slowEndTime": 18200
+    },
+    {
+        "text": "The rooster is singing.",
+        "startTime": 13200,
+        "endTime": 16800,
+        "slowStartTime": 20050,
+        "slowEndTime": 25320
+    },
+    {
+        "text": "That is a cow.",
+        "startTime": 20550,
+        "endTime": 23450,
+        "slowStartTime": 31100,
+        "slowEndTime": 35250
+    },
+    {
+        "text": "The cow is eating.",
+        "startTime": 26500,
+        "endTime": 30500,
+        "slowStartTime": 40050,
+        "slowEndTime": 45800
+    },
+    {
+        "text": "This is a horse.",
+        "startTime": 32550,
+        "endTime": 35700,
+        "slowStartTime": 49100,
+        "slowEndTime": 53600
+    },
+    {
+        "text": "The horse is running.",
+        "startTime": 38750,
+        "endTime": 42700,
+        "slowStartTime": 58400,
+        "slowEndTime": 64200
+    },
+    {
+        "text": "That is a bird.",
+        "startTime": 44850,
+        "endTime": 47850,
+        "slowStartTime": 67540,
+        "slowEndTime": 72020
+    },
+    {
+        "text": "The bird is flying.",
+        "startTime": 50500,
+        "endTime": 54550,
+        "slowStartTime": 76050,
+        "slowEndTime": 82000
+    },
+    {
+        "text": "This is a cat.",
+        "startTime": 57250,
+        "endTime": 60550,
+        "slowStartTime": 86100,
+        "slowEndTime": 90900
+    },
+    {
+        "text": "The cat is laughing.",
+        "startTime": 63050,
+        "endTime": 66900,
+        "slowStartTime": 94900,
+        "slowEndTime": 100400
+    },
+    {
+        "text": "That is a mouse.",
+        "startTime": 71250,
+        "endTime": 74600,
+        "slowStartTime": 107200,
+        "slowEndTime": 112000
+    },
+    {
+        "text": "The mouse is hiding.",
+        "startTime": 75300,
+        "endTime": 79400,
+        "slowStartTime": 113250,
+        "slowEndTime": 119200
+    }
+]

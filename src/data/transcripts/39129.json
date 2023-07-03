@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Excuse me!",
+        "startTime": 266,
+        "endTime": 817,
+        "slowStartTime": 549,
+        "slowEndTime": 1451
+    },
+    {
+        "text": "Can I help you?",
+        "startTime": 1876,
+        "endTime": 2565,
+        "slowStartTime": 2964,
+        "slowEndTime": 4072
+    },
+    {
+        "text": "Yes. Where is the post office?",
+        "startTime": 2933,
+        "endTime": 4376,
+        "slowStartTime": 4549,
+        "slowEndTime": 6789
+    },
+    {
+        "text": "The post office?",
+        "startTime": 4741,
+        "endTime": 5619,
+        "slowStartTime": 7261,
+        "slowEndTime": 8654
+    },
+    {
+        "text": "It's over there, next to the cafe.",
+        "startTime": 6112,
+        "endTime": 8311,
+        "slowStartTime": 9318,
+        "slowEndTime": 12692
+    },
+    {
+        "text": "Ah, yes. I can see it. Thanks",
+        "startTime": 8691,
+        "endTime": 11127,
+        "slowStartTime": 13187,
+        "slowEndTime": 16916
+    },
+    {
+        "text": "Sorry. I'm on holiday here and I don't know my way around.",
+        "startTime": 11693,
+        "endTime": 13981,
+        "slowStartTime": 17689,
+        "slowEndTime": 21197
+    },
+    {
+        "text": "No problem.",
+        "startTime": 14147,
+        "endTime": 14748,
+        "slowStartTime": 21370,
+        "slowEndTime": 22347
+    },
+    {
+        "text": "Bye.",
+        "startTime": 15123,
+        "endTime": 15405,
+        "slowStartTime": 22835,
+        "slowEndTime": 23332
+    },
+    {
+        "text": "Goodbye!",
+        "startTime": 15567,
+        "endTime": 15944,
+        "slowStartTime": 23500,
+        "slowEndTime": 24141
+    },
+    {
+        "text": "And have a nice holiday.",
+        "startTime": 16247,
+        "endTime": 17150,
+        "slowStartTime": 24521,
+        "slowEndTime": 25950
+    },
+    {
+        "text": "Thanks a lot.",
+        "startTime": 17445,
+        "endTime": 18041,
+        "slowStartTime": 26317,
+        "slowEndTime": 27287
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "text": "Look at this skeleton.",
+        "startTime": 923,
+        "endTime": 2453,
+        "slowStartTime": 1535,
+        "slowEndTime": 3904
+    },
+    {
+        "text": "How is it different from your skeleton?",
+        "startTime": 3537,
+        "endTime": 5711,
+        "slowStartTime": 5455,
+        "slowEndTime": 8791
+    },
+    {
+        "text": "Do you know what it is?",
+        "startTime": 6862,
+        "endTime": 8291,
+        "slowStartTime": 10443,
+        "slowEndTime": 12661
+    },
+    {
+        "text": "CLUE: This animal swims.",
+        "startTime": 9364,
+        "endTime": 12195,
+        "slowStartTime": 14196,
+        "slowEndTime": 18517
+    },
+    {
+        "text": "It's a blue whale.",
+        "startTime": 13335,
+        "endTime": 14819,
+        "slowStartTime": 20152,
+        "slowEndTime": 22454
+    },
+    {
+        "text": "It has no leg bones.",
+        "startTime": 15825,
+        "endTime": 17611,
+        "slowStartTime": 23888,
+        "slowEndTime": 26641
+    },
+    {
+        "text": "Its arms are flippers.",
+        "startTime": 18717,
+        "endTime": 20713,
+        "slowStartTime": 28226,
+        "slowEndTime": 31295
+    },
+    {
+        "text": "Whales are supported by the water.",
+        "startTime": 21853,
+        "endTime": 24027,
+        "slowStartTime": 32930,
+        "slowEndTime": 36266
+    },
+    {
+        "text": "If a whale lived on land, its skeleton would have to be much stronger.",
+        "startTime": 25145,
+        "endTime": 29933,
+        "slowStartTime": 37868,
+        "slowEndTime": 45124
+    },
+    {
+        "text": "Look at this skeleton.",
+        "startTime": 30995,
+        "endTime": 32635,
+        "slowStartTime": 46642,
+        "slowEndTime": 49178
+    },
+    {
+        "text": "How is it different from your skeleton?",
+        "startTime": 33608,
+        "endTime": 35994,
+        "slowStartTime": 50562,
+        "slowEndTime": 54216
+    },
+    {
+        "text": "Do you know what it is?",
+        "startTime": 37067,
+        "endTime": 38563,
+        "slowStartTime": 55750,
+        "slowEndTime": 58069
+    },
+    {
+        "text": "CLUE: This animal runs well.",
+        "startTime": 39658,
+        "endTime": 42688,
+        "slowStartTime": 59637,
+        "slowEndTime": 64257
+    },
+    {
+        "text": "It's a horse.",
+        "startTime": 43717,
+        "endTime": 44757,
+        "slowStartTime": 65726,
+        "slowEndTime": 67361
+    },
+    {
+        "text": "It has long legs for running.",
+        "startTime": 45886,
+        "endTime": 47883,
+        "slowStartTime": 68979,
+        "slowEndTime": 72049
+    },
+    {
+        "text": "A horse has a large rib cage to keep its large lungs safe.",
+        "startTime": 48955,
+        "endTime": 53565,
+        "slowStartTime": 73583,
+        "slowEndTime": 80573
+    },
+    {
+        "text": "It needs large lungs to take in lots of air when it runs.",
+        "startTime": 54694,
+        "endTime": 58870,
+        "slowStartTime": 82191,
+        "slowEndTime": 88530
+    },
+    {
+        "text": "Look at this skeleton.",
+        "startTime": 60021,
+        "endTime": 61483,
+        "slowStartTime": 90182,
+        "slowEndTime": 92450
+    },
+    {
+        "text": "How is it different from your skeleton?",
+        "startTime": 62568,
+        "endTime": 64875,
+        "slowStartTime": 94002,
+        "slowEndTime": 97538
+    },
+    {
+        "text": "Do you know what it is?",
+        "startTime": 65815,
+        "endTime": 67144,
+        "slowStartTime": 98873,
+        "slowEndTime": 100941
+    },
+    {
+        "text": "CLUE: This animal slithers.",
+        "startTime": 68317,
+        "endTime": 71125,
+        "slowStartTime": 102626,
+        "slowEndTime": 106913
+    },
+    {
+        "text": "It's a snake.",
+        "startTime": 72132,
+        "endTime": 73305,
+        "slowStartTime": 108348,
+        "slowEndTime": 110183
+    },
+    {
+        "text": "It has no arms or legs.",
+        "startTime": 74234,
+        "endTime": 76386,
+        "slowStartTime": 111501,
+        "slowEndTime": 114804
+    },
+    {
+        "text": "Its skeleton is one long backbone with ribs.",
+        "startTime": 77426,
+        "endTime": 81391,
+        "slowStartTime": 116289,
+        "slowEndTime": 122311
+    },
+    {
+        "text": "Look at these skulls, or head bones.",
+        "startTime": 82430,
+        "endTime": 85383,
+        "slowStartTime": 123795,
+        "slowEndTime": 128299
+    },
+    {
+        "text": "These are the skulls of the animals in this book.",
+        "startTime": 86479,
+        "endTime": 89308,
+        "slowStartTime": 129868,
+        "slowEndTime": 134187
+    },
+    {
+        "text": "Look at how their shapes and parts are different.",
+        "startTime": 90337,
+        "endTime": 93079,
+        "slowStartTime": 135656,
+        "slowEndTime": 139843
+    },
+    {
+        "text": "Each animal's skeleton is perfect for the way it lives.",
+        "startTime": 94141,
+        "endTime": 97995,
+        "slowStartTime": 141361,
+        "slowEndTime": 147217
+    },
+    {
+        "text": "It has the right kind of teeth for the food it eats.",
+        "startTime": 99179,
+        "endTime": 102499,
+        "slowStartTime": 148918,
+        "slowEndTime": 153973
+    },
+    {
+        "text": "It has the right kind of skeleton for the support it needs.",
+        "startTime": 103583,
+        "endTime": 107314,
+        "slowStartTime": 155524,
+        "slowEndTime": 161196
+    },
+    {
+        "text": "It has the right kind of skeleton for the way it moves.",
+        "startTime": 108353,
+        "endTime": 111785,
+        "slowStartTime": 162680,
+        "slowEndTime": 167902
+    },
+    {
+        "text": "And so do you.",
+        "startTime": 112913,
+        "endTime": 114098,
+        "slowStartTime": 169520,
+        "slowEndTime": 171372
+    }
+]

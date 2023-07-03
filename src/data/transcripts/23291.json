@@ -1,0 +1,86 @@
+[
+    {
+        "text": "In Turkey, officials recover 24 bodies...",
+        "startTime": 3047,
+        "endTime": 5987,
+        "slowStartTime": 4720,
+        "slowEndTime": 9205
+    },
+    {
+        "text": "...after a boat believed to be carrying illegal migrants sank off the coast of Istanbul.",
+        "startTime": 6291,
+        "endTime": 11190,
+        "slowStartTime": 9586,
+        "slowEndTime": 17010
+    },
+    {
+        "text": "In India and Pakistan, funerals are held for family members killed in a suicide attack...",
+        "startTime": 13740,
+        "endTime": 19185,
+        "slowStartTime": 20760,
+        "slowEndTime": 29003
+    },
+    {
+        "text": "...that left more than 55 dead and hundreds wounded.",
+        "startTime": 19541,
+        "endTime": 22961,
+        "slowStartTime": 29461,
+        "slowEndTime": 34666
+    },
+    {
+        "text": "In Ukraine, pro-Russian separatist Alexander Zakharchenko...",
+        "startTime": 27005,
+        "endTime": 31023,
+        "slowStartTime": 40658,
+        "slowEndTime": 46760
+    },
+    {
+        "text": "...was declared the winner in the rebel elections...",
+        "startTime": 31325,
+        "endTime": 33781,
+        "slowStartTime": 47137,
+        "slowEndTime": 50897
+    },
+    {
+        "text": "...while Kiev and the West denounce the vote.",
+        "startTime": 34087,
+        "endTime": 36691,
+        "slowStartTime": 51280,
+        "slowEndTime": 55261
+    },
+    {
+        "text": "In Syria, Islamic State militants claim they now control a gas field...",
+        "startTime": 36925,
+        "endTime": 41337,
+        "slowStartTime": 55537,
+        "slowEndTime": 62230
+    },
+    {
+        "text": "...in the central province of Homs.",
+        "startTime": 41477,
+        "endTime": 43292,
+        "slowStartTime": 62365,
+        "slowEndTime": 65163
+    },
+    {
+        "text": "This is the second gas field seized in a week.",
+        "startTime": 43871,
+        "endTime": 46516,
+        "slowStartTime": 65956,
+        "slowEndTime": 69999
+    },
+    {
+        "text": "And finally from Romania, the presidential election is going to a runoff vote...",
+        "startTime": 47239,
+        "endTime": 51588,
+        "slowStartTime": 71009,
+        "slowEndTime": 77607
+    },
+    {
+        "text": "...after no candidate earned a majority in Sunday's first round.",
+        "startTime": 51973,
+        "endTime": 55379,
+        "slowStartTime": 78109,
+        "slowEndTime": 83294
+    }
+]

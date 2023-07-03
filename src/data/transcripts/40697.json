@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Shannon Craft visited this Chicago area food pantry...",
+        "startTime": 1118,
+        "endTime": 4618,
+        "slowStartTime": 1827,
+        "slowEndTime": 7152
+    },
+    {
+        "text": "...for the first time last month,...",
+        "startTime": 4757,
+        "endTime": 6283,
+        "slowStartTime": 7286,
+        "slowEndTime": 9650
+    },
+    {
+        "text": "...collecting a bag of groceries for her family.",
+        "startTime": 6929,
+        "endTime": 9277,
+        "slowStartTime": 10544,
+        "slowEndTime": 14141
+    },
+    {
+        "text": "She'd used federal food stamps to buy groceries,...",
+        "startTime": 9829,
+        "endTime": 12331,
+        "slowStartTime": 14894,
+        "slowEndTime": 18721
+    },
+    {
+        "text": "...but rising prices over the summer meant that assistance fell short.",
+        "startTime": 12893,
+        "endTime": 16498,
+        "slowStartTime": 19489,
+        "slowEndTime": 24972
+    },
+    {
+        "text": "That's why she came here.",
+        "startTime": 16918,
+        "endTime": 18493,
+        "slowStartTime": 25527,
+        "slowEndTime": 27964
+    },
+    {
+        "text": "Inflation is through the roof.",
+        "startTime": 18980,
+        "endTime": 20304,
+        "slowStartTime": 28620,
+        "slowEndTime": 30681
+    },
+    {
+        "text": "You got to decide between medication and food.",
+        "startTime": 20565,
+        "endTime": 25025,
+        "slowStartTime": 30997,
+        "slowEndTime": 37762
+    },
+    {
+        "text": "She's not alone.",
+        "startTime": 25527,
+        "endTime": 26571,
+        "slowStartTime": 38441,
+        "slowEndTime": 40082
+    },
+    {
+        "text": "Nourishing Hope has seen a 40% increase in visitors this year so far.",
+        "startTime": 27185,
+        "endTime": 31932,
+        "slowStartTime": 40927,
+        "slowEndTime": 48123
+    },
+    {
+        "text": "Rising hunger is a problem for U.S. president Joe Biden.",
+        "startTime": 32746,
+        "endTime": 36047,
+        "slowStartTime": 49269,
+        "slowEndTime": 54296
+    },
+    {
+        "text": "He's set to host the first White House summit on hunger in 50 years...",
+        "startTime": 36867,
+        "endTime": 40890,
+        "slowStartTime": 55450,
+        "slowEndTime": 61560
+    },
+    {
+        "text": "...and is pledging to eliminate hunger in the U.S. by 2030.",
+        "startTime": 41327,
+        "endTime": 44879,
+        "slowStartTime": 62140,
+        "slowEndTime": 67544
+    }
+]

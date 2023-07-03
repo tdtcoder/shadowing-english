@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Syrian security forces kill 14 people and detain more than 200 in continued violence.",
+        "startTime": 6651,
+        "endTime": 13700,
+        "slowStartTime": 10127,
+        "slowEndTime": 20775
+    },
+    {
+        "text": "Yemeni security forces kill two anti - government protesters and wound several others.",
+        "startTime": 16150,
+        "endTime": 22112,
+        "slowStartTime": 24375,
+        "slowEndTime": 33393
+    },
+    {
+        "text": "Thousands march on Mexico City to protest deadly drug violence.",
+        "startTime": 24519,
+        "endTime": 29024,
+        "slowStartTime": 36929,
+        "slowEndTime": 43761
+    },
+    {
+        "text": "Egyptian Coptic Christians call for government resignations after several days of religious violence. ",
+        "startTime": 32485,
+        "endTime": 39404,
+        "slowStartTime": 48878,
+        "slowEndTime": 59331
+    },
+    {
+        "text": "Russia celebrates the 66th anniversary of the collapse of Nazi Germany.",
+        "startTime": 44139,
+        "endTime": 49480,
+        "slowStartTime": 66358,
+        "slowEndTime": 74445
+    },
+    {
+        "text": "Record flooding continues on the banks of the Mississippi River in the southern United States. ",
+        "startTime": 52816,
+        "endTime": 58574,
+        "slowStartTime": 79374,
+        "slowEndTime": 88086
+    }
+]

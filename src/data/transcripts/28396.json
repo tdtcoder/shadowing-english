@@ -1,0 +1,72 @@
+[
+    {
+        "text": "﻿In the US, a US court turned down an emergency appeal by the White House...",
+        "startTime": 4653,
+        "endTime": 8739,
+        "slowStartTime": 7129,
+        "slowEndTime": 13334
+    },
+    {
+        "text": "...to keep in place President Donald Trump's temporary immigration ban for seven countries.",
+        "startTime": 9108,
+        "endTime": 13529,
+        "slowStartTime": 13812,
+        "slowEndTime": 20519
+    },
+    {
+        "text": "In the Philippines, citing environmental reasons,...",
+        "startTime": 16797,
+        "endTime": 19350,
+        "slowStartTime": 25345,
+        "slowEndTime": 29250
+    },
+    {
+        "text": "...the environment minister issues a decision to close half of the country's mines.",
+        "startTime": 19691,
+        "endTime": 24027,
+        "slowStartTime": 29687,
+        "slowEndTime": 36265
+    },
+    {
+        "text": "In Romania, protests continue to surge in Bucharest...",
+        "startTime": 26653,
+        "endTime": 30011,
+        "slowStartTime": 40130,
+        "slowEndTime": 45241
+    },
+    {
+        "text": "...despite the government's repeal of a controversial corruption decree.",
+        "startTime": 30463,
+        "endTime": 33749,
+        "slowStartTime": 45845,
+        "slowEndTime": 50848
+    },
+    {
+        "text": "In Colombia, Fuerzas Armadas Revolucionarias de Colombia or FARC rebels...",
+        "startTime": 35356,
+        "endTime": 40583,
+        "slowStartTime": 53184,
+        "slowEndTime": 61099
+    },
+    {
+        "text": "...continue their trek towards demobilization camps.",
+        "startTime": 40757,
+        "endTime": 43459,
+        "slowStartTime": 61286,
+        "slowEndTime": 65413
+    },
+    {
+        "text": "And finally from Turkey, 400 suspected members of the Islamic State are detained...",
+        "startTime": 45699,
+        "endTime": 50440,
+        "slowStartTime": 68699,
+        "slowEndTime": 75885
+    },
+    {
+        "text": "...in anti-terror raids carried out in six provinces.",
+        "startTime": 50551,
+        "endTime": 53829,
+        "slowStartTime": 75977,
+        "slowEndTime": 80968
+    }
+]

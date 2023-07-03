@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Hi, I'm Julia.",
+        "startTime": 211,
+        "endTime": 1663,
+        "slowStartTime": 466,
+        "slowEndTime": 2719
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 2413,
+        "endTime": 3431,
+        "slowStartTime": 3769,
+        "slowEndTime": 5371
+    },
+    {
+        "text": "My name is Nat.",
+        "startTime": 3831,
+        "endTime": 4904,
+        "slowStartTime": 5896,
+        "slowEndTime": 7581
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 7035,
+        "endTime": 7829,
+        "slowStartTime": 10702,
+        "slowEndTime": 11969
+    },
+    {
+        "text": "My name is Craig.",
+        "startTime": 8343,
+        "endTime": 9666,
+        "slowStartTime": 12664,
+        "slowEndTime": 14724
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 11076,
+        "endTime": 12019,
+        "slowStartTime": 16764,
+        "slowEndTime": 18253
+    },
+    {
+        "text": "My name is Sarah.",
+        "startTime": 12271,
+        "endTime": 13401,
+        "slowStartTime": 18557,
+        "slowEndTime": 20326
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 13953,
+        "endTime": 14869,
+        "slowStartTime": 21079,
+        "slowEndTime": 22528
+    },
+    {
+        "text": "My name is Joshua.",
+        "startTime": 15411,
+        "endTime": 16409,
+        "slowStartTime": 23266,
+        "slowEndTime": 24838
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 17300,
+        "endTime": 18201,
+        "slowStartTime": 26100,
+        "slowEndTime": 27527
+    },
+    {
+        "text": "Elena.",
+        "startTime": 18637,
+        "endTime": 19277,
+        "slowStartTime": 28106,
+        "slowEndTime": 29140
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 20223,
+        "endTime": 21176,
+        "slowStartTime": 30485,
+        "slowEndTime": 31989
+    },
+    {
+        "text": "Padma.",
+        "startTime": 22059,
+        "endTime": 22706,
+        "slowStartTime": 33238,
+        "slowEndTime": 34284
+    },
+    {
+        "text": "Hello.",
+        "startTime": 23649,
+        "endTime": 24538,
+        "slowStartTime": 35624,
+        "slowEndTime": 37032
+    },
+    {
+        "text": "Hi.",
+        "startTime": 25065,
+        "endTime": 25741,
+        "slowStartTime": 37747,
+        "slowEndTime": 38836
+    },
+    {
+        "text": "How are you?",
+        "startTime": 27158,
+        "endTime": 27821,
+        "slowStartTime": 40887,
+        "slowEndTime": 41956
+    },
+    {
+        "text": "Good.",
+        "startTime": 28173,
+        "endTime": 28677,
+        "slowStartTime": 42410,
+        "slowEndTime": 43241
+    },
+    {
+        "text": "Nice to meet you.",
+        "startTime": 29367,
+        "endTime": 30329,
+        "slowStartTime": 44200,
+        "slowEndTime": 45718
+    },
+    {
+        "text": "Nice to meet you, too.",
+        "startTime": 30444,
+        "endTime": 31497,
+        "slowStartTime": 45816,
+        "slowEndTime": 47470
+    },
+    {
+        "text": "And what's your name, please?",
+        "startTime": 31642,
+        "endTime": 32719,
+        "slowStartTime": 47613,
+        "slowEndTime": 49304
+    },
+    {
+        "text": "Victory.",
+        "startTime": 33030,
+        "endTime": 33879,
+        "slowStartTime": 49695,
+        "slowEndTime": 51044
+    },
+    {
+        "text": "Victory!",
+        "startTime": 34494,
+        "endTime": 35150,
+        "slowStartTime": 51891,
+        "slowEndTime": 52950
+    },
+    {
+        "text": "Victory.",
+        "startTime": 35493,
+        "endTime": 35851,
+        "slowStartTime": 53389,
+        "slowEndTime": 54001
+    }
+]

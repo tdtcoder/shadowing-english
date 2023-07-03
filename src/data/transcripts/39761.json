@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Good morning.",
+        "startTime": 366,
+        "endTime": 1043,
+        "slowStartTime": 699,
+        "slowEndTime": 1790
+    },
+    {
+        "text": "I'm Shin.",
+        "startTime": 1217,
+        "endTime": 1989,
+        "slowStartTime": 1975,
+        "slowEndTime": 3209
+    },
+    {
+        "text": "Good morning, Shin.",
+        "startTime": 2615,
+        "endTime": 3627,
+        "slowStartTime": 4073,
+        "slowEndTime": 5665
+    },
+    {
+        "text": "I'm Lin.",
+        "startTime": 3957,
+        "endTime": 4727,
+        "slowStartTime": 6085,
+        "slowEndTime": 7315
+    },
+    {
+        "text": "Nice to meet you.",
+        "startTime": 5015,
+        "endTime": 6087,
+        "slowStartTime": 7673,
+        "slowEndTime": 9356
+    },
+    {
+        "text": "Nice to meet you, too.",
+        "startTime": 6482,
+        "endTime": 7740,
+        "slowStartTime": 9873,
+        "slowEndTime": 11835
+    },
+    {
+        "text": "Hi!",
+        "startTime": 9351,
+        "endTime": 9867,
+        "slowStartTime": 14176,
+        "slowEndTime": 15025
+    },
+    {
+        "text": "My name is Steve.",
+        "startTime": 10258,
+        "endTime": 11199,
+        "slowStartTime": 15537,
+        "slowEndTime": 17024
+    },
+    {
+        "text": "Hi there, my name is Earl.",
+        "startTime": 12452,
+        "endTime": 13843,
+        "slowStartTime": 18828,
+        "slowEndTime": 20990
+    },
+    {
+        "text": "My name is Cameron, but you can call me Cam.",
+        "startTime": 14331,
+        "endTime": 16577,
+        "slowStartTime": 21646,
+        "slowEndTime": 25091
+    },
+    {
+        "text": "You must be Changmin.",
+        "startTime": 17743,
+        "endTime": 19086,
+        "slowStartTime": 26764,
+        "slowEndTime": 28854
+    },
+    {
+        "text": "Hi! My name is Katherine.",
+        "startTime": 19380,
+        "endTime": 21341,
+        "slowStartTime": 29220,
+        "slowEndTime": 32237
+    },
+    {
+        "text": "I've been looking forward to meeting you.",
+        "startTime": 21542,
+        "endTime": 23399,
+        "slowStartTime": 32463,
+        "slowEndTime": 35323
+    },
+    {
+        "text": "Oh, hi!",
+        "startTime": 23579,
+        "endTime": 24187,
+        "slowStartTime": 35518,
+        "slowEndTime": 36505
+    },
+    {
+        "text": "I'm Changmin.",
+        "startTime": 24357,
+        "endTime": 25171,
+        "slowStartTime": 36685,
+        "slowEndTime": 37982
+    },
+    {
+        "text": "Nice to meet you.",
+        "startTime": 25523,
+        "endTime": 26446,
+        "slowStartTime": 38435,
+        "slowEndTime": 39894
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "text": "How would you like me to cut your hair today, sir?",
+        "startTime": 2181,
+        "endTime": 4711,
+        "slowStartTime": 3422,
+        "slowEndTime": 7292
+    },
+    {
+        "text": "I want to try Beckham's new hairstyle.",
+        "startTime": 5175,
+        "endTime": 7223,
+        "slowStartTime": 7913,
+        "slowEndTime": 11060
+    },
+    {
+        "text": "You want quite a bit taken off I see.",
+        "startTime": 7522,
+        "endTime": 9682,
+        "slowStartTime": 11433,
+        "slowEndTime": 14748
+    },
+    {
+        "text": "Yeah, I feel like a change would do me good.",
+        "startTime": 9905,
+        "endTime": 12369,
+        "slowStartTime": 15007,
+        "slowEndTime": 18778
+    },
+    {
+        "text": "Well, I think that style will look really good on you.",
+        "startTime": 12553,
+        "endTime": 15781,
+        "slowStartTime": 18979,
+        "slowEndTime": 23897
+    },
+    {
+        "text": "But if you don't mind, I would like to recommend another one.",
+        "startTime": 16076,
+        "endTime": 19095,
+        "slowStartTime": 24264,
+        "slowEndTime": 28867
+    },
+    {
+        "text": "Do you recommend any other kind of style?",
+        "startTime": 19343,
+        "endTime": 21502,
+        "slowStartTime": 29165,
+        "slowEndTime": 32478
+    },
+    {
+        "text": "How about Brad Pitt's?",
+        "startTime": 21711,
+        "endTime": 23206,
+        "slowStartTime": 32716,
+        "slowEndTime": 35034
+    },
+    {
+        "text": "That's really in these days.",
+        "startTime": 23437,
+        "endTime": 24950,
+        "slowStartTime": 35306,
+        "slowEndTime": 37650
+    },
+    {
+        "text": "Brad Pitt? Isn't that a little old-fashioned?",
+        "startTime": 25209,
+        "endTime": 27809,
+        "slowStartTime": 37964,
+        "slowEndTime": 41938
+    },
+    {
+        "text": "No, they're coming back now.",
+        "startTime": 27983,
+        "endTime": 29727,
+        "slowStartTime": 42124,
+        "slowEndTime": 44815
+    },
+    {
+        "text": "Here, have a look at these photos.",
+        "startTime": 29995,
+        "endTime": 32119,
+        "slowStartTime": 45143,
+        "slowEndTime": 48403
+    },
+    {
+        "text": "Yeah, that looks really good. Good call!",
+        "startTime": 32499,
+        "endTime": 34981,
+        "slowStartTime": 48899,
+        "slowEndTime": 52696
+    }
+]

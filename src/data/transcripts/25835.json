@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Japanese start-up Vinclu Inc. released a video this week...",
+        "startTime": 341,
+        "endTime": 3455,
+        "slowStartTime": 661,
+        "slowEndTime": 5408
+    },
+    {
+        "text": "...showing off their hologram assistant.",
+        "startTime": 3537,
+        "endTime": 6107,
+        "slowStartTime": 5456,
+        "slowEndTime": 9386
+    },
+    {
+        "text": "It's called Gatebox...",
+        "startTime": 6424,
+        "endTime": 7471,
+        "slowStartTime": 9786,
+        "slowEndTime": 11431
+    },
+    {
+        "text": "...and it's designed to be similar in function to other virtual assistants...",
+        "startTime": 7543,
+        "endTime": 10610,
+        "slowStartTime": 11465,
+        "slowEndTime": 16140
+    },
+    {
+        "text": "...like Alexa, Siri and Cortana.",
+        "startTime": 10715,
+        "endTime": 12685,
+        "slowStartTime": 16222,
+        "slowEndTime": 19253
+    },
+    {
+        "text": "The name of Gatebox's digital assistant is Azuma Hikari...",
+        "startTime": 12854,
+        "endTime": 15873,
+        "slowStartTime": 19431,
+        "slowEndTime": 24035
+    },
+    {
+        "text": "...and she will wake you up in the morning, wish you farewell when you leave...",
+        "startTime": 15971,
+        "endTime": 19597,
+        "slowStartTime": 24106,
+        "slowEndTime": 29620
+    },
+    {
+        "text": "...and greet you when you arrive home at the end of the day.",
+        "startTime": 20151,
+        "endTime": 22147,
+        "slowStartTime": 30377,
+        "slowEndTime": 33445
+    },
+    {
+        "text": "It also works with the Internet of Things...",
+        "startTime": 22710,
+        "endTime": 24107,
+        "slowStartTime": 34215,
+        "slowEndTime": 36385
+    },
+    {
+        "text": "...so Azuma can connect to compatible devices in your house...",
+        "startTime": 24287,
+        "endTime": 27031,
+        "slowStartTime": 36580,
+        "slowEndTime": 40772
+    },
+    {
+        "text": "...and give you information like the weather on demand.",
+        "startTime": 27208,
+        "endTime": 29810,
+        "slowStartTime": 40962,
+        "slowEndTime": 44940
+    }
+]

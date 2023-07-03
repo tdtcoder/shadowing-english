@@ -1,0 +1,86 @@
+[
+    {
+        "text": "﻿Serena Williams.",
+        "startTime": 579,
+        "endTime": 1641,
+        "slowStartTime": 1018,
+        "slowEndTime": 2686
+    },
+    {
+        "text": "Hey, Watson.",
+        "startTime": 1911,
+        "endTime": 2559,
+        "slowStartTime": 3016,
+        "slowEndTime": 4064
+    },
+    {
+        "text": "You are a fierce competitor.",
+        "startTime": 2815,
+        "endTime": 4279,
+        "slowStartTime": 4373,
+        "slowEndTime": 6643
+    },
+    {
+        "text": "I've heard that.",
+        "startTime": 4429,
+        "endTime": 5124,
+        "slowStartTime": 6793,
+        "slowEndTime": 7911
+    },
+    {
+        "text": "I have analyzed your biggest matches.",
+        "startTime": 5387,
+        "endTime": 7534,
+        "slowStartTime": 8231,
+        "slowEndTime": 11526
+    },
+    {
+        "text": "Oh, really?",
+        "startTime": 7669,
+        "endTime": 8276,
+        "slowStartTime": 11653,
+        "slowEndTime": 12639
+    },
+    {
+        "text": "When down a point, you serve an ace 5.8 times more than other top players.",
+        "startTime": 8662,
+        "endTime": 13299,
+        "slowStartTime": 13143,
+        "slowEndTime": 20173
+    },
+    {
+        "text": "You sound like a coach.",
+        "startTime": 13411,
+        "endTime": 14663,
+        "slowStartTime": 20266,
+        "slowEndTime": 22220
+    },
+    {
+        "text": "I am not but I can customize training programs based on biomarker data.",
+        "startTime": 14807,
+        "endTime": 19377,
+        "slowStartTime": 22360,
+        "slowEndTime": 29291
+    },
+    {
+        "text": "Watson, that's pretty impressive.",
+        "startTime": 19544,
+        "endTime": 21135,
+        "slowStartTime": 29466,
+        "slowEndTime": 31927
+    },
+    {
+        "text": "You might say, \"I am the Serena Williams of cloud-based cognitive systems.\"",
+        "startTime": 21264,
+        "endTime": 25242,
+        "slowStartTime": 32046,
+        "slowEndTime": 38088
+    },
+    {
+        "text": "Nah, I wouldn't go that far.",
+        "startTime": 25849,
+        "endTime": 27372,
+        "slowStartTime": 38924,
+        "slowEndTime": 41283
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Hi friends!",
+        "startTime": 904,
+        "endTime": 1560,
+        "slowStartTime": 1506,
+        "slowEndTime": 2565
+    },
+    {
+        "text": "How are you?",
+        "startTime": 1629,
+        "endTime": 2180,
+        "slowStartTime": 2593,
+        "slowEndTime": 3495
+    },
+    {
+        "text": "I'm visiting a new city and I do not know where the places are.",
+        "startTime": 2954,
+        "endTime": 7509,
+        "slowStartTime": 4581,
+        "slowEndTime": 11489
+    },
+    {
+        "text": "So let's learn how to ask for directions and give addresses in English.",
+        "startTime": 8672,
+        "endTime": 12859,
+        "slowStartTime": 13158,
+        "slowEndTime": 19514
+    },
+    {
+        "text": "I'm going to ask for this kind man.",
+        "startTime": 13897,
+        "endTime": 16865,
+        "slowStartTime": 20995,
+        "slowEndTime": 25522
+    },
+    {
+        "text": "Hello, excuse me, could you tell me where is the main square?",
+        "startTime": 19035,
+        "endTime": 22976,
+        "slowStartTime": 28702,
+        "slowEndTime": 34689
+    },
+    {
+        "text": "To ask for directions, we can also use, \"How do I get to the main square?\"",
+        "startTime": 23985,
+        "endTime": 28713,
+        "slowStartTime": 36127,
+        "slowEndTime": 43294
+    },
+    {
+        "text": "...or, \"What's the best way to the main square?\"",
+        "startTime": 29006,
+        "endTime": 31423,
+        "slowStartTime": 43659,
+        "slowEndTime": 47359
+    },
+    {
+        "text": "Remember to be polite and say:...",
+        "startTime": 32773,
+        "endTime": 34719,
+        "slowStartTime": 49309,
+        "slowEndTime": 52303
+    },
+    {
+        "text": "\"Excuse me, could you tell me or can you tell me.\"",
+        "startTime": 34800,
+        "endTime": 38167,
+        "slowStartTime": 52350,
+        "slowEndTime": 57476
+    },
+    {
+        "text": "Go straight on until you come to the square.",
+        "startTime": 40163,
+        "endTime": 42573,
+        "slowStartTime": 60395,
+        "slowEndTime": 64084
+    },
+    {
+        "text": "And you know what's the best way to the station?",
+        "startTime": 43297,
+        "endTime": 45414,
+        "slowStartTime": 65096,
+        "slowEndTime": 68346
+    },
+    {
+        "text": "The bus station is on the right and the train station is on the left.",
+        "startTime": 46283,
+        "endTime": 51062,
+        "slowStartTime": 69574,
+        "slowEndTime": 76818
+    },
+    {
+        "text": "Great, thanks!",
+        "startTime": 51363,
+        "endTime": 52629,
+        "slowStartTime": 77194,
+        "slowEndTime": 79169
+    }
+]

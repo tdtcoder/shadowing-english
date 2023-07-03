@@ -1,0 +1,44 @@
+[
+    {
+        "text": "There were reports of an earthquake near North Korea's nuclear testing site.",
+        "startTime": 836,
+        "endTime": 4718,
+        "slowStartTime": 1404,
+        "slowEndTime": 7302
+    },
+    {
+        "text": "This was followed by a North Korea state television special announcement...",
+        "startTime": 5741,
+        "endTime": 9709,
+        "slowStartTime": 8762,
+        "slowEndTime": 14789
+    },
+    {
+        "text": "...saying it successfully tested a Hydrogen bomb.",
+        "startTime": 10331,
+        "endTime": 13341,
+        "slowStartTime": 15646,
+        "slowEndTime": 20237
+    },
+    {
+        "text": "Japan and South Korea promised to punish North Korea for their actions.",
+        "startTime": 14556,
+        "endTime": 18569,
+        "slowStartTime": 21984,
+        "slowEndTime": 28079
+    },
+    {
+        "text": "The United States have spoken against the test...",
+        "startTime": 19376,
+        "endTime": 22336,
+        "slowStartTime": 29214,
+        "slowEndTime": 33729
+    },
+    {
+        "text": "...but are still trying to prove North Korea's claim.",
+        "startTime": 22386,
+        "endTime": 25292,
+        "slowStartTime": 33729,
+        "slowEndTime": 38163
+    }
+]

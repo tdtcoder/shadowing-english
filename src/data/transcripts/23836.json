@@ -1,0 +1,30 @@
+[
+    {
+        "text": "One day, machines will be sprayed to be made,...",
+        "startTime": 1406,
+        "endTime": 5049,
+        "slowStartTime": 2259,
+        "slowEndTime": 7798
+    },
+    {
+        "text": "...and making something stronger will mean making it lighter.",
+        "startTime": 7467,
+        "endTime": 12063,
+        "slowStartTime": 11351,
+        "slowEndTime": 18320
+    },
+    {
+        "text": "One day, factories will work with the cloud.",
+        "startTime": 14694,
+        "endTime": 17701,
+        "slowStartTime": 22191,
+        "slowEndTime": 26776
+    },
+    {
+        "text": "One day is today.",
+        "startTime": 21125,
+        "endTime": 24657,
+        "slowStartTime": 31838,
+        "slowEndTime": 37210
+    }
+]

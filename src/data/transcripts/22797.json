@@ -1,0 +1,65 @@
+[
+    {
+        "text": "﻿That sounds good. I'll take that one.",
+        "startTime": 2957,
+        "endTime": 5219,
+        "slowStartTime": 4586,
+        "slowEndTime": 8054
+    },
+    {
+        "text": "Dinner? That sounds good.",
+        "startTime": 6955,
+        "endTime": 9027,
+        "slowStartTime": 10582,
+        "slowEndTime": 13766
+    },
+    {
+        "text": "Yes. A bottle of wine sounds great.",
+        "startTime": 13889,
+        "endTime": 16407,
+        "slowStartTime": 20983,
+        "slowEndTime": 24835
+    },
+    {
+        "text": "Sounds great, I'll try anything.",
+        "startTime": 18507,
+        "endTime": 20026,
+        "slowStartTime": 27910,
+        "slowEndTime": 30264
+    },
+    {
+        "text": "Yes, that sounds perfect. Where can I see that?",
+        "startTime": 25795,
+        "endTime": 28884,
+        "slowStartTime": 38842,
+        "slowEndTime": 43551
+    },
+    {
+        "text": "That's a good idea. It will save you some time.",
+        "startTime": 34021,
+        "endTime": 36473,
+        "slowStartTime": 51181,
+        "slowEndTime": 54934
+    },
+    {
+        "text": "Okay, good idea. She may have some good suggestions.",
+        "startTime": 38736,
+        "endTime": 42461,
+        "slowStartTime": 58254,
+        "slowEndTime": 63917
+    },
+    {
+        "text": "Yes, that's a good idea, Bill. Let's do that.",
+        "startTime": 45407,
+        "endTime": 48329,
+        "slowStartTime": 68260,
+        "slowEndTime": 72718
+    },
+    {
+        "text": "Hey, that sounds like a really good idea. I think it makes sense.",
+        "startTime": 50855,
+        "endTime": 54843,
+        "slowStartTime": 76433,
+        "slowEndTime": 82489
+    }
+]

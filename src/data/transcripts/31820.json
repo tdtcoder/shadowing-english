@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Tonight, in California,...",
+        "startTime": 825,
+        "endTime": 2105,
+        "slowStartTime": 1387,
+        "slowEndTime": 3383
+    },
+    {
+        "text": "...cars, homes and lives swallowed by those deadly flash floods and mudslides.",
+        "startTime": 2257,
+        "endTime": 7996,
+        "slowStartTime": 3535,
+        "slowEndTime": 12219
+    },
+    {
+        "text": "We have multiple reports of people trapped.",
+        "startTime": 8165,
+        "endTime": 10354,
+        "slowStartTime": 12398,
+        "slowEndTime": 15756
+    },
+    {
+        "text": "It's our worst fear coming to life for us right now.",
+        "startTime": 10483,
+        "endTime": 13551,
+        "slowStartTime": 15874,
+        "slowEndTime": 20551
+    },
+    {
+        "text": "At least 13 are reported dead, two dozen missing, scores more are injured.",
+        "startTime": 14139,
+        "endTime": 19754,
+        "slowStartTime": 21358,
+        "slowEndTime": 29856
+    },
+    {
+        "text": "This 14-year-old girl pulled from the muck.",
+        "startTime": 20022,
+        "endTime": 22636,
+        "slowStartTime": 30183,
+        "slowEndTime": 34179
+    },
+    {
+        "text": "Authorities still in search and rescue mode,...",
+        "startTime": 22901,
+        "endTime": 25368,
+        "slowStartTime": 34502,
+        "slowEndTime": 38277
+    },
+    {
+        "text": "...fearing those casualty counts will almost certainly rise.",
+        "startTime": 25496,
+        "endTime": 28957,
+        "slowStartTime": 38394,
+        "slowEndTime": 43660
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Boring! Are they penguins, or are they sloths?",
+        "startTime": 1190,
+        "endTime": 3790,
+        "slowStartTime": 1930,
+        "slowEndTime": 5910
+    },
+    {
+        "text": "They want a show? We'll give them a show.",
+        "startTime": 4220,
+        "endTime": 6490,
+        "slowStartTime": 6480,
+        "slowEndTime": 9960
+    },
+    {
+        "text": "Ready, Kowalski?",
+        "startTime": 6840,
+        "endTime": 7690,
+        "slowStartTime": 10410,
+        "slowEndTime": 11760
+    },
+    {
+        "text": "Roger that.",
+        "startTime": 7950,
+        "endTime": 8530,
+        "slowStartTime": 12080,
+        "slowEndTime": 13020
+    },
+    {
+        "text": "Operation 'Rico Star' is afoot.",
+        "startTime": 8920,
+        "endTime": 10830,
+        "slowStartTime": 13530,
+        "slowEndTime": 16470
+    },
+    {
+        "text": "Bingo!",
+        "startTime": 13150,
+        "endTime": 13730,
+        "slowStartTime": 19870,
+        "slowEndTime": 20820
+    },
+    {
+        "text": "Look at him go!",
+        "startTime": 20740,
+        "endTime": 21550,
+        "slowStartTime": 31260,
+        "slowEndTime": 32560
+    },
+    {
+        "text": "He's crackalackin!",
+        "startTime": 21710,
+        "endTime": 22780,
+        "slowStartTime": 32720,
+        "slowEndTime": 34390
+    },
+    {
+        "text": "Mission accomplished. No more smiling and waving for us, boys.",
+        "startTime": 30440,
+        "endTime": 34490,
+        "slowStartTime": 45810,
+        "slowEndTime": 51960
+    },
+    {
+        "text": "High fives all around.",
+        "startTime": 34730,
+        "endTime": 35910,
+        "slowStartTime": 52240,
+        "slowEndTime": 54090
+    },
+    {
+        "text": "When the second generation Intel Core i5 Processor goes in,...",
+        "startTime": 36490,
+        "endTime": 39420,
+        "slowStartTime": 54890,
+        "slowEndTime": 59360
+    },
+    {
+        "text": "...amazing visual performance comes out.",
+        "startTime": 39650,
+        "endTime": 41530,
+        "slowStartTime": 59630,
+        "slowEndTime": 62520
+    },
+    {
+        "text": "That's visibly smart.",
+        "startTime": 41790,
+        "endTime": 42790,
+        "slowStartTime": 62840,
+        "slowEndTime": 64420
+    }
+]

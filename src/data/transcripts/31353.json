@@ -1,0 +1,65 @@
+[
+    {
+        "text": "﻿The man is more handsome than the monster.",
+        "startTime": 5194,
+        "endTime": 7500,
+        "slowStartTime": 7941,
+        "slowEndTime": 11475
+    },
+    {
+        "text": "The monster is not more handsome than the man.",
+        "startTime": 8539,
+        "endTime": 11088,
+        "slowStartTime": 12958,
+        "slowEndTime": 16857
+    },
+    {
+        "text": "The mountains are more beautiful than the garbage.",
+        "startTime": 12805,
+        "endTime": 15521,
+        "slowStartTime": 19358,
+        "slowEndTime": 23506
+    },
+    {
+        "text": "The garbage is not more beautiful than the mountains.",
+        "startTime": 16544,
+        "endTime": 19849,
+        "slowStartTime": 24966,
+        "slowEndTime": 29998
+    },
+    {
+        "text": "Is the amusement park more exciting than the museum?",
+        "startTime": 21386,
+        "endTime": 23999,
+        "slowStartTime": 32229,
+        "slowEndTime": 36223
+    },
+    {
+        "text": "Yes, it is.",
+        "startTime": 25115,
+        "endTime": 25931,
+        "slowStartTime": 37822,
+        "slowEndTime": 39121
+    },
+    {
+        "text": "Is the apple more delicious than the pie?",
+        "startTime": 27369,
+        "endTime": 29541,
+        "slowStartTime": 41204,
+        "slowEndTime": 44536
+    },
+    {
+        "text": "No, it isn't.",
+        "startTime": 30115,
+        "endTime": 31118,
+        "slowStartTime": 45323,
+        "slowEndTime": 46902
+    },
+    {
+        "text": "The pie is more delicious than the apple.",
+        "startTime": 31313,
+        "endTime": 33654,
+        "slowStartTime": 47120,
+        "slowEndTime": 50706
+    }
+]

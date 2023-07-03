@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Welcome back to Hack Job!",
+        "startTime": 200,
+        "endTime": 1750,
+        "slowStartTime": 500,
+        "slowEndTime": 2900
+    },
+    {
+        "text": "Today, we're with the Gilberts.",
+        "startTime": 1850,
+        "endTime": 3250,
+        "slowStartTime": 2950,
+        "slowEndTime": 5150
+    },
+    {
+        "text": "Okay guys, are you ready to see your new kitchen?",
+        "startTime": 3400,
+        "endTime": 5950,
+        "slowStartTime": 5350,
+        "slowEndTime": 9200
+    },
+    {
+        "text": "Yes!",
+        "startTime": 6050,
+        "endTime": 6250,
+        "slowStartTime": 9250,
+        "slowEndTime": 9580
+    },
+    {
+        "text": "Me too. Let's go!",
+        "startTime": 7000,
+        "endTime": 8100,
+        "slowStartTime": 10750,
+        "slowEndTime": 12400
+    },
+    {
+        "text": "Take a look!",
+        "startTime": 8200,
+        "endTime": 9150,
+        "slowStartTime": 12500,
+        "slowEndTime": 14000
+    },
+    {
+        "text": "Oh! Here we go! It looks amazing!",
+        "startTime": 10550,
+        "endTime": 13250,
+        "slowStartTime": 16000,
+        "slowEndTime": 20100
+    },
+    {
+        "text": "You didn't do anything.",
+        "startTime": 13850,
+        "endTime": 14700,
+        "slowStartTime": 21075,
+        "slowEndTime": 22300
+    },
+    {
+        "text": "You just put Bud Light on the counter.",
+        "startTime": 14750,
+        "endTime": 16300,
+        "slowStartTime": 22400,
+        "slowEndTime": 24750
+    },
+    {
+        "text": "Exactly! It totally opens it up.",
+        "startTime": 16350,
+        "endTime": 19200,
+        "slowStartTime": 24750,
+        "slowEndTime": 29050
+    },
+    {
+        "text": "We gave it a fun vibe.",
+        "startTime": 19300,
+        "endTime": 20500,
+        "slowStartTime": 29200,
+        "slowEndTime": 31050
+    },
+    {
+        "text": "Clearly, this is the room people wanna hang out in.",
+        "startTime": 20600,
+        "endTime": 23100,
+        "slowStartTime": 31100,
+        "slowEndTime": 35250
+    },
+    {
+        "text": "It's the sure sign of a good time.",
+        "startTime": 23150,
+        "endTime": 24900,
+        "slowStartTime": 34925,
+        "slowEndTime": 37600
+    },
+    {
+        "text": "It's just the right taste of Bud Light.",
+        "startTime": 25150,
+        "endTime": 26700,
+        "slowStartTime": 37850,
+        "slowEndTime": 40250
+    },
+    {
+        "text": "Here we go!",
+        "startTime": 26750,
+        "endTime": 27350,
+        "slowStartTime": 40350,
+        "slowEndTime": 41400
+    },
+    {
+        "text": "The landscapers are here. Nice!",
+        "startTime": 27450,
+        "endTime": 29950,
+        "slowStartTime": 41500,
+        "slowEndTime": 45050
+    }
+]

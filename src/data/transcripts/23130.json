@@ -1,0 +1,254 @@
+[
+    {
+        "text": "This is the human test: a test to see if you are a human.",
+        "startTime": 1027,
+        "endTime": 6455,
+        "slowStartTime": 1691,
+        "slowEndTime": 9908
+    },
+    {
+        "text": "Please raise your hand if something applies to you.",
+        "startTime": 7498,
+        "endTime": 11495,
+        "slowStartTime": 11397,
+        "slowEndTime": 17468
+    },
+    {
+        "text": "Are we agreed?",
+        "startTime": 11991,
+        "endTime": 13079,
+        "slowStartTime": 17853,
+        "slowEndTime": 19835
+    },
+    {
+        "text": "Yes?",
+        "startTime": 14299,
+        "endTime": 14959,
+        "slowStartTime": 21598,
+        "slowEndTime": 22664
+    },
+    {
+        "text": "Then let's begin.",
+        "startTime": 15742,
+        "endTime": 16772,
+        "slowStartTime": 23555,
+        "slowEndTime": 25269
+    },
+    {
+        "text": "Have you ever purposely lowercased the first letter of a text...",
+        "startTime": 17629,
+        "endTime": 21377,
+        "slowStartTime": 26428,
+        "slowEndTime": 32186
+    },
+    {
+        "text": "...in order to come across as sad or disappointed?",
+        "startTime": 21801,
+        "endTime": 25224,
+        "slowStartTime": 32662,
+        "slowEndTime": 37898
+    },
+    {
+        "text": "Okay.",
+        "startTime": 27662,
+        "endTime": 28712,
+        "slowStartTime": 41643,
+        "slowEndTime": 43293
+    },
+    {
+        "text": "Have you ever ended a text with a period as a sign of aggression?",
+        "startTime": 30609,
+        "endTime": 35030,
+        "slowStartTime": 46064,
+        "slowEndTime": 52770
+    },
+    {
+        "text": "Okay, period.",
+        "startTime": 36183,
+        "endTime": 38497,
+        "slowStartTime": 54424,
+        "slowEndTime": 57971
+    },
+    {
+        "text": "Have you ever seemed to lose your airplane ticket a thousand times...",
+        "startTime": 39472,
+        "endTime": 43259,
+        "slowStartTime": 59358,
+        "slowEndTime": 65114
+    },
+    {
+        "text": "...as you walked from the check-in to the gate?",
+        "startTime": 43331,
+        "endTime": 45680,
+        "slowStartTime": 65147,
+        "slowEndTime": 68745
+    },
+    {
+        "text": "Yes.",
+        "startTime": 47147,
+        "endTime": 48217,
+        "slowStartTime": 70871,
+        "slowEndTime": 72551
+    },
+    {
+        "text": "Have you ever put on a pair of pants and then much later realized...",
+        "startTime": 49223,
+        "endTime": 53178,
+        "slowStartTime": 73835,
+        "slowEndTime": 79828
+    },
+    {
+        "text": "...that there was a loose sock smooshed up against your thigh?",
+        "startTime": 53232,
+        "endTime": 56298,
+        "slowStartTime": 79884,
+        "slowEndTime": 84672
+    },
+    {
+        "text": "Good.",
+        "startTime": 58383,
+        "endTime": 59013,
+        "slowStartTime": 87725,
+        "slowEndTime": 88744
+    },
+    {
+        "text": "Have you ever tried to guess someone else's password so many times...",
+        "startTime": 60698,
+        "endTime": 64630,
+        "slowStartTime": 91096,
+        "slowEndTime": 97087
+    },
+    {
+        "text": "...that it locked their account?",
+        "startTime": 64667,
+        "endTime": 66111,
+        "slowStartTime": 97150,
+        "slowEndTime": 99392
+    },
+    {
+        "text": "Have you ever had a nagging feeling that one day you will be discovered as a fraud?",
+        "startTime": 69626,
+        "endTime": 74614,
+        "slowStartTime": 104589,
+        "slowEndTime": 112146
+    },
+    {
+        "text": "Yes, it's safe here.",
+        "startTime": 76992,
+        "endTime": 78681,
+        "slowStartTime": 115453,
+        "slowEndTime": 118247
+    },
+    {
+        "text": "Have you ever hoped that there was some ability you hadn't discovered yet...",
+        "startTime": 80736,
+        "endTime": 84392,
+        "slowStartTime": 121254,
+        "slowEndTime": 126813
+    },
+    {
+        "text": "...that you were just naturally great at?",
+        "startTime": 84614,
+        "endTime": 87070,
+        "slowStartTime": 126963,
+        "slowEndTime": 130830
+    },
+    {
+        "text": "Have you ever marveled at how someone you thought was so ordinary...",
+        "startTime": 89227,
+        "endTime": 93858,
+        "slowStartTime": 133990,
+        "slowEndTime": 141012
+    },
+    {
+        "text": "...could suddenly become so beautiful?",
+        "startTime": 94025,
+        "endTime": 96301,
+        "slowStartTime": 141053,
+        "slowEndTime": 144677
+    },
+    {
+        "text": "Have you ever stared at your phone smiling like an idiot while texting with someone?",
+        "startTime": 98602,
+        "endTime": 103276,
+        "slowStartTime": 148053,
+        "slowEndTime": 155139
+    },
+    {
+        "text": "Have you ever subsequently texted that person the phrase...",
+        "startTime": 105912,
+        "endTime": 108920,
+        "slowStartTime": 159018,
+        "slowEndTime": 163605
+    },
+    {
+        "text": "...\"I'm staring at the phone smiling like an idiot.\"",
+        "startTime": 109402,
+        "endTime": 112453,
+        "slowStartTime": 164253,
+        "slowEndTime": 168904
+    },
+    {
+        "text": "Have you ever woken up blissfully...",
+        "startTime": 114868,
+        "endTime": 117566,
+        "slowStartTime": 172452,
+        "slowEndTime": 176574
+    },
+    {
+        "text": "...and suddenly been flooded by the awful remembrance that someone had left you?",
+        "startTime": 117758,
+        "endTime": 121888,
+        "slowStartTime": 176787,
+        "slowEndTime": 183057
+    },
+    {
+        "text": "Have you ever lost the ability to imagine a future without a person...",
+        "startTime": 123794,
+        "endTime": 127630,
+        "slowStartTime": 185841,
+        "slowEndTime": 191670
+    },
+    {
+        "text": "...that no longer was in your life?",
+        "startTime": 128119,
+        "endTime": 129977,
+        "slowStartTime": 192329,
+        "slowEndTime": 195191
+    },
+    {
+        "text": "Have you ever looked back on that event with the sad smile of autumn...",
+        "startTime": 133029,
+        "endTime": 136665,
+        "slowStartTime": 199693,
+        "slowEndTime": 205222
+    },
+    {
+        "text": "...and the realization that futures will happen regardless?",
+        "startTime": 136937,
+        "endTime": 141153,
+        "slowStartTime": 205556,
+        "slowEndTime": 211955
+    },
+    {
+        "text": "Congratulations.",
+        "startTime": 143607,
+        "endTime": 144785,
+        "slowStartTime": 215250,
+        "slowEndTime": 217402
+    },
+    {
+        "text": "You have now completed the test.",
+        "startTime": 145529,
+        "endTime": 147128,
+        "slowStartTime": 218258,
+        "slowEndTime": 220917
+    },
+    {
+        "text": "You are all human.",
+        "startTime": 147867,
+        "endTime": 149072,
+        "slowStartTime": 221777,
+        "slowEndTime": 223833
+    }
+]

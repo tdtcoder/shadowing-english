@@ -1,0 +1,86 @@
+[
+    {
+        "text": "I'd like to buy fifty of these hand towels, please.",
+        "startTime": 405,
+        "endTime": 3030,
+        "slowStartTime": 757,
+        "slowEndTime": 4770
+    },
+    {
+        "text": "We're going to give them away to our customers.",
+        "startTime": 3461,
+        "endTime": 5461,
+        "slowStartTime": 5341,
+        "slowEndTime": 8417
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 6665,
+        "endTime": 7357,
+        "slowStartTime": 10147,
+        "slowEndTime": 11261
+    },
+    {
+        "text": "The design on this towel is beautiful...",
+        "startTime": 7703,
+        "endTime": 9913,
+        "slowStartTime": 11704,
+        "slowEndTime": 15094
+    },
+    {
+        "text": "...so I'm sure your customers will like them.",
+        "startTime": 10052,
+        "endTime": 11969,
+        "slowStartTime": 15228,
+        "slowEndTime": 18179
+    },
+    {
+        "text": "Is it possible to give us a discount?",
+        "startTime": 12835,
+        "endTime": 15007,
+        "slowStartTime": 19402,
+        "slowEndTime": 22736
+    },
+    {
+        "text": "OK.",
+        "startTime": 15385,
+        "endTime": 16400,
+        "slowStartTime": 23228,
+        "slowEndTime": 24825
+    },
+    {
+        "text": "We will give you 10% discount.",
+        "startTime": 17263,
+        "endTime": 19357,
+        "slowStartTime": 26045,
+        "slowEndTime": 29261
+    },
+    {
+        "text": "The price of one towel is $5.25,...",
+        "startTime": 19995,
+        "endTime": 23503,
+        "slowStartTime": 30142,
+        "slowEndTime": 35480
+    },
+    {
+        "text": "...so the total amount will be $236.25.",
+        "startTime": 24063,
+        "endTime": 28173,
+        "slowStartTime": 36244,
+        "slowEndTime": 42485
+    },
+    {
+        "text": "Great.",
+        "startTime": 29359,
+        "endTime": 29599,
+        "slowStartTime": 44189,
+        "slowEndTime": 44624
+    },
+    {
+        "text": "And would you like us to deliver them to your office?",
+        "startTime": 30267,
+        "endTime": 32808,
+        "slowStartTime": 45550,
+        "slowEndTime": 49437
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "text": "What do you have there?",
+        "startTime": 2797,
+        "endTime": 3593,
+        "slowStartTime": 4345,
+        "slowEndTime": 5615
+    },
+    {
+        "text": "It's a book.",
+        "startTime": 6533,
+        "endTime": 7079,
+        "slowStartTime": 9949,
+        "slowEndTime": 10843
+    },
+    {
+        "text": "Do you scroll down?",
+        "startTime": 7827,
+        "endTime": 8717,
+        "slowStartTime": 11890,
+        "slowEndTime": 13301
+    },
+    {
+        "text": "Nope. You turn the page. It's a book.",
+        "startTime": 9169,
+        "endTime": 11665,
+        "slowStartTime": 13904,
+        "slowEndTime": 17723
+    },
+    {
+        "text": "Can you blog with it?",
+        "startTime": 12417,
+        "endTime": 13317,
+        "slowStartTime": 18776,
+        "slowEndTime": 20201
+    },
+    {
+        "text": "No. It's a book.",
+        "startTime": 13636,
+        "endTime": 15636,
+        "slowStartTime": 20604,
+        "slowEndTime": 23679
+    },
+    {
+        "text": "Well, can it tweet?",
+        "startTime": 17488,
+        "endTime": 18273,
+        "slowStartTime": 26382,
+        "slowEndTime": 27635
+    },
+    {
+        "text": "No.",
+        "startTime": 18935,
+        "endTime": 19391,
+        "slowStartTime": 28552,
+        "slowEndTime": 29312
+    },
+    {
+        "text": "Can it text? Can it wi-fi? Does it need a password?",
+        "startTime": 21524,
+        "endTime": 25191,
+        "slowStartTime": 32436,
+        "slowEndTime": 38011
+    },
+    {
+        "text": "No.",
+        "startTime": 26109,
+        "endTime": 26535,
+        "slowStartTime": 39314,
+        "slowEndTime": 40027
+    },
+    {
+        "text": "Can it do this?",
+        "startTime": 27243,
+        "endTime": 27940,
+        "slowStartTime": 41014,
+        "slowEndTime": 42135
+    },
+    {
+        "text": "No. It's a book.",
+        "startTime": 30125,
+        "endTime": 33123,
+        "slowStartTime": 45338,
+        "slowEndTime": 49910
+    },
+    {
+        "text": "Are you going to give it back?",
+        "startTime": 42935,
+        "endTime": 43997,
+        "slowStartTime": 64552,
+        "slowEndTime": 66221
+    },
+    {
+        "text": "No, but I'll charge it up when I'm done.",
+        "startTime": 45031,
+        "endTime": 46945,
+        "slowStartTime": 67697,
+        "slowEndTime": 70642
+    },
+    {
+        "text": "You don't have to.",
+        "startTime": 49768,
+        "endTime": 50631,
+        "slowStartTime": 74802,
+        "slowEndTime": 76171
+    },
+    {
+        "text": "It's a book!",
+        "startTime": 51739,
+        "endTime": 52873,
+        "slowStartTime": 77759,
+        "slowEndTime": 79535
+    },
+    {
+        "text": "By Lane Smith!",
+        "startTime": 53838,
+        "endTime": 54640,
+        "slowStartTime": 80907,
+        "slowEndTime": 82185
+    }
+]

@@ -1,0 +1,268 @@
+[
+    {
+        "text": "Hey Dee, are you okay?",
+        "startTime": 2742,
+        "endTime": 5644,
+        "slowStartTime": 4263,
+        "slowEndTime": 8691
+    },
+    {
+        "text": "Oh, I'm sorry. Hi Chris!",
+        "startTime": 6029,
+        "endTime": 8737,
+        "slowStartTime": 9194,
+        "slowEndTime": 13331
+    },
+    {
+        "text": "Do you feel okay, Dee?",
+        "startTime": 9421,
+        "endTime": 11104,
+        "slowStartTime": 14281,
+        "slowEndTime": 16881
+    },
+    {
+        "text": "Yeah, I feel fine.",
+        "startTime": 11692,
+        "endTime": 13437,
+        "slowStartTime": 17688,
+        "slowEndTime": 20381
+    },
+    {
+        "text": "I'm just tired.",
+        "startTime": 13759,
+        "endTime": 16079,
+        "slowStartTime": 20788,
+        "slowEndTime": 24344
+    },
+    {
+        "text": "Didn't you get enough sleep last night?",
+        "startTime": 16587,
+        "endTime": 18643,
+        "slowStartTime": 25031,
+        "slowEndTime": 28189
+    },
+    {
+        "text": "Yes, I even went to bed early.",
+        "startTime": 19236,
+        "endTime": 21663,
+        "slowStartTime": 29004,
+        "slowEndTime": 32719
+    },
+    {
+        "text": "And you don't feel sick?",
+        "startTime": 23779,
+        "endTime": 25302,
+        "slowStartTime": 35818,
+        "slowEndTime": 38178
+    },
+    {
+        "text": "No, just really run down, like I'm a toy and my batteries are almost gone.",
+        "startTime": 26091,
+        "endTime": 31923,
+        "slowStartTime": 39286,
+        "slowEndTime": 48110
+    },
+    {
+        "text": "What did you have for breakfast?",
+        "startTime": 32319,
+        "endTime": 33909,
+        "slowStartTime": 48628,
+        "slowEndTime": 51089
+    },
+    {
+        "text": "Oh, I didn't have breakfast.",
+        "startTime": 34398,
+        "endTime": 36867,
+        "slowStartTime": 51747,
+        "slowEndTime": 55526
+    },
+    {
+        "text": "You didn't?",
+        "startTime": 37531,
+        "endTime": 38781,
+        "slowStartTime": 56446,
+        "slowEndTime": 58397
+    },
+    {
+        "text": "No, I woke up late today and was in such a hurry that I totally forgot to eat.",
+        "startTime": 39475,
+        "endTime": 44224,
+        "slowStartTime": 59363,
+        "slowEndTime": 66561
+    },
+    {
+        "text": "It was either find my matching headband or eat breakfast.",
+        "startTime": 44640,
+        "endTime": 48381,
+        "slowStartTime": 67110,
+        "slowEndTime": 72797
+    },
+    {
+        "text": "I'm really looking forward to lunch today.",
+        "startTime": 48993,
+        "endTime": 51606,
+        "slowStartTime": 73640,
+        "slowEndTime": 77634
+    },
+    {
+        "text": "Dee, that's it!",
+        "startTime": 52003,
+        "endTime": 53232,
+        "slowStartTime": 78155,
+        "slowEndTime": 80073
+    },
+    {
+        "text": "I know what's wrong with you.",
+        "startTime": 53637,
+        "endTime": 55073,
+        "slowStartTime": 80606,
+        "slowEndTime": 82835
+    },
+    {
+        "text": "You do?",
+        "startTime": 55730,
+        "endTime": 56298,
+        "slowStartTime": 83745,
+        "slowEndTime": 84672
+    },
+    {
+        "text": "Yes, you didn't have a balanced breakfast and your body is tired.",
+        "startTime": 56796,
+        "endTime": 61111,
+        "slowStartTime": 85344,
+        "slowEndTime": 91892
+    },
+    {
+        "text": "It is?",
+        "startTime": 61703,
+        "endTime": 62595,
+        "slowStartTime": 92705,
+        "slowEndTime": 94118
+    },
+    {
+        "text": "Every morning, I have a bowl of cereal, a piece of fruit, orange juice and water.",
+        "startTime": 63152,
+        "endTime": 74743,
+        "slowStartTime": 94878,
+        "slowEndTime": 112339
+    },
+    {
+        "text": "Yum! That sounds delicious!",
+        "startTime": 76763,
+        "endTime": 79778,
+        "slowStartTime": 115295,
+        "slowEndTime": 119892
+    },
+    {
+        "text": "It's more than delicious,...",
+        "startTime": 80230,
+        "endTime": 81666,
+        "slowStartTime": 120495,
+        "slowEndTime": 122724
+    },
+    {
+        "text": "...my body needs energy to get my brain going for a full day of learning.",
+        "startTime": 81964,
+        "endTime": 86001,
+        "slowStartTime": 123096,
+        "slowEndTime": 129226
+    },
+    {
+        "text": "I do sort of feel fuzzy.",
+        "startTime": 87739,
+        "endTime": 90569,
+        "slowStartTime": 131759,
+        "slowEndTime": 136079
+    },
+    {
+        "text": "It was really hard to pay attention in class today.",
+        "startTime": 91029,
+        "endTime": 94044,
+        "slowStartTime": 136693,
+        "slowEndTime": 141291
+    },
+    {
+        "text": "Remember how you said earlier you felt like your batteries were run down?",
+        "startTime": 94689,
+        "endTime": 98401,
+        "slowStartTime": 142183,
+        "slowEndTime": 147826
+    },
+    {
+        "text": "Well, let's pretend you're a toy car.",
+        "startTime": 98995,
+        "endTime": 101422,
+        "slowStartTime": 148643,
+        "slowEndTime": 152358
+    },
+    {
+        "text": "I'm a cute car.",
+        "startTime": 102947,
+        "endTime": 104525,
+        "slowStartTime": 154570,
+        "slowEndTime": 157013
+    },
+    {
+        "text": "Now pretend that your tummy is like the batteries for that car.",
+        "startTime": 105030,
+        "endTime": 108633,
+        "slowStartTime": 157695,
+        "slowEndTime": 163175
+    },
+    {
+        "text": "When the batteries are empty, what happens?",
+        "startTime": 109009,
+        "endTime": 111683,
+        "slowStartTime": 163663,
+        "slowEndTime": 167750
+    },
+    {
+        "text": "It stops.",
+        "startTime": 112222,
+        "endTime": 113472,
+        "slowStartTime": 168483,
+        "slowEndTime": 170433
+    },
+    {
+        "text": "Exactly! Now when you have a full charge in your batteries, you can go for hours!",
+        "startTime": 113980,
+        "endTime": 119213,
+        "slowStartTime": 171120,
+        "slowEndTime": 179045
+    },
+    {
+        "text": "All the way to lunch!",
+        "startTime": 119403,
+        "endTime": 120633,
+        "slowStartTime": 179255,
+        "slowEndTime": 181175
+    },
+    {
+        "text": "When you wake up in the morning, your batteries are empty.",
+        "startTime": 121530,
+        "endTime": 124421,
+        "slowStartTime": 182445,
+        "slowEndTime": 186857
+    },
+    {
+        "text": "In order to start your day right, you need to recharge with yummy fuel!",
+        "startTime": 124815,
+        "endTime": 128852,
+        "slowStartTime": 187373,
+        "slowEndTime": 193503
+    },
+    {
+        "text": "Skipping breakfast left your batteries totally empty.",
+        "startTime": 129514,
+        "endTime": 132777,
+        "slowStartTime": 194421,
+        "slowEndTime": 199390
+    },
+    {
+        "text": "Which is why you feel so tired now.",
+        "startTime": 133049,
+        "endTime": 135352,
+        "slowStartTime": 199723,
+        "slowEndTime": 203253
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Can you show me your notebook, please?",
+        "startTime": 307,
+        "endTime": 2199,
+        "slowStartTime": 611,
+        "slowEndTime": 3523
+    },
+    {
+        "text": "I can't hear you.",
+        "startTime": 3840,
+        "endTime": 4731,
+        "slowStartTime": 5910,
+        "slowEndTime": 7322
+    },
+    {
+        "text": "Could you speak louder, please?",
+        "startTime": 5199,
+        "endTime": 6557,
+        "slowStartTime": 7948,
+        "slowEndTime": 10061
+    },
+    {
+        "text": "The box is heavy.",
+        "startTime": 7745,
+        "endTime": 8832,
+        "slowStartTime": 11768,
+        "slowEndTime": 13473
+    },
+    {
+        "text": "Could you help me, please?",
+        "startTime": 9162,
+        "endTime": 10316,
+        "slowStartTime": 13893,
+        "slowEndTime": 15699
+    },
+    {
+        "text": "I didn't hear you.",
+        "startTime": 11627,
+        "endTime": 12656,
+        "slowStartTime": 17590,
+        "slowEndTime": 19209
+    },
+    {
+        "text": "Could you repeat that, please?",
+        "startTime": 13188,
+        "endTime": 14429,
+        "slowStartTime": 19932,
+        "slowEndTime": 21869
+    },
+    {
+        "text": "I didn't understand.",
+        "startTime": 15691,
+        "endTime": 17317,
+        "slowStartTime": 23687,
+        "slowEndTime": 26200
+    },
+    {
+        "text": "Could you speak more slowly, please?",
+        "startTime": 17783,
+        "endTime": 19582,
+        "slowStartTime": 26824,
+        "slowEndTime": 29598
+    },
+    {
+        "text": "Could you pass me the papers, please?",
+        "startTime": 20848,
+        "endTime": 22827,
+        "slowStartTime": 31422,
+        "slowEndTime": 34466
+    },
+    {
+        "text": "This room is cool!",
+        "startTime": 24186,
+        "endTime": 25300,
+        "slowStartTime": 36429,
+        "slowEndTime": 38175
+    },
+    {
+        "text": "Could we use it to watch the presentation?",
+        "startTime": 26004,
+        "endTime": 28003,
+        "slowStartTime": 39156,
+        "slowEndTime": 42230
+    }
+]

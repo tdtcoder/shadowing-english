@@ -1,0 +1,296 @@
+[
+    {
+        "text": "Too often teams and organizations are unclear about the goals or top priorities really are.",
+        "startTime": 363,
+        "endTime": 5491,
+        "slowStartTime": 695,
+        "slowEndTime": 8462
+    },
+    {
+        "text": "Coaches and players are simply not on the same page.",
+        "startTime": 6349,
+        "endTime": 9775,
+        "slowStartTime": 9673,
+        "slowEndTime": 14887
+    },
+    {
+        "text": "What you get is everyone just kind of running around in all directions,...",
+        "startTime": 10065,
+        "endTime": 13459,
+        "slowStartTime": 15248,
+        "slowEndTime": 20414
+    },
+    {
+        "text": "...instead of working together toward the same goal.",
+        "startTime": 13697,
+        "endTime": 15876,
+        "slowStartTime": 20695,
+        "slowEndTime": 24039
+    },
+    {
+        "text": "The inability to take high-level goals and strategies of an organization...",
+        "startTime": 16692,
+        "endTime": 20570,
+        "slowStartTime": 25188,
+        "slowEndTime": 31080
+    },
+    {
+        "text": "...and then to translate those into action is a major problem in most organizations.",
+        "startTime": 21023,
+        "endTime": 26071,
+        "slowStartTime": 31684,
+        "slowEndTime": 39331
+    },
+    {
+        "text": "It's one thing to come up with great strategies and goals,...",
+        "startTime": 26562,
+        "endTime": 29653,
+        "slowStartTime": 39993,
+        "slowEndTime": 44705
+    },
+    {
+        "text": "...but it's quite another to actually get them done.",
+        "startTime": 30029,
+        "endTime": 32131,
+        "slowStartTime": 45193,
+        "slowEndTime": 48421
+    },
+    {
+        "text": "This is what we can call \"The Execution Gap.\"",
+        "startTime": 32902,
+        "endTime": 35512,
+        "slowStartTime": 49503,
+        "slowEndTime": 53493
+    },
+    {
+        "text": "In a landmark study done by the Harris Poll group,...",
+        "startTime": 36311,
+        "endTime": 39001,
+        "slowStartTime": 54617,
+        "slowEndTime": 58727
+    },
+    {
+        "text": "...we discovered some revealing statistics as to why execution breaks down...",
+        "startTime": 39447,
+        "endTime": 43345,
+        "slowStartTime": 59320,
+        "slowEndTime": 65242
+    },
+    {
+        "text": "...and why goals aren't translated into action on the front line.",
+        "startTime": 43746,
+        "endTime": 47727,
+        "slowStartTime": 65769,
+        "slowEndTime": 71815
+    },
+    {
+        "text": "First finding, only 15 percent of those surveyed...",
+        "startTime": 48241,
+        "endTime": 51644,
+        "slowStartTime": 72512,
+        "slowEndTime": 77691
+    },
+    {
+        "text": "...can actually identify their organization's most important goals or top priorities.",
+        "startTime": 51728,
+        "endTime": 56792,
+        "slowStartTime": 77742,
+        "slowEndTime": 85413
+    },
+    {
+        "text": "Either there are too many goals or they change too often or they simply don't have any.",
+        "startTime": 57384,
+        "endTime": 61630,
+        "slowStartTime": 86226,
+        "slowEndTime": 92670
+    },
+    {
+        "text": "And in most cases, they are vastly under communicated.",
+        "startTime": 62445,
+        "endTime": 65279,
+        "slowStartTime": 93818,
+        "slowEndTime": 98144
+    },
+    {
+        "text": "Just because the leaders are clear on what they want to achieve, it doesn't necessarily mean...",
+        "startTime": 66161,
+        "endTime": 70607,
+        "slowStartTime": 99391,
+        "slowEndTime": 106135
+    },
+    {
+        "text": "...that the front line where the action really happens knows what the goals are.",
+        "startTime": 70977,
+        "endTime": 75235,
+        "slowStartTime": 106615,
+        "slowEndTime": 113078
+    },
+    {
+        "text": "After all, in a very real sense, the front line produces the bottom line.",
+        "startTime": 75587,
+        "endTime": 80093,
+        "slowStartTime": 113531,
+        "slowEndTime": 120364
+    },
+    {
+        "text": "Second, people may know what the goals are but too often they haven't bought into them.",
+        "startTime": 80448,
+        "endTime": 85476,
+        "slowStartTime": 120822,
+        "slowEndTime": 128439
+    },
+    {
+        "text": "Only 19 percent surveyed say that they feel passionate about the top goals of their organizations.",
+        "startTime": 85973,
+        "endTime": 92089,
+        "slowStartTime": 129110,
+        "slowEndTime": 138358
+    },
+    {
+        "text": "That's only one in five.",
+        "startTime": 92551,
+        "endTime": 94082,
+        "slowStartTime": 138976,
+        "slowEndTime": 141348
+    },
+    {
+        "text": "There are number of reasons for this.",
+        "startTime": 94609,
+        "endTime": 96116,
+        "slowStartTime": 142063,
+        "slowEndTime": 144399
+    },
+    {
+        "text": "But the primary one is that they feel no ownership.",
+        "startTime": 96214,
+        "endTime": 98518,
+        "slowStartTime": 144471,
+        "slowEndTime": 148002
+    },
+    {
+        "text": "They don't feel that they have input into what is going to take to achieve the goal.",
+        "startTime": 98777,
+        "endTime": 102897,
+        "slowStartTime": 148315,
+        "slowEndTime": 154571
+    },
+    {
+        "text": "They simply aren't emotionally connected to the goal.",
+        "startTime": 103391,
+        "endTime": 105731,
+        "slowStartTime": 155237,
+        "slowEndTime": 158822
+    },
+    {
+        "text": "No involvement, no commitment.",
+        "startTime": 106468,
+        "endTime": 108318,
+        "slowStartTime": 159852,
+        "slowEndTime": 162702
+    },
+    {
+        "text": "Third, those surveyed reported that they spend only 49 percent of their available work hours...",
+        "startTime": 108747,
+        "endTime": 114725,
+        "slowStartTime": 163271,
+        "slowEndTime": 172312
+    },
+    {
+        "text": "...on the most important goals.",
+        "startTime": 114846,
+        "endTime": 116394,
+        "slowStartTime": 172419,
+        "slowEndTime": 174816
+    },
+    {
+        "text": "The rest of the time is spent on urgent, but far less important activities.",
+        "startTime": 116936,
+        "endTime": 121217,
+        "slowStartTime": 175554,
+        "slowEndTime": 182050
+    },
+    {
+        "text": "They get so distracted by urgent things that they neglect the most important things.",
+        "startTime": 121475,
+        "endTime": 126212,
+        "slowStartTime": 182363,
+        "slowEndTime": 189543
+    },
+    {
+        "text": "Finally, people might know what the goals and top priorities are.",
+        "startTime": 126595,
+        "endTime": 129775,
+        "slowStartTime": 190043,
+        "slowEndTime": 194888
+    },
+    {
+        "text": "They might even buy into them.",
+        "startTime": 130169,
+        "endTime": 131267,
+        "slowStartTime": 195404,
+        "slowEndTime": 197125
+    },
+    {
+        "text": "But they don't know what they are supposed to do about them.",
+        "startTime": 132038,
+        "endTime": 134870,
+        "slowStartTime": 198207,
+        "slowEndTime": 202530
+    },
+    {
+        "text": "In fact, 51 percent state that they personally do not understand what they...",
+        "startTime": 135395,
+        "endTime": 140269,
+        "slowStartTime": 203243,
+        "slowEndTime": 210629
+    },
+    {
+        "text": "...are supposed to do to help the organization achieve its goals.",
+        "startTime": 140623,
+        "endTime": 144033,
+        "slowStartTime": 211085,
+        "slowEndTime": 216275
+    },
+    {
+        "text": "Goals will not be executed until everyone clearly understands what the goal is...",
+        "startTime": 144537,
+        "endTime": 150218,
+        "slowStartTime": 216956,
+        "slowEndTime": 225552
+    },
+    {
+        "text": "...and what they themselves specifically need to do to meet that goal.",
+        "startTime": 150547,
+        "endTime": 154345,
+        "slowStartTime": 225971,
+        "slowEndTime": 231742
+    },
+    {
+        "text": "Once people are clear on what the goal is, then and only then,...",
+        "startTime": 155187,
+        "endTime": 158747,
+        "slowStartTime": 232930,
+        "slowEndTime": 238345
+    },
+    {
+        "text": "...are they free to try new and better ways to reach that goal.",
+        "startTime": 159139,
+        "endTime": 162757,
+        "slowStartTime": 238858,
+        "slowEndTime": 244360
+    },
+    {
+        "text": "So the point is, to achieve goals you've never achieved before,...",
+        "startTime": 163479,
+        "endTime": 167073,
+        "slowStartTime": 245368,
+        "slowEndTime": 250834
+    },
+    {
+        "text": "...you simply need to start doing things you've never done before.",
+        "startTime": 167621,
+        "endTime": 171183,
+        "slowStartTime": 251582,
+        "slowEndTime": 257000
+    }
+]

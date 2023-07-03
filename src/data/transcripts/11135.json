@@ -1,0 +1,177 @@
+[
+    {
+        "text": "Welcome to the 100th anniversary of Jellystone!",
+        "startTime": 3250,
+        "endTime": 7000,
+        "slowStartTime": 5000,
+        "slowEndTime": 10800
+    },
+    {
+        "text": "I heard you had an unusual brown bear.",
+        "startTime": 8500,
+        "endTime": 10600,
+        "slowStartTime": 12900,
+        "slowEndTime": 16150
+    },
+    {
+        "text": "Brown bear?",
+        "startTime": 10700,
+        "endTime": 11100,
+        "slowStartTime": 16200,
+        "slowEndTime": 17000
+    },
+    {
+        "text": "One that talks. Those are so rare.",
+        "startTime": 11400,
+        "endTime": 13050,
+        "slowStartTime": 17300,
+        "slowEndTime": 19850
+    },
+    {
+        "text": "None that I can think of.",
+        "startTime": 13150,
+        "endTime": 14100,
+        "slowStartTime": 19900,
+        "slowEndTime": 21400
+    },
+    {
+        "text": "I smell PB and J.",
+        "startTime": 14300,
+        "endTime": 15550,
+        "slowStartTime": 21600,
+        "slowEndTime": 23600
+    },
+    {
+        "text": "I think he's trying to steal your lunch box.",
+        "startTime": 15600,
+        "endTime": 17850,
+        "slowStartTime": 23600,
+        "slowEndTime": 27000
+    },
+    {
+        "text": "I'm okay!",
+        "startTime": 23550,
+        "endTime": 24100,
+        "slowStartTime": 35500,
+        "slowEndTime": 36400
+    },
+    {
+        "text": "Kick it, Boo-Boo.",
+        "startTime": 26450,
+        "endTime": 27300,
+        "slowStartTime": 39900,
+        "slowEndTime": 41200
+    },
+    {
+        "text": "Kicking it.",
+        "startTime": 27550,
+        "endTime": 28100,
+        "slowStartTime": 41400,
+        "slowEndTime": 42400
+    },
+    {
+        "text": "We got a bear disturbance.",
+        "startTime": 31300,
+        "endTime": 32250,
+        "slowStartTime": 47050,
+        "slowEndTime": 48600
+    },
+    {
+        "text": "All units, lock down the park.",
+        "startTime": 32300,
+        "endTime": 33500,
+        "slowStartTime": 48650,
+        "slowEndTime": 50500
+    },
+    {
+        "text": "Repeat, lock down the park.",
+        "startTime": 33550,
+        "endTime": 34900,
+        "slowStartTime": 50500,
+        "slowEndTime": 52650
+    },
+    {
+        "text": "Jones, you know I'm the only other ranger here, right?",
+        "startTime": 35250,
+        "endTime": 37700,
+        "slowStartTime": 53020,
+        "slowEndTime": 56800
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 38600,
+        "endTime": 38950,
+        "slowStartTime": 58000,
+        "slowEndTime": 58650
+    },
+    {
+        "text": "Bears are supposed to avoid people, not run around stealing their food.",
+        "startTime": 41200,
+        "endTime": 44650,
+        "slowStartTime": 62000,
+        "slowEndTime": 67250
+    },
+    {
+        "text": "Boo-Boo and I would never think of disturbing a family's picnic.",
+        "startTime": 45000,
+        "endTime": 48250,
+        "slowStartTime": 67700,
+        "slowEndTime": 72600
+    },
+    {
+        "text": "I wonder if he noticed the pie.",
+        "startTime": 52050,
+        "endTime": 54200,
+        "slowStartTime": 78250,
+        "slowEndTime": 81500
+    },
+    {
+        "text": "You do come up with some good plans, Yogi.",
+        "startTime": 56100,
+        "endTime": 58700,
+        "slowStartTime": 84350,
+        "slowEndTime": 88300
+    },
+    {
+        "text": "Here we go!",
+        "startTime": 59800,
+        "endTime": 61450,
+        "slowStartTime": 89900,
+        "slowEndTime": 92450
+    },
+    {
+        "text": "That's because I'm smarter than the average bear.",
+        "startTime": 61500,
+        "endTime": 63900,
+        "slowStartTime": 92450,
+        "slowEndTime": 96100
+    },
+    {
+        "text": "Yogi, grab my paw!",
+        "startTime": 64100,
+        "endTime": 65750,
+        "slowStartTime": 96350,
+        "slowEndTime": 98850
+    },
+    {
+        "text": "I'm so smart it hurts.",
+        "startTime": 71900,
+        "endTime": 73600,
+        "slowStartTime": 108000,
+        "slowEndTime": 110650
+    },
+    {
+        "text": "Yogi Bear in 3D.",
+        "startTime": 74400,
+        "endTime": 77200,
+        "slowStartTime": 111750,
+        "slowEndTime": 116000
+    },
+    {
+        "text": "This isn't gonna make me look fat, is it?",
+        "startTime": 78650,
+        "endTime": 80600,
+        "slowStartTime": 118100,
+        "slowEndTime": 121200
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "text": "When would you like to schedule our meeting?",
+        "startTime": 2329,
+        "endTime": 4427,
+        "slowStartTime": 3644,
+        "slowEndTime": 6865
+    },
+    {
+        "text": "When would be best for you?",
+        "startTime": 4930,
+        "endTime": 6434,
+        "slowStartTime": 7545,
+        "slowEndTime": 9876
+    },
+    {
+        "text": "I'm free on Wednesday afternoon.",
+        "startTime": 6969,
+        "endTime": 8845,
+        "slowStartTime": 10603,
+        "slowEndTime": 13493
+    },
+    {
+        "text": "Is that day convenient for you?",
+        "startTime": 9146,
+        "endTime": 10933,
+        "slowStartTime": 13869,
+        "slowEndTime": 16625
+    },
+    {
+        "text": "Could we make it Thursday morning instead?",
+        "startTime": 11480,
+        "endTime": 13838,
+        "slowStartTime": 17370,
+        "slowEndTime": 20982
+    },
+    {
+        "text": "Let me check my planner.",
+        "startTime": 14425,
+        "endTime": 15693,
+        "slowStartTime": 21787,
+        "slowEndTime": 23765
+    },
+    {
+        "text": "Yes, Thursday morning is fine.",
+        "startTime": 16279,
+        "endTime": 18461,
+        "slowStartTime": 24569,
+        "slowEndTime": 27917
+    },
+    {
+        "text": "What time?",
+        "startTime": 18767,
+        "endTime": 19539,
+        "slowStartTime": 28301,
+        "slowEndTime": 29534
+    },
+    {
+        "text": "How does 10:00 sound?",
+        "startTime": 20090,
+        "endTime": 21529,
+        "slowStartTime": 30285,
+        "slowEndTime": 32518
+    },
+    {
+        "text": "10:00 is ideal for me.",
+        "startTime": 22087,
+        "endTime": 24119,
+        "slowStartTime": 33280,
+        "slowEndTime": 36404
+    },
+    {
+        "text": "I'll expect you Thursday morning at 10.",
+        "startTime": 24456,
+        "endTime": 26948,
+        "slowStartTime": 36834,
+        "slowEndTime": 40647
+    },
+    {
+        "text": "Great! See you then.",
+        "startTime": 27346,
+        "endTime": 29012,
+        "slowStartTime": 41169,
+        "slowEndTime": 43743
+    }
+]

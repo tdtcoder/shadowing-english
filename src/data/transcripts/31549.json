@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Why aren't we showing a profit yet?",
+        "startTime": 1089,
+        "endTime": 2327,
+        "slowStartTime": 1784,
+        "slowEndTime": 3716
+    },
+    {
+        "text": "We're working on it.",
+        "startTime": 2429,
+        "endTime": 2971,
+        "slowStartTime": 3794,
+        "slowEndTime": 4681
+    },
+    {
+        "text": "It's not good enough.",
+        "startTime": 3062,
+        "endTime": 3853,
+        "slowStartTime": 4743,
+        "slowEndTime": 6005
+    },
+    {
+        "text": "I want a buyout.",
+        "startTime": 4372,
+        "endTime": 4921,
+        "slowStartTime": 6708,
+        "slowEndTime": 7607
+    },
+    {
+        "text": "Here is the value of your shares.",
+        "startTime": 5745,
+        "endTime": 7651,
+        "slowStartTime": 8767,
+        "slowEndTime": 11701
+    },
+    {
+        "text": "Hey, here's an idea.",
+        "startTime": 8163,
+        "endTime": 9095,
+        "slowStartTime": 12395,
+        "slowEndTime": 13867
+    },
+    {
+        "text": "FedEx offers affordable and fast ground shipping.",
+        "startTime": 9247,
+        "endTime": 11323,
+        "slowStartTime": 14021,
+        "slowEndTime": 17210
+    },
+    {
+        "text": "That'll be great for business and help us manage our costs.",
+        "startTime": 11607,
+        "endTime": 13594,
+        "slowStartTime": 17561,
+        "slowEndTime": 20616
+    },
+    {
+        "text": "I want back in.",
+        "startTime": 14227,
+        "endTime": 14867,
+        "slowStartTime": 21491,
+        "slowEndTime": 22526
+    },
+    {
+        "text": "Well, since you left, our valuation has doubled.",
+        "startTime": 15142,
+        "endTime": 17105,
+        "slowStartTime": 22863,
+        "slowEndTime": 25882
+    },
+    {
+        "text": "Do you have a quarter?",
+        "startTime": 21760,
+        "endTime": 22355,
+        "slowStartTime": 32790,
+        "slowEndTime": 33758
+    },
+    {
+        "text": "Nope.",
+        "startTime": 23279,
+        "endTime": 23591,
+        "slowStartTime": 35068,
+        "slowEndTime": 35611
+    },
+    {
+        "text": "We'll be accepting interns in the fall.",
+        "startTime": 24230,
+        "endTime": 25727,
+        "slowStartTime": 36495,
+        "slowEndTime": 38815
+    }
+]

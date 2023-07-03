@@ -1,0 +1,121 @@
+[
+    {
+        "text": "A, C, E, D, B, K.",
+        "startTime": 6396,
+        "endTime": 10443,
+        "slowStartTime": 9744,
+        "slowEndTime": 15889
+    },
+    {
+        "text": "No, this isn't some random, out-of-order alphabet.",
+        "startTime": 10833,
+        "endTime": 13997,
+        "slowStartTime": 16399,
+        "slowEndTime": 21220
+    },
+    {
+        "text": "These are vitamins,...",
+        "startTime": 14161,
+        "endTime": 15629,
+        "slowStartTime": 21392,
+        "slowEndTime": 23668
+    },
+    {
+        "text": "...and just like letters build words,...",
+        "startTime": 15830,
+        "endTime": 17771,
+        "slowStartTime": 23895,
+        "slowEndTime": 26882
+    },
+    {
+        "text": "...they're the building blocks that keep the body running.",
+        "startTime": 17985,
+        "endTime": 20901,
+        "slowStartTime": 27128,
+        "slowEndTime": 31576
+    },
+    {
+        "text": "Vitamins are organic compounds we need to ingest in small amounts to keep functioning.",
+        "startTime": 21545,
+        "endTime": 26589,
+        "slowStartTime": 32467,
+        "slowEndTime": 40109
+    },
+    {
+        "text": "They're the body's builders, defenders and maintenance workers,...",
+        "startTime": 27176,
+        "endTime": 30483,
+        "slowStartTime": 40914,
+        "slowEndTime": 45949
+    },
+    {
+        "text": "...helping it to build muscle and bone, make use of nutrients,...",
+        "startTime": 30652,
+        "endTime": 33845,
+        "slowStartTime": 46128,
+        "slowEndTime": 50992
+    },
+    {
+        "text": "...capture and use energy and heal wounds.",
+        "startTime": 34047,
+        "endTime": 36841,
+        "slowStartTime": 51220,
+        "slowEndTime": 55486
+    },
+    {
+        "text": "If you need convincing about vitamin value,...",
+        "startTime": 37429,
+        "endTime": 39712,
+        "slowStartTime": 56294,
+        "slowEndTime": 59793
+    },
+    {
+        "text": "...just consider the plight of olden-day sailors,...",
+        "startTime": 39937,
+        "endTime": 42789,
+        "slowStartTime": 60056,
+        "slowEndTime": 64408
+    },
+    {
+        "text": "...who had no access to vitamin-rich fresh produce.",
+        "startTime": 42968,
+        "endTime": 46021,
+        "slowStartTime": 64602,
+        "slowEndTime": 69256
+    },
+    {
+        "text": "They got scurvy.",
+        "startTime": 46215,
+        "endTime": 47416,
+        "slowStartTime": 69472,
+        "slowEndTime": 71349
+    },
+    {
+        "text": "But vitamin C, abundant in fruits and vegetables,...",
+        "startTime": 47606,
+        "endTime": 50425,
+        "slowStartTime": 71559,
+        "slowEndTime": 75862
+    },
+    {
+        "text": "...was the simple antidote to this disease.",
+        "startTime": 50570,
+        "endTime": 52682,
+        "slowStartTime": 76005,
+        "slowEndTime": 79248
+    },
+    {
+        "text": "While bacteria, fungi and plants produce their own vitamins,...",
+        "startTime": 53268,
+        "endTime": 56631,
+        "slowStartTime": 80052,
+        "slowEndTime": 85172
+    },
+    {
+        "text": "...our bodies can't, so we have to get them from other sources.",
+        "startTime": 56785,
+        "endTime": 60375,
+        "slowStartTime": 85327,
+        "slowEndTime": 90788
+    }
+]

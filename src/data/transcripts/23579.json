@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Marcia, what happened?",
+        "startTime": 1718,
+        "endTime": 3093,
+        "slowStartTime": 2727,
+        "slowEndTime": 4864
+    },
+    {
+        "text": "Peter hit me in the nose with a football.",
+        "startTime": 3275,
+        "endTime": 5021,
+        "slowStartTime": 5063,
+        "slowEndTime": 7757
+    },
+    {
+        "text": "I can't go to the dance like this.",
+        "startTime": 5148,
+        "endTime": 6613,
+        "slowStartTime": 7872,
+        "slowEndTime": 10145
+    },
+    {
+        "text": "Well, I'm sure it was an accident, sweetheart.",
+        "startTime": 6981,
+        "endTime": 8976,
+        "slowStartTime": 10621,
+        "slowEndTime": 13689
+    },
+    {
+        "text": "An eye for an eye.",
+        "startTime": 9049,
+        "endTime": 10015,
+        "slowStartTime": 13724,
+        "slowEndTime": 15247
+    },
+    {
+        "text": "That's what dad always says.",
+        "startTime": 10244,
+        "endTime": 11473,
+        "slowStartTime": 15516,
+        "slowEndTime": 17435
+    },
+    {
+        "text": "I never said that, honey.",
+        "startTime": 11869,
+        "endTime": 12667,
+        "slowStartTime": 17954,
+        "slowEndTime": 19226
+    },
+    {
+        "text": "Shut up!",
+        "startTime": 12753,
+        "endTime": 13341,
+        "slowStartTime": 19279,
+        "slowEndTime": 20237
+    },
+    {
+        "text": "It's time to teach Peter a lesson.",
+        "startTime": 13861,
+        "endTime": 15232,
+        "slowStartTime": 20941,
+        "slowEndTime": 23073
+    },
+    {
+        "text": "Marcia, eat a Snickers.",
+        "startTime": 15339,
+        "endTime": 16710,
+        "slowStartTime": 23158,
+        "slowEndTime": 25290
+    },
+    {
+        "text": "Why?",
+        "startTime": 16834,
+        "endTime": 17392,
+        "slowStartTime": 25401,
+        "slowEndTime": 26313
+    },
+    {
+        "text": "You get a little hostile when you're hungry.",
+        "startTime": 17687,
+        "endTime": 19659,
+        "slowStartTime": 26680,
+        "slowEndTime": 29714
+    },
+    {
+        "text": "Better?",
+        "startTime": 20535,
+        "endTime": 20820,
+        "slowStartTime": 30953,
+        "slowEndTime": 31455
+    },
+    {
+        "text": "Better.",
+        "startTime": 21409,
+        "endTime": 21787,
+        "slowStartTime": 32263,
+        "slowEndTime": 32905
+    },
+    {
+        "text": "Marcia, Marcia, Marcia.",
+        "startTime": 22136,
+        "endTime": 23577,
+        "slowStartTime": 33354,
+        "slowEndTime": 35591
+    },
+    {
+        "text": "Jan, this isn't about you.",
+        "startTime": 23674,
+        "endTime": 25002,
+        "slowStartTime": 35661,
+        "slowEndTime": 37728
+    },
+    {
+        "text": "It never is!",
+        "startTime": 25242,
+        "endTime": 26116,
+        "slowStartTime": 38013,
+        "slowEndTime": 39399
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "text": "You're welcome.",
+        "startTime": 464,
+        "endTime": 877,
+        "slowStartTime": 846,
+        "slowEndTime": 1541
+    },
+    {
+        "text": "You're very welcome.",
+        "startTime": 3204,
+        "endTime": 4160,
+        "slowStartTime": 4956,
+        "slowEndTime": 6465
+    },
+    {
+        "text": "Sure, anytime!",
+        "startTime": 7129,
+        "endTime": 7944,
+        "slowStartTime": 10843,
+        "slowEndTime": 12141
+    },
+    {
+        "text": "Oh yes, no problem, I'm glad to help.",
+        "startTime": 10578,
+        "endTime": 12632,
+        "slowStartTime": 16017,
+        "slowEndTime": 19173
+    },
+    {
+        "text": "No worries.",
+        "startTime": 14995,
+        "endTime": 15501,
+        "slowStartTime": 22642,
+        "slowEndTime": 23476
+    },
+    {
+        "text": "Don't worry about it.",
+        "startTime": 18449,
+        "endTime": 19623,
+        "slowStartTime": 27824,
+        "slowEndTime": 29660
+    },
+    {
+        "text": "My pleasure.",
+        "startTime": 22245,
+        "endTime": 22783,
+        "slowStartTime": 33517,
+        "slowEndTime": 34400
+    },
+    {
+        "text": "The pleasure is all mine.",
+        "startTime": 27069,
+        "endTime": 28655,
+        "slowStartTime": 40753,
+        "slowEndTime": 43208
+    },
+    {
+        "text": "Of course, Mr. Miller.",
+        "startTime": 32012,
+        "endTime": 32963,
+        "slowStartTime": 48168,
+        "slowEndTime": 49670
+    },
+    {
+        "text": "Don't mention it.",
+        "startTime": 36856,
+        "endTime": 37837,
+        "slowStartTime": 55434,
+        "slowEndTime": 56980
+    },
+    {
+        "text": "Not at all, my pleasure.",
+        "startTime": 40999,
+        "endTime": 42379,
+        "slowStartTime": 61649,
+        "slowEndTime": 63793
+    },
+    {
+        "text": "By all means. Pass your glass, please. There you are.",
+        "startTime": 45958,
+        "endTime": 50834,
+        "slowStartTime": 69087,
+        "slowEndTime": 76476
+    },
+    {
+        "text": "Sure thing.",
+        "startTime": 55184,
+        "endTime": 55835,
+        "slowStartTime": 82926,
+        "slowEndTime": 83978
+    }
+]

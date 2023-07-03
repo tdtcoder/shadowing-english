@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Boat.",
+        "startTime": 2334,
+        "endTime": 2839,
+        "slowStartTime": 3651,
+        "slowEndTime": 4483
+    },
+    {
+        "text": "I have a boat.",
+        "startTime": 3708,
+        "endTime": 4818,
+        "slowStartTime": 5712,
+        "slowEndTime": 7452
+    },
+    {
+        "text": "I have a big boat.",
+        "startTime": 6291,
+        "endTime": 7749,
+        "slowStartTime": 9587,
+        "slowEndTime": 11848
+    },
+    {
+        "text": "Coat.",
+        "startTime": 9253,
+        "endTime": 9697,
+        "slowStartTime": 14029,
+        "slowEndTime": 14770
+    },
+    {
+        "text": "I wear a coat.",
+        "startTime": 10534,
+        "endTime": 11981,
+        "slowStartTime": 15951,
+        "slowEndTime": 18197
+    },
+    {
+        "text": "I wear a yellow coat.",
+        "startTime": 13401,
+        "endTime": 15324,
+        "slowStartTime": 20252,
+        "slowEndTime": 23211
+    },
+    {
+        "text": "Goat.",
+        "startTime": 16730,
+        "endTime": 17255,
+        "slowStartTime": 25245,
+        "slowEndTime": 26108
+    },
+    {
+        "text": "The goat is big.",
+        "startTime": 18105,
+        "endTime": 19577,
+        "slowStartTime": 27307,
+        "slowEndTime": 29590
+    },
+    {
+        "text": "The goat is very big.",
+        "startTime": 20951,
+        "endTime": 22838,
+        "slowStartTime": 31576,
+        "slowEndTime": 34482
+    },
+    {
+        "text": "Road.",
+        "startTime": 24252,
+        "endTime": 24841,
+        "slowStartTime": 36528,
+        "slowEndTime": 37487
+    },
+    {
+        "text": "I drive on the road.",
+        "startTime": 25651,
+        "endTime": 27311,
+        "slowStartTime": 38627,
+        "slowEndTime": 41191
+    },
+    {
+        "text": "I drive on the long road.",
+        "startTime": 28771,
+        "endTime": 30828,
+        "slowStartTime": 43306,
+        "slowEndTime": 46467
+    },
+    {
+        "text": "Swing, swing, swing, I paint my swing purple.",
+        "startTime": 36846,
+        "endTime": 40343,
+        "slowStartTime": 55419,
+        "slowEndTime": 60739
+    },
+    {
+        "text": "Fence, fence, fence, I paint the fence purple.",
+        "startTime": 40703,
+        "endTime": 44011,
+        "slowStartTime": 61204,
+        "slowEndTime": 66242
+    },
+    {
+        "text": "Hose, hose, hose, I paint the hose purple.",
+        "startTime": 44464,
+        "endTime": 47765,
+        "slowStartTime": 66846,
+        "slowEndTime": 71873
+    },
+    {
+        "text": "Shoes, shoes, shoes, I paint my shoes purple.",
+        "startTime": 48166,
+        "endTime": 51573,
+        "slowStartTime": 72399,
+        "slowEndTime": 77584
+    },
+    {
+        "text": "Grass, grass, grass, I paint the grass purple.",
+        "startTime": 51901,
+        "endTime": 55348,
+        "slowStartTime": 78001,
+        "slowEndTime": 83247
+    },
+    {
+        "text": "Door, door, door, I paint the door purple.",
+        "startTime": 55725,
+        "endTime": 59096,
+        "slowStartTime": 83737,
+        "slowEndTime": 88869
+    },
+    {
+        "text": "Purple, purple, purple, I like purple paint.",
+        "startTime": 59467,
+        "endTime": 62683,
+        "slowStartTime": 89351,
+        "slowEndTime": 94250
+    },
+    {
+        "text": "But my mom does not like purple paint.",
+        "startTime": 63185,
+        "endTime": 66942,
+        "slowStartTime": 94928,
+        "slowEndTime": 100638
+    }
+]

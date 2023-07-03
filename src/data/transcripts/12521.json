@@ -1,0 +1,219 @@
+[
+    {
+        "text": "Here are 14 basic movie genres: which are your favorite?",
+        "startTime": 2649,
+        "endTime": 6738,
+        "slowStartTime": 4123,
+        "slowEndTime": 10332
+    },
+    {
+        "text": "One: Action, Disaster:...",
+        "startTime": 7161,
+        "endTime": 9769,
+        "slowStartTime": 10892,
+        "slowEndTime": 14878
+    },
+    {
+        "text": "...stories whose central struggle plays out mainly through a clash of physical forces.",
+        "startTime": 10385,
+        "endTime": 15047,
+        "slowStartTime": 15728,
+        "slowEndTime": 22796
+    },
+    {
+        "text": "Two: Adventure.",
+        "startTime": 15587,
+        "endTime": 17190,
+        "slowStartTime": 23530,
+        "slowEndTime": 26010
+    },
+    {
+        "text": "The central struggle plays out mainly through encounters with new \"worlds.\"",
+        "startTime": 17693,
+        "endTime": 21909,
+        "slowStartTime": 26689,
+        "slowEndTime": 33088
+    },
+    {
+        "text": "Three: Comedy: The plot causes hilarious results.",
+        "startTime": 22477,
+        "endTime": 27005,
+        "slowStartTime": 33866,
+        "slowEndTime": 40732
+    },
+    {
+        "text": "Four: Coming-of-Age Drama.",
+        "startTime": 27504,
+        "endTime": 29919,
+        "slowStartTime": 41406,
+        "slowEndTime": 45104
+    },
+    {
+        "text": "Stories about the hero finding his or her place in the world.",
+        "startTime": 30266,
+        "endTime": 33892,
+        "slowStartTime": 45549,
+        "slowEndTime": 51063
+    },
+    {
+        "text": "Five: Crime: The central struggle is about catching a criminal.",
+        "startTime": 34534,
+        "endTime": 39463,
+        "slowStartTime": 51951,
+        "slowEndTime": 59420
+    },
+    {
+        "text": "Six: Detective Story, Courtroom Drama.",
+        "startTime": 40021,
+        "endTime": 43523,
+        "slowStartTime": 60182,
+        "slowEndTime": 65510
+    },
+    {
+        "text": "The plot is to find out what really happened and thus to expose the truth.",
+        "startTime": 44049,
+        "endTime": 48327,
+        "slowStartTime": 66224,
+        "slowEndTime": 72716
+    },
+    {
+        "text": "Seven: Epic, Myth.",
+        "startTime": 48875,
+        "endTime": 51318,
+        "slowStartTime": 73462,
+        "slowEndTime": 77202
+    },
+    {
+        "text": "The central struggle plays out in the midst of a clash of great forces...",
+        "startTime": 51825,
+        "endTime": 55752,
+        "slowStartTime": 77888,
+        "slowEndTime": 83853
+    },
+    {
+        "text": "...or in the sweep of great historical change.",
+        "startTime": 56128,
+        "endTime": 58565,
+        "slowStartTime": 84342,
+        "slowEndTime": 88072
+    },
+    {
+        "text": "Eight: Fantasy.",
+        "startTime": 59343,
+        "endTime": 61022,
+        "slowStartTime": 89164,
+        "slowEndTime": 91758
+    },
+    {
+        "text": "Animated stories or whose central struggle plays out in two worlds,...",
+        "startTime": 61553,
+        "endTime": 65741,
+        "slowStartTime": 92480,
+        "slowEndTime": 98837
+    },
+    {
+        "text": "...the real world and an imaginary world.",
+        "startTime": 65961,
+        "endTime": 68348,
+        "slowStartTime": 99091,
+        "slowEndTime": 102747
+    },
+    {
+        "text": "Nine: Gangster: The plot centers on a criminal and society.",
+        "startTime": 69287,
+        "endTime": 74656,
+        "slowStartTime": 104080,
+        "slowEndTime": 112209
+    },
+    {
+        "text": "A cautionary tale,...",
+        "startTime": 75125,
+        "endTime": 76292,
+        "slowStartTime": 112838,
+        "slowEndTime": 114663
+    },
+    {
+        "text": "...rooted in a main character that commits crimes and is often blended with Film Noir.",
+        "startTime": 76537,
+        "endTime": 81648,
+        "slowStartTime": 114956,
+        "slowEndTime": 122697
+    },
+    {
+        "text": "Ten: Horror.",
+        "startTime": 82459,
+        "endTime": 83987,
+        "slowStartTime": 123839,
+        "slowEndTime": 126205
+    },
+    {
+        "text": "The hero focuses on escaping from and eventually defeating a human or non-human monster.",
+        "startTime": 84641,
+        "endTime": 90465,
+        "slowStartTime": 127112,
+        "slowEndTime": 135922
+    },
+    {
+        "text": "Eleven: Love, Romance.",
+        "startTime": 91255,
+        "endTime": 94066,
+        "slowStartTime": 137033,
+        "slowEndTime": 141324
+    },
+    {
+        "text": "The plot centers on two people wanting to win or keep the love of the other.",
+        "startTime": 94656,
+        "endTime": 99128,
+        "slowStartTime": 142134,
+        "slowEndTime": 148917
+    },
+    {
+        "text": "Twelve: Science Fiction.",
+        "startTime": 99903,
+        "endTime": 102089,
+        "slowStartTime": 150005,
+        "slowEndTime": 153358
+    },
+    {
+        "text": "The plot is generated from the technology and tools of a scientifically imaginable world.",
+        "startTime": 102686,
+        "endTime": 107861,
+        "slowStartTime": 154179,
+        "slowEndTime": 162016
+    },
+    {
+        "text": "Thirteen: Social Drama: The plot centers on a champion...",
+        "startTime": 108603,
+        "endTime": 113531,
+        "slowStartTime": 163054,
+        "slowEndTime": 170522
+    },
+    {
+        "text": "...and a problem or injustice in society...",
+        "startTime": 113639,
+        "endTime": 115965,
+        "slowStartTime": 170608,
+        "slowEndTime": 174172
+    },
+    {
+        "text": "...with the champion having a personal stake in the outcome.",
+        "startTime": 116367,
+        "endTime": 119115,
+        "slowStartTime": 174701,
+        "slowEndTime": 178898
+    },
+    {
+        "text": "Fourteen: Thriller.",
+        "startTime": 119907,
+        "endTime": 121896,
+        "slowStartTime": 180010,
+        "slowEndTime": 183069
+    },
+    {
+        "text": "The plot pits an innocent hero against a lethal enemy trying to kill him or her.",
+        "startTime": 122485,
+        "endTime": 127613,
+        "slowStartTime": 183877,
+        "slowEndTime": 191645
+    }
+]

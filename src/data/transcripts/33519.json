@@ -1,0 +1,72 @@
+[
+    {
+        "text": "I have two eyes so I can see and nose to smell.",
+        "startTime": 378,
+        "endTime": 6188,
+        "slowStartTime": 717,
+        "slowEndTime": 9507
+    },
+    {
+        "text": "I have ten fingers that can touch.",
+        "startTime": 6741,
+        "endTime": 10012,
+        "slowStartTime": 10261,
+        "slowEndTime": 15243
+    },
+    {
+        "text": "They do it very well.",
+        "startTime": 10199,
+        "endTime": 12276,
+        "slowStartTime": 15448,
+        "slowEndTime": 18639
+    },
+    {
+        "text": "I have two ears so I can hear...",
+        "startTime": 13205,
+        "endTime": 16250,
+        "slowStartTime": 19957,
+        "slowEndTime": 24600
+    },
+    {
+        "text": "...the birds up in the trees.",
+        "startTime": 16612,
+        "endTime": 19059,
+        "slowStartTime": 25068,
+        "slowEndTime": 28813
+    },
+    {
+        "text": "I have a tongue inside my mouth to taste the food I eat.",
+        "startTime": 19599,
+        "endTime": 25277,
+        "slowStartTime": 29549,
+        "slowEndTime": 38140
+    },
+    {
+        "text": "I have two eyes so I can see and nose to smell.",
+        "startTime": 25603,
+        "endTime": 31765,
+        "slowStartTime": 38555,
+        "slowEndTime": 47873
+    },
+    {
+        "text": "I have ten fingers that can touch, they do it very well.",
+        "startTime": 32383,
+        "endTime": 38067,
+        "slowStartTime": 48725,
+        "slowEndTime": 57325
+    },
+    {
+        "text": "I have two ears so I can hear the birds up in the trees.",
+        "startTime": 38767,
+        "endTime": 44751,
+        "slowStartTime": 58300,
+        "slowEndTime": 67352
+    },
+    {
+        "text": "I have a tongue inside my mouth to taste the food I eat.",
+        "startTime": 45206,
+        "endTime": 50763,
+        "slowStartTime": 67959,
+        "slowEndTime": 76369
+    }
+]

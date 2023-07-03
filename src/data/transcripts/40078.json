@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Wow! You have a big family.",
+        "startTime": 127,
+        "endTime": 2173,
+        "slowStartTime": 341,
+        "slowEndTime": 3484
+    },
+    {
+        "text": "Who are all of these people?",
+        "startTime": 3129,
+        "endTime": 4239,
+        "slowStartTime": 4844,
+        "slowEndTime": 6583
+    },
+    {
+        "text": "Well, this is my mom...",
+        "startTime": 4753,
+        "endTime": 6707,
+        "slowStartTime": 7280,
+        "slowEndTime": 10286
+    },
+    {
+        "text": "...and here's my dad.",
+        "startTime": 7019,
+        "endTime": 8092,
+        "slowStartTime": 10679,
+        "slowEndTime": 12363
+    },
+    {
+        "text": "That's my brother David with his wife and their kids.",
+        "startTime": 9083,
+        "endTime": 12083,
+        "slowStartTime": 13774,
+        "slowEndTime": 18350
+    },
+    {
+        "text": "They're cute.",
+        "startTime": 12539,
+        "endTime": 12991,
+        "slowStartTime": 18958,
+        "slowEndTime": 19712
+    },
+    {
+        "text": "How old are they?",
+        "startTime": 13706,
+        "endTime": 14581,
+        "slowStartTime": 20709,
+        "slowEndTime": 22096
+    },
+    {
+        "text": "Well, Beth is ten and Paul is five.",
+        "startTime": 15245,
+        "endTime": 18632,
+        "slowStartTime": 23018,
+        "slowEndTime": 28173
+    },
+    {
+        "text": "Do you have any nieces or nephews?",
+        "startTime": 19650,
+        "endTime": 21342,
+        "slowStartTime": 29625,
+        "slowEndTime": 32238
+    },
+    {
+        "text": "No.",
+        "startTime": 21983,
+        "endTime": 22553,
+        "slowStartTime": 33125,
+        "slowEndTime": 34055
+    },
+    {
+        "text": "My family is pretty small.",
+        "startTime": 23363,
+        "endTime": 24776,
+        "slowStartTime": 35195,
+        "slowEndTime": 37389
+    },
+    {
+        "text": "Just me, my mom, my dad, my brother, and my grandfather.",
+        "startTime": 25211,
+        "endTime": 29866,
+        "slowStartTime": 37966,
+        "slowEndTime": 45024
+    },
+    {
+        "text": "Do you have an aunt or an uncle?",
+        "startTime": 30271,
+        "endTime": 32330,
+        "slowStartTime": 45556,
+        "slowEndTime": 48720
+    },
+    {
+        "text": "Oh yeah.",
+        "startTime": 32785,
+        "endTime": 33629,
+        "slowStartTime": 49327,
+        "slowEndTime": 50669
+    },
+    {
+        "text": "I forgot about my uncle.",
+        "startTime": 33893,
+        "endTime": 35149,
+        "slowStartTime": 50989,
+        "slowEndTime": 52948
+    },
+    {
+        "text": "He lives in Australia.",
+        "startTime": 35966,
+        "endTime": 36967,
+        "slowStartTime": 54099,
+        "slowEndTime": 55675
+    },
+    {
+        "text": "So, I never get to see him or his family.",
+        "startTime": 37297,
+        "endTime": 39287,
+        "slowStartTime": 56095,
+        "slowEndTime": 59156
+    }
+]

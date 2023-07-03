@@ -1,0 +1,191 @@
+[
+    {
+        "text": "This is Flight 372 on SWA.",
+        "startTime": 100,
+        "endTime": 3900,
+        "slowStartTime": 325,
+        "slowEndTime": 5980
+    },
+    {
+        "text": "The flight attendants on board serving you today:...",
+        "startTime": 4050,
+        "endTime": 6200,
+        "slowStartTime": 6360,
+        "slowEndTime": 9540
+    },
+    {
+        "text": "...Theresa in the middle, David in the back.",
+        "startTime": 6300,
+        "endTime": 8600,
+        "slowStartTime": 9790,
+        "slowEndTime": 13030
+    },
+    {
+        "text": "My name is David and I'm here to tell you that...",
+        "startTime": 8700,
+        "endTime": 10850,
+        "slowStartTime": 13350,
+        "slowEndTime": 16400
+    },
+    {
+        "text": "...shortly after takeoff, first things first,...",
+        "startTime": 10950,
+        "endTime": 13050,
+        "slowStartTime": 16700,
+        "slowEndTime": 19800
+    },
+    {
+        "text": "...there are soft drinks and coffee to quench your thirst...",
+        "startTime": 13100,
+        "endTime": 15250,
+        "slowStartTime": 19870,
+        "slowEndTime": 23100
+    },
+    {
+        "text": "...but if you want another kind of drink then just holler.",
+        "startTime": 15300,
+        "endTime": 17800,
+        "slowStartTime": 23120,
+        "slowEndTime": 26800
+    },
+    {
+        "text": "Alcoholic beverages, that'll be four dollars.",
+        "startTime": 17850,
+        "endTime": 19950,
+        "slowStartTime": 27100,
+        "slowEndTime": 30130
+    },
+    {
+        "text": "If a Monster Energy Drink is your plan,...",
+        "startTime": 20000,
+        "endTime": 22150,
+        "slowStartTime": 30150,
+        "slowEndTime": 33515
+    },
+    {
+        "text": "...that'll be three dollars and you get the whole can.",
+        "startTime": 22200,
+        "endTime": 24500,
+        "slowStartTime": 33520,
+        "slowEndTime": 36945
+    },
+    {
+        "text": "We won't take your cash, you gotta pay with plastic.",
+        "startTime": 24550,
+        "endTime": 26950,
+        "slowStartTime": 37120,
+        "slowEndTime": 40630
+    },
+    {
+        "text": "If you have a coupon, then that's fantastic.",
+        "startTime": 27000,
+        "endTime": 29250,
+        "slowStartTime": 40800,
+        "slowEndTime": 44020
+    },
+    {
+        "text": "We know you're ready to get to new places.",
+        "startTime": 29300,
+        "endTime": 31550,
+        "slowStartTime": 44200,
+        "slowEndTime": 47570
+    },
+    {
+        "text": "Open up the bins, put away your suitcases.",
+        "startTime": 31600,
+        "endTime": 33900,
+        "slowStartTime": 47690,
+        "slowEndTime": 51075
+    },
+    {
+        "text": "Carry-on items go under the seat...",
+        "startTime": 33950,
+        "endTime": 35900,
+        "slowStartTime": 51100,
+        "slowEndTime": 54000
+    },
+    {
+        "text": "...in front of you, so none of you have things by your feet.",
+        "startTime": 35950,
+        "endTime": 38350,
+        "slowStartTime": 54250,
+        "slowEndTime": 57670
+    },
+    {
+        "text": "If you have a seat on a row with the exit,...",
+        "startTime": 38550,
+        "endTime": 40750,
+        "slowStartTime": 58090,
+        "slowEndTime": 61415
+    },
+    {
+        "text": "...we're gonna talk to you so you might as well expect it.",
+        "startTime": 40800,
+        "endTime": 43100,
+        "slowStartTime": 61420,
+        "slowEndTime": 64900
+    },
+    {
+        "text": "You gotta help evacuate in case we need you,...",
+        "startTime": 43150,
+        "endTime": 45450,
+        "slowStartTime": 64900,
+        "slowEndTime": 68400
+    },
+    {
+        "text": "...if you don't wanna then we're gonna reseat you.",
+        "startTime": 45500,
+        "endTime": 47750,
+        "slowStartTime": 68500,
+        "slowEndTime": 71900
+    },
+    {
+        "text": "Before we leave, our advice is put away your electronic devices.",
+        "startTime": 47800,
+        "endTime": 52400,
+        "slowStartTime": 71940,
+        "slowEndTime": 78800
+    },
+    {
+        "text": "Fasten your seatbelt, then put your trays up.",
+        "startTime": 52450,
+        "endTime": 54650,
+        "slowStartTime": 78800,
+        "slowEndTime": 82150
+    },
+    {
+        "text": "Press the button to make the seat back raise up.",
+        "startTime": 54700,
+        "endTime": 56900,
+        "slowStartTime": 82200,
+        "slowEndTime": 85550
+    },
+    {
+        "text": "Sit back, relax, have a good time.",
+        "startTime": 56950,
+        "endTime": 59100,
+        "slowStartTime": 85660,
+        "slowEndTime": 88820
+    },
+    {
+        "text": "It's almost time to go, so I'm done with the rhyme.",
+        "startTime": 59150,
+        "endTime": 61450,
+        "slowStartTime": 88990,
+        "slowEndTime": 92320
+    },
+    {
+        "text": "Thank you for the fact that I wasn't ignored.",
+        "startTime": 61550,
+        "endTime": 63550,
+        "slowStartTime": 92615,
+        "slowEndTime": 95565
+    },
+    {
+        "text": "This is Southwest Airlines. Welcome aboard!",
+        "startTime": 63600,
+        "endTime": 66100,
+        "slowStartTime": 95595,
+        "slowEndTime": 99440
+    }
+]

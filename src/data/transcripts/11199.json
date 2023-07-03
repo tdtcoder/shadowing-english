@@ -1,0 +1,44 @@
+[
+    {
+        "text": "I wanna talk to you today about forgiveness.",
+        "startTime": 8250,
+        "endTime": 11350,
+        "slowStartTime": 12600,
+        "slowEndTime": 17250
+    },
+    {
+        "text": "The road to revenge is a dead-end street.",
+        "startTime": 13950,
+        "endTime": 18200,
+        "slowStartTime": 21100,
+        "slowEndTime": 27500
+    },
+    {
+        "text": "Put down that .45, that .38.",
+        "startTime": 21900,
+        "endTime": 26300,
+        "slowStartTime": 33000,
+        "slowEndTime": 39650
+    },
+    {
+        "text": "Put it down, brother.",
+        "startTime": 28550,
+        "endTime": 29550,
+        "slowStartTime": 43000,
+        "slowEndTime": 44500
+    },
+    {
+        "text": "Forgive them and it will set you free.",
+        "startTime": 31400,
+        "endTime": 35250,
+        "slowStartTime": 47350,
+        "slowEndTime": 53050
+    },
+    {
+        "text": "Sermon's over.",
+        "startTime": 45500,
+        "endTime": 46450,
+        "slowStartTime": 68400,
+        "slowEndTime": 69900
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "text": "What do you think was the best present you gave to them?",
+        "startTime": 3821,
+        "endTime": 7537,
+        "slowStartTime": 5881,
+        "slowEndTime": 11530
+    },
+    {
+        "text": "What do you think of the food here so far?",
+        "startTime": 10361,
+        "endTime": 12066,
+        "slowStartTime": 15692,
+        "slowEndTime": 18324
+    },
+    {
+        "text": "So, what do you think? Which is the best solution?",
+        "startTime": 14973,
+        "endTime": 18623,
+        "slowStartTime": 22610,
+        "slowEndTime": 28160
+    },
+    {
+        "text": "What is the best thing for us to do?",
+        "startTime": 23660,
+        "endTime": 25581,
+        "slowStartTime": 35640,
+        "slowEndTime": 38597
+    },
+    {
+        "text": "And what is the best reaction you've seen so far?",
+        "startTime": 28722,
+        "endTime": 30848,
+        "slowStartTime": 43233,
+        "slowEndTime": 46497
+    },
+    {
+        "text": "What is the best advice that anyone has ever given you?",
+        "startTime": 33731,
+        "endTime": 36829,
+        "slowStartTime": 50746,
+        "slowEndTime": 55469
+    },
+    {
+        "text": "So how do you feel about going back home?",
+        "startTime": 44514,
+        "endTime": 46819,
+        "slowStartTime": 66921,
+        "slowEndTime": 70454
+    },
+    {
+        "text": "How do you feel about the situation?",
+        "startTime": 50459,
+        "endTime": 52598,
+        "slowStartTime": 75839,
+        "slowEndTime": 79122
+    },
+    {
+        "text": "Thank you, Tan. What's your opinion, Walter?",
+        "startTime": 59841,
+        "endTime": 62595,
+        "slowStartTime": 89912,
+        "slowEndTime": 94118
+    }
+]

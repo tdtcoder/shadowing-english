@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Hi, Janine!",
+        "startTime": 345,
+        "endTime": 1159,
+        "slowStartTime": 668,
+        "slowEndTime": 1964
+    },
+    {
+        "text": "Could you show me my schedule this month?",
+        "startTime": 1931,
+        "endTime": 3820,
+        "slowStartTime": 3047,
+        "slowEndTime": 5955
+    },
+    {
+        "text": "Yes, Mr. Williams.",
+        "startTime": 5985,
+        "endTime": 7571,
+        "slowStartTime": 9127,
+        "slowEndTime": 11581
+    },
+    {
+        "text": "You have a meeting with sales on May 3rd.",
+        "startTime": 11125,
+        "endTime": 13425,
+        "slowStartTime": 16837,
+        "slowEndTime": 20363
+    },
+    {
+        "text": "You have an interview on May 15th.",
+        "startTime": 16674,
+        "endTime": 18935,
+        "slowStartTime": 25161,
+        "slowEndTime": 28628
+    },
+    {
+        "text": "There is a company party on May 24th.",
+        "startTime": 20893,
+        "endTime": 23757,
+        "slowStartTime": 31489,
+        "slowEndTime": 35860
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 25171,
+        "endTime": 25866,
+        "slowStartTime": 37907,
+        "slowEndTime": 39024
+    },
+    {
+        "text": "When is my dinner with Mr. Jones?",
+        "startTime": 28407,
+        "endTime": 30405,
+        "slowStartTime": 42760,
+        "slowEndTime": 45832
+    },
+    {
+        "text": "Oh. That's next month.",
+        "startTime": 31005,
+        "endTime": 32493,
+        "slowStartTime": 46657,
+        "slowEndTime": 48964
+    },
+    {
+        "text": "That's on June 10th.",
+        "startTime": 32908,
+        "endTime": 34015,
+        "slowStartTime": 49512,
+        "slowEndTime": 51248
+    },
+    {
+        "text": "When is my conference call with HR?",
+        "startTime": 36393,
+        "endTime": 38695,
+        "slowStartTime": 54739,
+        "slowEndTime": 58268
+    },
+    {
+        "text": "That's also next month.",
+        "startTime": 39890,
+        "endTime": 41215,
+        "slowStartTime": 59985,
+        "slowEndTime": 62048
+    },
+    {
+        "text": "That's on June 16th.",
+        "startTime": 41578,
+        "endTime": 42820,
+        "slowStartTime": 62517,
+        "slowEndTime": 64455
+    },
+    {
+        "text": "Thanks!",
+        "startTime": 44907,
+        "endTime": 45432,
+        "slowStartTime": 67510,
+        "slowEndTime": 68373
+    },
+    {
+        "text": "You're welcome, sir.",
+        "startTime": 46157,
+        "endTime": 47031,
+        "slowStartTime": 69386,
+        "slowEndTime": 70771
+    }
+]

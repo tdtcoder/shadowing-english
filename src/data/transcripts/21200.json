@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Hey, what's the story?",
+        "startTime": 1287,
+        "endTime": 4275,
+        "slowStartTime": 2081,
+        "slowEndTime": 6638
+    },
+    {
+        "text": "Oh, okay.",
+        "startTime": 5188,
+        "endTime": 6669,
+        "slowStartTime": 7932,
+        "slowEndTime": 10229
+    },
+    {
+        "text": "Third date.",
+        "startTime": 7785,
+        "endTime": 8377,
+        "slowStartTime": 11827,
+        "slowEndTime": 12791
+    },
+    {
+        "text": "First one was okay, second one was bad.",
+        "startTime": 9027,
+        "endTime": 11181,
+        "slowStartTime": 13691,
+        "slowEndTime": 16997
+    },
+    {
+        "text": "She's giving him one more chance to prove that he's not boring.",
+        "startTime": 11487,
+        "endTime": 14271,
+        "slowStartTime": 17381,
+        "slowEndTime": 21632
+    },
+    {
+        "text": "And he is not succeeding.",
+        "startTime": 14858,
+        "endTime": 16073,
+        "slowStartTime": 22437,
+        "slowEndTime": 24335
+    },
+    {
+        "text": "Hi, I have a potato on my fork.",
+        "startTime": 16823,
+        "endTime": 21156,
+        "slowStartTime": 25384,
+        "slowEndTime": 31959
+    },
+    {
+        "text": "I like to eat potatoes;...",
+        "startTime": 21773,
+        "endTime": 24472,
+        "slowStartTime": 32810,
+        "slowEndTime": 36933
+    },
+    {
+        "text": "...they're delicious, but I don't actually ever put them in my mouth.",
+        "startTime": 24998,
+        "endTime": 31397,
+        "slowStartTime": 37647,
+        "slowEndTime": 47321
+    },
+    {
+        "text": "That's amazing, Jeremy, but I'm gonna go home now and fart into a shoebox.",
+        "startTime": 34153,
+        "endTime": 39049,
+        "slowStartTime": 51379,
+        "slowEndTime": 58799
+    }
+]

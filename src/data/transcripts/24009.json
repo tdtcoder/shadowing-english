@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Continental 383, contact Boston Departure. Hasta la vista.",
+        "startTime": 1189,
+        "endTime": 5136,
+        "slowStartTime": 1934,
+        "slowEndTime": 7929
+    },
+    {
+        "text": "Say again?",
+        "startTime": 6296,
+        "endTime": 6863,
+        "slowStartTime": 9594,
+        "slowEndTime": 10520
+    },
+    {
+        "text": "Contact Boston Departure.",
+        "startTime": 7437,
+        "endTime": 9155,
+        "slowStartTime": 11305,
+        "slowEndTime": 13958
+    },
+    {
+        "text": "Okay, yeah. This is America; we speak English.",
+        "startTime": 9988,
+        "endTime": 12075,
+        "slowStartTime": 15132,
+        "slowEndTime": 18338
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 12155,
+        "endTime": 12553,
+        "slowStartTime": 18382,
+        "slowEndTime": 19055
+    },
+    {
+        "text": "See you later.",
+        "startTime": 12730,
+        "endTime": 13140,
+        "slowStartTime": 19245,
+        "slowEndTime": 19935
+    },
+    {
+        "text": "Flight 1926, we're switching to ground and we liked it.",
+        "startTime": 14845,
+        "endTime": 17841,
+        "slowStartTime": 22418,
+        "slowEndTime": 26986
+    },
+    {
+        "text": "Thanks a lot.",
+        "startTime": 18820,
+        "endTime": 19243,
+        "slowStartTime": 28380,
+        "slowEndTime": 29090
+    }
+]

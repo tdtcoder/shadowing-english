@@ -1,0 +1,93 @@
+[
+    {
+        "text": "I live in a two-story house, on a cute little street.",
+        "startTime": 661,
+        "endTime": 4181,
+        "slowStartTime": 1142,
+        "slowEndTime": 6496
+    },
+    {
+        "text": "There are 13 rooms in my house, and in my favorite room,...",
+        "startTime": 4607,
+        "endTime": 9723,
+        "slowStartTime": 7061,
+        "slowEndTime": 14810
+    },
+    {
+        "text": "...which is my mom's art studio, there's a big sofa next to the piano.",
+        "startTime": 10009,
+        "endTime": 15298,
+        "slowStartTime": 15163,
+        "slowEndTime": 23172
+    },
+    {
+        "text": "In the backyard, there's a deck and a pool.",
+        "startTime": 16007,
+        "endTime": 19644,
+        "slowStartTime": 24160,
+        "slowEndTime": 29691
+    },
+    {
+        "text": "I live in a big house with many rooms.",
+        "startTime": 23392,
+        "endTime": 25809,
+        "slowStartTime": 35238,
+        "slowEndTime": 38938
+    },
+    {
+        "text": "There are three bedrooms, a living room, a dining room,...",
+        "startTime": 26097,
+        "endTime": 29071,
+        "slowStartTime": 39296,
+        "slowEndTime": 43832
+    },
+    {
+        "text": "...a kitchen and a basement.",
+        "startTime": 29151,
+        "endTime": 30740,
+        "slowStartTime": 43877,
+        "slowEndTime": 46335
+    },
+    {
+        "text": "There's also a pool and a garage.",
+        "startTime": 31315,
+        "endTime": 33353,
+        "slowStartTime": 47123,
+        "slowEndTime": 50255
+    },
+    {
+        "text": "My favorite room is my bedroom.",
+        "startTime": 33909,
+        "endTime": 36027,
+        "slowStartTime": 51013,
+        "slowEndTime": 54265
+    },
+    {
+        "text": "It is right across from my parents' room.",
+        "startTime": 36655,
+        "endTime": 39036,
+        "slowStartTime": 55133,
+        "slowEndTime": 58779
+    },
+    {
+        "text": "In my bedroom, there are two closets, a desk,...",
+        "startTime": 40327,
+        "endTime": 43581,
+        "slowStartTime": 60641,
+        "slowEndTime": 65596
+    },
+    {
+        "text": "...and the chair is across from my bed.",
+        "startTime": 44069,
+        "endTime": 46228,
+        "slowStartTime": 66254,
+        "slowEndTime": 69567
+    },
+    {
+        "text": "My painting is right above my bed.",
+        "startTime": 46919,
+        "endTime": 48655,
+        "slowStartTime": 70529,
+        "slowEndTime": 73207
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "text": "It hardly seems fair.",
+        "startTime": 323,
+        "endTime": 2304,
+        "slowStartTime": 635,
+        "slowEndTime": 3681
+    },
+    {
+        "text": "He has the Intel-powered 2-in-1.",
+        "startTime": 2702,
+        "endTime": 5121,
+        "slowStartTime": 4203,
+        "slowEndTime": 7906
+    },
+    {
+        "text": "A laptop and a tablet.",
+        "startTime": 5782,
+        "endTime": 7868,
+        "slowStartTime": 8823,
+        "slowEndTime": 12027
+    },
+    {
+        "text": "Responsive to his every touch.",
+        "startTime": 8212,
+        "endTime": 10265,
+        "slowStartTime": 12468,
+        "slowEndTime": 15622
+    },
+    {
+        "text": "But pity the old laptop.",
+        "startTime": 10918,
+        "endTime": 12691,
+        "slowStartTime": 16527,
+        "slowEndTime": 19262
+    },
+    {
+        "text": "What do you have to offer?",
+        "startTime": 13767,
+        "endTime": 15085,
+        "slowStartTime": 20801,
+        "slowEndTime": 22852
+    },
+    {
+        "text": "Nothing.",
+        "startTime": 18563,
+        "endTime": 19116,
+        "slowStartTime": 27995,
+        "slowEndTime": 28899
+    },
+    {
+        "text": "Ask not for whom the bell tolls, it tolls for thee.",
+        "startTime": 20901,
+        "endTime": 26465,
+        "slowStartTime": 31501,
+        "slowEndTime": 39923
+    },
+    {
+        "text": "A laptop when you need it, a tablet when you want it.",
+        "startTime": 27142,
+        "endTime": 29844,
+        "slowStartTime": 40863,
+        "slowEndTime": 44991
+    }
+]

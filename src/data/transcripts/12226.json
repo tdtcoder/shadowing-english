@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Guess what!",
+        "startTime": 2509,
+        "endTime": 3255,
+        "slowStartTime": 3914,
+        "slowEndTime": 5107
+    },
+    {
+        "text": "I got a couple of tickets for tonight's basketball game!",
+        "startTime": 3600,
+        "endTime": 6704,
+        "slowStartTime": 5397,
+        "slowEndTime": 10281
+    },
+    {
+        "text": "Tickets for a basketball game?",
+        "startTime": 7019,
+        "endTime": 8615,
+        "slowStartTime": 10678,
+        "slowEndTime": 13148
+    },
+    {
+        "text": "You mean an NBA game?",
+        "startTime": 8826,
+        "endTime": 10351,
+        "slowStartTime": 13389,
+        "slowEndTime": 15752
+    },
+    {
+        "text": "Yeah! Do you want to join me?",
+        "startTime": 10489,
+        "endTime": 12296,
+        "slowStartTime": 15883,
+        "slowEndTime": 18669
+    },
+    {
+        "text": "Absolutely! I've always wanted to see an NBA game live.",
+        "startTime": 12562,
+        "endTime": 16177,
+        "slowStartTime": 18993,
+        "slowEndTime": 24491
+    },
+    {
+        "text": "I can't believe how many people are here.",
+        "startTime": 17273,
+        "endTime": 19227,
+        "slowStartTime": 26060,
+        "slowEndTime": 29065
+    },
+    {
+        "text": "How big is this arena?",
+        "startTime": 19550,
+        "endTime": 20683,
+        "slowStartTime": 29284,
+        "slowEndTime": 31250
+    },
+    {
+        "text": "I think it seats about 18,000 or so.",
+        "startTime": 20876,
+        "endTime": 23657,
+        "slowStartTime": 31464,
+        "slowEndTime": 35710
+    },
+    {
+        "text": "It's usually full, so we're lucky to get seats.",
+        "startTime": 23807,
+        "endTime": 26772,
+        "slowStartTime": 35861,
+        "slowEndTime": 40383
+    },
+    {
+        "text": "Yeah, and these are great seats, too.",
+        "startTime": 27100,
+        "endTime": 29098,
+        "slowStartTime": 40587,
+        "slowEndTime": 43872
+    },
+    {
+        "text": "Well, actually they're only so-so, but not bad for the money.",
+        "startTime": 29500,
+        "endTime": 32819,
+        "slowStartTime": 44239,
+        "slowEndTime": 49453
+    },
+    {
+        "text": "Are the best seats really expensive?",
+        "startTime": 33170,
+        "endTime": 35010,
+        "slowStartTime": 49905,
+        "slowEndTime": 52740
+    },
+    {
+        "text": "Yes, they're very expensive.",
+        "startTime": 35186,
+        "endTime": 37189,
+        "slowStartTime": 52929,
+        "slowEndTime": 56009
+    },
+    {
+        "text": "That's why I usually just watch the games on TV.",
+        "startTime": 37485,
+        "endTime": 40627,
+        "slowStartTime": 56377,
+        "slowEndTime": 61165
+    },
+    {
+        "text": "Well,...",
+        "startTime": 40868,
+        "endTime": 41252,
+        "slowStartTime": 61452,
+        "slowEndTime": 62103
+    },
+    {
+        "text": "...I'm just glad to have the chance to see a game while I'm living here.",
+        "startTime": 41524,
+        "endTime": 44755,
+        "slowStartTime": 62436,
+        "slowEndTime": 67358
+    }
+]

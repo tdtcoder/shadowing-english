@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Welcome to Bucharest.",
+        "startTime": 77,
+        "endTime": 1165,
+        "slowStartTime": 265,
+        "slowEndTime": 1972
+    },
+    {
+        "text": "Let me show you my wonderful city.",
+        "startTime": 1289,
+        "endTime": 2728,
+        "slowStartTime": 2083,
+        "slowEndTime": 4317
+    },
+    {
+        "text": "Come on.",
+        "startTime": 2871,
+        "endTime": 3564,
+        "slowStartTime": 4456,
+        "slowEndTime": 5571
+    },
+    {
+        "text": "Cismigiu Park is the largest and oldest park of Bucharest and was built in 1847.",
+        "startTime": 9749,
+        "endTime": 16139,
+        "slowStartTime": 14773,
+        "slowEndTime": 24433
+    },
+    {
+        "text": "Now, I'm gonna get ready for a great show tonight in the Palace of Parliament.",
+        "startTime": 28794,
+        "endTime": 32831,
+        "slowStartTime": 43341,
+        "slowEndTime": 49471
+    },
+    {
+        "text": "Thanks for visiting Bucharest.",
+        "startTime": 41947,
+        "endTime": 43569,
+        "slowStartTime": 63071,
+        "slowEndTime": 65578
+    }
+]

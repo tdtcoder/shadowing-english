@@ -1,0 +1,44 @@
+[
+    {
+        "text": "NATO warplanes strike targets in the Libyan capital, Tripoli.",
+        "startTime": 7100,
+        "endTime": 11610,
+        "slowStartTime": 10730,
+        "slowEndTime": 17470
+    },
+    {
+        "text": "The European Union sanctions 13 Syrian officials for violence against protesters.",
+        "startTime": 15010,
+        "endTime": 21380,
+        "slowStartTime": 22620,
+        "slowEndTime": 32160
+    },
+    {
+        "text": "Mexico's navy says 13 people have been killed in a gang related shootout with security forces.",
+        "startTime": 23720,
+        "endTime": 30790,
+        "slowStartTime": 35650,
+        "slowEndTime": 46300
+    },
+    {
+        "text": "Two people die after a bomb explodes outside a district court in northwestern Pakistan.",
+        "startTime": 34300,
+        "endTime": 40940,
+        "slowStartTime": 51570,
+        "slowEndTime": 61440
+    },
+    {
+        "text": "A landslide swamps a dormitory in southern China, killing at least 12.",
+        "startTime": 44070,
+        "endTime": 49640,
+        "slowStartTime": 66160,
+        "slowEndTime": 74540
+    },
+    {
+        "text": "Japanese residents return to their homes near the Fukushima plant to collect personal items.",
+        "startTime": 52680,
+        "endTime": 59520,
+        "slowStartTime": 79120,
+        "slowEndTime": 89370
+    }
+]

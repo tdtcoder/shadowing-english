@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Don't be loud.",
+        "startTime": 3847,
+        "endTime": 5363,
+        "slowStartTime": 5921,
+        "slowEndTime": 8269
+    },
+    {
+        "text": "Don't be lazy.",
+        "startTime": 6883,
+        "endTime": 7988,
+        "slowStartTime": 10475,
+        "slowEndTime": 12207
+    },
+    {
+        "text": "Don't be mean.",
+        "startTime": 9758,
+        "endTime": 10870,
+        "slowStartTime": 14787,
+        "slowEndTime": 16530
+    },
+    {
+        "text": "Don't stay up late.",
+        "startTime": 16355,
+        "endTime": 17468,
+        "slowStartTime": 24683,
+        "slowEndTime": 26427
+    },
+    {
+        "text": "Don't fight.",
+        "startTime": 19093,
+        "endTime": 19842,
+        "slowStartTime": 28789,
+        "slowEndTime": 29988
+    },
+    {
+        "text": "Don't bite me.",
+        "startTime": 21543,
+        "endTime": 22905,
+        "slowStartTime": 32464,
+        "slowEndTime": 34583
+    },
+    {
+        "text": "Don't run.",
+        "startTime": 24409,
+        "endTime": 25579,
+        "slowStartTime": 36764,
+        "slowEndTime": 38593
+    },
+    {
+        "text": "Don't cry.",
+        "startTime": 27107,
+        "endTime": 28135,
+        "slowStartTime": 40810,
+        "slowEndTime": 42427
+    },
+    {
+        "text": "Don't eat the candy.",
+        "startTime": 29840,
+        "endTime": 30936,
+        "slowStartTime": 44910,
+        "slowEndTime": 46629
+    }
+]

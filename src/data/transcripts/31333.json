@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Is he sleeping?",
+        "startTime": 3721,
+        "endTime": 4915,
+        "slowStartTime": 5732,
+        "slowEndTime": 7598
+    },
+    {
+        "text": "Yes, he is.",
+        "startTime": 5940,
+        "endTime": 6885,
+        "slowStartTime": 9060,
+        "slowEndTime": 10553
+    },
+    {
+        "text": "Am I running?",
+        "startTime": 8516,
+        "endTime": 9383,
+        "slowStartTime": 12924,
+        "slowEndTime": 14300
+    },
+    {
+        "text": "No, I'm not running.",
+        "startTime": 10315,
+        "endTime": 11728,
+        "slowStartTime": 15623,
+        "slowEndTime": 17817
+    },
+    {
+        "text": "I'm climbing a tree.",
+        "startTime": 11831,
+        "endTime": 12761,
+        "slowStartTime": 17897,
+        "slowEndTime": 19367
+    },
+    {
+        "text": "What is she doing?",
+        "startTime": 18064,
+        "endTime": 19329,
+        "slowStartTime": 27246,
+        "slowEndTime": 29219
+    },
+    {
+        "text": "She is drawing.",
+        "startTime": 20197,
+        "endTime": 21323,
+        "slowStartTime": 30446,
+        "slowEndTime": 32210
+    },
+    {
+        "text": "Who is Alice talking to?",
+        "startTime": 23019,
+        "endTime": 24455,
+        "slowStartTime": 34678,
+        "slowEndTime": 36907
+    },
+    {
+        "text": "Alice is talking to Rita.",
+        "startTime": 25551,
+        "endTime": 27005,
+        "slowStartTime": 38476,
+        "slowEndTime": 40732
+    }
+]

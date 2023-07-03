@@ -1,0 +1,107 @@
+[
+    {
+        "text": "﻿The world is made up of many colors.",
+        "startTime": 5982,
+        "endTime": 8077,
+        "slowStartTime": 9123,
+        "slowEndTime": 12340
+    },
+    {
+        "text": "Colors are everywhere around us.",
+        "startTime": 8923,
+        "endTime": 10895,
+        "slowStartTime": 13535,
+        "slowEndTime": 16568
+    },
+    {
+        "text": "Let's see if we can name a few.",
+        "startTime": 13675,
+        "endTime": 14985,
+        "slowStartTime": 20662,
+        "slowEndTime": 22703
+    },
+    {
+        "text": "Are you ready?",
+        "startTime": 16065,
+        "endTime": 16587,
+        "slowStartTime": 24247,
+        "slowEndTime": 25106
+    },
+    {
+        "text": "Let's begin.",
+        "startTime": 17243,
+        "endTime": 18050,
+        "slowStartTime": 26015,
+        "slowEndTime": 27300
+    },
+    {
+        "text": "Red.",
+        "startTime": 19781,
+        "endTime": 20254,
+        "slowStartTime": 29821,
+        "slowEndTime": 30606
+    },
+    {
+        "text": "Yellow.",
+        "startTime": 23649,
+        "endTime": 24147,
+        "slowStartTime": 35624,
+        "slowEndTime": 36446
+    },
+    {
+        "text": "Blue.",
+        "startTime": 27497,
+        "endTime": 27931,
+        "slowStartTime": 41395,
+        "slowEndTime": 42122
+    },
+    {
+        "text": "Orange.",
+        "startTime": 31363,
+        "endTime": 32119,
+        "slowStartTime": 47194,
+        "slowEndTime": 48404
+    },
+    {
+        "text": "Green.",
+        "startTime": 35257,
+        "endTime": 35725,
+        "slowStartTime": 53035,
+        "slowEndTime": 53812
+    },
+    {
+        "text": "Purple.",
+        "startTime": 39177,
+        "endTime": 39591,
+        "slowStartTime": 58915,
+        "slowEndTime": 59612
+    },
+    {
+        "text": "Pink.",
+        "startTime": 43057,
+        "endTime": 43495,
+        "slowStartTime": 64736,
+        "slowEndTime": 65467
+    },
+    {
+        "text": "Brown.",
+        "startTime": 46858,
+        "endTime": 47356,
+        "slowStartTime": 70437,
+        "slowEndTime": 71259
+    },
+    {
+        "text": "Black.",
+        "startTime": 50782,
+        "endTime": 51227,
+        "slowStartTime": 76323,
+        "slowEndTime": 77065
+    },
+    {
+        "text": "White.",
+        "startTime": 54631,
+        "endTime": 55198,
+        "slowStartTime": 82096,
+        "slowEndTime": 83022
+    }
+]

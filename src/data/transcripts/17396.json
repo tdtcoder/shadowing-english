@@ -1,0 +1,156 @@
+[
+    {
+        "text": "Cows like to eat grass.",
+        "startTime": 2464,
+        "endTime": 4366,
+        "slowStartTime": 3846,
+        "slowEndTime": 6774
+    },
+    {
+        "text": "Munch, munch.",
+        "startTime": 5426,
+        "endTime": 6621,
+        "slowStartTime": 8289,
+        "slowEndTime": 10157
+    },
+    {
+        "text": "Birds like to eat seeds.",
+        "startTime": 7580,
+        "endTime": 9684,
+        "slowStartTime": 11520,
+        "slowEndTime": 14751
+    },
+    {
+        "text": "Crunch, crunch.",
+        "startTime": 10676,
+        "endTime": 12006,
+        "slowStartTime": 16164,
+        "slowEndTime": 18234
+    },
+    {
+        "text": "Pandas like to eat leaves.",
+        "startTime": 13015,
+        "endTime": 15085,
+        "slowStartTime": 19673,
+        "slowEndTime": 22853
+    },
+    {
+        "text": "Munch, munch.",
+        "startTime": 16122,
+        "endTime": 17368,
+        "slowStartTime": 24333,
+        "slowEndTime": 26277
+    },
+    {
+        "text": "Frogs like to eat bugs.",
+        "startTime": 18360,
+        "endTime": 20498,
+        "slowStartTime": 27690,
+        "slowEndTime": 30972
+    },
+    {
+        "text": "Zap, zap.",
+        "startTime": 21457,
+        "endTime": 22769,
+        "slowStartTime": 32335,
+        "slowEndTime": 34378
+    },
+    {
+        "text": "Monkeys like to eat fruit.",
+        "startTime": 23796,
+        "endTime": 25815,
+        "slowStartTime": 35844,
+        "slowEndTime": 38948
+    },
+    {
+        "text": "Slurp, slurp.",
+        "startTime": 26796,
+        "endTime": 28159,
+        "slowStartTime": 40344,
+        "slowEndTime": 42464
+    },
+    {
+        "text": "Seals like to eat fish.",
+        "startTime": 29169,
+        "endTime": 30936,
+        "slowStartTime": 43903,
+        "slowEndTime": 46629
+    },
+    {
+        "text": "Gulp, gulp.",
+        "startTime": 31996,
+        "endTime": 33174,
+        "slowStartTime": 48144,
+        "slowEndTime": 49986
+    },
+    {
+        "text": "Goats like to eat everything.",
+        "startTime": 34217,
+        "endTime": 36680,
+        "slowStartTime": 51476,
+        "slowEndTime": 55245
+    },
+    {
+        "text": "Hey, stop! That's my sock.",
+        "startTime": 37706,
+        "endTime": 41167,
+        "slowStartTime": 56709,
+        "slowEndTime": 61976
+    },
+    {
+        "text": "Hey, stop! That's my shoe.",
+        "startTime": 42126,
+        "endTime": 45593,
+        "slowStartTime": 63339,
+        "slowEndTime": 68614
+    },
+    {
+        "text": "Hey, stop! That's my book.",
+        "startTime": 46653,
+        "endTime": 50391,
+        "slowStartTime": 70129,
+        "slowEndTime": 75811
+    },
+    {
+        "text": "What do you like to do?",
+        "startTime": 53791,
+        "endTime": 55524,
+        "slowStartTime": 80836,
+        "slowEndTime": 83511
+    },
+    {
+        "text": "I like to play soccer.",
+        "startTime": 56550,
+        "endTime": 58318,
+        "slowStartTime": 84975,
+        "slowEndTime": 87702
+    },
+    {
+        "text": "Do you like watching TV?",
+        "startTime": 59301,
+        "endTime": 61388,
+        "slowStartTime": 89101,
+        "slowEndTime": 92307
+    },
+    {
+        "text": "Yes, I like watching TV.",
+        "startTime": 62347,
+        "endTime": 64980,
+        "slowStartTime": 93670,
+        "slowEndTime": 97695
+    },
+    {
+        "text": "Do your sisters like to eat hamburgers?",
+        "startTime": 66040,
+        "endTime": 68884,
+        "slowStartTime": 99210,
+        "slowEndTime": 103551
+    },
+    {
+        "text": "No, they don't like to eat hamburgers.",
+        "startTime": 69944,
+        "endTime": 72991,
+        "slowStartTime": 105066,
+        "slowEndTime": 109711
+    }
+]

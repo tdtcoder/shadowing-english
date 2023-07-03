@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Without thinking about it too much, which one would you choose?",
+        "startTime": 3399,
+        "endTime": 6648,
+        "slowStartTime": 5248,
+        "slowEndTime": 10197
+    },
+    {
+        "text": "Which snack would you choose?",
+        "startTime": 9237,
+        "endTime": 11292,
+        "slowStartTime": 14006,
+        "slowEndTime": 17163
+    },
+    {
+        "text": "Will you choose a life of ease or a life of service and adventure?",
+        "startTime": 14112,
+        "endTime": 20177,
+        "slowStartTime": 21318,
+        "slowEndTime": 30491
+    },
+    {
+        "text": "That's a good idea. Would you like to work in this country or abroad?",
+        "startTime": 24544,
+        "endTime": 28846,
+        "slowStartTime": 36966,
+        "slowEndTime": 43494
+    },
+    {
+        "text": "Would you like to pay with your credit card or in cash?",
+        "startTime": 31409,
+        "endTime": 34062,
+        "slowStartTime": 47264,
+        "slowEndTime": 51318
+    },
+    {
+        "text": "Would you like to arrange for a personal interview?",
+        "startTime": 36668,
+        "endTime": 40629,
+        "slowStartTime": 55152,
+        "slowEndTime": 61169
+    },
+    {
+        "text": "Okay, do you want to play video games, surf the net or print anything out?",
+        "startTime": 44081,
+        "endTime": 48981,
+        "slowStartTime": 66272,
+        "slowEndTime": 73697
+    },
+    {
+        "text": "Do you want to study business Japanese or casual conversation?",
+        "startTime": 51482,
+        "endTime": 55528,
+        "slowStartTime": 77373,
+        "slowEndTime": 83517
+    },
+    {
+        "text": "Shall I give you one of them? Which one do you prefer?",
+        "startTime": 59979,
+        "endTime": 63542,
+        "slowStartTime": 90119,
+        "slowEndTime": 95538
+    },
+    {
+        "text": "Do you prefer to be with your family or with friends on your birthday?",
+        "startTime": 66676,
+        "endTime": 70665,
+        "slowStartTime": 100164,
+        "slowEndTime": 106222
+    }
+]

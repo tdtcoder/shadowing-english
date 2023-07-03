@@ -1,0 +1,128 @@
+[
+    {
+        "text": "﻿Hello, Nashville.",
+        "startTime": 4290,
+        "endTime": 5208,
+        "slowStartTime": 6585,
+        "slowEndTime": 8037
+    },
+    {
+        "text": "I'm your local weatherman, Carden Corts.",
+        "startTime": 5297,
+        "endTime": 7662,
+        "slowStartTime": 8096,
+        "slowEndTime": 11718
+    },
+    {
+        "text": "I'm not an actual meteorologist, but I do know my sight words.",
+        "startTime": 7963,
+        "endTime": 12497,
+        "slowStartTime": 12094,
+        "slowEndTime": 18970
+    },
+    {
+        "text": "Today's weather report is brought to you by the letter C.",
+        "startTime": 12875,
+        "endTime": 17141,
+        "slowStartTime": 19463,
+        "slowEndTime": 25937
+    },
+    {
+        "text": "And also Pokemon cards!",
+        "startTime": 17669,
+        "endTime": 19775,
+        "slowStartTime": 26654,
+        "slowEndTime": 29888
+    },
+    {
+        "text": "Pokemon!",
+        "startTime": 19975,
+        "endTime": 20575,
+        "slowStartTime": 30113,
+        "slowEndTime": 31088
+    },
+    {
+        "text": "Gotta catch 'em all!",
+        "startTime": 20709,
+        "endTime": 21691,
+        "slowStartTime": 31214,
+        "slowEndTime": 32761
+    },
+    {
+        "text": "Let's take a look at today's weather in Nashville using our new weather simulator.",
+        "startTime": 22083,
+        "endTime": 26550,
+        "slowStartTime": 33275,
+        "slowEndTime": 40050
+    },
+    {
+        "text": "All I have to do is click this button.",
+        "startTime": 26808,
+        "endTime": 29145,
+        "slowStartTime": 40362,
+        "slowEndTime": 43943
+    },
+    {
+        "text": "I'm in a hurricane!",
+        "startTime": 32199,
+        "endTime": 34679,
+        "slowStartTime": 48448,
+        "slowEndTime": 52244
+    },
+    {
+        "text": "So cold.",
+        "startTime": 39219,
+        "endTime": 40943,
+        "slowStartTime": 58979,
+        "slowEndTime": 61640
+    },
+    {
+        "text": "Is there something behind me?",
+        "startTime": 44998,
+        "endTime": 46445,
+        "slowStartTime": 67647,
+        "slowEndTime": 69893
+    },
+    {
+        "text": "Ahh, this is more like it.",
+        "startTime": 48198,
+        "endTime": 50001,
+        "slowStartTime": 72447,
+        "slowEndTime": 75226
+    },
+    {
+        "text": "It's cloudy today in Nashville with a slight chance of rain.",
+        "startTime": 50815,
+        "endTime": 54060,
+        "slowStartTime": 76373,
+        "slowEndTime": 81315
+    },
+    {
+        "text": "The high today will be 51 degrees with a low of 33 degrees this evening.",
+        "startTime": 54391,
+        "endTime": 60347,
+        "slowStartTime": 81737,
+        "slowEndTime": 90746
+    },
+    {
+        "text": "But warmer weather is on the way.",
+        "startTime": 60673,
+        "endTime": 62915,
+        "slowStartTime": 91160,
+        "slowEndTime": 94597
+    },
+    {
+        "text": "Yesterday was the first day of spring and you know what that means...",
+        "startTime": 63301,
+        "endTime": 67771,
+        "slowStartTime": 95101,
+        "slowEndTime": 101881
+    },
+    {
+        "text": "Spring break!",
+        "startTime": 67953,
+        "endTime": 69885,
+        "slowStartTime": 102080,
+        "slowEndTime": 105052
+    }
+]

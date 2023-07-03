@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Hey, how are you doing?",
+        "startTime": 6869,
+        "endTime": 8469,
+        "slowStartTime": 10454,
+        "slowEndTime": 12929
+    },
+    {
+        "text": "Yeah, did you go for a run today yet?",
+        "startTime": 8979,
+        "endTime": 11091,
+        "slowStartTime": 13619,
+        "slowEndTime": 16861
+    },
+    {
+        "text": "No, I'm planning to go after work.",
+        "startTime": 11261,
+        "endTime": 12445,
+        "slowStartTime": 17041,
+        "slowEndTime": 18892
+    },
+    {
+        "text": "I just had like 1,500 calories at lunch.",
+        "startTime": 12531,
+        "endTime": 14385,
+        "slowStartTime": 18946,
+        "slowEndTime": 21803
+    },
+    {
+        "text": "It was terrible.",
+        "startTime": 14501,
+        "endTime": 15391,
+        "slowStartTime": 21902,
+        "slowEndTime": 23312
+    },
+    {
+        "text": "No, you know, I'm thinking about going vegan.",
+        "startTime": 15792,
+        "endTime": 18031,
+        "slowStartTime": 23838,
+        "slowEndTime": 27272
+    },
+    {
+        "text": "The thing is, I just really like butter.",
+        "startTime": 18229,
+        "endTime": 20911,
+        "slowStartTime": 27494,
+        "slowEndTime": 31591
+    },
+    {
+        "text": "Hey, how are you?",
+        "startTime": 24730,
+        "endTime": 26033,
+        "slowStartTime": 37245,
+        "slowEndTime": 39274
+    },
+    {
+        "text": "Oh hey, I'm really sorry.",
+        "startTime": 27445,
+        "endTime": 28980,
+        "slowStartTime": 41317,
+        "slowEndTime": 43695
+    },
+    {
+        "text": "I'm on an elevator, gotta hang up.",
+        "startTime": 29060,
+        "endTime": 30543,
+        "slowStartTime": 43740,
+        "slowEndTime": 46039
+    },
+    {
+        "text": "How are you guys doing?",
+        "startTime": 32099,
+        "endTime": 33129,
+        "slowStartTime": 48298,
+        "slowEndTime": 49919
+    }
+]

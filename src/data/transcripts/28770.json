@@ -1,0 +1,37 @@
+[
+    {
+        "text": "What are the various water bodies that you can think of?",
+        "startTime": 5079,
+        "endTime": 8187,
+        "slowStartTime": 7769,
+        "slowEndTime": 12506
+    },
+    {
+        "text": "Rivers, lakes, ponds, sea, ocean.",
+        "startTime": 9392,
+        "endTime": 11912,
+        "slowStartTime": 14238,
+        "slowEndTime": 18093
+    },
+    {
+        "text": "Very good.",
+        "startTime": 13580,
+        "endTime": 14481,
+        "slowStartTime": 20520,
+        "slowEndTime": 21946
+    },
+    {
+        "text": "Now, can anyone tell me why the seawater tastes salty?",
+        "startTime": 15268,
+        "endTime": 18748,
+        "slowStartTime": 23052,
+        "slowEndTime": 28347
+    },
+    {
+        "text": "Maybe a ship with salt sank a long time ago.",
+        "startTime": 22313,
+        "endTime": 25483,
+        "slowStartTime": 33619,
+        "slowEndTime": 38449
+    }
+]

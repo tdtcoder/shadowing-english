@@ -1,0 +1,93 @@
+[
+    {
+        "text": "In the US, during his last 2015 press conference,...",
+        "startTime": 2743,
+        "endTime": 6603,
+        "slowStartTime": 4264,
+        "slowEndTime": 10129
+    },
+    {
+        "text": "...President Barack Obama said peace was not possible in Syria...",
+        "startTime": 6977,
+        "endTime": 10209,
+        "slowStartTime": 10616,
+        "slowEndTime": 15539
+    },
+    {
+        "text": "...until there is a legitimate government.",
+        "startTime": 10585,
+        "endTime": 12277,
+        "slowStartTime": 16027,
+        "slowEndTime": 18640
+    },
+    {
+        "text": "In Afghanistan, during a surprise trip to the country US Defense Secretary Ash Carter...",
+        "startTime": 13918,
+        "endTime": 19236,
+        "slowStartTime": 21027,
+        "slowEndTime": 29079
+    },
+    {
+        "text": "...says the Afghan War is far from over.",
+        "startTime": 19631,
+        "endTime": 21797,
+        "slowStartTime": 29596,
+        "slowEndTime": 32920
+    },
+    {
+        "text": "In Libya, hundreds of protesters in Tripoli...",
+        "startTime": 22556,
+        "endTime": 25183,
+        "slowStartTime": 33984,
+        "slowEndTime": 38000
+    },
+    {
+        "text": "...hold a demonstration against the UN-sponsored agreement...",
+        "startTime": 25546,
+        "endTime": 28111,
+        "slowStartTime": 38469,
+        "slowEndTime": 42392
+    },
+    {
+        "text": "...on forming a national unity government.",
+        "startTime": 28549,
+        "endTime": 30558,
+        "slowStartTime": 42973,
+        "slowEndTime": 46062
+    },
+    {
+        "text": "In Switzerland, the International Organization for Migration...",
+        "startTime": 33707,
+        "endTime": 37116,
+        "slowStartTime": 50710,
+        "slowEndTime": 55899
+    },
+    {
+        "text": "...says that the number of refugees and migrants arriving in Europe this year...",
+        "startTime": 37465,
+        "endTime": 40981,
+        "slowStartTime": 56347,
+        "slowEndTime": 61697
+    },
+    {
+        "text": "...is expected to top the one million mark next week.",
+        "startTime": 41205,
+        "endTime": 44176,
+        "slowStartTime": 61957,
+        "slowEndTime": 66489
+    },
+    {
+        "text": "And finally from the US, the new \"Star Wars\" movie is set to top the box office...",
+        "startTime": 48087,
+        "endTime": 52405,
+        "slowStartTime": 72281,
+        "slowEndTime": 78832
+    },
+    {
+        "text": "...with an estimated $225-million earning from Friday through Sunday.",
+        "startTime": 52686,
+        "endTime": 57418,
+        "slowStartTime": 79179,
+        "slowEndTime": 86352
+    }
+]

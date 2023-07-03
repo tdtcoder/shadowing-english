@@ -1,0 +1,184 @@
+[
+    {
+        "text": "In the latest 3D movie to hit the big screen,...",
+        "startTime": 3300,
+        "endTime": 5650,
+        "slowStartTime": 5150,
+        "slowEndTime": 8750
+    },
+    {
+        "text": "...prehistoric killer fish practically sink their teeth into cinema audiences.",
+        "startTime": 5950,
+        "endTime": 9950,
+        "slowStartTime": 9050,
+        "slowEndTime": 15125
+    },
+    {
+        "text": "And with moviegoers willing to pay 15 to 20 dollars to watch movies like \"Piranha 3D\",...",
+        "startTime": 10250,
+        "endTime": 15200,
+        "slowStartTime": 15550,
+        "slowEndTime": 23000
+    },
+    {
+        "text": "...a number of companies are betting people will want to experience the same thrill at home.",
+        "startTime": 15550,
+        "endTime": 19750,
+        "slowStartTime": 23500,
+        "slowEndTime": 29900
+    },
+    {
+        "text": "In California's Silicon Valley,...",
+        "startTime": 20267,
+        "endTime": 21873,
+        "slowStartTime": 30550,
+        "slowEndTime": 33034
+    },
+    {
+        "text": "...graphics technology company Nvidia is developing a device...",
+        "startTime": 22128,
+        "endTime": 25414,
+        "slowStartTime": 33342,
+        "slowEndTime": 38346
+    },
+    {
+        "text": "...that brings a 3D experience to your home computer.",
+        "startTime": 25450,
+        "endTime": 28000,
+        "slowStartTime": 38400,
+        "slowEndTime": 42200
+    },
+    {
+        "text": "3D Division Chief Phil Eisler says its special glasses can deliver high-resolution 3D...",
+        "startTime": 28450,
+        "endTime": 33500,
+        "slowStartTime": 42850,
+        "slowEndTime": 50550
+    },
+    {
+        "text": "...by blinking rapidly to bring a different image to each eye.",
+        "startTime": 33800,
+        "endTime": 36850,
+        "slowStartTime": 50850,
+        "slowEndTime": 55500
+    },
+    {
+        "text": "Nvidia has pursued the active shutter glasses,...",
+        "startTime": 37400,
+        "endTime": 41300,
+        "slowStartTime": 56250,
+        "slowEndTime": 62200
+    },
+    {
+        "text": "...what's called the Sequential Frame 120 Hz method,...",
+        "startTime": 42250,
+        "endTime": 44900,
+        "slowStartTime": 63550,
+        "slowEndTime": 67600
+    },
+    {
+        "text": "...so that the glasses here will open left and right at 60 Hz per eye.",
+        "startTime": 45500,
+        "endTime": 51450,
+        "slowStartTime": 68400,
+        "slowEndTime": 77450
+    },
+    {
+        "text": "And then a laptop such as this Toshiba 3D laptop,...",
+        "startTime": 51800,
+        "endTime": 54950,
+        "slowStartTime": 77900,
+        "slowEndTime": 82700
+    },
+    {
+        "text": "...the screen will work at 120 Hz and display left and right,...",
+        "startTime": 55550,
+        "endTime": 58249,
+        "slowStartTime": 83475,
+        "slowEndTime": 87599
+    },
+    {
+        "text": "...so you get a true stereoscopic 3D image...",
+        "startTime": 58327,
+        "endTime": 60957,
+        "slowStartTime": 87640,
+        "slowEndTime": 91661
+    },
+    {
+        "text": "...with full resolution and full color per eye.",
+        "startTime": 61000,
+        "endTime": 63000,
+        "slowStartTime": 91700,
+        "slowEndTime": 94750
+    },
+    {
+        "text": "Nvidia says it's a big improvement from the old, red and green cardboard glasses.",
+        "startTime": 63350,
+        "endTime": 67550,
+        "slowStartTime": 95250,
+        "slowEndTime": 101600
+    },
+    {
+        "text": "Although companies are experimenting with different methods to simulate 3D,...",
+        "startTime": 67850,
+        "endTime": 71300,
+        "slowStartTime": 101950,
+        "slowEndTime": 107200
+    },
+    {
+        "text": "...Marketing Expert John Peddie says the advantage of Nvidia's system...",
+        "startTime": 71600,
+        "endTime": 75050,
+        "slowStartTime": 107600,
+        "slowEndTime": 112800
+    },
+    {
+        "text": "...is that it works with games that were not designed with 3D in mind.",
+        "startTime": 75300,
+        "endTime": 78800,
+        "slowStartTime": 113150,
+        "slowEndTime": 118400
+    },
+    {
+        "text": "So, the game developer doesn't have to do anything.",
+        "startTime": 79050,
+        "endTime": 82300,
+        "slowStartTime": 118800,
+        "slowEndTime": 123650
+    },
+    {
+        "text": "The game developer can say, \"Here's my game.\" you know, \"Enjoy it\".",
+        "startTime": 82550,
+        "endTime": 85450,
+        "slowStartTime": 124050,
+        "slowEndTime": 128450
+    },
+    {
+        "text": "You can enjoy it in 2D in an old monitor which is 60 Hz...",
+        "startTime": 85500,
+        "endTime": 88500,
+        "slowStartTime": 128450,
+        "slowEndTime": 133000
+    },
+    {
+        "text": "...or with the aid of the Nvidia stereo system,...",
+        "startTime": 88650,
+        "endTime": 92100,
+        "slowStartTime": 133200,
+        "slowEndTime": 138450
+    },
+    {
+        "text": "...you can enjoy it in 3D with their glasses and their sensor,...",
+        "startTime": 92233,
+        "endTime": 94906,
+        "slowStartTime": 138500,
+        "slowEndTime": 142584
+    },
+    {
+        "text": "...and their magic secret formula software.",
+        "startTime": 94979,
+        "endTime": 98101,
+        "slowStartTime": 142619,
+        "slowEndTime": 147377
+    }
+]

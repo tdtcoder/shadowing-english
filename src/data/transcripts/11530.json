@@ -1,0 +1,254 @@
+[
+    {
+        "text": "There was once a merchant who had bad luck.",
+        "startTime": 2700,
+        "endTime": 5400,
+        "slowStartTime": 4200,
+        "slowEndTime": 8300
+    },
+    {
+        "text": "He lost all his money and everything he owned.",
+        "startTime": 5700,
+        "endTime": 8450,
+        "slowStartTime": 8700,
+        "slowEndTime": 12900
+    },
+    {
+        "text": "One day, he came to a big house.",
+        "startTime": 9250,
+        "endTime": 11200,
+        "slowStartTime": 14000,
+        "slowEndTime": 17100
+    },
+    {
+        "text": "A servant walked up to the dogs and put down four bowls of food on the floor for them.",
+        "startTime": 11800,
+        "endTime": 17250,
+        "slowStartTime": 17850,
+        "slowEndTime": 26100
+    },
+    {
+        "text": "The bowls were made of gold.",
+        "startTime": 18000,
+        "endTime": 19800,
+        "slowStartTime": 27200,
+        "slowEndTime": 29950
+    },
+    {
+        "text": "He watched the dogs eat.",
+        "startTime": 20850,
+        "endTime": 22200,
+        "slowStartTime": 31450,
+        "slowEndTime": 33550
+    },
+    {
+        "text": "One of them looked up at him.",
+        "startTime": 22600,
+        "endTime": 24200,
+        "slowStartTime": 34050,
+        "slowEndTime": 36600
+    },
+    {
+        "text": "He pushed the bowl towards the poor merchant.",
+        "startTime": 25050,
+        "endTime": 27300,
+        "slowStartTime": 37800,
+        "slowEndTime": 41150
+    },
+    {
+        "text": "\"The dog wants me to eat,\" the merchant thought.",
+        "startTime": 28300,
+        "endTime": 31000,
+        "slowStartTime": 42600,
+        "slowEndTime": 46800
+    },
+    {
+        "text": "When he finished eating, he thought, \"I'll take this bowl and sell it.\"",
+        "startTime": 31850,
+        "endTime": 35800,
+        "slowStartTime": 47900,
+        "slowEndTime": 53900
+    },
+    {
+        "text": "He sold the bowl made of gold and bought a shop.",
+        "startTime": 36450,
+        "endTime": 39800,
+        "slowStartTime": 54800,
+        "slowEndTime": 59900
+    },
+    {
+        "text": "Many years passed.",
+        "startTime": 40300,
+        "endTime": 41450,
+        "slowStartTime": 60650,
+        "slowEndTime": 62400
+    },
+    {
+        "text": "Although he was rich, the merchant was not happy.",
+        "startTime": 41900,
+        "endTime": 44700,
+        "slowStartTime": 63000,
+        "slowEndTime": 67300
+    },
+    {
+        "text": "\"I stole the bowl made of gold,\" he thought.",
+        "startTime": 45600,
+        "endTime": 48450,
+        "slowStartTime": 68600,
+        "slowEndTime": 72900
+    },
+    {
+        "text": "\"I shall not be happy until I repay the owner.\"",
+        "startTime": 49000,
+        "endTime": 51700,
+        "slowStartTime": 73700,
+        "slowEndTime": 77800
+    },
+    {
+        "text": "He bought a valuable present and set out for the rich man's house.",
+        "startTime": 53000,
+        "endTime": 56700,
+        "slowStartTime": 79650,
+        "slowEndTime": 85300
+    },
+    {
+        "text": "To his surprise, it was now in ruins.",
+        "startTime": 57250,
+        "endTime": 60100,
+        "slowStartTime": 86000,
+        "slowEndTime": 90400
+    },
+    {
+        "text": "He went up to a beggar who was sitting in the ruins.",
+        "startTime": 60750,
+        "endTime": 63700,
+        "slowStartTime": 91250,
+        "slowEndTime": 95750
+    },
+    {
+        "text": "\"Tell me,\" he said,...",
+        "startTime": 64200,
+        "endTime": 65500,
+        "slowStartTime": 96500,
+        "slowEndTime": 98500
+    },
+    {
+        "text": "...\"what happened here?\"",
+        "startTime": 65950,
+        "endTime": 67000,
+        "slowStartTime": 99100,
+        "slowEndTime": 100800
+    },
+    {
+        "text": "\"Where is the great man who used to live here?\"",
+        "startTime": 67600,
+        "endTime": 70200,
+        "slowStartTime": 101550,
+        "slowEndTime": 105600
+    },
+    {
+        "text": "\"I am that man,\" he said.",
+        "startTime": 71100,
+        "endTime": 73550,
+        "slowStartTime": 106850,
+        "slowEndTime": 110600
+    },
+    {
+        "text": "\"This is very sad,\" the merchant said.",
+        "startTime": 74200,
+        "endTime": 76650,
+        "slowStartTime": 111500,
+        "slowEndTime": 115300
+    },
+    {
+        "text": "\"But now, your luck will change.\"",
+        "startTime": 77600,
+        "endTime": 79050,
+        "slowStartTime": 116550,
+        "slowEndTime": 118900
+    },
+    {
+        "text": "\"Many years ago, I was very poor.\"",
+        "startTime": 79500,
+        "endTime": 82200,
+        "slowStartTime": 119400,
+        "slowEndTime": 123600
+    },
+    {
+        "text": "\"One of your dogs pushed his bowl made of gold towards me.\"",
+        "startTime": 83050,
+        "endTime": 86700,
+        "slowStartTime": 124700,
+        "slowEndTime": 130400
+    },
+    {
+        "text": "\"I stole that bowl and sold it.\"",
+        "startTime": 87550,
+        "endTime": 89550,
+        "slowStartTime": 131500,
+        "slowEndTime": 134500
+    },
+    {
+        "text": "\"With the money, I bought a shop.\"",
+        "startTime": 90050,
+        "endTime": 91900,
+        "slowStartTime": 135200,
+        "slowEndTime": 138100
+    },
+    {
+        "text": "\"I filled it with goods and now, I am a rich man.\"",
+        "startTime": 92100,
+        "endTime": 95200,
+        "slowStartTime": 138300,
+        "slowEndTime": 143100
+    },
+    {
+        "text": "The beggar waved him away.",
+        "startTime": 96050,
+        "endTime": 97500,
+        "slowStartTime": 144250,
+        "slowEndTime": 146500
+    },
+    {
+        "text": "\"I cannot take the money or the present,\" he said.",
+        "startTime": 98250,
+        "endTime": 101950,
+        "slowStartTime": 147500,
+        "slowEndTime": 153200
+    },
+    {
+        "text": "\"My dog wanted to give you that bowl.\"",
+        "startTime": 102650,
+        "endTime": 105050,
+        "slowStartTime": 154200,
+        "slowEndTime": 157800
+    },
+    {
+        "text": "\"I did nothing for you and the dog is long dead.\"",
+        "startTime": 105400,
+        "endTime": 108650,
+        "slowStartTime": 158250,
+        "slowEndTime": 163200
+    },
+    {
+        "text": "\"Go in peace, friend.\"",
+        "startTime": 109550,
+        "endTime": 110800,
+        "slowStartTime": 164500,
+        "slowEndTime": 166400
+    },
+    {
+        "text": "The merchant thought for a while.",
+        "startTime": 112000,
+        "endTime": 113600,
+        "slowStartTime": 168200,
+        "slowEndTime": 170700
+    },
+    {
+        "text": "Then, he said, \"You may be a beggar, but you are truly a rich man.\"",
+        "startTime": 114200,
+        "endTime": 119550,
+        "slowStartTime": 171500,
+        "slowEndTime": 179600
+    }
+]

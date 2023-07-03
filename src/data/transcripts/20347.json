@@ -1,0 +1,296 @@
+[
+    {
+        "text": "When I was young, I thought my country was the best on the planet,...",
+        "startTime": 16373,
+        "endTime": 19830,
+        "slowStartTime": 24710,
+        "slowEndTime": 29970
+    },
+    {
+        "text": "...and I grew up singing a song called \"Nothing to Envy.\"",
+        "startTime": 20513,
+        "endTime": 23402,
+        "slowStartTime": 30920,
+        "slowEndTime": 35328
+    },
+    {
+        "text": "And I was very proud.",
+        "startTime": 24375,
+        "endTime": 25923,
+        "slowStartTime": 36712,
+        "slowEndTime": 39109
+    },
+    {
+        "text": "In school, we spent a lot of time studying the history of Kim Il-Sung,...",
+        "startTime": 26633,
+        "endTime": 30123,
+        "slowStartTime": 40100,
+        "slowEndTime": 45410
+    },
+    {
+        "text": "...but we never learned much about the outside world,...",
+        "startTime": 30209,
+        "endTime": 32942,
+        "slowStartTime": 45463,
+        "slowEndTime": 49638
+    },
+    {
+        "text": "...except that America, South Korea, Japan are the enemies.",
+        "startTime": 34334,
+        "endTime": 38342,
+        "slowStartTime": 51651,
+        "slowEndTime": 57738
+    },
+    {
+        "text": "Although I often wondered about the outside world,...",
+        "startTime": 39186,
+        "endTime": 41863,
+        "slowStartTime": 58929,
+        "slowEndTime": 63020
+    },
+    {
+        "text": "...I thought I would spend my entire life in North Korea,...",
+        "startTime": 42583,
+        "endTime": 45863,
+        "slowStartTime": 64025,
+        "slowEndTime": 69019
+    },
+    {
+        "text": "...until everything suddenly changed.",
+        "startTime": 46289,
+        "endTime": 48431,
+        "slowStartTime": 69583,
+        "slowEndTime": 72872
+    },
+    {
+        "text": "When I was seven years old, I saw my first public execution,...",
+        "startTime": 49978,
+        "endTime": 54247,
+        "slowStartTime": 75117,
+        "slowEndTime": 81596
+    },
+    {
+        "text": "...but I thought my life in North Korea was normal.",
+        "startTime": 54969,
+        "endTime": 57467,
+        "slowStartTime": 82604,
+        "slowEndTime": 86425
+    },
+    {
+        "text": "My family was not poor, and myself, had never experienced hunger.",
+        "startTime": 58153,
+        "endTime": 63286,
+        "slowStartTime": 87380,
+        "slowEndTime": 95154
+    },
+    {
+        "text": "But one day, in 1995, my mom brought home a letter from a coworker's sister.",
+        "startTime": 63760,
+        "endTime": 70006,
+        "slowStartTime": 95790,
+        "slowEndTime": 105234
+    },
+    {
+        "text": "It read, \"When you read this, all five family members will not exist in this world,...",
+        "startTime": 70388,
+        "endTime": 77481,
+        "slowStartTime": 105732,
+        "slowEndTime": 116446
+    },
+    {
+        "text": "...because we haven't eaten for the past two weeks.\"",
+        "startTime": 78281,
+        "endTime": 81404,
+        "slowStartTime": 117571,
+        "slowEndTime": 122331
+    },
+    {
+        "text": "\"We are lying on the floor together, and our bodies are so weak we are ready to die.\"",
+        "startTime": 82365,
+        "endTime": 90275,
+        "slowStartTime": 123698,
+        "slowEndTime": 135637
+    },
+    {
+        "text": "I was so shocked.",
+        "startTime": 93969,
+        "endTime": 95646,
+        "slowStartTime": 141104,
+        "slowEndTime": 143694
+    },
+    {
+        "text": "This was the first time I heard that people in my country were suffering.",
+        "startTime": 97019,
+        "endTime": 101046,
+        "slowStartTime": 145678,
+        "slowEndTime": 151794
+    },
+    {
+        "text": "Soon after, when I was walking past a train station,...",
+        "startTime": 103550,
+        "endTime": 106468,
+        "slowStartTime": 155475,
+        "slowEndTime": 159927
+    },
+    {
+        "text": "...I saw something terrible that I can't erase from my memory.",
+        "startTime": 106561,
+        "endTime": 110111,
+        "slowStartTime": 159991,
+        "slowEndTime": 165392
+    },
+    {
+        "text": "A lifeless woman was lying on the ground,...",
+        "startTime": 111760,
+        "endTime": 114405,
+        "slowStartTime": 167790,
+        "slowEndTime": 171833
+    },
+    {
+        "text": "...while an emaciated child in her arms just stared helplessly at his mother's face.",
+        "startTime": 114884,
+        "endTime": 121029,
+        "slowStartTime": 172476,
+        "slowEndTime": 181768
+    },
+    {
+        "text": "But nobody helped them,...",
+        "startTime": 122832,
+        "endTime": 124191,
+        "slowStartTime": 184398,
+        "slowEndTime": 186512
+    },
+    {
+        "text": "...because they were so focused on taking care of themselves and their families.",
+        "startTime": 124761,
+        "endTime": 129758,
+        "slowStartTime": 187292,
+        "slowEndTime": 194862
+    },
+    {
+        "text": "A huge famine hit North Korea in the mid-1990s.",
+        "startTime": 131401,
+        "endTime": 134933,
+        "slowStartTime": 197252,
+        "slowEndTime": 202624
+    },
+    {
+        "text": "Ultimately, more than a million North Koreans died during the famine,...",
+        "startTime": 135491,
+        "endTime": 139859,
+        "slowStartTime": 203387,
+        "slowEndTime": 210013
+    },
+    {
+        "text": "...and many only survived by eating grass, bugs and tree bark.",
+        "startTime": 140240,
+        "endTime": 145413,
+        "slowStartTime": 210510,
+        "slowEndTime": 218344
+    },
+    {
+        "text": "Power outages also became more and more frequent,...",
+        "startTime": 147055,
+        "endTime": 150173,
+        "slowStartTime": 220732,
+        "slowEndTime": 225484
+    },
+    {
+        "text": "...so everything around me was completely dark at night...",
+        "startTime": 150333,
+        "endTime": 154495,
+        "slowStartTime": 225650,
+        "slowEndTime": 231968
+    },
+    {
+        "text": "...except for the sea of lights in China, just across the river from my home.",
+        "startTime": 154781,
+        "endTime": 159175,
+        "slowStartTime": 232321,
+        "slowEndTime": 238987
+    },
+    {
+        "text": "I always wondered why they had lights but we didn't.",
+        "startTime": 159854,
+        "endTime": 163668,
+        "slowStartTime": 239931,
+        "slowEndTime": 245727
+    },
+    {
+        "text": "This is a satellite picture showing North Korea at night compared to neighbors.",
+        "startTime": 165583,
+        "endTime": 170655,
+        "slowStartTime": 248524,
+        "slowEndTime": 256208
+    },
+    {
+        "text": "This is the Amrok River, which serves as a part of the border between North Korea and China.",
+        "startTime": 173027,
+        "endTime": 179058,
+        "slowStartTime": 259690,
+        "slowEndTime": 268812
+    },
+    {
+        "text": "As you can see, the river can be very narrow at certain points,...",
+        "startTime": 179853,
+        "endTime": 183494,
+        "slowStartTime": 269930,
+        "slowEndTime": 275466
+    },
+    {
+        "text": "...allowing North Koreans to secretly cross.",
+        "startTime": 183908,
+        "endTime": 186741,
+        "slowStartTime": 276012,
+        "slowEndTime": 280337
+    },
+    {
+        "text": "But many die.",
+        "startTime": 188339,
+        "endTime": 189753,
+        "slowStartTime": 282659,
+        "slowEndTime": 284855
+    },
+    {
+        "text": "Sometimes, I saw dead bodies floating down the river.",
+        "startTime": 190086,
+        "endTime": 194171,
+        "slowStartTime": 285279,
+        "slowEndTime": 291482
+    },
+    {
+        "text": "I can't reveal many details about how I left North Korea,...",
+        "startTime": 197685,
+        "endTime": 201691,
+        "slowStartTime": 296677,
+        "slowEndTime": 302761
+    },
+    {
+        "text": "...but I only can say that during the ugly years of the famine...",
+        "startTime": 202538,
+        "endTime": 206483,
+        "slowStartTime": 303957,
+        "slowEndTime": 309950
+    },
+    {
+        "text": "...I was sent to China to live with distant relatives.",
+        "startTime": 206553,
+        "endTime": 211068,
+        "slowStartTime": 309979,
+        "slowEndTime": 316827
+    },
+    {
+        "text": "But I only thought that I would be separated from my family for a short time.",
+        "startTime": 211897,
+        "endTime": 217339,
+        "slowStartTime": 317995,
+        "slowEndTime": 326234
+    },
+    {
+        "text": "I could have never imagined that it would take 14 years to live together.",
+        "startTime": 218013,
+        "endTime": 222988,
+        "slowStartTime": 327169,
+        "slowEndTime": 334707
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "text": "You are Tarzan.",
+        "startTime": 1651,
+        "endTime": 3331,
+        "slowStartTime": 2627,
+        "slowEndTime": 5222
+    },
+    {
+        "text": "You may not like who you were.",
+        "startTime": 6683,
+        "endTime": 8362,
+        "slowStartTime": 10175,
+        "slowEndTime": 12768
+    },
+    {
+        "text": "You may have enemies there...",
+        "startTime": 10901,
+        "endTime": 12312,
+        "slowStartTime": 16501,
+        "slowEndTime": 18693
+    },
+    {
+        "text": "...but you need to go home.",
+        "startTime": 14076,
+        "endTime": 15457,
+        "slowStartTime": 21264,
+        "slowEndTime": 23410
+    },
+    {
+        "text": "Your husband's wildness disturbs me.",
+        "startTime": 20968,
+        "endTime": 23263,
+        "slowStartTime": 31602,
+        "slowEndTime": 35120
+    },
+    {
+        "text": "I need you to scream for me.",
+        "startTime": 26459,
+        "endTime": 27769,
+        "slowStartTime": 39838,
+        "slowEndTime": 41879
+    },
+    {
+        "text": "Like a damsel?",
+        "startTime": 28490,
+        "endTime": 29521,
+        "slowStartTime": 42885,
+        "slowEndTime": 44506
+    },
+    {
+        "text": "He's Tarzan, you're Jane.",
+        "startTime": 30030,
+        "endTime": 31499,
+        "slowStartTime": 45195,
+        "slowEndTime": 47474
+    },
+    {
+        "text": "He'll come for you.",
+        "startTime": 32096,
+        "endTime": 32833,
+        "slowStartTime": 48294,
+        "slowEndTime": 49474
+    }
+]

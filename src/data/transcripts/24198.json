@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Are you ready to become a hero?",
+        "startTime": 120,
+        "endTime": 2407,
+        "slowStartTime": 330,
+        "slowEndTime": 3836
+    },
+    {
+        "text": "Now, this suit has power.",
+        "startTime": 4111,
+        "endTime": 5737,
+        "slowStartTime": 6317,
+        "slowEndTime": 8831
+    },
+    {
+        "text": "You have to learn how to control it.",
+        "startTime": 9059,
+        "endTime": 10687,
+        "slowStartTime": 13738,
+        "slowEndTime": 16256
+    },
+    {
+        "text": "And these are your greatest allies.",
+        "startTime": 13301,
+        "endTime": 14921,
+        "slowStartTime": 20101,
+        "slowEndTime": 22606
+    },
+    {
+        "text": "They're kind of cute.",
+        "startTime": 15035,
+        "endTime": 15990,
+        "slowStartTime": 22703,
+        "slowEndTime": 24210
+    },
+    {
+        "text": "Whoa!",
+        "startTime": 16625,
+        "endTime": 17155,
+        "slowStartTime": 25088,
+        "slowEndTime": 25958
+    },
+    {
+        "text": "When you're small, you have superhuman strength.",
+        "startTime": 18454,
+        "endTime": 21198,
+        "slowStartTime": 27831,
+        "slowEndTime": 32022
+    },
+    {
+        "text": "You're like a bullet.",
+        "startTime": 23391,
+        "endTime": 24441,
+        "slowStartTime": 35236,
+        "slowEndTime": 36887
+    },
+    {
+        "text": "So, you need to know how to punch.",
+        "startTime": 27457,
+        "endTime": 28789,
+        "slowStartTime": 41336,
+        "slowEndTime": 43408
+    },
+    {
+        "text": "You wanna show me how to punch?",
+        "startTime": 28949,
+        "endTime": 29695,
+        "slowStartTime": 43573,
+        "slowEndTime": 44767
+    },
+    {
+        "text": "Show me how to punch.",
+        "startTime": 29950,
+        "endTime": 31001,
+        "slowStartTime": 45075,
+        "slowEndTime": 46726
+    }
+]

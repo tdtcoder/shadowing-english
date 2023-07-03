@@ -1,0 +1,107 @@
+[
+    {
+        "text": "You're on the phone with your girlfriend; she's upset.",
+        "startTime": 212,
+        "endTime": 3857,
+        "slowStartTime": 468,
+        "slowEndTime": 6010
+    },
+    {
+        "text": "She's going off about something that you said.",
+        "startTime": 4089,
+        "endTime": 7575,
+        "slowStartTime": 6284,
+        "slowEndTime": 11588
+    },
+    {
+        "text": "She doesn't get your humor like I do.",
+        "startTime": 7857,
+        "endTime": 12780,
+        "slowStartTime": 11935,
+        "slowEndTime": 19395
+    },
+    {
+        "text": "I'm in my room, it's a typical Tuesday night.",
+        "startTime": 14655,
+        "endTime": 18496,
+        "slowStartTime": 22132,
+        "slowEndTime": 27969
+    },
+    {
+        "text": "I'm listening to the kind of music she doesn't like.",
+        "startTime": 18550,
+        "endTime": 22027,
+        "slowStartTime": 27975,
+        "slowEndTime": 33265
+    },
+    {
+        "text": "She'll never know your story like I do.",
+        "startTime": 22257,
+        "endTime": 27244,
+        "slowStartTime": 33536,
+        "slowEndTime": 41091
+    },
+    {
+        "text": "She wears short skirts,...",
+        "startTime": 28973,
+        "endTime": 30863,
+        "slowStartTime": 43610,
+        "slowEndTime": 46519
+    },
+    {
+        "text": "...I wear t-shirts.",
+        "startTime": 30967,
+        "endTime": 32540,
+        "slowStartTime": 46600,
+        "slowEndTime": 49035
+    },
+    {
+        "text": "She's cheer captain and I'm on the bleachers.",
+        "startTime": 32614,
+        "endTime": 36102,
+        "slowStartTime": 49071,
+        "slowEndTime": 54378
+    },
+    {
+        "text": "Dreaming about the day when you wake up and find...",
+        "startTime": 36364,
+        "endTime": 39338,
+        "slowStartTime": 54696,
+        "slowEndTime": 59232
+    },
+    {
+        "text": "...that what you're looking for has been here the whole time.",
+        "startTime": 39409,
+        "endTime": 42922,
+        "slowStartTime": 59264,
+        "slowEndTime": 64608
+    },
+    {
+        "text": "If you could see that I'm the one who understands you,...",
+        "startTime": 42986,
+        "endTime": 46926,
+        "slowStartTime": 64629,
+        "slowEndTime": 70614
+    },
+    {
+        "text": "...been here all along so why can't you see?",
+        "startTime": 47210,
+        "endTime": 52568,
+        "slowStartTime": 70965,
+        "slowEndTime": 79077
+    },
+    {
+        "text": "You belong with me.",
+        "startTime": 53099,
+        "endTime": 56603,
+        "slowStartTime": 79799,
+        "slowEndTime": 85129
+    },
+    {
+        "text": "You belong with me.",
+        "startTime": 56717,
+        "endTime": 58576,
+        "slowStartTime": 85225,
+        "slowEndTime": 88089
+    }
+]

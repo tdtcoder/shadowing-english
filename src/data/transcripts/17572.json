@@ -1,0 +1,72 @@
+[
+    {
+        "text": "My grandma gets weaker and weaker as she gets old.",
+        "startTime": 2949,
+        "endTime": 7390,
+        "slowStartTime": 4573,
+        "slowEndTime": 11310
+    },
+    {
+        "text": "Sorry to hear that.",
+        "startTime": 8480,
+        "endTime": 9988,
+        "slowStartTime": 12870,
+        "slowEndTime": 15207
+    },
+    {
+        "text": "I wish she would be healthier.",
+        "startTime": 10289,
+        "endTime": 12015,
+        "slowStartTime": 15584,
+        "slowEndTime": 18247
+    },
+    {
+        "text": "I wish I were a bird.",
+        "startTime": 15131,
+        "endTime": 16945,
+        "slowStartTime": 22847,
+        "slowEndTime": 25642
+    },
+    {
+        "text": "A bird? Why?",
+        "startTime": 18050,
+        "endTime": 19785,
+        "slowStartTime": 27225,
+        "slowEndTime": 29902
+    },
+    {
+        "text": "I want to fly in the sky just as a bird does.",
+        "startTime": 20876,
+        "endTime": 25157,
+        "slowStartTime": 31464,
+        "slowEndTime": 37961
+    },
+    {
+        "text": "You can't as you don't have wings.",
+        "startTime": 26290,
+        "endTime": 28876,
+        "slowStartTime": 39585,
+        "slowEndTime": 43539
+    },
+    {
+        "text": "My dad always comes home from work just as I fall asleep.",
+        "startTime": 31939,
+        "endTime": 36708,
+        "slowStartTime": 48059,
+        "slowEndTime": 55287
+    },
+    {
+        "text": "I wish he came earlier.",
+        "startTime": 37217,
+        "endTime": 39199,
+        "slowStartTime": 55976,
+        "slowEndTime": 59023
+    },
+    {
+        "text": "Umm. He must be busy all the time.",
+        "startTime": 40352,
+        "endTime": 43381,
+        "slowStartTime": 60678,
+        "slowEndTime": 65297
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "text": "What's the last thing you remembered?",
+        "startTime": 10000,
+        "endTime": 11080,
+        "slowStartTime": 15000,
+        "slowEndTime": 16730
+    },
+    {
+        "text": "All of a sudden, there was a light...",
+        "startTime": 12740,
+        "endTime": 13940,
+        "slowStartTime": 19245,
+        "slowEndTime": 21110
+    },
+    {
+        "text": "...and then, I was falling.",
+        "startTime": 14580,
+        "endTime": 16050,
+        "slowStartTime": 21925,
+        "slowEndTime": 24140
+    },
+    {
+        "text": "So, who are you?",
+        "startTime": 23730,
+        "endTime": 24390,
+        "slowStartTime": 35630,
+        "slowEndTime": 36640
+    },
+    {
+        "text": "I was supposed to be executed two days ago.",
+        "startTime": 24750,
+        "endTime": 26490,
+        "slowStartTime": 37220,
+        "slowEndTime": 39835
+    },
+    {
+        "text": "And I was in combat.",
+        "startTime": 26820,
+        "endTime": 27690,
+        "slowStartTime": 40340,
+        "slowEndTime": 41595
+    },
+    {
+        "text": "So was I.",
+        "startTime": 28320,
+        "endTime": 28890,
+        "slowStartTime": 42490,
+        "slowEndTime": 43295
+    },
+    {
+        "text": "Black ops.",
+        "startTime": 29320,
+        "endTime": 30020,
+        "slowStartTime": 44095,
+        "slowEndTime": 45120
+    },
+    {
+        "text": "Who would do this to us?",
+        "startTime": 34600,
+        "endTime": 35870,
+        "slowStartTime": 51950,
+        "slowEndTime": 53810
+    },
+    {
+        "text": "We were chosen.",
+        "startTime": 49420,
+        "endTime": 50230,
+        "slowStartTime": 74295,
+        "slowEndTime": 75390
+    },
+    {
+        "text": "Chosen for what?",
+        "startTime": 52650,
+        "endTime": 53400,
+        "slowStartTime": 79020,
+        "slowEndTime": 80225
+    },
+    {
+        "text": "I'll buy you for the same purpose.",
+        "startTime": 63820,
+        "endTime": 65260,
+        "slowStartTime": 95820,
+        "slowEndTime": 97860
+    },
+    {
+        "text": "We're being hunted.",
+        "startTime": 67700,
+        "endTime": 68400,
+        "slowStartTime": 101700,
+        "slowEndTime": 102590
+    },
+    {
+        "text": "What?",
+        "startTime": 68680,
+        "endTime": 69000,
+        "slowStartTime": 103090,
+        "slowEndTime": 103560
+    },
+    {
+        "text": "This planet is a game reserve.",
+        "startTime": 71970,
+        "endTime": 73500,
+        "slowStartTime": 108050,
+        "slowEndTime": 110280
+    },
+    {
+        "text": "We're the game.",
+        "startTime": 76870,
+        "endTime": 77640,
+        "slowStartTime": 115650,
+        "slowEndTime": 116460
+    },
+    {
+        "text": "Run!",
+        "startTime": 86420,
+        "endTime": 87480,
+        "slowStartTime": 129750,
+        "slowEndTime": 131420
+    },
+    {
+        "text": "How do we kill them?",
+        "startTime": 95990,
+        "endTime": 96940,
+        "slowStartTime": 144150,
+        "slowEndTime": 145490
+    },
+    {
+        "text": "However you can.",
+        "startTime": 97040,
+        "endTime": 97860,
+        "slowStartTime": 145565,
+        "slowEndTime": 146855
+    }
+]

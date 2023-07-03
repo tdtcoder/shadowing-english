@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Once upon a time,...",
+        "startTime": 2700,
+        "endTime": 4000,
+        "slowStartTime": 4190,
+        "slowEndTime": 5940
+    },
+    {
+        "text": "...there was a wolf that put on a sheep's skin...",
+        "startTime": 4270,
+        "endTime": 6840,
+        "slowStartTime": 6490,
+        "slowEndTime": 10350
+    },
+    {
+        "text": "...to make the sheep on a farm think he was one of them.",
+        "startTime": 7000,
+        "endTime": 9640,
+        "slowStartTime": 10670,
+        "slowEndTime": 14530
+    },
+    {
+        "text": "Then they would let him get near them,...",
+        "startTime": 10470,
+        "endTime": 12110,
+        "slowStartTime": 15670,
+        "slowEndTime": 18160
+    },
+    {
+        "text": "...and he would be able to kill and eat one of them.",
+        "startTime": 12470,
+        "endTime": 14610,
+        "slowStartTime": 18810,
+        "slowEndTime": 21955
+    },
+    {
+        "text": "When night came, the farmer shut up all his sheep...",
+        "startTime": 15640,
+        "endTime": 18450,
+        "slowStartTime": 23500,
+        "slowEndTime": 27610
+    },
+    {
+        "text": "...including the wolf in sheep's clothing, to keep them safe during the night.",
+        "startTime": 18710,
+        "endTime": 22880,
+        "slowStartTime": 28100,
+        "slowEndTime": 34250
+    },
+    {
+        "text": "The next morning,...",
+        "startTime": 23520,
+        "endTime": 24390,
+        "slowStartTime": 35400,
+        "slowEndTime": 36590
+    },
+    {
+        "text": "...he went to pick a sheep to kill so his family would have meat to eat.",
+        "startTime": 24820,
+        "endTime": 28090,
+        "slowStartTime": 37330,
+        "slowEndTime": 42110
+    },
+    {
+        "text": "He looked for what he thought was the largest sheep and killed it.",
+        "startTime": 29020,
+        "endTime": 31590,
+        "slowStartTime": 43650,
+        "slowEndTime": 47320
+    },
+    {
+        "text": "It was the wolf.",
+        "startTime": 32430,
+        "endTime": 33260,
+        "slowStartTime": 48770,
+        "slowEndTime": 49950
+    }
+]

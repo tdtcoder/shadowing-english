@@ -1,0 +1,177 @@
+[
+    {
+        "text": "Holograms are three-dimensional images produced by two distinct beams of light.",
+        "startTime": 403,
+        "endTime": 4881,
+        "slowStartTime": 754,
+        "slowEndTime": 7547
+    },
+    {
+        "text": "But until now, they could only be seen but not touched.",
+        "startTime": 5187,
+        "endTime": 8177,
+        "slowStartTime": 7931,
+        "slowEndTime": 12490
+    },
+    {
+        "text": "Now, scientists in Japan have changed all that with the creation of touchable holograms.",
+        "startTime": 8495,
+        "endTime": 13308,
+        "slowStartTime": 12893,
+        "slowEndTime": 20187
+    },
+    {
+        "text": "Researchers at Tokyo University have come up with the technology...",
+        "startTime": 14026,
+        "endTime": 17521,
+        "slowStartTime": 21189,
+        "slowEndTime": 26506
+    },
+    {
+        "text": "...that is the first and significant step...",
+        "startTime": 17615,
+        "endTime": 19317,
+        "slowStartTime": 26572,
+        "slowEndTime": 29200
+    },
+    {
+        "text": "...away from the mouse and keyboard: touchable holograms.",
+        "startTime": 19403,
+        "endTime": 22746,
+        "slowStartTime": 29255,
+        "slowEndTime": 34344
+    },
+    {
+        "text": "Up until now, holography has been for the eyes only...",
+        "startTime": 25935,
+        "endTime": 28778,
+        "slowStartTime": 39053,
+        "slowEndTime": 43392
+    },
+    {
+        "text": "...and if you try to touch it, your hand will go right through.",
+        "startTime": 29271,
+        "endTime": 32047,
+        "slowStartTime": 44056,
+        "slowEndTime": 48296
+    },
+    {
+        "text": "But now, we have the technology that also adds the sensation of touch to holograms.",
+        "startTime": 32543,
+        "endTime": 37630,
+        "slowStartTime": 48964,
+        "slowEndTime": 56670
+    },
+    {
+        "text": "The technology consists of software that uses ultrasonic waves...",
+        "startTime": 39671,
+        "endTime": 43289,
+        "slowStartTime": 59656,
+        "slowEndTime": 65158
+    },
+    {
+        "text": "...to create pressure on the hand of the user touching the projected hologram.",
+        "startTime": 43369,
+        "endTime": 47547,
+        "slowStartTime": 65203,
+        "slowEndTime": 71546
+    },
+    {
+        "text": "Researchers are using two Wiimotes from Nintendo's Wii gaming system to track a user's hand.",
+        "startTime": 48099,
+        "endTime": 53303,
+        "slowStartTime": 72299,
+        "slowEndTime": 80179
+    },
+    {
+        "text": "The technology was used at SIGGRAPH, an annual computer graphics conference,...",
+        "startTime": 53889,
+        "endTime": 57996,
+        "slowStartTime": 80984,
+        "slowEndTime": 87219
+    },
+    {
+        "text": "...and has so far only been tested with relatively simple objects.",
+        "startTime": 58221,
+        "endTime": 61817,
+        "slowStartTime": 87482,
+        "slowEndTime": 92950
+    },
+    {
+        "text": "But its inventors have big plans for touchable holograms in the future.",
+        "startTime": 62216,
+        "endTime": 66112,
+        "slowStartTime": 93474,
+        "slowEndTime": 99393
+    },
+    {
+        "text": "For example, it's been shown that in hospitals...",
+        "startTime": 68967,
+        "endTime": 71197,
+        "slowStartTime": 103601,
+        "slowEndTime": 107020
+    },
+    {
+        "text": "...there can be contamination between people due to objects that are touched communally.",
+        "startTime": 71524,
+        "endTime": 75853,
+        "slowStartTime": 107436,
+        "slowEndTime": 114004
+    },
+    {
+        "text": "If you can change the switches and such into a virtual switch,...",
+        "startTime": 76577,
+        "endTime": 79838,
+        "slowStartTime": 115016,
+        "slowEndTime": 119982
+    },
+    {
+        "text": "...then you no longer have worry about touch contamination.",
+        "startTime": 80291,
+        "endTime": 83166,
+        "slowStartTime": 120586,
+        "slowEndTime": 124974
+    },
+    {
+        "text": "This is one application that's quite easy to see.",
+        "startTime": 83870,
+        "endTime": 86276,
+        "slowStartTime": 125955,
+        "slowEndTime": 129639
+    },
+    {
+        "text": "Touchable holograms could be used for a wide variety of things,...",
+        "startTime": 87018,
+        "endTime": 90549,
+        "slowStartTime": 130677,
+        "slowEndTime": 136048
+    },
+    {
+        "text": "...everything from light switches to books with each appearing when needed...",
+        "startTime": 90909,
+        "endTime": 94355,
+        "slowStartTime": 136513,
+        "slowEndTime": 141757
+    },
+    {
+        "text": "...and then disappearing when not.",
+        "startTime": 94509,
+        "endTime": 96229,
+        "slowStartTime": 141913,
+        "slowEndTime": 144568
+    },
+    {
+        "text": "And holograms could replace the need for making new interfaces for technology...",
+        "startTime": 96849,
+        "endTime": 101003,
+        "slowStartTime": 145424,
+        "slowEndTime": 151730
+    },
+    {
+        "text": "...since they could be changed without having to make a new physical product.",
+        "startTime": 101132,
+        "endTime": 105035,
+        "slowStartTime": 151848,
+        "slowEndTime": 157778
+    }
+]

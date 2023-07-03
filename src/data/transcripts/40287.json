@@ -1,0 +1,86 @@
+[
+    {
+        "text": "We're about to get real messy.",
+        "startTime": 1627,
+        "endTime": 3319,
+        "slowStartTime": 2590,
+        "slowEndTime": 5203
+    },
+    {
+        "text": "Lovely!",
+        "startTime": 4337,
+        "endTime": 5017,
+        "slowStartTime": 6656,
+        "slowEndTime": 7750
+    },
+    {
+        "text": "Whatever it takes!",
+        "startTime": 11373,
+        "endTime": 12793,
+        "slowStartTime": 17209,
+        "slowEndTime": 19415
+    },
+    {
+        "text": "Feel that rhythm drop!",
+        "startTime": 17374,
+        "endTime": 18903,
+        "slowStartTime": 26211,
+        "slowEndTime": 28579
+    },
+    {
+        "text": "I never quit.",
+        "startTime": 19667,
+        "endTime": 20733,
+        "slowStartTime": 29651,
+        "slowEndTime": 31325
+    },
+    {
+        "text": "We will defeat all of our enemies.",
+        "startTime": 22955,
+        "endTime": 24830,
+        "slowStartTime": 34582,
+        "slowEndTime": 37470
+    },
+    {
+        "text": "Using grapple.",
+        "startTime": 25437,
+        "endTime": 26147,
+        "slowStartTime": 38305,
+        "slowEndTime": 39445
+    },
+    {
+        "text": "Surprise!",
+        "startTime": 26759,
+        "endTime": 27477,
+        "slowStartTime": 40288,
+        "slowEndTime": 41441
+    },
+    {
+        "text": "Don't blame yourself.",
+        "startTime": 29807,
+        "endTime": 30918,
+        "slowStartTime": 44861,
+        "slowEndTime": 46602
+    },
+    {
+        "text": "Blame me.",
+        "startTime": 31479,
+        "endTime": 32131,
+        "slowStartTime": 47369,
+        "slowEndTime": 48421
+    },
+    {
+        "text": "If you want to survive, we have to fight together...",
+        "startTime": 34978,
+        "endTime": 39763,
+        "slowStartTime": 52617,
+        "slowEndTime": 59870
+    },
+    {
+        "text": "...or you'll die alone.",
+        "startTime": 43027,
+        "endTime": 45072,
+        "slowStartTime": 64690,
+        "slowEndTime": 67833
+    }
+]

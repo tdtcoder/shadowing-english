@@ -1,0 +1,72 @@
+[
+    {
+        "text": "This is the kitchen.",
+        "startTime": 8425,
+        "endTime": 9519,
+        "slowStartTime": 12788,
+        "slowEndTime": 14504
+    },
+    {
+        "text": "This is where we cook and eat breakfast, lunch and dinner.",
+        "startTime": 9653,
+        "endTime": 13769,
+        "slowStartTime": 14629,
+        "slowEndTime": 20878
+    },
+    {
+        "text": "It is so clean and neat.",
+        "startTime": 13883,
+        "endTime": 14992,
+        "slowStartTime": 20974,
+        "slowEndTime": 22713
+    },
+    {
+        "text": "This is the living room, we watch TV here.",
+        "startTime": 15163,
+        "endTime": 18010,
+        "slowStartTime": 22894,
+        "slowEndTime": 27240
+    },
+    {
+        "text": "We flop on the sofa without a care.",
+        "startTime": 18507,
+        "endTime": 21525,
+        "slowStartTime": 27910,
+        "slowEndTime": 32512
+    },
+    {
+        "text": "This is the bathroom.",
+        "startTime": 21827,
+        "endTime": 23225,
+        "slowStartTime": 32890,
+        "slowEndTime": 35063
+    },
+    {
+        "text": "It keeps us clean and healthy.",
+        "startTime": 23335,
+        "endTime": 25039,
+        "slowStartTime": 35152,
+        "slowEndTime": 37783
+    },
+    {
+        "text": "The basin and the tub and the little potty.",
+        "startTime": 25121,
+        "endTime": 28153,
+        "slowStartTime": 37832,
+        "slowEndTime": 42454
+    },
+    {
+        "text": "This is the bedroom where we sleep.",
+        "startTime": 28573,
+        "endTime": 31519,
+        "slowStartTime": 43009,
+        "slowEndTime": 47503
+    },
+    {
+        "text": "When the day is over, into my bed I creep.",
+        "startTime": 31783,
+        "endTime": 35027,
+        "slowStartTime": 47825,
+        "slowEndTime": 52765
+    }
+]

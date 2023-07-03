@@ -1,0 +1,331 @@
+[
+    {
+        "text": "Mary Lennox grew up in India, but she had to move to England to live with her uncle, Mr. Archibald Craven,...",
+        "startTime": 831,
+        "endTime": 8041,
+        "slowStartTime": 1397,
+        "slowEndTime": 12286
+    },
+    {
+        "text": "...because her parents both died.",
+        "startTime": 8447,
+        "endTime": 10155,
+        "slowStartTime": 12821,
+        "slowEndTime": 15458
+    },
+    {
+        "text": "She would live with Mr. Craven until she was 18 years old because he was the only relative she had.",
+        "startTime": 11369,
+        "endTime": 18268,
+        "slowStartTime": 17204,
+        "slowEndTime": 27627
+    },
+    {
+        "text": "Mrs. Medlock, a housekeeper, waited for Mary when Mary arrived at the station.",
+        "startTime": 19463,
+        "endTime": 24999,
+        "slowStartTime": 29344,
+        "slowEndTime": 37724
+    },
+    {
+        "text": "Are you Mary?",
+        "startTime": 26124,
+        "endTime": 27116,
+        "slowStartTime": 39336,
+        "slowEndTime": 40899
+    },
+    {
+        "text": "Nice to meet you.",
+        "startTime": 27471,
+        "endTime": 28520,
+        "slowStartTime": 41357,
+        "slowEndTime": 43005
+    },
+    {
+        "text": "I'm Mrs. Medlock from Mr. Craven's.",
+        "startTime": 28870,
+        "endTime": 31389,
+        "slowStartTime": 43455,
+        "slowEndTime": 47308
+    },
+    {
+        "text": "Where is my uncle?",
+        "startTime": 32474,
+        "endTime": 33651,
+        "slowStartTime": 48861,
+        "slowEndTime": 50702
+    },
+    {
+        "text": "I've never seen him before.",
+        "startTime": 34134,
+        "endTime": 35804,
+        "slowStartTime": 51351,
+        "slowEndTime": 53931
+    },
+    {
+        "text": "He's so busy working.",
+        "startTime": 36925,
+        "endTime": 38347,
+        "slowStartTime": 55538,
+        "slowEndTime": 57745
+    },
+    {
+        "text": "Anyway, follow me.",
+        "startTime": 38845,
+        "endTime": 39865,
+        "slowStartTime": 58417,
+        "slowEndTime": 60022
+    },
+    {
+        "text": "We have to hurry to catch the train.",
+        "startTime": 40975,
+        "endTime": 42991,
+        "slowStartTime": 61613,
+        "slowEndTime": 64712
+    },
+    {
+        "text": "On the train to Mr. Craven's house, Mary watched the beautiful English countryside.",
+        "startTime": 44100,
+        "endTime": 49353,
+        "slowStartTime": 66300,
+        "slowEndTime": 74255
+    },
+    {
+        "text": "Wow! I've never seen such a beautiful countryside before.",
+        "startTime": 50487,
+        "endTime": 55667,
+        "slowStartTime": 75880,
+        "slowEndTime": 83726
+    },
+    {
+        "text": "It's so different from India.",
+        "startTime": 56856,
+        "endTime": 58759,
+        "slowStartTime": 85434,
+        "slowEndTime": 88363
+    },
+    {
+        "text": "Where are we going now?",
+        "startTime": 59484,
+        "endTime": 60837,
+        "slowStartTime": 89376,
+        "slowEndTime": 91480
+    },
+    {
+        "text": "We're going to Misselthwaite Manor.",
+        "startTime": 61985,
+        "endTime": 63863,
+        "slowStartTime": 93127,
+        "slowEndTime": 96020
+    },
+    {
+        "text": "That will be your new home.",
+        "startTime": 64183,
+        "endTime": 66075,
+        "slowStartTime": 96424,
+        "slowEndTime": 99337
+    },
+    {
+        "text": "Wow! How big this castle is!",
+        "startTime": 67229,
+        "endTime": 70675,
+        "slowStartTime": 100994,
+        "slowEndTime": 106238
+    },
+    {
+        "text": "This castle belongs to the Craven Family.",
+        "startTime": 71793,
+        "endTime": 74723,
+        "slowStartTime": 107840,
+        "slowEndTime": 112310
+    },
+    {
+        "text": "It has a very big lake and many gardens.",
+        "startTime": 76193,
+        "endTime": 79075,
+        "slowStartTime": 114439,
+        "slowEndTime": 118837
+    },
+    {
+        "text": "This is your room.",
+        "startTime": 80372,
+        "endTime": 81593,
+        "slowStartTime": 120708,
+        "slowEndTime": 122615
+    },
+    {
+        "text": "Don't ever hang around the house,...",
+        "startTime": 81972,
+        "endTime": 84059,
+        "slowStartTime": 123108,
+        "slowEndTime": 126314
+    },
+    {
+        "text": "...but you are allowed to play in the gardens outside.",
+        "startTime": 85517,
+        "endTime": 88860,
+        "slowStartTime": 128425,
+        "slowEndTime": 133515
+    },
+    {
+        "text": "As Medlock left Mary alone in the room, Mary felt more lonely.",
+        "startTime": 90119,
+        "endTime": 94631,
+        "slowStartTime": 135329,
+        "slowEndTime": 142172
+    },
+    {
+        "text": "Good morning, Mary. I'm Martha, the maid.",
+        "startTime": 95909,
+        "endTime": 98839,
+        "slowStartTime": 144014,
+        "slowEndTime": 148483
+    },
+    {
+        "text": "Have breakfast and go outside.",
+        "startTime": 99262,
+        "endTime": 101048,
+        "slowStartTime": 149043,
+        "slowEndTime": 151797
+    },
+    {
+        "text": "Remember not to go into the garden, which is locked up.",
+        "startTime": 102405,
+        "endTime": 105527,
+        "slowStartTime": 153757,
+        "slowEndTime": 158515
+    },
+    {
+        "text": "Why is it locked?",
+        "startTime": 106594,
+        "endTime": 107830,
+        "slowStartTime": 160041,
+        "slowEndTime": 161970
+    },
+    {
+        "text": "Well, that's where Mrs. Craven died in an accident 10 years ago.",
+        "startTime": 109041,
+        "endTime": 114055,
+        "slowStartTime": 163711,
+        "slowEndTime": 171307
+    },
+    {
+        "text": "After that, Mr. Craven locked the gate of the garden and buried the key.",
+        "startTime": 115285,
+        "endTime": 120667,
+        "slowStartTime": 173077,
+        "slowEndTime": 181225
+    },
+    {
+        "text": "Mary liked the idea of a secret garden.",
+        "startTime": 121711,
+        "endTime": 124121,
+        "slowStartTime": 182717,
+        "slowEndTime": 186407
+    },
+    {
+        "text": "She saw tall trees surrounding the garden.",
+        "startTime": 125152,
+        "endTime": 127629,
+        "slowStartTime": 187878,
+        "slowEndTime": 191668
+    },
+    {
+        "text": "They're so beautiful.",
+        "startTime": 128741,
+        "endTime": 130175,
+        "slowStartTime": 193261,
+        "slowEndTime": 195487
+    },
+    {
+        "text": "Look at the robin singing.",
+        "startTime": 130631,
+        "endTime": 132319,
+        "slowStartTime": 196096,
+        "slowEndTime": 198703
+    },
+    {
+        "text": "Then, she found a wall of green ivy.",
+        "startTime": 133406,
+        "endTime": 135937,
+        "slowStartTime": 200259,
+        "slowEndTime": 204131
+    },
+    {
+        "text": "There must be the secret garden beyond the wall.",
+        "startTime": 137042,
+        "endTime": 139860,
+        "slowStartTime": 205713,
+        "slowEndTime": 210015
+    },
+    {
+        "text": "I wish I could see inside.",
+        "startTime": 141081,
+        "endTime": 142975,
+        "slowStartTime": 211772,
+        "slowEndTime": 214688
+    },
+    {
+        "text": "That night, she couldn't sleep because of thinking about the secret garden.",
+        "startTime": 144093,
+        "endTime": 148139,
+        "slowStartTime": 216290,
+        "slowEndTime": 222434
+    },
+    {
+        "text": "Then, she heard a strange sound was coming from another room.",
+        "startTime": 149223,
+        "endTime": 152683,
+        "slowStartTime": 223985,
+        "slowEndTime": 229250
+    },
+    {
+        "text": "Martha! Martha! Is that someone crying?",
+        "startTime": 154839,
+        "endTime": 159035,
+        "slowStartTime": 232408,
+        "slowEndTime": 238777
+    },
+    {
+        "text": "No, it's just the wind.",
+        "startTime": 160181,
+        "endTime": 162301,
+        "slowStartTime": 240422,
+        "slowEndTime": 243677
+    },
+    {
+        "text": "Go to sleep.",
+        "startTime": 162765,
+        "endTime": 163772,
+        "slowStartTime": 244297,
+        "slowEndTime": 245883
+    },
+    {
+        "text": "Mary always had breakfast, then went out to the garden.",
+        "startTime": 164868,
+        "endTime": 167853,
+        "slowStartTime": 247452,
+        "slowEndTime": 252005
+    },
+    {
+        "text": "She heard the sound of a boy crying at night from time to time, but she tried not to care about it.",
+        "startTime": 168867,
+        "endTime": 173953,
+        "slowStartTime": 253450,
+        "slowEndTime": 261154
+    },
+    {
+        "text": "One day, she saw the exact same robin again in the garden.",
+        "startTime": 175055,
+        "endTime": 178563,
+        "slowStartTime": 262733,
+        "slowEndTime": 268070
+    },
+    {
+        "text": "It didn't fly away, but sat on a ring in the ground.",
+        "startTime": 179659,
+        "endTime": 182822,
+        "slowStartTime": 269639,
+        "slowEndTime": 274458
+    }
+]

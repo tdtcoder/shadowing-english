@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Cheese.",
+        "startTime": 2683,
+        "endTime": 3376,
+        "slowStartTime": 4174,
+        "slowEndTime": 5289
+    },
+    {
+        "text": "I like to eat cheese.",
+        "startTime": 4209,
+        "endTime": 5857,
+        "slowStartTime": 6463,
+        "slowEndTime": 9011
+    },
+    {
+        "text": "I like to eat goat cheese.",
+        "startTime": 7259,
+        "endTime": 9185,
+        "slowStartTime": 11039,
+        "slowEndTime": 14002
+    },
+    {
+        "text": "Cherry.",
+        "startTime": 10548,
+        "endTime": 11244,
+        "slowStartTime": 15972,
+        "slowEndTime": 17091
+    },
+    {
+        "text": "I like cherries.",
+        "startTime": 11972,
+        "endTime": 13216,
+        "slowStartTime": 18108,
+        "slowEndTime": 20049
+    },
+    {
+        "text": "I like cherries and strawberries.",
+        "startTime": 14619,
+        "endTime": 16884,
+        "slowStartTime": 22079,
+        "slowEndTime": 25551
+    },
+    {
+        "text": "Chin.",
+        "startTime": 18224,
+        "endTime": 18838,
+        "slowStartTime": 27486,
+        "slowEndTime": 28482
+    },
+    {
+        "text": "He has a chin.",
+        "startTime": 19614,
+        "endTime": 20897,
+        "slowStartTime": 29571,
+        "slowEndTime": 31571
+    },
+    {
+        "text": "He has a long chin.",
+        "startTime": 22173,
+        "endTime": 24014,
+        "slowStartTime": 33409,
+        "slowEndTime": 36246
+    },
+    {
+        "text": "Church.",
+        "startTime": 25376,
+        "endTime": 25987,
+        "slowStartTime": 38214,
+        "slowEndTime": 39206
+    },
+    {
+        "text": "I go to church.",
+        "startTime": 26780,
+        "endTime": 28169,
+        "slowStartTime": 40320,
+        "slowEndTime": 42478
+    },
+    {
+        "text": "I go to church on Sunday.",
+        "startTime": 29568,
+        "endTime": 31939,
+        "slowStartTime": 44502,
+        "slowEndTime": 48134
+    },
+    {
+        "text": "In fall, things turn orange, orange, orange.",
+        "startTime": 37107,
+        "endTime": 40734,
+        "slowStartTime": 55810,
+        "slowEndTime": 61326
+    },
+    {
+        "text": "Pumpkins and persimmons turn orange.",
+        "startTime": 41047,
+        "endTime": 43704,
+        "slowStartTime": 61721,
+        "slowEndTime": 65781
+    },
+    {
+        "text": "In fall, things turn red, red, red.",
+        "startTime": 44620,
+        "endTime": 48093,
+        "slowStartTime": 67080,
+        "slowEndTime": 72364
+    },
+    {
+        "text": "Apples and leaves turn red.",
+        "startTime": 48579,
+        "endTime": 50937,
+        "slowStartTime": 73018,
+        "slowEndTime": 76631
+    },
+    {
+        "text": "In fall, grass turns brown, brown. brown.",
+        "startTime": 52109,
+        "endTime": 55736,
+        "slowStartTime": 78313,
+        "slowEndTime": 83829
+    },
+    {
+        "text": "In fall, corn turns yellow, yellow, yellow.",
+        "startTime": 55915,
+        "endTime": 59389,
+        "slowStartTime": 84023,
+        "slowEndTime": 89309
+    },
+    {
+        "text": "In fall, frost turns things white, white, white.",
+        "startTime": 59677,
+        "endTime": 63498,
+        "slowStartTime": 89665,
+        "slowEndTime": 95472
+    },
+    {
+        "text": "Things turn many colors in fall!",
+        "startTime": 63639,
+        "endTime": 66394,
+        "slowStartTime": 95608,
+        "slowEndTime": 99816
+    }
+]

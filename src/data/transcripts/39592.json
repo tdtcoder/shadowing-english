@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Are you looking for something?",
+        "startTime": 327,
+        "endTime": 1781,
+        "slowStartTime": 640,
+        "slowEndTime": 2896
+    },
+    {
+        "text": "I'm just looking at these cushions.",
+        "startTime": 2127,
+        "endTime": 4083,
+        "slowStartTime": 3340,
+        "slowEndTime": 6350
+    },
+    {
+        "text": "We have more selections over here.",
+        "startTime": 4950,
+        "endTime": 6796,
+        "slowStartTime": 7575,
+        "slowEndTime": 10419
+    },
+    {
+        "text": "Does this square cushion come in other colors?",
+        "startTime": 7761,
+        "endTime": 10641,
+        "slowStartTime": 11791,
+        "slowEndTime": 16187
+    },
+    {
+        "text": "No, I'm afraid it only comes in that color.",
+        "startTime": 11021,
+        "endTime": 12839,
+        "slowStartTime": 16681,
+        "slowEndTime": 19484
+    },
+    {
+        "text": "What about this polka dot printed cushion?",
+        "startTime": 13765,
+        "endTime": 16611,
+        "slowStartTime": 20797,
+        "slowEndTime": 25141
+    },
+    {
+        "text": "Does it come in black?",
+        "startTime": 17036,
+        "endTime": 18400,
+        "slowStartTime": 25704,
+        "slowEndTime": 27825
+    },
+    {
+        "text": "Yes, it comes in black, red or blue.",
+        "startTime": 18826,
+        "endTime": 21500,
+        "slowStartTime": 28389,
+        "slowEndTime": 32475
+    },
+    {
+        "text": "Do you know the exact size of this cushion cover?",
+        "startTime": 22971,
+        "endTime": 25596,
+        "slowStartTime": 34607,
+        "slowEndTime": 38619
+    },
+    {
+        "text": "Let me check.",
+        "startTime": 26009,
+        "endTime": 26957,
+        "slowStartTime": 39164,
+        "slowEndTime": 40660
+    },
+    {
+        "text": "It's a fifty by sixty.",
+        "startTime": 28777,
+        "endTime": 30303,
+        "slowStartTime": 43315,
+        "slowEndTime": 45679
+    },
+    {
+        "text": "Okay, I'll take two black ones.",
+        "startTime": 30487,
+        "endTime": 32697,
+        "slowStartTime": 45881,
+        "slowEndTime": 49270
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Mr. Goldman loved his family a lot, didn't he Dad?",
+        "startTime": 1384,
+        "endTime": 4313,
+        "slowStartTime": 2226,
+        "slowEndTime": 6695
+    },
+    {
+        "text": "He sure did.",
+        "startTime": 4532,
+        "endTime": 5269,
+        "slowStartTime": 6948,
+        "slowEndTime": 8129
+    },
+    {
+        "text": "That's why he had State Farm life insurance.",
+        "startTime": 5588,
+        "endTime": 7999,
+        "slowStartTime": 8532,
+        "slowEndTime": 12224
+    },
+    {
+        "text": "Like you, so his family never has to worry right?",
+        "startTime": 8315,
+        "endTime": 11573,
+        "slowStartTime": 12623,
+        "slowEndTime": 17585
+    },
+    {
+        "text": "Mr. Goldman didn't have life insurance.",
+        "startTime": 12185,
+        "endTime": 14446,
+        "slowStartTime": 18428,
+        "slowEndTime": 21894
+    },
+    {
+        "text": "Why not?",
+        "startTime": 15049,
+        "endTime": 15713,
+        "slowStartTime": 22723,
+        "slowEndTime": 23794
+    },
+    {
+        "text": "Well, he's just a goldfish.",
+        "startTime": 17089,
+        "endTime": 19270,
+        "slowStartTime": 25783,
+        "slowEndTime": 29130
+    },
+    {
+        "text": "Ignore him.",
+        "startTime": 20686,
+        "endTime": 21588,
+        "slowStartTime": 31179,
+        "slowEndTime": 32607
+    },
+    {
+        "text": "You've got questions, your State Farm agent has answers...",
+        "startTime": 21995,
+        "endTime": 24484,
+        "slowStartTime": 33143,
+        "slowEndTime": 36951
+    },
+    {
+        "text": "...backed by the life insurance company millions of moms and dads already trust.",
+        "startTime": 24589,
+        "endTime": 27782,
+        "slowStartTime": 37033,
+        "slowEndTime": 41898
+    },
+    {
+        "text": "We put the life back in life insurance.",
+        "startTime": 27968,
+        "endTime": 29895,
+        "slowStartTime": 42102,
+        "slowEndTime": 45067
+    }
+]

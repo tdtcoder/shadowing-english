@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Well, after a very chilly start to your Sunday, temperatures will warm up.",
+        "startTime": 316,
+        "endTime": 3863,
+        "slowStartTime": 624,
+        "slowEndTime": 6019
+    },
+    {
+        "text": "We're gonna see lots of sunshine today,...",
+        "startTime": 3962,
+        "endTime": 5775,
+        "slowStartTime": 6093,
+        "slowEndTime": 8888
+    },
+    {
+        "text": "...but dry conditions; it will be a very beautiful and pleasant day.",
+        "startTime": 6149,
+        "endTime": 9260,
+        "slowStartTime": 9374,
+        "slowEndTime": 14115
+    },
+    {
+        "text": "But moisture levels will rapidly increase as we head into the workweek,...",
+        "startTime": 9617,
+        "endTime": 13307,
+        "slowStartTime": 14576,
+        "slowEndTime": 20185
+    },
+    {
+        "text": "...so our humidity will come up Monday, Tuesday into Wednesday.",
+        "startTime": 13499,
+        "endTime": 18415,
+        "slowStartTime": 20399,
+        "slowEndTime": 27847
+    },
+    {
+        "text": "So enjoy it while you can.",
+        "startTime": 18485,
+        "endTime": 19517,
+        "slowStartTime": 27877,
+        "slowEndTime": 29501
+    },
+    {
+        "text": "And then the next front moves through on Thursday...",
+        "startTime": 19598,
+        "endTime": 21600,
+        "slowStartTime": 29547,
+        "slowEndTime": 32625
+    },
+    {
+        "text": "...and our best chance for rain, Wednesday into Thursday.",
+        "startTime": 21661,
+        "endTime": 24450,
+        "slowStartTime": 32642,
+        "slowEndTime": 36900
+    },
+    {
+        "text": "Highs today that will warm up nicely will be 78 in Seminole, 77 in St. Pete...",
+        "startTime": 24729,
+        "endTime": 29549,
+        "slowStartTime": 37244,
+        "slowEndTime": 44549
+    },
+    {
+        "text": "...79 in Oldsmar, 79 in Tampa.",
+        "startTime": 30015,
+        "endTime": 32498,
+        "slowStartTime": 45173,
+        "slowEndTime": 48972
+    },
+    {
+        "text": "Northern counties still warming up nicely too, Crystal River and Hernando,...",
+        "startTime": 32633,
+        "endTime": 36244,
+        "slowStartTime": 49100,
+        "slowEndTime": 54591
+    },
+    {
+        "text": "...both at 77 and the rest of the bay area stays in the upper 70s.",
+        "startTime": 36343,
+        "endTime": 41795,
+        "slowStartTime": 54664,
+        "slowEndTime": 62917
+    }
+]

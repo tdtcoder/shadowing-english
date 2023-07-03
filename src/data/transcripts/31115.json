@@ -1,0 +1,72 @@
+[
+    {
+        "text": "They walked.",
+        "startTime": 3578,
+        "endTime": 4503,
+        "slowStartTime": 5517,
+        "slowEndTime": 6979
+    },
+    {
+        "text": "She didn't walk.",
+        "startTime": 6049,
+        "endTime": 7573,
+        "slowStartTime": 9223,
+        "slowEndTime": 11584
+    },
+    {
+        "text": "The women talked.",
+        "startTime": 12505,
+        "endTime": 13484,
+        "slowStartTime": 18907,
+        "slowEndTime": 20451
+    },
+    {
+        "text": "The children played.",
+        "startTime": 14908,
+        "endTime": 16191,
+        "slowStartTime": 22512,
+        "slowEndTime": 24512
+    },
+    {
+        "text": "They hiked.",
+        "startTime": 21150,
+        "endTime": 21887,
+        "slowStartTime": 31875,
+        "slowEndTime": 33055
+    },
+    {
+        "text": "They danced.",
+        "startTime": 23366,
+        "endTime": 24539,
+        "slowStartTime": 35199,
+        "slowEndTime": 37034
+    },
+    {
+        "text": "Nora studied.",
+        "startTime": 29618,
+        "endTime": 30482,
+        "slowStartTime": 44577,
+        "slowEndTime": 45948
+    },
+    {
+        "text": "Harry cried.",
+        "startTime": 31955,
+        "endTime": 32958,
+        "slowStartTime": 48082,
+        "slowEndTime": 49662
+    },
+    {
+        "text": "The woman jogged.",
+        "startTime": 37932,
+        "endTime": 39111,
+        "slowStartTime": 57048,
+        "slowEndTime": 58892
+    },
+    {
+        "text": "The child hopped.",
+        "startTime": 40541,
+        "endTime": 41733,
+        "slowStartTime": 60962,
+        "slowEndTime": 62824
+    }
+]

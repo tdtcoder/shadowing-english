@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Spare time, I'm actually in New York City just for the day, travelling, trying to see the city.",
+        "startTime": 1367,
+        "endTime": 6268,
+        "slowStartTime": 2201,
+        "slowEndTime": 9627
+    },
+    {
+        "text": "I just moved up here.",
+        "startTime": 6675,
+        "endTime": 7391,
+        "slowStartTime": 10162,
+        "slowEndTime": 11312
+    },
+    {
+        "text": "I love to just make travel plans.",
+        "startTime": 7827,
+        "endTime": 11205,
+        "slowStartTime": 11890,
+        "slowEndTime": 17033
+    },
+    {
+        "text": "Soccer. I'm really into sports.",
+        "startTime": 13039,
+        "endTime": 15431,
+        "slowStartTime": 19708,
+        "slowEndTime": 23371
+    },
+    {
+        "text": "Spare time, I watch a lot of movies, and I talk on the internet a lot, and I go shopping...",
+        "startTime": 15639,
+        "endTime": 20053,
+        "slowStartTime": 23608,
+        "slowEndTime": 30305
+    },
+    {
+        "text": "I am just writing.",
+        "startTime": 20233,
+        "endTime": 21125,
+        "slowStartTime": 30499,
+        "slowEndTime": 31913
+    },
+    {
+        "text": "Sing, dance...",
+        "startTime": 21443,
+        "endTime": 23113,
+        "slowStartTime": 32314,
+        "slowEndTime": 34894
+    },
+    {
+        "text": "I like hanging out with friends.",
+        "startTime": 23574,
+        "endTime": 25015,
+        "slowStartTime": 35511,
+        "slowEndTime": 37747
+    },
+    {
+        "text": "I go downtown, walk around, paint, eat.",
+        "startTime": 25127,
+        "endTime": 28462,
+        "slowStartTime": 37841,
+        "slowEndTime": 42918
+    },
+    {
+        "text": "I eat a lot.",
+        "startTime": 28636,
+        "endTime": 29314,
+        "slowStartTime": 43104,
+        "slowEndTime": 44196
+    },
+    {
+        "text": "It's my favorite thing to do.",
+        "startTime": 29662,
+        "endTime": 30499,
+        "slowStartTime": 44643,
+        "slowEndTime": 45974
+    },
+    {
+        "text": "I shop, I just lounge around, chill out, go to the pool, you know...",
+        "startTime": 30573,
+        "endTime": 33453,
+        "slowStartTime": 46010,
+        "slowEndTime": 50405
+    },
+    {
+        "text": "...nothing too exciting.",
+        "startTime": 33777,
+        "endTime": 34627,
+        "slowStartTime": 50815,
+        "slowEndTime": 52165
+    },
+    {
+        "text": "I like to fish. I like to hunt.",
+        "startTime": 34771,
+        "endTime": 36267,
+        "slowStartTime": 52307,
+        "slowEndTime": 54625
+    },
+    {
+        "text": "I just like to go out with friends and enjoy myself.",
+        "startTime": 36587,
+        "endTime": 37940,
+        "slowStartTime": 55031,
+        "slowEndTime": 57135
+    },
+    {
+        "text": "I like walking in the park around here, doing something laid-back.",
+        "startTime": 38122,
+        "endTime": 42303,
+        "slowStartTime": 57333,
+        "slowEndTime": 63680
+    },
+    {
+        "text": "In my spare time, I just play sports...",
+        "startTime": 42740,
+        "endTime": 44707,
+        "slowStartTime": 64260,
+        "slowEndTime": 67285
+    },
+    {
+        "text": "...hockey, biking, lacrosse.",
+        "startTime": 45505,
+        "endTime": 47111,
+        "slowStartTime": 68408,
+        "slowEndTime": 70891
+    },
+    {
+        "text": "I go see movies, I go see live shows, stuff like that.",
+        "startTime": 47385,
+        "endTime": 50446,
+        "slowStartTime": 71227,
+        "slowEndTime": 75894
+    },
+    {
+        "text": "In my spare time, I hang out with my friends, I go to the movies, I train.",
+        "startTime": 50682,
+        "endTime": 55545,
+        "slowStartTime": 76173,
+        "slowEndTime": 83542
+    },
+    {
+        "text": "I'm a martial arts teacher also.",
+        "startTime": 55678,
+        "endTime": 57460,
+        "slowStartTime": 83667,
+        "slowEndTime": 86415
+    }
+]

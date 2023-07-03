@@ -1,0 +1,51 @@
+[
+    {
+        "text": "In this sand,...",
+        "startTime": 9700,
+        "endTime": 11000,
+        "slowStartTime": 14750,
+        "slowEndTime": 16750
+    },
+    {
+        "text": "...lies the might of mountains.",
+        "startTime": 11700,
+        "endTime": 13800,
+        "slowStartTime": 17850,
+        "slowEndTime": 21000
+    },
+    {
+        "text": "The unforgiving strength of solid star.",
+        "startTime": 14700,
+        "endTime": 18200,
+        "slowStartTime": 22250,
+        "slowEndTime": 27600
+    },
+    {
+        "text": "Sultans die.",
+        "startTime": 19100,
+        "endTime": 20450,
+        "slowStartTime": 28900,
+        "slowEndTime": 30900
+    },
+    {
+        "text": "Kingdoms fall.",
+        "startTime": 21150,
+        "endTime": 22350,
+        "slowStartTime": 31900,
+        "slowEndTime": 33800
+    },
+    {
+        "text": "But the sand remains.",
+        "startTime": 23600,
+        "endTime": 25750,
+        "slowStartTime": 35550,
+        "slowEndTime": 38900
+    },
+    {
+        "text": "Now, hidden within is a dark secret.",
+        "startTime": 26650,
+        "endTime": 30350,
+        "slowStartTime": 40100,
+        "slowEndTime": 45800
+    }
+]

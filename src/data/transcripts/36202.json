@@ -1,0 +1,240 @@
+[
+    {
+        "text": "Are  you free this evening?",
+        "startTime": 732,
+        "endTime": 1719,
+        "slowStartTime": 1248,
+        "slowEndTime": 2803
+    },
+    {
+        "text": "For a meal, yeah.",
+        "startTime": 3553,
+        "endTime": 4075,
+        "slowStartTime": 5480,
+        "slowEndTime": 6337
+    },
+    {
+        "text": "You are? That's fantastic!",
+        "startTime": 5735,
+        "endTime": 6767,
+        "slowStartTime": 8752,
+        "slowEndTime": 10375
+    },
+    {
+        "text": "It's David's new friend on the phone.",
+        "startTime": 6999,
+        "endTime": 8961,
+        "slowStartTime": 10648,
+        "slowEndTime": 13667
+    },
+    {
+        "text": "I think he really likes her.",
+        "startTime": 9222,
+        "endTime": 10844,
+        "slowStartTime": 13983,
+        "slowEndTime": 16491
+    },
+    {
+        "text": "It sounds very exciting.",
+        "startTime": 13175,
+        "endTime": 15105,
+        "slowStartTime": 19912,
+        "slowEndTime": 22883
+    },
+    {
+        "text": "See you at 7:30.",
+        "startTime": 15719,
+        "endTime": 16767,
+        "slowStartTime": 23728,
+        "slowEndTime": 25376
+    },
+    {
+        "text": "Bye.",
+        "startTime": 18199,
+        "endTime": 19048,
+        "slowStartTime": 27448,
+        "slowEndTime": 28797
+    },
+    {
+        "text": "David has a date.",
+        "startTime": 21272,
+        "endTime": 22435,
+        "slowStartTime": 32058,
+        "slowEndTime": 33877
+    },
+    {
+        "text": "When?",
+        "startTime": 23028,
+        "endTime": 23760,
+        "slowStartTime": 34692,
+        "slowEndTime": 35865
+    },
+    {
+        "text": "Tonight.",
+        "startTime": 24150,
+        "endTime": 24635,
+        "slowStartTime": 36375,
+        "slowEndTime": 37178
+    },
+    {
+        "text": "What's her name?",
+        "startTime": 25850,
+        "endTime": 26497,
+        "slowStartTime": 38925,
+        "slowEndTime": 39971
+    },
+    {
+        "text": "Julia.",
+        "startTime": 26663,
+        "endTime": 27407,
+        "slowStartTime": 40144,
+        "slowEndTime": 41336
+    },
+    {
+        "text": "Julia?",
+        "startTime": 28269,
+        "endTime": 28997,
+        "slowStartTime": 42554,
+        "slowEndTime": 43720
+    },
+    {
+        "text": "When did you meet her?",
+        "startTime": 29615,
+        "endTime": 30544,
+        "slowStartTime": 44573,
+        "slowEndTime": 46041
+    },
+    {
+        "text": "Two weeks ago.",
+        "startTime": 30667,
+        "endTime": 31391,
+        "slowStartTime": 46151,
+        "slowEndTime": 47311
+    },
+    {
+        "text": "Do you mind?",
+        "startTime": 31505,
+        "endTime": 32127,
+        "slowStartTime": 47407,
+        "slowEndTime": 48415
+    },
+    {
+        "text": "What is it tonight then?",
+        "startTime": 32999,
+        "endTime": 34092,
+        "slowStartTime": 49649,
+        "slowEndTime": 51363
+    },
+    {
+        "text": "Cinema, theater, opera?",
+        "startTime": 34516,
+        "endTime": 37625,
+        "slowStartTime": 51924,
+        "slowEndTime": 56663
+    },
+    {
+        "text": "A burger?",
+        "startTime": 37989,
+        "endTime": 38763,
+        "slowStartTime": 57133,
+        "slowEndTime": 58370
+    },
+    {
+        "text": "A restaurant.",
+        "startTime": 40407,
+        "endTime": 41166,
+        "slowStartTime": 60761,
+        "slowEndTime": 61974
+    },
+    {
+        "text": "Which one?",
+        "startTime": 41843,
+        "endTime": 42441,
+        "slowStartTime": 62915,
+        "slowEndTime": 63886
+    },
+    {
+        "text": "Hong Kong House.",
+        "startTime": 42742,
+        "endTime": 43761,
+        "slowStartTime": 64263,
+        "slowEndTime": 65866
+    },
+    {
+        "text": "It's Chinese.",
+        "startTime": 44615,
+        "endTime": 45096,
+        "slowStartTime": 67072,
+        "slowEndTime": 67869
+    },
+    {
+        "text": "It's very good.",
+        "startTime": 45901,
+        "endTime": 46554,
+        "slowStartTime": 69001,
+        "slowEndTime": 70056
+    },
+    {
+        "text": "It's very cheap.",
+        "startTime": 46863,
+        "endTime": 47719,
+        "slowStartTime": 70445,
+        "slowEndTime": 71803
+    },
+    {
+        "text": "It's very good.",
+        "startTime": 48151,
+        "endTime": 48855,
+        "slowStartTime": 72377,
+        "slowEndTime": 73507
+    },
+    {
+        "text": "Well, I hope you and...",
+        "startTime": 51089,
+        "endTime": 52555,
+        "slowStartTime": 76783,
+        "slowEndTime": 79057
+    },
+    {
+        "text": "Julia.",
+        "startTime": 52691,
+        "endTime": 53354,
+        "slowStartTime": 79187,
+        "slowEndTime": 80256
+    },
+    {
+        "text": "...Julia have a great time.",
+        "startTime": 53891,
+        "endTime": 56127,
+        "slowStartTime": 80986,
+        "slowEndTime": 84416
+    },
+    {
+        "text": "I'll come with you.",
+        "startTime": 58079,
+        "endTime": 58817,
+        "slowStartTime": 87269,
+        "slowEndTime": 88451
+    },
+    {
+        "text": "Have a nice evening.",
+        "startTime": 62198,
+        "endTime": 63105,
+        "slowStartTime": 93447,
+        "slowEndTime": 94882
+    },
+    {
+        "text": "Bye then.",
+        "startTime": 75576,
+        "endTime": 76459,
+        "slowStartTime": 113514,
+        "slowEndTime": 114913
+    },
+    {
+        "text": "Bye.",
+        "startTime": 77880,
+        "endTime": 78253,
+        "slowStartTime": 116970,
+        "slowEndTime": 117604
+    }
+]

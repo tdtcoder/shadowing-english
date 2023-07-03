@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Hello, this is Dr. Miller.",
+        "startTime": 23615,
+        "endTime": 25375,
+        "slowStartTime": 35572,
+        "slowEndTime": 38288
+    },
+    {
+        "text": "Hello, this is Seita from AERA English TV. How may I assist your call?",
+        "startTime": 28564,
+        "endTime": 32492,
+        "slowStartTime": 42996,
+        "slowEndTime": 48963
+    },
+    {
+        "text": "Good afternoon, JP&B Associates. How can I help you?",
+        "startTime": 39005,
+        "endTime": 42889,
+        "slowStartTime": 58657,
+        "slowEndTime": 64558
+    },
+    {
+        "text": "Hello, Mr. Nesbitt's office. How can I help you?",
+        "startTime": 46281,
+        "endTime": 49295,
+        "slowStartTime": 69572,
+        "slowEndTime": 74167
+    },
+    {
+        "text": "Hello? May I speak to Amanda, please?",
+        "startTime": 56325,
+        "endTime": 58903,
+        "slowStartTime": 84638,
+        "slowEndTime": 88580
+    },
+    {
+        "text": "This is Maki. May I speak to Eric, please?",
+        "startTime": 62354,
+        "endTime": 65668,
+        "slowStartTime": 93681,
+        "slowEndTime": 98727
+    },
+    {
+        "text": "He's not here. May I ask who's calling, please?",
+        "startTime": 71621,
+        "endTime": 75167,
+        "slowStartTime": 107581,
+        "slowEndTime": 112975
+    },
+    {
+        "text": "I'm sorry, but Mrs. Jones isn't in at the moment. May I ask who's calling?",
+        "startTime": 78583,
+        "endTime": 82893,
+        "slowStartTime": 118025,
+        "slowEndTime": 124565
+    },
+    {
+        "text": "Would you like to leave a message?",
+        "startTime": 89183,
+        "endTime": 90546,
+        "slowStartTime": 133924,
+        "slowEndTime": 136044
+    },
+    {
+        "text": "Hey, sorry I missed you. Leave a message.",
+        "startTime": 94411,
+        "endTime": 96520,
+        "slowStartTime": 141766,
+        "slowEndTime": 145005
+    },
+    {
+        "text": "You must have dialed the wrong number.",
+        "startTime": 102413,
+        "endTime": 103809,
+        "slowStartTime": 153769,
+        "slowEndTime": 155938
+    }
+]

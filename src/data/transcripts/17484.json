@@ -1,0 +1,226 @@
+[
+    {
+        "text": "I am the best.",
+        "startTime": 3700,
+        "endTime": 5601,
+        "slowStartTime": 5700,
+        "slowEndTime": 8627
+    },
+    {
+        "text": "Said Kangaroo.",
+        "startTime": 6799,
+        "endTime": 8110,
+        "slowStartTime": 10349,
+        "slowEndTime": 12390
+    },
+    {
+        "text": "I am better.",
+        "startTime": 9373,
+        "endTime": 10815,
+        "slowStartTime": 14210,
+        "slowEndTime": 16448
+    },
+    {
+        "text": "Said Bear.",
+        "startTime": 11997,
+        "endTime": 12701,
+        "slowStartTime": 18145,
+        "slowEndTime": 19277
+    },
+    {
+        "text": "I can make a mean face.",
+        "startTime": 13997,
+        "endTime": 16683,
+        "slowStartTime": 21146,
+        "slowEndTime": 25249
+    },
+    {
+        "text": "Said Kangaroo.",
+        "startTime": 17924,
+        "endTime": 19087,
+        "slowStartTime": 27036,
+        "slowEndTime": 28856
+    },
+    {
+        "text": "I can make a meaner face.",
+        "startTime": 20194,
+        "endTime": 23072,
+        "slowStartTime": 30441,
+        "slowEndTime": 34833
+    },
+    {
+        "text": "Said Bear.",
+        "startTime": 24243,
+        "endTime": 24983,
+        "slowStartTime": 36515,
+        "slowEndTime": 37699
+    },
+    {
+        "text": "I can catch fish.",
+        "startTime": 26200,
+        "endTime": 28623,
+        "slowStartTime": 39450,
+        "slowEndTime": 43159
+    },
+    {
+        "text": "Said Kangaroo.",
+        "startTime": 29840,
+        "endTime": 31026,
+        "slowStartTime": 44910,
+        "slowEndTime": 46764
+    },
+    {
+        "text": "I can catch more fish",
+        "startTime": 32151,
+        "endTime": 35100,
+        "slowStartTime": 48377,
+        "slowEndTime": 52875
+    },
+    {
+        "text": "Said Bear.",
+        "startTime": 36232,
+        "endTime": 36969,
+        "slowStartTime": 54498,
+        "slowEndTime": 55678
+    },
+    {
+        "text": "I can eat lots of berries.",
+        "startTime": 38297,
+        "endTime": 42032,
+        "slowStartTime": 57595,
+        "slowEndTime": 63273
+    },
+    {
+        "text": "Said Kangaroo.",
+        "startTime": 43115,
+        "endTime": 44343,
+        "slowStartTime": 64822,
+        "slowEndTime": 66739
+    },
+    {
+        "text": "I can eat more berries.",
+        "startTime": 45573,
+        "endTime": 48409,
+        "slowStartTime": 68509,
+        "slowEndTime": 72839
+    },
+    {
+        "text": "Said Bear.",
+        "startTime": 49411,
+        "endTime": 50373,
+        "slowStartTime": 74267,
+        "slowEndTime": 75784
+    },
+    {
+        "text": "I can climb up high.",
+        "startTime": 51435,
+        "endTime": 54434,
+        "slowStartTime": 77302,
+        "slowEndTime": 81876
+    },
+    {
+        "text": "Said Kangaroo.",
+        "startTime": 55373,
+        "endTime": 56804,
+        "slowStartTime": 83209,
+        "slowEndTime": 85431
+    },
+    {
+        "text": "I can climb up higher.",
+        "startTime": 57817,
+        "endTime": 60359,
+        "slowStartTime": 86876,
+        "slowEndTime": 90764
+    },
+    {
+        "text": "Said Bear.",
+        "startTime": 61446,
+        "endTime": 62211,
+        "slowStartTime": 92319,
+        "slowEndTime": 93541
+    },
+    {
+        "text": "I can juggle three balls.",
+        "startTime": 63446,
+        "endTime": 66815,
+        "slowStartTime": 95319,
+        "slowEndTime": 100447
+    },
+    {
+        "text": "Said Kangaroo.",
+        "startTime": 68050,
+        "endTime": 69333,
+        "slowStartTime": 102225,
+        "slowEndTime": 104225
+    },
+    {
+        "text": "I can juggle six balls.",
+        "startTime": 70591,
+        "endTime": 73183,
+        "slowStartTime": 106036,
+        "slowEndTime": 110000
+    },
+    {
+        "text": "Said Bear.",
+        "startTime": 74263,
+        "endTime": 74952,
+        "slowStartTime": 111545,
+        "slowEndTime": 112653
+    },
+    {
+        "text": "I can lift a goat.",
+        "startTime": 76211,
+        "endTime": 79065,
+        "slowStartTime": 114467,
+        "slowEndTime": 118822
+    },
+    {
+        "text": "Said Kangaroo.",
+        "startTime": 80257,
+        "endTime": 81457,
+        "slowStartTime": 120535,
+        "slowEndTime": 122410
+    },
+    {
+        "text": "I can lift six goats.",
+        "startTime": 82783,
+        "endTime": 85284,
+        "slowStartTime": 124325,
+        "slowEndTime": 128151
+    },
+    {
+        "text": "Said Bear.",
+        "startTime": 86408,
+        "endTime": 87184,
+        "slowStartTime": 129762,
+        "slowEndTime": 131001
+    },
+    {
+        "text": "I can hop high.",
+        "startTime": 88469,
+        "endTime": 90645,
+        "slowStartTime": 132853,
+        "slowEndTime": 136193
+    },
+    {
+        "text": "Said Kangaroo.",
+        "startTime": 91913,
+        "endTime": 93065,
+        "slowStartTime": 138020,
+        "slowEndTime": 139822
+    },
+    {
+        "text": "I can, too.",
+        "startTime": 94315,
+        "endTime": 95751,
+        "slowStartTime": 141623,
+        "slowEndTime": 143851
+    },
+    {
+        "text": "Said Bear.",
+        "startTime": 96911,
+        "endTime": 97661,
+        "slowStartTime": 145517,
+        "slowEndTime": 146717
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "text": "I don't like when my mom wears makeup.",
+        "startTime": 25653,
+        "endTime": 27665,
+        "slowStartTime": 38629,
+        "slowEndTime": 41722
+    },
+    {
+        "text": "I changed my mind, I don't like the fit.",
+        "startTime": 31564,
+        "endTime": 33783,
+        "slowStartTime": 47496,
+        "slowEndTime": 50899
+    },
+    {
+        "text": "No, I don't like sweet drinks.",
+        "startTime": 36889,
+        "endTime": 38217,
+        "slowStartTime": 55483,
+        "slowEndTime": 57550
+    },
+    {
+        "text": "I don't like you. I think you're a fake cop.",
+        "startTime": 40131,
+        "endTime": 42678,
+        "slowStartTime": 60347,
+        "slowEndTime": 64242
+    },
+    {
+        "text": "Thanks for coming with me. I hate doing banking.",
+        "startTime": 47731,
+        "endTime": 50502,
+        "slowStartTime": 71746,
+        "slowEndTime": 75978
+    },
+    {
+        "text": "I hate needles, they really scare me.",
+        "startTime": 53628,
+        "endTime": 55499,
+        "slowStartTime": 80592,
+        "slowEndTime": 83474
+    },
+    {
+        "text": "I hate rainy days. There's nothing to do, there's nowhere to go.",
+        "startTime": 58828,
+        "endTime": 62554,
+        "slowStartTime": 88392,
+        "slowEndTime": 94056
+    },
+    {
+        "text": "I can't stand summer weather.",
+        "startTime": 67669,
+        "endTime": 69547,
+        "slowStartTime": 101654,
+        "slowEndTime": 104546
+    },
+    {
+        "text": "Oh, it is too hot! I can't stand it anymore!",
+        "startTime": 72577,
+        "endTime": 77546,
+        "slowStartTime": 109015,
+        "slowEndTime": 116544
+    }
+]

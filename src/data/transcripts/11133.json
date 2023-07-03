@@ -1,0 +1,72 @@
+[
+    {
+        "text": "I wish we had more time to spend brainstorming ideas, but it's getting late.",
+        "startTime": 2130,
+        "endTime": 6240,
+        "slowStartTime": 3355,
+        "slowEndTime": 9420
+    },
+    {
+        "text": "But before we are completely out of time,...",
+        "startTime": 6940,
+        "endTime": 9340,
+        "slowStartTime": 10500,
+        "slowEndTime": 14065
+    },
+    {
+        "text": "...I'd like to try and come to a consensus on the next step in implementing some of these ideas.",
+        "startTime": 9640,
+        "endTime": 15780,
+        "slowStartTime": 14585,
+        "slowEndTime": 23710
+    },
+    {
+        "text": "If possible, I would really like to see an outline of all of the ideas from this meeting...",
+        "startTime": 16480,
+        "endTime": 21240,
+        "slowStartTime": 24780,
+        "slowEndTime": 31905
+    },
+    {
+        "text": "...before deciding on which ones to implement and which ones to reject.",
+        "startTime": 21480,
+        "endTime": 25520,
+        "slowStartTime": 32285,
+        "slowEndTime": 38235
+    },
+    {
+        "text": "I'm also in favor of that proposal.",
+        "startTime": 26160,
+        "endTime": 28120,
+        "slowStartTime": 39335,
+        "slowEndTime": 42190
+    },
+    {
+        "text": "Can I get a show of hands on that?",
+        "startTime": 28890,
+        "endTime": 30690,
+        "slowStartTime": 43480,
+        "slowEndTime": 45940
+    },
+    {
+        "text": "All in favor?",
+        "startTime": 31060,
+        "endTime": 31930,
+        "slowStartTime": 46670,
+        "slowEndTime": 47890
+    },
+    {
+        "text": "It looks like the idea carries.",
+        "startTime": 32830,
+        "endTime": 34630,
+        "slowStartTime": 49330,
+        "slowEndTime": 51935
+    },
+    {
+        "text": "Karen will type up the outline from the minutes.",
+        "startTime": 35100,
+        "endTime": 37800,
+        "slowStartTime": 52680,
+        "slowEndTime": 56795
+    }
+]

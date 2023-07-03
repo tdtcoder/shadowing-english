@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Bore.",
+        "startTime": 2647,
+        "endTime": 3249,
+        "slowStartTime": 4120,
+        "slowEndTime": 5099
+    },
+    {
+        "text": "The movie was boring.",
+        "startTime": 3985,
+        "endTime": 5540,
+        "slowStartTime": 6127,
+        "slowEndTime": 8535
+    },
+    {
+        "text": "The movie was very boring.",
+        "startTime": 6844,
+        "endTime": 8866,
+        "slowStartTime": 10416,
+        "slowEndTime": 13524
+    },
+    {
+        "text": "Chore.",
+        "startTime": 10271,
+        "endTime": 10889,
+        "slowStartTime": 15556,
+        "slowEndTime": 16559
+    },
+    {
+        "text": "My chore is to do the dishes.",
+        "startTime": 11558,
+        "endTime": 13832,
+        "slowStartTime": 17487,
+        "slowEndTime": 20973
+    },
+    {
+        "text": "My chore is to do the dishes every weekend.",
+        "startTime": 15169,
+        "endTime": 18483,
+        "slowStartTime": 22904,
+        "slowEndTime": 27950
+    },
+    {
+        "text": "Core.",
+        "startTime": 19854,
+        "endTime": 20339,
+        "slowStartTime": 29931,
+        "slowEndTime": 30734
+    },
+    {
+        "text": "Throw away the core.",
+        "startTime": 21108,
+        "endTime": 22445,
+        "slowStartTime": 31812,
+        "slowEndTime": 33893
+    },
+    {
+        "text": "Throw away the core of the apple.",
+        "startTime": 23749,
+        "endTime": 25990,
+        "slowStartTime": 35774,
+        "slowEndTime": 39210
+    },
+    {
+        "text": "Store.",
+        "startTime": 27373,
+        "endTime": 27942,
+        "slowStartTime": 41210,
+        "slowEndTime": 42138
+    },
+    {
+        "text": "I went to the store.",
+        "startTime": 28777,
+        "endTime": 30099,
+        "slowStartTime": 43316,
+        "slowEndTime": 45373
+    },
+    {
+        "text": "I went to the candy store.",
+        "startTime": 31436,
+        "endTime": 33225,
+        "slowStartTime": 47304,
+        "slowEndTime": 50062
+    },
+    {
+        "text": "She likes going to the food store with her dad.",
+        "startTime": 38473,
+        "endTime": 41916,
+        "slowStartTime": 57860,
+        "slowEndTime": 63099
+    },
+    {
+        "text": "Food, food, food! She likes shopping for food.",
+        "startTime": 42268,
+        "endTime": 45713,
+        "slowStartTime": 63552,
+        "slowEndTime": 68795
+    },
+    {
+        "text": "She goes to the toy store with her grandfather.",
+        "startTime": 45966,
+        "endTime": 49392,
+        "slowStartTime": 69099,
+        "slowEndTime": 74313
+    },
+    {
+        "text": "Toy, toy, toy! She buys a toy.",
+        "startTime": 49795,
+        "endTime": 53088,
+        "slowStartTime": 74842,
+        "slowEndTime": 79857
+    },
+    {
+        "text": "She goes to the clothing store with her mom.",
+        "startTime": 53493,
+        "endTime": 56879,
+        "slowStartTime": 80390,
+        "slowEndTime": 85543
+    },
+    {
+        "text": "Coat, coat, coat! She looks for a coat.",
+        "startTime": 57355,
+        "endTime": 60618,
+        "slowStartTime": 86183,
+        "slowEndTime": 91152
+    },
+    {
+        "text": "She likes going to the shoe store with her grandma.",
+        "startTime": 61047,
+        "endTime": 64523,
+        "slowStartTime": 91720,
+        "slowEndTime": 97009
+    },
+    {
+        "text": "Shoes, shoes, shoes! She buys new shoes.",
+        "startTime": 64775,
+        "endTime": 68257,
+        "slowStartTime": 97313,
+        "slowEndTime": 102610
+    }
+]

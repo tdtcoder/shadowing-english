@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Changmin, do you have any brothers or sisters?",
+        "startTime": 3931,
+        "endTime": 6672,
+        "slowStartTime": 6047,
+        "slowEndTime": 10233
+    },
+    {
+        "text": "Yeah, I do. I have a younger brother.",
+        "startTime": 6895,
+        "endTime": 8873,
+        "slowStartTime": 10492,
+        "slowEndTime": 13535
+    },
+    {
+        "text": "What does he look like?",
+        "startTime": 9283,
+        "endTime": 10261,
+        "slowStartTime": 14075,
+        "slowEndTime": 15617
+    },
+    {
+        "text": "He's very tall. Almost as tall as I am. He is so attractive.",
+        "startTime": 10647,
+        "endTime": 14632,
+        "slowStartTime": 16120,
+        "slowEndTime": 22173
+    },
+    {
+        "text": "How about your parents? What do they look like?",
+        "startTime": 15081,
+        "endTime": 17466,
+        "slowStartTime": 22772,
+        "slowEndTime": 26424
+    },
+    {
+        "text": "My father is a little bit shorter than I am.",
+        "startTime": 17864,
+        "endTime": 20282,
+        "slowStartTime": 26946,
+        "slowEndTime": 30648
+    },
+    {
+        "text": "He wears glasses and he's got a beard.",
+        "startTime": 20516,
+        "endTime": 22900,
+        "slowStartTime": 30924,
+        "slowEndTime": 34575
+    },
+    {
+        "text": "And your mother?",
+        "startTime": 23367,
+        "endTime": 24151,
+        "slowStartTime": 35201,
+        "slowEndTime": 36451
+    },
+    {
+        "text": "She's very beautiful. When she was young, she was a model.",
+        "startTime": 24342,
+        "endTime": 27366,
+        "slowStartTime": 36663,
+        "slowEndTime": 41274
+    },
+    {
+        "text": "I see why you turned out so handsome then!",
+        "startTime": 27727,
+        "endTime": 29969,
+        "slowStartTime": 41741,
+        "slowEndTime": 45178
+    },
+    {
+        "text": "Who do you look like?",
+        "startTime": 30304,
+        "endTime": 31124,
+        "slowStartTime": 45606,
+        "slowEndTime": 46911
+    },
+    {
+        "text": "I look exactly like my father, and my brother looks like my mom.",
+        "startTime": 31501,
+        "endTime": 35451,
+        "slowStartTime": 47402,
+        "slowEndTime": 53401
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Excuse me, I'd like two tickets to Los Angeles Union Station, please.",
+        "startTime": 1849,
+        "endTime": 5808,
+        "slowStartTime": 2923,
+        "slowEndTime": 8937
+    },
+    {
+        "text": "Single or return?",
+        "startTime": 7561,
+        "endTime": 8871,
+        "slowStartTime": 11492,
+        "slowEndTime": 13532
+    },
+    {
+        "text": "Return, please.",
+        "startTime": 10267,
+        "endTime": 11321,
+        "slowStartTime": 15550,
+        "slowEndTime": 17206
+    },
+    {
+        "text": "That's five dollars and fifty cents.",
+        "startTime": 12722,
+        "endTime": 14598,
+        "slowStartTime": 19233,
+        "slowEndTime": 22122
+    },
+    {
+        "text": "What platform is it?",
+        "startTime": 15626,
+        "endTime": 16680,
+        "slowStartTime": 23589,
+        "slowEndTime": 25245
+    },
+    {
+        "text": "Platform 2.",
+        "startTime": 17381,
+        "endTime": 18307,
+        "slowStartTime": 26222,
+        "slowEndTime": 27686
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 19241,
+        "endTime": 20027,
+        "slowStartTime": 29012,
+        "slowEndTime": 30266
+    },
+    {
+        "text": "Could I get a ticket to Wellington for May 8th?",
+        "startTime": 22535,
+        "endTime": 24881,
+        "slowStartTime": 33953,
+        "slowEndTime": 37547
+    },
+    {
+        "text": "First class or second class?",
+        "startTime": 25878,
+        "endTime": 27578,
+        "slowStartTime": 38967,
+        "slowEndTime": 41592
+    },
+    {
+        "text": "Second class, please.",
+        "startTime": 28871,
+        "endTime": 30087,
+        "slowStartTime": 43457,
+        "slowEndTime": 45356
+    },
+    {
+        "text": "That's a hundred and ninety-eight dollars.",
+        "startTime": 31373,
+        "endTime": 33708,
+        "slowStartTime": 47210,
+        "slowEndTime": 50787
+    },
+    {
+        "text": "Here it is.",
+        "startTime": 34882,
+        "endTime": 35682,
+        "slowStartTime": 52473,
+        "slowEndTime": 53748
+    },
+    {
+        "text": "Here is your ticket.",
+        "startTime": 37285,
+        "endTime": 38301,
+        "slowStartTime": 56078,
+        "slowEndTime": 57676
+    },
+    {
+        "text": "The train leaves at 7:45 in the morning.",
+        "startTime": 39465,
+        "endTime": 42079,
+        "slowStartTime": 59347,
+        "slowEndTime": 63343
+    },
+    {
+        "text": "Please be at the station thirty minutes before.",
+        "startTime": 42956,
+        "endTime": 45471,
+        "slowStartTime": 64584,
+        "slowEndTime": 68431
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 46250,
+        "endTime": 46738,
+        "slowStartTime": 69525,
+        "slowEndTime": 70332
+    }
+]

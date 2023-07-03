@@ -1,0 +1,156 @@
+[
+    {
+        "text": "My friend Sarah has run a small online business out of her living room for 12 years.",
+        "startTime": 75,
+        "endTime": 4174,
+        "slowStartTime": 263,
+        "slowEndTime": 6486
+    },
+    {
+        "text": "It's her whole life; she takes it very, very personally.",
+        "startTime": 4585,
+        "endTime": 7479,
+        "slowStartTime": 7028,
+        "slowEndTime": 11443
+    },
+    {
+        "text": "Last week, one of her clients sent her a ten-page long scathing email,...",
+        "startTime": 8261,
+        "endTime": 12451,
+        "slowStartTime": 12542,
+        "slowEndTime": 18901
+    },
+    {
+        "text": "...chopping her down, calling her a scam artist and other vicious personal insults,...",
+        "startTime": 12847,
+        "endTime": 17159,
+        "slowStartTime": 19420,
+        "slowEndTime": 25963
+    },
+    {
+        "text": "...saying she was going to sue Sarah for everything she's worth,...",
+        "startTime": 17539,
+        "endTime": 19996,
+        "slowStartTime": 26459,
+        "slowEndTime": 30219
+    },
+    {
+        "text": "...as retribution for a mishandled account.",
+        "startTime": 20297,
+        "endTime": 22389,
+        "slowStartTime": 30596,
+        "slowEndTime": 33808
+    },
+    {
+        "text": "Devastated, Sarah turned off her computer and cried.",
+        "startTime": 23460,
+        "endTime": 26440,
+        "slowStartTime": 35340,
+        "slowEndTime": 39885
+    },
+    {
+        "text": "She shut off the phones and closed up shop for the day.",
+        "startTime": 27384,
+        "endTime": 30248,
+        "slowStartTime": 41226,
+        "slowEndTime": 45597
+    },
+    {
+        "text": "She spent the whole weekend in bed, wondering if she should just give up,...",
+        "startTime": 31047,
+        "endTime": 34275,
+        "slowStartTime": 46720,
+        "slowEndTime": 51638
+    },
+    {
+        "text": "...thinking maybe every insult in this client's letter was true...",
+        "startTime": 34856,
+        "endTime": 38039,
+        "slowStartTime": 52434,
+        "slowEndTime": 57284
+    },
+    {
+        "text": "...and she's actually no good at what she does, even after 12 years.",
+        "startTime": 38381,
+        "endTime": 41748,
+        "slowStartTime": 57722,
+        "slowEndTime": 62847
+    },
+    {
+        "text": "On Sunday, she spent about five hours most of the day...",
+        "startTime": 42986,
+        "endTime": 45721,
+        "slowStartTime": 64629,
+        "slowEndTime": 68806
+    },
+    {
+        "text": "...carefully addressing every point in this ten-page email.",
+        "startTime": 45988,
+        "endTime": 48977,
+        "slowStartTime": 69132,
+        "slowEndTime": 73691
+    },
+    {
+        "text": "Then she went through the client's website, learning everything about her...",
+        "startTime": 49814,
+        "endTime": 52723,
+        "slowStartTime": 74871,
+        "slowEndTime": 79310
+    },
+    {
+        "text": "...and offered all kinds of advice and suggestions, and connections.",
+        "startTime": 53073,
+        "endTime": 56568,
+        "slowStartTime": 79760,
+        "slowEndTime": 85077
+    },
+    {
+        "text": "Sarah refunded the client's money plus an additional $50...",
+        "startTime": 57428,
+        "endTime": 60596,
+        "slowStartTime": 86292,
+        "slowEndTime": 91119
+    },
+    {
+        "text": "...with gushing deep apologies...",
+        "startTime": 61017,
+        "endTime": 62536,
+        "slowStartTime": 91675,
+        "slowEndTime": 94029
+    },
+    {
+        "text": "...for ever having upset someone she was honestly trying to help.",
+        "startTime": 62863,
+        "endTime": 65949,
+        "slowStartTime": 94444,
+        "slowEndTime": 99149
+    },
+    {
+        "text": "The next day, she called the client to try to talk through the situation with her.",
+        "startTime": 66928,
+        "endTime": 70127,
+        "slowStartTime": 100542,
+        "slowEndTime": 105415
+    },
+    {
+        "text": "The client cheerfully took her call and said, \"Oh! Don't worry about it.\"",
+        "startTime": 70986,
+        "endTime": 74260,
+        "slowStartTime": 106629,
+        "slowEndTime": 111615
+    },
+    {
+        "text": "\"I wasn't actually that upset. I was just in a bad mood.\"",
+        "startTime": 74484,
+        "endTime": 76655,
+        "slowStartTime": 111876,
+        "slowEndTime": 115207
+    },
+    {
+        "text": "\"I didn't think anyone would read my email anyway.\"",
+        "startTime": 76789,
+        "endTime": 78823,
+        "slowStartTime": 115334,
+        "slowEndTime": 118459
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "text": "It's raining.",
+        "startTime": 1542,
+        "endTime": 2187,
+        "slowStartTime": 2463,
+        "slowEndTime": 3506
+    },
+    {
+        "text": "Can I borrow an umbrella?",
+        "startTime": 2700,
+        "endTime": 3666,
+        "slowStartTime": 4200,
+        "slowEndTime": 5724
+    },
+    {
+        "text": "Sure, here you are.",
+        "startTime": 3902,
+        "endTime": 5187,
+        "slowStartTime": 6003,
+        "slowEndTime": 8005
+    },
+    {
+        "text": "Thanks.",
+        "startTime": 5308,
+        "endTime": 5767,
+        "slowStartTime": 8112,
+        "slowEndTime": 8875
+    },
+    {
+        "text": "Can I borrow your car?",
+        "startTime": 7110,
+        "endTime": 7947,
+        "slowStartTime": 10815,
+        "slowEndTime": 12146
+    },
+    {
+        "text": "Sure!",
+        "startTime": 8491,
+        "endTime": 9257,
+        "slowStartTime": 12886,
+        "slowEndTime": 14111
+    },
+    {
+        "text": "Thanks.",
+        "startTime": 10215,
+        "endTime": 10799,
+        "slowStartTime": 15473,
+        "slowEndTime": 16424
+    },
+    {
+        "text": "Yo, man, do you think I can borrow a pen?",
+        "startTime": 11713,
+        "endTime": 14343,
+        "slowStartTime": 17719,
+        "slowEndTime": 21740
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 16576,
+        "endTime": 17185,
+        "slowStartTime": 25014,
+        "slowEndTime": 26003
+    },
+    {
+        "text": "Thanks, man.",
+        "startTime": 21510,
+        "endTime": 22133,
+        "slowStartTime": 32415,
+        "slowEndTime": 33424
+    },
+    {
+        "text": "Yo, Logan.",
+        "startTime": 26003,
+        "endTime": 26425,
+        "slowStartTime": 39154,
+        "slowEndTime": 39863
+    },
+    {
+        "text": "Do you have a jacket that I can borrow?",
+        "startTime": 26578,
+        "endTime": 27605,
+        "slowStartTime": 40017,
+        "slowEndTime": 41632
+    },
+    {
+        "text": "Yeah, bro, I guess you could wear my jacket.",
+        "startTime": 28219,
+        "endTime": 29791,
+        "slowStartTime": 42478,
+        "slowEndTime": 44911
+    },
+    {
+        "text": "Are you sure?",
+        "startTime": 30792,
+        "endTime": 31201,
+        "slowStartTime": 46338,
+        "slowEndTime": 47027
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 31315,
+        "endTime": 31603,
+        "slowStartTime": 47122,
+        "slowEndTime": 47629
+    }
+]

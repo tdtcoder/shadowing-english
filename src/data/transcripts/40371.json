@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Hyundai unveiled its first electric sedan on Thursday...",
+        "startTime": 1249,
+        "endTime": 4338,
+        "slowStartTime": 2024,
+        "slowEndTime": 6732
+    },
+    {
+        "text": "...as it pushes to challenge Tesla's dominance of the electric vehicle market.",
+        "startTime": 4567,
+        "endTime": 8342,
+        "slowStartTime": 7000,
+        "slowEndTime": 12738
+    },
+    {
+        "text": "The Ioniq 6 will cost around 42,000 dollars...",
+        "startTime": 8613,
+        "endTime": 11770,
+        "slowStartTime": 13070,
+        "slowEndTime": 17880
+    },
+    {
+        "text": "...and can travel up to 380 miles on a single charge.",
+        "startTime": 11867,
+        "endTime": 15073,
+        "slowStartTime": 17951,
+        "slowEndTime": 22834
+    },
+    {
+        "text": "It will be a direct competitor to Tesla's best-selling vehicle,...",
+        "startTime": 15715,
+        "endTime": 18654,
+        "slowStartTime": 23723,
+        "slowEndTime": 28206
+    },
+    {
+        "text": "...the Model 3 sedan.",
+        "startTime": 18881,
+        "endTime": 20111,
+        "slowStartTime": 28471,
+        "slowEndTime": 30391
+    },
+    {
+        "text": "The Ioniq 6 is one of more than 30 electric vehicles that Hyundai,...",
+        "startTime": 20933,
+        "endTime": 24594,
+        "slowStartTime": 31550,
+        "slowEndTime": 37116
+    },
+    {
+        "text": "...along with its sister company Kia and Genesis,...",
+        "startTime": 24900,
+        "endTime": 27529,
+        "slowStartTime": 37500,
+        "slowEndTime": 41519
+    },
+    {
+        "text": "...plan to introduce over the next eight years.",
+        "startTime": 27720,
+        "endTime": 30325,
+        "slowStartTime": 41730,
+        "slowEndTime": 45713
+    },
+    {
+        "text": "The South Korean automaker hopes to secure a 12% share...",
+        "startTime": 31220,
+        "endTime": 34858,
+        "slowStartTime": 46980,
+        "slowEndTime": 52512
+    },
+    {
+        "text": "...in the global EV market by 2030.",
+        "startTime": 34924,
+        "endTime": 37311,
+        "slowStartTime": 52536,
+        "slowEndTime": 56191
+    },
+    {
+        "text": "Hyundai's new electric sedan will be available in South Korea this year,...",
+        "startTime": 37818,
+        "endTime": 42062,
+        "slowStartTime": 56877,
+        "slowEndTime": 63318
+    },
+    {
+        "text": "...and the US market launch is expected in the first quarter of next year.",
+        "startTime": 42233,
+        "endTime": 45907,
+        "slowStartTime": 63500,
+        "slowEndTime": 69085
+    },
+    {
+        "text": "It comes after Hyundai announced its plans to build dedicated EV plants...",
+        "startTime": 46687,
+        "endTime": 51113,
+        "slowStartTime": 70180,
+        "slowEndTime": 76895
+    },
+    {
+        "text": "...both at home and in the United States.",
+        "startTime": 51201,
+        "endTime": 53629,
+        "slowStartTime": 76952,
+        "slowEndTime": 80668
+    }
+]

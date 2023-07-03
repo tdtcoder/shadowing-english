@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Shop till you drop in Dubai,...",
+        "startTime": 3229,
+        "endTime": 5100,
+        "slowStartTime": 4993,
+        "slowEndTime": 7875
+    },
+    {
+        "text": "...where you find the largest shopping malls in the world...",
+        "startTime": 5384,
+        "endTime": 8428,
+        "slowStartTime": 8226,
+        "slowEndTime": 12867
+    },
+    {
+        "text": "...with an incredible variety of brands.",
+        "startTime": 8718,
+        "endTime": 11203,
+        "slowStartTime": 13227,
+        "slowEndTime": 17030
+    },
+    {
+        "text": "For many visitors, the best authentic shopping...",
+        "startTime": 14858,
+        "endTime": 17553,
+        "slowStartTime": 22437,
+        "slowEndTime": 26554
+    },
+    {
+        "text": "...is found in the city's traditional souks or markets.",
+        "startTime": 17891,
+        "endTime": 21445,
+        "slowStartTime": 26986,
+        "slowEndTime": 32392
+    },
+    {
+        "text": "Two of Dubai's most famous markets are the Gold Souk and the Spice Souk.",
+        "startTime": 21755,
+        "endTime": 26259,
+        "slowStartTime": 32783,
+        "slowEndTime": 39614
+    }
+]

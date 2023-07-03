@@ -1,0 +1,44 @@
+[
+    {
+        "text": "﻿Twinkle, twinkle, little star,...",
+        "startTime": 1099,
+        "endTime": 5899,
+        "slowStartTime": 1798,
+        "slowEndTime": 9073
+    },
+    {
+        "text": "...how I wonder what you are.",
+        "startTime": 6549,
+        "endTime": 11277,
+        "slowStartTime": 9973,
+        "slowEndTime": 17140
+    },
+    {
+        "text": "...up above the world so high,...",
+        "startTime": 11944,
+        "endTime": 16695,
+        "slowStartTime": 18066,
+        "slowEndTime": 25268
+    },
+    {
+        "text": "...like a diamond in the sky.",
+        "startTime": 17404,
+        "endTime": 22231,
+        "slowStartTime": 26256,
+        "slowEndTime": 33572
+    },
+    {
+        "text": "Twinkle, twinkle little star,...",
+        "startTime": 22917,
+        "endTime": 27597,
+        "slowStartTime": 34526,
+        "slowEndTime": 41620
+    },
+    {
+        "text": "...how I wonder what you are.",
+        "startTime": 28359,
+        "endTime": 34123,
+        "slowStartTime": 42688,
+        "slowEndTime": 51409
+    }
+]

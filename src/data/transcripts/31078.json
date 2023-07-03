@@ -1,0 +1,65 @@
+[
+    {
+        "text": "A house needs a door.",
+        "startTime": 3750,
+        "endTime": 5390,
+        "slowStartTime": 5775,
+        "slowEndTime": 8310
+    },
+    {
+        "text": "It's a boy!",
+        "startTime": 7019,
+        "endTime": 7893,
+        "slowStartTime": 10679,
+        "slowEndTime": 12065
+    },
+    {
+        "text": "I want to live in a city.",
+        "startTime": 9603,
+        "endTime": 11278,
+        "slowStartTime": 14555,
+        "slowEndTime": 17142
+    },
+    {
+        "text": "An apple a day keeps the doctor away.",
+        "startTime": 16445,
+        "endTime": 18891,
+        "slowStartTime": 24818,
+        "slowEndTime": 28562
+    },
+    {
+        "text": "I think I saw an owl last night.",
+        "startTime": 20571,
+        "endTime": 22728,
+        "slowStartTime": 31007,
+        "slowEndTime": 34317
+    },
+    {
+        "text": "Can I borrow an eraser?",
+        "startTime": 24435,
+        "endTime": 25827,
+        "slowStartTime": 36802,
+        "slowEndTime": 38966
+    },
+    {
+        "text": "The house is on fire!",
+        "startTime": 31055,
+        "endTime": 32506,
+        "slowStartTime": 46732,
+        "slowEndTime": 48984
+    },
+    {
+        "text": "The sun is the center of the solar system.",
+        "startTime": 34257,
+        "endTime": 36737,
+        "slowStartTime": 51535,
+        "slowEndTime": 55330
+    },
+    {
+        "text": "The blue car is my car.",
+        "startTime": 38335,
+        "endTime": 40469,
+        "slowStartTime": 57652,
+        "slowEndTime": 60929
+    }
+]

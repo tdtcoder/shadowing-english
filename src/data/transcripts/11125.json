@@ -1,0 +1,79 @@
+[
+    {
+        "text": "It would be a real catastrophe to continue business as usual.",
+        "startTime": 3400,
+        "endTime": 6900,
+        "slowStartTime": 5250,
+        "slowEndTime": 10500
+    },
+    {
+        "text": "I think you're exaggerating the danger a bit.",
+        "startTime": 8050,
+        "endTime": 10400,
+        "slowStartTime": 12300,
+        "slowEndTime": 15800
+    },
+    {
+        "text": "Without changing our approach, we'll never improve performance.",
+        "startTime": 11300,
+        "endTime": 14900,
+        "slowStartTime": 17150,
+        "slowEndTime": 22600
+    },
+    {
+        "text": "Sam is right.",
+        "startTime": 15250,
+        "endTime": 16300,
+        "slowStartTime": 23100,
+        "slowEndTime": 24650
+    },
+    {
+        "text": "If we utilize the new approach in a systematic way, our sales should rocket by early next year.",
+        "startTime": 16500,
+        "endTime": 22600,
+        "slowStartTime": 24950,
+        "slowEndTime": 34200
+    },
+    {
+        "text": "We need to do more in-depth research on this approach.",
+        "startTime": 23250,
+        "endTime": 26150,
+        "slowStartTime": 35000,
+        "slowEndTime": 39400
+    },
+    {
+        "text": "We need to balance its strengths and weaknesses before we apply it.",
+        "startTime": 26600,
+        "endTime": 30500,
+        "slowStartTime": 40100,
+        "slowEndTime": 46000
+    },
+    {
+        "text": "Sam's presentation concentrated too heavily on the benefits.",
+        "startTime": 30900,
+        "endTime": 34500,
+        "slowStartTime": 46600,
+        "slowEndTime": 52000
+    },
+    {
+        "text": "I want to see the other side.",
+        "startTime": 34850,
+        "endTime": 36400,
+        "slowStartTime": 52500,
+        "slowEndTime": 54800
+    },
+    {
+        "text": "I disagree.",
+        "startTime": 36900,
+        "endTime": 37800,
+        "slowStartTime": 55500,
+        "slowEndTime": 57000
+    },
+    {
+        "text": "I thought the presentation was well balanced regarding the positive and negative aspects of the approach.",
+        "startTime": 38150,
+        "endTime": 43900,
+        "slowStartTime": 57450,
+        "slowEndTime": 16150
+    }
+]

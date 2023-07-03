@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Are you ready for your big presentation?",
+        "startTime": 701,
+        "endTime": 2236,
+        "slowStartTime": 1202,
+        "slowEndTime": 3579
+    },
+    {
+        "text": "They're skyping in 15 minutes.",
+        "startTime": 2533,
+        "endTime": 4579,
+        "slowStartTime": 3949,
+        "slowEndTime": 7094
+    },
+    {
+        "text": "I think so.",
+        "startTime": 4689,
+        "endTime": 5187,
+        "slowStartTime": 7184,
+        "slowEndTime": 8005
+    },
+    {
+        "text": "I'm a bit nervous.",
+        "startTime": 5353,
+        "endTime": 6303,
+        "slowStartTime": 8180,
+        "slowEndTime": 9679
+    },
+    {
+        "text": "Just because I'm in New York, it doesn't mean I'm not right there with you.",
+        "startTime": 6399,
+        "endTime": 9107,
+        "slowStartTime": 9748,
+        "slowEndTime": 13885
+    },
+    {
+        "text": "Did you get those notes that I've sent you?",
+        "startTime": 9613,
+        "endTime": 10593,
+        "slowStartTime": 14569,
+        "slowEndTime": 16114
+    },
+    {
+        "text": "Yup, I got them right here.",
+        "startTime": 10879,
+        "endTime": 11905,
+        "slowStartTime": 16468,
+        "slowEndTime": 18082
+    },
+    {
+        "text": "I've been reviewing them in my office all morning.",
+        "startTime": 11984,
+        "endTime": 14011,
+        "slowStartTime": 18126,
+        "slowEndTime": 21241
+    },
+    {
+        "text": "You know, when I had my first presentation, my boss told me that success...",
+        "startTime": 14099,
+        "endTime": 17838,
+        "slowStartTime": 21298,
+        "slowEndTime": 26982
+    },
+    {
+        "text": "...belongs to a person who believes in the power of positive thinking.",
+        "startTime": 22937,
+        "endTime": 26487,
+        "slowStartTime": 34555,
+        "slowEndTime": 39955
+    },
+    {
+        "text": "You're gonna be great.",
+        "startTime": 29000,
+        "endTime": 29612,
+        "slowStartTime": 43650,
+        "slowEndTime": 44643
+    }
+]

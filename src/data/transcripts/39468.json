@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Hello! I'm Adam.",
+        "startTime": 351,
+        "endTime": 2288,
+        "slowStartTime": 676,
+        "slowEndTime": 3657
+    },
+    {
+        "text": "What's your name?",
+        "startTime": 2793,
+        "endTime": 3731,
+        "slowStartTime": 4339,
+        "slowEndTime": 5821
+    },
+    {
+        "text": "Hi, Adam!",
+        "startTime": 4529,
+        "endTime": 5369,
+        "slowStartTime": 6943,
+        "slowEndTime": 8278
+    },
+    {
+        "text": "My name is James.",
+        "startTime": 5720,
+        "endTime": 7026,
+        "slowStartTime": 8730,
+        "slowEndTime": 10764
+    },
+    {
+        "text": "It's nice to meet you, James.",
+        "startTime": 8014,
+        "endTime": 10142,
+        "slowStartTime": 12171,
+        "slowEndTime": 15438
+    },
+    {
+        "text": "Nice to meet you too, Adam.",
+        "startTime": 10895,
+        "endTime": 12918,
+        "slowStartTime": 16492,
+        "slowEndTime": 19602
+    },
+    {
+        "text": "Are you from Spain?",
+        "startTime": 13824,
+        "endTime": 15261,
+        "slowStartTime": 20886,
+        "slowEndTime": 23116
+    },
+    {
+        "text": "No, I'm not.",
+        "startTime": 15717,
+        "endTime": 16657,
+        "slowStartTime": 23725,
+        "slowEndTime": 25211
+    },
+    {
+        "text": "I'm from Italy.",
+        "startTime": 17049,
+        "endTime": 18055,
+        "slowStartTime": 25724,
+        "slowEndTime": 27307
+    },
+    {
+        "text": "Are you Italian?",
+        "startTime": 19017,
+        "endTime": 20241,
+        "slowStartTime": 28675,
+        "slowEndTime": 30586
+    },
+    {
+        "text": "Yes, I am.",
+        "startTime": 20793,
+        "endTime": 21692,
+        "slowStartTime": 31339,
+        "slowEndTime": 32763
+    },
+    {
+        "text": "Where are you from, Adam?",
+        "startTime": 21993,
+        "endTime": 23193,
+        "slowStartTime": 33139,
+        "slowEndTime": 35014
+    },
+    {
+        "text": "I come from Poland.",
+        "startTime": 23767,
+        "endTime": 25339,
+        "slowStartTime": 35800,
+        "slowEndTime": 38233
+    },
+    {
+        "text": "I'm Polish.",
+        "startTime": 26048,
+        "endTime": 27337,
+        "slowStartTime": 39222,
+        "slowEndTime": 41231
+    }
+]

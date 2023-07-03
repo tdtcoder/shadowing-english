@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Red.",
+        "startTime": 2429,
+        "endTime": 3247,
+        "slowStartTime": 3794,
+        "slowEndTime": 5095
+    },
+    {
+        "text": "Orange.",
+        "startTime": 5317,
+        "endTime": 6257,
+        "slowStartTime": 8125,
+        "slowEndTime": 9611
+    },
+    {
+        "text": "Yellow.",
+        "startTime": 8345,
+        "endTime": 9224,
+        "slowStartTime": 12668,
+        "slowEndTime": 14061
+    },
+    {
+        "text": "Green.",
+        "startTime": 11338,
+        "endTime": 12217,
+        "slowStartTime": 17157,
+        "slowEndTime": 18550
+    },
+    {
+        "text": "Blue.",
+        "startTime": 14335,
+        "endTime": 15090,
+        "slowStartTime": 21652,
+        "slowEndTime": 22860
+    },
+    {
+        "text": "Purple.",
+        "startTime": 17332,
+        "endTime": 18085,
+        "slowStartTime": 26148,
+        "slowEndTime": 27352
+    },
+    {
+        "text": "Pink.",
+        "startTime": 20305,
+        "endTime": 21018,
+        "slowStartTime": 30607,
+        "slowEndTime": 31752
+    },
+    {
+        "text": "Red.",
+        "startTime": 34227,
+        "endTime": 35167,
+        "slowStartTime": 51490,
+        "slowEndTime": 52976
+    },
+    {
+        "text": "Orange.",
+        "startTime": 36213,
+        "endTime": 37216,
+        "slowStartTime": 54470,
+        "slowEndTime": 56049
+    },
+    {
+        "text": "Yellow.",
+        "startTime": 38299,
+        "endTime": 39117,
+        "slowStartTime": 57599,
+        "slowEndTime": 58900
+    },
+    {
+        "text": "Green.",
+        "startTime": 40361,
+        "endTime": 41179,
+        "slowStartTime": 60692,
+        "slowEndTime": 61993
+    },
+    {
+        "text": "Blue.",
+        "startTime": 42461,
+        "endTime": 42970,
+        "slowStartTime": 63841,
+        "slowEndTime": 64680
+    },
+    {
+        "text": "Purple.",
+        "startTime": 44392,
+        "endTime": 45085,
+        "slowStartTime": 66738,
+        "slowEndTime": 67852
+    },
+    {
+        "text": "Pink.",
+        "startTime": 46303,
+        "endTime": 46996,
+        "slowStartTime": 69604,
+        "slowEndTime": 70719
+    }
+]

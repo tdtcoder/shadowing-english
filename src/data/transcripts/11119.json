@@ -1,0 +1,100 @@
+[
+    {
+        "text": "I have a transparency here to illustrate how I organize informal feedback.",
+        "startTime": 4100,
+        "endTime": 8700,
+        "slowStartTime": 6350,
+        "slowEndTime": 13200
+    },
+    {
+        "text": "I think the OHP is out of focus.",
+        "startTime": 9850,
+        "endTime": 11950,
+        "slowStartTime": 14950,
+        "slowEndTime": 18150
+    },
+    {
+        "text": "Can you fix it?",
+        "startTime": 12500,
+        "endTime": 13100,
+        "slowStartTime": 18900,
+        "slowEndTime": 19900
+    },
+    {
+        "text": "Sure.",
+        "startTime": 14100,
+        "endTime": 14500,
+        "slowStartTime": 21300,
+        "slowEndTime": 22000
+    },
+    {
+        "text": "OK. That looks better.",
+        "startTime": 15350,
+        "endTime": 16850,
+        "slowStartTime": 23250,
+        "slowEndTime": 25500
+    },
+    {
+        "text": "Where did the pointer go?",
+        "startTime": 17650,
+        "endTime": 19050,
+        "slowStartTime": 26650,
+        "slowEndTime": 28850
+    },
+    {
+        "text": "Well, never mind.",
+        "startTime": 19850,
+        "endTime": 20800,
+        "slowStartTime": 29950,
+        "slowEndTime": 31400
+    },
+    {
+        "text": "I can just use my hand.",
+        "startTime": 21100,
+        "endTime": 22400,
+        "slowStartTime": 31850,
+        "slowEndTime": 33800
+    },
+    {
+        "text": "At first glance, this system may look rather complicated,...",
+        "startTime": 23300,
+        "endTime": 26300,
+        "slowStartTime": 35150,
+        "slowEndTime": 39700
+    },
+    {
+        "text": "...but it's actually very simple.",
+        "startTime": 26600,
+        "endTime": 28050,
+        "slowStartTime": 40100,
+        "slowEndTime": 42350
+    },
+    {
+        "text": "Do the different shapes mean types of files?",
+        "startTime": 28550,
+        "endTime": 31250,
+        "slowStartTime": 43000,
+        "slowEndTime": 47100
+    },
+    {
+        "text": "Actually, the shapes in the diagram represent organization within the file...",
+        "startTime": 31750,
+        "endTime": 36500,
+        "slowStartTime": 47800,
+        "slowEndTime": 54950
+    },
+    {
+        "text": "...and I would also like to draw your attention to the color coding of the shapes.",
+        "startTime": 37050,
+        "endTime": 41100,
+        "slowStartTime": 55750,
+        "slowEndTime": 61900
+    },
+    {
+        "text": "The meaning of each color is related to the three situations I described before when informal feedback is given.",
+        "startTime": 41550,
+        "endTime": 48000,
+        "slowStartTime": 62500,
+        "slowEndTime": 72300
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Alright, I got the kids with me.",
+        "startTime": 85,
+        "endTime": 1368,
+        "slowStartTime": 277,
+        "slowEndTime": 2277
+    },
+    {
+        "text": "It's \"take your kids to work\" day.",
+        "startTime": 1505,
+        "endTime": 3535,
+        "slowStartTime": 2408,
+        "slowEndTime": 5527
+    },
+    {
+        "text": "Can I sweep the floor?",
+        "startTime": 4188,
+        "endTime": 5669,
+        "slowStartTime": 6432,
+        "slowEndTime": 8729
+    },
+    {
+        "text": "Is that what you think I do at work?",
+        "startTime": 8206,
+        "endTime": 9472,
+        "slowStartTime": 12459,
+        "slowEndTime": 14433
+    },
+    {
+        "text": "Yes.",
+        "startTime": 9578,
+        "endTime": 10011,
+        "slowStartTime": 14517,
+        "slowEndTime": 15241
+    },
+    {
+        "text": "You guys excited?",
+        "startTime": 10381,
+        "endTime": 11475,
+        "slowStartTime": 15721,
+        "slowEndTime": 17437
+    },
+    {
+        "text": "Yeah!",
+        "startTime": 11565,
+        "endTime": 12249,
+        "slowStartTime": 17497,
+        "slowEndTime": 18598
+    },
+    {
+        "text": "I feel like I kind of am a lawyer.",
+        "startTime": 13162,
+        "endTime": 15591,
+        "slowStartTime": 19893,
+        "slowEndTime": 23612
+    },
+    {
+        "text": "Here's my office.",
+        "startTime": 15727,
+        "endTime": 16774,
+        "slowStartTime": 23741,
+        "slowEndTime": 25386
+    },
+    {
+        "text": "I'll show you guys around a little bit.",
+        "startTime": 20169,
+        "endTime": 21214,
+        "slowStartTime": 30404,
+        "slowEndTime": 32046
+    },
+    {
+        "text": "Here's another one of our conference rooms.",
+        "startTime": 21330,
+        "endTime": 23013,
+        "slowStartTime": 32145,
+        "slowEndTime": 34745
+    },
+    {
+        "text": "This is where we keep our files down here.",
+        "startTime": 23141,
+        "endTime": 25785,
+        "slowStartTime": 34862,
+        "slowEndTime": 38903
+    },
+    {
+        "text": "You guys want to see where we take the bad people?",
+        "startTime": 25901,
+        "endTime": 28089,
+        "slowStartTime": 39001,
+        "slowEndTime": 42359
+    },
+    {
+        "text": "We put them in this vault over here.",
+        "startTime": 28648,
+        "endTime": 30449,
+        "slowStartTime": 43122,
+        "slowEndTime": 45898
+    },
+    {
+        "text": "Is there really bad people in there?",
+        "startTime": 31993,
+        "endTime": 34510,
+        "slowStartTime": 48139,
+        "slowEndTime": 51990
+    },
+    {
+        "text": "No, we don't really do that to the people.",
+        "startTime": 34607,
+        "endTime": 36617,
+        "slowStartTime": 52061,
+        "slowEndTime": 55151
+    },
+    {
+        "text": "Welcome to my office.",
+        "startTime": 36724,
+        "endTime": 38153,
+        "slowStartTime": 55236,
+        "slowEndTime": 57454
+    },
+    {
+        "text": "Hi, I am in charge!",
+        "startTime": 39106,
+        "endTime": 41684,
+        "slowStartTime": 58809,
+        "slowEndTime": 62751
+    }
+]

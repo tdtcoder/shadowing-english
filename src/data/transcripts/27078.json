@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Jack Reacher, for Major Turner.",
+        "startTime": 33,
+        "endTime": 1415,
+        "slowStartTime": 199,
+        "slowEndTime": 2348
+    },
+    {
+        "text": "Major Turner has been arrested.",
+        "startTime": 1502,
+        "endTime": 2495,
+        "slowStartTime": 2403,
+        "slowEndTime": 3968
+    },
+    {
+        "text": "On what charge?",
+        "startTime": 2816,
+        "endTime": 3553,
+        "slowStartTime": 4374,
+        "slowEndTime": 5555
+    },
+    {
+        "text": "Espionage.",
+        "startTime": 3669,
+        "endTime": 4139,
+        "slowStartTime": 5653,
+        "slowEndTime": 6434
+    },
+    {
+        "text": "She's been set up.",
+        "startTime": 4878,
+        "endTime": 5502,
+        "slowStartTime": 7467,
+        "slowEndTime": 8478
+    },
+    {
+        "text": "How much does Reacher know?",
+        "startTime": 7959,
+        "endTime": 9100,
+        "slowStartTime": 12088,
+        "slowEndTime": 13875
+    },
+    {
+        "text": "How's it going?",
+        "startTime": 9969,
+        "endTime": 10526,
+        "slowStartTime": 15103,
+        "slowEndTime": 16014
+    },
+    {
+        "text": "I don't like being followed.",
+        "startTime": 12091,
+        "endTime": 12983,
+        "slowStartTime": 18287,
+        "slowEndTime": 19699
+    },
+    {
+        "text": "You think you're invulnerable.",
+        "startTime": 14342,
+        "endTime": 15529,
+        "slowStartTime": 21663,
+        "slowEndTime": 23519
+    },
+    {
+        "text": "That's right.",
+        "startTime": 15588,
+        "endTime": 15963,
+        "slowStartTime": 23532,
+        "slowEndTime": 24170
+    },
+    {
+        "text": "Maybe I'll rip your arm off and beat you to death with it.",
+        "startTime": 16739,
+        "endTime": 18820,
+        "slowStartTime": 25258,
+        "slowEndTime": 28455
+    },
+    {
+        "text": "I'm sorry about this.",
+        "startTime": 20214,
+        "endTime": 21189,
+        "slowStartTime": 30471,
+        "slowEndTime": 32009
+    },
+    {
+        "text": "Reacher?",
+        "startTime": 24613,
+        "endTime": 24975,
+        "slowStartTime": 37069,
+        "slowEndTime": 37688
+    },
+    {
+        "text": "They're here to kill you.",
+        "startTime": 25599,
+        "endTime": 26337,
+        "slowStartTime": 38548,
+        "slowEndTime": 39730
+    },
+    {
+        "text": "My men were shot by one of our own.",
+        "startTime": 28978,
+        "endTime": 30463,
+        "slowStartTime": 43617,
+        "slowEndTime": 45920
+    },
+    {
+        "text": "This is bigger than I imagined.",
+        "startTime": 31788,
+        "endTime": 32982,
+        "slowStartTime": 47832,
+        "slowEndTime": 49698
+    },
+    {
+        "text": "You ever lose anyone on your watch, Reacher?",
+        "startTime": 33839,
+        "endTime": 35305,
+        "slowStartTime": 50908,
+        "slowEndTime": 53183
+    },
+    {
+        "text": "You're a dead man.",
+        "startTime": 41314,
+        "endTime": 42014,
+        "slowStartTime": 62121,
+        "slowEndTime": 63246
+    },
+    {
+        "text": "You think you're above the law,...",
+        "startTime": 43807,
+        "endTime": 45152,
+        "slowStartTime": 65861,
+        "slowEndTime": 67953
+    },
+    {
+        "text": "...but I'm not the law.",
+        "startTime": 47340,
+        "endTime": 48221,
+        "slowStartTime": 71160,
+        "slowEndTime": 72556
+    },
+    {
+        "text": "So, you should start running 'cause I'm gonna start hunting...",
+        "startTime": 48767,
+        "endTime": 51129,
+        "slowStartTime": 73300,
+        "slowEndTime": 76919
+    },
+    {
+        "text": "...and when I find you,...",
+        "startTime": 51537,
+        "endTime": 52487,
+        "slowStartTime": 77456,
+        "slowEndTime": 78956
+    },
+    {
+        "text": "...I'm gonna kill you all.",
+        "startTime": 53541,
+        "endTime": 54565,
+        "slowStartTime": 80462,
+        "slowEndTime": 82072
+    }
+]

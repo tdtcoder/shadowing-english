@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Hey, mom.",
+        "startTime": 227,
+        "endTime": 653,
+        "slowStartTime": 491,
+        "slowEndTime": 1205
+    },
+    {
+        "text": "Good afternoon, Marissa.",
+        "startTime": 800,
+        "endTime": 1989,
+        "slowStartTime": 1350,
+        "slowEndTime": 3209
+    },
+    {
+        "text": "Do you have a minute?",
+        "startTime": 2141,
+        "endTime": 2971,
+        "slowStartTime": 3362,
+        "slowEndTime": 4682
+    },
+    {
+        "text": "I'm here to assist you however I can.",
+        "startTime": 3190,
+        "endTime": 5472,
+        "slowStartTime": 4935,
+        "slowEndTime": 8433
+    },
+    {
+        "text": "So, I'm seeing this guy and things are going really well,...",
+        "startTime": 5605,
+        "endTime": 8407,
+        "slowStartTime": 8557,
+        "slowEndTime": 12835
+    },
+    {
+        "text": "...and then I texted him last night and he never wrote back.",
+        "startTime": 8557,
+        "endTime": 11779,
+        "slowStartTime": 12986,
+        "slowEndTime": 17893
+    },
+    {
+        "text": "Should I text him again?",
+        "startTime": 12083,
+        "endTime": 13171,
+        "slowStartTime": 18274,
+        "slowEndTime": 19981
+    },
+    {
+        "text": "Shall I text him for you?",
+        "startTime": 13365,
+        "endTime": 14794,
+        "slowStartTime": 20197,
+        "slowEndTime": 22416
+    },
+    {
+        "text": "No. No, that would be totally weird.",
+        "startTime": 15171,
+        "endTime": 18137,
+        "slowStartTime": 22907,
+        "slowEndTime": 27430
+    },
+    {
+        "text": "He mentioned something about a concert Friday night,...",
+        "startTime": 18586,
+        "endTime": 20512,
+        "slowStartTime": 28029,
+        "slowEndTime": 30993
+    },
+    {
+        "text": "...but he hasn't actually invited me yet.",
+        "startTime": 20752,
+        "endTime": 22650,
+        "slowStartTime": 31278,
+        "slowEndTime": 34200
+    },
+    {
+        "text": "Do you think I should make other plans?",
+        "startTime": 23133,
+        "endTime": 24575,
+        "slowStartTime": 34850,
+        "slowEndTime": 37087
+    },
+    {
+        "text": "Let me check your calendar.",
+        "startTime": 24710,
+        "endTime": 26118,
+        "slowStartTime": 37215,
+        "slowEndTime": 39402
+    },
+    {
+        "text": "At noon on Friday, you have a gynecologist appointment.",
+        "startTime": 26452,
+        "endTime": 29675,
+        "slowStartTime": 39828,
+        "slowEndTime": 44738
+    },
+    {
+        "text": "Yeah, I know.",
+        "startTime": 29786,
+        "endTime": 30876,
+        "slowStartTime": 44829,
+        "slowEndTime": 46539
+    },
+    {
+        "text": "The concert's at night.",
+        "startTime": 31167,
+        "endTime": 32239,
+        "slowStartTime": 46901,
+        "slowEndTime": 48584
+    },
+    {
+        "text": "I've been dying to see Florence and the Machine again.",
+        "startTime": 32630,
+        "endTime": 34693,
+        "slowStartTime": 49095,
+        "slowEndTime": 52265
+    },
+    {
+        "text": "They were so good last year.",
+        "startTime": 34790,
+        "endTime": 36366,
+        "slowStartTime": 52335,
+        "slowEndTime": 54774
+    },
+    {
+        "text": "Okay, your washing machine is dying.",
+        "startTime": 36449,
+        "endTime": 38334,
+        "slowStartTime": 54824,
+        "slowEndTime": 57726
+    },
+    {
+        "text": "The closest Sears Appliance Center is 0.5 miles away.",
+        "startTime": 38788,
+        "endTime": 42599,
+        "slowStartTime": 58332,
+        "slowEndTime": 64123
+    },
+    {
+        "text": "What? Mom, why don't you ever listen to me?",
+        "startTime": 42735,
+        "endTime": 45221,
+        "slowStartTime": 64253,
+        "slowEndTime": 68057
+    },
+    {
+        "text": "I'm really sorry about this, but I can't answer your question right now.",
+        "startTime": 45347,
+        "endTime": 49061,
+        "slowStartTime": 68170,
+        "slowEndTime": 73817
+    },
+    {
+        "text": "I'm just having a bad day and you're not helping.",
+        "startTime": 49182,
+        "endTime": 51510,
+        "slowStartTime": 73923,
+        "slowEndTime": 77490
+    },
+    {
+        "text": "I don't know what you mean by, \"I'm having a bad day.\"",
+        "startTime": 51635,
+        "endTime": 54458,
+        "slowStartTime": 77603,
+        "slowEndTime": 81912
+    },
+    {
+        "text": "Would you like me to search the web?",
+        "startTime": 54733,
+        "endTime": 56050,
+        "slowStartTime": 82249,
+        "slowEndTime": 84300
+    },
+    {
+        "text": "Search the web for what?",
+        "startTime": 56167,
+        "endTime": 58109,
+        "slowStartTime": 84400,
+        "slowEndTime": 87389
+    },
+    {
+        "text": "I found 9,544,110,700 entries for \"what.\"",
+        "startTime": 58356,
+        "endTime": 64989,
+        "slowStartTime": 87684,
+        "slowEndTime": 97709
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Here are some words used to talk about celebrities.",
+        "startTime": 798,
+        "endTime": 3997,
+        "slowStartTime": 1347,
+        "slowEndTime": 6221
+    },
+    {
+        "text": "Beyonce is a famous singer.",
+        "startTime": 6187,
+        "endTime": 8015,
+        "slowStartTime": 9430,
+        "slowEndTime": 12247
+    },
+    {
+        "text": "My sister likes Justin Bieber.",
+        "startTime": 11249,
+        "endTime": 13517,
+        "slowStartTime": 17023,
+        "slowEndTime": 20501
+    },
+    {
+        "text": "He is an actor in a TV show.",
+        "startTime": 16572,
+        "endTime": 18645,
+        "slowStartTime": 25008,
+        "slowEndTime": 28192
+    },
+    {
+        "text": "She wrote the Harry Potter books.",
+        "startTime": 21471,
+        "endTime": 23511,
+        "slowStartTime": 32356,
+        "slowEndTime": 35492
+    },
+    {
+        "text": "My favorite actress is Jennifer Lawrence.",
+        "startTime": 26076,
+        "endTime": 28622,
+        "slowStartTime": 39264,
+        "slowEndTime": 43158
+    },
+    {
+        "text": "The CEO of Facebook has a lot of money.",
+        "startTime": 30729,
+        "endTime": 34174,
+        "slowStartTime": 46244,
+        "slowEndTime": 51486
+    },
+    {
+        "text": "Obama was a popular president.",
+        "startTime": 35971,
+        "endTime": 38027,
+        "slowStartTime": 54107,
+        "slowEndTime": 57266
+    }
+]

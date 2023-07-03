@@ -1,0 +1,72 @@
+[
+    {
+        "text": "What is that?",
+        "startTime": 4789,
+        "endTime": 5936,
+        "slowStartTime": 7334,
+        "slowEndTime": 9129
+    },
+    {
+        "text": "That is the moon.",
+        "startTime": 6735,
+        "endTime": 8351,
+        "slowStartTime": 10252,
+        "slowEndTime": 12751
+    },
+    {
+        "text": "What is this thing?",
+        "startTime": 15281,
+        "endTime": 16346,
+        "slowStartTime": 23072,
+        "slowEndTime": 24744
+    },
+    {
+        "text": "This thing is an umbrella.",
+        "startTime": 16943,
+        "endTime": 18268,
+        "slowStartTime": 25565,
+        "slowEndTime": 27627
+    },
+    {
+        "text": "What are these things?",
+        "startTime": 20007,
+        "endTime": 21629,
+        "slowStartTime": 30160,
+        "slowEndTime": 32668
+    },
+    {
+        "text": "These things are pens.",
+        "startTime": 22273,
+        "endTime": 23957,
+        "slowStartTime": 33560,
+        "slowEndTime": 36160
+    },
+    {
+        "text": "What are they?",
+        "startTime": 30405,
+        "endTime": 31222,
+        "slowStartTime": 45758,
+        "slowEndTime": 47058
+    },
+    {
+        "text": "They are buses.",
+        "startTime": 32115,
+        "endTime": 33073,
+        "slowStartTime": 48323,
+        "slowEndTime": 49835
+    },
+    {
+        "text": "What is it?",
+        "startTime": 34980,
+        "endTime": 35891,
+        "slowStartTime": 52620,
+        "slowEndTime": 54062
+    },
+    {
+        "text": "It is a cat.",
+        "startTime": 36573,
+        "endTime": 37637,
+        "slowStartTime": 55009,
+        "slowEndTime": 56681
+    }
+]

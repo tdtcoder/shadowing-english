@@ -1,0 +1,51 @@
+[
+    {
+        "text": "What do you wanna get?",
+        "startTime": 1001,
+        "endTime": 1471,
+        "slowStartTime": 1651,
+        "slowEndTime": 2431
+    },
+    {
+        "text": "Ice cream.",
+        "startTime": 1938,
+        "endTime": 2422,
+        "slowStartTime": 3057,
+        "slowEndTime": 3858
+    },
+    {
+        "text": "Chocolate?",
+        "startTime": 3972,
+        "endTime": 4475,
+        "slowStartTime": 6108,
+        "slowEndTime": 6938
+    },
+    {
+        "text": "Yeah!",
+        "startTime": 4717,
+        "endTime": 5239,
+        "slowStartTime": 7226,
+        "slowEndTime": 8083
+    },
+    {
+        "text": "Let's go honey.",
+        "startTime": 6805,
+        "endTime": 7336,
+        "slowStartTime": 10357,
+        "slowEndTime": 11229
+    },
+    {
+        "text": "Together, we can find a child by signing up...",
+        "startTime": 23541,
+        "endTime": 25514,
+        "slowStartTime": 35461,
+        "slowEndTime": 38496
+    },
+    {
+        "text": "...for free wireless amber alerts on your cellphone.",
+        "startTime": 25596,
+        "endTime": 27815,
+        "slowStartTime": 38544,
+        "slowEndTime": 41948
+    }
+]

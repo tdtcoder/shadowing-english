@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Yummy! Who likes fast food?",
+        "startTime": 2331,
+        "endTime": 5926,
+        "slowStartTime": 3646,
+        "slowEndTime": 9114
+    },
+    {
+        "text": "Are you hungry?",
+        "startTime": 6455,
+        "endTime": 7776,
+        "slowStartTime": 9832,
+        "slowEndTime": 11889
+    },
+    {
+        "text": "What is your favorite McDonald's meal?",
+        "startTime": 8575,
+        "endTime": 11687,
+        "slowStartTime": 13012,
+        "slowEndTime": 17756
+    },
+    {
+        "text": "I like their Big Macs and milk shakes.",
+        "startTime": 12477,
+        "endTime": 15518,
+        "slowStartTime": 18865,
+        "slowEndTime": 23502
+    },
+    {
+        "text": "What are these people eating today?",
+        "startTime": 16405,
+        "endTime": 19087,
+        "slowStartTime": 24757,
+        "slowEndTime": 28855
+    },
+    {
+        "text": "You can see a Big Mac, McNuggets, two cokes,...",
+        "startTime": 20233,
+        "endTime": 24983,
+        "slowStartTime": 30499,
+        "slowEndTime": 37700
+    },
+    {
+        "text": "...two bags of French fries, and a corn cup.",
+        "startTime": 25368,
+        "endTime": 28963,
+        "slowStartTime": 38202,
+        "slowEndTime": 43670
+    },
+    {
+        "text": "Did we miss anything?",
+        "startTime": 29731,
+        "endTime": 31388,
+        "slowStartTime": 44747,
+        "slowEndTime": 47307
+    },
+    {
+        "text": "Yes, you can also see ketchup and curry sauce.",
+        "startTime": 32171,
+        "endTime": 36951,
+        "slowStartTime": 48406,
+        "slowEndTime": 55651
+    },
+    {
+        "text": "Do you prefer using the drive-thru,...",
+        "startTime": 38076,
+        "endTime": 40948,
+        "slowStartTime": 57264,
+        "slowEndTime": 61647
+    },
+    {
+        "text": "...or would you rather sit inside the restaurant?",
+        "startTime": 41459,
+        "endTime": 44863,
+        "slowStartTime": 62339,
+        "slowEndTime": 67519
+    },
+    {
+        "text": "People around the world recognize McDonald's golden letter \"M\".",
+        "startTime": 45896,
+        "endTime": 51557,
+        "slowStartTime": 68994,
+        "slowEndTime": 77561
+    },
+    {
+        "text": "The first McDonald's restaurant...",
+        "startTime": 52575,
+        "endTime": 55053,
+        "slowStartTime": 79013,
+        "slowEndTime": 82804
+    },
+    {
+        "text": "...was opened by two brothers in 1940, in California, USA.",
+        "startTime": 55427,
+        "endTime": 61994,
+        "slowStartTime": 83291,
+        "slowEndTime": 93216
+    },
+    {
+        "text": "Do you think that the McDonald brothers...",
+        "startTime": 63244,
+        "endTime": 66094,
+        "slowStartTime": 95016,
+        "slowEndTime": 99366
+    },
+    {
+        "text": "...thought their food would become so popular?",
+        "startTime": 66305,
+        "endTime": 69585,
+        "slowStartTime": 99607,
+        "slowEndTime": 104603
+    },
+    {
+        "text": "Wow!",
+        "startTime": 70255,
+        "endTime": 70962,
+        "slowStartTime": 105532,
+        "slowEndTime": 106668
+    }
+]

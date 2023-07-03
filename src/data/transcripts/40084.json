@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Here are some phrases you can use for talking about jobs.",
+        "startTime": 265,
+        "endTime": 3652,
+        "slowStartTime": 548,
+        "slowEndTime": 5703
+    },
+    {
+        "text": "What do you do?",
+        "startTime": 5403,
+        "endTime": 6250,
+        "slowStartTime": 8254,
+        "slowEndTime": 9600
+    },
+    {
+        "text": "I'm a...",
+        "startTime": 8257,
+        "endTime": 8878,
+        "slowStartTime": 12535,
+        "slowEndTime": 13542
+    },
+    {
+        "text": "I'm self-employed.",
+        "startTime": 11007,
+        "endTime": 12105,
+        "slowStartTime": 16661,
+        "slowEndTime": 18382
+    },
+    {
+        "text": "I have my own business.",
+        "startTime": 14116,
+        "endTime": 15544,
+        "slowStartTime": 21324,
+        "slowEndTime": 23541
+    },
+    {
+        "text": "Who do you work for?",
+        "startTime": 17566,
+        "endTime": 18614,
+        "slowStartTime": 26499,
+        "slowEndTime": 28146
+    },
+    {
+        "text": "I work for...",
+        "startTime": 20675,
+        "endTime": 21797,
+        "slowStartTime": 31163,
+        "slowEndTime": 32921
+    },
+    {
+        "text": "I work at...",
+        "startTime": 23667,
+        "endTime": 24604,
+        "slowStartTime": 35651,
+        "slowEndTime": 37131
+    },
+    {
+        "text": "Where do you work?",
+        "startTime": 26503,
+        "endTime": 27395,
+        "slowStartTime": 39904,
+        "slowEndTime": 41318
+    },
+    {
+        "text": "I work in....",
+        "startTime": 29183,
+        "endTime": 30086,
+        "slowStartTime": 43925,
+        "slowEndTime": 45354
+    },
+    {
+        "text": "I've got a full-time job.",
+        "startTime": 31886,
+        "endTime": 33380,
+        "slowStartTime": 47979,
+        "slowEndTime": 50295
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "text": "﻿George.",
+        "startTime": 5140,
+        "endTime": 6129,
+        "slowStartTime": 7860,
+        "slowEndTime": 9418
+    },
+    {
+        "text": "George has been monkeying around in the supermarket.",
+        "startTime": 7433,
+        "endTime": 9972,
+        "slowStartTime": 11299,
+        "slowEndTime": 15183
+    },
+    {
+        "text": "Can you help him put each grocery item back where it belongs?",
+        "startTime": 10588,
+        "endTime": 14096,
+        "slowStartTime": 16032,
+        "slowEndTime": 21369
+    },
+    {
+        "text": "That looks perfect.",
+        "startTime": 27395,
+        "endTime": 28451,
+        "slowStartTime": 41243,
+        "slowEndTime": 42901
+    },
+    {
+        "text": "Thanks for helping George.",
+        "startTime": 29016,
+        "endTime": 30341,
+        "slowStartTime": 43674,
+        "slowEndTime": 45737
+    },
+    {
+        "text": "George?",
+        "startTime": 31105,
+        "endTime": 31547,
+        "slowStartTime": 46808,
+        "slowEndTime": 47546
+    },
+    {
+        "text": "George!",
+        "startTime": 32531,
+        "endTime": 33324,
+        "slowStartTime": 48946,
+        "slowEndTime": 50211
+    },
+    {
+        "text": "Not again.",
+        "startTime": 41132,
+        "endTime": 41947,
+        "slowStartTime": 61848,
+        "slowEndTime": 63146
+    },
+    {
+        "text": "Now, the fruits and vegetables are all mixed up.",
+        "startTime": 42628,
+        "endTime": 45275,
+        "slowStartTime": 64092,
+        "slowEndTime": 68138
+    },
+    {
+        "text": "George needs your help to get the produce section back in order.",
+        "startTime": 45974,
+        "endTime": 49281,
+        "slowStartTime": 69111,
+        "slowEndTime": 74147
+    },
+    {
+        "text": "There are still more to put away.",
+        "startTime": 63682,
+        "endTime": 65152,
+        "slowStartTime": 95673,
+        "slowEndTime": 97953
+    },
+    {
+        "text": "Nice job.",
+        "startTime": 77562,
+        "endTime": 78587,
+        "slowStartTime": 116493,
+        "slowEndTime": 118106
+    },
+    {
+        "text": "Everything is right where it belongs.",
+        "startTime": 78920,
+        "endTime": 80761,
+        "slowStartTime": 118530,
+        "slowEndTime": 121366
+    }
+]

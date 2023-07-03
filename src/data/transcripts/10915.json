@@ -1,0 +1,184 @@
+[
+    {
+        "text": "Hi! My name is Danica McKellar.",
+        "startTime": 350,
+        "endTime": 2000,
+        "slowStartTime": 800,
+        "slowEndTime": 3200
+    },
+    {
+        "text": "I'm the author of this math book called \"Math Doesn't Suck\"...",
+        "startTime": 2200,
+        "endTime": 5250,
+        "slowStartTime": 3550,
+        "slowEndTime": 8100
+    },
+    {
+        "text": "...to help middle school girls with math.",
+        "startTime": 5700,
+        "endTime": 7450,
+        "slowStartTime": 8800,
+        "slowEndTime": 11400
+    },
+    {
+        "text": "And I'd like to tell you how to pronounce some numbers in English.",
+        "startTime": 7950,
+        "endTime": 11800,
+        "slowStartTime": 12100,
+        "slowEndTime": 17900
+    },
+    {
+        "text": "525...",
+        "startTime": 13350,
+        "endTime": 15000,
+        "slowStartTime": 20250,
+        "slowEndTime": 22700
+    },
+    {
+        "text": "...times 10,056...",
+        "startTime": 15300,
+        "endTime": 18050,
+        "slowStartTime": 23200,
+        "slowEndTime": 27300
+    },
+    {
+        "text": "...equals...",
+        "startTime": 18450,
+        "endTime": 19200,
+        "slowStartTime": 27900,
+        "slowEndTime": 29000
+    },
+    {
+        "text": "...5,279,400.",
+        "startTime": 19600,
+        "endTime": 23700,
+        "slowStartTime": 29500,
+        "slowEndTime": 35800
+    },
+    {
+        "text": "Now, some fractions.",
+        "startTime": 24800,
+        "endTime": 25800,
+        "slowStartTime": 37400,
+        "slowEndTime": 39000
+    },
+    {
+        "text": "2/3...",
+        "startTime": 26450,
+        "endTime": 27450,
+        "slowStartTime": 39900,
+        "slowEndTime": 41400
+    },
+    {
+        "text": "...times 4/5...",
+        "startTime": 27550,
+        "endTime": 29550,
+        "slowStartTime": 41550,
+        "slowEndTime": 44500
+    },
+    {
+        "text": "...equals 8/15.",
+        "startTime": 29800,
+        "endTime": 32050,
+        "slowStartTime": 44900,
+        "slowEndTime": 48300
+    },
+    {
+        "text": "1 3/7...",
+        "startTime": 33450,
+        "endTime": 35150,
+        "slowStartTime": 50400,
+        "slowEndTime": 52900
+    },
+    {
+        "text": "...times 1/3...",
+        "startTime": 35550,
+        "endTime": 37200,
+        "slowStartTime": 53550,
+        "slowEndTime": 56100
+    },
+    {
+        "text": "...equals 10/21.",
+        "startTime": 37500,
+        "endTime": 39900,
+        "slowStartTime": 56400,
+        "slowEndTime": 60100
+    },
+    {
+        "text": "5,010...",
+        "startTime": 41550,
+        "endTime": 43100,
+        "slowStartTime": 62500,
+        "slowEndTime": 65000
+    },
+    {
+        "text": "...divided by 200...",
+        "startTime": 43550,
+        "endTime": 45700,
+        "slowStartTime": 65550,
+        "slowEndTime": 68800
+    },
+    {
+        "text": "...equals 25.05.",
+        "startTime": 46100,
+        "endTime": 49500,
+        "slowStartTime": 69400,
+        "slowEndTime": 74600
+    },
+    {
+        "text": "5.05...",
+        "startTime": 50800,
+        "endTime": 52650,
+        "slowStartTime": 76400,
+        "slowEndTime": 79200
+    },
+    {
+        "text": "...times 7.009...",
+        "startTime": 52950,
+        "endTime": 56800,
+        "slowStartTime": 79600,
+        "slowEndTime": 85500
+    },
+    {
+        "text": "...equals 35.39545.",
+        "startTime": 57150,
+        "endTime": 62150,
+        "slowStartTime": 85900,
+        "slowEndTime": 93400
+    },
+    {
+        "text": "Some more fractions.",
+        "startTime": 63300,
+        "endTime": 64400,
+        "slowStartTime": 95100,
+        "slowEndTime": 96800
+    },
+    {
+        "text": "4/8 is greater than 3/8...",
+        "startTime": 65100,
+        "endTime": 68400,
+        "slowStartTime": 97850,
+        "slowEndTime": 102800
+    },
+    {
+        "text": "...and 15/24 is less than 16/24.",
+        "startTime": 69200,
+        "endTime": 74050,
+        "slowStartTime": 104000,
+        "slowEndTime": 111300
+    },
+    {
+        "text": "I hope this has been helpful.",
+        "startTime": 74350,
+        "endTime": 75550,
+        "slowStartTime": 111800,
+        "slowEndTime": 113500
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 76650,
+        "endTime": 77200,
+        "slowStartTime": 115200,
+        "slowEndTime": 116000
+    }
+]

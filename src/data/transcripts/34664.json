@@ -1,0 +1,107 @@
+[
+    {
+        "text": "The latest reports put the death toll for the coronavirus at more than 1,000, mostly in China,...",
+        "startTime": 5233,
+        "endTime": 12137,
+        "slowStartTime": 8000,
+        "slowEndTime": 18431
+    },
+    {
+        "text": "...making the situation larger than the SARS outbreak nearly 20 years ago.",
+        "startTime": 12669,
+        "endTime": 17495,
+        "slowStartTime": 19153,
+        "slowEndTime": 26468
+    },
+    {
+        "text": "In Syria, nearly 700,000 people have been displaced since early December...",
+        "startTime": 21263,
+        "endTime": 27393,
+        "slowStartTime": 32045,
+        "slowEndTime": 41314
+    },
+    {
+        "text": "...due to increasing conflict across the country, described by the United Nations...",
+        "startTime": 27917,
+        "endTime": 33278,
+        "slowStartTime": 42025,
+        "slowEndTime": 50142
+    },
+    {
+        "text": "...as \"the biggest displacement crisis in the world.\"",
+        "startTime": 33665,
+        "endTime": 36512,
+        "slowStartTime": 50648,
+        "slowEndTime": 54993
+    },
+    {
+        "text": "In Sudan, the Sudanese government and rebel groups from Darfur...",
+        "startTime": 41063,
+        "endTime": 45398,
+        "slowStartTime": 61745,
+        "slowEndTime": 68322
+    },
+    {
+        "text": "...jointly agreed that all those wanted by the International Criminal Court...",
+        "startTime": 45937,
+        "endTime": 50001,
+        "slowStartTime": 69055,
+        "slowEndTime": 75226
+    },
+    {
+        "text": "...should appear before the tribunal.",
+        "startTime": 50445,
+        "endTime": 52307,
+        "slowStartTime": 75817,
+        "slowEndTime": 78685
+    },
+    {
+        "text": "Among those wanted is former ousted president Omar al-Bashir.",
+        "startTime": 53212,
+        "endTime": 57738,
+        "slowStartTime": 79968,
+        "slowEndTime": 86832
+    },
+    {
+        "text": "In Lebanon, security forces used tear gas and a water cannon against protesters...",
+        "startTime": 61403,
+        "endTime": 67442,
+        "slowStartTime": 92255,
+        "slowEndTime": 101388
+    },
+    {
+        "text": "...who gathered outside Parliament to protest an upcoming vote on the country's financial crisis.",
+        "startTime": 67873,
+        "endTime": 73890,
+        "slowStartTime": 101959,
+        "slowEndTime": 111060
+    },
+    {
+        "text": "Finally from Britain, the government has approved the High Speed 2 rail project,...",
+        "startTime": 75667,
+        "endTime": 80866,
+        "slowStartTime": 113650,
+        "slowEndTime": 121524
+    },
+    {
+        "text": "...Prime Minister Boris Johnson announced.",
+        "startTime": 81346,
+        "endTime": 83426,
+        "slowStartTime": 122169,
+        "slowEndTime": 125364
+    },
+    {
+        "text": "The plan was originally approved a decade ago,...",
+        "startTime": 83956,
+        "endTime": 86831,
+        "slowStartTime": 126084,
+        "slowEndTime": 130472
+    },
+    {
+        "text": "...but has now been adjusted to finish by 2030, with a projected cost reaching 137 billion dollars.",
+        "startTime": 87191,
+        "endTime": 94787,
+        "slowStartTime": 130936,
+        "slowEndTime": 142406
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "text": "I'm never going to get this done on time.",
+        "startTime": 2901,
+        "endTime": 5265,
+        "slowStartTime": 4501,
+        "slowEndTime": 8122
+    },
+    {
+        "text": "Come on! Of course you are.",
+        "startTime": 5375,
+        "endTime": 6798,
+        "slowStartTime": 8212,
+        "slowEndTime": 10422
+    },
+    {
+        "text": "No, I'm not.",
+        "startTime": 6934,
+        "endTime": 8114,
+        "slowStartTime": 10551,
+        "slowEndTime": 12396
+    },
+    {
+        "text": "I've barely scratched the surface.",
+        "startTime": 8234,
+        "endTime": 10127,
+        "slowStartTime": 12501,
+        "slowEndTime": 15416
+    },
+    {
+        "text": "This is going to take forever.",
+        "startTime": 10304,
+        "endTime": 11811,
+        "slowStartTime": 15606,
+        "slowEndTime": 17942
+    },
+    {
+        "text": "Nothing takes forever.",
+        "startTime": 11965,
+        "endTime": 13224,
+        "slowStartTime": 18098,
+        "slowEndTime": 20061
+    },
+    {
+        "text": "Just put your mind on it and it'll be finished before you know it.",
+        "startTime": 13325,
+        "endTime": 16345,
+        "slowStartTime": 20137,
+        "slowEndTime": 24742
+    },
+    {
+        "text": "I wish I could be as optimistic as you, but I can't.",
+        "startTime": 16651,
+        "endTime": 19861,
+        "slowStartTime": 25127,
+        "slowEndTime": 30017
+    },
+    {
+        "text": "My boss is going to kill me!",
+        "startTime": 20073,
+        "endTime": 21743,
+        "slowStartTime": 30259,
+        "slowEndTime": 32839
+    },
+    {
+        "text": "No, he's not.",
+        "startTime": 21859,
+        "endTime": 22706,
+        "slowStartTime": 32939,
+        "slowEndTime": 34284
+    },
+    {
+        "text": "He won't have any reason to because you're going to do a great job on it.",
+        "startTime": 22841,
+        "endTime": 26436,
+        "slowStartTime": 34412,
+        "slowEndTime": 39879
+    },
+    {
+        "text": "Get real! Here, just take a look at all this.",
+        "startTime": 26846,
+        "endTime": 30116,
+        "slowStartTime": 40419,
+        "slowEndTime": 45399
+    },
+    {
+        "text": "Let's see ... yeah, it's a lot of work, but you can get it done.",
+        "startTime": 30391,
+        "endTime": 34315,
+        "slowStartTime": 45736,
+        "slowEndTime": 51698
+    },
+    {
+        "text": "I've seen you do it before.",
+        "startTime": 34509,
+        "endTime": 35765,
+        "slowStartTime": 51913,
+        "slowEndTime": 53872
+    },
+    {
+        "text": "That was before. This is now.",
+        "startTime": 36053,
+        "endTime": 38383,
+        "slowStartTime": 54230,
+        "slowEndTime": 57800
+    },
+    {
+        "text": "This is a monumental project.",
+        "startTime": 38544,
+        "endTime": 40455,
+        "slowStartTime": 57966,
+        "slowEndTime": 60908
+    },
+    {
+        "text": "Well, you know,...",
+        "startTime": 40580,
+        "endTime": 41464,
+        "slowStartTime": 61020,
+        "slowEndTime": 62421
+    },
+    {
+        "text": "...you're not helping yourself out by talking about it.",
+        "startTime": 41651,
+        "endTime": 44033,
+        "slowStartTime": 62627,
+        "slowEndTime": 66275
+    },
+    {
+        "text": "Just start doing it!",
+        "startTime": 44251,
+        "endTime": 45184,
+        "slowStartTime": 66526,
+        "slowEndTime": 68001
+    },
+    {
+        "text": "All right, I guess you're right.",
+        "startTime": 45413,
+        "endTime": 47344,
+        "slowStartTime": 68269,
+        "slowEndTime": 71241
+    },
+    {
+        "text": "But you've got to help me find a new job after I get canned from this one.",
+        "startTime": 47555,
+        "endTime": 51645,
+        "slowStartTime": 71483,
+        "slowEndTime": 77693
+    }
+]

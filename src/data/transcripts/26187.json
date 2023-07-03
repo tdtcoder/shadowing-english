@@ -1,0 +1,100 @@
+[
+    {
+        "text": "We've all imagined it:...",
+        "startTime": 9074,
+        "endTime": 9946,
+        "slowStartTime": 13761,
+        "slowEndTime": 15144
+    },
+    {
+        "text": "...a world where robots do every job going.",
+        "startTime": 10325,
+        "endTime": 12529,
+        "slowStartTime": 15638,
+        "slowEndTime": 19019
+    },
+    {
+        "text": "Well, imagine no more, because in a remote part of Japan,...",
+        "startTime": 13282,
+        "endTime": 16266,
+        "slowStartTime": 20073,
+        "slowEndTime": 24624
+    },
+    {
+        "text": "...some sense of that future can be experienced at a robot hotel.",
+        "startTime": 16489,
+        "endTime": 19940,
+        "slowStartTime": 24884,
+        "slowEndTime": 30135
+    },
+    {
+        "text": "Welcome to the Henn-na Hotel.",
+        "startTime": 21325,
+        "endTime": 22915,
+        "slowStartTime": 32138,
+        "slowEndTime": 34598
+    },
+    {
+        "text": "Enjoy your comfortable stay.",
+        "startTime": 23915,
+        "endTime": 25913,
+        "slowStartTime": 36022,
+        "slowEndTime": 39095
+    },
+    {
+        "text": "I will enjoy my comfortable stay.",
+        "startTime": 26586,
+        "endTime": 28245,
+        "slowStartTime": 40029,
+        "slowEndTime": 42592
+    },
+    {
+        "text": "Thank you, robot.",
+        "startTime": 28425,
+        "endTime": 29249,
+        "slowStartTime": 42788,
+        "slowEndTime": 44098
+    },
+    {
+        "text": "Japan already employs over a quarter of a million industrial robot workers,...",
+        "startTime": 31202,
+        "endTime": 35119,
+        "slowStartTime": 46953,
+        "slowEndTime": 52903
+    },
+    {
+        "text": "...more than any other nation, in an effort to counter high labor costs.",
+        "startTime": 35423,
+        "endTime": 39102,
+        "slowStartTime": 53284,
+        "slowEndTime": 58878
+    },
+    {
+        "text": "Big business would like to see that number go up to a million over the next 15 years.",
+        "startTime": 39774,
+        "endTime": 44158,
+        "slowStartTime": 59811,
+        "slowEndTime": 66462
+    },
+    {
+        "text": "But as developers get better at building humanoid robots,...",
+        "startTime": 44805,
+        "endTime": 47779,
+        "slowStartTime": 67358,
+        "slowEndTime": 71894
+    },
+    {
+        "text": "...bosses in the service and entertainment industries,...",
+        "startTime": 48113,
+        "endTime": 50358,
+        "slowStartTime": 72320,
+        "slowEndTime": 75762
+    },
+    {
+        "text": "...are eyeing up ways to automate their workforce, too.",
+        "startTime": 50686,
+        "endTime": 53391,
+        "slowStartTime": 76179,
+        "slowEndTime": 80312
+    }
+]

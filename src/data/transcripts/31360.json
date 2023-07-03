@@ -1,0 +1,86 @@
+[
+    {
+        "text": "﻿Megan plays basketball.",
+        "startTime": 5199,
+        "endTime": 6911,
+        "slowStartTime": 7949,
+        "slowEndTime": 10591
+    },
+    {
+        "text": "She plays it.",
+        "startTime": 7810,
+        "endTime": 8699,
+        "slowStartTime": 11865,
+        "slowEndTime": 13274
+    },
+    {
+        "text": "Joey is with his friends.",
+        "startTime": 10266,
+        "endTime": 11824,
+        "slowStartTime": 15549,
+        "slowEndTime": 17961
+    },
+    {
+        "text": "He is with them.",
+        "startTime": 12347,
+        "endTime": 13809,
+        "slowStartTime": 18671,
+        "slowEndTime": 20938
+    },
+    {
+        "text": "Jeff and Albert talk to Amanda.",
+        "startTime": 15293,
+        "endTime": 17719,
+        "slowStartTime": 23089,
+        "slowEndTime": 26804
+    },
+    {
+        "text": "They talk to her.",
+        "startTime": 18683,
+        "endTime": 19836,
+        "slowStartTime": 28174,
+        "slowEndTime": 29979
+    },
+    {
+        "text": "Bill catches a butterfly.",
+        "startTime": 21431,
+        "endTime": 22991,
+        "slowStartTime": 32296,
+        "slowEndTime": 34712
+    },
+    {
+        "text": "He catches it.",
+        "startTime": 23754,
+        "endTime": 25067,
+        "slowStartTime": 35781,
+        "slowEndTime": 37825
+    },
+    {
+        "text": "Mr. Jones teaches the students.",
+        "startTime": 26375,
+        "endTime": 28617,
+        "slowStartTime": 39713,
+        "slowEndTime": 43150
+    },
+    {
+        "text": "He teaches them.",
+        "startTime": 29147,
+        "endTime": 30541,
+        "slowStartTime": 43870,
+        "slowEndTime": 46037
+    },
+    {
+        "text": "Tina shares with Jack.",
+        "startTime": 32151,
+        "endTime": 33695,
+        "slowStartTime": 48376,
+        "slowEndTime": 50768
+    },
+    {
+        "text": "She shares with him.",
+        "startTime": 34275,
+        "endTime": 35835,
+        "slowStartTime": 51562,
+        "slowEndTime": 53977
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Changmin, you said you're from Korea, right?",
+        "startTime": 1537,
+        "endTime": 4215,
+        "slowStartTime": 2456,
+        "slowEndTime": 6548
+    },
+    {
+        "text": "Where in Korea are you from?",
+        "startTime": 4500,
+        "endTime": 6089,
+        "slowStartTime": 6900,
+        "slowEndTime": 9359
+    },
+    {
+        "text": "I'm from Busan. It's the second largest city in Korea.",
+        "startTime": 6314,
+        "endTime": 9788,
+        "slowStartTime": 9621,
+        "slowEndTime": 14907
+    },
+    {
+        "text": "When did you come to the States?",
+        "startTime": 10308,
+        "endTime": 11896,
+        "slowStartTime": 15612,
+        "slowEndTime": 18069
+    },
+    {
+        "text": "I just got here a month ago.",
+        "startTime": 12136,
+        "endTime": 13713,
+        "slowStartTime": 18354,
+        "slowEndTime": 20794
+    },
+    {
+        "text": "Really? Wow, but your English is so good.",
+        "startTime": 14234,
+        "endTime": 17407,
+        "slowStartTime": 21501,
+        "slowEndTime": 26336
+    },
+    {
+        "text": "Thank you. How long have you been studying at Columbia, Kathy?",
+        "startTime": 17590,
+        "endTime": 21206,
+        "slowStartTime": 26535,
+        "slowEndTime": 32034
+    },
+    {
+        "text": "This is my second year. I'm a sophomore.",
+        "startTime": 21601,
+        "endTime": 24158,
+        "slowStartTime": 32552,
+        "slowEndTime": 36462
+    },
+    {
+        "text": "And what do you study?",
+        "startTime": 24491,
+        "endTime": 25664,
+        "slowStartTime": 36886,
+        "slowEndTime": 38721
+    },
+    {
+        "text": "I study philosophy.",
+        "startTime": 26020,
+        "endTime": 27428,
+        "slowStartTime": 39180,
+        "slowEndTime": 41367
+    },
+    {
+        "text": "Are you from New York?",
+        "startTime": 27901,
+        "endTime": 28979,
+        "slowStartTime": 42002,
+        "slowEndTime": 43694
+    },
+    {
+        "text": "Yes, I'm from Long Island. But I am originally from England.",
+        "startTime": 29436,
+        "endTime": 33052,
+        "slowStartTime": 44304,
+        "slowEndTime": 49803
+    },
+    {
+        "text": "How about your family? Where do they live?",
+        "startTime": 33353,
+        "endTime": 35766,
+        "slowStartTime": 50179,
+        "slowEndTime": 53874
+    },
+    {
+        "text": "I'm from a big family, and they all live in England.",
+        "startTime": 36063,
+        "endTime": 39088,
+        "slowStartTime": 54245,
+        "slowEndTime": 58857
+    }
+]

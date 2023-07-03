@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Next, please. What can I get for you today?",
+        "startTime": 2935,
+        "endTime": 5657,
+        "slowStartTime": 4553,
+        "slowEndTime": 8710
+    },
+    {
+        "text": "Could I get a double cheeseburger, please?",
+        "startTime": 5941,
+        "endTime": 7881,
+        "slowStartTime": 9061,
+        "slowEndTime": 12046
+    },
+    {
+        "text": "Okay, one double cheeseburger.",
+        "startTime": 8100,
+        "endTime": 10279,
+        "slowStartTime": 12300,
+        "slowEndTime": 15643
+    },
+    {
+        "text": "Would you like fries with that?",
+        "startTime": 10472,
+        "endTime": 11818,
+        "slowStartTime": 15858,
+        "slowEndTime": 17952
+    },
+    {
+        "text": "Um, sure. I'll have a small fries with that.",
+        "startTime": 12177,
+        "endTime": 14701,
+        "slowStartTime": 18415,
+        "slowEndTime": 22277
+    },
+    {
+        "text": "And, what would you like to drink with your burger and fries?",
+        "startTime": 15079,
+        "endTime": 18018,
+        "slowStartTime": 22768,
+        "slowEndTime": 27252
+    },
+    {
+        "text": "I'll take a small cola.",
+        "startTime": 18201,
+        "endTime": 19527,
+        "slowStartTime": 27451,
+        "slowEndTime": 29516
+    },
+    {
+        "text": "Sir, if you pay 25 cents more,...",
+        "startTime": 19805,
+        "endTime": 22584,
+        "slowStartTime": 29857,
+        "slowEndTime": 34101
+    },
+    {
+        "text": "...you can have a large drink and fries with that.",
+        "startTime": 22745,
+        "endTime": 25079,
+        "slowStartTime": 34267,
+        "slowEndTime": 37843
+    },
+    {
+        "text": "Really? For only 25 cents more?",
+        "startTime": 25225,
+        "endTime": 27455,
+        "slowStartTime": 37987,
+        "slowEndTime": 41408
+    },
+    {
+        "text": "Well, okay then. I'll do that.",
+        "startTime": 27819,
+        "endTime": 30031,
+        "slowStartTime": 41879,
+        "slowEndTime": 45272
+    },
+    {
+        "text": "Okay. Is that for here or to go?",
+        "startTime": 30252,
+        "endTime": 32577,
+        "slowStartTime": 45528,
+        "slowEndTime": 49091
+    },
+    {
+        "text": "For here, please.",
+        "startTime": 32806,
+        "endTime": 33535,
+        "slowStartTime": 49359,
+        "slowEndTime": 50528
+    },
+    {
+        "text": "Okay. That'll be six dollars 95 cents, please.",
+        "startTime": 33763,
+        "endTime": 37146,
+        "slowStartTime": 50795,
+        "slowEndTime": 55944
+    },
+    {
+        "text": "Here you go.",
+        "startTime": 37421,
+        "endTime": 38186,
+        "slowStartTime": 56281,
+        "slowEndTime": 57504
+    }
+]

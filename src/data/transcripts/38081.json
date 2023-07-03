@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Hi! I'm Leo.",
+        "startTime": 478,
+        "endTime": 1950,
+        "slowStartTime": 867,
+        "slowEndTime": 3150
+    },
+    {
+        "text": "Dancing is my hobby.",
+        "startTime": 2906,
+        "endTime": 4243,
+        "slowStartTime": 4509,
+        "slowEndTime": 6590
+    },
+    {
+        "text": "In my free time, I travel with my friends.",
+        "startTime": 5275,
+        "endTime": 8231,
+        "slowStartTime": 8063,
+        "slowEndTime": 12572
+    },
+    {
+        "text": "I also enjoy going to the beach.",
+        "startTime": 8840,
+        "endTime": 10659,
+        "slowStartTime": 13410,
+        "slowEndTime": 16213
+    },
+    {
+        "text": "When I'm not busy, I like to read and write poems.",
+        "startTime": 11326,
+        "endTime": 15091,
+        "slowStartTime": 17139,
+        "slowEndTime": 22861
+    },
+    {
+        "text": "I also think drawing is fun and enjoyable.",
+        "startTime": 16187,
+        "endTime": 18947,
+        "slowStartTime": 24431,
+        "slowEndTime": 28645
+    },
+    {
+        "text": "When I want to relax, I watch TV...",
+        "startTime": 19754,
+        "endTime": 22377,
+        "slowStartTime": 29781,
+        "slowEndTime": 33790
+    },
+    {
+        "text": "...or go running outside.",
+        "startTime": 22942,
+        "endTime": 24160,
+        "slowStartTime": 34563,
+        "slowEndTime": 36465
+    },
+    {
+        "text": "What about you?",
+        "startTime": 24806,
+        "endTime": 25555,
+        "slowStartTime": 37359,
+        "slowEndTime": 38558
+    },
+    {
+        "text": "What are your hobbies?",
+        "startTime": 26078,
+        "endTime": 27305,
+        "slowStartTime": 39267,
+        "slowEndTime": 41183
+    }
+]

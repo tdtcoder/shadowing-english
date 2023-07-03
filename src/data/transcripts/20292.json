@@ -1,0 +1,184 @@
+[
+    {
+        "text": "﻿The primary flight controls are the ailerons, rudder and elevator.",
+        "startTime": 4017,
+        "endTime": 7989,
+        "slowStartTime": 6175,
+        "slowEndTime": 12209
+    },
+    {
+        "text": "Ailerons control roll about the airplane's longitudinal axis,...",
+        "startTime": 8797,
+        "endTime": 12705,
+        "slowStartTime": 13345,
+        "slowEndTime": 19283
+    },
+    {
+        "text": "...which runs through the nose and tail.",
+        "startTime": 12818,
+        "endTime": 14657,
+        "slowStartTime": 19377,
+        "slowEndTime": 22211
+    },
+    {
+        "text": "The ailerons are attached to the outboard trailing edge of each wing...",
+        "startTime": 15327,
+        "endTime": 18987,
+        "slowStartTime": 23140,
+        "slowEndTime": 28706
+    },
+    {
+        "text": "...and move in opposite directions from each other.",
+        "startTime": 19058,
+        "endTime": 21421,
+        "slowStartTime": 28737,
+        "slowEndTime": 32356
+    },
+    {
+        "text": "The rudder controls movement of the airplane about its vertical axis,...",
+        "startTime": 23022,
+        "endTime": 26431,
+        "slowStartTime": 34683,
+        "slowEndTime": 39872
+    },
+    {
+        "text": "...which runs to the top and bottom of the airplane.",
+        "startTime": 26540,
+        "endTime": 28841,
+        "slowStartTime": 39960,
+        "slowEndTime": 43486
+    },
+    {
+        "text": "This motion is referred to as yaw.",
+        "startTime": 29575,
+        "endTime": 31457,
+        "slowStartTime": 44512,
+        "slowEndTime": 47411
+    },
+    {
+        "text": "Elevator controls pitch about the lateral axis which runs through the wing tips.",
+        "startTime": 33163,
+        "endTime": 38395,
+        "slowStartTime": 49894,
+        "slowEndTime": 57818
+    },
+    {
+        "text": "In most small airplanes, the ailerons, rudder and elevators are connected...",
+        "startTime": 39628,
+        "endTime": 44031,
+        "slowStartTime": 59592,
+        "slowEndTime": 66271
+    },
+    {
+        "text": "...to the airplane's control wheels mechanically through cables and pulleys...",
+        "startTime": 44107,
+        "endTime": 47989,
+        "slowStartTime": 66311,
+        "slowEndTime": 72209
+    },
+    {
+        "text": "Secondary flight controls include flaps and trim.",
+        "startTime": 51734,
+        "endTime": 54599,
+        "slowStartTime": 77751,
+        "slowEndTime": 82123
+    },
+    {
+        "text": "Flaps extend from the lower surface of the wings, increasing lift and drag.",
+        "startTime": 55949,
+        "endTime": 60257,
+        "slowStartTime": 84074,
+        "slowEndTime": 90611
+    },
+    {
+        "text": "There are four common flap types:...",
+        "startTime": 60769,
+        "endTime": 62577,
+        "slowStartTime": 91303,
+        "slowEndTime": 94091
+    },
+    {
+        "text": "...plain, which simply angles downward on a hinge,...",
+        "startTime": 63288,
+        "endTime": 66140,
+        "slowStartTime": 95082,
+        "slowEndTime": 99435
+    },
+    {
+        "text": "...split flaps, which increase lift and drag more than plain flaps,...",
+        "startTime": 66756,
+        "endTime": 70609,
+        "slowStartTime": 100284,
+        "slowEndTime": 106138
+    },
+    {
+        "text": "...slotted flaps, which increase lift a great deal more than plain or split flaps...",
+        "startTime": 71099,
+        "endTime": 75500,
+        "slowStartTime": 106799,
+        "slowEndTime": 113475
+    },
+    {
+        "text": "...by allowing high-pressure air from below, up and over the flaps...",
+        "startTime": 75613,
+        "endTime": 79418,
+        "slowStartTime": 113569,
+        "slowEndTime": 119352
+    },
+    {
+        "text": "...and Fowler flaps, a type of slotted flap which extends rearward and downward.",
+        "startTime": 80225,
+        "endTime": 85193,
+        "slowStartTime": 120487,
+        "slowEndTime": 128014
+    },
+    {
+        "text": "Trim consists of a small tab attached to the primary flight control by a hinge.",
+        "startTime": 86861,
+        "endTime": 91625,
+        "slowStartTime": 130441,
+        "slowEndTime": 137663
+    },
+    {
+        "text": "Airplanes have roll trim, rudder trim and or elevator trim.",
+        "startTime": 92513,
+        "endTime": 96065,
+        "slowStartTime": 138920,
+        "slowEndTime": 144322
+    },
+    {
+        "text": "As the airplane is flown in different speeds and configurations,...",
+        "startTime": 96841,
+        "endTime": 99901,
+        "slowStartTime": 145412,
+        "slowEndTime": 150077
+    },
+    {
+        "text": "...it will tend to pitch, roll or yaw, requiring the pilot to place a continuous force...",
+        "startTime": 99971,
+        "endTime": 104932,
+        "slowStartTime": 150106,
+        "slowEndTime": 157623
+    },
+    {
+        "text": "...on the controls in order to keep the airplane in the desired orientation.",
+        "startTime": 105320,
+        "endTime": 108978,
+        "slowStartTime": 158130,
+        "slowEndTime": 163692
+    },
+    {
+        "text": "By using trim, the pilot is able to relieve these flight control pressures,...",
+        "startTime": 110373,
+        "endTime": 114249,
+        "slowStartTime": 165709,
+        "slowEndTime": 171598
+    },
+    {
+        "text": "...which reduces workload.",
+        "startTime": 114493,
+        "endTime": 115759,
+        "slowStartTime": 171890,
+        "slowEndTime": 173863
+    }
+]

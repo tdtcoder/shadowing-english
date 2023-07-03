@@ -1,0 +1,254 @@
+[
+    {
+        "text": "\"This is the way to travel,\" Toad said.",
+        "startTime": 2160,
+        "endTime": 5170,
+        "slowStartTime": 3340,
+        "slowEndTime": 7660
+    },
+    {
+        "text": "\"Moving slowly through the countryside, enjoying the scenery.\"",
+        "startTime": 5730,
+        "endTime": 9400,
+        "slowStartTime": 8690,
+        "slowEndTime": 14030
+    },
+    {
+        "text": "Suddenly, there was a roaring sound and a car raced toward the caravan.",
+        "startTime": 9770,
+        "endTime": 14110,
+        "slowStartTime": 14760,
+        "slowEndTime": 21200
+    },
+    {
+        "text": "\"Toot! Toot!\" The driver sounded the car's horn. \"Toot! Toot!\"",
+        "startTime": 14880,
+        "endTime": 19320,
+        "slowStartTime": 22400,
+        "slowEndTime": 29010
+    },
+    {
+        "text": "Toad fell off the seat and into a bush.",
+        "startTime": 19780,
+        "endTime": 22220,
+        "slowStartTime": 29840,
+        "slowEndTime": 33360
+    },
+    {
+        "text": "Mole and Rat almost fell off the seat too, but they were able to hold on.",
+        "startTime": 22980,
+        "endTime": 27290,
+        "slowStartTime": 34610,
+        "slowEndTime": 41030
+    },
+    {
+        "text": "\"Oh, dear!\" Rat said. \"I do hope Toad isn't hurt.\"",
+        "startTime": 27560,
+        "endTime": 32290,
+        "slowStartTime": 41360,
+        "slowEndTime": 48430
+    },
+    {
+        "text": "\"Are you all right, Toad?\" Rat asked.",
+        "startTime": 32530,
+        "endTime": 35160,
+        "slowStartTime": 48850,
+        "slowEndTime": 52650
+    },
+    {
+        "text": "Toad opened his eyes. \"Toot! Toot!\" he said. \"Toot! Toot!\"",
+        "startTime": 35930,
+        "endTime": 41270,
+        "slowStartTime": 53940,
+        "slowEndTime": 61880
+    },
+    {
+        "text": "\"I think Toad has hurt his head,\" Rat said to Mole.",
+        "startTime": 41570,
+        "endTime": 45170,
+        "slowStartTime": 62450,
+        "slowEndTime": 67750
+    },
+    {
+        "text": "\"He's not well. He's making a noise like a car.\"",
+        "startTime": 45880,
+        "endTime": 49380,
+        "slowStartTime": 68910,
+        "slowEndTime": 74120
+    },
+    {
+        "text": "Then he said to Toad,...",
+        "startTime": 50220,
+        "endTime": 51480,
+        "slowStartTime": 75490,
+        "slowEndTime": 77190
+    },
+    {
+        "text": "\"We'll go to the police station and complain about the driver of that car.\"",
+        "startTime": 52080,
+        "endTime": 56150,
+        "slowStartTime": 78220,
+        "slowEndTime": 84170
+    },
+    {
+        "text": "Toad sat up. \"Complain! Complain! We will not complain.\"",
+        "startTime": 57020,
+        "endTime": 62730,
+        "slowStartTime": 85670,
+        "slowEndTime": 94140
+    },
+    {
+        "text": "\"That wonderful, beautiful car is the way to travel. Fast. Toot! Toot!\"",
+        "startTime": 63320,
+        "endTime": 70270,
+        "slowStartTime": 95070,
+        "slowEndTime": 105400
+    },
+    {
+        "text": "\"I'm finished with horses and caravans. I'm going to get a car like that.\"",
+        "startTime": 70830,
+        "endTime": 75370,
+        "slowStartTime": 106300,
+        "slowEndTime": 112910
+    },
+    {
+        "text": "\"I've heard bad news about Toad,\" Badger said.",
+        "startTime": 76500,
+        "endTime": 79810,
+        "slowStartTime": 114820,
+        "slowEndTime": 119780
+    },
+    {
+        "text": "\"He bought a car. He drives around the countryside like a madman.\"",
+        "startTime": 80380,
+        "endTime": 84980,
+        "slowStartTime": 120680,
+        "slowEndTime": 127370
+    },
+    {
+        "text": "\"He's already had several accidents. If he's not careful, he'll kill himself.\"",
+        "startTime": 85750,
+        "endTime": 91090,
+        "slowStartTime": 128690,
+        "slowEndTime": 136760
+    },
+    {
+        "text": "\"Or someone else.\"",
+        "startTime": 91590,
+        "endTime": 92750,
+        "slowStartTime": 137450,
+        "slowEndTime": 139140
+    },
+    {
+        "text": "At that moment, Badger's front doorbell rang.",
+        "startTime": 93620,
+        "endTime": 96390,
+        "slowStartTime": 140540,
+        "slowEndTime": 144630
+    },
+    {
+        "text": "\"I had a small accident,\" Toad said.",
+        "startTime": 96660,
+        "endTime": 100360,
+        "slowStartTime": 145110,
+        "slowEndTime": 150460
+    },
+    {
+        "text": "\"I was sure I was somewhere near Badger's home, and here I am.\"",
+        "startTime": 101200,
+        "endTime": 105330,
+        "slowStartTime": 151850,
+        "slowEndTime": 158090
+    },
+    {
+        "text": "\"Tell me about this accident,\" Badger said.",
+        "startTime": 106000,
+        "endTime": 108870,
+        "slowStartTime": 159100,
+        "slowEndTime": 163170
+    },
+    {
+        "text": "\"Oh, I ran into some weasels. They were standing in the road.\"",
+        "startTime": 109670,
+        "endTime": 113810,
+        "slowStartTime": 164520,
+        "slowEndTime": 170710
+    },
+    {
+        "text": "\"A foolish place to stand,\" Toad said. \"The car is quite useless now.\"",
+        "startTime": 114110,
+        "endTime": 119080,
+        "slowStartTime": 171270,
+        "slowEndTime": 178695
+    },
+    {
+        "text": "\"How many useless cars are there now?\" Badger asked.",
+        "startTime": 120320,
+        "endTime": 124120,
+        "slowStartTime": 180600,
+        "slowEndTime": 186150
+    },
+    {
+        "text": "\"Oh, I don't know,\" Toad said. \"I don't keep count. Six, perhaps. No, seven.\"",
+        "startTime": 124950,
+        "endTime": 133660,
+        "slowStartTime": 187570,
+        "slowEndTime": 200420
+    },
+    {
+        "text": "\"Why do you have all these accidents, Toad?\" Badger demanded.",
+        "startTime": 135100,
+        "endTime": 138800,
+        "slowStartTime": 202740,
+        "slowEndTime": 208195
+    },
+    {
+        "text": "\"The cars are no good, of course,\" Toad said.",
+        "startTime": 139570,
+        "endTime": 142240,
+        "slowStartTime": 209450,
+        "slowEndTime": 213270
+    },
+    {
+        "text": "\"They don't stop in time. They go in the wrong direction.\"",
+        "startTime": 142740,
+        "endTime": 145910,
+        "slowStartTime": 214190,
+        "slowEndTime": 218950
+    },
+    {
+        "text": "\"I suppose it is not your driving that causes the accidents?\" Badger said.",
+        "startTime": 147310,
+        "endTime": 152480,
+        "slowStartTime": 221020,
+        "slowEndTime": 228600
+    },
+    {
+        "text": "\"My driving! There's nothing wrong with my driving,\" Toad exclaimed.",
+        "startTime": 153020,
+        "endTime": 158150,
+        "slowStartTime": 229590,
+        "slowEndTime": 237250
+    },
+    {
+        "text": "Badger looked at Mole and Rat.",
+        "startTime": 158920,
+        "endTime": 160590,
+        "slowStartTime": 238460,
+        "slowEndTime": 240950
+    },
+    {
+        "text": "\"My friends,\" he said. \"Toad must stay here until we cure him.\"",
+        "startTime": 161660,
+        "endTime": 166760,
+        "slowStartTime": 242610,
+        "slowEndTime": 250150
+    },
+    {
+        "text": "\"Will you stay with me and make sure he doesn't get away?\"",
+        "startTime": 167560,
+        "endTime": 170270,
+        "slowStartTime": 251470,
+        "slowEndTime": 255460
+    }
+]

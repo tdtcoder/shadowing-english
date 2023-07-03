@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Could you show me your notebook, please?",
+        "startTime": 6073,
+        "endTime": 8061,
+        "slowStartTime": 9260,
+        "slowEndTime": 12317
+    },
+    {
+        "text": "I can't hear you.",
+        "startTime": 14535,
+        "endTime": 15684,
+        "slowStartTime": 21953,
+        "slowEndTime": 23751
+    },
+    {
+        "text": "Could you speak louder, please?",
+        "startTime": 16186,
+        "endTime": 17549,
+        "slowStartTime": 24429,
+        "slowEndTime": 26548
+    },
+    {
+        "text": "The box is heavy.",
+        "startTime": 23851,
+        "endTime": 25565,
+        "slowStartTime": 35927,
+        "slowEndTime": 38573
+    },
+    {
+        "text": "Could you help me, please?",
+        "startTime": 26479,
+        "endTime": 27805,
+        "slowStartTime": 39868,
+        "slowEndTime": 41932
+    },
+    {
+        "text": "I didn't hear you.",
+        "startTime": 34429,
+        "endTime": 35339,
+        "slowStartTime": 51794,
+        "slowEndTime": 53233
+    },
+    {
+        "text": "Could you repeat that, please?",
+        "startTime": 35858,
+        "endTime": 37121,
+        "slowStartTime": 53937,
+        "slowEndTime": 55906
+    },
+    {
+        "text": "I didn't understand.",
+        "startTime": 44226,
+        "endTime": 46257,
+        "slowStartTime": 66489,
+        "slowEndTime": 69611
+    },
+    {
+        "text": "Could you speak more slowly, please?",
+        "startTime": 46641,
+        "endTime": 48764,
+        "slowStartTime": 70112,
+        "slowEndTime": 73371
+    },
+    {
+        "text": "Could you pass me the ketchup, please?",
+        "startTime": 56155,
+        "endTime": 57975,
+        "slowStartTime": 84382,
+        "slowEndTime": 87187
+    },
+    {
+        "text": "These watches are cool.",
+        "startTime": 65299,
+        "endTime": 67030,
+        "slowStartTime": 98098,
+        "slowEndTime": 100770
+    },
+    {
+        "text": "Can we use it together?",
+        "startTime": 67296,
+        "endTime": 68586,
+        "slowStartTime": 101094,
+        "slowEndTime": 103104
+    }
+]

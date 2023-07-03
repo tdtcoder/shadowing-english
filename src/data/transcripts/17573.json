@@ -1,0 +1,72 @@
+[
+    {
+        "text": "I met Sam on my way home yesterday.",
+        "startTime": 3145,
+        "endTime": 5833,
+        "slowStartTime": 4867,
+        "slowEndTime": 8974
+    },
+    {
+        "text": "What was he doing then?",
+        "startTime": 6949,
+        "endTime": 8589,
+        "slowStartTime": 10573,
+        "slowEndTime": 13108
+    },
+    {
+        "text": "He was walking his dog in the park.",
+        "startTime": 9652,
+        "endTime": 12157,
+        "slowStartTime": 14628,
+        "slowEndTime": 18461
+    },
+    {
+        "text": "What were you doing when I called you?",
+        "startTime": 15369,
+        "endTime": 17504,
+        "slowStartTime": 23204,
+        "slowEndTime": 26481
+    },
+    {
+        "text": "I was doing my art homework.",
+        "startTime": 18619,
+        "endTime": 20701,
+        "slowStartTime": 28078,
+        "slowEndTime": 31277
+    },
+    {
+        "text": "Was your brother doing his homework, too?",
+        "startTime": 21811,
+        "endTime": 24349,
+        "slowStartTime": 32866,
+        "slowEndTime": 36749
+    },
+    {
+        "text": "No, he wasn't doing his homework. He was watching TV.",
+        "startTime": 25403,
+        "endTime": 29479,
+        "slowStartTime": 38255,
+        "slowEndTime": 44443
+    },
+    {
+        "text": "We saw your mom on our way to school.",
+        "startTime": 32575,
+        "endTime": 35213,
+        "slowStartTime": 49012,
+        "slowEndTime": 53044
+    },
+    {
+        "text": "What was she doing?",
+        "startTime": 36314,
+        "endTime": 37705,
+        "slowStartTime": 54621,
+        "slowEndTime": 56782
+    },
+    {
+        "text": "She was waiting for a bus at the bus stop.",
+        "startTime": 38807,
+        "endTime": 41661,
+        "slowStartTime": 58360,
+        "slowEndTime": 62716
+    }
+]

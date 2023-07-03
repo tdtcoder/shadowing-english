@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Let's go to the movies.",
+        "startTime": 451,
+        "endTime": 2785,
+        "slowStartTime": 827,
+        "slowEndTime": 4402
+    },
+    {
+        "text": "I like comedies.",
+        "startTime": 8179,
+        "endTime": 9635,
+        "slowStartTime": 12418,
+        "slowEndTime": 14678
+    },
+    {
+        "text": "Horror movies are scary.",
+        "startTime": 14299,
+        "endTime": 17440,
+        "slowStartTime": 21599,
+        "slowEndTime": 26385
+    },
+    {
+        "text": "Action movies are fun.",
+        "startTime": 21817,
+        "endTime": 24233,
+        "slowStartTime": 32875,
+        "slowEndTime": 36574
+    },
+    {
+        "text": "Do you like adventure movies?",
+        "startTime": 28481,
+        "endTime": 30829,
+        "slowStartTime": 42872,
+        "slowEndTime": 46468
+    },
+    {
+        "text": "Romance movies are popular.",
+        "startTime": 35130,
+        "endTime": 37844,
+        "slowStartTime": 52845,
+        "slowEndTime": 56991
+    },
+    {
+        "text": "This is a war movie.",
+        "startTime": 42363,
+        "endTime": 44426,
+        "slowStartTime": 63694,
+        "slowEndTime": 66864
+    },
+    {
+        "text": "How about watching animation?",
+        "startTime": 49071,
+        "endTime": 51270,
+        "slowStartTime": 73757,
+        "slowEndTime": 77130
+    },
+    {
+        "text": "This is a western.",
+        "startTime": 55449,
+        "endTime": 57018,
+        "slowStartTime": 83324,
+        "slowEndTime": 85752
+    },
+    {
+        "text": "Do you like watching musicals?",
+        "startTime": 61329,
+        "endTime": 63076,
+        "slowStartTime": 92143,
+        "slowEndTime": 94839
+    },
+    {
+        "text": "\"The Lord of the Rings\" is a fantasy movie.",
+        "startTime": 67242,
+        "endTime": 70017,
+        "slowStartTime": 101013,
+        "slowEndTime": 105251
+    },
+    {
+        "text": "I like foreign films.",
+        "startTime": 74580,
+        "endTime": 76675,
+        "slowStartTime": 112020,
+        "slowEndTime": 115238
+    },
+    {
+        "text": "\"The Godfather\" is a gangster movie.",
+        "startTime": 81183,
+        "endTime": 84424,
+        "slowStartTime": 121924,
+        "slowEndTime": 126861
+    },
+    {
+        "text": "\"Forrest Gump\" is a drama.",
+        "startTime": 89229,
+        "endTime": 91280,
+        "slowStartTime": 133994,
+        "slowEndTime": 137145
+    },
+    {
+        "text": "Do you want to see a sci-fi movie?",
+        "startTime": 95630,
+        "endTime": 97855,
+        "slowStartTime": 143595,
+        "slowEndTime": 147007
+    }
+]

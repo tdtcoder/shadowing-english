@@ -1,0 +1,65 @@
+[
+    {
+        "text": "It seems 1,000 people just needed a little robotic affection.",
+        "startTime": 150,
+        "endTime": 3801,
+        "slowStartTime": 375,
+        "slowEndTime": 5926
+    },
+    {
+        "text": "When Pepper, the robot with a heart, went on sale Saturday in Japan,...",
+        "startTime": 3931,
+        "endTime": 7711,
+        "slowStartTime": 6046,
+        "slowEndTime": 11791
+    },
+    {
+        "text": "...the 1,000 available units sold out online in one minute, the Japan Times reported.",
+        "startTime": 7861,
+        "endTime": 13215,
+        "slowStartTime": 11942,
+        "slowEndTime": 20048
+    },
+    {
+        "text": "Designed by robotics group Aldebaran for SoftBank,...",
+        "startTime": 13417,
+        "endTime": 16183,
+        "slowStartTime": 20276,
+        "slowEndTime": 24500
+    },
+    {
+        "text": "...Pepper is a robot designed to live and interact with humans.",
+        "startTime": 16296,
+        "endTime": 19713,
+        "slowStartTime": 24594,
+        "slowEndTime": 29794
+    },
+    {
+        "text": "With a cute humanoid face and a screen on its chest,...",
+        "startTime": 19991,
+        "endTime": 22533,
+        "slowStartTime": 30136,
+        "slowEndTime": 34025
+    },
+    {
+        "text": "...the little guy is designed to communicate and empathize using voice and touch.",
+        "startTime": 22735,
+        "endTime": 26997,
+        "slowStartTime": 34252,
+        "slowEndTime": 40721
+    },
+    {
+        "text": "Pepper is able to analyze facial expressions, body language and words through its sensors,...",
+        "startTime": 27416,
+        "endTime": 32421,
+        "slowStartTime": 41274,
+        "slowEndTime": 48856
+    },
+    {
+        "text": "...as well as adapt its behavior and mannerisms to suit the person it's with.",
+        "startTime": 32516,
+        "endTime": 36789,
+        "slowStartTime": 48924,
+        "slowEndTime": 55409
+    }
+]

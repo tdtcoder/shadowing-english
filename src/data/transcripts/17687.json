@@ -1,0 +1,128 @@
+[
+    {
+        "text": "There are many different signs in the street.",
+        "startTime": 1632,
+        "endTime": 4359,
+        "slowStartTime": 2598,
+        "slowEndTime": 6763
+    },
+    {
+        "text": "Right. They tell us lots of things.",
+        "startTime": 5485,
+        "endTime": 8129,
+        "slowStartTime": 8377,
+        "slowEndTime": 12419
+    },
+    {
+        "text": "Signs tell us what to do and what not to do.",
+        "startTime": 8659,
+        "endTime": 11717,
+        "slowStartTime": 13138,
+        "slowEndTime": 17800
+    },
+    {
+        "text": "Look at this. This sign tells us how fast we can go.",
+        "startTime": 12754,
+        "endTime": 16937,
+        "slowStartTime": 19281,
+        "slowEndTime": 25631
+    },
+    {
+        "text": "What else do you see?",
+        "startTime": 18069,
+        "endTime": 19488,
+        "slowStartTime": 27254,
+        "slowEndTime": 29457
+    },
+    {
+        "text": "This sign warns us about animals on the road.",
+        "startTime": 20461,
+        "endTime": 23603,
+        "slowStartTime": 30841,
+        "slowEndTime": 35630
+    },
+    {
+        "text": "And that sign tells us to drive slowly on winding roads.",
+        "startTime": 24619,
+        "endTime": 28740,
+        "slowStartTime": 37078,
+        "slowEndTime": 43335
+    },
+    {
+        "text": "Signs are everywhere and they tell us lots of things.",
+        "startTime": 29785,
+        "endTime": 34380,
+        "slowStartTime": 44827,
+        "slowEndTime": 51795
+    },
+    {
+        "text": "Signs are on posts and on buildings.",
+        "startTime": 40326,
+        "endTime": 43369,
+        "slowStartTime": 60639,
+        "slowEndTime": 65279
+    },
+    {
+        "text": "Signs are everywhere.",
+        "startTime": 44083,
+        "endTime": 46173,
+        "slowStartTime": 66274,
+        "slowEndTime": 69485
+    },
+    {
+        "text": "Signs are in windows and on doors.",
+        "startTime": 47829,
+        "endTime": 51004,
+        "slowStartTime": 71893,
+        "slowEndTime": 76731
+    },
+    {
+        "text": "They hang above streets.",
+        "startTime": 51719,
+        "endTime": 54178,
+        "slowStartTime": 77729,
+        "slowEndTime": 81492
+    },
+    {
+        "text": "Signs tell us when to walk and when not to walk.",
+        "startTime": 55341,
+        "endTime": 61330,
+        "slowStartTime": 83162,
+        "slowEndTime": 92220
+    },
+    {
+        "text": "Signs tell us how far to go and how fast we can go.",
+        "startTime": 62834,
+        "endTime": 69122,
+        "slowStartTime": 94401,
+        "slowEndTime": 103908
+    },
+    {
+        "text": "Signs warn us about children playing and animals on the road.",
+        "startTime": 70271,
+        "endTime": 76693,
+        "slowStartTime": 105557,
+        "slowEndTime": 115264
+    },
+    {
+        "text": "Signs tell us to drive slowly on winding roads.",
+        "startTime": 77854,
+        "endTime": 82925,
+        "slowStartTime": 116931,
+        "slowEndTime": 124612
+    },
+    {
+        "text": "People make signs for sales and for lost animals.",
+        "startTime": 85476,
+        "endTime": 91618,
+        "slowStartTime": 128364,
+        "slowEndTime": 137652
+    },
+    {
+        "text": "What, what, what, what other things do we make signs for?",
+        "startTime": 92957,
+        "endTime": 98291,
+        "slowStartTime": 139586,
+        "slowEndTime": 147662
+    }
+]

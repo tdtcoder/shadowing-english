@@ -1,0 +1,72 @@
+[
+    {
+        "text": "﻿What kind of prison is this?",
+        "startTime": 560,
+        "endTime": 1687,
+        "slowStartTime": 990,
+        "slowEndTime": 2755
+    },
+    {
+        "text": "It's not a prison.",
+        "startTime": 2296,
+        "endTime": 3117,
+        "slowStartTime": 3594,
+        "slowEndTime": 4901
+    },
+    {
+        "text": "You're about to enter the Animus.",
+        "startTime": 4049,
+        "endTime": 5744,
+        "slowStartTime": 6223,
+        "slowEndTime": 8841
+    },
+    {
+        "text": "What you're about to see, hear and feel are the memories of your ancestor...",
+        "startTime": 6959,
+        "endTime": 10983,
+        "slowStartTime": 10589,
+        "slowEndTime": 16700
+    },
+    {
+        "text": "...who's been dead for 500 years.",
+        "startTime": 11346,
+        "endTime": 13084,
+        "slowStartTime": 17169,
+        "slowEndTime": 19851
+    },
+    {
+        "text": "What do you want from me?",
+        "startTime": 15765,
+        "endTime": 17095,
+        "slowStartTime": 23798,
+        "slowEndTime": 25867
+    },
+    {
+        "text": "Your past.",
+        "startTime": 17985,
+        "endTime": 18676,
+        "slowStartTime": 27127,
+        "slowEndTime": 28239
+    },
+    {
+        "text": "Welcome to the Spanish Inquisition.",
+        "startTime": 22200,
+        "endTime": 24477,
+        "slowStartTime": 33450,
+        "slowEndTime": 36940
+    },
+    {
+        "text": "We work in the dark to serve the light.",
+        "startTime": 52432,
+        "endTime": 54795,
+        "slowStartTime": 78798,
+        "slowEndTime": 82417
+    },
+    {
+        "text": "We are assassins.",
+        "startTime": 55889,
+        "endTime": 57269,
+        "slowStartTime": 83984,
+        "slowEndTime": 86129
+    }
+]

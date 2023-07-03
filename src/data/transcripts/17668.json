@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Jackie, it's time to go to bed!",
+        "startTime": 2579,
+        "endTime": 4635,
+        "slowStartTime": 4018,
+        "slowEndTime": 7177
+    },
+    {
+        "text": "Mom, I want to play computer games. Tomorrow is Sunday!",
+        "startTime": 5667,
+        "endTime": 9871,
+        "slowStartTime": 8651,
+        "slowEndTime": 15032
+    },
+    {
+        "text": "Sunday is the day when I don't go to school.",
+        "startTime": 10316,
+        "endTime": 12897,
+        "slowStartTime": 15624,
+        "slowEndTime": 19570
+    },
+    {
+        "text": "What are you doing, Alex?",
+        "startTime": 15952,
+        "endTime": 17565,
+        "slowStartTime": 24078,
+        "slowEndTime": 26572
+    },
+    {
+        "text": "I'm doing my English homework.",
+        "startTime": 18615,
+        "endTime": 20412,
+        "slowStartTime": 28073,
+        "slowEndTime": 30843
+    },
+    {
+        "text": "Try to finish it before dinner.",
+        "startTime": 21392,
+        "endTime": 23252,
+        "slowStartTime": 32238,
+        "slowEndTime": 35103
+    },
+    {
+        "text": "OK. I'll try, Mom.",
+        "startTime": 24333,
+        "endTime": 25776,
+        "slowStartTime": 36650,
+        "slowEndTime": 38889
+    },
+    {
+        "text": "Mom, can I watch cartoons?",
+        "startTime": 28850,
+        "endTime": 31049,
+        "slowStartTime": 43425,
+        "slowEndTime": 46799
+    },
+    {
+        "text": "No way. Dad is sleeping now.",
+        "startTime": 32141,
+        "endTime": 34679,
+        "slowStartTime": 48361,
+        "slowEndTime": 52243
+    },
+    {
+        "text": "You need to try not to wake him up.",
+        "startTime": 35218,
+        "endTime": 37023,
+        "slowStartTime": 52977,
+        "slowEndTime": 55760
+    }
+]

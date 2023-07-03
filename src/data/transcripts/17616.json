@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Kevin, where are you?",
+        "startTime": 2748,
+        "endTime": 4135,
+        "slowStartTime": 4272,
+        "slowEndTime": 6428
+    },
+    {
+        "text": "I'm in the kitchen.",
+        "startTime": 5109,
+        "endTime": 6439,
+        "slowStartTime": 7813,
+        "slowEndTime": 9883
+    },
+    {
+        "text": "I'm eating some snack, Mom.",
+        "startTime": 6779,
+        "endTime": 8555,
+        "slowStartTime": 10318,
+        "slowEndTime": 13058
+    },
+    {
+        "text": "Did you finish your math homework?",
+        "startTime": 9539,
+        "endTime": 11163,
+        "slowStartTime": 14458,
+        "slowEndTime": 16969
+    },
+    {
+        "text": "No, not yet.",
+        "startTime": 12135,
+        "endTime": 13453,
+        "slowStartTime": 18353,
+        "slowEndTime": 20404
+    },
+    {
+        "text": "You had better finish your homework before 5.",
+        "startTime": 14481,
+        "endTime": 16821,
+        "slowStartTime": 21872,
+        "slowEndTime": 25457
+    },
+    {
+        "text": "It's Dad's birthday, and we're going out for dinner.",
+        "startTime": 17397,
+        "endTime": 19986,
+        "slowStartTime": 26245,
+        "slowEndTime": 30204
+    },
+    {
+        "text": "I know, but I never have time to do my homework today.",
+        "startTime": 20910,
+        "endTime": 24595,
+        "slowStartTime": 31515,
+        "slowEndTime": 37118
+    },
+    {
+        "text": "What did you do after school?",
+        "startTime": 25627,
+        "endTime": 27477,
+        "slowStartTime": 38591,
+        "slowEndTime": 41440
+    },
+    {
+        "text": "I went to the library to borrow books that I need for my papers.",
+        "startTime": 28485,
+        "endTime": 32530,
+        "slowStartTime": 42878,
+        "slowEndTime": 49020
+    },
+    {
+        "text": "Anyway, you'd better try to finish your homework before dinner.",
+        "startTime": 33475,
+        "endTime": 37055,
+        "slowStartTime": 50362,
+        "slowEndTime": 55807
+    },
+    {
+        "text": "Okay, I will.",
+        "startTime": 38047,
+        "endTime": 39625,
+        "slowStartTime": 57221,
+        "slowEndTime": 59663
+    }
+]

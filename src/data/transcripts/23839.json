@@ -1,0 +1,58 @@
+[
+    {
+        "text": "This isn't just a hospital...",
+        "startTime": 2197,
+        "endTime": 3785,
+        "slowStartTime": 3446,
+        "slowEndTime": 5902
+    },
+    {
+        "text": "...because its much more than just wards, halls, smocks, scrubs and busy people.",
+        "startTime": 4225,
+        "endTime": 9768,
+        "slowStartTime": 6488,
+        "slowEndTime": 14877
+    },
+    {
+        "text": "Its brilliant machines...",
+        "startTime": 11769,
+        "endTime": 13248,
+        "slowStartTime": 17804,
+        "slowEndTime": 20097
+    },
+    {
+        "text": "...reaching beyond these walls,...",
+        "startTime": 13933,
+        "endTime": 15355,
+        "slowStartTime": 21049,
+        "slowEndTime": 23257
+    },
+    {
+        "text": "...connecting doctors to hardware, to software, anywhere,...",
+        "startTime": 16071,
+        "endTime": 20475,
+        "slowStartTime": 24256,
+        "slowEndTime": 30937
+    },
+    {
+        "text": "...delivering better patient care, wherever those patients are.",
+        "startTime": 21197,
+        "endTime": 24326,
+        "slowStartTime": 31946,
+        "slowEndTime": 36714
+    },
+    {
+        "text": "Because a hospital isn't just in a hospital...",
+        "startTime": 26427,
+        "endTime": 28661,
+        "slowStartTime": 39790,
+        "slowEndTime": 43216
+    },
+    {
+        "text": "...it's everywhere.",
+        "startTime": 29944,
+        "endTime": 30793,
+        "slowStartTime": 45066,
+        "slowEndTime": 46414
+    }
+]

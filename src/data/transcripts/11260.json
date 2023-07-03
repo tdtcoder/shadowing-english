@@ -1,0 +1,37 @@
+[
+    {
+        "text": "I missed more than 9,000 shots in my career.",
+        "startTime": 3500,
+        "endTime": 6000,
+        "slowStartTime": 5400,
+        "slowEndTime": 9200
+    },
+    {
+        "text": "I've lost almost 300 games.",
+        "startTime": 9000,
+        "endTime": 11000,
+        "slowStartTime": 13700,
+        "slowEndTime": 16700
+    },
+    {
+        "text": "26 times, I've been trusted to take the game-winning shot and missed.",
+        "startTime": 13750,
+        "endTime": 19100,
+        "slowStartTime": 20800,
+        "slowEndTime": 28900
+    },
+    {
+        "text": "I've failed over and over, and over again in my life...",
+        "startTime": 21000,
+        "endTime": 24100,
+        "slowStartTime": 31650,
+        "slowEndTime": 36350
+    },
+    {
+        "text": "...and that is why I succeed.",
+        "startTime": 26500,
+        "endTime": 29100,
+        "slowStartTime": 39950,
+        "slowEndTime": 43900
+    }
+]

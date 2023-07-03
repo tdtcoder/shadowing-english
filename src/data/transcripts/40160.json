@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Here are some phrases you can use when interrupting someone in a conversation.",
+        "startTime": 231,
+        "endTime": 4671,
+        "slowStartTime": 497,
+        "slowEndTime": 7231
+    },
+    {
+        "text": "Sorry to interrupt but...",
+        "startTime": 6556,
+        "endTime": 8177,
+        "slowStartTime": 9984,
+        "slowEndTime": 12491
+    },
+    {
+        "text": "Sorry for the interruption but...",
+        "startTime": 9861,
+        "endTime": 11829,
+        "slowStartTime": 14942,
+        "slowEndTime": 17969
+    },
+    {
+        "text": "I hate to interrupt but...",
+        "startTime": 17391,
+        "endTime": 18943,
+        "slowStartTime": 26236,
+        "slowEndTime": 28640
+    },
+    {
+        "text": "Excuse me,...",
+        "startTime": 20783,
+        "endTime": 21909,
+        "slowStartTime": 31324,
+        "slowEndTime": 33089
+    },
+    {
+        "text": "Excuse me, but...",
+        "startTime": 23655,
+        "endTime": 24719,
+        "slowStartTime": 35632,
+        "slowEndTime": 37304
+    },
+    {
+        "text": "Can I add something here?",
+        "startTime": 26469,
+        "endTime": 27782,
+        "slowStartTime": 39854,
+        "slowEndTime": 41898
+    },
+    {
+        "text": "I'm sorry to cut this short but...",
+        "startTime": 29651,
+        "endTime": 31489,
+        "slowStartTime": 44626,
+        "slowEndTime": 47459
+    },
+    {
+        "text": "This will only take a minute.",
+        "startTime": 33412,
+        "endTime": 34756,
+        "slowStartTime": 50268,
+        "slowEndTime": 52359
+    },
+    {
+        "text": "Excuse me, I'd like to say something.",
+        "startTime": 36628,
+        "endTime": 38751,
+        "slowStartTime": 55092,
+        "slowEndTime": 58352
+    },
+    {
+        "text": "Sorry, could you explain that a little more?",
+        "startTime": 40636,
+        "endTime": 43125,
+        "slowStartTime": 61104,
+        "slowEndTime": 64912
+    }
+]

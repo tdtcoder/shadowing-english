@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Welcome aboard and thanks for flying with Delta.",
+        "startTime": 704,
+        "endTime": 3385,
+        "slowStartTime": 1206,
+        "slowEndTime": 5302
+    },
+    {
+        "text": "Our first priority on every flight is safety.",
+        "startTime": 3938,
+        "endTime": 6910,
+        "slowStartTime": 6057,
+        "slowEndTime": 10590
+    },
+    {
+        "text": "So before we depart, I'll be giving a brief safety presentation.",
+        "startTime": 7125,
+        "endTime": 10887,
+        "slowStartTime": 10838,
+        "slowEndTime": 16556
+    },
+    {
+        "text": "Be sure all carry-on items are securely stowed in an overhead bin.",
+        "startTime": 11020,
+        "endTime": 14973,
+        "slowStartTime": 16680,
+        "slowEndTime": 22685
+    },
+    {
+        "text": "And ensure your mobile phones and electronic devices are turned off.",
+        "startTime": 15200,
+        "endTime": 18913,
+        "slowStartTime": 22793,
+        "slowEndTime": 28595
+    },
+    {
+        "text": "If you're seated at an emergency exit,...",
+        "startTime": 23058,
+        "endTime": 25063,
+        "slowStartTime": 34737,
+        "slowEndTime": 37819
+    },
+    {
+        "text": "...please review the responsibilities on the emergency exit seating, oh.",
+        "startTime": 25244,
+        "endTime": 29359,
+        "slowStartTime": 38016,
+        "slowEndTime": 44264
+    },
+    {
+        "text": "Please keep your seat belt fastened in case we experience unexpected rough air.",
+        "startTime": 29548,
+        "endTime": 33736,
+        "slowStartTime": 44472,
+        "slowEndTime": 50829
+    },
+    {
+        "text": "Smoking is not allowed on any Delta flight,...",
+        "startTime": 38471,
+        "endTime": 42005,
+        "slowStartTime": 57857,
+        "slowEndTime": 63233
+    },
+    {
+        "text": "...and federal law prohibits tampering with, disabling, or destroying a restroom smoke detector.",
+        "startTime": 42224,
+        "endTime": 47469,
+        "slowStartTime": 63311,
+        "slowEndTime": 71429
+    },
+    {
+        "text": "Please take a moment to find the exits closest to you.",
+        "startTime": 48083,
+        "endTime": 50458,
+        "slowStartTime": 72274,
+        "slowEndTime": 75912
+    },
+    {
+        "text": "And remember, they might be behind you.",
+        "startTime": 50700,
+        "endTime": 52851,
+        "slowStartTime": 76002,
+        "slowEndTime": 79501
+    },
+    {
+        "text": "Life vests are located under the seats, under your seat in the economy cabin.",
+        "startTime": 57547,
+        "endTime": 61407,
+        "slowStartTime": 86470,
+        "slowEndTime": 92335
+    },
+    {
+        "text": "Be sure your seat is upright, your aisle armrests are lowered, and your tray table is, ugh.",
+        "startTime": 61766,
+        "endTime": 66731,
+        "slowStartTime": 92799,
+        "slowEndTime": 100322
+    },
+    {
+        "text": "And all carry-on items are properly stowed.",
+        "startTime": 68506,
+        "endTime": 71215,
+        "slowStartTime": 102909,
+        "slowEndTime": 107048
+    },
+    {
+        "text": "Please let us know if you have any questions.",
+        "startTime": 71637,
+        "endTime": 73692,
+        "slowStartTime": 107606,
+        "slowEndTime": 110763
+    },
+    {
+        "text": "Sit back, relax and enjoy the flight.",
+        "startTime": 74057,
+        "endTime": 77250,
+        "slowStartTime": 111236,
+        "slowEndTime": 116100
+    }
+]

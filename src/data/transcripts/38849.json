@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Why do we get pimples?",
+        "startTime": 8661,
+        "endTime": 9832,
+        "slowStartTime": 13142,
+        "slowEndTime": 14973
+    },
+    {
+        "text": "Because they don't want me to look handsome.",
+        "startTime": 10372,
+        "endTime": 12552,
+        "slowStartTime": 15708,
+        "slowEndTime": 19053
+    },
+    {
+        "text": "No.",
+        "startTime": 13479,
+        "endTime": 14494,
+        "slowStartTime": 20368,
+        "slowEndTime": 21966
+    },
+    {
+        "text": "Pimples are caused due to the activity of the sebaceous gland present inside our skin.",
+        "startTime": 15021,
+        "endTime": 19069,
+        "slowStartTime": 22682,
+        "slowEndTime": 28828
+    },
+    {
+        "text": "This gland produces an oily substance called sebum.",
+        "startTime": 20125,
+        "endTime": 23161,
+        "slowStartTime": 30337,
+        "slowEndTime": 34966
+    },
+    {
+        "text": "Sebum comes up to the skin surface through a pore and moisturizes our hair and skin.",
+        "startTime": 23588,
+        "endTime": 28295,
+        "slowStartTime": 35532,
+        "slowEndTime": 42667
+    },
+    {
+        "text": "Oh, like a moisturizer?",
+        "startTime": 28748,
+        "endTime": 30327,
+        "slowStartTime": 43272,
+        "slowEndTime": 45716
+    },
+    {
+        "text": "Absolutely.",
+        "startTime": 31035,
+        "endTime": 32387,
+        "slowStartTime": 46703,
+        "slowEndTime": 48805
+    },
+    {
+        "text": "However, sometimes the pore gets blocked due to dead skin cells.",
+        "startTime": 36363,
+        "endTime": 40205,
+        "slowStartTime": 54695,
+        "slowEndTime": 60532
+    },
+    {
+        "text": "Due to this blockage, the sebum gets accumulated, creating a bump.",
+        "startTime": 40609,
+        "endTime": 44421,
+        "slowStartTime": 61063,
+        "slowEndTime": 66857
+    },
+    {
+        "text": "As sebum is a very good source of nutrients for the bacteria in our skin.",
+        "startTime": 44879,
+        "endTime": 48851,
+        "slowStartTime": 67468,
+        "slowEndTime": 73501
+    },
+    {
+        "text": "They start to grow in that area, leading to an infection.",
+        "startTime": 49114,
+        "endTime": 52539,
+        "slowStartTime": 73821,
+        "slowEndTime": 79033
+    },
+    {
+        "text": "Our immune system responds to this infection by sending blood and immune cells.",
+        "startTime": 52986,
+        "endTime": 57306,
+        "slowStartTime": 79629,
+        "slowEndTime": 86184
+    },
+    {
+        "text": "Blood makes the area red whereas the immune cells kill the bacteria...",
+        "startTime": 57748,
+        "endTime": 61321,
+        "slowStartTime": 86772,
+        "slowEndTime": 92207
+    },
+    {
+        "text": "...resulting in inflammation and formation of a pimple.",
+        "startTime": 61513,
+        "endTime": 64495,
+        "slowStartTime": 92420,
+        "slowEndTime": 96967
+    }
+]

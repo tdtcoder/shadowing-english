@@ -1,0 +1,289 @@
+[
+    {
+        "text": "It was, you know, one of the hardest calls that I've had to make...",
+        "startTime": -1,
+        "endTime": 3123,
+        "slowStartTime": 149,
+        "slowEndTime": 4910
+    },
+    {
+        "text": "...in the 18 years of running the company.",
+        "startTime": 3189,
+        "endTime": 6426,
+        "slowStartTime": 4933,
+        "slowEndTime": 9864
+    },
+    {
+        "text": "Company-wide announcements from tech CEOs have all had similarities recently.",
+        "startTime": 6879,
+        "endTime": 11701,
+        "slowStartTime": 10468,
+        "slowEndTime": 17777
+    },
+    {
+        "text": "This is a very difficult decision.",
+        "startTime": 11963,
+        "endTime": 13477,
+        "slowStartTime": 18094,
+        "slowEndTime": 20440
+    },
+    {
+        "text": "Tough decision.",
+        "startTime": 13570,
+        "endTime": 14381,
+        "slowStartTime": 20505,
+        "slowEndTime": 21797
+    },
+    {
+        "text": "Amazon is preparing to lay off up to 10,000 workers.",
+        "startTime": 14551,
+        "endTime": 17999,
+        "slowStartTime": 21976,
+        "slowEndTime": 27224
+    },
+    {
+        "text": "Meta is cutting 11,000.",
+        "startTime": 18347,
+        "endTime": 20481,
+        "slowStartTime": 27671,
+        "slowEndTime": 30946
+    },
+    {
+        "text": "Netflix has made big cuts.",
+        "startTime": 21010,
+        "endTime": 22586,
+        "slowStartTime": 31665,
+        "slowEndTime": 34104
+    },
+    {
+        "text": "So has Shopify, Snap, Twitter.",
+        "startTime": 22791,
+        "endTime": 25929,
+        "slowStartTime": 34337,
+        "slowEndTime": 39119
+    },
+    {
+        "text": "Well, maybe that's a unique circumstance.",
+        "startTime": 26574,
+        "endTime": 28811,
+        "slowStartTime": 40011,
+        "slowEndTime": 43442
+    },
+    {
+        "text": "Here are the macro and micro reasons why the tech industry...",
+        "startTime": 30087,
+        "endTime": 33909,
+        "slowStartTime": 45280,
+        "slowEndTime": 51089
+    },
+    {
+        "text": "...is seeing massive layoffs right now.",
+        "startTime": 34049,
+        "endTime": 35617,
+        "slowStartTime": 51223,
+        "slowEndTime": 53650
+    },
+    {
+        "text": "Picture it, Silicon Valley, 2019.",
+        "startTime": 37061,
+        "endTime": 39454,
+        "slowStartTime": 55741,
+        "slowEndTime": 59406
+    },
+    {
+        "text": "These three major tech companies' revenues were growing steadily...",
+        "startTime": 39841,
+        "endTime": 43101,
+        "slowStartTime": 59911,
+        "slowEndTime": 64876
+    },
+    {
+        "text": "...as everything moved online,...",
+        "startTime": 43183,
+        "endTime": 44661,
+        "slowStartTime": 64924,
+        "slowEndTime": 67217
+    },
+    {
+        "text": "...and their number of employees was also growing.",
+        "startTime": 45109,
+        "endTime": 47564,
+        "slowStartTime": 67813,
+        "slowEndTime": 71571
+    },
+    {
+        "text": "Then, of course, the pandemic hit.",
+        "startTime": 48086,
+        "endTime": 50144,
+        "slowStartTime": 72279,
+        "slowEndTime": 75441
+    },
+    {
+        "text": "People began shopping from home, binge-watching,...",
+        "startTime": 50576,
+        "endTime": 53721,
+        "slowStartTime": 76014,
+        "slowEndTime": 80806
+    },
+    {
+        "text": "...and just generally being online more.",
+        "startTime": 55352,
+        "endTime": 57797,
+        "slowStartTime": 83178,
+        "slowEndTime": 86921
+    },
+    {
+        "text": "Not only did the revenues of many of these tech companies skyrocket,...",
+        "startTime": 58043,
+        "endTime": 61829,
+        "slowStartTime": 87215,
+        "slowEndTime": 92968
+    },
+    {
+        "text": "...but so did their headcount.",
+        "startTime": 62503,
+        "endTime": 64171,
+        "slowStartTime": 93905,
+        "slowEndTime": 96482
+    },
+    {
+        "text": "I think Amazon is the quintessential example here.",
+        "startTime": 65003,
+        "endTime": 67354,
+        "slowStartTime": 97654,
+        "slowEndTime": 101256
+    },
+    {
+        "text": "If you're promising two-day shipping,...",
+        "startTime": 67514,
+        "endTime": 69023,
+        "slowStartTime": 101421,
+        "slowEndTime": 103760
+    },
+    {
+        "text": "...you have to deliver two-day shipping.",
+        "startTime": 69289,
+        "endTime": 70996,
+        "slowStartTime": 104083,
+        "slowEndTime": 106719
+    },
+    {
+        "text": "Amazon, in response, just had to hire many, many more people.",
+        "startTime": 71149,
+        "endTime": 74986,
+        "slowStartTime": 106873,
+        "slowEndTime": 112704
+    },
+    {
+        "text": "Not only did Amazon grow its delivery operation,...",
+        "startTime": 75362,
+        "endTime": 78113,
+        "slowStartTime": 113193,
+        "slowEndTime": 117395
+    },
+    {
+        "text": "...but it also grew from its web services.",
+        "startTime": 78369,
+        "endTime": 80839,
+        "slowStartTime": 117703,
+        "slowEndTime": 121484
+    },
+    {
+        "text": "Companies and businesses that might not have been online before now...",
+        "startTime": 81384,
+        "endTime": 85873,
+        "slowStartTime": 122226,
+        "slowEndTime": 129035
+    },
+    {
+        "text": "...had an online presence.",
+        "startTime": 85973,
+        "endTime": 87072,
+        "slowStartTime": 129109,
+        "slowEndTime": 130833
+    },
+    {
+        "text": "You have to host that data somewhere.",
+        "startTime": 87179,
+        "endTime": 88907,
+        "slowStartTime": 130918,
+        "slowEndTime": 133586
+    },
+    {
+        "text": "And so, Amazon saw their cloud computing service do very well during the pandemic.",
+        "startTime": 89102,
+        "endTime": 94215,
+        "slowStartTime": 133803,
+        "slowEndTime": 141548
+    },
+    {
+        "text": "Revenues stayed high through 2021,...",
+        "startTime": 94589,
+        "endTime": 96588,
+        "slowStartTime": 142033,
+        "slowEndTime": 145107
+    },
+    {
+        "text": "...and many tech CEOs thought the growth would continue at the same rate...",
+        "startTime": 96737,
+        "endTime": 100433,
+        "slowStartTime": 145255,
+        "slowEndTime": 150874
+    },
+    {
+        "text": "...they had seen for the last two years.",
+        "startTime": 100531,
+        "endTime": 102385,
+        "slowStartTime": 150947,
+        "slowEndTime": 153802
+    },
+    {
+        "text": "We're going to continue to invest aggressively...",
+        "startTime": 102899,
+        "endTime": 105878,
+        "slowStartTime": 154499,
+        "slowEndTime": 159042
+    },
+    {
+        "text": "...into the growth opportunities that we see.",
+        "startTime": 106230,
+        "endTime": 108421,
+        "slowStartTime": 159495,
+        "slowEndTime": 162856
+    },
+    {
+        "text": "So they continued the hiring spree, and not just a lot of employees,...",
+        "startTime": 108755,
+        "endTime": 112805,
+        "slowStartTime": 163282,
+        "slowEndTime": 169432
+    },
+    {
+        "text": "...but some expensive employees...",
+        "startTime": 113004,
+        "endTime": 115277,
+        "slowStartTime": 169656,
+        "slowEndTime": 173140
+    },
+    {
+        "text": "...because this is also when the talent wars ramped up,...",
+        "startTime": 115662,
+        "endTime": 118438,
+        "slowStartTime": 173643,
+        "slowEndTime": 177882
+    },
+    {
+        "text": "...where companies were vying for in-demand employees.",
+        "startTime": 118598,
+        "endTime": 121218,
+        "slowStartTime": 178047,
+        "slowEndTime": 182052
+    },
+    {
+        "text": "Facebook launching the Metaverse is a prime example.",
+        "startTime": 121609,
+        "endTime": 124427,
+        "slowStartTime": 182564,
+        "slowEndTime": 186865
+    }
+]

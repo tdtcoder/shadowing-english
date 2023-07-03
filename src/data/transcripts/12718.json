@@ -1,0 +1,114 @@
+[
+    {
+        "text": "So tell me a little about yourself, Changmin.",
+        "startTime": 2015,
+        "endTime": 4739,
+        "slowStartTime": 3173,
+        "slowEndTime": 7334
+    },
+    {
+        "text": "Sure! What would you like to know?",
+        "startTime": 4889,
+        "endTime": 6704,
+        "slowStartTime": 7484,
+        "slowEndTime": 10281
+    },
+    {
+        "text": "Well, what are your hobbies?",
+        "startTime": 7000,
+        "endTime": 8565,
+        "slowStartTime": 10650,
+        "slowEndTime": 13073
+    },
+    {
+        "text": "I have no hobbies in particular, but I enjoy hiking a lot.",
+        "startTime": 8909,
+        "endTime": 12864,
+        "slowStartTime": 13513,
+        "slowEndTime": 19521
+    },
+    {
+        "text": "There are so many beautiful mountains in Korea.",
+        "startTime": 13347,
+        "endTime": 15875,
+        "slowStartTime": 20170,
+        "slowEndTime": 24037
+    },
+    {
+        "text": "That sounds great!",
+        "startTime": 16212,
+        "endTime": 17435,
+        "slowStartTime": 24468,
+        "slowEndTime": 26377
+    },
+    {
+        "text": "How about you, Kathy? What do you like to do in your spare time?",
+        "startTime": 17841,
+        "endTime": 20929,
+        "slowStartTime": 26912,
+        "slowEndTime": 31619
+    },
+    {
+        "text": "My hobby is collecting stamps.",
+        "startTime": 21295,
+        "endTime": 23264,
+        "slowStartTime": 32092,
+        "slowEndTime": 35121
+    },
+    {
+        "text": "I especially collect Christmas stamps.",
+        "startTime": 23525,
+        "endTime": 25758,
+        "slowStartTime": 35437,
+        "slowEndTime": 38862
+    },
+    {
+        "text": "I also like to drive out of town.",
+        "startTime": 26079,
+        "endTime": 28042,
+        "slowStartTime": 39269,
+        "slowEndTime": 42288
+    },
+    {
+        "text": "Driving? Your hobby is driving?",
+        "startTime": 28269,
+        "endTime": 30453,
+        "slowStartTime": 42553,
+        "slowEndTime": 45904
+    },
+    {
+        "text": "Sure! I like to get out of the city as much as possible.",
+        "startTime": 30592,
+        "endTime": 34114,
+        "slowStartTime": 46038,
+        "slowEndTime": 51396
+    },
+    {
+        "text": "There's a lot of beautiful countryside to see.",
+        "startTime": 34359,
+        "endTime": 36697,
+        "slowStartTime": 51688,
+        "slowEndTime": 55270
+    },
+    {
+        "text": "How often do you go for a drive?",
+        "startTime": 37031,
+        "endTime": 38681,
+        "slowStartTime": 55697,
+        "slowEndTime": 58246
+    },
+    {
+        "text": "Not as often as I'd like to.",
+        "startTime": 38958,
+        "endTime": 40793,
+        "slowStartTime": 58587,
+        "slowEndTime": 61414
+    },
+    {
+        "text": "I guess I go at least once a month, though.",
+        "startTime": 41140,
+        "endTime": 43237,
+        "slowStartTime": 61860,
+        "slowEndTime": 65081
+    }
+]

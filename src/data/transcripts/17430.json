@@ -1,0 +1,177 @@
+[
+    {
+        "text": "Morning is when the sun rises.",
+        "startTime": 1572,
+        "endTime": 4342,
+        "slowStartTime": 2508,
+        "slowEndTime": 6738
+    },
+    {
+        "text": "The sun rises early in the morning.",
+        "startTime": 5355,
+        "endTime": 8525,
+        "slowStartTime": 8182,
+        "slowEndTime": 13013
+    },
+    {
+        "text": "My day begins early in the morning when the sun rises.",
+        "startTime": 9526,
+        "endTime": 14313,
+        "slowStartTime": 14439,
+        "slowEndTime": 21695
+    },
+    {
+        "text": "I get up, wash my face, brush my hair, and get dressed.",
+        "startTime": 15264,
+        "endTime": 20361,
+        "slowStartTime": 23046,
+        "slowEndTime": 30767
+    },
+    {
+        "text": "I eat my breakfast and drink my juice.",
+        "startTime": 21419,
+        "endTime": 24695,
+        "slowStartTime": 32278,
+        "slowEndTime": 37268
+    },
+    {
+        "text": "Then I get ready for school.",
+        "startTime": 25729,
+        "endTime": 28155,
+        "slowStartTime": 38744,
+        "slowEndTime": 42457
+    },
+    {
+        "text": "Noon is when the sun is high in the sky.",
+        "startTime": 29189,
+        "endTime": 33063,
+        "slowStartTime": 43933,
+        "slowEndTime": 49820
+    },
+    {
+        "text": "It is lunchtime at school.",
+        "startTime": 34077,
+        "endTime": 36113,
+        "slowStartTime": 51266,
+        "slowEndTime": 54394
+    },
+    {
+        "text": "It is bright, and it is warm.",
+        "startTime": 37100,
+        "endTime": 39635,
+        "slowStartTime": 55800,
+        "slowEndTime": 59677
+    },
+    {
+        "text": "I eat lunch, and I play with my friends.",
+        "startTime": 40606,
+        "endTime": 44367,
+        "slowStartTime": 61059,
+        "slowEndTime": 66776
+    },
+    {
+        "text": "Afternoon is when the sun begins to go down.",
+        "startTime": 45339,
+        "endTime": 49412,
+        "slowStartTime": 68158,
+        "slowEndTime": 74343
+    },
+    {
+        "text": "I come home from school, and I eat a snack.",
+        "startTime": 50387,
+        "endTime": 53789,
+        "slowStartTime": 75731,
+        "slowEndTime": 80909
+    },
+    {
+        "text": "I play with my friends.",
+        "startTime": 54804,
+        "endTime": 56679,
+        "slowStartTime": 82356,
+        "slowEndTime": 85243
+    },
+    {
+        "text": "Evening is when the sun is lower in the sky.",
+        "startTime": 57752,
+        "endTime": 61634,
+        "slowStartTime": 86778,
+        "slowEndTime": 92676
+    },
+    {
+        "text": "It is getting darker.",
+        "startTime": 62641,
+        "endTime": 64187,
+        "slowStartTime": 94111,
+        "slowEndTime": 96506
+    },
+    {
+        "text": "I eat dinner with my family.",
+        "startTime": 65225,
+        "endTime": 67362,
+        "slowStartTime": 97988,
+        "slowEndTime": 101268
+    },
+    {
+        "text": "After dinner, I like to watch television.",
+        "startTime": 68404,
+        "endTime": 71622,
+        "slowStartTime": 102756,
+        "slowEndTime": 107658
+    },
+    {
+        "text": "I like to read my favorite books.",
+        "startTime": 72637,
+        "endTime": 75285,
+        "slowStartTime": 109105,
+        "slowEndTime": 113152
+    },
+    {
+        "text": "Then I get ready for bed.",
+        "startTime": 76315,
+        "endTime": 78249,
+        "slowStartTime": 114622,
+        "slowEndTime": 117598
+    },
+    {
+        "text": "Night comes after the sun has set.",
+        "startTime": 79286,
+        "endTime": 81790,
+        "slowStartTime": 119079,
+        "slowEndTime": 122910
+    },
+    {
+        "text": "The sky is dark.",
+        "startTime": 82785,
+        "endTime": 84191,
+        "slowStartTime": 124327,
+        "slowEndTime": 126512
+    },
+    {
+        "text": "The moon and stars are out.",
+        "startTime": 85155,
+        "endTime": 87499,
+        "slowStartTime": 127882,
+        "slowEndTime": 131473
+    },
+    {
+        "text": "I get into bed, and Dad reads me a story.",
+        "startTime": 88564,
+        "endTime": 92204,
+        "slowStartTime": 132996,
+        "slowEndTime": 138531
+    },
+    {
+        "text": "Then I go to sleep in my bed.",
+        "startTime": 93222,
+        "endTime": 95894,
+        "slowStartTime": 139983,
+        "slowEndTime": 144066
+    },
+    {
+        "text": "Teddy goes to sleep in my bed, too.",
+        "startTime": 96967,
+        "endTime": 99713,
+        "slowStartTime": 145600,
+        "slowEndTime": 149794
+    }
+]

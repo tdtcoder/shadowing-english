@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Perhaps you would like a marmalade sandwich?",
+        "startTime": 654,
+        "endTime": 4011,
+        "slowStartTime": 1131,
+        "slowEndTime": 6242
+    },
+    {
+        "text": "I always keep one for emergencies.",
+        "startTime": 4991,
+        "endTime": 7089,
+        "slowStartTime": 7637,
+        "slowEndTime": 10859
+    },
+    {
+        "text": "So do I.",
+        "startTime": 7523,
+        "endTime": 8500,
+        "slowStartTime": 11435,
+        "slowEndTime": 12975
+    },
+    {
+        "text": "I keep mine in here.",
+        "startTime": 10545,
+        "endTime": 12553,
+        "slowStartTime": 15968,
+        "slowEndTime": 19054
+    },
+    {
+        "text": "For later.",
+        "startTime": 16133,
+        "endTime": 16965,
+        "slowStartTime": 24349,
+        "slowEndTime": 25672
+    },
+    {
+        "text": "The party is about to start, Your Majesty.",
+        "startTime": 25907,
+        "endTime": 28948,
+        "slowStartTime": 39010,
+        "slowEndTime": 43647
+    },
+    {
+        "text": "Happy Jubilee, Ma'am,...",
+        "startTime": 32238,
+        "endTime": 33635,
+        "slowStartTime": 48507,
+        "slowEndTime": 50678
+    },
+    {
+        "text": "...and thank you for everything.",
+        "startTime": 34887,
+        "endTime": 38431,
+        "slowStartTime": 52480,
+        "slowEndTime": 57872
+    },
+    {
+        "text": "That's very kind.",
+        "startTime": 39328,
+        "endTime": 40655,
+        "slowStartTime": 59142,
+        "slowEndTime": 61207
+    }
+]

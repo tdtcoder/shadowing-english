@@ -1,0 +1,72 @@
+[
+    {
+        "text": "If I could just interrupt for a moment...",
+        "startTime": 1700,
+        "endTime": 3600,
+        "slowStartTime": 2620,
+        "slowEndTime": 5400
+    },
+    {
+        "text": "I think Linda has made a good point. Do you want to add something, Mark?",
+        "startTime": 4070,
+        "endTime": 8170,
+        "slowStartTime": 6140,
+        "slowEndTime": 12250
+    },
+    {
+        "text": "Yes. I'd like to add namely that different clients have different needs.",
+        "startTime": 8870,
+        "endTime": 13730,
+        "slowStartTime": 13340,
+        "slowEndTime": 20600
+    },
+    {
+        "text": "A few of the suggestions we've heard superficially acknowledge these differences.",
+        "startTime": 14410,
+        "endTime": 18780,
+        "slowStartTime": 21680,
+        "slowEndTime": 28240
+    },
+    {
+        "text": "But I think if we explore these techniques in more depth,...",
+        "startTime": 19180,
+        "endTime": 22420,
+        "slowStartTime": 28840,
+        "slowEndTime": 33750
+    },
+    {
+        "text": "...we'll find that they really make all the same assumptions about the needs of our clients.",
+        "startTime": 22680,
+        "endTime": 27590,
+        "slowStartTime": 34160,
+        "slowEndTime": 41420
+    },
+    {
+        "text": "May I just point out...",
+        "startTime": 27960,
+        "endTime": 28930,
+        "slowStartTime": 42020,
+        "slowEndTime": 43500
+    },
+    {
+        "text": "Just a minute, Mark.",
+        "startTime": 29060,
+        "endTime": 29960,
+        "slowStartTime": 43640,
+        "slowEndTime": 45090
+    },
+    {
+        "text": "One at a time, please. We can't all speak at once.",
+        "startTime": 30420,
+        "endTime": 33600,
+        "slowStartTime": 45760,
+        "slowEndTime": 50460
+    },
+    {
+        "text": "Yes, Linda?",
+        "startTime": 34130,
+        "endTime": 34830,
+        "slowStartTime": 51330,
+        "slowEndTime": 52260
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "text": "I can't believe it's already time for me to leave.",
+        "startTime": 2158,
+        "endTime": 4625,
+        "slowStartTime": 3387,
+        "slowEndTime": 7162
+    },
+    {
+        "text": "Tell me about it. It feels like you just got here!",
+        "startTime": 4948,
+        "endTime": 7759,
+        "slowStartTime": 7572,
+        "slowEndTime": 11864
+    },
+    {
+        "text": "A year can really go by fast, can't it?",
+        "startTime": 7937,
+        "endTime": 10285,
+        "slowStartTime": 12056,
+        "slowEndTime": 15652
+    },
+    {
+        "text": "It sure can. So how do you feel about going back home?",
+        "startTime": 10691,
+        "endTime": 14077,
+        "slowStartTime": 16187,
+        "slowEndTime": 21340
+    },
+    {
+        "text": "Well, I'm really happy to be seeing my family again, of course.",
+        "startTime": 14229,
+        "endTime": 17548,
+        "slowStartTime": 21494,
+        "slowEndTime": 26547
+    },
+    {
+        "text": "Of course!",
+        "startTime": 17783,
+        "endTime": 18433,
+        "slowStartTime": 26825,
+        "slowEndTime": 27875
+    },
+    {
+        "text": "But, I'm really sad to be leaving here.",
+        "startTime": 18819,
+        "endTime": 20686,
+        "slowStartTime": 28379,
+        "slowEndTime": 31254
+    },
+    {
+        "text": "I've had such a fantastic time here.",
+        "startTime": 20976,
+        "endTime": 22844,
+        "slowStartTime": 31614,
+        "slowEndTime": 34491
+    },
+    {
+        "text": "I'm glad to hear that. You can always come back, you know.",
+        "startTime": 23131,
+        "endTime": 25992,
+        "slowStartTime": 34847,
+        "slowEndTime": 39213
+    },
+    {
+        "text": "Yes, I do know that. I'm so sad to leave.",
+        "startTime": 26131,
+        "endTime": 29209,
+        "slowStartTime": 39346,
+        "slowEndTime": 44038
+    },
+    {
+        "text": "I know that I've made some real friends here.",
+        "startTime": 29635,
+        "endTime": 31664,
+        "slowStartTime": 44603,
+        "slowEndTime": 47721
+    },
+    {
+        "text": "You definitely have. But, hey!",
+        "startTime": 31930,
+        "endTime": 34012,
+        "slowStartTime": 48045,
+        "slowEndTime": 51243
+    },
+    {
+        "text": "You're not leaving just yet,...",
+        "startTime": 34288,
+        "endTime": 35728,
+        "slowStartTime": 51582,
+        "slowEndTime": 53817
+    },
+    {
+        "text": "...let's go out and have one more fun night out together!",
+        "startTime": 36001,
+        "endTime": 38580,
+        "slowStartTime": 54152,
+        "slowEndTime": 58095
+    },
+    {
+        "text": "Sounds great to me!",
+        "startTime": 38727,
+        "endTime": 39708,
+        "slowStartTime": 58240,
+        "slowEndTime": 59787
+    }
+]

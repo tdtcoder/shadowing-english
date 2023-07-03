@@ -1,0 +1,30 @@
+[
+    {
+        "text": "Sorry for breaking your glass, Mari.",
+        "startTime": 887,
+        "endTime": 2997,
+        "slowStartTime": 1481,
+        "slowEndTime": 4721
+    },
+    {
+        "text": "It's okay.",
+        "startTime": 3441,
+        "endTime": 4525,
+        "slowStartTime": 5311,
+        "slowEndTime": 7012
+    },
+    {
+        "text": "Jane, I'm really sorry. I'll be late for work this morning.",
+        "startTime": 5107,
+        "endTime": 8539,
+        "slowStartTime": 7811,
+        "slowEndTime": 13034
+    },
+    {
+        "text": "Sure, no problem.",
+        "startTime": 8870,
+        "endTime": 10657,
+        "slowStartTime": 13455,
+        "slowEndTime": 16210
+    }
+]

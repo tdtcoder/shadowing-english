@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Reported speech is talking about what someone has said.",
+        "startTime": 339,
+        "endTime": 3653,
+        "slowStartTime": 659,
+        "slowEndTime": 5704
+    },
+    {
+        "text": "To do this, we use the past tense of the verb.",
+        "startTime": 4743,
+        "endTime": 7675,
+        "slowStartTime": 7264,
+        "slowEndTime": 11737
+    },
+    {
+        "text": "He said he loved her.",
+        "startTime": 16391,
+        "endTime": 18264,
+        "slowStartTime": 24736,
+        "slowEndTime": 27621
+    },
+    {
+        "text": "He said he was watching us.",
+        "startTime": 28227,
+        "endTime": 30767,
+        "slowStartTime": 42491,
+        "slowEndTime": 46375
+    },
+    {
+        "text": "She said she didn't want to go to law school.",
+        "startTime": 39753,
+        "endTime": 42636,
+        "slowStartTime": 59779,
+        "slowEndTime": 64179
+    },
+    {
+        "text": "She told her that she could do it.",
+        "startTime": 52388,
+        "endTime": 54146,
+        "slowStartTime": 78732,
+        "slowEndTime": 81444
+    },
+    {
+        "text": "Yoda said he would go.",
+        "startTime": 63909,
+        "endTime": 65706,
+        "slowStartTime": 96014,
+        "slowEndTime": 98784
+    },
+    {
+        "text": "He told everyone that he was going on an adventure.",
+        "startTime": 76532,
+        "endTime": 79931,
+        "slowStartTime": 114948,
+        "slowEndTime": 120121
+    },
+    {
+        "text": "The donkey said he had eaten the princess.",
+        "startTime": 90038,
+        "endTime": 92432,
+        "slowStartTime": 135207,
+        "slowEndTime": 138873
+    },
+    {
+        "text": "Ron told Harry that Hagrid had been looking for him.",
+        "startTime": 104226,
+        "endTime": 107141,
+        "slowStartTime": 156489,
+        "slowEndTime": 160937
+    },
+    {
+        "text": "She asked him if he liked her.",
+        "startTime": 116139,
+        "endTime": 118133,
+        "slowStartTime": 174359,
+        "slowEndTime": 177424
+    }
+]

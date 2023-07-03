@@ -1,0 +1,184 @@
+[
+    {
+        "text": "In a slightly less dire example,...",
+        "startTime": 572,
+        "endTime": 2471,
+        "slowStartTime": 1008,
+        "slowEndTime": 3931
+    },
+    {
+        "text": "...satirical articles that are formatted to resemble real ones...",
+        "startTime": 2810,
+        "endTime": 6399,
+        "slowStartTime": 4365,
+        "slowEndTime": 9823
+    },
+    {
+        "text": "...can also be picked up by outlets not in on the joke.",
+        "startTime": 6681,
+        "endTime": 10475,
+        "slowStartTime": 10171,
+        "slowEndTime": 15938
+    },
+    {
+        "text": "For example, a joke article in the reputable British Medical Journal...",
+        "startTime": 10995,
+        "endTime": 15425,
+        "slowStartTime": 16642,
+        "slowEndTime": 23363
+    },
+    {
+        "text": "...entitled \"Energy Expenditure in Adolescents...",
+        "startTime": 15793,
+        "endTime": 18867,
+        "slowStartTime": 23839,
+        "slowEndTime": 28525
+    },
+    {
+        "text": "...Playing New Generation Computer Games,\"...",
+        "startTime": 18985,
+        "endTime": 21205,
+        "slowStartTime": 28627,
+        "slowEndTime": 32033
+    },
+    {
+        "text": "...has been referenced in serious science publications over 400 times.",
+        "startTime": 21579,
+        "endTime": 26510,
+        "slowStartTime": 32518,
+        "slowEndTime": 39990
+    },
+    {
+        "text": "User-generated content such as wikis...",
+        "startTime": 27261,
+        "endTime": 29821,
+        "slowStartTime": 41042,
+        "slowEndTime": 44956
+    },
+    {
+        "text": "...are also a common contributor to circular reporting.",
+        "startTime": 30023,
+        "endTime": 33355,
+        "slowStartTime": 45184,
+        "slowEndTime": 50257
+    },
+    {
+        "text": "As more writers come to rely on such pages for quick information,...",
+        "startTime": 33881,
+        "endTime": 37565,
+        "slowStartTime": 50971,
+        "slowEndTime": 56573
+    },
+    {
+        "text": "...an unverified fact in a wiki page...",
+        "startTime": 37949,
+        "endTime": 40221,
+        "slowStartTime": 57074,
+        "slowEndTime": 60557
+    },
+    {
+        "text": "...can make its way into a published article...",
+        "startTime": 40457,
+        "endTime": 42674,
+        "slowStartTime": 60835,
+        "slowEndTime": 64236
+    },
+    {
+        "text": "...that may later be added as a citation...",
+        "startTime": 42850,
+        "endTime": 45325,
+        "slowStartTime": 64425,
+        "slowEndTime": 68212
+    },
+    {
+        "text": "...for the very same wiki information,...",
+        "startTime": 45589,
+        "endTime": 47615,
+        "slowStartTime": 68533,
+        "slowEndTime": 71648
+    },
+    {
+        "text": "...making it much harder to debunk.",
+        "startTime": 47917,
+        "endTime": 49774,
+        "slowStartTime": 72025,
+        "slowEndTime": 74886
+    },
+    {
+        "text": "Recent advances in communication technology...",
+        "startTime": 50719,
+        "endTime": 53327,
+        "slowStartTime": 76229,
+        "slowEndTime": 80216
+    },
+    {
+        "text": "...have had immeasurable benefits...",
+        "startTime": 53570,
+        "endTime": 55252,
+        "slowStartTime": 80505,
+        "slowEndTime": 83103
+    },
+    {
+        "text": "...in breaking down the barriers between information and people,...",
+        "startTime": 55442,
+        "endTime": 58741,
+        "slowStartTime": 83313,
+        "slowEndTime": 88336
+    },
+    {
+        "text": "...but our desire for quick answers...",
+        "startTime": 59255,
+        "endTime": 61027,
+        "slowStartTime": 89032,
+        "slowEndTime": 91765
+    },
+    {
+        "text": "...may overpower the desire to be certain of their validity...",
+        "startTime": 61235,
+        "endTime": 64600,
+        "slowStartTime": 92002,
+        "slowEndTime": 97125
+    },
+    {
+        "text": "...and when this bias can be multiplied by billions of people around the world...",
+        "startTime": 65029,
+        "endTime": 69339,
+        "slowStartTime": 97693,
+        "slowEndTime": 104233
+    },
+    {
+        "text": "...nearly instantaneously, more caution is in order.",
+        "startTime": 69543,
+        "endTime": 73073,
+        "slowStartTime": 104465,
+        "slowEndTime": 109834
+    },
+    {
+        "text": "Avoiding sensationalist media...",
+        "startTime": 73759,
+        "endTime": 75683,
+        "slowStartTime": 110788,
+        "slowEndTime": 113750
+    },
+    {
+        "text": "...searching for criticisms of suspicious information,...",
+        "startTime": 75959,
+        "endTime": 78808,
+        "slowStartTime": 114089,
+        "slowEndTime": 118437
+    },
+    {
+        "text": "...and tracing the original source of a report can help slow down a lie,...",
+        "startTime": 79044,
+        "endTime": 83729,
+        "slowStartTime": 118716,
+        "slowEndTime": 125819
+    },
+    {
+        "text": "...giving the truth more time to put on its shoes.",
+        "startTime": 84239,
+        "endTime": 86957,
+        "slowStartTime": 126509,
+        "slowEndTime": 130660
+    }
+]

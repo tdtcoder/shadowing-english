@@ -1,0 +1,58 @@
+[
+    {
+        "text": "My name is Karthik Rajagopalan.",
+        "startTime": 8103,
+        "endTime": 9568,
+        "slowStartTime": 12304,
+        "slowEndTime": 14577
+    },
+    {
+        "text": "I'm a senior data scientist.",
+        "startTime": 9687,
+        "endTime": 11261,
+        "slowStartTime": 14680,
+        "slowEndTime": 17116
+    },
+    {
+        "text": "As a data scientist in the Big Data group, I work with large quantities of data,...",
+        "startTime": 11951,
+        "endTime": 16247,
+        "slowStartTime": 18076,
+        "slowEndTime": 24596
+    },
+    {
+        "text": "...trying to make sense out of it and build models...",
+        "startTime": 16521,
+        "endTime": 19762,
+        "slowStartTime": 24932,
+        "slowEndTime": 29868
+    },
+    {
+        "text": "...so that we can predict a lot of outcomes.",
+        "startTime": 19832,
+        "endTime": 22385,
+        "slowStartTime": 29898,
+        "slowEndTime": 33802
+    },
+    {
+        "text": "I chose AT&T because it's a world-renowned company.",
+        "startTime": 22845,
+        "endTime": 26500,
+        "slowStartTime": 34417,
+        "slowEndTime": 39975
+    },
+    {
+        "text": "It has one of the largest data sets in the world,...",
+        "startTime": 26967,
+        "endTime": 28937,
+        "slowStartTime": 40600,
+        "slowEndTime": 43631
+    },
+    {
+        "text": "...and what we're trying to do here with data makes a lot of sense to me.",
+        "startTime": 29207,
+        "endTime": 32433,
+        "slowStartTime": 43960,
+        "slowEndTime": 48874
+    }
+]

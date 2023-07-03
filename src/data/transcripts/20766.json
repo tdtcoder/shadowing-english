@@ -1,0 +1,226 @@
+[
+    {
+        "text": "I'm Brittany.",
+        "startTime": 7236,
+        "endTime": 7900,
+        "slowStartTime": 11004,
+        "slowEndTime": 12075
+    },
+    {
+        "text": "I'm 18 and I live in Florida in the USA.",
+        "startTime": 8045,
+        "endTime": 10653,
+        "slowStartTime": 12217,
+        "slowEndTime": 16204
+    },
+    {
+        "text": "Almost every day, I read the latest science news and research advances...",
+        "startTime": 22961,
+        "endTime": 26266,
+        "slowStartTime": 34592,
+        "slowEndTime": 39624
+    },
+    {
+        "text": "...because it is so exciting to see the breakthroughs being made.",
+        "startTime": 26389,
+        "endTime": 29020,
+        "slowStartTime": 39733,
+        "slowEndTime": 43755
+    },
+    {
+        "text": "I became fascinated by an article on artificial intelligence,...",
+        "startTime": 30761,
+        "endTime": 33682,
+        "slowStartTime": 46292,
+        "slowEndTime": 50748
+    },
+    {
+        "text": "...and I decided to learn how to program.",
+        "startTime": 34089,
+        "endTime": 35757,
+        "slowStartTime": 51284,
+        "slowEndTime": 53860
+    },
+    {
+        "text": "Coding was a real challenge and it took a few attempts to get it to work.",
+        "startTime": 36815,
+        "endTime": 40093,
+        "slowStartTime": 55373,
+        "slowEndTime": 60364
+    },
+    {
+        "text": "Back when I was little, I really grew to idolize the men and women in scrubs...",
+        "startTime": 41345,
+        "endTime": 44739,
+        "slowStartTime": 62168,
+        "slowEndTime": 67334
+    },
+    {
+        "text": "...who were using science every day to save lives.",
+        "startTime": 44864,
+        "endTime": 47256,
+        "slowStartTime": 67446,
+        "slowEndTime": 71109
+    },
+    {
+        "text": "My brother was born premature and we spent a lot of time in the hospital for his first few years.",
+        "startTime": 48141,
+        "endTime": 52780,
+        "slowStartTime": 72361,
+        "slowEndTime": 79395
+    },
+    {
+        "text": "Then when I was 15, my cousin was diagnosed with breast cancer...",
+        "startTime": 53815,
+        "endTime": 56945,
+        "slowStartTime": 80872,
+        "slowEndTime": 85642
+    },
+    {
+        "text": "...and I saw firsthand the impact it has on a woman and her family.",
+        "startTime": 57210,
+        "endTime": 60579,
+        "slowStartTime": 85965,
+        "slowEndTime": 91094
+    },
+    {
+        "text": "I decided I wanted to make a difference...",
+        "startTime": 61289,
+        "endTime": 63055,
+        "slowStartTime": 92083,
+        "slowEndTime": 94807
+    },
+    {
+        "text": "...by trying to make the experience a little bit better for those involved.",
+        "startTime": 63170,
+        "endTime": 66370,
+        "slowStartTime": 94905,
+        "slowEndTime": 99780
+    },
+    {
+        "text": "I was able to teach the computer how to diagnose breast cancer...",
+        "startTime": 66991,
+        "endTime": 70018,
+        "slowStartTime": 100637,
+        "slowEndTime": 105252
+    },
+    {
+        "text": "...by making it think like the brain to detect patterns far too complex for humans to recognize.",
+        "startTime": 70181,
+        "endTime": 75419,
+        "slowStartTime": 105422,
+        "slowEndTime": 113353
+    },
+    {
+        "text": "This means it could determine if a breast mass is malignant or benign.",
+        "startTime": 75857,
+        "endTime": 79126,
+        "slowStartTime": 113935,
+        "slowEndTime": 118914
+    },
+    {
+        "text": "It's really important because the least invasive test for breast cancer...",
+        "startTime": 79850,
+        "endTime": 83133,
+        "slowStartTime": 119925,
+        "slowEndTime": 124924
+    },
+    {
+        "text": "...is also the least conclusive.",
+        "startTime": 83539,
+        "endTime": 85079,
+        "slowStartTime": 125459,
+        "slowEndTime": 127844
+    },
+    {
+        "text": "Most doctors refuse to use these biopsies.",
+        "startTime": 85843,
+        "endTime": 88209,
+        "slowStartTime": 128914,
+        "slowEndTime": 132538
+    },
+    {
+        "text": "If they could be used, it could lead to earlier detection and a better process for the patient.",
+        "startTime": 88493,
+        "endTime": 92659,
+        "slowStartTime": 132889,
+        "slowEndTime": 139213
+    },
+    {
+        "text": "I spent hundreds upon hundreds of hours researching for over two years,...",
+        "startTime": 93377,
+        "endTime": 97061,
+        "slowStartTime": 140215,
+        "slowEndTime": 145816
+    },
+    {
+        "text": "...creating a neural network tool for doctors to use when analyzing results.",
+        "startTime": 97521,
+        "endTime": 101129,
+        "slowStartTime": 146431,
+        "slowEndTime": 151919
+    },
+    {
+        "text": "When the application actually diagnosed masses successfully, it was very exciting.",
+        "startTime": 101811,
+        "endTime": 105788,
+        "slowStartTime": 152866,
+        "slowEndTime": 158907
+    },
+    {
+        "text": "It diagnoses over ninety-nine percent of cancer patients correctly.",
+        "startTime": 106207,
+        "endTime": 109441,
+        "slowStartTime": 159460,
+        "slowEndTime": 164386
+    },
+    {
+        "text": "And since it is deployed as a cloud service,...",
+        "startTime": 109905,
+        "endTime": 111879,
+        "slowStartTime": 165008,
+        "slowEndTime": 168044
+    },
+    {
+        "text": "...it has the potential to be accessed by any hospital in the world.",
+        "startTime": 112002,
+        "endTime": 114867,
+        "slowStartTime": 168153,
+        "slowEndTime": 172526
+    },
+    {
+        "text": "It has been amazing to see how people, including cancer survivors,...",
+        "startTime": 115753,
+        "endTime": 119213,
+        "slowStartTime": 173780,
+        "slowEndTime": 179044
+    },
+    {
+        "text": "...are responding to my program and its potential.",
+        "startTime": 119663,
+        "endTime": 122056,
+        "slowStartTime": 179645,
+        "slowEndTime": 183309
+    },
+    {
+        "text": "Cancer touches all of us, and unfortunately, the rates are rising.",
+        "startTime": 123383,
+        "endTime": 127067,
+        "slowStartTime": 185224,
+        "slowEndTime": 190825
+    },
+    {
+        "text": "Helping find the cure to cancer is a real goal of mine,...",
+        "startTime": 127764,
+        "endTime": 130279,
+        "slowStartTime": 191796,
+        "slowEndTime": 195644
+    },
+    {
+        "text": "...and one day, I would love to be working on breakthroughs that can save lives.",
+        "startTime": 130506,
+        "endTime": 134155,
+        "slowStartTime": 195909,
+        "slowEndTime": 201458
+    }
+]

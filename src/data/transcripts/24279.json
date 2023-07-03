@@ -1,0 +1,65 @@
+[
+    {
+        "text": "A suicide bomber in Egypt attacks a tourist site in Luxor.",
+        "startTime": 2657,
+        "endTime": 6286,
+        "slowStartTime": 4136,
+        "slowEndTime": 9654
+    },
+    {
+        "text": "Four Egyptians were wounded.",
+        "startTime": 6865,
+        "endTime": 8309,
+        "slowStartTime": 10448,
+        "slowEndTime": 12689
+    },
+    {
+        "text": "In Italy, Prime Minister Renzi welcomes Putin,...",
+        "startTime": 11811,
+        "endTime": 14739,
+        "slowStartTime": 17866,
+        "slowEndTime": 22334
+    },
+    {
+        "text": "...but acknowledges the tensions created by economic sanctions.",
+        "startTime": 15111,
+        "endTime": 18375,
+        "slowStartTime": 22817,
+        "slowEndTime": 27788
+    },
+    {
+        "text": "In Turkey, the head of the pro-Kurdish opposition party...",
+        "startTime": 23928,
+        "endTime": 27307,
+        "slowStartTime": 36042,
+        "slowEndTime": 41186
+    },
+    {
+        "text": "...accuses the government of inaction over violence.",
+        "startTime": 27662,
+        "endTime": 30396,
+        "slowStartTime": 41643,
+        "slowEndTime": 45819
+    },
+    {
+        "text": "In China, the identification of sunken cruise victims' belongings starts.",
+        "startTime": 34186,
+        "endTime": 39109,
+        "slowStartTime": 51429,
+        "slowEndTime": 58889
+    },
+    {
+        "text": "And finally from Russia, Moscow sees no threat to the World Cup amid controversy,...",
+        "startTime": 42918,
+        "endTime": 47917,
+        "slowStartTime": 64527,
+        "slowEndTime": 72100
+    },
+    {
+        "text": "...while FIFA Secretary General Valcke hits back over ten-million-dollar transactions.",
+        "startTime": 48369,
+        "endTime": 53333,
+        "slowStartTime": 72704,
+        "slowEndTime": 80224
+    }
+]

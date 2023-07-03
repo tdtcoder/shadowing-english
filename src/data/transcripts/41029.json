@@ -1,0 +1,275 @@
+[
+    {
+        "text": "Here in Gothenburg, one team are trying to solve this,...",
+        "startTime": 2927,
+        "endTime": 6625,
+        "slowStartTime": 4541,
+        "slowEndTime": 10162
+    },
+    {
+        "text": "...and they're using technology that's a bit like a 3D printer.",
+        "startTime": 6794,
+        "endTime": 10673,
+        "slowStartTime": 10341,
+        "slowEndTime": 16234
+    },
+    {
+        "text": "Their aim, well, is to grow organs from cells...",
+        "startTime": 11058,
+        "endTime": 14161,
+        "slowStartTime": 16737,
+        "slowEndTime": 21467
+    },
+    {
+        "text": "...here in this lab, no donor necessary.",
+        "startTime": 14293,
+        "endTime": 16959,
+        "slowStartTime": 21589,
+        "slowEndTime": 25663
+    },
+    {
+        "text": "Today, we are going to look at printing skin.",
+        "startTime": 19090,
+        "endTime": 23517,
+        "slowStartTime": 28785,
+        "slowEndTime": 35500
+    },
+    {
+        "text": "The skin is composed of different layers.",
+        "startTime": 23799,
+        "endTime": 26217,
+        "slowStartTime": 35848,
+        "slowEndTime": 39550
+    },
+    {
+        "text": "Okay.",
+        "startTime": 26567,
+        "endTime": 26941,
+        "slowStartTime": 40000,
+        "slowEndTime": 40637
+    },
+    {
+        "text": "And every layer has different types of cells in combination.",
+        "startTime": 27021,
+        "endTime": 30799,
+        "slowStartTime": 40682,
+        "slowEndTime": 46423
+    },
+    {
+        "text": "It is the human body's largest organ...",
+        "startTime": 31872,
+        "endTime": 34726,
+        "slowStartTime": 47958,
+        "slowEndTime": 52314
+    },
+    {
+        "text": "...but even a small skin model requires millions of cells.",
+        "startTime": 35069,
+        "endTime": 38999,
+        "slowStartTime": 52754,
+        "slowEndTime": 58724
+    },
+    {
+        "text": "They're mixed into different bio-inks for the machine to choose between.",
+        "startTime": 39413,
+        "endTime": 42850,
+        "slowStartTime": 59270,
+        "slowEndTime": 64500
+    },
+    {
+        "text": "You really design a code that tells the printer what to print,...",
+        "startTime": 43925,
+        "endTime": 49634,
+        "slowStartTime": 66038,
+        "slowEndTime": 74676
+    },
+    {
+        "text": "...when, and then, which structure.",
+        "startTime": 49734,
+        "endTime": 52025,
+        "slowStartTime": 74751,
+        "slowEndTime": 78262
+    },
+    {
+        "text": "It's a lot more visible than I expected with the naked eye.",
+        "startTime": 54336,
+        "endTime": 57480,
+        "slowStartTime": 81654,
+        "slowEndTime": 86445
+    },
+    {
+        "text": "A hollow blood vessel structure has been layered inside this one...",
+        "startTime": 58381,
+        "endTime": 62180,
+        "slowStartTime": 87722,
+        "slowEndTime": 93495
+    },
+    {
+        "text": "...and a syringe-like print head has a different purpose.",
+        "startTime": 62501,
+        "endTime": 65463,
+        "slowStartTime": 93901,
+        "slowEndTime": 98419
+    },
+    {
+        "text": "So you can actually print cells or hair follicles to really replicate the skin.",
+        "startTime": 65969,
+        "endTime": 70891,
+        "slowStartTime": 99104,
+        "slowEndTime": 106561
+    },
+    {
+        "text": "At this stage it kind of looks like a bit of toothpaste,...",
+        "startTime": 72100,
+        "endTime": 74262,
+        "slowStartTime": 108300,
+        "slowEndTime": 111618
+    },
+    {
+        "text": "...but actually it's seriously complicated cells in here.",
+        "startTime": 74343,
+        "endTime": 77517,
+        "slowStartTime": 111665,
+        "slowEndTime": 116500
+    },
+    {
+        "text": "While 3D printed skin could be applied in surgical grafts, drug, and cosmetic testing,...",
+        "startTime": 79781,
+        "endTime": 85298,
+        "slowStartTime": 119821,
+        "slowEndTime": 128172
+    },
+    {
+        "text": "...the cells have to mature first.",
+        "startTime": 85617,
+        "endTime": 87575,
+        "slowStartTime": 128575,
+        "slowEndTime": 131587
+    },
+    {
+        "text": "This is where we culture the samples we've printed.",
+        "startTime": 88071,
+        "endTime": 90613,
+        "slowStartTime": 132257,
+        "slowEndTime": 136144
+    },
+    {
+        "text": "They are kept in incubators for several weeks...",
+        "startTime": 91789,
+        "endTime": 94481,
+        "slowStartTime": 137833,
+        "slowEndTime": 141947
+    },
+    {
+        "text": "...and this tray is about a week old.",
+        "startTime": 94866,
+        "endTime": 96721,
+        "slowStartTime": 142449,
+        "slowEndTime": 145307
+    },
+    {
+        "text": "The top part, which is mimicking the top of our skin, is on top.",
+        "startTime": 97334,
+        "endTime": 101015,
+        "slowStartTime": 146151,
+        "slowEndTime": 151747
+    },
+    {
+        "text": "A mix of proteins and nutrient molecules is fed in and the waste is removed,...",
+        "startTime": 101949,
+        "endTime": 107433,
+        "slowStartTime": 153074,
+        "slowEndTime": 161375
+    },
+    {
+        "text": "...all while being closely monitored.",
+        "startTime": 107628,
+        "endTime": 109596,
+        "slowStartTime": 161592,
+        "slowEndTime": 164619
+    },
+    {
+        "text": "The beauty with this microscope is you can actually watch your sample...",
+        "startTime": 110015,
+        "endTime": 113503,
+        "slowStartTime": 165173,
+        "slowEndTime": 170480
+    },
+    {
+        "text": "...through an iPad so it's no longer looking through those small eye things.",
+        "startTime": 113866,
+        "endTime": 118763,
+        "slowStartTime": 170949,
+        "slowEndTime": 178370
+    },
+    {
+        "text": "Green dots for living cells, red for dead.",
+        "startTime": 119831,
+        "endTime": 122930,
+        "slowStartTime": 179897,
+        "slowEndTime": 184620
+    },
+    {
+        "text": "So there's not that many dead cells here that you can see.",
+        "startTime": 123233,
+        "endTime": 125382,
+        "slowStartTime": 185000,
+        "slowEndTime": 188298
+    },
+    {
+        "text": "Which is a very good sign.",
+        "startTime": 125488,
+        "endTime": 126909,
+        "slowStartTime": 188382,
+        "slowEndTime": 190588
+    },
+    {
+        "text": "Close analysis of the end results is needed to fine-tune.",
+        "startTime": 127280,
+        "endTime": 130785,
+        "slowStartTime": 191070,
+        "slowEndTime": 196403
+    },
+    {
+        "text": "Cell ink has been printing cancer tumors...",
+        "startTime": 131195,
+        "endTime": 133806,
+        "slowStartTime": 196942,
+        "slowEndTime": 200934
+    },
+    {
+        "text": "...so that patients could receive personalized treatments...",
+        "startTime": 134001,
+        "endTime": 136789,
+        "slowStartTime": 201151,
+        "slowEndTime": 205408
+    },
+    {
+        "text": "...without enduring drug trials themselves.",
+        "startTime": 137025,
+        "endTime": 139573,
+        "slowStartTime": 205687,
+        "slowEndTime": 209585
+    },
+    {
+        "text": "They've also made liver models for drug screening campaigns...",
+        "startTime": 140597,
+        "endTime": 143835,
+        "slowStartTime": 211045,
+        "slowEndTime": 215978
+    },
+    {
+        "text": "...and are helping beauty brands become animal cruelty-free,...",
+        "startTime": 144192,
+        "endTime": 147593,
+        "slowStartTime": 216438,
+        "slowEndTime": 221615
+    },
+    {
+        "text": "...thanks to testing on lab-grown skin.",
+        "startTime": 147955,
+        "endTime": 150359,
+        "slowStartTime": 222082,
+        "slowEndTime": 225763
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text": "I'm going to visit New York City on my next vacation.",
+        "startTime": 400,
+        "endTime": 3040,
+        "slowStartTime": 1210,
+        "slowEndTime": 5465
+    },
+    {
+        "text": "First on my agenda is going to a Broadway show.",
+        "startTime": 3860,
+        "endTime": 6270,
+        "slowStartTime": 6590,
+        "slowEndTime": 10370
+    },
+    {
+        "text": "And after that I want to explore Central Park.",
+        "startTime": 6650,
+        "endTime": 9175,
+        "slowStartTime": 10850,
+        "slowEndTime": 14570
+    },
+    {
+        "text": "I heard you can ice skate there in the winter!",
+        "startTime": 9560,
+        "endTime": 11550,
+        "slowStartTime": 15235,
+        "slowEndTime": 18285
+    },
+    {
+        "text": "I also want to cross the Brooklyn Bridge,...",
+        "startTime": 12010,
+        "endTime": 13850,
+        "slowStartTime": 18900,
+        "slowEndTime": 21650
+    },
+    {
+        "text": "...and see the Statue of Liberty in New York Harbor.",
+        "startTime": 14250,
+        "endTime": 16670,
+        "slowStartTime": 22250,
+        "slowEndTime": 26100
+    },
+    {
+        "text": "I won't have a car while I'm there,...",
+        "startTime": 17570,
+        "endTime": 19230,
+        "slowStartTime": 27210,
+        "slowEndTime": 29800
+    },
+    {
+        "text": "...but there are a lot of ways for tourists to get around New York.",
+        "startTime": 19720,
+        "endTime": 22600,
+        "slowStartTime": 30420,
+        "slowEndTime": 34925
+    },
+    {
+        "text": "You can take a train from Grand Central Station,...",
+        "startTime": 23340,
+        "endTime": 25510,
+        "slowStartTime": 35900,
+        "slowEndTime": 39210
+    },
+    {
+        "text": "...or ride the subway to most points in the city.",
+        "startTime": 26050,
+        "endTime": 28035,
+        "slowStartTime": 39980,
+        "slowEndTime": 43090
+    },
+    {
+        "text": "I hope I can see all these things in only three days!",
+        "startTime": 28710,
+        "endTime": 31400,
+        "slowStartTime": 43930,
+        "slowEndTime": 48040
+    }
+]

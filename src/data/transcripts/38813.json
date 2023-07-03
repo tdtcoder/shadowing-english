@@ -1,0 +1,114 @@
+[
+    {
+        "text": "How do bees make honey?",
+        "startTime": 2033,
+        "endTime": 3345,
+        "slowStartTime": 3200,
+        "slowEndTime": 5242
+    },
+    {
+        "text": "No idea.",
+        "startTime": 3634,
+        "endTime": 4409,
+        "slowStartTime": 5601,
+        "slowEndTime": 6839
+    },
+    {
+        "text": "To make honey, the worker honeybee sucks nectar from flowers...",
+        "startTime": 4772,
+        "endTime": 8319,
+        "slowStartTime": 7308,
+        "slowEndTime": 12704
+    },
+    {
+        "text": "...and stores it in its honey stomach.",
+        "startTime": 8395,
+        "endTime": 10294,
+        "slowStartTime": 12743,
+        "slowEndTime": 15666
+    },
+    {
+        "text": "Once the worker bee returns to the hive,...",
+        "startTime": 10612,
+        "endTime": 12726,
+        "slowStartTime": 16068,
+        "slowEndTime": 19314
+    },
+    {
+        "text": "...it vomits the nectar into a processor honeybee's mouth.",
+        "startTime": 12929,
+        "endTime": 16409,
+        "slowStartTime": 19544,
+        "slowEndTime": 24838
+    },
+    {
+        "text": "In the processor bee's mouth and stomach,...",
+        "startTime": 18820,
+        "endTime": 20911,
+        "slowStartTime": 28380,
+        "slowEndTime": 31591
+    },
+    {
+        "text": "...an enzyme called invertase is added to the nectar.",
+        "startTime": 21189,
+        "endTime": 24537,
+        "slowStartTime": 31934,
+        "slowEndTime": 37030
+    },
+    {
+        "text": "Invertase breaks some nectar into simple sugars like glucose and fructose.",
+        "startTime": 24785,
+        "endTime": 29009,
+        "slowStartTime": 37328,
+        "slowEndTime": 43739
+    },
+    {
+        "text": "Then it vomits the partially converted nectar into another processor bee's mouth.",
+        "startTime": 30420,
+        "endTime": 34615,
+        "slowStartTime": 45780,
+        "slowEndTime": 52148
+    },
+    {
+        "text": "Who also adds more invertase, helping breakdown more nectar.",
+        "startTime": 34925,
+        "endTime": 38344,
+        "slowStartTime": 52537,
+        "slowEndTime": 57741
+    },
+    {
+        "text": "This process goes on until most of the nectar is converted into simple sugars.",
+        "startTime": 38669,
+        "endTime": 42633,
+        "slowStartTime": 58153,
+        "slowEndTime": 64175
+    },
+    {
+        "text": "Then the mixture of simple sugars is stored in the honeycomb.",
+        "startTime": 43145,
+        "endTime": 46199,
+        "slowStartTime": 64867,
+        "slowEndTime": 69524
+    },
+    {
+        "text": "At this point, the mixture is still watery.",
+        "startTime": 46297,
+        "endTime": 48876,
+        "slowStartTime": 69595,
+        "slowEndTime": 73539
+    },
+    {
+        "text": "Hence, the bees flap their wings which evaporates water...",
+        "startTime": 49181,
+        "endTime": 51861,
+        "slowStartTime": 73922,
+        "slowEndTime": 78017
+    },
+    {
+        "text": "...and thickens the mixture to eventually form honey.",
+        "startTime": 51953,
+        "endTime": 54473,
+        "slowStartTime": 78080,
+        "slowEndTime": 81935
+    }
+]

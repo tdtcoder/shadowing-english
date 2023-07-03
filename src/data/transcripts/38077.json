@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Hello, I am Robert.",
+        "startTime": 655,
+        "endTime": 2953,
+        "slowStartTime": 1132,
+        "slowEndTime": 4654
+    },
+    {
+        "text": "Being a superhero makes me happy,...",
+        "startTime": 3897,
+        "endTime": 6418,
+        "slowStartTime": 5995,
+        "slowEndTime": 9852
+    },
+    {
+        "text": "...and there are women who are amazed by my powers.",
+        "startTime": 7586,
+        "endTime": 10945,
+        "slowStartTime": 11529,
+        "slowEndTime": 16643
+    },
+    {
+        "text": "However, it can be very hard for me sometimes.",
+        "startTime": 12058,
+        "endTime": 16397,
+        "slowStartTime": 18237,
+        "slowEndTime": 24820
+    },
+    {
+        "text": "I would make mistakes and feel upset and disappointed,...",
+        "startTime": 17788,
+        "endTime": 22322,
+        "slowStartTime": 26832,
+        "slowEndTime": 33708
+    },
+    {
+        "text": "...but I need to be brave so my enemies would be scared of me.",
+        "startTime": 23573,
+        "endTime": 27353,
+        "slowStartTime": 35510,
+        "slowEndTime": 41254
+    },
+    {
+        "text": "After a long day, eating a sandwich makes me feel better.",
+        "startTime": 28912,
+        "endTime": 33264,
+        "slowStartTime": 43518,
+        "slowEndTime": 50121
+    },
+    {
+        "text": "Then I got really excited when Jimmy invited me to his TV show!",
+        "startTime": 35662,
+        "endTime": 40140,
+        "slowStartTime": 53643,
+        "slowEndTime": 60435
+    },
+    {
+        "text": "How do you feel about your job?",
+        "startTime": 41070,
+        "endTime": 42936,
+        "slowStartTime": 61755,
+        "slowEndTime": 64629
+    }
+]

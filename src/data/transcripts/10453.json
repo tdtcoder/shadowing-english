@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Generally speaking, if you find yourself in the water with sharks,...",
+        "startTime": 1000,
+        "endTime": 3800,
+        "slowStartTime": 1900,
+        "slowEndTime": 6150
+    },
+    {
+        "text": "...what you should do is sit back, relax, and enjoy the experience.",
+        "startTime": 3900,
+        "endTime": 7000,
+        "slowStartTime": 6420,
+        "slowEndTime": 10870
+    },
+    {
+        "text": "But sometimes, sharks can get aggressive.",
+        "startTime": 7100,
+        "endTime": 9000,
+        "slowStartTime": 11160,
+        "slowEndTime": 14000
+    },
+    {
+        "text": "A number of shark species will actually arch their back and drop their pectoral fins in a threat display.",
+        "startTime": 9250,
+        "endTime": 14100,
+        "slowStartTime": 14240,
+        "slowEndTime": 21410
+    },
+    {
+        "text": "To dodge a charging shark, you kinda have to act like a matador,...",
+        "startTime": 15000,
+        "endTime": 17600,
+        "slowStartTime": 22750,
+        "slowEndTime": 26680
+    },
+    {
+        "text": "...put your hands on top of its head and push it on by.",
+        "startTime": 17700,
+        "endTime": 20200,
+        "slowStartTime": 26860,
+        "slowEndTime": 30375
+    },
+    {
+        "text": "But honestly, your risk of getting charged by a shark, extremely low.",
+        "startTime": 20400,
+        "endTime": 23200,
+        "slowStartTime": 30830,
+        "slowEndTime": 35100
+    }
+]

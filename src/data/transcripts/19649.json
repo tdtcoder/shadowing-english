@@ -1,0 +1,79 @@
+[
+    {
+        "text": "I couldn't get a read on him.",
+        "startTime": 2090,
+        "endTime": 4294,
+        "slowStartTime": 3285,
+        "slowEndTime": 6666
+    },
+    {
+        "text": "Is he bluffing?",
+        "startTime": 5692,
+        "endTime": 6589,
+        "slowStartTime": 8688,
+        "slowEndTime": 10108
+    },
+    {
+        "text": "Why am I so sweaty?",
+        "startTime": 7587,
+        "endTime": 9147,
+        "slowStartTime": 11531,
+        "slowEndTime": 13945
+    },
+    {
+        "text": "Why did I wear all these rings.",
+        "startTime": 11028,
+        "endTime": 13036,
+        "slowStartTime": 16692,
+        "slowEndTime": 19779
+    },
+    {
+        "text": "Relax.",
+        "startTime": 17485,
+        "endTime": 18099,
+        "slowStartTime": 26377,
+        "slowEndTime": 27374
+    },
+    {
+        "text": "This hand is unbeatable.",
+        "startTime": 18776,
+        "endTime": 20051,
+        "slowStartTime": 28314,
+        "slowEndTime": 30301
+    },
+    {
+        "text": "Wait.",
+        "startTime": 22063,
+        "endTime": 22343,
+        "slowStartTime": 33244,
+        "slowEndTime": 33740
+    },
+    {
+        "text": "What?",
+        "startTime": 22656,
+        "endTime": 22909,
+        "slowStartTime": 34134,
+        "slowEndTime": 34588
+    },
+    {
+        "text": "No!",
+        "startTime": 29967,
+        "endTime": 30581,
+        "slowStartTime": 45101,
+        "slowEndTime": 46096
+    },
+    {
+        "text": "And I fold.",
+        "startTime": 34788,
+        "endTime": 35659,
+        "slowStartTime": 52332,
+        "slowEndTime": 53713
+    },
+    {
+        "text": "Take care of my lady friend.",
+        "startTime": 39238,
+        "endTime": 40826,
+        "slowStartTime": 59007,
+        "slowEndTime": 61464
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "text": "If I asked you to close your eyes and think about a robot,...",
+        "startTime": 245,
+        "endTime": 2337,
+        "slowStartTime": 518,
+        "slowEndTime": 3731
+    },
+    {
+        "text": "...maybe you envision something like this.",
+        "startTime": 4662,
+        "endTime": 6479,
+        "slowStartTime": 7143,
+        "slowEndTime": 9944
+    },
+    {
+        "text": "Maybe we wanna think about robotics from a different perspective.",
+        "startTime": 10278,
+        "endTime": 12686,
+        "slowStartTime": 15567,
+        "slowEndTime": 19254
+    },
+    {
+        "text": "Robotics is a field, really started in industrial settings,...",
+        "startTime": 13103,
+        "endTime": 16217,
+        "slowStartTime": 19805,
+        "slowEndTime": 24551
+    },
+    {
+        "text": "...where very precise and fast motion was needed.",
+        "startTime": 16378,
+        "endTime": 19000,
+        "slowStartTime": 24717,
+        "slowEndTime": 28725
+    },
+    {
+        "text": "Those same technologies are not really suitable for interacting with people.",
+        "startTime": 20238,
+        "endTime": 24079,
+        "slowStartTime": 30507,
+        "slowEndTime": 36343
+    },
+    {
+        "text": "When we think of biorobotics,...",
+        "startTime": 27682,
+        "endTime": 28938,
+        "slowStartTime": 41673,
+        "slowEndTime": 43632
+    },
+    {
+        "text": "...we really think of something that's more like the field of AI...",
+        "startTime": 29011,
+        "endTime": 31486,
+        "slowStartTime": 43667,
+        "slowEndTime": 47454
+    },
+    {
+        "text": "...of artificial intelligence.",
+        "startTime": 31571,
+        "endTime": 32621,
+        "slowStartTime": 47507,
+        "slowEndTime": 49157
+    },
+    {
+        "text": "Thinking about that combination of both the body and the brain and the group.",
+        "startTime": 32727,
+        "endTime": 38145,
+        "slowStartTime": 49241,
+        "slowEndTime": 57442
+    },
+    {
+        "text": "...there's just a lot of examples in biology...",
+        "startTime": 38277,
+        "endTime": 40373,
+        "slowStartTime": 57565,
+        "slowEndTime": 60784
+    },
+    {
+        "text": "...where we can see how that can be achieved...",
+        "startTime": 40677,
+        "endTime": 42888,
+        "slowStartTime": 61166,
+        "slowEndTime": 64557
+    },
+    {
+        "text": "...and how we can leverage the same kinds of ideas.",
+        "startTime": 42982,
+        "endTime": 44979,
+        "slowStartTime": 64623,
+        "slowEndTime": 67693
+    },
+    {
+        "text": "Almost all locomoting robots and many of the manipulator robots...",
+        "startTime": 45978,
+        "endTime": 50722,
+        "slowStartTime": 69117,
+        "slowEndTime": 76308
+    },
+    {
+        "text": "...are inspired by these soft animals that we're familiar with.",
+        "startTime": 51303,
+        "endTime": 54421,
+        "slowStartTime": 77105,
+        "slowEndTime": 81856
+    },
+    {
+        "text": "If we think of swarms in nature,...",
+        "startTime": 55601,
+        "endTime": 57308,
+        "slowStartTime": 83552,
+        "slowEndTime": 86187
+    },
+    {
+        "text": "...let's say, you think of termites that build mounds...",
+        "startTime": 57399,
+        "endTime": 60313,
+        "slowStartTime": 86249,
+        "slowEndTime": 90694
+    },
+    {
+        "text": "...or you think of ant colonies that can forage over large regions.",
+        "startTime": 60453,
+        "endTime": 64334,
+        "slowStartTime": 90830,
+        "slowEndTime": 96726
+    },
+    {
+        "text": "Imagine being able to create robotic systems that could do those tasks.",
+        "startTime": 65037,
+        "endTime": 68560,
+        "slowStartTime": 97705,
+        "slowEndTime": 103065
+    }
+]

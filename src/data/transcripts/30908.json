@@ -1,0 +1,51 @@
+[
+    {
+        "text": "The Present Progressive Tense",
+        "startTime": 581,
+        "endTime": 2203,
+        "slowStartTime": 1022,
+        "slowEndTime": 3530
+    },
+    {
+        "text": "Dad is frying eggs.",
+        "startTime": 3819,
+        "endTime": 5770,
+        "slowStartTime": 5879,
+        "slowEndTime": 8880
+    },
+    {
+        "text": "He is not cooking rice.",
+        "startTime": 7639,
+        "endTime": 9233,
+        "slowStartTime": 11608,
+        "slowEndTime": 14074
+    },
+    {
+        "text": "Meg is riding her bike.",
+        "startTime": 11912,
+        "endTime": 13660,
+        "slowStartTime": 18018,
+        "slowEndTime": 20715
+    },
+    {
+        "text": "She isn't driving a car.",
+        "startTime": 15143,
+        "endTime": 17012,
+        "slowStartTime": 22864,
+        "slowEndTime": 25743
+    },
+    {
+        "text": "They are running.",
+        "startTime": 18225,
+        "endTime": 19475,
+        "slowStartTime": 27488,
+        "slowEndTime": 29438
+    },
+    {
+        "text": "He is winning a race.",
+        "startTime": 20653,
+        "endTime": 22305,
+        "slowStartTime": 31130,
+        "slowEndTime": 33683
+    }
+]

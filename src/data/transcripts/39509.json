@@ -1,0 +1,177 @@
+[
+    {
+        "text": "Nice to meet you, Tomas!",
+        "startTime": 951,
+        "endTime": 2077,
+        "slowStartTime": 1577,
+        "slowEndTime": 3340
+    },
+    {
+        "text": "You too! How are you?",
+        "startTime": 2728,
+        "endTime": 4235,
+        "slowStartTime": 4242,
+        "slowEndTime": 6577
+    },
+    {
+        "text": "Very well, thank you!",
+        "startTime": 4693,
+        "endTime": 5908,
+        "slowStartTime": 7189,
+        "slowEndTime": 9087
+    },
+    {
+        "text": "And you?",
+        "startTime": 6113,
+        "endTime": 6636,
+        "slowStartTime": 9319,
+        "slowEndTime": 10179
+    },
+    {
+        "text": "Good, thanks!",
+        "startTime": 7083,
+        "endTime": 8071,
+        "slowStartTime": 10774,
+        "slowEndTime": 12331
+    },
+    {
+        "text": "Hey, Jamie!",
+        "startTime": 10666,
+        "endTime": 11850,
+        "slowStartTime": 16149,
+        "slowEndTime": 18000
+    },
+    {
+        "text": "Hey, George!",
+        "startTime": 12519,
+        "endTime": 13489,
+        "slowStartTime": 18929,
+        "slowEndTime": 20458
+    },
+    {
+        "text": "How's it going?",
+        "startTime": 13873,
+        "endTime": 14720,
+        "slowStartTime": 20959,
+        "slowEndTime": 22305
+    },
+    {
+        "text": "Pretty good! You?",
+        "startTime": 15236,
+        "endTime": 16663,
+        "slowStartTime": 23004,
+        "slowEndTime": 25219
+    },
+    {
+        "text": "Yeah! Good, thanks!",
+        "startTime": 17172,
+        "endTime": 18435,
+        "slowStartTime": 25908,
+        "slowEndTime": 27877
+    },
+    {
+        "text": "Nice to see you!",
+        "startTime": 18787,
+        "endTime": 19868,
+        "slowStartTime": 28330,
+        "slowEndTime": 30027
+    },
+    {
+        "text": "You too!",
+        "startTime": 20083,
+        "endTime": 20780,
+        "slowStartTime": 30274,
+        "slowEndTime": 31395
+    },
+    {
+        "text": "It's a pleasure to meet you, Mike!",
+        "startTime": 24109,
+        "endTime": 25908,
+        "slowStartTime": 36314,
+        "slowEndTime": 39087
+    },
+    {
+        "text": "And you too, Paul!",
+        "startTime": 26160,
+        "endTime": 27352,
+        "slowStartTime": 39390,
+        "slowEndTime": 41253
+    },
+    {
+        "text": "How are you?",
+        "startTime": 27595,
+        "endTime": 28199,
+        "slowStartTime": 41542,
+        "slowEndTime": 42524
+    },
+    {
+        "text": "Very well, thank you.",
+        "startTime": 28582,
+        "endTime": 29850,
+        "slowStartTime": 43023,
+        "slowEndTime": 45000
+    },
+    {
+        "text": "How are you?",
+        "startTime": 30097,
+        "endTime": 30837,
+        "slowStartTime": 45295,
+        "slowEndTime": 46480
+    },
+    {
+        "text": "Hi, Hans!",
+        "startTime": 33797,
+        "endTime": 34378,
+        "slowStartTime": 50845,
+        "slowEndTime": 51792
+    },
+    {
+        "text": "How are you?",
+        "startTime": 34732,
+        "endTime": 35265,
+        "slowStartTime": 52248,
+        "slowEndTime": 53123
+    },
+    {
+        "text": "Good, thank you, Angela.",
+        "startTime": 35898,
+        "endTime": 37139,
+        "slowStartTime": 53997,
+        "slowEndTime": 55933
+    },
+    {
+        "text": "Nice to see you again.",
+        "startTime": 37936,
+        "endTime": 39093,
+        "slowStartTime": 57054,
+        "slowEndTime": 58864
+    },
+    {
+        "text": "You too!",
+        "startTime": 39289,
+        "endTime": 39940,
+        "slowStartTime": 59083,
+        "slowEndTime": 60135
+    },
+    {
+        "text": "How are you today?",
+        "startTime": 40163,
+        "endTime": 40975,
+        "slowStartTime": 60395,
+        "slowEndTime": 61688
+    },
+    {
+        "text": "I'm very well.",
+        "startTime": 41411,
+        "endTime": 42303,
+        "slowStartTime": 62266,
+        "slowEndTime": 63680
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 42465,
+        "endTime": 43009,
+        "slowStartTime": 63848,
+        "slowEndTime": 64739
+    }
+]

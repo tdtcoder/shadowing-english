@@ -1,0 +1,86 @@
+[
+    {
+        "text": "What shall we eat for lunch, Mom?",
+        "startTime": 3019,
+        "endTime": 5017,
+        "slowStartTime": 4678,
+        "slowEndTime": 7751
+    },
+    {
+        "text": "How about some sandwiches?",
+        "startTime": 6099,
+        "endTime": 7927,
+        "slowStartTime": 9299,
+        "slowEndTime": 12115
+    },
+    {
+        "text": "That sounds good.",
+        "startTime": 8976,
+        "endTime": 10149,
+        "slowStartTime": 13614,
+        "slowEndTime": 15448
+    },
+    {
+        "text": "What kind of sandwiches shall we eat?",
+        "startTime": 10561,
+        "endTime": 12999,
+        "slowStartTime": 15991,
+        "slowEndTime": 19724
+    },
+    {
+        "text": "How about making some chicken sandwiches?",
+        "startTime": 14035,
+        "endTime": 16487,
+        "slowStartTime": 21203,
+        "slowEndTime": 24956
+    },
+    {
+        "text": "Umm. I want ham and eggs on my sandwich.",
+        "startTime": 17590,
+        "endTime": 20989,
+        "slowStartTime": 26535,
+        "slowEndTime": 31708
+    },
+    {
+        "text": "OK. Let's make ham and egg sandwiches.",
+        "startTime": 22055,
+        "endTime": 25446,
+        "slowStartTime": 33232,
+        "slowEndTime": 38394
+    },
+    {
+        "text": "What do we need to make ham and egg sandwiches?",
+        "startTime": 26589,
+        "endTime": 29427,
+        "slowStartTime": 40033,
+        "slowEndTime": 44366
+    },
+    {
+        "text": "We need some bread, lettuce, tomatoes, ham and eggs.",
+        "startTime": 30508,
+        "endTime": 34236,
+        "slowStartTime": 45912,
+        "slowEndTime": 51579
+    },
+    {
+        "text": "Do we have any cheese?",
+        "startTime": 35313,
+        "endTime": 36683,
+        "slowStartTime": 53119,
+        "slowEndTime": 55249
+    },
+    {
+        "text": "I also want some cheese on my sandwich.",
+        "startTime": 37219,
+        "endTime": 39885,
+        "slowStartTime": 55978,
+        "slowEndTime": 60053
+    },
+    {
+        "text": "Sure. We have lots of cheese in the refrigerator.",
+        "startTime": 40898,
+        "endTime": 44209,
+        "slowStartTime": 61497,
+        "slowEndTime": 66538
+    }
+]

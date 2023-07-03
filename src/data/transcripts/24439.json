@@ -1,0 +1,86 @@
+[
+    {
+        "text": "﻿Let's learn to count.",
+        "startTime": 540,
+        "endTime": 1747,
+        "slowStartTime": 960,
+        "slowEndTime": 2846
+    },
+    {
+        "text": "There is one baby.",
+        "startTime": 6239,
+        "endTime": 7701,
+        "slowStartTime": 9509,
+        "slowEndTime": 11777
+    },
+    {
+        "text": "There are two dogs.",
+        "startTime": 13225,
+        "endTime": 14928,
+        "slowStartTime": 19987,
+        "slowEndTime": 22617
+    },
+    {
+        "text": "There are three men.",
+        "startTime": 22650,
+        "endTime": 24132,
+        "slowStartTime": 34125,
+        "slowEndTime": 36423
+    },
+    {
+        "text": "There are four women.",
+        "startTime": 31675,
+        "endTime": 32977,
+        "slowStartTime": 47662,
+        "slowEndTime": 49690
+    },
+    {
+        "text": "There are five fingers.",
+        "startTime": 41519,
+        "endTime": 43158,
+        "slowStartTime": 62428,
+        "slowEndTime": 64962
+    },
+    {
+        "text": "There are six friends.",
+        "startTime": 53057,
+        "endTime": 54724,
+        "slowStartTime": 79735,
+        "slowEndTime": 82311
+    },
+    {
+        "text": "There are seven kittens.",
+        "startTime": 62374,
+        "endTime": 63984,
+        "slowStartTime": 93711,
+        "slowEndTime": 96201
+    },
+    {
+        "text": "This is the eight ball.",
+        "startTime": 72951,
+        "endTime": 74554,
+        "slowStartTime": 109576,
+        "slowEndTime": 112056
+    },
+    {
+        "text": "There are nine men.",
+        "startTime": 83401,
+        "endTime": 84716,
+        "slowStartTime": 125252,
+        "slowEndTime": 127299
+    },
+    {
+        "text": "There are ten pins.",
+        "startTime": 92034,
+        "endTime": 93752,
+        "slowStartTime": 138201,
+        "slowEndTime": 140853
+    },
+    {
+        "text": "One, two, three, four, five, six, seven, eight, nine, ten.",
+        "startTime": 102197,
+        "endTime": 105715,
+        "slowStartTime": 153446,
+        "slowEndTime": 158797
+    }
+]

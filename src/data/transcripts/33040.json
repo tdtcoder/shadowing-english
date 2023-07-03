@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Facial recognition is basically a technology that takes images from video cameras...",
+        "startTime": 628,
+        "endTime": 4684,
+        "slowStartTime": 1092,
+        "slowEndTime": 7251
+    },
+    {
+        "text": "...and tries to identify the faces of people in those images.",
+        "startTime": 4863,
+        "endTime": 8317,
+        "slowStartTime": 7445,
+        "slowEndTime": 12701
+    },
+    {
+        "text": "It does so by taking some key points in the face usually...",
+        "startTime": 8391,
+        "endTime": 11987,
+        "slowStartTime": 12736,
+        "slowEndTime": 18205
+    },
+    {
+        "text": "...and doing measurements of the distance between all those various points.",
+        "startTime": 12057,
+        "endTime": 16279,
+        "slowStartTime": 18235,
+        "slowEndTime": 24644
+    },
+    {
+        "text": "In December 2018, London police made their first arrest based on facial recognition,...",
+        "startTime": 16749,
+        "endTime": 21250,
+        "slowStartTime": 25273,
+        "slowEndTime": 32100
+    },
+    {
+        "text": "...after cross-checking photos of pedestrians in tourist hotspots...",
+        "startTime": 21327,
+        "endTime": 24749,
+        "slowStartTime": 32141,
+        "slowEndTime": 37348
+    },
+    {
+        "text": "...against a database of known criminals.",
+        "startTime": 24863,
+        "endTime": 26970,
+        "slowStartTime": 37444,
+        "slowEndTime": 40680
+    },
+    {
+        "text": "In New Delhi,...",
+        "startTime": 27071,
+        "endTime": 27773,
+        "slowStartTime": 40757,
+        "slowEndTime": 41884
+    },
+    {
+        "text": "...a police trial reportedly identified 3,000 missing children in just four days.",
+        "startTime": 27838,
+        "endTime": 32477,
+        "slowStartTime": 41907,
+        "slowEndTime": 48940
+    },
+    {
+        "text": "So, if it involves catching criminals and finding missing children,...",
+        "startTime": 32913,
+        "endTime": 35744,
+        "slowStartTime": 49520,
+        "slowEndTime": 53841
+    },
+    {
+        "text": "...why would anyone be against it?",
+        "startTime": 35861,
+        "endTime": 37266,
+        "slowStartTime": 53942,
+        "slowEndTime": 56124
+    },
+    {
+        "text": "For that, one might look at the most developed...",
+        "startTime": 37586,
+        "endTime": 39604,
+        "slowStartTime": 56529,
+        "slowEndTime": 59631
+    },
+    {
+        "text": "...facial recognition network in the world, in China.",
+        "startTime": 39693,
+        "endTime": 42380,
+        "slowStartTime": 59689,
+        "slowEndTime": 63795
+    },
+    {
+        "text": "CCTV and facial recognition have been used in combination...",
+        "startTime": 42934,
+        "endTime": 46374,
+        "slowStartTime": 64551,
+        "slowEndTime": 69786
+    },
+    {
+        "text": "...to create this sort of vast surveillance apparatus...",
+        "startTime": 46940,
+        "endTime": 49424,
+        "slowStartTime": 70560,
+        "slowEndTime": 74361
+    },
+    {
+        "text": "...and that's been particularly applied against certain ethnic minority groups.",
+        "startTime": 49503,
+        "endTime": 53254,
+        "slowStartTime": 74404,
+        "slowEndTime": 80106
+    }
+]

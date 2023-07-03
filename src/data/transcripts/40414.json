@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Here are some expressions you can use when gossiping.",
+        "startTime": 685,
+        "endTime": 3877,
+        "slowStartTime": 1177,
+        "slowEndTime": 6041
+    },
+    {
+        "text": "Oh my God, so...",
+        "startTime": 5610,
+        "endTime": 7726,
+        "slowStartTime": 8565,
+        "slowEndTime": 11814
+    },
+    {
+        "text": "You won't believe what happened to me the other day!",
+        "startTime": 9377,
+        "endTime": 11957,
+        "slowStartTime": 14215,
+        "slowEndTime": 18161
+    },
+    {
+        "text": "Guess what?",
+        "startTime": 13813,
+        "endTime": 15052,
+        "slowStartTime": 20869,
+        "slowEndTime": 22803
+    },
+    {
+        "text": "I haven't told you about this yet!",
+        "startTime": 16865,
+        "endTime": 18877,
+        "slowStartTime": 25447,
+        "slowEndTime": 28540
+    },
+    {
+        "text": "Have you heard about...?",
+        "startTime": 20818,
+        "endTime": 22231,
+        "slowStartTime": 31377,
+        "slowEndTime": 33571
+    },
+    {
+        "text": "So, the other day...",
+        "startTime": 23885,
+        "endTime": 26129,
+        "slowStartTime": 35978,
+        "slowEndTime": 39418
+    },
+    {
+        "text": "So, I was talking with... and...",
+        "startTime": 27971,
+        "endTime": 30750,
+        "slowStartTime": 42106,
+        "slowEndTime": 46350
+    },
+    {
+        "text": "Have you heard from... lately?",
+        "startTime": 32552,
+        "endTime": 35735,
+        "slowStartTime": 48978,
+        "slowEndTime": 53828
+    },
+    {
+        "text": "I have to tell you about...",
+        "startTime": 36855,
+        "endTime": 39182,
+        "slowStartTime": 55433,
+        "slowEndTime": 58998
+    }
+]

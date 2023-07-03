@@ -1,0 +1,86 @@
+[
+    {
+        "text": "I am ice.",
+        "startTime": 1757,
+        "endTime": 4859,
+        "slowStartTime": 2786,
+        "slowEndTime": 7513
+    },
+    {
+        "text": "I move slowly.",
+        "startTime": 5859,
+        "endTime": 7773,
+        "slowStartTime": 8938,
+        "slowEndTime": 11885
+    },
+    {
+        "text": "I keep the world cool.",
+        "startTime": 8958,
+        "endTime": 11209,
+        "slowStartTime": 13587,
+        "slowEndTime": 17039
+    },
+    {
+        "text": "Well, I used to.",
+        "startTime": 13114,
+        "endTime": 15555,
+        "slowStartTime": 19821,
+        "slowEndTime": 23557
+    },
+    {
+        "text": "But humans keep warming this planet.",
+        "startTime": 16861,
+        "endTime": 19383,
+        "slowStartTime": 25442,
+        "slowEndTime": 29300
+    },
+    {
+        "text": "I try to warn you.",
+        "startTime": 21183,
+        "endTime": 22520,
+        "slowStartTime": 31924,
+        "slowEndTime": 34005
+    },
+    {
+        "text": "I send pieces of me thundering into the ocean.",
+        "startTime": 23683,
+        "endTime": 27334,
+        "slowStartTime": 35675,
+        "slowEndTime": 41226
+    },
+    {
+        "text": "You do nothing.",
+        "startTime": 28257,
+        "endTime": 30085,
+        "slowStartTime": 42536,
+        "slowEndTime": 45353
+    },
+    {
+        "text": "I raise sea levels.",
+        "startTime": 32789,
+        "endTime": 34725,
+        "slowStartTime": 49334,
+        "slowEndTime": 52313
+    },
+    {
+        "text": "You do nothing.",
+        "startTime": 36681,
+        "endTime": 38649,
+        "slowStartTime": 55172,
+        "slowEndTime": 58199
+    },
+    {
+        "text": "It has taken you decades to notice.",
+        "startTime": 41283,
+        "endTime": 43863,
+        "slowStartTime": 62075,
+        "slowEndTime": 66019
+    },
+    {
+        "text": "Perhaps I'm not so slow after all.",
+        "startTime": 45309,
+        "endTime": 49171,
+        "slowStartTime": 68114,
+        "slowEndTime": 73982
+    }
+]

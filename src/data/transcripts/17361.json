@@ -1,0 +1,156 @@
+[
+    {
+        "text": "We go shopping.",
+        "startTime": 2419,
+        "endTime": 3834,
+        "slowStartTime": 3778,
+        "slowEndTime": 5976
+    },
+    {
+        "text": "It is birthday party time.",
+        "startTime": 4843,
+        "endTime": 6933,
+        "slowStartTime": 7415,
+        "slowEndTime": 10624
+    },
+    {
+        "text": "We go to the card shop.",
+        "startTime": 7981,
+        "endTime": 9865,
+        "slowStartTime": 12121,
+        "slowEndTime": 15022
+    },
+    {
+        "text": "We get a card.",
+        "startTime": 10960,
+        "endTime": 12479,
+        "slowStartTime": 16590,
+        "slowEndTime": 18944
+    },
+    {
+        "text": "We go to the balloon shop.",
+        "startTime": 13543,
+        "endTime": 15845,
+        "slowStartTime": 20465,
+        "slowEndTime": 23993
+    },
+    {
+        "text": "We get balloons.",
+        "startTime": 16815,
+        "endTime": 18333,
+        "slowStartTime": 25372,
+        "slowEndTime": 27725
+    },
+    {
+        "text": "We go to the bakery.",
+        "startTime": 19271,
+        "endTime": 21170,
+        "slowStartTime": 29057,
+        "slowEndTime": 31980
+    },
+    {
+        "text": "We get a cake.",
+        "startTime": 22187,
+        "endTime": 23706,
+        "slowStartTime": 33430,
+        "slowEndTime": 35784
+    },
+    {
+        "text": "We go to the ice cream shop.",
+        "startTime": 24659,
+        "endTime": 26975,
+        "slowStartTime": 37139,
+        "slowEndTime": 40688
+    },
+    {
+        "text": "We get ice cream.",
+        "startTime": 28039,
+        "endTime": 29701,
+        "slowStartTime": 42209,
+        "slowEndTime": 44776
+    },
+    {
+        "text": "We go to the toy store.",
+        "startTime": 30670,
+        "endTime": 32696,
+        "slowStartTime": 46155,
+        "slowEndTime": 49269
+    },
+    {
+        "text": "We get a toy.",
+        "startTime": 33729,
+        "endTime": 35111,
+        "slowStartTime": 50743,
+        "slowEndTime": 52891
+    },
+    {
+        "text": "We go to the birthday party.",
+        "startTime": 36032,
+        "endTime": 38211,
+        "slowStartTime": 54198,
+        "slowEndTime": 57541
+    },
+    {
+        "text": "We play games.",
+        "startTime": 39201,
+        "endTime": 40831,
+        "slowStartTime": 58952,
+        "slowEndTime": 61472
+    },
+    {
+        "text": "We sing happy birthday.",
+        "startTime": 41755,
+        "endTime": 43876,
+        "slowStartTime": 62782,
+        "slowEndTime": 66039
+    },
+    {
+        "text": "We have fun.",
+        "startTime": 44861,
+        "endTime": 46142,
+        "slowStartTime": 67441,
+        "slowEndTime": 69438
+    },
+    {
+        "text": "Do you go swimming?",
+        "startTime": 49489,
+        "endTime": 51075,
+        "slowStartTime": 74383,
+        "slowEndTime": 76837
+    },
+    {
+        "text": "No, I don't go swimming. I go shopping.",
+        "startTime": 52059,
+        "endTime": 55527,
+        "slowStartTime": 78239,
+        "slowEndTime": 83516
+    },
+    {
+        "text": "Does he go hiking?",
+        "startTime": 56497,
+        "endTime": 58155,
+        "slowStartTime": 84895,
+        "slowEndTime": 87457
+    },
+    {
+        "text": "No, he doesn't go hiking. He goes swimming.",
+        "startTime": 59124,
+        "endTime": 62719,
+        "slowStartTime": 88836,
+        "slowEndTime": 94304
+    },
+    {
+        "text": "Do they go shopping?",
+        "startTime": 63783,
+        "endTime": 65432,
+        "slowStartTime": 95825,
+        "slowEndTime": 98373
+    },
+    {
+        "text": "Yes, they go shopping for jackets.",
+        "startTime": 66369,
+        "endTime": 69600,
+        "slowStartTime": 99704,
+        "slowEndTime": 104625
+    }
+]

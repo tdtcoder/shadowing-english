@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Elon Musk is famous for his drive, but now he wants the rest of us...",
+        "startTime": 2277,
+        "endTime": 5521,
+        "slowStartTime": 3566,
+        "slowEndTime": 8507
+    },
+    {
+        "text": "...to take our hands off the wheel.",
+        "startTime": 5600,
+        "endTime": 7437,
+        "slowStartTime": 8550,
+        "slowEndTime": 11381
+    },
+    {
+        "text": "He's bringing out fully self-driving Teslas.",
+        "startTime": 7903,
+        "endTime": 10800,
+        "slowStartTime": 12004,
+        "slowEndTime": 16425
+    },
+    {
+        "text": "Well, at least autonomous ready.",
+        "startTime": 11193,
+        "endTime": 12913,
+        "slowStartTime": 16939,
+        "slowEndTime": 19594
+    },
+    {
+        "text": "This isn't just a software upgrade,...",
+        "startTime": 13493,
+        "endTime": 14947,
+        "slowStartTime": 20390,
+        "slowEndTime": 22646
+    },
+    {
+        "text": "...which is how Tesla has updated its autonomous capabilities in the past.",
+        "startTime": 15031,
+        "endTime": 18687,
+        "slowStartTime": 22697,
+        "slowEndTime": 28256
+    },
+    {
+        "text": "This is new hardware that includes eight cameras...",
+        "startTime": 19483,
+        "endTime": 21763,
+        "slowStartTime": 29374,
+        "slowEndTime": 32869
+    },
+    {
+        "text": "...for a full 360-degree view of the environment,...",
+        "startTime": 21861,
+        "endTime": 24747,
+        "slowStartTime": 32942,
+        "slowEndTime": 37345
+    },
+    {
+        "text": "...and enhanced ultrasonic sensors, as well as a huge bump in computing power.",
+        "startTime": 25215,
+        "endTime": 30310,
+        "slowStartTime": 37973,
+        "slowEndTime": 45690
+    },
+    {
+        "text": "Musk is making typically big claims.",
+        "startTime": 32072,
+        "endTime": 34246,
+        "slowStartTime": 48258,
+        "slowEndTime": 51594
+    },
+    {
+        "text": "He says that by the end of next year, he'll demonstrate a car...",
+        "startTime": 34445,
+        "endTime": 37405,
+        "slowStartTime": 51817,
+        "slowEndTime": 56332
+    },
+    {
+        "text": "...that can drive from L.A. to New York all without the driver,...",
+        "startTime": 37687,
+        "endTime": 41053,
+        "slowStartTime": 56681,
+        "slowEndTime": 61804
+    },
+    {
+        "text": "...or is it a passenger by that point, touching a thing.",
+        "startTime": 41273,
+        "endTime": 43937,
+        "slowStartTime": 62060,
+        "slowEndTime": 66131
+    },
+    {
+        "text": "The full set of features will come at a cost, $8,000.",
+        "startTime": 44522,
+        "endTime": 48022,
+        "slowStartTime": 66933,
+        "slowEndTime": 72258
+    }
+]

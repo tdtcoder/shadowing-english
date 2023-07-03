@@ -1,0 +1,135 @@
+[
+    {
+        "text": "Excuse me, I've never been to a laundromat before.",
+        "startTime": 2045,
+        "endTime": 4975,
+        "slowStartTime": 3218,
+        "slowEndTime": 7687
+    },
+    {
+        "text": "I'm not sure what to do.",
+        "startTime": 5171,
+        "endTime": 6636,
+        "slowStartTime": 7907,
+        "slowEndTime": 10179
+    },
+    {
+        "text": "Okay, no problem.",
+        "startTime": 6934,
+        "endTime": 8423,
+        "slowStartTime": 10551,
+        "slowEndTime": 12859
+    },
+    {
+        "text": "What do you need to do?",
+        "startTime": 8620,
+        "endTime": 9653,
+        "slowStartTime": 13080,
+        "slowEndTime": 14705
+    },
+    {
+        "text": "Just regular washing?",
+        "startTime": 9851,
+        "endTime": 11143,
+        "slowStartTime": 14927,
+        "slowEndTime": 16939
+    },
+    {
+        "text": "Yes, I guess so.",
+        "startTime": 11421,
+        "endTime": 12730,
+        "slowStartTime": 17282,
+        "slowEndTime": 19320
+    },
+    {
+        "text": " I just have regular clothes here.",
+        "startTime": 13089,
+        "endTime": 14850,
+        "slowStartTime": 19784,
+        "slowEndTime": 22500
+    },
+    {
+        "text": "Okay, then it's pretty easy.",
+        "startTime": 15109,
+        "endTime": 17024,
+        "slowStartTime": 22813,
+        "slowEndTime": 25761
+    },
+    {
+        "text": "You'll need to change about five dollars into quarters.",
+        "startTime": 17251,
+        "endTime": 20198,
+        "slowStartTime": 26026,
+        "slowEndTime": 30522
+    },
+    {
+        "text": "Where can I do that?",
+        "startTime": 20398,
+        "endTime": 21437,
+        "slowStartTime": 30747,
+        "slowEndTime": 32381
+    },
+    {
+        "text": "There's a coin changer right over here.",
+        "startTime": 21825,
+        "endTime": 23858,
+        "slowStartTime": 32887,
+        "slowEndTime": 36012
+    },
+    {
+        "text": "Then what do I do?",
+        "startTime": 24275,
+        "endTime": 25319,
+        "slowStartTime": 36562,
+        "slowEndTime": 38203
+    },
+    {
+        "text": "You'll need to get a small box of detergent.",
+        "startTime": 25611,
+        "endTime": 27998,
+        "slowStartTime": 38567,
+        "slowEndTime": 42222
+    },
+    {
+        "text": "There is a vending machine that sells detergent next to the washing machines.",
+        "startTime": 28220,
+        "endTime": 32535,
+        "slowStartTime": 42480,
+        "slowEndTime": 49028
+    },
+    {
+        "text": "Okay.",
+        "startTime": 32702,
+        "endTime": 33153,
+        "slowStartTime": 49203,
+        "slowEndTime": 49954
+    },
+    {
+        "text": "So I guess I just put my clothes and the detergent in a washing machine.",
+        "startTime": 33801,
+        "endTime": 37355,
+        "slowStartTime": 50852,
+        "slowEndTime": 56258
+    },
+    {
+        "text": "Yup, it's as simple as that.",
+        "startTime": 37594,
+        "endTime": 39542,
+        "slowStartTime": 56541,
+        "slowEndTime": 59538
+    },
+    {
+        "text": "Let me know when you are done and I'll give you a hand with the dryers.",
+        "startTime": 39755,
+        "endTime": 43519,
+        "slowStartTime": 59782,
+        "slowEndTime": 65504
+    },
+    {
+        "text": "Thank you very much.",
+        "startTime": 43681,
+        "endTime": 44664,
+        "slowStartTime": 65671,
+        "slowEndTime": 67221
+    }
+]

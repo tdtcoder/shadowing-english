@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Hands Are Tied.",
+        "startTime": 8247,
+        "endTime": 9413,
+        "slowStartTime": 12521,
+        "slowEndTime": 14345
+    },
+    {
+        "text": "It means unable to help someone because of lack of power or authority.",
+        "startTime": 13113,
+        "endTime": 18546,
+        "slowStartTime": 19820,
+        "slowEndTime": 28044
+    },
+    {
+        "text": "There's nothing I can do to help you because my hands are tied.",
+        "startTime": 22557,
+        "endTime": 26116,
+        "slowStartTime": 33985,
+        "slowEndTime": 39399
+    },
+    {
+        "text": "I'd like to change the way we run things here but my hands are tied.",
+        "startTime": 32537,
+        "endTime": 36649,
+        "slowStartTime": 48956,
+        "slowEndTime": 55199
+    },
+    {
+        "text": "I'd like to give her the promotion but my hands are tied.",
+        "startTime": 42765,
+        "endTime": 46314,
+        "slowStartTime": 64298,
+        "slowEndTime": 69696
+    }
+]

@@ -1,0 +1,198 @@
+[
+    {
+        "text": "Hello?",
+        "startTime": 159,
+        "endTime": 779,
+        "slowStartTime": 389,
+        "slowEndTime": 1394
+    },
+    {
+        "text": "Hey, Amanda.",
+        "startTime": 1347,
+        "endTime": 2092,
+        "slowStartTime": 2171,
+        "slowEndTime": 3363
+    },
+    {
+        "text": "What's up?",
+        "startTime": 2327,
+        "endTime": 2821,
+        "slowStartTime": 3640,
+        "slowEndTime": 4456
+    },
+    {
+        "text": "Nothing much.",
+        "startTime": 3120,
+        "endTime": 3923,
+        "slowStartTime": 4830,
+        "slowEndTime": 6109
+    },
+    {
+        "text": "Where are you?",
+        "startTime": 4337,
+        "endTime": 4987,
+        "slowStartTime": 6656,
+        "slowEndTime": 7706
+    },
+    {
+        "text": "I'm at a hair salon to dye my hair.",
+        "startTime": 5545,
+        "endTime": 7414,
+        "slowStartTime": 8468,
+        "slowEndTime": 11346
+    },
+    {
+        "text": "Really?",
+        "startTime": 7819,
+        "endTime": 8525,
+        "slowStartTime": 11879,
+        "slowEndTime": 13012
+    },
+    {
+        "text": "What color are you changing it to?",
+        "startTime": 8905,
+        "endTime": 10291,
+        "slowStartTime": 13508,
+        "slowEndTime": 15662
+    },
+    {
+        "text": "I want it blonde.",
+        "startTime": 10633,
+        "endTime": 11925,
+        "slowStartTime": 16100,
+        "slowEndTime": 18112
+    },
+    {
+        "text": "It will be cute with my bangs.",
+        "startTime": 12400,
+        "endTime": 13964,
+        "slowStartTime": 18750,
+        "slowEndTime": 21171
+    },
+    {
+        "text": "Are your friends and family okay with your decision?",
+        "startTime": 14319,
+        "endTime": 16656,
+        "slowStartTime": 21629,
+        "slowEndTime": 25209
+    },
+    {
+        "text": "Why not?",
+        "startTime": 17107,
+        "endTime": 17884,
+        "slowStartTime": 25811,
+        "slowEndTime": 27051
+    },
+    {
+        "text": "Besides, it'll grow back.",
+        "startTime": 18117,
+        "endTime": 19735,
+        "slowStartTime": 27326,
+        "slowEndTime": 29827
+    },
+    {
+        "text": "That's right.",
+        "startTime": 20061,
+        "endTime": 20785,
+        "slowStartTime": 30242,
+        "slowEndTime": 31403
+    },
+    {
+        "text": "Is anybody with you at the salon?",
+        "startTime": 21134,
+        "endTime": 22655,
+        "slowStartTime": 31851,
+        "slowEndTime": 34207
+    },
+    {
+        "text": "With my friend.",
+        "startTime": 23057,
+        "endTime": 23900,
+        "slowStartTime": 34736,
+        "slowEndTime": 36075
+    },
+    {
+        "text": "He is waiting for me.",
+        "startTime": 24331,
+        "endTime": 25477,
+        "slowStartTime": 36646,
+        "slowEndTime": 38441
+    },
+    {
+        "text": "By the way, how long is your hair?",
+        "startTime": 25811,
+        "endTime": 27742,
+        "slowStartTime": 38867,
+        "slowEndTime": 41838
+    },
+    {
+        "text": "Me?",
+        "startTime": 28129,
+        "endTime": 28419,
+        "slowStartTime": 42344,
+        "slowEndTime": 42853
+    },
+    {
+        "text": "I've got shoulder length hair.",
+        "startTime": 28994,
+        "endTime": 30464,
+        "slowStartTime": 43641,
+        "slowEndTime": 45921
+    },
+    {
+        "text": "That's pretty.",
+        "startTime": 30724,
+        "endTime": 31532,
+        "slowStartTime": 46236,
+        "slowEndTime": 47523
+    },
+    {
+        "text": "Do you have wavy hair?",
+        "startTime": 31893,
+        "endTime": 32951,
+        "slowStartTime": 47990,
+        "slowEndTime": 49651
+    },
+    {
+        "text": "Yes, that's right.",
+        "startTime": 33173,
+        "endTime": 34465,
+        "slowStartTime": 49910,
+        "slowEndTime": 51922
+    },
+    {
+        "text": "I think wavy hair makes you look younger.",
+        "startTime": 34951,
+        "endTime": 36777,
+        "slowStartTime": 52577,
+        "slowEndTime": 55390
+    },
+    {
+        "text": "Do you think so?",
+        "startTime": 37228,
+        "endTime": 38275,
+        "slowStartTime": 55992,
+        "slowEndTime": 57637
+    },
+    {
+        "text": "I thought straight hair makes you look much younger.",
+        "startTime": 38764,
+        "endTime": 41579,
+        "slowStartTime": 58296,
+        "slowEndTime": 62594
+    },
+    {
+        "text": "Should I straighten my hair or not?",
+        "startTime": 43165,
+        "endTime": 45621,
+        "slowStartTime": 64897,
+        "slowEndTime": 68657
+    },
+    {
+        "text": "Well, either way, I'm sure you'll look beautiful.",
+        "startTime": 46223,
+        "endTime": 48885,
+        "slowStartTime": 69485,
+        "slowEndTime": 73553
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Here are some phrases you can use when talking about news.",
+        "startTime": 139,
+        "endTime": 3557,
+        "slowStartTime": 359,
+        "slowEndTime": 5561
+    },
+    {
+        "text": "Did you see the news about...?",
+        "startTime": 5509,
+        "endTime": 7126,
+        "slowStartTime": 8413,
+        "slowEndTime": 10914
+    },
+    {
+        "text": "I read an article about...",
+        "startTime": 9113,
+        "endTime": 10555,
+        "slowStartTime": 13820,
+        "slowEndTime": 16058
+    },
+    {
+        "text": "I saw in the news that....",
+        "startTime": 12447,
+        "endTime": 14493,
+        "slowStartTime": 18821,
+        "slowEndTime": 21964
+    },
+    {
+        "text": "I heard about that too!",
+        "startTime": 16297,
+        "endTime": 17807,
+        "slowStartTime": 24595,
+        "slowEndTime": 26936
+    },
+    {
+        "text": "I saw that!",
+        "startTime": 19703,
+        "endTime": 20841,
+        "slowStartTime": 29704,
+        "slowEndTime": 31487
+    },
+    {
+        "text": "What happened?",
+        "startTime": 22747,
+        "endTime": 23682,
+        "slowStartTime": 34271,
+        "slowEndTime": 35748
+    },
+    {
+        "text": "Things don't look good.",
+        "startTime": 25503,
+        "endTime": 26995,
+        "slowStartTime": 38405,
+        "slowEndTime": 40718
+    },
+    {
+        "text": "I hope things improve.",
+        "startTime": 28929,
+        "endTime": 30496,
+        "slowStartTime": 43543,
+        "slowEndTime": 45969
+    },
+    {
+        "text": "I think it is....",
+        "startTime": 32239,
+        "endTime": 33447,
+        "slowStartTime": 48509,
+        "slowEndTime": 50396
+    },
+    {
+        "text": "The whole situation is....",
+        "startTime": 35142,
+        "endTime": 37033,
+        "slowStartTime": 52863,
+        "slowEndTime": 55774
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Whoa!",
+        "startTime": 153,
+        "endTime": 804,
+        "slowStartTime": 380,
+        "slowEndTime": 1431
+    },
+    {
+        "text": "Mom, check out dad.",
+        "startTime": 1484,
+        "endTime": 2587,
+        "slowStartTime": 2376,
+        "slowEndTime": 4105
+    },
+    {
+        "text": "I think you shrunk my pajamas.",
+        "startTime": 3574,
+        "endTime": 4827,
+        "slowStartTime": 5511,
+        "slowEndTime": 7466
+    },
+    {
+        "text": "Looks like he was up late watching NBA on his phone again.",
+        "startTime": 5193,
+        "endTime": 7935,
+        "slowStartTime": 7939,
+        "slowEndTime": 12127
+    },
+    {
+        "text": "Why?",
+        "startTime": 8351,
+        "endTime": 8660,
+        "slowStartTime": 12677,
+        "slowEndTime": 13215
+    },
+    {
+        "text": "Do I look tired?",
+        "startTime": 8751,
+        "endTime": 9425,
+        "slowStartTime": 13276,
+        "slowEndTime": 14362
+    },
+    {
+        "text": "No, you look like Kevin Durant.",
+        "startTime": 9624,
+        "endTime": 11287,
+        "slowStartTime": 14586,
+        "slowEndTime": 17155
+    },
+    {
+        "text": "Really?",
+        "startTime": 13161,
+        "endTime": 13601,
+        "slowStartTime": 19891,
+        "slowEndTime": 20626
+    },
+    {
+        "text": "He looks fine to you?",
+        "startTime": 14467,
+        "endTime": 15329,
+        "slowStartTime": 21851,
+        "slowEndTime": 23219
+    },
+    {
+        "text": "Go play.",
+        "startTime": 15571,
+        "endTime": 16007,
+        "slowStartTime": 23506,
+        "slowEndTime": 24236
+    },
+    {
+        "text": "Mommy's got some things for daddy to do.",
+        "startTime": 16675,
+        "endTime": 18299,
+        "slowStartTime": 25163,
+        "slowEndTime": 27673
+    },
+    {
+        "text": "Unlimited NBA from Sprint changes everything.",
+        "startTime": 21483,
+        "endTime": 24356,
+        "slowStartTime": 32375,
+        "slowEndTime": 36759
+    },
+    {
+        "text": "Get truly unlimited data from Sprint,...",
+        "startTime": 25470,
+        "endTime": 27456,
+        "slowStartTime": 38355,
+        "slowEndTime": 41409
+    },
+    {
+        "text": "...official wireless partner of the NBA.",
+        "startTime": 27715,
+        "endTime": 29737,
+        "slowStartTime": 41723,
+        "slowEndTime": 44831
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Winter storm Jonas hit the United States' East Coast,...",
+        "startTime": 779,
+        "endTime": 4107,
+        "slowStartTime": 1318,
+        "slowEndTime": 6386
+    },
+    {
+        "text": "...affecting 85 million Americans from the southeast...",
+        "startTime": 4653,
+        "endTime": 8119,
+        "slowStartTime": 7129,
+        "slowEndTime": 12403
+    },
+    {
+        "text": "....to Washington, D.C. to New York,...",
+        "startTime": 8338,
+        "endTime": 10718,
+        "slowStartTime": 12657,
+        "slowEndTime": 16302
+    },
+    {
+        "text": "...where the snow measured up to 68 centimeters.",
+        "startTime": 11354,
+        "endTime": 14239,
+        "slowStartTime": 17181,
+        "slowEndTime": 21584
+    },
+    {
+        "text": "Tens of thousands were without power and more than 10,000 flights were cancelled.",
+        "startTime": 15343,
+        "endTime": 20403,
+        "slowStartTime": 23165,
+        "slowEndTime": 30830
+    },
+    {
+        "text": "Now that the storm has passed, people must dig their way back to normal life.",
+        "startTime": 21477,
+        "endTime": 26442,
+        "slowStartTime": 32366,
+        "slowEndTime": 39888
+    }
+]

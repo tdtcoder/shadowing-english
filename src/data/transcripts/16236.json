@@ -1,0 +1,219 @@
+[
+    {
+        "text": "Hey! Come in Shawn.",
+        "startTime": 6681,
+        "endTime": 7819,
+        "slowStartTime": 10171,
+        "slowEndTime": 11954
+    },
+    {
+        "text": "Thank you, Mr. Merchan.",
+        "startTime": 8327,
+        "endTime": 9327,
+        "slowStartTime": 12640,
+        "slowEndTime": 14215
+    },
+    {
+        "text": "How's it going?",
+        "startTime": 9416,
+        "endTime": 9969,
+        "slowStartTime": 14274,
+        "slowEndTime": 15178
+    },
+    {
+        "text": "Good. How are you?",
+        "startTime": 10114,
+        "endTime": 10765,
+        "slowStartTime": 15321,
+        "slowEndTime": 16373
+    },
+    {
+        "text": "Good, good, good.",
+        "startTime": 10849,
+        "endTime": 11733,
+        "slowStartTime": 16424,
+        "slowEndTime": 17824
+    },
+    {
+        "text": "I've called you in here for a few things.",
+        "startTime": 12647,
+        "endTime": 14011,
+        "slowStartTime": 19120,
+        "slowEndTime": 21242
+    },
+    {
+        "text": "Here, take a seat.",
+        "startTime": 14099,
+        "endTime": 14985,
+        "slowStartTime": 21298,
+        "slowEndTime": 22702
+    },
+    {
+        "text": "I've called you in here for a few reasons.",
+        "startTime": 15912,
+        "endTime": 17327,
+        "slowStartTime": 24018,
+        "slowEndTime": 26215
+    },
+    {
+        "text": "As you know, we're doing our quarterly review.",
+        "startTime": 17419,
+        "endTime": 19544,
+        "slowStartTime": 26279,
+        "slowEndTime": 29541
+    },
+    {
+        "text": "And I've just been going through this checklist here of your reports and that,...",
+        "startTime": 20428,
+        "endTime": 24506,
+        "slowStartTime": 30792,
+        "slowEndTime": 36984
+    },
+    {
+        "text": "...and, you know, we're pretty satisfied with your performance.",
+        "startTime": 24586,
+        "endTime": 27379,
+        "slowStartTime": 37029,
+        "slowEndTime": 41294
+    },
+    {
+        "text": "You're here on time every day,...",
+        "startTime": 27751,
+        "endTime": 29657,
+        "slowStartTime": 41776,
+        "slowEndTime": 44710
+    },
+    {
+        "text": "...you've been working well with others,...",
+        "startTime": 31367,
+        "endTime": 32303,
+        "slowStartTime": 47201,
+        "slowEndTime": 48679
+    },
+    {
+        "text": "...I mean, you know, people seem to like working with you,...",
+        "startTime": 32383,
+        "endTime": 34639,
+        "slowStartTime": 48724,
+        "slowEndTime": 52183
+    },
+    {
+        "text": "...and you know, you get your stuff done.",
+        "startTime": 34730,
+        "endTime": 37417,
+        "slowStartTime": 52245,
+        "slowEndTime": 56351
+    },
+    {
+        "text": "You know, everything's here.",
+        "startTime": 37713,
+        "endTime": 39539,
+        "slowStartTime": 56720,
+        "slowEndTime": 59533
+    },
+    {
+        "text": "We have been having a slight issue with your TPS report.",
+        "startTime": 39951,
+        "endTime": 44836,
+        "slowStartTime": 60077,
+        "slowEndTime": 67479
+    },
+    {
+        "text": "You know, we're gonna need you to come in on Saturday and play a little catch up...",
+        "startTime": 46720,
+        "endTime": 51893,
+        "slowStartTime": 70230,
+        "slowEndTime": 78065
+    },
+    {
+        "text": "...since the reports haven't been up to standard.",
+        "startTime": 51983,
+        "endTime": 54644,
+        "slowStartTime": 78125,
+        "slowEndTime": 82191
+    },
+    {
+        "text": "You're getting check minuses.",
+        "startTime": 54734,
+        "endTime": 56708,
+        "slowStartTime": 82251,
+        "slowEndTime": 85287
+    },
+    {
+        "text": "I think it's such a good idea.",
+        "startTime": 67579,
+        "endTime": 68327,
+        "slowStartTime": 101518,
+        "slowEndTime": 102716
+    },
+    {
+        "text": "That is a terrible idea.",
+        "startTime": 69417,
+        "endTime": 70499,
+        "slowStartTime": 104275,
+        "slowEndTime": 105973
+    },
+    {
+        "text": "No one's asking you.",
+        "startTime": 70805,
+        "endTime": 71616,
+        "slowStartTime": 106357,
+        "slowEndTime": 107649
+    },
+    {
+        "text": "We really need to set up a shop in Cambodia.",
+        "startTime": 71805,
+        "endTime": 73477,
+        "slowStartTime": 107858,
+        "slowEndTime": 110441
+    },
+    {
+        "text": "It's a huge market.",
+        "startTime": 74223,
+        "endTime": 75173,
+        "slowStartTime": 111484,
+        "slowEndTime": 112984
+    },
+    {
+        "text": "All the numbers are here.",
+        "startTime": 82165,
+        "endTime": 83239,
+        "slowStartTime": 123397,
+        "slowEndTime": 125084
+    },
+    {
+        "text": "What do you guys think of opening a shop in Cambodia?",
+        "startTime": 96932,
+        "endTime": 100148,
+        "slowStartTime": 145548,
+        "slowEndTime": 150447
+    },
+    {
+        "text": "Well, it's something we should think about.",
+        "startTime": 102115,
+        "endTime": 106068,
+        "slowStartTime": 153323,
+        "slowEndTime": 159327
+    },
+    {
+        "text": "But I think we should go over the numbers, one more time maybe.",
+        "startTime": 106262,
+        "endTime": 110265,
+        "slowStartTime": 159543,
+        "slowEndTime": 165622
+    },
+    {
+        "text": "What do you think?",
+        "startTime": 111191,
+        "endTime": 111829,
+        "slowStartTime": 166937,
+        "slowEndTime": 167968
+    },
+    {
+        "text": "If the numbers show promise for the future of the company and the rest and then at least...",
+        "startTime": 112627,
+        "endTime": 119491,
+        "slowStartTime": 169091,
+        "slowEndTime": 179462
+    }
+]

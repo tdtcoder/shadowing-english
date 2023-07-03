@@ -1,0 +1,100 @@
+[
+    {
+        "text": "What cities have you visited?",
+        "startTime": 429,
+        "endTime": 2348,
+        "slowStartTime": 793,
+        "slowEndTime": 3747
+    },
+    {
+        "text": "New York is the city that never sleeps.",
+        "startTime": 4801,
+        "endTime": 8137,
+        "slowStartTime": 7352,
+        "slowEndTime": 12430
+    },
+    {
+        "text": "Chicago is the windy city.",
+        "startTime": 10848,
+        "endTime": 13178,
+        "slowStartTime": 16422,
+        "slowEndTime": 19992
+    },
+    {
+        "text": "Relax and travel around Berlin.",
+        "startTime": 15768,
+        "endTime": 18954,
+        "slowStartTime": 23802,
+        "slowEndTime": 28656
+    },
+    {
+        "text": "Sometimes it is rainy in London.",
+        "startTime": 22057,
+        "endTime": 24773,
+        "slowStartTime": 33235,
+        "slowEndTime": 37384
+    },
+    {
+        "text": "Paris is the city of love.",
+        "startTime": 27652,
+        "endTime": 30322,
+        "slowStartTime": 41628,
+        "slowEndTime": 45708
+    },
+    {
+        "text": "There are many quiet places in Amsterdam.",
+        "startTime": 33960,
+        "endTime": 36865,
+        "slowStartTime": 51090,
+        "slowEndTime": 55523
+    },
+    {
+        "text": "What happens in Vegas, stays in Vegas.",
+        "startTime": 40351,
+        "endTime": 43838,
+        "slowStartTime": 60676,
+        "slowEndTime": 65982
+    },
+    {
+        "text": "Washington is the capital of the United States.",
+        "startTime": 47946,
+        "endTime": 51095,
+        "slowStartTime": 72069,
+        "slowEndTime": 76867
+    },
+    {
+        "text": "Sydney has a beautiful opera house.",
+        "startTime": 54950,
+        "endTime": 57850,
+        "slowStartTime": 82575,
+        "slowEndTime": 87000
+    },
+    {
+        "text": "Tokyo is a very modern city.",
+        "startTime": 62345,
+        "endTime": 64692,
+        "slowStartTime": 93668,
+        "slowEndTime": 97263
+    },
+    {
+        "text": "Would you like to visit Red Square in Moscow?",
+        "startTime": 68598,
+        "endTime": 71427,
+        "slowStartTime": 103047,
+        "slowEndTime": 107365
+    },
+    {
+        "text": "Dubai has many high buildings.",
+        "startTime": 75387,
+        "endTime": 78189,
+        "slowStartTime": 113231,
+        "slowEndTime": 117509
+    },
+    {
+        "text": "Prague is very old and beautiful.",
+        "startTime": 81491,
+        "endTime": 84596,
+        "slowStartTime": 122387,
+        "slowEndTime": 127119
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Nice, huh?",
+        "startTime": 3255,
+        "endTime": 3776,
+        "slowStartTime": 5033,
+        "slowEndTime": 5889
+    },
+    {
+        "text": "You know what else is nice is all the savings you can get on Cruze and Traverse over there.",
+        "startTime": 5240,
+        "endTime": 8272,
+        "slowStartTime": 8010,
+        "slowEndTime": 12633
+    },
+    {
+        "text": "That's my beard.",
+        "startTime": 10781,
+        "endTime": 11547,
+        "slowStartTime": 16322,
+        "slowEndTime": 17546
+    },
+    {
+        "text": "It's amazing.",
+        "startTime": 12531,
+        "endTime": 13403,
+        "slowStartTime": 18946,
+        "slowEndTime": 20330
+    },
+    {
+        "text": "Great fuel economy on the Cruze,...",
+        "startTime": 27473,
+        "endTime": 29636,
+        "slowStartTime": 41359,
+        "slowEndTime": 44679
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 29789,
+        "endTime": 29928,
+        "slowStartTime": 44834,
+        "slowEndTime": 45117
+    },
+    {
+        "text": "...save a lot of money that way.",
+        "startTime": 31639,
+        "endTime": 33157,
+        "slowStartTime": 47609,
+        "slowEndTime": 49961
+    },
+    {
+        "text": "A lot of money.",
+        "startTime": 33276,
+        "endTime": 33797,
+        "slowStartTime": 50064,
+        "slowEndTime": 50920
+    }
+]

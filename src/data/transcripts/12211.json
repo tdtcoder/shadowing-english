@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Excuse me ma'am, I'm looking for an international phone card.",
+        "startTime": 3383,
+        "endTime": 7002,
+        "slowStartTime": 5224,
+        "slowEndTime": 10728
+    },
+    {
+        "text": "Okay, we have many you can choose from here.",
+        "startTime": 7285,
+        "endTime": 10098,
+        "slowStartTime": 11077,
+        "slowEndTime": 15372
+    },
+    {
+        "text": "What country are you planning to call?",
+        "startTime": 10373,
+        "endTime": 12384,
+        "slowStartTime": 15710,
+        "slowEndTime": 18801
+    },
+    {
+        "text": "Mostly Korea, I want to call my family and friends back home.",
+        "startTime": 12616,
+        "endTime": 16310,
+        "slowStartTime": 19074,
+        "slowEndTime": 24690
+    },
+    {
+        "text": "Korea, okay, we have a few cards that would work well for you then.",
+        "startTime": 16667,
+        "endTime": 20902,
+        "slowStartTime": 25151,
+        "slowEndTime": 31578
+    },
+    {
+        "text": "Hmm... they are all too expensive.",
+        "startTime": 21093,
+        "endTime": 23347,
+        "slowStartTime": 31790,
+        "slowEndTime": 35246
+    },
+    {
+        "text": "Do you have a card called \"Asian Express\"?",
+        "startTime": 23597,
+        "endTime": 25787,
+        "slowStartTime": 35545,
+        "slowEndTime": 38906
+    },
+    {
+        "text": "Yes, we have.",
+        "startTime": 25999,
+        "endTime": 26886,
+        "slowStartTime": 39149,
+        "slowEndTime": 40554
+    },
+    {
+        "text": "It gives the best rates for calling countries in Asia.",
+        "startTime": 27441,
+        "endTime": 30328,
+        "slowStartTime": 41311,
+        "slowEndTime": 45717
+    },
+    {
+        "text": "What are the rates to call Korea with it?",
+        "startTime": 30667,
+        "endTime": 32545,
+        "slowStartTime": 46150,
+        "slowEndTime": 49042
+    },
+    {
+        "text": "Let's see... well, it depends if you use a cell phone or a landline.",
+        "startTime": 32837,
+        "endTime": 37747,
+        "slowStartTime": 49405,
+        "slowEndTime": 56846
+    },
+    {
+        "text": "How much is it if I use a cell phone?",
+        "startTime": 37950,
+        "endTime": 39955,
+        "slowStartTime": 57075,
+        "slowEndTime": 60157
+    },
+    {
+        "text": "With a cell phone it's six cents a minute.",
+        "startTime": 40239,
+        "endTime": 42554,
+        "slowStartTime": 60509,
+        "slowEndTime": 64056
+    },
+    {
+        "text": "If you can use a landline, it's only three cents a minute.",
+        "startTime": 43020,
+        "endTime": 46034,
+        "slowStartTime": 64680,
+        "slowEndTime": 69276
+    },
+    {
+        "text": "Okay, I'll take that one.",
+        "startTime": 46223,
+        "endTime": 47789,
+        "slowStartTime": 69485,
+        "slowEndTime": 71909
+    },
+    {
+        "text": "How much is it?",
+        "startTime": 48055,
+        "endTime": 48676,
+        "slowStartTime": 72233,
+        "slowEndTime": 73239
+    },
+    {
+        "text": "Ten dollars, sir.",
+        "startTime": 49061,
+        "endTime": 50121,
+        "slowStartTime": 73742,
+        "slowEndTime": 75406
+    }
+]

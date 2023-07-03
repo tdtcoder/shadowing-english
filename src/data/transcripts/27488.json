@@ -1,0 +1,254 @@
+[
+    {
+        "text": "﻿How many more?",
+        "startTime": 167,
+        "endTime": 701,
+        "slowStartTime": 401,
+        "slowEndTime": 1277
+    },
+    {
+        "text": "How many more colleges?",
+        "startTime": 2077,
+        "endTime": 3382,
+        "slowStartTime": 3266,
+        "slowEndTime": 5298
+    },
+    {
+        "text": "How many more classrooms?",
+        "startTime": 3643,
+        "endTime": 4928,
+        "slowStartTime": 5614,
+        "slowEndTime": 7617
+    },
+    {
+        "text": "How many more movie theaters?",
+        "startTime": 5189,
+        "endTime": 6613,
+        "slowStartTime": 7934,
+        "slowEndTime": 10144
+    },
+    {
+        "text": "How many more houses of faith?",
+        "startTime": 7107,
+        "endTime": 8666,
+        "slowStartTime": 10810,
+        "slowEndTime": 13224
+    },
+    {
+        "text": "How many more shopping malls?",
+        "startTime": 9274,
+        "endTime": 10631,
+        "slowStartTime": 14061,
+        "slowEndTime": 16172
+    },
+    {
+        "text": "How many more street corners?",
+        "startTime": 10993,
+        "endTime": 12581,
+        "slowStartTime": 16640,
+        "slowEndTime": 19097
+    },
+    {
+        "text": "How many more?",
+        "startTime": 12892,
+        "endTime": 13477,
+        "slowStartTime": 19488,
+        "slowEndTime": 20441
+    },
+    {
+        "text": "Enough.",
+        "startTime": 14887,
+        "endTime": 15156,
+        "slowStartTime": 22480,
+        "slowEndTime": 22959
+    },
+    {
+        "text": "Demand a plan...",
+        "startTime": 18726,
+        "endTime": 19669,
+        "slowStartTime": 28239,
+        "slowEndTime": 29728
+    },
+    {
+        "text": "...right now...",
+        "startTime": 20169,
+        "endTime": 20805,
+        "slowStartTime": 30403,
+        "slowEndTime": 31433
+    },
+    {
+        "text": "...as a mom,...",
+        "startTime": 21504,
+        "endTime": 22167,
+        "slowStartTime": 32406,
+        "slowEndTime": 33475
+    },
+    {
+        "text": "...as a dad,...",
+        "startTime": 22483,
+        "endTime": 23077,
+        "slowStartTime": 33875,
+        "slowEndTime": 34840
+    },
+    {
+        "text": "...as a friend,...",
+        "startTime": 23589,
+        "endTime": 24237,
+        "slowStartTime": 35534,
+        "slowEndTime": 36581
+    },
+    {
+        "text": "...as a husband,...",
+        "startTime": 24742,
+        "endTime": 25505,
+        "slowStartTime": 37263,
+        "slowEndTime": 38483
+    },
+    {
+        "text": "...as a wife,...",
+        "startTime": 25903,
+        "endTime": 26528,
+        "slowStartTime": 39005,
+        "slowEndTime": 40017
+    },
+    {
+        "text": "...as a human being.",
+        "startTime": 26987,
+        "endTime": 28135,
+        "slowStartTime": 40631,
+        "slowEndTime": 42427
+    },
+    {
+        "text": "For the children of Sandy Hook,...",
+        "startTime": 28579,
+        "endTime": 30428,
+        "slowStartTime": 43019,
+        "slowEndTime": 45867
+    },
+    {
+        "text": "...demand a plan.",
+        "startTime": 31111,
+        "endTime": 32097,
+        "slowStartTime": 46816,
+        "slowEndTime": 48371
+    },
+    {
+        "text": "No more list of names.",
+        "startTime": 32613,
+        "endTime": 34111,
+        "slowStartTime": 49069,
+        "slowEndTime": 51392
+    },
+    {
+        "text": "It's not too soon.",
+        "startTime": 34475,
+        "endTime": 35390,
+        "slowStartTime": 51862,
+        "slowEndTime": 53310
+    },
+    {
+        "text": "It's too late.",
+        "startTime": 35705,
+        "endTime": 36416,
+        "slowStartTime": 53708,
+        "slowEndTime": 54849
+    },
+    {
+        "text": "Now is the time...",
+        "startTime": 36879,
+        "endTime": 37752,
+        "slowStartTime": 55468,
+        "slowEndTime": 56853
+    },
+    {
+        "text": "...before we all know someone who loved someone on that list.",
+        "startTime": 38217,
+        "endTime": 40825,
+        "slowStartTime": 57475,
+        "slowEndTime": 61462
+    },
+    {
+        "text": "No more lists.",
+        "startTime": 41322,
+        "endTime": 42193,
+        "slowStartTime": 62133,
+        "slowEndTime": 63514
+    },
+    {
+        "text": "No more...",
+        "startTime": 42742,
+        "endTime": 43395,
+        "slowStartTime": 64263,
+        "slowEndTime": 65318
+    },
+    {
+        "text": "...who they might have been, no more...",
+        "startTime": 43496,
+        "endTime": 45277,
+        "slowStartTime": 65394,
+        "slowEndTime": 68141
+    },
+    {
+        "text": "...if we had just done something yesterday.",
+        "startTime": 45368,
+        "endTime": 47138,
+        "slowStartTime": 68202,
+        "slowEndTime": 70932
+    },
+    {
+        "text": "It's time.",
+        "startTime": 47531,
+        "endTime": 48355,
+        "slowStartTime": 71447,
+        "slowEndTime": 72757
+    },
+    {
+        "text": "We can do better than this.",
+        "startTime": 48551,
+        "endTime": 49925,
+        "slowStartTime": 72977,
+        "slowEndTime": 75112
+    },
+    {
+        "text": "It's time.",
+        "startTime": 51932,
+        "endTime": 52543,
+        "slowStartTime": 78048,
+        "slowEndTime": 79040
+    },
+    {
+        "text": "It's time for our leaders to act.",
+        "startTime": 53848,
+        "endTime": 55395,
+        "slowStartTime": 80922,
+        "slowEndTime": 83317
+    },
+    {
+        "text": "Demand a plan...",
+        "startTime": 55884,
+        "endTime": 56796,
+        "slowStartTime": 83976,
+        "slowEndTime": 85419
+    },
+    {
+        "text": "...right now.",
+        "startTime": 57586,
+        "endTime": 58255,
+        "slowStartTime": 86529,
+        "slowEndTime": 87608
+    },
+    {
+        "text": "You, demand it!",
+        "startTime": 59802,
+        "endTime": 61189,
+        "slowStartTime": 89853,
+        "slowEndTime": 92008
+    },
+    {
+        "text": "Enough.",
+        "startTime": 61398,
+        "endTime": 61909,
+        "slowStartTime": 92247,
+        "slowEndTime": 93088
+    }
+]

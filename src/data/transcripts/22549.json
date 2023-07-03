@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Who says we can't fly?",
+        "startTime": 3127,
+        "endTime": 4499,
+        "slowStartTime": 4841,
+        "slowEndTime": 6974
+    },
+    {
+        "text": "Who says we shouldn't follow our dreams?",
+        "startTime": 10864,
+        "endTime": 12891,
+        "slowStartTime": 16446,
+        "slowEndTime": 19561
+    },
+    {
+        "text": "Who says we shouldn't go our own way?",
+        "startTime": 17318,
+        "endTime": 19970,
+        "slowStartTime": 26127,
+        "slowEndTime": 30180
+    },
+    {
+        "text": "So who says there would never be a hybrid for all Norwegian conditions?",
+        "startTime": 27598,
+        "endTime": 31843,
+        "slowStartTime": 41547,
+        "slowEndTime": 47990
+    },
+    {
+        "text": "Introducing the new Mitsubishi Outlander PHEV,...",
+        "startTime": 35735,
+        "endTime": 39041,
+        "slowStartTime": 53752,
+        "slowEndTime": 58787
+    },
+    {
+        "text": "...the world's first plug-in hybrid SUV.",
+        "startTime": 41468,
+        "endTime": 44633,
+        "slowStartTime": 62352,
+        "slowEndTime": 67174
+    }
+]

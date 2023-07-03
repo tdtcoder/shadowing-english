@@ -1,0 +1,142 @@
+[
+    {
+        "text": "I often make about 20 deliveries a day...",
+        "startTime": 553,
+        "endTime": 2365,
+        "slowStartTime": 980,
+        "slowEndTime": 3772
+    },
+    {
+        "text": "...so it's crucial I can get around quickly...",
+        "startTime": 2574,
+        "endTime": 4173,
+        "slowStartTime": 4011,
+        "slowEndTime": 6485
+    },
+    {
+        "text": "...and not get stuck in traffic.",
+        "startTime": 4254,
+        "endTime": 5420,
+        "slowStartTime": 6531,
+        "slowEndTime": 8355
+    },
+    {
+        "text": "That's why we have yellow box junctions.",
+        "startTime": 6145,
+        "endTime": 8337,
+        "slowStartTime": 9368,
+        "slowEndTime": 12730
+    },
+    {
+        "text": "The purpose of these are to keep road space free for road users like Anthony.",
+        "startTime": 8924,
+        "endTime": 13097,
+        "slowStartTime": 13536,
+        "slowEndTime": 19870
+    },
+    {
+        "text": "So, how do you use a yellow box junction?",
+        "startTime": 14027,
+        "endTime": 17232,
+        "slowStartTime": 21190,
+        "slowEndTime": 26073
+    },
+    {
+        "text": "You may enter a yellow box junction when your exit is clear...",
+        "startTime": 18370,
+        "endTime": 21305,
+        "slowStartTime": 27705,
+        "slowEndTime": 32183
+    },
+    {
+        "text": "...and there is enough space on the other side of the junction...",
+        "startTime": 21739,
+        "endTime": 24213,
+        "slowStartTime": 32758,
+        "slowEndTime": 36545
+    },
+    {
+        "text": "...for your vehicle to clear the box without stopping.",
+        "startTime": 24324,
+        "endTime": 26706,
+        "slowStartTime": 36636,
+        "slowEndTime": 40284
+    },
+    {
+        "text": "You can only stop in a yellow box junction when turning right...",
+        "startTime": 28029,
+        "endTime": 31032,
+        "slowStartTime": 42194,
+        "slowEndTime": 46773
+    },
+    {
+        "text": "...and are prevented from doing so by oncoming traffic...",
+        "startTime": 31416,
+        "endTime": 33999,
+        "slowStartTime": 47274,
+        "slowEndTime": 51223
+    },
+    {
+        "text": "...or by other vehicles waiting to turn right.",
+        "startTime": 34585,
+        "endTime": 36854,
+        "slowStartTime": 52027,
+        "slowEndTime": 55506
+    },
+    {
+        "text": "If your exit isn't clear and you're not turning right,...",
+        "startTime": 37867,
+        "endTime": 40613,
+        "slowStartTime": 56950,
+        "slowEndTime": 61144
+    },
+    {
+        "text": "...no part of your vehicle should be in the box.",
+        "startTime": 40955,
+        "endTime": 43059,
+        "slowStartTime": 61582,
+        "slowEndTime": 64813
+    },
+    {
+        "text": "Then, as soon as you're sure it's safe, you can proceed.",
+        "startTime": 44059,
+        "endTime": 47051,
+        "slowStartTime": 66239,
+        "slowEndTime": 70801
+    },
+    {
+        "text": "Remember, blocking the yellow box junction...",
+        "startTime": 48671,
+        "endTime": 51259,
+        "slowStartTime": 73156,
+        "slowEndTime": 77114
+    },
+    {
+        "text": "...means everyone else gets stuck with you.",
+        "startTime": 51391,
+        "endTime": 53397,
+        "slowStartTime": 77237,
+        "slowEndTime": 80320
+    },
+    {
+        "text": "Yellow box junctions are here to keep the traffic flowing.",
+        "startTime": 55581,
+        "endTime": 57981,
+        "slowStartTime": 83521,
+        "slowEndTime": 87197
+    },
+    {
+        "text": "If everyone did their bit and followed the simple rules,...",
+        "startTime": 58503,
+        "endTime": 60749,
+        "slowStartTime": 87905,
+        "slowEndTime": 91349
+    },
+    {
+        "text": "...London would be an easier place to get around.",
+        "startTime": 60882,
+        "endTime": 62494,
+        "slowStartTime": 91473,
+        "slowEndTime": 93966
+    }
+]

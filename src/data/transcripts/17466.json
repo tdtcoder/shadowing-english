@@ -1,0 +1,107 @@
+[
+    {
+        "text": "The sun pops up.",
+        "startTime": 3209,
+        "endTime": 4965,
+        "slowStartTime": 4963,
+        "slowEndTime": 7673
+    },
+    {
+        "text": "The flowers pop out.",
+        "startTime": 6063,
+        "endTime": 7845,
+        "slowStartTime": 9245,
+        "slowEndTime": 11993
+    },
+    {
+        "text": "The worms pop up.",
+        "startTime": 8974,
+        "endTime": 10672,
+        "slowStartTime": 13611,
+        "slowEndTime": 16233
+    },
+    {
+        "text": "The plants pop up.",
+        "startTime": 11717,
+        "endTime": 13173,
+        "slowStartTime": 17725,
+        "slowEndTime": 19985
+    },
+    {
+        "text": "The leaves pop out.",
+        "startTime": 14337,
+        "endTime": 16057,
+        "slowStartTime": 21656,
+        "slowEndTime": 24310
+    },
+    {
+        "text": "The birds pop out.",
+        "startTime": 17095,
+        "endTime": 18640,
+        "slowStartTime": 25793,
+        "slowEndTime": 28185
+    },
+    {
+        "text": "The animals pop out.",
+        "startTime": 19746,
+        "endTime": 21427,
+        "slowStartTime": 29769,
+        "slowEndTime": 32366
+    },
+    {
+        "text": "Spring pops out everywhere.",
+        "startTime": 22547,
+        "endTime": 25063,
+        "slowStartTime": 33970,
+        "slowEndTime": 37819
+    },
+    {
+        "text": "Pop, pop, pop.",
+        "startTime": 26124,
+        "endTime": 27983,
+        "slowStartTime": 39336,
+        "slowEndTime": 42199
+    },
+    {
+        "text": "Spring is here!",
+        "startTime": 31675,
+        "endTime": 33074,
+        "slowStartTime": 47663,
+        "slowEndTime": 49836
+    },
+    {
+        "text": "What happens in spring?",
+        "startTime": 34232,
+        "endTime": 36039,
+        "slowStartTime": 51498,
+        "slowEndTime": 54284
+    },
+    {
+        "text": "The sun pops up.",
+        "startTime": 37253,
+        "endTime": 38737,
+        "slowStartTime": 56029,
+        "slowEndTime": 58331
+    },
+    {
+        "text": "What else pops up in spring?",
+        "startTime": 39793,
+        "endTime": 42234,
+        "slowStartTime": 59840,
+        "slowEndTime": 63576
+    },
+    {
+        "text": "The plants pop up in spring.",
+        "startTime": 43327,
+        "endTime": 45501,
+        "slowStartTime": 65141,
+        "slowEndTime": 68476
+    },
+    {
+        "text": "And the flowers pop out everywhere!",
+        "startTime": 46589,
+        "endTime": 49506,
+        "slowStartTime": 70034,
+        "slowEndTime": 74484
+    }
+]

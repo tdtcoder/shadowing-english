@@ -1,0 +1,205 @@
+[
+    {
+        "text": "Google, Facebook, Amazon, Microsoft, eBay.",
+        "startTime": 55,
+        "endTime": 2893,
+        "slowStartTime": 233,
+        "slowEndTime": 4564
+    },
+    {
+        "text": "All have either been shut out of China or are barely treading water.",
+        "startTime": 3379,
+        "endTime": 6533,
+        "slowStartTime": 5218,
+        "slowEndTime": 10025
+    },
+    {
+        "text": "The latest loser is Uber,...",
+        "startTime": 7425,
+        "endTime": 8789,
+        "slowStartTime": 11287,
+        "slowEndTime": 13409
+    },
+    {
+        "text": "...which sold its Chinese operations after it lost billions of dollars in the country.",
+        "startTime": 9101,
+        "endTime": 13111,
+        "slowStartTime": 13802,
+        "slowEndTime": 19891
+    },
+    {
+        "text": "Apple has done well but has struggled there recently.",
+        "startTime": 13714,
+        "endTime": 16096,
+        "slowStartTime": 20721,
+        "slowEndTime": 24369
+    },
+    {
+        "text": "So, why can't American internet companies succeed in China?",
+        "startTime": 16646,
+        "endTime": 19793,
+        "slowStartTime": 25119,
+        "slowEndTime": 29915
+    },
+    {
+        "text": "Three reasons.",
+        "startTime": 20327,
+        "endTime": 20977,
+        "slowStartTime": 30641,
+        "slowEndTime": 31690
+    },
+    {
+        "text": "One, China's web titans are unimaginably big and broad,...",
+        "startTime": 21743,
+        "endTime": 25135,
+        "slowStartTime": 32765,
+        "slowEndTime": 37928
+    },
+    {
+        "text": "...making it tough for foreigners to compete with them.",
+        "startTime": 25902,
+        "endTime": 28101,
+        "slowStartTime": 39003,
+        "slowEndTime": 42377
+    },
+    {
+        "text": "Alibaba's e-commerce websites handle more online sales...",
+        "startTime": 29015,
+        "endTime": 32540,
+        "slowStartTime": 43673,
+        "slowEndTime": 49035
+    },
+    {
+        "text": "...than Amazon and eBay combined.",
+        "startTime": 32768,
+        "endTime": 34432,
+        "slowStartTime": 49302,
+        "slowEndTime": 51873
+    },
+    {
+        "text": "And Baidu has a bigger share of web searches in China...",
+        "startTime": 34889,
+        "endTime": 37502,
+        "slowStartTime": 52484,
+        "slowEndTime": 56478
+    },
+    {
+        "text": "...than Google does in the US.",
+        "startTime": 37770,
+        "endTime": 39437,
+        "slowStartTime": 56805,
+        "slowEndTime": 59381
+    },
+    {
+        "text": "Two, China's laws and government interventions favor local companies.",
+        "startTime": 39626,
+        "endTime": 44324,
+        "slowStartTime": 59589,
+        "slowEndTime": 66711
+    },
+    {
+        "text": "For example, Facebook and Twitter are banned in China.",
+        "startTime": 45008,
+        "endTime": 47931,
+        "slowStartTime": 67662,
+        "slowEndTime": 72121
+    },
+    {
+        "text": "And Google pulled out a few years ago...",
+        "startTime": 48260,
+        "endTime": 49919,
+        "slowStartTime": 72540,
+        "slowEndTime": 75103
+    },
+    {
+        "text": "...because it was the target of massive cyberattacks...",
+        "startTime": 50026,
+        "endTime": 52642,
+        "slowStartTime": 75189,
+        "slowEndTime": 79188
+    },
+    {
+        "text": "...and it didn't want to comply with censorship rules.",
+        "startTime": 53017,
+        "endTime": 55286,
+        "slowStartTime": 79675,
+        "slowEndTime": 83154
+    },
+    {
+        "text": "And three, Chinese technology has become really good.",
+        "startTime": 55757,
+        "endTime": 58959,
+        "slowStartTime": 83785,
+        "slowEndTime": 88663
+    },
+    {
+        "text": "Local companies make smartphones as good as iPhones...",
+        "startTime": 59863,
+        "endTime": 62724,
+        "slowStartTime": 89944,
+        "slowEndTime": 94311
+    },
+    {
+        "text": "...but with features tailored to Chinese tastes...",
+        "startTime": 62847,
+        "endTime": 65157,
+        "slowStartTime": 94420,
+        "slowEndTime": 97960
+    },
+    {
+        "text": "...like guessing your age from selfies.",
+        "startTime": 65348,
+        "endTime": 67249,
+        "slowStartTime": 98172,
+        "slowEndTime": 101098
+    },
+    {
+        "text": "And Chinese tech ideas are being copied elsewhere...",
+        "startTime": 67605,
+        "endTime": 70145,
+        "slowStartTime": 101558,
+        "slowEndTime": 105442
+    },
+    {
+        "text": "...like Facebook turning its chat app Messenger into a version of WeChat.",
+        "startTime": 70687,
+        "endTime": 74289,
+        "slowStartTime": 106180,
+        "slowEndTime": 111659
+    },
+    {
+        "text": "The might of Chinese internet superpowers, their tech prowess,...",
+        "startTime": 74887,
+        "endTime": 78233,
+        "slowStartTime": 112481,
+        "slowEndTime": 117574
+    },
+    {
+        "text": "...and government help has hardened China into an online economy...",
+        "startTime": 78600,
+        "endTime": 82123,
+        "slowStartTime": 118050,
+        "slowEndTime": 123409
+    },
+    {
+        "text": "...where locals rule.",
+        "startTime": 82246,
+        "endTime": 83221,
+        "slowStartTime": 123519,
+        "slowEndTime": 125057
+    },
+    {
+        "text": "China seems too big to ignore...",
+        "startTime": 83812,
+        "endTime": 85425,
+        "slowStartTime": 125868,
+        "slowEndTime": 128362
+    },
+    {
+        "text": "...but it's also too hard to crack for America's web powers.",
+        "startTime": 85803,
+        "endTime": 88748,
+        "slowStartTime": 128854,
+        "slowEndTime": 133347
+    }
+]

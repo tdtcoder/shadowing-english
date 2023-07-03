@@ -1,0 +1,100 @@
+[
+    {
+        "text": "We know customers like low prices.",
+        "startTime": 596,
+        "endTime": 2326,
+        "slowStartTime": 1044,
+        "slowEndTime": 3714
+    },
+    {
+        "text": "We know customers like big selection.",
+        "startTime": 2452,
+        "endTime": 4558,
+        "slowStartTime": 3828,
+        "slowEndTime": 7062
+    },
+    {
+        "text": "And we know that customers like fast delivery.",
+        "startTime": 5439,
+        "endTime": 7905,
+        "slowStartTime": 8308,
+        "slowEndTime": 12083
+    },
+    {
+        "text": "And those things are gonna be true ten years from now.",
+        "startTime": 7961,
+        "endTime": 9891,
+        "slowStartTime": 12091,
+        "slowEndTime": 15062
+    },
+    {
+        "text": "They're gonna be true 20 years from now,...",
+        "startTime": 9993,
+        "endTime": 11345,
+        "slowStartTime": 15140,
+        "slowEndTime": 17242
+    },
+    {
+        "text": "...so we can count on those things and we can put energy into them.",
+        "startTime": 11412,
+        "endTime": 13987,
+        "slowStartTime": 17268,
+        "slowEndTime": 21205
+    },
+    {
+        "text": "We know customers like their products fast.",
+        "startTime": 14116,
+        "endTime": 16796,
+        "slowStartTime": 21324,
+        "slowEndTime": 25419
+    },
+    {
+        "text": "And so we work on things that we know customers like.",
+        "startTime": 16913,
+        "endTime": 19787,
+        "slowStartTime": 25520,
+        "slowEndTime": 29906
+    },
+    {
+        "text": "What has worked at Amazon is focusing on the customer,...",
+        "startTime": 19902,
+        "endTime": 22818,
+        "slowStartTime": 30003,
+        "slowEndTime": 34452
+    },
+    {
+        "text": "...putting the customer first which is easy to say but difficult to do.",
+        "startTime": 24293,
+        "endTime": 27359,
+        "slowStartTime": 36590,
+        "slowEndTime": 41263
+    },
+    {
+        "text": "If you really are customer-centric, it's like being the host of a party.",
+        "startTime": 27837,
+        "endTime": 31045,
+        "slowStartTime": 41906,
+        "slowEndTime": 46793
+    },
+    {
+        "text": "You're holding the party for your guest.",
+        "startTime": 31460,
+        "endTime": 33200,
+        "slowStartTime": 47340,
+        "slowEndTime": 50025
+    },
+    {
+        "text": "Sometimes the host of the party is holding the party for the host of the party...",
+        "startTime": 33862,
+        "endTime": 37217,
+        "slowStartTime": 50943,
+        "slowEndTime": 56051
+    },
+    {
+        "text": "...and that leads to a different kind of party.",
+        "startTime": 38164,
+        "endTime": 40400,
+        "slowStartTime": 57396,
+        "slowEndTime": 60825
+    }
+]

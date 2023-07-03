@@ -1,0 +1,37 @@
+[
+    {
+        "text": "﻿Hit the Sack",
+        "startTime": 6845,
+        "endTime": 7877,
+        "slowStartTime": 10418,
+        "slowEndTime": 12041
+    },
+    {
+        "text": "It means to go to bed.",
+        "startTime": 8683,
+        "endTime": 10251,
+        "slowStartTime": 13175,
+        "slowEndTime": 15601
+    },
+    {
+        "text": "I'm sleepy so I'll hit the sack shortly.",
+        "startTime": 12713,
+        "endTime": 15721,
+        "slowStartTime": 19220,
+        "slowEndTime": 23807
+    },
+    {
+        "text": "Kids, you should hit the sack before 8 o'clock.",
+        "startTime": 17047,
+        "endTime": 19819,
+        "slowStartTime": 25721,
+        "slowEndTime": 29953
+    },
+    {
+        "text": "It's 12 midnight so it's time to hit the sack.",
+        "startTime": 23139,
+        "endTime": 26640,
+        "slowStartTime": 34859,
+        "slowEndTime": 40185
+    }
+]

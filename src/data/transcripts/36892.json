@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Don't bombard your team with messages.",
+        "startTime": 1196,
+        "endTime": 3290,
+        "slowStartTime": 1944,
+        "slowEndTime": 5160
+    },
+    {
+        "text": "Each time you email, text or call,...",
+        "startTime": 3742,
+        "endTime": 5785,
+        "slowStartTime": 5763,
+        "slowEndTime": 8902
+    },
+    {
+        "text": "...imagine that you are physically walking into your colleague's workspace.",
+        "startTime": 6052,
+        "endTime": 10015,
+        "slowStartTime": 9228,
+        "slowEndTime": 15248
+    },
+    {
+        "text": "If you followed up an email by text and phone,...",
+        "startTime": 10522,
+        "endTime": 13168,
+        "slowStartTime": 15933,
+        "slowEndTime": 19977
+    },
+    {
+        "text": "...it would be like opening their office door three times in a row.",
+        "startTime": 13256,
+        "endTime": 16795,
+        "slowStartTime": 20034,
+        "slowEndTime": 25417
+    },
+    {
+        "text": "Minimize your digital volume and think wisely before hitting \"send.\"",
+        "startTime": 17397,
+        "endTime": 21963,
+        "slowStartTime": 26245,
+        "slowEndTime": 33170
+    }
+]

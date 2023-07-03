@@ -1,0 +1,114 @@
+[
+    {
+        "text": "It's possible to enjoy San Francisco year-round,...",
+        "startTime": 4050,
+        "endTime": 6901,
+        "slowStartTime": 6225,
+        "slowEndTime": 10577
+    },
+    {
+        "text": "...but you might want to consider the city's unusual weather when planning your trip.",
+        "startTime": 7280,
+        "endTime": 11411,
+        "slowStartTime": 11070,
+        "slowEndTime": 17342
+    },
+    {
+        "text": "Summers are usually chilly, with daily highs often below 70.",
+        "startTime": 12113,
+        "endTime": 15984,
+        "slowStartTime": 18319,
+        "slowEndTime": 24201
+    },
+    {
+        "text": "Fog keeps it from getting sunny for most of the day...",
+        "startTime": 16728,
+        "endTime": 19144,
+        "slowStartTime": 25242,
+        "slowEndTime": 28941
+    },
+    {
+        "text": "...and winds coming off the Pacific will make you shiver.",
+        "startTime": 19241,
+        "endTime": 22063,
+        "slowStartTime": 29012,
+        "slowEndTime": 33320
+    },
+    {
+        "text": "Spring will be better in terms of crowds and prices,...",
+        "startTime": 22605,
+        "endTime": 25187,
+        "slowStartTime": 34058,
+        "slowEndTime": 38006
+    },
+    {
+        "text": "...but don't expect dry, warm, comfortable days.",
+        "startTime": 25438,
+        "endTime": 28403,
+        "slowStartTime": 38307,
+        "slowEndTime": 42829
+    },
+    {
+        "text": "If you don't mind carrying an umbrella,...",
+        "startTime": 29279,
+        "endTime": 31060,
+        "slowStartTime": 44069,
+        "slowEndTime": 46815
+    },
+    {
+        "text": "...winter is a great time to visit San Francisco.",
+        "startTime": 31246,
+        "endTime": 33500,
+        "slowStartTime": 47019,
+        "slowEndTime": 50475
+    },
+    {
+        "text": "It will be windy and rainy, but it rarely actually freezes and storms are unusual.",
+        "startTime": 33860,
+        "endTime": 38674,
+        "slowStartTime": 50940,
+        "slowEndTime": 58236
+    },
+    {
+        "text": "But the very best time to visit is in the fall,...",
+        "startTime": 40033,
+        "endTime": 42261,
+        "slowStartTime": 60200,
+        "slowEndTime": 63616
+    },
+    {
+        "text": "...which is often the warmest and sunniest season.",
+        "startTime": 42411,
+        "endTime": 45035,
+        "slowStartTime": 63767,
+        "slowEndTime": 67778
+    },
+    {
+        "text": "Fall is also outside of peak tourist season,...",
+        "startTime": 45529,
+        "endTime": 48132,
+        "slowStartTime": 68444,
+        "slowEndTime": 72423
+    },
+    {
+        "text": "...making it less expensive and less crowded.",
+        "startTime": 48315,
+        "endTime": 50683,
+        "slowStartTime": 72623,
+        "slowEndTime": 76250
+    },
+    {
+        "text": "Whenever you visit, you'll need to bring a jacket.",
+        "startTime": 51775,
+        "endTime": 54179,
+        "slowStartTime": 77813,
+        "slowEndTime": 81493
+    },
+    {
+        "text": "Even in the warmer months, it tends to get cold quickly as evening sets in.",
+        "startTime": 54729,
+        "endTime": 58754,
+        "slowStartTime": 82244,
+        "slowEndTime": 88356
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Hello, Ali?",
+        "startTime": 161,
+        "endTime": 1371,
+        "slowStartTime": 392,
+        "slowEndTime": 2282
+    },
+    {
+        "text": "Where are you?",
+        "startTime": 1945,
+        "endTime": 2515,
+        "slowStartTime": 3067,
+        "slowEndTime": 3997
+    },
+    {
+        "text": "Hi, Jane.",
+        "startTime": 2973,
+        "endTime": 3568,
+        "slowStartTime": 4610,
+        "slowEndTime": 5577
+    },
+    {
+        "text": "I'm at the station.",
+        "startTime": 3645,
+        "endTime": 4528,
+        "slowStartTime": 5618,
+        "slowEndTime": 7017
+    },
+    {
+        "text": "Yes sir, we will.",
+        "startTime": 5406,
+        "endTime": 6558,
+        "slowStartTime": 8259,
+        "slowEndTime": 10062
+    },
+    {
+        "text": "Where are you now?",
+        "startTime": 6814,
+        "endTime": 7701,
+        "slowStartTime": 10371,
+        "slowEndTime": 11777
+    },
+    {
+        "text": "I'm standing outside of my house.",
+        "startTime": 8219,
+        "endTime": 10104,
+        "slowStartTime": 12479,
+        "slowEndTime": 15381
+    },
+    {
+        "text": "She is in a cafe.",
+        "startTime": 11501,
+        "endTime": 13405,
+        "slowStartTime": 17401,
+        "slowEndTime": 20332
+    },
+    {
+        "text": "He is at the convenience store.",
+        "startTime": 15354,
+        "endTime": 17960,
+        "slowStartTime": 23181,
+        "slowEndTime": 27165
+    },
+    {
+        "text": "He is at the flower shop.",
+        "startTime": 20018,
+        "endTime": 22354,
+        "slowStartTime": 30177,
+        "slowEndTime": 33756
+    },
+    {
+        "text": "Where is he?",
+        "startTime": 24408,
+        "endTime": 25026,
+        "slowStartTime": 36762,
+        "slowEndTime": 37764
+    },
+    {
+        "text": "I have no idea.",
+        "startTime": 25697,
+        "endTime": 26752,
+        "slowStartTime": 38696,
+        "slowEndTime": 40353
+    },
+    {
+        "text": "Where is he?",
+        "startTime": 27789,
+        "endTime": 28648,
+        "slowStartTime": 41833,
+        "slowEndTime": 43197
+    },
+    {
+        "text": "He's kept in a safe house.",
+        "startTime": 29042,
+        "endTime": 30757,
+        "slowStartTime": 43713,
+        "slowEndTime": 46360
+    },
+    {
+        "text": "Brooklyn, 434 Wallace Place.",
+        "startTime": 30923,
+        "endTime": 33826,
+        "slowStartTime": 46534,
+        "slowEndTime": 50964
+    },
+    {
+        "text": "They know you're coming.",
+        "startTime": 34354,
+        "endTime": 35349,
+        "slowStartTime": 51681,
+        "slowEndTime": 53248
+    },
+    {
+        "text": "Of course.",
+        "startTime": 35714,
+        "endTime": 36476,
+        "slowStartTime": 53721,
+        "slowEndTime": 54939
+    }
+]

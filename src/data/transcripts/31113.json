@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Can Helen paint?",
+        "startTime": 5215,
+        "endTime": 6378,
+        "slowStartTime": 7973,
+        "slowEndTime": 9792
+    },
+    {
+        "text": "Yes, she can.",
+        "startTime": 8035,
+        "endTime": 9343,
+        "slowStartTime": 12202,
+        "slowEndTime": 14239
+    },
+    {
+        "text": "Can the boy swim?",
+        "startTime": 10807,
+        "endTime": 11886,
+        "slowStartTime": 16361,
+        "slowEndTime": 18054
+    },
+    {
+        "text": "Yes, he can.",
+        "startTime": 13484,
+        "endTime": 14715,
+        "slowStartTime": 20376,
+        "slowEndTime": 22298
+    },
+    {
+        "text": "Can they sing?",
+        "startTime": 16275,
+        "endTime": 17121,
+        "slowStartTime": 24563,
+        "slowEndTime": 25907
+    },
+    {
+        "text": "Yes, they can sing.",
+        "startTime": 18787,
+        "endTime": 19969,
+        "slowStartTime": 28330,
+        "slowEndTime": 30178
+    },
+    {
+        "text": "Can a snake paint?",
+        "startTime": 21504,
+        "endTime": 22581,
+        "slowStartTime": 32406,
+        "slowEndTime": 34097
+    },
+    {
+        "text": "No, a snake can't paint.",
+        "startTime": 24178,
+        "endTime": 25965,
+        "slowStartTime": 36417,
+        "slowEndTime": 39173
+    },
+    {
+        "text": "Can a snowman swim?",
+        "startTime": 27541,
+        "endTime": 28783,
+        "slowStartTime": 41461,
+        "slowEndTime": 43400
+    },
+    {
+        "text": "No, it cannot.",
+        "startTime": 30365,
+        "endTime": 31657,
+        "slowStartTime": 45698,
+        "slowEndTime": 47711
+    },
+    {
+        "text": "Can flowers sing?",
+        "startTime": 33115,
+        "endTime": 34281,
+        "slowStartTime": 49823,
+        "slowEndTime": 51647
+    },
+    {
+        "text": "No, flowers can't sing.",
+        "startTime": 35866,
+        "endTime": 37483,
+        "slowStartTime": 53949,
+        "slowEndTime": 56449
+    }
+]

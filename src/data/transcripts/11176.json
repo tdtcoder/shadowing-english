@@ -1,0 +1,65 @@
+[
+    {
+        "text": "I think that ties up all the loose ends with the contract.",
+        "startTime": 2330,
+        "endTime": 5410,
+        "slowStartTime": 3600,
+        "slowEndTime": 8190
+    },
+    {
+        "text": "After your company draws up the final contract based on the new terms we've agreed on,...",
+        "startTime": 6370,
+        "endTime": 10510,
+        "slowStartTime": 9640,
+        "slowEndTime": 15920
+    },
+    {
+        "text": "...I'll have my superiors go over it before we officially ratify it.",
+        "startTime": 10910,
+        "endTime": 14740,
+        "slowStartTime": 16375,
+        "slowEndTime": 22155
+    },
+    {
+        "text": "Of course.",
+        "startTime": 15280,
+        "endTime": 16050,
+        "slowStartTime": 23060,
+        "slowEndTime": 24080
+    },
+    {
+        "text": "And it's probably a good idea to have the legal departments...",
+        "startTime": 16510,
+        "endTime": 19780,
+        "slowStartTime": 24840,
+        "slowEndTime": 29770
+    },
+    {
+        "text": "...of both sides run over the contract again.",
+        "startTime": 19920,
+        "endTime": 22620,
+        "slowStartTime": 29930,
+        "slowEndTime": 33925
+    },
+    {
+        "text": "I was a bit surprised at how fast we made progress to reach a final agreement.",
+        "startTime": 23470,
+        "endTime": 27820,
+        "slowStartTime": 35200,
+        "slowEndTime": 41730
+    },
+    {
+        "text": "That just reflects the type of relationship our companies have.",
+        "startTime": 28730,
+        "endTime": 32290,
+        "slowStartTime": 43275,
+        "slowEndTime": 48540
+    },
+    {
+        "text": "I think we've put together a good deal that suits both sides.",
+        "startTime": 33030,
+        "endTime": 37030,
+        "slowStartTime": 49645,
+        "slowEndTime": 55590
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text": "What's my day look like?",
+        "startTime": 2963,
+        "endTime": 3929,
+        "slowStartTime": 4595,
+        "slowEndTime": 6119
+    },
+    {
+        "text": "Not bad.",
+        "startTime": 4504,
+        "endTime": 5105,
+        "slowStartTime": 6906,
+        "slowEndTime": 7883
+    },
+    {
+        "text": "Only two meetings today.",
+        "startTime": 5274,
+        "endTime": 6697,
+        "slowStartTime": 8061,
+        "slowEndTime": 10270
+    },
+    {
+        "text": "Can I walk to the Belvedere Hotel from here?",
+        "startTime": 8104,
+        "endTime": 9687,
+        "slowStartTime": 12306,
+        "slowEndTime": 14755
+    },
+    {
+        "text": "Here are directions to Belvedere Hotel.",
+        "startTime": 11035,
+        "endTime": 13185,
+        "slowStartTime": 16703,
+        "slowEndTime": 20002
+    },
+    {
+        "text": "Read me that text.",
+        "startTime": 14523,
+        "endTime": 15452,
+        "slowStartTime": 21935,
+        "slowEndTime": 23403
+    },
+    {
+        "text": "New message from Sarah Russel.",
+        "startTime": 16195,
+        "endTime": 17842,
+        "slowStartTime": 24443,
+        "slowEndTime": 26988
+    },
+    {
+        "text": "See you soon.",
+        "startTime": 18297,
+        "endTime": 19227,
+        "slowStartTime": 27595,
+        "slowEndTime": 29066
+    },
+    {
+        "text": "Do you think it will snow today?",
+        "startTime": 21174,
+        "endTime": 22406,
+        "slowStartTime": 31911,
+        "slowEndTime": 33834
+    },
+    {
+        "text": "It sure looks like snow today.",
+        "startTime": 23725,
+        "endTime": 25276,
+        "slowStartTime": 35738,
+        "slowEndTime": 38139
+    },
+    {
+        "text": "Say hello to Siri on the most amazing iPhone yet.",
+        "startTime": 25432,
+        "endTime": 28290,
+        "slowStartTime": 38298,
+        "slowEndTime": 42660
+    }
+]

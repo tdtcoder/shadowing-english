@@ -1,0 +1,135 @@
+[
+    {
+        "text": "Hey, do you want to see the Dying Breeders?",
+        "startTime": 1859,
+        "endTime": 3846,
+        "slowStartTime": 2938,
+        "slowEndTime": 5994
+    },
+    {
+        "text": "Sorry, can you say that again?",
+        "startTime": 4266,
+        "endTime": 5360,
+        "slowStartTime": 6549,
+        "slowEndTime": 8265
+    },
+    {
+        "text": "The Dying Breeders. It's a new movie with Sam Sift.",
+        "startTime": 5919,
+        "endTime": 9031,
+        "slowStartTime": 9028,
+        "slowEndTime": 13772
+    },
+    {
+        "text": "Oh yeah. Yes I do, but I'm going to a library tonight. I'm going to study.",
+        "startTime": 9505,
+        "endTime": 13997,
+        "slowStartTime": 14407,
+        "slowEndTime": 21221
+    },
+    {
+        "text": "What time does it start?",
+        "startTime": 15629,
+        "endTime": 16497,
+        "slowStartTime": 23594,
+        "slowEndTime": 24971
+    },
+    {
+        "text": "Let me see.",
+        "startTime": 17359,
+        "endTime": 17887,
+        "slowStartTime": 26189,
+        "slowEndTime": 27056
+    },
+    {
+        "text": "The next show is at 6:45.",
+        "startTime": 20959,
+        "endTime": 22656,
+        "slowStartTime": 31588,
+        "slowEndTime": 34209
+    },
+    {
+        "text": "6:45. I'm going to meet Shane at 9. We're studying together.",
+        "startTime": 22877,
+        "endTime": 26385,
+        "slowStartTime": 34465,
+        "slowEndTime": 39802
+    },
+    {
+        "text": "What time does it finish?",
+        "startTime": 27514,
+        "endTime": 28351,
+        "slowStartTime": 41421,
+        "slowEndTime": 42752
+    },
+    {
+        "text": "It finishes at 8:50.",
+        "startTime": 29811,
+        "endTime": 31095,
+        "slowStartTime": 44867,
+        "slowEndTime": 46868
+    },
+    {
+        "text": "Did you say 8:50?",
+        "startTime": 31505,
+        "endTime": 32516,
+        "slowStartTime": 47407,
+        "slowEndTime": 48999
+    },
+    {
+        "text": "I did.",
+        "startTime": 32775,
+        "endTime": 33119,
+        "slowStartTime": 49312,
+        "slowEndTime": 49904
+    },
+    {
+        "text": "Where's the movie?",
+        "startTime": 33863,
+        "endTime": 34507,
+        "slowStartTime": 50945,
+        "slowEndTime": 51986
+    },
+    {
+        "text": "Fourth Street. It's at that small theater on Fourth Street.",
+        "startTime": 35163,
+        "endTime": 37937,
+        "slowStartTime": 52894,
+        "slowEndTime": 57130
+    },
+    {
+        "text": "Oh yeah, I know it.",
+        "startTime": 38192,
+        "endTime": 39323,
+        "slowStartTime": 57438,
+        "slowEndTime": 59210
+    },
+    {
+        "text": "You can walk to the library in ten minutes.",
+        "startTime": 40203,
+        "endTime": 42192,
+        "slowStartTime": 60455,
+        "slowEndTime": 63513
+    },
+    {
+        "text": "I can run to the library in ten minutes.",
+        "startTime": 42754,
+        "endTime": 44392,
+        "slowStartTime": 64281,
+        "slowEndTime": 66813
+    },
+    {
+        "text": "Yeah, I guess. But it's not too far.",
+        "startTime": 44527,
+        "endTime": 47095,
+        "slowStartTime": 66941,
+        "slowEndTime": 70867
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 47661,
+        "endTime": 47979,
+        "slowStartTime": 71641,
+        "slowEndTime": 72193
+    }
+]

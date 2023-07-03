@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Drivers know that accidents, construction, stalled vehicles...",
+        "startTime": 5639,
+        "endTime": 9343,
+        "slowStartTime": 8609,
+        "slowEndTime": 14240
+    },
+    {
+        "text": "...and just the sheer number of people on the road all contribute to traffic.",
+        "startTime": 9422,
+        "endTime": 12947,
+        "slowStartTime": 14283,
+        "slowEndTime": 19646
+    },
+    {
+        "text": "The real culprit, however, is speed...",
+        "startTime": 13343,
+        "endTime": 15388,
+        "slowStartTime": 20165,
+        "slowEndTime": 23307
+    },
+    {
+        "text": "...or rather, sudden random fluctuations in speed.",
+        "startTime": 15700,
+        "endTime": 18711,
+        "slowStartTime": 23700,
+        "slowEndTime": 28291
+    },
+    {
+        "text": "When drivers travel at a constant rate, traffic flows freely.",
+        "startTime": 19424,
+        "endTime": 22815,
+        "slowStartTime": 29286,
+        "slowEndTime": 34448
+    },
+    {
+        "text": "But when even a single driver hits the brakes, the flow is interrupted,...",
+        "startTime": 24719,
+        "endTime": 27847,
+        "slowStartTime": 37229,
+        "slowEndTime": 41995
+    },
+    {
+        "text": "...causing a chain reaction among the vehicles behind that driver.",
+        "startTime": 28121,
+        "endTime": 30777,
+        "slowStartTime": 42331,
+        "slowEndTime": 46391
+    },
+    {
+        "text": "A traffic jam occurs when drivers brake abruptly.",
+        "startTime": 31565,
+        "endTime": 34338,
+        "slowStartTime": 47497,
+        "slowEndTime": 51732
+    },
+    {
+        "text": "This causes the vehicles behind them to slow down or even come to a stop.",
+        "startTime": 34567,
+        "endTime": 37938,
+        "slowStartTime": 52000,
+        "slowEndTime": 57132
+    },
+    {
+        "text": "Vehicles enter the back of the jam at a faster rate...",
+        "startTime": 38817,
+        "endTime": 41615,
+        "slowStartTime": 58375,
+        "slowEndTime": 62648
+    },
+    {
+        "text": "...than the slower moving lead vehicles can accelerate out of it.",
+        "startTime": 41829,
+        "endTime": 44610,
+        "slowStartTime": 62894,
+        "slowEndTime": 67140
+    },
+    {
+        "text": "The result: a traffic jam persists until the volume of incoming vehicles...",
+        "startTime": 45333,
+        "endTime": 49628,
+        "slowStartTime": 68149,
+        "slowEndTime": 74667
+    },
+    {
+        "text": "...drops low enough to allow the lead vehicles to restore the flow.",
+        "startTime": 49887,
+        "endTime": 52767,
+        "slowStartTime": 74981,
+        "slowEndTime": 79376
+    }
+]

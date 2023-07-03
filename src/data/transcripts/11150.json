@@ -1,0 +1,79 @@
+[
+    {
+        "text": "You mean you grew up in this town?",
+        "startTime": 2400,
+        "endTime": 4200,
+        "slowStartTime": 3750,
+        "slowEndTime": 6550
+    },
+    {
+        "text": "Basically.",
+        "startTime": 4600,
+        "endTime": 5200,
+        "slowStartTime": 7050,
+        "slowEndTime": 8000
+    },
+    {
+        "text": "Actually, I was brought up in the suburbs, but I still consider this my hometown.",
+        "startTime": 5800,
+        "endTime": 10550,
+        "slowStartTime": 8900,
+        "slowEndTime": 15950
+    },
+    {
+        "text": "And in all my years here, I've seen this town grow a lot.",
+        "startTime": 11200,
+        "endTime": 14800,
+        "slowStartTime": 17050,
+        "slowEndTime": 22450
+    },
+    {
+        "text": "I've heard that lots of people are moving to this region nowadays.",
+        "startTime": 15500,
+        "endTime": 18950,
+        "slowStartTime": 23400,
+        "slowEndTime": 28650
+    },
+    {
+        "text": "They sure are!",
+        "startTime": 19200,
+        "endTime": 20200,
+        "slowStartTime": 29000,
+        "slowEndTime": 30500
+    },
+    {
+        "text": "This town used to be surrounded by fields and forests.",
+        "startTime": 20700,
+        "endTime": 23650,
+        "slowStartTime": 31250,
+        "slowEndTime": 35700
+    },
+    {
+        "text": "Now it's all housing developments.",
+        "startTime": 23950,
+        "endTime": 26000,
+        "slowStartTime": 36100,
+        "slowEndTime": 39300
+    },
+    {
+        "text": "And every year there's more and more construction on the outskirts of town.",
+        "startTime": 26550,
+        "endTime": 30300,
+        "slowStartTime": 40050,
+        "slowEndTime": 45700
+    },
+    {
+        "text": "Housing prices are up, too.",
+        "startTime": 30700,
+        "endTime": 32200,
+        "slowStartTime": 46250,
+        "slowEndTime": 48450
+    },
+    {
+        "text": "The mortgage on the house I own would be twice today what I paid originally.",
+        "startTime": 32550,
+        "endTime": 36550,
+        "slowStartTime": 49050,
+        "slowEndTime": 55000
+    }
+]

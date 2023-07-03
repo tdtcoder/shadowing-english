@@ -1,0 +1,114 @@
+[
+    {
+        "text": "I pick up my ball.",
+        "startTime": 2581,
+        "endTime": 4363,
+        "slowStartTime": 4022,
+        "slowEndTime": 6769
+    },
+    {
+        "text": "I pick up my book.",
+        "startTime": 5458,
+        "endTime": 6917,
+        "slowStartTime": 8337,
+        "slowEndTime": 10601
+    },
+    {
+        "text": "I pick up my shoes.",
+        "startTime": 7957,
+        "endTime": 9795,
+        "slowStartTime": 12086,
+        "slowEndTime": 14917
+    },
+    {
+        "text": "I pick up my hat.",
+        "startTime": 10805,
+        "endTime": 12151,
+        "slowStartTime": 16357,
+        "slowEndTime": 18452
+    },
+    {
+        "text": "I pick up my teddy bear.",
+        "startTime": 13221,
+        "endTime": 15019,
+        "slowStartTime": 19982,
+        "slowEndTime": 22754
+    },
+    {
+        "text": "I pick up my cars.",
+        "startTime": 16091,
+        "endTime": 17853,
+        "slowStartTime": 24287,
+        "slowEndTime": 27004
+    },
+    {
+        "text": "I pick up my blanket.",
+        "startTime": 18984,
+        "endTime": 20642,
+        "slowStartTime": 28626,
+        "slowEndTime": 31188
+    },
+    {
+        "text": "My room is all picked up!",
+        "startTime": 21727,
+        "endTime": 23731,
+        "slowStartTime": 32741,
+        "slowEndTime": 35822
+    },
+    {
+        "text": "What do you pick up?",
+        "startTime": 27114,
+        "endTime": 28464,
+        "slowStartTime": 40821,
+        "slowEndTime": 42921
+    },
+    {
+        "text": "I pick up my blanket.",
+        "startTime": 29620,
+        "endTime": 31357,
+        "slowStartTime": 44580,
+        "slowEndTime": 47261
+    },
+    {
+        "text": "What do you pick up?",
+        "startTime": 32081,
+        "endTime": 33255,
+        "slowStartTime": 48271,
+        "slowEndTime": 50108
+    },
+    {
+        "text": "I pick up my teddy bear.",
+        "startTime": 34472,
+        "endTime": 36267,
+        "slowStartTime": 51858,
+        "slowEndTime": 54625
+    },
+    {
+        "text": "What do you put down?",
+        "startTime": 36897,
+        "endTime": 38381,
+        "slowStartTime": 55496,
+        "slowEndTime": 57796
+    },
+    {
+        "text": "I put down my hat.",
+        "startTime": 39629,
+        "endTime": 41574,
+        "slowStartTime": 59593,
+        "slowEndTime": 62586
+    },
+    {
+        "text": "What do you put down?",
+        "startTime": 42013,
+        "endTime": 43541,
+        "slowStartTime": 63170,
+        "slowEndTime": 65536
+    },
+    {
+        "text": "I put down my pencil.",
+        "startTime": 44700,
+        "endTime": 46556,
+        "slowStartTime": 67200,
+        "slowEndTime": 70059
+    }
+]

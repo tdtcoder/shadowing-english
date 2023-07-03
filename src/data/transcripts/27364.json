@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Angelina Jolie has filed for divorce from Brad Pitt,...",
+        "startTime": 2689,
+        "endTime": 5678,
+        "slowStartTime": 4183,
+        "slowEndTime": 8742
+    },
+    {
+        "text": "...ending one of the world's most popular Hollywood romances...",
+        "startTime": 6049,
+        "endTime": 9023,
+        "slowStartTime": 9224,
+        "slowEndTime": 13759
+    },
+    {
+        "text": "...as well as the term \"Brangelina.\"",
+        "startTime": 9213,
+        "endTime": 11308,
+        "slowStartTime": 13970,
+        "slowEndTime": 17187
+    },
+    {
+        "text": "According to Jolie's attorney, Robert Offer,...",
+        "startTime": 11869,
+        "endTime": 13933,
+        "slowStartTime": 17954,
+        "slowEndTime": 21125
+    },
+    {
+        "text": "...the decision was made for the health of the family.",
+        "startTime": 14297,
+        "endTime": 16435,
+        "slowStartTime": 21596,
+        "slowEndTime": 24878
+    },
+    {
+        "text": "The couple has been together for 12 years and married for two.",
+        "startTime": 16908,
+        "endTime": 20058,
+        "slowStartTime": 25512,
+        "slowEndTime": 30312
+    },
+    {
+        "text": "Jolie and Pitt have had six children together:...",
+        "startTime": 20543,
+        "endTime": 22865,
+        "slowStartTime": 30964,
+        "slowEndTime": 34522
+    },
+    {
+        "text": "...Maddox, Pax, Zahara, Shiloh, Knox and Vivienne.",
+        "startTime": 23141,
+        "endTime": 27482,
+        "slowStartTime": 34861,
+        "slowEndTime": 41448
+    }
+]

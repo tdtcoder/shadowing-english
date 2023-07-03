@@ -1,0 +1,170 @@
+[
+    {
+        "text": "There's a new wave of Android Wear watches coming out this fall,...",
+        "startTime": 2684,
+        "endTime": 5333,
+        "slowStartTime": 4176,
+        "slowEndTime": 8225
+    },
+    {
+        "text": "...and they're gonna have a new trick.",
+        "startTime": 5457,
+        "endTime": 6611,
+        "slowStartTime": 8335,
+        "slowEndTime": 10142
+    },
+    {
+        "text": "They're gonna work with the iPhone,...",
+        "startTime": 6875,
+        "endTime": 8579,
+        "slowStartTime": 10463,
+        "slowEndTime": 13094
+    },
+    {
+        "text": "...that means the Apple watch is gonna have a lot more competition pretty soon.",
+        "startTime": 8830,
+        "endTime": 11704,
+        "slowStartTime": 13395,
+        "slowEndTime": 17781
+    },
+    {
+        "text": "But the big question is,...",
+        "startTime": 12097,
+        "endTime": 13268,
+        "slowStartTime": 18296,
+        "slowEndTime": 20127
+    },
+    {
+        "text": "...how much can Google's watches do when they're paired with iOS?",
+        "startTime": 13450,
+        "endTime": 16676,
+        "slowStartTime": 20325,
+        "slowEndTime": 25239
+    },
+    {
+        "text": "We went to Google's Headquarters to find out.",
+        "startTime": 17012,
+        "endTime": 18759,
+        "slowStartTime": 25668,
+        "slowEndTime": 28364
+    },
+    {
+        "text": "So today, we're announcing that we're bringing Android Wear to iOS.",
+        "startTime": 21421,
+        "endTime": 26445,
+        "slowStartTime": 32281,
+        "slowEndTime": 39892
+    },
+    {
+        "text": "So if you have an iPhone, you can also use these watches.",
+        "startTime": 26825,
+        "endTime": 29551,
+        "slowStartTime": 40388,
+        "slowEndTime": 44552
+    },
+    {
+        "text": "I actually got a chance to set up Android wear with my own iPhone,...",
+        "startTime": 29791,
+        "endTime": 32866,
+        "slowStartTime": 44836,
+        "slowEndTime": 49524
+    },
+    {
+        "text": "...and the setup was actually really simple.",
+        "startTime": 33017,
+        "endTime": 34582,
+        "slowStartTime": 49675,
+        "slowEndTime": 52098
+    },
+    {
+        "text": "You just download the Android Wear app from the App Store, install it on your phone,...",
+        "startTime": 34854,
+        "endTime": 38195,
+        "slowStartTime": 52431,
+        "slowEndTime": 57518
+    },
+    {
+        "text": "...pair it with an Android Wear watch and you're done.",
+        "startTime": 38517,
+        "endTime": 40767,
+        "slowStartTime": 57926,
+        "slowEndTime": 61376
+    },
+    {
+        "text": "But Google can't dig down deep into the bones of iOS the way that the Apple watch can...",
+        "startTime": 41348,
+        "endTime": 45617,
+        "slowStartTime": 62172,
+        "slowEndTime": 68651
+    },
+    {
+        "text": "...and that introduces some complications.",
+        "startTime": 45738,
+        "endTime": 48221,
+        "slowStartTime": 68757,
+        "slowEndTime": 72556
+    },
+    {
+        "text": "Google actually manage to work around a lot of them especially with notifications,...",
+        "startTime": 48774,
+        "endTime": 52193,
+        "slowStartTime": 73311,
+        "slowEndTime": 78514
+    },
+    {
+        "text": "...but the problem is, there are few things that the Android Wear app...",
+        "startTime": 52645,
+        "endTime": 55379,
+        "slowStartTime": 79118,
+        "slowEndTime": 83294
+    },
+    {
+        "text": "...just can't do with iOS.",
+        "startTime": 55487,
+        "endTime": 56848,
+        "slowStartTime": 83380,
+        "slowEndTime": 85497
+    },
+    {
+        "text": "At launch, Android Wear is only gonna work for few watches with the iPhone.",
+        "startTime": 56963,
+        "endTime": 60445,
+        "slowStartTime": 85595,
+        "slowEndTime": 90893
+    },
+    {
+        "text": "The Huawei Watch, the Asus Zen Watch 2, and the LG Watch Urbane.",
+        "startTime": 60788,
+        "endTime": 64780,
+        "slowStartTime": 91332,
+        "slowEndTime": 97395
+    },
+    {
+        "text": "But a lot more are coming very, very soon.",
+        "startTime": 65047,
+        "endTime": 67147,
+        "slowStartTime": 97721,
+        "slowEndTime": 100946
+    },
+    {
+        "text": "And that's gonna mean a lot of competition for the Apple watch.",
+        "startTime": 67241,
+        "endTime": 69545,
+        "slowStartTime": 101011,
+        "slowEndTime": 104543
+    },
+    {
+        "text": "They might not be able to match it on features but they can definitely be competitive...",
+        "startTime": 69758,
+        "endTime": 72875,
+        "slowStartTime": 104787,
+        "slowEndTime": 109537
+    },
+    {
+        "text": "...on the numbers of styles and on price.",
+        "startTime": 73131,
+        "endTime": 75588,
+        "slowStartTime": 109847,
+        "slowEndTime": 113607
+    }
+]

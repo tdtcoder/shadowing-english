@@ -1,0 +1,233 @@
+[
+    {
+        "text": "Space, the filthy frontier.",
+        "startTime": 243,
+        "endTime": 3255,
+        "slowStartTime": 514,
+        "slowEndTime": 5108
+    },
+    {
+        "text": "Humans successfully put their first object into space in 1957: the Sputnik satellite.",
+        "startTime": 4055,
+        "endTime": 9851,
+        "slowStartTime": 6233,
+        "slowEndTime": 15002
+    },
+    {
+        "text": "And after 75 years of spacecraft being sent into orbit,...",
+        "startTime": 10304,
+        "endTime": 14194,
+        "slowStartTime": 15606,
+        "slowEndTime": 21516
+    },
+    {
+        "text": "...it's a lot easier to go for launch, but a lot messier once you're up there.",
+        "startTime": 14447,
+        "endTime": 19150,
+        "slowStartTime": 21821,
+        "slowEndTime": 28950
+    },
+    {
+        "text": "Governments now have to share space with private companies,...",
+        "startTime": 22277,
+        "endTime": 25123,
+        "slowStartTime": 33565,
+        "slowEndTime": 37910
+    },
+    {
+        "text": "...and without much in the way of regulation, it's starting to get so congested...",
+        "startTime": 25434,
+        "endTime": 30217,
+        "slowStartTime": 38301,
+        "slowEndTime": 45550
+    },
+    {
+        "text": "...we don't know exactly what's up there anymore.",
+        "startTime": 30401,
+        "endTime": 32497,
+        "slowStartTime": 45751,
+        "slowEndTime": 48970
+    },
+    {
+        "text": "Some estimates say around 5,000 satellites in orbit...",
+        "startTime": 33054,
+        "endTime": 36235,
+        "slowStartTime": 49731,
+        "slowEndTime": 54578
+    },
+    {
+        "text": "...with fewer than half actually working.",
+        "startTime": 36494,
+        "endTime": 38849,
+        "slowStartTime": 54891,
+        "slowEndTime": 58499
+    },
+    {
+        "text": "And when a satellite stops functioning, it still keeps orbiting,...",
+        "startTime": 39318,
+        "endTime": 42987,
+        "slowStartTime": 59127,
+        "slowEndTime": 64706
+    },
+    {
+        "text": "...which is a problem for the useful ones.",
+        "startTime": 43263,
+        "endTime": 45180,
+        "slowStartTime": 65044,
+        "slowEndTime": 67995
+    },
+    {
+        "text": "Satellites, when they die on these orbital highways,...",
+        "startTime": 45871,
+        "endTime": 48047,
+        "slowStartTime": 68956,
+        "slowEndTime": 72296
+    },
+    {
+        "text": "...they just keep on going at these very fast speeds.",
+        "startTime": 48130,
+        "endTime": 50525,
+        "slowStartTime": 72345,
+        "slowEndTime": 76013
+    },
+    {
+        "text": "Some of the relative speeds between satellites that are crisscrossing each other,...",
+        "startTime": 50900,
+        "endTime": 54727,
+        "slowStartTime": 76500,
+        "slowEndTime": 82315
+    },
+    {
+        "text": "...it's like 15 times the speed of a bullet,...",
+        "startTime": 55009,
+        "endTime": 56977,
+        "slowStartTime": 82664,
+        "slowEndTime": 85691
+    },
+    {
+        "text": "...so that's pretty gnarly to think about.",
+        "startTime": 57331,
+        "endTime": 60548,
+        "slowStartTime": 86146,
+        "slowEndTime": 91047
+    },
+    {
+        "text": "And every once in a while, ...",
+        "startTime": 60900,
+        "endTime": 63517,
+        "slowStartTime": 91500,
+        "slowEndTime": 95500
+    },
+    {
+        "text": "...two of these things find each other in space at these very high speeds, collide,...",
+        "startTime": 63607,
+        "endTime": 68465,
+        "slowStartTime": 95560,
+        "slowEndTime": 102922
+    },
+    {
+        "text": "...and break up into very smaller pieces and that sort of stuff.",
+        "startTime": 68567,
+        "endTime": 71310,
+        "slowStartTime": 103000,
+        "slowEndTime": 107190
+    },
+    {
+        "text": "And most of the things that could damage a satellite...",
+        "startTime": 71693,
+        "endTime": 74289,
+        "slowStartTime": 107689,
+        "slowEndTime": 111659
+    },
+    {
+        "text": "...that's providing a service or a capability that we care about,...",
+        "startTime": 74541,
+        "endTime": 77103,
+        "slowStartTime": 111962,
+        "slowEndTime": 115880
+    },
+    {
+        "text": "...most of those things are not trackable because they're too small.",
+        "startTime": 77516,
+        "endTime": 80297,
+        "slowStartTime": 116424,
+        "slowEndTime": 120670
+    },
+    {
+        "text": "Moriba's co-founder of Privateer, which tracks space debris.",
+        "startTime": 80989,
+        "endTime": 84517,
+        "slowStartTime": 121633,
+        "slowEndTime": 127000
+    },
+    {
+        "text": "It aims to collect information from many different origins,...",
+        "startTime": 84731,
+        "endTime": 88076,
+        "slowStartTime": 127247,
+        "slowEndTime": 132339
+    },
+    {
+        "text": "...like telescopes and radars, physical sensors, even news articles,...",
+        "startTime": 88233,
+        "endTime": 91974,
+        "slowStartTime": 132500,
+        "slowEndTime": 138186
+    },
+    {
+        "text": "...and turn it into usable data for developers.",
+        "startTime": 92095,
+        "endTime": 94949,
+        "slowStartTime": 138292,
+        "slowEndTime": 142648
+    },
+    {
+        "text": "Imagine a massive machine-readable spreadsheet,...",
+        "startTime": 95287,
+        "endTime": 98005,
+        "slowStartTime": 143080,
+        "slowEndTime": 147232
+    },
+    {
+        "text": "...where all the data is lined up so the column headings make sense.",
+        "startTime": 98356,
+        "endTime": 101275,
+        "slowStartTime": 147684,
+        "slowEndTime": 152138
+    },
+    {
+        "text": "It's one of many companies and space agencies...",
+        "startTime": 102140,
+        "endTime": 104355,
+        "slowStartTime": 153360,
+        "slowEndTime": 156757
+    },
+    {
+        "text": "...taking part in the Summit for Space Sustainability at London's Science Museum.",
+        "startTime": 104425,
+        "endTime": 109405,
+        "slowStartTime": 156788,
+        "slowEndTime": 164333
+    },
+    {
+        "text": "These are the people hoping to clean up up there.",
+        "startTime": 110189,
+        "endTime": 113409,
+        "slowStartTime": 165433,
+        "slowEndTime": 170339
+    },
+    {
+        "text": "And it's harder than you think...",
+        "startTime": 114285,
+        "endTime": 115899,
+        "slowStartTime": 171577,
+        "slowEndTime": 174073
+    },
+    {
+        "text": "...because you can't exactly use a vacuum cleaner in a vacuum.",
+        "startTime": 116055,
+        "endTime": 120007,
+        "slowStartTime": 174233,
+        "slowEndTime": 180235
+    }
+]

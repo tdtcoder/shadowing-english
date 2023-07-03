@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Hi, I'm Kim.",
+        "startTime": 251,
+        "endTime": 1245,
+        "slowStartTime": 527,
+        "slowEndTime": 2093
+    },
+    {
+        "text": "Each month, millions of gigs of unused data are taken back by wireless companies.",
+        "startTime": 1700,
+        "endTime": 6337,
+        "slowStartTime": 2700,
+        "slowEndTime": 9731
+    },
+    {
+        "text": "Tragic.",
+        "startTime": 6643,
+        "endTime": 7300,
+        "slowStartTime": 10114,
+        "slowEndTime": 11175
+    },
+    {
+        "text": "Data you paid for that could be used to see my makeup.",
+        "startTime": 7667,
+        "endTime": 10953,
+        "slowStartTime": 11650,
+        "slowEndTime": 16655
+    },
+    {
+        "text": "My backhand.",
+        "startTime": 11667,
+        "endTime": 12671,
+        "slowStartTime": 17650,
+        "slowEndTime": 19231
+    },
+    {
+        "text": "My outfits.",
+        "startTime": 13247,
+        "endTime": 14175,
+        "slowStartTime": 20020,
+        "slowEndTime": 21487
+    },
+    {
+        "text": "My vacations.",
+        "startTime": 14589,
+        "endTime": 15723,
+        "slowStartTime": 22034,
+        "slowEndTime": 23810
+    },
+    {
+        "text": "And my outfits.",
+        "startTime": 16113,
+        "endTime": 17569,
+        "slowStartTime": 24320,
+        "slowEndTime": 26579
+    },
+    {
+        "text": "Sadly, all lost.",
+        "startTime": 17971,
+        "endTime": 19308,
+        "slowStartTime": 27106,
+        "slowEndTime": 29187
+    },
+    {
+        "text": "Please help save the data.",
+        "startTime": 19686,
+        "endTime": 21902,
+        "slowStartTime": 29679,
+        "slowEndTime": 33078
+    }
+]

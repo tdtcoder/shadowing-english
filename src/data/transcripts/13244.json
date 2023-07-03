@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Jack and his mother were hungry.",
+        "startTime": 2810,
+        "endTime": 4946,
+        "slowStartTime": 4365,
+        "slowEndTime": 7644
+    },
+    {
+        "text": "They needed money to buy food,...",
+        "startTime": 5931,
+        "endTime": 7754,
+        "slowStartTime": 9046,
+        "slowEndTime": 11856
+    },
+    {
+        "text": "...so they decided to sell their cow.",
+        "startTime": 8421,
+        "endTime": 11086,
+        "slowStartTime": 12782,
+        "slowEndTime": 16854
+    },
+    {
+        "text": "But Jack traded the cow for a handful of beans.",
+        "startTime": 11957,
+        "endTime": 15617,
+        "slowStartTime": 18085,
+        "slowEndTime": 23650
+    },
+    {
+        "text": "His mother was upset and threw them out the window.",
+        "startTime": 16551,
+        "endTime": 20045,
+        "slowStartTime": 24977,
+        "slowEndTime": 30292
+    },
+    {
+        "text": "They grew high into the sky.",
+        "startTime": 22863,
+        "endTime": 24713,
+        "slowStartTime": 34445,
+        "slowEndTime": 37294
+    },
+    {
+        "text": "Jack climbed up to the top and found a giant's castle.",
+        "startTime": 25722,
+        "endTime": 29665,
+        "slowStartTime": 38733,
+        "slowEndTime": 44722
+    },
+    {
+        "text": "The giant had a magic hen and golden harp, which Jack took.",
+        "startTime": 30760,
+        "endTime": 36386,
+        "slowStartTime": 46290,
+        "slowEndTime": 54804
+    },
+    {
+        "text": "He raced to the bottom of the beanstalk and cut it down with an ax.",
+        "startTime": 37512,
+        "endTime": 42531,
+        "slowStartTime": 56418,
+        "slowEndTime": 64021
+    },
+    {
+        "text": "The giant fell from the beanstalk and was killed.",
+        "startTime": 43682,
+        "endTime": 46589,
+        "slowStartTime": 65673,
+        "slowEndTime": 70108
+    },
+    {
+        "text": "The magic hen clucked and laid a golden egg.",
+        "startTime": 47622,
+        "endTime": 50871,
+        "slowStartTime": 71583,
+        "slowEndTime": 76531
+    },
+    {
+        "text": "Jack's mother took the golden egg and said happily,...",
+        "startTime": 52011,
+        "endTime": 55497,
+        "slowStartTime": 78166,
+        "slowEndTime": 83470
+    },
+    {
+        "text": "...\"Now we'll have something nice to eat.\"",
+        "startTime": 56384,
+        "endTime": 59273,
+        "slowStartTime": 84726,
+        "slowEndTime": 89135
+    }
+]

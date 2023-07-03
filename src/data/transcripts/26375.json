@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Oh, we're in the middle of an interview, sir.",
+        "startTime": 1769,
+        "endTime": 3725,
+        "slowStartTime": 2804,
+        "slowEndTime": 5812
+    },
+    {
+        "text": "Are you looking for reception?",
+        "startTime": 4230,
+        "endTime": 5771,
+        "slowStartTime": 6495,
+        "slowEndTime": 8882
+    },
+    {
+        "text": "No, I'm here for the interview.",
+        "startTime": 5947,
+        "endTime": 7636,
+        "slowStartTime": 9071,
+        "slowEndTime": 11679
+    },
+    {
+        "text": "You're what?",
+        "startTime": 8419,
+        "endTime": 9217,
+        "slowStartTime": 12779,
+        "slowEndTime": 14050
+    },
+    {
+        "text": "I'm Kit.",
+        "startTime": 9821,
+        "endTime": 10347,
+        "slowStartTime": 14881,
+        "slowEndTime": 15745
+    },
+    {
+        "text": "Oh yes, here you are, Kit Harington.",
+        "startTime": 11989,
+        "endTime": 14781,
+        "slowStartTime": 18133,
+        "slowEndTime": 22396
+    },
+    {
+        "text": "That rings a bell.",
+        "startTime": 17313,
+        "endTime": 18217,
+        "slowStartTime": 26120,
+        "slowEndTime": 27551
+    },
+    {
+        "text": "Game of Thrones?",
+        "startTime": 20390,
+        "endTime": 21101,
+        "slowStartTime": 30735,
+        "slowEndTime": 31876
+    },
+    {
+        "text": "Ah, Frodo.",
+        "startTime": 21491,
+        "endTime": 22774,
+        "slowStartTime": 32387,
+        "slowEndTime": 34386
+    },
+    {
+        "text": "What's Ian McKellen like then?",
+        "startTime": 24195,
+        "endTime": 25741,
+        "slowStartTime": 36443,
+        "slowEndTime": 38837
+    },
+    {
+        "text": "I think you might have me mistaken for someone else.",
+        "startTime": 26569,
+        "endTime": 30355,
+        "slowStartTime": 40003,
+        "slowEndTime": 45757
+    },
+    {
+        "text": "So, you're an actor then, what else have you been in?",
+        "startTime": 30617,
+        "endTime": 33231,
+        "slowStartTime": 46075,
+        "slowEndTime": 50071
+    },
+    {
+        "text": "I was in Testament of Youth and the new movie, Spooks.",
+        "startTime": 34081,
+        "endTime": 37523,
+        "slowStartTime": 51272,
+        "slowEndTime": 56510
+    },
+    {
+        "text": "I mean there's other stuff coming out in Hollywood and...",
+        "startTime": 40297,
+        "endTime": 43517,
+        "slowStartTime": 60596,
+        "slowEndTime": 65501
+    },
+    {
+        "text": "Why do you want to be the face of Mencap?",
+        "startTime": 44667,
+        "endTime": 46421,
+        "slowStartTime": 67151,
+        "slowEndTime": 69856
+    },
+    {
+        "text": "So, I want to be your ambassador...",
+        "startTime": 46983,
+        "endTime": 49009,
+        "slowStartTime": 70625,
+        "slowEndTime": 73739
+    },
+    {
+        "text": "...because I want to help support people with a learning disability.",
+        "startTime": 49156,
+        "endTime": 52235,
+        "slowStartTime": 73884,
+        "slowEndTime": 78578
+    },
+    {
+        "text": "I believe everyone deserves equal health care, equal education,...",
+        "startTime": 53061,
+        "endTime": 56743,
+        "slowStartTime": 79742,
+        "slowEndTime": 85339
+    },
+    {
+        "text": "...equal access to work, the same chances as everyone else,...",
+        "startTime": 57255,
+        "endTime": 60273,
+        "slowStartTime": 86033,
+        "slowEndTime": 90635
+    },
+    {
+        "text": "...to go out and have fun.",
+        "startTime": 60345,
+        "endTime": 61221,
+        "slowStartTime": 90667,
+        "slowEndTime": 92057
+    }
+]

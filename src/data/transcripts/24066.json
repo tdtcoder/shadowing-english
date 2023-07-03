@@ -1,0 +1,128 @@
+[
+    {
+        "text": "So, six months ago, I get an email from Stewart Butterfield...",
+        "startTime": 1578,
+        "endTime": 4539,
+        "slowStartTime": 2517,
+        "slowEndTime": 7033
+    },
+    {
+        "text": "...who wants to talk about making a video for his new thing, Slack.",
+        "startTime": 4613,
+        "endTime": 7435,
+        "slowStartTime": 7069,
+        "slowEndTime": 11378
+    },
+    {
+        "text": "It would change the way teams communicate.",
+        "startTime": 8035,
+        "endTime": 10615,
+        "slowStartTime": 12203,
+        "slowEndTime": 16148
+    },
+    {
+        "text": "The truth is, I was spending all my time doing emails instead of making stuff...",
+        "startTime": 10766,
+        "endTime": 14186,
+        "slowStartTime": 16299,
+        "slowEndTime": 21504
+    },
+    {
+        "text": "...and something had to change.",
+        "startTime": 14361,
+        "endTime": 15505,
+        "slowStartTime": 21692,
+        "slowEndTime": 23482
+    },
+    {
+        "text": "So yeah, we tried Slack.",
+        "startTime": 15623,
+        "endTime": 17600,
+        "slowStartTime": 23584,
+        "slowEndTime": 26625
+    },
+    {
+        "text": "Slack lets us do all our communication in one place.",
+        "startTime": 18870,
+        "endTime": 21576,
+        "slowStartTime": 28455,
+        "slowEndTime": 32589
+    },
+    {
+        "text": "It's like combining multiple forms of messaging and file-sharing into one app.",
+        "startTime": 21679,
+        "endTime": 25340,
+        "slowStartTime": 32668,
+        "slowEndTime": 38235
+    },
+    {
+        "text": "You make channels in Slack, which is perfect for discussing specific topics in groups.",
+        "startTime": 25748,
+        "endTime": 29481,
+        "slowStartTime": 38772,
+        "slowEndTime": 44447
+    },
+    {
+        "text": "Slack integrates with Dropbox, which is amazing because we use Dropbox for everything.",
+        "startTime": 29610,
+        "endTime": 34127,
+        "slowStartTime": 44565,
+        "slowEndTime": 51415
+    },
+    {
+        "text": "I like that Slack always keeps my place.",
+        "startTime": 34500,
+        "endTime": 35981,
+        "slowStartTime": 51597,
+        "slowEndTime": 54197
+    },
+    {
+        "text": "I can switch from my laptop to my mobile and I never miss a thing.",
+        "startTime": 36250,
+        "endTime": 39022,
+        "slowStartTime": 54249,
+        "slowEndTime": 58758
+    },
+    {
+        "text": "Is this your card?",
+        "startTime": 39137,
+        "endTime": 39915,
+        "slowStartTime": 58855,
+        "slowEndTime": 60098
+    },
+    {
+        "text": "Yes. No.",
+        "startTime": 40690,
+        "endTime": 41217,
+        "slowStartTime": 61185,
+        "slowEndTime": 62051
+    },
+    {
+        "text": "And Adam loves it.",
+        "startTime": 41295,
+        "endTime": 42216,
+        "slowStartTime": 62093,
+        "slowEndTime": 63549
+    },
+    {
+        "text": "Slack really has changed the way his team communicates...",
+        "startTime": 42387,
+        "endTime": 44869,
+        "slowStartTime": 63731,
+        "slowEndTime": 67529
+    },
+    {
+        "text": "...and all this open, efficient communication keeps his company happy,...",
+        "startTime": 44959,
+        "endTime": 48323,
+        "slowStartTime": 67589,
+        "slowEndTime": 72710
+    },
+    {
+        "text": "...which makes Adam happy too.",
+        "startTime": 48781,
+        "endTime": 50047,
+        "slowStartTime": 73321,
+        "slowEndTime": 75295
+    }
+]

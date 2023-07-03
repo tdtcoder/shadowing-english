@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Welcome to Westchester Medical Center's new hybrid operating room,...",
+        "startTime": 179,
+        "endTime": 3600,
+        "slowStartTime": 418,
+        "slowEndTime": 5625
+    },
+    {
+        "text": "...a  state-of-the-art operating suite specifically designed...",
+        "startTime": 3943,
+        "endTime": 6878,
+        "slowStartTime": 6065,
+        "slowEndTime": 10542
+    },
+    {
+        "text": "...for the use of catheter-based treatments.",
+        "startTime": 6975,
+        "endTime": 9027,
+        "slowStartTime": 10612,
+        "slowEndTime": 13765
+    },
+    {
+        "text": "The new hybrid OR combines the best features of a modern operating room and a catheterization lab...",
+        "startTime": 9765,
+        "endTime": 14916,
+        "slowStartTime": 14798,
+        "slowEndTime": 22599
+    },
+    {
+        "text": "...using the most sophisticated imaging technology...",
+        "startTime": 15092,
+        "endTime": 17481,
+        "slowStartTime": 22788,
+        "slowEndTime": 26446
+    },
+    {
+        "text": "...and featuring the latest advances in surgical and imaging equipment,...",
+        "startTime": 17566,
+        "endTime": 20698,
+        "slowStartTime": 26499,
+        "slowEndTime": 31272
+    },
+    {
+        "text": "...making it an ideal solution for performing complex, minimally invasive...",
+        "startTime": 21163,
+        "endTime": 25061,
+        "slowStartTime": 31895,
+        "slowEndTime": 37816
+    },
+    {
+        "text": "...and open cardiovascular, vascular, neurovascular and orthopedic procedures...",
+        "startTime": 25197,
+        "endTime": 30175,
+        "slowStartTime": 37945,
+        "slowEndTime": 45487
+    },
+    {
+        "text": "...in the same operating space.",
+        "startTime": 30244,
+        "endTime": 31875,
+        "slowStartTime": 45516,
+        "slowEndTime": 48038
+    }
+]

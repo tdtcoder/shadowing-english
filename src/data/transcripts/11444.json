@@ -1,0 +1,79 @@
+[
+    {
+        "text": "3 September 1875.",
+        "startTime": 2730,
+        "endTime": 5370,
+        "slowStartTime": 4170,
+        "slowEndTime": 8100
+    },
+    {
+        "text": "It has been nine months since the patient's miraculous recovery and relapse,...",
+        "startTime": 5830,
+        "endTime": 9600,
+        "slowStartTime": 8890,
+        "slowEndTime": 14470
+    },
+    {
+        "text": "...and I am no closer to a diagnosis.",
+        "startTime": 9780,
+        "endTime": 11750,
+        "slowStartTime": 14820,
+        "slowEndTime": 17630
+    },
+    {
+        "text": "She is physically responsive, her reflexes acute,...",
+        "startTime": 12540,
+        "endTime": 15710,
+        "slowStartTime": 18930,
+        "slowEndTime": 23720
+    },
+    {
+        "text": "...but her mind seems every day to slip further and further away.",
+        "startTime": 16080,
+        "endTime": 19420,
+        "slowStartTime": 24220,
+        "slowEndTime": 29120
+    },
+    {
+        "text": "She's become less inclined to communicate...",
+        "startTime": 19950,
+        "endTime": 22350,
+        "slowStartTime": 30005,
+        "slowEndTime": 33535
+    },
+    {
+        "text": "...and I believe she may be preparing for a more significant retreat.",
+        "startTime": 22680,
+        "endTime": 26360,
+        "slowStartTime": 34120,
+        "slowEndTime": 39655
+    },
+    {
+        "text": "Tonics and other agents have proven ineffective.",
+        "startTime": 26890,
+        "endTime": 29530,
+        "slowStartTime": 40420,
+        "slowEndTime": 44430
+    },
+    {
+        "text": "It is perhaps time to consider a more radical course of treatment.",
+        "startTime": 30330,
+        "endTime": 34000,
+        "slowStartTime": 45570,
+        "slowEndTime": 51170
+    },
+    {
+        "text": "Alice?",
+        "startTime": 44310,
+        "endTime": 45070,
+        "slowStartTime": 66530,
+        "slowEndTime": 67600
+    },
+    {
+        "text": "Is everything alright?",
+        "startTime": 45740,
+        "endTime": 47480,
+        "slowStartTime": 68670,
+        "slowEndTime": 71320
+    }
+]

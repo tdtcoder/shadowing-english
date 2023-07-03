@@ -1,0 +1,93 @@
+[
+    {
+        "text": "An interjection is a word or phrase that expresses a sudden or strong feeling.",
+        "startTime": 375,
+        "endTime": 7384,
+        "slowStartTime": 712,
+        "slowEndTime": 11301
+    },
+    {
+        "text": "Wow! The video is amazing.",
+        "startTime": 16467,
+        "endTime": 19142,
+        "slowStartTime": 24851,
+        "slowEndTime": 28938
+    },
+    {
+        "text": "Ha! What a surprise! Wonderful!",
+        "startTime": 23206,
+        "endTime": 26314,
+        "slowStartTime": 34959,
+        "slowEndTime": 39696
+    },
+    {
+        "text": "Duh. Of course, I'll take the job.",
+        "startTime": 30275,
+        "endTime": 33135,
+        "slowStartTime": 45562,
+        "slowEndTime": 49928
+    },
+    {
+        "text": "Huh? Come again? Is that really true?",
+        "startTime": 36657,
+        "endTime": 40817,
+        "slowStartTime": 55135,
+        "slowEndTime": 61451
+    },
+    {
+        "text": "Hmm. True. Let me think about it.",
+        "startTime": 44520,
+        "endTime": 47999,
+        "slowStartTime": 66930,
+        "slowEndTime": 72224
+    },
+    {
+        "text": "Yikes! That's bad news.",
+        "startTime": 52007,
+        "endTime": 54606,
+        "slowStartTime": 78160,
+        "slowEndTime": 82134
+    },
+    {
+        "text": "Oops! I missed catching the ball.",
+        "startTime": 58661,
+        "endTime": 60778,
+        "slowStartTime": 88141,
+        "slowEndTime": 91392
+    },
+    {
+        "text": "Shh, don't tell anyone.",
+        "startTime": 64802,
+        "endTime": 67043,
+        "slowStartTime": 97353,
+        "slowEndTime": 100790
+    },
+    {
+        "text": "Ah, so cute.",
+        "startTime": 71056,
+        "endTime": 73297,
+        "slowStartTime": 106734,
+        "slowEndTime": 110170
+    },
+    {
+        "text": "Ouch! That hurts.",
+        "startTime": 77209,
+        "endTime": 79513,
+        "slowStartTime": 115964,
+        "slowEndTime": 119494
+    },
+    {
+        "text": "Yuck! This tastes awful.",
+        "startTime": 83369,
+        "endTime": 86601,
+        "slowStartTime": 125204,
+        "slowEndTime": 130127
+    },
+    {
+        "text": "Hey! How are you doing?",
+        "startTime": 90727,
+        "endTime": 92783,
+        "slowStartTime": 136241,
+        "slowEndTime": 139399
+    }
+]

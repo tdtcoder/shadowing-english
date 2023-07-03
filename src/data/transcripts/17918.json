@@ -1,0 +1,44 @@
+[
+    {
+        "text": "\"What is inside the cave?\" he thought.",
+        "startTime": 413,
+        "endTime": 3507,
+        "slowStartTime": 769,
+        "slowEndTime": 5485
+    },
+    {
+        "text": "\"Open sesame!\" he shouted to the cave.",
+        "startTime": 4687,
+        "endTime": 7625,
+        "slowStartTime": 7181,
+        "slowEndTime": 11663
+    },
+    {
+        "text": "Immediately, a door opened into the cave.",
+        "startTime": 8319,
+        "endTime": 10984,
+        "slowStartTime": 12629,
+        "slowEndTime": 16701
+    },
+    {
+        "text": "Ali Baba went inside.",
+        "startTime": 11515,
+        "endTime": 13167,
+        "slowStartTime": 17423,
+        "slowEndTime": 19975
+    },
+    {
+        "text": "He was very surprised.",
+        "startTime": 13572,
+        "endTime": 15075,
+        "slowStartTime": 20508,
+        "slowEndTime": 22838
+    },
+    {
+        "text": "The cave was full of bags of gold coins.",
+        "startTime": 15662,
+        "endTime": 18313,
+        "slowStartTime": 23643,
+        "slowEndTime": 27695
+    }
+]

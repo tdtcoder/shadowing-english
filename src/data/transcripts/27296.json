@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Deep in the Namibian desert is a place time forgot.",
+        "startTime": 7354,
+        "endTime": 10864,
+        "slowStartTime": 11181,
+        "slowEndTime": 16521
+    },
+    {
+        "text": "Once a German colony, miners flocked here after diamonds were discovered in 1908.",
+        "startTime": 16087,
+        "endTime": 20745,
+        "slowStartTime": 24281,
+        "slowEndTime": 31343
+    },
+    {
+        "text": "The town grew quickly,...",
+        "startTime": 21345,
+        "endTime": 22533,
+        "slowStartTime": 32167,
+        "slowEndTime": 34025
+    },
+    {
+        "text": "...fueled by the enormous wealth hidden beneath the sands.",
+        "startTime": 23213,
+        "endTime": 27405,
+        "slowStartTime": 34970,
+        "slowEndTime": 41333
+    },
+    {
+        "text": "But as the diamonds disappeared and production relocated,...",
+        "startTime": 29113,
+        "endTime": 32075,
+        "slowStartTime": 43819,
+        "slowEndTime": 48338
+    },
+    {
+        "text": "...the town was left completely abandoned...",
+        "startTime": 32385,
+        "endTime": 34347,
+        "slowStartTime": 48727,
+        "slowEndTime": 51746
+    },
+    {
+        "text": "...to be slowly consumed by the ever-shifting desert.",
+        "startTime": 35293,
+        "endTime": 37916,
+        "slowStartTime": 53090,
+        "slowEndTime": 57099
+    }
+]

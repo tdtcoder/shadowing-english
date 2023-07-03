@@ -1,0 +1,72 @@
+[
+    {
+        "text": "One cold winter's day, the ants were drying the corn they had collected in the summer.",
+        "startTime": 3500,
+        "endTime": 8300,
+        "slowStartTime": 5450,
+        "slowEndTime": 12550
+    },
+    {
+        "text": "A grasshopper came to the ants and asked them for a little food.",
+        "startTime": 9350,
+        "endTime": 13150,
+        "slowStartTime": 14250,
+        "slowEndTime": 19900
+    },
+    {
+        "text": "He was hungry because he could not find any corn growing in the fields.",
+        "startTime": 13850,
+        "endTime": 17500,
+        "slowStartTime": 20925,
+        "slowEndTime": 26500
+    },
+    {
+        "text": "The ants asked him, \"Why didn't you put some corn aside for the winter...\"",
+        "startTime": 18500,
+        "endTime": 22500,
+        "slowStartTime": 27925,
+        "slowEndTime": 33975
+    },
+    {
+        "text": "\"...during the summer when there was plenty in the fields?\"",
+        "startTime": 22750,
+        "endTime": 25100,
+        "slowStartTime": 34320,
+        "slowEndTime": 37900
+    },
+    {
+        "text": "The grasshopper replied, \"I didn't have time.\"",
+        "startTime": 26050,
+        "endTime": 28950,
+        "slowStartTime": 39300,
+        "slowEndTime": 43650
+    },
+    {
+        "text": "\"I was busy singing.\"",
+        "startTime": 29500,
+        "endTime": 30600,
+        "slowStartTime": 44500,
+        "slowEndTime": 46100
+    },
+    {
+        "text": "The ants all laughed at him and said,...",
+        "startTime": 31600,
+        "endTime": 33250,
+        "slowStartTime": 47575,
+        "slowEndTime": 50100
+    },
+    {
+        "text": "\"If you were foolish enough to sing all summer,...\"",
+        "startTime": 33900,
+        "endTime": 36100,
+        "slowStartTime": 51100,
+        "slowEndTime": 54400
+    },
+    {
+        "text": "\"...then you must go to bed hungry in the winter.\"",
+        "startTime": 36600,
+        "endTime": 38700,
+        "slowStartTime": 55150,
+        "slowEndTime": 58250
+    }
+]

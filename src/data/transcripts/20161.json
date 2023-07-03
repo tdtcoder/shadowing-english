@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Coming to the meeting, Charlie?",
+        "startTime": 2863,
+        "endTime": 3906,
+        "slowStartTime": 4444,
+        "slowEndTime": 6084
+    },
+    {
+        "text": "I guess.",
+        "startTime": 4789,
+        "endTime": 5357,
+        "slowStartTime": 7334,
+        "slowEndTime": 8260
+    },
+    {
+        "text": "I like your boots.",
+        "startTime": 6991,
+        "endTime": 8239,
+        "slowStartTime": 10637,
+        "slowEndTime": 12583
+    },
+    {
+        "text": "They're not boots.",
+        "startTime": 8794,
+        "endTime": 9625,
+        "slowStartTime": 13341,
+        "slowEndTime": 14663
+    },
+    {
+        "text": "They're my cats.",
+        "startTime": 11069,
+        "endTime": 11924,
+        "slowStartTime": 16754,
+        "slowEndTime": 18111
+    },
+    {
+        "text": "Once you shake 'em, you can't shake 'em.",
+        "startTime": 20398,
+        "endTime": 22417,
+        "slowStartTime": 30747,
+        "slowEndTime": 33851
+    },
+    {
+        "text": "Crunchy outside, soft meaty flavor inside.",
+        "startTime": 22937,
+        "endTime": 25923,
+        "slowStartTime": 34555,
+        "slowEndTime": 39110
+    },
+    {
+        "text": "Temptations treats. Once you shake 'em, you can't shake 'em.",
+        "startTime": 26035,
+        "endTime": 29835,
+        "slowStartTime": 39203,
+        "slowEndTime": 44977
+    }
+]

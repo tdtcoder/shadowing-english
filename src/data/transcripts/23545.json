@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Hey dad, who is that man?",
+        "startTime": 689,
+        "endTime": 2123,
+        "slowStartTime": 1184,
+        "slowEndTime": 3409
+    },
+    {
+        "text": "He's our broker.",
+        "startTime": 2451,
+        "endTime": 3187,
+        "slowStartTime": 3827,
+        "slowEndTime": 5006
+    },
+    {
+        "text": "He helps look after all our money.",
+        "startTime": 3425,
+        "endTime": 4626,
+        "slowStartTime": 5287,
+        "slowEndTime": 7164
+    },
+    {
+        "text": "Do you pay him?",
+        "startTime": 7085,
+        "endTime": 7857,
+        "slowStartTime": 10778,
+        "slowEndTime": 12010
+    },
+    {
+        "text": "Of course.",
+        "startTime": 8849,
+        "endTime": 9302,
+        "slowStartTime": 13424,
+        "slowEndTime": 14178
+    },
+    {
+        "text": "How much?",
+        "startTime": 10165,
+        "endTime": 10727,
+        "slowStartTime": 15397,
+        "slowEndTime": 16315
+    },
+    {
+        "text": "I don't know exactly.",
+        "startTime": 11037,
+        "endTime": 12036,
+        "slowStartTime": 16706,
+        "slowEndTime": 18279
+    },
+    {
+        "text": "What if you're not happy?",
+        "startTime": 13326,
+        "endTime": 14334,
+        "slowStartTime": 20139,
+        "slowEndTime": 21726
+    },
+    {
+        "text": "Does he have to pay you back?",
+        "startTime": 14609,
+        "endTime": 15773,
+        "slowStartTime": 22064,
+        "slowEndTime": 23885
+    },
+    {
+        "text": "Nope.",
+        "startTime": 15955,
+        "endTime": 16249,
+        "slowStartTime": 24082,
+        "slowEndTime": 24598
+    },
+    {
+        "text": "Why not?",
+        "startTime": 16609,
+        "endTime": 17100,
+        "slowStartTime": 25063,
+        "slowEndTime": 25875
+    },
+    {
+        "text": "It doesn't work that way.",
+        "startTime": 18527,
+        "endTime": 19391,
+        "slowStartTime": 27940,
+        "slowEndTime": 29311
+    },
+    {
+        "text": "Why not?",
+        "startTime": 19859,
+        "endTime": 20467,
+        "slowStartTime": 29938,
+        "slowEndTime": 30926
+    },
+    {
+        "text": "Are you asking enough questions about the way your wealth is managed?",
+        "startTime": 21737,
+        "endTime": 24956,
+        "slowStartTime": 32755,
+        "slowEndTime": 37659
+    },
+    {
+        "text": "Wealth management at Charles Schwab.",
+        "startTime": 25976,
+        "endTime": 28250,
+        "slowStartTime": 39114,
+        "slowEndTime": 42600
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "text": "﻿Badminton is a game played as singles...",
+        "startTime": 659,
+        "endTime": 2455,
+        "slowStartTime": 1138,
+        "slowEndTime": 3908
+    },
+    {
+        "text": "...where one person plays against one person...",
+        "startTime": 2755,
+        "endTime": 4483,
+        "slowStartTime": 4283,
+        "slowEndTime": 6950
+    },
+    {
+        "text": "...or doubles where two people play against two people.",
+        "startTime": 4960,
+        "endTime": 7411,
+        "slowStartTime": 7590,
+        "slowEndTime": 11342
+    },
+    {
+        "text": "The object of the game is for you or your team to win two sets...",
+        "startTime": 8681,
+        "endTime": 11131,
+        "slowStartTime": 13172,
+        "slowEndTime": 16922
+    },
+    {
+        "text": "...faster than the opposing team.",
+        "startTime": 11233,
+        "endTime": 12407,
+        "slowStartTime": 17000,
+        "slowEndTime": 18836
+    },
+    {
+        "text": "To win a set, you must score 21 points and be at least two points ahead.",
+        "startTime": 13485,
+        "endTime": 17208,
+        "slowStartTime": 20377,
+        "slowEndTime": 26037
+    },
+    {
+        "text": "To start the game, the player must serve the shuttlecock below the waist.",
+        "startTime": 17606,
+        "endTime": 20815,
+        "slowStartTime": 26559,
+        "slowEndTime": 31447
+    },
+    {
+        "text": "The shuttlecock must travel over the net...",
+        "startTime": 21583,
+        "endTime": 23066,
+        "slowStartTime": 32524,
+        "slowEndTime": 34824
+    },
+    {
+        "text": "...and land in the areas defined for the serve to be legal.",
+        "startTime": 23345,
+        "endTime": 26107,
+        "slowStartTime": 35167,
+        "slowEndTime": 39385
+    },
+    {
+        "text": "If the shuttlecock is hit onto the lines, this also counts as a point.",
+        "startTime": 27233,
+        "endTime": 30258,
+        "slowStartTime": 41000,
+        "slowEndTime": 45612
+    },
+    {
+        "text": "The opponent will then try and return the shuttlecock...",
+        "startTime": 31399,
+        "endTime": 33202,
+        "slowStartTime": 47248,
+        "slowEndTime": 50028
+    },
+    {
+        "text": "...and make you miss returning it back.",
+        "startTime": 33561,
+        "endTime": 35009,
+        "slowStartTime": 50492,
+        "slowEndTime": 52738
+    },
+    {
+        "text": "This can go back and forth and is known as a rally.",
+        "startTime": 35807,
+        "endTime": 37935,
+        "slowStartTime": 53860,
+        "slowEndTime": 57127
+    },
+    {
+        "text": "Remember, the aim of the game is to hit the shuttlecock...",
+        "startTime": 38683,
+        "endTime": 40791,
+        "slowStartTime": 58175,
+        "slowEndTime": 61411
+    },
+    {
+        "text": "...onto your opponents floor,...",
+        "startTime": 40969,
+        "endTime": 42036,
+        "slowStartTime": 61603,
+        "slowEndTime": 63279
+    },
+    {
+        "text": "...and these are the areas you're aiming for.",
+        "startTime": 42408,
+        "endTime": 44318,
+        "slowStartTime": 63762,
+        "slowEndTime": 66702
+    }
+]

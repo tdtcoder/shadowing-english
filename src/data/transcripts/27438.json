@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Let's practice saying words with the silent N sound.",
+        "startTime": 592,
+        "endTime": 4288,
+        "slowStartTime": 1038,
+        "slowEndTime": 6657
+    },
+    {
+        "text": "The leaves are dry in autumn.",
+        "startTime": 10973,
+        "endTime": 13644,
+        "slowStartTime": 16609,
+        "slowEndTime": 20691
+    },
+    {
+        "text": "The fox is reading a newspaper column.",
+        "startTime": 20248,
+        "endTime": 22748,
+        "slowStartTime": 30522,
+        "slowEndTime": 34347
+    },
+    {
+        "text": "The inspectors will condemn the large house.",
+        "startTime": 29335,
+        "endTime": 32328,
+        "slowStartTime": 44153,
+        "slowEndTime": 48717
+    },
+    {
+        "text": "The choir is singing a hymn.",
+        "startTime": 38955,
+        "endTime": 41690,
+        "slowStartTime": 58583,
+        "slowEndTime": 62760
+    },
+    {
+        "text": "He spoke in a solemn manner.",
+        "startTime": 48319,
+        "endTime": 50355,
+        "slowStartTime": 72629,
+        "slowEndTime": 75757
+    }
+]

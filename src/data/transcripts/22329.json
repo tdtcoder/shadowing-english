@@ -1,0 +1,226 @@
+[
+    {
+        "text": "I'm Ann, I'm 16 and I live in British Columbia, Canada.",
+        "startTime": 1572,
+        "endTime": 5367,
+        "slowStartTime": 2508,
+        "slowEndTime": 8276
+    },
+    {
+        "text": "I think the biggest mistake people make about kids who enter science fairs...",
+        "startTime": 6137,
+        "endTime": 9413,
+        "slowStartTime": 9356,
+        "slowEndTime": 14345
+    },
+    {
+        "text": "...is that we are top of the class, straight A students.",
+        "startTime": 9511,
+        "endTime": 11739,
+        "slowStartTime": 14416,
+        "slowEndTime": 17834
+    },
+    {
+        "text": "I am not the genius nerd some people expect me to be.",
+        "startTime": 12659,
+        "endTime": 15771,
+        "slowStartTime": 19138,
+        "slowEndTime": 23881
+    },
+    {
+        "text": "I think the only difference is that we're always questioning how things work.",
+        "startTime": 16217,
+        "endTime": 19337,
+        "slowStartTime": 24475,
+        "slowEndTime": 29231
+    },
+    {
+        "text": "I've always enjoyed science because science is, well, everything.",
+        "startTime": 20199,
+        "endTime": 23946,
+        "slowStartTime": 30449,
+        "slowEndTime": 36144
+    },
+    {
+        "text": "This is no more obvious to me than with insects. I love them!",
+        "startTime": 24949,
+        "endTime": 28425,
+        "slowStartTime": 37573,
+        "slowEndTime": 42863
+    },
+    {
+        "text": "Ever since I was a kid,...",
+        "startTime": 28771,
+        "endTime": 29877,
+        "slowStartTime": 43307,
+        "slowEndTime": 45040
+    },
+    {
+        "text": "...I have been interested in how they are so small but so complicated.",
+        "startTime": 29957,
+        "endTime": 33577,
+        "slowStartTime": 45086,
+        "slowEndTime": 50591
+    },
+    {
+        "text": "You could say it's what first got me interested in science.",
+        "startTime": 34161,
+        "endTime": 37276,
+        "slowStartTime": 51392,
+        "slowEndTime": 56139
+    },
+    {
+        "text": "I believe to be truly environmentally conscious,...",
+        "startTime": 38975,
+        "endTime": 41623,
+        "slowStartTime": 58613,
+        "slowEndTime": 62659
+    },
+    {
+        "text": "...you must be willing to think of ways to create change.",
+        "startTime": 41766,
+        "endTime": 44617,
+        "slowStartTime": 62799,
+        "slowEndTime": 67151
+    },
+    {
+        "text": "My mom is from the Philippines.",
+        "startTime": 45450,
+        "endTime": 46991,
+        "slowStartTime": 68325,
+        "slowEndTime": 70712
+    },
+    {
+        "text": "A friend there told me how she had failed at school...",
+        "startTime": 47163,
+        "endTime": 49710,
+        "slowStartTime": 70894,
+        "slowEndTime": 74790
+    },
+    {
+        "text": "...because their family could not afford electricity.",
+        "startTime": 49777,
+        "endTime": 52117,
+        "slowStartTime": 74815,
+        "slowEndTime": 78400
+    },
+    {
+        "text": "Without it, there was no light for her to study and her grades suffered.",
+        "startTime": 52313,
+        "endTime": 56587,
+        "slowStartTime": 78620,
+        "slowEndTime": 85105
+    },
+    {
+        "text": "I really wanted to do something about it...",
+        "startTime": 58237,
+        "endTime": 60397,
+        "slowStartTime": 87506,
+        "slowEndTime": 90820
+    },
+    {
+        "text": "...but she needed an energy source that wasn't dependent on money.",
+        "startTime": 60598,
+        "endTime": 64126,
+        "slowStartTime": 91047,
+        "slowEndTime": 96414
+    },
+    {
+        "text": "I found out that humans are a great source of untapped energy.",
+        "startTime": 64910,
+        "endTime": 68643,
+        "slowStartTime": 97515,
+        "slowEndTime": 103190
+    },
+    {
+        "text": "So, I figured it would be amazing to make a flashlight...",
+        "startTime": 69189,
+        "endTime": 72105,
+        "slowStartTime": 103933,
+        "slowEndTime": 108383
+    },
+    {
+        "text": "...that runs on the heat of the human hand alone.",
+        "startTime": 72203,
+        "endTime": 74599,
+        "slowStartTime": 108454,
+        "slowEndTime": 112124
+    },
+    {
+        "text": "I discovered that the palm radiates more than enough milliwatts per centimeter squared of heat...",
+        "startTime": 76107,
+        "endTime": 80836,
+        "slowStartTime": 114311,
+        "slowEndTime": 121479
+    },
+    {
+        "text": "...to create a bright light from an LED.",
+        "startTime": 81206,
+        "endTime": 83717,
+        "slowStartTime": 121959,
+        "slowEndTime": 125800
+    },
+    {
+        "text": "I used Peltier tiles to utilize this heat flow.",
+        "startTime": 84399,
+        "endTime": 87363,
+        "slowStartTime": 126748,
+        "slowEndTime": 131270
+    },
+    {
+        "text": "The tiles are a thermoelectric device...",
+        "startTime": 87795,
+        "endTime": 90418,
+        "slowStartTime": 131842,
+        "slowEndTime": 135852
+    },
+    {
+        "text": "...which means that when one side is heated and one side cooled, electricity is generated.",
+        "startTime": 90948,
+        "endTime": 96091,
+        "slowStartTime": 136572,
+        "slowEndTime": 144362
+    },
+    {
+        "text": "I encased the Peltier tiles within a hollow tube,...",
+        "startTime": 97339,
+        "endTime": 100191,
+        "slowStartTime": 146158,
+        "slowEndTime": 150511
+    },
+    {
+        "text": "...so that the hand heats one side and ambient air flows through and cools the other.",
+        "startTime": 100397,
+        "endTime": 105239,
+        "slowStartTime": 150745,
+        "slowEndTime": 158084
+    },
+    {
+        "text": "It was so amazing when the flashlight finally lit.",
+        "startTime": 106666,
+        "endTime": 110029,
+        "slowStartTime": 160149,
+        "slowEndTime": 165269
+    },
+    {
+        "text": "I've learned that we shouldn't be scared by how crazy our ideas seem.",
+        "startTime": 110935,
+        "endTime": 115266,
+        "slowStartTime": 166553,
+        "slowEndTime": 173124
+    },
+    {
+        "text": "Harvesting human heat?",
+        "startTime": 115592,
+        "endTime": 117192,
+        "slowStartTime": 173538,
+        "slowEndTime": 176013
+    },
+    {
+        "text": "I thought that only happened in the movies.",
+        "startTime": 117515,
+        "endTime": 119684,
+        "slowStartTime": 176422,
+        "slowEndTime": 179751
+    }
+]

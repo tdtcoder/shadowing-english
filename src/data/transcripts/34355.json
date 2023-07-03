@@ -1,0 +1,156 @@
+[
+    {
+        "text": "For decades, human beings have played games against computers.",
+        "startTime": 205,
+        "endTime": 3319,
+        "slowStartTime": 457,
+        "slowEndTime": 5204
+    },
+    {
+        "text": "At first, the computers struggled.",
+        "startTime": 3678,
+        "endTime": 5364,
+        "slowStartTime": 5667,
+        "slowEndTime": 8271
+    },
+    {
+        "text": "But then, they started winning.",
+        "startTime": 5737,
+        "endTime": 6893,
+        "slowStartTime": 8755,
+        "slowEndTime": 10564
+    },
+    {
+        "text": "Watson!",
+        "startTime": 7089,
+        "endTime": 7603,
+        "slowStartTime": 10783,
+        "slowEndTime": 11630
+    },
+    {
+        "text": "What is Creed?",
+        "startTime": 7783,
+        "endTime": 8751,
+        "slowStartTime": 11824,
+        "slowEndTime": 13351
+    },
+    {
+        "text": "Yes!",
+        "startTime": 8936,
+        "endTime": 9243,
+        "slowStartTime": 13554,
+        "slowEndTime": 14090
+    },
+    {
+        "text": "And now they've become so dominant that they're raising doubts about the future of humanity.",
+        "startTime": 9673,
+        "endTime": 13562,
+        "slowStartTime": 14659,
+        "slowEndTime": 20568
+    },
+    {
+        "text": "The latest emblem for existential dread is Google's DeepMind project,...",
+        "startTime": 14147,
+        "endTime": 17317,
+        "slowStartTime": 21371,
+        "slowEndTime": 26201
+    },
+    {
+        "text": "...which created AlphaGo,...",
+        "startTime": 17665,
+        "endTime": 18825,
+        "slowStartTime": 26648,
+        "slowEndTime": 28463
+    },
+    {
+        "text": "...an AI program that's become unbeatable at the most complex strategy game on the planet.",
+        "startTime": 19157,
+        "endTime": 23468,
+        "slowStartTime": 28885,
+        "slowEndTime": 35427
+    },
+    {
+        "text": "While the game of checkers has 10 to the power of 20 possible outcomes,...",
+        "startTime": 23953,
+        "endTime": 27466,
+        "slowStartTime": 36080,
+        "slowEndTime": 41424
+    },
+    {
+        "text": "...and a game of chess has 10 to the power of 40 possible outcomes,...",
+        "startTime": 27567,
+        "endTime": 30934,
+        "slowStartTime": 41500,
+        "slowEndTime": 46626
+    },
+    {
+        "text": "...Go has 10 to the power of 80 possible outcomes.",
+        "startTime": 31115,
+        "endTime": 33969,
+        "slowStartTime": 46822,
+        "slowEndTime": 51178
+    },
+    {
+        "text": "AlphaGo is trained to analyze situations itself,....",
+        "startTime": 34449,
+        "endTime": 36829,
+        "slowStartTime": 51823,
+        "slowEndTime": 55469
+    },
+    {
+        "text": "...by breaking the game down to tiny parts and visualizing all possible moves.",
+        "startTime": 37033,
+        "endTime": 41486,
+        "slowStartTime": 55700,
+        "slowEndTime": 62454
+    },
+    {
+        "text": "It played the world's best Go player, 19-year-old Ke Jie,...",
+        "startTime": 42249,
+        "endTime": 45575,
+        "slowStartTime": 63524,
+        "slowEndTime": 68587
+    },
+    {
+        "text": "...with the help of a human handler.",
+        "startTime": 46081,
+        "endTime": 47419,
+        "slowStartTime": 69271,
+        "slowEndTime": 71354
+    },
+    {
+        "text": "AlphaGo beat him three times and after doing what it was designed to do,...",
+        "startTime": 47965,
+        "endTime": 51460,
+        "slowStartTime": 72098,
+        "slowEndTime": 77415
+    },
+    {
+        "text": "...retired from the game.",
+        "startTime": 51749,
+        "endTime": 52808,
+        "slowStartTime": 77773,
+        "slowEndTime": 79437
+    },
+    {
+        "text": "If a system like AlphaGo can learn all the moves in Go well enough to beat a person,...",
+        "startTime": 53558,
+        "endTime": 57381,
+        "slowStartTime": 80487,
+        "slowEndTime": 86296
+    },
+    {
+        "text": "...then it has the potential to replace lawyers and accountants, among dozens of other jobs.",
+        "startTime": 57803,
+        "endTime": 62283,
+        "slowStartTime": 86855,
+        "slowEndTime": 93649
+    },
+    {
+        "text": "It might be perfect, but it has no way to navigate human politics.",
+        "startTime": 62931,
+        "endTime": 66745,
+        "slowStartTime": 94546,
+        "slowEndTime": 100342
+    }
+]

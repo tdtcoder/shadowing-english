@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Big bug and little bug.",
+        "startTime": 181,
+        "endTime": 2299,
+        "slowStartTime": 422,
+        "slowEndTime": 3673
+    },
+    {
+        "text": "One day, a very little bug fell into a hole he dug.",
+        "startTime": 4532,
+        "endTime": 9591,
+        "slowStartTime": 6948,
+        "slowEndTime": 14611
+    },
+    {
+        "text": "\"Help me, help me,\" said the bug.",
+        "startTime": 11409,
+        "endTime": 13866,
+        "slowStartTime": 17263,
+        "slowEndTime": 21024
+    },
+    {
+        "text": "\"I fell into a hole I dug.\"",
+        "startTime": 14210,
+        "endTime": 16946,
+        "slowStartTime": 21465,
+        "slowEndTime": 25644
+    },
+    {
+        "text": "A big bug saw the little bug.",
+        "startTime": 18769,
+        "endTime": 21475,
+        "slowStartTime": 28304,
+        "slowEndTime": 32438
+    },
+    {
+        "text": "He saw the hole the bug had dug.",
+        "startTime": 21574,
+        "endTime": 24651,
+        "slowStartTime": 32511,
+        "slowEndTime": 37201
+    },
+    {
+        "text": "\"I will help you,\" said the big bug.",
+        "startTime": 26601,
+        "endTime": 29400,
+        "slowStartTime": 40052,
+        "slowEndTime": 44325
+    },
+    {
+        "text": "\"I will give your leg a tug.\"",
+        "startTime": 29740,
+        "endTime": 32223,
+        "slowStartTime": 44760,
+        "slowEndTime": 48560
+    },
+    {
+        "text": "The little bug said, \"Please I beg.\"",
+        "startTime": 34507,
+        "endTime": 37956,
+        "slowStartTime": 51911,
+        "slowEndTime": 57159
+    },
+    {
+        "text": "\"Do not tug hard on my leg.\"",
+        "startTime": 38173,
+        "endTime": 40724,
+        "slowStartTime": 57410,
+        "slowEndTime": 61311
+    },
+    {
+        "text": "\"Just give one tug, one little tug,\"",
+        "startTime": 42619,
+        "endTime": 45946,
+        "slowStartTime": 64078,
+        "slowEndTime": 69144
+    },
+    {
+        "text": "\"That is all I need, big bug.\"",
+        "startTime": 46177,
+        "endTime": 48655,
+        "slowStartTime": 69416,
+        "slowEndTime": 73207
+    },
+    {
+        "text": "The big bug gave the leg a tug.",
+        "startTime": 50769,
+        "endTime": 53846,
+        "slowStartTime": 76303,
+        "slowEndTime": 80994
+    },
+    {
+        "text": "He pulled out the little bug.",
+        "startTime": 54136,
+        "endTime": 56574,
+        "slowStartTime": 81354,
+        "slowEndTime": 85086
+    },
+    {
+        "text": "\"Thank you,\" said the little bug.",
+        "startTime": 58725,
+        "endTime": 61276,
+        "slowStartTime": 88238,
+        "slowEndTime": 92139
+    },
+    {
+        "text": "He gave the big bug one big hug.",
+        "startTime": 61463,
+        "endTime": 65159,
+        "slowStartTime": 92344,
+        "slowEndTime": 97963
+    },
+    {
+        "text": "The end.",
+        "startTime": 67101,
+        "endTime": 68588,
+        "slowStartTime": 100802,
+        "slowEndTime": 103107
+    }
+]

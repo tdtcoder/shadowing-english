@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Use \"a\" before consonant sounds and \"an\" before vowel sounds.",
+        "startTime": 526,
+        "endTime": 6819,
+        "slowStartTime": 939,
+        "slowEndTime": 10454
+    },
+    {
+        "text": "He has a car.",
+        "startTime": 13273,
+        "endTime": 15329,
+        "slowStartTime": 20060,
+        "slowEndTime": 23218
+    },
+    {
+        "text": "She is a woman.",
+        "startTime": 18826,
+        "endTime": 21253,
+        "slowStartTime": 28389,
+        "slowEndTime": 32104
+    },
+    {
+        "text": "They have a banana.",
+        "startTime": 24846,
+        "endTime": 26839,
+        "slowStartTime": 37419,
+        "slowEndTime": 40484
+    },
+    {
+        "text": "A mouse is eating.",
+        "startTime": 30675,
+        "endTime": 33041,
+        "slowStartTime": 46163,
+        "slowEndTime": 49786
+    },
+    {
+        "text": "She is wearing a hat.",
+        "startTime": 36744,
+        "endTime": 39047,
+        "slowStartTime": 55266,
+        "slowEndTime": 58795
+    },
+    {
+        "text": "This is a flower.",
+        "startTime": 43158,
+        "endTime": 45398,
+        "slowStartTime": 64887,
+        "slowEndTime": 68322
+    },
+    {
+        "text": "He is eating an apple.",
+        "startTime": 49577,
+        "endTime": 52313,
+        "slowStartTime": 74516,
+        "slowEndTime": 78695
+    },
+    {
+        "text": "This is an airplane.",
+        "startTime": 55524,
+        "endTime": 57663,
+        "slowStartTime": 83436,
+        "slowEndTime": 86719
+    },
+    {
+        "text": "Bring an umbrella if it rains.",
+        "startTime": 62036,
+        "endTime": 64339,
+        "slowStartTime": 93204,
+        "slowEndTime": 96734
+    },
+    {
+        "text": "This is an insect.",
+        "startTime": 68285,
+        "endTime": 70960,
+        "slowStartTime": 102578,
+        "slowEndTime": 106665
+    },
+    {
+        "text": "He is an old man.",
+        "startTime": 74366,
+        "endTime": 76917,
+        "slowStartTime": 111699,
+        "slowEndTime": 115600
+    },
+    {
+        "text": "A dog is an animal.",
+        "startTime": 80260,
+        "endTime": 82997,
+        "slowStartTime": 120540,
+        "slowEndTime": 124720
+    }
+]

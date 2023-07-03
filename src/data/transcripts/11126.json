@@ -1,0 +1,65 @@
+[
+    {
+        "text": "I wanna briefly summarize the benefits of informal feedback.",
+        "startTime": 3700,
+        "endTime": 6800,
+        "slowStartTime": 5700,
+        "slowEndTime": 10400
+    },
+    {
+        "text": "It can provide more detailed information about clients' needs,...",
+        "startTime": 7550,
+        "endTime": 10700,
+        "slowStartTime": 11550,
+        "slowEndTime": 16300
+    },
+    {
+        "text": "...it makes clients feel empowered,...",
+        "startTime": 11050,
+        "endTime": 12700,
+        "slowStartTime": 16800,
+        "slowEndTime": 19300
+    },
+    {
+        "text": "...and it strengthens the customer client relationship.",
+        "startTime": 13000,
+        "endTime": 15850,
+        "slowStartTime": 19700,
+        "slowEndTime": 24000
+    },
+    {
+        "text": "So to conclude, I would like to recommend that the sales department utilize informal feedback...",
+        "startTime": 16400,
+        "endTime": 22600,
+        "slowStartTime": 24850,
+        "slowEndTime": 34100
+    },
+    {
+        "text": "...in a more systematic way in the future.",
+        "startTime": 22950,
+        "endTime": 25000,
+        "slowStartTime": 34650,
+        "slowEndTime": 37700
+    },
+    {
+        "text": "Thank you for your attention.",
+        "startTime": 25900,
+        "endTime": 27100,
+        "slowStartTime": 39000,
+        "slowEndTime": 40800
+    },
+    {
+        "text": "I expect many of you have questions.",
+        "startTime": 27450,
+        "endTime": 29350,
+        "slowStartTime": 41400,
+        "slowEndTime": 44300
+    },
+    {
+        "text": "So, I would now like to invite your questions regarding my presentation.",
+        "startTime": 29650,
+        "endTime": 33850,
+        "slowStartTime": 44700,
+        "slowEndTime": 51000
+    }
+]

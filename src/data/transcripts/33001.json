@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Here are a few tips that don't take a lot of time...",
+        "startTime": 50,
+        "endTime": 2353,
+        "slowStartTime": 169,
+        "slowEndTime": 3754
+    },
+    {
+        "text": "...but can have huge security benefits.",
+        "startTime": 2672,
+        "endTime": 4791,
+        "slowStartTime": 4158,
+        "slowEndTime": 7411
+    },
+    {
+        "text": "First, check if your data has been leaked.",
+        "startTime": 5117,
+        "endTime": 7499,
+        "slowStartTime": 7825,
+        "slowEndTime": 11474
+    },
+    {
+        "text": "The website Have I Been Pwned has a database of information that has been exposed.",
+        "startTime": 8033,
+        "endTime": 12715,
+        "slowStartTime": 12200,
+        "slowEndTime": 19298
+    },
+    {
+        "text": "You can input your info like an email address or old passwords...",
+        "startTime": 12829,
+        "endTime": 16593,
+        "slowStartTime": 19394,
+        "slowEndTime": 25115
+    },
+    {
+        "text": "...to see if that data has been leaked.",
+        "startTime": 16677,
+        "endTime": 18279,
+        "slowStartTime": 25165,
+        "slowEndTime": 27644
+    },
+    {
+        "text": "If it has, change those passwords right away.",
+        "startTime": 18480,
+        "endTime": 21055,
+        "slowStartTime": 27870,
+        "slowEndTime": 31807
+    },
+    {
+        "text": "Use a password manager, like LastPass or 1Password.",
+        "startTime": 21284,
+        "endTime": 24359,
+        "slowStartTime": 32076,
+        "slowEndTime": 36763
+    },
+    {
+        "text": "A password manager securely stores your passwords...",
+        "startTime": 24521,
+        "endTime": 27069,
+        "slowStartTime": 36931,
+        "slowEndTime": 40828
+    },
+    {
+        "text": "...and can help you generate unique ones that are hard to crack with brute-force hacking.",
+        "startTime": 27152,
+        "endTime": 31055,
+        "slowStartTime": 40878,
+        "slowEndTime": 46807
+    },
+    {
+        "text": "Additionally, setting up two-factor authentication for your accounts...",
+        "startTime": 31569,
+        "endTime": 35249,
+        "slowStartTime": 47504,
+        "slowEndTime": 53098
+    },
+    {
+        "text": "...can prevent someone who has that password from accessing that account.",
+        "startTime": 35549,
+        "endTime": 38953,
+        "slowStartTime": 53473,
+        "slowEndTime": 58655
+    },
+    {
+        "text": "If you're feeling overly vulnerable or paranoid,...",
+        "startTime": 39211,
+        "endTime": 41917,
+        "slowStartTime": 58966,
+        "slowEndTime": 63101
+    },
+    {
+        "text": "...you can even purchase a device like YubiKey...",
+        "startTime": 42153,
+        "endTime": 44469,
+        "slowStartTime": 63379,
+        "slowEndTime": 66929
+    },
+    {
+        "text": "...to add even more security to your accounts.",
+        "startTime": 44594,
+        "endTime": 46541,
+        "slowStartTime": 67041,
+        "slowEndTime": 70036
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "text": "﻿She is crying sadly.",
+        "startTime": 5229,
+        "endTime": 6864,
+        "slowStartTime": 7994,
+        "slowEndTime": 10521
+    },
+    {
+        "text": "They are walking slowly.",
+        "startTime": 8471,
+        "endTime": 10697,
+        "slowStartTime": 12856,
+        "slowEndTime": 16270
+    },
+    {
+        "text": "Did they talk loudly?",
+        "startTime": 12345,
+        "endTime": 13615,
+        "slowStartTime": 18667,
+        "slowEndTime": 20647
+    },
+    {
+        "text": "No, they talked quietly.",
+        "startTime": 14513,
+        "endTime": 16537,
+        "slowStartTime": 21919,
+        "slowEndTime": 25030
+    },
+    {
+        "text": "Dan is eating hungrily.",
+        "startTime": 23311,
+        "endTime": 25377,
+        "slowStartTime": 35116,
+        "slowEndTime": 38291
+    },
+    {
+        "text": "They are working noisily.",
+        "startTime": 26979,
+        "endTime": 28831,
+        "slowStartTime": 40619,
+        "slowEndTime": 43471
+    },
+    {
+        "text": "Are the boys playing happily?",
+        "startTime": 30375,
+        "endTime": 31735,
+        "slowStartTime": 45713,
+        "slowEndTime": 47828
+    },
+    {
+        "text": "No, the boys are fighting angrily.",
+        "startTime": 32618,
+        "endTime": 35169,
+        "slowStartTime": 49077,
+        "slowEndTime": 52978
+    }
+]

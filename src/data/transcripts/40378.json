@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Starliner, may I help you?",
+        "startTime": 671,
+        "endTime": 2044,
+        "slowStartTime": 1156,
+        "slowEndTime": 3291
+    },
+    {
+        "text": "Hello.",
+        "startTime": 2438,
+        "endTime": 3015,
+        "slowStartTime": 3807,
+        "slowEndTime": 4747
+    },
+    {
+        "text": "I'd like to make a reservation for a flight to Los Angeles.",
+        "startTime": 3422,
+        "endTime": 6115,
+        "slowStartTime": 5283,
+        "slowEndTime": 9398
+    },
+    {
+        "text": "Where will you depart from?",
+        "startTime": 7357,
+        "endTime": 8731,
+        "slowStartTime": 11186,
+        "slowEndTime": 13321
+    },
+    {
+        "text": "From Chicago, Chicago O'Hare International Airport.",
+        "startTime": 9779,
+        "endTime": 13277,
+        "slowStartTime": 14818,
+        "slowEndTime": 20140
+    },
+    {
+        "text": "When do you plan to fly?",
+        "startTime": 13581,
+        "endTime": 14924,
+        "slowStartTime": 20522,
+        "slowEndTime": 22611
+    },
+    {
+        "text": "On October 5th.",
+        "startTime": 16517,
+        "endTime": 17860,
+        "slowStartTime": 24926,
+        "slowEndTime": 27015
+    },
+    {
+        "text": "I'd like to book the earliest flight in the economy class.",
+        "startTime": 18618,
+        "endTime": 21338,
+        "slowStartTime": 28077,
+        "slowEndTime": 32232
+    },
+    {
+        "text": "That's flight 145 leaving Chicago at 7:00 AM.",
+        "startTime": 21933,
+        "endTime": 25589,
+        "slowStartTime": 33049,
+        "slowEndTime": 38608
+    },
+    {
+        "text": "Would you like to book this flight?",
+        "startTime": 26038,
+        "endTime": 27425,
+        "slowStartTime": 39207,
+        "slowEndTime": 41362
+    },
+    {
+        "text": "Yes, that's fine.",
+        "startTime": 27724,
+        "endTime": 29029,
+        "slowStartTime": 41736,
+        "slowEndTime": 43768
+    }
+]

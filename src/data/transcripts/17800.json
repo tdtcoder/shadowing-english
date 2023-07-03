@@ -1,0 +1,30 @@
+[
+    {
+        "text": "All my life I've been running.",
+        "startTime": 479,
+        "endTime": 1940,
+        "slowStartTime": 868,
+        "slowEndTime": 3135
+    },
+    {
+        "text": "'Cause if you want something, you've got to run after it.",
+        "startTime": 2149,
+        "endTime": 4589,
+        "slowStartTime": 3373,
+        "slowEndTime": 7108
+    },
+    {
+        "text": "Are you ready to run?",
+        "startTime": 6873,
+        "endTime": 7765,
+        "slowStartTime": 10459,
+        "slowEndTime": 11872
+    },
+    {
+        "text": "I say go all in and prove it.",
+        "startTime": 8783,
+        "endTime": 10833,
+        "slowStartTime": 13324,
+        "slowEndTime": 16474
+    }
+]

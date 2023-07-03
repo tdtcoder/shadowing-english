@@ -1,0 +1,58 @@
+[
+    {
+        "text": "In the criminal justice system,...",
+        "startTime": 1100,
+        "endTime": 2650,
+        "slowStartTime": 1875,
+        "slowEndTime": 4250
+    },
+    {
+        "text": "...the people are represented by two separate yet equally important groups.",
+        "startTime": 3650,
+        "endTime": 7550,
+        "slowStartTime": 5650,
+        "slowEndTime": 11550
+    },
+    {
+        "text": "The police who investigate crime...",
+        "startTime": 8500,
+        "endTime": 10500,
+        "slowStartTime": 12975,
+        "slowEndTime": 15900
+    },
+    {
+        "text": "...and the district attorneys who prosecute the offenders.",
+        "startTime": 11350,
+        "endTime": 13950,
+        "slowStartTime": 17250,
+        "slowEndTime": 21100
+    },
+    {
+        "text": "This is Los Angeles.",
+        "startTime": 19550,
+        "endTime": 20950,
+        "slowStartTime": 29525,
+        "slowEndTime": 31650
+    },
+    {
+        "text": "These are its stories.",
+        "startTime": 21500,
+        "endTime": 22850,
+        "slowStartTime": 32450,
+        "slowEndTime": 34475
+    },
+    {
+        "text": "Welcome to the Wild West.",
+        "startTime": 24150,
+        "endTime": 25950,
+        "slowStartTime": 36450,
+        "slowEndTime": 39150
+    },
+    {
+        "text": "Law and Order: Los Angeles. Wednesdays this fall on NBC.",
+        "startTime": 26450,
+        "endTime": 29900,
+        "slowStartTime": 39800,
+        "slowEndTime": 45100
+    }
+]

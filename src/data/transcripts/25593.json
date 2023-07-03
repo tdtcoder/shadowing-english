@@ -1,0 +1,114 @@
+[
+    {
+        "text": "I walked into the kitchen yesterday and I said to my dad,...",
+        "startTime": 2419,
+        "endTime": 5419,
+        "slowStartTime": 3778,
+        "slowEndTime": 8353
+    },
+    {
+        "text": "...\"Hey, I'm hungry!\" and my dad said, \"Hi hungry, I'm Dad.\"",
+        "startTime": 5802,
+        "endTime": 11201,
+        "slowStartTime": 8853,
+        "slowEndTime": 17027
+    },
+    {
+        "text": "Dad asked me, \"Have you heard about the new movie 'Constipation'?\"",
+        "startTime": 26235,
+        "endTime": 30355,
+        "slowStartTime": 39502,
+        "slowEndTime": 45757
+    },
+    {
+        "text": "I was like, \"What?\"",
+        "startTime": 31755,
+        "endTime": 33276,
+        "slowStartTime": 47782,
+        "slowEndTime": 50139
+    },
+    {
+        "text": "No.",
+        "startTime": 33812,
+        "endTime": 34032,
+        "slowStartTime": 50868,
+        "slowEndTime": 51273
+    },
+    {
+        "text": "And he said, \"It never came out.\"",
+        "startTime": 35949,
+        "endTime": 39280,
+        "slowStartTime": 54074,
+        "slowEndTime": 59145
+    },
+    {
+        "text": "Who even calls a movie Constipation?",
+        "startTime": 42072,
+        "endTime": 44739,
+        "slowStartTime": 63258,
+        "slowEndTime": 67334
+    },
+    {
+        "text": "My dad and I were going past the aquarium and he said to me,...",
+        "startTime": 49681,
+        "endTime": 52801,
+        "slowStartTime": 74672,
+        "slowEndTime": 79427
+    },
+    {
+        "text": "...\"How many tickles does it take to make an octopus laugh?\"...",
+        "startTime": 53337,
+        "endTime": 56078,
+        "slowStartTime": 80156,
+        "slowEndTime": 84342
+    },
+    {
+        "text": "...and he said, \"Tentacles.\"",
+        "startTime": 57161,
+        "endTime": 58893,
+        "slowStartTime": 85891,
+        "slowEndTime": 88564
+    },
+    {
+        "text": "Like what?",
+        "startTime": 59445,
+        "endTime": 60569,
+        "slowStartTime": 89317,
+        "slowEndTime": 91079
+    },
+    {
+        "text": "Ah, tentacles.",
+        "startTime": 61881,
+        "endTime": 64307,
+        "slowStartTime": 92971,
+        "slowEndTime": 96686
+    },
+    {
+        "text": "Hey Dad, can you make me a sandwich?",
+        "startTime": 68109,
+        "endTime": 69865,
+        "slowStartTime": 102313,
+        "slowEndTime": 105022
+    },
+    {
+        "text": "And what did Dad say?",
+        "startTime": 70725,
+        "endTime": 71533,
+        "slowStartTime": 106238,
+        "slowEndTime": 107524
+    },
+    {
+        "text": "Abracadabra, you are the sandwich.",
+        "startTime": 74173,
+        "endTime": 78191,
+        "slowStartTime": 111409,
+        "slowEndTime": 117512
+    },
+    {
+        "text": "I guess I am a sandwich.",
+        "startTime": 85385,
+        "endTime": 86730,
+        "slowStartTime": 128227,
+        "slowEndTime": 130320
+    }
+]

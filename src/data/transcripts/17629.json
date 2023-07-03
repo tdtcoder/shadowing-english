@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Maggie had a bad day.",
+        "startTime": 2573,
+        "endTime": 4242,
+        "slowStartTime": 4009,
+        "slowEndTime": 6588
+    },
+    {
+        "text": "She lost her favorite hat.",
+        "startTime": 5395,
+        "endTime": 7216,
+        "slowStartTime": 8242,
+        "slowEndTime": 11049
+    },
+    {
+        "text": "She needs a big hug.",
+        "startTime": 8369,
+        "endTime": 10261,
+        "slowStartTime": 12703,
+        "slowEndTime": 15616
+    },
+    {
+        "text": "Jamal had a very bad day.",
+        "startTime": 11360,
+        "endTime": 13439,
+        "slowStartTime": 17190,
+        "slowEndTime": 20384
+    },
+    {
+        "text": "He lost his favorite book.",
+        "startTime": 14521,
+        "endTime": 16273,
+        "slowStartTime": 21932,
+        "slowEndTime": 24635
+    },
+    {
+        "text": "He needs a very big hug.",
+        "startTime": 17387,
+        "endTime": 19683,
+        "slowStartTime": 26231,
+        "slowEndTime": 29749
+    },
+    {
+        "text": "Max had a terrible day.",
+        "startTime": 20810,
+        "endTime": 23129,
+        "slowStartTime": 31365,
+        "slowEndTime": 34919
+    },
+    {
+        "text": "He fell and cut his knee.",
+        "startTime": 24125,
+        "endTime": 26094,
+        "slowStartTime": 36338,
+        "slowEndTime": 39366
+    },
+    {
+        "text": "He needs a huge hug.",
+        "startTime": 27137,
+        "endTime": 29027,
+        "slowStartTime": 40856,
+        "slowEndTime": 43766
+    },
+    {
+        "text": "Yoshi had a rotten day.",
+        "startTime": 30135,
+        "endTime": 32270,
+        "slowStartTime": 45353,
+        "slowEndTime": 48630
+    },
+    {
+        "text": "Her soccer team lost the big game.",
+        "startTime": 33363,
+        "endTime": 36022,
+        "slowStartTime": 50195,
+        "slowEndTime": 54258
+    },
+    {
+        "text": "Yoshi needs a giant hug.",
+        "startTime": 37126,
+        "endTime": 39402,
+        "slowStartTime": 55839,
+        "slowEndTime": 59328
+    },
+    {
+        "text": "Rollo had a miserable day.",
+        "startTime": 40517,
+        "endTime": 42892,
+        "slowStartTime": 60926,
+        "slowEndTime": 64563
+    },
+    {
+        "text": "His best friend moved away.",
+        "startTime": 43978,
+        "endTime": 46108,
+        "slowStartTime": 66117,
+        "slowEndTime": 69387
+    },
+    {
+        "text": "Rollo needs an enormous hug.",
+        "startTime": 47194,
+        "endTime": 49813,
+        "slowStartTime": 70941,
+        "slowEndTime": 74944
+    },
+    {
+        "text": "Rosie had a horrible day.",
+        "startTime": 50961,
+        "endTime": 53187,
+        "slowStartTime": 76592,
+        "slowEndTime": 80005
+    },
+    {
+        "text": "Her pet goldfish died.",
+        "startTime": 54297,
+        "endTime": 56093,
+        "slowStartTime": 81596,
+        "slowEndTime": 84365
+    },
+    {
+        "text": "She feels very sad.",
+        "startTime": 57201,
+        "endTime": 58971,
+        "slowStartTime": 85951,
+        "slowEndTime": 88682
+    },
+    {
+        "text": "She needs a bunch of big hugs.",
+        "startTime": 60015,
+        "endTime": 62675,
+        "slowStartTime": 90173,
+        "slowEndTime": 94237
+    },
+    {
+        "text": "Billy had a good day.",
+        "startTime": 63673,
+        "endTime": 65429,
+        "slowStartTime": 95660,
+        "slowEndTime": 98368
+    },
+    {
+        "text": "It was his birthday.",
+        "startTime": 66459,
+        "endTime": 68071,
+        "slowStartTime": 99838,
+        "slowEndTime": 102332
+    },
+    {
+        "text": "Everybody gave Billy a birthday hug.",
+        "startTime": 69166,
+        "endTime": 72015,
+        "slowStartTime": 103899,
+        "slowEndTime": 108248
+    },
+    {
+        "text": "The hugs made everybody feel better.",
+        "startTime": 73141,
+        "endTime": 76291,
+        "slowStartTime": 109861,
+        "slowEndTime": 114661
+    }
+]

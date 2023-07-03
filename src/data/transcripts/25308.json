@@ -1,0 +1,65 @@
+[
+    {
+        "text": "﻿When you pay too much for cable, you feel down.",
+        "startTime": 285,
+        "endTime": 2765,
+        "slowStartTime": 578,
+        "slowEndTime": 4372
+    },
+    {
+        "text": "When you feel down, you stay in bed.",
+        "startTime": 3283,
+        "endTime": 5090,
+        "slowStartTime": 5074,
+        "slowEndTime": 7860
+    },
+    {
+        "text": "When you stay in bed, they give your job to someone new.",
+        "startTime": 5697,
+        "endTime": 8681,
+        "slowStartTime": 8695,
+        "slowEndTime": 13247
+    },
+    {
+        "text": "When they give your job to someone new, he has a lot to learn.",
+        "startTime": 9251,
+        "endTime": 12681,
+        "slowStartTime": 14026,
+        "slowEndTime": 19246
+    },
+    {
+        "text": "When he has a lot to learn, mistakes are made.",
+        "startTime": 13336,
+        "endTime": 16195,
+        "slowStartTime": 20154,
+        "slowEndTime": 24518
+    },
+    {
+        "text": "And when mistakes are made, you get body-slammed by a lowland gorilla.",
+        "startTime": 16829,
+        "endTime": 20882,
+        "slowStartTime": 25393,
+        "slowEndTime": 31548
+    },
+    {
+        "text": "Don't get body-slammed by a lowland gorilla.",
+        "startTime": 22212,
+        "endTime": 24497,
+        "slowStartTime": 33468,
+        "slowEndTime": 36970
+    },
+    {
+        "text": "Get rid of cable and upgrade to DirecTV.",
+        "startTime": 24913,
+        "endTime": 27607,
+        "slowStartTime": 37520,
+        "slowEndTime": 41635
+    },
+    {
+        "text": "Call 1-800-DIRECTV.",
+        "startTime": 27777,
+        "endTime": 29791,
+        "slowStartTime": 41816,
+        "slowEndTime": 44912
+    }
+]

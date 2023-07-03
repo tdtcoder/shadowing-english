@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Comfort Food.",
+        "startTime": 8142,
+        "endTime": 9137,
+        "slowStartTime": 12363,
+        "slowEndTime": 13931
+    },
+    {
+        "text": "It means food that is satisfying because it reminds you of home.",
+        "startTime": 12949,
+        "endTime": 17013,
+        "slowStartTime": 19573,
+        "slowEndTime": 25745
+    },
+    {
+        "text": "I feel good whenever I eat my comfort food.",
+        "startTime": 19636,
+        "endTime": 22167,
+        "slowStartTime": 29604,
+        "slowEndTime": 33475
+    },
+    {
+        "text": "Pasta is my comfort food.",
+        "startTime": 25290,
+        "endTime": 27351,
+        "slowStartTime": 38085,
+        "slowEndTime": 41252
+    },
+    {
+        "text": "I enjoy eating my favorite comfort food on rainy days.",
+        "startTime": 30060,
+        "endTime": 33725,
+        "slowStartTime": 45240,
+        "slowEndTime": 50812
+    }
+]

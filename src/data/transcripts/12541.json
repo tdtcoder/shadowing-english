@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Every company takes security very seriously...",
+        "startTime": 2269,
+        "endTime": 5137,
+        "slowStartTime": 3554,
+        "slowEndTime": 7930
+    },
+    {
+        "text": "...so that company PCs may not have floppy disk drives nor any CD or DVD writable drives.",
+        "startTime": 5295,
+        "endTime": 11318,
+        "slowStartTime": 8092,
+        "slowEndTime": 17202
+    },
+    {
+        "text": "No one believes that their corporate computers don't have such devices...",
+        "startTime": 11835,
+        "endTime": 15455,
+        "slowStartTime": 17903,
+        "slowEndTime": 23407
+    },
+    {
+        "text": "...because their company cannot afford them.",
+        "startTime": 15695,
+        "endTime": 17537,
+        "slowStartTime": 23693,
+        "slowEndTime": 26531
+    },
+    {
+        "text": "The reality is that your company is deathly afraid of confidential corporate secrets leaking out.",
+        "startTime": 18179,
+        "endTime": 23344,
+        "slowStartTime": 27419,
+        "slowEndTime": 35241
+    },
+    {
+        "text": "Moreover, some corporate notebooks won't work...",
+        "startTime": 24041,
+        "endTime": 26644,
+        "slowStartTime": 36212,
+        "slowEndTime": 40191
+    },
+    {
+        "text": "...once they are away from the vicinity of the corporate wireless server...",
+        "startTime": 26785,
+        "endTime": 29925,
+        "slowStartTime": 40327,
+        "slowEndTime": 45113
+    },
+    {
+        "text": "...and it makes it more difficult for industrial spies to steal valuable data.",
+        "startTime": 30259,
+        "endTime": 34121,
+        "slowStartTime": 45539,
+        "slowEndTime": 51407
+    },
+    {
+        "text": "Even high storage USBs,...",
+        "startTime": 34999,
+        "endTime": 36883,
+        "slowStartTime": 52649,
+        "slowEndTime": 55549
+    },
+    {
+        "text": "...may perform only half of their normal function in some corporate computers:",
+        "startTime": 37224,
+        "endTime": 40899,
+        "slowStartTime": 55986,
+        "slowEndTime": 61573
+    },
+    {
+        "text": "...employees can read information stored in them...",
+        "startTime": 41461,
+        "endTime": 43599,
+        "slowStartTime": 62341,
+        "slowEndTime": 65623
+    },
+    {
+        "text": "...but cannot download information from their PCs to USB.",
+        "startTime": 43957,
+        "endTime": 47521,
+        "slowStartTime": 66086,
+        "slowEndTime": 71506
+    },
+    {
+        "text": "Some corporate e-mail systems are set up so that e-mails can be exchanged only among corporate PCs.",
+        "startTime": 48404,
+        "endTime": 54251,
+        "slowStartTime": 72756,
+        "slowEndTime": 81602
+    },
+    {
+        "text": "In addition, corporate documents are automatically encoded,....",
+        "startTime": 54867,
+        "endTime": 58243,
+        "slowStartTime": 82450,
+        "slowEndTime": 87589
+    },
+    {
+        "text": "...so outsiders cannot read them.",
+        "startTime": 58600,
+        "endTime": 60341,
+        "slowStartTime": 88050,
+        "slowEndTime": 90736
+    },
+    {
+        "text": "They're stored only on corporate servers along with the names of employees who have accessed them.",
+        "startTime": 60938,
+        "endTime": 66039,
+        "slowStartTime": 91557,
+        "slowEndTime": 99283
+    },
+    {
+        "text": "Then, if important documents are leaked,...",
+        "startTime": 66627,
+        "endTime": 69081,
+        "slowStartTime": 100090,
+        "slowEndTime": 103847
+    },
+    {
+        "text": "...your company can find the guilty party.",
+        "startTime": 69341,
+        "endTime": 71293,
+        "slowStartTime": 104162,
+        "slowEndTime": 107165
+    },
+    {
+        "text": "Yet, all this need for security hinders mobility and productivity.",
+        "startTime": 72286,
+        "endTime": 76411,
+        "slowStartTime": 108579,
+        "slowEndTime": 114842
+    },
+    {
+        "text": "More insidiously, employees are reminded of just how little trust their company has in them.",
+        "startTime": 77045,
+        "endTime": 82149,
+        "slowStartTime": 115718,
+        "slowEndTime": 123449
+    },
+    {
+        "text": "It's difficult to know which hurts morale more,...",
+        "startTime": 83106,
+        "endTime": 85613,
+        "slowStartTime": 124809,
+        "slowEndTime": 128644
+    },
+    {
+        "text": "...the one bad apple that steals or leaks corporate secrets or Big Brother...",
+        "startTime": 85985,
+        "endTime": 90369,
+        "slowStartTime": 129128,
+        "slowEndTime": 135779
+    },
+    {
+        "text": "...that watches and seeks to control its employees' every use of the tools of business.",
+        "startTime": 90650,
+        "endTime": 95375,
+        "slowStartTime": 136125,
+        "slowEndTime": 143288
+    }
+]

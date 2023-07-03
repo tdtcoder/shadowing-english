@@ -1,0 +1,135 @@
+[
+    {
+        "text": "I try to jump rope every day.",
+        "startTime": 2666,
+        "endTime": 4845,
+        "slowStartTime": 4149,
+        "slowEndTime": 7492
+    },
+    {
+        "text": "I believe that it will help me grow faster.",
+        "startTime": 5586,
+        "endTime": 8323,
+        "slowStartTime": 8529,
+        "slowEndTime": 12710
+    },
+    {
+        "text": "You are tall enough.",
+        "startTime": 9360,
+        "endTime": 11037,
+        "slowStartTime": 14190,
+        "slowEndTime": 16780
+    },
+    {
+        "text": "I want to know a lot about space.",
+        "startTime": 14127,
+        "endTime": 16345,
+        "slowStartTime": 21340,
+        "slowEndTime": 24742
+    },
+    {
+        "text": "How many science books do we have?",
+        "startTime": 17027,
+        "endTime": 19494,
+        "slowStartTime": 25691,
+        "slowEndTime": 29466
+    },
+    {
+        "text": "Don't worry.",
+        "startTime": 20664,
+        "endTime": 21479,
+        "slowStartTime": 31146,
+        "slowEndTime": 32444
+    },
+    {
+        "text": "We have enough books.",
+        "startTime": 21618,
+        "endTime": 22989,
+        "slowStartTime": 32577,
+        "slowEndTime": 34709
+    },
+    {
+        "text": "Bill tries to run faster.",
+        "startTime": 26146,
+        "endTime": 28268,
+        "slowStartTime": 39369,
+        "slowEndTime": 42627
+    },
+    {
+        "text": "He wants to be the fastest!",
+        "startTime": 28738,
+        "endTime": 30802,
+        "slowStartTime": 43257,
+        "slowEndTime": 46428
+    },
+    {
+        "text": "He runs fast enough.",
+        "startTime": 31915,
+        "endTime": 33561,
+        "slowStartTime": 48023,
+        "slowEndTime": 50567
+    },
+    {
+        "text": "He runs 100 meters within 11 seconds.",
+        "startTime": 33947,
+        "endTime": 37227,
+        "slowStartTime": 51071,
+        "slowEndTime": 56065
+    },
+    {
+        "text": "Giraffe was very hungry, but doesn't want to eat leaves.",
+        "startTime": 45323,
+        "endTime": 51692,
+        "slowStartTime": 68135,
+        "slowEndTime": 77763
+    },
+    {
+        "text": "He tried to eat ants just like an anteater.",
+        "startTime": 52727,
+        "endTime": 56523,
+        "slowStartTime": 79241,
+        "slowEndTime": 85009
+    },
+    {
+        "text": "But ants bit his tongue, ouch, ouch, ouch!",
+        "startTime": 60277,
+        "endTime": 63875,
+        "slowStartTime": 90565,
+        "slowEndTime": 96037
+    },
+    {
+        "text": "He tried eating honey just like a bear.",
+        "startTime": 64039,
+        "endTime": 67428,
+        "slowStartTime": 96208,
+        "slowEndTime": 101367
+    },
+    {
+        "text": "But bees stung his nose, ouch, ouch, ouch!",
+        "startTime": 67755,
+        "endTime": 71227,
+        "slowStartTime": 101782,
+        "slowEndTime": 107065
+    },
+    {
+        "text": "He tried to eat fish just like an otter.",
+        "startTime": 71529,
+        "endTime": 75137,
+        "slowStartTime": 107443,
+        "slowEndTime": 112931
+    },
+    {
+        "text": "But he fell in the water and got very wet, oops!",
+        "startTime": 75483,
+        "endTime": 80255,
+        "slowStartTime": 113374,
+        "slowEndTime": 120608
+    },
+    {
+        "text": "Finally, he bit into the leaves hanging from the tree, yum, yum, yum!",
+        "startTime": 82893,
+        "endTime": 88938,
+        "slowStartTime": 124490,
+        "slowEndTime": 133632
+    }
+]

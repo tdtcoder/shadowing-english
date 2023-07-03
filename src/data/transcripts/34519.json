@@ -1,0 +1,177 @@
+[
+    {
+        "text": "And what's your address?",
+        "startTime": 165,
+        "endTime": 1361,
+        "slowStartTime": 397,
+        "slowEndTime": 2267
+    },
+    {
+        "text": "94 Tindall street.",
+        "startTime": 2618,
+        "endTime": 4124,
+        "slowStartTime": 4077,
+        "slowEndTime": 6411
+    },
+    {
+        "text": "How do you spell Tindall?",
+        "startTime": 4413,
+        "endTime": 5493,
+        "slowStartTime": 6769,
+        "slowEndTime": 8465
+    },
+    {
+        "text": "T - I - N - D - A - L - L",
+        "startTime": 6165,
+        "endTime": 8261,
+        "slowStartTime": 9397,
+        "slowEndTime": 12616
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 8783,
+        "endTime": 9369,
+        "slowStartTime": 13324,
+        "slowEndTime": 14279
+    },
+    {
+        "text": "And your post code?",
+        "startTime": 9653,
+        "endTime": 11026,
+        "slowStartTime": 14629,
+        "slowEndTime": 16764
+    },
+    {
+        "text": "Can you repeat that please?",
+        "startTime": 12927,
+        "endTime": 13885,
+        "slowStartTime": 19540,
+        "slowEndTime": 21053
+    },
+    {
+        "text": "K T 9 8 N B?",
+        "startTime": 13975,
+        "endTime": 16575,
+        "slowStartTime": 21113,
+        "slowEndTime": 25087
+    },
+    {
+        "text": "And your telephone number?",
+        "startTime": 17935,
+        "endTime": 19127,
+        "slowStartTime": 27052,
+        "slowEndTime": 28916
+    },
+    {
+        "text": "O 1 3 7 2 8 9 5 3 1",
+        "startTime": 20218,
+        "endTime": 24141,
+        "slowStartTime": 30477,
+        "slowEndTime": 36437
+    },
+    {
+        "text": "Thank you Ms. Fawcett.",
+        "startTime": 25510,
+        "endTime": 26447,
+        "slowStartTime": 38415,
+        "slowEndTime": 39895
+    },
+    {
+        "text": "Goodbye.",
+        "startTime": 26806,
+        "endTime": 27325,
+        "slowStartTime": 40359,
+        "slowEndTime": 41213
+    },
+    {
+        "text": "Hello I'm...",
+        "startTime": 27653,
+        "endTime": 28313,
+        "slowStartTime": 41629,
+        "slowEndTime": 42695
+    },
+    {
+        "text": "Julia! Welcome to Apex TV.",
+        "startTime": 28411,
+        "endTime": 31526,
+        "slowStartTime": 42767,
+        "slowEndTime": 47514
+    },
+    {
+        "text": "Come in.",
+        "startTime": 31953,
+        "endTime": 32604,
+        "slowStartTime": 48079,
+        "slowEndTime": 49131
+    },
+    {
+        "text": "No, don't come in.",
+        "startTime": 32803,
+        "endTime": 33649,
+        "slowStartTime": 49354,
+        "slowEndTime": 50698
+    },
+    {
+        "text": "This is my personal assistant, Rebecca Bond.",
+        "startTime": 34747,
+        "endTime": 37111,
+        "slowStartTime": 52270,
+        "slowEndTime": 55892
+    },
+    {
+        "text": "How do you do, Rebecca?",
+        "startTime": 37221,
+        "endTime": 38232,
+        "slowStartTime": 55981,
+        "slowEndTime": 57573
+    },
+    {
+        "text": "Pleased to meet you.",
+        "startTime": 38369,
+        "endTime": 39209,
+        "slowStartTime": 57704,
+        "slowEndTime": 59038
+    },
+    {
+        "text": "Come and meet some of the people in the newsroom.",
+        "startTime": 39523,
+        "endTime": 41385,
+        "slowStartTime": 59435,
+        "slowEndTime": 62303
+    },
+    {
+        "text": "Is Fredrick in?",
+        "startTime": 41632,
+        "endTime": 42563,
+        "slowStartTime": 62598,
+        "slowEndTime": 64069
+    },
+    {
+        "text": "He's managing director.",
+        "startTime": 42777,
+        "endTime": 43956,
+        "slowStartTime": 64316,
+        "slowEndTime": 66159
+    },
+    {
+        "text": "No, he's in London.",
+        "startTime": 44220,
+        "endTime": 45525,
+        "slowStartTime": 66480,
+        "slowEndTime": 68513
+    },
+    {
+        "text": "Oh, I see, right.",
+        "startTime": 45990,
+        "endTime": 47870,
+        "slowStartTime": 69135,
+        "slowEndTime": 72030
+    },
+    {
+        "text": "Well, come on then, Julia.",
+        "startTime": 48163,
+        "endTime": 49344,
+        "slowStartTime": 72395,
+        "slowEndTime": 74241
+    }
+]

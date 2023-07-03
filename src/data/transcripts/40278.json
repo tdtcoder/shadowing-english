@@ -1,0 +1,184 @@
+[
+    {
+        "text": "Good morning.",
+        "startTime": 168,
+        "endTime": 799,
+        "slowStartTime": 402,
+        "slowEndTime": 1424
+    },
+    {
+        "text": "Could you help me?",
+        "startTime": 1205,
+        "endTime": 1878,
+        "slowStartTime": 1957,
+        "slowEndTime": 3042
+    },
+    {
+        "text": "Sure.",
+        "startTime": 2510,
+        "endTime": 2750,
+        "slowStartTime": 3915,
+        "slowEndTime": 4350
+    },
+    {
+        "text": "What do you need?",
+        "startTime": 2849,
+        "endTime": 3471,
+        "slowStartTime": 4423,
+        "slowEndTime": 5432
+    },
+    {
+        "text": "I need to get some items from the stock room.",
+        "startTime": 3723,
+        "endTime": 5987,
+        "slowStartTime": 5735,
+        "slowEndTime": 9205
+    },
+    {
+        "text": "Could you get them for me?",
+        "startTime": 6329,
+        "endTime": 7354,
+        "slowStartTime": 9643,
+        "slowEndTime": 11256
+    },
+    {
+        "text": "Okay.",
+        "startTime": 7837,
+        "endTime": 8310,
+        "slowStartTime": 11905,
+        "slowEndTime": 12690
+    },
+    {
+        "text": "What items do you need from there?",
+        "startTime": 8621,
+        "endTime": 10141,
+        "slowStartTime": 13082,
+        "slowEndTime": 15437
+    },
+    {
+        "text": "I need some colored markers.",
+        "startTime": 10451,
+        "endTime": 12219,
+        "slowStartTime": 15827,
+        "slowEndTime": 18554
+    },
+    {
+        "text": "Let me list that down.",
+        "startTime": 12589,
+        "endTime": 13675,
+        "slowStartTime": 19033,
+        "slowEndTime": 20738
+    },
+    {
+        "text": "Colored markers.",
+        "startTime": 14285,
+        "endTime": 15110,
+        "slowStartTime": 21578,
+        "slowEndTime": 22890
+    },
+    {
+        "text": "How many do you need?",
+        "startTime": 15235,
+        "endTime": 16007,
+        "slowStartTime": 23003,
+        "slowEndTime": 24235
+    },
+    {
+        "text": "I need six pieces.",
+        "startTime": 16278,
+        "endTime": 17783,
+        "slowStartTime": 24567,
+        "slowEndTime": 26899
+    },
+    {
+        "text": "What else?",
+        "startTime": 18118,
+        "endTime": 18853,
+        "slowStartTime": 27327,
+        "slowEndTime": 28504
+    },
+    {
+        "text": "I also need bond papers.",
+        "startTime": 19161,
+        "endTime": 20783,
+        "slowStartTime": 28892,
+        "slowEndTime": 31400
+    },
+    {
+        "text": "Do you need a lot of that?",
+        "startTime": 21343,
+        "endTime": 22235,
+        "slowStartTime": 32165,
+        "slowEndTime": 33578
+    },
+    {
+        "text": "Yes.",
+        "startTime": 22619,
+        "endTime": 23124,
+        "slowStartTime": 34079,
+        "slowEndTime": 34911
+    },
+    {
+        "text": "Please get three packs.",
+        "startTime": 23476,
+        "endTime": 24829,
+        "slowStartTime": 35364,
+        "slowEndTime": 37468
+    },
+    {
+        "text": "Three packs of bond papers.",
+        "startTime": 25319,
+        "endTime": 27223,
+        "slowStartTime": 38129,
+        "slowEndTime": 41060
+    },
+    {
+        "text": "Anything else?",
+        "startTime": 27421,
+        "endTime": 28170,
+        "slowStartTime": 41282,
+        "slowEndTime": 42480
+    },
+    {
+        "text": "No more.",
+        "startTime": 29177,
+        "endTime": 29746,
+        "slowStartTime": 43915,
+        "slowEndTime": 44844
+    },
+    {
+        "text": "Thanks for the help.",
+        "startTime": 29974,
+        "endTime": 30675,
+        "slowStartTime": 45111,
+        "slowEndTime": 46238
+    },
+    {
+        "text": "I'll get you something to drink.",
+        "startTime": 31354,
+        "endTime": 32679,
+        "slowStartTime": 47181,
+        "slowEndTime": 49243
+    },
+    {
+        "text": "What would you like?",
+        "startTime": 32867,
+        "endTime": 33719,
+        "slowStartTime": 49450,
+        "slowEndTime": 50803
+    },
+    {
+        "text": "I'd like a cup of coffee.",
+        "startTime": 34041,
+        "endTime": 35227,
+        "slowStartTime": 51211,
+        "slowEndTime": 53066
+    },
+    {
+        "text": "Thanks.",
+        "startTime": 35494,
+        "endTime": 36039,
+        "slowStartTime": 53391,
+        "slowEndTime": 54284
+    }
+]

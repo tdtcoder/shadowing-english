@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Thank you for calling our office.",
+        "startTime": 777,
+        "endTime": 2413,
+        "slowStartTime": 1315,
+        "slowEndTime": 3844
+    },
+    {
+        "text": "Our office hours are 9:00 a.m to 5:00 p.m, Mondays to Fridays.",
+        "startTime": 3313,
+        "endTime": 8203,
+        "slowStartTime": 5119,
+        "slowEndTime": 12529
+    },
+    {
+        "text": "On Saturdays, we work from 9:00 a.m. to 12:00 p.m. only.",
+        "startTime": 8883,
+        "endTime": 12560,
+        "slowStartTime": 13474,
+        "slowEndTime": 19065
+    },
+    {
+        "text": "Can I reserve a meeting room for tomorrow from 10:00 a.m. to 12:00 p.m.?",
+        "startTime": 15616,
+        "endTime": 19893,
+        "slowStartTime": 23574,
+        "slowEndTime": 30064
+    },
+    {
+        "text": "10:00 a.m. to 12:00 p.m.?",
+        "startTime": 21530,
+        "endTime": 23097,
+        "slowStartTime": 32445,
+        "slowEndTime": 34870
+    },
+    {
+        "text": "Let me check.",
+        "startTime": 23643,
+        "endTime": 24501,
+        "slowStartTime": 35614,
+        "slowEndTime": 36976
+    },
+    {
+        "text": "I'm sorry.",
+        "startTime": 26365,
+        "endTime": 27078,
+        "slowStartTime": 39697,
+        "slowEndTime": 40842
+    },
+    {
+        "text": "All the meeting rooms will be used at that time.",
+        "startTime": 27199,
+        "endTime": 29297,
+        "slowStartTime": 40948,
+        "slowEndTime": 44170
+    },
+    {
+        "text": "Would you like to choose a different time?",
+        "startTime": 29683,
+        "endTime": 31341,
+        "slowStartTime": 44675,
+        "slowEndTime": 47237
+    },
+    {
+        "text": "How about 2:00 p.m to 4:00 p.m. tomorrow?",
+        "startTime": 32774,
+        "endTime": 35812,
+        "slowStartTime": 49311,
+        "slowEndTime": 53943
+    },
+    {
+        "text": "You can use the small room from 2:00 p.m. to 4:00 p.m. tomorrow.",
+        "startTime": 36669,
+        "endTime": 40051,
+        "slowStartTime": 55154,
+        "slowEndTime": 60302
+    },
+    {
+        "text": "Okay.",
+        "startTime": 40897,
+        "endTime": 41369,
+        "slowStartTime": 61495,
+        "slowEndTime": 62278
+    },
+    {
+        "text": "Please reserve it for my team.",
+        "startTime": 41624,
+        "endTime": 43156,
+        "slowStartTime": 62586,
+        "slowEndTime": 64959
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 43461,
+        "endTime": 43915,
+        "slowStartTime": 65342,
+        "slowEndTime": 66098
+    }
+]

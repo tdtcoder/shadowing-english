@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Hey, what's up baby sister? How are your classes going?",
+        "startTime": 3430,
+        "endTime": 7018,
+        "slowStartTime": 5295,
+        "slowEndTime": 10752
+    },
+    {
+        "text": "They're going pretty well. I'm still on schedule to graduate next year.",
+        "startTime": 7704,
+        "endTime": 11720,
+        "slowStartTime": 11706,
+        "slowEndTime": 17805
+    },
+    {
+        "text": "That's good to hear.",
+        "startTime": 12340,
+        "endTime": 13290,
+        "slowStartTime": 18660,
+        "slowEndTime": 20160
+    },
+    {
+        "text": "You know, Sherry, I'm sorry to ask you this, but I'm really short of money these days.",
+        "startTime": 14172,
+        "endTime": 19093,
+        "slowStartTime": 21408,
+        "slowEndTime": 28864
+    },
+    {
+        "text": "Oh? Do you need to borrow some?",
+        "startTime": 19854,
+        "endTime": 21720,
+        "slowStartTime": 29931,
+        "slowEndTime": 32805
+    },
+    {
+        "text": "Yes, can I borrow some money from you?",
+        "startTime": 22384,
+        "endTime": 24703,
+        "slowStartTime": 33726,
+        "slowEndTime": 37280
+    },
+    {
+        "text": "Sure, are you still planning to work during the summer break?",
+        "startTime": 25177,
+        "endTime": 28431,
+        "slowStartTime": 37916,
+        "slowEndTime": 42872
+    },
+    {
+        "text": "Yes, so I can pay you back as soon as I get my first paycheck.",
+        "startTime": 28938,
+        "endTime": 32573,
+        "slowStartTime": 43557,
+        "slowEndTime": 49085
+    },
+    {
+        "text": "Okay, sounds good. Pay me back after your first check.",
+        "startTime": 33047,
+        "endTime": 36177,
+        "slowStartTime": 49721,
+        "slowEndTime": 54491
+    },
+    {
+        "text": "How much do you need?",
+        "startTime": 36614,
+        "endTime": 37565,
+        "slowStartTime": 55071,
+        "slowEndTime": 56573
+    }
+]

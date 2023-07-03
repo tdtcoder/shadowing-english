@@ -1,0 +1,72 @@
+[
+    {
+        "text": "In Malaysia, Malaysian investigators hold a closed-door briefing...",
+        "startTime": 2050,
+        "endTime": 6430,
+        "slowStartTime": 3225,
+        "slowEndTime": 9870
+    },
+    {
+        "text": "...on the MH370 search for the relatives of Chinese passengers.",
+        "startTime": 6521,
+        "endTime": 11250,
+        "slowStartTime": 9932,
+        "slowEndTime": 17100
+    },
+    {
+        "text": "In Chile, President Michelle Bachelet declares disaster areas in two regions of northern Chile...",
+        "startTime": 13195,
+        "endTime": 19175,
+        "slowStartTime": 19943,
+        "slowEndTime": 28988
+    },
+    {
+        "text": "...after an 8.2 magnitude earthquake.",
+        "startTime": 19533,
+        "endTime": 22099,
+        "slowStartTime": 29449,
+        "slowEndTime": 33374
+    },
+    {
+        "text": "In Afghanistan, the Afghan Army tries to clear the Sangin Valley in the Helmand Province...",
+        "startTime": 24039,
+        "endTime": 29507,
+        "slowStartTime": 36208,
+        "slowEndTime": 44485
+    },
+    {
+        "text": "...ahead of the national elections.",
+        "startTime": 29808,
+        "endTime": 31835,
+        "slowStartTime": 44862,
+        "slowEndTime": 47977
+    },
+    {
+        "text": "A police official is dead and five officers are wounded in Egypt...",
+        "startTime": 34276,
+        "endTime": 38436,
+        "slowStartTime": 51564,
+        "slowEndTime": 57879
+    },
+    {
+        "text": "...after two bombings near Cairo University.",
+        "startTime": 38691,
+        "endTime": 41087,
+        "slowStartTime": 58187,
+        "slowEndTime": 61856
+    },
+    {
+        "text": "And finally from the Philippines, Filipino activists protest China's recent attempt...",
+        "startTime": 45192,
+        "endTime": 50661,
+        "slowStartTime": 67938,
+        "slowEndTime": 76216
+    },
+    {
+        "text": "...to block the Philippine supply ship in the South China Sea.",
+        "startTime": 50862,
+        "endTime": 54055,
+        "slowStartTime": 76443,
+        "slowEndTime": 81307
+    }
+]

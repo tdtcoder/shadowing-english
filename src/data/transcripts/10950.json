@@ -1,0 +1,226 @@
+[
+    {
+        "text": "Welcome to New York's Upper East Side!",
+        "startTime": 2350,
+        "endTime": 4750,
+        "slowStartTime": 3750,
+        "slowEndTime": 7400
+    },
+    {
+        "text": "Playground to all my friends.",
+        "startTime": 5050,
+        "endTime": 6900,
+        "slowStartTime": 7800,
+        "slowEndTime": 10550
+    },
+    {
+        "text": "Wanna know how the rich and popular live?",
+        "startTime": 7250,
+        "endTime": 9300,
+        "slowStartTime": 11050,
+        "slowEndTime": 14200
+    },
+    {
+        "text": "Well, I live to diss and tell.",
+        "startTime": 10050,
+        "endTime": 12150,
+        "slowStartTime": 15300,
+        "slowEndTime": 18400
+    },
+    {
+        "text": "Oh my god! You'll never believe what's on Gossip Girl.",
+        "startTime": 12350,
+        "endTime": 14850,
+        "slowStartTime": 18750,
+        "slowEndTime": 22700
+    },
+    {
+        "text": "Someone saw Serena getting off a train at Grand Central.",
+        "startTime": 14900,
+        "endTime": 17300,
+        "slowStartTime": 22400,
+        "slowEndTime": 26200
+    },
+    {
+        "text": "Meet the former It girl.",
+        "startTime": 17700,
+        "endTime": 19650,
+        "slowStartTime": 26800,
+        "slowEndTime": 29700
+    },
+    {
+        "text": "I needed to get away from everything.",
+        "startTime": 19900,
+        "endTime": 22100,
+        "slowStartTime": 30050,
+        "slowEndTime": 33350
+    },
+    {
+        "text": "Please just trust me.",
+        "startTime": 22400,
+        "endTime": 23500,
+        "slowStartTime": 33700,
+        "slowEndTime": 35500
+    },
+    {
+        "text": "How can I trust you when I feel like I don't even know you?",
+        "startTime": 23650,
+        "endTime": 25800,
+        "slowStartTime": 35700,
+        "slowEndTime": 38900
+    },
+    {
+        "text": "The ex best friends,...",
+        "startTime": 26200,
+        "endTime": 27900,
+        "slowStartTime": 39600,
+        "slowEndTime": 42100
+    },
+    {
+        "text": "So, when's the party?",
+        "startTime": 28100,
+        "endTime": 29400,
+        "slowStartTime": 42400,
+        "slowEndTime": 44300
+    },
+    {
+        "text": "Saturday and you're kinda not invited.",
+        "startTime": 29550,
+        "endTime": 32100,
+        "slowStartTime": 44600,
+        "slowEndTime": 48400
+    },
+    {
+        "text": "...the boy who wants her,...",
+        "startTime": 32800,
+        "endTime": 34200,
+        "slowStartTime": 49400,
+        "slowEndTime": 51500
+    },
+    {
+        "text": "Pick me up at eight?",
+        "startTime": 34450,
+        "endTime": 35200,
+        "slowStartTime": 51900,
+        "slowEndTime": 53000
+    },
+    {
+        "text": "Do you really go out with some guy you don't know?",
+        "startTime": 35400,
+        "endTime": 36800,
+        "slowStartTime": 53300,
+        "slowEndTime": 55500
+    },
+    {
+        "text": "Well, you can't be worse than the guys I do know.",
+        "startTime": 37000,
+        "endTime": 38600,
+        "slowStartTime": 55650,
+        "slowEndTime": 58100
+    },
+    {
+        "text": "...and the boy who can't have her.",
+        "startTime": 39000,
+        "endTime": 40650,
+        "slowStartTime": 58700,
+        "slowEndTime": 61175
+    },
+    {
+        "text": "Serena.",
+        "startTime": 40700,
+        "endTime": 41100,
+        "slowStartTime": 61300,
+        "slowEndTime": 61850
+    },
+    {
+        "text": "No. Look, Blair's my best friend and you're her boyfriend,...",
+        "startTime": 41150,
+        "endTime": 44050,
+        "slowStartTime": 61900,
+        "slowEndTime": 66340
+    },
+    {
+        "text": "...and she loves you.",
+        "startTime": 44300,
+        "endTime": 45050,
+        "slowStartTime": 66650,
+        "slowEndTime": 67825
+    },
+    {
+        "text": "That's the way things are supposed to be.",
+        "startTime": 45100,
+        "endTime": 46400,
+        "slowStartTime": 67820,
+        "slowEndTime": 69800
+    },
+    {
+        "text": "I guess popularity has its price.",
+        "startTime": 48300,
+        "endTime": 50600,
+        "slowStartTime": 72700,
+        "slowEndTime": 76150
+    },
+    {
+        "text": "Aren't we entitled to choose just to be happy?",
+        "startTime": 50650,
+        "endTime": 52900,
+        "slowStartTime": 76200,
+        "slowEndTime": 79575
+    },
+    {
+        "text": "What we're entitled to is a trust fund,...",
+        "startTime": 52950,
+        "endTime": 54950,
+        "slowStartTime": 79600,
+        "slowEndTime": 82600
+    },
+    {
+        "text": "...a house in the Hamptons,...",
+        "startTime": 55400,
+        "endTime": 56400,
+        "slowStartTime": 83350,
+        "slowEndTime": 84890
+    },
+    {
+        "text": "...maybe a prescription drug problem,...",
+        "startTime": 56500,
+        "endTime": 57875,
+        "slowStartTime": 84900,
+        "slowEndTime": 87000
+    },
+    {
+        "text": "...but happiness does not seem to be on the menu.",
+        "startTime": 57900,
+        "endTime": 60500,
+        "slowStartTime": 87100,
+        "slowEndTime": 90950
+    },
+    {
+        "text": "And who am I?",
+        "startTime": 60550,
+        "endTime": 61400,
+        "slowStartTime": 91000,
+        "slowEndTime": 92300
+    },
+    {
+        "text": "That's one secret I'll never tell.",
+        "startTime": 61750,
+        "endTime": 63800,
+        "slowStartTime": 92850,
+        "slowEndTime": 96050
+    },
+    {
+        "text": "You know you love me.",
+        "startTime": 68400,
+        "endTime": 69500,
+        "slowStartTime": 102800,
+        "slowEndTime": 104450
+    },
+    {
+        "text": "Gossip Girl. Look for it on DVD.",
+        "startTime": 69700,
+        "endTime": 72350,
+        "slowStartTime": 104800,
+        "slowEndTime": 108750
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Let's learn about technology.",
+        "startTime": 511,
+        "endTime": 2181,
+        "slowStartTime": 917,
+        "slowEndTime": 3497
+    },
+    {
+        "text": "Do you have a laptop?",
+        "startTime": 9324,
+        "endTime": 10482,
+        "slowStartTime": 14136,
+        "slowEndTime": 15948
+    },
+    {
+        "text": "This is a desktop computer.",
+        "startTime": 15788,
+        "endTime": 17827,
+        "slowStartTime": 23832,
+        "slowEndTime": 26966
+    },
+    {
+        "text": "This is computer hardware.",
+        "startTime": 24799,
+        "endTime": 26529,
+        "slowStartTime": 37348,
+        "slowEndTime": 40019
+    },
+    {
+        "text": "This is software.",
+        "startTime": 32700,
+        "endTime": 34491,
+        "slowStartTime": 49200,
+        "slowEndTime": 51962
+    },
+    {
+        "text": "He broke the monitor.",
+        "startTime": 41389,
+        "endTime": 42835,
+        "slowStartTime": 62234,
+        "slowEndTime": 64477
+    },
+    {
+        "text": "This is a new keyboard.",
+        "startTime": 47925,
+        "endTime": 49885,
+        "slowStartTime": 72037,
+        "slowEndTime": 75053
+    },
+    {
+        "text": "She is chatting online.",
+        "startTime": 55631,
+        "endTime": 57480,
+        "slowStartTime": 83597,
+        "slowEndTime": 86445
+    },
+    {
+        "text": "You can type on a computer.",
+        "startTime": 63561,
+        "endTime": 65409,
+        "slowStartTime": 95491,
+        "slowEndTime": 98339
+    },
+    {
+        "text": "You can browse the Internet.",
+        "startTime": 71267,
+        "endTime": 73004,
+        "slowStartTime": 107051,
+        "slowEndTime": 109731
+    },
+    {
+        "text": "The cat is using a mouse to surf the net.",
+        "startTime": 77289,
+        "endTime": 80457,
+        "slowStartTime": 116083,
+        "slowEndTime": 120910
+    },
+    {
+        "text": "You boot up a computer.",
+        "startTime": 85951,
+        "endTime": 87409,
+        "slowStartTime": 129077,
+        "slowEndTime": 131339
+    },
+    {
+        "text": "She is installing a computer program.",
+        "startTime": 91697,
+        "endTime": 94197,
+        "slowStartTime": 137696,
+        "slowEndTime": 141521
+    },
+    {
+        "text": "You can text with your cellphone.",
+        "startTime": 97435,
+        "endTime": 99935,
+        "slowStartTime": 146303,
+        "slowEndTime": 150127
+    },
+    {
+        "text": "Do you have a smartphone?",
+        "startTime": 104044,
+        "endTime": 106071,
+        "slowStartTime": 156216,
+        "slowEndTime": 159331
+    },
+    {
+        "text": "You need a browser to surf the Internet.",
+        "startTime": 110593,
+        "endTime": 112939,
+        "slowStartTime": 166040,
+        "slowEndTime": 169634
+    },
+    {
+        "text": "You can search the Internet for information.",
+        "startTime": 116663,
+        "endTime": 118849,
+        "slowStartTime": 175144,
+        "slowEndTime": 178499
+    },
+    {
+        "text": "Computers have chips and circuit boards.",
+        "startTime": 123851,
+        "endTime": 126516,
+        "slowStartTime": 185926,
+        "slowEndTime": 189999
+    }
+]

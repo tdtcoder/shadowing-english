@@ -1,0 +1,86 @@
+[
+    {
+        "text": "How are you enjoying the Happy Hour, Linda?",
+        "startTime": 1600,
+        "endTime": 3500,
+        "slowStartTime": 2600,
+        "slowEndTime": 5500
+    },
+    {
+        "text": "It's wonderful!",
+        "startTime": 3900,
+        "endTime": 5100,
+        "slowStartTime": 6050,
+        "slowEndTime": 7800
+    },
+    {
+        "text": "All of the food is delicious.",
+        "startTime": 5350,
+        "endTime": 7000,
+        "slowStartTime": 8200,
+        "slowEndTime": 10700
+    },
+    {
+        "text": "Yeah. My favorites are the stuffed eggplant and cocktail shrimp.",
+        "startTime": 7150,
+        "endTime": 10900,
+        "slowStartTime": 10900,
+        "slowEndTime": 16550
+    },
+    {
+        "text": "The grilled zucchini is also very tasty.",
+        "startTime": 11450,
+        "endTime": 13900,
+        "slowStartTime": 17300,
+        "slowEndTime": 21000
+    },
+    {
+        "text": "I noticed you didn't try the chicken wings.",
+        "startTime": 14350,
+        "endTime": 16200,
+        "slowStartTime": 21750,
+        "slowEndTime": 24500
+    },
+    {
+        "text": "Are you a vegetarian?",
+        "startTime": 16800,
+        "endTime": 17800,
+        "slowStartTime": 25400,
+        "slowEndTime": 26950
+    },
+    {
+        "text": "No, but I try to avoid fatty foods.",
+        "startTime": 18150,
+        "endTime": 20800,
+        "slowStartTime": 27450,
+        "slowEndTime": 31450
+    },
+    {
+        "text": "And besides, they looked really spicy.",
+        "startTime": 21200,
+        "endTime": 23600,
+        "slowStartTime": 32000,
+        "slowEndTime": 35600
+    },
+    {
+        "text": "We should order drinks.",
+        "startTime": 24350,
+        "endTime": 25350,
+        "slowStartTime": 36700,
+        "slowEndTime": 38250
+    },
+    {
+        "text": "How about some wine, Linda?",
+        "startTime": 25900,
+        "endTime": 27050,
+        "slowStartTime": 39050,
+        "slowEndTime": 40800
+    },
+    {
+        "text": "Here is the wine list.",
+        "startTime": 27600,
+        "endTime": 28650,
+        "slowStartTime": 41600,
+        "slowEndTime": 43200
+    }
+]

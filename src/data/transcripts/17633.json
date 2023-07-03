@@ -1,0 +1,177 @@
+[
+    {
+        "text": "Ben likes to play with his toys.",
+        "startTime": 2590,
+        "endTime": 4847,
+        "slowStartTime": 4035,
+        "slowEndTime": 7495
+    },
+    {
+        "text": "It is getting late.",
+        "startTime": 5943,
+        "endTime": 7080,
+        "slowStartTime": 9064,
+        "slowEndTime": 10845
+    },
+    {
+        "text": "It is time for Ben to go to bed.",
+        "startTime": 8189,
+        "endTime": 10454,
+        "slowStartTime": 12434,
+        "slowEndTime": 15906
+    },
+    {
+        "text": "\"It is getting late,\"...",
+        "startTime": 11543,
+        "endTime": 12783,
+        "slowStartTime": 17464,
+        "slowEndTime": 19400
+    },
+    {
+        "text": "...says Ben's dad.",
+        "startTime": 13327,
+        "endTime": 14652,
+        "slowStartTime": 20140,
+        "slowEndTime": 22203
+    },
+    {
+        "text": "\"Get ready for bed.\"",
+        "startTime": 15743,
+        "endTime": 17141,
+        "slowStartTime": 23765,
+        "slowEndTime": 25937
+    },
+    {
+        "text": "\"Okay, I'll get ready,\"...",
+        "startTime": 18239,
+        "endTime": 20109,
+        "slowStartTime": 27508,
+        "slowEndTime": 30388
+    },
+    {
+        "text": "...says Ben.",
+        "startTime": 20570,
+        "endTime": 21375,
+        "slowStartTime": 31005,
+        "slowEndTime": 32287
+    },
+    {
+        "text": "Ben gets ready for bed.",
+        "startTime": 22489,
+        "endTime": 24038,
+        "slowStartTime": 33883,
+        "slowEndTime": 36282
+    },
+    {
+        "text": "He takes off his clothes.",
+        "startTime": 25084,
+        "endTime": 26741,
+        "slowStartTime": 37776,
+        "slowEndTime": 40337
+    },
+    {
+        "text": "Plop, plop.",
+        "startTime": 27326,
+        "endTime": 28323,
+        "slowStartTime": 41139,
+        "slowEndTime": 42709
+    },
+    {
+        "text": "Ben gets ready for bed.",
+        "startTime": 29413,
+        "endTime": 30925,
+        "slowStartTime": 44270,
+        "slowEndTime": 46612
+    },
+    {
+        "text": "He washes his hands and face.",
+        "startTime": 31955,
+        "endTime": 34161,
+        "slowStartTime": 48083,
+        "slowEndTime": 51466
+    },
+    {
+        "text": "Scrub, scrub.",
+        "startTime": 34731,
+        "endTime": 36069,
+        "slowStartTime": 52247,
+        "slowEndTime": 54329
+    },
+    {
+        "text": "Ben gets ready for bed.",
+        "startTime": 37193,
+        "endTime": 38999,
+        "slowStartTime": 55939,
+        "slowEndTime": 58724
+    },
+    {
+        "text": "He brushes his teeth.",
+        "startTime": 40087,
+        "endTime": 41517,
+        "slowStartTime": 60281,
+        "slowEndTime": 62500
+    },
+    {
+        "text": "Brush, brush.",
+        "startTime": 42037,
+        "endTime": 43373,
+        "slowStartTime": 63206,
+        "slowEndTime": 65285
+    },
+    {
+        "text": "Ben gets ready for bed.",
+        "startTime": 44511,
+        "endTime": 46301,
+        "slowStartTime": 66916,
+        "slowEndTime": 69676
+    },
+    {
+        "text": "He drinks a glass of water.",
+        "startTime": 47375,
+        "endTime": 49262,
+        "slowStartTime": 71212,
+        "slowEndTime": 74118
+    },
+    {
+        "text": "Gulp, gulp.",
+        "startTime": 49815,
+        "endTime": 50891,
+        "slowStartTime": 74872,
+        "slowEndTime": 76562
+    },
+    {
+        "text": "Ben gets ready for bed.",
+        "startTime": 52119,
+        "endTime": 53810,
+        "slowStartTime": 78328,
+        "slowEndTime": 80940
+    },
+    {
+        "text": "He puts on his pajamas.",
+        "startTime": 54901,
+        "endTime": 56778,
+        "slowStartTime": 82501,
+        "slowEndTime": 85392
+    },
+    {
+        "text": "Wiggle, wiggle.",
+        "startTime": 57307,
+        "endTime": 58473,
+        "slowStartTime": 86111,
+        "slowEndTime": 87935
+    },
+    {
+        "text": "Ben gets into bed.",
+        "startTime": 59601,
+        "endTime": 61311,
+        "slowStartTime": 89551,
+        "slowEndTime": 92191
+    },
+    {
+        "text": "Dad reads Ben and Bear a story.",
+        "startTime": 62389,
+        "endTime": 65439,
+        "slowStartTime": 93733,
+        "slowEndTime": 98384
+    }
+]

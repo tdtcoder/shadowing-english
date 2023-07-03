@@ -1,0 +1,65 @@
+[
+    {
+        "text": "I'm in love with Meghan.",
+        "startTime": 560,
+        "endTime": 2393,
+        "slowStartTime": 990,
+        "slowEndTime": 3815
+    },
+    {
+        "text": "I am glad I married her.",
+        "startTime": 3628,
+        "endTime": 5053,
+        "slowStartTime": 5592,
+        "slowEndTime": 7805
+    },
+    {
+        "text": "We were very happy when our son was born.",
+        "startTime": 6618,
+        "endTime": 9131,
+        "slowStartTime": 10077,
+        "slowEndTime": 13921
+    },
+    {
+        "text": "Soon, Meghan was bored in Britain.",
+        "startTime": 10191,
+        "endTime": 13169,
+        "slowStartTime": 15436,
+        "slowEndTime": 19979
+    },
+    {
+        "text": "She did not like many things.",
+        "startTime": 14385,
+        "endTime": 16486,
+        "slowStartTime": 21727,
+        "slowEndTime": 24954
+    },
+    {
+        "text": "I felt bad that she was sad, so we moved to America.",
+        "startTime": 17335,
+        "endTime": 21215,
+        "slowStartTime": 26153,
+        "slowEndTime": 32048
+    },
+    {
+        "text": "My grandmother was not pleased,...",
+        "startTime": 21867,
+        "endTime": 24053,
+        "slowStartTime": 32951,
+        "slowEndTime": 36305
+    },
+    {
+        "text": "...and my brother thought I was crazy.",
+        "startTime": 24607,
+        "endTime": 26572,
+        "slowStartTime": 37061,
+        "slowEndTime": 40083
+    },
+    {
+        "text": "I'm now worried about the future.",
+        "startTime": 27453,
+        "endTime": 29323,
+        "slowStartTime": 41329,
+        "slowEndTime": 44210
+    }
+]

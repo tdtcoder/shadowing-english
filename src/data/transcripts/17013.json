@@ -1,0 +1,450 @@
+[
+    {
+        "text": "Mrs. Kruthers, welcome.",
+        "startTime": 4197,
+        "endTime": 5830,
+        "slowStartTime": 6445,
+        "slowEndTime": 8970
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 6114,
+        "endTime": 6519,
+        "slowStartTime": 9321,
+        "slowEndTime": 10003
+    },
+    {
+        "text": "Come on in, have a seat.",
+        "startTime": 6627,
+        "endTime": 7891,
+        "slowStartTime": 10090,
+        "slowEndTime": 12062
+    },
+    {
+        "text": "Of course.",
+        "startTime": 8271,
+        "endTime": 9337,
+        "slowStartTime": 12556,
+        "slowEndTime": 14231
+    },
+    {
+        "text": "I have been looking over your resume and I have to say I am very impressed.",
+        "startTime": 9819,
+        "endTime": 13871,
+        "slowStartTime": 14878,
+        "slowEndTime": 21032
+    },
+    {
+        "text": "Oh, thank you.",
+        "startTime": 13941,
+        "endTime": 14847,
+        "slowStartTime": 21061,
+        "slowEndTime": 22495
+    },
+    {
+        "text": "You know, actually I think, to be honest, you are overqualified to be an accountant.",
+        "startTime": 15222,
+        "endTime": 19709,
+        "slowStartTime": 22983,
+        "slowEndTime": 29788
+    },
+    {
+        "text": "Oh well, that's okay, I don't intend to work very hard.",
+        "startTime": 20177,
+        "endTime": 22955,
+        "slowStartTime": 30416,
+        "slowEndTime": 34658
+    },
+    {
+        "text": "Really?",
+        "startTime": 28020,
+        "endTime": 28366,
+        "slowStartTime": 42180,
+        "slowEndTime": 42774
+    },
+    {
+        "text": "Absolutely! In fact, I only intend to show up when I feel like it,...",
+        "startTime": 29635,
+        "endTime": 32478,
+        "slowStartTime": 44603,
+        "slowEndTime": 48942
+    },
+    {
+        "text": "...which is good because I've a wide variety of extremely annoying personal habits...",
+        "startTime": 32577,
+        "endTime": 37193,
+        "slowStartTime": 49015,
+        "slowEndTime": 56015
+    },
+    {
+        "text": "...and absolutely no sense of hygiene.",
+        "startTime": 37272,
+        "endTime": 39125,
+        "slowStartTime": 56058,
+        "slowEndTime": 58912
+    },
+    {
+        "text": "Oh! You know, then I don't feel like you're the correct person for this position.",
+        "startTime": 41433,
+        "endTime": 48970,
+        "slowStartTime": 62300,
+        "slowEndTime": 73680
+    },
+    {
+        "text": "That's okay, I quit.",
+        "startTime": 49338,
+        "endTime": 50245,
+        "slowStartTime": 74157,
+        "slowEndTime": 75593
+    },
+    {
+        "text": "You can't quit, you don't work here.",
+        "startTime": 50995,
+        "endTime": 52154,
+        "slowStartTime": 76643,
+        "slowEndTime": 78456
+    },
+    {
+        "text": "Like, I would ever work here.",
+        "startTime": 52464,
+        "endTime": 53460,
+        "slowStartTime": 78846,
+        "slowEndTime": 80415
+    },
+    {
+        "text": "Like, we would ever hire you.",
+        "startTime": 54028,
+        "endTime": 55343,
+        "slowStartTime": 81192,
+        "slowEndTime": 83240
+    },
+    {
+        "text": "Oh yeah?",
+        "startTime": 55663,
+        "endTime": 56307,
+        "slowStartTime": 83645,
+        "slowEndTime": 84686
+    },
+    {
+        "text": "Yeah. And even if you did work here...",
+        "startTime": 57218,
+        "endTime": 59581,
+        "slowStartTime": 85977,
+        "slowEndTime": 89596
+    },
+    {
+        "text": "...I wouldn't even give you the opportunity to quit because I would fire you.",
+        "startTime": 59674,
+        "endTime": 62965,
+        "slowStartTime": 89661,
+        "slowEndTime": 94673
+    },
+    {
+        "text": "Well, you can't fire me because I don't work here.",
+        "startTime": 63099,
+        "endTime": 66387,
+        "slowStartTime": 94799,
+        "slowEndTime": 99806
+    },
+    {
+        "text": "That's right! You don't and I would can your ass so quick.",
+        "startTime": 66767,
+        "endTime": 70527,
+        "slowStartTime": 100301,
+        "slowEndTime": 106015
+    },
+    {
+        "text": "Prove it.",
+        "startTime": 70684,
+        "endTime": 71281,
+        "slowStartTime": 106176,
+        "slowEndTime": 107146
+    },
+    {
+        "text": "Okay. You've got the job.",
+        "startTime": 73614,
+        "endTime": 76709,
+        "slowStartTime": 110571,
+        "slowEndTime": 115288
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 77209,
+        "endTime": 77705,
+        "slowStartTime": 115963,
+        "slowEndTime": 116782
+    },
+    {
+        "text": "You're welcome and now it is my pleasure to inform you that...",
+        "startTime": 77779,
+        "endTime": 80843,
+        "slowStartTime": 116819,
+        "slowEndTime": 121489
+    },
+    {
+        "text": "I quit.",
+        "startTime": 80940,
+        "endTime": 81857,
+        "slowStartTime": 121560,
+        "slowEndTime": 123011
+    },
+    {
+        "text": "You can't quit, I fired you.",
+        "startTime": 83139,
+        "endTime": 84810,
+        "slowStartTime": 124858,
+        "slowEndTime": 127440
+    },
+    {
+        "text": "No, it's too late I don't work here anymore.",
+        "startTime": 85010,
+        "endTime": 87572,
+        "slowStartTime": 127665,
+        "slowEndTime": 131583
+    },
+    {
+        "text": "Fine, let's try this again.",
+        "startTime": 89650,
+        "endTime": 90816,
+        "slowStartTime": 134625,
+        "slowEndTime": 136449
+    },
+    {
+        "text": "You've got the job and now you're fired.",
+        "startTime": 90889,
+        "endTime": 92589,
+        "slowStartTime": 136484,
+        "slowEndTime": 139109
+    },
+    {
+        "text": "No, you offered me the job but I never accepted.",
+        "startTime": 92986,
+        "endTime": 96253,
+        "slowStartTime": 139629,
+        "slowEndTime": 144604
+    },
+    {
+        "text": "Look, I've already worked for you, it's very tedious.",
+        "startTime": 96343,
+        "endTime": 99593,
+        "slowStartTime": 144665,
+        "slowEndTime": 149615
+    },
+    {
+        "text": "And now you want me back I think it's a regressive career move.",
+        "startTime": 100057,
+        "endTime": 103321,
+        "slowStartTime": 150235,
+        "slowEndTime": 155207
+    },
+    {
+        "text": "Okay, what can we do to get you to come work for us?",
+        "startTime": 104427,
+        "endTime": 108084,
+        "slowStartTime": 156790,
+        "slowEndTime": 162351
+    },
+    {
+        "text": "A raise.",
+        "startTime": 109288,
+        "endTime": 109932,
+        "slowStartTime": 164082,
+        "slowEndTime": 165123
+    },
+    {
+        "text": "A raise?",
+        "startTime": 110176,
+        "endTime": 110821,
+        "slowStartTime": 165414,
+        "slowEndTime": 166457
+    },
+    {
+        "text": "$200 an hour.",
+        "startTime": 111017,
+        "endTime": 112236,
+        "slowStartTime": 166676,
+        "slowEndTime": 168579
+    },
+    {
+        "text": "200 an hour? Okay, prorated to this ten seconds you're gonna be working here so, 12 cents?",
+        "startTime": 112696,
+        "endTime": 118250,
+        "slowStartTime": 169194,
+        "slowEndTime": 177600
+    },
+    {
+        "text": "And this time I promise I won't quit.",
+        "startTime": 118367,
+        "endTime": 119562,
+        "slowStartTime": 177700,
+        "slowEndTime": 179568
+    },
+    {
+        "text": "You promise you won't quit, you promise you'll let me fire you.",
+        "startTime": 120073,
+        "endTime": 123281,
+        "slowStartTime": 180260,
+        "slowEndTime": 185147
+    },
+    {
+        "text": "If you still want to.",
+        "startTime": 123423,
+        "endTime": 124141,
+        "slowStartTime": 185284,
+        "slowEndTime": 186436
+    },
+    {
+        "text": "I'm sure I'm going to want to.",
+        "startTime": 125418,
+        "endTime": 126850,
+        "slowStartTime": 188277,
+        "slowEndTime": 190500
+    },
+    {
+        "text": "So, we have a deal?",
+        "startTime": 128139,
+        "endTime": 128733,
+        "slowStartTime": 192359,
+        "slowEndTime": 193324
+    },
+    {
+        "text": "Not yet.",
+        "startTime": 131329,
+        "endTime": 131852,
+        "slowStartTime": 197143,
+        "slowEndTime": 198003
+    },
+    {
+        "text": "I've already been an accountant here.",
+        "startTime": 132357,
+        "endTime": 134082,
+        "slowStartTime": 198686,
+        "slowEndTime": 201348
+    },
+    {
+        "text": "I feel like I've outgrown the position.",
+        "startTime": 134275,
+        "endTime": 135632,
+        "slowStartTime": 201563,
+        "slowEndTime": 203673
+    },
+    {
+        "text": "I want something higher.",
+        "startTime": 135805,
+        "endTime": 136509,
+        "slowStartTime": 203858,
+        "slowEndTime": 204989
+    },
+    {
+        "text": "How about Junior Vice President?",
+        "startTime": 136861,
+        "endTime": 141467,
+        "slowStartTime": 205442,
+        "slowEndTime": 212425
+    },
+    {
+        "text": "Junior Vice President? $200 an hour or 12 cents whichever comes first...",
+        "startTime": 142657,
+        "endTime": 147692,
+        "slowStartTime": 214136,
+        "slowEndTime": 221763
+    },
+    {
+        "text": "...and you promise not to quit before I have the opportunity to fire you.",
+        "startTime": 147761,
+        "endTime": 151953,
+        "slowStartTime": 221792,
+        "slowEndTime": 228154
+    },
+    {
+        "text": "That's correct.",
+        "startTime": 152326,
+        "endTime": 152971,
+        "slowStartTime": 228639,
+        "slowEndTime": 229682
+    },
+    {
+        "text": "Great! You've got the job.",
+        "startTime": 154973,
+        "endTime": 157020,
+        "slowStartTime": 232610,
+        "slowEndTime": 235755
+    },
+    {
+        "text": "I accept.",
+        "startTime": 157185,
+        "endTime": 157915,
+        "slowStartTime": 235927,
+        "slowEndTime": 237097
+    },
+    {
+        "text": "Great! Now, you're fired.",
+        "startTime": 157991,
+        "endTime": 159467,
+        "slowStartTime": 237136,
+        "slowEndTime": 239425
+    },
+    {
+        "text": "You can't fire me, I'm Junior Vice President. I'm your boss.",
+        "startTime": 161594,
+        "endTime": 165536,
+        "slowStartTime": 242541,
+        "slowEndTime": 248529
+    },
+    {
+        "text": "Well, that doesn't make sense.",
+        "startTime": 168339,
+        "endTime": 170675,
+        "slowStartTime": 252658,
+        "slowEndTime": 256238
+    },
+    {
+        "text": "And as your boss, I regret that I have to fire you.",
+        "startTime": 170759,
+        "endTime": 177403,
+        "slowStartTime": 256288,
+        "slowEndTime": 266329
+    },
+    {
+        "text": "Why are you firing me?",
+        "startTime": 182251,
+        "endTime": 183295,
+        "slowStartTime": 273526,
+        "slowEndTime": 275168
+    },
+    {
+        "text": "Well, I can't help but notice that as head of personnel...",
+        "startTime": 184018,
+        "endTime": 187967,
+        "slowStartTime": 276177,
+        "slowEndTime": 282176
+    },
+    {
+        "text": "...you've been hiring some very strange people lately, at $200 an hour for me.",
+        "startTime": 188097,
+        "endTime": 195522,
+        "slowStartTime": 282296,
+        "slowEndTime": 293508
+    },
+    {
+        "text": "What am I supposed to do without a job?",
+        "startTime": 197909,
+        "endTime": 199527,
+        "slowStartTime": 297014,
+        "slowEndTime": 299515
+    },
+    {
+        "text": "Well, we do have a new position opening up in head of personnel.",
+        "startTime": 200973,
+        "endTime": 203985,
+        "slowStartTime": 301609,
+        "slowEndTime": 306202
+    },
+    {
+        "text": "Do you have any experience?",
+        "startTime": 204795,
+        "endTime": 205771,
+        "slowStartTime": 307343,
+        "slowEndTime": 308881
+    }
+]

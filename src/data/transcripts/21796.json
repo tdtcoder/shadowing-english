@@ -1,0 +1,58 @@
+[
+    {
+        "text": "﻿Are you ready to study?",
+        "startTime": 24254,
+        "endTime": 25151,
+        "slowStartTime": 36531,
+        "slowEndTime": 37952
+    },
+    {
+        "text": "So, are you ready for the lecture?",
+        "startTime": 28857,
+        "endTime": 30121,
+        "slowStartTime": 43435,
+        "slowEndTime": 45406
+    },
+    {
+        "text": "Excuse me, how do you spell Caribbean?",
+        "startTime": 35383,
+        "endTime": 37115,
+        "slowStartTime": 53224,
+        "slowEndTime": 55898
+    },
+    {
+        "text": "And how do you spell your last name?",
+        "startTime": 40366,
+        "endTime": 42181,
+        "slowStartTime": 60699,
+        "slowEndTime": 63497
+    },
+    {
+        "text": "Can you repeat that for me, please?",
+        "startTime": 47413,
+        "endTime": 49015,
+        "slowStartTime": 71270,
+        "slowEndTime": 73748
+    },
+    {
+        "text": "I'm sorry, could you repeat that?",
+        "startTime": 52087,
+        "endTime": 53745,
+        "slowStartTime": 78281,
+        "slowEndTime": 80843
+    },
+    {
+        "text": "I'm sorry, can you say that again please?",
+        "startTime": 59163,
+        "endTime": 61609,
+        "slowStartTime": 88895,
+        "slowEndTime": 92639
+    },
+    {
+        "text": "How do you say \"kokuteri\" in English?",
+        "startTime": 66667,
+        "endTime": 68033,
+        "slowStartTime": 100151,
+        "slowEndTime": 102274
+    }
+]

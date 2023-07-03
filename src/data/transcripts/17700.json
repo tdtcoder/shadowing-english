@@ -1,0 +1,387 @@
+[
+    {
+        "text": "Dong! Dong!",
+        "startTime": 2979,
+        "endTime": 4227,
+        "slowStartTime": 4618,
+        "slowEndTime": 6565
+    },
+    {
+        "text": "There goes the grandfather clock.",
+        "startTime": 4565,
+        "endTime": 6442,
+        "slowStartTime": 6998,
+        "slowEndTime": 9888
+    },
+    {
+        "text": "It's 2 a.m. Time to get up.",
+        "startTime": 6817,
+        "endTime": 9205,
+        "slowStartTime": 10376,
+        "slowEndTime": 14032
+    },
+    {
+        "text": "I wonder what Becky and Dan are doing.",
+        "startTime": 10005,
+        "endTime": 12329,
+        "slowStartTime": 15158,
+        "slowEndTime": 18718
+    },
+    {
+        "text": "Look at this! They're sound asleep.",
+        "startTime": 13399,
+        "endTime": 15869,
+        "slowStartTime": 20248,
+        "slowEndTime": 24028
+    },
+    {
+        "text": "Lazy people! It's time to get up.",
+        "startTime": 16091,
+        "endTime": 19115,
+        "slowStartTime": 24286,
+        "slowEndTime": 28897
+    },
+    {
+        "text": "I want to play.",
+        "startTime": 19745,
+        "endTime": 20875,
+        "slowStartTime": 29768,
+        "slowEndTime": 31538
+    },
+    {
+        "text": "Come on! Wake up!",
+        "startTime": 21727,
+        "endTime": 23221,
+        "slowStartTime": 32740,
+        "slowEndTime": 35057
+    },
+    {
+        "text": "Where's my mouse?",
+        "startTime": 24107,
+        "endTime": 25134,
+        "slowStartTime": 36311,
+        "slowEndTime": 37926
+    },
+    {
+        "text": "I want to play with my mouse.",
+        "startTime": 25552,
+        "endTime": 27534,
+        "slowStartTime": 38478,
+        "slowEndTime": 41526
+    },
+    {
+        "text": "\"Go away, Alistair,\"",
+        "startTime": 28815,
+        "endTime": 30493,
+        "slowStartTime": 43372,
+        "slowEndTime": 45965
+    },
+    {
+        "text": "says Becky.",
+        "startTime": 31337,
+        "endTime": 32264,
+        "slowStartTime": 47155,
+        "slowEndTime": 48621
+    },
+    {
+        "text": "Oh, you'd rather play What's Under the Blanket?",
+        "startTime": 33249,
+        "endTime": 36002,
+        "slowStartTime": 50023,
+        "slowEndTime": 54228
+    },
+    {
+        "text": "Okay. Pounce! Pounce! Pounce!",
+        "startTime": 36421,
+        "endTime": 39143,
+        "slowStartTime": 54781,
+        "slowEndTime": 58940
+    },
+    {
+        "text": "\"Stop it, Alistair!\"",
+        "startTime": 40287,
+        "endTime": 41609,
+        "slowStartTime": 60581,
+        "slowEndTime": 62638
+    },
+    {
+        "text": "Says Dan.",
+        "startTime": 43027,
+        "endTime": 44055,
+        "slowStartTime": 64691,
+        "slowEndTime": 66307
+    },
+    {
+        "text": "Hey! You just pushed me off the bed.",
+        "startTime": 45267,
+        "endTime": 47856,
+        "slowStartTime": 68050,
+        "slowEndTime": 72009
+    },
+    {
+        "text": "I know you didn't mean to do that.",
+        "startTime": 48417,
+        "endTime": 50222,
+        "slowStartTime": 72775,
+        "slowEndTime": 75558
+    },
+    {
+        "text": "Let's play something else, something that isn't so rough.",
+        "startTime": 50796,
+        "endTime": 54302,
+        "slowStartTime": 76344,
+        "slowEndTime": 81678
+    },
+    {
+        "text": "\"Okay, Alistair! Out you go.\"",
+        "startTime": 55726,
+        "endTime": 57999,
+        "slowStartTime": 83739,
+        "slowEndTime": 87224
+    },
+    {
+        "text": "What? You can't put me out.",
+        "startTime": 59463,
+        "endTime": 61422,
+        "slowStartTime": 89345,
+        "slowEndTime": 92358
+    },
+    {
+        "text": "I don't want to go out.",
+        "startTime": 61872,
+        "endTime": 63257,
+        "slowStartTime": 92958,
+        "slowEndTime": 95111
+    },
+    {
+        "text": "I want to be with you!",
+        "startTime": 63799,
+        "endTime": 65166,
+        "slowStartTime": 95848,
+        "slowEndTime": 97974
+    },
+    {
+        "text": "It's lonely out here.",
+        "startTime": 66179,
+        "endTime": 67435,
+        "slowStartTime": 99418,
+        "slowEndTime": 101378
+    },
+    {
+        "text": "Come on. Let me in!",
+        "startTime": 68343,
+        "endTime": 69965,
+        "slowStartTime": 102665,
+        "slowEndTime": 105173
+    },
+    {
+        "text": "If you don't let me in, I'll find another way to entertain myself.",
+        "startTime": 70653,
+        "endTime": 74768,
+        "slowStartTime": 106129,
+        "slowEndTime": 112377
+    },
+    {
+        "text": "Don't say I didn't warn you.",
+        "startTime": 76133,
+        "endTime": 77868,
+        "slowStartTime": 114349,
+        "slowEndTime": 117027
+    },
+    {
+        "text": "I know I'm not supposed to be up here.",
+        "startTime": 78555,
+        "endTime": 80956,
+        "slowStartTime": 117983,
+        "slowEndTime": 121659
+    },
+    {
+        "text": "But you're not entertaining me.",
+        "startTime": 81686,
+        "endTime": 83747,
+        "slowStartTime": 122679,
+        "slowEndTime": 125846
+    },
+    {
+        "text": "Oops.",
+        "startTime": 85005,
+        "endTime": 85521,
+        "slowStartTime": 127658,
+        "slowEndTime": 128507
+    },
+    {
+        "text": "Don't worry, I'm okay.",
+        "startTime": 86082,
+        "endTime": 87803,
+        "slowStartTime": 129273,
+        "slowEndTime": 131930
+    },
+    {
+        "text": "As for that vase, well.",
+        "startTime": 88604,
+        "endTime": 90345,
+        "slowStartTime": 133056,
+        "slowEndTime": 135743
+    },
+    {
+        "text": "It was kind of ugly, don't you think?",
+        "startTime": 90919,
+        "endTime": 92825,
+        "slowStartTime": 136529,
+        "slowEndTime": 139462
+    },
+    {
+        "text": "Now I'll find something else to do.",
+        "startTime": 93795,
+        "endTime": 95651,
+        "slowStartTime": 140843,
+        "slowEndTime": 143702
+    },
+    {
+        "text": "Something that isn't so dangerous.",
+        "startTime": 96294,
+        "endTime": 98497,
+        "slowStartTime": 144591,
+        "slowEndTime": 147970
+    },
+    {
+        "text": "I know! I'll play Kitty Super Hero!",
+        "startTime": 99397,
+        "endTime": 102193,
+        "slowStartTime": 149245,
+        "slowEndTime": 153514
+    },
+    {
+        "text": "I'm watching for burglars.",
+        "startTime": 103475,
+        "endTime": 104997,
+        "slowStartTime": 155363,
+        "slowEndTime": 157720
+    },
+    {
+        "text": "All clear to the east, but there's trouble to the west.",
+        "startTime": 106137,
+        "endTime": 109613,
+        "slowStartTime": 159356,
+        "slowEndTime": 164645
+    },
+    {
+        "text": "Oh. It's you.",
+        "startTime": 110146,
+        "endTime": 111371,
+        "slowStartTime": 165369,
+        "slowEndTime": 167281
+    },
+    {
+        "text": "\"Honey?\"",
+        "startTime": 112455,
+        "endTime": 113030,
+        "slowStartTime": 168833,
+        "slowEndTime": 169770
+    },
+    {
+        "text": "Says Dan.",
+        "startTime": 113985,
+        "endTime": 114902,
+        "slowStartTime": 171128,
+        "slowEndTime": 172578
+    },
+    {
+        "text": "\"Where are you going?\"",
+        "startTime": 116108,
+        "endTime": 117165,
+        "slowStartTime": 174312,
+        "slowEndTime": 175973
+    },
+    {
+        "text": "\"I can't sleep,\"",
+        "startTime": 117843,
+        "endTime": 119238,
+        "slowStartTime": 176914,
+        "slowEndTime": 179082
+    },
+    {
+        "text": "Says Becky.",
+        "startTime": 119840,
+        "endTime": 120655,
+        "slowStartTime": 179910,
+        "slowEndTime": 181207
+    },
+    {
+        "text": "\"I'm going to read.\"",
+        "startTime": 121688,
+        "endTime": 123027,
+        "slowStartTime": 182682,
+        "slowEndTime": 184765
+    },
+    {
+        "text": "\"Come on, Alistair,\"",
+        "startTime": 123601,
+        "endTime": 124897,
+        "slowStartTime": 185551,
+        "slowEndTime": 187570
+    },
+    {
+        "text": "Says Becky.",
+        "startTime": 125555,
+        "endTime": 126449,
+        "slowStartTime": 188482,
+        "slowEndTime": 189899
+    },
+    {
+        "text": "\"You can come with me.\"",
+        "startTime": 127431,
+        "endTime": 128817,
+        "slowStartTime": 191297,
+        "slowEndTime": 193451
+    },
+    {
+        "text": "Well, okay, if you really want me to.",
+        "startTime": 130023,
+        "endTime": 132821,
+        "slowStartTime": 195185,
+        "slowEndTime": 199457
+    },
+    {
+        "text": "But no love stories. I hate love stories.",
+        "startTime": 133296,
+        "endTime": 136184,
+        "slowStartTime": 200094,
+        "slowEndTime": 204501
+    },
+    {
+        "text": "\"Hey! Look what I found,\"",
+        "startTime": 137481,
+        "endTime": 139759,
+        "slowStartTime": 206371,
+        "slowEndTime": 209863
+    },
+    {
+        "text": "Becky says.",
+        "startTime": 140233,
+        "endTime": 141274,
+        "slowStartTime": 210500,
+        "slowEndTime": 212136
+    },
+    {
+        "text": "My mouse. How nice.",
+        "startTime": 142599,
+        "endTime": 144301,
+        "slowStartTime": 214049,
+        "slowEndTime": 216676
+    },
+    {
+        "text": "But I've had a tough night.",
+        "startTime": 144951,
+        "endTime": 146417,
+        "slowStartTime": 217577,
+        "slowEndTime": 219851
+    },
+    {
+        "text": "I'm ready to sleep.",
+        "startTime": 146835,
+        "endTime": 148070,
+        "slowStartTime": 220403,
+        "slowEndTime": 222330
+    }
+]

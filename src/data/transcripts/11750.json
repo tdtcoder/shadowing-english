@@ -1,0 +1,51 @@
+[
+    {
+        "text": "This recently discovered colony of penguins is unlike any other.",
+        "startTime": 10668,
+        "endTime": 15543,
+        "slowStartTime": 16152,
+        "slowEndTime": 23539
+    },
+    {
+        "text": "They don't need to huddle together every winter for protection against the bitter cold...",
+        "startTime": 20694,
+        "endTime": 24645,
+        "slowStartTime": 31191,
+        "slowEndTime": 37192
+    },
+    {
+        "text": "...because these little fellas can do something no other penguins can.",
+        "startTime": 25432,
+        "endTime": 29827,
+        "slowStartTime": 38298,
+        "slowEndTime": 44965
+    },
+    {
+        "text": "Isn't that amazing?",
+        "startTime": 38343,
+        "endTime": 39377,
+        "slowStartTime": 57665,
+        "slowEndTime": 59291
+    },
+    {
+        "text": "And how do they use this incredible ability?",
+        "startTime": 55486,
+        "endTime": 58147,
+        "slowStartTime": 83379,
+        "slowEndTime": 87445
+    },
+    {
+        "text": "Well, they fly thousands of miles to rainforests of South America...",
+        "startTime": 59008,
+        "endTime": 63427,
+        "slowStartTime": 88662,
+        "slowEndTime": 95365
+    },
+    {
+        "text": "...where they spend the winter basking in the tropical sun.",
+        "startTime": 63683,
+        "endTime": 67769,
+        "slowStartTime": 95674,
+        "slowEndTime": 101878
+    }
+]

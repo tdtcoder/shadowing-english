@@ -1,0 +1,51 @@
+[
+    {
+        "text": "My God, that's Jason Bourne.",
+        "startTime": 10215,
+        "endTime": 12071,
+        "slowStartTime": 15473,
+        "slowEndTime": 18332
+    },
+    {
+        "text": "Why would he come back now?",
+        "startTime": 12681,
+        "endTime": 14013,
+        "slowStartTime": 19172,
+        "slowEndTime": 21245
+    },
+    {
+        "text": "I know who I am.",
+        "startTime": 15020,
+        "endTime": 16121,
+        "slowStartTime": 22680,
+        "slowEndTime": 24407
+    },
+    {
+        "text": "I remember everything.",
+        "startTime": 16568,
+        "endTime": 17713,
+        "slowStartTime": 25002,
+        "slowEndTime": 26794
+    },
+    {
+        "text": "Remembering everything doesn't mean you know everything.",
+        "startTime": 18406,
+        "endTime": 20631,
+        "slowStartTime": 27759,
+        "slowEndTime": 31172
+    },
+    {
+        "text": "The world is at war.",
+        "startTime": 20841,
+        "endTime": 22213,
+        "slowStartTime": 31412,
+        "slowEndTime": 33545
+    },
+    {
+        "text": "We need the perfect weapon.",
+        "startTime": 24483,
+        "endTime": 26667,
+        "slowStartTime": 36874,
+        "slowEndTime": 40226
+    }
+]

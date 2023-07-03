@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Pardon me. Excuse me. Pardon me.",
+        "startTime": 30,
+        "endTime": 2500,
+        "slowStartTime": 180,
+        "slowEndTime": 3880
+    },
+    {
+        "text": "Excuse me, excuse me. Pardon me. Excuse me. Hannah! Are you okay?",
+        "startTime": 3200,
+        "endTime": 8370,
+        "slowStartTime": 4880,
+        "slowEndTime": 12630
+    },
+    {
+        "text": "I think so.",
+        "startTime": 8700,
+        "endTime": 9340,
+        "slowStartTime": 13110,
+        "slowEndTime": 14130
+    },
+    {
+        "text": "What happened?",
+        "startTime": 9440,
+        "endTime": 9940,
+        "slowStartTime": 14260,
+        "slowEndTime": 14960
+    },
+    {
+        "text": "Well, I was making a cup of coffee, I pressed a button...",
+        "startTime": 10110,
+        "endTime": 12880,
+        "slowStartTime": 15260,
+        "slowEndTime": 19490
+    },
+    {
+        "text": "...and the machine caught on fire.",
+        "startTime": 13380,
+        "endTime": 14640,
+        "slowStartTime": 20090,
+        "slowEndTime": 22060
+    },
+    {
+        "text": "And then out of nowhere, Superman swooped in and put it out.",
+        "startTime": 14880,
+        "endTime": 18400,
+        "slowStartTime": 22430,
+        "slowEndTime": 27650
+    },
+    {
+        "text": "You should've seen him.",
+        "startTime": 22150,
+        "endTime": 22980,
+        "slowStartTime": 33210,
+        "slowEndTime": 34600
+    },
+    {
+        "text": "He was amazing.",
+        "startTime": 23950,
+        "endTime": 25050,
+        "slowStartTime": 36140,
+        "slowEndTime": 37560
+    },
+    {
+        "text": "Wow! You're really lucky Superman was so close by.",
+        "startTime": 25950,
+        "endTime": 28890,
+        "slowStartTime": 39060,
+        "slowEndTime": 43310
+    }
+]

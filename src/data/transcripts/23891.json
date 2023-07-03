@@ -1,0 +1,135 @@
+[
+    {
+        "text": "Well, hello!",
+        "startTime": 144,
+        "endTime": 1121,
+        "slowStartTime": 366,
+        "slowEndTime": 1907
+    },
+    {
+        "text": "I love your smile.",
+        "startTime": 3922,
+        "endTime": 6065,
+        "slowStartTime": 6033,
+        "slowEndTime": 9323
+    },
+    {
+        "text": "My name is Huggable.",
+        "startTime": 7148,
+        "endTime": 8942,
+        "slowStartTime": 10872,
+        "slowEndTime": 13638
+    },
+    {
+        "text": "Hi, Huggable.",
+        "startTime": 9261,
+        "endTime": 9971,
+        "slowStartTime": 14041,
+        "slowEndTime": 15182
+    },
+    {
+        "text": "Hello!",
+        "startTime": 10219,
+        "endTime": 11005,
+        "slowStartTime": 15478,
+        "slowEndTime": 16732
+    },
+    {
+        "text": "This is Aurora.",
+        "startTime": 11366,
+        "endTime": 12442,
+        "slowStartTime": 17199,
+        "slowEndTime": 18888
+    },
+    {
+        "text": "Are you feeling a little shy?",
+        "startTime": 13021,
+        "endTime": 15499,
+        "slowStartTime": 19681,
+        "slowEndTime": 23473
+    },
+    {
+        "text": "That's okay.",
+        "startTime": 17188,
+        "endTime": 18111,
+        "slowStartTime": 25932,
+        "slowEndTime": 27392
+    },
+    {
+        "text": "Hey Huggable, how old are you?",
+        "startTime": 18234,
+        "endTime": 20068,
+        "slowStartTime": 27501,
+        "slowEndTime": 30327
+    },
+    {
+        "text": "I'm only five.",
+        "startTime": 20364,
+        "endTime": 22390,
+        "slowStartTime": 30696,
+        "slowEndTime": 33810
+    },
+    {
+        "text": "I knew it!",
+        "startTime": 22559,
+        "endTime": 23114,
+        "slowStartTime": 33988,
+        "slowEndTime": 34896
+    },
+    {
+        "text": "I knew he was five.",
+        "startTime": 23286,
+        "endTime": 24736,
+        "slowStartTime": 35079,
+        "slowEndTime": 37329
+    },
+    {
+        "text": "How did you know?",
+        "startTime": 24866,
+        "endTime": 26371,
+        "slowStartTime": 37449,
+        "slowEndTime": 39781
+    },
+    {
+        "text": "You look about five.",
+        "startTime": 26537,
+        "endTime": 27463,
+        "slowStartTime": 39955,
+        "slowEndTime": 41420
+    },
+    {
+        "text": "Why are you blue?",
+        "startTime": 29499,
+        "endTime": 30508,
+        "slowStartTime": 44399,
+        "slowEndTime": 45987
+    },
+    {
+        "text": "Everyone in my family is blue.",
+        "startTime": 30805,
+        "endTime": 34379,
+        "slowStartTime": 46357,
+        "slowEndTime": 51794
+    },
+    {
+        "text": "Except my uncle Tony.",
+        "startTime": 34787,
+        "endTime": 36607,
+        "slowStartTime": 52331,
+        "slowEndTime": 55136
+    },
+    {
+        "text": "Who is?",
+        "startTime": 36907,
+        "endTime": 37607,
+        "slowStartTime": 55510,
+        "slowEndTime": 56338
+    },
+    {
+        "text": "He's orange.",
+        "startTime": 37645,
+        "endTime": 38117,
+        "slowStartTime": 56439,
+        "slowEndTime": 57401
+    }
+]

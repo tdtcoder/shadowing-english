@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Oh, look at the time.",
+        "startTime": 2079,
+        "endTime": 3419,
+        "slowStartTime": 3269,
+        "slowEndTime": 5353
+    },
+    {
+        "text": "It's nine already.",
+        "startTime": 3631,
+        "endTime": 4809,
+        "slowStartTime": 5597,
+        "slowEndTime": 7438
+    },
+    {
+        "text": "I didn't realize it was so late.",
+        "startTime": 5051,
+        "endTime": 6925,
+        "slowStartTime": 7726,
+        "slowEndTime": 10613
+    },
+    {
+        "text": "I didn't, either.",
+        "startTime": 7196,
+        "endTime": 7987,
+        "slowStartTime": 10944,
+        "slowEndTime": 12205
+    },
+    {
+        "text": "I'm afraid I should be going.",
+        "startTime": 8375,
+        "endTime": 9765,
+        "slowStartTime": 12713,
+        "slowEndTime": 14872
+    },
+    {
+        "text": "I have an early class tomorrow morning.",
+        "startTime": 10205,
+        "endTime": 11793,
+        "slowStartTime": 15457,
+        "slowEndTime": 17915
+    },
+    {
+        "text": "Me, too.",
+        "startTime": 12154,
+        "endTime": 12856,
+        "slowStartTime": 18381,
+        "slowEndTime": 19509
+    },
+    {
+        "text": " Let's get together again soon.",
+        "startTime": 13355,
+        "endTime": 15184,
+        "slowStartTime": 20182,
+        "slowEndTime": 23001
+    },
+    {
+        "text": "Give me a call or send me an email.",
+        "startTime": 15648,
+        "endTime": 17831,
+        "slowStartTime": 23622,
+        "slowEndTime": 26971
+    },
+    {
+        "text": "When is a good time to call you?",
+        "startTime": 18142,
+        "endTime": 19659,
+        "slowStartTime": 27363,
+        "slowEndTime": 29714
+    },
+    {
+        "text": "You can call me anytime after 9.",
+        "startTime": 20050,
+        "endTime": 22160,
+        "slowStartTime": 30225,
+        "slowEndTime": 33465
+    },
+    {
+        "text": " I go to bed pretty late.",
+        "startTime": 22413,
+        "endTime": 23890,
+        "slowStartTime": 33770,
+        "slowEndTime": 36060
+    },
+    {
+        "text": "What time do you usually go to bed?",
+        "startTime": 24203,
+        "endTime": 26030,
+        "slowStartTime": 36455,
+        "slowEndTime": 39270
+    },
+    {
+        "text": "I usually stay awake until 2 A.M.",
+        "startTime": 26461,
+        "endTime": 29056,
+        "slowStartTime": 39841,
+        "slowEndTime": 43809
+    },
+    {
+        "text": "What time do you usually get up?",
+        "startTime": 29371,
+        "endTime": 31015,
+        "slowStartTime": 44207,
+        "slowEndTime": 46748
+    },
+    {
+        "text": "I get up at around 8 o'clock.",
+        "startTime": 31598,
+        "endTime": 33669,
+        "slowStartTime": 47547,
+        "slowEndTime": 50728
+    },
+    {
+        "text": "Okay, I'll give you a call sometime next week.",
+        "startTime": 33871,
+        "endTime": 36495,
+        "slowStartTime": 50956,
+        "slowEndTime": 54968
+    },
+    {
+        "text": "Sorry, but I'd better be going.",
+        "startTime": 37076,
+        "endTime": 38889,
+        "slowStartTime": 55764,
+        "slowEndTime": 58558
+    },
+    {
+        "text": "Thank you for inviting me today.",
+        "startTime": 39429,
+        "endTime": 40761,
+        "slowStartTime": 59294,
+        "slowEndTime": 61367
+    },
+    {
+        "text": "Take care.",
+        "startTime": 41108,
+        "endTime": 41661,
+        "slowStartTime": 61812,
+        "slowEndTime": 62717
+    },
+    {
+        "text": "Bye. See ya!",
+        "startTime": 42192,
+        "endTime": 43429,
+        "slowStartTime": 63438,
+        "slowEndTime": 65369
+    }
+]

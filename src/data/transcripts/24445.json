@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Bear in mind.",
+        "startTime": 5449,
+        "endTime": 7029,
+        "slowStartTime": 8324,
+        "slowEndTime": 10769
+    },
+    {
+        "text": "It means to remember something.",
+        "startTime": 7806,
+        "endTime": 10089,
+        "slowStartTime": 11859,
+        "slowEndTime": 15358
+    },
+    {
+        "text": "Bear in mind that it might rain today so bring an umbrella with you.",
+        "startTime": 12321,
+        "endTime": 16538,
+        "slowStartTime": 18631,
+        "slowEndTime": 25032
+    },
+    {
+        "text": "My grandfather's old so bear in mind to speak to him slowly.",
+        "startTime": 19637,
+        "endTime": 24308,
+        "slowStartTime": 29605,
+        "slowEndTime": 36687
+    },
+    {
+        "text": "To pass this subject, bear in mind that you need to pass all three exams.",
+        "startTime": 26685,
+        "endTime": 31869,
+        "slowStartTime": 40178,
+        "slowEndTime": 48029
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "text": "My teacher calls me \"sweetie cakes\".",
+        "startTime": 50,
+        "endTime": 3324,
+        "slowStartTime": 103,
+        "slowEndTime": 5211
+    },
+    {
+        "text": "My classmates think it's funny...",
+        "startTime": 3481,
+        "endTime": 5785,
+        "slowStartTime": 5372,
+        "slowEndTime": 8902
+    },
+    {
+        "text": "...to hear her call me \"angel face\" or \"Pooky bear\" or \"honey\".",
+        "startTime": 6802,
+        "endTime": 13129,
+        "slowStartTime": 10353,
+        "slowEndTime": 19919
+    },
+    {
+        "text": "She calls me \"precious baby doll\".",
+        "startTime": 13723,
+        "endTime": 16908,
+        "slowStartTime": 20734,
+        "slowEndTime": 25587
+    },
+    {
+        "text": "She calls me \"pumpkin pie\" or \"doodle bug\"...",
+        "startTime": 17117,
+        "endTime": 21866,
+        "slowStartTime": 25826,
+        "slowEndTime": 33024
+    },
+    {
+        "text": "...or \"honey bunch\" or \"darling butterfly\".",
+        "startTime": 22219,
+        "endTime": 26659,
+        "slowStartTime": 33479,
+        "slowEndTime": 40213
+    },
+    {
+        "text": "This class is so embarrassing.",
+        "startTime": 27119,
+        "endTime": 30165,
+        "slowStartTime": 40829,
+        "slowEndTime": 45473
+    },
+    {
+        "text": "I need to find another;...",
+        "startTime": 30715,
+        "endTime": 33234,
+        "slowStartTime": 46222,
+        "slowEndTime": 50076
+    },
+    {
+        "text": "...just any class at all in which the teacher is not my mother.",
+        "startTime": 33989,
+        "endTime": 40688,
+        "slowStartTime": 51133,
+        "slowEndTime": 61257
+    }
+]

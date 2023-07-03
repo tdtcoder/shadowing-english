@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Pay attention!",
+        "startTime": 2651,
+        "endTime": 3539,
+        "slowStartTime": 4126,
+        "slowEndTime": 5533
+    },
+    {
+        "text": "Stop! Turn Left! Go Straight!",
+        "startTime": 4187,
+        "endTime": 7473,
+        "slowStartTime": 6431,
+        "slowEndTime": 11435
+    },
+    {
+        "text": "Watch out for bicycles!",
+        "startTime": 8060,
+        "endTime": 9466,
+        "slowStartTime": 12240,
+        "slowEndTime": 14424
+    },
+    {
+        "text": "This colorful machine will tell you when you should stop or go.",
+        "startTime": 10371,
+        "endTime": 14908,
+        "slowStartTime": 15707,
+        "slowEndTime": 22587
+    },
+    {
+        "text": "Which color means \"Stop\"?",
+        "startTime": 15909,
+        "endTime": 17183,
+        "slowStartTime": 24014,
+        "slowEndTime": 25999
+    },
+    {
+        "text": "Which color means \"Go\"?",
+        "startTime": 18180,
+        "endTime": 19693,
+        "slowStartTime": 27420,
+        "slowEndTime": 29764
+    },
+    {
+        "text": "Oh, the left turn light is red, please stop!",
+        "startTime": 21179,
+        "endTime": 24719,
+        "slowStartTime": 31918,
+        "slowEndTime": 37304
+    },
+    {
+        "text": "Look, the green light tells you that you can go straight now.",
+        "startTime": 25827,
+        "endTime": 29378,
+        "slowStartTime": 38890,
+        "slowEndTime": 44292
+    },
+    {
+        "text": "What happens if you don't obey the traffic lights?",
+        "startTime": 30209,
+        "endTime": 32987,
+        "slowStartTime": 45463,
+        "slowEndTime": 49705
+    },
+    {
+        "text": "Oh, no, you might have an accident!",
+        "startTime": 33945,
+        "endTime": 36670,
+        "slowStartTime": 51067,
+        "slowEndTime": 55230
+    },
+    {
+        "text": "These bright lights are not for a party.",
+        "startTime": 37845,
+        "endTime": 40323,
+        "slowStartTime": 56917,
+        "slowEndTime": 60709
+    },
+    {
+        "text": "They are important working lights.",
+        "startTime": 41159,
+        "endTime": 43291,
+        "slowStartTime": 61888,
+        "slowEndTime": 65162
+    },
+    {
+        "text": "They keep bikes and cars moving in the right direction at the right time.",
+        "startTime": 44309,
+        "endTime": 49424,
+        "slowStartTime": 66614,
+        "slowEndTime": 74361
+    },
+    {
+        "text": "Lights like these are used all over the world.",
+        "startTime": 50655,
+        "endTime": 53703,
+        "slowStartTime": 76132,
+        "slowEndTime": 80779
+    },
+    {
+        "text": "They also work in the same way everywhere.",
+        "startTime": 54655,
+        "endTime": 57588,
+        "slowStartTime": 82133,
+        "slowEndTime": 86607
+    }
+]

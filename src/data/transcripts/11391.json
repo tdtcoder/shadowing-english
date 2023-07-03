@@ -1,0 +1,79 @@
+[
+    {
+        "text": "A wolf saw a lamb in the field.",
+        "startTime": 3300,
+        "endTime": 5470,
+        "slowStartTime": 5030,
+        "slowEndTime": 8180
+    },
+    {
+        "text": "He wanted to eat him but needed an excuse for killing the young animal.",
+        "startTime": 6300,
+        "endTime": 10370,
+        "slowStartTime": 9590,
+        "slowEndTime": 15550
+    },
+    {
+        "text": "He went up to the lamb and said, \"Last year, you were rude to me.\"",
+        "startTime": 11170,
+        "endTime": 15650,
+        "slowStartTime": 16735,
+        "slowEndTime": 23560
+    },
+    {
+        "text": "\"I could not have been rude to you last year,\" the lamb replied.",
+        "startTime": 16680,
+        "endTime": 20320,
+        "slowStartTime": 25165,
+        "slowEndTime": 30520
+    },
+    {
+        "text": "\"I am only a week old.\"",
+        "startTime": 21020,
+        "endTime": 22380,
+        "slowStartTime": 31641,
+        "slowEndTime": 33525
+    },
+    {
+        "text": "The wolf thought of another excuse.",
+        "startTime": 23220,
+        "endTime": 24920,
+        "slowStartTime": 34990,
+        "slowEndTime": 37470
+    },
+    {
+        "text": "\"You were eating in my field,\" he said.",
+        "startTime": 25820,
+        "endTime": 28520,
+        "slowStartTime": 38820,
+        "slowEndTime": 42800
+    },
+    {
+        "text": "\"That's not possible,\" the lamb said.",
+        "startTime": 29230,
+        "endTime": 31860,
+        "slowStartTime": 43910,
+        "slowEndTime": 47650
+    },
+    {
+        "text": "\"I only drink my mother's milk.\"",
+        "startTime": 32460,
+        "endTime": 34100,
+        "slowStartTime": 48760,
+        "slowEndTime": 51060
+    },
+    {
+        "text": "\"I'm not going to argue with you,\" the wolf said.",
+        "startTime": 35060,
+        "endTime": 37870,
+        "slowStartTime": 52725,
+        "slowEndTime": 56830
+    },
+    {
+        "text": "And he killed the lamb and ate him.",
+        "startTime": 38400,
+        "endTime": 39840,
+        "slowStartTime": 57680,
+        "slowEndTime": 59790
+    }
+]

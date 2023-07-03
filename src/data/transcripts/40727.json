@@ -1,0 +1,100 @@
+[
+    {
+        "text": "A morning coffee is now almost a luxury for Europeans.",
+        "startTime": 636,
+        "endTime": 4599,
+        "slowStartTime": 1104,
+        "slowEndTime": 7123
+    },
+    {
+        "text": "That's according to the Eurostat statistics office.",
+        "startTime": 5005,
+        "endTime": 7997,
+        "slowStartTime": 7657,
+        "slowEndTime": 12221
+    },
+    {
+        "text": "It's compiled data on the cost of a pick-me-up in the EU.",
+        "startTime": 8317,
+        "endTime": 12093,
+        "slowStartTime": 12626,
+        "slowEndTime": 18365
+    },
+    {
+        "text": "Coffee prices were up almost 17% in August from last year.",
+        "startTime": 12569,
+        "endTime": 16848,
+        "slowStartTime": 19003,
+        "slowEndTime": 25497
+    },
+    {
+        "text": "If you don't take it black, the cost of a cup gets even worse.",
+        "startTime": 17263,
+        "endTime": 21069,
+        "slowStartTime": 26044,
+        "slowEndTime": 31828
+    },
+    {
+        "text": "Fresh whole milk prices jumped by almost a quarter,...",
+        "startTime": 21578,
+        "endTime": 24643,
+        "slowStartTime": 32517,
+        "slowEndTime": 37190
+    },
+    {
+        "text": "...and sugar was up even more by over a third.",
+        "startTime": 25109,
+        "endTime": 28297,
+        "slowStartTime": 37813,
+        "slowEndTime": 42671
+    },
+    {
+        "text": "The data showed prices for the staples rose in every EU country bar Malta.",
+        "startTime": 28867,
+        "endTime": 33834,
+        "slowStartTime": 43451,
+        "slowEndTime": 50976
+    },
+    {
+        "text": "Finns faced the biggest jump for coffee,...",
+        "startTime": 34329,
+        "endTime": 36557,
+        "slowStartTime": 51643,
+        "slowEndTime": 55060
+    },
+    {
+        "text": "...with prices there up by 43.6%.",
+        "startTime": 36681,
+        "endTime": 39847,
+        "slowStartTime": 55172,
+        "slowEndTime": 59995
+    },
+    {
+        "text": "In Poland, the price of sugar more than doubled.",
+        "startTime": 40598,
+        "endTime": 43340,
+        "slowStartTime": 61047,
+        "slowEndTime": 65235
+    },
+    {
+        "text": "Overall inflation in the Eurozone...",
+        "startTime": 44131,
+        "endTime": 46050,
+        "slowStartTime": 66346,
+        "slowEndTime": 69300
+    },
+    {
+        "text": "...hit a new record high of 10% in September.",
+        "startTime": 46125,
+        "endTime": 49174,
+        "slowStartTime": 69337,
+        "slowEndTime": 73986
+    },
+    {
+        "text": "Rising food and energy prices were the big driver.",
+        "startTime": 49637,
+        "endTime": 53391,
+        "slowStartTime": 74606,
+        "slowEndTime": 80311
+    }
+]

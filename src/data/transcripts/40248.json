@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Here are expressions you can use for talking about thoughts and ideas.",
+        "startTime": 357,
+        "endTime": 4083,
+        "slowStartTime": 685,
+        "slowEndTime": 6350
+    },
+    {
+        "text": "I have an idea.",
+        "startTime": 6095,
+        "endTime": 7227,
+        "slowStartTime": 9293,
+        "slowEndTime": 11065
+    },
+    {
+        "text": "I've been thinking...",
+        "startTime": 9105,
+        "endTime": 10150,
+        "slowStartTime": 13808,
+        "slowEndTime": 15450
+    },
+    {
+        "text": "Here's a thought.",
+        "startTime": 12116,
+        "endTime": 12951,
+        "slowStartTime": 18324,
+        "slowEndTime": 19652
+    },
+    {
+        "text": "What do you think?",
+        "startTime": 14951,
+        "endTime": 15882,
+        "slowStartTime": 22577,
+        "slowEndTime": 24048
+    },
+    {
+        "text": "You know what I think?",
+        "startTime": 17817,
+        "endTime": 18797,
+        "slowStartTime": 26876,
+        "slowEndTime": 28420
+    },
+    {
+        "text": "I've thought about this a lot.",
+        "startTime": 20664,
+        "endTime": 22261,
+        "slowStartTime": 31146,
+        "slowEndTime": 33616
+    },
+    {
+        "text": "I have no idea.",
+        "startTime": 24239,
+        "endTime": 25811,
+        "slowStartTime": 36508,
+        "slowEndTime": 38942
+    },
+    {
+        "text": "I don't know.",
+        "startTime": 27667,
+        "endTime": 28690,
+        "slowStartTime": 41650,
+        "slowEndTime": 43260
+    },
+    {
+        "text": "I knew it!",
+        "startTime": 30623,
+        "endTime": 31646,
+        "slowStartTime": 46085,
+        "slowEndTime": 47694
+    }
+]

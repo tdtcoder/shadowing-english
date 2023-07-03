@@ -1,0 +1,114 @@
+[
+    {
+        "text": "That was the third call you've disconnected today.",
+        "startTime": 1863,
+        "endTime": 3745,
+        "slowStartTime": 2944,
+        "slowEndTime": 5842
+    },
+    {
+        "text": "Listen, Robert. I don't know what's going on with you lately,...",
+        "startTime": 3911,
+        "endTime": 6121,
+        "slowStartTime": 6017,
+        "slowEndTime": 9407
+    },
+    {
+        "text": "...but if you don't start doing a better job real soon,...",
+        "startTime": 6443,
+        "endTime": 8009,
+        "slowStartTime": 9814,
+        "slowEndTime": 12239
+    },
+    {
+        "text": "...we're gonna have a real problem here.",
+        "startTime": 8085,
+        "endTime": 9302,
+        "slowStartTime": 12277,
+        "slowEndTime": 14178
+    },
+    {
+        "text": "I'm sorry. I know I haven't been doing my best.",
+        "startTime": 10085,
+        "endTime": 12574,
+        "slowStartTime": 15278,
+        "slowEndTime": 19086
+    },
+    {
+        "text": "Well, you need to figure something out.",
+        "startTime": 12865,
+        "endTime": 14208,
+        "slowStartTime": 19447,
+        "slowEndTime": 21537
+    },
+    {
+        "text": "I mean, I can't afford you making these many mistakes.",
+        "startTime": 14465,
+        "endTime": 16011,
+        "slowStartTime": 21847,
+        "slowEndTime": 24242
+    },
+    {
+        "text": "I understand that and I really do want to do a better job.",
+        "startTime": 16099,
+        "endTime": 18929,
+        "slowStartTime": 24299,
+        "slowEndTime": 28619
+    },
+    {
+        "text": "So, what's it gonna take?",
+        "startTime": 19486,
+        "endTime": 20491,
+        "slowStartTime": 29379,
+        "slowEndTime": 30962
+    },
+    {
+        "text": "I have some personal obligations that have been pulling my attention away from my work...",
+        "startTime": 21601,
+        "endTime": 25104,
+        "slowStartTime": 32552,
+        "slowEndTime": 37881
+    },
+    {
+        "text": "...and I think if I could just have a couple days to catch up,...",
+        "startTime": 25264,
+        "endTime": 28521,
+        "slowStartTime": 38046,
+        "slowEndTime": 43007
+    },
+    {
+        "text": "...I could come back to work much more focused.",
+        "startTime": 29001,
+        "endTime": 31179,
+        "slowStartTime": 43651,
+        "slowEndTime": 46993
+    },
+    {
+        "text": "All right, that sounds reasonable.",
+        "startTime": 31657,
+        "endTime": 32785,
+        "slowStartTime": 47636,
+        "slowEndTime": 49403
+    },
+    {
+        "text": "Why don't you put in for two personal days and I'll sign off on it?",
+        "startTime": 32867,
+        "endTime": 35418,
+        "slowStartTime": 49451,
+        "slowEndTime": 53352
+    },
+    {
+        "text": "That would really help. Thank you.",
+        "startTime": 36199,
+        "endTime": 37830,
+        "slowStartTime": 54448,
+        "slowEndTime": 56970
+    },
+    {
+        "text": "Sure, no problem.",
+        "startTime": 38003,
+        "endTime": 38959,
+        "slowStartTime": 57154,
+        "slowEndTime": 58664
+    }
+]

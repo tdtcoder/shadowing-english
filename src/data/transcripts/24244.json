@@ -1,0 +1,65 @@
+[
+    {
+        "text": "﻿This is your mission.",
+        "startTime": 3955,
+        "endTime": 4843,
+        "slowStartTime": 6083,
+        "slowEndTime": 7489
+    },
+    {
+        "text": "No, this is an envelope.",
+        "startTime": 5643,
+        "endTime": 7438,
+        "slowStartTime": 8614,
+        "slowEndTime": 11382
+    },
+    {
+        "text": "We're all gonna die!",
+        "startTime": 9147,
+        "endTime": 10447,
+        "slowStartTime": 13870,
+        "slowEndTime": 15896
+    },
+    {
+        "text": "I don't know anything!",
+        "startTime": 14035,
+        "endTime": 14972,
+        "slowStartTime": 21202,
+        "slowEndTime": 22683
+    },
+    {
+        "text": "Do you think I'm an idiot?",
+        "startTime": 15381,
+        "endTime": 16311,
+        "slowStartTime": 22772,
+        "slowEndTime": 24692
+    },
+    {
+        "text": "Really?",
+        "startTime": 26953,
+        "endTime": 27364,
+        "slowStartTime": 40579,
+        "slowEndTime": 41271
+    },
+    {
+        "text": "This is the most important scene and your cellphone rings?",
+        "startTime": 27623,
+        "endTime": 30015,
+        "slowStartTime": 41435,
+        "slowEndTime": 45247
+    },
+    {
+        "text": "This is why we don't make movies.",
+        "startTime": 31138,
+        "endTime": 32806,
+        "slowStartTime": 46857,
+        "slowEndTime": 49434
+    },
+    {
+        "text": "Why is it still counting?",
+        "startTime": 37933,
+        "endTime": 39454,
+        "slowStartTime": 57049,
+        "slowEndTime": 59406
+    }
+]

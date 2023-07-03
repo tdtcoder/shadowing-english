@@ -1,0 +1,100 @@
+[
+    {
+        "text": "In a world where everyone loves music,...",
+        "startTime": 4837,
+        "endTime": 7873,
+        "slowStartTime": 7406,
+        "slowEndTime": 12034
+    },
+    {
+        "text": "...first came vinyl,...",
+        "startTime": 8113,
+        "endTime": 9881,
+        "slowStartTime": 12319,
+        "slowEndTime": 15047
+    },
+    {
+        "text": "...the cassette tape,...",
+        "startTime": 10978,
+        "endTime": 12179,
+        "slowStartTime": 16617,
+        "slowEndTime": 18494
+    },
+    {
+        "text": "...the compact disc,...",
+        "startTime": 15331,
+        "endTime": 16640,
+        "slowStartTime": 23146,
+        "slowEndTime": 25185
+    },
+    {
+        "text": "...the mp3 player.",
+        "startTime": 17311,
+        "endTime": 18891,
+        "slowStartTime": 26117,
+        "slowEndTime": 28561
+    },
+    {
+        "text": "Which brings us to the present day.",
+        "startTime": 19259,
+        "endTime": 20918,
+        "slowStartTime": 29039,
+        "slowEndTime": 31602
+    },
+    {
+        "text": "Introducing Spotify,...",
+        "startTime": 22002,
+        "endTime": 24161,
+        "slowStartTime": 33153,
+        "slowEndTime": 36466
+    },
+    {
+        "text": "...a world of music.",
+        "startTime": 24812,
+        "endTime": 26337,
+        "slowStartTime": 37368,
+        "slowEndTime": 39730
+    },
+    {
+        "text": "You search, you find.",
+        "startTime": 26817,
+        "endTime": 30072,
+        "slowStartTime": 40375,
+        "slowEndTime": 45333
+    },
+    {
+        "text": "We discover old favorites.",
+        "startTime": 30634,
+        "endTime": 32311,
+        "slowStartTime": 46101,
+        "slowEndTime": 48692
+    },
+    {
+        "text": "You play, you share...",
+        "startTime": 32989,
+        "endTime": 35345,
+        "slowStartTime": 49633,
+        "slowEndTime": 53242
+    },
+    {
+        "text": "...favorites you didn't even know existed.",
+        "startTime": 37594,
+        "endTime": 39737,
+        "slowStartTime": 56541,
+        "slowEndTime": 59831
+    },
+    {
+        "text": "Whatever you want, whenever you want.",
+        "startTime": 43512,
+        "endTime": 46788,
+        "slowStartTime": 65418,
+        "slowEndTime": 70407
+    },
+    {
+        "text": "Instant, simple and free.",
+        "startTime": 47435,
+        "endTime": 50212,
+        "slowStartTime": 71303,
+        "slowEndTime": 75543
+    }
+]

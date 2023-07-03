@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Jonathan, can I borrow your scissors?",
+        "startTime": 2893,
+        "endTime": 6671,
+        "slowStartTime": 4489,
+        "slowEndTime": 10231
+    },
+    {
+        "text": "Oh! Hi, Anna!",
+        "startTime": 12128,
+        "endTime": 13923,
+        "slowStartTime": 18342,
+        "slowEndTime": 21110
+    },
+    {
+        "text": "What are you doing?",
+        "startTime": 14682,
+        "endTime": 16093,
+        "slowStartTime": 22173,
+        "slowEndTime": 24364
+    },
+    {
+        "text": "Can I borrow your scissors?",
+        "startTime": 16241,
+        "endTime": 18601,
+        "slowStartTime": 24512,
+        "slowEndTime": 28127
+    },
+    {
+        "text": "Sorry to bother you.",
+        "startTime": 18847,
+        "endTime": 19961,
+        "slowStartTime": 28421,
+        "slowEndTime": 30166
+    },
+    {
+        "text": "Yes, I can lend them to you, but you must return them.",
+        "startTime": 21825,
+        "endTime": 27186,
+        "slowStartTime": 32888,
+        "slowEndTime": 41004
+    },
+    {
+        "text": "Come in.",
+        "startTime": 30241,
+        "endTime": 30903,
+        "slowStartTime": 45511,
+        "slowEndTime": 46579
+    },
+    {
+        "text": "Hey, Nigel.",
+        "startTime": 31987,
+        "endTime": 32634,
+        "slowStartTime": 48130,
+        "slowEndTime": 49176
+    },
+    {
+        "text": "What's up?",
+        "startTime": 33291,
+        "endTime": 34255,
+        "slowStartTime": 50086,
+        "slowEndTime": 51607
+    },
+    {
+        "text": "Can I borrow a jacket?",
+        "startTime": 35101,
+        "endTime": 36508,
+        "slowStartTime": 52802,
+        "slowEndTime": 54987
+    },
+    {
+        "text": "Yeah, that's cool.",
+        "startTime": 37247,
+        "endTime": 38162,
+        "slowStartTime": 56020,
+        "slowEndTime": 57468
+    },
+    {
+        "text": "Cool.",
+        "startTime": 39087,
+        "endTime": 39380,
+        "slowStartTime": 58780,
+        "slowEndTime": 59295
+    },
+    {
+        "text": "Shoot.",
+        "startTime": 40855,
+        "endTime": 41374,
+        "slowStartTime": 61433,
+        "slowEndTime": 62286
+    },
+    {
+        "text": "Hey, can I borrow your phone charger?",
+        "startTime": 41670,
+        "endTime": 42880,
+        "slowStartTime": 62655,
+        "slowEndTime": 64545
+    },
+    {
+        "text": "My phone is at, like, five percent.",
+        "startTime": 42956,
+        "endTime": 44058,
+        "slowStartTime": 64584,
+        "slowEndTime": 66312
+    },
+    {
+        "text": "Can I borrow this?",
+        "startTime": 44651,
+        "endTime": 45642,
+        "slowStartTime": 67126,
+        "slowEndTime": 68688
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Ted and Peg go on a picnic.",
+        "startTime": 2753,
+        "endTime": 5315,
+        "slowStartTime": 4279,
+        "slowEndTime": 8198
+    },
+    {
+        "text": "Peg gets a picnic basket.",
+        "startTime": 6637,
+        "endTime": 8889,
+        "slowStartTime": 10106,
+        "slowEndTime": 13558
+    },
+    {
+        "text": "Ted puts in cheese.",
+        "startTime": 10331,
+        "endTime": 12087,
+        "slowStartTime": 15646,
+        "slowEndTime": 18356
+    },
+    {
+        "text": "Peg puts in sandwiches.",
+        "startTime": 13401,
+        "endTime": 15477,
+        "slowStartTime": 20252,
+        "slowEndTime": 23440
+    },
+    {
+        "text": "Ted puts in chips.",
+        "startTime": 16743,
+        "endTime": 18563,
+        "slowStartTime": 25265,
+        "slowEndTime": 28069
+    },
+    {
+        "text": "Peg puts in soda pop.",
+        "startTime": 19795,
+        "endTime": 21763,
+        "slowStartTime": 29842,
+        "slowEndTime": 32869
+    },
+    {
+        "text": "Ted puts in apples.",
+        "startTime": 23281,
+        "endTime": 25219,
+        "slowStartTime": 35071,
+        "slowEndTime": 38053
+    },
+    {
+        "text": "Peg puts in cookies.",
+        "startTime": 26481,
+        "endTime": 28391,
+        "slowStartTime": 39872,
+        "slowEndTime": 42811
+    },
+    {
+        "text": "Who put the mouse in the basket?",
+        "startTime": 29811,
+        "endTime": 32424,
+        "slowStartTime": 44867,
+        "slowEndTime": 48861
+    },
+    {
+        "text": "What are Ted and Peg doing?",
+        "startTime": 36457,
+        "endTime": 38630,
+        "slowStartTime": 54836,
+        "slowEndTime": 58170
+    },
+    {
+        "text": "They are getting a picnic basket.",
+        "startTime": 39603,
+        "endTime": 42161,
+        "slowStartTime": 59554,
+        "slowEndTime": 63466
+    },
+    {
+        "text": "Who puts in sandwiches?",
+        "startTime": 43377,
+        "endTime": 45093,
+        "slowStartTime": 65215,
+        "slowEndTime": 67864
+    },
+    {
+        "text": "Peg puts in sandwiches.",
+        "startTime": 46691,
+        "endTime": 48825,
+        "slowStartTime": 70186,
+        "slowEndTime": 73462
+    },
+    {
+        "text": "What does Ted put in?",
+        "startTime": 50008,
+        "endTime": 51686,
+        "slowStartTime": 75162,
+        "slowEndTime": 77754
+    },
+    {
+        "text": "He puts in chips.",
+        "startTime": 52966,
+        "endTime": 54651,
+        "slowStartTime": 79599,
+        "slowEndTime": 82201
+    }
+]

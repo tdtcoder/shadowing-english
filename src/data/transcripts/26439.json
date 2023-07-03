@@ -1,0 +1,135 @@
+[
+    {
+        "text": "﻿Hello.",
+        "startTime": 2326,
+        "endTime": 2861,
+        "slowStartTime": 3639,
+        "slowEndTime": 4516
+    },
+    {
+        "text": "My name is Marty.",
+        "startTime": 3654,
+        "endTime": 4921,
+        "slowStartTime": 5631,
+        "slowEndTime": 7606
+    },
+    {
+        "text": "I'm 12 years old.",
+        "startTime": 5903,
+        "endTime": 7473,
+        "slowStartTime": 9005,
+        "slowEndTime": 11434
+    },
+    {
+        "text": "I'm from Canada,...",
+        "startTime": 8530,
+        "endTime": 9802,
+        "slowStartTime": 12945,
+        "slowEndTime": 14928
+    },
+    {
+        "text": "...but I live in Japan.",
+        "startTime": 10710,
+        "endTime": 12337,
+        "slowStartTime": 16215,
+        "slowEndTime": 18731
+    },
+    {
+        "text": "What about you?",
+        "startTime": 13628,
+        "endTime": 14663,
+        "slowStartTime": 20592,
+        "slowEndTime": 22219
+    },
+    {
+        "text": "My name is Christian.",
+        "startTime": 17027,
+        "endTime": 20196,
+        "slowStartTime": 25690,
+        "slowEndTime": 30519
+    },
+    {
+        "text": "I'm four years old.",
+        "startTime": 21106,
+        "endTime": 24058,
+        "slowStartTime": 31809,
+        "slowEndTime": 36312
+    },
+    {
+        "text": "I live in Hong Kong.",
+        "startTime": 25072,
+        "endTime": 27985,
+        "slowStartTime": 37758,
+        "slowEndTime": 42203
+    },
+    {
+        "text": "Bye, bye.",
+        "startTime": 29431,
+        "endTime": 30762,
+        "slowStartTime": 44297,
+        "slowEndTime": 46368
+    },
+    {
+        "text": "Hi!",
+        "startTime": 32006,
+        "endTime": 33030,
+        "slowStartTime": 48159,
+        "slowEndTime": 49770
+    },
+    {
+        "text": "My name is Anna.",
+        "startTime": 33617,
+        "endTime": 35275,
+        "slowStartTime": 50575,
+        "slowEndTime": 53137
+    },
+    {
+        "text": "I'm four years old.",
+        "startTime": 35577,
+        "endTime": 36846,
+        "slowStartTime": 53516,
+        "slowEndTime": 55494
+    },
+    {
+        "text": "I live in India.",
+        "startTime": 38273,
+        "endTime": 41513,
+        "slowStartTime": 57560,
+        "slowEndTime": 62494
+    },
+    {
+        "text": "Hello, my name is Patty.",
+        "startTime": 42525,
+        "endTime": 44907,
+        "slowStartTime": 63938,
+        "slowEndTime": 67586
+    },
+    {
+        "text": "I'm five years old.",
+        "startTime": 45541,
+        "endTime": 47109,
+        "slowStartTime": 68461,
+        "slowEndTime": 70889
+    },
+    {
+        "text": "I'm from Taiwan.",
+        "startTime": 47455,
+        "endTime": 50627,
+        "slowStartTime": 71333,
+        "slowEndTime": 76166
+    },
+    {
+        "text": "Goodbye!",
+        "startTime": 51523,
+        "endTime": 52497,
+        "slowStartTime": 77434,
+        "slowEndTime": 78971
+    },
+    {
+        "text": "What about you?",
+        "startTime": 53504,
+        "endTime": 55031,
+        "slowStartTime": 80406,
+        "slowEndTime": 82771
+    }
+]

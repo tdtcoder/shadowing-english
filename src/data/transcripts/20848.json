@@ -1,0 +1,247 @@
+[
+    {
+        "text": "Hello?",
+        "startTime": 589,
+        "endTime": 1295,
+        "slowStartTime": 1034,
+        "slowEndTime": 2168
+    },
+    {
+        "text": "Hello, Amanda.",
+        "startTime": 1461,
+        "endTime": 2524,
+        "slowStartTime": 2342,
+        "slowEndTime": 4011
+    },
+    {
+        "text": "How are you doing this evening?",
+        "startTime": 2735,
+        "endTime": 4004,
+        "slowStartTime": 4253,
+        "slowEndTime": 6231
+    },
+    {
+        "text": "Good.",
+        "startTime": 4245,
+        "endTime": 4748,
+        "slowStartTime": 6517,
+        "slowEndTime": 7347
+    },
+    {
+        "text": "How about you?",
+        "startTime": 4835,
+        "endTime": 5679,
+        "slowStartTime": 7403,
+        "slowEndTime": 8743
+    },
+    {
+        "text": "I'm fine, too.",
+        "startTime": 5811,
+        "endTime": 6744,
+        "slowStartTime": 8866,
+        "slowEndTime": 10341
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 6824,
+        "endTime": 7327,
+        "slowStartTime": 10386,
+        "slowEndTime": 11215
+    },
+    {
+        "text": "I'm so excited.",
+        "startTime": 8157,
+        "endTime": 9854,
+        "slowStartTime": 12386,
+        "slowEndTime": 15006
+    },
+    {
+        "text": "I'm making a plan for the summer vacation.",
+        "startTime": 10136,
+        "endTime": 12733,
+        "slowStartTime": 15354,
+        "slowEndTime": 19325
+    },
+    {
+        "text": "Really?",
+        "startTime": 12877,
+        "endTime": 13536,
+        "slowStartTime": 19465,
+        "slowEndTime": 20529
+    },
+    {
+        "text": "Sounds great!",
+        "startTime": 13791,
+        "endTime": 14941,
+        "slowStartTime": 20837,
+        "slowEndTime": 22637
+    },
+    {
+        "text": "What is your plan?",
+        "startTime": 15223,
+        "endTime": 16241,
+        "slowStartTime": 22985,
+        "slowEndTime": 24586
+    },
+    {
+        "text": "I'm planning to go to New Zealand!",
+        "startTime": 16399,
+        "endTime": 18810,
+        "slowStartTime": 24749,
+        "slowEndTime": 28440
+    },
+    {
+        "text": "Wow.",
+        "startTime": 18921,
+        "endTime": 19869,
+        "slowStartTime": 28531,
+        "slowEndTime": 30028
+    },
+    {
+        "text": "That's great!",
+        "startTime": 19994,
+        "endTime": 21064,
+        "slowStartTime": 30141,
+        "slowEndTime": 31821
+    },
+    {
+        "text": "So, when are you leaving?",
+        "startTime": 21325,
+        "endTime": 22551,
+        "slowStartTime": 32137,
+        "slowEndTime": 34052
+    },
+    {
+        "text": "In a month.",
+        "startTime": 22835,
+        "endTime": 23547,
+        "slowStartTime": 34403,
+        "slowEndTime": 35545
+    },
+    {
+        "text": "I can't wait to go.",
+        "startTime": 23723,
+        "endTime": 25655,
+        "slowStartTime": 35735,
+        "slowEndTime": 38707
+    },
+    {
+        "text": "How long are you staying there?",
+        "startTime": 25865,
+        "endTime": 27373,
+        "slowStartTime": 38948,
+        "slowEndTime": 41284
+    },
+    {
+        "text": "I'll be there for three weeks.",
+        "startTime": 27532,
+        "endTime": 29467,
+        "slowStartTime": 41448,
+        "slowEndTime": 44426
+    },
+    {
+        "text": "That's pretty long.",
+        "startTime": 29664,
+        "endTime": 31004,
+        "slowStartTime": 44646,
+        "slowEndTime": 46731
+    },
+    {
+        "text": "Where in New Zealand are you staying?",
+        "startTime": 31242,
+        "endTime": 32982,
+        "slowStartTime": 47013,
+        "slowEndTime": 49698
+    },
+    {
+        "text": "I will stay in Queenstown.",
+        "startTime": 33245,
+        "endTime": 34992,
+        "slowStartTime": 50017,
+        "slowEndTime": 52713
+    },
+    {
+        "text": "Oh, I see.",
+        "startTime": 35333,
+        "endTime": 36621,
+        "slowStartTime": 53150,
+        "slowEndTime": 55157
+    },
+    {
+        "text": "What will you do in Queenstown?",
+        "startTime": 36873,
+        "endTime": 38593,
+        "slowStartTime": 55460,
+        "slowEndTime": 58115
+    },
+    {
+        "text": "I will go bungee jumping.",
+        "startTime": 39122,
+        "endTime": 41145,
+        "slowStartTime": 58833,
+        "slowEndTime": 61942
+    },
+    {
+        "text": "It's a very popular activity there.",
+        "startTime": 41439,
+        "endTime": 44117,
+        "slowStartTime": 62309,
+        "slowEndTime": 66400
+    },
+    {
+        "text": "Aren't you scared?",
+        "startTime": 44458,
+        "endTime": 45426,
+        "slowStartTime": 66837,
+        "slowEndTime": 68364
+    },
+    {
+        "text": "I'm quite brave!",
+        "startTime": 45621,
+        "endTime": 46877,
+        "slowStartTime": 68581,
+        "slowEndTime": 70541
+    },
+    {
+        "text": "It will be fun!",
+        "startTime": 47249,
+        "endTime": 48275,
+        "slowStartTime": 71023,
+        "slowEndTime": 72637
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 48428,
+        "endTime": 49179,
+        "slowStartTime": 72792,
+        "slowEndTime": 73993
+    },
+    {
+        "text": "It sounds very exciting.",
+        "startTime": 49295,
+        "endTime": 50815,
+        "slowStartTime": 74092,
+        "slowEndTime": 76447
+    },
+    {
+        "text": "Don't forget to bring me a souvenir.",
+        "startTime": 51195,
+        "endTime": 53031,
+        "slowStartTime": 76943,
+        "slowEndTime": 79771
+    },
+    {
+        "text": "Do you have anything particular in mind?",
+        "startTime": 53621,
+        "endTime": 55864,
+        "slowStartTime": 80581,
+        "slowEndTime": 84021
+    },
+    {
+        "text": "Anything traditional will do!",
+        "startTime": 55946,
+        "endTime": 57567,
+        "slowStartTime": 84069,
+        "slowEndTime": 86575
+    }
+]

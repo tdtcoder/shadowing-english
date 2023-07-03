@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Today, my ambulance knew all about a bike accident...",
+        "startTime": 250,
+        "endTime": 3104,
+        "slowStartTime": 525,
+        "slowEndTime": 4881
+    },
+    {
+        "text": "...just by talking to a helmet.",
+        "startTime": 3444,
+        "endTime": 4663,
+        "slowStartTime": 5316,
+        "slowEndTime": 7220
+    },
+    {
+        "text": "It grabbed the patient's record before we even picked him up.",
+        "startTime": 5242,
+        "endTime": 7757,
+        "slowStartTime": 8013,
+        "slowEndTime": 11861
+    },
+    {
+        "text": "It found out the doctor we needed was at St. Anne's.",
+        "startTime": 8601,
+        "endTime": 11058,
+        "slowStartTime": 13051,
+        "slowEndTime": 16812
+    },
+    {
+        "text": "And they got his okay on treatment from miles away.",
+        "startTime": 12011,
+        "endTime": 14356,
+        "slowStartTime": 18166,
+        "slowEndTime": 21759
+    },
+    {
+        "text": "It even pulled strings with the stoplights.",
+        "startTime": 15049,
+        "endTime": 16654,
+        "slowStartTime": 22723,
+        "slowEndTime": 25206
+    },
+    {
+        "text": "My ambulance talks with smoke alarms and pilots...",
+        "startTime": 17658,
+        "endTime": 20489,
+        "slowStartTime": 26637,
+        "slowEndTime": 30958
+    },
+    {
+        "text": "...and stadiums, but of course, it's a good listener too.",
+        "startTime": 20949,
+        "endTime": 24148,
+        "slowStartTime": 31573,
+        "slowEndTime": 36447
+    },
+    {
+        "text": "Today, Cisco is connecting the Internet of everything.",
+        "startTime": 24567,
+        "endTime": 27489,
+        "slowStartTime": 37001,
+        "slowEndTime": 41459
+    },
+    {
+        "text": "So everything works like never before.",
+        "startTime": 27905,
+        "endTime": 29949,
+        "slowStartTime": 41707,
+        "slowEndTime": 45149
+    }
+]

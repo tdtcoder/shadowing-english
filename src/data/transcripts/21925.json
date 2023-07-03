@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Do you know what is a heart attack?",
+        "startTime": 127,
+        "endTime": 1900,
+        "slowStartTime": 340,
+        "slowEndTime": 3075
+    },
+    {
+        "text": "Let us understand it.",
+        "startTime": 2041,
+        "endTime": 3299,
+        "slowStartTime": 3211,
+        "slowEndTime": 5174
+    },
+    {
+        "text": "Heart attack means \"when a heart stops working\".",
+        "startTime": 3381,
+        "endTime": 6472,
+        "slowStartTime": 5221,
+        "slowEndTime": 9933
+    },
+    {
+        "text": "How does it happen?",
+        "startTime": 6752,
+        "endTime": 7915,
+        "slowStartTime": 10278,
+        "slowEndTime": 12098
+    },
+    {
+        "text": "Let's see.",
+        "startTime": 8055,
+        "endTime": 8757,
+        "slowStartTime": 12233,
+        "slowEndTime": 13361
+    },
+    {
+        "text": "Sometimes, inside arteries, some sticky things get stuck to the walls,...",
+        "startTime": 9067,
+        "endTime": 13931,
+        "slowStartTime": 13750,
+        "slowEndTime": 21121
+    },
+    {
+        "text": "...and the way becomes blocked.",
+        "startTime": 14064,
+        "endTime": 15946,
+        "slowStartTime": 21246,
+        "slowEndTime": 24144
+    },
+    {
+        "text": "It's like a road where if there is some blockage, cars start coming back.",
+        "startTime": 16374,
+        "endTime": 21160,
+        "slowStartTime": 24711,
+        "slowEndTime": 31965
+    },
+    {
+        "text": "You are right!",
+        "startTime": 21359,
+        "endTime": 22163,
+        "slowStartTime": 32189,
+        "slowEndTime": 33469
+    },
+    {
+        "text": "When blood can't move further,...",
+        "startTime": 22315,
+        "endTime": 24234,
+        "slowStartTime": 33622,
+        "slowEndTime": 36576
+    },
+    {
+        "text": "...it starts coming back into the heart.",
+        "startTime": 24334,
+        "endTime": 26759,
+        "slowStartTime": 36651,
+        "slowEndTime": 40363
+    },
+    {
+        "text": "Also, the whole circulation of the blood stops.",
+        "startTime": 26860,
+        "endTime": 30572,
+        "slowStartTime": 40440,
+        "slowEndTime": 46083
+    },
+    {
+        "text": "So if the circulatory system does not work,...",
+        "startTime": 30865,
+        "endTime": 33931,
+        "slowStartTime": 46448,
+        "slowEndTime": 51121
+    },
+    {
+        "text": "...the heart can't get fresh oxygen.",
+        "startTime": 34011,
+        "endTime": 36159,
+        "slowStartTime": 51167,
+        "slowEndTime": 54464
+    },
+    {
+        "text": "You're a genius boy!",
+        "startTime": 36446,
+        "endTime": 37809,
+        "slowStartTime": 54819,
+        "slowEndTime": 56938
+    },
+    {
+        "text": "You are right!",
+        "startTime": 37892,
+        "endTime": 38583,
+        "slowStartTime": 56988,
+        "slowEndTime": 58100
+    },
+    {
+        "text": "When the circulatory system stops working, the heart can't get fresh oxygen.",
+        "startTime": 38751,
+        "endTime": 44309,
+        "slowStartTime": 58276,
+        "slowEndTime": 66688
+    },
+    {
+        "text": "And without fresh oxygen, it slowly, slowly dies.",
+        "startTime": 44746,
+        "endTime": 49390,
+        "slowStartTime": 67269,
+        "slowEndTime": 74310
+    },
+    {
+        "text": "Yes, sometimes it does not die fully.",
+        "startTime": 49768,
+        "endTime": 52819,
+        "slowStartTime": 74802,
+        "slowEndTime": 79453
+    },
+    {
+        "text": "Some part of it becomes inactive.",
+        "startTime": 53008,
+        "endTime": 55473,
+        "slowStartTime": 79662,
+        "slowEndTime": 83435
+    },
+    {
+        "text": "So when blood flow is restored,...",
+        "startTime": 55811,
+        "endTime": 57581,
+        "slowStartTime": 83866,
+        "slowEndTime": 86597
+    },
+    {
+        "text": "...the heart again gets oxygen and it again starts working.",
+        "startTime": 57713,
+        "endTime": 61047,
+        "slowStartTime": 86719,
+        "slowEndTime": 91796
+    },
+    {
+        "text": "You are right.",
+        "startTime": 61154,
+        "endTime": 61844,
+        "slowStartTime": 91881,
+        "slowEndTime": 92991
+    },
+    {
+        "text": "If blood circulation starts again, heart starts working again,...",
+        "startTime": 62042,
+        "endTime": 65974,
+        "slowStartTime": 93213,
+        "slowEndTime": 99186
+    },
+    {
+        "text": "...but it has become weak.",
+        "startTime": 66085,
+        "endTime": 67827,
+        "slowStartTime": 99278,
+        "slowEndTime": 101966
+    },
+    {
+        "text": "Yes, so you need to take some extra care.",
+        "startTime": 67897,
+        "endTime": 70760,
+        "slowStartTime": 101995,
+        "slowEndTime": 106365
+    },
+    {
+        "text": "So it does not get attacked again.",
+        "startTime": 70931,
+        "endTime": 73441,
+        "slowStartTime": 106546,
+        "slowEndTime": 110387
+    }
+]

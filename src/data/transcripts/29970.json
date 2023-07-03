@@ -1,0 +1,149 @@
+[
+    {
+        "text": "One, two, three, count with me.",
+        "startTime": 9800,
+        "endTime": 12041,
+        "slowStartTime": 14850,
+        "slowEndTime": 18286
+    },
+    {
+        "text": "Four, five, six, count like this.",
+        "startTime": 12350,
+        "endTime": 14503,
+        "slowStartTime": 18675,
+        "slowEndTime": 21980
+    },
+    {
+        "text": "Seven and eight, nine and ten.",
+        "startTime": 14688,
+        "endTime": 16836,
+        "slowStartTime": 22182,
+        "slowEndTime": 25479
+    },
+    {
+        "text": "That's great, clap your hands.",
+        "startTime": 17079,
+        "endTime": 19340,
+        "slowStartTime": 25768,
+        "slowEndTime": 29235
+    },
+    {
+        "text": "One, two, three, sing with me.",
+        "startTime": 19447,
+        "endTime": 21627,
+        "slowStartTime": 29321,
+        "slowEndTime": 32665
+    },
+    {
+        "text": "Four, five, six, dance like this.",
+        "startTime": 21824,
+        "endTime": 23973,
+        "slowStartTime": 32886,
+        "slowEndTime": 36184
+    },
+    {
+        "text": "Seven and eight, nine and ten.",
+        "startTime": 24151,
+        "endTime": 26237,
+        "slowStartTime": 36377,
+        "slowEndTime": 39581
+    },
+    {
+        "text": "Adventure time again.",
+        "startTime": 26422,
+        "endTime": 28839,
+        "slowStartTime": 39783,
+        "slowEndTime": 43484
+    },
+    {
+        "text": "Look there, look around.",
+        "startTime": 28991,
+        "endTime": 31125,
+        "slowStartTime": 43637,
+        "slowEndTime": 46912
+    },
+    {
+        "text": "There are clues that can be found.",
+        "startTime": 31353,
+        "endTime": 33553,
+        "slowStartTime": 47179,
+        "slowEndTime": 50555
+    },
+    {
+        "text": "Don't give up, you'll be fine.",
+        "startTime": 33777,
+        "endTime": 35779,
+        "slowStartTime": 50816,
+        "slowEndTime": 53894
+    },
+    {
+        "text": "Together, like stars go shine!",
+        "startTime": 35960,
+        "endTime": 38263,
+        "slowStartTime": 54090,
+        "slowEndTime": 57619
+    },
+    {
+        "text": "One, two, three, count with me.",
+        "startTime": 38481,
+        "endTime": 40611,
+        "slowStartTime": 57871,
+        "slowEndTime": 61141
+    },
+    {
+        "text": "Four, five, six, count like this.",
+        "startTime": 40857,
+        "endTime": 42974,
+        "slowStartTime": 61435,
+        "slowEndTime": 64686
+    },
+    {
+        "text": "Seven and eight, nine and ten.",
+        "startTime": 43157,
+        "endTime": 45305,
+        "slowStartTime": 64885,
+        "slowEndTime": 68182
+    },
+    {
+        "text": "That's great, clap your hands.",
+        "startTime": 45472,
+        "endTime": 47858,
+        "slowStartTime": 68358,
+        "slowEndTime": 72012
+    },
+    {
+        "text": "One, two, three, sing with me.",
+        "startTime": 47985,
+        "endTime": 50164,
+        "slowStartTime": 72127,
+        "slowEndTime": 75471
+    },
+    {
+        "text": "Four, five, six, dance like this.",
+        "startTime": 50339,
+        "endTime": 52459,
+        "slowStartTime": 75658,
+        "slowEndTime": 78913
+    },
+    {
+        "text": "Seven and eight, nine and ten.",
+        "startTime": 52581,
+        "endTime": 54805,
+        "slowStartTime": 79021,
+        "slowEndTime": 82432
+    },
+    {
+        "text": "Adventure time again.",
+        "startTime": 54989,
+        "endTime": 57850,
+        "slowStartTime": 82634,
+        "slowEndTime": 87000
+    },
+    {
+        "text": "With me and my best friends.",
+        "startTime": 58217,
+        "endTime": 59993,
+        "slowStartTime": 87475,
+        "slowEndTime": 90215
+    }
+]

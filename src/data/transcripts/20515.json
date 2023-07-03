@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Where does your journey end?",
+        "startTime": 5374,
+        "endTime": 7376,
+        "slowStartTime": 8211,
+        "slowEndTime": 11289
+    },
+    {
+        "text": "You seek that which would bestow upon you the right to rule.",
+        "startTime": 9556,
+        "endTime": 13309,
+        "slowStartTime": 14484,
+        "slowEndTime": 20188
+    },
+    {
+        "text": "\"The quest to reclaim our homeland and slay a dragon.\"",
+        "startTime": 16850,
+        "endTime": 21309,
+        "slowStartTime": 25425,
+        "slowEndTime": 32189
+    },
+    {
+        "text": "Do not think I won't kill you, dwarf.",
+        "startTime": 37574,
+        "endTime": 39034,
+        "slowStartTime": 56511,
+        "slowEndTime": 58776
+    },
+    {
+        "text": "When did we allow evil to become stronger than us?",
+        "startTime": 41412,
+        "endTime": 44194,
+        "slowStartTime": 62268,
+        "slowEndTime": 66516
+    },
+    {
+        "text": "It is not our fight.",
+        "startTime": 45267,
+        "endTime": 46369,
+        "slowStartTime": 68050,
+        "slowEndTime": 69779
+    },
+    {
+        "text": "It is our fight.",
+        "startTime": 47839,
+        "endTime": 49009,
+        "slowStartTime": 71908,
+        "slowEndTime": 73739
+    },
+    {
+        "text": "What if it's a trap?",
+        "startTime": 51953,
+        "endTime": 53383,
+        "slowStartTime": 78079,
+        "slowEndTime": 80300
+    },
+    {
+        "text": "It's undoubtedly a trap.",
+        "startTime": 54925,
+        "endTime": 57244,
+        "slowStartTime": 82538,
+        "slowEndTime": 86091
+    },
+    {
+        "text": "Such is the nature of evil.",
+        "startTime": 62351,
+        "endTime": 64610,
+        "slowStartTime": 93676,
+        "slowEndTime": 97140
+    },
+    {
+        "text": "In time all foul things come forth.",
+        "startTime": 66023,
+        "endTime": 69196,
+        "slowStartTime": 99184,
+        "slowEndTime": 104019
+    },
+    {
+        "text": "If you awaken that beast, you will destroy us all.",
+        "startTime": 74669,
+        "endTime": 79035,
+        "slowStartTime": 112154,
+        "slowEndTime": 118777
+    },
+    {
+        "text": "Was that an earthquake?",
+        "startTime": 91107,
+        "endTime": 92405,
+        "slowStartTime": 136810,
+        "slowEndTime": 138832
+    },
+    {
+        "text": "That, my lad, was a dragon.",
+        "startTime": 92666,
+        "endTime": 98096,
+        "slowStartTime": 139149,
+        "slowEndTime": 147369
+    }
+]

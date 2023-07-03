@@ -1,0 +1,51 @@
+[
+    {
+        "text": "﻿Goodbye, goodbye.",
+        "startTime": 2783,
+        "endTime": 4609,
+        "slowStartTime": 4325,
+        "slowEndTime": 7139
+    },
+    {
+        "text": "It's time to go.",
+        "startTime": 6317,
+        "endTime": 7995,
+        "slowStartTime": 9626,
+        "slowEndTime": 12218
+    },
+    {
+        "text": "Goodbye, goodbye.",
+        "startTime": 9796,
+        "endTime": 11661,
+        "slowStartTime": 14844,
+        "slowEndTime": 17716
+    },
+    {
+        "text": "I don't want to go.",
+        "startTime": 13316,
+        "endTime": 15187,
+        "slowStartTime": 20124,
+        "slowEndTime": 23006
+    },
+    {
+        "text": "See you later, alligator.",
+        "startTime": 18873,
+        "endTime": 22125,
+        "slowStartTime": 28460,
+        "slowEndTime": 33412
+    },
+    {
+        "text": "Bye bye bye, butterfly.",
+        "startTime": 22525,
+        "endTime": 25729,
+        "slowStartTime": 33938,
+        "slowEndTime": 38818
+    },
+    {
+        "text": "Goodbye.",
+        "startTime": 30829,
+        "endTime": 31803,
+        "slowStartTime": 46393,
+        "slowEndTime": 47930
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Canned messages may also be used to shortcut typing out a standard response.",
+        "startTime": 345,
+        "endTime": 4675,
+        "slowStartTime": 668,
+        "slowEndTime": 7237
+    },
+    {
+        "text": "This can save the agent typing time...",
+        "startTime": 5597,
+        "endTime": 7381,
+        "slowStartTime": 8545,
+        "slowEndTime": 11297
+    },
+    {
+        "text": "...but also saves the agent having to check details themselves...",
+        "startTime": 7654,
+        "endTime": 10499,
+        "slowStartTime": 11631,
+        "slowEndTime": 15973
+    },
+    {
+        "text": "...and reduces the risk of error.",
+        "startTime": 10689,
+        "endTime": 12357,
+        "slowStartTime": 16184,
+        "slowEndTime": 18760
+    },
+    {
+        "text": "Can you tell me how much your standard packages cost?",
+        "startTime": 13590,
+        "endTime": 15996,
+        "slowStartTime": 20535,
+        "slowEndTime": 24219
+    },
+    {
+        "text": "Packages range from 39 dollars a month to 59 dollars a month...",
+        "startTime": 16683,
+        "endTime": 20067,
+        "slowStartTime": 25175,
+        "slowEndTime": 30325
+    },
+    {
+        "text": "...depending on a couple of variables like how many users you require...",
+        "startTime": 20269,
+        "endTime": 23436,
+        "slowStartTime": 30553,
+        "slowEndTime": 35379
+    },
+    {
+        "text": "...and which features you need.",
+        "startTime": 23689,
+        "endTime": 24857,
+        "slowStartTime": 35683,
+        "slowEndTime": 37510
+    },
+    {
+        "text": "How many staff do you have?",
+        "startTime": 25387,
+        "endTime": 26542,
+        "slowStartTime": 38231,
+        "slowEndTime": 40038
+    },
+    {
+        "text": "Using a canned response in this scenario made the interaction quicker...",
+        "startTime": 27203,
+        "endTime": 31150,
+        "slowStartTime": 40955,
+        "slowEndTime": 46950
+    },
+    {
+        "text": "...and also eliminated the chance of making an error.",
+        "startTime": 31327,
+        "endTime": 33607,
+        "slowStartTime": 47140,
+        "slowEndTime": 50636
+    },
+    {
+        "text": "Remember to be selective in your use of canned responses.",
+        "startTime": 33826,
+        "endTime": 36735,
+        "slowStartTime": 50889,
+        "slowEndTime": 55328
+    },
+    {
+        "text": "Don't use them automatically.",
+        "startTime": 36915,
+        "endTime": 38436,
+        "slowStartTime": 55522,
+        "slowEndTime": 57879
+    },
+    {
+        "text": "Use them selectively when appropriate for the situation.",
+        "startTime": 38757,
+        "endTime": 41774,
+        "slowStartTime": 58285,
+        "slowEndTime": 62886
+    }
+]

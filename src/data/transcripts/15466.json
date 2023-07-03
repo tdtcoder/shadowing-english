@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Hello! My name is Rishi Anand,...",
+        "startTime": 1340,
+        "endTime": 3147,
+        "slowStartTime": 2160,
+        "slowEndTime": 4945
+    },
+    {
+        "text": "...founder and CEO of Venture Giant worldwide.",
+        "startTime": 3433,
+        "endTime": 5883,
+        "slowStartTime": 5299,
+        "slowEndTime": 9050
+    },
+    {
+        "text": "Venture Giant is the premier Indian business angel investment network...",
+        "startTime": 6357,
+        "endTime": 10465,
+        "slowStartTime": 9686,
+        "slowEndTime": 15923
+    },
+    {
+        "text": "...that connects Indian entrepreneurs with real-life investors.",
+        "startTime": 10781,
+        "endTime": 14375,
+        "slowStartTime": 16322,
+        "slowEndTime": 21787
+    },
+    {
+        "text": "As an entrepreneur, a simple and fast registration process...",
+        "startTime": 14801,
+        "endTime": 18063,
+        "slowStartTime": 22352,
+        "slowEndTime": 27319
+    },
+    {
+        "text": "...ensures that your investment proposal will be sent out to the right investors.",
+        "startTime": 18160,
+        "endTime": 22589,
+        "slowStartTime": 27390,
+        "slowEndTime": 34109
+    },
+    {
+        "text": "As an investor, you can sign up to receive free filtered deal flow.",
+        "startTime": 22994,
+        "endTime": 27450,
+        "slowStartTime": 34641,
+        "slowEndTime": 41400
+    },
+    {
+        "text": "To begin, please select whether you're an entrepreneur looking for funding,...",
+        "startTime": 27773,
+        "endTime": 31101,
+        "slowStartTime": 41809,
+        "slowEndTime": 46876
+    },
+    {
+        "text": "...or if you're an investor looking to access some of India's most talented and innovative entrepreneurs.",
+        "startTime": 32067,
+        "endTime": 38165,
+        "slowStartTime": 48251,
+        "slowEndTime": 57473
+    }
+]

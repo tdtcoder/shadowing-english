@@ -1,0 +1,93 @@
+[
+    {
+        "text": "In Iran, at least 40 people were killed and more than 200 injured...",
+        "startTime": 3364,
+        "endTime": 8423,
+        "slowStartTime": 5196,
+        "slowEndTime": 12860
+    },
+    {
+        "text": "...in a stampede at the crowded funeral for Qassem Soleimani, state television reports.",
+        "startTime": 9001,
+        "endTime": 14669,
+        "slowStartTime": 13652,
+        "slowEndTime": 22228
+    },
+    {
+        "text": "In the US, Secretary of State Mike Pompeo says Qassem Soleimani...",
+        "startTime": 17422,
+        "endTime": 22313,
+        "slowStartTime": 26283,
+        "slowEndTime": 33695
+    },
+    {
+        "text": "...posed a distinct threat to Americans in the Middle East,...",
+        "startTime": 22605,
+        "endTime": 25705,
+        "slowStartTime": 34057,
+        "slowEndTime": 38782
+    },
+    {
+        "text": "...but again publicly offered no specific evidence of any attack he was about to carry out.",
+        "startTime": 26244,
+        "endTime": 31709,
+        "slowStartTime": 39516,
+        "slowEndTime": 47788
+    },
+    {
+        "text": "In Venezuela, opposition leader Juan Guaido and several dozen deputies...",
+        "startTime": 33932,
+        "endTime": 39068,
+        "slowStartTime": 51048,
+        "slowEndTime": 58827
+    },
+    {
+        "text": "...who support him as President of Parliament forcibly entered the Legislative Palace,...",
+        "startTime": 39170,
+        "endTime": 44406,
+        "slowStartTime": 58905,
+        "slowEndTime": 66834
+    },
+    {
+        "text": "...after being held for almost an hour by the militarized police.",
+        "startTime": 44801,
+        "endTime": 48800,
+        "slowStartTime": 67352,
+        "slowEndTime": 73425
+    },
+    {
+        "text": "A series of earthquakes, including a 6.4 magnitude quake, have struck the island of Puerto Rico,...",
+        "startTime": 51805,
+        "endTime": 58763,
+        "slowStartTime": 77858,
+        "slowEndTime": 88369
+    },
+    {
+        "text": "...causing heavy damage in some areas and cutting power to a large part of the island.",
+        "startTime": 59127,
+        "endTime": 64201,
+        "slowStartTime": 88840,
+        "slowEndTime": 96526
+    },
+    {
+        "text": "Finally from Australia, rain and cooler temperatures have allowed firefighters...",
+        "startTime": 66785,
+        "endTime": 71777,
+        "slowStartTime": 100328,
+        "slowEndTime": 107891
+    },
+    {
+        "text": "...to shore up defenses against the massive bushfires...",
+        "startTime": 72021,
+        "endTime": 75093,
+        "slowStartTime": 108182,
+        "slowEndTime": 112864
+    },
+    {
+        "text": "...that have burned millions of hectares over three months.",
+        "startTime": 75327,
+        "endTime": 78357,
+        "slowStartTime": 113141,
+        "slowEndTime": 117761
+    }
+]

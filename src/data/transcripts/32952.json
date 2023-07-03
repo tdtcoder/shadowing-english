@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Wash your hands.",
+        "startTime": 4896,
+        "endTime": 5899,
+        "slowStartTime": 7494,
+        "slowEndTime": 9073
+    },
+    {
+        "text": "Wash your hands.",
+        "startTime": 6103,
+        "endTime": 7105,
+        "slowStartTime": 9304,
+        "slowEndTime": 10883
+    },
+    {
+        "text": "Wash your hands with soap.",
+        "startTime": 7291,
+        "endTime": 8851,
+        "slowStartTime": 11086,
+        "slowEndTime": 13501
+    },
+    {
+        "text": "Wash, wash, wash.",
+        "startTime": 12070,
+        "endTime": 13157,
+        "slowStartTime": 18255,
+        "slowEndTime": 19960
+    },
+    {
+        "text": "Bubble, bubble, bubble.",
+        "startTime": 14453,
+        "endTime": 16023,
+        "slowStartTime": 21829,
+        "slowEndTime": 24260
+    },
+    {
+        "text": "Wash, wash, wash.",
+        "startTime": 16858,
+        "endTime": 17891,
+        "slowStartTime": 25437,
+        "slowEndTime": 27062
+    },
+    {
+        "text": "Bubble, bubble, bubble.",
+        "startTime": 19250,
+        "endTime": 20871,
+        "slowStartTime": 29025,
+        "slowEndTime": 31531
+    },
+    {
+        "text": "Rinse your hands.",
+        "startTime": 26315,
+        "endTime": 27255,
+        "slowStartTime": 39622,
+        "slowEndTime": 41108
+    },
+    {
+        "text": "Rinse your hands.",
+        "startTime": 27510,
+        "endTime": 28451,
+        "slowStartTime": 41415,
+        "slowEndTime": 42901
+    },
+    {
+        "text": "Rinse your hands with water.",
+        "startTime": 28696,
+        "endTime": 30813,
+        "slowStartTime": 43194,
+        "slowEndTime": 46445
+    },
+    {
+        "text": "Shake, shake, shake.",
+        "startTime": 33366,
+        "endTime": 34491,
+        "slowStartTime": 50199,
+        "slowEndTime": 51961
+    },
+    {
+        "text": "Oh no, stop it!",
+        "startTime": 35527,
+        "endTime": 37539,
+        "slowStartTime": 53440,
+        "slowEndTime": 56533
+    },
+    {
+        "text": "Shake, shake, shake.",
+        "startTime": 38117,
+        "endTime": 39233,
+        "slowStartTime": 57326,
+        "slowEndTime": 59074
+    },
+    {
+        "text": "Dry your hands with a towel!",
+        "startTime": 40509,
+        "endTime": 45711,
+        "slowStartTime": 60914,
+        "slowEndTime": 68792
+    },
+    {
+        "text": "Now, you're ready to eat.",
+        "startTime": 45907,
+        "endTime": 47693,
+        "slowStartTime": 69010,
+        "slowEndTime": 71764
+    }
+]

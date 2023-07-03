@@ -1,0 +1,226 @@
+[
+    {
+        "text": "My name is Allan Quatermain.",
+        "startTime": 3450,
+        "endTime": 5300,
+        "slowStartTime": 5400,
+        "slowEndTime": 8150
+    },
+    {
+        "text": "It has been about eighteen months since I first met Sir Henry Curtis and Captain John Good.",
+        "startTime": 5600,
+        "endTime": 11050,
+        "slowStartTime": 8650,
+        "slowEndTime": 16750
+    },
+    {
+        "text": "I was on board the Dunkeld on my way home to Natal after a month of elephant hunting.",
+        "startTime": 11700,
+        "endTime": 17100,
+        "slowStartTime": 17700,
+        "slowEndTime": 25800
+    },
+    {
+        "text": "At the end of dinner,...",
+        "startTime": 17767,
+        "endTime": 18850,
+        "slowStartTime": 26800,
+        "slowEndTime": 28500
+    },
+    {
+        "text": "...Sir Henry asked me to go to his cabin and have a whisky with him.",
+        "startTime": 19131,
+        "endTime": 22982,
+        "slowStartTime": 28847,
+        "slowEndTime": 34698
+    },
+    {
+        "text": "As soon as my glass was full, he said,...",
+        "startTime": 23600,
+        "endTime": 26050,
+        "slowStartTime": 35600,
+        "slowEndTime": 39050
+    },
+    {
+        "text": "...\"Mr. Quatermain, I believe that at about this time last year,...",
+        "startTime": 26233,
+        "endTime": 30063,
+        "slowStartTime": 39500,
+        "slowEndTime": 45320
+    },
+    {
+        "text": "...you were at a place called Bamangwato.\"",
+        "startTime": 30435,
+        "endTime": 32627,
+        "slowStartTime": 45803,
+        "slowEndTime": 49166
+    },
+    {
+        "text": "\"That is so,\" I said.",
+        "startTime": 33150,
+        "endTime": 35100,
+        "slowStartTime": 49900,
+        "slowEndTime": 52800
+    },
+    {
+        "text": "\"Did you meet a man called Neville?\" He asked me next.",
+        "startTime": 35550,
+        "endTime": 39300,
+        "slowStartTime": 53500,
+        "slowEndTime": 59150
+    },
+    {
+        "text": "\"George Neville.\"",
+        "startTime": 39500,
+        "endTime": 40500,
+        "slowStartTime": 59450,
+        "slowEndTime": 61000
+    },
+    {
+        "text": "\"I did,\" I replied.",
+        "startTime": 41150,
+        "endTime": 43000,
+        "slowStartTime": 61900,
+        "slowEndTime": 64700
+    },
+    {
+        "text": "Sir Henry drank a little of his whisky,...",
+        "startTime": 43750,
+        "endTime": 46250,
+        "slowStartTime": 65800,
+        "slowEndTime": 69600
+    },
+    {
+        "text": "...then said, \"Mr. George Neville is my brother.\"",
+        "startTime": 46500,
+        "endTime": 49800,
+        "slowStartTime": 69900,
+        "slowEndTime": 74900
+    },
+    {
+        "text": "For a few moments, Sir Henry was silent,...",
+        "startTime": 50700,
+        "endTime": 53100,
+        "slowStartTime": 76250,
+        "slowEndTime": 79800
+    },
+    {
+        "text": "...then he said,...",
+        "startTime": 53400,
+        "endTime": 54643,
+        "slowStartTime": 80250,
+        "slowEndTime": 82189
+    },
+    {
+        "text": "\"Mr. Quatermain, will you please tell me everything you know about my brother, Neville?\"",
+        "startTime": 54977,
+        "endTime": 60029,
+        "slowStartTime": 82616,
+        "slowEndTime": 90268
+    },
+    {
+        "text": "I drank a little of my whisky and then said,...",
+        "startTime": 60650,
+        "endTime": 63350,
+        "slowStartTime": 91150,
+        "slowEndTime": 95250
+    },
+    {
+        "text": "...\"Your brother wanted to find King Solomon's Mines.\"",
+        "startTime": 64050,
+        "endTime": 67500,
+        "slowStartTime": 96300,
+        "slowEndTime": 101500
+    },
+    {
+        "text": "\"That is why he set out for Inyati.\"",
+        "startTime": 68000,
+        "endTime": 70350,
+        "slowStartTime": 102200,
+        "slowEndTime": 105800
+    },
+    {
+        "text": "\"I spoke to his servant, a Bechuana we called Jim.\"",
+        "startTime": 71400,
+        "endTime": 75400,
+        "slowStartTime": 107300,
+        "slowEndTime": 113300
+    },
+    {
+        "text": "\"Where are you and your master going?\" I asked him.",
+        "startTime": 76050,
+        "endTime": 79100,
+        "slowStartTime": 114250,
+        "slowEndTime": 118800
+    },
+    {
+        "text": "\"To Suliman country,\" he replied,...",
+        "startTime": 79850,
+        "endTime": 82050,
+        "slowStartTime": 119950,
+        "slowEndTime": 123300
+    },
+    {
+        "text": "...\"to find the diamonds.\"",
+        "startTime": 82250,
+        "endTime": 83450,
+        "slowStartTime": 123600,
+        "slowEndTime": 125400
+    },
+    {
+        "text": "\"You'll die,\" I told him.",
+        "startTime": 84100,
+        "endTime": 86050,
+        "slowStartTime": 126300,
+        "slowEndTime": 129300
+    },
+    {
+        "text": "\"No one has ever come back from there alive.\"",
+        "startTime": 86700,
+        "endTime": 89350,
+        "slowStartTime": 130250,
+        "slowEndTime": 134200
+    },
+    {
+        "text": "\"I can't stop him from going,\" Jim said.",
+        "startTime": 90000,
+        "endTime": 92650,
+        "slowStartTime": 135200,
+        "slowEndTime": 139300
+    },
+    {
+        "text": "Sir Henry said, \"Mr. Quatermain, I am going to look for my brother.\"",
+        "startTime": 93400,
+        "endTime": 98500,
+        "slowStartTime": 140300,
+        "slowEndTime": 148000
+    },
+    {
+        "text": "\"Will you help me?\"",
+        "startTime": 98900,
+        "endTime": 99850,
+        "slowStartTime": 148500,
+        "slowEndTime": 150000
+    },
+    {
+        "text": "\"I will pay you whatever you ask if you will come with me,\" Sir Henry said.",
+        "startTime": 100400,
+        "endTime": 105400,
+        "slowStartTime": 150800,
+        "slowEndTime": 158325
+    },
+    {
+        "text": "\"I am a rich man.\"",
+        "startTime": 105550,
+        "endTime": 106750,
+        "slowStartTime": 158500,
+        "slowEndTime": 160400
+    },
+    {
+        "text": "\"I can make you one, too.\"",
+        "startTime": 107100,
+        "endTime": 108950,
+        "slowStartTime": 160800,
+        "slowEndTime": 163400
+    }
+]

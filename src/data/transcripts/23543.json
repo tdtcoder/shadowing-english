@@ -1,0 +1,72 @@
+[
+    {
+        "text": "﻿2014 was the hottest year on record.",
+        "startTime": 697,
+        "endTime": 4053,
+        "slowStartTime": 1196,
+        "slowEndTime": 6304
+    },
+    {
+        "text": "The finding was announced today in a new report...",
+        "startTime": 4458,
+        "endTime": 6937,
+        "slowStartTime": 6837,
+        "slowEndTime": 10631
+    },
+    {
+        "text": "...from NASA's Goddard Institute for Space Studies in New York.",
+        "startTime": 7116,
+        "endTime": 10292,
+        "slowStartTime": 10824,
+        "slowEndTime": 15663
+    },
+    {
+        "text": "Since temperature records began in 1880,...",
+        "startTime": 10929,
+        "endTime": 13675,
+        "slowStartTime": 16544,
+        "slowEndTime": 20737
+    },
+    {
+        "text": "...the global average has increased by 1.4 degrees Fahrenheit.",
+        "startTime": 14051,
+        "endTime": 17631,
+        "slowStartTime": 21226,
+        "slowEndTime": 26672
+    },
+    {
+        "text": "Scientists expect global and regional fluctuations in temperature...",
+        "startTime": 18153,
+        "endTime": 21722,
+        "slowStartTime": 27380,
+        "slowEndTime": 32808
+    },
+    {
+        "text": "...from year to year due to changing weather patterns.",
+        "startTime": 22001,
+        "endTime": 24689,
+        "slowStartTime": 33152,
+        "slowEndTime": 37259
+    },
+    {
+        "text": "When looking at decades worth of data, the ranking of 2014 as the hottest year...",
+        "startTime": 25001,
+        "endTime": 30065,
+        "slowStartTime": 37651,
+        "slowEndTime": 45323
+    },
+    {
+        "text": "...reinforces the long-term trend of rising global temperatures.",
+        "startTime": 30484,
+        "endTime": 34225,
+        "slowStartTime": 45876,
+        "slowEndTime": 51562
+    },
+    {
+        "text": "A trend driven by the increase of carbon dioxide levels in the atmosphere.",
+        "startTime": 34507,
+        "endTime": 38817,
+        "slowStartTime": 51911,
+        "slowEndTime": 58451
+    }
+]

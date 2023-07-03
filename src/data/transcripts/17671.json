@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Her dog is loved by all her family.",
+        "startTime": 2802,
+        "endTime": 5963,
+        "slowStartTime": 4353,
+        "slowEndTime": 9169
+    },
+    {
+        "text": "But all her family is very busy.",
+        "startTime": 7167,
+        "endTime": 10009,
+        "slowStartTime": 10901,
+        "slowEndTime": 15238
+    },
+    {
+        "text": "Who takes care of the dog?",
+        "startTime": 10591,
+        "endTime": 12228,
+        "slowStartTime": 16036,
+        "slowEndTime": 18567
+    },
+    {
+        "text": "Her mom makes Jake take care of it.",
+        "startTime": 13353,
+        "endTime": 15857,
+        "slowStartTime": 20179,
+        "slowEndTime": 24011
+    },
+    {
+        "text": "My dad fixes everything!",
+        "startTime": 20142,
+        "endTime": 22443,
+        "slowStartTime": 30363,
+        "slowEndTime": 33890
+    },
+    {
+        "text": "Mom always gets him to fix the radio, TV, computer and so on.",
+        "startTime": 23070,
+        "endTime": 28567,
+        "slowStartTime": 34755,
+        "slowEndTime": 43075
+    },
+    {
+        "text": "Can he fix them all?",
+        "startTime": 29812,
+        "endTime": 31613,
+        "slowStartTime": 44868,
+        "slowEndTime": 47644
+    },
+    {
+        "text": "Sure.",
+        "startTime": 32745,
+        "endTime": 33421,
+        "slowStartTime": 49267,
+        "slowEndTime": 50356
+    },
+    {
+        "text": "This computer was also fixed by him.",
+        "startTime": 33918,
+        "endTime": 36913,
+        "slowStartTime": 51027,
+        "slowEndTime": 55595
+    },
+    {
+        "text": "Who will come to Amy's birthday party?",
+        "startTime": 39981,
+        "endTime": 42583,
+        "slowStartTime": 60122,
+        "slowEndTime": 64099
+    },
+    {
+        "text": "I heard Alex and Paula were invited by her.",
+        "startTime": 43807,
+        "endTime": 47511,
+        "slowStartTime": 65860,
+        "slowEndTime": 71492
+    },
+    {
+        "text": "Flora is not coming?",
+        "startTime": 48573,
+        "endTime": 50255,
+        "slowStartTime": 73009,
+        "slowEndTime": 75607
+    },
+    {
+        "text": "I'll have Amy invite her to the birthday party.",
+        "startTime": 51091,
+        "endTime": 54266,
+        "slowStartTime": 76786,
+        "slowEndTime": 81624
+    }
+]

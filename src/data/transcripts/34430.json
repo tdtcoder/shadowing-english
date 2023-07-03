@@ -1,0 +1,72 @@
+[
+    {
+        "text": "In Indonesia, the death toll has climbed to 28...",
+        "startTime": 4547,
+        "endTime": 8762,
+        "slowStartTime": 6970,
+        "slowEndTime": 13368
+    },
+    {
+        "text": "...following a bus crash that also left 13 people injured on Sumatra island.",
+        "startTime": 9218,
+        "endTime": 14919,
+        "slowStartTime": 13977,
+        "slowEndTime": 22603
+    },
+    {
+        "text": "In Hong Kong, protesters clashed with police in the busy tourist area of Tsim Sha Tsui,...",
+        "startTime": 17435,
+        "endTime": 24114,
+        "slowStartTime": 26302,
+        "slowEndTime": 36396
+    },
+    {
+        "text": "...in several shopping malls, as months-long pro-democracy protests continued.",
+        "startTime": 24331,
+        "endTime": 30024,
+        "slowStartTime": 36647,
+        "slowEndTime": 45261
+    },
+    {
+        "text": "Areas of Australia that have experienced wildfires saw relief,...",
+        "startTime": 32187,
+        "endTime": 36417,
+        "slowStartTime": 48431,
+        "slowEndTime": 54851
+    },
+    {
+        "text": "...but oppressive conditions are expected to return in the coming days.",
+        "startTime": 37002,
+        "endTime": 41285,
+        "slowStartTime": 55653,
+        "slowEndTime": 62152
+    },
+    {
+        "text": "In Chile, a forest fire on Christmas Eve has destroyed dozens of homes in Valparaiso,...",
+        "startTime": 44768,
+        "endTime": 51225,
+        "slowStartTime": 67302,
+        "slowEndTime": 77063
+    },
+    {
+        "text": "...about 120 kilometers west of Santiago.",
+        "startTime": 51617,
+        "endTime": 55052,
+        "slowStartTime": 77576,
+        "slowEndTime": 82803
+    },
+    {
+        "text": "Thousands of Christian pilgrims flocked to the West Bank town of Bethlehem,...",
+        "startTime": 58424,
+        "endTime": 63552,
+        "slowStartTime": 87786,
+        "slowEndTime": 95553
+    },
+    {
+        "text": "...celebrating Christmas in what Christians believe is the traditional birthplace of Jesus.",
+        "startTime": 64047,
+        "endTime": 69599,
+        "slowStartTime": 96221,
+        "slowEndTime": 104624
+    }
+]

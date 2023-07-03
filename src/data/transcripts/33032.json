@@ -1,0 +1,114 @@
+[
+    {
+        "text": "To compete with Airbus,...",
+        "startTime": 607,
+        "endTime": 1540,
+        "slowStartTime": 1060,
+        "slowEndTime": 2535
+    },
+    {
+        "text": "...Boeing's obvious move was to upgrade the engine on their single-aisle plane, the 737,...",
+        "startTime": 1744,
+        "endTime": 6290,
+        "slowStartTime": 2766,
+        "slowEndTime": 9660
+    },
+    {
+        "text": "...but there is one issue.",
+        "startTime": 6530,
+        "endTime": 7710,
+        "slowStartTime": 9945,
+        "slowEndTime": 11790
+    },
+    {
+        "text": "Here's a sketch of the 737 next to the Airbus A320.",
+        "startTime": 8603,
+        "endTime": 11915,
+        "slowStartTime": 13055,
+        "slowEndTime": 18098
+    },
+    {
+        "text": "Notice how the 737 is lower to the ground than the A320.",
+        "startTime": 13399,
+        "endTime": 16751,
+        "slowStartTime": 20249,
+        "slowEndTime": 25352
+    },
+    {
+        "text": "This meant Airbus could slide a new engine under the wing of their A320,...",
+        "startTime": 17385,
+        "endTime": 20621,
+        "slowStartTime": 26227,
+        "slowEndTime": 31156
+    },
+    {
+        "text": "...but there wasn't enough room under the wing of the Boeing 737.",
+        "startTime": 21894,
+        "endTime": 24920,
+        "slowStartTime": 32991,
+        "slowEndTime": 37605
+    },
+    {
+        "text": "Their solution was to move up the engine on the wing so that it would be slightly higher....",
+        "startTime": 26263,
+        "endTime": 30768,
+        "slowStartTime": 39544,
+        "slowEndTime": 46377
+    },
+    {
+        "text": "...and it would fit on their 737s.",
+        "startTime": 31267,
+        "endTime": 32957,
+        "slowStartTime": 47051,
+        "slowEndTime": 49661
+    },
+    {
+        "text": "When the 737 MAX was in full thrust, like during takeoff,...",
+        "startTime": 34195,
+        "endTime": 37477,
+        "slowStartTime": 51443,
+        "slowEndTime": 56440
+    },
+    {
+        "text": "...the nose tended to point too far upward, which could lead to a stall.",
+        "startTime": 37998,
+        "endTime": 41175,
+        "slowStartTime": 57147,
+        "slowEndTime": 61987
+    },
+    {
+        "text": "This was a problem because these planes were supposed to behave exactly like the old ones,...",
+        "startTime": 41849,
+        "endTime": 46287,
+        "slowStartTime": 62924,
+        "slowEndTime": 69655
+    },
+    {
+        "text": "...so Boeing came up with a workaround.",
+        "startTime": 46889,
+        "endTime": 48471,
+        "slowStartTime": 70484,
+        "slowEndTime": 72932
+    },
+    {
+        "text": "Instead of re-engineering the planes,...",
+        "startTime": 49634,
+        "endTime": 51333,
+        "slowStartTime": 74601,
+        "slowEndTime": 77225
+    },
+    {
+        "text": "...they installed software that automatically pushed the nose downward...",
+        "startTime": 51750,
+        "endTime": 55009,
+        "slowStartTime": 77775,
+        "slowEndTime": 82739
+    },
+    {
+        "text": "...if the pilot flew the plane at too high of an angle.",
+        "startTime": 55107,
+        "endTime": 57321,
+        "slowStartTime": 82810,
+        "slowEndTime": 86207
+    }
+]

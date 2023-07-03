@@ -1,0 +1,79 @@
+[
+    {
+        "text": "What time is it now?",
+        "startTime": 2401,
+        "endTime": 3707,
+        "slowStartTime": 3752,
+        "slowEndTime": 5786
+    },
+    {
+        "text": "It's midnight.",
+        "startTime": 5677,
+        "endTime": 7149,
+        "slowStartTime": 8666,
+        "slowEndTime": 10948
+    },
+    {
+        "text": "Okay.",
+        "startTime": 7395,
+        "endTime": 7857,
+        "slowStartTime": 11243,
+        "slowEndTime": 12010
+    },
+    {
+        "text": "Please wake me up at 6 o'clock.",
+        "startTime": 8279,
+        "endTime": 10936,
+        "slowStartTime": 12569,
+        "slowEndTime": 16629
+    },
+    {
+        "text": "Wow, why will you wake up so early?",
+        "startTime": 11214,
+        "endTime": 14412,
+        "slowStartTime": 16971,
+        "slowEndTime": 21843
+    },
+    {
+        "text": "I have a meeting tomorrow morning.",
+        "startTime": 14985,
+        "endTime": 17066,
+        "slowStartTime": 22628,
+        "slowEndTime": 25824
+    },
+    {
+        "text": "What time is your meeting?",
+        "startTime": 17462,
+        "endTime": 19210,
+        "slowStartTime": 26343,
+        "slowEndTime": 29040
+    },
+    {
+        "text": "My meeting is at 9 o'clock.",
+        "startTime": 19925,
+        "endTime": 22291,
+        "slowStartTime": 30037,
+        "slowEndTime": 33662
+    },
+    {
+        "text": "Well, why are you waking up so early?",
+        "startTime": 22739,
+        "endTime": 25696,
+        "slowStartTime": 34259,
+        "slowEndTime": 38769
+    },
+    {
+        "text": "The meeting is at Bob's office.",
+        "startTime": 25926,
+        "endTime": 27964,
+        "slowStartTime": 39039,
+        "slowEndTime": 42171
+    },
+    {
+        "text": "It is an hour and a half from here.",
+        "startTime": 28466,
+        "endTime": 30719,
+        "slowStartTime": 42849,
+        "slowEndTime": 46303
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Clay.",
+        "startTime": 2910,
+        "endTime": 3468,
+        "slowStartTime": 4515,
+        "slowEndTime": 5427
+    },
+    {
+        "text": "I like clay.",
+        "startTime": 4285,
+        "endTime": 5459,
+        "slowStartTime": 6577,
+        "slowEndTime": 8414
+    },
+    {
+        "text": "I like to play with clay.",
+        "startTime": 6945,
+        "endTime": 8861,
+        "slowStartTime": 10567,
+        "slowEndTime": 13517
+    },
+    {
+        "text": "Pay.",
+        "startTime": 10307,
+        "endTime": 10831,
+        "slowStartTime": 15610,
+        "slowEndTime": 16472
+    },
+    {
+        "text": "Today she will pay.",
+        "startTime": 11609,
+        "endTime": 13111,
+        "slowStartTime": 17563,
+        "slowEndTime": 19891
+    },
+    {
+        "text": "Today she will pay for lunch.",
+        "startTime": 14529,
+        "endTime": 16519,
+        "slowStartTime": 21943,
+        "slowEndTime": 25003
+    },
+    {
+        "text": "Pray.",
+        "startTime": 17891,
+        "endTime": 18391,
+        "slowStartTime": 26987,
+        "slowEndTime": 27811
+    },
+    {
+        "text": "I pray.",
+        "startTime": 19247,
+        "endTime": 20106,
+        "slowStartTime": 29020,
+        "slowEndTime": 30384
+    },
+    {
+        "text": "I pray every night.",
+        "startTime": 21502,
+        "endTime": 23031,
+        "slowStartTime": 32403,
+        "slowEndTime": 34772
+    },
+    {
+        "text": "Tray.",
+        "startTime": 24493,
+        "endTime": 24999,
+        "slowStartTime": 36890,
+        "slowEndTime": 37724
+    },
+    {
+        "text": "I put food on a tray.",
+        "startTime": 25864,
+        "endTime": 27810,
+        "slowStartTime": 38946,
+        "slowEndTime": 41940
+    },
+    {
+        "text": "I put good food on a tray.",
+        "startTime": 29203,
+        "endTime": 31587,
+        "slowStartTime": 43955,
+        "slowEndTime": 47605
+    },
+    {
+        "text": "Ted and Peg go on a picnic.",
+        "startTime": 38981,
+        "endTime": 42178,
+        "slowStartTime": 58622,
+        "slowEndTime": 63492
+    },
+    {
+        "text": "Ted puts in cheese, cheese, cheese.",
+        "startTime": 42712,
+        "endTime": 45361,
+        "slowStartTime": 64218,
+        "slowEndTime": 68266
+    },
+    {
+        "text": "Peg puts in sandwiches, sandwiches, sandwiches.",
+        "startTime": 46458,
+        "endTime": 50043,
+        "slowStartTime": 69837,
+        "slowEndTime": 75289
+    },
+    {
+        "text": "Ted puts in chips, chips, chips.",
+        "startTime": 50232,
+        "endTime": 52682,
+        "slowStartTime": 75498,
+        "slowEndTime": 79248
+    },
+    {
+        "text": "Peg puts in soda, soda, soda.",
+        "startTime": 53990,
+        "endTime": 56262,
+        "slowStartTime": 81135,
+        "slowEndTime": 84618
+    },
+    {
+        "text": "Ted puts in apples, apples, apples.",
+        "startTime": 57740,
+        "endTime": 60464,
+        "slowStartTime": 86760,
+        "slowEndTime": 90921
+    },
+    {
+        "text": "Peg puts in cookies, cookies, cookies.",
+        "startTime": 61445,
+        "endTime": 64103,
+        "slowStartTime": 92318,
+        "slowEndTime": 96380
+    },
+    {
+        "text": "Oops!",
+        "startTime": 65186,
+        "endTime": 65844,
+        "slowStartTime": 97929,
+        "slowEndTime": 98991
+    },
+    {
+        "text": "Who put in the mouse?",
+        "startTime": 66156,
+        "endTime": 68325,
+        "slowStartTime": 99384,
+        "slowEndTime": 102713
+    }
+]

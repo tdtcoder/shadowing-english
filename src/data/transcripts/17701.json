@@ -1,0 +1,72 @@
+[
+    {
+        "text": "I wonder what Jack is doing.",
+        "startTime": 2727,
+        "endTime": 4558,
+        "slowStartTime": 4240,
+        "slowEndTime": 7062
+    },
+    {
+        "text": "It is time that he should go to school.",
+        "startTime": 5503,
+        "endTime": 7841,
+        "slowStartTime": 8404,
+        "slowEndTime": 11987
+    },
+    {
+        "text": "I'll find out what he is doing, Mom.",
+        "startTime": 8852,
+        "endTime": 11026,
+        "slowStartTime": 13428,
+        "slowEndTime": 16764
+    },
+    {
+        "text": "Jack, what are you doing? Time to go to school!",
+        "startTime": 11733,
+        "endTime": 15990,
+        "slowStartTime": 17749,
+        "slowEndTime": 24210
+    },
+    {
+        "text": "It's already 4 p.m. It's time to take a swimming lesson.",
+        "startTime": 17227,
+        "endTime": 21107,
+        "slowStartTime": 25991,
+        "slowEndTime": 31886
+    },
+    {
+        "text": "I wonder how we are going to the swimming pool.",
+        "startTime": 21799,
+        "endTime": 24484,
+        "slowStartTime": 32848,
+        "slowEndTime": 36951
+    },
+    {
+        "text": "Don't worry. Dad will give you a ride.",
+        "startTime": 25956,
+        "endTime": 28661,
+        "slowStartTime": 39084,
+        "slowEndTime": 43217
+    },
+    {
+        "text": "Let's go out and play soccer, Jeff.",
+        "startTime": 29633,
+        "endTime": 31881,
+        "slowStartTime": 44600,
+        "slowEndTime": 48047
+    },
+    {
+        "text": "Sorry, but I can't. It is time to do my math homework.",
+        "startTime": 33435,
+        "endTime": 38171,
+        "slowStartTime": 50302,
+        "slowEndTime": 57482
+    },
+    {
+        "text": "Umm, you are always busy. I wonder when you can play with me.",
+        "startTime": 39550,
+        "endTime": 44129,
+        "slowStartTime": 59475,
+        "slowEndTime": 66418
+    }
+]

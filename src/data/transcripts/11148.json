@@ -1,0 +1,93 @@
+[
+    {
+        "text": "This coffee shop is wonderful.",
+        "startTime": 2450,
+        "endTime": 4450,
+        "slowStartTime": 3850,
+        "slowEndTime": 6900
+    },
+    {
+        "text": "Thanks for bringing me here.",
+        "startTime": 4700,
+        "endTime": 6000,
+        "slowStartTime": 7250,
+        "slowEndTime": 9200
+    },
+    {
+        "text": "My pleasure, Linda.",
+        "startTime": 6450,
+        "endTime": 7400,
+        "slowStartTime": 9850,
+        "slowEndTime": 11300
+    },
+    {
+        "text": "So, Bob tells me you joined the company recently.",
+        "startTime": 7850,
+        "endTime": 10900,
+        "slowStartTime": 12000,
+        "slowEndTime": 16600
+    },
+    {
+        "text": "That's right.",
+        "startTime": 11150,
+        "endTime": 11800,
+        "slowStartTime": 16950,
+        "slowEndTime": 17950
+    },
+    {
+        "text": "I started applying for jobs last January and was hired in March.",
+        "startTime": 12300,
+        "endTime": 16300,
+        "slowStartTime": 18650,
+        "slowEndTime": 24650
+    },
+    {
+        "text": "What did you do before that?",
+        "startTime": 16900,
+        "endTime": 18300,
+        "slowStartTime": 25500,
+        "slowEndTime": 27550
+    },
+    {
+        "text": "Before that, I was a freelance consultant.",
+        "startTime": 18700,
+        "endTime": 21100,
+        "slowStartTime": 28250,
+        "slowEndTime": 31850
+    },
+    {
+        "text": "Really? I heard consultants earn great salaries.",
+        "startTime": 21400,
+        "endTime": 24550,
+        "slowStartTime": 32300,
+        "slowEndTime": 37050
+    },
+    {
+        "text": "Why did you quit that?",
+        "startTime": 24950,
+        "endTime": 26050,
+        "slowStartTime": 37650,
+        "slowEndTime": 39300
+    },
+    {
+        "text": "It was too stressful moving from job to job.",
+        "startTime": 26350,
+        "endTime": 29100,
+        "slowStartTime": 39750,
+        "slowEndTime": 43900
+    },
+    {
+        "text": "I wanted steadier work...",
+        "startTime": 29450,
+        "endTime": 30850,
+        "slowStartTime": 44400,
+        "slowEndTime": 46450
+    },
+    {
+        "text": "...and I have found the work I'm involved in now is very interesting and exciting.",
+        "startTime": 31250,
+        "endTime": 35400,
+        "slowStartTime": 47050,
+        "slowEndTime": 53300
+    }
+]

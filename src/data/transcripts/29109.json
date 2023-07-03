@@ -1,0 +1,128 @@
+[
+    {
+        "text": "My parents are squatting in an abandoned building on the Lower East Side.",
+        "startTime": 2715,
+        "endTime": 6133,
+        "slowStartTime": 4222,
+        "slowEndTime": 9424
+    },
+    {
+        "text": "Do you honestly tell me that you're happy right now?",
+        "startTime": 7011,
+        "endTime": 9871,
+        "slowStartTime": 10666,
+        "slowEndTime": 15031
+    },
+    {
+        "text": "Yes, I am.",
+        "startTime": 10219,
+        "endTime": 11435,
+        "slowStartTime": 15478,
+        "slowEndTime": 17378
+    },
+    {
+        "text": "We ain't like other people.",
+        "startTime": 16993,
+        "endTime": 18500,
+        "slowStartTime": 25640,
+        "slowEndTime": 27975
+    },
+    {
+        "text": "We got a fire burning in our bellies.",
+        "startTime": 18635,
+        "endTime": 21183,
+        "slowStartTime": 28102,
+        "slowEndTime": 32000
+    },
+    {
+        "text": "You were born to change the world, not just add to the noise.",
+        "startTime": 21373,
+        "endTime": 24513,
+        "slowStartTime": 32210,
+        "slowEndTime": 36994
+    },
+    {
+        "text": "Why do you think all of us ran away from you?",
+        "startTime": 24613,
+        "endTime": 26341,
+        "slowStartTime": 37069,
+        "slowEndTime": 39737
+    },
+    {
+        "text": "We were drowning.",
+        "startTime": 28195,
+        "endTime": 29087,
+        "slowStartTime": 42442,
+        "slowEndTime": 43856
+    },
+    {
+        "text": "I would never let anything bad happen to you.",
+        "startTime": 33239,
+        "endTime": 35428,
+        "slowStartTime": 50008,
+        "slowEndTime": 53367
+    },
+    {
+        "text": "But I can't let you cling to the side your whole life just because you're scared.",
+        "startTime": 35652,
+        "endTime": 39179,
+        "slowStartTime": 53628,
+        "slowEndTime": 58993
+    },
+    {
+        "text": "It was your job to protect us.",
+        "startTime": 39279,
+        "endTime": 41567,
+        "slowStartTime": 59068,
+        "slowEndTime": 62576
+    },
+    {
+        "text": "You have a right to be angry.",
+        "startTime": 42012,
+        "endTime": 43599,
+        "slowStartTime": 63168,
+        "slowEndTime": 65623
+    },
+    {
+        "text": "I know you love him.",
+        "startTime": 43706,
+        "endTime": 44799,
+        "slowStartTime": 65709,
+        "slowEndTime": 67424
+    },
+    {
+        "text": "You'll regret it if you don't come home.",
+        "startTime": 44973,
+        "endTime": 46561,
+        "slowStartTime": 67610,
+        "slowEndTime": 70066
+    },
+    {
+        "text": "You ready?",
+        "startTime": 48620,
+        "endTime": 49175,
+        "slowStartTime": 73080,
+        "slowEndTime": 73988
+    },
+    {
+        "text": "Let's go!",
+        "startTime": 52983,
+        "endTime": 53723,
+        "slowStartTime": 79624,
+        "slowEndTime": 80810
+    },
+    {
+        "text": "You ain't like me.",
+        "startTime": 58277,
+        "endTime": 59410,
+        "slowStartTime": 87566,
+        "slowEndTime": 89340
+    },
+    {
+        "text": "I am like you and I'm glad.",
+        "startTime": 59766,
+        "endTime": 61994,
+        "slowStartTime": 89799,
+        "slowEndTime": 93216
+    }
+]

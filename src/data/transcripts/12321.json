@@ -1,0 +1,100 @@
+[
+    {
+        "text": "So, who do you like in the upcoming election?",
+        "startTime": 2800,
+        "endTime": 5197,
+        "slowStartTime": 4350,
+        "slowEndTime": 8020
+    },
+    {
+        "text": "Uh-oh. You're not talking politics, are you?",
+        "startTime": 5490,
+        "endTime": 8683,
+        "slowStartTime": 8385,
+        "slowEndTime": 13249
+    },
+    {
+        "text": "My father always told me never to talk about politics or religion with people.",
+        "startTime": 8923,
+        "endTime": 13283,
+        "slowStartTime": 13535,
+        "slowEndTime": 20149
+    },
+    {
+        "text": "Really? Why's that?",
+        "startTime": 13397,
+        "endTime": 14639,
+        "slowStartTime": 20246,
+        "slowEndTime": 22184
+    },
+    {
+        "text": "It can only lead to trouble.",
+        "startTime": 14999,
+        "endTime": 16409,
+        "slowStartTime": 22649,
+        "slowEndTime": 24839
+    },
+    {
+        "text": "Better to talk about sports and movies and stuff like that.",
+        "startTime": 16647,
+        "endTime": 19937,
+        "slowStartTime": 25120,
+        "slowEndTime": 30130
+    },
+    {
+        "text": "That's boring and predictable. Come on!",
+        "startTime": 20086,
+        "endTime": 22427,
+        "slowStartTime": 30279,
+        "slowEndTime": 33866
+    },
+    {
+        "text": "Have you decided who you're going to vote for?",
+        "startTime": 22622,
+        "endTime": 24573,
+        "slowStartTime": 34083,
+        "slowEndTime": 37084
+    },
+    {
+        "text": "Man, you really want to drag it out of me, don't you?",
+        "startTime": 24855,
+        "endTime": 27883,
+        "slowStartTime": 37433,
+        "slowEndTime": 42050
+    },
+    {
+        "text": "Well? Have you?",
+        "startTime": 28028,
+        "endTime": 29410,
+        "slowStartTime": 42192,
+        "slowEndTime": 44340
+    },
+    {
+        "text": "Okay, fine! To be honest, I'm still undecided.",
+        "startTime": 29605,
+        "endTime": 33425,
+        "slowStartTime": 44557,
+        "slowEndTime": 50362
+    },
+    {
+        "text": "But I do know that I think it's time for a change at the top.",
+        "startTime": 33797,
+        "endTime": 36637,
+        "slowStartTime": 50846,
+        "slowEndTime": 55180
+    },
+    {
+        "text": "I see. Well, good news! I totally agree with you!",
+        "startTime": 36919,
+        "endTime": 40587,
+        "slowStartTime": 55528,
+        "slowEndTime": 61106
+    },
+    {
+        "text": "Now hold on, I said I was still undecided.",
+        "startTime": 40878,
+        "endTime": 43692,
+        "slowStartTime": 61467,
+        "slowEndTime": 65763
+    }
+]

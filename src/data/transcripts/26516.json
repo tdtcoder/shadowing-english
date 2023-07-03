@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Tom Brand had it all.",
+        "startTime": 2154,
+        "endTime": 3675,
+        "slowStartTime": 3381,
+        "slowEndTime": 5737
+    },
+    {
+        "text": "He earned billions.",
+        "startTime": 4437,
+        "endTime": 5847,
+        "slowStartTime": 6805,
+        "slowEndTime": 8996
+    },
+    {
+        "text": "Traveled the world on luxury yachts.",
+        "startTime": 6325,
+        "endTime": 8711,
+        "slowStartTime": 9637,
+        "slowEndTime": 13291
+    },
+    {
+        "text": "And owned homes in seven different time zones.",
+        "startTime": 9015,
+        "endTime": 12201,
+        "slowStartTime": 13673,
+        "slowEndTime": 18527
+    },
+    {
+        "text": "He built an empire from scratch.",
+        "startTime": 12823,
+        "endTime": 15014,
+        "slowStartTime": 19384,
+        "slowEndTime": 22746
+    },
+    {
+        "text": "Thousands called him the most powerful man in the world...",
+        "startTime": 15718,
+        "endTime": 19793,
+        "slowStartTime": 23727,
+        "slowEndTime": 29915
+    },
+    {
+        "text": "...and now they call him Mr. Fuzzy Pants.",
+        "startTime": 20488,
+        "endTime": 25621,
+        "slowStartTime": 30882,
+        "slowEndTime": 38657
+    },
+    {
+        "text": "You're gonna be stuck inside this cat until you make things right.",
+        "startTime": 26445,
+        "endTime": 29998,
+        "slowStartTime": 39817,
+        "slowEndTime": 45222
+    },
+    {
+        "text": "You're the best gift I ever got.",
+        "startTime": 34111,
+        "endTime": 35690,
+        "slowStartTime": 51316,
+        "slowEndTime": 53760
+    },
+    {
+        "text": "Just drown me.",
+        "startTime": 36436,
+        "endTime": 37074,
+        "slowStartTime": 54804,
+        "slowEndTime": 55836
+    }
+]

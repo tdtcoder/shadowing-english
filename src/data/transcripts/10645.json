@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Making the entire Web faster is a big challenge.",
+        "startTime": 275,
+        "endTime": 3091,
+        "slowStartTime": 562,
+        "slowEndTime": 4862
+    },
+    {
+        "text": "And although Google is a major player in the Internet,...",
+        "startTime": 3245,
+        "endTime": 6642,
+        "slowStartTime": 5018,
+        "slowEndTime": 10188
+    },
+    {
+        "text": "...it cannot move the entire Internet on its own.",
+        "startTime": 6862,
+        "endTime": 9470,
+        "slowStartTime": 10443,
+        "slowEndTime": 14430
+    },
+    {
+        "text": "We all collectively have to work together.",
+        "startTime": 9697,
+        "endTime": 11894,
+        "slowStartTime": 14695,
+        "slowEndTime": 18066
+    },
+    {
+        "text": "And Google is very interested in helping move those initiatives forward.",
+        "startTime": 12223,
+        "endTime": 15484,
+        "slowStartTime": 18485,
+        "slowEndTime": 23451
+    },
+    {
+        "text": "Helping software developers write applications that are faster.",
+        "startTime": 16064,
+        "endTime": 19124,
+        "slowStartTime": 24246,
+        "slowEndTime": 28911
+    },
+    {
+        "text": "Helping ISPs understand what's limiting their networks.",
+        "startTime": 19525,
+        "endTime": 22875,
+        "slowStartTime": 29438,
+        "slowEndTime": 34537
+    },
+    {
+        "text": "We also plan to work with standards for these...",
+        "startTime": 23173,
+        "endTime": 25817,
+        "slowStartTime": 34910,
+        "slowEndTime": 38951
+    },
+    {
+        "text": "...to make the Web protocols more speed-friendly than what they are today.",
+        "startTime": 26150,
+        "endTime": 30651,
+        "slowStartTime": 39375,
+        "slowEndTime": 46202
+    },
+    {
+        "text": "If we could come up with changes,...",
+        "startTime": 31053,
+        "endTime": 34331,
+        "slowStartTime": 46729,
+        "slowEndTime": 51721
+    },
+    {
+        "text": "...enhancements or even alternatives to TCP/IP or HTTP.",
+        "startTime": 35233,
+        "endTime": 40161,
+        "slowStartTime": 53000,
+        "slowEndTime": 60467
+    },
+    {
+        "text": "You know, that might have a significant impact.",
+        "startTime": 41550,
+        "endTime": 44593,
+        "slowStartTime": 62475,
+        "slowEndTime": 67114
+    },
+    {
+        "text": "And we'll have to advocate for it.",
+        "startTime": 44742,
+        "endTime": 46451,
+        "slowStartTime": 67263,
+        "slowEndTime": 69902
+    },
+    {
+        "text": "We'll have to explain, talk about, educate users, educate other companies...",
+        "startTime": 46618,
+        "endTime": 52651,
+        "slowStartTime": 70077,
+        "slowEndTime": 79202
+    },
+    {
+        "text": "...and work towards it.",
+        "startTime": 53612,
+        "endTime": 54447,
+        "slowStartTime": 80568,
+        "slowEndTime": 81896
+    },
+    {
+        "text": "So this will be a series of difficult advocacy steps over a long period of time.",
+        "startTime": 54527,
+        "endTime": 59617,
+        "slowStartTime": 81940,
+        "slowEndTime": 89650
+    }
+]

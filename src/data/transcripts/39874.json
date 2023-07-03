@@ -1,0 +1,72 @@
+[
+    {
+        "text": "What time is it?",
+        "startTime": 847,
+        "endTime": 1781,
+        "slowStartTime": 1420,
+        "slowEndTime": 2896
+    },
+    {
+        "text": "It's one o'clock.",
+        "startTime": 2929,
+        "endTime": 4898,
+        "slowStartTime": 4543,
+        "slowEndTime": 7572
+    },
+    {
+        "text": "What time is it?",
+        "startTime": 6071,
+        "endTime": 6985,
+        "slowStartTime": 9257,
+        "slowEndTime": 10702
+    },
+    {
+        "text": "It's two o'clock.",
+        "startTime": 7846,
+        "endTime": 10245,
+        "slowStartTime": 11919,
+        "slowEndTime": 15593
+    },
+    {
+        "text": "What time is it?",
+        "startTime": 11765,
+        "endTime": 12932,
+        "slowStartTime": 17798,
+        "slowEndTime": 19623
+    },
+    {
+        "text": "It's three o'clock.",
+        "startTime": 13525,
+        "endTime": 15879,
+        "slowStartTime": 20438,
+        "slowEndTime": 24044
+    },
+    {
+        "text": "What time is it?",
+        "startTime": 16056,
+        "endTime": 17071,
+        "slowStartTime": 24234,
+        "slowEndTime": 25831
+    },
+    {
+        "text": "It's four o'clock.",
+        "startTime": 17301,
+        "endTime": 19611,
+        "slowStartTime": 26102,
+        "slowEndTime": 29642
+    },
+    {
+        "text": "It's five o'clock.",
+        "startTime": 20129,
+        "endTime": 21427,
+        "slowStartTime": 30344,
+        "slowEndTime": 32365
+    },
+    {
+        "text": "It's six o'clock.",
+        "startTime": 21782,
+        "endTime": 22908,
+        "slowStartTime": 32823,
+        "slowEndTime": 34587
+    }
+]

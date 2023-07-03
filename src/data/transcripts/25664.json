@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Hi, I'm Sid.",
+        "startTime": 517,
+        "endTime": 1705,
+        "slowStartTime": 926,
+        "slowEndTime": 2782
+    },
+    {
+        "text": "Welcome to my room.",
+        "startTime": 1811,
+        "endTime": 2675,
+        "slowStartTime": 2866,
+        "slowEndTime": 4238
+    },
+    {
+        "text": "Hey Sid, breakfast is almost ready.",
+        "startTime": 3247,
+        "endTime": 10571,
+        "slowStartTime": 5021,
+        "slowEndTime": 16082
+    },
+    {
+        "text": "Bless you, dad.",
+        "startTime": 13280,
+        "endTime": 14152,
+        "slowStartTime": 20070,
+        "slowEndTime": 21453
+    },
+    {
+        "text": "Thanks Sid.",
+        "startTime": 14613,
+        "endTime": 15291,
+        "slowStartTime": 22069,
+        "slowEndTime": 23161
+    },
+    {
+        "text": "Dad's got a cold.",
+        "startTime": 16189,
+        "endTime": 17112,
+        "slowStartTime": 24434,
+        "slowEndTime": 25893
+    },
+    {
+        "text": "Mom and dad keep telling me that if I don't want to catch dad's cold,...",
+        "startTime": 20573,
+        "endTime": 23623,
+        "slowStartTime": 31009,
+        "slowEndTime": 35660
+    },
+    {
+        "text": "...I got to wash my hands.",
+        "startTime": 23907,
+        "endTime": 25477,
+        "slowStartTime": 36011,
+        "slowEndTime": 38440
+    },
+    {
+        "text": "Wash your hands before you eat.",
+        "startTime": 26129,
+        "endTime": 28013,
+        "slowStartTime": 39344,
+        "slowEndTime": 42245
+    },
+    {
+        "text": "Wash your hands before you sleep.",
+        "startTime": 28285,
+        "endTime": 30226,
+        "slowStartTime": 42577,
+        "slowEndTime": 45564
+    },
+    {
+        "text": "Wash your hands after you go to the bathroom.",
+        "startTime": 30623,
+        "endTime": 33759,
+        "slowStartTime": 46085,
+        "slowEndTime": 50864
+    },
+    {
+        "text": "Boy, pretty soon I'm gonna have to wash my hands before I wash my hands.",
+        "startTime": 35224,
+        "endTime": 39263,
+        "slowStartTime": 52986,
+        "slowEndTime": 59120
+    },
+    {
+        "text": "Well, what I want to know is why?",
+        "startTime": 42489,
+        "endTime": 45210,
+        "slowStartTime": 63884,
+        "slowEndTime": 68040
+    },
+    {
+        "text": "Why do I got to keep washing my hands?",
+        "startTime": 45651,
+        "endTime": 49718,
+        "slowStartTime": 68626,
+        "slowEndTime": 74802
+    },
+    {
+        "text": "Sid, breakfast time.",
+        "startTime": 50546,
+        "endTime": 52927,
+        "slowStartTime": 75969,
+        "slowEndTime": 79615
+    },
+    {
+        "text": "Cool, I'm really hungry.",
+        "startTime": 53067,
+        "endTime": 54546,
+        "slowStartTime": 79750,
+        "slowEndTime": 82044
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "text": "He thought he was on a road trip to Dallas.",
+        "startTime": 160,
+        "endTime": 2500,
+        "slowStartTime": 360,
+        "slowEndTime": 3830
+    },
+    {
+        "text": "But he was on a freeway to hell.",
+        "startTime": 3030,
+        "endTime": 5370,
+        "slowStartTime": 4640,
+        "slowEndTime": 7988
+    },
+    {
+        "text": "Black Mamba, boss wants to see you.",
+        "startTime": 6700,
+        "endTime": 9200,
+        "slowStartTime": 10110,
+        "slowEndTime": 13930
+    },
+    {
+        "text": "The world's best basketball player...",
+        "startTime": 17110,
+        "endTime": 18980,
+        "slowStartTime": 25810,
+        "slowEndTime": 28480
+    },
+    {
+        "text": "...in his biggest challenge yet.",
+        "startTime": 19250,
+        "endTime": 21820,
+        "slowStartTime": 28990,
+        "slowEndTime": 32760
+    },
+    {
+        "text": "Kobe Bryant is the Black Mamba.",
+        "startTime": 24450,
+        "endTime": 26390,
+        "slowStartTime": 36730,
+        "slowEndTime": 39675
+    },
+    {
+        "text": "A Nike Basketball production, directed by Robert Rodriguez. Coming soon.",
+        "startTime": 26520,
+        "endTime": 29950,
+        "slowStartTime": 39780,
+        "slowEndTime": 44980
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Hey guys! Good to see you both again. How was your weekend?",
+        "startTime": 2029,
+        "endTime": 5119,
+        "slowStartTime": 3193,
+        "slowEndTime": 7904
+    },
+    {
+        "text": "Hi Changmin, I had a great time last weekend.",
+        "startTime": 5441,
+        "endTime": 8478,
+        "slowStartTime": 8311,
+        "slowEndTime": 12942
+    },
+    {
+        "text": "I went on a camping trip by the lake with a bunch of my friends.",
+        "startTime": 8804,
+        "endTime": 12583,
+        "slowStartTime": 13356,
+        "slowEndTime": 19100
+    },
+    {
+        "text": "That sounds like fun! I wish I did something like that.",
+        "startTime": 13059,
+        "endTime": 16368,
+        "slowStartTime": 19739,
+        "slowEndTime": 24777
+    },
+    {
+        "text": "How come? What did you do, Kathy?",
+        "startTime": 16900,
+        "endTime": 18869,
+        "slowStartTime": 25500,
+        "slowEndTime": 28529
+    },
+    {
+        "text": "Oh, I did nothing special. I just hung out here with some friends.",
+        "startTime": 19254,
+        "endTime": 23487,
+        "slowStartTime": 29031,
+        "slowEndTime": 35456
+    },
+    {
+        "text": "We went out drinking on both Friday and Saturday nights.",
+        "startTime": 23807,
+        "endTime": 26853,
+        "slowStartTime": 35861,
+        "slowEndTime": 40504
+    },
+    {
+        "text": "Well, sounds familiar. I went out drinking with my friends as well.",
+        "startTime": 27156,
+        "endTime": 30461,
+        "slowStartTime": 40884,
+        "slowEndTime": 45917
+    },
+    {
+        "text": "I think I still have a hangover.",
+        "startTime": 30973,
+        "endTime": 32671,
+        "slowStartTime": 46609,
+        "slowEndTime": 49232
+    },
+    {
+        "text": "Hey, that's not so bad guys. There's nothing wrong with meeting your friends for a few drinks.",
+        "startTime": 33061,
+        "endTime": 38559,
+        "slowStartTime": 49742,
+        "slowEndTime": 58063
+    },
+    {
+        "text": "How much did you drink?",
+        "startTime": 38892,
+        "endTime": 40058,
+        "slowStartTime": 58488,
+        "slowEndTime": 60312
+    },
+    {
+        "text": "I don't remember. I blacked out.",
+        "startTime": 40213,
+        "endTime": 42337,
+        "slowStartTime": 60470,
+        "slowEndTime": 63730
+    }
+]

@@ -1,0 +1,380 @@
+[
+    {
+        "text": "The Internet is one of the United States' most robust and growing industries.",
+        "startTime": 653,
+        "endTime": 4760,
+        "slowStartTime": 1129,
+        "slowEndTime": 7365
+    },
+    {
+        "text": "It enables free and open communication among billions...",
+        "startTime": 4957,
+        "endTime": 7627,
+        "slowStartTime": 7585,
+        "slowEndTime": 11665
+    },
+    {
+        "text": "...and it's been the backbone of protests around the world.",
+        "startTime": 7844,
+        "endTime": 10597,
+        "slowStartTime": 11916,
+        "slowEndTime": 16120
+    },
+    {
+        "text": "But a new bill proposes we give the power to censor the Internet...",
+        "startTime": 11017,
+        "endTime": 14189,
+        "slowStartTime": 16675,
+        "slowEndTime": 21508
+    },
+    {
+        "text": "...to the entertainment industry. It's called PROTECT IP and here's how it works.",
+        "startTime": 14509,
+        "endTime": 19320,
+        "slowStartTime": 21914,
+        "slowEndTime": 29205
+    },
+    {
+        "text": "Private corporations want the ability to shut down unauthorized sites...",
+        "startTime": 21491,
+        "endTime": 24996,
+        "slowStartTime": 32386,
+        "slowEndTime": 37719
+    },
+    {
+        "text": "...where people download movies, tv shows and music.",
+        "startTime": 25176,
+        "endTime": 28022,
+        "slowStartTime": 37914,
+        "slowEndTime": 42258
+    },
+    {
+        "text": "Since most of these sites are outside US jurisdiction,...",
+        "startTime": 28436,
+        "endTime": 31305,
+        "slowStartTime": 42804,
+        "slowEndTime": 47182
+    },
+    {
+        "text": "...PROTECT IP uses a couple of different tactics within American borders.",
+        "startTime": 31541,
+        "endTime": 35395,
+        "slowStartTime": 47462,
+        "slowEndTime": 53317
+    },
+    {
+        "text": "Firstly, it gives the government the power to make US Internet providers...",
+        "startTime": 36009,
+        "endTime": 39386,
+        "slowStartTime": 54163,
+        "slowEndTime": 59304
+    },
+    {
+        "text": "...block access to infringing domain names.",
+        "startTime": 39537,
+        "endTime": 42060,
+        "slowStartTime": 59455,
+        "slowEndTime": 63315
+    },
+    {
+        "text": "They can also sue US-based search engines, directories or even blogs and forums...",
+        "startTime": 42523,
+        "endTime": 47262,
+        "slowStartTime": 63934,
+        "slowEndTime": 71118
+    },
+    {
+        "text": "...to have links to these sites removed.",
+        "startTime": 47524,
+        "endTime": 49152,
+        "slowStartTime": 71436,
+        "slowEndTime": 73953
+    },
+    {
+        "text": "Secondly, PROTECT IP gives corporations and the government the ability to cut off funds to infringing websites...",
+        "startTime": 49929,
+        "endTime": 55689,
+        "slowStartTime": 75043,
+        "slowEndTime": 83758
+    },
+    {
+        "text": "...by having US-based advertisers and payment services cancel those accounts.",
+        "startTime": 55863,
+        "endTime": 60447,
+        "slowStartTime": 83944,
+        "slowEndTime": 90895
+    },
+    {
+        "text": "In a nutshell, that's what PROTECT IP will try to do.",
+        "startTime": 60989,
+        "endTime": 64167,
+        "slowStartTime": 91633,
+        "slowEndTime": 96475
+    },
+    {
+        "text": "But in all likelihood, it will do something else altogether.",
+        "startTime": 64313,
+        "endTime": 67070,
+        "slowStartTime": 96619,
+        "slowEndTime": 100830
+    },
+    {
+        "text": "For starters, it won't stop downloaders.",
+        "startTime": 69265,
+        "endTime": 71725,
+        "slowStartTime": 104048,
+        "slowEndTime": 107812
+    },
+    {
+        "text": "They'll still be able to access a blocked site just by entering its IP address instead of its name.",
+        "startTime": 71931,
+        "endTime": 77555,
+        "slowStartTime": 108047,
+        "slowEndTime": 116558
+    },
+    {
+        "text": "What PROTECT IP will do is cripple new start-ups because it also lets companies sue any site...",
+        "startTime": 78126,
+        "endTime": 83625,
+        "slowStartTime": 117339,
+        "slowEndTime": 125663
+    },
+    {
+        "text": "...they feel isn't doing their filtering well enough.",
+        "startTime": 83740,
+        "endTime": 86226,
+        "slowStartTime": 125760,
+        "slowEndTime": 129564
+    },
+    {
+        "text": "These lawsuits could easily bankrupt new search engines and social media sites.",
+        "startTime": 86583,
+        "endTime": 90911,
+        "slowStartTime": 130024,
+        "slowEndTime": 136591
+    },
+    {
+        "text": "And PROTECT IP's wording is ambiguous enough that important social media sites could become targets.",
+        "startTime": 91365,
+        "endTime": 97194,
+        "slowStartTime": 137198,
+        "slowEndTime": 146016
+    },
+    {
+        "text": "Lots of trailblazing websites could look like piracy havens to the wrong judge.",
+        "startTime": 97511,
+        "endTime": 101883,
+        "slowStartTime": 146417,
+        "slowEndTime": 153050
+    },
+    {
+        "text": "Tumblr, Sound Cloud and early YouTube, wherever people express themselves,...",
+        "startTime": 102138,
+        "endTime": 106545,
+        "slowStartTime": 153357,
+        "slowEndTime": 160043
+    },
+    {
+        "text": "...make art, broadcast news or organize protests,...",
+        "startTime": 106718,
+        "endTime": 109767,
+        "slowStartTime": 160227,
+        "slowEndTime": 164875
+    },
+    {
+        "text": "...there's plenty of TV footage, movie clips and copyrighted music mixed in.",
+        "startTime": 109995,
+        "endTime": 114331,
+        "slowStartTime": 165142,
+        "slowEndTime": 171721
+    },
+    {
+        "text": "And even if you trust the US government not to abuse their new power to censor the Net,...",
+        "startTime": 114743,
+        "endTime": 118551,
+        "slowStartTime": 172264,
+        "slowEndTime": 178051
+    },
+    {
+        "text": "...what about the countries that follow in our path and pass similar laws?",
+        "startTime": 118733,
+        "endTime": 122316,
+        "slowStartTime": 178249,
+        "slowEndTime": 183699
+    },
+    {
+        "text": "People around the world will have very different Internets...",
+        "startTime": 122708,
+        "endTime": 124975,
+        "slowStartTime": 184212,
+        "slowEndTime": 187688
+    },
+    {
+        "text": "...and unscrupulous governments will have powerful tools to hinder free expression.",
+        "startTime": 125122,
+        "endTime": 129119,
+        "slowStartTime": 187833,
+        "slowEndTime": 193904
+    },
+    {
+        "text": "But perhaps most dangerously, PROTECT IP will meddle with the inner workings of the Net.",
+        "startTime": 129851,
+        "endTime": 135103,
+        "slowStartTime": 194926,
+        "slowEndTime": 202879
+    },
+    {
+        "text": "Experts believe that by fiddling with the Web's registry of domain names,...",
+        "startTime": 135433,
+        "endTime": 138747,
+        "slowStartTime": 203300,
+        "slowEndTime": 208345
+    },
+    {
+        "text": "...the result will be less security and less stability.",
+        "startTime": 138918,
+        "endTime": 141655,
+        "slowStartTime": 208527,
+        "slowEndTime": 212708
+    },
+    {
+        "text": "In short, PROTECT IP won't stop piracy, but it will introduce vast potential for censorship...",
+        "startTime": 142124,
+        "endTime": 147541,
+        "slowStartTime": 213336,
+        "slowEndTime": 221536
+    },
+    {
+        "text": "...and abuse, and making the Web less safe and less reliable.",
+        "startTime": 147642,
+        "endTime": 151197,
+        "slowStartTime": 221613,
+        "slowEndTime": 227020
+    },
+    {
+        "text": "This is the Internet we're talking about.",
+        "startTime": 151999,
+        "endTime": 153811,
+        "slowStartTime": 228149,
+        "slowEndTime": 230942
+    },
+    {
+        "text": "It's a vital and vibrant medium, and our government is tampering with its basic structure...",
+        "startTime": 153871,
+        "endTime": 158920,
+        "slowStartTime": 230957,
+        "slowEndTime": 238605
+    },
+    {
+        "text": "...so people will maybe buy more Hollywood movies.",
+        "startTime": 159123,
+        "endTime": 162637,
+        "slowStartTime": 238835,
+        "slowEndTime": 244181
+    },
+    {
+        "text": "But Hollywood movies don't get grassroots candidates elected.",
+        "startTime": 163095,
+        "endTime": 166404,
+        "slowStartTime": 244792,
+        "slowEndTime": 249831
+    },
+    {
+        "text": "They don't overthrow corrupt regimes and the entire entertainment industry...",
+        "startTime": 166613,
+        "endTime": 170307,
+        "slowStartTime": 250070,
+        "slowEndTime": 255686
+    },
+    {
+        "text": "...doesn't even contribute that much to our economy.",
+        "startTime": 170591,
+        "endTime": 173103,
+        "slowStartTime": 256036,
+        "slowEndTime": 259880
+    },
+    {
+        "text": "The Internet does all these and more.",
+        "startTime": 173589,
+        "endTime": 176286,
+        "slowStartTime": 260533,
+        "slowEndTime": 264654
+    },
+    {
+        "text": "Corporations already have tools to fight piracy.",
+        "startTime": 177206,
+        "endTime": 180073,
+        "slowStartTime": 265959,
+        "slowEndTime": 270334
+    },
+    {
+        "text": "They have the power to take down specific content,...",
+        "startTime": 180352,
+        "endTime": 182566,
+        "slowStartTime": 270678,
+        "slowEndTime": 274074
+    },
+    {
+        "text": "...to sue peer-to-peer software companies out of existence,...",
+        "startTime": 182738,
+        "endTime": 185745,
+        "slowStartTime": 274257,
+        "slowEndTime": 278842
+    },
+    {
+        "text": "...and to sue journalists just for talking about how to copy a DVD.",
+        "startTime": 185975,
+        "endTime": 189869,
+        "slowStartTime": 279113,
+        "slowEndTime": 285029
+    },
+    {
+        "text": "They have a history of stretching and abusing their powers.",
+        "startTime": 190300,
+        "endTime": 193481,
+        "slowStartTime": 285600,
+        "slowEndTime": 290446
+    },
+    {
+        "text": "They tried to take a baby video off YouTube just for the music playing in the background.",
+        "startTime": 193808,
+        "endTime": 198227,
+        "slowStartTime": 290862,
+        "slowEndTime": 297566
+    },
+    {
+        "text": "They've used legal penalties written for large-scale commercial piracy to go after families and children.",
+        "startTime": 198636,
+        "endTime": 204329,
+        "slowStartTime": 298104,
+        "slowEndTime": 306719
+    },
+    {
+        "text": "They even sued the band VCR and the first MP3 players.",
+        "startTime": 204589,
+        "endTime": 208367,
+        "slowStartTime": 307034,
+        "slowEndTime": 312775
+    },
+    {
+        "text": "So the question is, how far will they take all this?",
+        "startTime": 208645,
+        "endTime": 212619,
+        "slowStartTime": 313117,
+        "slowEndTime": 319153
+    },
+    {
+        "text": "The answer at this point is obvious.",
+        "startTime": 213051,
+        "endTime": 215389,
+        "slowStartTime": 319726,
+        "slowEndTime": 323309
+    },
+    {
+        "text": "As far as we'll let them.",
+        "startTime": 215632,
+        "endTime": 218099,
+        "slowStartTime": 323598,
+        "slowEndTime": 327374
+    }
+]

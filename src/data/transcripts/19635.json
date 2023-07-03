@@ -1,0 +1,72 @@
+[
+    {
+        "text": "We're out of milk.",
+        "startTime": 5461,
+        "endTime": 6213,
+        "slowStartTime": 8342,
+        "slowEndTime": 9545
+    },
+    {
+        "text": "Are you kidding me?",
+        "startTime": 6970,
+        "endTime": 8459,
+        "slowStartTime": 10605,
+        "slowEndTime": 12913
+    },
+    {
+        "text": "Mister!",
+        "startTime": 14030,
+        "endTime": 14671,
+        "slowStartTime": 21195,
+        "slowEndTime": 22231
+    },
+    {
+        "text": "What?",
+        "startTime": 14822,
+        "endTime": 15037,
+        "slowStartTime": 22383,
+        "slowEndTime": 22781
+    },
+    {
+        "text": "Up there.",
+        "startTime": 15412,
+        "endTime": 16133,
+        "slowStartTime": 23268,
+        "slowEndTime": 24424
+    },
+    {
+        "text": "I'm sorry, honey.",
+        "startTime": 18261,
+        "endTime": 18693,
+        "slowStartTime": 27541,
+        "slowEndTime": 28265
+    },
+    {
+        "text": "Gotta go.",
+        "startTime": 19070,
+        "endTime": 19463,
+        "slowStartTime": 28755,
+        "slowEndTime": 29420
+    },
+    {
+        "text": "Help!",
+        "startTime": 34153,
+        "endTime": 35403,
+        "slowStartTime": 51380,
+        "slowEndTime": 53329
+    },
+    {
+        "text": "Milk.",
+        "startTime": 40545,
+        "endTime": 40969,
+        "slowStartTime": 60968,
+        "slowEndTime": 61678
+    },
+    {
+        "text": "Ladies, gotta go to work.",
+        "startTime": 56271,
+        "endTime": 57922,
+        "slowStartTime": 84557,
+        "slowEndTime": 87108
+    }
+]

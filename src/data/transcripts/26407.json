@@ -1,0 +1,93 @@
+[
+    {
+        "text": "What if your car opened the doors not with a key but by scanning your face?",
+        "startTime": 972,
+        "endTime": 5421,
+        "slowStartTime": 1608,
+        "slowEndTime": 8356
+    },
+    {
+        "text": "That's just one example of new technology Toyota is working on now.",
+        "startTime": 5885,
+        "endTime": 9562,
+        "slowStartTime": 8977,
+        "slowEndTime": 14568
+    },
+    {
+        "text": "It's part of a new partnership with Microsoft.",
+        "startTime": 9635,
+        "endTime": 11581,
+        "slowStartTime": 14602,
+        "slowEndTime": 17597
+    },
+    {
+        "text": "A new group called Toyota Connected...",
+        "startTime": 11990,
+        "endTime": 13742,
+        "slowStartTime": 18135,
+        "slowEndTime": 20838
+    },
+    {
+        "text": "...will focus on technology for tomorrow's vehicles.",
+        "startTime": 13831,
+        "endTime": 16342,
+        "slowStartTime": 20896,
+        "slowEndTime": 24738
+    },
+    {
+        "text": "Say your hands are full with groceries or you're carrying luggage,...",
+        "startTime": 16739,
+        "endTime": 19461,
+        "slowStartTime": 25258,
+        "slowEndTime": 29417
+    },
+    {
+        "text": "...the car's rear camera will scan your face, see that your hands are full...",
+        "startTime": 19763,
+        "endTime": 23499,
+        "slowStartTime": 29795,
+        "slowEndTime": 35473
+    },
+    {
+        "text": "...and pop open the back hatch automatically.",
+        "startTime": 23759,
+        "endTime": 25973,
+        "slowStartTime": 35788,
+        "slowEndTime": 39185
+    },
+    {
+        "text": "Let's just hope you don't have an evil twin that wants to borrow your car.",
+        "startTime": 26268,
+        "endTime": 29509,
+        "slowStartTime": 39552,
+        "slowEndTime": 44488
+    },
+    {
+        "text": "The team is also looking at new ways to gather data on drivers...",
+        "startTime": 29980,
+        "endTime": 33111,
+        "slowStartTime": 45120,
+        "slowEndTime": 49891
+    },
+    {
+        "text": "...with vehicles that report on hazards in the road ahead,...",
+        "startTime": 33211,
+        "endTime": 36276,
+        "slowStartTime": 49966,
+        "slowEndTime": 54639
+    },
+    {
+        "text": "...and then that info can help warn other drivers on the same road...",
+        "startTime": 36605,
+        "endTime": 40497,
+        "slowStartTime": 55058,
+        "slowEndTime": 60970
+    },
+    {
+        "text": "...or offer immediate rerouting.",
+        "startTime": 40814,
+        "endTime": 42765,
+        "slowStartTime": 61371,
+        "slowEndTime": 64373
+    }
+]

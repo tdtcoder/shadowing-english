@@ -1,0 +1,114 @@
+[
+    {
+        "text": "﻿Since the Industrial Revolution,...",
+        "startTime": 1741,
+        "endTime": 3277,
+        "slowStartTime": 2762,
+        "slowEndTime": 5140
+    },
+    {
+        "text": "...we've been taking new materials from the ground to make things,...",
+        "startTime": 3373,
+        "endTime": 6543,
+        "slowStartTime": 5209,
+        "slowEndTime": 10039
+    },
+    {
+        "text": "...things that we toss away after we've used them.",
+        "startTime": 6863,
+        "endTime": 9029,
+        "slowStartTime": 10445,
+        "slowEndTime": 13768
+    },
+    {
+        "text": "When it comes to resources, we have to start thinking circular, not linear,...",
+        "startTime": 9825,
+        "endTime": 14635,
+        "slowStartTime": 14887,
+        "slowEndTime": 22178
+    },
+    {
+        "text": "...keeping materials out of the landfill...",
+        "startTime": 15093,
+        "endTime": 17025,
+        "slowStartTime": 22790,
+        "slowEndTime": 25762
+    },
+    {
+        "text": "...and conserving resources such as energy and water.",
+        "startTime": 17126,
+        "endTime": 20357,
+        "slowStartTime": 25839,
+        "slowEndTime": 30761
+    },
+    {
+        "text": "At Google, we've applied this circular approach to our data centers,...",
+        "startTime": 21363,
+        "endTime": 24874,
+        "slowStartTime": 32195,
+        "slowEndTime": 37536
+    },
+    {
+        "text": "...which are engines of the internet and the most energy-efficient in the world.",
+        "startTime": 25153,
+        "endTime": 28881,
+        "slowStartTime": 37880,
+        "slowEndTime": 43546
+    },
+    {
+        "text": "We've redesigned the system...",
+        "startTime": 29373,
+        "endTime": 30659,
+        "slowStartTime": 44210,
+        "slowEndTime": 46213
+    },
+    {
+        "text": "...so nearly all components are maintained, reused, refurbished, or recycled.",
+        "startTime": 30911,
+        "endTime": 36434,
+        "slowStartTime": 46517,
+        "slowEndTime": 54876
+    },
+    {
+        "text": "In 2015, 52 percent of machine upgrades used refurbished inventory,...",
+        "startTime": 37314,
+        "endTime": 42303,
+        "slowStartTime": 56121,
+        "slowEndTime": 63679
+    },
+    {
+        "text": "...and Google resold nearly 2 million units into secondary markets...",
+        "startTime": 42399,
+        "endTime": 46007,
+        "slowStartTime": 63748,
+        "slowEndTime": 69236
+    },
+    {
+        "text": "...for reuse by other organizations.",
+        "startTime": 46087,
+        "endTime": 48235,
+        "slowStartTime": 69280,
+        "slowEndTime": 72577
+    },
+    {
+        "text": "By practicing circular concepts and server management,...",
+        "startTime": 49176,
+        "endTime": 51975,
+        "slowStartTime": 73914,
+        "slowEndTime": 78187
+    },
+    {
+        "text": "...we saved hundreds of millions of dollars in redirected materials...",
+        "startTime": 52165,
+        "endTime": 55393,
+        "slowStartTime": 78398,
+        "slowEndTime": 83315
+    },
+    {
+        "text": "...back into the marketplace, instead of the landfill.",
+        "startTime": 55486,
+        "endTime": 58811,
+        "slowStartTime": 83379,
+        "slowEndTime": 88441
+    }
+]

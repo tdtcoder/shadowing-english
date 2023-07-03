@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Hi, how can I help you?",
+        "startTime": 300,
+        "endTime": 2200,
+        "slowStartTime": 600,
+        "slowEndTime": 3400
+    },
+    {
+        "text": "I have a pair of jeans I need to return.",
+        "startTime": 2750,
+        "endTime": 4750,
+        "slowStartTime": 4300,
+        "slowEndTime": 7400
+    },
+    {
+        "text": "Sure. Do you have the receipt?",
+        "startTime": 5400,
+        "endTime": 7150,
+        "slowStartTime": 8200,
+        "slowEndTime": 11000
+    },
+    {
+        "text": "Yes, I do.",
+        "startTime": 7900,
+        "endTime": 9000,
+        "slowStartTime": 12000,
+        "slowEndTime": 13700
+    },
+    {
+        "text": "Okay. What's the reason for the return?",
+        "startTime": 9900,
+        "endTime": 12300,
+        "slowStartTime": 14900,
+        "slowEndTime": 18800
+    },
+    {
+        "text": "Umm, I changed my mind, I don't like the fit.",
+        "startTime": 13000,
+        "endTime": 16300,
+        "slowStartTime": 19700,
+        "slowEndTime": 24800
+    },
+    {
+        "text": "Would you like to exchange them for something else?",
+        "startTime": 17000,
+        "endTime": 19500,
+        "slowStartTime": 25600,
+        "slowEndTime": 29600
+    },
+    {
+        "text": "No, I don't need anything for now.",
+        "startTime": 20200,
+        "endTime": 22600,
+        "slowStartTime": 30400,
+        "slowEndTime": 34000
+    },
+    {
+        "text": "Not a problem. That'll be $89.50 back on your credit card.",
+        "startTime": 23300,
+        "endTime": 27400,
+        "slowStartTime": 34800,
+        "slowEndTime": 41200
+    },
+    {
+        "text": "Great, thanks!",
+        "startTime": 28000,
+        "endTime": 29300,
+        "slowStartTime": 42000,
+        "slowEndTime": 44500
+    }
+]

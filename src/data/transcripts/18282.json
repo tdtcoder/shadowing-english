@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Hello everyone!",
+        "startTime": 4879,
+        "endTime": 5805,
+        "slowStartTime": 7469,
+        "slowEndTime": 8933
+    },
+    {
+        "text": "My name is Mati, and I love airplanes!",
+        "startTime": 6207,
+        "endTime": 9633,
+        "slowStartTime": 9461,
+        "slowEndTime": 14675
+    },
+    {
+        "text": "Do you love airplanes?",
+        "startTime": 10001,
+        "endTime": 11238,
+        "slowStartTime": 15152,
+        "slowEndTime": 17082
+    },
+    {
+        "text": "I hope so, because we're gonna see a lot of them today.",
+        "startTime": 11667,
+        "endTime": 14972,
+        "slowStartTime": 17651,
+        "slowEndTime": 22683
+    },
+    {
+        "text": "I'll show you some really old airplanes and some new ones.",
+        "startTime": 20529,
+        "endTime": 24850,
+        "slowStartTime": 30944,
+        "slowEndTime": 37500
+    },
+    {
+        "text": "And a lot of them can go really fast.",
+        "startTime": 25223,
+        "endTime": 28043,
+        "slowStartTime": 37984,
+        "slowEndTime": 42289
+    },
+    {
+        "text": "Cool, huh?",
+        "startTime": 33220,
+        "endTime": 34237,
+        "slowStartTime": 49980,
+        "slowEndTime": 51580
+    },
+    {
+        "text": "Look, it's going backwards!",
+        "startTime": 34595,
+        "endTime": 36845,
+        "slowStartTime": 52042,
+        "slowEndTime": 55493
+    },
+    {
+        "text": "Bet you haven't seen that before.",
+        "startTime": 37610,
+        "endTime": 39521,
+        "slowStartTime": 56565,
+        "slowEndTime": 59506
+    },
+    {
+        "text": "Look, it's flying upside down.",
+        "startTime": 40315,
+        "endTime": 42853,
+        "slowStartTime": 60623,
+        "slowEndTime": 64504
+    },
+    {
+        "text": "It's really fun.",
+        "startTime": 43259,
+        "endTime": 44720,
+        "slowStartTime": 65039,
+        "slowEndTime": 67305
+    },
+    {
+        "text": "Plug your ears!",
+        "startTime": 45805,
+        "endTime": 46799,
+        "slowStartTime": 68858,
+        "slowEndTime": 70423
+    },
+    {
+        "text": "Coming in for a landing!",
+        "startTime": 51289,
+        "endTime": 53209,
+        "slowStartTime": 77084,
+        "slowEndTime": 80039
+    },
+    {
+        "text": "Look, I'm doing a wheelie too.",
+        "startTime": 53433,
+        "endTime": 55608,
+        "slowStartTime": 80300,
+        "slowEndTime": 83637
+    },
+    {
+        "text": "It's so much fun!",
+        "startTime": 55791,
+        "endTime": 57713,
+        "slowStartTime": 83836,
+        "slowEndTime": 86795
+    },
+    {
+        "text": "I still need to practice a little more.",
+        "startTime": 58623,
+        "endTime": 60628,
+        "slowStartTime": 88085,
+        "slowEndTime": 91167
+    },
+    {
+        "text": "Flying an airplane is so much fun.",
+        "startTime": 69168,
+        "endTime": 71717,
+        "slowStartTime": 103902,
+        "slowEndTime": 107800
+    },
+    {
+        "text": "I hope you had a lot of fun too.",
+        "startTime": 72296,
+        "endTime": 74485,
+        "slowStartTime": 108594,
+        "slowEndTime": 111953
+    },
+    {
+        "text": "Now, it's time for me to go flying.",
+        "startTime": 74659,
+        "endTime": 77086,
+        "slowStartTime": 112138,
+        "slowEndTime": 115854
+    },
+    {
+        "text": "See you next time!",
+        "startTime": 77605,
+        "endTime": 78788,
+        "slowStartTime": 116557,
+        "slowEndTime": 118407
+    },
+    {
+        "text": "Goodbye!",
+        "startTime": 82432,
+        "endTime": 83277,
+        "slowStartTime": 123798,
+        "slowEndTime": 125141
+    }
+]

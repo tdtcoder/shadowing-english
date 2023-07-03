@@ -1,0 +1,86 @@
+[
+    {
+        "text": "You may use this laptop.",
+        "startTime": 488,
+        "endTime": 1887,
+        "slowStartTime": 882,
+        "slowEndTime": 3055
+    },
+    {
+        "text": "Ms. Roberts, you may return to your seat.",
+        "startTime": 3453,
+        "endTime": 5801,
+        "slowStartTime": 5329,
+        "slowEndTime": 8927
+    },
+    {
+        "text": "Here's our office kitchen.",
+        "startTime": 7390,
+        "endTime": 9017,
+        "slowStartTime": 11235,
+        "slowEndTime": 13751
+    },
+    {
+        "text": "You can help yourself to anything here.",
+        "startTime": 9311,
+        "endTime": 11345,
+        "slowStartTime": 14116,
+        "slowEndTime": 17242
+    },
+    {
+        "text": "You certainly can.",
+        "startTime": 12821,
+        "endTime": 14020,
+        "slowStartTime": 19381,
+        "slowEndTime": 21255
+    },
+    {
+        "text": "You can use the meeting room.",
+        "startTime": 14257,
+        "endTime": 15621,
+        "slowStartTime": 21535,
+        "slowEndTime": 23657
+    },
+    {
+        "text": "Here are some snacks and drinks.",
+        "startTime": 16984,
+        "endTime": 18601,
+        "slowStartTime": 25626,
+        "slowEndTime": 28126
+    },
+    {
+        "text": "You can eat and drink as much as you want.",
+        "startTime": 18918,
+        "endTime": 20930,
+        "slowStartTime": 28527,
+        "slowEndTime": 31620
+    },
+    {
+        "text": "The building is huge.",
+        "startTime": 22202,
+        "endTime": 23827,
+        "slowStartTime": 33453,
+        "slowEndTime": 35965
+    },
+    {
+        "text": "Feel free to walk around.",
+        "startTime": 24088,
+        "endTime": 25260,
+        "slowStartTime": 36282,
+        "slowEndTime": 38115
+    },
+    {
+        "text": "Go ahead and have a meal.",
+        "startTime": 26589,
+        "endTime": 27990,
+        "slowStartTime": 40033,
+        "slowEndTime": 42210
+    },
+    {
+        "text": "We don't mind.",
+        "startTime": 28125,
+        "endTime": 29005,
+        "slowStartTime": 42337,
+        "slowEndTime": 43733
+    }
+]

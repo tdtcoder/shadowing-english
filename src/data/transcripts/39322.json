@@ -1,0 +1,170 @@
+[
+    {
+        "text": "In previous decades, most media with global reach...",
+        "startTime": 461,
+        "endTime": 3970,
+        "slowStartTime": 841,
+        "slowEndTime": 6180
+    },
+    {
+        "text": "...consisted of several major newspapers and networks...",
+        "startTime": 4144,
+        "endTime": 7210,
+        "slowStartTime": 6366,
+        "slowEndTime": 11040
+    },
+    {
+        "text": "...which had the resources to gather information directly.",
+        "startTime": 7483,
+        "endTime": 11019,
+        "slowStartTime": 11375,
+        "slowEndTime": 16754
+    },
+    {
+        "text": "Outlets like Reuters and the Associated Press...",
+        "startTime": 11717,
+        "endTime": 14503,
+        "slowStartTime": 17726,
+        "slowEndTime": 21979
+    },
+    {
+        "text": "...that aggregate or re-report stories...",
+        "startTime": 14762,
+        "endTime": 17105,
+        "slowStartTime": 22293,
+        "slowEndTime": 25882
+    },
+    {
+        "text": "...were relatively rare compared to today.",
+        "startTime": 17399,
+        "endTime": 19939,
+        "slowStartTime": 26248,
+        "slowEndTime": 30133
+    },
+    {
+        "text": "The speed with which information spreads now...",
+        "startTime": 20561,
+        "endTime": 23313,
+        "slowStartTime": 30991,
+        "slowEndTime": 35195
+    },
+    {
+        "text": "...has created the ideal conditions...",
+        "startTime": 23621,
+        "endTime": 25717,
+        "slowStartTime": 35581,
+        "slowEndTime": 38800
+    },
+    {
+        "text": "...for a phenomenon known as circular reporting.",
+        "startTime": 25915,
+        "endTime": 28689,
+        "slowStartTime": 39023,
+        "slowEndTime": 43259
+    },
+    {
+        "text": "This is when publication A publishes misinformation,...",
+        "startTime": 29358,
+        "endTime": 32825,
+        "slowStartTime": 44187,
+        "slowEndTime": 49462
+    },
+    {
+        "text": "...publication B reprints it,...",
+        "startTime": 33201,
+        "endTime": 35355,
+        "slowStartTime": 49952,
+        "slowEndTime": 53258
+    },
+    {
+        "text": "...and publication A then cites B as the source for the information.",
+        "startTime": 35647,
+        "endTime": 40815,
+        "slowStartTime": 53621,
+        "slowEndTime": 61447
+    },
+    {
+        "text": "It's also considered a form of circular reporting when multiple publications...",
+        "startTime": 41446,
+        "endTime": 46115,
+        "slowStartTime": 62319,
+        "slowEndTime": 69397
+    },
+    {
+        "text": "...report on the same initial piece of false information,...",
+        "startTime": 46366,
+        "endTime": 49870,
+        "slowStartTime": 69699,
+        "slowEndTime": 75030
+    },
+    {
+        "text": "...which then appears to another author...",
+        "startTime": 50126,
+        "endTime": 52179,
+        "slowStartTime": 75339,
+        "slowEndTime": 78494
+    },
+    {
+        "text": "...as having been verified by multiple sources.",
+        "startTime": 52397,
+        "endTime": 55033,
+        "slowStartTime": 78745,
+        "slowEndTime": 82775
+    },
+    {
+        "text": "For instance, the 1998 publication of a single pseudoscientific paper...",
+        "startTime": 56126,
+        "endTime": 61481,
+        "slowStartTime": 84339,
+        "slowEndTime": 92447
+    },
+    {
+        "text": "...arguing that routine vaccination of children causes autism...",
+        "startTime": 61703,
+        "endTime": 65451,
+        "slowStartTime": 92705,
+        "slowEndTime": 98401
+    },
+    {
+        "text": "...inspired an entire anti-vaccination movement,...",
+        "startTime": 65777,
+        "endTime": 68992,
+        "slowStartTime": 98815,
+        "slowEndTime": 103713
+    },
+    {
+        "text": "...despite the fact that the original paper...",
+        "startTime": 69351,
+        "endTime": 71425,
+        "slowStartTime": 104177,
+        "slowEndTime": 107362
+    },
+    {
+        "text": "...has repeatedly been discredited by the scientific community.",
+        "startTime": 71727,
+        "endTime": 75238,
+        "slowStartTime": 107741,
+        "slowEndTime": 113082
+    },
+    {
+        "text": "Deliberately unvaccinated children are now contracting contagious diseases...",
+        "startTime": 76133,
+        "endTime": 81039,
+        "slowStartTime": 114349,
+        "slowEndTime": 121784
+    },
+    {
+        "text": "...that had been virtually eradicated in the United States,...",
+        "startTime": 81270,
+        "endTime": 84323,
+        "slowStartTime": 122055,
+        "slowEndTime": 126709
+    },
+    {
+        "text": "...with some infections proving fatal.",
+        "startTime": 84729,
+        "endTime": 86645,
+        "slowStartTime": 127244,
+        "slowEndTime": 130193
+    }
+]

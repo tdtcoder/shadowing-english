@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Let's say I wanna plan a barbecue with my friends.",
+        "startTime": 200,
+        "endTime": 2350,
+        "slowStartTime": 600,
+        "slowEndTime": 3750
+    },
+    {
+        "text": "I'll create a new Wave...",
+        "startTime": 3050,
+        "endTime": 4350,
+        "slowStartTime": 4900,
+        "slowEndTime": 6700
+    },
+    {
+        "text": "...and I'll add Greg as a participant.",
+        "startTime": 6150,
+        "endTime": 8000,
+        "slowStartTime": 9500,
+        "slowEndTime": 12150
+    },
+    {
+        "text": "Greg opens the Wave.",
+        "startTime": 8750,
+        "endTime": 10000,
+        "slowStartTime": 13400,
+        "slowEndTime": 15100
+    },
+    {
+        "text": "Greg can reply anywhere on the Wave.",
+        "startTime": 11500,
+        "endTime": 13350,
+        "slowStartTime": 17580,
+        "slowEndTime": 20200
+    },
+    {
+        "text": "When I have the Wave open I can see what Greg types as he types it.",
+        "startTime": 18600,
+        "endTime": 22500,
+        "slowStartTime": 28200,
+        "slowEndTime": 33810
+    },
+    {
+        "text": "I'll add Anna to the Wave.",
+        "startTime": 24950,
+        "endTime": 26500,
+        "slowStartTime": 37700,
+        "slowEndTime": 39800
+    },
+    {
+        "text": "She can see everything we see.",
+        "startTime": 28450,
+        "endTime": 30000,
+        "slowStartTime": 42900,
+        "slowEndTime": 45200
+    },
+    {
+        "text": "Because it's a hosted conversation, anyone on the Wave can edit any part of the Wave.",
+        "startTime": 30600,
+        "endTime": 35600,
+        "slowStartTime": 46200,
+        "slowEndTime": 53600
+    },
+    {
+        "text": "You can see Greg and Anna editing right now.",
+        "startTime": 37400,
+        "endTime": 39700,
+        "slowStartTime": 56400,
+        "slowEndTime": 59800
+    },
+    {
+        "text": "If I close the Wave and they keep editing it,...",
+        "startTime": 44750,
+        "endTime": 46900,
+        "slowStartTime": 67300,
+        "slowEndTime": 70600
+    },
+    {
+        "text": "...their changes will be highlighted when I come back.",
+        "startTime": 47050,
+        "endTime": 49250,
+        "slowStartTime": 70800,
+        "slowEndTime": 74050
+    },
+    {
+        "text": "Let's say I wanna invite my friends to the barbecue, I'll create a new Wave.",
+        "startTime": 50250,
+        "endTime": 53500,
+        "slowStartTime": 75700,
+        "slowEndTime": 80500
+    },
+    {
+        "text": "I wanna know if they can attend so I'm going to add a Yes/No/Maybe Gadget to this Wave.",
+        "startTime": 54000,
+        "endTime": 58100,
+        "slowStartTime": 81250,
+        "slowEndTime": 87340
+    },
+    {
+        "text": "Gadgets are a way to present and collect information other than text.",
+        "startTime": 59050,
+        "endTime": 62450,
+        "slowStartTime": 88900,
+        "slowEndTime": 93900
+    },
+    {
+        "text": "Now, I'll add a group of my friends to the Wave, the Wavers.",
+        "startTime": 63600,
+        "endTime": 66300,
+        "slowStartTime": 95700,
+        "slowEndTime": 99600
+    },
+    {
+        "text": "Everyone in the group can see the Wave when they are online and respond.",
+        "startTime": 70550,
+        "endTime": 74000,
+        "slowStartTime": 106100,
+        "slowEndTime": 111300
+    },
+    {
+        "text": "You can see responses coming in now.",
+        "startTime": 75100,
+        "endTime": 76900,
+        "slowStartTime": 112900,
+        "slowEndTime": 115500
+    },
+    {
+        "text": "Why does Dan always say no to my barbecues?",
+        "startTime": 77850,
+        "endTime": 79900,
+        "slowStartTime": 117000,
+        "slowEndTime": 120000
+    },
+    {
+        "text": "If I wanna show people where the barbecue is,...",
+        "startTime": 81300,
+        "endTime": 83200,
+        "slowStartTime": 122200,
+        "slowEndTime": 125000
+    },
+    {
+        "text": "...I can highlight the address and add a map.",
+        "startTime": 83250,
+        "endTime": 85550,
+        "slowStartTime": 125200,
+        "slowEndTime": 128500
+    },
+    {
+        "text": "As I zoom in, you can see Greg's map changes too.",
+        "startTime": 86650,
+        "endTime": 89500,
+        "slowStartTime": 130290,
+        "slowEndTime": 134500
+    },
+    {
+        "text": "Any developer can build these gadgets.",
+        "startTime": 92100,
+        "endTime": 94050,
+        "slowStartTime": 138400,
+        "slowEndTime": 141300
+    }
+]

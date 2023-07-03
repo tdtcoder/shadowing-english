@@ -1,0 +1,198 @@
+[
+    {
+        "text": "An organization's business model can be described with nine basic building blocks:...",
+        "startTime": 5913,
+        "endTime": 10086,
+        "slowStartTime": 9020,
+        "slowEndTime": 15354
+    },
+    {
+        "text": "...your customer segments, your value proposition for each segment,...",
+        "startTime": 10364,
+        "endTime": 13665,
+        "slowStartTime": 15696,
+        "slowEndTime": 20723
+    },
+    {
+        "text": "...the channels to each customers, customer relationships you establish,...",
+        "startTime": 14020,
+        "endTime": 19345,
+        "slowStartTime": 21180,
+        "slowEndTime": 29242
+    },
+    {
+        "text": "...the revenue streams you generate, the key resources and key activities you require to create value,...",
+        "startTime": 19781,
+        "endTime": 25399,
+        "slowStartTime": 29822,
+        "slowEndTime": 38324
+    },
+    {
+        "text": "...the key partners and the cost structure of the business model.",
+        "startTime": 26665,
+        "endTime": 29901,
+        "slowStartTime": 40148,
+        "slowEndTime": 45077
+    },
+    {
+        "text": "But it's not sufficient to just enumerate the nine building blocks.",
+        "startTime": 31151,
+        "endTime": 34257,
+        "slowStartTime": 46876,
+        "slowEndTime": 51610
+    },
+    {
+        "text": "What you really want to do is to map them out on a prestructured canvas.",
+        "startTime": 34699,
+        "endTime": 38372,
+        "slowStartTime": 52198,
+        "slowEndTime": 57783
+    },
+    {
+        "text": "This is what we call the Business Model Canvas: the tool that helps you map, discuss,...",
+        "startTime": 42067,
+        "endTime": 46595,
+        "slowStartTime": 63251,
+        "slowEndTime": 70117
+    },
+    {
+        "text": "...design and invent new business models.",
+        "startTime": 46675,
+        "endTime": 49001,
+        "slowStartTime": 70162,
+        "slowEndTime": 73727
+    },
+    {
+        "text": "Let's briefly go through the nine building blocks starting with the customer segments.",
+        "startTime": 50331,
+        "endTime": 54249,
+        "slowStartTime": 75646,
+        "slowEndTime": 81599
+    },
+    {
+        "text": "These are all the people or organizations for which you're creating value.",
+        "startTime": 54562,
+        "endTime": 57609,
+        "slowStartTime": 81993,
+        "slowEndTime": 86638
+    },
+    {
+        "text": "This includes simple users and paying customers.",
+        "startTime": 58305,
+        "endTime": 60764,
+        "slowStartTime": 87608,
+        "slowEndTime": 91371
+    },
+    {
+        "text": "For each segment you have a specific value proposition,...",
+        "startTime": 62383,
+        "endTime": 65247,
+        "slowStartTime": 93724,
+        "slowEndTime": 98095
+    },
+    {
+        "text": "...these are the bundles of products and services that create value for your customers.",
+        "startTime": 65494,
+        "endTime": 68927,
+        "slowStartTime": 98391,
+        "slowEndTime": 103616
+    },
+    {
+        "text": "The channels describe through which touchpoints...",
+        "startTime": 69479,
+        "endTime": 71315,
+        "slowStartTime": 104368,
+        "slowEndTime": 107197
+    },
+    {
+        "text": "...you're interacting with customers and delivering value.",
+        "startTime": 71409,
+        "endTime": 73556,
+        "slowStartTime": 107264,
+        "slowEndTime": 110559
+    },
+    {
+        "text": "Customer relationships outline the type of relationship you're establishing with your customers.",
+        "startTime": 80414,
+        "endTime": 84502,
+        "slowStartTime": 120771,
+        "slowEndTime": 126978
+    },
+    {
+        "text": "The revenue streams make clear how and through which pricing mechanisms...",
+        "startTime": 87261,
+        "endTime": 90653,
+        "slowStartTime": 131041,
+        "slowEndTime": 136204
+    },
+    {
+        "text": "...your business model is capturing value.",
+        "startTime": 90727,
+        "endTime": 92451,
+        "slowStartTime": 136240,
+        "slowEndTime": 138902
+    },
+    {
+        "text": "Then, you need to describe the infrastructure to create, deliver and capture value.",
+        "startTime": 93844,
+        "endTime": 98567,
+        "slowStartTime": 140916,
+        "slowEndTime": 148076
+    },
+    {
+        "text": "The key resources show which assets are indispensable in your business model.",
+        "startTime": 98746,
+        "endTime": 102367,
+        "slowStartTime": 148269,
+        "slowEndTime": 153775
+    },
+    {
+        "text": "The key activities show which things you really need to be able to perform well.",
+        "startTime": 104010,
+        "endTime": 107651,
+        "slowStartTime": 156165,
+        "slowEndTime": 161701
+    },
+    {
+        "text": "The key partners show who can help you leverage your business model...",
+        "startTime": 108754,
+        "endTime": 111685,
+        "slowStartTime": 163281,
+        "slowEndTime": 167752
+    },
+    {
+        "text": "...since you won't earn all key resources yourself nor you perform all key activities.",
+        "startTime": 112032,
+        "endTime": 116804,
+        "slowStartTime": 168198,
+        "slowEndTime": 175431
+    },
+    {
+        "text": "Then, once you understand your business model's infrastructure...",
+        "startTime": 117035,
+        "endTime": 119885,
+        "slowStartTime": 175702,
+        "slowEndTime": 180053
+    },
+    {
+        "text": "...you'll also have an idea of its cost structure.",
+        "startTime": 120263,
+        "endTime": 122354,
+        "slowStartTime": 180545,
+        "slowEndTime": 183756
+    },
+    {
+        "text": "So with the Business Model Canvas, you can map out your entire business model in one image.",
+        "startTime": 123350,
+        "endTime": 128089,
+        "slowStartTime": 185175,
+        "slowEndTime": 192358
+    },
+    {
+        "text": "This works for start-up entrepreneurs, just as well as for the most senior executives.",
+        "startTime": 128801,
+        "endTime": 132913,
+        "slowStartTime": 193352,
+        "slowEndTime": 199594
+    }
+]

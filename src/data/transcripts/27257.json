@@ -1,0 +1,65 @@
+[
+    {
+        "text": "A reflexive pronoun is used when the one who receives the action is also the subject.",
+        "startTime": 699,
+        "endTime": 6284,
+        "slowStartTime": 1198,
+        "slowEndTime": 9651
+    },
+    {
+        "text": "Taking a selfie means taking a photo of oneself.",
+        "startTime": 12731,
+        "endTime": 17325,
+        "slowStartTime": 19247,
+        "slowEndTime": 26213
+    },
+    {
+        "text": "I'm taking a picture of myself.",
+        "startTime": 23411,
+        "endTime": 26333,
+        "slowStartTime": 35267,
+        "slowEndTime": 39725
+    },
+    {
+        "text": "Ellen, are you taking a photo of yourself?",
+        "startTime": 32419,
+        "endTime": 35713,
+        "slowStartTime": 48779,
+        "slowEndTime": 53794
+    },
+    {
+        "text": "She is taking a snapshot of herself.",
+        "startTime": 41569,
+        "endTime": 45172,
+        "slowStartTime": 62504,
+        "slowEndTime": 67983
+    },
+    {
+        "text": "He is taking a photograph of himself.",
+        "startTime": 51036,
+        "endTime": 54639,
+        "slowStartTime": 76704,
+        "slowEndTime": 82184
+    },
+    {
+        "text": "The goat is looking at itself.",
+        "startTime": 60628,
+        "endTime": 63612,
+        "slowStartTime": 91092,
+        "slowEndTime": 95643
+    },
+    {
+        "text": "We are taking a picture of ourselves.",
+        "startTime": 69647,
+        "endTime": 73126,
+        "slowStartTime": 104620,
+        "slowEndTime": 109914
+    },
+    {
+        "text": "The couple is taking a photo of themselves.",
+        "startTime": 79297,
+        "endTime": 83024,
+        "slowStartTime": 119095,
+        "slowEndTime": 124761
+    }
+]

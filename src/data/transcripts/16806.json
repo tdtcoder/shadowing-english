@@ -1,0 +1,135 @@
+[
+    {
+        "text": "A mother pig and her three little pigs live in a house.",
+        "startTime": 11,
+        "endTime": 4314,
+        "slowStartTime": 146,
+        "slowEndTime": 6696
+    },
+    {
+        "text": "The three little pigs play in the yard.",
+        "startTime": 5361,
+        "endTime": 8153,
+        "slowStartTime": 8192,
+        "slowEndTime": 12455
+    },
+    {
+        "text": "One, two, three, four, five.",
+        "startTime": 9095,
+        "endTime": 14581,
+        "slowStartTime": 13793,
+        "slowEndTime": 22096
+    },
+    {
+        "text": "The first little pig is so lazy.",
+        "startTime": 15363,
+        "endTime": 18257,
+        "slowStartTime": 23194,
+        "slowEndTime": 27610
+    },
+    {
+        "text": "The second little pig likes to make everything pretty.",
+        "startTime": 19259,
+        "endTime": 23255,
+        "slowStartTime": 29038,
+        "slowEndTime": 35108
+    },
+    {
+        "text": "The third little pig is so wise and diligent.",
+        "startTime": 23948,
+        "endTime": 28009,
+        "slowStartTime": 36072,
+        "slowEndTime": 42239
+    },
+    {
+        "text": "Dears! Come here!",
+        "startTime": 28923,
+        "endTime": 31522,
+        "slowStartTime": 43534,
+        "slowEndTime": 47508
+    },
+    {
+        "text": "Boys, listen to me.",
+        "startTime": 32415,
+        "endTime": 34786,
+        "slowStartTime": 48772,
+        "slowEndTime": 52404
+    },
+    {
+        "text": "It's time for you to live alone.",
+        "startTime": 35816,
+        "endTime": 38955,
+        "slowStartTime": 53874,
+        "slowEndTime": 58657
+    },
+    {
+        "text": "Live alone?",
+        "startTime": 39930,
+        "endTime": 41846,
+        "slowStartTime": 60045,
+        "slowEndTime": 62994
+    },
+    {
+        "text": "Yes. You're not babies anymore.",
+        "startTime": 42689,
+        "endTime": 46655,
+        "slowStartTime": 64184,
+        "slowEndTime": 70208
+    },
+    {
+        "text": "You must build your own houses.",
+        "startTime": 47529,
+        "endTime": 50437,
+        "slowStartTime": 71444,
+        "slowEndTime": 75880
+    },
+    {
+        "text": "Watch out for the big bad wolf.",
+        "startTime": 51371,
+        "endTime": 54794,
+        "slowStartTime": 77207,
+        "slowEndTime": 82416
+    },
+    {
+        "text": "He likes to eat little pigs.",
+        "startTime": 55694,
+        "endTime": 58651,
+        "slowStartTime": 83691,
+        "slowEndTime": 88202
+    },
+    {
+        "text": "Okay.",
+        "startTime": 59539,
+        "endTime": 60685,
+        "slowStartTime": 89459,
+        "slowEndTime": 91252
+    },
+    {
+        "text": "Okay, I will.",
+        "startTime": 61691,
+        "endTime": 63678,
+        "slowStartTime": 92686,
+        "slowEndTime": 95742
+    },
+    {
+        "text": "I'll build a straw house.",
+        "startTime": 64669,
+        "endTime": 67049,
+        "slowStartTime": 97153,
+        "slowEndTime": 100798
+    },
+    {
+        "text": "I want to make it quickly.",
+        "startTime": 68058,
+        "endTime": 70447,
+        "slowStartTime": 102237,
+        "slowEndTime": 105896
+    },
+    {
+        "text": "The first little pig builds a house out of straw.",
+        "startTime": 71221,
+        "endTime": 75161,
+        "slowStartTime": 106982,
+        "slowEndTime": 112967
+    }
+]

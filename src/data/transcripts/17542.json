@@ -1,0 +1,142 @@
+[
+    {
+        "text": "King.",
+        "startTime": 2671,
+        "endTime": 3251,
+        "slowStartTime": 4157,
+        "slowEndTime": 5102
+    },
+    {
+        "text": "The king is powerful.",
+        "startTime": 3991,
+        "endTime": 5489,
+        "slowStartTime": 6137,
+        "slowEndTime": 8458
+    },
+    {
+        "text": "The king is very powerful.",
+        "startTime": 6892,
+        "endTime": 8762,
+        "slowStartTime": 10488,
+        "slowEndTime": 13368
+    },
+    {
+        "text": "Ring.",
+        "startTime": 10193,
+        "endTime": 10819,
+        "slowStartTime": 15439,
+        "slowEndTime": 16454
+    },
+    {
+        "text": "The ring is expensive.",
+        "startTime": 11629,
+        "endTime": 13333,
+        "slowStartTime": 17594,
+        "slowEndTime": 20225
+    },
+    {
+        "text": "The ring is quite expensive.",
+        "startTime": 14593,
+        "endTime": 16681,
+        "slowStartTime": 22040,
+        "slowEndTime": 25247
+    },
+    {
+        "text": "Sing.",
+        "startTime": 17994,
+        "endTime": 18565,
+        "slowStartTime": 27141,
+        "slowEndTime": 28072
+    },
+    {
+        "text": "I will sing.",
+        "startTime": 19349,
+        "endTime": 20283,
+        "slowStartTime": 29173,
+        "slowEndTime": 30649
+    },
+    {
+        "text": "I will sing my favorite song.",
+        "startTime": 21662,
+        "endTime": 23637,
+        "slowStartTime": 32643,
+        "slowEndTime": 35680
+    },
+    {
+        "text": "Wing.",
+        "startTime": 25018,
+        "endTime": 25753,
+        "slowStartTime": 37677,
+        "slowEndTime": 38855
+    },
+    {
+        "text": "The bird has wings.",
+        "startTime": 26431,
+        "endTime": 28139,
+        "slowStartTime": 39797,
+        "slowEndTime": 42434
+    },
+    {
+        "text": "The bird has big wings.",
+        "startTime": 29382,
+        "endTime": 31341,
+        "slowStartTime": 44223,
+        "slowEndTime": 47237
+    },
+    {
+        "text": "There are many, many kinds of caretakers.",
+        "startTime": 36783,
+        "endTime": 40028,
+        "slowStartTime": 55324,
+        "slowEndTime": 60267
+    },
+    {
+        "text": "The gardener takes care of gardens.",
+        "startTime": 40276,
+        "endTime": 43201,
+        "slowStartTime": 60564,
+        "slowEndTime": 65026
+    },
+    {
+        "text": "The road worker takes care of the roads.",
+        "startTime": 44045,
+        "endTime": 46703,
+        "slowStartTime": 66218,
+        "slowEndTime": 70279
+    },
+    {
+        "text": "The babysitter takes care of babies.",
+        "startTime": 47787,
+        "endTime": 50618,
+        "slowStartTime": 71831,
+        "slowEndTime": 76152
+    },
+    {
+        "text": "The dentist takes care of teeth.",
+        "startTime": 51563,
+        "endTime": 54031,
+        "slowStartTime": 77495,
+        "slowEndTime": 81271
+    },
+    {
+        "text": "The vet takes care of animals.",
+        "startTime": 55313,
+        "endTime": 58210,
+        "slowStartTime": 83119,
+        "slowEndTime": 87540
+    },
+    {
+        "text": "The doctor takes care of people.",
+        "startTime": 59063,
+        "endTime": 61725,
+        "slowStartTime": 88744,
+        "slowEndTime": 92812
+    },
+    {
+        "text": "Firefighters and police officers take care of people, too.",
+        "startTime": 63016,
+        "endTime": 68075,
+        "slowStartTime": 94674,
+        "slowEndTime": 102338
+    }
+]

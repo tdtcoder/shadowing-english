@@ -1,0 +1,37 @@
+[
+    {
+        "text": "30% of Brazilians believe that human cloning will never happen.",
+        "startTime": 2850,
+        "endTime": 7600,
+        "slowStartTime": 4450,
+        "slowEndTime": 11410
+    },
+    {
+        "text": "34% of Americans see it happening sometime in the future.",
+        "startTime": 11110,
+        "endTime": 15680,
+        "slowStartTime": 16790,
+        "slowEndTime": 23510
+    },
+    {
+        "text": "While 55% of Taiwanese think it has already happened...",
+        "startTime": 16980,
+        "endTime": 21980,
+        "slowStartTime": 25640,
+        "slowEndTime": 32845
+    },
+    {
+        "text": "...somewhere in secret.",
+        "startTime": 23690,
+        "endTime": 26220,
+        "slowStartTime": 35630,
+        "slowEndTime": 39565
+    },
+    {
+        "text": "HSBC, the world's local bank.",
+        "startTime": 27090,
+        "endTime": 29520,
+        "slowStartTime": 40750,
+        "slowEndTime": 44420
+    }
+]

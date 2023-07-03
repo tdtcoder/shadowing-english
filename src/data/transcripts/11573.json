@@ -1,0 +1,114 @@
+[
+    {
+        "text": "We shall go on to the end.",
+        "startTime": 450,
+        "endTime": 2000,
+        "slowStartTime": 800,
+        "slowEndTime": 3200
+    },
+    {
+        "text": "We shall fight in France.",
+        "startTime": 2950,
+        "endTime": 4650,
+        "slowStartTime": 4600,
+        "slowEndTime": 7200
+    },
+    {
+        "text": "We shall fight on the seas and oceans.",
+        "startTime": 5350,
+        "endTime": 7700,
+        "slowStartTime": 8200,
+        "slowEndTime": 11800
+    },
+    {
+        "text": "We shall fight with growing confidence and growing strength in the air.",
+        "startTime": 8500,
+        "endTime": 13050,
+        "slowStartTime": 13000,
+        "slowEndTime": 19800
+    },
+    {
+        "text": "We shall defend our island, whatever the cost may be.",
+        "startTime": 14450,
+        "endTime": 17800,
+        "slowStartTime": 21850,
+        "slowEndTime": 26900
+    },
+    {
+        "text": "We shall fight on the beaches.",
+        "startTime": 18500,
+        "endTime": 20050,
+        "slowStartTime": 27900,
+        "slowEndTime": 30300
+    },
+    {
+        "text": "We shall fight on the landing grounds.",
+        "startTime": 20700,
+        "endTime": 22800,
+        "slowStartTime": 31200,
+        "slowEndTime": 34400
+    },
+    {
+        "text": "We shall fight in the fields and in the streets.",
+        "startTime": 23400,
+        "endTime": 26750,
+        "slowStartTime": 35300,
+        "slowEndTime": 40500
+    },
+    {
+        "text": "We shall fight in the hills.",
+        "startTime": 27100,
+        "endTime": 28700,
+        "slowStartTime": 40800,
+        "slowEndTime": 43400
+    },
+    {
+        "text": "We shall never surrender.",
+        "startTime": 29550,
+        "endTime": 30900,
+        "slowStartTime": 44450,
+        "slowEndTime": 46650
+    },
+    {
+        "text": "And if, which I do not for a moment believe,...",
+        "startTime": 31450,
+        "endTime": 35200,
+        "slowStartTime": 47350,
+        "slowEndTime": 53000
+    },
+    {
+        "text": "...this island or a large part of it were subjugated and starving,...",
+        "startTime": 36050,
+        "endTime": 40700,
+        "slowStartTime": 54300,
+        "slowEndTime": 61400
+    },
+    {
+        "text": "...then our empire beyond the seas, armed and guarded by the British Fleet...",
+        "startTime": 41500,
+        "endTime": 47500,
+        "slowStartTime": 62400,
+        "slowEndTime": 71500
+    },
+    {
+        "text": "...would carry on the struggle.",
+        "startTime": 48200,
+        "endTime": 49750,
+        "slowStartTime": 72500,
+        "slowEndTime": 74900
+    },
+    {
+        "text": "Until, in God's good time, the new world, with all its power and might...",
+        "startTime": 50300,
+        "endTime": 56100,
+        "slowStartTime": 75700,
+        "slowEndTime": 84400
+    },
+    {
+        "text": "...steps forth to the rescue and the liberation of the old.",
+        "startTime": 56500,
+        "endTime": 60500,
+        "slowStartTime": 84900,
+        "slowEndTime": 90900
+    }
+]

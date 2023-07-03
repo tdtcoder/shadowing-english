@@ -1,0 +1,72 @@
+[
+    {
+        "text": "﻿Use \"this\" or \"that\" when there is only one.",
+        "startTime": 1625,
+        "endTime": 5369,
+        "slowStartTime": 2587,
+        "slowEndTime": 8279
+    },
+    {
+        "text": "Use \"these\" or \"those\" when there are many.",
+        "startTime": 6080,
+        "endTime": 9467,
+        "slowStartTime": 9270,
+        "slowEndTime": 14425
+    },
+    {
+        "text": "This is a broken car.",
+        "startTime": 17608,
+        "endTime": 19481,
+        "slowStartTime": 26562,
+        "slowEndTime": 29447
+    },
+    {
+        "text": "That is a yellow car.",
+        "startTime": 27622,
+        "endTime": 29628,
+        "slowStartTime": 41583,
+        "slowEndTime": 44667
+    },
+    {
+        "text": "This is my apple.",
+        "startTime": 38300,
+        "endTime": 39643,
+        "slowStartTime": 57600,
+        "slowEndTime": 59689
+    },
+    {
+        "text": "Why did you throw that?",
+        "startTime": 47784,
+        "endTime": 49193,
+        "slowStartTime": 71826,
+        "slowEndTime": 74015
+    },
+    {
+        "text": "These are my shoes.",
+        "startTime": 55212,
+        "endTime": 56820,
+        "slowStartTime": 82968,
+        "slowEndTime": 85455
+    },
+    {
+        "text": "Those are his shoes.",
+        "startTime": 64862,
+        "endTime": 67001,
+        "slowStartTime": 97443,
+        "slowEndTime": 100726
+    },
+    {
+        "text": "These are my glasses.",
+        "startTime": 73218,
+        "endTime": 74859,
+        "slowStartTime": 109977,
+        "slowEndTime": 112514
+    },
+    {
+        "text": "Girls, are those your clothes? They're pretty.",
+        "startTime": 81973,
+        "endTime": 85504,
+        "slowStartTime": 123109,
+        "slowEndTime": 128481
+    }
+]

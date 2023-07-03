@@ -1,0 +1,58 @@
+[
+    {
+        "text": "I saw one dog.",
+        "startTime": 3699,
+        "endTime": 5376,
+        "slowStartTime": 5699,
+        "slowEndTime": 8289
+    },
+    {
+        "text": "I saw two dogs.",
+        "startTime": 6981,
+        "endTime": 8385,
+        "slowStartTime": 10621,
+        "slowEndTime": 12803
+    },
+    {
+        "text": "There is one student in the classroom.",
+        "startTime": 10151,
+        "endTime": 12217,
+        "slowStartTime": 15376,
+        "slowEndTime": 18550
+    },
+    {
+        "text": "There are two students in the classroom.",
+        "startTime": 13947,
+        "endTime": 16198,
+        "slowStartTime": 21071,
+        "slowEndTime": 24522
+    },
+    {
+        "text": "I have one potato.",
+        "startTime": 21268,
+        "endTime": 22606,
+        "slowStartTime": 32052,
+        "slowEndTime": 34134
+    },
+    {
+        "text": "I have two potatoes.",
+        "startTime": 24186,
+        "endTime": 25385,
+        "slowStartTime": 36429,
+        "slowEndTime": 38303
+    },
+    {
+        "text": "There is one box.",
+        "startTime": 26885,
+        "endTime": 28214,
+        "slowStartTime": 40478,
+        "slowEndTime": 42546
+    },
+    {
+        "text": "There are two boxes.",
+        "startTime": 29735,
+        "endTime": 31345,
+        "slowStartTime": 44752,
+        "slowEndTime": 47242
+    }
+]

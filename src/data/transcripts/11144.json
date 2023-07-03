@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Good afternoon.",
+        "startTime": 2500,
+        "endTime": 3450,
+        "slowStartTime": 3900,
+        "slowEndTime": 5400
+    },
+    {
+        "text": "I have an appointment with Mr. Miller.",
+        "startTime": 3650,
+        "endTime": 5600,
+        "slowStartTime": 5700,
+        "slowEndTime": 8600
+    },
+    {
+        "text": "Please, take a seat.",
+        "startTime": 7250,
+        "endTime": 8300,
+        "slowStartTime": 11100,
+        "slowEndTime": 12700
+    },
+    {
+        "text": "Mr. Miller is taking a conference call at the moment.",
+        "startTime": 8550,
+        "endTime": 11250,
+        "slowStartTime": 13000,
+        "slowEndTime": 17100
+    },
+    {
+        "text": "Mr. Miller, are you free?",
+        "startTime": 12300,
+        "endTime": 13900,
+        "slowStartTime": 18650,
+        "slowEndTime": 21000
+    },
+    {
+        "text": "You may go in now.",
+        "startTime": 14700,
+        "endTime": 15800,
+        "slowStartTime": 22200,
+        "slowEndTime": 23900
+    },
+    {
+        "text": "How do you do, Miss...",
+        "startTime": 17300,
+        "endTime": 18700,
+        "slowStartTime": 26100,
+        "slowEndTime": 28400
+    },
+    {
+        "text": "I'm sorry, I didn't catch your name.",
+        "startTime": 18950,
+        "endTime": 20700,
+        "slowStartTime": 28600,
+        "slowEndTime": 31400
+    },
+    {
+        "text": "Linda Strait.",
+        "startTime": 21000,
+        "endTime": 21950,
+        "slowStartTime": 31700,
+        "slowEndTime": 33100
+    },
+    {
+        "text": "Please call me Linda.",
+        "startTime": 22200,
+        "endTime": 23300,
+        "slowStartTime": 33500,
+        "slowEndTime": 35200
+    },
+    {
+        "text": "A pleasure to meet you, Linda.",
+        "startTime": 23600,
+        "endTime": 25000,
+        "slowStartTime": 35600,
+        "slowEndTime": 37700
+    },
+    {
+        "text": "I hope you have a chance to look around our beautiful city before you fly back.",
+        "startTime": 25400,
+        "endTime": 29300,
+        "slowStartTime": 38350,
+        "slowEndTime": 44100
+    },
+    {
+        "text": "How was the flight coming here, by the way?",
+        "startTime": 29800,
+        "endTime": 31600,
+        "slowStartTime": 44850,
+        "slowEndTime": 47700
+    },
+    {
+        "text": "It was fine.",
+        "startTime": 31950,
+        "endTime": 32800,
+        "slowStartTime": 48100,
+        "slowEndTime": 49500
+    },
+    {
+        "text": "I thought I might be late because the flight was delayed by the miserable weather back home.",
+        "startTime": 33200,
+        "endTime": 37700,
+        "slowStartTime": 50000,
+        "slowEndTime": 56800
+    },
+    {
+        "text": "But the pilot somehow managed to make up the time.",
+        "startTime": 38050,
+        "endTime": 40900,
+        "slowStartTime": 57300,
+        "slowEndTime": 61550
+    }
+]

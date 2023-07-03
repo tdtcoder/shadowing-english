@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Rio de Janeiro is famous for its picturesque beaches...",
+        "startTime": 4240,
+        "endTime": 7391,
+        "slowStartTime": 6510,
+        "slowEndTime": 11312
+    },
+    {
+        "text": "...as well as the enormous statue...",
+        "startTime": 9512,
+        "endTime": 11495,
+        "slowStartTime": 14418,
+        "slowEndTime": 17467
+    },
+    {
+        "text": "...called Christ the Redeemer, 93 feet tall.",
+        "startTime": 11630,
+        "endTime": 16394,
+        "slowStartTime": 17595,
+        "slowEndTime": 24816
+    },
+    {
+        "text": "The figure is perched...",
+        "startTime": 17291,
+        "endTime": 18515,
+        "slowStartTime": 26087,
+        "slowEndTime": 27997
+    },
+    {
+        "text": "...atop the peak of Corcovado mountain,...",
+        "startTime": 19194,
+        "endTime": 21452,
+        "slowStartTime": 28941,
+        "slowEndTime": 32403
+    },
+    {
+        "text": "...watching over the city below.",
+        "startTime": 22347,
+        "endTime": 24357,
+        "slowStartTime": 33671,
+        "slowEndTime": 36761
+    }
+]

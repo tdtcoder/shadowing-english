@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Do you know Eric?",
+        "startTime": 2249,
+        "endTime": 3477,
+        "slowStartTime": 3523,
+        "slowEndTime": 5441
+    },
+    {
+        "text": "My friends say that he is the most handsome boy in our school.",
+        "startTime": 4024,
+        "endTime": 8718,
+        "slowStartTime": 6186,
+        "slowEndTime": 13302
+    },
+    {
+        "text": "Is he?",
+        "startTime": 9839,
+        "endTime": 10449,
+        "slowStartTime": 14908,
+        "slowEndTime": 15898
+    },
+    {
+        "text": "I don't know him at all.",
+        "startTime": 10985,
+        "endTime": 12817,
+        "slowStartTime": 16628,
+        "slowEndTime": 19451
+    },
+    {
+        "text": "Congratulations!",
+        "startTime": 15927,
+        "endTime": 17129,
+        "slowStartTime": 24040,
+        "slowEndTime": 25919
+    },
+    {
+        "text": "You got a much better score than me.",
+        "startTime": 17425,
+        "endTime": 19875,
+        "slowStartTime": 26288,
+        "slowEndTime": 30037
+    },
+    {
+        "text": "But I'm not happy with it at all.",
+        "startTime": 20957,
+        "endTime": 23385,
+        "slowStartTime": 31586,
+        "slowEndTime": 35302
+    },
+    {
+        "text": "I wanted to get a full mark.",
+        "startTime": 24013,
+        "endTime": 26073,
+        "slowStartTime": 36169,
+        "slowEndTime": 39335
+    },
+    {
+        "text": "My sister is very smart.",
+        "startTime": 29181,
+        "endTime": 31534,
+        "slowStartTime": 43921,
+        "slowEndTime": 47526
+    },
+    {
+        "text": "She doesn't worry about the test at all.",
+        "startTime": 31913,
+        "endTime": 34594,
+        "slowStartTime": 48019,
+        "slowEndTime": 52116
+    },
+    {
+        "text": "Does she always get a good score?",
+        "startTime": 35685,
+        "endTime": 37899,
+        "slowStartTime": 53677,
+        "slowEndTime": 57074
+    },
+    {
+        "text": "Sure.",
+        "startTime": 38985,
+        "endTime": 39609,
+        "slowStartTime": 58628,
+        "slowEndTime": 59639
+    },
+    {
+        "text": "I envy her.",
+        "startTime": 40078,
+        "endTime": 41295,
+        "slowStartTime": 60267,
+        "slowEndTime": 62167
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "text": "﻿Here is a man working hard,...",
+        "startTime": 3736,
+        "endTime": 6844,
+        "slowStartTime": 5754,
+        "slowEndTime": 10491
+    },
+    {
+        "text": "...pushing his limits.",
+        "startTime": 7340,
+        "endTime": 8801,
+        "slowStartTime": 11160,
+        "slowEndTime": 13426
+    },
+    {
+        "text": "You got this?",
+        "startTime": 9823,
+        "endTime": 10794,
+        "slowStartTime": 14884,
+        "slowEndTime": 16416
+    },
+    {
+        "text": "I got this.",
+        "startTime": 11598,
+        "endTime": 12479,
+        "slowStartTime": 17547,
+        "slowEndTime": 18944
+    },
+    {
+        "text": "Cool, he's got this.",
+        "startTime": 12917,
+        "endTime": 14003,
+        "slowStartTime": 19525,
+        "slowEndTime": 21230
+    },
+    {
+        "text": "Wait, you don't have arms.",
+        "startTime": 15211,
+        "endTime": 16752,
+        "slowStartTime": 22966,
+        "slowEndTime": 25353
+    },
+    {
+        "text": "But you don't have legs, either.",
+        "startTime": 17518,
+        "endTime": 19315,
+        "slowStartTime": 26427,
+        "slowEndTime": 29198
+    },
+    {
+        "text": "Oh, really?",
+        "startTime": 20053,
+        "endTime": 20717,
+        "slowStartTime": 30230,
+        "slowEndTime": 31300
+    },
+    {
+        "text": "I must have left them at home.",
+        "startTime": 21123,
+        "endTime": 22295,
+        "slowStartTime": 31835,
+        "slowEndTime": 33667
+    },
+    {
+        "text": "You left them at...",
+        "startTime": 22621,
+        "endTime": 23335,
+        "slowStartTime": 34081,
+        "slowEndTime": 35228
+    },
+    {
+        "text": "Dude, that's not funny.",
+        "startTime": 23491,
+        "endTime": 24359,
+        "slowStartTime": 35387,
+        "slowEndTime": 36764
+    },
+    {
+        "text": "You're on top of a mountain!",
+        "startTime": 24459,
+        "endTime": 25603,
+        "slowStartTime": 36839,
+        "slowEndTime": 38630
+    },
+    {
+        "text": "It's dangerous.",
+        "startTime": 25866,
+        "endTime": 26924,
+        "slowStartTime": 38949,
+        "slowEndTime": 40611
+    }
+]

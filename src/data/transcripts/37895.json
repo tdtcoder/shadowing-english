@@ -1,0 +1,163 @@
+[
+    {
+        "text": "The Google Data Center in Dublin, Ireland.",
+        "startTime": 155,
+        "endTime": 2727,
+        "slowStartTime": 382,
+        "slowEndTime": 4240
+    },
+    {
+        "text": "The scale of what we do here can be kind of crazy.",
+        "startTime": 3557,
+        "endTime": 6623,
+        "slowStartTime": 5486,
+        "slowEndTime": 10084
+    },
+    {
+        "text": "Millions of searches a day goes through those machines.",
+        "startTime": 7238,
+        "endTime": 9879,
+        "slowStartTime": 11007,
+        "slowEndTime": 14968
+    },
+    {
+        "text": "That's why they're very loud and they produce lots of heat.",
+        "startTime": 10326,
+        "endTime": 12741,
+        "slowStartTime": 15639,
+        "slowEndTime": 19261
+    },
+    {
+        "text": "That means they're constantly working, constantly answering your queries.",
+        "startTime": 12783,
+        "endTime": 16056,
+        "slowStartTime": 19325,
+        "slowEndTime": 24234
+    },
+    {
+        "text": "And so how do we really store the web, so to speak?",
+        "startTime": 17562,
+        "endTime": 20754,
+        "slowStartTime": 26493,
+        "slowEndTime": 31281
+    },
+    {
+        "text": "The way to think about it is we take the internet, download it,...",
+        "startTime": 21718,
+        "endTime": 25543,
+        "slowStartTime": 32727,
+        "slowEndTime": 38464
+    },
+    {
+        "text": "...index it, and chop it into small pieces, and then each server has a small piece.",
+        "startTime": 25900,
+        "endTime": 33575,
+        "slowStartTime": 39000,
+        "slowEndTime": 50513
+    },
+    {
+        "text": "All of the servers for that data center work together...",
+        "startTime": 34585,
+        "endTime": 37467,
+        "slowStartTime": 52028,
+        "slowEndTime": 56351
+    },
+    {
+        "text": "...to each search their little part of the internet.",
+        "startTime": 37524,
+        "endTime": 40275,
+        "slowStartTime": 56436,
+        "slowEndTime": 60562
+    },
+    {
+        "text": "And it literally takes millions of servers and hard drives...",
+        "startTime": 41140,
+        "endTime": 44515,
+        "slowStartTime": 61860,
+        "slowEndTime": 66923
+    },
+    {
+        "text": "...to be able to support the world's websites.",
+        "startTime": 44659,
+        "endTime": 46649,
+        "slowStartTime": 67139,
+        "slowEndTime": 70123
+    },
+    {
+        "text": "So each of these data centers has a complete copy of the web.",
+        "startTime": 47919,
+        "endTime": 52392,
+        "slowStartTime": 72028,
+        "slowEndTime": 78738
+    },
+    {
+        "text": "So if you're in France or if you're in South Africa, you're not sending...",
+        "startTime": 53347,
+        "endTime": 57435,
+        "slowStartTime": 80170,
+        "slowEndTime": 86302
+    },
+    {
+        "text": "...a query that goes through the wires on underwater cables...",
+        "startTime": 57538,
+        "endTime": 60019,
+        "slowStartTime": 86457,
+        "slowEndTime": 90179
+    },
+    {
+        "text": "...and comes from Mountain View, asks that question, then we send it back.",
+        "startTime": 60143,
+        "endTime": 62849,
+        "slowStartTime": 90364,
+        "slowEndTime": 94424
+    },
+    {
+        "text": "That's just not possible.",
+        "startTime": 63601,
+        "endTime": 64498,
+        "slowStartTime": 95552,
+        "slowEndTime": 96897
+    },
+    {
+        "text": "That's never going to work as a solution that's fast.",
+        "startTime": 64680,
+        "endTime": 66801,
+        "slowStartTime": 97170,
+        "slowEndTime": 100351
+    },
+    {
+        "text": "How it actually works is you go into Google and you type in a search,..",
+        "startTime": 67899,
+        "endTime": 71360,
+        "slowStartTime": 101999,
+        "slowEndTime": 107190
+    },
+    {
+        "text": "...then we direct your query to the data center that is closest.",
+        "startTime": 74349,
+        "endTime": 78555,
+        "slowStartTime": 111673,
+        "slowEndTime": 117983
+    },
+    {
+        "text": "And so that's actually the reason why we have data centers everywhere,...",
+        "startTime": 79059,
+        "endTime": 82297,
+        "slowStartTime": 118738,
+        "slowEndTime": 123595
+    },
+    {
+        "text": "...because we want to be close to the users that we're serving.",
+        "startTime": 82595,
+        "endTime": 85065,
+        "slowStartTime": 124043,
+        "slowEndTime": 127747
+    },
+    {
+        "text": "Because that's the only way to get you the most accurate response as fast as possible.",
+        "startTime": 85427,
+        "endTime": 89813,
+        "slowStartTime": 128290,
+        "slowEndTime": 134870
+    }
+]

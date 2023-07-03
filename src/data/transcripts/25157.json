@@ -1,0 +1,93 @@
+[
+    {
+        "text": "We use \"can\" to show that someone is able to do something.",
+        "startTime": 1384,
+        "endTime": 5576,
+        "slowStartTime": 2226,
+        "slowEndTime": 8589
+    },
+    {
+        "text": "They can dance!",
+        "startTime": 9395,
+        "endTime": 11506,
+        "slowStartTime": 14242,
+        "slowEndTime": 17484
+    },
+    {
+        "text": "They can't dance.",
+        "startTime": 15751,
+        "endTime": 18526,
+        "slowStartTime": 23777,
+        "slowEndTime": 28014
+    },
+    {
+        "text": "He can jump.",
+        "startTime": 22815,
+        "endTime": 25147,
+        "slowStartTime": 34372,
+        "slowEndTime": 37945
+    },
+    {
+        "text": "She can't jump.",
+        "startTime": 29493,
+        "endTime": 31909,
+        "slowStartTime": 44390,
+        "slowEndTime": 48089
+    },
+    {
+        "text": "The baby can swim.",
+        "startTime": 37287,
+        "endTime": 39048,
+        "slowStartTime": 56080,
+        "slowEndTime": 58797
+    },
+    {
+        "text": "He can't swim.",
+        "startTime": 44020,
+        "endTime": 45558,
+        "slowStartTime": 66180,
+        "slowEndTime": 68562
+    },
+    {
+        "text": "The man can cook.",
+        "startTime": 50892,
+        "endTime": 52849,
+        "slowStartTime": 76488,
+        "slowEndTime": 79498
+    },
+    {
+        "text": "This guy can't cook.",
+        "startTime": 57105,
+        "endTime": 59309,
+        "slowStartTime": 85807,
+        "slowEndTime": 89188
+    },
+    {
+        "text": "He can drive well.",
+        "startTime": 65353,
+        "endTime": 67701,
+        "slowStartTime": 98180,
+        "slowEndTime": 101776
+    },
+    {
+        "text": "They can't drive well.",
+        "startTime": 73083,
+        "endTime": 75907,
+        "slowStartTime": 109775,
+        "slowEndTime": 114085
+    },
+    {
+        "text": "He can play golf.",
+        "startTime": 83083,
+        "endTime": 85170,
+        "slowStartTime": 124775,
+        "slowEndTime": 127980
+    },
+    {
+        "text": "He can't play golf.",
+        "startTime": 94019,
+        "endTime": 96387,
+        "slowStartTime": 141179,
+        "slowEndTime": 144806
+    }
+]

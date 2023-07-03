@@ -1,0 +1,93 @@
+[
+    {
+        "text": "I have two eyes so I can see...",
+        "startTime": 7324,
+        "endTime": 10373,
+        "slowStartTime": 11136,
+        "slowEndTime": 15784
+    },
+    {
+        "text": "...and the nose to smell.",
+        "startTime": 10828,
+        "endTime": 13038,
+        "slowStartTime": 16392,
+        "slowEndTime": 19782
+    },
+    {
+        "text": "I have ten fingers that can touch.",
+        "startTime": 13663,
+        "endTime": 16838,
+        "slowStartTime": 20645,
+        "slowEndTime": 25482
+    },
+    {
+        "text": "They do it very well.",
+        "startTime": 17115,
+        "endTime": 19664,
+        "slowStartTime": 25823,
+        "slowEndTime": 29721
+    },
+    {
+        "text": "I have two ears, so I can hear the birds up in the trees.",
+        "startTime": 20089,
+        "endTime": 25983,
+        "slowStartTime": 30284,
+        "slowEndTime": 39200
+    },
+    {
+        "text": "I have a tongue inside my mouth to taste the food I eat.",
+        "startTime": 26485,
+        "endTime": 32187,
+        "slowStartTime": 39878,
+        "slowEndTime": 48505
+    },
+    {
+        "text": "I have two eyes, so I can see...",
+        "startTime": 32497,
+        "endTime": 36039,
+        "slowStartTime": 48896,
+        "slowEndTime": 54283
+    },
+    {
+        "text": "...and the nose to smell.",
+        "startTime": 36486,
+        "endTime": 38727,
+        "slowStartTime": 54879,
+        "slowEndTime": 58315
+    },
+    {
+        "text": "I have ten fingers that can touch.",
+        "startTime": 39256,
+        "endTime": 42449,
+        "slowStartTime": 59034,
+        "slowEndTime": 63898
+    },
+    {
+        "text": "They do it very well.",
+        "startTime": 42677,
+        "endTime": 44949,
+        "slowStartTime": 64166,
+        "slowEndTime": 67649
+    },
+    {
+        "text": "I have two ears, so I can hear the birds up in the trees.",
+        "startTime": 45688,
+        "endTime": 51644,
+        "slowStartTime": 68682,
+        "slowEndTime": 77691
+    },
+    {
+        "text": "I have a tongue inside my mouth to taste the food I eat.",
+        "startTime": 52073,
+        "endTime": 57905,
+        "slowStartTime": 78260,
+        "slowEndTime": 87083
+    },
+    {
+        "text": "Hmm, apples.",
+        "startTime": 58842,
+        "endTime": 60658,
+        "slowStartTime": 88413,
+        "slowEndTime": 91212
+    }
+]

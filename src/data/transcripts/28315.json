@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Let's learn words used when traveling.",
+        "startTime": 969,
+        "endTime": 3745,
+        "slowStartTime": 1603,
+        "slowEndTime": 5843
+    },
+    {
+        "text": "You can get your luggage at the baggage claim area.",
+        "startTime": 9799,
+        "endTime": 13061,
+        "slowStartTime": 14849,
+        "slowEndTime": 19816
+    },
+    {
+        "text": "I'm staying in an airport hotel to avoid the traffic.",
+        "startTime": 19403,
+        "endTime": 23047,
+        "slowStartTime": 29254,
+        "slowEndTime": 34795
+    },
+    {
+        "text": "Their carry-on baggage won't fit in the overhead bin.",
+        "startTime": 28822,
+        "endTime": 32521,
+        "slowStartTime": 43383,
+        "slowEndTime": 49006
+    },
+    {
+        "text": "Make sure you have enough local currency.",
+        "startTime": 38750,
+        "endTime": 41061,
+        "slowStartTime": 58275,
+        "slowEndTime": 61817
+    },
+    {
+        "text": "Go to the foreign exchange to change your money.",
+        "startTime": 47298,
+        "endTime": 50213,
+        "slowStartTime": 71097,
+        "slowEndTime": 75545
+    },
+    {
+        "text": "Where can we get postcards?",
+        "startTime": 53229,
+        "endTime": 55133,
+        "slowStartTime": 79994,
+        "slowEndTime": 82925
+    },
+    {
+        "text": "There are some in the convenience store.",
+        "startTime": 58304,
+        "endTime": 60527,
+        "slowStartTime": 87606,
+        "slowEndTime": 91015
+    },
+    {
+        "text": "She gets around the city by taxi.",
+        "startTime": 65721,
+        "endTime": 68285,
+        "slowStartTime": 98732,
+        "slowEndTime": 102652
+    }
+]

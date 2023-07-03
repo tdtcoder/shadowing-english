@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Last night, I managed to take some time off...",
+        "startTime": 500,
+        "endTime": 3413,
+        "slowStartTime": 900,
+        "slowEndTime": 5344
+    },
+    {
+        "text": "...to go to the restaurant, General Lafayette, with some friends.",
+        "startTime": 3502,
+        "endTime": 6650,
+        "slowStartTime": 5403,
+        "slowEndTime": 10200
+    },
+    {
+        "text": "I had a Parisian dish called steak tartare.",
+        "startTime": 7433,
+        "endTime": 9717,
+        "slowStartTime": 11300,
+        "slowEndTime": 14800
+    },
+    {
+        "text": "That is raw beef, prepared with a mix of ingredients...",
+        "startTime": 10333,
+        "endTime": 13117,
+        "slowStartTime": 15650,
+        "slowEndTime": 19900
+    },
+    {
+        "text": "...including: ketchup, egg yolk, onions, Worcester Sauce, etc.",
+        "startTime": 13633,
+        "endTime": 17717,
+        "slowStartTime": 20600,
+        "slowEndTime": 26800
+    },
+    {
+        "text": "In the restaurant, they even add nut chips and blue cheese crumbs. Yummy!",
+        "startTime": 18467,
+        "endTime": 23383,
+        "slowStartTime": 27850,
+        "slowEndTime": 35300
+    },
+    {
+        "text": "Well, that is if you like raw meat, of course.",
+        "startTime": 24167,
+        "endTime": 26250,
+        "slowStartTime": 36400,
+        "slowEndTime": 39600
+    },
+    {
+        "text": "I looked everywhere and could not find the origin of steak tartare for sure,...",
+        "startTime": 26793,
+        "endTime": 31183,
+        "slowStartTime": 40340,
+        "slowEndTime": 47000
+    },
+    {
+        "text": "...but one thing seems to be certain: originally, it was meant to be horse meat.",
+        "startTime": 31800,
+        "endTime": 36383,
+        "slowStartTime": 47850,
+        "slowEndTime": 54800
+    },
+    {
+        "text": "My friends told me that in the US,...",
+        "startTime": 37233,
+        "endTime": 38967,
+        "slowStartTime": 56000,
+        "slowEndTime": 58675
+    },
+    {
+        "text": "...restaurants would be reluctant to serve raw meat because of liabilities.",
+        "startTime": 39300,
+        "endTime": 43783,
+        "slowStartTime": 59100,
+        "slowEndTime": 65900
+    }
+]

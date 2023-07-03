@@ -1,0 +1,198 @@
+[
+    {
+        "text": "Hello?",
+        "startTime": 422,
+        "endTime": 1022,
+        "slowStartTime": 783,
+        "slowEndTime": 1758
+    },
+    {
+        "text": "Hi, Amanda!",
+        "startTime": 1937,
+        "endTime": 2821,
+        "slowStartTime": 3055,
+        "slowEndTime": 4456
+    },
+    {
+        "text": "How have you been?",
+        "startTime": 3079,
+        "endTime": 3870,
+        "slowStartTime": 4768,
+        "slowEndTime": 6030
+    },
+    {
+        "text": "Not so good.",
+        "startTime": 4838,
+        "endTime": 5831,
+        "slowStartTime": 7407,
+        "slowEndTime": 8971
+    },
+    {
+        "text": "I'm on my way back home.",
+        "startTime": 6097,
+        "endTime": 7607,
+        "slowStartTime": 9296,
+        "slowEndTime": 11635
+    },
+    {
+        "text": "Are you sick?",
+        "startTime": 7911,
+        "endTime": 8695,
+        "slowStartTime": 12017,
+        "slowEndTime": 13268
+    },
+    {
+        "text": "I think I caught a cold.",
+        "startTime": 9342,
+        "endTime": 11035,
+        "slowStartTime": 14163,
+        "slowEndTime": 16777
+    },
+    {
+        "text": "That's not good.",
+        "startTime": 11337,
+        "endTime": 12392,
+        "slowStartTime": 17155,
+        "slowEndTime": 18813
+    },
+    {
+        "text": "What symptoms do you have?",
+        "startTime": 12767,
+        "endTime": 14005,
+        "slowStartTime": 19300,
+        "slowEndTime": 21233
+    },
+    {
+        "text": "I keep coughing and sneezing.",
+        "startTime": 14386,
+        "endTime": 16415,
+        "slowStartTime": 21729,
+        "slowEndTime": 24848
+    },
+    {
+        "text": "Do you have a fever, too?",
+        "startTime": 16845,
+        "endTime": 18330,
+        "slowStartTime": 25417,
+        "slowEndTime": 27720
+    },
+    {
+        "text": "Not only a fever but also a headache!",
+        "startTime": 18685,
+        "endTime": 21193,
+        "slowStartTime": 28177,
+        "slowEndTime": 32014
+    },
+    {
+        "text": "Did you see a doctor?",
+        "startTime": 21644,
+        "endTime": 22756,
+        "slowStartTime": 32616,
+        "slowEndTime": 34359
+    },
+    {
+        "text": "Yes. He prescribed me some medicine.",
+        "startTime": 23117,
+        "endTime": 25499,
+        "slowStartTime": 34825,
+        "slowEndTime": 38473
+    },
+    {
+        "text": "Don't forget to take a rest.",
+        "startTime": 25793,
+        "endTime": 27239,
+        "slowStartTime": 38840,
+        "slowEndTime": 41084
+    },
+    {
+        "text": "That always helps.",
+        "startTime": 27465,
+        "endTime": 28688,
+        "slowStartTime": 41347,
+        "slowEndTime": 43257
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 29146,
+        "endTime": 29737,
+        "slowStartTime": 43869,
+        "slowEndTime": 44830
+    },
+    {
+        "text": "I'll keep that in mind.",
+        "startTime": 29987,
+        "endTime": 31193,
+        "slowStartTime": 45130,
+        "slowEndTime": 47014
+    },
+    {
+        "text": "Oh! I forgot about the appointment with the dentist!",
+        "startTime": 31731,
+        "endTime": 35135,
+        "slowStartTime": 47746,
+        "slowEndTime": 52927
+    },
+    {
+        "text": "Do you have a toothache, too?",
+        "startTime": 35564,
+        "endTime": 37085,
+        "slowStartTime": 53496,
+        "slowEndTime": 55853
+    },
+    {
+        "text": "Yes. I think my wisdom tooth is breaking through.",
+        "startTime": 37351,
+        "endTime": 40749,
+        "slowStartTime": 56177,
+        "slowEndTime": 61348
+    },
+    {
+        "text": "Does it hurt?",
+        "startTime": 41297,
+        "endTime": 42083,
+        "slowStartTime": 62096,
+        "slowEndTime": 63350
+    },
+    {
+        "text": "A little bit.",
+        "startTime": 42675,
+        "endTime": 43680,
+        "slowStartTime": 64163,
+        "slowEndTime": 65745
+    },
+    {
+        "text": "I think I'm going to have it pulled out.",
+        "startTime": 44031,
+        "endTime": 46253,
+        "slowStartTime": 66197,
+        "slowEndTime": 69605
+    },
+    {
+        "text": "Good thinking.",
+        "startTime": 46514,
+        "endTime": 47417,
+        "slowStartTime": 69921,
+        "slowEndTime": 71350
+    },
+    {
+        "text": "You'd better find a good dentist.",
+        "startTime": 47700,
+        "endTime": 49338,
+        "slowStartTime": 71700,
+        "slowEndTime": 74232
+    },
+    {
+        "text": "Is it that painful?",
+        "startTime": 49789,
+        "endTime": 51329,
+        "slowStartTime": 74834,
+        "slowEndTime": 77219
+    },
+    {
+        "text": "It depends on the dentist's skill.",
+        "startTime": 51693,
+        "endTime": 53719,
+        "slowStartTime": 77690,
+        "slowEndTime": 80804
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "text": "﻿Does Dan always brush his teeth?",
+        "startTime": 5278,
+        "endTime": 7237,
+        "slowStartTime": 8067,
+        "slowEndTime": 11080
+    },
+    {
+        "text": "Yes, he does.",
+        "startTime": 7993,
+        "endTime": 9013,
+        "slowStartTime": 12140,
+        "slowEndTime": 13744
+    },
+    {
+        "text": "Does Karen often read books?",
+        "startTime": 10509,
+        "endTime": 12282,
+        "slowStartTime": 15914,
+        "slowEndTime": 18648
+    },
+    {
+        "text": "No, she doesn't often read books.",
+        "startTime": 12973,
+        "endTime": 15207,
+        "slowStartTime": 19610,
+        "slowEndTime": 23036
+    },
+    {
+        "text": "She occasionally reads books.",
+        "startTime": 15651,
+        "endTime": 17660,
+        "slowStartTime": 23627,
+        "slowEndTime": 26715
+    },
+    {
+        "text": "Is Grandpa always angry?",
+        "startTime": 19253,
+        "endTime": 21109,
+        "slowStartTime": 29030,
+        "slowEndTime": 31889
+    },
+    {
+        "text": "No, he isn't always angry.",
+        "startTime": 21719,
+        "endTime": 23641,
+        "slowStartTime": 32729,
+        "slowEndTime": 35687
+    },
+    {
+        "text": "He's sometimes angry.",
+        "startTime": 24137,
+        "endTime": 25619,
+        "slowStartTime": 36356,
+        "slowEndTime": 38654
+    },
+    {
+        "text": "How often do they fight?",
+        "startTime": 32561,
+        "endTime": 33850,
+        "slowStartTime": 48992,
+        "slowEndTime": 51000
+    },
+    {
+        "text": "They sometimes fight.",
+        "startTime": 34830,
+        "endTime": 36277,
+        "slowStartTime": 52395,
+        "slowEndTime": 54641
+    },
+    {
+        "text": "How often does Brian want broccoli?",
+        "startTime": 37893,
+        "endTime": 39917,
+        "slowStartTime": 56990,
+        "slowEndTime": 60100
+    },
+    {
+        "text": "Brian never wants broccoli.",
+        "startTime": 40617,
+        "endTime": 42739,
+        "slowStartTime": 61076,
+        "slowEndTime": 64334
+    },
+    {
+        "text": "How often is Jill hungry?",
+        "startTime": 44454,
+        "endTime": 45907,
+        "slowStartTime": 66831,
+        "slowEndTime": 69086
+    },
+    {
+        "text": "She is usually hungry.",
+        "startTime": 46545,
+        "endTime": 48353,
+        "slowStartTime": 69968,
+        "slowEndTime": 72754
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "text": "I have been waiting an eternity...",
+        "startTime": 967,
+        "endTime": 4103,
+        "slowStartTime": 1601,
+        "slowEndTime": 6380
+    },
+    {
+        "text": "...for a man of your strength to arrive.",
+        "startTime": 5359,
+        "endTime": 8495,
+        "slowStartTime": 8188,
+        "slowEndTime": 12967
+    },
+    {
+        "text": "What is it you are seeking?",
+        "startTime": 10022,
+        "endTime": 12124,
+        "slowStartTime": 15183,
+        "slowEndTime": 18411
+    },
+    {
+        "text": "I want the power to destroy my enemies and save my family.",
+        "startTime": 12219,
+        "endTime": 15677,
+        "slowStartTime": 18478,
+        "slowEndTime": 23740
+    },
+    {
+        "text": "Drink, Dracula.",
+        "startTime": 15889,
+        "endTime": 18313,
+        "slowStartTime": 23983,
+        "slowEndTime": 27695
+    },
+    {
+        "text": "Do you think you are alive because you can fight?",
+        "startTime": 18948,
+        "endTime": 21856,
+        "slowStartTime": 28572,
+        "slowEndTime": 33009
+    },
+    {
+        "text": "You are alive because of what I did to save you!",
+        "startTime": 23451,
+        "endTime": 26986,
+        "slowStartTime": 35327,
+        "slowEndTime": 40704
+    }
+]

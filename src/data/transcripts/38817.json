@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Someday, I'm going to marry you.",
+        "startTime": 1622,
+        "endTime": 3841,
+        "slowStartTime": 2583,
+        "slowEndTime": 5911
+    },
+    {
+        "text": "Someday, we'll buy that little place on Ellsworth.",
+        "startTime": 4598,
+        "endTime": 7561,
+        "slowStartTime": 7047,
+        "slowEndTime": 11491
+    },
+    {
+        "text": "Some days will be rougher than others.",
+        "startTime": 8187,
+        "endTime": 10869,
+        "slowStartTime": 12430,
+        "slowEndTime": 16454
+    },
+    {
+        "text": "Someday, 50 years will have gone by...",
+        "startTime": 19197,
+        "endTime": 21937,
+        "slowStartTime": 28945,
+        "slowEndTime": 33055
+    },
+    {
+        "text": "...and I’ll ask you to marry me, all over again.",
+        "startTime": 22375,
+        "endTime": 25933,
+        "slowStartTime": 33712,
+        "slowEndTime": 39050
+    },
+    {
+        "text": "Someday.",
+        "startTime": 26280,
+        "endTime": 27566,
+        "slowStartTime": 39570,
+        "slowEndTime": 41499
+    }
+]

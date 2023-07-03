@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Pasta is an Italian staple made from combining durum semolina or flour...",
+        "startTime": 4673,
+        "endTime": 9478,
+        "slowStartTime": 7159,
+        "slowEndTime": 14442
+    },
+    {
+        "text": "...with water and/or egg to create dough.",
+        "startTime": 9709,
+        "endTime": 12261,
+        "slowStartTime": 14713,
+        "slowEndTime": 18616
+    },
+    {
+        "text": "It is then rolled out, cut into shapes, and cooked.",
+        "startTime": 13464,
+        "endTime": 17030,
+        "slowStartTime": 20346,
+        "slowEndTime": 25770
+    },
+    {
+        "text": "The variety of shapes, fillings, and sauces are infinite,...",
+        "startTime": 18469,
+        "endTime": 21586,
+        "slowStartTime": 27854,
+        "slowEndTime": 32604
+    },
+    {
+        "text": "...but there are only a few key cooking techniques required to ensure great pasta every time.",
+        "startTime": 22117,
+        "endTime": 26790,
+        "slowStartTime": 33325,
+        "slowEndTime": 40410
+    }
+]

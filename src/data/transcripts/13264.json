@@ -1,0 +1,86 @@
+[
+    {
+        "text": "There once was a family of bears; mama bear,...",
+        "startTime": 3195,
+        "endTime": 7387,
+        "slowStartTime": 4942,
+        "slowEndTime": 11306
+    },
+    {
+        "text": "...papa bear, and baby bear.",
+        "startTime": 7704,
+        "endTime": 9952,
+        "slowStartTime": 11706,
+        "slowEndTime": 15153
+    },
+    {
+        "text": "One day, when they weren't at home,...",
+        "startTime": 10776,
+        "endTime": 13530,
+        "slowStartTime": 16314,
+        "slowEndTime": 20520
+    },
+    {
+        "text": "...a little girl named Goldilocks went inside.",
+        "startTime": 14093,
+        "endTime": 17798,
+        "slowStartTime": 21290,
+        "slowEndTime": 26922
+    },
+    {
+        "text": "She tried eating their porridge on the table.",
+        "startTime": 18704,
+        "endTime": 21864,
+        "slowStartTime": 28206,
+        "slowEndTime": 33021
+    },
+    {
+        "text": "The baby bear's tasted just right, so she ate it all up.",
+        "startTime": 22775,
+        "endTime": 28358,
+        "slowStartTime": 34313,
+        "slowEndTime": 42762
+    },
+    {
+        "text": "Then, she went into the next room and found their beds.",
+        "startTime": 30950,
+        "endTime": 35769,
+        "slowStartTime": 46575,
+        "slowEndTime": 53878
+    },
+    {
+        "text": "The big bed was too hard, the medium-sized bed was too soft,...",
+        "startTime": 36589,
+        "endTime": 43551,
+        "slowStartTime": 55033,
+        "slowEndTime": 65552
+    },
+    {
+        "text": "...but the little bed was just right.",
+        "startTime": 44378,
+        "endTime": 47920,
+        "slowStartTime": 66717,
+        "slowEndTime": 72105
+    },
+    {
+        "text": "She fell asleep in the baby bear's bed.",
+        "startTime": 48766,
+        "endTime": 52110,
+        "slowStartTime": 73299,
+        "slowEndTime": 78390
+    },
+    {
+        "text": "Just then, the three bears came home to find their house in a mess.",
+        "startTime": 53205,
+        "endTime": 59360,
+        "slowStartTime": 79958,
+        "slowEndTime": 89265
+    },
+    {
+        "text": "When she awoke, Goldilocks saw them and ran away.",
+        "startTime": 60164,
+        "endTime": 64615,
+        "slowStartTime": 90396,
+        "slowEndTime": 97147
+    }
+]

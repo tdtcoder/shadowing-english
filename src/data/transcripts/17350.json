@@ -1,0 +1,128 @@
+[
+    {
+        "text": "You and I swing.",
+        "startTime": 3004,
+        "endTime": 4756,
+        "slowStartTime": 4656,
+        "slowEndTime": 7359
+    },
+    {
+        "text": "You and I slide.",
+        "startTime": 5938,
+        "endTime": 7565,
+        "slowStartTime": 9057,
+        "slowEndTime": 11573
+    },
+    {
+        "text": "You and I ride.",
+        "startTime": 8987,
+        "endTime": 10547,
+        "slowStartTime": 13631,
+        "slowEndTime": 16046
+    },
+    {
+        "text": "You and I hike.",
+        "startTime": 11971,
+        "endTime": 13323,
+        "slowStartTime": 18107,
+        "slowEndTime": 20209
+    },
+    {
+        "text": "You and I bike.",
+        "startTime": 14627,
+        "endTime": 15965,
+        "slowStartTime": 22091,
+        "slowEndTime": 24173
+    },
+    {
+        "text": "You and I run.",
+        "startTime": 17322,
+        "endTime": 18873,
+        "slowStartTime": 26133,
+        "slowEndTime": 28534
+    },
+    {
+        "text": "You and I dance.",
+        "startTime": 20049,
+        "endTime": 21736,
+        "slowStartTime": 30224,
+        "slowEndTime": 32829
+    },
+    {
+        "text": "You and I have lots of fun.",
+        "startTime": 23037,
+        "endTime": 25228,
+        "slowStartTime": 34706,
+        "slowEndTime": 38067
+    },
+    {
+        "text": "What are you doing?",
+        "startTime": 28507,
+        "endTime": 29730,
+        "slowStartTime": 42911,
+        "slowEndTime": 44820
+    },
+    {
+        "text": "I dance.",
+        "startTime": 31015,
+        "endTime": 31949,
+        "slowStartTime": 46673,
+        "slowEndTime": 48149
+    },
+    {
+        "text": "What about you?",
+        "startTime": 32238,
+        "endTime": 33457,
+        "slowStartTime": 48507,
+        "slowEndTime": 50410
+    },
+    {
+        "text": "I dance, too.",
+        "startTime": 34893,
+        "endTime": 36176,
+        "slowStartTime": 52490,
+        "slowEndTime": 54489
+    },
+    {
+        "text": "You and I dance.",
+        "startTime": 36550,
+        "endTime": 38137,
+        "slowStartTime": 54975,
+        "slowEndTime": 57430
+    },
+    {
+        "text": "What is Amy doing?",
+        "startTime": 39359,
+        "endTime": 40931,
+        "slowStartTime": 59189,
+        "slowEndTime": 61622
+    },
+    {
+        "text": "She hikes.",
+        "startTime": 42188,
+        "endTime": 43382,
+        "slowStartTime": 63432,
+        "slowEndTime": 65298
+    },
+    {
+        "text": "What about Tony?",
+        "startTime": 43629,
+        "endTime": 44896,
+        "slowStartTime": 65593,
+        "slowEndTime": 67569
+    },
+    {
+        "text": "He hikes, too.",
+        "startTime": 46154,
+        "endTime": 47322,
+        "slowStartTime": 69381,
+        "slowEndTime": 71208
+    },
+    {
+        "text": "She and he hike.",
+        "startTime": 47609,
+        "endTime": 49008,
+        "slowStartTime": 71563,
+        "slowEndTime": 73737
+    }
+]

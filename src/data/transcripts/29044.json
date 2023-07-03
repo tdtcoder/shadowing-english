@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Let's learn some words used in the bank.",
+        "startTime": 559,
+        "endTime": 3361,
+        "slowStartTime": 989,
+        "slowEndTime": 5267
+    },
+    {
+        "text": "The bank statement shows your balance and transactions.",
+        "startTime": 9475,
+        "endTime": 13336,
+        "slowStartTime": 14362,
+        "slowEndTime": 20229
+    },
+    {
+        "text": "I put my jewelry in the safety deposit box.",
+        "startTime": 19609,
+        "endTime": 22865,
+        "slowStartTime": 29564,
+        "slowEndTime": 34523
+    },
+    {
+        "text": "Her bankbook shows that her account is empty.",
+        "startTime": 28927,
+        "endTime": 32355,
+        "slowStartTime": 43541,
+        "slowEndTime": 48758
+    },
+    {
+        "text": "Bank tellers can count money quickly.",
+        "startTime": 38745,
+        "endTime": 41565,
+        "slowStartTime": 58268,
+        "slowEndTime": 62572
+    },
+    {
+        "text": "Don't waste your money. Consult a financial planner.",
+        "startTime": 47744,
+        "endTime": 51205,
+        "slowStartTime": 71766,
+        "slowEndTime": 77033
+    },
+    {
+        "text": "The bank will conduct a credit check before your loan gets approved.",
+        "startTime": 57400,
+        "endTime": 61336,
+        "slowStartTime": 86250,
+        "slowEndTime": 92229
+    },
+    {
+        "text": "Electricity, gas and water are utilities.",
+        "startTime": 67449,
+        "endTime": 71106,
+        "slowStartTime": 101323,
+        "slowEndTime": 106884
+    },
+    {
+        "text": "Why is my phone bill so big?",
+        "startTime": 77875,
+        "endTime": 80039,
+        "slowStartTime": 116963,
+        "slowEndTime": 120283
+    },
+    {
+        "text": "The bank vault contains millions of dollars.",
+        "startTime": 86257,
+        "endTime": 89553,
+        "slowStartTime": 129535,
+        "slowEndTime": 134554
+    }
+]

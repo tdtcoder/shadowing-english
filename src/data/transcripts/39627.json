@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Please call me.",
+        "startTime": 205,
+        "endTime": 1089,
+        "slowStartTime": 457,
+        "slowEndTime": 1859
+    },
+    {
+        "text": "My phone number is 775-09375.",
+        "startTime": 1321,
+        "endTime": 5919,
+        "slowStartTime": 2132,
+        "slowEndTime": 9103
+    },
+    {
+        "text": "I will. Thank you.",
+        "startTime": 6413,
+        "endTime": 7515,
+        "slowStartTime": 9770,
+        "slowEndTime": 11498
+    },
+    {
+        "text": "You're welcome.",
+        "startTime": 8003,
+        "endTime": 8594,
+        "slowStartTime": 12155,
+        "slowEndTime": 13116
+    },
+    {
+        "text": "Please call me in the morning.",
+        "startTime": 10889,
+        "endTime": 12194,
+        "slowStartTime": 16484,
+        "slowEndTime": 18516
+    },
+    {
+        "text": "My phone number is 541-97493.",
+        "startTime": 12534,
+        "endTime": 16821,
+        "slowStartTime": 18951,
+        "slowEndTime": 25456
+    },
+    {
+        "text": "I will. Thank you.",
+        "startTime": 17587,
+        "endTime": 19131,
+        "slowStartTime": 26531,
+        "slowEndTime": 28921
+    },
+    {
+        "text": "You can call me, too.",
+        "startTime": 19711,
+        "endTime": 20617,
+        "slowStartTime": 29717,
+        "slowEndTime": 31151
+    },
+    {
+        "text": "My phone number is 435-93572.",
+        "startTime": 20875,
+        "endTime": 24669,
+        "slowStartTime": 31463,
+        "slowEndTime": 37229
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 25489,
+        "endTime": 26172,
+        "slowStartTime": 38383,
+        "slowEndTime": 39483
+    },
+    {
+        "text": "You're welcome.",
+        "startTime": 26765,
+        "endTime": 27327,
+        "slowStartTime": 40297,
+        "slowEndTime": 41215
+    }
+]

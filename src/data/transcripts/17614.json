@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Did you have lunch, Sarah?",
+        "startTime": 2457,
+        "endTime": 4078,
+        "slowStartTime": 3836,
+        "slowEndTime": 6342
+    },
+    {
+        "text": "Yes, I had a hamburger and Coke for lunch.",
+        "startTime": 5181,
+        "endTime": 8447,
+        "slowStartTime": 7921,
+        "slowEndTime": 12895
+    },
+    {
+        "text": "What about you, Andy?",
+        "startTime": 8931,
+        "endTime": 10284,
+        "slowStartTime": 13547,
+        "slowEndTime": 15651
+    },
+    {
+        "text": "I had rice and soup.",
+        "startTime": 11369,
+        "endTime": 12940,
+        "slowStartTime": 17203,
+        "slowEndTime": 19635
+    },
+    {
+        "text": "I don't like instant food such as hamburgers and French fries.",
+        "startTime": 13266,
+        "endTime": 17157,
+        "slowStartTime": 20049,
+        "slowEndTime": 25960
+    },
+    {
+        "text": "I know eating instant food is not good for our health.",
+        "startTime": 18277,
+        "endTime": 21537,
+        "slowStartTime": 27566,
+        "slowEndTime": 32530
+    },
+    {
+        "text": "But it is yummy and easy to get.",
+        "startTime": 21909,
+        "endTime": 24717,
+        "slowStartTime": 33014,
+        "slowEndTime": 37300
+    },
+    {
+        "text": "I know you don't like eating vegetables.",
+        "startTime": 25843,
+        "endTime": 28329,
+        "slowStartTime": 38914,
+        "slowEndTime": 42719
+    },
+    {
+        "text": "Eating lots of vegetables is good for our health.",
+        "startTime": 28977,
+        "endTime": 31781,
+        "slowStartTime": 43616,
+        "slowEndTime": 47896
+    },
+    {
+        "text": "That's not true!",
+        "startTime": 32895,
+        "endTime": 34063,
+        "slowStartTime": 49492,
+        "slowEndTime": 51320
+    },
+    {
+        "text": "I enjoy eating vegetables such as cucumbers and lettuce.",
+        "startTime": 34563,
+        "endTime": 38405,
+        "slowStartTime": 51994,
+        "slowEndTime": 57832
+    },
+    {
+        "text": "You do? I thought you don't eat vegetables.",
+        "startTime": 39371,
+        "endTime": 42385,
+        "slowStartTime": 59207,
+        "slowEndTime": 63803
+    },
+    {
+        "text": "I eat most vegetables except spinach.",
+        "startTime": 43479,
+        "endTime": 46569,
+        "slowStartTime": 65369,
+        "slowEndTime": 70078
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Oh look.",
+        "startTime": 1002,
+        "endTime": 1601,
+        "slowStartTime": 1653,
+        "slowEndTime": 2627
+    },
+    {
+        "text": "Someone lost a bag.",
+        "startTime": 2371,
+        "endTime": 3856,
+        "slowStartTime": 3707,
+        "slowEndTime": 6009
+    },
+    {
+        "text": "Maybe it's theirs.",
+        "startTime": 5868,
+        "endTime": 7098,
+        "slowStartTime": 8952,
+        "slowEndTime": 10872
+    },
+    {
+        "text": "Excuse me.",
+        "startTime": 13475,
+        "endTime": 14431,
+        "slowStartTime": 20362,
+        "slowEndTime": 21872
+    },
+    {
+        "text": "Is this bag yours?",
+        "startTime": 14649,
+        "endTime": 16036,
+        "slowStartTime": 22123,
+        "slowEndTime": 24279
+    },
+    {
+        "text": "No, it's not mine.",
+        "startTime": 16603,
+        "endTime": 17727,
+        "slowStartTime": 25054,
+        "slowEndTime": 26816
+    },
+    {
+        "text": "It might be hers.",
+        "startTime": 18245,
+        "endTime": 19441,
+        "slowStartTime": 27517,
+        "slowEndTime": 29386
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 20027,
+        "endTime": 20674,
+        "slowStartTime": 30191,
+        "slowEndTime": 31236
+    },
+    {
+        "text": "Excuse me.",
+        "startTime": 26941,
+        "endTime": 27886,
+        "slowStartTime": 40561,
+        "slowEndTime": 42054
+    },
+    {
+        "text": "Is this bag yours?",
+        "startTime": 28193,
+        "endTime": 29459,
+        "slowStartTime": 42439,
+        "slowEndTime": 44414
+    },
+    {
+        "text": "No, it's not mine.",
+        "startTime": 30357,
+        "endTime": 32529,
+        "slowStartTime": 45686,
+        "slowEndTime": 49018
+    },
+    {
+        "text": "It might be his.",
+        "startTime": 32782,
+        "endTime": 33617,
+        "slowStartTime": 49323,
+        "slowEndTime": 50650
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 34343,
+        "endTime": 34925,
+        "slowStartTime": 51664,
+        "slowEndTime": 52612
+    },
+    {
+        "text": "Hello!",
+        "startTime": 40747,
+        "endTime": 41751,
+        "slowStartTime": 61271,
+        "slowEndTime": 62852
+    },
+    {
+        "text": "Is this bag yours?",
+        "startTime": 42194,
+        "endTime": 43666,
+        "slowStartTime": 63441,
+        "slowEndTime": 65724
+    },
+    {
+        "text": "Yes, that's mine.",
+        "startTime": 44077,
+        "endTime": 45970,
+        "slowStartTime": 66266,
+        "slowEndTime": 69180
+    },
+    {
+        "text": "These are all my travel things.",
+        "startTime": 47257,
+        "endTime": 49440,
+        "slowStartTime": 71035,
+        "slowEndTime": 74385
+    },
+    {
+        "text": "Thank you, thank you!",
+        "startTime": 50464,
+        "endTime": 52729,
+        "slowStartTime": 75846,
+        "slowEndTime": 79319
+    }
+]

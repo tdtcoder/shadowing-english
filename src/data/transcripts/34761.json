@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Coronavirus cases in China surged past 63,000 with a reported 1,700 medical workers infected.",
+        "startTime": 4889,
+        "endTime": 14383,
+        "slowStartTime": 7483,
+        "slowEndTime": 21799
+    },
+    {
+        "text": "In Cambodia, hundreds of cruise ship passengers stranded at sea for days...",
+        "startTime": 18709,
+        "endTime": 23970,
+        "slowStartTime": 28214,
+        "slowEndTime": 36180
+    },
+    {
+        "text": "...over fears of the new virus were finally allowed to disembark.",
+        "startTime": 24123,
+        "endTime": 28010,
+        "slowStartTime": 36334,
+        "slowEndTime": 42240
+    },
+    {
+        "text": "In Syria, Turkish forces and Syrian rebel groups clashed with Syrian government forces...",
+        "startTime": 32703,
+        "endTime": 39191,
+        "slowStartTime": 49204,
+        "slowEndTime": 59011
+    },
+    {
+        "text": "...in a continuing confrontation that saw the shoot-down of a government helicopter.",
+        "startTime": 39657,
+        "endTime": 44468,
+        "slowStartTime": 59636,
+        "slowEndTime": 66927
+    },
+    {
+        "text": "In Sweden, thousands of protesters joined Swedish climate activist Greta Thunberg...",
+        "startTime": 48372,
+        "endTime": 54055,
+        "slowStartTime": 72708,
+        "slowEndTime": 81307
+    },
+    {
+        "text": "...for a school strike and march through Stockholm.",
+        "startTime": 54460,
+        "endTime": 57065,
+        "slowStartTime": 81840,
+        "slowEndTime": 85823
+    },
+    {
+        "text": "Finally from Russia, a Russian soldier proposed to his girlfriend...",
+        "startTime": 60064,
+        "endTime": 64477,
+        "slowStartTime": 90246,
+        "slowEndTime": 96940
+    },
+    {
+        "text": "...using 16 military tanks parked in a heart-shaped formation.",
+        "startTime": 65057,
+        "endTime": 69571,
+        "slowStartTime": 97736,
+        "slowEndTime": 104581
+    }
+]

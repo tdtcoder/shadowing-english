@@ -1,0 +1,191 @@
+[
+    {
+        "text": "These are tax brackets for 2019,...",
+        "startTime": 144,
+        "endTime": 2795,
+        "slowStartTime": 366,
+        "slowEndTime": 4417
+    },
+    {
+        "text": "Simple, right?",
+        "startTime": 3352,
+        "endTime": 4276,
+        "slowStartTime": 5178,
+        "slowEndTime": 6639
+    },
+    {
+        "text": "...but many of us make a common mistake when looking at this.",
+        "startTime": 5205,
+        "endTime": 8729,
+        "slowStartTime": 7957,
+        "slowEndTime": 13319
+    },
+    {
+        "text": "Let's say my income is 84,000 dollars.",
+        "startTime": 9253,
+        "endTime": 12447,
+        "slowStartTime": 14030,
+        "slowEndTime": 18895
+    },
+    {
+        "text": "You might think that puts me in the third bracket,...",
+        "startTime": 13645,
+        "endTime": 15575,
+        "slowStartTime": 20618,
+        "slowEndTime": 23588
+    },
+    {
+        "text": "...so I would owe the federal government 22% of my income.",
+        "startTime": 15864,
+        "endTime": 19395,
+        "slowStartTime": 23946,
+        "slowEndTime": 29318
+    },
+    {
+        "text": "This is wrong,...",
+        "startTime": 22049,
+        "endTime": 23169,
+        "slowStartTime": 33223,
+        "slowEndTime": 34979
+    },
+    {
+        "text": "...and it's causing us to have uninformed debates about tax policy.",
+        "startTime": 23576,
+        "endTime": 27505,
+        "slowStartTime": 35514,
+        "slowEndTime": 41483
+    },
+    {
+        "text": "Here's how it actually works.",
+        "startTime": 31576,
+        "endTime": 32899,
+        "slowStartTime": 47514,
+        "slowEndTime": 49573
+    },
+    {
+        "text": "Let's go back to my 84,000-dollar income.",
+        "startTime": 33765,
+        "endTime": 36405,
+        "slowStartTime": 50797,
+        "slowEndTime": 54833
+    },
+    {
+        "text": "Now, instead of thinking of tax rates as brackets,...",
+        "startTime": 37219,
+        "endTime": 39624,
+        "slowStartTime": 55978,
+        "slowEndTime": 59661
+    },
+    {
+        "text": "...we should think of them as pockets,...",
+        "startTime": 40334,
+        "endTime": 42024,
+        "slowStartTime": 60651,
+        "slowEndTime": 63261
+    },
+    {
+        "text": "...but first, there's one special pocket we need to talk about.",
+        "startTime": 42659,
+        "endTime": 45221,
+        "slowStartTime": 64138,
+        "slowEndTime": 68057
+    },
+    {
+        "text": "The money we put in this pocket is not taxed.",
+        "startTime": 46057,
+        "endTime": 48775,
+        "slowStartTime": 69235,
+        "slowEndTime": 73388
+    },
+    {
+        "text": "The government automatically lets single people...",
+        "startTime": 49144,
+        "endTime": 51164,
+        "slowStartTime": 73866,
+        "slowEndTime": 76971
+    },
+    {
+        "text": "...put 12,000 dollars in this special pocket and more for couples,...",
+        "startTime": 51254,
+        "endTime": 55224,
+        "slowStartTime": 77031,
+        "slowEndTime": 83061
+    },
+    {
+        "text": "...but if you spend a lot of money on things...",
+        "startTime": 55705,
+        "endTime": 57450,
+        "slowStartTime": 83708,
+        "slowEndTime": 86400
+    },
+    {
+        "text": "...like medical expenses or charitable donations,...",
+        "startTime": 57549,
+        "endTime": 60388,
+        "slowStartTime": 86473,
+        "slowEndTime": 90807
+    },
+    {
+        "text": "...you can sometimes put in more.",
+        "startTime": 60693,
+        "endTime": 62155,
+        "slowStartTime": 91190,
+        "slowEndTime": 93458
+    },
+    {
+        "text": "These are called deductions.",
+        "startTime": 62575,
+        "endTime": 63795,
+        "slowStartTime": 94013,
+        "slowEndTime": 95918
+    },
+    {
+        "text": "With the 70,000 dollars that's left over,...",
+        "startTime": 65068,
+        "endTime": 67012,
+        "slowStartTime": 97752,
+        "slowEndTime": 100743
+    },
+    {
+        "text": "...we can start filling up the pockets.",
+        "startTime": 67429,
+        "endTime": 69047,
+        "slowStartTime": 101293,
+        "slowEndTime": 103796
+    },
+    {
+        "text": "The first pocket only has room for 9,700 dollars, so I only pay 10% on this money.",
+        "startTime": 71031,
+        "endTime": 77613,
+        "slowStartTime": 106696,
+        "slowEndTime": 116645
+    },
+    {
+        "text": "Then I pay 12% on the money in the next pocket...",
+        "startTime": 80766,
+        "endTime": 84041,
+        "slowStartTime": 121299,
+        "slowEndTime": 126287
+    },
+    {
+        "text": "...and then 22% on the money in this pocket.",
+        "startTime": 89814,
+        "endTime": 92809,
+        "slowStartTime": 134871,
+        "slowEndTime": 139438
+    },
+    {
+        "text": "These are called marginal tax rates.",
+        "startTime": 95864,
+        "endTime": 97778,
+        "slowStartTime": 143946,
+        "slowEndTime": 146892
+    },
+    {
+        "text": "...and that's how these brackets actually work.",
+        "startTime": 98189,
+        "endTime": 99906,
+        "slowStartTime": 147433,
+        "slowEndTime": 150084
+    }
+]

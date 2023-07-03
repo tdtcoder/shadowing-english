@@ -1,0 +1,58 @@
+[
+    {
+        "text": "It is wonderful to be back in Japan.",
+        "startTime": 6122,
+        "endTime": 7721,
+        "slowStartTime": 9333,
+        "slowEndTime": 11807
+    },
+    {
+        "text": "This is my third visit as president.",
+        "startTime": 7890,
+        "endTime": 9575,
+        "slowStartTime": 11985,
+        "slowEndTime": 14588
+    },
+    {
+        "text": "I'm deeply honored to be making the first state visit by a US President in nearly two decades.",
+        "startTime": 10297,
+        "endTime": 15813,
+        "slowStartTime": 15596,
+        "slowEndTime": 23945
+    },
+    {
+        "text": "I'm grateful to Their Majesties, the emperor and empress,...",
+        "startTime": 16795,
+        "endTime": 20841,
+        "slowStartTime": 25343,
+        "slowEndTime": 31487
+    },
+    {
+        "text": "...for their gracious welcome this morning.",
+        "startTime": 21100,
+        "endTime": 23265,
+        "slowStartTime": 31580,
+        "slowEndTime": 35122
+    },
+    {
+        "text": "And I've once again been touched by the kindness and hospitality of the Japanese people.",
+        "startTime": 24278,
+        "endTime": 28466,
+        "slowStartTime": 36567,
+        "slowEndTime": 42924
+    },
+    {
+        "text": "I'm pleased that we continue to deepen the extraordinary ties between our people,...",
+        "startTime": 29158,
+        "endTime": 33858,
+        "slowStartTime": 43887,
+        "slowEndTime": 51012
+    },
+    {
+        "text": "...especially our young people, like the Japanese students that I'll be meeting later today.",
+        "startTime": 34501,
+        "endTime": 39241,
+        "slowStartTime": 51901,
+        "slowEndTime": 59087
+    }
+]

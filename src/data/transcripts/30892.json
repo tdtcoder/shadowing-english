@@ -1,0 +1,198 @@
+[
+    {
+        "text": "﻿Let's say I'm the average busy person in the States...",
+        "startTime": 405,
+        "endTime": 2577,
+        "slowStartTime": 758,
+        "slowEndTime": 4090
+    },
+    {
+        "text": "...who would like to be healthy but doesn't have time to cook at home.",
+        "startTime": 2716,
+        "endTime": 6104,
+        "slowStartTime": 4224,
+        "slowEndTime": 9381
+    },
+    {
+        "text": "What's for breakfast?",
+        "startTime": 6679,
+        "endTime": 7651,
+        "slowStartTime": 10169,
+        "slowEndTime": 11701
+    },
+    {
+        "text": "Most people's options are limited to things...",
+        "startTime": 8075,
+        "endTime": 9759,
+        "slowStartTime": 12262,
+        "slowEndTime": 14863
+    },
+    {
+        "text": "...like a McGriddle with hash browns and coffee,...",
+        "startTime": 9832,
+        "endTime": 11899,
+        "slowStartTime": 14898,
+        "slowEndTime": 18073
+    },
+    {
+        "text": "...or maybe an egg and processed cheese sandwich...",
+        "startTime": 12286,
+        "endTime": 14204,
+        "slowStartTime": 18579,
+        "slowEndTime": 21531
+    },
+    {
+        "text": "...with Tater tots at Dunkin' Donuts,...",
+        "startTime": 14317,
+        "endTime": 15959,
+        "slowStartTime": 21625,
+        "slowEndTime": 24163
+    },
+    {
+        "text": "...or some pancakes at Denny's, if you have more time.",
+        "startTime": 16375,
+        "endTime": 19004,
+        "slowStartTime": 24713,
+        "slowEndTime": 28731
+    },
+    {
+        "text": "Surely, some people will have healthier options than that...",
+        "startTime": 19743,
+        "endTime": 22222,
+        "slowStartTime": 29765,
+        "slowEndTime": 33558
+    },
+    {
+        "text": "...but I'm trying to think of what most people are going to have access to.",
+        "startTime": 22583,
+        "endTime": 25645,
+        "slowStartTime": 34025,
+        "slowEndTime": 38693
+    },
+    {
+        "text": "So, what's a quick breakfast in Japan?",
+        "startTime": 26361,
+        "endTime": 28153,
+        "slowStartTime": 39691,
+        "slowEndTime": 42454
+    },
+    {
+        "text": "While there's more than 6,000 fast food establishments in Japan,...",
+        "startTime": 28917,
+        "endTime": 32189,
+        "slowStartTime": 43525,
+        "slowEndTime": 48508
+    },
+    {
+        "text": "...there's also 5,000 rice bowl establishments.",
+        "startTime": 32579,
+        "endTime": 35312,
+        "slowStartTime": 49018,
+        "slowEndTime": 53193
+    },
+    {
+        "text": "The big ones are Yoshinoya, Sukiya and Matsuya.",
+        "startTime": 35785,
+        "endTime": 38693,
+        "slowStartTime": 53827,
+        "slowEndTime": 58265
+    },
+    {
+        "text": "And for four dollars at Sukiya, for breakfast,...",
+        "startTime": 39234,
+        "endTime": 41391,
+        "slowStartTime": 59001,
+        "slowEndTime": 62312
+    },
+    {
+        "text": "...you can get plain rice, miso soup with seaweed, an egg, baked fish,...",
+        "startTime": 41475,
+        "endTime": 46001,
+        "slowStartTime": 62363,
+        "slowEndTime": 69226
+    },
+    {
+        "text": "...and a small potato salad comes with it.",
+        "startTime": 46410,
+        "endTime": 48253,
+        "slowStartTime": 69765,
+        "slowEndTime": 72605
+    },
+    {
+        "text": "If I'm extra hungry, maybe I'll add some kimchi, fermented soybeans...",
+        "startTime": 48877,
+        "endTime": 52043,
+        "slowStartTime": 73466,
+        "slowEndTime": 78290
+    },
+    {
+        "text": "... and stewed beef for four dollars.",
+        "startTime": 52163,
+        "endTime": 54020,
+        "slowStartTime": 78394,
+        "slowEndTime": 81255
+    },
+    {
+        "text": "Or you can put together a reasonably healthy meal from a convenience store.",
+        "startTime": 55051,
+        "endTime": 58832,
+        "slowStartTime": 82726,
+        "slowEndTime": 88473
+    },
+    {
+        "text": "At a Japanese convenience store,...",
+        "startTime": 59425,
+        "endTime": 60847,
+        "slowStartTime": 89288,
+        "slowEndTime": 91496
+    },
+    {
+        "text": "...I can get a rice ball, which is just rice, salmon and salt,...",
+        "startTime": 61271,
+        "endTime": 64339,
+        "slowStartTime": 92056,
+        "slowEndTime": 96733
+    },
+    {
+        "text": "...a small salad, or a package of sushi, or a thing of fish with miso,...",
+        "startTime": 64809,
+        "endTime": 68757,
+        "slowStartTime": 97363,
+        "slowEndTime": 103360
+    },
+    {
+        "text": "...or some soup.",
+        "startTime": 69162,
+        "endTime": 70009,
+        "slowStartTime": 103893,
+        "slowEndTime": 105238
+    },
+    {
+        "text": "I was pretty impressed with how little junk is in this.",
+        "startTime": 70689,
+        "endTime": 72927,
+        "slowStartTime": 106183,
+        "slowEndTime": 109615
+    },
+    {
+        "text": "It's basically just vegetables, pork and fish broth.",
+        "startTime": 73109,
+        "endTime": 75943,
+        "slowStartTime": 109813,
+        "slowEndTime": 114140
+    },
+    {
+        "text": "And there's a bunch of foods like this.",
+        "startTime": 76820,
+        "endTime": 78597,
+        "slowStartTime": 115380,
+        "slowEndTime": 118120
+    },
+    {
+        "text": "Here's what I can get for under ten dollars, USD.",
+        "startTime": 78792,
+        "endTime": 81126,
+        "slowStartTime": 118338,
+        "slowEndTime": 121914
+    }
+]

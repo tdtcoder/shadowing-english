@@ -1,0 +1,79 @@
+[
+    {
+        "text": "San Francisco, California is known as the \"City by the Bay\".",
+        "startTime": 430,
+        "endTime": 4135,
+        "slowStartTime": 1915,
+        "slowEndTime": 8020
+    },
+    {
+        "text": "Located on the coast of Northern California,...",
+        "startTime": 4630,
+        "endTime": 7475,
+        "slowStartTime": 8915,
+        "slowEndTime": 12935
+    },
+    {
+        "text": "...San Francisco is home to some of the most popular tourist destinations in the state.",
+        "startTime": 7600,
+        "endTime": 12545,
+        "slowStartTime": 13265,
+        "slowEndTime": 20580
+    },
+    {
+        "text": "On Alcatraz Island in San Francisco Bay,...",
+        "startTime": 13120,
+        "endTime": 16090,
+        "slowStartTime": 21500,
+        "slowEndTime": 25920
+    },
+    {
+        "text": "...you can take a tour of the legendary prison that once housed Al Capone.",
+        "startTime": 16650,
+        "endTime": 21485,
+        "slowStartTime": 26810,
+        "slowEndTime": 33930
+    },
+    {
+        "text": "During a visit to this beautiful city,...",
+        "startTime": 22680,
+        "endTime": 24980,
+        "slowStartTime": 35750,
+        "slowEndTime": 39315
+    },
+    {
+        "text": "...you can take a stroll across the Golden Gate Bridge,...",
+        "startTime": 25325,
+        "endTime": 28335,
+        "slowStartTime": 39720,
+        "slowEndTime": 44320
+    },
+    {
+        "text": "...explore the fish markets, shops, and restaurants along Fisherman's Wharf,...",
+        "startTime": 28700,
+        "endTime": 33330,
+        "slowStartTime": 44800,
+        "slowEndTime": 51730
+    },
+    {
+        "text": "...take a surprising drive down Lombard Street,...",
+        "startTime": 34300,
+        "endTime": 37200,
+        "slowStartTime": 53250,
+        "slowEndTime": 57480
+    },
+    {
+        "text": "...and be sure to take a ride on one of the city's famous cable cars.",
+        "startTime": 37630,
+        "endTime": 41540,
+        "slowStartTime": 58330,
+        "slowEndTime": 64095
+    },
+    {
+        "text": "There is so much to see and do in this lively and exciting city.",
+        "startTime": 41660,
+        "endTime": 46270,
+        "slowStartTime": 64250,
+        "slowEndTime": 71240
+    }
+]

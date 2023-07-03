@@ -1,0 +1,58 @@
+[
+    {
+        "text": "﻿Colors.",
+        "startTime": 6828,
+        "endTime": 7418,
+        "slowStartTime": 10392,
+        "slowEndTime": 11352
+    },
+    {
+        "text": "Red.",
+        "startTime": 10147,
+        "endTime": 10295,
+        "slowStartTime": 15370,
+        "slowEndTime": 15668
+    },
+    {
+        "text": "Blue.",
+        "startTime": 13438,
+        "endTime": 13716,
+        "slowStartTime": 20307,
+        "slowEndTime": 20799
+    },
+    {
+        "text": "Yellow.",
+        "startTime": 16607,
+        "endTime": 17055,
+        "slowStartTime": 25061,
+        "slowEndTime": 25807
+    },
+    {
+        "text": "Green.",
+        "startTime": 19698,
+        "endTime": 20117,
+        "slowStartTime": 29697,
+        "slowEndTime": 30401
+    },
+    {
+        "text": "Brown.",
+        "startTime": 22960,
+        "endTime": 23324,
+        "slowStartTime": 34590,
+        "slowEndTime": 35211
+    },
+    {
+        "text": "Orange.",
+        "startTime": 26119,
+        "endTime": 26803,
+        "slowStartTime": 39329,
+        "slowEndTime": 40430
+    },
+    {
+        "text": "Pink.",
+        "startTime": 29383,
+        "endTime": 29813,
+        "slowStartTime": 44224,
+        "slowEndTime": 44945
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Maria has one pumpkin.",
+        "startTime": 2403,
+        "endTime": 4227,
+        "slowStartTime": 3754,
+        "slowEndTime": 6565
+    },
+    {
+        "text": "Maria has two pumpkins.",
+        "startTime": 5359,
+        "endTime": 7294,
+        "slowStartTime": 8189,
+        "slowEndTime": 11166
+    },
+    {
+        "text": "Maria has three pumpkins.",
+        "startTime": 8395,
+        "endTime": 10465,
+        "slowStartTime": 12743,
+        "slowEndTime": 15923
+    },
+    {
+        "text": "Maria has four pumpkins.",
+        "startTime": 11587,
+        "endTime": 13547,
+        "slowStartTime": 17530,
+        "slowEndTime": 20545
+    },
+    {
+        "text": "Maria has five pumpkins.",
+        "startTime": 14721,
+        "endTime": 16719,
+        "slowStartTime": 22232,
+        "slowEndTime": 25304
+    },
+    {
+        "text": "Maria has six pumpkins.",
+        "startTime": 17817,
+        "endTime": 19769,
+        "slowStartTime": 26875,
+        "slowEndTime": 29878
+    },
+    {
+        "text": "Maria has seven pumpkins.",
+        "startTime": 20900,
+        "endTime": 22943,
+        "slowStartTime": 31500,
+        "slowEndTime": 34639
+    },
+    {
+        "text": "Maria has too many pumpkins!",
+        "startTime": 24080,
+        "endTime": 26750,
+        "slowStartTime": 36270,
+        "slowEndTime": 40350
+    },
+    {
+        "text": "Do you have pumpkins?",
+        "startTime": 30753,
+        "endTime": 32334,
+        "slowStartTime": 46279,
+        "slowEndTime": 48726
+    },
+    {
+        "text": "Yes, I have one pumpkin.",
+        "startTime": 33457,
+        "endTime": 35369,
+        "slowStartTime": 50336,
+        "slowEndTime": 53278
+    },
+    {
+        "text": "Does your sister have one pumpkin, too?",
+        "startTime": 36449,
+        "endTime": 38953,
+        "slowStartTime": 54823,
+        "slowEndTime": 58655
+    },
+    {
+        "text": "No, she doesn't have any pumpkins.",
+        "startTime": 40121,
+        "endTime": 42454,
+        "slowStartTime": 60332,
+        "slowEndTime": 63906
+    },
+    {
+        "text": "She has apples.",
+        "startTime": 42791,
+        "endTime": 44113,
+        "slowStartTime": 64337,
+        "slowEndTime": 66394
+    },
+    {
+        "text": "Then how many apples does she have?",
+        "startTime": 45251,
+        "endTime": 48233,
+        "slowStartTime": 68026,
+        "slowEndTime": 72575
+    },
+    {
+        "text": "She has three apples.",
+        "startTime": 49212,
+        "endTime": 51183,
+        "slowStartTime": 73968,
+        "slowEndTime": 76999
+    }
+]

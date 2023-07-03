@@ -1,0 +1,58 @@
+[
+    {
+        "text": "How was the test?",
+        "startTime": 153,
+        "endTime": 1413,
+        "slowStartTime": 380,
+        "slowEndTime": 2344
+    },
+    {
+        "text": "It was really hard.",
+        "startTime": 2617,
+        "endTime": 4045,
+        "slowStartTime": 4075,
+        "slowEndTime": 6292
+    },
+    {
+        "text": "How long was it?",
+        "startTime": 5038,
+        "endTime": 6283,
+        "slowStartTime": 7707,
+        "slowEndTime": 9650
+    },
+    {
+        "text": "There were about 20 problems.",
+        "startTime": 7671,
+        "endTime": 10039,
+        "slowStartTime": 11656,
+        "slowEndTime": 15283
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 10377,
+        "endTime": 10845,
+        "slowStartTime": 15716,
+        "slowEndTime": 16492
+    },
+    {
+        "text": "What was your score?",
+        "startTime": 11283,
+        "endTime": 12457,
+        "slowStartTime": 17074,
+        "slowEndTime": 18911
+    },
+    {
+        "text": "Let's just say it wasn't great,...",
+        "startTime": 12892,
+        "endTime": 15518,
+        "slowStartTime": 19488,
+        "slowEndTime": 23502
+    },
+    {
+        "text": "...but it wasn't bad either.",
+        "startTime": 15923,
+        "endTime": 17878,
+        "slowStartTime": 24035,
+        "slowEndTime": 27042
+    }
+]

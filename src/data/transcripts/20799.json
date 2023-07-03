@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Our world is divided between light and darkness.",
+        "startTime": 733,
+        "endTime": 3935,
+        "slowStartTime": 1250,
+        "slowEndTime": 6128
+    },
+    {
+        "text": "You are the seventh son of the seventh son.",
+        "startTime": 5304,
+        "endTime": 7972,
+        "slowStartTime": 8106,
+        "slowEndTime": 12183
+    },
+    {
+        "text": "What exactly do we do?",
+        "startTime": 9331,
+        "endTime": 10877,
+        "slowStartTime": 14146,
+        "slowEndTime": 16540
+    },
+    {
+        "text": "Since the beginning of time, we have protected mankind.",
+        "startTime": 11269,
+        "endTime": 14083,
+        "slowStartTime": 17053,
+        "slowEndTime": 21350
+    },
+    {
+        "text": "Teach me.",
+        "startTime": 18432,
+        "endTime": 19105,
+        "slowStartTime": 27798,
+        "slowEndTime": 28882
+    },
+    {
+        "text": "If you see a witch, kill it.",
+        "startTime": 25093,
+        "endTime": 28433,
+        "slowStartTime": 37790,
+        "slowEndTime": 42875
+    },
+    {
+        "text": "We're not all evil, you know.",
+        "startTime": 29406,
+        "endTime": 30965,
+        "slowStartTime": 44259,
+        "slowEndTime": 46672
+    },
+    {
+        "text": "This is your most important test.",
+        "startTime": 31730,
+        "endTime": 34101,
+        "slowStartTime": 47745,
+        "slowEndTime": 51376
+    },
+    {
+        "text": "Use everything I taught you.",
+        "startTime": 35379,
+        "endTime": 36911,
+        "slowStartTime": 53218,
+        "slowEndTime": 55591
+    }
+]

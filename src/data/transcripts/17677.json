@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Hi, Jamie.",
+        "startTime": 1483,
+        "endTime": 2583,
+        "slowStartTime": 2375,
+        "slowEndTime": 4099
+    },
+    {
+        "text": "Hi, Sandy. Where are you going?",
+        "startTime": 3419,
+        "endTime": 5704,
+        "slowStartTime": 5279,
+        "slowEndTime": 8781
+    },
+    {
+        "text": "I'm going shopping.",
+        "startTime": 6642,
+        "endTime": 7868,
+        "slowStartTime": 10113,
+        "slowEndTime": 12027
+    },
+    {
+        "text": "Is your sister going shopping, too?",
+        "startTime": 8931,
+        "endTime": 10862,
+        "slowStartTime": 13547,
+        "slowEndTime": 16518
+    },
+    {
+        "text": "No, she isn't. She is going fishing with my dad.",
+        "startTime": 11801,
+        "endTime": 15487,
+        "slowStartTime": 17852,
+        "slowEndTime": 23455
+    },
+    {
+        "text": "Anyway, where are you going, Jamie?",
+        "startTime": 16091,
+        "endTime": 18383,
+        "slowStartTime": 24286,
+        "slowEndTime": 27800
+    },
+    {
+        "text": "I'm going hiking with my brother.",
+        "startTime": 19489,
+        "endTime": 21323,
+        "slowStartTime": 29383,
+        "slowEndTime": 32210
+    },
+    {
+        "text": "Wow! Have a good time, Jamie.",
+        "startTime": 22411,
+        "endTime": 24743,
+        "slowStartTime": 33767,
+        "slowEndTime": 37340
+    },
+    {
+        "text": "I'm going camping with my mom and dad.",
+        "startTime": 30572,
+        "endTime": 33780,
+        "slowStartTime": 46008,
+        "slowEndTime": 50895
+    },
+    {
+        "text": "We pack our tent, sleeping bags, and cooking gear.",
+        "startTime": 34276,
+        "endTime": 37912,
+        "slowStartTime": 51564,
+        "slowEndTime": 57093
+    },
+    {
+        "text": "We drive to the lake, and we set up camp.",
+        "startTime": 38144,
+        "endTime": 41294,
+        "slowStartTime": 57366,
+        "slowEndTime": 62166
+    },
+    {
+        "text": "We build a fire to cook hamburgers and hotdogs.",
+        "startTime": 41809,
+        "endTime": 45231,
+        "slowStartTime": 62864,
+        "slowEndTime": 68072
+    },
+    {
+        "text": "We get into our sleeping bags and look at the stars.",
+        "startTime": 45377,
+        "endTime": 48933,
+        "slowStartTime": 68215,
+        "slowEndTime": 73624
+    },
+    {
+        "text": "We see a bear eating berries in the morning.",
+        "startTime": 49317,
+        "endTime": 52549,
+        "slowStartTime": 74126,
+        "slowEndTime": 79048
+    },
+    {
+        "text": "Mom catches three fish, and I catch a turtle.",
+        "startTime": 53068,
+        "endTime": 56305,
+        "slowStartTime": 79752,
+        "slowEndTime": 84682
+    },
+    {
+        "text": "Our camping trip is over, and it's time to go home!",
+        "startTime": 56606,
+        "endTime": 60058,
+        "slowStartTime": 85059,
+        "slowEndTime": 90312
+    }
+]

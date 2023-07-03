@@ -1,0 +1,121 @@
+[
+    {
+        "text": "It is getting cold outside.",
+        "startTime": 1601,
+        "endTime": 3495,
+        "slowStartTime": 2551,
+        "slowEndTime": 5468
+    },
+    {
+        "text": "The wind is blowing.",
+        "startTime": 4454,
+        "endTime": 6085,
+        "slowStartTime": 6831,
+        "slowEndTime": 9352
+    },
+    {
+        "text": "There is a nip in the air.",
+        "startTime": 7011,
+        "endTime": 8869,
+        "slowStartTime": 10667,
+        "slowEndTime": 13529
+    },
+    {
+        "text": "Jamal and Isha run into the house.",
+        "startTime": 9910,
+        "endTime": 12466,
+        "slowStartTime": 15015,
+        "slowEndTime": 18924
+    },
+    {
+        "text": "They get their coats.",
+        "startTime": 13514,
+        "endTime": 15007,
+        "slowStartTime": 20421,
+        "slowEndTime": 22735
+    },
+    {
+        "text": "They come back outside.",
+        "startTime": 16088,
+        "endTime": 17669,
+        "slowStartTime": 24282,
+        "slowEndTime": 26729
+    },
+    {
+        "text": "White flakes begin to fall.",
+        "startTime": 18694,
+        "endTime": 20755,
+        "slowStartTime": 28191,
+        "slowEndTime": 31357
+    },
+    {
+        "text": "Jamal and Isha open their mouths.",
+        "startTime": 21746,
+        "endTime": 24253,
+        "slowStartTime": 32769,
+        "slowEndTime": 36605
+    },
+    {
+        "text": "They catch snow on their tongues.",
+        "startTime": 25245,
+        "endTime": 27576,
+        "slowStartTime": 38017,
+        "slowEndTime": 41589
+    },
+    {
+        "text": "The snow begins to fall fast.",
+        "startTime": 28616,
+        "endTime": 31148,
+        "slowStartTime": 43074,
+        "slowEndTime": 46947
+    },
+    {
+        "text": "It falls faster and faster.",
+        "startTime": 32196,
+        "endTime": 34598,
+        "slowStartTime": 48444,
+        "slowEndTime": 52122
+    },
+    {
+        "text": "The snow gets deep.",
+        "startTime": 35541,
+        "endTime": 37171,
+        "slowStartTime": 53461,
+        "slowEndTime": 55982
+    },
+    {
+        "text": "It gets deeper and deeper.",
+        "startTime": 38139,
+        "endTime": 40297,
+        "slowStartTime": 57358,
+        "slowEndTime": 60670
+    },
+    {
+        "text": "The wind blows harder.",
+        "startTime": 41362,
+        "endTime": 42987,
+        "slowStartTime": 62193,
+        "slowEndTime": 64705
+    },
+    {
+        "text": "It gets colder and colder.",
+        "startTime": 44009,
+        "endTime": 46343,
+        "slowStartTime": 66164,
+        "slowEndTime": 69740
+    },
+    {
+        "text": "Jamal and Isha go into the house.",
+        "startTime": 47359,
+        "endTime": 50157,
+        "slowStartTime": 71188,
+        "slowEndTime": 75460
+    },
+    {
+        "text": "It feels good to be warm.",
+        "startTime": 51174,
+        "endTime": 53237,
+        "slowStartTime": 76911,
+        "slowEndTime": 80080
+    }
+]

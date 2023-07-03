@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Carefully stow your hand luggage in the overhead bins...",
+        "startTime": 400,
+        "endTime": 3089,
+        "slowStartTime": 750,
+        "slowEndTime": 4858
+    },
+    {
+        "text": "...or under the seat in front of you.",
+        "startTime": 3207,
+        "endTime": 4963,
+        "slowStartTime": 4961,
+        "slowEndTime": 7670
+    },
+    {
+        "text": "When the seatbelt sign is on, please fasten your seatbelt.",
+        "startTime": 8154,
+        "endTime": 11199,
+        "slowStartTime": 12381,
+        "slowEndTime": 17024
+    },
+    {
+        "text": "Keep it fastened and visible while seated.",
+        "startTime": 11439,
+        "endTime": 13865,
+        "slowStartTime": 17308,
+        "slowEndTime": 21023
+    },
+    {
+        "text": "The crew will provide loop belts for infants.",
+        "startTime": 15453,
+        "endTime": 17848,
+        "slowStartTime": 23329,
+        "slowEndTime": 26997
+    },
+    {
+        "text": "You can release it as shown here when needed.",
+        "startTime": 19481,
+        "endTime": 21929,
+        "slowStartTime": 29371,
+        "slowEndTime": 33119
+    },
+    {
+        "text": "It is illegal to smoke on this flight, including electronic cigarettes.",
+        "startTime": 22829,
+        "endTime": 26835,
+        "slowStartTime": 34394,
+        "slowEndTime": 40478
+    },
+    {
+        "text": "It is also strictly prohibited to smoke in the toilets,...",
+        "startTime": 27116,
+        "endTime": 29787,
+        "slowStartTime": 40824,
+        "slowEndTime": 44906
+    },
+    {
+        "text": "...which are equipped with smoke detectors.",
+        "startTime": 30015,
+        "endTime": 31812,
+        "slowStartTime": 45173,
+        "slowEndTime": 47943
+    },
+    {
+        "text": "Set your mobile phones and all electronic devices to flight mode.",
+        "startTime": 32943,
+        "endTime": 36783,
+        "slowStartTime": 49565,
+        "slowEndTime": 55400
+    },
+    {
+        "text": "For takeoff and landing, please switch them off.",
+        "startTime": 37471,
+        "endTime": 39898,
+        "slowStartTime": 56357,
+        "slowEndTime": 60072
+    },
+    {
+        "text": "Unplug them and stow them away.",
+        "startTime": 40332,
+        "endTime": 42388,
+        "slowStartTime": 60648,
+        "slowEndTime": 63807
+    }
+]

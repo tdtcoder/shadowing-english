@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Let's learn about people.",
+        "startTime": 879,
+        "endTime": 3043,
+        "slowStartTime": 1468,
+        "slowEndTime": 4790
+    },
+    {
+        "text": "The baby likes the cat.",
+        "startTime": 7883,
+        "endTime": 10371,
+        "slowStartTime": 11974,
+        "slowEndTime": 15782
+    },
+    {
+        "text": "There are four boys.",
+        "startTime": 14603,
+        "endTime": 16941,
+        "slowStartTime": 22055,
+        "slowEndTime": 25636
+    },
+    {
+        "text": "There are four girls.",
+        "startTime": 21045,
+        "endTime": 23480,
+        "slowStartTime": 31717,
+        "slowEndTime": 35445
+    },
+    {
+        "text": "There are three children.",
+        "startTime": 27663,
+        "endTime": 30207,
+        "slowStartTime": 41644,
+        "slowEndTime": 45535
+    },
+    {
+        "text": "There are three teenagers.",
+        "startTime": 34274,
+        "endTime": 37005,
+        "slowStartTime": 51561,
+        "slowEndTime": 55733
+    },
+    {
+        "text": "There is one man.",
+        "startTime": 40991,
+        "endTime": 43119,
+        "slowStartTime": 61637,
+        "slowEndTime": 64904
+    },
+    {
+        "text": "There is one woman.",
+        "startTime": 47131,
+        "endTime": 49513,
+        "slowStartTime": 70847,
+        "slowEndTime": 74495
+    },
+    {
+        "text": "There are five men.",
+        "startTime": 52902,
+        "endTime": 55409,
+        "slowStartTime": 79503,
+        "slowEndTime": 83338
+    },
+    {
+        "text": "There are five women.",
+        "startTime": 59153,
+        "endTime": 61305,
+        "slowStartTime": 88879,
+        "slowEndTime": 92182
+    },
+    {
+        "text": "One person is eating.",
+        "startTime": 65332,
+        "endTime": 67697,
+        "slowStartTime": 98148,
+        "slowEndTime": 101770
+    },
+    {
+        "text": "Two people are having a drink.",
+        "startTime": 71405,
+        "endTime": 74089,
+        "slowStartTime": 107257,
+        "slowEndTime": 111359
+    }
+]

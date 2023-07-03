@@ -1,0 +1,30 @@
+[
+    {
+        "text": "November 11 is a celebration of friendship.",
+        "startTime": 1338,
+        "endTime": 6010,
+        "slowStartTime": 2157,
+        "slowEndTime": 9240
+    },
+    {
+        "text": "A day for sharing.",
+        "startTime": 7199,
+        "endTime": 8999,
+        "slowStartTime": 10949,
+        "slowEndTime": 13723
+    },
+    {
+        "text": "A day of love.",
+        "startTime": 10280,
+        "endTime": 11737,
+        "slowStartTime": 15570,
+        "slowEndTime": 17831
+    },
+    {
+        "text": "11-11 is Happy Pepero Day.",
+        "startTime": 12202,
+        "endTime": 14769,
+        "slowStartTime": 18453,
+        "slowEndTime": 22379
+    }
+]

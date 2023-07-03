@@ -1,0 +1,121 @@
+[
+    {
+        "text": "I received my first set of bills in the mail today.",
+        "startTime": 2518,
+        "endTime": 5079,
+        "slowStartTime": 3927,
+        "slowEndTime": 7843
+    },
+    {
+        "text": "Well, at least that tells you that you are actually alive, right?",
+        "startTime": 5729,
+        "endTime": 9032,
+        "slowStartTime": 8744,
+        "slowEndTime": 13773
+    },
+    {
+        "text": "I guess so, but I'd rather not have to pay them all.",
+        "startTime": 9366,
+        "endTime": 11709,
+        "slowStartTime": 14199,
+        "slowEndTime": 17789
+    },
+    {
+        "text": "Wouldn't we all?",
+        "startTime": 12022,
+        "endTime": 12857,
+        "slowStartTime": 18183,
+        "slowEndTime": 19510
+    },
+    {
+        "text": "Can you take a look at a couple of them for me?",
+        "startTime": 13440,
+        "endTime": 15428,
+        "slowStartTime": 20310,
+        "slowEndTime": 23367
+    },
+    {
+        "text": "Sure, is there a problem?",
+        "startTime": 15683,
+        "endTime": 17363,
+        "slowStartTime": 23675,
+        "slowEndTime": 26270
+    },
+    {
+        "text": "I'm not sure.",
+        "startTime": 17712,
+        "endTime": 18636,
+        "slowStartTime": 26718,
+        "slowEndTime": 28179
+    },
+    {
+        "text": "The utility bill seems a little high to me.",
+        "startTime": 18821,
+        "endTime": 21103,
+        "slowStartTime": 28381,
+        "slowEndTime": 31879
+    },
+    {
+        "text": "Let's have a look.",
+        "startTime": 21367,
+        "endTime": 22413,
+        "slowStartTime": 32200,
+        "slowEndTime": 33844
+    },
+    {
+        "text": "Yes, it is a little high.",
+        "startTime": 22855,
+        "endTime": 25015,
+        "slowStartTime": 34433,
+        "slowEndTime": 37747
+    },
+    {
+        "text": "Here's the reason.",
+        "startTime": 25182,
+        "endTime": 26105,
+        "slowStartTime": 37923,
+        "slowEndTime": 39382
+    },
+    {
+        "text": "What is it?",
+        "startTime": 26377,
+        "endTime": 26867,
+        "slowStartTime": 39715,
+        "slowEndTime": 40526
+    },
+    {
+        "text": "It's because it's your first month,...",
+        "startTime": 27223,
+        "endTime": 28927,
+        "slowStartTime": 40985,
+        "slowEndTime": 43616
+    },
+    {
+        "text": "...there are some installation fees.",
+        "startTime": 29091,
+        "endTime": 30782,
+        "slowStartTime": 43786,
+        "slowEndTime": 46398
+    },
+    {
+        "text": "Oh, I see.",
+        "startTime": 30973,
+        "endTime": 31727,
+        "slowStartTime": 46610,
+        "slowEndTime": 47815
+    },
+    {
+        "text": "So it won't be so high from now on.",
+        "startTime": 31903,
+        "endTime": 33931,
+        "slowStartTime": 48004,
+        "slowEndTime": 51122
+    },
+    {
+        "text": "It shouldn't be.",
+        "startTime": 34151,
+        "endTime": 34996,
+        "slowStartTime": 51377,
+        "slowEndTime": 52719
+    }
+]

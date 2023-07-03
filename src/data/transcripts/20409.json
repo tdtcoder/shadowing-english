@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Hello!",
+        "startTime": 1633,
+        "endTime": 1842,
+        "slowStartTime": 2599,
+        "slowEndTime": 2988
+    },
+    {
+        "text": "Yeah, yeah. Hello.",
+        "startTime": 2547,
+        "endTime": 2879,
+        "slowStartTime": 3970,
+        "slowEndTime": 4544
+    },
+    {
+        "text": "Hello.",
+        "startTime": 3243,
+        "endTime": 3525,
+        "slowStartTime": 5014,
+        "slowEndTime": 5512
+    },
+    {
+        "text": "Who is this?",
+        "startTime": 4452,
+        "endTime": 4752,
+        "slowStartTime": 6828,
+        "slowEndTime": 7353
+    },
+    {
+        "text": "It's me.",
+        "startTime": 5168,
+        "endTime": 5490,
+        "slowStartTime": 7902,
+        "slowEndTime": 8460
+    },
+    {
+        "text": "Me who?",
+        "startTime": 5951,
+        "endTime": 6135,
+        "slowStartTime": 9077,
+        "slowEndTime": 9428
+    },
+    {
+        "text": "Me who?",
+        "startTime": 6441,
+        "endTime": 6656,
+        "slowStartTime": 9811,
+        "slowEndTime": 10209
+    },
+    {
+        "text": "Me, me.",
+        "startTime": 7318,
+        "endTime": 7784,
+        "slowStartTime": 11127,
+        "slowEndTime": 11901
+    },
+    {
+        "text": "Want to have a better recall rate?",
+        "startTime": 9719,
+        "endTime": 11124,
+        "slowStartTime": 14729,
+        "slowEndTime": 16911
+    },
+    {
+        "text": "A new study carried out by an associate professor at Montclair State University...",
+        "startTime": 12014,
+        "endTime": 15741,
+        "slowStartTime": 18171,
+        "slowEndTime": 23837
+    },
+    {
+        "text": "...has found out by simply clenching your fist,...",
+        "startTime": 16017,
+        "endTime": 18353,
+        "slowStartTime": 24175,
+        "slowEndTime": 27754
+    },
+    {
+        "text": "...memories and small details can be more easily recalled.",
+        "startTime": 18567,
+        "endTime": 21319,
+        "slowStartTime": 28001,
+        "slowEndTime": 32203
+    },
+    {
+        "text": "Researchers asked more than 50 right-handed study participants...",
+        "startTime": 22109,
+        "endTime": 25026,
+        "slowStartTime": 33313,
+        "slowEndTime": 37764
+    },
+    {
+        "text": "...to memorize 72 different words.",
+        "startTime": 25109,
+        "endTime": 27261,
+        "slowStartTime": 37814,
+        "slowEndTime": 41117
+    },
+    {
+        "text": "They were assigned at random into varying hand clenching groups...",
+        "startTime": 27877,
+        "endTime": 30429,
+        "slowStartTime": 41816,
+        "slowEndTime": 45869
+    },
+    {
+        "text": "...and then there was one group that did nothing.",
+        "startTime": 30719,
+        "endTime": 32477,
+        "slowStartTime": 46229,
+        "slowEndTime": 48940
+    },
+    {
+        "text": "The researchers found that participants had better memory....",
+        "startTime": 33278,
+        "endTime": 35780,
+        "slowStartTime": 50067,
+        "slowEndTime": 53895
+    },
+    {
+        "text": "...while clenching the right hand for memorizing...",
+        "startTime": 35878,
+        "endTime": 37937,
+        "slowStartTime": 53967,
+        "slowEndTime": 57131
+    },
+    {
+        "text": "...and balling up the other hand while attempting to recall certain facts.",
+        "startTime": 38167,
+        "endTime": 41367,
+        "slowStartTime": 57401,
+        "slowEndTime": 62276
+    },
+    {
+        "text": "The lead author states, \"I would say that it would be worth trying.\"",
+        "startTime": 42109,
+        "endTime": 45428,
+        "slowStartTime": 63314,
+        "slowEndTime": 68367
+    },
+    {
+        "text": "\"Take parking your car in the parking lot.\"",
+        "startTime": 45799,
+        "endTime": 47465,
+        "slowStartTime": 68849,
+        "slowEndTime": 71423
+    },
+    {
+        "text": "\"As you park you can clench your right hand and when you're trying to find it,\"...",
+        "startTime": 47986,
+        "endTime": 51453,
+        "slowStartTime": 72129,
+        "slowEndTime": 77405
+    },
+    {
+        "text": "...clench your left hand.\"",
+        "startTime": 51792,
+        "endTime": 52627,
+        "slowStartTime": 77838,
+        "slowEndTime": 79165
+    },
+    {
+        "text": "In another experiment, researchers from the University of Northumbria,...",
+        "startTime": 54032,
+        "endTime": 57229,
+        "slowStartTime": 81198,
+        "slowEndTime": 86069
+    },
+    {
+        "text": "...found that the scent of rosemary might actually improve memory function.",
+        "startTime": 57810,
+        "endTime": 60833,
+        "slowStartTime": 86476,
+        "slowEndTime": 91475
+    },
+    {
+        "text": "Research subjects performed better in a room that had a rosemary scent in it...",
+        "startTime": 61275,
+        "endTime": 64492,
+        "slowStartTime": 92063,
+        "slowEndTime": 96963
+    },
+    {
+        "text": "...than rooms with no scent.",
+        "startTime": 64825,
+        "endTime": 65777,
+        "slowStartTime": 97388,
+        "slowEndTime": 98891
+    }
+]

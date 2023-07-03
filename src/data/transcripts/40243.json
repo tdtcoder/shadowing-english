@@ -1,0 +1,86 @@
+[
+    {
+        "text": "I work in a tall building on a busy street.",
+        "startTime": 573,
+        "endTime": 2753,
+        "slowStartTime": 1010,
+        "slowEndTime": 4355
+    },
+    {
+        "text": "Our office uses two floors.",
+        "startTime": 3351,
+        "endTime": 5151,
+        "slowStartTime": 5176,
+        "slowEndTime": 7951
+    },
+    {
+        "text": "Many people work there.",
+        "startTime": 5698,
+        "endTime": 6891,
+        "slowStartTime": 8697,
+        "slowEndTime": 10561
+    },
+    {
+        "text": "My favorite part of the building is the cafe downstairs.",
+        "startTime": 7438,
+        "endTime": 10631,
+        "slowStartTime": 11307,
+        "slowEndTime": 16171
+    },
+    {
+        "text": "You can work there with a good view while drinking coffee.",
+        "startTime": 11227,
+        "endTime": 13807,
+        "slowStartTime": 16991,
+        "slowEndTime": 20935
+    },
+    {
+        "text": "I work in a building with just a few floors.",
+        "startTime": 15965,
+        "endTime": 18446,
+        "slowStartTime": 24097,
+        "slowEndTime": 27894
+    },
+    {
+        "text": "It is not high, but it has a very modern design inside.",
+        "startTime": 19155,
+        "endTime": 22461,
+        "slowStartTime": 28883,
+        "slowEndTime": 33917
+    },
+    {
+        "text": "There are a lot of open spaces, so it is comfortable to move around.",
+        "startTime": 23150,
+        "endTime": 26855,
+        "slowStartTime": 34875,
+        "slowEndTime": 40507
+    },
+    {
+        "text": "My favorite part of the office is the common space.",
+        "startTime": 27664,
+        "endTime": 30176,
+        "slowStartTime": 41646,
+        "slowEndTime": 45489
+    },
+    {
+        "text": "There are different chairs and tables for everyone to sit, work, and talk.",
+        "startTime": 30755,
+        "endTime": 34692,
+        "slowStartTime": 46283,
+        "slowEndTime": 52263
+    },
+    {
+        "text": "There is also a garden in the middle of the building.",
+        "startTime": 34969,
+        "endTime": 37027,
+        "slowStartTime": 52604,
+        "slowEndTime": 55765
+    },
+    {
+        "text": "There are tables and chairs there where you can work.",
+        "startTime": 37728,
+        "endTime": 40477,
+        "slowStartTime": 56742,
+        "slowEndTime": 60941
+    }
+]

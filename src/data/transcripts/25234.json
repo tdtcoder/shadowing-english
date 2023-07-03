@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Messi.",
+        "startTime": 1435,
+        "endTime": 1801,
+        "slowStartTime": 2302,
+        "slowEndTime": 2926
+    },
+    {
+        "text": "My hero.",
+        "startTime": 6744,
+        "endTime": 7575,
+        "slowStartTime": 10266,
+        "slowEndTime": 11588
+    },
+    {
+        "text": "My idol.",
+        "startTime": 10593,
+        "endTime": 11484,
+        "slowStartTime": 16040,
+        "slowEndTime": 17451
+    },
+    {
+        "text": "You're legendary.",
+        "startTime": 13648,
+        "endTime": 14645,
+        "slowStartTime": 20622,
+        "slowEndTime": 22192
+    },
+    {
+        "text": "Unstoppable.",
+        "startTime": 16779,
+        "endTime": 17623,
+        "slowStartTime": 25319,
+        "slowEndTime": 26659
+    },
+    {
+        "text": "The best ever.",
+        "startTime": 26034,
+        "endTime": 27113,
+        "slowStartTime": 39201,
+        "slowEndTime": 40894
+    },
+    {
+        "text": "I've always wanted to be like you.",
+        "startTime": 31693,
+        "endTime": 33288,
+        "slowStartTime": 47690,
+        "slowEndTime": 50157
+    },
+    {
+        "text": "To play like you.",
+        "startTime": 33993,
+        "endTime": 35162,
+        "slowStartTime": 51139,
+        "slowEndTime": 52968
+    },
+    {
+        "text": "But I am not you.",
+        "startTime": 35969,
+        "endTime": 37763,
+        "slowStartTime": 54104,
+        "slowEndTime": 56869
+    },
+    {
+        "text": "I want to see what the world thinks of me.",
+        "startTime": 39719,
+        "endTime": 41484,
+        "slowStartTime": 59729,
+        "slowEndTime": 62451
+    },
+    {
+        "text": "And what I can create.",
+        "startTime": 42463,
+        "endTime": 43716,
+        "slowStartTime": 63844,
+        "slowEndTime": 65799
+    }
+]

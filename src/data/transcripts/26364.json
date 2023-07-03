@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Never meant to cause you any sorrow.",
+        "startTime": 5038,
+        "endTime": 8110,
+        "slowStartTime": 7707,
+        "slowEndTime": 12390
+    },
+    {
+        "text": "Never meant to cause you any pain.",
+        "startTime": 13295,
+        "endTime": 17019,
+        "slowStartTime": 20092,
+        "slowEndTime": 25754
+    },
+    {
+        "text": "I only wanted to see you laughing,...",
+        "startTime": 21242,
+        "endTime": 24811,
+        "slowStartTime": 32013,
+        "slowEndTime": 37442
+    },
+    {
+        "text": "....only want to see you laughing in the purple rain.",
+        "startTime": 27782,
+        "endTime": 33974,
+        "slowStartTime": 41823,
+        "slowEndTime": 51186
+    },
+    {
+        "text": "Purple rain, purple rain.",
+        "startTime": 34473,
+        "endTime": 37624,
+        "slowStartTime": 51860,
+        "slowEndTime": 56661
+    },
+    {
+        "text": "Purple rain, purple rain.",
+        "startTime": 42465,
+        "endTime": 45519,
+        "slowStartTime": 63847,
+        "slowEndTime": 68504
+    },
+    {
+        "text": "Purple rain, purple rain.",
+        "startTime": 50307,
+        "endTime": 53746,
+        "slowStartTime": 75610,
+        "slowEndTime": 80844
+    }
+]

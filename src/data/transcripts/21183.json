@@ -1,0 +1,233 @@
+[
+    {
+        "text": "Speedo Airlines Flight 540 to Los Angeles, now boarding at Gate 6.",
+        "startTime": 834,
+        "endTime": 6880,
+        "slowStartTime": 1401,
+        "slowEndTime": 10545
+    },
+    {
+        "text": "Hello.",
+        "startTime": 12698,
+        "endTime": 12945,
+        "slowStartTime": 19197,
+        "slowEndTime": 19643
+    },
+    {
+        "text": "Hello.",
+        "startTime": 13279,
+        "endTime": 13547,
+        "slowStartTime": 20069,
+        "slowEndTime": 20546
+    },
+    {
+        "text": "How are you?",
+        "startTime": 13664,
+        "endTime": 14111,
+        "slowStartTime": 20646,
+        "slowEndTime": 21392
+    },
+    {
+        "text": "I'm alright.",
+        "startTime": 14239,
+        "endTime": 14580,
+        "slowStartTime": 21509,
+        "slowEndTime": 22095
+    },
+    {
+        "text": "Welcome to Speedo Airlines.",
+        "startTime": 22315,
+        "endTime": 23815,
+        "slowStartTime": 33622,
+        "slowEndTime": 35948
+    },
+    {
+        "text": "You want to get there fast and have a good time?",
+        "startTime": 24166,
+        "endTime": 25979,
+        "slowStartTime": 36399,
+        "slowEndTime": 39193
+    },
+    {
+        "text": "Possibly get a nice drink on the way?",
+        "startTime": 26269,
+        "endTime": 27824,
+        "slowStartTime": 39553,
+        "slowEndTime": 41961
+    },
+    {
+        "text": "Rent a car at the end of your flight?",
+        "startTime": 28187,
+        "endTime": 29331,
+        "slowStartTime": 42430,
+        "slowEndTime": 44221
+    },
+    {
+        "text": "Take your wife for half price or your child for the full family plan?",
+        "startTime": 29689,
+        "endTime": 32783,
+        "slowStartTime": 44683,
+        "slowEndTime": 49399
+    },
+    {
+        "text": "If you come back within five days, fly Speedo.",
+        "startTime": 33201,
+        "endTime": 35510,
+        "slowStartTime": 49952,
+        "slowEndTime": 53490
+    },
+    {
+        "text": "That's your slogan?",
+        "startTime": 38314,
+        "endTime": 39311,
+        "slowStartTime": 57621,
+        "slowEndTime": 59191
+    },
+    {
+        "text": "Yes.",
+        "startTime": 39477,
+        "endTime": 39751,
+        "slowStartTime": 59365,
+        "slowEndTime": 59851
+    },
+    {
+        "text": "Real catchy!",
+        "startTime": 40659,
+        "endTime": 41442,
+        "slowStartTime": 61139,
+        "slowEndTime": 62388
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 41809,
+        "endTime": 41967,
+        "slowStartTime": 62864,
+        "slowEndTime": 63176
+    },
+    {
+        "text": "Okay, where are you headed?",
+        "startTime": 43507,
+        "endTime": 44351,
+        "slowStartTime": 65411,
+        "slowEndTime": 66751
+    },
+    {
+        "text": "Los Angeles.",
+        "startTime": 44759,
+        "endTime": 45245,
+        "slowStartTime": 67288,
+        "slowEndTime": 68093
+    },
+    {
+        "text": "Los Angeles?",
+        "startTime": 45346,
+        "endTime": 45969,
+        "slowStartTime": 68169,
+        "slowEndTime": 69178
+    },
+    {
+        "text": "Alright.",
+        "startTime": 46441,
+        "endTime": 46761,
+        "slowStartTime": 69812,
+        "slowEndTime": 70366
+    },
+    {
+        "text": "Okay.",
+        "startTime": 47935,
+        "endTime": 48686,
+        "slowStartTime": 72052,
+        "slowEndTime": 73254
+    },
+    {
+        "text": "Alone?",
+        "startTime": 49401,
+        "endTime": 49795,
+        "slowStartTime": 74252,
+        "slowEndTime": 74917
+    },
+    {
+        "text": "Travelling alone?",
+        "startTime": 49868,
+        "endTime": 50399,
+        "slowStartTime": 74952,
+        "slowEndTime": 75824
+    },
+    {
+        "text": "Yes.",
+        "startTime": 50516,
+        "endTime": 50727,
+        "slowStartTime": 75924,
+        "slowEndTime": 76315
+    },
+    {
+        "text": "Alright.",
+        "startTime": 50856,
+        "endTime": 51247,
+        "slowStartTime": 76434,
+        "slowEndTime": 77096
+    },
+    {
+        "text": "Los Angeles.",
+        "startTime": 51953,
+        "endTime": 52647,
+        "slowStartTime": 78080,
+        "slowEndTime": 79196
+    },
+    {
+        "text": "Okay.",
+        "startTime": 52888,
+        "endTime": 53387,
+        "slowStartTime": 79482,
+        "slowEndTime": 80305
+    },
+    {
+        "text": "Will you be using the restroom at all in the trip?",
+        "startTime": 60758,
+        "endTime": 62421,
+        "slowStartTime": 91287,
+        "slowEndTime": 93857
+    },
+    {
+        "text": "You mean on the plane?",
+        "startTime": 64133,
+        "endTime": 64891,
+        "slowStartTime": 96350,
+        "slowEndTime": 97561
+    },
+    {
+        "text": "Oh, I don't know.",
+        "startTime": 65671,
+        "endTime": 66421,
+        "slowStartTime": 98656,
+        "slowEndTime": 99857
+    },
+    {
+        "text": "Probably.",
+        "startTime": 66670,
+        "endTime": 66987,
+        "slowStartTime": 100155,
+        "slowEndTime": 100705
+    },
+    {
+        "text": "Now, this is a temporary,...",
+        "startTime": 72129,
+        "endTime": 73388,
+        "slowStartTime": 108343,
+        "slowEndTime": 110307
+    },
+    {
+        "text": "...if you do decide to use it, then the stewardess will stamp that for you.",
+        "startTime": 73459,
+        "endTime": 76081,
+        "slowStartTime": 110339,
+        "slowEndTime": 114347
+    },
+    {
+        "text": "Thank you very much.",
+        "startTime": 77204,
+        "endTime": 77761,
+        "slowStartTime": 115956,
+        "slowEndTime": 116866
+    }
+]

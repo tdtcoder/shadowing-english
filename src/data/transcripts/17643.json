@@ -1,0 +1,156 @@
+[
+    {
+        "text": "We can get in a car.",
+        "startTime": 2595,
+        "endTime": 4349,
+        "slowStartTime": 4043,
+        "slowEndTime": 6749
+    },
+    {
+        "text": "We can drive away.",
+        "startTime": 5372,
+        "endTime": 6812,
+        "slowStartTime": 8208,
+        "slowEndTime": 10443
+    },
+    {
+        "text": "We can get in a boat.",
+        "startTime": 7881,
+        "endTime": 9353,
+        "slowStartTime": 11972,
+        "slowEndTime": 14254
+    },
+    {
+        "text": "We can sail away.",
+        "startTime": 10406,
+        "endTime": 12081,
+        "slowStartTime": 15759,
+        "slowEndTime": 18347
+    },
+    {
+        "text": "We can get on a plane.",
+        "startTime": 13198,
+        "endTime": 14933,
+        "slowStartTime": 19947,
+        "slowEndTime": 22624
+    },
+    {
+        "text": "We can fly away.",
+        "startTime": 16003,
+        "endTime": 17646,
+        "slowStartTime": 24154,
+        "slowEndTime": 26694
+    },
+    {
+        "text": "We can get on a bike.",
+        "startTime": 18715,
+        "endTime": 20344,
+        "slowStartTime": 28223,
+        "slowEndTime": 30741
+    },
+    {
+        "text": "We can pedal away.",
+        "startTime": 21397,
+        "endTime": 23084,
+        "slowStartTime": 32246,
+        "slowEndTime": 34851
+    },
+    {
+        "text": "We can get in a balloon.",
+        "startTime": 24091,
+        "endTime": 26017,
+        "slowStartTime": 36286,
+        "slowEndTime": 39250
+    },
+    {
+        "text": "We can float away.",
+        "startTime": 27071,
+        "endTime": 28622,
+        "slowStartTime": 40756,
+        "slowEndTime": 43158
+    },
+    {
+        "text": "We can get on a train.",
+        "startTime": 29550,
+        "endTime": 31398,
+        "slowStartTime": 44475,
+        "slowEndTime": 47322
+    },
+    {
+        "text": "We can chug away.",
+        "startTime": 32467,
+        "endTime": 34064,
+        "slowStartTime": 48851,
+        "slowEndTime": 51321
+    },
+    {
+        "text": "We can get in a rocket.",
+        "startTime": 35118,
+        "endTime": 36771,
+        "slowStartTime": 52827,
+        "slowEndTime": 55381
+    },
+    {
+        "text": "We can zoom away.",
+        "startTime": 37840,
+        "endTime": 39751,
+        "slowStartTime": 56910,
+        "slowEndTime": 59851
+    },
+    {
+        "text": "We can put on our shoes.",
+        "startTime": 40851,
+        "endTime": 42964,
+        "slowStartTime": 61427,
+        "slowEndTime": 64671
+    },
+    {
+        "text": "We can run away.",
+        "startTime": 43986,
+        "endTime": 45473,
+        "slowStartTime": 66129,
+        "slowEndTime": 68435
+    },
+    {
+        "text": "How can we get to the airport?",
+        "startTime": 49461,
+        "endTime": 51591,
+        "slowStartTime": 74341,
+        "slowEndTime": 77611
+    },
+    {
+        "text": "We can get in a car.",
+        "startTime": 52597,
+        "endTime": 54179,
+        "slowStartTime": 79046,
+        "slowEndTime": 81493
+    },
+    {
+        "text": "How can we get to Jeju Island?",
+        "startTime": 55245,
+        "endTime": 57547,
+        "slowStartTime": 83017,
+        "slowEndTime": 86546
+    },
+    {
+        "text": "We can get on a plane.",
+        "startTime": 58617,
+        "endTime": 60276,
+        "slowStartTime": 88075,
+        "slowEndTime": 90639
+    },
+    {
+        "text": "Can we get to the moon?",
+        "startTime": 61361,
+        "endTime": 62989,
+        "slowStartTime": 92192,
+        "slowEndTime": 94709
+    },
+    {
+        "text": "Of course. We can get to the moon in a rocket.",
+        "startTime": 64021,
+        "endTime": 67957,
+        "slowStartTime": 96182,
+        "slowEndTime": 102160
+    }
+]

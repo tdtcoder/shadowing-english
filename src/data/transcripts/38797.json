@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Hello. I'm Daniel Moore.",
+        "startTime": 50,
+        "endTime": 1763,
+        "slowStartTime": 200,
+        "slowEndTime": 2869
+    },
+    {
+        "text": "I'm a marketing specialist here at Performax.",
+        "startTime": 2351,
+        "endTime": 4963,
+        "slowStartTime": 3676,
+        "slowEndTime": 7670
+    },
+    {
+        "text": "I am the person who can answer all your questions...",
+        "startTime": 5650,
+        "endTime": 8526,
+        "slowStartTime": 8625,
+        "slowEndTime": 13014
+    },
+    {
+        "text": "...about communicating with your customers...",
+        "startTime": 8630,
+        "endTime": 10870,
+        "slowStartTime": 13095,
+        "slowEndTime": 16530
+    },
+    {
+        "text": "...and making sure that people will learn about your products and services.",
+        "startTime": 11095,
+        "endTime": 15101,
+        "slowStartTime": 16793,
+        "slowEndTime": 22877
+    },
+    {
+        "text": "I'm looking forward to knowing more about you and your company in our meeting today.",
+        "startTime": 15839,
+        "endTime": 19875,
+        "slowStartTime": 23908,
+        "slowEndTime": 30038
+    },
+    {
+        "text": "I'm very excited in working with you and sharing great ideas to improve your business.",
+        "startTime": 20761,
+        "endTime": 26377,
+        "slowStartTime": 31292,
+        "slowEndTime": 39790
+    }
+]

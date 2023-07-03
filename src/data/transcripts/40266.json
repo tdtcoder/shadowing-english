@@ -1,0 +1,51 @@
+[
+    {
+        "text": "I work at a bookshop.",
+        "startTime": 282,
+        "endTime": 1389,
+        "slowStartTime": 573,
+        "slowEndTime": 2309
+    },
+    {
+        "text": "It's in a busy location with a lot of old buildings.",
+        "startTime": 2283,
+        "endTime": 5025,
+        "slowStartTime": 3575,
+        "slowEndTime": 7763
+    },
+    {
+        "text": "It's a small space, but many people come to look for their favorite books.",
+        "startTime": 5634,
+        "endTime": 9536,
+        "slowStartTime": 8601,
+        "slowEndTime": 14529
+    },
+    {
+        "text": "My office is in a quiet part of our town.",
+        "startTime": 11091,
+        "endTime": 13373,
+        "slowStartTime": 16786,
+        "slowEndTime": 20285
+    },
+    {
+        "text": "It only has two floors, but it has big windows.",
+        "startTime": 13753,
+        "endTime": 16644,
+        "slowStartTime": 20780,
+        "slowEndTime": 25191
+    },
+    {
+        "text": "There is a big open space outside.",
+        "startTime": 17654,
+        "endTime": 19673,
+        "slowStartTime": 26631,
+        "slowEndTime": 29734
+    },
+    {
+        "text": "We can park our cars there or do some outdoor activities.",
+        "startTime": 20447,
+        "endTime": 23817,
+        "slowStartTime": 30820,
+        "slowEndTime": 35950
+    }
+]

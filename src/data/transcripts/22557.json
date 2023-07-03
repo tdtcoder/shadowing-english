@@ -1,0 +1,65 @@
+[
+    {
+        "text": "In Chile, a powerful 7.6 earthquake rocks the north forcing evacuations.",
+        "startTime": 2292,
+        "endTime": 7987,
+        "slowStartTime": 3588,
+        "slowEndTime": 12206
+    },
+    {
+        "text": "This, just a day after a deadly 8.2 tremor in the same region.",
+        "startTime": 8377,
+        "endTime": 12793,
+        "slowStartTime": 12715,
+        "slowEndTime": 19414
+    },
+    {
+        "text": "In Lebanon, the number of Syrian refugees tops one million.",
+        "startTime": 13988,
+        "endTime": 18034,
+        "slowStartTime": 21132,
+        "slowEndTime": 27276
+    },
+    {
+        "text": "Lufthansa pilots in Germany continue to strike over benefits for early retirement,...",
+        "startTime": 22433,
+        "endTime": 27675,
+        "slowStartTime": 33799,
+        "slowEndTime": 41737
+    },
+    {
+        "text": "...leading to the cancellation of 3,800 flights.",
+        "startTime": 27954,
+        "endTime": 31602,
+        "slowStartTime": 42081,
+        "slowEndTime": 47628
+    },
+    {
+        "text": "In Australia, the Australian and Malaysian prime ministers...",
+        "startTime": 33453,
+        "endTime": 37072,
+        "slowStartTime": 50329,
+        "slowEndTime": 55833
+    },
+    {
+        "text": "...promise to do everything possible to find missing Malaysia Airlines Flight MH370.",
+        "startTime": 37312,
+        "endTime": 43065,
+        "slowStartTime": 56118,
+        "slowEndTime": 64822
+    },
+    {
+        "text": "And finally from Italy, Britain's Queen Elizabeth and husband the Duke of Edinburgh...",
+        "startTime": 44823,
+        "endTime": 50319,
+        "slowStartTime": 67384,
+        "slowEndTime": 75704
+    },
+    {
+        "text": "...arrive to meet the Italian president and Pope Francis.",
+        "startTime": 50605,
+        "endTime": 54053,
+        "slowStartTime": 76057,
+        "slowEndTime": 81305
+    }
+]

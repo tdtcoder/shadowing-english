@@ -1,0 +1,86 @@
+[
+    {
+        "text": "﻿Son.",
+        "startTime": 6642,
+        "endTime": 7217,
+        "slowStartTime": 10113,
+        "slowEndTime": 11051
+    },
+    {
+        "text": "Yeah?",
+        "startTime": 7386,
+        "endTime": 7996,
+        "slowStartTime": 11229,
+        "slowEndTime": 12219
+    },
+    {
+        "text": "Your report card came in the mail today.",
+        "startTime": 8485,
+        "endTime": 10813,
+        "slowStartTime": 12878,
+        "slowEndTime": 16445
+    },
+    {
+        "text": "Top of the class!",
+        "startTime": 13591,
+        "endTime": 14921,
+        "slowStartTime": 20536,
+        "slowEndTime": 22607
+    },
+    {
+        "text": "Oh Kevin, I'm so proud of you.",
+        "startTime": 15774,
+        "endTime": 18193,
+        "slowStartTime": 23811,
+        "slowEndTime": 27514
+    },
+    {
+        "text": "Thanks dad.",
+        "startTime": 18400,
+        "endTime": 19017,
+        "slowStartTime": 27642,
+        "slowEndTime": 28751
+    },
+    {
+        "text": "Come on, let's go for McDonalds.",
+        "startTime": 19349,
+        "endTime": 21240,
+        "slowStartTime": 29173,
+        "slowEndTime": 32085
+    },
+    {
+        "text": "Yes!",
+        "startTime": 21339,
+        "endTime": 21689,
+        "slowStartTime": 32158,
+        "slowEndTime": 32758
+    },
+    {
+        "text": "Oh, how cute!",
+        "startTime": 27299,
+        "endTime": 28461,
+        "slowStartTime": 41098,
+        "slowEndTime": 42916
+    },
+    {
+        "text": "Hold on, I'll show you an old trick.",
+        "startTime": 43243,
+        "endTime": 44918,
+        "slowStartTime": 65015,
+        "slowEndTime": 67602
+    },
+    {
+        "text": "Nice!",
+        "startTime": 51459,
+        "endTime": 52231,
+        "slowStartTime": 77339,
+        "slowEndTime": 78572
+    },
+    {
+        "text": "There's always an extra fry at the bottom.",
+        "startTime": 53379,
+        "endTime": 55563,
+        "slowStartTime": 80219,
+        "slowEndTime": 83570
+    }
+]

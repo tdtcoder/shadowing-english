@@ -1,0 +1,79 @@
+[
+    {
+        "text": "﻿We were below the 88th southern parallel.",
+        "startTime": 1030,
+        "endTime": 3385,
+        "slowStartTime": 1695,
+        "slowEndTime": 5303
+    },
+    {
+        "text": "We have traveled for over 850 miles.",
+        "startTime": 3800,
+        "endTime": 6607,
+        "slowStartTime": 5850,
+        "slowEndTime": 10136
+    },
+    {
+        "text": "My men driven nearly mad from starvation and frostbite.",
+        "startTime": 7075,
+        "endTime": 10681,
+        "slowStartTime": 10762,
+        "slowEndTime": 16247
+    },
+    {
+        "text": "Today we will make history.",
+        "startTime": 11543,
+        "endTime": 13813,
+        "slowStartTime": 17465,
+        "slowEndTime": 20944
+    },
+    {
+        "text": "Welcome to the South Pole!",
+        "startTime": 16622,
+        "endTime": 18319,
+        "slowStartTime": 25083,
+        "slowEndTime": 27704
+    },
+    {
+        "text": "If you're Dora the Explorer, you explore.",
+        "startTime": 18500,
+        "endTime": 20731,
+        "slowStartTime": 27736,
+        "slowEndTime": 31322
+    },
+    {
+        "text": "It's what you do.",
+        "startTime": 20931,
+        "endTime": 21673,
+        "slowStartTime": 31546,
+        "slowEndTime": 32735
+    },
+    {
+        "text": "What took you so long?",
+        "startTime": 21900,
+        "endTime": 23087,
+        "slowStartTime": 32823,
+        "slowEndTime": 34855
+    },
+    {
+        "text": "If you want to save 15% or more on car insurance, you switch to Geico.",
+        "startTime": 23300,
+        "endTime": 26723,
+        "slowStartTime": 34872,
+        "slowEndTime": 40310
+    },
+    {
+        "text": "It's what you do.",
+        "startTime": 26950,
+        "endTime": 27547,
+        "slowStartTime": 40446,
+        "slowEndTime": 41546
+    },
+    {
+        "text": "You did it, yay!",
+        "startTime": 27665,
+        "endTime": 29845,
+        "slowStartTime": 41647,
+        "slowEndTime": 44993
+    }
+]

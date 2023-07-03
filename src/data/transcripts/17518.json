@@ -1,0 +1,156 @@
+[
+    {
+        "text": "Caretakers take care of things.",
+        "startTime": 2485,
+        "endTime": 4811,
+        "slowStartTime": 3877,
+        "slowEndTime": 7442
+    },
+    {
+        "text": "There are many kinds of caretakers.",
+        "startTime": 5643,
+        "endTime": 8063,
+        "slowStartTime": 8614,
+        "slowEndTime": 12320
+    },
+    {
+        "text": "This gardener is a caretaker.",
+        "startTime": 9020,
+        "endTime": 11221,
+        "slowStartTime": 13680,
+        "slowEndTime": 17056
+    },
+    {
+        "text": "He takes care of gardens.",
+        "startTime": 12147,
+        "endTime": 14348,
+        "slowStartTime": 18370,
+        "slowEndTime": 21747
+    },
+    {
+        "text": "This road worker is a caretaker.",
+        "startTime": 15273,
+        "endTime": 17913,
+        "slowStartTime": 23060,
+        "slowEndTime": 27094
+    },
+    {
+        "text": "She takes care of the roads.",
+        "startTime": 18963,
+        "endTime": 21071,
+        "slowStartTime": 28595,
+        "slowEndTime": 31831
+    },
+    {
+        "text": "This babysitter is a caretaker.",
+        "startTime": 21996,
+        "endTime": 24697,
+        "slowStartTime": 33144,
+        "slowEndTime": 37271
+    },
+    {
+        "text": "She takes care of babies.",
+        "startTime": 25765,
+        "endTime": 27903,
+        "slowStartTime": 38797,
+        "slowEndTime": 42080
+    },
+    {
+        "text": "This dentist is a caretaker.",
+        "startTime": 28797,
+        "endTime": 31343,
+        "slowStartTime": 43346,
+        "slowEndTime": 47239
+    },
+    {
+        "text": "He takes care of teeth.",
+        "startTime": 32331,
+        "endTime": 34095,
+        "slowStartTime": 48646,
+        "slowEndTime": 51367
+    },
+    {
+        "text": "This vet is a caretaker.",
+        "startTime": 35051,
+        "endTime": 37440,
+        "slowStartTime": 52727,
+        "slowEndTime": 56385
+    },
+    {
+        "text": "He takes care of animals.",
+        "startTime": 38428,
+        "endTime": 40629,
+        "slowStartTime": 57792,
+        "slowEndTime": 61169
+    },
+    {
+        "text": "This doctor is a caretaker.",
+        "startTime": 41523,
+        "endTime": 43912,
+        "slowStartTime": 62435,
+        "slowEndTime": 66093
+    },
+    {
+        "text": "She takes care of people.",
+        "startTime": 44923,
+        "endTime": 46812,
+        "slowStartTime": 67535,
+        "slowEndTime": 70443
+    },
+    {
+        "text": "These firefighters and police officers are caretakers.",
+        "startTime": 47706,
+        "endTime": 51315,
+        "slowStartTime": 71709,
+        "slowEndTime": 77197
+    },
+    {
+        "text": "They take care of people, too.",
+        "startTime": 52209,
+        "endTime": 54066,
+        "slowStartTime": 78463,
+        "slowEndTime": 81324
+    },
+    {
+        "text": "Who is he?",
+        "startTime": 57368,
+        "endTime": 58475,
+        "slowStartTime": 86202,
+        "slowEndTime": 87938
+    },
+    {
+        "text": "He is a dentist. He takes care of our teeth.",
+        "startTime": 59651,
+        "endTime": 63439,
+        "slowStartTime": 89626,
+        "slowEndTime": 95383
+    },
+    {
+        "text": "Are they police officers?",
+        "startTime": 64583,
+        "endTime": 66471,
+        "slowStartTime": 97025,
+        "slowEndTime": 99932
+    },
+    {
+        "text": "Yes, they take care of people.",
+        "startTime": 67491,
+        "endTime": 69911,
+        "slowStartTime": 101386,
+        "slowEndTime": 105092
+    },
+    {
+        "text": "Who is she?",
+        "startTime": 70868,
+        "endTime": 72163,
+        "slowStartTime": 106452,
+        "slowEndTime": 108469
+    },
+    {
+        "text": "She is a vet. She takes care of sick animals.",
+        "startTime": 73244,
+        "endTime": 77353,
+        "slowStartTime": 110016,
+        "slowEndTime": 116254
+    }
+]

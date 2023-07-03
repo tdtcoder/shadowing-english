@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Signs are everywhere.",
+        "startTime": 2387,
+        "endTime": 4002,
+        "slowStartTime": 3730,
+        "slowEndTime": 6228
+    },
+    {
+        "text": "Signs are on posts.",
+        "startTime": 5088,
+        "endTime": 6831,
+        "slowStartTime": 7782,
+        "slowEndTime": 10472
+    },
+    {
+        "text": "Signs are on buildings.",
+        "startTime": 7774,
+        "endTime": 9349,
+        "slowStartTime": 11811,
+        "slowEndTime": 14249
+    },
+    {
+        "text": "Signs are in windows and on doors.",
+        "startTime": 10411,
+        "endTime": 13015,
+        "slowStartTime": 15767,
+        "slowEndTime": 19748
+    },
+    {
+        "text": "They hang above streets.",
+        "startTime": 14061,
+        "endTime": 15701,
+        "slowStartTime": 21242,
+        "slowEndTime": 23776
+    },
+    {
+        "text": "Where else do you see signs?",
+        "startTime": 16731,
+        "endTime": 19112,
+        "slowStartTime": 25247,
+        "slowEndTime": 28893
+    },
+    {
+        "text": "Signs tell us lots of things.",
+        "startTime": 20134,
+        "endTime": 22299,
+        "slowStartTime": 30351,
+        "slowEndTime": 33674
+    },
+    {
+        "text": "Signs tell us what to do.",
+        "startTime": 23298,
+        "endTime": 25320,
+        "slowStartTime": 35097,
+        "slowEndTime": 38205
+    },
+    {
+        "text": "They tell us when to walk and when not to walk.",
+        "startTime": 26318,
+        "endTime": 29424,
+        "slowStartTime": 39627,
+        "slowEndTime": 44361
+    },
+    {
+        "text": "They tell us when to stop and when to go.",
+        "startTime": 30478,
+        "endTime": 33281,
+        "slowStartTime": 45867,
+        "slowEndTime": 50147
+    },
+    {
+        "text": "Signs tell us where to go and where not to go.",
+        "startTime": 34359,
+        "endTime": 37681,
+        "slowStartTime": 51689,
+        "slowEndTime": 56746
+    },
+    {
+        "text": "They tell us how far to go and how fast we can go.",
+        "startTime": 38695,
+        "endTime": 42287,
+        "slowStartTime": 58192,
+        "slowEndTime": 63655
+    },
+    {
+        "text": "What do these signs tell us?",
+        "startTime": 43317,
+        "endTime": 45402,
+        "slowStartTime": 65125,
+        "slowEndTime": 68328
+    },
+    {
+        "text": "Signs give us warnings.",
+        "startTime": 46441,
+        "endTime": 48192,
+        "slowStartTime": 69811,
+        "slowEndTime": 72513
+    },
+    {
+        "text": "They warn us about children playing.",
+        "startTime": 49246,
+        "endTime": 51691,
+        "slowStartTime": 74019,
+        "slowEndTime": 77761
+    },
+    {
+        "text": "They warn us about animals on the road.",
+        "startTime": 52745,
+        "endTime": 55420,
+        "slowStartTime": 79267,
+        "slowEndTime": 83355
+    },
+    {
+        "text": "They tell us to drive slowly on winding roads.",
+        "startTime": 56522,
+        "endTime": 59899,
+        "slowStartTime": 84933,
+        "slowEndTime": 90073
+    },
+    {
+        "text": "What do these signs warn us about?",
+        "startTime": 60953,
+        "endTime": 63111,
+        "slowStartTime": 91579,
+        "slowEndTime": 94891
+    },
+    {
+        "text": "People make signs for lots of things.",
+        "startTime": 64201,
+        "endTime": 66936,
+        "slowStartTime": 96451,
+        "slowEndTime": 100629
+    },
+    {
+        "text": "They make signs for sales.",
+        "startTime": 67900,
+        "endTime": 69858,
+        "slowStartTime": 102000,
+        "slowEndTime": 105012
+    },
+    {
+        "text": "They make signs for lost animals.",
+        "startTime": 70822,
+        "endTime": 73279,
+        "slowStartTime": 106383,
+        "slowEndTime": 110144
+    },
+    {
+        "text": "People make signs to advertise things.",
+        "startTime": 74275,
+        "endTime": 77179,
+        "slowStartTime": 111563,
+        "slowEndTime": 115994
+    },
+    {
+        "text": "What other things do people make signs for?",
+        "startTime": 78273,
+        "endTime": 82054,
+        "slowStartTime": 117559,
+        "slowEndTime": 123306
+    }
+]

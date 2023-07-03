@@ -1,0 +1,93 @@
+[
+    {
+        "text": "You know, there's a new way to do marketing...",
+        "startTime": 300,
+        "endTime": 2300,
+        "slowStartTime": 650,
+        "slowEndTime": 3600
+    },
+    {
+        "text": "...and it's to do it with numbers.",
+        "startTime": 2400,
+        "endTime": 3750,
+        "slowStartTime": 3800,
+        "slowEndTime": 5900
+    },
+    {
+        "text": "People really do marketing to bring in revenue,...",
+        "startTime": 4550,
+        "endTime": 6500,
+        "slowStartTime": 7000,
+        "slowEndTime": 10030
+    },
+    {
+        "text": "...to have an impact.",
+        "startTime": 6600,
+        "endTime": 7550,
+        "slowStartTime": 10050,
+        "slowEndTime": 11550
+    },
+    {
+        "text": "And now, with these new systems, you can measure them.",
+        "startTime": 8100,
+        "endTime": 10300,
+        "slowStartTime": 12350,
+        "slowEndTime": 15650
+    },
+    {
+        "text": "And it seems to me that with the kind of technologies that the Internet brings,...",
+        "startTime": 10850,
+        "endTime": 14000,
+        "slowStartTime": 16500,
+        "slowEndTime": 21220
+    },
+    {
+        "text": "...you should be able to measure almost everything.",
+        "startTime": 14075,
+        "endTime": 15900,
+        "slowStartTime": 21250,
+        "slowEndTime": 24150
+    },
+    {
+        "text": "Reach, whether people really buy things,...",
+        "startTime": 16300,
+        "endTime": 18600,
+        "slowStartTime": 24700,
+        "slowEndTime": 28100
+    },
+    {
+        "text": "...whether they're really happy,...",
+        "startTime": 18800,
+        "endTime": 19850,
+        "slowStartTime": 28500,
+        "slowEndTime": 30000
+    },
+    {
+        "text": "...whether they come back again,...",
+        "startTime": 20150,
+        "endTime": 21400,
+        "slowStartTime": 30450,
+        "slowEndTime": 32300
+    },
+    {
+        "text": "...all of this is now possible because of the reach of the Internet.",
+        "startTime": 21850,
+        "endTime": 24550,
+        "slowStartTime": 33000,
+        "slowEndTime": 37050
+    },
+    {
+        "text": "It's even more true with the mobile devices, and the platforms and applications,...",
+        "startTime": 25100,
+        "endTime": 29300,
+        "slowStartTime": 37850,
+        "slowEndTime": 44200
+    },
+    {
+        "text": "...that everyone is building on today.",
+        "startTime": 29550,
+        "endTime": 30850,
+        "slowStartTime": 44550,
+        "slowEndTime": 46500
+    }
+]

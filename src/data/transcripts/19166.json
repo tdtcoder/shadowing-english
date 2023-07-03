@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Step this way.",
+        "startTime": 6641,
+        "endTime": 8171,
+        "slowStartTime": 10112,
+        "slowEndTime": 12481
+    },
+    {
+        "text": "See the most wondrous sights imaginable.",
+        "startTime": 8342,
+        "endTime": 10707,
+        "slowStartTime": 12663,
+        "slowEndTime": 16285
+    },
+    {
+        "text": "Kansas is full of good men.",
+        "startTime": 12834,
+        "endTime": 14258,
+        "slowStartTime": 19401,
+        "slowEndTime": 21612
+    },
+    {
+        "text": "I don't wanna be a good man.",
+        "startTime": 15682,
+        "endTime": 16869,
+        "slowStartTime": 23673,
+        "slowEndTime": 25528
+    },
+    {
+        "text": "I wanna be a great one.",
+        "startTime": 19312,
+        "endTime": 20503,
+        "slowStartTime": 29118,
+        "slowEndTime": 30979
+    },
+    {
+        "text": "You're gonna need this.",
+        "startTime": 25808,
+        "endTime": 27113,
+        "slowStartTime": 38862,
+        "slowEndTime": 40895
+    },
+    {
+        "text": "No.",
+        "startTime": 29309,
+        "endTime": 31031,
+        "slowStartTime": 44113,
+        "slowEndTime": 46771
+    },
+    {
+        "text": "Am I dreaming?",
+        "startTime": 65755,
+        "endTime": 66578,
+        "slowStartTime": 98783,
+        "slowEndTime": 100092
+    },
+    {
+        "text": "You're in Oz.",
+        "startTime": 71169,
+        "endTime": 72266,
+        "slowStartTime": 106904,
+        "slowEndTime": 108624
+    },
+    {
+        "text": "Are you the great man we've been waiting for?",
+        "startTime": 88039,
+        "endTime": 90016,
+        "slowStartTime": 132208,
+        "slowEndTime": 135249
+    }
+]

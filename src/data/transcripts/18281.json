@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Hello, Calvin speaking.",
+        "startTime": 11302,
+        "endTime": 12773,
+        "slowStartTime": 17103,
+        "slowEndTime": 19385
+    },
+    {
+        "text": "I'd like to order a large anchovy pizza.",
+        "startTime": 13105,
+        "endTime": 18179,
+        "slowStartTime": 19808,
+        "slowEndTime": 27494
+    },
+    {
+        "text": "What? I didn't call a pizza delivery company.",
+        "startTime": 18560,
+        "endTime": 22354,
+        "slowStartTime": 27990,
+        "slowEndTime": 33756
+    },
+    {
+        "text": "Oh. I'm sorry.",
+        "startTime": 22489,
+        "endTime": 23113,
+        "slowStartTime": 33883,
+        "slowEndTime": 34895
+    },
+    {
+        "text": "You must have dialed the wrong number.",
+        "startTime": 23388,
+        "endTime": 24824,
+        "slowStartTime": 35232,
+        "slowEndTime": 37461
+    },
+    {
+        "text": "Goodbye!",
+        "startTime": 25280,
+        "endTime": 26017,
+        "slowStartTime": 38070,
+        "slowEndTime": 39250
+    },
+    {
+        "text": "I try to make everyone's day a little more surreal.",
+        "startTime": 27203,
+        "endTime": 30638,
+        "slowStartTime": 40955,
+        "slowEndTime": 46182
+    }
+]

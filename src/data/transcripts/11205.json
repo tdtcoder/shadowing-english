@@ -1,0 +1,44 @@
+[
+    {
+        "text": "And there came a day ...",
+        "startTime": 600,
+        "endTime": 1850,
+        "slowStartTime": 1050,
+        "slowEndTime": 3000
+    },
+    {
+        "text": "...a day unlike any other...",
+        "startTime": 4350,
+        "endTime": 6350,
+        "slowStartTime": 6700,
+        "slowEndTime": 9600
+    },
+    {
+        "text": "...when Earth's mightiest heroes found themselves united against a common threat...",
+        "startTime": 7900,
+        "endTime": 12250,
+        "slowStartTime": 12000,
+        "slowEndTime": 18600
+    },
+    {
+        "text": "...to fight the foes no single superhero could withstand.",
+        "startTime": 13700,
+        "endTime": 17850,
+        "slowStartTime": 20750,
+        "slowEndTime": 27000
+    },
+    {
+        "text": "On that day,...",
+        "startTime": 19250,
+        "endTime": 20000,
+        "slowStartTime": 29100,
+        "slowEndTime": 30350
+    },
+    {
+        "text": "...the Avengers were born.",
+        "startTime": 23650,
+        "endTime": 25600,
+        "slowStartTime": 35650,
+        "slowEndTime": 38600
+    }
+]

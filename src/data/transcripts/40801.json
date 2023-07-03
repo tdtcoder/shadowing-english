@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Hi, everyone.",
+        "startTime": -21,
+        "endTime": 1163,
+        "slowStartTime": 119,
+        "slowEndTime": 1970
+    },
+    {
+        "text": "Today, let's learn how to tell the time using number blocks.",
+        "startTime": 1409,
+        "endTime": 6548,
+        "slowStartTime": 2264,
+        "slowEndTime": 10047
+    },
+    {
+        "text": "Are you ready?",
+        "startTime": 6673,
+        "endTime": 7652,
+        "slowStartTime": 10160,
+        "slowEndTime": 11703
+    },
+    {
+        "text": "One, the time is 1:00.",
+        "startTime": 10723,
+        "endTime": 13762,
+        "slowStartTime": 16234,
+        "slowEndTime": 20868
+    },
+    {
+        "text": "Two, the time is 2:00.",
+        "startTime": 15217,
+        "endTime": 18305,
+        "slowStartTime": 22976,
+        "slowEndTime": 27683
+    },
+    {
+        "text": "Three, the time is 3:00.",
+        "startTime": 19955,
+        "endTime": 23424,
+        "slowStartTime": 30082,
+        "slowEndTime": 35361
+    },
+    {
+        "text": "Four, the time is 4:00.",
+        "startTime": 24899,
+        "endTime": 28087,
+        "slowStartTime": 37499,
+        "slowEndTime": 42355
+    },
+    {
+        "text": "Five, the time is 5:00.",
+        "startTime": 29667,
+        "endTime": 33036,
+        "slowStartTime": 44651,
+        "slowEndTime": 49779
+    },
+    {
+        "text": "Six, the time is 6:00.",
+        "startTime": 34765,
+        "endTime": 38365,
+        "slowStartTime": 52297,
+        "slowEndTime": 57772
+    },
+    {
+        "text": "Seven, the time is 7:00.",
+        "startTime": 39973,
+        "endTime": 43961,
+        "slowStartTime": 60110,
+        "slowEndTime": 66167
+    },
+    {
+        "text": "Eight, the time is 8:00.",
+        "startTime": 45567,
+        "endTime": 48597,
+        "slowStartTime": 68501,
+        "slowEndTime": 73120
+    },
+    {
+        "text": "Nine, the time is 9:00.",
+        "startTime": 50466,
+        "endTime": 54059,
+        "slowStartTime": 75849,
+        "slowEndTime": 81314
+    },
+    {
+        "text": "Ten, the time is 10:00.",
+        "startTime": 55537,
+        "endTime": 58905,
+        "slowStartTime": 83455,
+        "slowEndTime": 88582
+    },
+    {
+        "text": "Eleven, the time is 11:00.",
+        "startTime": 60295,
+        "endTime": 64314,
+        "slowStartTime": 90592,
+        "slowEndTime": 96696
+    },
+    {
+        "text": "Twelve, the time is 12:00",
+        "startTime": 66026,
+        "endTime": 69738,
+        "slowStartTime": 99189,
+        "slowEndTime": 104832
+    },
+    {
+        "text": "1:00.",
+        "startTime": 70475,
+        "endTime": 71681,
+        "slowStartTime": 105862,
+        "slowEndTime": 107747
+    },
+    {
+        "text": "2:00.",
+        "startTime": 72363,
+        "endTime": 73455,
+        "slowStartTime": 108694,
+        "slowEndTime": 110407
+    },
+    {
+        "text": "3:00.",
+        "startTime": 74269,
+        "endTime": 75301,
+        "slowStartTime": 111553,
+        "slowEndTime": 113177
+    },
+    {
+        "text": "4:00.",
+        "startTime": 76146,
+        "endTime": 77053,
+        "slowStartTime": 114369,
+        "slowEndTime": 115805
+    },
+    {
+        "text": "5:00.",
+        "startTime": 77934,
+        "endTime": 78986,
+        "slowStartTime": 117051,
+        "slowEndTime": 118704
+    },
+    {
+        "text": "6:00.",
+        "startTime": 79859,
+        "endTime": 80931,
+        "slowStartTime": 119938,
+        "slowEndTime": 121621
+    },
+    {
+        "text": "7:00.",
+        "startTime": 81523,
+        "endTime": 83130,
+        "slowStartTime": 122434,
+        "slowEndTime": 124920
+    },
+    {
+        "text": "8:00.",
+        "startTime": 83775,
+        "endTime": 85069,
+        "slowStartTime": 125813,
+        "slowEndTime": 127828
+    },
+    {
+        "text": "9:00.",
+        "startTime": 85640,
+        "endTime": 86995,
+        "slowStartTime": 128610,
+        "slowEndTime": 130717
+    },
+    {
+        "text": "10:00.",
+        "startTime": 87561,
+        "endTime": 88790,
+        "slowStartTime": 131491,
+        "slowEndTime": 133410
+    },
+    {
+        "text": "11:00.",
+        "startTime": 89341,
+        "endTime": 90643,
+        "slowStartTime": 134162,
+        "slowEndTime": 136189
+    },
+    {
+        "text": "12:00.",
+        "startTime": 91635,
+        "endTime": 92637,
+        "slowStartTime": 137603,
+        "slowEndTime": 139181
+    }
+]

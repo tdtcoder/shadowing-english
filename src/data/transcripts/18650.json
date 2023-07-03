@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Five Fat Turkeys",
+        "startTime": 354,
+        "endTime": 2443,
+        "slowStartTime": 681,
+        "slowEndTime": 3890
+    },
+    {
+        "text": "Five fat turkeys gobble gobble by a door.",
+        "startTime": 3111,
+        "endTime": 6421,
+        "slowStartTime": 4816,
+        "slowEndTime": 9856
+    },
+    {
+        "text": "One waddled off, and then there were four.",
+        "startTime": 6721,
+        "endTime": 9983,
+        "slowStartTime": 10232,
+        "slowEndTime": 15199
+    },
+    {
+        "text": "Four fat turkeys gobble gobble under a tree.",
+        "startTime": 10539,
+        "endTime": 13858,
+        "slowStartTime": 15958,
+        "slowEndTime": 21012
+    },
+    {
+        "text": "One waddled off, and then there were three.",
+        "startTime": 14309,
+        "endTime": 17660,
+        "slowStartTime": 21614,
+        "slowEndTime": 26715
+    },
+    {
+        "text": "Three fat turkeys feeling kinda blue.",
+        "startTime": 18132,
+        "endTime": 21208,
+        "slowStartTime": 27348,
+        "slowEndTime": 32037
+    },
+    {
+        "text": "One waddled off, and then there were two.",
+        "startTime": 21446,
+        "endTime": 24337,
+        "slowStartTime": 32319,
+        "slowEndTime": 36731
+    },
+    {
+        "text": "Two fat turkeys gobble gobble in the sun.",
+        "startTime": 24972,
+        "endTime": 28036,
+        "slowStartTime": 37608,
+        "slowEndTime": 42279
+    },
+    {
+        "text": "One waddled off, and then there was one.",
+        "startTime": 28405,
+        "endTime": 31143,
+        "slowStartTime": 42758,
+        "slowEndTime": 46939
+    },
+    {
+        "text": "One fat turkey gobble gobble went away,...",
+        "startTime": 31812,
+        "endTime": 34652,
+        "slowStartTime": 47868,
+        "slowEndTime": 52203
+    },
+    {
+        "text": "...or you'll be our dinner on Thanksgiving Day.",
+        "startTime": 34897,
+        "endTime": 38009,
+        "slowStartTime": 52495,
+        "slowEndTime": 57238
+    },
+    {
+        "text": "Happy Thanksgiving everyone, thanks!",
+        "startTime": 38345,
+        "endTime": 40499,
+        "slowStartTime": 57667,
+        "slowEndTime": 60974
+    }
+]

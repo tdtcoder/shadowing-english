@@ -1,0 +1,268 @@
+[
+    {
+        "text": "Sea animals.",
+        "startTime": 1310,
+        "endTime": 2475,
+        "slowStartTime": 2115,
+        "slowEndTime": 3937
+    },
+    {
+        "text": "Hello, my name is Starfish.",
+        "startTime": 8337,
+        "endTime": 11605,
+        "slowStartTime": 12655,
+        "slowEndTime": 17632
+    },
+    {
+        "text": "Let me introduce you to my friends.",
+        "startTime": 12330,
+        "endTime": 15015,
+        "slowStartTime": 18645,
+        "slowEndTime": 22747
+    },
+    {
+        "text": "Come with me!",
+        "startTime": 15664,
+        "endTime": 16710,
+        "slowStartTime": 23646,
+        "slowEndTime": 25290
+    },
+    {
+        "text": "Starfish.",
+        "startTime": 17763,
+        "endTime": 18689,
+        "slowStartTime": 26795,
+        "slowEndTime": 28259
+    },
+    {
+        "text": "Starfish.",
+        "startTime": 20518,
+        "endTime": 21469,
+        "slowStartTime": 30927,
+        "slowEndTime": 32429
+    },
+    {
+        "text": "A turtle moves fast in the sea.",
+        "startTime": 24320,
+        "endTime": 27069,
+        "slowStartTime": 36630,
+        "slowEndTime": 40828
+    },
+    {
+        "text": "Turtle.",
+        "startTime": 27833,
+        "endTime": 28415,
+        "slowStartTime": 41900,
+        "slowEndTime": 42847
+    },
+    {
+        "text": "Turtle.",
+        "startTime": 30202,
+        "endTime": 30755,
+        "slowStartTime": 45453,
+        "slowEndTime": 46357
+    },
+    {
+        "text": "A jellyfish has a see-through body.",
+        "startTime": 33026,
+        "endTime": 36242,
+        "slowStartTime": 49689,
+        "slowEndTime": 54588
+    },
+    {
+        "text": "Jellyfish.",
+        "startTime": 37351,
+        "endTime": 38443,
+        "slowStartTime": 56176,
+        "slowEndTime": 57890
+    },
+    {
+        "text": "Jellyfish.",
+        "startTime": 39891,
+        "endTime": 40797,
+        "slowStartTime": 59987,
+        "slowEndTime": 61421
+    },
+    {
+        "text": "A squid has ten legs.",
+        "startTime": 44383,
+        "endTime": 47163,
+        "slowStartTime": 66724,
+        "slowEndTime": 70969
+    },
+    {
+        "text": "Squid.",
+        "startTime": 48387,
+        "endTime": 48957,
+        "slowStartTime": 72730,
+        "slowEndTime": 73660
+    },
+    {
+        "text": "Squid.",
+        "startTime": 50532,
+        "endTime": 51155,
+        "slowStartTime": 75948,
+        "slowEndTime": 76957
+    },
+    {
+        "text": "Oh, this is an octopus!",
+        "startTime": 55601,
+        "endTime": 57851,
+        "slowStartTime": 83552,
+        "slowEndTime": 87002
+    },
+    {
+        "text": "An octopus has eight legs.",
+        "startTime": 59421,
+        "endTime": 61979,
+        "slowStartTime": 89282,
+        "slowEndTime": 93194
+    },
+    {
+        "text": "Octopus.",
+        "startTime": 63000,
+        "endTime": 63899,
+        "slowStartTime": 94650,
+        "slowEndTime": 96073
+    },
+    {
+        "text": "Octopus.",
+        "startTime": 65765,
+        "endTime": 66721,
+        "slowStartTime": 98797,
+        "slowEndTime": 100306
+    },
+    {
+        "text": "A shrimp has a bent body.",
+        "startTime": 69157,
+        "endTime": 71892,
+        "slowStartTime": 103885,
+        "slowEndTime": 108063
+    },
+    {
+        "text": "Shrimp.",
+        "startTime": 73003,
+        "endTime": 73597,
+        "slowStartTime": 109655,
+        "slowEndTime": 110621
+    },
+    {
+        "text": "Shrimp.",
+        "startTime": 75213,
+        "endTime": 75863,
+        "slowStartTime": 112969,
+        "slowEndTime": 114020
+    },
+    {
+        "text": "A seahorse swims in an upright position.",
+        "startTime": 79954,
+        "endTime": 83750,
+        "slowStartTime": 120081,
+        "slowEndTime": 125850
+    },
+    {
+        "text": "Seahorse.",
+        "startTime": 84673,
+        "endTime": 85594,
+        "slowStartTime": 127160,
+        "slowEndTime": 128616
+    },
+    {
+        "text": "Seahorse.",
+        "startTime": 87765,
+        "endTime": 88705,
+        "slowStartTime": 131798,
+        "slowEndTime": 133283
+    },
+    {
+        "text": "A clam has hard shells.",
+        "startTime": 91443,
+        "endTime": 93771,
+        "slowStartTime": 137314,
+        "slowEndTime": 140882
+    },
+    {
+        "text": "Clam.",
+        "startTime": 95122,
+        "endTime": 95869,
+        "slowStartTime": 142833,
+        "slowEndTime": 144028
+    },
+    {
+        "text": "Clam.",
+        "startTime": 97699,
+        "endTime": 98456,
+        "slowStartTime": 146699,
+        "slowEndTime": 147909
+    },
+    {
+        "text": "Wow!",
+        "startTime": 100991,
+        "endTime": 101484,
+        "slowStartTime": 151637,
+        "slowEndTime": 152451
+    },
+    {
+        "text": "The wings of a manta ray are really huge!",
+        "startTime": 101799,
+        "endTime": 105371,
+        "slowStartTime": 152848,
+        "slowEndTime": 158282
+    },
+    {
+        "text": "Manta Ray.",
+        "startTime": 106489,
+        "endTime": 107407,
+        "slowStartTime": 159883,
+        "slowEndTime": 161335
+    },
+    {
+        "text": "Manta Ray.",
+        "startTime": 109242,
+        "endTime": 110206,
+        "slowStartTime": 164013,
+        "slowEndTime": 165534
+    },
+    {
+        "text": "A crab is walking sideways.",
+        "startTime": 112161,
+        "endTime": 114823,
+        "slowStartTime": 168391,
+        "slowEndTime": 172459
+    },
+    {
+        "text": "Crab.",
+        "startTime": 115815,
+        "endTime": 116349,
+        "slowStartTime": 173873,
+        "slowEndTime": 174748
+    },
+    {
+        "text": "Crab.",
+        "startTime": 118107,
+        "endTime": 118796,
+        "slowStartTime": 177310,
+        "slowEndTime": 178419
+    },
+    {
+        "text": "A seal is enjoying the sunshine.",
+        "startTime": 121473,
+        "endTime": 124422,
+        "slowStartTime": 182360,
+        "slowEndTime": 186858
+    },
+    {
+        "text": "Seal.",
+        "startTime": 125571,
+        "endTime": 125987,
+        "slowStartTime": 188506,
+        "slowEndTime": 189205
+    },
+    {
+        "text": "Seal.",
+        "startTime": 127994,
+        "endTime": 128631,
+        "slowStartTime": 192141,
+        "slowEndTime": 193171
+    }
+]

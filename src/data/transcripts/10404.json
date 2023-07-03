@@ -1,0 +1,142 @@
+[
+    {
+        "text": "How many languages do you speak?",
+        "startTime": 675,
+        "endTime": 2549,
+        "slowStartTime": 1163,
+        "slowEndTime": 4048
+    },
+    {
+        "text": "I speak six languages, if you include my native language,...",
+        "startTime": 3659,
+        "endTime": 7614,
+        "slowStartTime": 5638,
+        "slowEndTime": 11646
+    },
+    {
+        "text": "...but I only speak two foreign languages well.",
+        "startTime": 8009,
+        "endTime": 11167,
+        "slowStartTime": 12163,
+        "slowEndTime": 16976
+    },
+    {
+        "text": "I speak the other three languages well enough to survive,...",
+        "startTime": 12188,
+        "endTime": 16445,
+        "slowStartTime": 18432,
+        "slowEndTime": 24892
+    },
+    {
+        "text": "...but not enough for a long conversation.",
+        "startTime": 17301,
+        "endTime": 20165,
+        "slowStartTime": 26101,
+        "slowEndTime": 30472
+    },
+    {
+        "text": "I would like to improve my ability to speak them.",
+        "startTime": 21256,
+        "endTime": 24071,
+        "slowStartTime": 32034,
+        "slowEndTime": 36332
+    },
+    {
+        "text": "Perhaps in the future I'll get a job in countries where those languages are spoken.",
+        "startTime": 25353,
+        "endTime": 29981,
+        "slowStartTime": 38179,
+        "slowEndTime": 45197
+    },
+    {
+        "text": "How long have you been studying English?",
+        "startTime": 31303,
+        "endTime": 33433,
+        "slowStartTime": 47104,
+        "slowEndTime": 50374
+    },
+    {
+        "text": "I've been studying English for over ten years.",
+        "startTime": 34669,
+        "endTime": 37457,
+        "slowStartTime": 52153,
+        "slowEndTime": 56411
+    },
+    {
+        "text": "Some of that has been with teachers in the classroom...",
+        "startTime": 38107,
+        "endTime": 40771,
+        "slowStartTime": 57311,
+        "slowEndTime": 61382
+    },
+    {
+        "text": "...but I have learned a lot of idioms by listening to other people speak.",
+        "startTime": 41700,
+        "endTime": 45720,
+        "slowStartTime": 62700,
+        "slowEndTime": 68805
+    },
+    {
+        "text": "Is there anything you find especially difficult about learning English?",
+        "startTime": 46757,
+        "endTime": 50672,
+        "slowStartTime": 70286,
+        "slowEndTime": 76233
+    },
+    {
+        "text": "I find grammar quite challenging in any language.",
+        "startTime": 51776,
+        "endTime": 55245,
+        "slowStartTime": 77814,
+        "slowEndTime": 83093
+    },
+    {
+        "text": "Apart from that, it isn't that much different from other languages.",
+        "startTime": 55829,
+        "endTime": 60860,
+        "slowStartTime": 83893,
+        "slowEndTime": 91515
+    },
+    {
+        "text": "How important is English to you?",
+        "startTime": 62000,
+        "endTime": 63732,
+        "slowStartTime": 93150,
+        "slowEndTime": 95823
+    },
+    {
+        "text": "It's vital for me to know English because I use it at work every day.",
+        "startTime": 64903,
+        "endTime": 70987,
+        "slowStartTime": 97505,
+        "slowEndTime": 106705
+    },
+    {
+        "text": "I travel to English speaking countries a lot.",
+        "startTime": 71616,
+        "endTime": 74931,
+        "slowStartTime": 107574,
+        "slowEndTime": 112622
+    },
+    {
+        "text": "I also have a lot of friends from various countries...",
+        "startTime": 76011,
+        "endTime": 78491,
+        "slowStartTime": 114167,
+        "slowEndTime": 117962
+    },
+    {
+        "text": "...and we use English as a common language.",
+        "startTime": 78873,
+        "endTime": 81209,
+        "slowStartTime": 118459,
+        "slowEndTime": 122039
+    },
+    {
+        "text": "English is also really helpful for searching on the Internet.",
+        "startTime": 82063,
+        "endTime": 85189,
+        "slowStartTime": 123244,
+        "slowEndTime": 128009
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Books are wonderful, aren't they?",
+        "startTime": 2800,
+        "endTime": 5487,
+        "slowStartTime": 4350,
+        "slowEndTime": 8455
+    },
+    {
+        "text": "There are so many different kinds of books.",
+        "startTime": 6290,
+        "endTime": 9555,
+        "slowStartTime": 9585,
+        "slowEndTime": 14557
+    },
+    {
+        "text": "Yes, their stories can take us to different places.",
+        "startTime": 10358,
+        "endTime": 14944,
+        "slowStartTime": 15687,
+        "slowEndTime": 22641
+    },
+    {
+        "text": "Stories can teach us about many things.",
+        "startTime": 15736,
+        "endTime": 19002,
+        "slowStartTime": 23754,
+        "slowEndTime": 28728
+    },
+    {
+        "text": "This little girl is reading a story with her dad.",
+        "startTime": 19915,
+        "endTime": 23868,
+        "slowStartTime": 30023,
+        "slowEndTime": 36027
+    },
+    {
+        "text": "They are reading in a special room.",
+        "startTime": 24759,
+        "endTime": 27266,
+        "slowStartTime": 37288,
+        "slowEndTime": 41124
+    },
+    {
+        "text": "Do you know what this room is called?",
+        "startTime": 28200,
+        "endTime": 30709,
+        "slowStartTime": 42450,
+        "slowEndTime": 46289
+    },
+    {
+        "text": "You're right, it's a library.",
+        "startTime": 31635,
+        "endTime": 34237,
+        "slowStartTime": 47603,
+        "slowEndTime": 51581
+    },
+    {
+        "text": "Libraries are filled with all kinds of wonderful books.",
+        "startTime": 35183,
+        "endTime": 39961,
+        "slowStartTime": 52924,
+        "slowEndTime": 60166
+    },
+    {
+        "text": "There are books for adults and children.",
+        "startTime": 40758,
+        "endTime": 43714,
+        "slowStartTime": 61287,
+        "slowEndTime": 65796
+    },
+    {
+        "text": "When you want to borrow a book from the library,...",
+        "startTime": 44672,
+        "endTime": 48169,
+        "slowStartTime": 67158,
+        "slowEndTime": 72479
+    },
+    {
+        "text": "...make sure that you sign it out first.",
+        "startTime": 48879,
+        "endTime": 51604,
+        "slowStartTime": 73469,
+        "slowEndTime": 77631
+    },
+    {
+        "text": "Many libraries now use automatic computer checkout to sign out your books.",
+        "startTime": 52663,
+        "endTime": 59899,
+        "slowStartTime": 79145,
+        "slowEndTime": 90073
+    },
+    {
+        "text": "Oh, make sure that you remember to return your books before the due date,...",
+        "startTime": 60613,
+        "endTime": 66817,
+        "slowStartTime": 91069,
+        "slowEndTime": 100450
+    },
+    {
+        "text": "...or you might have to pay a fine.",
+        "startTime": 67467,
+        "endTime": 70258,
+        "slowStartTime": 101351,
+        "slowEndTime": 105612
+    },
+    {
+        "text": "What kind of story is this girl reading?",
+        "startTime": 71392,
+        "endTime": 74552,
+        "slowStartTime": 107238,
+        "slowEndTime": 112053
+    },
+    {
+        "text": "Nice work, it's a Dora the Explorer story.",
+        "startTime": 75398,
+        "endTime": 80006,
+        "slowStartTime": 113247,
+        "slowEndTime": 120234
+    },
+    {
+        "text": "Which kinds of stories do you like to read?",
+        "startTime": 80940,
+        "endTime": 84191,
+        "slowStartTime": 121560,
+        "slowEndTime": 126512
+    },
+    {
+        "text": "I like adventure stories.",
+        "startTime": 85084,
+        "endTime": 87374,
+        "slowStartTime": 127776,
+        "slowEndTime": 131286
+    },
+    {
+        "text": "Learning to read is very important,...",
+        "startTime": 88265,
+        "endTime": 91266,
+        "slowStartTime": 132547,
+        "slowEndTime": 137124
+    },
+    {
+        "text": "...because reading unlocks the wonder inside a book.",
+        "startTime": 91949,
+        "endTime": 96447,
+        "slowStartTime": 138074,
+        "slowEndTime": 144896
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "text": "Petpuls gives a dog a voice that a human can understand.",
+        "startTime": 148,
+        "endTime": 4000,
+        "slowStartTime": 372,
+        "slowEndTime": 6225
+    },
+    {
+        "text": "With this device, we humans can understand and communicate better,...",
+        "startTime": 4274,
+        "endTime": 10204,
+        "slowStartTime": 6561,
+        "slowEndTime": 15531
+    },
+    {
+        "text": "...more accurately and more effectively.",
+        "startTime": 10625,
+        "endTime": 12731,
+        "slowStartTime": 16088,
+        "slowEndTime": 19322
+    },
+    {
+        "text": "When a dog barks, the dog's barking sound will be collected through this device...",
+        "startTime": 13960,
+        "endTime": 18994,
+        "slowStartTime": 21090,
+        "slowEndTime": 28716
+    },
+    {
+        "text": "...and then those voice files will be transferred to our main server...",
+        "startTime": 19143,
+        "endTime": 23109,
+        "slowStartTime": 28865,
+        "slowEndTime": 34889
+    },
+    {
+        "text": "...and in this main server, our Petpuls unique voice recognition system and algorithm...",
+        "startTime": 23673,
+        "endTime": 29046,
+        "slowStartTime": 35659,
+        "slowEndTime": 43794
+    },
+    {
+        "text": "...will analyze a dog's voice, and then in real time, it will be sent back to our application...",
+        "startTime": 29162,
+        "endTime": 35432,
+        "slowStartTime": 43893,
+        "slowEndTime": 53373
+    },
+    {
+        "text": "...with a different emotional status.",
+        "startTime": 35770,
+        "endTime": 38207,
+        "slowStartTime": 53805,
+        "slowEndTime": 57535
+    }
+]

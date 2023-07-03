@@ -1,0 +1,142 @@
+[
+    {
+        "text": "So, what do you have on tap for this summer?",
+        "startTime": 2364,
+        "endTime": 4979,
+        "slowStartTime": 3696,
+        "slowEndTime": 7693
+    },
+    {
+        "text": "Huh?",
+        "startTime": 5130,
+        "endTime": 5667,
+        "slowStartTime": 7845,
+        "slowEndTime": 8726
+    },
+    {
+        "text": "Do you have any big plans for your summer vacation?",
+        "startTime": 6407,
+        "endTime": 9151,
+        "slowStartTime": 9761,
+        "slowEndTime": 13952
+    },
+    {
+        "text": "Not really.",
+        "startTime": 9488,
+        "endTime": 10294,
+        "slowStartTime": 14382,
+        "slowEndTime": 15666
+    },
+    {
+        "text": "I only have a week off.",
+        "startTime": 10419,
+        "endTime": 11624,
+        "slowStartTime": 15778,
+        "slowEndTime": 17661
+    },
+    {
+        "text": "That's plenty of time to do something fun!",
+        "startTime": 11887,
+        "endTime": 14334,
+        "slowStartTime": 17980,
+        "slowEndTime": 21726
+    },
+    {
+        "text": "If you add in the two weekends, it's nine whole days!",
+        "startTime": 14717,
+        "endTime": 17959,
+        "slowStartTime": 22225,
+        "slowEndTime": 27164
+    },
+    {
+        "text": "I guess I didn't look at it that way.",
+        "startTime": 18086,
+        "endTime": 20137,
+        "slowStartTime": 27279,
+        "slowEndTime": 30430
+    },
+    {
+        "text": "I imagine I will do something.",
+        "startTime": 20472,
+        "endTime": 22108,
+        "slowStartTime": 30858,
+        "slowEndTime": 33387
+    },
+    {
+        "text": "It'd be nice to get away for a little while.",
+        "startTime": 22540,
+        "endTime": 24401,
+        "slowStartTime": 33960,
+        "slowEndTime": 36827
+    },
+    {
+        "text": "You're telling me!",
+        "startTime": 24868,
+        "endTime": 25895,
+        "slowStartTime": 37452,
+        "slowEndTime": 39068
+    },
+    {
+        "text": "I'm heading down to the coast for a few days.",
+        "startTime": 26142,
+        "endTime": 28433,
+        "slowStartTime": 39363,
+        "slowEndTime": 42874
+    },
+    {
+        "text": "Sounds like you're going to hit the beach.",
+        "startTime": 28655,
+        "endTime": 30335,
+        "slowStartTime": 43133,
+        "slowEndTime": 45727
+    },
+    {
+        "text": "Yup, but only for a part of it.",
+        "startTime": 30537,
+        "endTime": 32262,
+        "slowStartTime": 45955,
+        "slowEndTime": 48618
+    },
+    {
+        "text": "I want to visit my cousin in Chicago,...",
+        "startTime": 32508,
+        "endTime": 34723,
+        "slowStartTime": 48912,
+        "slowEndTime": 52309
+    },
+    {
+        "text": "...so I'm going to fly there and spend a few days with him.",
+        "startTime": 34868,
+        "endTime": 37790,
+        "slowStartTime": 52452,
+        "slowEndTime": 56910
+    },
+    {
+        "text": "When was the last time you saw him?",
+        "startTime": 37926,
+        "endTime": 39555,
+        "slowStartTime": 57039,
+        "slowEndTime": 59557
+    },
+    {
+        "text": "It's been over two years now.",
+        "startTime": 39848,
+        "endTime": 41485,
+        "slowStartTime": 59922,
+        "slowEndTime": 62452
+    },
+    {
+        "text": "I guess it's time for a visit, then!",
+        "startTime": 41675,
+        "endTime": 43319,
+        "slowStartTime": 62663,
+        "slowEndTime": 65203
+    },
+    {
+        "text": "Definitely!",
+        "startTime": 43522,
+        "endTime": 44433,
+        "slowStartTime": 65433,
+        "slowEndTime": 66875
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "text": "What is it?",
+        "startTime": 2357,
+        "endTime": 2913,
+        "slowStartTime": 3685,
+        "slowEndTime": 4594
+    },
+    {
+        "text": "Why are you so happy?",
+        "startTime": 3271,
+        "endTime": 4584,
+        "slowStartTime": 5057,
+        "slowEndTime": 7101
+    },
+    {
+        "text": "You know what?",
+        "startTime": 5655,
+        "endTime": 6237,
+        "slowStartTime": 8632,
+        "slowEndTime": 9580
+    },
+    {
+        "text": "I got a hundred in school today.",
+        "startTime": 6614,
+        "endTime": 8483,
+        "slowStartTime": 10071,
+        "slowEndTime": 12950
+    },
+    {
+        "text": "That's wonderful.",
+        "startTime": 10564,
+        "endTime": 12158,
+        "slowStartTime": 15996,
+        "slowEndTime": 18462
+    },
+    {
+        "text": "What did you get a hundred in?",
+        "startTime": 13225,
+        "endTime": 14909,
+        "slowStartTime": 19987,
+        "slowEndTime": 22588
+    },
+    {
+        "text": "In two things.",
+        "startTime": 15815,
+        "endTime": 16709,
+        "slowStartTime": 23872,
+        "slowEndTime": 25288
+    },
+    {
+        "text": "I got a 40 in reading and 60 in spelling.",
+        "startTime": 16933,
+        "endTime": 19607,
+        "slowStartTime": 25549,
+        "slowEndTime": 29636
+    }
+]

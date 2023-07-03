@@ -1,0 +1,107 @@
+[
+    {
+        "text": "A football match is played with two teams of eleven players,...",
+        "startTime": 2264,
+        "endTime": 5017,
+        "slowStartTime": 3546,
+        "slowEndTime": 7750
+    },
+    {
+        "text": "...a referee, and two assistant referees on the touchlines.",
+        "startTime": 5124,
+        "endTime": 8019,
+        "slowStartTime": 7836,
+        "slowEndTime": 12254
+    },
+    {
+        "text": "It comprises two halves, 45 minutes each.",
+        "startTime": 8488,
+        "endTime": 10821,
+        "slowStartTime": 12882,
+        "slowEndTime": 16457
+    },
+    {
+        "text": "The ball's circumference is 68 to 70 centimeters and it weighs 410 to 450 grams.",
+        "startTime": 11081,
+        "endTime": 17014,
+        "slowStartTime": 16771,
+        "slowEndTime": 25746
+    },
+    {
+        "text": "Euro 2016, the usual UEFA disciplinary rules apply.",
+        "startTime": 19123,
+        "endTime": 22759,
+        "slowStartTime": 28835,
+        "slowEndTime": 34363
+    },
+    {
+        "text": "A player who receives a red card is sent off and receives an automatic ban for the next match.",
+        "startTime": 23089,
+        "endTime": 27479,
+        "slowStartTime": 34783,
+        "slowEndTime": 41444
+    },
+    {
+        "text": "The same applies if a player receives two yellow cards during a single game,...",
+        "startTime": 28901,
+        "endTime": 32714,
+        "slowStartTime": 43501,
+        "slowEndTime": 49296
+    },
+    {
+        "text": "...considered the equivalent to a red card,...",
+        "startTime": 32979,
+        "endTime": 34733,
+        "slowStartTime": 49618,
+        "slowEndTime": 52325
+    },
+    {
+        "text": "...the player is immediately excluded for the rest of the match.",
+        "startTime": 34990,
+        "endTime": 37665,
+        "slowStartTime": 52635,
+        "slowEndTime": 56722
+    },
+    {
+        "text": "During Euro 2016, if a player receives a yellow card in two consecutive games,...",
+        "startTime": 38070,
+        "endTime": 42894,
+        "slowStartTime": 57255,
+        "slowEndTime": 64566
+    },
+    {
+        "text": "...he isn't sent off during play but is banned from taking part in the next match.",
+        "startTime": 43189,
+        "endTime": 47000,
+        "slowStartTime": 64934,
+        "slowEndTime": 70725
+    },
+    {
+        "text": "Many tournaments like the European Championships cancel out single yellow cards...",
+        "startTime": 47238,
+        "endTime": 51163,
+        "slowStartTime": 71007,
+        "slowEndTime": 76970
+    },
+    {
+        "text": "...after the quarterfinal stage.",
+        "startTime": 51225,
+        "endTime": 52843,
+        "slowStartTime": 76988,
+        "slowEndTime": 79490
+    },
+    {
+        "text": "If multiple teams have the same number of points, additional criteria are taken into account...",
+        "startTime": 54089,
+        "endTime": 58410,
+        "slowStartTime": 81284,
+        "slowEndTime": 87840
+    },
+    {
+        "text": "...including goal difference and even team behavior in terms of fair play.",
+        "startTime": 58471,
+        "endTime": 62117,
+        "slowStartTime": 87856,
+        "slowEndTime": 93401
+    }
+]

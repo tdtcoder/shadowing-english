@@ -1,0 +1,58 @@
+[
+    {
+        "text": "﻿Let's learn about objects in the classroom.",
+        "startTime": 659,
+        "endTime": 3607,
+        "slowStartTime": 1139,
+        "slowEndTime": 5635
+    },
+    {
+        "text": "Something is written on the desk.",
+        "startTime": 5130,
+        "endTime": 7741,
+        "slowStartTime": 7845,
+        "slowEndTime": 11836
+    },
+    {
+        "text": "The boy has a pencil.",
+        "startTime": 8966,
+        "endTime": 10910,
+        "slowStartTime": 13599,
+        "slowEndTime": 16590
+    },
+    {
+        "text": "He is writing with a pen.",
+        "startTime": 12427,
+        "endTime": 14631,
+        "slowStartTime": 18791,
+        "slowEndTime": 22171
+    },
+    {
+        "text": "There is something in his notebook.",
+        "startTime": 16190,
+        "endTime": 18638,
+        "slowStartTime": 24435,
+        "slowEndTime": 28182
+    },
+    {
+        "text": "She is reading a textbook.",
+        "startTime": 19976,
+        "endTime": 22313,
+        "slowStartTime": 30114,
+        "slowEndTime": 33695
+    },
+    {
+        "text": "These are my scissors.",
+        "startTime": 23338,
+        "endTime": 25376,
+        "slowStartTime": 35157,
+        "slowEndTime": 38289
+    },
+    {
+        "text": "There is a cat in his bag.",
+        "startTime": 26745,
+        "endTime": 28855,
+        "slowStartTime": 40267,
+        "slowEndTime": 43508
+    }
+]

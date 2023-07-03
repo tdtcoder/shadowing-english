@@ -1,0 +1,156 @@
+[
+    {
+        "text": "Apple says many of its most popular products are vulnerable to hacking...",
+        "startTime": 50,
+        "endTime": 3983,
+        "slowStartTime": 82,
+        "slowEndTime": 6200
+    },
+    {
+        "text": "…and is urging millions of its users to make security updates...",
+        "startTime": 4097,
+        "endTime": 7355,
+        "slowStartTime": 6296,
+        "slowEndTime": 11257
+    },
+    {
+        "text": "…and to do it now.",
+        "startTime": 7415,
+        "endTime": 8702,
+        "slowStartTime": 11273,
+        "slowEndTime": 13278
+    },
+    {
+        "text": "The warning says hackers could gain control of some devices, including its iPhones.",
+        "startTime": 9130,
+        "endTime": 13693,
+        "slowStartTime": 13845,
+        "slowEndTime": 20764
+    },
+    {
+        "text": "Michael George is here with the latest.",
+        "startTime": 13973,
+        "endTime": 15812,
+        "slowStartTime": 21110,
+        "slowEndTime": 23943
+    },
+    {
+        "text": "Michael, I was one of many busy making that update yesterday.",
+        "startTime": 15891,
+        "endTime": 18834,
+        "slowStartTime": 23986,
+        "slowEndTime": 28476
+    },
+    {
+        "text": "Good morning.",
+        "startTime": 18907,
+        "endTime": 19437,
+        "slowStartTime": 28510,
+        "slowEndTime": 29381
+    },
+    {
+        "text": "Good morning.",
+        "startTime": 19642,
+        "endTime": 19995,
+        "slowStartTime": 29613,
+        "slowEndTime": 30217
+    },
+    {
+        "text": "A lot of people were doing that.",
+        "startTime": 20071,
+        "endTime": 21087,
+        "slowStartTime": 30257,
+        "slowEndTime": 31856
+    },
+    {
+        "text": "When we usually get that notification \"update our phones\",...",
+        "startTime": 21169,
+        "endTime": 23630,
+        "slowStartTime": 31904,
+        "slowEndTime": 35670
+    },
+    {
+        "text": "…a lot of us ignore it, but this time, experts say don't wait.",
+        "startTime": 23694,
+        "endTime": 27726,
+        "slowStartTime": 35691,
+        "slowEndTime": 41814
+    },
+    {
+        "text": "There's a security loophole that could let hackers take control of your phone,...",
+        "startTime": 28012,
+        "endTime": 31183,
+        "slowStartTime": 42168,
+        "slowEndTime": 47000
+    },
+    {
+        "text": "…and the latest update can fix it.",
+        "startTime": 31446,
+        "endTime": 32947,
+        "slowStartTime": 47319,
+        "slowEndTime": 49646
+    },
+    {
+        "text": "Apple users going to the tech giant's updated page will find easy fix instructions...",
+        "startTime": 34300,
+        "endTime": 39077,
+        "slowStartTime": 51600,
+        "slowEndTime": 58841
+    },
+    {
+        "text": "…on what to do next to prevent a break-in to their devices.",
+        "startTime": 39147,
+        "endTime": 42517,
+        "slowStartTime": 58871,
+        "slowEndTime": 64000
+    },
+    {
+        "text": "But Apple also explains quote, \"For the protection of our customers,...",
+        "startTime": 42937,
+        "endTime": 46465,
+        "slowStartTime": 64555,
+        "slowEndTime": 69922
+    },
+    {
+        "text": "…Apple doesn't disclose, discuss, or confirm security issues...",
+        "startTime": 46721,
+        "endTime": 50523,
+        "slowStartTime": 70232,
+        "slowEndTime": 76010
+    },
+    {
+        "text": "…until an investigation has occurred...",
+        "startTime": 50833,
+        "endTime": 52631,
+        "slowStartTime": 76400,
+        "slowEndTime": 79171
+    },
+    {
+        "text": "…and patches or releases are generally available.\"",
+        "startTime": 52845,
+        "endTime": 55317,
+        "slowStartTime": 79417,
+        "slowEndTime": 83200
+    },
+    {
+        "text": "This is what we call a zero-day vulnerability,...",
+        "startTime": 55500,
+        "endTime": 57359,
+        "slowStartTime": 83400,
+        "slowEndTime": 86264
+    },
+    {
+        "text": "…when it's been exploited by hacker before the company, in this case Apple,...",
+        "startTime": 57443,
+        "endTime": 62206,
+        "slowStartTime": 86314,
+        "slowEndTime": 93534
+    },
+    {
+        "text": "…have detected it and been able to do something about it.",
+        "startTime": 62327,
+        "endTime": 64446,
+        "slowStartTime": 93640,
+        "slowEndTime": 96894
+    }
+]

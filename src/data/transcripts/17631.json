@@ -1,0 +1,177 @@
+[
+    {
+        "text": "My sister is sick.",
+        "startTime": 2403,
+        "endTime": 4017,
+        "slowStartTime": 3754,
+        "slowEndTime": 6251
+    },
+    {
+        "text": "She has a fever.",
+        "startTime": 5173,
+        "endTime": 6449,
+        "slowStartTime": 7909,
+        "slowEndTime": 9899
+    },
+    {
+        "text": "Let's take her to Doctor Jen.",
+        "startTime": 7607,
+        "endTime": 9852,
+        "slowStartTime": 11561,
+        "slowEndTime": 15003
+    },
+    {
+        "text": "My brother is sick.",
+        "startTime": 10951,
+        "endTime": 12535,
+        "slowStartTime": 16576,
+        "slowEndTime": 19028
+    },
+    {
+        "text": "He has a tummy ache.",
+        "startTime": 13596,
+        "endTime": 15084,
+        "slowStartTime": 20544,
+        "slowEndTime": 22851
+    },
+    {
+        "text": "Let's take him to Doctor Jen.",
+        "startTime": 16174,
+        "endTime": 18515,
+        "slowStartTime": 24411,
+        "slowEndTime": 27997
+    },
+    {
+        "text": "My father is sick.",
+        "startTime": 19582,
+        "endTime": 21212,
+        "slowStartTime": 29523,
+        "slowEndTime": 32043
+    },
+    {
+        "text": "He has a cough.",
+        "startTime": 22311,
+        "endTime": 23494,
+        "slowStartTime": 33616,
+        "slowEndTime": 35466
+    },
+    {
+        "text": "Let's take him to Doctor Jen.",
+        "startTime": 24561,
+        "endTime": 26793,
+        "slowStartTime": 36992,
+        "slowEndTime": 40414
+    },
+    {
+        "text": "My mother is ill.",
+        "startTime": 27860,
+        "endTime": 29289,
+        "slowStartTime": 41940,
+        "slowEndTime": 44159
+    },
+    {
+        "text": "She has a sore throat.",
+        "startTime": 30397,
+        "endTime": 31883,
+        "slowStartTime": 45745,
+        "slowEndTime": 48049
+    },
+    {
+        "text": "Let's take her to Doctor Jen.",
+        "startTime": 32963,
+        "endTime": 35195,
+        "slowStartTime": 49595,
+        "slowEndTime": 53017
+    },
+    {
+        "text": "My grandfather does not feel well.",
+        "startTime": 36211,
+        "endTime": 38915,
+        "slowStartTime": 54466,
+        "slowEndTime": 58597
+    },
+    {
+        "text": "He has stiff knees.",
+        "startTime": 39943,
+        "endTime": 41535,
+        "slowStartTime": 60065,
+        "slowEndTime": 62527
+    },
+    {
+        "text": "Let's take him to Doctor Jen.",
+        "startTime": 42613,
+        "endTime": 44620,
+        "slowStartTime": 64069,
+        "slowEndTime": 67155
+    },
+    {
+        "text": "My grandmother has an earache.",
+        "startTime": 45698,
+        "endTime": 47822,
+        "slowStartTime": 68697,
+        "slowEndTime": 71958
+    },
+    {
+        "text": "She can't hear well.",
+        "startTime": 48857,
+        "endTime": 50212,
+        "slowStartTime": 73436,
+        "slowEndTime": 75543
+    },
+    {
+        "text": "Let's take her to Doctor Jen.",
+        "startTime": 51272,
+        "endTime": 53421,
+        "slowStartTime": 77058,
+        "slowEndTime": 80357
+    },
+    {
+        "text": "When my family is sick, we go to Doctor Jen.",
+        "startTime": 54505,
+        "endTime": 58262,
+        "slowStartTime": 81907,
+        "slowEndTime": 87618
+    },
+    {
+        "text": "She makes us feel better.",
+        "startTime": 59410,
+        "endTime": 61306,
+        "slowStartTime": 89265,
+        "slowEndTime": 92184
+    },
+    {
+        "text": "Oh, no!",
+        "startTime": 62417,
+        "endTime": 63512,
+        "slowStartTime": 93775,
+        "slowEndTime": 95493
+    },
+    {
+        "text": "My dog Bowser is sick.",
+        "startTime": 64017,
+        "endTime": 66058,
+        "slowStartTime": 96176,
+        "slowEndTime": 99312
+    },
+    {
+        "text": "He has a sore paw.",
+        "startTime": 67111,
+        "endTime": 68612,
+        "slowStartTime": 100816,
+        "slowEndTime": 103143
+    },
+    {
+        "text": "We can't take him to Doctor Jen.",
+        "startTime": 69643,
+        "endTime": 72063,
+        "slowStartTime": 104615,
+        "slowEndTime": 108319
+    },
+    {
+        "text": "Let's take him to the vet.",
+        "startTime": 73052,
+        "endTime": 74695,
+        "slowStartTime": 109728,
+        "slowEndTime": 112267
+    }
+]

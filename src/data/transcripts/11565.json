@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Thanks again for dog - sitting.",
+        "startTime": 11,
+        "endTime": 1200,
+        "slowStartTime": 250,
+        "slowEndTime": 1900
+    },
+    {
+        "text": "No worries.",
+        "startTime": 1680,
+        "endTime": 1700,
+        "slowStartTime": 2100,
+        "slowEndTime": 2650
+    },
+    {
+        "text": "They're really smart.",
+        "startTime": 2270,
+        "endTime": 2470,
+        "slowStartTime": 2825,
+        "slowEndTime": 3850
+    },
+    {
+        "text": "They'll do whatever you tell 'em.",
+        "startTime": 2820,
+        "endTime": 3500,
+        "slowStartTime": 3900,
+        "slowEndTime": 5300
+    },
+    {
+        "text": "Oh, and there's a ton of Bud Light in the fridge.",
+        "startTime": 3900,
+        "endTime": 5250,
+        "slowStartTime": 5450,
+        "slowEndTime": 7900
+    },
+    {
+        "text": "Here we go.",
+        "startTime": 7650,
+        "endTime": 8650,
+        "slowStartTime": 11650,
+        "slowEndTime": 13300
+    },
+    {
+        "text": "Hey, guys.",
+        "startTime": 10900,
+        "endTime": 11250,
+        "slowStartTime": 15500,
+        "slowEndTime": 16850
+    },
+    {
+        "text": "There's a whisker in my hamburger.",
+        "startTime": 20300,
+        "endTime": 21000,
+        "slowStartTime": 29750,
+        "slowEndTime": 31550
+    },
+    {
+        "text": "Guys, we need more mugs.",
+        "startTime": 23170,
+        "endTime": 23800,
+        "slowStartTime": 34400,
+        "slowEndTime": 35950
+    },
+    {
+        "text": "It's the sure sign of a good time.",
+        "startTime": 25290,
+        "endTime": 26100,
+        "slowStartTime": 36925,
+        "slowEndTime": 39250
+    },
+    {
+        "text": "Just right taste of Bud Light.",
+        "startTime": 26600,
+        "endTime": 27750,
+        "slowStartTime": 39450,
+        "slowEndTime": 41850
+    },
+    {
+        "text": "Here we go.",
+        "startTime": 28320,
+        "endTime": 28650,
+        "slowStartTime": 41900,
+        "slowEndTime": 42900
+    },
+    {
+        "text": "Don't worry guys, I got it.",
+        "startTime": 29320,
+        "endTime": 29650,
+        "slowStartTime": 42940,
+        "slowEndTime": 44750
+    }
+]

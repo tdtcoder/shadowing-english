@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Who has the Doritos?",
+        "startTime": 287,
+        "endTime": 1985,
+        "slowStartTime": 581,
+        "slowEndTime": 3203
+    },
+    {
+        "text": "Who has the Doritos?",
+        "startTime": 2225,
+        "endTime": 3879,
+        "slowStartTime": 3488,
+        "slowEndTime": 6044
+    },
+    {
+        "text": "You want one?",
+        "startTime": 4663,
+        "endTime": 5222,
+        "slowStartTime": 7144,
+        "slowEndTime": 8058
+    },
+    {
+        "text": "Sorry!",
+        "startTime": 5609,
+        "endTime": 6725,
+        "slowStartTime": 8564,
+        "slowEndTime": 10312
+    },
+    {
+        "text": "Too bad you're down there and I'm up here.",
+        "startTime": 8951,
+        "endTime": 11856,
+        "slowStartTime": 13576,
+        "slowEndTime": 18009
+    },
+    {
+        "text": "Smells so good!",
+        "startTime": 12921,
+        "endTime": 15997,
+        "slowStartTime": 19532,
+        "slowEndTime": 24220
+    }
+]

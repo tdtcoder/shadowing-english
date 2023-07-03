@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Here comes Ichiro.",
+        "startTime": 800,
+        "endTime": 2300,
+        "slowStartTime": 1400,
+        "slowEndTime": 3600
+    },
+    {
+        "text": "And Rick, they've got the \"Ichiro Shift\" on with all the infielders between first and second base.",
+        "startTime": 2700,
+        "endTime": 7300,
+        "slowStartTime": 4290,
+        "slowEndTime": 11045
+    },
+    {
+        "text": "Now, they're bringing the outfielders in to play between second and third.",
+        "startTime": 7750,
+        "endTime": 11000,
+        "slowStartTime": 11875,
+        "slowEndTime": 16845
+    },
+    {
+        "text": "And look at this, here comes the whole bullpen to play the outfield.",
+        "startTime": 11100,
+        "endTime": 14900,
+        "slowStartTime": 16845,
+        "slowEndTime": 22705
+    },
+    {
+        "text": "No problem.",
+        "startTime": 15150,
+        "endTime": 15750,
+        "slowStartTime": 23000,
+        "slowEndTime": 23890
+    },
+    {
+        "text": "Teams will try anything to stop this guy.",
+        "startTime": 15800,
+        "endTime": 18300,
+        "slowStartTime": 23890,
+        "slowEndTime": 27850
+    },
+    {
+        "text": "Ichiro lines one into the corner and no one's gonna get to it!",
+        "startTime": 18650,
+        "endTime": 22700,
+        "slowStartTime": 28245,
+        "slowEndTime": 34445
+    },
+    {
+        "text": "My, oh my!",
+        "startTime": 23000,
+        "endTime": 24300,
+        "slowStartTime": 34750,
+        "slowEndTime": 36700
+    },
+    {
+        "text": "You gotta hit 'em where they ain't.",
+        "startTime": 24350,
+        "endTime": 26500,
+        "slowStartTime": 36750,
+        "slowEndTime": 39900
+    },
+    {
+        "text": "Mariners Baseball. Viva la Mojo.",
+        "startTime": 26600,
+        "endTime": 29550,
+        "slowStartTime": 40150,
+        "slowEndTime": 44500
+    }
+]

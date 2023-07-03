@@ -1,0 +1,79 @@
+[
+    {
+        "text": "﻿Let's learn about hobbies and pastimes.",
+        "startTime": 449,
+        "endTime": 3502,
+        "slowStartTime": 824,
+        "slowEndTime": 5478
+    },
+    {
+        "text": "He is playing chess.",
+        "startTime": 7044,
+        "endTime": 8999,
+        "slowStartTime": 10716,
+        "slowEndTime": 13723
+    },
+    {
+        "text": "They are playing checkers.",
+        "startTime": 12588,
+        "endTime": 14734,
+        "slowStartTime": 19032,
+        "slowEndTime": 22326
+    },
+    {
+        "text": "He is knitting.",
+        "startTime": 18108,
+        "endTime": 19441,
+        "slowStartTime": 27312,
+        "slowEndTime": 29387
+    },
+    {
+        "text": "He likes cooking.",
+        "startTime": 23006,
+        "endTime": 24676,
+        "slowStartTime": 34659,
+        "slowEndTime": 37239
+    },
+    {
+        "text": "She loves gardening.",
+        "startTime": 27754,
+        "endTime": 29713,
+        "slowStartTime": 41781,
+        "slowEndTime": 44794
+    },
+    {
+        "text": "She likes collecting.",
+        "startTime": 32932,
+        "endTime": 34677,
+        "slowStartTime": 49548,
+        "slowEndTime": 52240
+    },
+    {
+        "text": "He loves doing puzzles.",
+        "startTime": 37763,
+        "endTime": 40294,
+        "slowStartTime": 56794,
+        "slowEndTime": 60666
+    },
+    {
+        "text": "He likes baking.",
+        "startTime": 43499,
+        "endTime": 44999,
+        "slowStartTime": 65399,
+        "slowEndTime": 67723
+    },
+    {
+        "text": "The chicken is playing pool.",
+        "startTime": 48191,
+        "endTime": 50451,
+        "slowStartTime": 72437,
+        "slowEndTime": 75902
+    },
+    {
+        "text": "Children like building things.",
+        "startTime": 53391,
+        "endTime": 55808,
+        "slowStartTime": 80237,
+        "slowEndTime": 83937
+    }
+]

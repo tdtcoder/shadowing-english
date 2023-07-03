@@ -1,0 +1,51 @@
+[
+    {
+        "text": "The sun rises in the morning.",
+        "startTime": 285,
+        "endTime": 2636,
+        "slowStartTime": 578,
+        "slowEndTime": 4179
+    },
+    {
+        "text": "My birthday is in November.",
+        "startTime": 4341,
+        "endTime": 6262,
+        "slowStartTime": 6661,
+        "slowEndTime": 9618
+    },
+    {
+        "text": "We ice skate in winter.",
+        "startTime": 7762,
+        "endTime": 9389,
+        "slowStartTime": 11793,
+        "slowEndTime": 14308
+    },
+    {
+        "text": "The party is on January 1st.",
+        "startTime": 10300,
+        "endTime": 12668,
+        "slowStartTime": 15600,
+        "slowEndTime": 19227
+    },
+    {
+        "text": "I wake up at 6:00.",
+        "startTime": 13563,
+        "endTime": 15263,
+        "slowStartTime": 20495,
+        "slowEndTime": 23119
+    },
+    {
+        "text": "School ends at two o'clock.",
+        "startTime": 16617,
+        "endTime": 18475,
+        "slowStartTime": 25076,
+        "slowEndTime": 27937
+    },
+    {
+        "text": "People sleep at night.",
+        "startTime": 20045,
+        "endTime": 21293,
+        "slowStartTime": 30217,
+        "slowEndTime": 32164
+    }
+]

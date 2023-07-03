@@ -1,0 +1,65 @@
+[
+    {
+        "text": "﻿Humpty Dumpty sat on a wall.",
+        "startTime": 939,
+        "endTime": 4790,
+        "slowStartTime": 1559,
+        "slowEndTime": 7410
+    },
+    {
+        "text": "Humpty Dumpty had a great fall.",
+        "startTime": 5037,
+        "endTime": 8539,
+        "slowStartTime": 7705,
+        "slowEndTime": 13033
+    },
+    {
+        "text": "All the king's horses and all the king's men...",
+        "startTime": 9061,
+        "endTime": 12603,
+        "slowStartTime": 13742,
+        "slowEndTime": 19129
+    },
+    {
+        "text": "...couldn't put Humpty together again.",
+        "startTime": 13089,
+        "endTime": 16754,
+        "slowStartTime": 19783,
+        "slowEndTime": 25356
+    },
+    {
+        "text": "Humpty Dumpty sat on a wall.",
+        "startTime": 17014,
+        "endTime": 20741,
+        "slowStartTime": 25671,
+        "slowEndTime": 31336
+    },
+    {
+        "text": "Humpty Dumpty had a great fall.",
+        "startTime": 21018,
+        "endTime": 24745,
+        "slowStartTime": 31677,
+        "slowEndTime": 37343
+    },
+    {
+        "text": "All the king's horses and all the king's men...",
+        "startTime": 25049,
+        "endTime": 28714,
+        "slowStartTime": 37723,
+        "slowEndTime": 43296
+    },
+    {
+        "text": "...couldn't put Humpty together again.",
+        "startTime": 29046,
+        "endTime": 32835,
+        "slowStartTime": 43719,
+        "slowEndTime": 49477
+    },
+    {
+        "text": "Oh Humpty Dumpty, he is always falling down.",
+        "startTime": 34961,
+        "endTime": 38867,
+        "slowStartTime": 52592,
+        "slowEndTime": 58525
+    }
+]

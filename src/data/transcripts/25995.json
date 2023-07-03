@@ -1,0 +1,107 @@
+[
+    {
+        "text": "In Brazil, a crowd of 1.4 million protest against government corruption in Sao Paulo,...",
+        "startTime": 3585,
+        "endTime": 9312,
+        "slowStartTime": 5528,
+        "slowEndTime": 14193
+    },
+    {
+        "text": "...demanding the impeachment and ouster of leftist president Dilma Rousseff.",
+        "startTime": 10015,
+        "endTime": 13873,
+        "slowStartTime": 15173,
+        "slowEndTime": 21034
+    },
+    {
+        "text": "Twenty-two were killed in a beach town in Ivory Coast...",
+        "startTime": 15479,
+        "endTime": 18241,
+        "slowStartTime": 23368,
+        "slowEndTime": 27586
+    },
+    {
+        "text": "...by an al-Qaeda terrorist attack.",
+        "startTime": 18643,
+        "endTime": 20390,
+        "slowStartTime": 28114,
+        "slowEndTime": 30810
+    },
+    {
+        "text": "President Alassane Ouattara visited the shell-shocked city...",
+        "startTime": 21074,
+        "endTime": 24689,
+        "slowStartTime": 31761,
+        "slowEndTime": 37258
+    },
+    {
+        "text": "...to express his condolences.",
+        "startTime": 25015,
+        "endTime": 26429,
+        "slowStartTime": 37672,
+        "slowEndTime": 39868
+    },
+    {
+        "text": "In Turkey, an explosion in Ankara killed at least 34,...",
+        "startTime": 27603,
+        "endTime": 31827,
+        "slowStartTime": 41555,
+        "slowEndTime": 47966
+    },
+    {
+        "text": "...the second bomb in a month,...",
+        "startTime": 32459,
+        "endTime": 33745,
+        "slowStartTime": 48838,
+        "slowEndTime": 50843
+    },
+    {
+        "text": "...and officials say the suspected bomber...",
+        "startTime": 34367,
+        "endTime": 36169,
+        "slowStartTime": 51700,
+        "slowEndTime": 54479
+    },
+    {
+        "text": "...had links to the Kurdistan Workers' Party.",
+        "startTime": 36306,
+        "endTime": 38782,
+        "slowStartTime": 54609,
+        "slowEndTime": 58398
+    },
+    {
+        "text": "The US Navy's guided missile destroyer USS Barry arrives in Japan...",
+        "startTime": 39126,
+        "endTime": 44075,
+        "slowStartTime": 58839,
+        "slowEndTime": 66337
+    },
+    {
+        "text": "...in response to recent projectile launches by North Korea.",
+        "startTime": 44620,
+        "endTime": 47735,
+        "slowStartTime": 67080,
+        "slowEndTime": 71828
+    },
+    {
+        "text": "And finally from the US, pro and anti-Trump protesters...",
+        "startTime": 48217,
+        "endTime": 51804,
+        "slowStartTime": 72475,
+        "slowEndTime": 77931
+    },
+    {
+        "text": "...demonstrate in West Chester, Ohio...",
+        "startTime": 51937,
+        "endTime": 53846,
+        "slowStartTime": 78056,
+        "slowEndTime": 80994
+    },
+    {
+        "text": "...ahead of his scheduled campaign rally at the Savannah Center.",
+        "startTime": 54003,
+        "endTime": 57127,
+        "slowStartTime": 81154,
+        "slowEndTime": 85915
+    }
+]

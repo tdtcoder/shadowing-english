@@ -1,0 +1,149 @@
+[
+    {
+        "text": "I'm Jorgette Grosso and I'm from Boonton, New Jersey,...",
+        "startTime": 2160,
+        "endTime": 5303,
+        "slowStartTime": 3390,
+        "slowEndTime": 8180
+    },
+    {
+        "text": "...and my major is a bachelor's in electronics and computer engineering technology.",
+        "startTime": 5701,
+        "endTime": 10565,
+        "slowStartTime": 8702,
+        "slowEndTime": 16073
+    },
+    {
+        "text": "There is a big stereotype that women can't do math,...",
+        "startTime": 11461,
+        "endTime": 14350,
+        "slowStartTime": 17342,
+        "slowEndTime": 21750
+    },
+    {
+        "text": "...or can't, you know, work with high-tech stuff.",
+        "startTime": 14464,
+        "endTime": 18767,
+        "slowStartTime": 21846,
+        "slowEndTime": 28376
+    },
+    {
+        "text": "But I've taken the hardest level math course that this school offers,...",
+        "startTime": 19775,
+        "endTime": 24527,
+        "slowStartTime": 29812,
+        "slowEndTime": 37015
+    },
+    {
+        "text": "...and I'm here to attest that that's not true.",
+        "startTime": 24623,
+        "endTime": 27185,
+        "slowStartTime": 37084,
+        "slowEndTime": 41002
+    },
+    {
+        "text": "In this major, basically with the computers, we do a lot of digital programming.",
+        "startTime": 28311,
+        "endTime": 32484,
+        "slowStartTime": 42617,
+        "slowEndTime": 48951
+    },
+    {
+        "text": "Without them we'll do basic circuitry design and actually building circuits.",
+        "startTime": 33037,
+        "endTime": 39199,
+        "slowStartTime": 49706,
+        "slowEndTime": 59024
+    },
+    {
+        "text": "Yep, the number of pixels that it's seeing...",
+        "startTime": 43748,
+        "endTime": 45839,
+        "slowStartTime": 65772,
+        "slowEndTime": 68983
+    },
+    {
+        "text": "...so that it will be able to judge how far away the object is.",
+        "startTime": 46094,
+        "endTime": 48668,
+        "slowStartTime": 69291,
+        "slowEndTime": 73227
+    },
+    {
+        "text": "This major is definitely a mix between theory and lab:...",
+        "startTime": 49039,
+        "endTime": 53574,
+        "slowStartTime": 73709,
+        "slowEndTime": 80586
+    },
+    {
+        "text": "...one hour of theory and three hours of lab.",
+        "startTime": 53740,
+        "endTime": 56595,
+        "slowStartTime": 80760,
+        "slowEndTime": 85118
+    },
+    {
+        "text": "That's why I liked it.",
+        "startTime": 57057,
+        "endTime": 57976,
+        "slowStartTime": 85736,
+        "slowEndTime": 87189
+    },
+    {
+        "text": "That's why I came here.",
+        "startTime": 58062,
+        "endTime": 59189,
+        "slowStartTime": 87243,
+        "slowEndTime": 89009
+    },
+    {
+        "text": "I learn a lot better doing.",
+        "startTime": 60168,
+        "endTime": 63151,
+        "slowStartTime": 90402,
+        "slowEndTime": 94951
+    },
+    {
+        "text": "My project is an autonomous color tracking robot.",
+        "startTime": 64294,
+        "endTime": 67219,
+        "slowStartTime": 96591,
+        "slowEndTime": 101053
+    },
+    {
+        "text": "Autonomous meaning that it doesn't have a remote control.",
+        "startTime": 67665,
+        "endTime": 71109,
+        "slowStartTime": 101647,
+        "slowEndTime": 106888
+    },
+    {
+        "text": "Nothing is controlling it except for itself.",
+        "startTime": 71239,
+        "endTime": 73419,
+        "slowStartTime": 107009,
+        "slowEndTime": 110354
+    },
+    {
+        "text": "Color tracking basically will follow a specific color that you choose.",
+        "startTime": 73732,
+        "endTime": 77924,
+        "slowStartTime": 110748,
+        "slowEndTime": 117111
+    },
+    {
+        "text": "...in this case I chose red.",
+        "startTime": 78010,
+        "endTime": 79303,
+        "slowStartTime": 117165,
+        "slowEndTime": 119179
+    },
+    {
+        "text": "And then robot, it's just the thing that goes along with it; it's working on its own.",
+        "startTime": 79884,
+        "endTime": 85794,
+        "slowStartTime": 119976,
+        "slowEndTime": 128916
+    }
+]

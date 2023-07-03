@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Mr. Coats.",
+        "startTime": 2945,
+        "endTime": 3682,
+        "slowStartTime": 4567,
+        "slowEndTime": 5748
+    },
+    {
+        "text": "Very nice to meet you.",
+        "startTime": 3919,
+        "endTime": 4935,
+        "slowStartTime": 6028,
+        "slowEndTime": 7627
+    },
+    {
+        "text": "Mr. Coats.",
+        "startTime": 5389,
+        "endTime": 6242,
+        "slowStartTime": 8234,
+        "slowEndTime": 9588
+    },
+    {
+        "text": "Did you catch that game last night?",
+        "startTime": 6715,
+        "endTime": 7791,
+        "slowStartTime": 10223,
+        "slowEndTime": 11912
+    },
+    {
+        "text": "Mr. Coats.",
+        "startTime": 8089,
+        "endTime": 8784,
+        "slowStartTime": 12284,
+        "slowEndTime": 13401
+    },
+    {
+        "text": "That's an impressive hairstyle.",
+        "startTime": 8899,
+        "endTime": 11504,
+        "slowStartTime": 13499,
+        "slowEndTime": 17481
+    },
+    {
+        "text": "Mr. Coats.",
+        "startTime": 20363,
+        "endTime": 21265,
+        "slowStartTime": 30695,
+        "slowEndTime": 32122
+    },
+    {
+        "text": "Have you been to Neuschwanstein?",
+        "startTime": 22007,
+        "endTime": 23603,
+        "slowStartTime": 33161,
+        "slowEndTime": 35629
+    },
+    {
+        "text": "Yes. You know of it?",
+        "startTime": 24420,
+        "endTime": 26204,
+        "slowStartTime": 36780,
+        "slowEndTime": 39531
+    },
+    {
+        "text": "Yeah. I'm a big fan of castles.",
+        "startTime": 27429,
+        "endTime": 29390,
+        "slowStartTime": 41294,
+        "slowEndTime": 44310
+    }
+]

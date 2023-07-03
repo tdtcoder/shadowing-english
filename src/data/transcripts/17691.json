@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Everybody, sit down and open your book.",
+        "startTime": 1473,
+        "endTime": 3927,
+        "slowStartTime": 2360,
+        "slowEndTime": 6116
+    },
+    {
+        "text": "Paul, why are you standing there?",
+        "startTime": 4526,
+        "endTime": 6461,
+        "slowStartTime": 6939,
+        "slowEndTime": 9917
+    },
+    {
+        "text": "I have no chair to sit on.",
+        "startTime": 7496,
+        "endTime": 9455,
+        "slowStartTime": 11394,
+        "slowEndTime": 14408
+    },
+    {
+        "text": "There is an empty seat next to Sally.",
+        "startTime": 10500,
+        "endTime": 12646,
+        "slowStartTime": 15900,
+        "slowEndTime": 19194
+    },
+    {
+        "text": "Oh, there is one.",
+        "startTime": 13745,
+        "endTime": 15219,
+        "slowStartTime": 20767,
+        "slowEndTime": 23053
+    },
+    {
+        "text": "May I sit next to you, Sally?",
+        "startTime": 15769,
+        "endTime": 17439,
+        "slowStartTime": 23803,
+        "slowEndTime": 26383
+    },
+    {
+        "text": "Of course you can.",
+        "startTime": 18577,
+        "endTime": 19919,
+        "slowStartTime": 28015,
+        "slowEndTime": 30103
+    },
+    {
+        "text": "Thanks.",
+        "startTime": 20993,
+        "endTime": 21683,
+        "slowStartTime": 31639,
+        "slowEndTime": 32749
+    },
+    {
+        "text": "I am a detective. And I have my first mystery to solve.",
+        "startTime": 27573,
+        "endTime": 34073,
+        "slowStartTime": 41510,
+        "slowEndTime": 51335
+    },
+    {
+        "text": "My sister Clare left her bear in the chair and she can't find it.",
+        "startTime": 34817,
+        "endTime": 41304,
+        "slowStartTime": 52375,
+        "slowEndTime": 62181
+    },
+    {
+        "text": "I look on the chair, under the chair, and behind the chair.",
+        "startTime": 42579,
+        "endTime": 49025,
+        "slowStartTime": 64018,
+        "slowEndTime": 73762
+    },
+    {
+        "text": "I follow our dog Chomps, and look in Chomps' bed.",
+        "startTime": 50071,
+        "endTime": 56093,
+        "slowStartTime": 75257,
+        "slowEndTime": 84365
+    },
+    {
+        "text": "I see a sock, a ball, and Danny's rabbit. But no bear.",
+        "startTime": 57570,
+        "endTime": 63605,
+        "slowStartTime": 86505,
+        "slowEndTime": 95632
+    },
+    {
+        "text": "I open Danny's old blanket, and I see Clare's bear!",
+        "startTime": 65121,
+        "endTime": 70651,
+        "slowStartTime": 97831,
+        "slowEndTime": 106202
+    },
+    {
+        "text": "Chomps did not take the bear. It was Danny.",
+        "startTime": 72478,
+        "endTime": 77886,
+        "slowStartTime": 108867,
+        "slowEndTime": 117054
+    },
+    {
+        "text": "Now Clare thinks I'm the best detective in the world.",
+        "startTime": 80005,
+        "endTime": 86533,
+        "slowStartTime": 120157,
+        "slowEndTime": 130025
+    }
+]

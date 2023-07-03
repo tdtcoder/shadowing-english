@@ -1,0 +1,149 @@
+[
+    {
+        "text": "When Alice came to the house, she saw the Hatter and the Hare having a tea party.",
+        "startTime": 3100,
+        "endTime": 7700,
+        "slowStartTime": 4800,
+        "slowEndTime": 11700
+    },
+    {
+        "text": "It was a large table and only three creatures were sitting around it.",
+        "startTime": 8400,
+        "endTime": 12500,
+        "slowStartTime": 12800,
+        "slowEndTime": 18950
+    },
+    {
+        "text": "However, as Alice walked towards it, they cried,...",
+        "startTime": 13000,
+        "endTime": 16400,
+        "slowStartTime": 19700,
+        "slowEndTime": 24750
+    },
+    {
+        "text": "...\"No room! No room!\"",
+        "startTime": 17400,
+        "endTime": 19900,
+        "slowStartTime": 26250,
+        "slowEndTime": 29900
+    },
+    {
+        "text": "\"Nonsense,\" said Alice, \"there's plenty of room.\"",
+        "startTime": 20300,
+        "endTime": 23550,
+        "slowStartTime": 30650,
+        "slowEndTime": 35550
+    },
+    {
+        "text": "\"Why is a raven like a desk?\" The Hatter asked.",
+        "startTime": 24100,
+        "endTime": 27850,
+        "slowStartTime": 36350,
+        "slowEndTime": 41950
+    },
+    {
+        "text": "Alice liked riddles.",
+        "startTime": 28550,
+        "endTime": 29750,
+        "slowStartTime": 42900,
+        "slowEndTime": 44850
+    },
+    {
+        "text": "\"I believe I can guess that,\" she said.",
+        "startTime": 29900,
+        "endTime": 32550,
+        "slowStartTime": 45050,
+        "slowEndTime": 49050
+    },
+    {
+        "text": "\"Do you mean,\" the Hare asked,...",
+        "startTime": 32750,
+        "endTime": 35100,
+        "slowStartTime": 49350,
+        "slowEndTime": 52850
+    },
+    {
+        "text": "...\"that you think you can find the answer to that riddle?\"",
+        "startTime": 35150,
+        "endTime": 38250,
+        "slowStartTime": 52900,
+        "slowEndTime": 57550
+    },
+    {
+        "text": "\"Yes,\" Alice answered.",
+        "startTime": 39250,
+        "endTime": 41250,
+        "slowStartTime": 59075,
+        "slowEndTime": 62050
+    },
+    {
+        "text": "\"Then, you should say what you mean.\" the Hare said.",
+        "startTime": 41350,
+        "endTime": 44350,
+        "slowStartTime": 62225,
+        "slowEndTime": 66700
+    },
+    {
+        "text": "\"I usually do,\" Alice said,...",
+        "startTime": 44550,
+        "endTime": 46650,
+        "slowStartTime": 67000,
+        "slowEndTime": 70200
+    },
+    {
+        "text": "...\"and I mean what I say.\"",
+        "startTime": 46700,
+        "endTime": 48100,
+        "slowStartTime": 70250,
+        "slowEndTime": 72450
+    },
+    {
+        "text": "\"That's the same thing.\"",
+        "startTime": 48400,
+        "endTime": 49650,
+        "slowStartTime": 72800,
+        "slowEndTime": 74650
+    },
+    {
+        "text": "\"Have you guessed the answer to the riddle yet?\" The Hatter asked.",
+        "startTime": 50700,
+        "endTime": 55400,
+        "slowStartTime": 76200,
+        "slowEndTime": 83275
+    },
+    {
+        "text": "\"No, I give up,\" Alice told him.",
+        "startTime": 55900,
+        "endTime": 58750,
+        "slowStartTime": 84075,
+        "slowEndTime": 88300
+    },
+    {
+        "text": "\"I don't know either.\" the Hatter said.",
+        "startTime": 59200,
+        "endTime": 62400,
+        "slowStartTime": 88950,
+        "slowEndTime": 93800
+    },
+    {
+        "text": "\"Neither do I.\" the Hare said.",
+        "startTime": 62800,
+        "endTime": 64900,
+        "slowStartTime": 94450,
+        "slowEndTime": 97550
+    },
+    {
+        "text": "\"Haven't you anything better to do than ask riddles that have no answer?\"",
+        "startTime": 65750,
+        "endTime": 69850,
+        "slowStartTime": 98800,
+        "slowEndTime": 104950
+    },
+    {
+        "text": "Alice asked angrily.",
+        "startTime": 70050,
+        "endTime": 71450,
+        "slowStartTime": 105275,
+        "slowEndTime": 107450
+    }
+]

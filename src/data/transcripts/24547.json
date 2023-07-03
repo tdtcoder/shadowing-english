@@ -1,0 +1,58 @@
+[
+    {
+        "text": "In Israel, police arrest an ultra-Orthodox assailant...",
+        "startTime": 4919,
+        "endTime": 7931,
+        "slowStartTime": 7529,
+        "slowEndTime": 12122
+    },
+    {
+        "text": "...who attacked and injured six people at an annual gay pride parade in Jerusalem.",
+        "startTime": 8328,
+        "endTime": 12472,
+        "slowStartTime": 12642,
+        "slowEndTime": 18933
+    },
+    {
+        "text": "In Palestine, hundreds attend the funeral for a toddler...",
+        "startTime": 14535,
+        "endTime": 17381,
+        "slowStartTime": 21952,
+        "slowEndTime": 26297
+    },
+    {
+        "text": "...who was killed in a suspected Jewish arson attack near Nablus.",
+        "startTime": 17706,
+        "endTime": 21034,
+        "slowStartTime": 26709,
+        "slowEndTime": 31776
+    },
+    {
+        "text": "In France, local workers continue to search Reunion Island beaches for debris...",
+        "startTime": 25559,
+        "endTime": 29993,
+        "slowStartTime": 38489,
+        "slowEndTime": 45215
+    },
+    {
+        "text": "...and hope for a link to the missing Malaysia airliner.",
+        "startTime": 30545,
+        "endTime": 33119,
+        "slowStartTime": 45968,
+        "slowEndTime": 49903
+    },
+    {
+        "text": "And finally from Malaysia, Beijing was chosen by the International Olympic Committee...",
+        "startTime": 35646,
+        "endTime": 40050,
+        "slowStartTime": 53619,
+        "slowEndTime": 60300
+    },
+    {
+        "text": "...to host the 2022 Winter Olympic Games.",
+        "startTime": 40462,
+        "endTime": 43109,
+        "slowStartTime": 60843,
+        "slowEndTime": 64888
+    }
+]

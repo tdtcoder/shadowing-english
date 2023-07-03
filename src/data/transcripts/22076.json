@@ -1,0 +1,72 @@
+[
+    {
+        "text": "A new technology called \"PulseWallet\" syncs your credit card to the palm of your hand.",
+        "startTime": 172,
+        "endTime": 6379,
+        "slowStartTime": 408,
+        "slowEndTime": 9793
+    },
+    {
+        "text": "Using a biometric palm reader, this cardless payment service allows you to pay...",
+        "startTime": 6506,
+        "endTime": 12403,
+        "slowStartTime": 9909,
+        "slowEndTime": 18830
+    },
+    {
+        "text": "...by simply scanning your veins; giving a whole new meaning to blood money.",
+        "startTime": 12667,
+        "endTime": 17045,
+        "slowStartTime": 19150,
+        "slowEndTime": 25793
+    },
+    {
+        "text": "PulseWallet seems to have the upper hand on other NFC payment systems.",
+        "startTime": 17185,
+        "endTime": 22043,
+        "slowStartTime": 25927,
+        "slowEndTime": 33290
+    },
+    {
+        "text": "For example, unlike Google Wallet, where you scan your phone for payment,..",
+        "startTime": 22411,
+        "endTime": 26923,
+        "slowStartTime": 33766,
+        "slowEndTime": 40609
+    },
+    {
+        "text": "...PulseWallet doesn't require you to present anything to make a transaction,...",
+        "startTime": 27089,
+        "endTime": 31657,
+        "slowStartTime": 40783,
+        "slowEndTime": 47710
+    },
+    {
+        "text": "...other than yourself.",
+        "startTime": 32235,
+        "endTime": 33156,
+        "slowStartTime": 48503,
+        "slowEndTime": 49959
+    },
+    {
+        "text": "The system was unveiled at CES in Las Vegas...",
+        "startTime": 33299,
+        "endTime": 36435,
+        "slowStartTime": 50098,
+        "slowEndTime": 54877
+    },
+    {
+        "text": "...and will reportedly go on sale in February.",
+        "startTime": 36645,
+        "endTime": 39209,
+        "slowStartTime": 55117,
+        "slowEndTime": 59039
+    },
+    {
+        "text": "Something tells me it will have businesses eating out of the palm of its hand.",
+        "startTime": 39436,
+        "endTime": 43455,
+        "slowStartTime": 59304,
+        "slowEndTime": 65408
+    }
+]

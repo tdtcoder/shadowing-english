@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Hi!",
+        "startTime": 227,
+        "endTime": 513,
+        "slowStartTime": 490,
+        "slowEndTime": 995
+    },
+    {
+        "text": "I'm Daniel.",
+        "startTime": 707,
+        "endTime": 1467,
+        "slowStartTime": 1210,
+        "slowEndTime": 2425
+    },
+    {
+        "text": "Hi, Daniel!",
+        "startTime": 1747,
+        "endTime": 2591,
+        "slowStartTime": 2771,
+        "slowEndTime": 4111
+    },
+    {
+        "text": "Nice to meet you.",
+        "startTime": 2777,
+        "endTime": 3893,
+        "slowStartTime": 4315,
+        "slowEndTime": 6065
+    },
+    {
+        "text": "I'm Sue.",
+        "startTime": 4085,
+        "endTime": 4850,
+        "slowStartTime": 6277,
+        "slowEndTime": 7500
+    },
+    {
+        "text": "Nice to meet you too, Sue.",
+        "startTime": 5184,
+        "endTime": 6788,
+        "slowStartTime": 7926,
+        "slowEndTime": 10407
+    },
+    {
+        "text": "I'm from Busan.",
+        "startTime": 6977,
+        "endTime": 8197,
+        "slowStartTime": 10615,
+        "slowEndTime": 12521
+    },
+    {
+        "text": "Where are you from?",
+        "startTime": 8535,
+        "endTime": 9635,
+        "slowStartTime": 12952,
+        "slowEndTime": 14678
+    },
+    {
+        "text": "I'm from Toronto.",
+        "startTime": 9889,
+        "endTime": 10800,
+        "slowStartTime": 14984,
+        "slowEndTime": 16425
+    },
+    {
+        "text": "I'm Canadian.",
+        "startTime": 11029,
+        "endTime": 11856,
+        "slowStartTime": 16694,
+        "slowEndTime": 18009
+    },
+    {
+        "text": "Where are you from?",
+        "startTime": 13763,
+        "endTime": 14540,
+        "slowStartTime": 20794,
+        "slowEndTime": 22035
+    },
+    {
+        "text": "I'm from France, so I'm French.",
+        "startTime": 14793,
+        "endTime": 17182,
+        "slowStartTime": 22339,
+        "slowEndTime": 25998
+    },
+    {
+        "text": "Hello, how are you?",
+        "startTime": 17671,
+        "endTime": 18387,
+        "slowStartTime": 26657,
+        "slowEndTime": 27805
+    },
+    {
+        "text": "I'm fine, how are you?",
+        "startTime": 18636,
+        "endTime": 19531,
+        "slowStartTime": 28104,
+        "slowEndTime": 29521
+    },
+    {
+        "text": "I'm fine, thank you.",
+        "startTime": 19710,
+        "endTime": 20679,
+        "slowStartTime": 29715,
+        "slowEndTime": 31244
+    },
+    {
+        "text": "What country are you from?",
+        "startTime": 20869,
+        "endTime": 21706,
+        "slowStartTime": 31454,
+        "slowEndTime": 32784
+    },
+    {
+        "text": "Turkey.",
+        "startTime": 21833,
+        "endTime": 22406,
+        "slowStartTime": 32900,
+        "slowEndTime": 33834
+    },
+    {
+        "text": "I'm from Spain.",
+        "startTime": 22703,
+        "endTime": 23554,
+        "slowStartTime": 34205,
+        "slowEndTime": 35556
+    },
+    {
+        "text": "Niger.",
+        "startTime": 23759,
+        "endTime": 24206,
+        "slowStartTime": 35789,
+        "slowEndTime": 36534
+    },
+    {
+        "text": "I'm from Turkey.",
+        "startTime": 24646,
+        "endTime": 25632,
+        "slowStartTime": 37119,
+        "slowEndTime": 38673
+    },
+    {
+        "text": "Turkey.",
+        "startTime": 25883,
+        "endTime": 26329,
+        "slowStartTime": 38974,
+        "slowEndTime": 39718
+    },
+    {
+        "text": "Philippines.",
+        "startTime": 27108,
+        "endTime": 27727,
+        "slowStartTime": 40812,
+        "slowEndTime": 41815
+    },
+    {
+        "text": "I'm from Egypt.",
+        "startTime": 27977,
+        "endTime": 28815,
+        "slowStartTime": 42115,
+        "slowEndTime": 43448
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Hey, dad.",
+        "startTime": 3061,
+        "endTime": 3995,
+        "slowStartTime": 4742,
+        "slowEndTime": 6218
+    },
+    {
+        "text": "Why do you spend so much time with them...",
+        "startTime": 7223,
+        "endTime": 9691,
+        "slowStartTime": 10984,
+        "slowEndTime": 14761
+    },
+    {
+        "text": "...and so little with me?",
+        "startTime": 11108,
+        "endTime": 12580,
+        "slowStartTime": 16812,
+        "slowEndTime": 19095
+    },
+    {
+        "text": "When are we gonna build that treehouse you were talking about...",
+        "startTime": 15191,
+        "endTime": 18208,
+        "slowStartTime": 22936,
+        "slowEndTime": 27537
+    },
+    {
+        "text": "...or take that trip to the sea?",
+        "startTime": 21038,
+        "endTime": 23387,
+        "slowStartTime": 31707,
+        "slowEndTime": 35305
+    },
+    {
+        "text": "You're never there when something great happens.",
+        "startTime": 28324,
+        "endTime": 31213,
+        "slowStartTime": 42636,
+        "slowEndTime": 47045
+    },
+    {
+        "text": "One time, you even forgot my birthday,...",
+        "startTime": 37544,
+        "endTime": 40336,
+        "slowStartTime": 56466,
+        "slowEndTime": 60729
+    },
+    {
+        "text": "...and I had to teach myself how to ride a bike.",
+        "startTime": 42412,
+        "endTime": 45297,
+        "slowStartTime": 63768,
+        "slowEndTime": 68171
+    },
+    {
+        "text": "If you could only know how much I miss you.",
+        "startTime": 50299,
+        "endTime": 52745,
+        "slowStartTime": 75598,
+        "slowEndTime": 79342
+    },
+    {
+        "text": "I promise myself when I'm a dad, I'm gonna do things differently.",
+        "startTime": 59001,
+        "endTime": 66185,
+        "slowStartTime": 88652,
+        "slowEndTime": 99502
+    }
+]

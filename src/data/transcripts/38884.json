@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Excuse me, can I help you?",
+        "startTime": 457,
+        "endTime": 1783,
+        "slowStartTime": 835,
+        "slowEndTime": 2900
+    },
+    {
+        "text": "Yes, please. I need a dress.",
+        "startTime": 2558,
+        "endTime": 4548,
+        "slowStartTime": 3987,
+        "slowEndTime": 7047
+    },
+    {
+        "text": "What kind would you like?",
+        "startTime": 5894,
+        "endTime": 7311,
+        "slowStartTime": 8991,
+        "slowEndTime": 11191
+    },
+    {
+        "text": "A dress with flowers.",
+        "startTime": 7992,
+        "endTime": 9605,
+        "slowStartTime": 12138,
+        "slowEndTime": 14633
+    },
+    {
+        "text": "How about this?",
+        "startTime": 10666,
+        "endTime": 11645,
+        "slowStartTime": 16149,
+        "slowEndTime": 17692
+    },
+    {
+        "text": "How much is it?",
+        "startTime": 12676,
+        "endTime": 13607,
+        "slowStartTime": 19164,
+        "slowEndTime": 20635
+    },
+    {
+        "text": "It's $30.",
+        "startTime": 14501,
+        "endTime": 16051,
+        "slowStartTime": 21901,
+        "slowEndTime": 24302
+    },
+    {
+        "text": "Do you have a cheaper one?",
+        "startTime": 16999,
+        "endTime": 18435,
+        "slowStartTime": 25649,
+        "slowEndTime": 27877
+    },
+    {
+        "text": "This one is $20.",
+        "startTime": 19491,
+        "endTime": 20988,
+        "slowStartTime": 29387,
+        "slowEndTime": 31707
+    },
+    {
+        "text": "Great, I'll take that one, thanks!",
+        "startTime": 21789,
+        "endTime": 24045,
+        "slowStartTime": 32834,
+        "slowEndTime": 36292
+    }
+]

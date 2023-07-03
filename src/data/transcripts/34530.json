@@ -1,0 +1,107 @@
+[
+    {
+        "text": "In the US, the Pentagon announced...",
+        "startTime": 3487,
+        "endTime": 5790,
+        "slowStartTime": 5380,
+        "slowEndTime": 8910
+    },
+    {
+        "text": "...that 34 US troops were diagnosed with traumatic brain injuries...",
+        "startTime": 6067,
+        "endTime": 10397,
+        "slowStartTime": 9250,
+        "slowEndTime": 15821
+    },
+    {
+        "text": "...after the Iran missile strike in Iraq earlier this month.",
+        "startTime": 10597,
+        "endTime": 14263,
+        "slowStartTime": 16046,
+        "slowEndTime": 21619
+    },
+    {
+        "text": "In Puerto Rico, hundreds of people protest in a show of anger...",
+        "startTime": 16349,
+        "endTime": 20457,
+        "slowStartTime": 24673,
+        "slowEndTime": 30910
+    },
+    {
+        "text": "...over the discovery of millions of dollars in unused emergency aid...",
+        "startTime": 20677,
+        "endTime": 24837,
+        "slowStartTime": 31165,
+        "slowEndTime": 37481
+    },
+    {
+        "text": "...after the island was struck by a recent 6.4 magnitude earthquake.",
+        "startTime": 25054,
+        "endTime": 29772,
+        "slowStartTime": 37731,
+        "slowEndTime": 44883
+    },
+    {
+        "text": "Health officials in China confirmed 26 casualties...",
+        "startTime": 31988,
+        "endTime": 35870,
+        "slowStartTime": 48132,
+        "slowEndTime": 54030
+    },
+    {
+        "text": "...and more than 880 cases of the coronavirus, which has now spread to 10 countries.",
+        "startTime": 36037,
+        "endTime": 41591,
+        "slowStartTime": 54206,
+        "slowEndTime": 62612
+    },
+    {
+        "text": "China has placed 10 cities, totaling 30 million people,...",
+        "startTime": 41804,
+        "endTime": 46181,
+        "slowStartTime": 62856,
+        "slowEndTime": 69497
+    },
+    {
+        "text": "...under lockdown to try to contain the virus.",
+        "startTime": 46396,
+        "endTime": 49442,
+        "slowStartTime": 69744,
+        "slowEndTime": 74388
+    },
+    {
+        "text": "In Iraq, thousands of supporters of radical Iraqi cleric Muqtada al-Sadr gathered in Baghdad...",
+        "startTime": 51411,
+        "endTime": 58355,
+        "slowStartTime": 77266,
+        "slowEndTime": 87758
+    },
+    {
+        "text": "...to demand the removal of US troops amid growing anti-US sentiment.",
+        "startTime": 58515,
+        "endTime": 63171,
+        "slowStartTime": 87923,
+        "slowEndTime": 94982
+    },
+    {
+        "text": "Finally from Germany, six people are dead and several wounded...",
+        "startTime": 65541,
+        "endTime": 69712,
+        "slowStartTime": 98462,
+        "slowEndTime": 104793
+    },
+    {
+        "text": "...after a shootout in southwest Germany Friday.",
+        "startTime": 69879,
+        "endTime": 72770,
+        "slowStartTime": 104968,
+        "slowEndTime": 109380
+    },
+    {
+        "text": "Police arrested one suspect and believe the shooter knew several of the victims.",
+        "startTime": 72990,
+        "endTime": 77367,
+        "slowStartTime": 109635,
+        "slowEndTime": 116276
+    }
+]

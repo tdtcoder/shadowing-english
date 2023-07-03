@@ -1,0 +1,184 @@
+[
+    {
+        "text": "What is in the bag?",
+        "startTime": 451,
+        "endTime": 1320,
+        "slowStartTime": 827,
+        "slowEndTime": 2205
+    },
+    {
+        "text": "An old sweater.",
+        "startTime": 1907,
+        "endTime": 2809,
+        "slowStartTime": 3010,
+        "slowEndTime": 4439
+    },
+    {
+        "text": "What color is it?",
+        "startTime": 3311,
+        "endTime": 4235,
+        "slowStartTime": 5117,
+        "slowEndTime": 6578
+    },
+    {
+        "text": "Yellow.",
+        "startTime": 4944,
+        "endTime": 5737,
+        "slowStartTime": 7566,
+        "slowEndTime": 8830
+    },
+    {
+        "text": "What is it made of?",
+        "startTime": 6179,
+        "endTime": 7043,
+        "slowStartTime": 9419,
+        "slowEndTime": 10790
+    },
+    {
+        "text": "Wool?",
+        "startTime": 7597,
+        "endTime": 7967,
+        "slowStartTime": 11546,
+        "slowEndTime": 12175
+    },
+    {
+        "text": "Cotton?",
+        "startTime": 8383,
+        "endTime": 8917,
+        "slowStartTime": 12725,
+        "slowEndTime": 13601
+    },
+    {
+        "text": "Wool.",
+        "startTime": 14301,
+        "endTime": 14933,
+        "slowStartTime": 21601,
+        "slowEndTime": 22625
+    },
+    {
+        "text": "It is made of wool.",
+        "startTime": 15525,
+        "endTime": 16529,
+        "slowStartTime": 23437,
+        "slowEndTime": 25019
+    },
+    {
+        "text": "Hmm, very nice.",
+        "startTime": 16686,
+        "endTime": 18219,
+        "slowStartTime": 25179,
+        "slowEndTime": 27554
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 18565,
+        "endTime": 19261,
+        "slowStartTime": 27998,
+        "slowEndTime": 29117
+    },
+    {
+        "text": "What is that?",
+        "startTime": 20466,
+        "endTime": 21412,
+        "slowStartTime": 30849,
+        "slowEndTime": 32343
+    },
+    {
+        "text": "It's a present for you.",
+        "startTime": 22914,
+        "endTime": 24749,
+        "slowStartTime": 34521,
+        "slowEndTime": 37349
+    },
+    {
+        "text": "Oh, what is it?",
+        "startTime": 25371,
+        "endTime": 27525,
+        "slowStartTime": 38206,
+        "slowEndTime": 41513
+    },
+    {
+        "text": "You have to guess.",
+        "startTime": 28501,
+        "endTime": 29377,
+        "slowStartTime": 42902,
+        "slowEndTime": 44291
+    },
+    {
+        "text": "Oh, I don't know.",
+        "startTime": 29611,
+        "endTime": 30903,
+        "slowStartTime": 44566,
+        "slowEndTime": 46580
+    },
+    {
+        "text": "What shape is it?",
+        "startTime": 32313,
+        "endTime": 33659,
+        "slowStartTime": 48620,
+        "slowEndTime": 50713
+    },
+    {
+        "text": "It's square.",
+        "startTime": 34731,
+        "endTime": 36239,
+        "slowStartTime": 52246,
+        "slowEndTime": 54583
+    },
+    {
+        "text": "No, it's round.",
+        "startTime": 37780,
+        "endTime": 40022,
+        "slowStartTime": 56820,
+        "slowEndTime": 60258
+    },
+    {
+        "text": "Can I help you?",
+        "startTime": 43596,
+        "endTime": 44481,
+        "slowStartTime": 65544,
+        "slowEndTime": 66947
+    },
+    {
+        "text": "How much is that t-shirt?",
+        "startTime": 44935,
+        "endTime": 46175,
+        "slowStartTime": 67553,
+        "slowEndTime": 69488
+    },
+    {
+        "text": "It's 15.60.",
+        "startTime": 46549,
+        "endTime": 47984,
+        "slowStartTime": 69973,
+        "slowEndTime": 72201
+    },
+    {
+        "text": "Sorry, how much did you say?",
+        "startTime": 48245,
+        "endTime": 49719,
+        "slowStartTime": 72517,
+        "slowEndTime": 74803
+    },
+    {
+        "text": "15.60.",
+        "startTime": 49938,
+        "endTime": 51127,
+        "slowStartTime": 75057,
+        "slowEndTime": 76916
+    },
+    {
+        "text": "And how much are those mugs?",
+        "startTime": 51445,
+        "endTime": 53927,
+        "slowStartTime": 77318,
+        "slowEndTime": 81116
+    },
+    {
+        "text": "The big mugs are 10.25 and the small ones are 8.75.",
+        "startTime": 54086,
+        "endTime": 58376,
+        "slowStartTime": 81279,
+        "slowEndTime": 87789
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "text": "Are there bears at the zoo?",
+        "startTime": 3083,
+        "endTime": 5233,
+        "slowStartTime": 4775,
+        "slowEndTime": 8074
+    },
+    {
+        "text": "Yes, there are.",
+        "startTime": 6765,
+        "endTime": 7942,
+        "slowStartTime": 10297,
+        "slowEndTime": 12138
+    },
+    {
+        "text": "Are there monkeys at the zoo?",
+        "startTime": 9127,
+        "endTime": 11207,
+        "slowStartTime": 13840,
+        "slowEndTime": 17035
+    },
+    {
+        "text": "Yes, there are.",
+        "startTime": 12461,
+        "endTime": 13637,
+        "slowStartTime": 18841,
+        "slowEndTime": 20681
+    },
+    {
+        "text": "Are there elephants at the zoo?",
+        "startTime": 14729,
+        "endTime": 17065,
+        "slowStartTime": 22244,
+        "slowEndTime": 25822
+    },
+    {
+        "text": "Yes, there are.",
+        "startTime": 18319,
+        "endTime": 19565,
+        "slowStartTime": 27628,
+        "slowEndTime": 29572
+    },
+    {
+        "text": "Are there giraffes at the zoo?",
+        "startTime": 20472,
+        "endTime": 22765,
+        "slowStartTime": 30858,
+        "slowEndTime": 34372
+    },
+    {
+        "text": "Yes, there are.",
+        "startTime": 24203,
+        "endTime": 25543,
+        "slowStartTime": 36455,
+        "slowEndTime": 38539
+    },
+    {
+        "text": "Are there lions and tigers at the zoo?",
+        "startTime": 26658,
+        "endTime": 29757,
+        "slowStartTime": 40137,
+        "slowEndTime": 44860
+    },
+    {
+        "text": "Yes, there are.",
+        "startTime": 30965,
+        "endTime": 32327,
+        "slowStartTime": 46597,
+        "slowEndTime": 48715
+    },
+    {
+        "text": "Are there hippos at the zoo?",
+        "startTime": 33221,
+        "endTime": 35394,
+        "slowStartTime": 49982,
+        "slowEndTime": 53316
+    },
+    {
+        "text": "Yes, there are.",
+        "startTime": 36463,
+        "endTime": 37733,
+        "slowStartTime": 54845,
+        "slowEndTime": 56824
+    },
+    {
+        "text": "Are there sea lions at the zoo?",
+        "startTime": 39033,
+        "endTime": 41646,
+        "slowStartTime": 58700,
+        "slowEndTime": 62694
+    },
+    {
+        "text": "Yes, there are.",
+        "startTime": 42877,
+        "endTime": 44100,
+        "slowStartTime": 64465,
+        "slowEndTime": 66375
+    },
+    {
+        "text": "Are there dinosaurs at the zoo?",
+        "startTime": 45417,
+        "endTime": 47983,
+        "slowStartTime": 68275,
+        "slowEndTime": 72200
+    },
+    {
+        "text": "No, there are not.",
+        "startTime": 49283,
+        "endTime": 51090,
+        "slowStartTime": 74075,
+        "slowEndTime": 76860
+    },
+    {
+        "text": "Let's go to the zoo.",
+        "startTime": 54518,
+        "endTime": 56019,
+        "slowStartTime": 81927,
+        "slowEndTime": 84254
+    },
+    {
+        "text": "Wow, I'd love to.",
+        "startTime": 57459,
+        "endTime": 59539,
+        "slowStartTime": 86338,
+        "slowEndTime": 89533
+    },
+    {
+        "text": "There are many animals at the zoo.",
+        "startTime": 60839,
+        "endTime": 63279,
+        "slowStartTime": 91409,
+        "slowEndTime": 95143
+    },
+    {
+        "text": "Are there dinosaurs at the zoo?",
+        "startTime": 64324,
+        "endTime": 66659,
+        "slowStartTime": 96636,
+        "slowEndTime": 100213
+    },
+    {
+        "text": "No, there aren't dinosaurs at the zoo.",
+        "startTime": 67751,
+        "endTime": 70595,
+        "slowStartTime": 101776,
+        "slowEndTime": 106118
+    },
+    {
+        "text": "Oh, no. I want to see dinosaurs.",
+        "startTime": 71895,
+        "endTime": 75596,
+        "slowStartTime": 107993,
+        "slowEndTime": 113619
+    }
+]

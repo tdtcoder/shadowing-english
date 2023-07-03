@@ -1,0 +1,58 @@
+[
+    {
+        "text": "﻿They do not push.",
+        "startTime": 3579,
+        "endTime": 5077,
+        "slowStartTime": 5519,
+        "slowEndTime": 7841
+    },
+    {
+        "text": "The girls don't push.",
+        "startTime": 6010,
+        "endTime": 7941,
+        "slowStartTime": 9165,
+        "slowEndTime": 12137
+    },
+    {
+        "text": "It does not fly.",
+        "startTime": 9548,
+        "endTime": 10984,
+        "slowStartTime": 14472,
+        "slowEndTime": 16701
+    },
+    {
+        "text": "The hippo doesn't fly.",
+        "startTime": 11601,
+        "endTime": 13471,
+        "slowStartTime": 17551,
+        "slowEndTime": 20431
+    },
+    {
+        "text": "I do not like broccoli.",
+        "startTime": 14923,
+        "endTime": 16669,
+        "slowStartTime": 22535,
+        "slowEndTime": 25228
+    },
+    {
+        "text": "He does not like broccoli.",
+        "startTime": 17601,
+        "endTime": 19099,
+        "slowStartTime": 26552,
+        "slowEndTime": 28874
+    },
+    {
+        "text": "You don't want chocolate.",
+        "startTime": 20729,
+        "endTime": 22413,
+        "slowStartTime": 31244,
+        "slowEndTime": 33845
+    },
+    {
+        "text": "She doesn't want chocolate.",
+        "startTime": 23391,
+        "endTime": 25165,
+        "slowStartTime": 35237,
+        "slowEndTime": 37973
+    }
+]

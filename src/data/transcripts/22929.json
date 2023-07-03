@@ -1,0 +1,156 @@
+[
+    {
+        "text": "The Tour de France is an annual multiple stage bicycle race primarily held in France...",
+        "startTime": 3782,
+        "endTime": 8464,
+        "slowStartTime": 5823,
+        "slowEndTime": 12921
+    },
+    {
+        "text": "...with occasional passes through nearby countries.",
+        "startTime": 8585,
+        "endTime": 10893,
+        "slowStartTime": 13028,
+        "slowEndTime": 16564
+    },
+    {
+        "text": "Held over three weeks spent in July, it's a grueling test of human endurance...",
+        "startTime": 11277,
+        "endTime": 15386,
+        "slowStartTime": 17065,
+        "slowEndTime": 23304
+    },
+    {
+        "text": "...covering approximately 3500 kilometers stretched over 21 stages...",
+        "startTime": 15488,
+        "endTime": 20717,
+        "slowStartTime": 23382,
+        "slowEndTime": 31300
+    },
+    {
+        "text": "...of multiple styles of terrain.",
+        "startTime": 20926,
+        "endTime": 22731,
+        "slowStartTime": 31539,
+        "slowEndTime": 34322
+    },
+    {
+        "text": "To put that into perspective that's roughly the distance from London to Tel Aviv,...",
+        "startTime": 23159,
+        "endTime": 26975,
+        "slowStartTime": 34889,
+        "slowEndTime": 40687
+    },
+    {
+        "text": "...New York to Las Vegas, or Melbourne in Australia to Perth.",
+        "startTime": 27151,
+        "endTime": 29976,
+        "slowStartTime": 40877,
+        "slowEndTime": 45189
+    },
+    {
+        "text": "The modern editions of the Tour de France consists of 21-day long segments or stages...",
+        "startTime": 30091,
+        "endTime": 34941,
+        "slowStartTime": 45287,
+        "slowEndTime": 52637
+    },
+    {
+        "text": "...held over a 23-day period.",
+        "startTime": 35199,
+        "endTime": 36888,
+        "slowStartTime": 52949,
+        "slowEndTime": 55557
+    },
+    {
+        "text": "While the route of the modern Tour de France changes each year,...",
+        "startTime": 37404,
+        "endTime": 40515,
+        "slowStartTime": 56256,
+        "slowEndTime": 60997
+    },
+    {
+        "text": "...the format of the race stays the same.",
+        "startTime": 40740,
+        "endTime": 42695,
+        "slowStartTime": 61260,
+        "slowEndTime": 64268
+    },
+    {
+        "text": "With the eventual winner being the cyclist with the lowest cumulative time...",
+        "startTime": 42839,
+        "endTime": 46277,
+        "slowStartTime": 64408,
+        "slowEndTime": 69640
+    },
+    {
+        "text": "...across three different types of stage categories.",
+        "startTime": 46595,
+        "endTime": 49060,
+        "slowStartTime": 70042,
+        "slowEndTime": 73815
+    },
+    {
+        "text": "This includes, Time Trials where the cyclist competes individually against the clock...",
+        "startTime": 49583,
+        "endTime": 54375,
+        "slowStartTime": 74524,
+        "slowEndTime": 81787
+    },
+    {
+        "text": "...using an aerodynamic bike and gear;...",
+        "startTime": 54447,
+        "endTime": 56781,
+        "slowStartTime": 81821,
+        "slowEndTime": 85396
+    },
+    {
+        "text": "...Flat Stages, usually a high-speed section across the French countryside;...",
+        "startTime": 57208,
+        "endTime": 60971,
+        "slowStartTime": 85962,
+        "slowEndTime": 91682
+    },
+    {
+        "text": "...and Mountain Stages which take you to the Pyrenees and the Alps....",
+        "startTime": 61257,
+        "endTime": 64443,
+        "slowStartTime": 92036,
+        "slowEndTime": 96890
+    },
+    {
+        "text": "...and make it the hardest part of the tour.",
+        "startTime": 64710,
+        "endTime": 66687,
+        "slowStartTime": 97215,
+        "slowEndTime": 100256
+    },
+    {
+        "text": "All of the stages are timed to the finish...",
+        "startTime": 67106,
+        "endTime": 69314,
+        "slowStartTime": 100809,
+        "slowEndTime": 104196
+    },
+    {
+        "text": "...with the riders' finishing times compounded with their previous stage times.",
+        "startTime": 69436,
+        "endTime": 73003,
+        "slowStartTime": 104304,
+        "slowEndTime": 109730
+    },
+    {
+        "text": "The rider with the lowest aggregate time is the leader of the race...",
+        "startTime": 73411,
+        "endTime": 76675,
+        "slowStartTime": 110267,
+        "slowEndTime": 115237
+    },
+    {
+        "text": "...and gets to wear the coveted yellow jersey.",
+        "startTime": 76800,
+        "endTime": 78929,
+        "slowStartTime": 115350,
+        "slowEndTime": 118619
+    }
+]

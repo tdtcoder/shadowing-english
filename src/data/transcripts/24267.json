@@ -1,0 +1,184 @@
+[
+    {
+        "text": "A is for apple.",
+        "startTime": 1343,
+        "endTime": 4035,
+        "slowStartTime": 2165,
+        "slowEndTime": 6278
+    },
+    {
+        "text": "B is for balloon.",
+        "startTime": 6387,
+        "endTime": 8853,
+        "slowStartTime": 9730,
+        "slowEndTime": 13504
+    },
+    {
+        "text": "C is for cat.",
+        "startTime": 10058,
+        "endTime": 12663,
+        "slowStartTime": 15237,
+        "slowEndTime": 19219
+    },
+    {
+        "text": "D is for dog.",
+        "startTime": 14912,
+        "endTime": 17007,
+        "slowStartTime": 22518,
+        "slowEndTime": 25736
+    },
+    {
+        "text": "E is for eye.",
+        "startTime": 19251,
+        "endTime": 21609,
+        "slowStartTime": 29026,
+        "slowEndTime": 32638
+    },
+    {
+        "text": "F is for fish.",
+        "startTime": 25111,
+        "endTime": 27397,
+        "slowStartTime": 37816,
+        "slowEndTime": 41320
+    },
+    {
+        "text": "G is for glasses.",
+        "startTime": 30412,
+        "endTime": 33433,
+        "slowStartTime": 45768,
+        "slowEndTime": 50375
+    },
+    {
+        "text": "H is for hamburger.",
+        "startTime": 34800,
+        "endTime": 37901,
+        "slowStartTime": 52350,
+        "slowEndTime": 57077
+    },
+    {
+        "text": "I is for ice cream.",
+        "startTime": 41301,
+        "endTime": 44606,
+        "slowStartTime": 62102,
+        "slowEndTime": 67134
+    },
+    {
+        "text": "J is for jail.",
+        "startTime": 46371,
+        "endTime": 48812,
+        "slowStartTime": 69707,
+        "slowEndTime": 73443
+    },
+    {
+        "text": "K is for key.",
+        "startTime": 50277,
+        "endTime": 52399,
+        "slowStartTime": 75565,
+        "slowEndTime": 78823
+    },
+    {
+        "text": "L is for lemon.",
+        "startTime": 54942,
+        "endTime": 57113,
+        "slowStartTime": 82563,
+        "slowEndTime": 85894
+    },
+    {
+        "text": "M is for money.",
+        "startTime": 60153,
+        "endTime": 63307,
+        "slowStartTime": 90380,
+        "slowEndTime": 95186
+    },
+    {
+        "text": "N is for newspaper.",
+        "startTime": 64875,
+        "endTime": 67369,
+        "slowStartTime": 97462,
+        "slowEndTime": 101279
+    },
+    {
+        "text": "O is for orange.",
+        "startTime": 70332,
+        "endTime": 72534,
+        "slowStartTime": 105648,
+        "slowEndTime": 109026
+    },
+    {
+        "text": "P is for pencil.",
+        "startTime": 74141,
+        "endTime": 76518,
+        "slowStartTime": 111362,
+        "slowEndTime": 115002
+    },
+    {
+        "text": "Q is for questions.",
+        "startTime": 80609,
+        "endTime": 83603,
+        "slowStartTime": 121064,
+        "slowEndTime": 125630
+    },
+    {
+        "text": "R is for rain.",
+        "startTime": 86116,
+        "endTime": 88671,
+        "slowStartTime": 129324,
+        "slowEndTime": 133232
+    },
+    {
+        "text": "S is for sun.",
+        "startTime": 93031,
+        "endTime": 95169,
+        "slowStartTime": 139697,
+        "slowEndTime": 142979
+    },
+    {
+        "text": "T is for telephone.",
+        "startTime": 97033,
+        "endTime": 99603,
+        "slowStartTime": 145699,
+        "slowEndTime": 149629
+    },
+    {
+        "text": "U is for umbrella.",
+        "startTime": 102678,
+        "endTime": 105050,
+        "slowStartTime": 154167,
+        "slowEndTime": 157800
+    },
+    {
+        "text": "V is for violin.",
+        "startTime": 107714,
+        "endTime": 110111,
+        "slowStartTime": 161721,
+        "slowEndTime": 165392
+    },
+    {
+        "text": "W is for window.",
+        "startTime": 112249,
+        "endTime": 115015,
+        "slowStartTime": 168523,
+        "slowEndTime": 172747
+    },
+    {
+        "text": "X is for X-ray.",
+        "startTime": 119835,
+        "endTime": 123395,
+        "slowStartTime": 179902,
+        "slowEndTime": 185318
+    },
+    {
+        "text": "Y is for yo-yo.",
+        "startTime": 127091,
+        "endTime": 129966,
+        "slowStartTime": 190787,
+        "slowEndTime": 195174
+    },
+    {
+        "text": "Z is for zero.",
+        "startTime": 134919,
+        "endTime": 139268,
+        "slowStartTime": 202529,
+        "slowEndTime": 209127
+    }
+]

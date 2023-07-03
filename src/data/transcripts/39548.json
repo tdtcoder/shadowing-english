@@ -1,0 +1,86 @@
+[
+    {
+        "text": "This is my friend, Karen.",
+        "startTime": 3949,
+        "endTime": 5165,
+        "slowStartTime": 6073,
+        "slowEndTime": 7972
+    },
+    {
+        "text": "Her phone number is 479-21069.",
+        "startTime": 5660,
+        "endTime": 10016,
+        "slowStartTime": 8640,
+        "slowEndTime": 15249
+    },
+    {
+        "text": "This is my friend, Anton.",
+        "startTime": 11972,
+        "endTime": 13531,
+        "slowStartTime": 18108,
+        "slowEndTime": 20522
+    },
+    {
+        "text": "His phone number is 559-37581.",
+        "startTime": 13845,
+        "endTime": 17715,
+        "slowStartTime": 20917,
+        "slowEndTime": 26797
+    },
+    {
+        "text": "This is my brother, Mark.",
+        "startTime": 19774,
+        "endTime": 21173,
+        "slowStartTime": 29811,
+        "slowEndTime": 31985
+    },
+    {
+        "text": "His phone number is 858-29567.",
+        "startTime": 21717,
+        "endTime": 25836,
+        "slowStartTime": 32726,
+        "slowEndTime": 38979
+    },
+    {
+        "text": "This is my sister, Julie.",
+        "startTime": 26909,
+        "endTime": 28506,
+        "slowStartTime": 40514,
+        "slowEndTime": 42984
+    },
+    {
+        "text": "Her phone number is 706-28594.",
+        "startTime": 29039,
+        "endTime": 33357,
+        "slowStartTime": 43708,
+        "slowEndTime": 50261
+    },
+    {
+        "text": "This is my mom.",
+        "startTime": 34361,
+        "endTime": 35397,
+        "slowStartTime": 51691,
+        "slowEndTime": 53320
+    },
+    {
+        "text": "Her phone number is 321-85028.",
+        "startTime": 35957,
+        "endTime": 40035,
+        "slowStartTime": 54085,
+        "slowEndTime": 60278
+    },
+    {
+        "text": "This is my dad.",
+        "startTime": 41424,
+        "endTime": 42440,
+        "slowStartTime": 62286,
+        "slowEndTime": 63885
+    },
+    {
+        "text": "His phone number is 952-84205.",
+        "startTime": 42873,
+        "endTime": 47861,
+        "slowStartTime": 64459,
+        "slowEndTime": 72016
+    }
+]

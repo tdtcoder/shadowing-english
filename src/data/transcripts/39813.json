@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Hi!",
+        "startTime": 273,
+        "endTime": 647,
+        "slowStartTime": 559,
+        "slowEndTime": 1196
+    },
+    {
+        "text": "Hello!",
+        "startTime": 2867,
+        "endTime": 3407,
+        "slowStartTime": 4451,
+        "slowEndTime": 5336
+    },
+    {
+        "text": "Hello, Angela!",
+        "startTime": 5580,
+        "endTime": 6555,
+        "slowStartTime": 8520,
+        "slowEndTime": 10058
+    },
+    {
+        "text": "Hi, Elon!",
+        "startTime": 8793,
+        "endTime": 9711,
+        "slowStartTime": 13339,
+        "slowEndTime": 14791
+    },
+    {
+        "text": "Hi, Michelle!",
+        "startTime": 12034,
+        "endTime": 12637,
+        "slowStartTime": 18201,
+        "slowEndTime": 19181
+    },
+    {
+        "text": "Hello, Bill!",
+        "startTime": 15006,
+        "endTime": 15915,
+        "slowStartTime": 22659,
+        "slowEndTime": 24098
+    },
+    {
+        "text": "Hi there, Vera!",
+        "startTime": 18003,
+        "endTime": 19072,
+        "slowStartTime": 27155,
+        "slowEndTime": 28833
+    },
+    {
+        "text": "Hello there, Mark!",
+        "startTime": 21280,
+        "endTime": 22389,
+        "slowStartTime": 32070,
+        "slowEndTime": 33808
+    },
+    {
+        "text": "Hello there, Donatella!",
+        "startTime": 24437,
+        "endTime": 25765,
+        "slowStartTime": 36806,
+        "slowEndTime": 38873
+    },
+    {
+        "text": "Hi there, Warren!",
+        "startTime": 27999,
+        "endTime": 29159,
+        "slowStartTime": 42148,
+        "slowEndTime": 43964
+    },
+    {
+        "text": "Hello, Anna!",
+        "startTime": 31318,
+        "endTime": 32387,
+        "slowStartTime": 47127,
+        "slowEndTime": 48805
+    },
+    {
+        "text": "Hi, Tim!",
+        "startTime": 34505,
+        "endTime": 35349,
+        "slowStartTime": 51907,
+        "slowEndTime": 53249
+    }
+]

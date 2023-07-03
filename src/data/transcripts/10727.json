@@ -1,0 +1,114 @@
+[
+    {
+        "text": "1989, Smallville, Kansas, USA.",
+        "startTime": 4600,
+        "endTime": 9150,
+        "slowStartTime": 7200,
+        "slowEndTime": 13900
+    },
+    {
+        "text": "Suddenly, the sky was dark.",
+        "startTime": 10650,
+        "endTime": 13050,
+        "slowStartTime": 16200,
+        "slowEndTime": 19750
+    },
+    {
+        "text": "There were hundreds of meteors in the sky.",
+        "startTime": 13850,
+        "endTime": 16150,
+        "slowStartTime": 21100,
+        "slowEndTime": 24400
+    },
+    {
+        "text": "Jonathan and Martha Kent were on their way home.",
+        "startTime": 16850,
+        "endTime": 19700,
+        "slowStartTime": 25550,
+        "slowEndTime": 29800
+    },
+    {
+        "text": "Suddenly, a meteor hit the road behind them.",
+        "startTime": 20350,
+        "endTime": 23300,
+        "slowStartTime": 30800,
+        "slowEndTime": 35150
+    },
+    {
+        "text": "A spaceship crashed into the road in front of them.",
+        "startTime": 24250,
+        "endTime": 27200,
+        "slowStartTime": 36700,
+        "slowEndTime": 41000
+    },
+    {
+        "text": "When they opened their eyes, they saw a boy.",
+        "startTime": 28300,
+        "endTime": 31200,
+        "slowStartTime": 42800,
+        "slowEndTime": 47000
+    },
+    {
+        "text": "2001, Smallville, Kansas, USA.",
+        "startTime": 33600,
+        "endTime": 37500,
+        "slowStartTime": 50700,
+        "slowEndTime": 56500
+    },
+    {
+        "text": "Jonathan and Martha took the boy home to their farm.",
+        "startTime": 38550,
+        "endTime": 41500,
+        "slowStartTime": 58100,
+        "slowEndTime": 62400
+    },
+    {
+        "text": "They named him Clark.",
+        "startTime": 42100,
+        "endTime": 43550,
+        "slowStartTime": 63400,
+        "slowEndTime": 65500
+    },
+    {
+        "text": "They didn't want Clark to be different from other children.",
+        "startTime": 44750,
+        "endTime": 47700,
+        "slowStartTime": 67400,
+        "slowEndTime": 71750
+    },
+    {
+        "text": "But he was different.",
+        "startTime": 48350,
+        "endTime": 49550,
+        "slowStartTime": 72800,
+        "slowEndTime": 74500
+    },
+    {
+        "text": "He was special.",
+        "startTime": 50200,
+        "endTime": 51000,
+        "slowStartTime": 75550,
+        "slowEndTime": 76700
+    },
+    {
+        "text": "He was very strong.",
+        "startTime": 51900,
+        "endTime": 53350,
+        "slowStartTime": 78200,
+        "slowEndTime": 80200
+    },
+    {
+        "text": "He was very fast.",
+        "startTime": 53800,
+        "endTime": 55150,
+        "slowStartTime": 80950,
+        "slowEndTime": 82900
+    },
+    {
+        "text": "Nothing hurt him.",
+        "startTime": 55900,
+        "endTime": 57150,
+        "slowStartTime": 84200,
+        "slowEndTime": 85800
+    }
+]

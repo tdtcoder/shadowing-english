@@ -1,0 +1,359 @@
+[
+    {
+        "text": "Hi!",
+        "startTime": 321,
+        "endTime": 915,
+        "slowStartTime": 631,
+        "slowEndTime": 1597
+    },
+    {
+        "text": "Hello!",
+        "startTime": 1033,
+        "endTime": 1478,
+        "slowStartTime": 1700,
+        "slowEndTime": 2442
+    },
+    {
+        "text": "Hey, how are you doing?",
+        "startTime": 1627,
+        "endTime": 2421,
+        "slowStartTime": 2590,
+        "slowEndTime": 3857
+    },
+    {
+        "text": "Good, how are you?",
+        "startTime": 2497,
+        "endTime": 3054,
+        "slowStartTime": 3896,
+        "slowEndTime": 4806
+    },
+    {
+        "text": "Go ahead and have a seat.",
+        "startTime": 3437,
+        "endTime": 4221,
+        "slowStartTime": 5305,
+        "slowEndTime": 6556
+    },
+    {
+        "text": "Thanks for coming today.",
+        "startTime": 4422,
+        "endTime": 5421,
+        "slowStartTime": 6783,
+        "slowEndTime": 8356
+    },
+    {
+        "text": "Thanks for having us.",
+        "startTime": 5522,
+        "endTime": 6446,
+        "slowStartTime": 8433,
+        "slowEndTime": 9894
+    },
+    {
+        "text": "We are a marketing research company, so I need to collect your phones...",
+        "startTime": 6825,
+        "endTime": 10034,
+        "slowStartTime": 10387,
+        "slowEndTime": 15276
+    },
+    {
+        "text": "...so you can't take pictures, can't instagram, can't tweet about things.",
+        "startTime": 10098,
+        "endTime": 12921,
+        "slowStartTime": 15297,
+        "slowEndTime": 19607
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 13195,
+        "endTime": 13791,
+        "slowStartTime": 19943,
+        "slowEndTime": 20911
+    },
+    {
+        "text": "Go ahead and put your safety goggles on at this time.",
+        "startTime": 13963,
+        "endTime": 16470,
+        "slowStartTime": 21094,
+        "slowEndTime": 24930
+    },
+    {
+        "text": "Okay.",
+        "startTime": 45692,
+        "endTime": 46633,
+        "slowStartTime": 68688,
+        "slowEndTime": 70175
+    },
+    {
+        "text": "That's my phone.",
+        "startTime": 58895,
+        "endTime": 60189,
+        "slowStartTime": 88493,
+        "slowEndTime": 90508
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 61431,
+        "endTime": 62081,
+        "slowStartTime": 92296,
+        "slowEndTime": 93347
+    },
+    {
+        "text": "What was your reaction when I threw your phone on the wood chipper?",
+        "startTime": 64144,
+        "endTime": 66541,
+        "slowStartTime": 96366,
+        "slowEndTime": 100036
+    },
+    {
+        "text": "A little bit lost.",
+        "startTime": 66777,
+        "endTime": 67663,
+        "slowStartTime": 100315,
+        "slowEndTime": 101720
+    },
+    {
+        "text": "It's scary.",
+        "startTime": 67805,
+        "endTime": 68412,
+        "slowStartTime": 101857,
+        "slowEndTime": 102843
+    },
+    {
+        "text": "It's kind of terrifying how many things are connected to my phone...",
+        "startTime": 68557,
+        "endTime": 71107,
+        "slowStartTime": 102986,
+        "slowEndTime": 106885
+    },
+    {
+        "text": "...and I wanna punch you in the face.",
+        "startTime": 71205,
+        "endTime": 72436,
+        "slowStartTime": 106957,
+        "slowEndTime": 108879
+    },
+    {
+        "text": "How does it feel to not be connected?",
+        "startTime": 74863,
+        "endTime": 76331,
+        "slowStartTime": 112445,
+        "slowEndTime": 114721
+    },
+    {
+        "text": "My chest hurts.",
+        "startTime": 77847,
+        "endTime": 78847,
+        "slowStartTime": 116920,
+        "slowEndTime": 118496
+    },
+    {
+        "text": "Broke.",
+        "startTime": 78993,
+        "endTime": 79491,
+        "slowStartTime": 118640,
+        "slowEndTime": 119462
+    },
+    {
+        "text": "I feel like I'm in the pioneer days or something.",
+        "startTime": 79708,
+        "endTime": 81525,
+        "slowStartTime": 119712,
+        "slowEndTime": 122513
+    },
+    {
+        "text": "Why do you think that is?",
+        "startTime": 82819,
+        "endTime": 83802,
+        "slowStartTime": 124378,
+        "slowEndTime": 125928
+    },
+    {
+        "text": "'Cause you're so connected with it.",
+        "startTime": 84562,
+        "endTime": 85971,
+        "slowStartTime": 126993,
+        "slowEndTime": 129181
+    },
+    {
+        "text": "Like, I have to have it on me at all times.",
+        "startTime": 86102,
+        "endTime": 88441,
+        "slowStartTime": 129303,
+        "slowEndTime": 132887
+    },
+    {
+        "text": "Well, let me ease your mind when I give you your phones back.",
+        "startTime": 88735,
+        "endTime": 92172,
+        "slowStartTime": 133252,
+        "slowEndTime": 138483
+    },
+    {
+        "text": "Everyone can breathe now.",
+        "startTime": 96785,
+        "endTime": 97828,
+        "slowStartTime": 145328,
+        "slowEndTime": 146967
+    },
+    {
+        "text": "So, how does that feel?",
+        "startTime": 100988,
+        "endTime": 101879,
+        "slowStartTime": 151632,
+        "slowEndTime": 153044
+    },
+    {
+        "text": "Yeah, much better, much better.",
+        "startTime": 102114,
+        "endTime": 104965,
+        "slowStartTime": 153321,
+        "slowEndTime": 157672
+    },
+    {
+        "text": "A sigh of relief.",
+        "startTime": 105044,
+        "endTime": 105712,
+        "slowStartTime": 157716,
+        "slowEndTime": 158793
+    },
+    {
+        "text": "What's more important, the phone or having the connection?",
+        "startTime": 105903,
+        "endTime": 108573,
+        "slowStartTime": 159005,
+        "slowEndTime": 163084
+    },
+    {
+        "text": "The connection.",
+        "startTime": 108677,
+        "endTime": 109645,
+        "slowStartTime": 163165,
+        "slowEndTime": 164692
+    },
+    {
+        "text": "I don't wanna disconnect.",
+        "startTime": 109849,
+        "endTime": 110889,
+        "slowStartTime": 164924,
+        "slowEndTime": 166558
+    },
+    {
+        "text": "I live in this modern age and I'm very happy with it.",
+        "startTime": 111033,
+        "endTime": 114127,
+        "slowStartTime": 166699,
+        "slowEndTime": 171415
+    },
+    {
+        "text": "Now, you wanna see a better way to keep connected?",
+        "startTime": 114306,
+        "endTime": 115907,
+        "slowStartTime": 171609,
+        "slowEndTime": 174086
+    },
+    {
+        "text": "Alright.",
+        "startTime": 116463,
+        "endTime": 117267,
+        "slowStartTime": 174845,
+        "slowEndTime": 176125
+    },
+    {
+        "text": "This is the 2016 Chevy Cruze.",
+        "startTime": 118461,
+        "endTime": 120191,
+        "slowStartTime": 177842,
+        "slowEndTime": 180511
+    },
+    {
+        "text": "Wow!",
+        "startTime": 120529,
+        "endTime": 120982,
+        "slowStartTime": 180943,
+        "slowEndTime": 181698
+    },
+    {
+        "text": "Cruze offers built-in 4G LTE Wi-Fi...",
+        "startTime": 121996,
+        "endTime": 124239,
+        "slowStartTime": 183144,
+        "slowEndTime": 186584
+    },
+    {
+        "text": "...with a reliable connection more powerful than your smartphone.",
+        "startTime": 124343,
+        "endTime": 127027,
+        "slowStartTime": 186665,
+        "slowEndTime": 190765
+    },
+    {
+        "text": "Nice!",
+        "startTime": 127189,
+        "endTime": 128049,
+        "slowStartTime": 190933,
+        "slowEndTime": 192298
+    },
+    {
+        "text": "So, this thing puts out its own signal?",
+        "startTime": 128195,
+        "endTime": 130055,
+        "slowStartTime": 192443,
+        "slowEndTime": 195308
+    },
+    {
+        "text": "Yes.",
+        "startTime": 130149,
+        "endTime": 130493,
+        "slowStartTime": 195373,
+        "slowEndTime": 195964
+    },
+    {
+        "text": "What?",
+        "startTime": 130620,
+        "endTime": 131430,
+        "slowStartTime": 196080,
+        "slowEndTime": 197370
+    },
+    {
+        "text": "It does connect up to seven devices.",
+        "startTime": 131523,
+        "endTime": 133473,
+        "slowStartTime": 197435,
+        "slowEndTime": 200435
+    },
+    {
+        "text": "Seven?",
+        "startTime": 133539,
+        "endTime": 133935,
+        "slowStartTime": 200458,
+        "slowEndTime": 201127
+    },
+    {
+        "text": "This is awesome, I love this.",
+        "startTime": 134607,
+        "endTime": 136603,
+        "slowStartTime": 202061,
+        "slowEndTime": 205129
+    },
+    {
+        "text": "This is like, next level Chevy.",
+        "startTime": 136696,
+        "endTime": 138751,
+        "slowStartTime": 205194,
+        "slowEndTime": 208351
+    },
+    {
+        "text": "Thank you guys for coming today.",
+        "startTime": 138937,
+        "endTime": 139957,
+        "slowStartTime": 208556,
+        "slowEndTime": 210161
+    },
+    {
+        "text": "Thanks for not really killing our phones.",
+        "startTime": 140040,
+        "endTime": 141526,
+        "slowStartTime": 210210,
+        "slowEndTime": 212514
+    }
+]

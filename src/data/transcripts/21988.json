@@ -1,0 +1,44 @@
+[
+    {
+        "text": "What is strong?",
+        "startTime": 2143,
+        "endTime": 3200,
+        "slowStartTime": 3365,
+        "slowEndTime": 5025
+    },
+    {
+        "text": "Is it muscle or something more?",
+        "startTime": 6069,
+        "endTime": 9155,
+        "slowStartTime": 9254,
+        "slowEndTime": 13957
+    },
+    {
+        "text": "Is it measured in miles or milliseconds?",
+        "startTime": 11975,
+        "endTime": 14830,
+        "slowStartTime": 18113,
+        "slowEndTime": 22470
+    },
+    {
+        "text": "Is it your best time or your worst day?",
+        "startTime": 18195,
+        "endTime": 21281,
+        "slowStartTime": 27442,
+        "slowEndTime": 32146
+    },
+    {
+        "text": "Maybe strong is just what you have left...",
+        "startTime": 22573,
+        "endTime": 25156,
+        "slowStartTime": 34009,
+        "slowEndTime": 37959
+    },
+    {
+        "text": "...when you've used up all your weak.",
+        "startTime": 26900,
+        "endTime": 28380,
+        "slowStartTime": 40500,
+        "slowEndTime": 42795
+    }
+]

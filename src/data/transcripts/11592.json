@@ -1,0 +1,170 @@
+[
+    {
+        "text": "Four score and seven years ago, our fathers brought forth on this continent a new nation,...",
+        "startTime": 5000,
+        "endTime": 11800,
+        "slowStartTime": 7700,
+        "slowEndTime": 18000
+    },
+    {
+        "text": "...conceived in liberty and dedicated to the proposition that all men are created equal.",
+        "startTime": 12600,
+        "endTime": 18600,
+        "slowStartTime": 19100,
+        "slowEndTime": 28100
+    },
+    {
+        "text": "Now we are engaged in a great civil war,...",
+        "startTime": 20800,
+        "endTime": 23500,
+        "slowStartTime": 31400,
+        "slowEndTime": 35525
+    },
+    {
+        "text": "...testing whether that nation, or any nation so conceived and so dedicated, can long endure.",
+        "startTime": 24600,
+        "endTime": 31400,
+        "slowStartTime": 37100,
+        "slowEndTime": 47400
+    },
+    {
+        "text": "We are met on a great battlefield of that war.",
+        "startTime": 33600,
+        "endTime": 36650,
+        "slowStartTime": 50600,
+        "slowEndTime": 55200
+    },
+    {
+        "text": "We have come to dedicate a portion of that field as a final resting place...",
+        "startTime": 38200,
+        "endTime": 42400,
+        "slowStartTime": 57500,
+        "slowEndTime": 63900
+    },
+    {
+        "text": "...for those who here gave their lives that that nation might live.",
+        "startTime": 43000,
+        "endTime": 46700,
+        "slowStartTime": 64700,
+        "slowEndTime": 70300
+    },
+    {
+        "text": "It is altogether fitting and proper that we should do this.",
+        "startTime": 48400,
+        "endTime": 52150,
+        "slowStartTime": 72800,
+        "slowEndTime": 78500
+    },
+    {
+        "text": "But in a larger sense, we cannot dedicate,...",
+        "startTime": 54350,
+        "endTime": 58450,
+        "slowStartTime": 81700,
+        "slowEndTime": 88000
+    },
+    {
+        "text": "...we cannot consecrate,...",
+        "startTime": 59550,
+        "endTime": 61150,
+        "slowStartTime": 89500,
+        "slowEndTime": 91950
+    },
+    {
+        "text": "...we cannot hallow this ground.",
+        "startTime": 62100,
+        "endTime": 64550,
+        "slowStartTime": 93325,
+        "slowEndTime": 97150
+    },
+    {
+        "text": "The brave men, living and dead, who struggled here have consecrated it...",
+        "startTime": 66150,
+        "endTime": 72700,
+        "slowStartTime": 99400,
+        "slowEndTime": 109250
+    },
+    {
+        "text": "...far above our poor power to add or detract.",
+        "startTime": 72850,
+        "endTime": 76200,
+        "slowStartTime": 109400,
+        "slowEndTime": 114500
+    },
+    {
+        "text": "The world will little note nor long remember what we say here,...",
+        "startTime": 78250,
+        "endTime": 82550,
+        "slowStartTime": 117550,
+        "slowEndTime": 123950
+    },
+    {
+        "text": "...but it can never forget what they did here.",
+        "startTime": 82700,
+        "endTime": 85500,
+        "slowStartTime": 124250,
+        "slowEndTime": 128500
+    },
+    {
+        "text": "It is for us the living rather,...",
+        "startTime": 87900,
+        "endTime": 91800,
+        "slowStartTime": 132000,
+        "slowEndTime": 137900
+    },
+    {
+        "text": "...to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced.",
+        "startTime": 92850,
+        "endTime": 99600,
+        "slowStartTime": 139450,
+        "slowEndTime": 149600
+    },
+    {
+        "text": "It is rather for us to be here dedicated to the great task remaining before us,...",
+        "startTime": 100950,
+        "endTime": 106550,
+        "slowStartTime": 151650,
+        "slowEndTime": 160100
+    },
+    {
+        "text": "...that from these honored dead we take increased devotion to that cause...",
+        "startTime": 107550,
+        "endTime": 112100,
+        "slowStartTime": 161500,
+        "slowEndTime": 168450
+    },
+    {
+        "text": "...for which they gave the last full measure of devotion,...",
+        "startTime": 112150,
+        "endTime": 115000,
+        "slowStartTime": 168450,
+        "slowEndTime": 172750
+    },
+    {
+        "text": "...that we here highly resolve that these dead shall not have died in vain,...",
+        "startTime": 116350,
+        "endTime": 121950,
+        "slowStartTime": 174750,
+        "slowEndTime": 183000
+    },
+    {
+        "text": "...that this nation under God shall have a new birth of freedom,...",
+        "startTime": 122950,
+        "endTime": 128750,
+        "slowStartTime": 184600,
+        "slowEndTime": 193150
+    },
+    {
+        "text": "...and that government of the people, by the people, for the people...",
+        "startTime": 130150,
+        "endTime": 136650,
+        "slowStartTime": 195400,
+        "slowEndTime": 205200
+    },
+    {
+        "text": "...shall not perish from the Earth.",
+        "startTime": 138150,
+        "endTime": 140950,
+        "slowStartTime": 207040,
+        "slowEndTime": 211600
+    }
+]

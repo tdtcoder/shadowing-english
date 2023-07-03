@@ -1,0 +1,86 @@
+[
+    {
+        "text": "I was wondering if you could tell me a good place to go to have a drink.",
+        "startTime": 3361,
+        "endTime": 6881,
+        "slowStartTime": 5192,
+        "slowEndTime": 10547
+    },
+    {
+        "text": "Do you like dancing?",
+        "startTime": 7302,
+        "endTime": 8254,
+        "slowStartTime": 11103,
+        "slowEndTime": 12606
+    },
+    {
+        "text": "Well, I'm not much of a dancer.",
+        "startTime": 8602,
+        "endTime": 10417,
+        "slowStartTime": 13053,
+        "slowEndTime": 15850
+    },
+    {
+        "text": "Clubbing in America is very fun.",
+        "startTime": 10691,
+        "endTime": 12911,
+        "slowStartTime": 16187,
+        "slowEndTime": 19592
+    },
+    {
+        "text": "Okay, it sounds fun.",
+        "startTime": 13107,
+        "endTime": 14571,
+        "slowStartTime": 19811,
+        "slowEndTime": 22082
+    },
+    {
+        "text": "I recommend that you go to La Casa del Rey.",
+        "startTime": 14890,
+        "endTime": 17704,
+        "slowStartTime": 22485,
+        "slowEndTime": 26781
+    },
+    {
+        "text": "It's the most popular dance club in town.",
+        "startTime": 17845,
+        "endTime": 20275,
+        "slowStartTime": 26917,
+        "slowEndTime": 30637
+    },
+    {
+        "text": "What was it called again?",
+        "startTime": 20963,
+        "endTime": 22099,
+        "slowStartTime": 31594,
+        "slowEndTime": 33374
+    },
+    {
+        "text": "La Casa del Rey: it means the King's House.",
+        "startTime": 22227,
+        "endTime": 25643,
+        "slowStartTime": 33491,
+        "slowEndTime": 38690
+    },
+    {
+        "text": "Is it busy there?",
+        "startTime": 26193,
+        "endTime": 27122,
+        "slowStartTime": 39439,
+        "slowEndTime": 40908
+    },
+    {
+        "text": "It's always packed.",
+        "startTime": 27342,
+        "endTime": 28595,
+        "slowStartTime": 41163,
+        "slowEndTime": 43118
+    },
+    {
+        "text": "Okay, I'll check it out then.",
+        "startTime": 28856,
+        "endTime": 30489,
+        "slowStartTime": 43434,
+        "slowEndTime": 45958
+    }
+]

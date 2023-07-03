@@ -1,0 +1,464 @@
+[
+    {
+        "text": "Yes, sir?",
+        "startTime": 1830,
+        "endTime": 2330,
+        "slowStartTime": 2870,
+        "slowEndTime": 3660
+    },
+    {
+        "text": "I'd like to have an argument, please.",
+        "startTime": 2700,
+        "endTime": 4230,
+        "slowStartTime": 4135,
+        "slowEndTime": 6390
+    },
+    {
+        "text": "Certainly, sir. Have you been here before?",
+        "startTime": 4330,
+        "endTime": 6900,
+        "slowStartTime": 6630,
+        "slowEndTime": 10450
+    },
+    {
+        "text": "No, this is my first time.",
+        "startTime": 7050,
+        "endTime": 8250,
+        "slowStartTime": 10650,
+        "slowEndTime": 12550
+    },
+    {
+        "text": "I see. Do you want to have the full argument or were you thinking of taking a course?",
+        "startTime": 8550,
+        "endTime": 13270,
+        "slowStartTime": 13000,
+        "slowEndTime": 20030
+    },
+    {
+        "text": "Well, what would be the cost?",
+        "startTime": 13640,
+        "endTime": 15080,
+        "slowStartTime": 20620,
+        "slowEndTime": 22700
+    },
+    {
+        "text": "Well, yes. It's one pound for a five minute argument, but only eight pounds for a course of ten.",
+        "startTime": 15380,
+        "endTime": 20820,
+        "slowStartTime": 23180,
+        "slowEndTime": 31240
+    },
+    {
+        "text": "Well, I think it's probably best if I start with the one and see how it goes from there, okay?",
+        "startTime": 21950,
+        "endTime": 25290,
+        "slowStartTime": 33040,
+        "slowEndTime": 38040
+    },
+    {
+        "text": "Fine, I'll see who's free at the moment. Try Mr. Barnard, room 12.",
+        "startTime": 25390,
+        "endTime": 29960,
+        "slowStartTime": 38170,
+        "slowEndTime": 45100
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 30130,
+        "endTime": 30490,
+        "slowStartTime": 45240,
+        "slowEndTime": 45770
+    },
+    {
+        "text": "Come in.",
+        "startTime": 34260,
+        "endTime": 34630,
+        "slowStartTime": 51540,
+        "slowEndTime": 52080
+    },
+    {
+        "text": "Is this the right room for an argument?",
+        "startTime": 36260,
+        "endTime": 37670,
+        "slowStartTime": 54510,
+        "slowEndTime": 56540
+    },
+    {
+        "text": "I've told you once.",
+        "startTime": 38430,
+        "endTime": 39530,
+        "slowStartTime": 57870,
+        "slowEndTime": 59420
+    },
+    {
+        "text": "No, you haven't.",
+        "startTime": 40700,
+        "endTime": 41200,
+        "slowStartTime": 61205,
+        "slowEndTime": 61870
+    },
+    {
+        "text": "Yes, I have.",
+        "startTime": 41300,
+        "endTime": 41970,
+        "slowStartTime": 62070,
+        "slowEndTime": 63110
+    },
+    {
+        "text": "When?",
+        "startTime": 42600,
+        "endTime": 42870,
+        "slowStartTime": 64020,
+        "slowEndTime": 64430
+    },
+    {
+        "text": "Just now.",
+        "startTime": 42970,
+        "endTime": 43570,
+        "slowStartTime": 64600,
+        "slowEndTime": 65410
+    },
+    {
+        "text": "No, you didn't.",
+        "startTime": 44370,
+        "endTime": 44840,
+        "slowStartTime": 66730,
+        "slowEndTime": 67380
+    },
+    {
+        "text": "Yes, I did.",
+        "startTime": 44940,
+        "endTime": 45410,
+        "slowStartTime": 67520,
+        "slowEndTime": 68265
+    },
+    {
+        "text": "You didn't.",
+        "startTime": 45510,
+        "endTime": 45810,
+        "slowStartTime": 68300,
+        "slowEndTime": 68740
+    },
+    {
+        "text": "I did.",
+        "startTime": 46010,
+        "endTime": 46240,
+        "slowStartTime": 68990,
+        "slowEndTime": 69350
+    },
+    {
+        "text": "You didn't.",
+        "startTime": 46340,
+        "endTime": 46670,
+        "slowStartTime": 69605,
+        "slowEndTime": 70210
+    },
+    {
+        "text": "I'm telling you, I did.",
+        "startTime": 46770,
+        "endTime": 47410,
+        "slowStartTime": 70310,
+        "slowEndTime": 71300
+    },
+    {
+        "text": "You did not.",
+        "startTime": 47510,
+        "endTime": 48180,
+        "slowStartTime": 71390,
+        "slowEndTime": 72390
+    },
+    {
+        "text": "I'm sorry, is this a five minute argument or the full half hour?",
+        "startTime": 48280,
+        "endTime": 50650,
+        "slowStartTime": 72495,
+        "slowEndTime": 76040
+    },
+    {
+        "text": "Oh oh! Just the five minute one.",
+        "startTime": 51810,
+        "endTime": 53720,
+        "slowStartTime": 77800,
+        "slowEndTime": 80840
+    },
+    {
+        "text": "Fine. Thank you. Anyway, I did.",
+        "startTime": 53950,
+        "endTime": 59090,
+        "slowStartTime": 81030,
+        "slowEndTime": 88660
+    },
+    {
+        "text": "You most certainly did not.",
+        "startTime": 59250,
+        "endTime": 60090,
+        "slowStartTime": 89050,
+        "slowEndTime": 90400
+    },
+    {
+        "text": "Now, let's get one thing quite clear. I most definitely told you.",
+        "startTime": 60200,
+        "endTime": 63490,
+        "slowStartTime": 90520,
+        "slowEndTime": 95420
+    },
+    {
+        "text": "You did not.",
+        "startTime": 63630,
+        "endTime": 63990,
+        "slowStartTime": 95550,
+        "slowEndTime": 96150
+    },
+    {
+        "text": "I did.",
+        "startTime": 64150,
+        "endTime": 64390,
+        "slowStartTime": 96250,
+        "slowEndTime": 96740
+    },
+    {
+        "text": "Didn't.",
+        "startTime": 64490,
+        "endTime": 64890,
+        "slowStartTime": 96820,
+        "slowEndTime": 97290
+    },
+    {
+        "text": "Yes, I did.",
+        "startTime": 64990,
+        "endTime": 65560,
+        "slowStartTime": 97560,
+        "slowEndTime": 98260
+    },
+    {
+        "text": "Look, this isn't an argument.",
+        "startTime": 65730,
+        "endTime": 67000,
+        "slowStartTime": 98680,
+        "slowEndTime": 100500
+    },
+    {
+        "text": "Yes, it is.",
+        "startTime": 67400,
+        "endTime": 67860,
+        "slowStartTime": 101080,
+        "slowEndTime": 101860
+    },
+    {
+        "text": "No, it isn't. It's just contradiction.",
+        "startTime": 67960,
+        "endTime": 69160,
+        "slowStartTime": 101990,
+        "slowEndTime": 103980
+    },
+    {
+        "text": "No, it isn't.",
+        "startTime": 69300,
+        "endTime": 69700,
+        "slowStartTime": 104150,
+        "slowEndTime": 104770
+    },
+    {
+        "text": "Yes, it is.",
+        "startTime": 69830,
+        "endTime": 70270,
+        "slowStartTime": 104820,
+        "slowEndTime": 105590
+    },
+    {
+        "text": "It is not.",
+        "startTime": 70400,
+        "endTime": 70900,
+        "slowStartTime": 105640,
+        "slowEndTime": 106430
+    },
+    {
+        "text": "It is. You just contradicted me.",
+        "startTime": 71000,
+        "endTime": 73200,
+        "slowStartTime": 106610,
+        "slowEndTime": 109880
+    },
+    {
+        "text": "No, I didn't.",
+        "startTime": 73300,
+        "endTime": 73700,
+        "slowStartTime": 110010,
+        "slowEndTime": 110630
+    },
+    {
+        "text": "Oh, you did.",
+        "startTime": 73800,
+        "endTime": 74300,
+        "slowStartTime": 110770,
+        "slowEndTime": 111650
+    },
+    {
+        "text": "No, no, no, no.",
+        "startTime": 74450,
+        "endTime": 75600,
+        "slowStartTime": 111700,
+        "slowEndTime": 113420
+    },
+    {
+        "text": "You did just there.",
+        "startTime": 75870,
+        "endTime": 76870,
+        "slowStartTime": 113940,
+        "slowEndTime": 115340
+    },
+    {
+        "text": "Nonsense!",
+        "startTime": 77120,
+        "endTime": 77740,
+        "slowStartTime": 115500,
+        "slowEndTime": 116670
+    },
+    {
+        "text": "Oh look, this is futile.",
+        "startTime": 77870,
+        "endTime": 78870,
+        "slowStartTime": 116870,
+        "slowEndTime": 118455
+    },
+    {
+        "text": "No, it isn't.",
+        "startTime": 78970,
+        "endTime": 79370,
+        "slowStartTime": 118560,
+        "slowEndTime": 119230
+    },
+    {
+        "text": "I came here for good argument.",
+        "startTime": 79710,
+        "endTime": 80740,
+        "slowStartTime": 119740,
+        "slowEndTime": 121220
+    },
+    {
+        "text": "No, you didn't. You came here for an argument.",
+        "startTime": 80840,
+        "endTime": 82310,
+        "slowStartTime": 121330,
+        "slowEndTime": 123610
+    },
+    {
+        "text": "Well, argument is not the same as contradiction.",
+        "startTime": 82480,
+        "endTime": 84080,
+        "slowStartTime": 123760,
+        "slowEndTime": 126140
+    },
+    {
+        "text": "Can be.",
+        "startTime": 84610,
+        "endTime": 84980,
+        "slowStartTime": 127035,
+        "slowEndTime": 127640
+    },
+    {
+        "text": "No, it can't.",
+        "startTime": 85092,
+        "endTime": 85866,
+        "slowStartTime": 127788,
+        "slowEndTime": 129024
+    },
+    {
+        "text": "An argument is a connected series of statements to establish a definite proposition.",
+        "startTime": 86233,
+        "endTime": 89413,
+        "slowStartTime": 129499,
+        "slowEndTime": 134345
+    },
+    {
+        "text": "No, it isn't.",
+        "startTime": 90150,
+        "endTime": 90620,
+        "slowStartTime": 135330,
+        "slowEndTime": 136060
+    },
+    {
+        "text": "Yes, it is. It isn't just contradiction.",
+        "startTime": 90820,
+        "endTime": 92520,
+        "slowStartTime": 136290,
+        "slowEndTime": 138895
+    },
+    {
+        "text": "Look, if I argue with you, I must take up a contrary position.",
+        "startTime": 92690,
+        "endTime": 95220,
+        "slowStartTime": 139100,
+        "slowEndTime": 142895
+    },
+    {
+        "text": "But it isn't just saying \"No, it isn't\".",
+        "startTime": 96020,
+        "endTime": 97390,
+        "slowStartTime": 144205,
+        "slowEndTime": 146230
+    },
+    {
+        "text": "Yes, it is.",
+        "startTime": 97540,
+        "endTime": 97860,
+        "slowStartTime": 146350,
+        "slowEndTime": 146950
+    },
+    {
+        "text": "No, it isn't.",
+        "startTime": 97960,
+        "endTime": 98490,
+        "slowStartTime": 146990,
+        "slowEndTime": 148030
+    },
+    {
+        "text": "Argument is an intellectual process.",
+        "startTime": 100360,
+        "endTime": 101730,
+        "slowStartTime": 150720,
+        "slowEndTime": 152790
+    },
+    {
+        "text": "Contradiction is just the automatic gainsaying of anything the other person says.",
+        "startTime": 101830,
+        "endTime": 105400,
+        "slowStartTime": 152840,
+        "slowEndTime": 158200
+    },
+    {
+        "text": "No, it isn't.",
+        "startTime": 105420,
+        "endTime": 105930,
+        "slowStartTime": 158240,
+        "slowEndTime": 158850
+    },
+    {
+        "text": "Yes, it is.",
+        "startTime": 106200,
+        "endTime": 106600,
+        "slowStartTime": 159360,
+        "slowEndTime": 160170
+    },
+    {
+        "text": "Not at all.",
+        "startTime": 106800,
+        "endTime": 107240,
+        "slowStartTime": 160270,
+        "slowEndTime": 160950
+    },
+    {
+        "text": "Now, look.",
+        "startTime": 107340,
+        "endTime": 107700,
+        "slowStartTime": 161090,
+        "slowEndTime": 161690
+    },
+    {
+        "text": "Thank you. Good morning!",
+        "startTime": 108500,
+        "endTime": 109500,
+        "slowStartTime": 162825,
+        "slowEndTime": 164180
+    }
+]

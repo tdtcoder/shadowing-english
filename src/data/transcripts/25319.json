@@ -1,0 +1,72 @@
+[
+    {
+        "text": "﻿When you wait forever for the cable guy, you get bored.",
+        "startTime": 147,
+        "endTime": 3159,
+        "slowStartTime": 370,
+        "slowEndTime": 4963
+    },
+    {
+        "text": "When you get bored, you start staring out windows.",
+        "startTime": 3417,
+        "endTime": 5534,
+        "slowStartTime": 5275,
+        "slowEndTime": 8526
+    },
+    {
+        "text": "When you start staring out windows, you see things you shouldn't see.",
+        "startTime": 5781,
+        "endTime": 8903,
+        "slowStartTime": 8822,
+        "slowEndTime": 13579
+    },
+    {
+        "text": "When you see things you shouldn't see, you need to vanish.",
+        "startTime": 9262,
+        "endTime": 11929,
+        "slowStartTime": 14043,
+        "slowEndTime": 18118
+    },
+    {
+        "text": "When you need to vanish, you fake your own death.",
+        "startTime": 12226,
+        "endTime": 14641,
+        "slowStartTime": 18489,
+        "slowEndTime": 22186
+    },
+    {
+        "text": "When you fake your own death, you dye your eyebrows.",
+        "startTime": 14965,
+        "endTime": 17442,
+        "slowStartTime": 22598,
+        "slowEndTime": 26388
+    },
+    {
+        "text": "And when you dye your eyebrows, you attend your own funeral as a guy named Phil Shifley.",
+        "startTime": 17691,
+        "endTime": 21692,
+        "slowStartTime": 26686,
+        "slowEndTime": 32763
+    },
+    {
+        "text": "Don't attend your own funeral as a guy named Phil Shifley.",
+        "startTime": 22109,
+        "endTime": 24977,
+        "slowStartTime": 33314,
+        "slowEndTime": 37690
+    },
+    {
+        "text": "Get rid of cable and upgrade to DirecTV.",
+        "startTime": 25279,
+        "endTime": 27638,
+        "slowStartTime": 38069,
+        "slowEndTime": 41682
+    },
+    {
+        "text": "Call 1-800-DIRECTV.",
+        "startTime": 27989,
+        "endTime": 29693,
+        "slowStartTime": 42134,
+        "slowEndTime": 44765
+    }
+]

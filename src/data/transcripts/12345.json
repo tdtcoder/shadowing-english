@@ -1,0 +1,65 @@
+[
+    {
+        "text": "You may already know about Google Voice Search on your phone.",
+        "startTime": 358,
+        "endTime": 2606,
+        "slowStartTime": 687,
+        "slowEndTime": 4134
+    },
+    {
+        "text": "Well now, it's available on your computer too.",
+        "startTime": 3042,
+        "endTime": 4715,
+        "slowStartTime": 4713,
+        "slowEndTime": 7298
+    },
+    {
+        "text": "Just click the microphone in the search box and search out loud.",
+        "startTime": 5541,
+        "endTime": 8331,
+        "slowStartTime": 8462,
+        "slowEndTime": 12722
+    },
+    {
+        "text": "Pictures of the yellow bellied warbler.",
+        "startTime": 9095,
+        "endTime": 10699,
+        "slowStartTime": 13792,
+        "slowEndTime": 16274
+    },
+    {
+        "text": "Nice! Let's try another.",
+        "startTime": 13433,
+        "endTime": 14564,
+        "slowStartTime": 20300,
+        "slowEndTime": 22071
+    },
+    {
+        "text": "Weather for Schenectady, New York.",
+        "startTime": 16253,
+        "endTime": 17676,
+        "slowStartTime": 24530,
+        "slowEndTime": 26739
+    },
+    {
+        "text": "To start using Voice Search, all you need is the latest version of Chrome...",
+        "startTime": 20589,
+        "endTime": 23699,
+        "slowStartTime": 31033,
+        "slowEndTime": 35774
+    },
+    {
+        "text": "...and a built-in or attached microphone.",
+        "startTime": 24059,
+        "endTime": 25707,
+        "slowStartTime": 36238,
+        "slowEndTime": 38785
+    },
+    {
+        "text": "If you can say it, you can search for it.",
+        "startTime": 26580,
+        "endTime": 28469,
+        "slowStartTime": 40020,
+        "slowEndTime": 42929
+    }
+]

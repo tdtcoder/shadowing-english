@@ -1,0 +1,142 @@
+[
+    {
+        "text": "With Look to Speak, you can use your eyes to select prewritten phrases...",
+        "startTime": 742,
+        "endTime": 4559,
+        "slowStartTime": 1263,
+        "slowEndTime": 7064
+    },
+    {
+        "text": "...and have them spoken aloud.",
+        "startTime": 4684,
+        "endTime": 6055,
+        "slowStartTime": 7176,
+        "slowEndTime": 9307
+    },
+    {
+        "text": "To select items on screen, keep your head still...",
+        "startTime": 6768,
+        "endTime": 9411,
+        "slowStartTime": 10302,
+        "slowEndTime": 14342
+    },
+    {
+        "text": "...and look right, left, or up,...",
+        "startTime": 9669,
+        "endTime": 14299,
+        "slowStartTime": 14653,
+        "slowEndTime": 21673
+    },
+    {
+        "text": "...each time looking off screen to make your selection.",
+        "startTime": 14785,
+        "endTime": 17555,
+        "slowStartTime": 22328,
+        "slowEndTime": 26558
+    },
+    {
+        "text": "From the main screen, look left or right...",
+        "startTime": 18299,
+        "endTime": 20545,
+        "slowStartTime": 27599,
+        "slowEndTime": 31042
+    },
+    {
+        "text": "...to select the list with the phrase you want to say.",
+        "startTime": 20793,
+        "endTime": 23129,
+        "slowStartTime": 31340,
+        "slowEndTime": 34919
+    },
+    {
+        "text": "Each time you select a list, the phrases will narrow down...",
+        "startTime": 25637,
+        "endTime": 28641,
+        "slowStartTime": 38606,
+        "slowEndTime": 43186
+    },
+    {
+        "text": "...until you get to the one you want.",
+        "startTime": 29873,
+        "endTime": 31549,
+        "slowStartTime": 44959,
+        "slowEndTime": 47549
+    },
+    {
+        "text": "At any point, you can look up to cancel and start again.",
+        "startTime": 33949,
+        "endTime": 38015,
+        "slowStartTime": 51074,
+        "slowEndTime": 57247
+    },
+    {
+        "text": "How are you?",
+        "startTime": 38300,
+        "endTime": 38849,
+        "slowStartTime": 57600,
+        "slowEndTime": 58498
+    },
+    {
+        "text": "If you want to take a break, you can look up to snooze.",
+        "startTime": 39315,
+        "endTime": 41935,
+        "slowStartTime": 59123,
+        "slowEndTime": 63128
+    },
+    {
+        "text": "To unsnooze, follow the instructions on screen.",
+        "startTime": 42606,
+        "endTime": 45285,
+        "slowStartTime": 64059,
+        "slowEndTime": 68153
+    },
+    {
+        "text": "If you're helping someone set up,...",
+        "startTime": 46186,
+        "endTime": 47757,
+        "slowStartTime": 69429,
+        "slowEndTime": 71860
+    },
+    {
+        "text": "...mount the device securely and position it close enough to read the phrases,...",
+        "startTime": 48083,
+        "endTime": 51828,
+        "slowStartTime": 72275,
+        "slowEndTime": 77967
+    },
+    {
+        "text": "...slightly below eye level.",
+        "startTime": 52074,
+        "endTime": 53374,
+        "slowStartTime": 78261,
+        "slowEndTime": 80286
+    },
+    {
+        "text": "If you need more help, tap the menu and try the setup helper.",
+        "startTime": 54245,
+        "endTime": 58317,
+        "slowStartTime": 81518,
+        "slowEndTime": 87700
+    },
+    {
+        "text": "You can also edit the phrases...",
+        "startTime": 60693,
+        "endTime": 62365,
+        "slowStartTime": 91190,
+        "slowEndTime": 93772
+    },
+    {
+        "text": "...or adjust the gaze settings to suit you.",
+        "startTime": 65441,
+        "endTime": 67398,
+        "slowStartTime": 98311,
+        "slowEndTime": 101322
+    },
+    {
+        "text": "This menu is not accessible by eye gaze.",
+        "startTime": 69043,
+        "endTime": 71733,
+        "slowStartTime": 103715,
+        "slowEndTime": 107824
+    }
+]

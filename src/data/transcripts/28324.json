@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Out of the Blue.",
+        "startTime": 8406,
+        "endTime": 9211,
+        "slowStartTime": 12759,
+        "slowEndTime": 14042
+    },
+    {
+        "text": "It means in a surprising or unexpected way.",
+        "startTime": 12943,
+        "endTime": 15859,
+        "slowStartTime": 19565,
+        "slowEndTime": 24013
+    },
+    {
+        "text": "He told his feelings for her out of the blue.",
+        "startTime": 22644,
+        "endTime": 25301,
+        "slowStartTime": 34116,
+        "slowEndTime": 38177
+    },
+    {
+        "text": "I was asked to sing in front of the class out of the blue.",
+        "startTime": 33099,
+        "endTime": 36597,
+        "slowStartTime": 49798,
+        "slowEndTime": 55120
+    },
+    {
+        "text": "The man knelt out of the blue and proposed to his girlfriend.",
+        "startTime": 42673,
+        "endTime": 46931,
+        "slowStartTime": 64160,
+        "slowEndTime": 70621
+    }
+]

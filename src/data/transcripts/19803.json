@@ -1,0 +1,72 @@
+[
+    {
+        "text": "This is Volkswagen Jetta GLI.",
+        "startTime": 50,
+        "endTime": 2178,
+        "slowStartTime": 148,
+        "slowEndTime": 3492
+    },
+    {
+        "text": "It's got a sport tuned suspension and a 200-horsepower turbocharged engine.",
+        "startTime": 2335,
+        "endTime": 5993,
+        "slowStartTime": 3652,
+        "slowEndTime": 9215
+    },
+    {
+        "text": "It's fast.",
+        "startTime": 6229,
+        "endTime": 7085,
+        "slowStartTime": 9494,
+        "slowEndTime": 10853
+    },
+    {
+        "text": "This is John Taylor.",
+        "startTime": 7304,
+        "endTime": 8946,
+        "slowStartTime": 11106,
+        "slowEndTime": 13644
+    },
+    {
+        "text": "He's one the world's top speed guitarists.",
+        "startTime": 9032,
+        "endTime": 11343,
+        "slowStartTime": 13698,
+        "slowEndTime": 17239
+    },
+    {
+        "text": "He's fast.",
+        "startTime": 11674,
+        "endTime": 12758,
+        "slowStartTime": 17661,
+        "slowEndTime": 19362
+    },
+    {
+        "text": "Fast versus fast.",
+        "startTime": 12994,
+        "endTime": 14964,
+        "slowStartTime": 19641,
+        "slowEndTime": 22671
+    },
+    {
+        "text": "Can the Jetta GLI complete one lap before John completes \"Flight of the Bumblebee\"?",
+        "startTime": 15778,
+        "endTime": 20533,
+        "slowStartTime": 23817,
+        "slowEndTime": 31025
+    },
+    {
+        "text": "It's time to find out.",
+        "startTime": 21007,
+        "endTime": 22509,
+        "slowStartTime": 31661,
+        "slowEndTime": 33988
+    },
+    {
+        "text": "Okay, best two out of three.",
+        "startTime": 53647,
+        "endTime": 55369,
+        "slowStartTime": 80620,
+        "slowEndTime": 83279
+    }
+]

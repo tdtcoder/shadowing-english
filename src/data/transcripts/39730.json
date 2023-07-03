@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Good morning, Helen.",
+        "startTime": 1222,
+        "endTime": 2208,
+        "slowStartTime": 1983,
+        "slowEndTime": 3537
+    },
+    {
+        "text": "Good morning, Mike!",
+        "startTime": 3161,
+        "endTime": 4179,
+        "slowStartTime": 4891,
+        "slowEndTime": 6493
+    },
+    {
+        "text": "Good afternoon.",
+        "startTime": 5659,
+        "endTime": 6623,
+        "slowStartTime": 8638,
+        "slowEndTime": 10159
+    },
+    {
+        "text": "Good afternoon.",
+        "startTime": 6875,
+        "endTime": 7849,
+        "slowStartTime": 10462,
+        "slowEndTime": 11999
+    },
+    {
+        "text": "Good night, old friend.",
+        "startTime": 8191,
+        "endTime": 10125,
+        "slowStartTime": 12436,
+        "slowEndTime": 15412
+    },
+    {
+        "text": "Bob?",
+        "startTime": 11622,
+        "endTime": 12472,
+        "slowStartTime": 17583,
+        "slowEndTime": 18933
+    },
+    {
+        "text": "Sue!",
+        "startTime": 13508,
+        "endTime": 14412,
+        "slowStartTime": 20412,
+        "slowEndTime": 21843
+    },
+    {
+        "text": "It's nice to see you!",
+        "startTime": 14692,
+        "endTime": 15988,
+        "slowStartTime": 22188,
+        "slowEndTime": 24207
+    },
+    {
+        "text": "God! It's great to see you, too!",
+        "startTime": 16067,
+        "endTime": 18097,
+        "slowStartTime": 24251,
+        "slowEndTime": 27370
+    },
+    {
+        "text": "How are you?",
+        "startTime": 18176,
+        "endTime": 18936,
+        "slowStartTime": 27414,
+        "slowEndTime": 28629
+    },
+    {
+        "text": "I'm just fine.",
+        "startTime": 19021,
+        "endTime": 20053,
+        "slowStartTime": 28682,
+        "slowEndTime": 30304
+    }
+]

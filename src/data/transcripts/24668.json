@@ -1,0 +1,72 @@
+[
+    {
+        "text": "﻿A new device allows you to hear with your tongue.",
+        "startTime": 1691,
+        "endTime": 4687,
+        "slowStartTime": 2687,
+        "slowEndTime": 7256
+    },
+    {
+        "text": "Researchers at Colorado State University are developing the technology...",
+        "startTime": 4843,
+        "endTime": 8249,
+        "slowStartTime": 7415,
+        "slowEndTime": 12598
+    },
+    {
+        "text": "...which uses a bluetooth-enabled earpiece to detect sound...",
+        "startTime": 8342,
+        "endTime": 12192,
+        "slowStartTime": 12663,
+        "slowEndTime": 18513
+    },
+    {
+        "text": "..and then send the electrical impulses to a retainer...",
+        "startTime": 12341,
+        "endTime": 15189,
+        "slowStartTime": 18661,
+        "slowEndTime": 23008
+    },
+    {
+        "text": "...that wearers press against their tongue to hear.",
+        "startTime": 15289,
+        "endTime": 17997,
+        "slowStartTime": 23084,
+        "slowEndTime": 27221
+    },
+    {
+        "text": "They're currently mapping the nerves on the tongue...",
+        "startTime": 18095,
+        "endTime": 20413,
+        "slowStartTime": 27292,
+        "slowEndTime": 30844
+    },
+    {
+        "text": "...and they say it could take two to three months of wearing the device...",
+        "startTime": 20539,
+        "endTime": 23330,
+        "slowStartTime": 30958,
+        "slowEndTime": 35220
+    },
+    {
+        "text": "...to teach your brain to interpret the signals on your tongue as words or sounds.",
+        "startTime": 23435,
+        "endTime": 28671,
+        "slowStartTime": 35302,
+        "slowEndTime": 43231
+    },
+    {
+        "text": "Eventually, those with substantial hearing loss could use this...",
+        "startTime": 28896,
+        "endTime": 32179,
+        "slowStartTime": 43494,
+        "slowEndTime": 48494
+    },
+    {
+        "text": "...as a significantly simpler and less expensive alternative to cochlear implants.",
+        "startTime": 32277,
+        "endTime": 37388,
+        "slowStartTime": 48565,
+        "slowEndTime": 56307
+    }
+]

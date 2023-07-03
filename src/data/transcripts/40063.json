@@ -1,0 +1,79 @@
+[
+    {
+        "text": "What is this brief mortal life if not the pursuit of legacy?",
+        "startTime": 5870,
+        "endTime": 13125,
+        "slowStartTime": 8955,
+        "slowEndTime": 19913
+    },
+    {
+        "text": "I, Rickard Stark.",
+        "startTime": 19875,
+        "endTime": 21362,
+        "slowStartTime": 29962,
+        "slowEndTime": 32268
+    },
+    {
+        "text": "I, Corlys Velaryon.",
+        "startTime": 21630,
+        "endTime": 22782,
+        "slowStartTime": 32595,
+        "slowEndTime": 34398
+    },
+    {
+        "text": "I, Ormund Baratheon.",
+        "startTime": 22975,
+        "endTime": 24327,
+        "slowStartTime": 34613,
+        "slowEndTime": 36715
+    },
+    {
+        "text": "I promise to be faithful to King Viserys and to his named heir, Princess Rhaenyra.",
+        "startTime": 26434,
+        "endTime": 30875,
+        "slowStartTime": 39801,
+        "slowEndTime": 46538
+    },
+    {
+        "text": "Rhaenyra Targaryen.",
+        "startTime": 31081,
+        "endTime": 32332,
+        "slowStartTime": 46772,
+        "slowEndTime": 48723
+    },
+    {
+        "text": "Men would soon put the realm to the torch than see a woman ascend the Iron Throne.",
+        "startTime": 34622,
+        "endTime": 42566,
+        "slowStartTime": 52083,
+        "slowEndTime": 64074
+    },
+    {
+        "text": "We play an ugly game.",
+        "startTime": 51059,
+        "endTime": 52325,
+        "slowStartTime": 76739,
+        "slowEndTime": 78713
+    },
+    {
+        "text": "You have the determination to win it.",
+        "startTime": 55257,
+        "endTime": 57301,
+        "slowStartTime": 83036,
+        "slowEndTime": 86177
+    },
+    {
+        "text": "History does not remember blood.",
+        "startTime": 74617,
+        "endTime": 76938,
+        "slowStartTime": 112075,
+        "slowEndTime": 115632
+    },
+    {
+        "text": "It remembers names.",
+        "startTime": 82688,
+        "endTime": 84191,
+        "slowStartTime": 124182,
+        "slowEndTime": 126512
+    }
+]

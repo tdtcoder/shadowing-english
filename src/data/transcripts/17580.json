@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Giraffe was very hungry.",
+        "startTime": 3004,
+        "endTime": 4997,
+        "slowStartTime": 4656,
+        "slowEndTime": 7721
+    },
+    {
+        "text": "I don't want to eat leaves.",
+        "startTime": 6091,
+        "endTime": 7972,
+        "slowStartTime": 9286,
+        "slowEndTime": 12183
+    },
+    {
+        "text": "He said.",
+        "startTime": 8663,
+        "endTime": 9395,
+        "slowStartTime": 13145,
+        "slowEndTime": 14318
+    },
+    {
+        "text": "I always eat leaves.",
+        "startTime": 10529,
+        "endTime": 12397,
+        "slowStartTime": 15943,
+        "slowEndTime": 18820
+    },
+    {
+        "text": "Giraffe tried eating grass just like a deer.",
+        "startTime": 13488,
+        "endTime": 16445,
+        "slowStartTime": 20382,
+        "slowEndTime": 24893
+    },
+    {
+        "text": "But bending down hurt his neck.",
+        "startTime": 17467,
+        "endTime": 19201,
+        "slowStartTime": 26350,
+        "slowEndTime": 29027
+    },
+    {
+        "text": "Giraffe tried to eat ants just like an anteater.",
+        "startTime": 20251,
+        "endTime": 23297,
+        "slowStartTime": 30526,
+        "slowEndTime": 35171
+    },
+    {
+        "text": "But ants bit his tongue.",
+        "startTime": 24457,
+        "endTime": 26159,
+        "slowStartTime": 36836,
+        "slowEndTime": 39463
+    },
+    {
+        "text": "Giraffe tried eating honey just like a bear.",
+        "startTime": 27225,
+        "endTime": 29900,
+        "slowStartTime": 40987,
+        "slowEndTime": 45075
+    },
+    {
+        "text": "But bees stung his nose.",
+        "startTime": 30984,
+        "endTime": 32800,
+        "slowStartTime": 46626,
+        "slowEndTime": 49425
+    },
+    {
+        "text": "Giraffe tried to eat fish just like an otter.",
+        "startTime": 33860,
+        "endTime": 37103,
+        "slowStartTime": 50940,
+        "slowEndTime": 55879
+    },
+    {
+        "text": "But he fell in the water and got very wet.",
+        "startTime": 38221,
+        "endTime": 41255,
+        "slowStartTime": 57482,
+        "slowEndTime": 62107
+    },
+    {
+        "text": "Giraffe tried eating bugs just like a frog.",
+        "startTime": 42402,
+        "endTime": 45720,
+        "slowStartTime": 63753,
+        "slowEndTime": 68805
+    },
+    {
+        "text": "But his tongue was not fast enough.",
+        "startTime": 46849,
+        "endTime": 48968,
+        "slowStartTime": 70423,
+        "slowEndTime": 73677
+    },
+    {
+        "text": "Giraffe tried to eat seeds just like a bird.",
+        "startTime": 50124,
+        "endTime": 53257,
+        "slowStartTime": 75336,
+        "slowEndTime": 80110
+    },
+    {
+        "text": "But his lips were too big to pick up the seeds.",
+        "startTime": 54377,
+        "endTime": 57391,
+        "slowStartTime": 81716,
+        "slowEndTime": 86311
+    },
+    {
+        "text": "Giraffe was still hungry.",
+        "startTime": 58533,
+        "endTime": 60201,
+        "slowStartTime": 87949,
+        "slowEndTime": 90527
+    },
+    {
+        "text": "He bit into the green leaves hanging from the tree.",
+        "startTime": 61303,
+        "endTime": 64617,
+        "slowStartTime": 92105,
+        "slowEndTime": 97151
+    },
+    {
+        "text": "Delicious!",
+        "startTime": 65622,
+        "endTime": 67030,
+        "slowStartTime": 98583,
+        "slowEndTime": 100770
+    },
+    {
+        "text": "He said.",
+        "startTime": 67586,
+        "endTime": 68366,
+        "slowStartTime": 101529,
+        "slowEndTime": 102774
+    },
+    {
+        "text": "Leaves are the best food.",
+        "startTime": 69454,
+        "endTime": 71781,
+        "slowStartTime": 104331,
+        "slowEndTime": 107897
+    }
+]

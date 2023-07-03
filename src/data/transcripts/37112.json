@@ -1,0 +1,296 @@
+[
+    {
+        "text": "Imagine a future where one day...",
+        "startTime": 471,
+        "endTime": 2404,
+        "slowStartTime": 857,
+        "slowEndTime": 3756
+    },
+    {
+        "text": "...machine learning will give you the power to track your sleep, imagine...",
+        "startTime": 2549,
+        "endTime": 7019,
+        "slowStartTime": 3973,
+        "slowEndTime": 10679
+    },
+    {
+        "text": "Excuse me, ma'am?",
+        "startTime": 7077,
+        "endTime": 8311,
+        "slowStartTime": 10765,
+        "slowEndTime": 12616
+    },
+    {
+        "text": "Yes, can I help you?",
+        "startTime": 9751,
+        "endTime": 10908,
+        "slowStartTime": 14777,
+        "slowEndTime": 16512
+    },
+    {
+        "text": "Yeah, this already does that.",
+        "startTime": 11183,
+        "endTime": 13155,
+        "slowStartTime": 16925,
+        "slowEndTime": 19883
+    },
+    {
+        "text": "Oh, I didn't know that.",
+        "startTime": 13310,
+        "endTime": 14497,
+        "slowStartTime": 20115,
+        "slowEndTime": 21895
+    },
+    {
+        "text": "Well, now you do.",
+        "startTime": 14863,
+        "endTime": 15581,
+        "slowStartTime": 22445,
+        "slowEndTime": 23521
+    },
+    {
+        "text": "Okay let's try this again, it's alright, I'll start again.",
+        "startTime": 16137,
+        "endTime": 18622,
+        "slowStartTime": 24356,
+        "slowEndTime": 28083
+    },
+    {
+        "text": "Imagine one day a tiny device with an optical sensor...",
+        "startTime": 19345,
+        "endTime": 22685,
+        "slowStartTime": 29167,
+        "slowEndTime": 34177
+    },
+    {
+        "text": "...will send you an alert if your heart rate is too low.",
+        "startTime": 22897,
+        "endTime": 25310,
+        "slowStartTime": 34495,
+        "slowEndTime": 38115
+    },
+    {
+        "text": "Yes, what?",
+        "startTime": 26499,
+        "endTime": 27320,
+        "slowStartTime": 39898,
+        "slowEndTime": 41130
+    },
+    {
+        "text": "It already does that.",
+        "startTime": 27855,
+        "endTime": 28856,
+        "slowStartTime": 41933,
+        "slowEndTime": 43434
+    },
+    {
+        "text": "Okay, well how about will send you an alert if your heart rate is too high.",
+        "startTime": 31236,
+        "endTime": 34860,
+        "slowStartTime": 47004,
+        "slowEndTime": 52440
+    },
+    {
+        "text": "It already does that!",
+        "startTime": 35075,
+        "endTime": 35995,
+        "slowStartTime": 52763,
+        "slowEndTime": 54143
+    },
+    {
+        "text": "Alright, let's try something new.",
+        "startTime": 37611,
+        "endTime": 39083,
+        "slowStartTime": 56566,
+        "slowEndTime": 58775
+    },
+    {
+        "text": "Will send you an alert if you're some place that's too loud.",
+        "startTime": 39478,
+        "endTime": 42411,
+        "slowStartTime": 59367,
+        "slowEndTime": 63767
+    },
+    {
+        "text": "I just received one of those alerts.",
+        "startTime": 42749,
+        "endTime": 44995,
+        "slowStartTime": 64274,
+        "slowEndTime": 67642
+    },
+    {
+        "text": "Really, well you should probably find a quieter place sir!",
+        "startTime": 45049,
+        "endTime": 48564,
+        "slowStartTime": 67724,
+        "slowEndTime": 72996
+    },
+    {
+        "text": "You should probably mind your own business.",
+        "startTime": 48607,
+        "endTime": 51055,
+        "slowStartTime": 73061,
+        "slowEndTime": 76732
+    },
+    {
+        "text": "Okay, imagine, one day in the future...",
+        "startTime": 51177,
+        "endTime": 53802,
+        "slowStartTime": 76916,
+        "slowEndTime": 80853
+    },
+    {
+        "text": "Hold on.",
+        "startTime": 53853,
+        "endTime": 54149,
+        "slowStartTime": 80929,
+        "slowEndTime": 81374
+    },
+    {
+        "text": "No, no, no let me finish!",
+        "startTime": 54197,
+        "endTime": 55249,
+        "slowStartTime": 81445,
+        "slowEndTime": 83024
+    },
+    {
+        "text": "One second.",
+        "startTime": 55312,
+        "endTime": 55889,
+        "slowStartTime": 83118,
+        "slowEndTime": 83983
+    },
+    {
+        "text": "You'll be able to take an E-C-G...",
+        "startTime": 56021,
+        "endTime": 57839,
+        "slowStartTime": 84181,
+        "slowEndTime": 86909
+    },
+    {
+        "text": "It already does that, it already does that.",
+        "startTime": 57892,
+        "endTime": 60493,
+        "slowStartTime": 86988,
+        "slowEndTime": 90890
+    },
+    {
+        "text": "I heard that.",
+        "startTime": 60586,
+        "endTime": 61235,
+        "slowStartTime": 91029,
+        "slowEndTime": 92003
+    },
+    {
+        "text": "Good, what about continuously track your elevation, does it do that?",
+        "startTime": 61376,
+        "endTime": 65031,
+        "slowStartTime": 92214,
+        "slowEndTime": 97696
+    },
+    {
+        "text": "Does that.",
+        "startTime": 65163,
+        "endTime": 65604,
+        "slowStartTime": 97895,
+        "slowEndTime": 98556
+    },
+    {
+        "text": "Right, got it.",
+        "startTime": 65623,
+        "endTime": 66177,
+        "slowStartTime": 98585,
+        "slowEndTime": 99415
+    },
+    {
+        "text": "Does that.",
+        "startTime": 66212,
+        "endTime": 66572,
+        "slowStartTime": 99468,
+        "slowEndTime": 100008
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 66590,
+        "endTime": 66840,
+        "slowStartTime": 100035,
+        "slowEndTime": 100410
+    },
+    {
+        "text": "Does that.",
+        "startTime": 67045,
+        "endTime": 67357,
+        "slowStartTime": 100717,
+        "slowEndTime": 101186
+    },
+    {
+        "text": "Yeah, heard it the first time.",
+        "startTime": 67457,
+        "endTime": 68609,
+        "slowStartTime": 101335,
+        "slowEndTime": 103064
+    },
+    {
+        "text": "Encourages you to stay fit?",
+        "startTime": 68787,
+        "endTime": 70380,
+        "slowStartTime": 103331,
+        "slowEndTime": 105720
+    },
+    {
+        "text": "Does that.",
+        "startTime": 70768,
+        "endTime": 71293,
+        "slowStartTime": 106302,
+        "slowEndTime": 107090
+    },
+    {
+        "text": "Okay, I get it, you're fit, umm I don't know.",
+        "startTime": 72997,
+        "endTime": 75509,
+        "slowStartTime": 109645,
+        "slowEndTime": 113413
+    },
+    {
+        "text": "Will it automatically call 9-1-1 if a bear chases you off a cliff...",
+        "startTime": 75537,
+        "endTime": 78817,
+        "slowStartTime": 113455,
+        "slowEndTime": 118376
+    },
+    {
+        "text": "...and you take a hard fall, huh?",
+        "startTime": 78907,
+        "endTime": 80264,
+        "slowStartTime": 118511,
+        "slowEndTime": 120546
+    },
+    {
+        "text": "Yeah, already does that.",
+        "startTime": 80649,
+        "endTime": 82137,
+        "slowStartTime": 121123,
+        "slowEndTime": 123355
+    },
+    {
+        "text": "Seriously?",
+        "startTime": 82286,
+        "endTime": 83473,
+        "slowStartTime": 123579,
+        "slowEndTime": 125359
+    },
+    {
+        "text": "Yeah, seriously.",
+        "startTime": 83742,
+        "endTime": 85316,
+        "slowStartTime": 125763,
+        "slowEndTime": 128124
+    },
+    {
+        "text": "You've got to be kidding me.",
+        "startTime": 85925,
+        "endTime": 86750,
+        "slowStartTime": 129038,
+        "slowEndTime": 130275
+    }
+]

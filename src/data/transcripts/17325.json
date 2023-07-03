@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Soldiers in Yemen somberly march in the National Day parade...",
+        "startTime": 2707,
+        "endTime": 5881,
+        "slowStartTime": 4211,
+        "slowEndTime": 9046
+    },
+    {
+        "text": "...one day after a suicide bomber killed at least 96 troops.",
+        "startTime": 6519,
+        "endTime": 9923,
+        "slowStartTime": 9929,
+        "slowEndTime": 15110
+    },
+    {
+        "text": "In Syria, a bomb explodes in a Damascus restaurant, killing five people.",
+        "startTime": 14084,
+        "endTime": 18633,
+        "slowStartTime": 21276,
+        "slowEndTime": 28174
+    },
+    {
+        "text": "A train crash in southern India kills at least 25 and injures dozens more.",
+        "startTime": 22625,
+        "endTime": 27188,
+        "slowStartTime": 34088,
+        "slowEndTime": 41007
+    },
+    {
+        "text": "In Italy, firemen rescue art from churches...",
+        "startTime": 33065,
+        "endTime": 35822,
+        "slowStartTime": 49748,
+        "slowEndTime": 53958
+    },
+    {
+        "text": "...hit by a strong earthquake in the Emilia-Romagna region.",
+        "startTime": 35931,
+        "endTime": 39277,
+        "slowStartTime": 54046,
+        "slowEndTime": 59141
+    },
+    {
+        "text": "In the US, a privately owned company launches a rocket...",
+        "startTime": 42234,
+        "endTime": 45588,
+        "slowStartTime": 63501,
+        "slowEndTime": 68607
+    },
+    {
+        "text": "...on a mission to the International Space Station,...",
+        "startTime": 45682,
+        "endTime": 47897,
+        "slowStartTime": 68673,
+        "slowEndTime": 72070
+    },
+    {
+        "text": "...where no private company has ever gone before.",
+        "startTime": 48327,
+        "endTime": 50379,
+        "slowStartTime": 72640,
+        "slowEndTime": 75794
+    },
+    {
+        "text": "In Japan, Tokyo Skytree, the world's tallest broadcast tower...",
+        "startTime": 54434,
+        "endTime": 58663,
+        "slowStartTime": 81801,
+        "slowEndTime": 88219
+    },
+    {
+        "text": "...and second tallest building, opens to the general public.",
+        "startTime": 58735,
+        "endTime": 61978,
+        "slowStartTime": 88253,
+        "slowEndTime": 93192
+    }
+]

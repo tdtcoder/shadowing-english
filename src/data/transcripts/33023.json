@@ -1,0 +1,170 @@
+[
+    {
+        "text": "Hi friends!",
+        "startTime": 153,
+        "endTime": 1014,
+        "slowStartTime": 380,
+        "slowEndTime": 1746
+    },
+    {
+        "text": "How are you?",
+        "startTime": 1093,
+        "endTime": 1651,
+        "slowStartTime": 1790,
+        "slowEndTime": 2702
+    },
+    {
+        "text": "Today we are going to learn the days of the week.",
+        "startTime": 2741,
+        "endTime": 4729,
+        "slowStartTime": 4261,
+        "slowEndTime": 7318
+    },
+    {
+        "text": "Monday.",
+        "startTime": 5769,
+        "endTime": 6371,
+        "slowStartTime": 8804,
+        "slowEndTime": 9781
+    },
+    {
+        "text": "Tuesday.",
+        "startTime": 8075,
+        "endTime": 8755,
+        "slowStartTime": 12262,
+        "slowEndTime": 13357
+    },
+    {
+        "text": "Wednesday.",
+        "startTime": 9220,
+        "endTime": 9905,
+        "slowStartTime": 13980,
+        "slowEndTime": 15082
+    },
+    {
+        "text": "Thursday.",
+        "startTime": 11201,
+        "endTime": 11811,
+        "slowStartTime": 16951,
+        "slowEndTime": 17942
+    },
+    {
+        "text": "Friday.",
+        "startTime": 13021,
+        "endTime": 13560,
+        "slowStartTime": 19682,
+        "slowEndTime": 20565
+    },
+    {
+        "text": "Saturday and Sunday.",
+        "startTime": 15093,
+        "endTime": 16384,
+        "slowStartTime": 22790,
+        "slowEndTime": 24801
+    },
+    {
+        "text": "And then, the week starts again.",
+        "startTime": 17555,
+        "endTime": 19126,
+        "slowStartTime": 26483,
+        "slowEndTime": 28914
+    },
+    {
+        "text": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday and Sunday.",
+        "startTime": 19763,
+        "endTime": 24172,
+        "slowStartTime": 29795,
+        "slowEndTime": 36483
+    },
+    {
+        "text": "And the months.",
+        "startTime": 24389,
+        "endTime": 25238,
+        "slowStartTime": 36734,
+        "slowEndTime": 38082
+    },
+    {
+        "text": "January, it's cold.",
+        "startTime": 26761,
+        "endTime": 28847,
+        "slowStartTime": 40292,
+        "slowEndTime": 43496
+    },
+    {
+        "text": "February, carnival!",
+        "startTime": 29881,
+        "endTime": 31491,
+        "slowStartTime": 44971,
+        "slowEndTime": 47461
+    },
+    {
+        "text": "March, welcome spring.",
+        "startTime": 32132,
+        "endTime": 34249,
+        "slowStartTime": 48348,
+        "slowEndTime": 51599
+    },
+    {
+        "text": "April showers bring...",
+        "startTime": 35539,
+        "endTime": 36925,
+        "slowStartTime": 53459,
+        "slowEndTime": 55612
+    },
+    {
+        "text": "...May flowers.",
+        "startTime": 37748,
+        "endTime": 38747,
+        "slowStartTime": 56772,
+        "slowEndTime": 58346
+    },
+    {
+        "text": "June, the sun shines.",
+        "startTime": 39753,
+        "endTime": 41654,
+        "slowStartTime": 59780,
+        "slowEndTime": 62706
+    },
+    {
+        "text": "July, let's go to the beach.",
+        "startTime": 42691,
+        "endTime": 44396,
+        "slowStartTime": 64186,
+        "slowEndTime": 66819
+    },
+    {
+        "text": "August, it's so hot.",
+        "startTime": 45414,
+        "endTime": 47060,
+        "slowStartTime": 68271,
+        "slowEndTime": 70815
+    },
+    {
+        "text": "September, back to school.",
+        "startTime": 48063,
+        "endTime": 49963,
+        "slowStartTime": 72244,
+        "slowEndTime": 75170
+    },
+    {
+        "text": "October, the leaves on the trees fall.",
+        "startTime": 50860,
+        "endTime": 53751,
+        "slowStartTime": 76440,
+        "slowEndTime": 80852
+    },
+    {
+        "text": "November starts with Halloween.",
+        "startTime": 54594,
+        "endTime": 56773,
+        "slowStartTime": 82041,
+        "slowEndTime": 85384
+    },
+    {
+        "text": "December, Christmas holidays.",
+        "startTime": 57642,
+        "endTime": 59612,
+        "slowStartTime": 86613,
+        "slowEndTime": 89643
+    }
+]

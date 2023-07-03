@@ -1,0 +1,65 @@
+[
+    {
+        "text": "65 million years ago, reptiles ruled the world.",
+        "startTime": 300,
+        "endTime": 3700,
+        "slowStartTime": 650,
+        "slowEndTime": 5650
+    },
+    {
+        "text": "On land, in the air,...",
+        "startTime": 5100,
+        "endTime": 9300,
+        "slowStartTime": 7850,
+        "slowEndTime": 14200
+    },
+    {
+        "text": "...and reptiles were kings in all the seas as well,...",
+        "startTime": 19400,
+        "endTime": 22250,
+        "slowStartTime": 29350,
+        "slowEndTime": 33600
+    },
+    {
+        "text": "...but then came a great cataclysm from outer space.",
+        "startTime": 30150,
+        "endTime": 32600,
+        "slowStartTime": 45450,
+        "slowEndTime": 49150
+    },
+    {
+        "text": "An asteroid 12 miles in diameter struck the Earth.",
+        "startTime": 33050,
+        "endTime": 36000,
+        "slowStartTime": 49750,
+        "slowEndTime": 54100
+    },
+    {
+        "text": "This asteroid's massive impact unleashed the power of more than 100 atomic bombs.",
+        "startTime": 37600,
+        "endTime": 42400,
+        "slowStartTime": 56500,
+        "slowEndTime": 63900
+    },
+    {
+        "text": "The sky went dark...",
+        "startTime": 43350,
+        "endTime": 44400,
+        "slowStartTime": 65250,
+        "slowEndTime": 66750
+    },
+    {
+        "text": "...and the Earth's climate changed drastically.",
+        "startTime": 44900,
+        "endTime": 47150,
+        "slowStartTime": 67500,
+        "slowEndTime": 70900
+    },
+    {
+        "text": "70% of all life on the planet perished.",
+        "startTime": 47500,
+        "endTime": 51400,
+        "slowStartTime": 71500,
+        "slowEndTime": 77300
+    }
+]

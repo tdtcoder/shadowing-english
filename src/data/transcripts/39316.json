@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Have you ever shared news online...",
+        "startTime": 343,
+        "endTime": 2243,
+        "slowStartTime": 664,
+        "slowEndTime": 3589
+    },
+    {
+        "text": "...or talked about it with your friends?",
+        "startTime": 5615,
+        "endTime": 7329,
+        "slowStartTime": 8573,
+        "slowEndTime": 11219
+    },
+    {
+        "text": "Maybe it was something that shocked you or made you laugh,...",
+        "startTime": 8658,
+        "endTime": 11599,
+        "slowStartTime": 13137,
+        "slowEndTime": 17624
+    },
+    {
+        "text": "...but did you stop to think, is this real?",
+        "startTime": 13194,
+        "endTime": 16721,
+        "slowStartTime": 19941,
+        "slowEndTime": 25306
+    },
+    {
+        "text": "Fake news is a problem because it can make you believe things...",
+        "startTime": 20000,
+        "endTime": 22979,
+        "slowStartTime": 30150,
+        "slowEndTime": 34693
+    },
+    {
+        "text": "...that are completely untrue and that could affect how you make important decisions.",
+        "startTime": 23081,
+        "endTime": 27692,
+        "slowStartTime": 34772,
+        "slowEndTime": 41763
+    },
+    {
+        "text": "A lot of fake news is made up...",
+        "startTime": 29104,
+        "endTime": 30671,
+        "slowStartTime": 43806,
+        "slowEndTime": 46231
+    },
+    {
+        "text": "...to get you to click on links and share them.",
+        "startTime": 30943,
+        "endTime": 33015,
+        "slowStartTime": 46564,
+        "slowEndTime": 49747
+    },
+    {
+        "text": "If you do share fake news, people might be making money off of you from advertising.",
+        "startTime": 33325,
+        "endTime": 38446,
+        "slowStartTime": 50138,
+        "slowEndTime": 57894
+    },
+    {
+        "text": "So how do you know what's real?",
+        "startTime": 39091,
+        "endTime": 40916,
+        "slowStartTime": 58786,
+        "slowEndTime": 61599
+    },
+    {
+        "text": "Ask yourself.",
+        "startTime": 42789,
+        "endTime": 43625,
+        "slowStartTime": 64333,
+        "slowEndTime": 65663
+    },
+    {
+        "text": "Has the story been reported anywhere else?",
+        "startTime": 44043,
+        "endTime": 46465,
+        "slowStartTime": 66214,
+        "slowEndTime": 69922
+    },
+    {
+        "text": "Have you heard of the organization that published it?",
+        "startTime": 47478,
+        "endTime": 49819,
+        "slowStartTime": 71367,
+        "slowEndTime": 74954
+    },
+    {
+        "text": "Is the story on an official website, for example, ending in .com?",
+        "startTime": 50907,
+        "endTime": 55155,
+        "slowStartTime": 76510,
+        "slowEndTime": 82957
+    },
+    {
+        "text": "A .com.co website could be unreliable.",
+        "startTime": 57591,
+        "endTime": 61050,
+        "slowStartTime": 86536,
+        "slowEndTime": 91800
+    },
+    {
+        "text": "Look at the photo, video or story.",
+        "startTime": 63621,
+        "endTime": 66419,
+        "slowStartTime": 95581,
+        "slowEndTime": 99853
+    },
+    {
+        "text": "Does it look a bit strange to you?",
+        "startTime": 66882,
+        "endTime": 68575,
+        "slowStartTime": 100473,
+        "slowEndTime": 103088
+    },
+    {
+        "text": "If the answer is yes, maybe it's fake.",
+        "startTime": 68955,
+        "endTime": 72408,
+        "slowStartTime": 103582,
+        "slowEndTime": 108837
+    }
+]

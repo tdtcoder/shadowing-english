@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Let's learn phrases you can use at a restaurant.",
+        "startTime": 102,
+        "endTime": 2869,
+        "slowStartTime": 303,
+        "slowEndTime": 4529
+    },
+    {
+        "text": "Table for two please.",
+        "startTime": 4102,
+        "endTime": 5363,
+        "slowStartTime": 6303,
+        "slowEndTime": 8269
+    },
+    {
+        "text": "I'd like to make a reservation.",
+        "startTime": 6307,
+        "endTime": 7775,
+        "slowStartTime": 9611,
+        "slowEndTime": 11887
+    },
+    {
+        "text": "We have a dinner reservation for two at 8 P.M.",
+        "startTime": 8744,
+        "endTime": 11697,
+        "slowStartTime": 13266,
+        "slowEndTime": 17770
+    },
+    {
+        "text": "May we sit at this table?",
+        "startTime": 12641,
+        "endTime": 13848,
+        "slowStartTime": 19112,
+        "slowEndTime": 20997
+    },
+    {
+        "text": "What would you recommend?",
+        "startTime": 14841,
+        "endTime": 16025,
+        "slowStartTime": 22411,
+        "slowEndTime": 24263
+    },
+    {
+        "text": "Are there any specials today?",
+        "startTime": 16892,
+        "endTime": 18546,
+        "slowStartTime": 25488,
+        "slowEndTime": 28044
+    },
+    {
+        "text": "I'd like to try this dish.",
+        "startTime": 19413,
+        "endTime": 21089,
+        "slowStartTime": 29270,
+        "slowEndTime": 31859
+    },
+    {
+        "text": "Could you bring me the ketchup, please?",
+        "startTime": 21861,
+        "endTime": 23763,
+        "slowStartTime": 32942,
+        "slowEndTime": 35869
+    },
+    {
+        "text": "That's all, thank you.",
+        "startTime": 24568,
+        "endTime": 25818,
+        "slowStartTime": 37002,
+        "slowEndTime": 38952
+    },
+    {
+        "text": "May I have the bill, please?",
+        "startTime": 26604,
+        "endTime": 27978,
+        "slowStartTime": 40056,
+        "slowEndTime": 42192
+    }
+]

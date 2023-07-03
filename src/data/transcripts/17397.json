@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Cow.",
+        "startTime": 2689,
+        "endTime": 3319,
+        "slowStartTime": 4184,
+        "slowEndTime": 5203
+    },
+    {
+        "text": "A cow makes milk.",
+        "startTime": 4121,
+        "endTime": 5555,
+        "slowStartTime": 6332,
+        "slowEndTime": 8558
+    },
+    {
+        "text": "A cow makes fresh milk.",
+        "startTime": 6871,
+        "endTime": 8625,
+        "slowStartTime": 10456,
+        "slowEndTime": 13163
+    },
+    {
+        "text": "Crown.",
+        "startTime": 9948,
+        "endTime": 10621,
+        "slowStartTime": 15072,
+        "slowEndTime": 16157
+    },
+    {
+        "text": "A king wears a crown.",
+        "startTime": 11391,
+        "endTime": 13058,
+        "slowStartTime": 17236,
+        "slowEndTime": 19812
+    },
+    {
+        "text": "A king wears a giant crown.",
+        "startTime": 14431,
+        "endTime": 16716,
+        "slowStartTime": 21796,
+        "slowEndTime": 25299
+    },
+    {
+        "text": "Frown.",
+        "startTime": 18037,
+        "endTime": 18708,
+        "slowStartTime": 27205,
+        "slowEndTime": 28287
+    },
+    {
+        "text": "I frown.",
+        "startTime": 19514,
+        "endTime": 20529,
+        "slowStartTime": 29421,
+        "slowEndTime": 31018
+    },
+    {
+        "text": "I frown when I am sad.",
+        "startTime": 21763,
+        "endTime": 23747,
+        "slowStartTime": 32795,
+        "slowEndTime": 35846
+    },
+    {
+        "text": "Town.",
+        "startTime": 25137,
+        "endTime": 25859,
+        "slowStartTime": 37855,
+        "slowEndTime": 39014
+    },
+    {
+        "text": "This is a small town.",
+        "startTime": 26631,
+        "endTime": 28367,
+        "slowStartTime": 40096,
+        "slowEndTime": 42775
+    },
+    {
+        "text": "This is a small and quiet town.",
+        "startTime": 29705,
+        "endTime": 32288,
+        "slowStartTime": 44707,
+        "slowEndTime": 48657
+    },
+    {
+        "text": "What, what, what, what do cows eat?",
+        "startTime": 37597,
+        "endTime": 40900,
+        "slowStartTime": 56546,
+        "slowEndTime": 61575
+    },
+    {
+        "text": "Munch, munch, munch, cows eat grass.",
+        "startTime": 41346,
+        "endTime": 44747,
+        "slowStartTime": 62169,
+        "slowEndTime": 67345
+    },
+    {
+        "text": "What, what, what, what do birds eat?",
+        "startTime": 45145,
+        "endTime": 48364,
+        "slowStartTime": 67867,
+        "slowEndTime": 72771
+    },
+    {
+        "text": "Crunch, crunch, crunch, birds eat seeds.",
+        "startTime": 48801,
+        "endTime": 52250,
+        "slowStartTime": 73352,
+        "slowEndTime": 78600
+    },
+    {
+        "text": "What, what, what, what do frogs eat?",
+        "startTime": 52642,
+        "endTime": 55843,
+        "slowStartTime": 79113,
+        "slowEndTime": 83989
+    },
+    {
+        "text": "Zap, zap, zap, frogs eat bugs.",
+        "startTime": 56223,
+        "endTime": 59742,
+        "slowStartTime": 84484,
+        "slowEndTime": 89838
+    },
+    {
+        "text": "What, what, what, what do you eat?",
+        "startTime": 60125,
+        "endTime": 63357,
+        "slowStartTime": 90338,
+        "slowEndTime": 95260
+    },
+    {
+        "text": "Gulp, gulp, gulp, I eat everything!",
+        "startTime": 63764,
+        "endTime": 67116,
+        "slowStartTime": 95796,
+        "slowEndTime": 100899
+    }
+]

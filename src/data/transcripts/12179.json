@@ -1,0 +1,135 @@
+[
+    {
+        "text": "I believe the taxi stand is just over here on the left.",
+        "startTime": 2716,
+        "endTime": 5800,
+        "slowStartTime": 4224,
+        "slowEndTime": 8925
+    },
+    {
+        "text": "Yes, that looks like it over there.",
+        "startTime": 5989,
+        "endTime": 7870,
+        "slowStartTime": 9134,
+        "slowEndTime": 12030
+    },
+    {
+        "text": "So which hotel are you staying at this time?",
+        "startTime": 8266,
+        "endTime": 10781,
+        "slowStartTime": 12549,
+        "slowEndTime": 16396
+    },
+    {
+        "text": "The Belmont for now;...",
+        "startTime": 10875,
+        "endTime": 12077,
+        "slowStartTime": 16463,
+        "slowEndTime": 18341
+    },
+    {
+        "text": "...the same one I stayed at last time I was here.",
+        "startTime": 12647,
+        "endTime": 14783,
+        "slowStartTime": 19121,
+        "slowEndTime": 22400
+    },
+    {
+        "text": "Okay, I've heard that's a nice place.",
+        "startTime": 15083,
+        "endTime": 17449,
+        "slowStartTime": 22774,
+        "slowEndTime": 26398
+    },
+    {
+        "text": "I think so.",
+        "startTime": 17601,
+        "endTime": 18325,
+        "slowStartTime": 26551,
+        "slowEndTime": 27712
+    },
+    {
+        "text": "I had no complaints last time.",
+        "startTime": 18470,
+        "endTime": 20015,
+        "slowStartTime": 27855,
+        "slowEndTime": 30248
+    },
+    {
+        "text": "This one is our cab.",
+        "startTime": 20347,
+        "endTime": 21529,
+        "slowStartTime": 30670,
+        "slowEndTime": 32518
+    },
+    {
+        "text": "I guess there are usually a lot of cabs lined up here.",
+        "startTime": 21774,
+        "endTime": 24885,
+        "slowStartTime": 32811,
+        "slowEndTime": 37553
+    },
+    {
+        "text": "That's good.",
+        "startTime": 25017,
+        "endTime": 25642,
+        "slowStartTime": 37675,
+        "slowEndTime": 38688
+    },
+    {
+        "text": "I'd definitely like to get to my room as soon as possible.",
+        "startTime": 25852,
+        "endTime": 28809,
+        "slowStartTime": 38928,
+        "slowEndTime": 43439
+    },
+    {
+        "text": "I can imagine.",
+        "startTime": 29089,
+        "endTime": 30003,
+        "slowStartTime": 43784,
+        "slowEndTime": 45230
+    },
+    {
+        "text": "We need to go to the Belmont Hotel, please.",
+        "startTime": 30495,
+        "endTime": 32643,
+        "slowStartTime": 45893,
+        "slowEndTime": 49190
+    },
+    {
+        "text": "Okay, ma'am, let me pop the trunk for you.",
+        "startTime": 33063,
+        "endTime": 35255,
+        "slowStartTime": 49745,
+        "slowEndTime": 53107
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 35647,
+        "endTime": 36311,
+        "slowStartTime": 53620,
+        "slowEndTime": 54691
+    },
+    {
+        "text": "I really appreciate your coming here to meet me today.",
+        "startTime": 36761,
+        "endTime": 39197,
+        "slowStartTime": 55291,
+        "slowEndTime": 59021
+    },
+    {
+        "text": "Don't mention it.",
+        "startTime": 39383,
+        "endTime": 40316,
+        "slowStartTime": 59224,
+        "slowEndTime": 60699
+    },
+    {
+        "text": "It's my pleasure.",
+        "startTime": 40533,
+        "endTime": 41567,
+        "slowStartTime": 60949,
+        "slowEndTime": 62576
+    }
+]

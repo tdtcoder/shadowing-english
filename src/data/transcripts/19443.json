@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Abby, I'm worried you're running around with the wrong crowd.",
+        "startTime": 1122,
+        "endTime": 5125,
+        "slowStartTime": 1833,
+        "slowEndTime": 7913
+    },
+    {
+        "text": "But they're nice.",
+        "startTime": 5747,
+        "endTime": 6927,
+        "slowStartTime": 8771,
+        "slowEndTime": 10616
+    },
+    {
+        "text": "Really?",
+        "startTime": 7249,
+        "endTime": 7665,
+        "slowStartTime": 11024,
+        "slowEndTime": 11723
+    },
+    {
+        "text": "It seems to me that they're using you for your Skittles.",
+        "startTime": 9061,
+        "endTime": 13511,
+        "slowStartTime": 13741,
+        "slowEndTime": 20492
+    },
+    {
+        "text": "You shouldn't let people take advantage of you.",
+        "startTime": 16103,
+        "endTime": 17851,
+        "slowStartTime": 24304,
+        "slowEndTime": 27001
+    },
+    {
+        "text": "I know.",
+        "startTime": 22253,
+        "endTime": 22793,
+        "slowStartTime": 33529,
+        "slowEndTime": 34414
+    },
+    {
+        "text": "It's messed up.",
+        "startTime": 25771,
+        "endTime": 26513,
+        "slowStartTime": 38806,
+        "slowEndTime": 39995
+    },
+    {
+        "text": "Pluck the rainbow.",
+        "startTime": 27303,
+        "endTime": 28342,
+        "slowStartTime": 41104,
+        "slowEndTime": 42738
+    },
+    {
+        "text": "Taste the rainbow.",
+        "startTime": 28593,
+        "endTime": 29696,
+        "slowStartTime": 43040,
+        "slowEndTime": 44769
+    }
+]

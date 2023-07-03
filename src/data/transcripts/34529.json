@@ -1,0 +1,100 @@
+[
+    {
+        "text": "In China, health officials confirmed at least 18 casualties...",
+        "startTime": 3394,
+        "endTime": 8050,
+        "slowStartTime": 5241,
+        "slowEndTime": 12300
+    },
+    {
+        "text": "...and over 600 cases of the coronavirus.",
+        "startTime": 8322,
+        "endTime": 11461,
+        "slowStartTime": 12633,
+        "slowEndTime": 17417
+    },
+    {
+        "text": "The government attempted to halt the virus' spread...",
+        "startTime": 12099,
+        "endTime": 14652,
+        "slowStartTime": 18299,
+        "slowEndTime": 22203
+    },
+    {
+        "text": "...by locking down three Chinese cities.",
+        "startTime": 15045,
+        "endTime": 17255,
+        "slowStartTime": 22717,
+        "slowEndTime": 26107
+    },
+    {
+        "text": "In Australia, a Canadian air tanker crashed while fighting bushfires in New South Wales,...",
+        "startTime": 19015,
+        "endTime": 24692,
+        "slowStartTime": 28672,
+        "slowEndTime": 37263
+    },
+    {
+        "text": "...killing all three American crew members on board.",
+        "startTime": 24932,
+        "endTime": 27792,
+        "slowStartTime": 37548,
+        "slowEndTime": 41913
+    },
+    {
+        "text": "Protesters in Lebanon threw stones and firecrackers...",
+        "startTime": 29773,
+        "endTime": 33376,
+        "slowStartTime": 44809,
+        "slowEndTime": 50289
+    },
+    {
+        "text": "...while police fired water cannons and tear gas canisters...",
+        "startTime": 33861,
+        "endTime": 37473,
+        "slowStartTime": 50942,
+        "slowEndTime": 56434
+    },
+    {
+        "text": "...in renewed protests against government corruption in Beirut.",
+        "startTime": 37769,
+        "endTime": 41527,
+        "slowStartTime": 56804,
+        "slowEndTime": 62516
+    },
+    {
+        "text": "A telecom billionaire ended a four-month strike...",
+        "startTime": 43321,
+        "endTime": 46699,
+        "slowStartTime": 65132,
+        "slowEndTime": 70273
+    },
+    {
+        "text": "...held by junior doctors at Zimbabwe state hospitals...",
+        "startTime": 46991,
+        "endTime": 50466,
+        "slowStartTime": 70637,
+        "slowEndTime": 75924
+    },
+    {
+        "text": "...by agreeing to pay the doctors a monthly allowance for six months.",
+        "startTime": 50983,
+        "endTime": 55236,
+        "slowStartTime": 76624,
+        "slowEndTime": 83079
+    },
+    {
+        "text": "Finally from Spain, police rescued 270 mistreated and sickly dogs...",
+        "startTime": 57161,
+        "endTime": 63581,
+        "slowStartTime": 85891,
+        "slowEndTime": 95597
+    },
+    {
+        "text": "...after raiding two illegal puppy farms in the outskirts of Madrid.",
+        "startTime": 63912,
+        "endTime": 68382,
+        "slowStartTime": 96018,
+        "slowEndTime": 102798
+    }
+]

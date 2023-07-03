@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Let's read.",
+        "startTime": 182,
+        "endTime": 1219,
+        "slowStartTime": 423,
+        "slowEndTime": 2053
+    },
+    {
+        "text": "/ae/, A.",
+        "startTime": 3473,
+        "endTime": 5627,
+        "slowStartTime": 5360,
+        "slowEndTime": 8666
+    },
+    {
+        "text": "Al.",
+        "startTime": 8165,
+        "endTime": 8856,
+        "slowStartTime": 12398,
+        "slowEndTime": 13509
+    },
+    {
+        "text": "Ant.",
+        "startTime": 11249,
+        "endTime": 12031,
+        "slowStartTime": 17023,
+        "slowEndTime": 18271
+    },
+    {
+        "text": "Fat.",
+        "startTime": 14619,
+        "endTime": 15577,
+        "slowStartTime": 22079,
+        "slowEndTime": 23591
+    },
+    {
+        "text": "Smash.",
+        "startTime": 18139,
+        "endTime": 19017,
+        "slowStartTime": 27358,
+        "slowEndTime": 28751
+    },
+    {
+        "text": "Apple.",
+        "startTime": 21553,
+        "endTime": 22395,
+        "slowStartTime": 32479,
+        "slowEndTime": 33817
+    },
+    {
+        "text": "Bad.",
+        "startTime": 25235,
+        "endTime": 26097,
+        "slowStartTime": 38003,
+        "slowEndTime": 39371
+    },
+    {
+        "text": "Let's do the activities.",
+        "startTime": 27587,
+        "endTime": 29707,
+        "slowStartTime": 41531,
+        "slowEndTime": 44785
+    },
+    {
+        "text": "Say the sound of the letter.",
+        "startTime": 30706,
+        "endTime": 33206,
+        "slowStartTime": 46209,
+        "slowEndTime": 50034
+    },
+    {
+        "text": "/ae/",
+        "startTime": 34543,
+        "endTime": 35169,
+        "slowStartTime": 51965,
+        "slowEndTime": 52979
+    },
+    {
+        "text": "Say the name of the letter.",
+        "startTime": 36627,
+        "endTime": 38717,
+        "slowStartTime": 55091,
+        "slowEndTime": 58301
+    },
+    {
+        "text": "A.",
+        "startTime": 39869,
+        "endTime": 40563,
+        "slowStartTime": 59954,
+        "slowEndTime": 61070
+    },
+    {
+        "text": "Sound out the words.",
+        "startTime": 42051,
+        "endTime": 44805,
+        "slowStartTime": 63226,
+        "slowEndTime": 67433
+    },
+    {
+        "text": "Al.",
+        "startTime": 46421,
+        "endTime": 47117,
+        "slowStartTime": 69781,
+        "slowEndTime": 70901
+    },
+    {
+        "text": "Ant.",
+        "startTime": 48229,
+        "endTime": 48879,
+        "slowStartTime": 72493,
+        "slowEndTime": 73543
+    },
+    {
+        "text": "Fat.",
+        "startTime": 51829,
+        "endTime": 52727,
+        "slowStartTime": 77893,
+        "slowEndTime": 79315
+    },
+    {
+        "text": "Smash.",
+        "startTime": 53953,
+        "endTime": 54803,
+        "slowStartTime": 81079,
+        "slowEndTime": 82429
+    },
+    {
+        "text": "Apple.",
+        "startTime": 58358,
+        "endTime": 59219,
+        "slowStartTime": 87687,
+        "slowEndTime": 89054
+    },
+    {
+        "text": "Bad.",
+        "startTime": 59888,
+        "endTime": 60746,
+        "slowStartTime": 89982,
+        "slowEndTime": 91344
+    }
+]

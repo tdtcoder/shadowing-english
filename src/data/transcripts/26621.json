@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Hello, Los Angeles.",
+        "startTime": 2585,
+        "endTime": 3927,
+        "slowStartTime": 4027,
+        "slowEndTime": 6116
+    },
+    {
+        "text": "Emirates welcomes you to Dodger Stadium.",
+        "startTime": 5594,
+        "endTime": 8027,
+        "slowStartTime": 8541,
+        "slowEndTime": 12266
+    },
+    {
+        "text": "This stadium has 10 gates, 21 terraced entrances and can hold over 56,000 fans.",
+        "startTime": 10219,
+        "endTime": 16536,
+        "slowStartTime": 15478,
+        "slowEndTime": 25029
+    },
+    {
+        "text": "Today's game between the Cincinnati Reds and the Los Angeles Dodgers...",
+        "startTime": 17461,
+        "endTime": 20965,
+        "slowStartTime": 26341,
+        "slowEndTime": 31673
+    },
+    {
+        "text": "...will consist of nine innings,...",
+        "startTime": 21201,
+        "endTime": 23033,
+        "slowStartTime": 31951,
+        "slowEndTime": 34774
+    },
+    {
+        "text": "...and like our nonstop flight from Los Angeles to Dubai,...",
+        "startTime": 24581,
+        "endTime": 27500,
+        "slowStartTime": 37021,
+        "slowEndTime": 41475
+    },
+    {
+        "text": "...we recommend you stretch during the seventh inning.",
+        "startTime": 27883,
+        "endTime": 30314,
+        "slowStartTime": 41975,
+        "slowEndTime": 45696
+    },
+    {
+        "text": "Keep your eye on the ball in the event of a foul ball or home run.",
+        "startTime": 32285,
+        "endTime": 35683,
+        "slowStartTime": 48578,
+        "slowEndTime": 53749
+    },
+    {
+        "text": "If you see coaches or umpires acting in a strange way,...",
+        "startTime": 36243,
+        "endTime": 39286,
+        "slowStartTime": 54514,
+        "slowEndTime": 59154
+    },
+    {
+        "text": "...do not attempt to intervene...",
+        "startTime": 39373,
+        "endTime": 40699,
+        "slowStartTime": 59209,
+        "slowEndTime": 61274
+    },
+    {
+        "text": "...as our expert staff are trained for just such emergencies.",
+        "startTime": 40764,
+        "endTime": 43949,
+        "slowStartTime": 61296,
+        "slowEndTime": 66149
+    },
+    {
+        "text": "In the event of turbulent times during the game,...",
+        "startTime": 44448,
+        "endTime": 46854,
+        "slowStartTime": 66822,
+        "slowEndTime": 70506
+    },
+    {
+        "text": "...your hat can act as a rally cap.",
+        "startTime": 47149,
+        "endTime": 49205,
+        "slowStartTime": 70874,
+        "slowEndTime": 74032
+    },
+    {
+        "text": "To activate, turn your hat inside out and place directly on your head.",
+        "startTime": 49751,
+        "endTime": 54456,
+        "slowStartTime": 74777,
+        "slowEndTime": 81909
+    },
+    {
+        "text": "Remember to always secure your rally cap first before assisting others.",
+        "startTime": 55117,
+        "endTime": 59641,
+        "slowStartTime": 82825,
+        "slowEndTime": 89686
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text": "﻿In South Korea, the Constitutional Court...",
+        "startTime": 3387,
+        "endTime": 6083,
+        "slowStartTime": 5230,
+        "slowEndTime": 9349
+    },
+    {
+        "text": "...formally removes the country's impeached president, Park Geun-hye, from office.",
+        "startTime": 6251,
+        "endTime": 10873,
+        "slowStartTime": 9526,
+        "slowEndTime": 16535
+    },
+    {
+        "text": "In Russia, President Vladimir Putin...",
+        "startTime": 12895,
+        "endTime": 15095,
+        "slowStartTime": 19493,
+        "slowEndTime": 22867
+    },
+    {
+        "text": "...says that Russian-Turkish relations are strengthening...",
+        "startTime": 15346,
+        "endTime": 17866,
+        "slowStartTime": 23169,
+        "slowEndTime": 27024
+    },
+    {
+        "text": "...as the two countries seek ways to reduce the scale of fighting in Syria.",
+        "startTime": 18199,
+        "endTime": 21925,
+        "slowStartTime": 27448,
+        "slowEndTime": 33113
+    },
+    {
+        "text": "In Nigeria, President Muhammadu Buhari returns home...",
+        "startTime": 24756,
+        "endTime": 28479,
+        "slowStartTime": 37284,
+        "slowEndTime": 42943
+    },
+    {
+        "text": "...after nearly two months of medical leave in Britain.",
+        "startTime": 28563,
+        "endTime": 31300,
+        "slowStartTime": 42995,
+        "slowEndTime": 47175
+    },
+    {
+        "text": "In the US, members of the Standing Rock Sioux nation and indigenous leaders...",
+        "startTime": 33909,
+        "endTime": 38348,
+        "slowStartTime": 51013,
+        "slowEndTime": 57747
+    },
+    {
+        "text": "...hold a rally in Washington, DC, to protest the Dakota Access Pipeline.",
+        "startTime": 38608,
+        "endTime": 43449,
+        "slowStartTime": 58062,
+        "slowEndTime": 65399
+    },
+    {
+        "text": "And finally, experts unearth one of Egypt's most important ever archaeological discoveries:...",
+        "startTime": 46004,
+        "endTime": 51819,
+        "slowStartTime": 69156,
+        "slowEndTime": 77954
+    },
+    {
+        "text": "...an eight-meter statue depicting pharaoh Ramses the Great.",
+        "startTime": 52100,
+        "endTime": 55455,
+        "slowStartTime": 78300,
+        "slowEndTime": 83408
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Let's learn the names for appliances.",
+        "startTime": 536,
+        "endTime": 3163,
+        "slowStartTime": 954,
+        "slowEndTime": 4970
+    },
+    {
+        "text": "This is a stove.",
+        "startTime": 8006,
+        "endTime": 9885,
+        "slowStartTime": 12159,
+        "slowEndTime": 15052
+    },
+    {
+        "text": "The pizza is in the oven.",
+        "startTime": 15475,
+        "endTime": 17865,
+        "slowStartTime": 23362,
+        "slowEndTime": 27023
+    },
+    {
+        "text": "He used the microwave.",
+        "startTime": 22301,
+        "endTime": 24040,
+        "slowStartTime": 33601,
+        "slowEndTime": 36285
+    },
+    {
+        "text": "He likes his rice cooker.",
+        "startTime": 32701,
+        "endTime": 34707,
+        "slowStartTime": 49201,
+        "slowEndTime": 52286
+    },
+    {
+        "text": "This is a toaster.",
+        "startTime": 40634,
+        "endTime": 42070,
+        "slowStartTime": 61101,
+        "slowEndTime": 63330
+    },
+    {
+        "text": "Do you have a toaster oven?",
+        "startTime": 49386,
+        "endTime": 50926,
+        "slowStartTime": 74229,
+        "slowEndTime": 76614
+    },
+    {
+        "text": "We use our coffeemaker in the morning.",
+        "startTime": 56607,
+        "endTime": 58555,
+        "slowStartTime": 85060,
+        "slowEndTime": 88057
+    },
+    {
+        "text": "Be careful! The kettle is hot.",
+        "startTime": 64215,
+        "endTime": 66042,
+        "slowStartTime": 96473,
+        "slowEndTime": 99288
+    },
+    {
+        "text": "The dog is in the fridge.",
+        "startTime": 73631,
+        "endTime": 75667,
+        "slowStartTime": 110596,
+        "slowEndTime": 113726
+    },
+    {
+        "text": "The cat opened the freezer.",
+        "startTime": 84270,
+        "endTime": 86344,
+        "slowStartTime": 126555,
+        "slowEndTime": 129741
+    },
+    {
+        "text": "This is a washing machine.",
+        "startTime": 98808,
+        "endTime": 100603,
+        "slowStartTime": 148362,
+        "slowEndTime": 151129
+    },
+    {
+        "text": "The cat is in the dryer.",
+        "startTime": 107179,
+        "endTime": 109290,
+        "slowStartTime": 160919,
+        "slowEndTime": 164160
+    },
+    {
+        "text": "This is a hairdryer.",
+        "startTime": 115055,
+        "endTime": 117056,
+        "slowStartTime": 172733,
+        "slowEndTime": 175809
+    }
+]

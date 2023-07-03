@@ -1,0 +1,114 @@
+[
+    {
+        "text": "This Saturday is my birthday.",
+        "startTime": 4154,
+        "endTime": 6680,
+        "slowStartTime": 6381,
+        "slowEndTime": 10245
+    },
+    {
+        "text": "Wow, will you have a birthday party?",
+        "startTime": 7746,
+        "endTime": 11565,
+        "slowStartTime": 11769,
+        "slowEndTime": 17573
+    },
+    {
+        "text": "Yes, I will have a birthday party.",
+        "startTime": 12563,
+        "endTime": 16078,
+        "slowStartTime": 18994,
+        "slowEndTime": 24342
+    },
+    {
+        "text": "I want to know if you will come to my birthday party.",
+        "startTime": 16625,
+        "endTime": 20179,
+        "slowStartTime": 25087,
+        "slowEndTime": 30493
+    },
+    {
+        "text": "What time will you have a party?",
+        "startTime": 21220,
+        "endTime": 23863,
+        "slowStartTime": 31980,
+        "slowEndTime": 36020
+    },
+    {
+        "text": "At 5 o'clock.",
+        "startTime": 24915,
+        "endTime": 26532,
+        "slowStartTime": 37523,
+        "slowEndTime": 40023
+    },
+    {
+        "text": "Okay, I will go. I want to know if Andy and Sally will come.",
+        "startTime": 27463,
+        "endTime": 33895,
+        "slowStartTime": 41344,
+        "slowEndTime": 51068
+    },
+    {
+        "text": "Absolutely, they will come.",
+        "startTime": 34968,
+        "endTime": 37706,
+        "slowStartTime": 52602,
+        "slowEndTime": 56784
+    },
+    {
+        "text": "How's, how's, how's the weather today?",
+        "startTime": 42943,
+        "endTime": 45946,
+        "slowStartTime": 64565,
+        "slowEndTime": 69144
+    },
+    {
+        "text": "Rainy, rainy, rainy, it is rainy today.",
+        "startTime": 46632,
+        "endTime": 49852,
+        "slowStartTime": 70098,
+        "slowEndTime": 75003
+    },
+    {
+        "text": "Put on your raincoat, and let's go fishing.",
+        "startTime": 50420,
+        "endTime": 53675,
+        "slowStartTime": 75780,
+        "slowEndTime": 80737
+    },
+    {
+        "text": "How's, how's, how's the weather today?",
+        "startTime": 54212,
+        "endTime": 57270,
+        "slowStartTime": 81468,
+        "slowEndTime": 86130
+    },
+    {
+        "text": "Snowy, snowy, snowy, it is snowy today.",
+        "startTime": 57809,
+        "endTime": 60963,
+        "slowStartTime": 86863,
+        "slowEndTime": 91669
+    },
+    {
+        "text": "Put on your coat, and let's make a snowman.",
+        "startTime": 61688,
+        "endTime": 64924,
+        "slowStartTime": 92682,
+        "slowEndTime": 97611
+    },
+    {
+        "text": "The weather changes with the seasons.",
+        "startTime": 65473,
+        "endTime": 68803,
+        "slowStartTime": 98359,
+        "slowEndTime": 103429
+    },
+    {
+        "text": "I can wear different clothes, I can do different things!",
+        "startTime": 69193,
+        "endTime": 72927,
+        "slowStartTime": 103939,
+        "slowEndTime": 109615
+    }
+]

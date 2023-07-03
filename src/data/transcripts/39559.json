@@ -1,0 +1,163 @@
+[
+    {
+        "text": "Is this your family?",
+        "startTime": 4961,
+        "endTime": 6309,
+        "slowStartTime": 7592,
+        "slowEndTime": 9688
+    },
+    {
+        "text": "Yes!",
+        "startTime": 6715,
+        "endTime": 7109,
+        "slowStartTime": 10222,
+        "slowEndTime": 10889
+    },
+    {
+        "text": "Who's this?",
+        "startTime": 11869,
+        "endTime": 12714,
+        "slowStartTime": 17953,
+        "slowEndTime": 19296
+    },
+    {
+        "text": "My brother.",
+        "startTime": 13109,
+        "endTime": 13830,
+        "slowStartTime": 19813,
+        "slowEndTime": 20970
+    },
+    {
+        "text": "He's so handsome!",
+        "startTime": 14893,
+        "endTime": 17401,
+        "slowStartTime": 22490,
+        "slowEndTime": 26326
+    },
+    {
+        "text": "How old is he?",
+        "startTime": 17579,
+        "endTime": 18675,
+        "slowStartTime": 26518,
+        "slowEndTime": 28237
+    },
+    {
+        "text": "He's 34.",
+        "startTime": 18797,
+        "endTime": 20523,
+        "slowStartTime": 28346,
+        "slowEndTime": 31009
+    },
+    {
+        "text": "Oh!",
+        "startTime": 21163,
+        "endTime": 21872,
+        "slowStartTime": 31895,
+        "slowEndTime": 33033
+    },
+    {
+        "text": "He's a doctor.",
+        "startTime": 22553,
+        "endTime": 23403,
+        "slowStartTime": 33979,
+        "slowEndTime": 35329
+    },
+    {
+        "text": "Oh!",
+        "startTime": 23732,
+        "endTime": 25171,
+        "slowStartTime": 35748,
+        "slowEndTime": 37981
+    },
+    {
+        "text": "That's his wife.",
+        "startTime": 26367,
+        "endTime": 27299,
+        "slowStartTime": 39701,
+        "slowEndTime": 41174
+    },
+    {
+        "text": "Oh!",
+        "startTime": 28633,
+        "endTime": 29079,
+        "slowStartTime": 43099,
+        "slowEndTime": 43843
+    },
+    {
+        "text": "She's very pretty.",
+        "startTime": 30073,
+        "endTime": 31117,
+        "slowStartTime": 45259,
+        "slowEndTime": 46900
+    },
+    {
+        "text": "Who's this?",
+        "startTime": 33743,
+        "endTime": 34411,
+        "slowStartTime": 50765,
+        "slowEndTime": 51841
+    },
+    {
+        "text": "That's my mother.",
+        "startTime": 34949,
+        "endTime": 35923,
+        "slowStartTime": 52574,
+        "slowEndTime": 54109
+    },
+    {
+        "text": "Who's this?",
+        "startTime": 36579,
+        "endTime": 37393,
+        "slowStartTime": 55018,
+        "slowEndTime": 56314
+    },
+    {
+        "text": "Is he a doctor too?",
+        "startTime": 38117,
+        "endTime": 39315,
+        "slowStartTime": 57325,
+        "slowEndTime": 59198
+    },
+    {
+        "text": "No, he's an architect.",
+        "startTime": 39582,
+        "endTime": 41799,
+        "slowStartTime": 59523,
+        "slowEndTime": 62923
+    },
+    {
+        "text": "That's my sister's husband.",
+        "startTime": 42739,
+        "endTime": 44288,
+        "slowStartTime": 64259,
+        "slowEndTime": 66657
+    },
+    {
+        "text": "Who's this?",
+        "startTime": 46725,
+        "endTime": 47641,
+        "slowStartTime": 70237,
+        "slowEndTime": 71686
+    },
+    {
+        "text": "That's my sister's son.",
+        "startTime": 48047,
+        "endTime": 49715,
+        "slowStartTime": 72221,
+        "slowEndTime": 74798
+    },
+    {
+        "text": "He's a university student.",
+        "startTime": 50472,
+        "endTime": 52057,
+        "slowStartTime": 75858,
+        "slowEndTime": 78311
+    },
+    {
+        "text": "He's so cute!",
+        "startTime": 52646,
+        "endTime": 55273,
+        "slowStartTime": 79119,
+        "slowEndTime": 83135
+    }
+]

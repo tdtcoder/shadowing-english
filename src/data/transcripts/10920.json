@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Well, he makes me laugh. That's one thing.",
+        "startTime": 2550,
+        "endTime": 7300,
+        "slowStartTime": 4000,
+        "slowEndTime": 11200
+    },
+    {
+        "text": "He makes me comfortable.",
+        "startTime": 9200,
+        "endTime": 11850,
+        "slowStartTime": 14000,
+        "slowEndTime": 18100
+    },
+    {
+        "text": "Usually, I'm a very tense, nervous actor.",
+        "startTime": 11950,
+        "endTime": 14600,
+        "slowStartTime": 18100,
+        "slowEndTime": 22200
+    },
+    {
+        "text": "And he has his way with great care,...",
+        "startTime": 15000,
+        "endTime": 16900,
+        "slowStartTime": 22700,
+        "slowEndTime": 25600
+    },
+    {
+        "text": "...and I like that.",
+        "startTime": 17450,
+        "endTime": 19400,
+        "slowStartTime": 26400,
+        "slowEndTime": 29300
+    },
+    {
+        "text": "And we both share a very gloomy view of the world...",
+        "startTime": 19900,
+        "endTime": 23850,
+        "slowStartTime": 30100,
+        "slowEndTime": 36000
+    },
+    {
+        "text": "...which is strange since we both work in comedy.",
+        "startTime": 24950,
+        "endTime": 26950,
+        "slowStartTime": 37575,
+        "slowEndTime": 40650
+    },
+    {
+        "text": "But we're both obsessed with death and dying.",
+        "startTime": 27000,
+        "endTime": 30575,
+        "slowStartTime": 40700,
+        "slowEndTime": 46100
+    },
+    {
+        "text": "And he is always calling me in the middle of the night,...",
+        "startTime": 30625,
+        "endTime": 33850,
+        "slowStartTime": 46140,
+        "slowEndTime": 51000
+    },
+    {
+        "text": "...worried about his health, and he thinks he's gonna die.",
+        "startTime": 36050,
+        "endTime": 39600,
+        "slowStartTime": 54300,
+        "slowEndTime": 59600
+    },
+    {
+        "text": "He's a very, very gloomy man...",
+        "startTime": 39950,
+        "endTime": 41200,
+        "slowStartTime": 60150,
+        "slowEndTime": 62000
+    },
+    {
+        "text": "...and I like him for that.",
+        "startTime": 41550,
+        "endTime": 42600,
+        "slowStartTime": 62600,
+        "slowEndTime": 64000
+    }
+]

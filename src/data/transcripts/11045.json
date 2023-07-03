@@ -1,0 +1,100 @@
+[
+    {
+        "text": "ABC's new summer Sunday.",
+        "startTime": 200,
+        "endTime": 2000,
+        "slowStartTime": 600,
+        "slowEndTime": 3300
+    },
+    {
+        "text": "Welcome to The Gates.",
+        "startTime": 2100,
+        "endTime": 3650,
+        "slowStartTime": 3400,
+        "slowEndTime": 5700
+    },
+    {
+        "text": "The homes, breathtaking.",
+        "startTime": 3950,
+        "endTime": 5500,
+        "slowStartTime": 6100,
+        "slowEndTime": 8525
+    },
+    {
+        "text": "What about your husband?",
+        "startTime": 5550,
+        "endTime": 6400,
+        "slowStartTime": 8550,
+        "slowEndTime": 9870
+    },
+    {
+        "text": "He's out of town.",
+        "startTime": 6450,
+        "endTime": 7300,
+        "slowStartTime": 9850,
+        "slowEndTime": 11150
+    },
+    {
+        "text": "How long?",
+        "startTime": 7350,
+        "endTime": 7900,
+        "slowStartTime": 11200,
+        "slowEndTime": 12100
+    },
+    {
+        "text": "Long enough.",
+        "startTime": 8200,
+        "endTime": 8750,
+        "slowStartTime": 12500,
+        "slowEndTime": 13350
+    },
+    {
+        "text": "The schools, unmatched.",
+        "startTime": 9950,
+        "endTime": 11550,
+        "slowStartTime": 15050,
+        "slowEndTime": 17620
+    },
+    {
+        "text": "Am I making you nervous?",
+        "startTime": 11600,
+        "endTime": 12800,
+        "slowStartTime": 17650,
+        "slowEndTime": 19400
+    },
+    {
+        "text": "A community so exclusive,...",
+        "startTime": 13950,
+        "endTime": 16400,
+        "slowStartTime": 21100,
+        "slowEndTime": 24850
+    },
+    {
+        "text": "What was that?",
+        "startTime": 17900,
+        "endTime": 18400,
+        "slowStartTime": 27100,
+        "slowEndTime": 27850
+    },
+    {
+        "text": "...getting in is almost as hard as getting out.",
+        "startTime": 18600,
+        "endTime": 23600,
+        "slowStartTime": 28100,
+        "slowEndTime": 35650
+    },
+    {
+        "text": "ABC's \"The Gates.\" Series premieres Sunday, June 20th.",
+        "startTime": 24650,
+        "endTime": 27900,
+        "slowStartTime": 37200,
+        "slowEndTime": 42050
+    },
+    {
+        "text": "Part of ABC's new summer season.",
+        "startTime": 28100,
+        "endTime": 30200,
+        "slowStartTime": 42300,
+        "slowEndTime": 45400
+    }
+]

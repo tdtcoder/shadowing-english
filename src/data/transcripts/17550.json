@@ -1,0 +1,128 @@
+[
+    {
+        "text": "What are you doing?",
+        "startTime": 2872,
+        "endTime": 4053,
+        "slowStartTime": 4458,
+        "slowEndTime": 6305
+    },
+    {
+        "text": "I'm looking for my MP3 player.",
+        "startTime": 5689,
+        "endTime": 8187,
+        "slowStartTime": 8684,
+        "slowEndTime": 12505
+    },
+    {
+        "text": "Did you look in the drawer?",
+        "startTime": 10059,
+        "endTime": 11629,
+        "slowStartTime": 15238,
+        "slowEndTime": 17668
+    },
+    {
+        "text": "No, I didn't put it in the drawer.",
+        "startTime": 12674,
+        "endTime": 15374,
+        "slowStartTime": 19161,
+        "slowEndTime": 23286
+    },
+    {
+        "text": "Did you look under the sofa?",
+        "startTime": 16809,
+        "endTime": 18769,
+        "slowStartTime": 25364,
+        "slowEndTime": 28378
+    },
+    {
+        "text": "No, it is not under the sofa.",
+        "startTime": 20239,
+        "endTime": 22961,
+        "slowStartTime": 30509,
+        "slowEndTime": 34667
+    },
+    {
+        "text": "Did you look in your bag?",
+        "startTime": 24571,
+        "endTime": 26427,
+        "slowStartTime": 37006,
+        "slowEndTime": 39865
+    },
+    {
+        "text": "Oh, no!",
+        "startTime": 28462,
+        "endTime": 29245,
+        "slowStartTime": 42843,
+        "slowEndTime": 44093
+    },
+    {
+        "text": "I didn't look in my bag.",
+        "startTime": 29705,
+        "endTime": 31703,
+        "slowStartTime": 44707,
+        "slowEndTime": 47779
+    },
+    {
+        "text": "What, what, what, what do you look for?",
+        "startTime": 38716,
+        "endTime": 42072,
+        "slowStartTime": 58224,
+        "slowEndTime": 63333
+    },
+    {
+        "text": "Shoe, shoe, shoe, I look for my shoe.",
+        "startTime": 42464,
+        "endTime": 45707,
+        "slowStartTime": 63846,
+        "slowEndTime": 68785
+    },
+    {
+        "text": "Bed, bed, bed, did you look under the bed?",
+        "startTime": 46254,
+        "endTime": 49392,
+        "slowStartTime": 69531,
+        "slowEndTime": 74313
+    },
+    {
+        "text": "No, no, no, my shoe is not there.",
+        "startTime": 49983,
+        "endTime": 53207,
+        "slowStartTime": 75124,
+        "slowEndTime": 80036
+    },
+    {
+        "text": "Box, box, box, did you look in the box?",
+        "startTime": 53752,
+        "endTime": 57025,
+        "slowStartTime": 80778,
+        "slowEndTime": 85762
+    },
+    {
+        "text": "No, no, no, my shoe is not there.",
+        "startTime": 57503,
+        "endTime": 60729,
+        "slowStartTime": 86404,
+        "slowEndTime": 91319
+    },
+    {
+        "text": "Closet, closet, closet, did you look in the closet?",
+        "startTime": 61229,
+        "endTime": 64470,
+        "slowStartTime": 91994,
+        "slowEndTime": 96930
+    },
+    {
+        "text": "Oh, no!",
+        "startTime": 64791,
+        "endTime": 65563,
+        "slowStartTime": 97336,
+        "slowEndTime": 98570
+    },
+    {
+        "text": "My shoe is right in the closet!",
+        "startTime": 65709,
+        "endTime": 68402,
+        "slowStartTime": 98714,
+        "slowEndTime": 102828
+    }
+]

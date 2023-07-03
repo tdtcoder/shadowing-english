@@ -1,0 +1,107 @@
+[
+    {
+        "text": "One of the best things about being a scientist is you get to spend your day solving puzzles.",
+        "startTime": 3622,
+        "endTime": 7395,
+        "slowStartTime": 5583,
+        "slowEndTime": 11318
+    },
+    {
+        "text": "You have this interesting scientific question...",
+        "startTime": 7819,
+        "endTime": 9371,
+        "slowStartTime": 11429,
+        "slowEndTime": 14282
+    },
+    {
+        "text": "...and you spend years sometimes trying to get the answer.",
+        "startTime": 9745,
+        "endTime": 12071,
+        "slowStartTime": 14317,
+        "slowEndTime": 18331
+    },
+    {
+        "text": "And the prize when you solve the puzzle is you get a new puzzle.",
+        "startTime": 12482,
+        "endTime": 15505,
+        "slowStartTime": 18873,
+        "slowEndTime": 23483
+    },
+    {
+        "text": "Each new discovery branches out into all these new and interesting ideas.",
+        "startTime": 15918,
+        "endTime": 19405,
+        "slowStartTime": 23577,
+        "slowEndTime": 29332
+    },
+    {
+        "text": "My name is Steve Buratowski, I'm a professor at Harvard Medical School...",
+        "startTime": 23549,
+        "endTime": 26425,
+        "slowStartTime": 35474,
+        "slowEndTime": 39863
+    },
+    {
+        "text": "...and my lab works on the punctuation of the genome.",
+        "startTime": 26500,
+        "endTime": 28903,
+        "slowStartTime": 39916,
+        "slowEndTime": 43580
+    },
+    {
+        "text": "If you look at your DNA sequence, it's just this long string of letters.",
+        "startTime": 29556,
+        "endTime": 32648,
+        "slowStartTime": 44184,
+        "slowEndTime": 49197
+    },
+    {
+        "text": "It's like a book that has no spaces between the words, no punctuation, no title page.",
+        "startTime": 32946,
+        "endTime": 37567,
+        "slowStartTime": 49569,
+        "slowEndTime": 56576
+    },
+    {
+        "text": "It turns out your genome does have all that...",
+        "startTime": 38200,
+        "endTime": 39369,
+        "slowStartTime": 57063,
+        "slowEndTime": 59279
+    },
+    {
+        "text": "...and we're trying to figure out how that works.",
+        "startTime": 39739,
+        "endTime": 41514,
+        "slowStartTime": 59759,
+        "slowEndTime": 62496
+    },
+    {
+        "text": "So, it turns out that a lot of diseases, things like cancer, developmental defects...",
+        "startTime": 46150,
+        "endTime": 51036,
+        "slowStartTime": 69375,
+        "slowEndTime": 76779
+    },
+    {
+        "text": "...are caused by problems in either writing or reading this punctuation...",
+        "startTime": 51304,
+        "endTime": 54279,
+        "slowStartTime": 76806,
+        "slowEndTime": 81644
+    },
+    {
+        "text": "...and so by figuring out the basic mechanisms,...",
+        "startTime": 54667,
+        "endTime": 56789,
+        "slowStartTime": 81700,
+        "slowEndTime": 85409
+    },
+    {
+        "text": "...we're gonna contribute to developing therapeutics for patients.",
+        "startTime": 57300,
+        "endTime": 60271,
+        "slowStartTime": 85472,
+        "slowEndTime": 90631
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "text": "Your office looks really nice.",
+        "startTime": 608,
+        "endTime": 2289,
+        "slowStartTime": 1062,
+        "slowEndTime": 3658
+    },
+    {
+        "text": "Where do you work, Mary?",
+        "startTime": 2688,
+        "endTime": 3595,
+        "slowStartTime": 4182,
+        "slowEndTime": 5617
+    },
+    {
+        "text": "I work in a building downtown.",
+        "startTime": 4113,
+        "endTime": 5823,
+        "slowStartTime": 6320,
+        "slowEndTime": 8959
+    },
+    {
+        "text": "It's in the city center, so it can be really busy outside.",
+        "startTime": 6149,
+        "endTime": 9418,
+        "slowStartTime": 9374,
+        "slowEndTime": 14352
+    },
+    {
+        "text": "How about you?",
+        "startTime": 9937,
+        "endTime": 10719,
+        "slowStartTime": 15055,
+        "slowEndTime": 16303
+    },
+    {
+        "text": "Where do you work?",
+        "startTime": 10920,
+        "endTime": 11688,
+        "slowStartTime": 16530,
+        "slowEndTime": 17757
+    },
+    {
+        "text": "I work in a quiet part of town.",
+        "startTime": 12311,
+        "endTime": 14013,
+        "slowStartTime": 18617,
+        "slowEndTime": 21244
+    },
+    {
+        "text": "It's outside the city, but it's very near our house.",
+        "startTime": 14315,
+        "endTime": 17459,
+        "slowStartTime": 21623,
+        "slowEndTime": 26413
+    },
+    {
+        "text": "Do you work with some of your friends in the neighborhood?",
+        "startTime": 18001,
+        "endTime": 20570,
+        "slowStartTime": 27152,
+        "slowEndTime": 31080
+    },
+    {
+        "text": "Yes!",
+        "startTime": 20990,
+        "endTime": 21473,
+        "slowStartTime": 31635,
+        "slowEndTime": 32435
+    },
+    {
+        "text": "I work with my best friend here,...",
+        "startTime": 21681,
+        "endTime": 23273,
+        "slowStartTime": 32671,
+        "slowEndTime": 35135
+    },
+    {
+        "text": "...but I'm actually moving to the city next month.",
+        "startTime": 23694,
+        "endTime": 25753,
+        "slowStartTime": 35691,
+        "slowEndTime": 38855
+    },
+    {
+        "text": "Are you?",
+        "startTime": 26183,
+        "endTime": 26628,
+        "slowStartTime": 39425,
+        "slowEndTime": 40167
+    },
+    {
+        "text": "Yes.",
+        "startTime": 27183,
+        "endTime": 27423,
+        "slowStartTime": 40925,
+        "slowEndTime": 41360
+    },
+    {
+        "text": "I will be transferred to a different department, and their office is in the city.",
+        "startTime": 27550,
+        "endTime": 31150,
+        "slowStartTime": 41475,
+        "slowEndTime": 46950
+    },
+    {
+        "text": "Have you been there?",
+        "startTime": 31772,
+        "endTime": 32565,
+        "slowStartTime": 47808,
+        "slowEndTime": 49073
+    },
+    {
+        "text": "I have been there once.",
+        "startTime": 33346,
+        "endTime": 34592,
+        "slowStartTime": 50169,
+        "slowEndTime": 52113
+    },
+    {
+        "text": "It's a huge space, and the design is very modern.",
+        "startTime": 35037,
+        "endTime": 38381,
+        "slowStartTime": 52705,
+        "slowEndTime": 57797
+    },
+    {
+        "text": "There must be a lot of people working there.",
+        "startTime": 38649,
+        "endTime": 40677,
+        "slowStartTime": 58123,
+        "slowEndTime": 61240
+    },
+    {
+        "text": "There are five departments and each has their own room.",
+        "startTime": 41260,
+        "endTime": 43995,
+        "slowStartTime": 62040,
+        "slowEndTime": 66217
+    },
+    {
+        "text": "I heard there are three conference rooms,...",
+        "startTime": 44667,
+        "endTime": 46753,
+        "slowStartTime": 67150,
+        "slowEndTime": 70354
+    },
+    {
+        "text": "...a huge common space, and a cafeteria.",
+        "startTime": 46947,
+        "endTime": 49447,
+        "slowStartTime": 70570,
+        "slowEndTime": 74395
+    },
+    {
+        "text": "I see.",
+        "startTime": 49929,
+        "endTime": 50691,
+        "slowStartTime": 75043,
+        "slowEndTime": 76261
+    },
+    {
+        "text": "Well, we should meet when you move to the city.",
+        "startTime": 50951,
+        "endTime": 52983,
+        "slowStartTime": 76576,
+        "slowEndTime": 79699
+    },
+    {
+        "text": "Sure!",
+        "startTime": 53204,
+        "endTime": 53707,
+        "slowStartTime": 79956,
+        "slowEndTime": 80785
+    }
+]

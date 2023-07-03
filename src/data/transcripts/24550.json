@@ -1,0 +1,58 @@
+[
+    {
+        "text": "May you be rich.",
+        "startTime": 2008,
+        "endTime": 3624,
+        "slowStartTime": 3162,
+        "slowEndTime": 5661
+    },
+    {
+        "text": "So rich, nothing is out of reach.",
+        "startTime": 5406,
+        "endTime": 8088,
+        "slowStartTime": 8259,
+        "slowEndTime": 12357
+    },
+    {
+        "text": "Filthy rich.",
+        "startTime": 10332,
+        "endTime": 11302,
+        "slowStartTime": 15648,
+        "slowEndTime": 17178
+    },
+    {
+        "text": "Dream about it.",
+        "startTime": 12789,
+        "endTime": 13847,
+        "slowStartTime": 19334,
+        "slowEndTime": 20995
+    },
+    {
+        "text": "Give up everything for it.",
+        "startTime": 14685,
+        "endTime": 16785,
+        "slowStartTime": 22177,
+        "slowEndTime": 25403
+    },
+    {
+        "text": "Leverage all of your assets.",
+        "startTime": 17403,
+        "endTime": 19355,
+        "slowStartTime": 26254,
+        "slowEndTime": 29257
+    },
+    {
+        "text": "Do whatever it takes.",
+        "startTime": 21047,
+        "endTime": 22704,
+        "slowStartTime": 31721,
+        "slowEndTime": 34281
+    },
+    {
+        "text": "And when you find it, eat it up.",
+        "startTime": 24298,
+        "endTime": 27491,
+        "slowStartTime": 36597,
+        "slowEndTime": 41462
+    }
+]

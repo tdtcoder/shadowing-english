@@ -1,0 +1,86 @@
+[
+    {
+        "text": "It's January 13th.",
+        "startTime": 618,
+        "endTime": 2085,
+        "slowStartTime": 1077,
+        "slowEndTime": 3352
+    },
+    {
+        "text": "It's February 15th.",
+        "startTime": 3287,
+        "endTime": 4538,
+        "slowStartTime": 5080,
+        "slowEndTime": 7032
+    },
+    {
+        "text": "It's March 21st.",
+        "startTime": 5889,
+        "endTime": 7123,
+        "slowStartTime": 8984,
+        "slowEndTime": 10910
+    },
+    {
+        "text": "It's April 8th.",
+        "startTime": 8189,
+        "endTime": 9458,
+        "slowStartTime": 12434,
+        "slowEndTime": 14412
+    },
+    {
+        "text": "It's May 10th.",
+        "startTime": 10560,
+        "endTime": 11451,
+        "slowStartTime": 15990,
+        "slowEndTime": 17401
+    },
+    {
+        "text": "It's June 12th.",
+        "startTime": 12669,
+        "endTime": 13731,
+        "slowStartTime": 19153,
+        "slowEndTime": 20821
+    },
+    {
+        "text": "Today is July 4th.",
+        "startTime": 14967,
+        "endTime": 17060,
+        "slowStartTime": 22601,
+        "slowEndTime": 25815
+    },
+    {
+        "text": "Today is August 23rd.",
+        "startTime": 17825,
+        "endTime": 19919,
+        "slowStartTime": 26887,
+        "slowEndTime": 30104
+    },
+    {
+        "text": "Today is September 22nd.",
+        "startTime": 20835,
+        "endTime": 23346,
+        "slowStartTime": 31402,
+        "slowEndTime": 35244
+    },
+    {
+        "text": "Today is October 31st.",
+        "startTime": 24689,
+        "endTime": 26952,
+        "slowStartTime": 37184,
+        "slowEndTime": 40653
+    },
+    {
+        "text": "Today is November 24th.",
+        "startTime": 28295,
+        "endTime": 30357,
+        "slowStartTime": 42592,
+        "slowEndTime": 45760
+    },
+    {
+        "text": "Today is December 25th.",
+        "startTime": 31975,
+        "endTime": 34393,
+        "slowStartTime": 48113,
+        "slowEndTime": 51815
+    }
+]

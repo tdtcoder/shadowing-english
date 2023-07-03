@@ -1,0 +1,72 @@
+[
+    {
+        "text": "The Fosen Wind Park is a collection of six wind farms...",
+        "startTime": 643,
+        "endTime": 3857,
+        "slowStartTime": 1114,
+        "slowEndTime": 6010
+    },
+    {
+        "text": "...located in Norway's coastal Trondelag county.",
+        "startTime": 4049,
+        "endTime": 7084,
+        "slowStartTime": 6224,
+        "slowEndTime": 10851
+    },
+    {
+        "text": "They produce enough energy to power a million homes.",
+        "startTime": 7529,
+        "endTime": 10701,
+        "slowStartTime": 11444,
+        "slowEndTime": 16277
+    },
+    {
+        "text": "Norwegian state-owned hydropower company Statkraft...",
+        "startTime": 14831,
+        "endTime": 17853,
+        "slowStartTime": 22397,
+        "slowEndTime": 27005
+    },
+    {
+        "text": "...holds a majority stake in the project and has been responsible for its development.",
+        "startTime": 17990,
+        "endTime": 22155,
+        "slowStartTime": 27135,
+        "slowEndTime": 33457
+    },
+    {
+        "text": "Construction started in 2016...",
+        "startTime": 22876,
+        "endTime": 25259,
+        "slowStartTime": 34464,
+        "slowEndTime": 38114
+    },
+    {
+        "text": "...and required approximately 2.5 million man-hours to complete.",
+        "startTime": 25507,
+        "endTime": 29467,
+        "slowStartTime": 38410,
+        "slowEndTime": 44426
+    },
+    {
+        "text": "The company says the turbines...",
+        "startTime": 30453,
+        "endTime": 31820,
+        "slowStartTime": 45830,
+        "slowEndTime": 47955
+    },
+    {
+        "text": "...are capable of producing a total of 3.6 terawatt hours of renewable energy every year,...",
+        "startTime": 31900,
+        "endTime": 37311,
+        "slowStartTime": 48000,
+        "slowEndTime": 56192
+    },
+    {
+        "text": "...cutting greenhouse gas emissions by approximately 1.9 million tons per annum.",
+        "startTime": 37590,
+        "endTime": 42531,
+        "slowStartTime": 56535,
+        "slowEndTime": 64022
+    }
+]

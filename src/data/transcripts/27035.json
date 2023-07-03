@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Places in the Office",
+        "startTime": 471,
+        "endTime": 2405,
+        "slowStartTime": 856,
+        "slowEndTime": 3832
+    },
+    {
+        "text": "The company has free parking.",
+        "startTime": 9163,
+        "endTime": 11315,
+        "slowStartTime": 13895,
+        "slowEndTime": 17198
+    },
+    {
+        "text": "Hey! No running in the hallway.",
+        "startTime": 16015,
+        "endTime": 18447,
+        "slowStartTime": 24172,
+        "slowEndTime": 27895
+    },
+    {
+        "text": "You can't stay here in the stockroom.",
+        "startTime": 24963,
+        "endTime": 27605,
+        "slowStartTime": 37595,
+        "slowEndTime": 41632
+    },
+    {
+        "text": "That workstation is cool.",
+        "startTime": 32850,
+        "endTime": 35673,
+        "slowStartTime": 49425,
+        "slowEndTime": 53734
+    },
+    {
+        "text": "He's not here. He's in the restroom.",
+        "startTime": 40201,
+        "endTime": 42938,
+        "slowStartTime": 60451,
+        "slowEndTime": 64632
+    },
+    {
+        "text": "Get the form at the front desk.",
+        "startTime": 47720,
+        "endTime": 49867,
+        "slowStartTime": 71730,
+        "slowEndTime": 75025
+    },
+    {
+        "text": "The conference room is being used.",
+        "startTime": 55831,
+        "endTime": 58315,
+        "slowStartTime": 83896,
+        "slowEndTime": 87698
+    },
+    {
+        "text": "Homer is having coffee in the pantry.",
+        "startTime": 61998,
+        "endTime": 64652,
+        "slowStartTime": 93147,
+        "slowEndTime": 97203
+    }
+]

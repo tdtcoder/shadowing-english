@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Let's learn about vegetables.",
+        "startTime": 1406,
+        "endTime": 3761,
+        "slowStartTime": 2259,
+        "slowEndTime": 5867
+    },
+    {
+        "text": "He likes lettuce.",
+        "startTime": 8611,
+        "endTime": 10443,
+        "slowStartTime": 13066,
+        "slowEndTime": 15890
+    },
+    {
+        "text": "She is cutting tomatoes.",
+        "startTime": 16673,
+        "endTime": 18959,
+        "slowStartTime": 25160,
+        "slowEndTime": 28663
+    },
+    {
+        "text": "He is peeling potatoes.",
+        "startTime": 27583,
+        "endTime": 29748,
+        "slowStartTime": 41525,
+        "slowEndTime": 44847
+    },
+    {
+        "text": "He is chopping onions.",
+        "startTime": 40497,
+        "endTime": 42757,
+        "slowStartTime": 60895,
+        "slowEndTime": 64360
+    },
+    {
+        "text": "This is corn.",
+        "startTime": 51891,
+        "endTime": 53542,
+        "slowStartTime": 77987,
+        "slowEndTime": 80538
+    },
+    {
+        "text": "The rabbit wants the carrot.",
+        "startTime": 62785,
+        "endTime": 65051,
+        "slowStartTime": 94328,
+        "slowEndTime": 97802
+    },
+    {
+        "text": "The boy likes green beans.",
+        "startTime": 71097,
+        "endTime": 74059,
+        "slowStartTime": 106796,
+        "slowEndTime": 111313
+    },
+    {
+        "text": "The broccoli is big.",
+        "startTime": 83037,
+        "endTime": 86076,
+        "slowStartTime": 124706,
+        "slowEndTime": 129339
+    },
+    {
+        "text": "Avocado is delicious!",
+        "startTime": 93891,
+        "endTime": 96592,
+        "slowStartTime": 140986,
+        "slowEndTime": 145113
+    },
+    {
+        "text": "He is cutting the cabbage.",
+        "startTime": 105247,
+        "endTime": 107631,
+        "slowStartTime": 158020,
+        "slowEndTime": 161671
+    }
+]

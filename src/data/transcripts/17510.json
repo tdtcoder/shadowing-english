@@ -1,0 +1,170 @@
+[
+    {
+        "text": "A nut falls from a tree.",
+        "startTime": 2475,
+        "endTime": 4463,
+        "slowStartTime": 3862,
+        "slowEndTime": 6920
+    },
+    {
+        "text": "The nut hits Rabbit.",
+        "startTime": 5185,
+        "endTime": 6488,
+        "slowStartTime": 7927,
+        "slowEndTime": 9957
+    },
+    {
+        "text": "Rabbit runs to tell Fox.",
+        "startTime": 7467,
+        "endTime": 9944,
+        "slowStartTime": 11350,
+        "slowEndTime": 15141
+    },
+    {
+        "text": "The sky is falling.",
+        "startTime": 11577,
+        "endTime": 13080,
+        "slowStartTime": 17516,
+        "slowEndTime": 19845
+    },
+    {
+        "text": "Says Rabbit.",
+        "startTime": 14823,
+        "endTime": 15837,
+        "slowStartTime": 22385,
+        "slowEndTime": 23981
+    },
+    {
+        "text": "Fox runs to tell Bear.",
+        "startTime": 16597,
+        "endTime": 18542,
+        "slowStartTime": 25046,
+        "slowEndTime": 28038
+    },
+    {
+        "text": "The sky is falling.",
+        "startTime": 19811,
+        "endTime": 21405,
+        "slowStartTime": 29867,
+        "slowEndTime": 32332
+    },
+    {
+        "text": "Says Fox.",
+        "startTime": 22764,
+        "endTime": 23846,
+        "slowStartTime": 34296,
+        "slowEndTime": 35994
+    },
+    {
+        "text": "Bear runs to tell Squirrel.",
+        "startTime": 24668,
+        "endTime": 26791,
+        "slowStartTime": 37152,
+        "slowEndTime": 40411
+    },
+    {
+        "text": "The sky is falling.",
+        "startTime": 27333,
+        "endTime": 29269,
+        "slowStartTime": 41149,
+        "slowEndTime": 44128
+    },
+    {
+        "text": "Says Bear.",
+        "startTime": 30484,
+        "endTime": 31331,
+        "slowStartTime": 45876,
+        "slowEndTime": 47221
+    },
+    {
+        "text": "Squirrel runs to tell Deer.",
+        "startTime": 32237,
+        "endTime": 34493,
+        "slowStartTime": 48506,
+        "slowEndTime": 51965
+    },
+    {
+        "text": "The sky is falling.",
+        "startTime": 35897,
+        "endTime": 37419,
+        "slowStartTime": 53995,
+        "slowEndTime": 56354
+    },
+    {
+        "text": "Says Squirrel.",
+        "startTime": 38753,
+        "endTime": 39813,
+        "slowStartTime": 58279,
+        "slowEndTime": 59944
+    },
+    {
+        "text": "Deer runs to tell Mouse.",
+        "startTime": 41019,
+        "endTime": 43036,
+        "slowStartTime": 61679,
+        "slowEndTime": 64779
+    },
+    {
+        "text": "The sky is falling.",
+        "startTime": 44215,
+        "endTime": 45497,
+        "slowStartTime": 66473,
+        "slowEndTime": 68471
+    },
+    {
+        "text": "Says Deer.",
+        "startTime": 46693,
+        "endTime": 47611,
+        "slowStartTime": 70189,
+        "slowEndTime": 71642
+    },
+    {
+        "text": "Mouse runs to tell Wise Old Owl.",
+        "startTime": 48332,
+        "endTime": 51054,
+        "slowStartTime": 72648,
+        "slowEndTime": 76806
+    },
+    {
+        "text": "The sky is falling.",
+        "startTime": 52364,
+        "endTime": 53927,
+        "slowStartTime": 78696,
+        "slowEndTime": 81115
+    },
+    {
+        "text": "Says Mouse.",
+        "startTime": 55087,
+        "endTime": 56023,
+        "slowStartTime": 82781,
+        "slowEndTime": 84259
+    },
+    {
+        "text": "No, it is not.",
+        "startTime": 56635,
+        "endTime": 58661,
+        "slowStartTime": 85103,
+        "slowEndTime": 88216
+    },
+    {
+        "text": "Says Wise Old Owl.",
+        "startTime": 59984,
+        "endTime": 61617,
+        "slowStartTime": 90126,
+        "slowEndTime": 92651
+    },
+    {
+        "text": "A nut fell from the tree.",
+        "startTime": 62921,
+        "endTime": 65096,
+        "slowStartTime": 94532,
+        "slowEndTime": 97869
+    },
+    {
+        "text": "It hit Rabbit on the head.",
+        "startTime": 65603,
+        "endTime": 67935,
+        "slowStartTime": 98554,
+        "slowEndTime": 102127
+    }
+]

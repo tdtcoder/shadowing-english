@@ -1,0 +1,184 @@
+[
+    {
+        "text": "Hi, Mr. Switzer.",
+        "startTime": 768,
+        "endTime": 1595,
+        "slowStartTime": 1302,
+        "slowEndTime": 2617
+    },
+    {
+        "text": "I'm Jennifer from Speech Therapy.",
+        "startTime": 1676,
+        "endTime": 3493,
+        "slowStartTime": 2664,
+        "slowEndTime": 5465
+    },
+    {
+        "text": "How are you doing today?",
+        "startTime": 3585,
+        "endTime": 4519,
+        "slowStartTime": 5528,
+        "slowEndTime": 7004
+    },
+    {
+        "text": "I've been better.",
+        "startTime": 5035,
+        "endTime": 5485,
+        "slowStartTime": 7703,
+        "slowEndTime": 8452
+    },
+    {
+        "text": "Okay.",
+        "startTime": 5743,
+        "endTime": 6269,
+        "slowStartTime": 8765,
+        "slowEndTime": 9628
+    },
+    {
+        "text": "I just want to make sure before we get started that I'm talking to the right person,...",
+        "startTime": 6428,
+        "endTime": 9705,
+        "slowStartTime": 9792,
+        "slowEndTime": 14782
+    },
+    {
+        "text": "...so I just want to check your name band.",
+        "startTime": 9786,
+        "endTime": 11261,
+        "slowStartTime": 14829,
+        "slowEndTime": 17116
+    },
+    {
+        "text": "Can you tell me your name and your birthday?",
+        "startTime": 11328,
+        "endTime": 12969,
+        "slowStartTime": 17142,
+        "slowEndTime": 19679
+    },
+    {
+        "text": "Max Switzer.",
+        "startTime": 13051,
+        "endTime": 14537,
+        "slowStartTime": 19727,
+        "slowEndTime": 22031
+    },
+    {
+        "text": "11 / 25 / 1984.",
+        "startTime": 14775,
+        "endTime": 17263,
+        "slowStartTime": 22313,
+        "slowEndTime": 26120
+    },
+    {
+        "text": "So first, I just want to take a look inside your mouth.",
+        "startTime": 17982,
+        "endTime": 20703,
+        "slowStartTime": 27123,
+        "slowEndTime": 31279
+    },
+    {
+        "text": "Is that okay?",
+        "startTime": 20779,
+        "endTime": 21452,
+        "slowStartTime": 31319,
+        "slowEndTime": 32403
+    },
+    {
+        "text": "Here's my flashlight, it's kind of big.",
+        "startTime": 21540,
+        "endTime": 23187,
+        "slowStartTime": 32460,
+        "slowEndTime": 35006
+    },
+    {
+        "text": "Can you open real wide for me?",
+        "startTime": 23373,
+        "endTime": 24784,
+        "slowStartTime": 35210,
+        "slowEndTime": 37401
+    },
+    {
+        "text": "Good, can you say uh-uh-uh?",
+        "startTime": 25757,
+        "endTime": 27481,
+        "slowStartTime": 38785,
+        "slowEndTime": 41447
+    },
+    {
+        "text": "Uh-uh-uh.",
+        "startTime": 27583,
+        "endTime": 28541,
+        "slowStartTime": 41525,
+        "slowEndTime": 43037
+    },
+    {
+        "text": "Good, can you stick your tongue out as far as you can?",
+        "startTime": 28705,
+        "endTime": 30940,
+        "slowStartTime": 43207,
+        "slowEndTime": 46635
+    },
+    {
+        "text": "Good, and move it side to side.",
+        "startTime": 31155,
+        "endTime": 32880,
+        "slowStartTime": 46883,
+        "slowEndTime": 49545
+    },
+    {
+        "text": "Perfect, and up and down.",
+        "startTime": 33604,
+        "endTime": 35287,
+        "slowStartTime": 50556,
+        "slowEndTime": 53156
+    },
+    {
+        "text": "Great, and smile really big.",
+        "startTime": 36873,
+        "endTime": 38527,
+        "slowStartTime": 55460,
+        "slowEndTime": 58015
+    },
+    {
+        "text": "Good, and pucker and say ooh.",
+        "startTime": 39230,
+        "endTime": 40879,
+        "slowStartTime": 58995,
+        "slowEndTime": 61543
+    },
+    {
+        "text": "Good, any numbness or tingling in your face, your lips, your cheeks?",
+        "startTime": 41607,
+        "endTime": 46133,
+        "slowStartTime": 62561,
+        "slowEndTime": 69424
+    },
+    {
+        "text": "No.",
+        "startTime": 46362,
+        "endTime": 46850,
+        "slowStartTime": 69693,
+        "slowEndTime": 70500
+    },
+    {
+        "text": "It all feels normal?",
+        "startTime": 47224,
+        "endTime": 48073,
+        "slowStartTime": 70986,
+        "slowEndTime": 72334
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 48151,
+        "endTime": 48395,
+        "slowStartTime": 72377,
+        "slowEndTime": 72818
+    },
+    {
+        "text": "Good.",
+        "startTime": 48576,
+        "endTime": 48954,
+        "slowStartTime": 73014,
+        "slowEndTime": 73656
+    }
+]

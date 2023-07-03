@@ -1,0 +1,93 @@
+[
+    {
+        "text": "I need to get some kitchen appliances today.",
+        "startTime": 2780,
+        "endTime": 4905,
+        "slowStartTime": 4320,
+        "slowEndTime": 7582
+    },
+    {
+        "text": "Hey, why don't you let me come with you?",
+        "startTime": 5193,
+        "endTime": 7620,
+        "slowStartTime": 7940,
+        "slowEndTime": 11655
+    },
+    {
+        "text": "That'd be great. I'd appreciate it.",
+        "startTime": 7813,
+        "endTime": 9595,
+        "slowStartTime": 11869,
+        "slowEndTime": 14617
+    },
+    {
+        "text": "No sweat. What do you need to buy?",
+        "startTime": 9930,
+        "endTime": 11944,
+        "slowStartTime": 15045,
+        "slowEndTime": 18141
+    },
+    {
+        "text": "Mostly, I need to get a fridge right away.",
+        "startTime": 12319,
+        "endTime": 14725,
+        "slowStartTime": 18628,
+        "slowEndTime": 22312
+    },
+    {
+        "text": "Yes, that's pretty necessary.",
+        "startTime": 15018,
+        "endTime": 16893,
+        "slowStartTime": 22677,
+        "slowEndTime": 25565
+    },
+    {
+        "text": "I'd also like to look around for some other stuff,...",
+        "startTime": 17103,
+        "endTime": 19224,
+        "slowStartTime": 25804,
+        "slowEndTime": 29061
+    },
+    {
+        "text": "...like maybe a microwave and a toaster, and stuff like that.",
+        "startTime": 19443,
+        "endTime": 22488,
+        "slowStartTime": 29314,
+        "slowEndTime": 33957
+    },
+    {
+        "text": "Okay, I think I know just the right place.",
+        "startTime": 22763,
+        "endTime": 25533,
+        "slowStartTime": 34295,
+        "slowEndTime": 38525
+    },
+    {
+        "text": "Where's that?",
+        "startTime": 25709,
+        "endTime": 26239,
+        "slowStartTime": 38713,
+        "slowEndTime": 39583
+    },
+    {
+        "text": "Mike's Kitchen and House Machines.",
+        "startTime": 26870,
+        "endTime": 28897,
+        "slowStartTime": 40455,
+        "slowEndTime": 43570
+    },
+    {
+        "text": "He's got everything you need at very reasonable prices.",
+        "startTime": 29113,
+        "endTime": 32284,
+        "slowStartTime": 43820,
+        "slowEndTime": 48651
+    },
+    {
+        "text": "Okay, what are we waiting for?",
+        "startTime": 32514,
+        "endTime": 33990,
+        "slowStartTime": 48921,
+        "slowEndTime": 51210
+    }
+]

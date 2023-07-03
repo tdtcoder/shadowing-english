@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Doritos are great for a lot of things,...",
+        "startTime": 1000,
+        "endTime": 2529,
+        "slowStartTime": 1650,
+        "slowEndTime": 4018
+    },
+    {
+        "text": "...but not everything.",
+        "startTime": 3045,
+        "endTime": 4233,
+        "slowStartTime": 4717,
+        "slowEndTime": 6574
+    },
+    {
+        "text": "Definitely not as a parachute.",
+        "startTime": 4951,
+        "endTime": 7131,
+        "slowStartTime": 7577,
+        "slowEndTime": 10921
+    },
+    {
+        "text": "It won't work great as flotation devices...",
+        "startTime": 9703,
+        "endTime": 12193,
+        "slowStartTime": 14705,
+        "slowEndTime": 18514
+    },
+    {
+        "text": "...and definitely not great as a criminal defense attorney.",
+        "startTime": 17123,
+        "endTime": 19834,
+        "slowStartTime": 25834,
+        "slowEndTime": 29976
+    },
+    {
+        "text": "We find the defendant guilty.",
+        "startTime": 20121,
+        "endTime": 22362,
+        "slowStartTime": 30332,
+        "slowEndTime": 33768
+    },
+    {
+        "text": "Although after you recover from your fall, get pulled from the bottom of the pool,...",
+        "startTime": 23101,
+        "endTime": 26068,
+        "slowStartTime": 34801,
+        "slowEndTime": 39327
+    },
+    {
+        "text": "...and get out of jail,...",
+        "startTime": 26170,
+        "endTime": 27075,
+        "slowStartTime": 39405,
+        "slowEndTime": 40837
+    },
+    {
+        "text": "...use Doritos for what they're best for: snacking.",
+        "startTime": 27287,
+        "endTime": 29900,
+        "slowStartTime": 41081,
+        "slowEndTime": 45075
+    }
+]

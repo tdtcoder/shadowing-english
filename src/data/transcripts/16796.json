@@ -1,0 +1,93 @@
+[
+    {
+        "text": "A mother sheep and seven little lambs live in a house.",
+        "startTime": 125,
+        "endTime": 4279,
+        "slowStartTime": 338,
+        "slowEndTime": 6644
+    },
+    {
+        "text": "Dears, I am going to buy some vegetables.",
+        "startTime": 5301,
+        "endTime": 8945,
+        "slowStartTime": 8102,
+        "slowEndTime": 13642
+    },
+    {
+        "text": "Watch out. There is a bad wolf in the forest.",
+        "startTime": 9883,
+        "endTime": 13809,
+        "slowStartTime": 14974,
+        "slowEndTime": 20938
+    },
+    {
+        "text": "He is very dangerous.",
+        "startTime": 14785,
+        "endTime": 16875,
+        "slowStartTime": 22327,
+        "slowEndTime": 25537
+    },
+    {
+        "text": "Don't open the door to the wolf!",
+        "startTime": 17833,
+        "endTime": 20117,
+        "slowStartTime": 26900,
+        "slowEndTime": 30400
+    },
+    {
+        "text": "Yes, mom. Don't worry!",
+        "startTime": 21111,
+        "endTime": 23840,
+        "slowStartTime": 31817,
+        "slowEndTime": 35985
+    },
+    {
+        "text": "After a while, a big wolf appears.",
+        "startTime": 24941,
+        "endTime": 28641,
+        "slowStartTime": 37561,
+        "slowEndTime": 43186
+    },
+    {
+        "text": "Who is it?",
+        "startTime": 29673,
+        "endTime": 30772,
+        "slowStartTime": 44660,
+        "slowEndTime": 46383
+    },
+    {
+        "text": "Kids, your mommy is home.",
+        "startTime": 31882,
+        "endTime": 34271,
+        "slowStartTime": 47973,
+        "slowEndTime": 51631
+    },
+    {
+        "text": "Huh?",
+        "startTime": 35461,
+        "endTime": 36215,
+        "slowStartTime": 53341,
+        "slowEndTime": 54548
+    },
+    {
+        "text": "No! Your voice is so rough!",
+        "startTime": 37337,
+        "endTime": 40718,
+        "slowStartTime": 56155,
+        "slowEndTime": 61302
+    },
+    {
+        "text": "The wolf goes to eat some eggs.",
+        "startTime": 42229,
+        "endTime": 45216,
+        "slowStartTime": 63494,
+        "slowEndTime": 68049
+    },
+    {
+        "text": "Soon he comes back.",
+        "startTime": 45883,
+        "endTime": 47501,
+        "slowStartTime": 68974,
+        "slowEndTime": 71476
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "text": "I'm Judd Brown, Exhibits Manager at the American Museum of Science and Energy.",
+        "startTime": 4325,
+        "endTime": 8029,
+        "slowStartTime": 6637,
+        "slowEndTime": 12268
+    },
+    {
+        "text": "And we're going to show you how a nuclear power plant works.",
+        "startTime": 8106,
+        "endTime": 10344,
+        "slowStartTime": 12309,
+        "slowEndTime": 15741
+    },
+    {
+        "text": "This is a nuclear reactor and here's where everything starts.",
+        "startTime": 17000,
+        "endTime": 19780,
+        "slowStartTime": 25650,
+        "slowEndTime": 29895
+    },
+    {
+        "text": "The nuclear reactor splits atoms to produce heat.",
+        "startTime": 20398,
+        "endTime": 23041,
+        "slowStartTime": 30747,
+        "slowEndTime": 34787
+    },
+    {
+        "text": "The reactor core sends hot water over into the steam boilers.",
+        "startTime": 23968,
+        "endTime": 27107,
+        "slowStartTime": 36102,
+        "slowEndTime": 40885
+    },
+    {
+        "text": "We now refer to steam boilers as steam generators.",
+        "startTime": 27579,
+        "endTime": 30450,
+        "slowStartTime": 41519,
+        "slowEndTime": 45900
+    },
+    {
+        "text": "We bring in cooler water down in this section...",
+        "startTime": 31269,
+        "endTime": 33821,
+        "slowStartTime": 47054,
+        "slowEndTime": 50957
+    },
+    {
+        "text": "...and as the cool water comes into the steam boilers, it's turned into steam.",
+        "startTime": 33914,
+        "endTime": 37741,
+        "slowStartTime": 51021,
+        "slowEndTime": 56836
+    },
+    {
+        "text": "Steam is routed across this top section which turns the blades of a turbine.",
+        "startTime": 38799,
+        "endTime": 42946,
+        "slowStartTime": 58348,
+        "slowEndTime": 64644
+    },
+    {
+        "text": "The turbine turns a generator which produces electricity.",
+        "startTime": 45067,
+        "endTime": 48399,
+        "slowStartTime": 67751,
+        "slowEndTime": 72823
+    },
+    {
+        "text": "That electricity can then be used to supply up to 800,000 people.",
+        "startTime": 49665,
+        "endTime": 53507,
+        "slowStartTime": 74647,
+        "slowEndTime": 80485
+    },
+    {
+        "text": "Once the electricity is produced,...",
+        "startTime": 55669,
+        "endTime": 57066,
+        "slowStartTime": 83653,
+        "slowEndTime": 85824
+    },
+    {
+        "text": "...we can use these two systems to cool down our waters so that it can be reused.",
+        "startTime": 57158,
+        "endTime": 60740,
+        "slowStartTime": 85887,
+        "slowEndTime": 91335
+    },
+    {
+        "text": "Currently in Tennessee, we have two nuclear power plants...",
+        "startTime": 61762,
+        "endTime": 64517,
+        "slowStartTime": 92793,
+        "slowEndTime": 97001
+    },
+    {
+        "text": "...with a total operating capacity of three units.",
+        "startTime": 64957,
+        "endTime": 67593,
+        "slowStartTime": 97585,
+        "slowEndTime": 101614
+    },
+    {
+        "text": "Nuclear power plants have a useful life expectancy of some 40 to 50 years,...",
+        "startTime": 68634,
+        "endTime": 72719,
+        "slowStartTime": 103101,
+        "slowEndTime": 109303
+    },
+    {
+        "text": "...making 'em viable for producing electricity for several generations.",
+        "startTime": 73246,
+        "endTime": 77062,
+        "slowStartTime": 110019,
+        "slowEndTime": 115818
+    },
+    {
+        "text": "I'm Judd Brown at the American Museum of Science and Energy.",
+        "startTime": 78255,
+        "endTime": 80955,
+        "slowStartTime": 117533,
+        "slowEndTime": 121658
+    },
+    {
+        "text": "To learn more about nuclear power, visit us here at Oak Ridge...",
+        "startTime": 81019,
+        "endTime": 84079,
+        "slowStartTime": 121679,
+        "slowEndTime": 126343
+    },
+    {
+        "text": "...or check out our website at AMSE.org.",
+        "startTime": 84353,
+        "endTime": 87363,
+        "slowStartTime": 126679,
+        "slowEndTime": 131270
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Go is a very ancient game.",
+        "startTime": 2733,
+        "endTime": 5325,
+        "slowStartTime": 4250,
+        "slowEndTime": 8212
+    },
+    {
+        "text": "It's probably the most complex game humans play.",
+        "startTime": 6020,
+        "endTime": 8083,
+        "slowStartTime": 9180,
+        "slowEndTime": 12349
+    },
+    {
+        "text": "There's more configurations of the board than there are atoms in the universe.",
+        "startTime": 8294,
+        "endTime": 11959,
+        "slowStartTime": 12591,
+        "slowEndTime": 18164
+    },
+    {
+        "text": "So, we've beaten Fan Hui, the European champion.",
+        "startTime": 12746,
+        "endTime": 15160,
+        "slowStartTime": 19269,
+        "slowEndTime": 22965
+    },
+    {
+        "text": "Now, we have to go and demonstrate we can beat the world's top players,...",
+        "startTime": 15351,
+        "endTime": 19079,
+        "slowStartTime": 23177,
+        "slowEndTime": 28843
+    },
+    {
+        "text": "...not just the European top player.",
+        "startTime": 19310,
+        "endTime": 21055,
+        "slowStartTime": 29115,
+        "slowEndTime": 31808
+    },
+    {
+        "text": "So, we're actually going to be playing a match in March against Lee Sedol,...",
+        "startTime": 22024,
+        "endTime": 25589,
+        "slowStartTime": 33186,
+        "slowEndTime": 38609
+    },
+    {
+        "text": "...who is the greatest player of modern times.",
+        "startTime": 25780,
+        "endTime": 27685,
+        "slowStartTime": 38820,
+        "slowEndTime": 41752
+    },
+    {
+        "text": "He has won more championships than any other player in the last decade.",
+        "startTime": 27757,
+        "endTime": 30431,
+        "slowStartTime": 41785,
+        "slowEndTime": 45871
+    },
+    {
+        "text": "And he has accepted the challenge to play AlphaGo...",
+        "startTime": 30801,
+        "endTime": 34157,
+        "slowStartTime": 46352,
+        "slowEndTime": 51461
+    },
+    {
+        "text": "...and we're quietly confident that again, who knows what will happen.",
+        "startTime": 34522,
+        "endTime": 39600,
+        "slowStartTime": 51933,
+        "slowEndTime": 59625
+    },
+    {
+        "text": "A human perhaps can play a thousand games a year.",
+        "startTime": 39883,
+        "endTime": 43115,
+        "slowStartTime": 59975,
+        "slowEndTime": 64897
+    },
+    {
+        "text": "AlphaGo can play through millions of games every single day.",
+        "startTime": 43437,
+        "endTime": 48093,
+        "slowStartTime": 65306,
+        "slowEndTime": 72364
+    },
+    {
+        "text": "That's at least conceivable that as a result, AlphaGo could, given enough processing,...",
+        "startTime": 48931,
+        "endTime": 53992,
+        "slowStartTime": 73547,
+        "slowEndTime": 81213
+    },
+    {
+        "text": "...given enough training, given enough search power, reach a level that's beyond any human.",
+        "startTime": 54079,
+        "endTime": 58735,
+        "slowStartTime": 81268,
+        "slowEndTime": 88327
+    }
+]

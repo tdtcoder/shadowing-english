@@ -1,0 +1,93 @@
+[
+    {
+        "text": "Hi, I am a period.",
+        "startTime": 3338,
+        "endTime": 6029,
+        "slowStartTime": 5157,
+        "slowEndTime": 9269
+    },
+    {
+        "text": "I am used at the end of a complete thought.",
+        "startTime": 6247,
+        "endTime": 9386,
+        "slowStartTime": 9520,
+        "slowEndTime": 14304
+    },
+    {
+        "text": "I am a question mark, right?",
+        "startTime": 19182,
+        "endTime": 21397,
+        "slowStartTime": 28923,
+        "slowEndTime": 32320
+    },
+    {
+        "text": "Does anyone have any questions?",
+        "startTime": 21877,
+        "endTime": 25016,
+        "slowStartTime": 32966,
+        "slowEndTime": 37749
+    },
+    {
+        "text": "I am an exclamation mark!",
+        "startTime": 33859,
+        "endTime": 35595,
+        "slowStartTime": 50938,
+        "slowEndTime": 53617
+    },
+    {
+        "text": "I am used for strong feelings!",
+        "startTime": 35869,
+        "endTime": 37813,
+        "slowStartTime": 53953,
+        "slowEndTime": 56945
+    },
+    {
+        "text": "I am excited!",
+        "startTime": 38069,
+        "endTime": 39183,
+        "slowStartTime": 57253,
+        "slowEndTime": 59000
+    },
+    {
+        "text": "I am a comma.",
+        "startTime": 49465,
+        "endTime": 51025,
+        "slowStartTime": 74348,
+        "slowEndTime": 76763
+    },
+    {
+        "text": "I am used to make a pause between thoughts, and also to list things.",
+        "startTime": 51272,
+        "endTime": 55947,
+        "slowStartTime": 77058,
+        "slowEndTime": 84146
+    },
+    {
+        "text": "I like cookies, cupcakes, and cucumbers.",
+        "startTime": 56129,
+        "endTime": 61404,
+        "slowStartTime": 84343,
+        "slowEndTime": 92331
+    },
+    {
+        "text": "Yikes! What is that?",
+        "startTime": 70248,
+        "endTime": 73793,
+        "slowStartTime": 105522,
+        "slowEndTime": 110915
+    },
+    {
+        "text": "I have no idea.",
+        "startTime": 75092,
+        "endTime": 77395,
+        "slowStartTime": 112788,
+        "slowEndTime": 116318
+    },
+    {
+        "text": "I like cookies, cupcakes, and cucumbers.",
+        "startTime": 79432,
+        "endTime": 84645,
+        "slowStartTime": 119298,
+        "slowEndTime": 127193
+    }
+]

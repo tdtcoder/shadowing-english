@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Here are some sentences you might hear in a job interview.",
+        "startTime": 50,
+        "endTime": 2988,
+        "slowStartTime": 195,
+        "slowEndTime": 4707
+    },
+    {
+        "text": "Tell me a little bit about yourself.",
+        "startTime": 4941,
+        "endTime": 6625,
+        "slowStartTime": 7561,
+        "slowEndTime": 10162
+    },
+    {
+        "text": "How did you hear about the position?",
+        "startTime": 8525,
+        "endTime": 9955,
+        "slowStartTime": 12938,
+        "slowEndTime": 15157
+    },
+    {
+        "text": "Why are you interested in this position?",
+        "startTime": 11943,
+        "endTime": 14044,
+        "slowStartTime": 18064,
+        "slowEndTime": 21291
+    },
+    {
+        "text": "Why should we hire you?",
+        "startTime": 15982,
+        "endTime": 17391,
+        "slowStartTime": 24123,
+        "slowEndTime": 26311
+    },
+    {
+        "text": "What do you consider your strengths and weaknesses?",
+        "startTime": 19249,
+        "endTime": 22604,
+        "slowStartTime": 29023,
+        "slowEndTime": 34131
+    },
+    {
+        "text": "Tell me about a time when you overcame a challenge at work.",
+        "startTime": 24602,
+        "endTime": 27834,
+        "slowStartTime": 37053,
+        "slowEndTime": 41976
+    },
+    {
+        "text": "What are your career goals?",
+        "startTime": 29627,
+        "endTime": 31311,
+        "slowStartTime": 44590,
+        "slowEndTime": 47191
+    },
+    {
+        "text": "Where do you see yourself in five years?",
+        "startTime": 33205,
+        "endTime": 35553,
+        "slowStartTime": 49958,
+        "slowEndTime": 53554
+    },
+    {
+        "text": "Why do you want to work here?",
+        "startTime": 37509,
+        "endTime": 38951,
+        "slowStartTime": 56413,
+        "slowEndTime": 58652
+    },
+    {
+        "text": "Do you have any questions for me?",
+        "startTime": 40970,
+        "endTime": 42646,
+        "slowStartTime": 61605,
+        "slowEndTime": 64194
+    }
+]

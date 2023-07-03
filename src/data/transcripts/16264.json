@@ -1,0 +1,352 @@
+[
+    {
+        "text": "While in planetary orbit, the view of the Earth looks calm,...",
+        "startTime": 1573,
+        "endTime": 4593,
+        "slowStartTime": 2509,
+        "slowEndTime": 7114
+    },
+    {
+        "text": "...but the vacuum of space is a hostile environment lacking oxygen...",
+        "startTime": 4777,
+        "endTime": 8167,
+        "slowStartTime": 7316,
+        "slowEndTime": 12475
+    },
+    {
+        "text": "...and filled with radiation, which can be harmful in large amounts.",
+        "startTime": 8275,
+        "endTime": 11675,
+        "slowStartTime": 12563,
+        "slowEndTime": 17737
+    },
+    {
+        "text": "Although humans can't survive in it,...",
+        "startTime": 13695,
+        "endTime": 15451,
+        "slowStartTime": 20693,
+        "slowEndTime": 23401
+    },
+    {
+        "text": "...people have been exploring the frontier of space since the manned space flights of the 1960s.",
+        "startTime": 15636,
+        "endTime": 20497,
+        "slowStartTime": 23604,
+        "slowEndTime": 30971
+    },
+    {
+        "text": "A number of astronauts have achieved this with the help of spaceships,...",
+        "startTime": 22296,
+        "endTime": 25510,
+        "slowStartTime": 33594,
+        "slowEndTime": 38490
+    },
+    {
+        "text": "...space suits and other scientific inventions to help them endure the challenges.",
+        "startTime": 25705,
+        "endTime": 30313,
+        "slowStartTime": 38707,
+        "slowEndTime": 45694
+    },
+    {
+        "text": "In order for astronauts to survive in space,...",
+        "startTime": 34135,
+        "endTime": 36343,
+        "slowStartTime": 51352,
+        "slowEndTime": 54739
+    },
+    {
+        "text": "...space suits must provide them with a self-contained environment.",
+        "startTime": 36515,
+        "endTime": 39663,
+        "slowStartTime": 54922,
+        "slowEndTime": 59720
+    },
+    {
+        "text": "The suit's tough material and heating and cooling elements...",
+        "startTime": 40997,
+        "endTime": 43694,
+        "slowStartTime": 61646,
+        "slowEndTime": 65766
+    },
+    {
+        "text": "...protect astronauts from extreme temperatures,...",
+        "startTime": 43899,
+        "endTime": 46138,
+        "slowStartTime": 65998,
+        "slowEndTime": 69432
+    },
+    {
+        "text": "...which can range from around 121 degrees Celsius to minus 157.",
+        "startTime": 46423,
+        "endTime": 51361,
+        "slowStartTime": 69784,
+        "slowEndTime": 77267
+    },
+    {
+        "text": "The suits are also pressurized, allowing astronauts to breathe...",
+        "startTime": 54580,
+        "endTime": 57913,
+        "slowStartTime": 82020,
+        "slowEndTime": 87095
+    },
+    {
+        "text": "...and keeping their blood from boiling in the vacuum of space.",
+        "startTime": 58020,
+        "endTime": 60753,
+        "slowStartTime": 87180,
+        "slowEndTime": 91355
+    },
+    {
+        "text": "The first daring steps outside the spacecraft...",
+        "startTime": 63134,
+        "endTime": 65360,
+        "slowStartTime": 94851,
+        "slowEndTime": 98265
+    },
+    {
+        "text": "...were made by Soviet astronaut Aleksei Leonov on March 18th 1965.",
+        "startTime": 65479,
+        "endTime": 70260,
+        "slowStartTime": 98369,
+        "slowEndTime": 105615
+    },
+    {
+        "text": "He was outside the spacecraft for 12 minutes.",
+        "startTime": 70911,
+        "endTime": 73508,
+        "slowStartTime": 106516,
+        "slowEndTime": 110487
+    },
+    {
+        "text": "This achievement was repeated months later...",
+        "startTime": 75495,
+        "endTime": 77402,
+        "slowStartTime": 113392,
+        "slowEndTime": 116328
+    },
+    {
+        "text": "...by American astronaut Edward White during the Gemini 4 Mission,...",
+        "startTime": 77480,
+        "endTime": 80990,
+        "slowStartTime": 116370,
+        "slowEndTime": 121710
+    },
+    {
+        "text": "...which first launched into space on June 3rd 1965.",
+        "startTime": 81179,
+        "endTime": 84546,
+        "slowStartTime": 121918,
+        "slowEndTime": 127044
+    },
+    {
+        "text": "On that same day, White became the first American to spacewalk,...",
+        "startTime": 85053,
+        "endTime": 88398,
+        "slowStartTime": 127730,
+        "slowEndTime": 132822
+    },
+    {
+        "text": "...staying outside of the safety of the spacecraft for a total of 23 minutes.",
+        "startTime": 88495,
+        "endTime": 92617,
+        "slowStartTime": 132893,
+        "slowEndTime": 139150
+    },
+    {
+        "text": "Although these short trips were only intended...",
+        "startTime": 94389,
+        "endTime": 96380,
+        "slowStartTime": 141733,
+        "slowEndTime": 144795
+    },
+    {
+        "text": "... to test the possibility of humans existing outside of spacecrafts,...",
+        "startTime": 96467,
+        "endTime": 100080,
+        "slowStartTime": 144850,
+        "slowEndTime": 150345
+    },
+    {
+        "text": "...spacewalks have become a relatively common part of missions in the space shuttle era.",
+        "startTime": 100202,
+        "endTime": 104457,
+        "slowStartTime": 150453,
+        "slowEndTime": 156911
+    },
+    {
+        "text": "On spacewalks, astronauts are able to perform crucial tasks...",
+        "startTime": 107503,
+        "endTime": 111065,
+        "slowStartTime": 161405,
+        "slowEndTime": 166822
+    },
+    {
+        "text": "...that could not be accomplished from inside the shuttle.",
+        "startTime": 111149,
+        "endTime": 113507,
+        "slowStartTime": 166873,
+        "slowEndTime": 170485
+    },
+    {
+        "text": "They've been able to recover lost satellites and restore them to their proper orbit.",
+        "startTime": 114157,
+        "endTime": 117974,
+        "slowStartTime": 171385,
+        "slowEndTime": 177186
+    },
+    {
+        "text": "They've serviced and repaired orbiting bodies...",
+        "startTime": 118827,
+        "endTime": 120975,
+        "slowStartTime": 178390,
+        "slowEndTime": 181688
+    },
+    {
+        "text": "...like replacing the solar panels on the Hubble Space Telescope,...",
+        "startTime": 121086,
+        "endTime": 124188,
+        "slowStartTime": 181779,
+        "slowEndTime": 186507
+    },
+    {
+        "text": "...and they've become the construction team for the International Space Station,...",
+        "startTime": 124603,
+        "endTime": 127961,
+        "slowStartTime": 187054,
+        "slowEndTime": 192167
+    },
+    {
+        "text": "..a research facility currently being put together in space.",
+        "startTime": 128175,
+        "endTime": 131226,
+        "slowStartTime": 192412,
+        "slowEndTime": 197064
+    },
+    {
+        "text": "Conducting spacewalks is not without challenges.",
+        "startTime": 132421,
+        "endTime": 135129,
+        "slowStartTime": 198782,
+        "slowEndTime": 202919
+    },
+    {
+        "text": "There's the constant danger of floating away due to the lack of gravity,...",
+        "startTime": 135459,
+        "endTime": 138871,
+        "slowStartTime": 203339,
+        "slowEndTime": 208531
+    },
+    {
+        "text": "...so astronauts work in pairs, tied to the spacecraft for safety.",
+        "startTime": 139099,
+        "endTime": 143125,
+        "slowStartTime": 208799,
+        "slowEndTime": 214912
+    },
+    {
+        "text": "Working in space suits is not as easy as one might think,...",
+        "startTime": 143655,
+        "endTime": 146621,
+        "slowStartTime": 215632,
+        "slowEndTime": 220156
+    },
+    {
+        "text": "...and the thick, pressurized gloves make holding tools difficult.",
+        "startTime": 146875,
+        "endTime": 150140,
+        "slowStartTime": 220463,
+        "slowEndTime": 225435
+    },
+    {
+        "text": "To ensure spacewalk missions are successful, astronauts practice their planned walks.",
+        "startTime": 152216,
+        "endTime": 156879,
+        "slowStartTime": 228474,
+        "slowEndTime": 235544
+    },
+    {
+        "text": "They do so, in a large water filled tank,...",
+        "startTime": 157766,
+        "endTime": 159835,
+        "slowStartTime": 236799,
+        "slowEndTime": 239977
+    },
+    {
+        "text": "...to test the physiological effects of living in a weightless environment such as space.",
+        "startTime": 159927,
+        "endTime": 163970,
+        "slowStartTime": 240041,
+        "slowEndTime": 246180
+    },
+    {
+        "text": "While immersed in the water, the astronauts neither sink nor float,...",
+        "startTime": 164674,
+        "endTime": 168275,
+        "slowStartTime": 247161,
+        "slowEndTime": 252637
+    },
+    {
+        "text": "...creating a sensation close to weightlessness.",
+        "startTime": 168542,
+        "endTime": 170704,
+        "slowStartTime": 252963,
+        "slowEndTime": 256281
+    },
+    {
+        "text": "For every hour of task scheduled on a mission,...",
+        "startTime": 171533,
+        "endTime": 173770,
+        "slowStartTime": 257450,
+        "slowEndTime": 260880
+    },
+    {
+        "text": "...up to ten hours are spent practicing underwater.",
+        "startTime": 173993,
+        "endTime": 176431,
+        "slowStartTime": 261139,
+        "slowEndTime": 264872
+    },
+    {
+        "text": "As NASA moves forward on the International Space Station,...",
+        "startTime": 178177,
+        "endTime": 181127,
+        "slowStartTime": 267416,
+        "slowEndTime": 271916
+    },
+    {
+        "text": "...spacewalks will continue to be essential to the process.",
+        "startTime": 181313,
+        "endTime": 184346,
+        "slowStartTime": 272120,
+        "slowEndTime": 276744
+    },
+    {
+        "text": "The project, which began construction in 1998,...",
+        "startTime": 184663,
+        "endTime": 187540,
+        "slowStartTime": 277145,
+        "slowEndTime": 281535
+    },
+    {
+        "text": "...has a projected operations date through at least 2016.",
+        "startTime": 187669,
+        "endTime": 191344,
+        "slowStartTime": 281653,
+        "slowEndTime": 287241
+    },
+    {
+        "text": "By that time, workers will have completed the station and it will likely be totally operational.",
+        "startTime": 191569,
+        "endTime": 196458,
+        "slowStartTime": 287504,
+        "slowEndTime": 294912
+    },
+    {
+        "text": "It looks like there will be plenty to keep the spacewalkers busy over the next few years.",
+        "startTime": 196688,
+        "endTime": 200897,
+        "slowStartTime": 295182,
+        "slowEndTime": 301570
+    }
+]

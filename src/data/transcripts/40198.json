@@ -1,0 +1,72 @@
+[
+    {
+        "text": "This is my workstation.",
+        "startTime": 775,
+        "endTime": 2439,
+        "slowStartTime": 1313,
+        "slowEndTime": 3884
+    },
+    {
+        "text": "There are many things on my table.",
+        "startTime": 2859,
+        "endTime": 4786,
+        "slowStartTime": 4439,
+        "slowEndTime": 7404
+    },
+    {
+        "text": "There is a computer screen, a keyboard, and a mouse.",
+        "startTime": 5187,
+        "endTime": 8379,
+        "slowStartTime": 7931,
+        "slowEndTime": 12794
+    },
+    {
+        "text": "Those are new.",
+        "startTime": 8711,
+        "endTime": 9793,
+        "slowStartTime": 13216,
+        "slowEndTime": 14915
+    },
+    {
+        "text": "There is a brown speaker beside my computer screen.",
+        "startTime": 10512,
+        "endTime": 13393,
+        "slowStartTime": 15918,
+        "slowEndTime": 20314
+    },
+    {
+        "text": "It is cheap, but I like its design.",
+        "startTime": 13881,
+        "endTime": 15931,
+        "slowStartTime": 20972,
+        "slowEndTime": 24122
+    },
+    {
+        "text": "And can you see the small green toy under my computer screen?",
+        "startTime": 16605,
+        "endTime": 20171,
+        "slowStartTime": 25057,
+        "slowEndTime": 30482
+    },
+    {
+        "text": "It's cute, so I put it there.",
+        "startTime": 20637,
+        "endTime": 22318,
+        "slowStartTime": 31105,
+        "slowEndTime": 33702
+    },
+    {
+        "text": "There is also a lamp beside my computer screen, on the other side.",
+        "startTime": 22921,
+        "endTime": 27029,
+        "slowStartTime": 34531,
+        "slowEndTime": 40769
+    },
+    {
+        "text": "It is expensive, but I like it a lot, so I bought it.",
+        "startTime": 27395,
+        "endTime": 30503,
+        "slowStartTime": 41243,
+        "slowEndTime": 45980
+    }
+]

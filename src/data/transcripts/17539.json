@@ -1,0 +1,198 @@
+[
+    {
+        "text": "Maria likes to play baseball.",
+        "startTime": 1551,
+        "endTime": 4028,
+        "slowStartTime": 2476,
+        "slowEndTime": 6267
+    },
+    {
+        "text": "She plays catch with her brother, Luis.",
+        "startTime": 5370,
+        "endTime": 8171,
+        "slowStartTime": 8205,
+        "slowEndTime": 12481
+    },
+    {
+        "text": "The baseball coach asks Maria to join the baseball team.",
+        "startTime": 9308,
+        "endTime": 13806,
+        "slowStartTime": 14112,
+        "slowEndTime": 20934
+    },
+    {
+        "text": "\"We play at four o'clock on Tuesdays,\"",
+        "startTime": 15037,
+        "endTime": 17626,
+        "slowStartTime": 22706,
+        "slowEndTime": 26664
+    },
+    {
+        "text": "He says.",
+        "startTime": 18587,
+        "endTime": 19312,
+        "slowStartTime": 28030,
+        "slowEndTime": 29193
+    },
+    {
+        "text": "\"Mom, I really want to play,\"",
+        "startTime": 20279,
+        "endTime": 23173,
+        "slowStartTime": 30568,
+        "slowEndTime": 34984
+    },
+    {
+        "text": "Maria says.",
+        "startTime": 24416,
+        "endTime": 25553,
+        "slowStartTime": 36774,
+        "slowEndTime": 38554
+    },
+    {
+        "text": "\"Can I?\"",
+        "startTime": 26543,
+        "endTime": 27404,
+        "slowStartTime": 39965,
+        "slowEndTime": 41331
+    },
+    {
+        "text": "Maria's mom says yes, and they race home to tell her dad.",
+        "startTime": 28635,
+        "endTime": 33633,
+        "slowStartTime": 43103,
+        "slowEndTime": 50674
+    },
+    {
+        "text": "Maria wears her baseball mitt to bed the night before her first game.",
+        "startTime": 34764,
+        "endTime": 39856,
+        "slowStartTime": 52296,
+        "slowEndTime": 60009
+    },
+    {
+        "text": "She gets up to go to school, and her mitt is still on.",
+        "startTime": 41281,
+        "endTime": 45644,
+        "slowStartTime": 62071,
+        "slowEndTime": 68691
+    },
+    {
+        "text": "At school, Amos gives Maria a note.",
+        "startTime": 46628,
+        "endTime": 50121,
+        "slowStartTime": 70092,
+        "slowEndTime": 75407
+    },
+    {
+        "text": "The note asks her to come to his birthday party.",
+        "startTime": 51376,
+        "endTime": 55057,
+        "slowStartTime": 77214,
+        "slowEndTime": 82811
+    },
+    {
+        "text": "\"Oh, no! I can't come,\"",
+        "startTime": 55948,
+        "endTime": 58795,
+        "slowStartTime": 84072,
+        "slowEndTime": 88417
+    },
+    {
+        "text": "Maria says.",
+        "startTime": 59650,
+        "endTime": 60828,
+        "slowStartTime": 89625,
+        "slowEndTime": 91467
+    },
+    {
+        "text": "\"I have a big game that day.\"",
+        "startTime": 61871,
+        "endTime": 64377,
+        "slowStartTime": 92957,
+        "slowEndTime": 96791
+    },
+    {
+        "text": "\"Maybe I could come to your party instead.\"",
+        "startTime": 65279,
+        "endTime": 68379,
+        "slowStartTime": 98069,
+        "slowEndTime": 102794
+    },
+    {
+        "text": "Maria asks the coach that night.",
+        "startTime": 70116,
+        "endTime": 72869,
+        "slowStartTime": 105324,
+        "slowEndTime": 109528
+    },
+    {
+        "text": "\"You can miss the game,\"",
+        "startTime": 73947,
+        "endTime": 75393,
+        "slowStartTime": 111071,
+        "slowEndTime": 113314
+    },
+    {
+        "text": "He says.",
+        "startTime": 76157,
+        "endTime": 76735,
+        "slowStartTime": 114385,
+        "slowEndTime": 115328
+    },
+    {
+        "text": "\"But the team will not have a shortstop.\"",
+        "startTime": 77873,
+        "endTime": 80619,
+        "slowStartTime": 116959,
+        "slowEndTime": 121154
+    },
+    {
+        "text": "\"I should not miss the game,\"",
+        "startTime": 82726,
+        "endTime": 84747,
+        "slowStartTime": 124239,
+        "slowEndTime": 127345
+    },
+    {
+        "text": "Maria says.",
+        "startTime": 85759,
+        "endTime": 86937,
+        "slowStartTime": 128788,
+        "slowEndTime": 130630
+    },
+    {
+        "text": "\"The team needs me.\"",
+        "startTime": 88532,
+        "endTime": 90191,
+        "slowStartTime": 132948,
+        "slowEndTime": 135511
+    },
+    {
+        "text": "It is the day of the big game.",
+        "startTime": 91611,
+        "endTime": 93859,
+        "slowStartTime": 137567,
+        "slowEndTime": 141013
+    },
+    {
+        "text": "All of Maria's family comes to watch.",
+        "startTime": 94720,
+        "endTime": 97531,
+        "slowStartTime": 142230,
+        "slowEndTime": 146522
+    },
+    {
+        "text": "After the game, Amos comes to give Maria a balloon.",
+        "startTime": 98581,
+        "endTime": 102937,
+        "slowStartTime": 148021,
+        "slowEndTime": 154631
+    },
+    {
+        "text": "He brings her cake, too!",
+        "startTime": 104075,
+        "endTime": 106093,
+        "slowStartTime": 156262,
+        "slowEndTime": 159365
+    }
+]

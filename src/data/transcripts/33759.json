@@ -1,0 +1,100 @@
+[
+    {
+        "text": "The Amazon is burning.",
+        "startTime": 510,
+        "endTime": 2317,
+        "slowStartTime": 915,
+        "slowEndTime": 3701
+    },
+    {
+        "text": "A record number of fires over 72,000...",
+        "startTime": 2799,
+        "endTime": 6845,
+        "slowStartTime": 4348,
+        "slowEndTime": 10493
+    },
+    {
+        "text": "...have been detected in the world's largest rainforest this year.",
+        "startTime": 7069,
+        "endTime": 10927,
+        "slowStartTime": 10754,
+        "slowEndTime": 16616
+    },
+    {
+        "text": "Brazil's National Institute for Space Research reports that's an 83 percent increase from last year.",
+        "startTime": 12252,
+        "endTime": 18939,
+        "slowStartTime": 18528,
+        "slowEndTime": 28634
+    },
+    {
+        "text": "Environmental groups say the policies of Brazil's president Jair Bolsonaro...",
+        "startTime": 19192,
+        "endTime": 24275,
+        "slowStartTime": 28938,
+        "slowEndTime": 36638
+    },
+    {
+        "text": "...encouraged deforestation of the Amazon, which in turn allows for more fires.",
+        "startTime": 24539,
+        "endTime": 30374,
+        "slowStartTime": 36959,
+        "slowEndTime": 45786
+    },
+    {
+        "text": "Bolsonaro, in turn, alleges that environmental groups started the fires to embarrass his administration.",
+        "startTime": 30837,
+        "endTime": 37623,
+        "slowStartTime": 46405,
+        "slowEndTime": 56660
+    },
+    {
+        "text": "Meanwhile, the jungle is aflame.",
+        "startTime": 38303,
+        "endTime": 40854,
+        "slowStartTime": 57604,
+        "slowEndTime": 61506
+    },
+    {
+        "text": "Here, a motorist captures thick smoke pouring into the sky from one of the fires.",
+        "startTime": 41429,
+        "endTime": 46621,
+        "slowStartTime": 62294,
+        "slowEndTime": 70157
+    },
+    {
+        "text": "The Amazon covers over two million square miles.",
+        "startTime": 47579,
+        "endTime": 50916,
+        "slowStartTime": 71518,
+        "slowEndTime": 76599
+    },
+    {
+        "text": "It's home to indigenous groups as well as thousands of species of plants and animals.",
+        "startTime": 51423,
+        "endTime": 56799,
+        "slowStartTime": 77284,
+        "slowEndTime": 85424
+    },
+    {
+        "text": "Two-thirds of the world's plant species can be found there...",
+        "startTime": 57109,
+        "endTime": 60633,
+        "slowStartTime": 85813,
+        "slowEndTime": 91175
+    },
+    {
+        "text": "...and it's seen as a vital hedge against the carbon emissions that contribute to climate change,...",
+        "startTime": 61243,
+        "endTime": 66322,
+        "slowStartTime": 92014,
+        "slowEndTime": 99708
+    },
+    {
+        "text": "...a loss that becomes more pressing as global temperatures continue to rise.",
+        "startTime": 66621,
+        "endTime": 71491,
+        "slowStartTime": 100081,
+        "slowEndTime": 107462
+    }
+]

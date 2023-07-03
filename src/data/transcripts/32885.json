@@ -1,0 +1,79 @@
+[
+    {
+        "text": "In Israel, the military says it has beefed up its troop presence...",
+        "startTime": 3331,
+        "endTime": 8130,
+        "slowStartTime": 5147,
+        "slowEndTime": 12420
+    },
+    {
+        "text": "...along the border with the Gaza Strip...",
+        "startTime": 8274,
+        "endTime": 9991,
+        "slowStartTime": 12561,
+        "slowEndTime": 15212
+    },
+    {
+        "text": "...and completed preparation for a possible renewal of hostilities...",
+        "startTime": 10567,
+        "endTime": 14479,
+        "slowStartTime": 16000,
+        "slowEndTime": 21944
+    },
+    {
+        "text": "...with Palestinian militants.",
+        "startTime": 14726,
+        "endTime": 16586,
+        "slowStartTime": 22239,
+        "slowEndTime": 25104
+    },
+    {
+        "text": "In Somalia, at least 15 people are dead...",
+        "startTime": 18733,
+        "endTime": 21965,
+        "slowStartTime": 28250,
+        "slowEndTime": 33173
+    },
+    {
+        "text": "...after a car bomb went off outside a hotel in a busy area of Mogadishu.",
+        "startTime": 22219,
+        "endTime": 27742,
+        "slowStartTime": 33479,
+        "slowEndTime": 41838
+    },
+    {
+        "text": "In Bangladesh, at least 17 people have been killed...",
+        "startTime": 30033,
+        "endTime": 34070,
+        "slowStartTime": 45200,
+        "slowEndTime": 51330
+    },
+    {
+        "text": "...after a fire broke out in Dhaka's business district.",
+        "startTime": 34481,
+        "endTime": 37775,
+        "slowStartTime": 51871,
+        "slowEndTime": 56887
+    },
+    {
+        "text": "Mexico raises the alert for the Popocatepetl volcano as activity intensifies.",
+        "startTime": 41101,
+        "endTime": 47181,
+        "slowStartTime": 61801,
+        "slowEndTime": 70996
+    },
+    {
+        "text": "Finally, at least 18 people died when a truck slammed into a crowd in western Guatemala.",
+        "startTime": 51460,
+        "endTime": 57788,
+        "slowStartTime": 77340,
+        "slowEndTime": 86907
+    },
+    {
+        "text": "Police are continuing to search for the truck driver.",
+        "startTime": 58049,
+        "endTime": 60963,
+        "slowStartTime": 87224,
+        "slowEndTime": 91669
+    }
+]

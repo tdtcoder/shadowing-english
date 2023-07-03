@@ -1,0 +1,86 @@
+[
+    {
+        "text": "The train now approaching platform two is the 11:07 southern service to London Bridge.",
+        "startTime": 451,
+        "endTime": 7424,
+        "slowStartTime": 827,
+        "slowEndTime": 11361
+    },
+    {
+        "text": "This train is the service from Horsham.",
+        "startTime": 7891,
+        "endTime": 10385,
+        "slowStartTime": 11987,
+        "slowEndTime": 15802
+    },
+    {
+        "text": "Redhill, this is Redhill.",
+        "startTime": 12927,
+        "endTime": 14666,
+        "slowStartTime": 19541,
+        "slowEndTime": 22224
+    },
+    {
+        "text": "The train now standing at platform two is the 11:07 southern service to London Bridge.",
+        "startTime": 15182,
+        "endTime": 22187,
+        "slowStartTime": 22923,
+        "slowEndTime": 33506
+    },
+    {
+        "text": "Calling at Merstham, Coulsdon South, Purley,...",
+        "startTime": 22963,
+        "endTime": 26537,
+        "slowStartTime": 34595,
+        "slowEndTime": 40030
+    },
+    {
+        "text": "...East Croydon, Norwood Junction, New Cross Gate and London Bridge.",
+        "startTime": 26788,
+        "endTime": 31887,
+        "slowStartTime": 40332,
+        "slowEndTime": 48056
+    },
+    {
+        "text": "Southern are sorry to announce that the 1300 hours southern service...",
+        "startTime": 34215,
+        "endTime": 39062,
+        "slowStartTime": 51472,
+        "slowEndTime": 58818
+    },
+    {
+        "text": "...to Southampton Central and Bognor Regis is delayed by approximately 12 minutes...",
+        "startTime": 39137,
+        "endTime": 45418,
+        "slowStartTime": 58856,
+        "slowEndTime": 68352
+    },
+    {
+        "text": "...due to awaiting of a portion of the train.",
+        "startTime": 45561,
+        "endTime": 47758,
+        "slowStartTime": 68492,
+        "slowEndTime": 71862
+    },
+    {
+        "text": "Please listen for further announcements.",
+        "startTime": 48231,
+        "endTime": 50300,
+        "slowStartTime": 72496,
+        "slowEndTime": 75675
+    },
+    {
+        "text": "Southern are very sorry for the delay to this service.",
+        "startTime": 50621,
+        "endTime": 53762,
+        "slowStartTime": 76081,
+        "slowEndTime": 80868
+    },
+    {
+        "text": "The next service from this platform will be the 13:10 southern service to Horsham.",
+        "startTime": 54225,
+        "endTime": 60129,
+        "slowStartTime": 81487,
+        "slowEndTime": 90418
+    }
+]

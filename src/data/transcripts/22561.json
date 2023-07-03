@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Hey, look up, it's a bird.",
+        "startTime": 1837,
+        "endTime": 3258,
+        "slowStartTime": 2906,
+        "slowEndTime": 5112
+    },
+    {
+        "text": "No, it's a plane.",
+        "startTime": 3462,
+        "endTime": 4489,
+        "slowStartTime": 5343,
+        "slowEndTime": 6959
+    },
+    {
+        "text": "It's Facebook?",
+        "startTime": 4660,
+        "endTime": 6118,
+        "slowStartTime": 7140,
+        "slowEndTime": 9402
+    },
+    {
+        "text": "What's up guys?",
+        "startTime": 6496,
+        "endTime": 7175,
+        "slowStartTime": 9894,
+        "slowEndTime": 10987
+    },
+    {
+        "text": "I'm Andrew Dymburt for Buzz60.",
+        "startTime": 7262,
+        "endTime": 8829,
+        "slowStartTime": 11043,
+        "slowEndTime": 13468
+    },
+    {
+        "text": "Facebook is working on a fleet of drones, satellites and lasers.",
+        "startTime": 8969,
+        "endTime": 13186,
+        "slowStartTime": 13603,
+        "slowEndTime": 20004
+    },
+    {
+        "text": "Sorry Star Wars fans, they're not building a Death Star.",
+        "startTime": 13449,
+        "endTime": 16585,
+        "slowStartTime": 20323,
+        "slowEndTime": 25102
+    },
+    {
+        "text": "Facebook and its internet.org initiative...",
+        "startTime": 16848,
+        "endTime": 19217,
+        "slowStartTime": 25422,
+        "slowEndTime": 29050
+    },
+    {
+        "text": "...are looking to beam internet from the sky to every person in the world...",
+        "startTime": 19311,
+        "endTime": 23919,
+        "slowStartTime": 29117,
+        "slowEndTime": 36103
+    },
+    {
+        "text": "...because let's face it, one billion Facebook users just isn't enough.",
+        "startTime": 24057,
+        "endTime": 28415,
+        "slowStartTime": 36235,
+        "slowEndTime": 42848
+    },
+    {
+        "text": "Mark Zuckerberg announced the drone program in a Facebook post,...",
+        "startTime": 28665,
+        "endTime": 31830,
+        "slowStartTime": 43148,
+        "slowEndTime": 47970
+    },
+    {
+        "text": "...where he stressed the possibilities of worldwide internet availability.",
+        "startTime": 32041,
+        "endTime": 35860,
+        "slowStartTime": 48212,
+        "slowEndTime": 54015
+    },
+    {
+        "text": "The social media giant's new connectivity lab which includes NASA engineers...",
+        "startTime": 36060,
+        "endTime": 40404,
+        "slowStartTime": 54240,
+        "slowEndTime": 60831
+    },
+    {
+        "text": "...is trying to develop new technologies to make Internet for everyone a legit possibility.",
+        "startTime": 40491,
+        "endTime": 45619,
+        "slowStartTime": 60887,
+        "slowEndTime": 68653
+    },
+    {
+        "text": "This isn't the first time Zuckerberg and his team have expressed interest in drones.",
+        "startTime": 45761,
+        "endTime": 49750,
+        "slowStartTime": 68791,
+        "slowEndTime": 74850
+    },
+    {
+        "text": "The company is reportedly looking to buy solar-powered drone maker, Titan Aerospace,...",
+        "startTime": 49997,
+        "endTime": 54901,
+        "slowStartTime": 75146,
+        "slowEndTime": 82577
+    },
+    {
+        "text": "...for 60 million dollars.",
+        "startTime": 55002,
+        "endTime": 56566,
+        "slowStartTime": 82653,
+        "slowEndTime": 85074
+    },
+    {
+        "text": "Providing internet to everyone in the world?",
+        "startTime": 56997,
+        "endTime": 59336,
+        "slowStartTime": 85645,
+        "slowEndTime": 89229
+    },
+    {
+        "text": "That's pretty ambitious.",
+        "startTime": 59537,
+        "endTime": 60796,
+        "slowStartTime": 89456,
+        "slowEndTime": 91419
+    },
+    {
+        "text": "I guess that's why you hire NASA engineers...",
+        "startTime": 61145,
+        "endTime": 63314,
+        "slowStartTime": 91867,
+        "slowEndTime": 95196
+    },
+    {
+        "text": "...so the Facebook developers could keep working on more pointless changes.",
+        "startTime": 63472,
+        "endTime": 67120,
+        "slowStartTime": 95358,
+        "slowEndTime": 100905
+    }
+]

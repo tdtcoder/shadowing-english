@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Little town,...",
+        "startTime": 4030,
+        "endTime": 5273,
+        "slowStartTime": 6195,
+        "slowEndTime": 8135
+    },
+    {
+        "text": "...it's a quiet village.",
+        "startTime": 5759,
+        "endTime": 8513,
+        "slowStartTime": 8789,
+        "slowEndTime": 12994
+    },
+    {
+        "text": "Every day like the one before.",
+        "startTime": 9163,
+        "endTime": 14001,
+        "slowStartTime": 13894,
+        "slowEndTime": 21226
+    },
+    {
+        "text": "Little town,...",
+        "startTime": 14469,
+        "endTime": 16112,
+        "slowStartTime": 21854,
+        "slowEndTime": 24393
+    },
+    {
+        "text": "...full of little people...",
+        "startTime": 16461,
+        "endTime": 19239,
+        "slowStartTime": 24841,
+        "slowEndTime": 29083
+    },
+    {
+        "text": "...waking up to say...",
+        "startTime": 19801,
+        "endTime": 25335,
+        "slowStartTime": 29852,
+        "slowEndTime": 38228
+    },
+    {
+        "text": "Bonjour!",
+        "startTime": 25541,
+        "endTime": 25903,
+        "slowStartTime": 38462,
+        "slowEndTime": 39079
+    },
+    {
+        "text": "There goes the baker with his tray like always,...",
+        "startTime": 29823,
+        "endTime": 33318,
+        "slowStartTime": 44884,
+        "slowEndTime": 50202
+    },
+    {
+        "text": "...the same old bread and rolls to sell.",
+        "startTime": 33636,
+        "endTime": 36247,
+        "slowStartTime": 50604,
+        "slowEndTime": 54596
+    },
+    {
+        "text": "Every morning just the same...",
+        "startTime": 36995,
+        "endTime": 38653,
+        "slowStartTime": 55642,
+        "slowEndTime": 58204
+    },
+    {
+        "text": "...since the morning that we came...",
+        "startTime": 38945,
+        "endTime": 40627,
+        "slowStartTime": 58567,
+        "slowEndTime": 61165
+    },
+    {
+        "text": "...to this poor, provincial town.",
+        "startTime": 40839,
+        "endTime": 42405,
+        "slowStartTime": 61409,
+        "slowEndTime": 63832
+    },
+    {
+        "text": "Good morning, Belle!",
+        "startTime": 42545,
+        "endTime": 43396,
+        "slowStartTime": 63968,
+        "slowEndTime": 65319
+    },
+    {
+        "text": "Somebody help me!",
+        "startTime": 45456,
+        "endTime": 46833,
+        "slowStartTime": 68334,
+        "slowEndTime": 70474
+    }
+]

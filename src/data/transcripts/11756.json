@@ -1,0 +1,65 @@
+[
+    {
+        "text": "This is what we believe:...",
+        "startTime": 967,
+        "endTime": 2263,
+        "slowStartTime": 1600,
+        "slowEndTime": 3619
+    },
+    {
+        "text": "...\"technology alone is not enough\".",
+        "startTime": 3344,
+        "endTime": 5733,
+        "slowStartTime": 5166,
+        "slowEndTime": 8825
+    },
+    {
+        "text": "Faster, thinner, lighter;...",
+        "startTime": 6713,
+        "endTime": 11039,
+        "slowStartTime": 10219,
+        "slowEndTime": 16783
+    },
+    {
+        "text": "...those are all good things.",
+        "startTime": 12031,
+        "endTime": 13221,
+        "slowStartTime": 18197,
+        "slowEndTime": 20056
+    },
+    {
+        "text": "But when technology gets out of the way,...",
+        "startTime": 14489,
+        "endTime": 16369,
+        "slowStartTime": 21883,
+        "slowEndTime": 24778
+    },
+    {
+        "text": "...everything becomes more delightful,...",
+        "startTime": 17865,
+        "endTime": 19612,
+        "slowStartTime": 26948,
+        "slowEndTime": 29643
+    },
+    {
+        "text": "...even magical.",
+        "startTime": 20642,
+        "endTime": 21553,
+        "slowStartTime": 31113,
+        "slowEndTime": 32555
+    },
+    {
+        "text": "That's when you leap forward.",
+        "startTime": 22388,
+        "endTime": 23787,
+        "slowStartTime": 33732,
+        "slowEndTime": 35906
+    },
+    {
+        "text": "That's when you end up with something, like this.",
+        "startTime": 24632,
+        "endTime": 28037,
+        "slowStartTime": 37098,
+        "slowEndTime": 42280
+    }
+]

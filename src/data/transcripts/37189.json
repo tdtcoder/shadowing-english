@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Okay sir.",
+        "startTime": 460,
+        "endTime": 1012,
+        "slowStartTime": 840,
+        "slowEndTime": 1743
+    },
+    {
+        "text": "So, I just want to make sure that I understand.",
+        "startTime": 1324,
+        "endTime": 3248,
+        "slowStartTime": 2136,
+        "slowEndTime": 5097
+    },
+    {
+        "text": "You purchased a drill from us and you took it home.",
+        "startTime": 3457,
+        "endTime": 6267,
+        "slowStartTime": 5336,
+        "slowEndTime": 9626
+    },
+    {
+        "text": "You found out it didn't work, so you came back,...",
+        "startTime": 6925,
+        "endTime": 9006,
+        "slowStartTime": 10537,
+        "slowEndTime": 13734
+    },
+    {
+        "text": "...got a replacement drill and that one didn't work as well?",
+        "startTime": 9102,
+        "endTime": 11799,
+        "slowStartTime": 13803,
+        "slowEndTime": 17924
+    },
+    {
+        "text": "That's exactly right.",
+        "startTime": 12395,
+        "endTime": 13298,
+        "slowStartTime": 18742,
+        "slowEndTime": 20172
+    }
+]

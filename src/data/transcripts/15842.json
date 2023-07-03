@@ -1,0 +1,107 @@
+[
+    {
+        "text": "So, what are you doing tonight?",
+        "startTime": 1449,
+        "endTime": 2780,
+        "slowStartTime": 2324,
+        "slowEndTime": 4395
+    },
+    {
+        "text": "Uh, nothing.",
+        "startTime": 5221,
+        "endTime": 5458,
+        "slowStartTime": 7981,
+        "slowEndTime": 8412
+    },
+    {
+        "text": "Do you want to go to a party with me?",
+        "startTime": 5569,
+        "endTime": 7631,
+        "slowStartTime": 8504,
+        "slowEndTime": 11672
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 8054,
+        "endTime": 8345,
+        "slowStartTime": 12231,
+        "slowEndTime": 12743
+    },
+    {
+        "text": "Or we could just go to my place before and hang out.",
+        "startTime": 8414,
+        "endTime": 10517,
+        "slowStartTime": 12771,
+        "slowEndTime": 16000
+    },
+    {
+        "text": "Yeah. That sounds awesome.",
+        "startTime": 10584,
+        "endTime": 11646,
+        "slowStartTime": 16026,
+        "slowEndTime": 17694
+    },
+    {
+        "text": "Hold on.",
+        "startTime": 11829,
+        "endTime": 12237,
+        "slowStartTime": 17893,
+        "slowEndTime": 18581
+    },
+    {
+        "text": "Oh, I thought you were talking.",
+        "startTime": 13473,
+        "endTime": 15458,
+        "slowStartTime": 20359,
+        "slowEndTime": 23412
+    },
+    {
+        "text": "You can't always be smooth, but your beer should be....",
+        "startTime": 15542,
+        "endTime": 18117,
+        "slowStartTime": 23463,
+        "slowEndTime": 27401
+    },
+    {
+        "text": "....with a specially-lined can to seal in the taste.",
+        "startTime": 18671,
+        "endTime": 20609,
+        "slowStartTime": 28157,
+        "slowEndTime": 31139
+    },
+    {
+        "text": "Keystone Light is always smooth even when you're not.",
+        "startTime": 20977,
+        "endTime": 23603,
+        "slowStartTime": 31615,
+        "slowEndTime": 35630
+    },
+    {
+        "text": "I'm really sorry about what just happened.",
+        "startTime": 23781,
+        "endTime": 25264,
+        "slowStartTime": 35821,
+        "slowEndTime": 38121
+    },
+    {
+        "text": "Oh, that's cool. I feel embarrassed...",
+        "startTime": 26143,
+        "endTime": 27692,
+        "slowStartTime": 39364,
+        "slowEndTime": 41763
+    },
+    {
+        "text": "Just a second.",
+        "startTime": 27865,
+        "endTime": 28399,
+        "slowStartTime": 41947,
+        "slowEndTime": 42824
+    },
+    {
+        "text": "Oh, man!",
+        "startTime": 28883,
+        "endTime": 29453,
+        "slowStartTime": 43475,
+        "slowEndTime": 44404
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "text": "President Obama tells a news conference that any agreement to reduce the US deficit is going to require tough decisions.",
+        "startTime": 6389,
+        "endTime": 13973,
+        "slowStartTime": 9734,
+        "slowEndTime": 21185
+    },
+    {
+        "text": "Wall Street investors are confident that Greece will avoid default despite protests in Athens.",
+        "startTime": 16597,
+        "endTime": 22442,
+        "slowStartTime": 25046,
+        "slowEndTime": 33888
+    },
+    {
+        "text": "Microsoft introduces Office 365, its biggest push yet into the mobile, Internet - accessible world of cloud computing.",
+        "startTime": 27169,
+        "endTime": 35943,
+        "slowStartTime": 40903,
+        "slowEndTime": 54139
+    },
+    {
+        "text": "The US wins two - zero over North Korea in Women's World Cup Soccer putting the US at the top of Group C.",
+        "startTime": 42132,
+        "endTime": 49659,
+        "slowStartTime": 63348,
+        "slowEndTime": 74713
+    },
+    {
+        "text": "The latest Transformers film premieres in New York with actors Shia LaBeouf and Josh Duhamel.",
+        "startTime": 54928,
+        "endTime": 61161,
+        "slowStartTime": 82542,
+        "slowEndTime": 91966
+    }
+]

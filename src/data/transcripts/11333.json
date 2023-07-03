@@ -1,0 +1,205 @@
+[
+    {
+        "text": "Mary was not at all pleased with her new home.",
+        "startTime": 250,
+        "endTime": 2550,
+        "slowStartTime": 600,
+        "slowEndTime": 4000
+    },
+    {
+        "text": "She was not used to servants talking to her as if they were the same.",
+        "startTime": 3000,
+        "endTime": 6350,
+        "slowStartTime": 4675,
+        "slowEndTime": 9700
+    },
+    {
+        "text": "\"Where is my maid?\", Mary asked.",
+        "startTime": 7000,
+        "endTime": 9650,
+        "slowStartTime": 10700,
+        "slowEndTime": 14650
+    },
+    {
+        "text": "\"In India, I had my own maid.\"",
+        "startTime": 10350,
+        "endTime": 12600,
+        "slowStartTime": 15775,
+        "slowEndTime": 19150
+    },
+    {
+        "text": "\"You won't have one here\", Martha said.",
+        "startTime": 13250,
+        "endTime": 16300,
+        "slowStartTime": 20100,
+        "slowEndTime": 24650
+    },
+    {
+        "text": "With these words, Martha left Mary alone.",
+        "startTime": 16650,
+        "endTime": 19000,
+        "slowStartTime": 25200,
+        "slowEndTime": 28750
+    },
+    {
+        "text": "There was nothing for Mary to do in the house. So every day, she walked in the gardens.",
+        "startTime": 19500,
+        "endTime": 23800,
+        "slowStartTime": 29425,
+        "slowEndTime": 35875
+    },
+    {
+        "text": "One day, she walked around the wall without a door.",
+        "startTime": 24350,
+        "endTime": 27200,
+        "slowStartTime": 36750,
+        "slowEndTime": 41000
+    },
+    {
+        "text": "Suddenly, she heard a bird singing.",
+        "startTime": 27950,
+        "endTime": 29600,
+        "slowStartTime": 42100,
+        "slowEndTime": 44600
+    },
+    {
+        "text": "Mary asked the bird, \"Will you be my friend?\"",
+        "startTime": 30350,
+        "endTime": 33150,
+        "slowStartTime": 45750,
+        "slowEndTime": 49950
+    },
+    {
+        "text": "The bird flew toward a tree and sat on a branch.",
+        "startTime": 33750,
+        "endTime": 36350,
+        "slowStartTime": 50825,
+        "slowEndTime": 54700
+    },
+    {
+        "text": "It began to sing.",
+        "startTime": 36650,
+        "endTime": 37500,
+        "slowStartTime": 55175,
+        "slowEndTime": 56450
+    },
+    {
+        "text": "\"You live in that garden, don't you?\", she said.",
+        "startTime": 38350,
+        "endTime": 41700,
+        "slowStartTime": 57725,
+        "slowEndTime": 62750
+    },
+    {
+        "text": "\"But no one can go in because there isn't a door.\"",
+        "startTime": 42250,
+        "endTime": 44950,
+        "slowStartTime": 63625,
+        "slowEndTime": 67650
+    },
+    {
+        "text": "\"I want to know what's behind this wall.\"",
+        "startTime": 45400,
+        "endTime": 47600,
+        "slowStartTime": 68350,
+        "slowEndTime": 71575
+    },
+    {
+        "text": "The robin trusted her and did not fly away.",
+        "startTime": 48450,
+        "endTime": 50600,
+        "slowStartTime": 72875,
+        "slowEndTime": 76100
+    },
+    {
+        "text": "It began pecking at the ground, looking for a worm to eat.",
+        "startTime": 51200,
+        "endTime": 54450,
+        "slowStartTime": 76950,
+        "slowEndTime": 81900
+    },
+    {
+        "text": "Mary looked closely at the ground.",
+        "startTime": 55400,
+        "endTime": 57100,
+        "slowStartTime": 83250,
+        "slowEndTime": 85800
+    },
+    {
+        "text": "She saw something that looked like metal.",
+        "startTime": 57850,
+        "endTime": 59700,
+        "slowStartTime": 86925,
+        "slowEndTime": 89700
+    },
+    {
+        "text": "She cleaned it and saw that it was a key.",
+        "startTime": 60350,
+        "endTime": 62750,
+        "slowStartTime": 90750,
+        "slowEndTime": 94325
+    },
+    {
+        "text": "Mary stopped skipping and spoke to the robin.",
+        "startTime": 63250,
+        "endTime": 65650,
+        "slowStartTime": 95075,
+        "slowEndTime": 98625
+    },
+    {
+        "text": "\"Can you show me where the door is?\"",
+        "startTime": 66050,
+        "endTime": 67800,
+        "slowStartTime": 99250,
+        "slowEndTime": 101850
+    },
+    {
+        "text": "The robin sat on the top of the garden wall.",
+        "startTime": 68200,
+        "endTime": 70900,
+        "slowStartTime": 102500,
+        "slowEndTime": 106500
+    },
+    {
+        "text": "It began to sing.",
+        "startTime": 71350,
+        "endTime": 72250,
+        "slowStartTime": 107250,
+        "slowEndTime": 108600
+    },
+    {
+        "text": "Mary pulled at a piece of the ivy.",
+        "startTime": 73000,
+        "endTime": 74700,
+        "slowStartTime": 109700,
+        "slowEndTime": 112250
+    },
+    {
+        "text": "It came away from the wall.",
+        "startTime": 75500,
+        "endTime": 76700,
+        "slowStartTime": 113425,
+        "slowEndTime": 115250
+    },
+    {
+        "text": "Behind the wall was a door.",
+        "startTime": 77700,
+        "endTime": 79000,
+        "slowStartTime": 116750,
+        "slowEndTime": 118700
+    },
+    {
+        "text": "Mary put the key in the lock of the door and turned it.",
+        "startTime": 79750,
+        "endTime": 82100,
+        "slowStartTime": 119850,
+        "slowEndTime": 123375
+    },
+    {
+        "text": "Only seconds later, Mary was inside the secret garden.",
+        "startTime": 82950,
+        "endTime": 86300,
+        "slowStartTime": 124600,
+        "slowEndTime": 129600
+    }
+]

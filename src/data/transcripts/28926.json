@@ -1,0 +1,58 @@
+[
+    {
+        "text": "﻿Let's learn common words used in a medical lab.",
+        "startTime": 523,
+        "endTime": 3591,
+        "slowStartTime": 935,
+        "slowEndTime": 5611
+    },
+    {
+        "text": "They are wearing lab coats.",
+        "startTime": 9584,
+        "endTime": 11673,
+        "slowStartTime": 14526,
+        "slowEndTime": 17735
+    },
+    {
+        "text": "He is putting on a pair of gloves.",
+        "startTime": 18327,
+        "endTime": 20529,
+        "slowStartTime": 27641,
+        "slowEndTime": 31018
+    },
+    {
+        "text": "The surgeon wears a mask.",
+        "startTime": 26853,
+        "endTime": 28655,
+        "slowStartTime": 40430,
+        "slowEndTime": 43208
+    },
+    {
+        "text": "The lab technician is looking into a microscope.",
+        "startTime": 34697,
+        "endTime": 37954,
+        "slowStartTime": 52195,
+        "slowEndTime": 57156
+    },
+    {
+        "text": "He is pouring a sample into a test tube.",
+        "startTime": 43899,
+        "endTime": 46817,
+        "slowStartTime": 65998,
+        "slowEndTime": 70450
+    },
+    {
+        "text": "She is examining the specimen on the Petri dish.",
+        "startTime": 52710,
+        "endTime": 55806,
+        "slowStartTime": 79215,
+        "slowEndTime": 83934
+    },
+    {
+        "text": "He is drawing blood from a patient.",
+        "startTime": 61703,
+        "endTime": 64065,
+        "slowStartTime": 92704,
+        "slowEndTime": 96323
+    }
+]

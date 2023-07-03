@@ -1,0 +1,58 @@
+[
+    {
+        "text": "﻿Let's learn about objects in the office.",
+        "startTime": 695,
+        "endTime": 3112,
+        "slowStartTime": 1193,
+        "slowEndTime": 4893
+    },
+    {
+        "text": "He is counting the money.",
+        "startTime": 9067,
+        "endTime": 10757,
+        "slowStartTime": 13750,
+        "slowEndTime": 16360
+    },
+    {
+        "text": "Here is my business card.",
+        "startTime": 16679,
+        "endTime": 18183,
+        "slowStartTime": 25169,
+        "slowEndTime": 27500
+    },
+    {
+        "text": "This chair is so comfortable.",
+        "startTime": 24311,
+        "endTime": 26751,
+        "slowStartTime": 36616,
+        "slowEndTime": 40352
+    },
+    {
+        "text": "She is on the phone.",
+        "startTime": 32946,
+        "endTime": 34391,
+        "slowStartTime": 49569,
+        "slowEndTime": 51812
+    },
+    {
+        "text": "He took the elevator.",
+        "startTime": 40229,
+        "endTime": 41801,
+        "slowStartTime": 60494,
+        "slowEndTime": 62926
+    },
+    {
+        "text": "The printer is over there.",
+        "startTime": 47556,
+        "endTime": 49062,
+        "slowStartTime": 71484,
+        "slowEndTime": 73818
+    },
+    {
+        "text": "I'll check my planner.",
+        "startTime": 54843,
+        "endTime": 56292,
+        "slowStartTime": 82414,
+        "slowEndTime": 84663
+    }
+]

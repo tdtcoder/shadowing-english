@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Hi there. I'm Jeff, the new CEO.",
+        "startTime": 466,
+        "endTime": 2606,
+        "slowStartTime": 849,
+        "slowEndTime": 4134
+    },
+    {
+        "text": "Oh! Bad timing.",
+        "startTime": 2707,
+        "endTime": 4862,
+        "slowStartTime": 4211,
+        "slowEndTime": 7518
+    },
+    {
+        "text": "Must have been hungry, huh?",
+        "startTime": 8890,
+        "endTime": 9809,
+        "slowStartTime": 13485,
+        "slowEndTime": 14938
+    },
+    {
+        "text": "Oh yeah.",
+        "startTime": 9934,
+        "endTime": 10407,
+        "slowStartTime": 15051,
+        "slowEndTime": 15836
+    },
+    {
+        "text": "I can come back some other time.",
+        "startTime": 15815,
+        "endTime": 17025,
+        "slowStartTime": 23872,
+        "slowEndTime": 25763
+    },
+    {
+        "text": "You sure?",
+        "startTime": 17899,
+        "endTime": 18547,
+        "slowStartTime": 26999,
+        "slowEndTime": 28045
+    },
+    {
+        "text": "Okay, yeah. No rush.",
+        "startTime": 21038,
+        "endTime": 22197,
+        "slowStartTime": 31707,
+        "slowEndTime": 33521
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 23629,
+        "endTime": 24287,
+        "slowStartTime": 35593,
+        "slowEndTime": 36655
+    },
+    {
+        "text": "Good food, huh?",
+        "startTime": 26389,
+        "endTime": 27239,
+        "slowStartTime": 39733,
+        "slowEndTime": 41084
+    },
+    {
+        "text": "Yeah.",
+        "startTime": 28319,
+        "endTime": 29181,
+        "slowStartTime": 42628,
+        "slowEndTime": 43997
+    },
+    {
+        "text": "You need something to wash it down?",
+        "startTime": 34255,
+        "endTime": 35654,
+        "slowStartTime": 51533,
+        "slowEndTime": 53706
+    },
+    {
+        "text": "Here.",
+        "startTime": 35811,
+        "endTime": 36179,
+        "slowStartTime": 53867,
+        "slowEndTime": 54493
+    },
+    {
+        "text": "There's that and here's a cup.",
+        "startTime": 37306,
+        "endTime": 41350,
+        "slowStartTime": 56109,
+        "slowEndTime": 62250
+    },
+    {
+        "text": "That's your bottle now.",
+        "startTime": 43432,
+        "endTime": 44559,
+        "slowStartTime": 65298,
+        "slowEndTime": 67063
+    }
+]

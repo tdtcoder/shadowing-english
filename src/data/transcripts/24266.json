@@ -1,0 +1,93 @@
+[
+    {
+        "text": "This is a rooster.",
+        "startTime": 235,
+        "endTime": 2687,
+        "slowStartTime": 502,
+        "slowEndTime": 4256
+    },
+    {
+        "text": "The rooster is singing.",
+        "startTime": 3919,
+        "endTime": 7493,
+        "slowStartTime": 6029,
+        "slowEndTime": 11465
+    },
+    {
+        "text": "That is a cow.",
+        "startTime": 11285,
+        "endTime": 14079,
+        "slowStartTime": 17077,
+        "slowEndTime": 21344
+    },
+    {
+        "text": "The cow is eating.",
+        "startTime": 17170,
+        "endTime": 21159,
+        "slowStartTime": 25905,
+        "slowEndTime": 31964
+    },
+    {
+        "text": "This is a horse.",
+        "startTime": 23223,
+        "endTime": 26302,
+        "slowStartTime": 34985,
+        "slowEndTime": 39678
+    },
+    {
+        "text": "The horse is running.",
+        "startTime": 29450,
+        "endTime": 33326,
+        "slowStartTime": 44325,
+        "slowEndTime": 50214
+    },
+    {
+        "text": "That is a bird.",
+        "startTime": 35437,
+        "endTime": 38637,
+        "slowStartTime": 53305,
+        "slowEndTime": 58181
+    },
+    {
+        "text": "The bird is flying.",
+        "startTime": 41237,
+        "endTime": 45207,
+        "slowStartTime": 62005,
+        "slowEndTime": 68036
+    },
+    {
+        "text": "This is a cat.",
+        "startTime": 47882,
+        "endTime": 51250,
+        "slowStartTime": 71973,
+        "slowEndTime": 77100
+    },
+    {
+        "text": "The cat is laughing.",
+        "startTime": 53799,
+        "endTime": 57561,
+        "slowStartTime": 80849,
+        "slowEndTime": 86567
+    },
+    {
+        "text": "That is a mouse.",
+        "startTime": 61916,
+        "endTime": 65336,
+        "slowStartTime": 93024,
+        "slowEndTime": 98229
+    },
+    {
+        "text": "The mouse is hiding.",
+        "startTime": 66082,
+        "endTime": 70071,
+        "slowStartTime": 99273,
+        "slowEndTime": 105332
+    },
+    {
+        "text": "Farm Fun. By Alyssa Liang, Carlene Hamley.",
+        "startTime": 71430,
+        "endTime": 78661,
+        "slowStartTime": 107295,
+        "slowEndTime": 118217
+    }
+]

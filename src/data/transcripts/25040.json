@@ -1,0 +1,135 @@
+[
+    {
+        "text": "Your customers used to search for local business information in a phone book.",
+        "startTime": 597,
+        "endTime": 3928,
+        "slowStartTime": 1046,
+        "slowEndTime": 6117
+    },
+    {
+        "text": "Now, they search for it in a phone.",
+        "startTime": 5026,
+        "endTime": 6869,
+        "slowStartTime": 7689,
+        "slowEndTime": 10528
+    },
+    {
+        "text": "People thumb their way to Google Search and Maps to find hours,...",
+        "startTime": 7922,
+        "endTime": 10555,
+        "slowStartTime": 12033,
+        "slowEndTime": 16058
+    },
+    {
+        "text": "...phone numbers, menus and more.",
+        "startTime": 10685,
+        "endTime": 12224,
+        "slowStartTime": 16178,
+        "slowEndTime": 18561
+    },
+    {
+        "text": "And when you claim your listing,...",
+        "startTime": 13037,
+        "endTime": 14342,
+        "slowStartTime": 19705,
+        "slowEndTime": 21738
+    },
+    {
+        "text": "...you can make sure you're showing up exactly the way you'd like.",
+        "startTime": 14560,
+        "endTime": 17420,
+        "slowStartTime": 21990,
+        "slowEndTime": 26355
+    },
+    {
+        "text": "With Google My Business, you can update your info anytime no matter where you are,...",
+        "startTime": 17948,
+        "endTime": 22113,
+        "slowStartTime": 27072,
+        "slowEndTime": 33394
+    },
+    {
+        "text": "...so your customers always know how to reach you.",
+        "startTime": 22393,
+        "endTime": 24793,
+        "slowStartTime": 33740,
+        "slowEndTime": 37414
+    },
+    {
+        "text": "Bet you've got a lot going on, right?",
+        "startTime": 25557,
+        "endTime": 26986,
+        "slowStartTime": 38485,
+        "slowEndTime": 40704
+    },
+    {
+        "text": "This free tool takes about 10 minutes.",
+        "startTime": 27422,
+        "endTime": 29260,
+        "slowStartTime": 41283,
+        "slowEndTime": 44115
+    },
+    {
+        "text": "All you need to do is let us know you're you.",
+        "startTime": 29423,
+        "endTime": 31755,
+        "slowStartTime": 44285,
+        "slowEndTime": 47858
+    },
+    {
+        "text": "Then, you're on your way to showing up across the web and you're back to business.",
+        "startTime": 32079,
+        "endTime": 35802,
+        "slowStartTime": 48268,
+        "slowEndTime": 53928
+    },
+    {
+        "text": "If you wanna jazz it up a bit, you can add a description,...",
+        "startTime": 36507,
+        "endTime": 38918,
+        "slowStartTime": 54911,
+        "slowEndTime": 58602
+    },
+    {
+        "text": "...post a photo of today's special and even add a 360-degree tour of your space.",
+        "startTime": 39039,
+        "endTime": 43605,
+        "slowStartTime": 58708,
+        "slowEndTime": 65632
+    },
+    {
+        "text": "We know making your customers happy is what you work for,...",
+        "startTime": 43921,
+        "endTime": 46925,
+        "slowStartTime": 66031,
+        "slowEndTime": 70613
+    },
+    {
+        "text": "...so you can get savvy about the people searching for you.",
+        "startTime": 47032,
+        "endTime": 49491,
+        "slowStartTime": 70698,
+        "slowEndTime": 74462
+    },
+    {
+        "text": "Are they coming from your neighborhood?",
+        "startTime": 50055,
+        "endTime": 51464,
+        "slowStartTime": 75233,
+        "slowEndTime": 77421
+    },
+    {
+        "text": "Did they click the link on that blog post your nephew wrote?",
+        "startTime": 51587,
+        "endTime": 54036,
+        "slowStartTime": 77531,
+        "slowEndTime": 81279
+    },
+    {
+        "text": "Plus, you can respond to people's reviews.",
+        "startTime": 54375,
+        "endTime": 56581,
+        "slowStartTime": 81713,
+        "slowEndTime": 85097
+    }
+]

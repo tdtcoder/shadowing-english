@@ -1,0 +1,149 @@
+[
+    {
+        "text": "Hello, nice to meet you.",
+        "startTime": 3103,
+        "endTime": 4690,
+        "slowStartTime": 4805,
+        "slowEndTime": 7260
+    },
+    {
+        "text": "For the past two years, Wageningen University has been working very closely with Google....",
+        "startTime": 6677,
+        "endTime": 11923,
+        "slowStartTime": 10165,
+        "slowEndTime": 18110
+    },
+    {
+        "text": "...to use cutting-edge technology to look deeper into communication with plants.",
+        "startTime": 11997,
+        "endTime": 16961,
+        "slowStartTime": 18145,
+        "slowEndTime": 25666
+    },
+    {
+        "text": "Hello.",
+        "startTime": 17140,
+        "endTime": 17603,
+        "slowStartTime": 25860,
+        "slowEndTime": 26629
+    },
+    {
+        "text": "We collected an incredible amount of information.",
+        "startTime": 19108,
+        "endTime": 21291,
+        "slowStartTime": 28812,
+        "slowEndTime": 32162
+    },
+    {
+        "text": "Using automated machine learning, we turned this information into new rudimentary language,...",
+        "startTime": 21509,
+        "endTime": 26595,
+        "slowStartTime": 32414,
+        "slowEndTime": 40118
+    },
+    {
+        "text": "...which is becoming more and more sophisticated over time.",
+        "startTime": 26851,
+        "endTime": 29262,
+        "slowStartTime": 40427,
+        "slowEndTime": 44118
+    },
+    {
+        "text": "The more we listen to nature, the more we discover the amazing things it has to say.",
+        "startTime": 29941,
+        "endTime": 35010,
+        "slowStartTime": 45062,
+        "slowEndTime": 52740
+    },
+    {
+        "text": "What do you want?",
+        "startTime": 35464,
+        "endTime": 35971,
+        "slowStartTime": 53346,
+        "slowEndTime": 54181
+    },
+    {
+        "text": "Water, please.",
+        "startTime": 37821,
+        "endTime": 39037,
+        "slowStartTime": 56882,
+        "slowEndTime": 58781
+    },
+    {
+        "text": "We've applied all this research into our latest product, Google Tulip.",
+        "startTime": 40539,
+        "endTime": 44365,
+        "slowStartTime": 60958,
+        "slowEndTime": 66772
+    },
+    {
+        "text": "We're rolling out the tulip language in the beginning of April,...",
+        "startTime": 45338,
+        "endTime": 47682,
+        "slowStartTime": 68157,
+        "slowEndTime": 71748
+    },
+    {
+        "text": "...but we're already well underway with several updates.",
+        "startTime": 47801,
+        "endTime": 50194,
+        "slowStartTime": 71851,
+        "slowEndTime": 75516
+    },
+    {
+        "text": "Hello.",
+        "startTime": 51079,
+        "endTime": 51629,
+        "slowStartTime": 76768,
+        "slowEndTime": 77669
+    },
+    {
+        "text": "No.",
+        "startTime": 51880,
+        "endTime": 52484,
+        "slowStartTime": 77970,
+        "slowEndTime": 78951
+    },
+    {
+        "text": "Cactus.",
+        "startTime": 53795,
+        "endTime": 54457,
+        "slowStartTime": 80842,
+        "slowEndTime": 81910
+    },
+    {
+        "text": "Leave me alone.",
+        "startTime": 54797,
+        "endTime": 55871,
+        "slowStartTime": 82345,
+        "slowEndTime": 84031
+    },
+    {
+        "text": "Tulip is a breakthrough in human-plant communication,...",
+        "startTime": 55976,
+        "endTime": 58703,
+        "slowStartTime": 84114,
+        "slowEndTime": 88280
+    },
+    {
+        "text": "...letting users around the world communicate with any tulip.",
+        "startTime": 58878,
+        "endTime": 61983,
+        "slowStartTime": 88467,
+        "slowEndTime": 93199
+    },
+    {
+        "text": "Okay, Google.",
+        "startTime": 63107,
+        "endTime": 64375,
+        "slowStartTime": 94810,
+        "slowEndTime": 96788
+    },
+    {
+        "text": "Play my favorite music.",
+        "startTime": 65185,
+        "endTime": 66679,
+        "slowStartTime": 97928,
+        "slowEndTime": 100243
+    }
+]

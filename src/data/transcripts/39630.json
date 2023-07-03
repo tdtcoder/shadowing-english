@@ -1,0 +1,51 @@
+[
+    {
+        "text": "It is Monday.",
+        "startTime": 541,
+        "endTime": 1710,
+        "slowStartTime": 962,
+        "slowEndTime": 2790
+    },
+    {
+        "text": "What day is it?",
+        "startTime": 2751,
+        "endTime": 3802,
+        "slowStartTime": 4277,
+        "slowEndTime": 5928
+    },
+    {
+        "text": "It's Sunday.",
+        "startTime": 4365,
+        "endTime": 5226,
+        "slowStartTime": 6697,
+        "slowEndTime": 8064
+    },
+    {
+        "text": "So, what day is it?",
+        "startTime": 6110,
+        "endTime": 7677,
+        "slowStartTime": 9315,
+        "slowEndTime": 11741
+    },
+    {
+        "text": "It's Thursday.",
+        "startTime": 8928,
+        "endTime": 9435,
+        "slowStartTime": 13542,
+        "slowEndTime": 14378
+    },
+    {
+        "text": "What day is it?",
+        "startTime": 11337,
+        "endTime": 13135,
+        "slowStartTime": 17155,
+        "slowEndTime": 19928
+    },
+    {
+        "text": "It's Friday.",
+        "startTime": 16395,
+        "endTime": 16985,
+        "slowStartTime": 24742,
+        "slowEndTime": 25702
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Hello, may I speak to Mrs. Jones, please?",
+        "startTime": 1727,
+        "endTime": 4525,
+        "slowStartTime": 2740,
+        "slowEndTime": 7012
+    },
+    {
+        "text": "I'm sorry, but Mrs. Jones isn't in at the moment.",
+        "startTime": 4936,
+        "endTime": 7709,
+        "slowStartTime": 7554,
+        "slowEndTime": 11788
+    },
+    {
+        "text": "May I ask who's calling?",
+        "startTime": 7987,
+        "endTime": 9235,
+        "slowStartTime": 12130,
+        "slowEndTime": 14077
+    },
+    {
+        "text": "Yes, my name is Kathy Jackson.",
+        "startTime": 9617,
+        "endTime": 12087,
+        "slowStartTime": 14576,
+        "slowEndTime": 18355
+    },
+    {
+        "text": "I spoke with her last week about the possibility of working there.",
+        "startTime": 12347,
+        "endTime": 16049,
+        "slowStartTime": 18671,
+        "slowEndTime": 24298
+    },
+    {
+        "text": "Kathy Jackson. Yes, I think I recognize your name.",
+        "startTime": 16583,
+        "endTime": 20897,
+        "slowStartTime": 25025,
+        "slowEndTime": 31570
+    },
+    {
+        "text": "Do you happen to know if your company is looking for anyone now?",
+        "startTime": 21399,
+        "endTime": 24642,
+        "slowStartTime": 32249,
+        "slowEndTime": 37188
+    },
+    {
+        "text": "I'm afraid I'm not the right person to ask about that.",
+        "startTime": 25304,
+        "endTime": 28257,
+        "slowStartTime": 38106,
+        "slowEndTime": 42610
+    },
+    {
+        "text": "You'll need to speak directly to Mrs. Jones.",
+        "startTime": 28632,
+        "endTime": 31069,
+        "slowStartTime": 43098,
+        "slowEndTime": 46828
+    },
+    {
+        "text": "But she can't answer the phone right now.",
+        "startTime": 31403,
+        "endTime": 33482,
+        "slowStartTime": 47254,
+        "slowEndTime": 50448
+    },
+    {
+        "text": "Okay, I understand. Well, could I leave a message for her, please?",
+        "startTime": 33863,
+        "endTime": 37888,
+        "slowStartTime": 50945,
+        "slowEndTime": 57057
+    },
+    {
+        "text": "Certainly. Is there a number that she can reach you at?",
+        "startTime": 38218,
+        "endTime": 41485,
+        "slowStartTime": 57477,
+        "slowEndTime": 62452
+    },
+    {
+        "text": "Actually, I don't have a number with me now.",
+        "startTime": 41901,
+        "endTime": 44467,
+        "slowStartTime": 63002,
+        "slowEndTime": 66926
+    },
+    {
+        "text": "I'll call back later.",
+        "startTime": 44748,
+        "endTime": 45821,
+        "slowStartTime": 67272,
+        "slowEndTime": 68956
+    },
+    {
+        "text": "Okay, I will give her the message that you will call back.",
+        "startTime": 46240,
+        "endTime": 49253,
+        "slowStartTime": 69510,
+        "slowEndTime": 74105
+    },
+    {
+        "text": "Thank you very much.",
+        "startTime": 49569,
+        "endTime": 50848,
+        "slowStartTime": 74503,
+        "slowEndTime": 76497
+    }
+]

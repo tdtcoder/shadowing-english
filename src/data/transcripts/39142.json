@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Hey, guys! Hey, it's good to see you!",
+        "startTime": 270,
+        "endTime": 2048,
+        "slowStartTime": 555,
+        "slowEndTime": 3297
+    },
+    {
+        "text": "Chris! How's the trip going in Korea?",
+        "startTime": 2161,
+        "endTime": 4490,
+        "slowStartTime": 3391,
+        "slowEndTime": 6960
+    },
+    {
+        "text": "Oh yeah. It's fantastic.",
+        "startTime": 4973,
+        "endTime": 6459,
+        "slowStartTime": 7609,
+        "slowEndTime": 9913
+    },
+    {
+        "text": "Yeah, I'm loving every minute here.",
+        "startTime": 6606,
+        "endTime": 7693,
+        "slowStartTime": 10059,
+        "slowEndTime": 11764
+    },
+    {
+        "text": "The food, oh, it's great.",
+        "startTime": 9711,
+        "endTime": 11850,
+        "slowStartTime": 14716,
+        "slowEndTime": 18000
+    },
+    {
+        "text": "And the people, so friendly.",
+        "startTime": 12492,
+        "endTime": 13878,
+        "slowStartTime": 18888,
+        "slowEndTime": 21042
+    },
+    {
+        "text": "As far as the conference venues, they're modern, innovative, totally convenient.",
+        "startTime": 16791,
+        "endTime": 21144,
+        "slowStartTime": 25336,
+        "slowEndTime": 31941
+    },
+    {
+        "text": "And the nightlife is completely amazing.",
+        "startTime": 30299,
+        "endTime": 32539,
+        "slowStartTime": 45598,
+        "slowEndTime": 49034
+    },
+    {
+        "text": "You guys have got to come out and check out this place we went to last night.",
+        "startTime": 32855,
+        "endTime": 35538,
+        "slowStartTime": 49433,
+        "slowEndTime": 53532
+    },
+    {
+        "text": "Oh, you're gonna love it!",
+        "startTime": 35676,
+        "endTime": 36895,
+        "slowStartTime": 53664,
+        "slowEndTime": 55568
+    },
+    {
+        "text": "Come out here now!",
+        "startTime": 37352,
+        "endTime": 38293,
+        "slowStartTime": 56178,
+        "slowEndTime": 57664
+    }
+]

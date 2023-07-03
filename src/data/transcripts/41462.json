@@ -1,0 +1,289 @@
+[
+    {
+        "text": "Nothing could be more analog than parcels and letters,...",
+        "startTime": 1674,
+        "endTime": 4465,
+        "slowStartTime": 2661,
+        "slowEndTime": 6922
+    },
+    {
+        "text": "...but this week their movement was halted by a very modern disruption.",
+        "startTime": 4939,
+        "endTime": 8396,
+        "slowStartTime": 7558,
+        "slowEndTime": 12819
+    },
+    {
+        "text": "Royal Mail sorting offices were struck by a cyber attack...",
+        "startTime": 9095,
+        "endTime": 12078,
+        "slowStartTime": 13792,
+        "slowEndTime": 18342
+    },
+    {
+        "text": "...which left it unable to dispatch letters and parcels overseas.",
+        "startTime": 12276,
+        "endTime": 15271,
+        "slowStartTime": 18564,
+        "slowEndTime": 23131
+    },
+    {
+        "text": "It all happened like a scene in a film.",
+        "startTime": 15862,
+        "endTime": 18205,
+        "slowStartTime": 23943,
+        "slowEndTime": 27532
+    },
+    {
+        "text": "According to reports, the printers in the Royal Mail sorting office...",
+        "startTime": 18909,
+        "endTime": 22223,
+        "slowStartTime": 28514,
+        "slowEndTime": 33560
+    },
+    {
+        "text": "...suddenly started spewing out messages from the Lockbit Ransomware Gang,...",
+        "startTime": 22433,
+        "endTime": 26293,
+        "slowStartTime": 33800,
+        "slowEndTime": 39664
+    },
+    {
+        "text": "...saying your data are stolen and encrypted and demanding payment...",
+        "startTime": 26544,
+        "endTime": 31422,
+        "slowStartTime": 39966,
+        "slowEndTime": 47358
+    },
+    {
+        "text": "...to sort the situation out.",
+        "startTime": 31577,
+        "endTime": 32633,
+        "slowStartTime": 47516,
+        "slowEndTime": 49174
+    },
+    {
+        "text": "Dramatic, simple, and horribly effective.",
+        "startTime": 33900,
+        "endTime": 37588,
+        "slowStartTime": 51000,
+        "slowEndTime": 56607
+    },
+    {
+        "text": "And it all leave the victim wondering, \"What on Earth do I do now?\"",
+        "startTime": 37863,
+        "endTime": 41558,
+        "slowStartTime": 56945,
+        "slowEndTime": 62562
+    },
+    {
+        "text": "It's the question Kieran Martin,...",
+        "startTime": 42660,
+        "endTime": 44117,
+        "slowStartTime": 64140,
+        "slowEndTime": 66400
+    },
+    {
+        "text": "...formerly head of the National Cybersecurity Center, now an Oxford Don,...",
+        "startTime": 44235,
+        "endTime": 47520,
+        "slowStartTime": 66502,
+        "slowEndTime": 71505
+    },
+    {
+        "text": "...has been asked many times.",
+        "startTime": 47802,
+        "endTime": 49007,
+        "slowStartTime": 71853,
+        "slowEndTime": 73735
+    },
+    {
+        "text": "So, should you pay?",
+        "startTime": 49749,
+        "endTime": 51595,
+        "slowStartTime": 74774,
+        "slowEndTime": 77617
+    },
+    {
+        "text": "The government advises no, I would advise no, but plenty of people do.",
+        "startTime": 52167,
+        "endTime": 57661,
+        "slowStartTime": 78400,
+        "slowEndTime": 86717
+    },
+    {
+        "text": "What I would encourage people to think about,...",
+        "startTime": 59211,
+        "endTime": 61583,
+        "slowStartTime": 88966,
+        "slowEndTime": 92600
+    },
+    {
+        "text": "...as well as the ethics and morality of paying...",
+        "startTime": 61651,
+        "endTime": 64287,
+        "slowStartTime": 92627,
+        "slowEndTime": 96655
+    },
+    {
+        "text": "...is sometimes, practically, it doesn't make sense to pay.",
+        "startTime": 65435,
+        "endTime": 68520,
+        "slowStartTime": 98302,
+        "slowEndTime": 103005
+    },
+    {
+        "text": "Ransomware gangs like Lockbit use a virus to scramble the files on your computers...",
+        "startTime": 69048,
+        "endTime": 73166,
+        "slowStartTime": 103722,
+        "slowEndTime": 109974
+    },
+    {
+        "text": "...and send you a message demanding a ransom for unscrambling them.",
+        "startTime": 73320,
+        "endTime": 75928,
+        "slowStartTime": 110130,
+        "slowEndTime": 114117
+    },
+    {
+        "text": "Lockbit victims number well over 1000 including the automotive group Continental,...",
+        "startTime": 76603,
+        "endTime": 81198,
+        "slowStartTime": 115054,
+        "slowEndTime": 122022
+    },
+    {
+        "text": "...British company Kingfisher Insurance, rail operator Merseyrail,...",
+        "startTime": 81633,
+        "endTime": 85288,
+        "slowStartTime": 122600,
+        "slowEndTime": 128157
+    },
+    {
+        "text": "...and consultancy firm Accenture.",
+        "startTime": 85692,
+        "endTime": 87411,
+        "slowStartTime": 128688,
+        "slowEndTime": 131341
+    },
+    {
+        "text": "Like many ransomware gangs, Lockbit has ties to Russia,...",
+        "startTime": 88300,
+        "endTime": 91185,
+        "slowStartTime": 132600,
+        "slowEndTime": 137002
+    },
+    {
+        "text": "...although experts play down the possibility of a nation-state attack.",
+        "startTime": 91525,
+        "endTime": 95026,
+        "slowStartTime": 137438,
+        "slowEndTime": 142764
+    },
+    {
+        "text": "More likely, it's just the latest example of a criminal boom.",
+        "startTime": 95741,
+        "endTime": 99009,
+        "slowStartTime": 143761,
+        "slowEndTime": 148738
+    },
+    {
+        "text": "The Guardian was hit by a ransomware attack this month,...",
+        "startTime": 99633,
+        "endTime": 101715,
+        "slowStartTime": 149600,
+        "slowEndTime": 152797
+    },
+    {
+        "text": "...just one of thousands every year.",
+        "startTime": 102167,
+        "endTime": 103898,
+        "slowStartTime": 153400,
+        "slowEndTime": 156072
+    },
+    {
+        "text": "That doesn't cut it with frustrated Royal Mail customers like Andrew Pope.",
+        "startTime": 104637,
+        "endTime": 108650,
+        "slowStartTime": 157106,
+        "slowEndTime": 163200
+    },
+    {
+        "text": "This is the last nail in the coffin for me.",
+        "startTime": 109257,
+        "endTime": 111436,
+        "slowStartTime": 164035,
+        "slowEndTime": 167379
+    },
+    {
+        "text": "I've already transferred my UK business,...",
+        "startTime": 111786,
+        "endTime": 113735,
+        "slowStartTime": 167829,
+        "slowEndTime": 170827
+    },
+    {
+        "text": "...away from Royal Mail, to the other providers.",
+        "startTime": 113808,
+        "endTime": 115337,
+        "slowStartTime": 170862,
+        "slowEndTime": 173231
+    },
+    {
+        "text": "I didn't want to, but I had to.",
+        "startTime": 115403,
+        "endTime": 117021,
+        "slowStartTime": 173255,
+        "slowEndTime": 175757
+    },
+    {
+        "text": "And now the international business that I have,...",
+        "startTime": 117565,
+        "endTime": 119299,
+        "slowStartTime": 176497,
+        "slowEndTime": 179174
+    },
+    {
+        "text": "...which is about a fifth of the business, I'll also transfer away from Royal Mail.",
+        "startTime": 119367,
+        "endTime": 122378,
+        "slowStartTime": 179200,
+        "slowEndTime": 183792
+    },
+    {
+        "text": "Royal Mail declined to comment on the incident,...",
+        "startTime": 122973,
+        "endTime": 124824,
+        "slowStartTime": 184609,
+        "slowEndTime": 187461
+    },
+    {
+        "text": "...but it still hasn't resolved the problem,...",
+        "startTime": 125332,
+        "endTime": 126650,
+        "slowStartTime": 188148,
+        "slowEndTime": 190200
+    },
+    {
+        "text": "...and the backlog of parcels is already over half a million.",
+        "startTime": 126833,
+        "endTime": 129655,
+        "slowStartTime": 190400,
+        "slowEndTime": 194707
+    },
+    {
+        "text": "Closing the door on this incident, it takes some doing.",
+        "startTime": 130347,
+        "endTime": 132832,
+        "slowStartTime": 195670,
+        "slowEndTime": 199473
+    },
+    {
+        "text": "Roland Menthol, Sky News.",
+        "startTime": 133438,
+        "endTime": 135106,
+        "slowStartTime": 200307,
+        "slowEndTime": 202884
+    }
+]

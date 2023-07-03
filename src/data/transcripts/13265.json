@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Long ago, there lived a lonely old carpenter named Geppetto.",
+        "startTime": 3878,
+        "endTime": 9307,
+        "slowStartTime": 5967,
+        "slowEndTime": 14185
+    },
+    {
+        "text": "He made a puppet out of some wood, a ball, and a string.",
+        "startTime": 10109,
+        "endTime": 14459,
+        "slowStartTime": 15313,
+        "slowEndTime": 21913
+    },
+    {
+        "text": "That night, a fairy visited and cast a spell that made the puppet walk and talk.",
+        "startTime": 15189,
+        "endTime": 22703,
+        "slowStartTime": 22934,
+        "slowEndTime": 34279
+    },
+    {
+        "text": "Geppetto named him Pinocchio.",
+        "startTime": 23535,
+        "endTime": 26044,
+        "slowStartTime": 35452,
+        "slowEndTime": 39291
+    },
+    {
+        "text": "Geppetto gave Pinocchio some money and sent him into town to buy schoolbooks.",
+        "startTime": 27090,
+        "endTime": 33855,
+        "slowStartTime": 40785,
+        "slowEndTime": 51007
+    },
+    {
+        "text": "Instead, Pinocchio spent the money on a circus ticket.",
+        "startTime": 34689,
+        "endTime": 39589,
+        "slowStartTime": 52183,
+        "slowEndTime": 59609
+    },
+    {
+        "text": "The fairy asked him what he did with the money and he lied to her.",
+        "startTime": 40568,
+        "endTime": 45885,
+        "slowStartTime": 61002,
+        "slowEndTime": 69053
+    },
+    {
+        "text": "Suddenly, his nose grew.",
+        "startTime": 46673,
+        "endTime": 49132,
+        "slowStartTime": 70159,
+        "slowEndTime": 73923
+    },
+    {
+        "text": "The fairy said, \"Whenever you lie, your nose will get bigger.\"",
+        "startTime": 50080,
+        "endTime": 55579,
+        "slowStartTime": 75270,
+        "slowEndTime": 83593
+    },
+    {
+        "text": "\"Now go find Geppetto.\"",
+        "startTime": 56299,
+        "endTime": 58217,
+        "slowStartTime": 84599,
+        "slowEndTime": 87550
+    },
+    {
+        "text": "\"He's out looking for you by the sea.\"",
+        "startTime": 58756,
+        "endTime": 61381,
+        "slowStartTime": 88284,
+        "slowEndTime": 92297
+    },
+    {
+        "text": "Pinocchio was rowing a small boat in the sea and found Geppetto inside a whale.",
+        "startTime": 64255,
+        "endTime": 71477,
+        "slowStartTime": 96532,
+        "slowEndTime": 107441
+    },
+    {
+        "text": "Pinocchio made the whale sneeze and they escaped.",
+        "startTime": 72557,
+        "endTime": 76956,
+        "slowStartTime": 108986,
+        "slowEndTime": 115659
+    },
+    {
+        "text": "Relieved, he promised to never lie again.",
+        "startTime": 77983,
+        "endTime": 82063,
+        "slowStartTime": 117125,
+        "slowEndTime": 123320
+    },
+    {
+        "text": "The fairy said, \"Keep that promise and I will turn you into a real boy.\"",
+        "startTime": 82932,
+        "endTime": 90675,
+        "slowStartTime": 124548,
+        "slowEndTime": 136237
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "text": "Wow, I can't tell you how many requests we get for this next item.",
+        "startTime": 50,
+        "endTime": 2650,
+        "slowStartTime": 300,
+        "slowEndTime": 4170
+    },
+    {
+        "text": "It's the batter's box.",
+        "startTime": 2850,
+        "endTime": 4550,
+        "slowStartTime": 4525,
+        "slowEndTime": 7050
+    },
+    {
+        "text": "This thing is really versatile.",
+        "startTime": 4950,
+        "endTime": 6200,
+        "slowStartTime": 7650,
+        "slowEndTime": 9500
+    },
+    {
+        "text": "I like to hit home runs in mine.",
+        "startTime": 6600,
+        "endTime": 7950,
+        "slowStartTime": 10175,
+        "slowEndTime": 12200
+    },
+    {
+        "text": "I hit singles in mine...",
+        "startTime": 8200,
+        "endTime": 9500,
+        "slowStartTime": 12500,
+        "slowEndTime": 14450
+    },
+    {
+        "text": "...all the time.",
+        "startTime": 9900,
+        "endTime": 10600,
+        "slowStartTime": 15050,
+        "slowEndTime": 16170
+    },
+    {
+        "text": "Oh yes, you do, Ichiro. Yes, you do.",
+        "startTime": 10650,
+        "endTime": 12950,
+        "slowStartTime": 16100,
+        "slowEndTime": 19700
+    },
+    {
+        "text": "As you can see, Ichiro touches his sleeve.",
+        "startTime": 14050,
+        "endTime": 16500,
+        "slowStartTime": 21350,
+        "slowEndTime": 24900
+    },
+    {
+        "text": "Some guys like to dig in,...",
+        "startTime": 16850,
+        "endTime": 18000,
+        "slowStartTime": 25500,
+        "slowEndTime": 27250
+    },
+    {
+        "text": "...but it's really up to you.",
+        "startTime": 18250,
+        "endTime": 19250,
+        "slowStartTime": 27600,
+        "slowEndTime": 29100
+    },
+    {
+        "text": "Yes, this baby does it all.",
+        "startTime": 19300,
+        "endTime": 20500,
+        "slowStartTime": 29100,
+        "slowEndTime": 31000
+    },
+    {
+        "text": "Cat hair, dog hair.",
+        "startTime": 20600,
+        "endTime": 21500,
+        "slowStartTime": 31100,
+        "slowEndTime": 32500
+    },
+    {
+        "text": "The Triple Vac 3000 cleans everything.",
+        "startTime": 21700,
+        "endTime": 23800,
+        "slowStartTime": 32800,
+        "slowEndTime": 35950
+    },
+    {
+        "text": "Dude!",
+        "startTime": 24600,
+        "endTime": 25050,
+        "slowStartTime": 37150,
+        "slowEndTime": 37750
+    },
+    {
+        "text": "Dude!",
+        "startTime": 25750,
+        "endTime": 26250,
+        "slowStartTime": 38850,
+        "slowEndTime": 39600
+    },
+    {
+        "text": "Mariners baseball, what a show!",
+        "startTime": 26900,
+        "endTime": 29050,
+        "slowStartTime": 40550,
+        "slowEndTime": 43800
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text": "﻿Here are some words used in the hospital.",
+        "startTime": 743,
+        "endTime": 3063,
+        "slowStartTime": 1265,
+        "slowEndTime": 4819
+    },
+    {
+        "text": "The hospital's visiting hours are from 10 a.m. to 9 p.m.",
+        "startTime": 5119,
+        "endTime": 8676,
+        "slowStartTime": 7829,
+        "slowEndTime": 13239
+    },
+    {
+        "text": "The nurse checked my blood pressure.",
+        "startTime": 14262,
+        "endTime": 16157,
+        "slowStartTime": 21543,
+        "slowEndTime": 24460
+    },
+    {
+        "text": "The little girl is dancing in the waiting room.",
+        "startTime": 22645,
+        "endTime": 25284,
+        "slowStartTime": 34118,
+        "slowEndTime": 38151
+    },
+    {
+        "text": "He got a shot from the doctor.",
+        "startTime": 31584,
+        "endTime": 33417,
+        "slowStartTime": 47526,
+        "slowEndTime": 50351
+    },
+    {
+        "text": "The man broke the cast on his arm.",
+        "startTime": 41116,
+        "endTime": 43408,
+        "slowStartTime": 61824,
+        "slowEndTime": 65337
+    },
+    {
+        "text": "He is using a syringe to take a blood sample.",
+        "startTime": 49887,
+        "endTime": 52749,
+        "slowStartTime": 74980,
+        "slowEndTime": 79348
+    },
+    {
+        "text": "The pharmacy has the medicine you need.",
+        "startTime": 58199,
+        "endTime": 60437,
+        "slowStartTime": 87448,
+        "slowEndTime": 90881
+    },
+    {
+        "text": "The nurse does not seem amused.",
+        "startTime": 66499,
+        "endTime": 68861,
+        "slowStartTime": 99899,
+        "slowEndTime": 103517
+    },
+    {
+        "text": "He's on crutches because his foot hurts.",
+        "startTime": 75045,
+        "endTime": 77644,
+        "slowStartTime": 112718,
+        "slowEndTime": 116691
+    },
+    {
+        "text": "This is the children's ward.",
+        "startTime": 84753,
+        "endTime": 86548,
+        "slowStartTime": 127280,
+        "slowEndTime": 130047
+    }
+]

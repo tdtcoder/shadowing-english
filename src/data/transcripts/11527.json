@@ -1,0 +1,135 @@
+[
+    {
+        "text": "One day, when Ali Baba was in the forest,...",
+        "startTime": 3300,
+        "endTime": 5600,
+        "slowStartTime": 5100,
+        "slowEndTime": 8600
+    },
+    {
+        "text": "...he saw some robbers coming towards him.",
+        "startTime": 5950,
+        "endTime": 8150,
+        "slowStartTime": 9100,
+        "slowEndTime": 12500
+    },
+    {
+        "text": "Ali Baba was afraid of them so he climbed a tree.",
+        "startTime": 8750,
+        "endTime": 12500,
+        "slowStartTime": 13300,
+        "slowEndTime": 19100
+    },
+    {
+        "text": "The robbers rode up to the cave.",
+        "startTime": 13300,
+        "endTime": 15350,
+        "slowStartTime": 20150,
+        "slowEndTime": 23300
+    },
+    {
+        "text": "When they got to it, one of them shouted, \"Open sesame!\".",
+        "startTime": 15800,
+        "endTime": 20600,
+        "slowStartTime": 23850,
+        "slowEndTime": 31200
+    },
+    {
+        "text": "Immediately, a door opened in the cave.",
+        "startTime": 21350,
+        "endTime": 24150,
+        "slowStartTime": 32200,
+        "slowEndTime": 36500
+    },
+    {
+        "text": "The robbers were inside for a long time.",
+        "startTime": 25050,
+        "endTime": 27750,
+        "slowStartTime": 37800,
+        "slowEndTime": 41900
+    },
+    {
+        "text": "Then the door opened, and they came out.",
+        "startTime": 28700,
+        "endTime": 31200,
+        "slowStartTime": 43250,
+        "slowEndTime": 47100
+    },
+    {
+        "text": "One of them shouted, \"Close sesame!\".",
+        "startTime": 32150,
+        "endTime": 35300,
+        "slowStartTime": 48400,
+        "slowEndTime": 53200
+    },
+    {
+        "text": "And immediately, the door in the cave closed.",
+        "startTime": 35850,
+        "endTime": 39200,
+        "slowStartTime": 53950,
+        "slowEndTime": 59000
+    },
+    {
+        "text": "The robbers went away.",
+        "startTime": 39900,
+        "endTime": 41200,
+        "slowStartTime": 60050,
+        "slowEndTime": 62000
+    },
+    {
+        "text": "Ali Baba climbed down from the tree.",
+        "startTime": 42200,
+        "endTime": 44400,
+        "slowStartTime": 63450,
+        "slowEndTime": 66900
+    },
+    {
+        "text": "He stood in front of the cave.",
+        "startTime": 45500,
+        "endTime": 46800,
+        "slowStartTime": 67650,
+        "slowEndTime": 70500
+    },
+    {
+        "text": "\"What is inside the cave?\" he thought.",
+        "startTime": 47800,
+        "endTime": 50900,
+        "slowStartTime": 71850,
+        "slowEndTime": 76650
+    },
+    {
+        "text": "\"Open sesame!\" he shouted to the cave.",
+        "startTime": 52050,
+        "endTime": 55000,
+        "slowStartTime": 78250,
+        "slowEndTime": 82800
+    },
+    {
+        "text": "Immediately, a door opened into the cave.",
+        "startTime": 55650,
+        "endTime": 58350,
+        "slowStartTime": 83650,
+        "slowEndTime": 87800
+    },
+    {
+        "text": "Ali Baba went inside.",
+        "startTime": 58850,
+        "endTime": 60500,
+        "slowStartTime": 88450,
+        "slowEndTime": 91000
+    },
+    {
+        "text": "He was very surprised.",
+        "startTime": 60900,
+        "endTime": 62450,
+        "slowStartTime": 91550,
+        "slowEndTime": 93900
+    },
+    {
+        "text": "The cave was full of bags of gold coins.",
+        "startTime": 63000,
+        "endTime": 65700,
+        "slowStartTime": 94700,
+        "slowEndTime": 98800
+    }
+]

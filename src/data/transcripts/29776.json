@@ -1,0 +1,37 @@
+[
+    {
+        "text": "The real question that needs to be asked, as well as answered...",
+        "startTime": 685,
+        "endTime": 4652,
+        "slowStartTime": 1178,
+        "slowEndTime": 7203
+    },
+    {
+        "text": "...is \"What is it that we can do that is unique,...",
+        "startTime": 5575,
+        "endTime": 9693,
+        "slowStartTime": 8513,
+        "slowEndTime": 14764
+    },
+    {
+        "text": "...that is impactful?\"",
+        "startTime": 10431,
+        "endTime": 11979,
+        "slowStartTime": 15797,
+        "slowEndTime": 18194
+    },
+    {
+        "text": "We're going to empower every individual and every organization...",
+        "startTime": 15978,
+        "endTime": 21661,
+        "slowStartTime": 24117,
+        "slowEndTime": 32716
+    },
+    {
+        "text": "...to do more and achieve more.",
+        "startTime": 22295,
+        "endTime": 23888,
+        "slowStartTime": 33593,
+        "slowEndTime": 36057
+    }
+]

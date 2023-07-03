@@ -1,0 +1,268 @@
+[
+    {
+        "text": "COVID-19 has reshaped the world...",
+        "startTime": 1815,
+        "endTime": 4478,
+        "slowStartTime": 2872,
+        "slowEndTime": 6942
+    },
+    {
+        "text": "...in ways that will endure long after the pandemic ends.",
+        "startTime": 4848,
+        "endTime": 8303,
+        "slowStartTime": 7422,
+        "slowEndTime": 12679
+    },
+    {
+        "text": "Remote work is here to stay.",
+        "startTime": 9053,
+        "endTime": 11037,
+        "slowStartTime": 13730,
+        "slowEndTime": 16780
+    },
+    {
+        "text": "E-commerce is soaring.",
+        "startTime": 11601,
+        "endTime": 13008,
+        "slowStartTime": 17552,
+        "slowEndTime": 19737
+    },
+    {
+        "text": "Automation is accelerating.",
+        "startTime": 13565,
+        "endTime": 15307,
+        "slowStartTime": 20497,
+        "slowEndTime": 23186
+    },
+    {
+        "text": "Our research indicates that the mix of available jobs will change as a result,...",
+        "startTime": 15832,
+        "endTime": 20473,
+        "slowStartTime": 23898,
+        "slowEndTime": 30934
+    },
+    {
+        "text": "...creating more urgency for training workers for the changes ahead.",
+        "startTime": 20899,
+        "endTime": 24544,
+        "slowStartTime": 31499,
+        "slowEndTime": 37041
+    },
+    {
+        "text": "More than 100 million workers in our focus countries or one in 16,...",
+        "startTime": 25390,
+        "endTime": 30881,
+        "slowStartTime": 38235,
+        "slowEndTime": 46546
+    },
+    {
+        "text": "...may need to switch occupations by 2030.",
+        "startTime": 31095,
+        "endTime": 33909,
+        "slowStartTime": 46793,
+        "slowEndTime": 51088
+    },
+    {
+        "text": "Job growth will be more heavily concentrated in high skill jobs,...",
+        "startTime": 34551,
+        "endTime": 38577,
+        "slowStartTime": 51977,
+        "slowEndTime": 58090
+    },
+    {
+        "text": "...while middle and low skill jobs decline.",
+        "startTime": 38925,
+        "endTime": 41744,
+        "slowStartTime": 58538,
+        "slowEndTime": 62841
+    },
+    {
+        "text": "The explosion in e-commerce set off a scramble for warehouse workers...",
+        "startTime": 42175,
+        "endTime": 47015,
+        "slowStartTime": 63413,
+        "slowEndTime": 70747
+    },
+    {
+        "text": "...that is unlikely to stop.",
+        "startTime": 47176,
+        "endTime": 48803,
+        "slowStartTime": 70914,
+        "slowEndTime": 73430
+    },
+    {
+        "text": "Investment in the green economy will increase the need...",
+        "startTime": 49609,
+        "endTime": 52539,
+        "slowStartTime": 74564,
+        "slowEndTime": 79033
+    },
+    {
+        "text": "...for wind turbine technicians.",
+        "startTime": 52705,
+        "endTime": 54456,
+        "slowStartTime": 79208,
+        "slowEndTime": 81909
+    },
+    {
+        "text": "Demand for photographers may grow...",
+        "startTime": 56119,
+        "endTime": 58229,
+        "slowStartTime": 84328,
+        "slowEndTime": 87569
+    },
+    {
+        "text": "...to address our increasingly visual ways of communicating.",
+        "startTime": 58348,
+        "endTime": 61697,
+        "slowStartTime": 87672,
+        "slowEndTime": 92770
+    },
+    {
+        "text": "Aging populations in many advanced economies...",
+        "startTime": 63941,
+        "endTime": 67017,
+        "slowStartTime": 96062,
+        "slowEndTime": 100751
+    },
+    {
+        "text": "...will increase demand for nurses, home health aides,...",
+        "startTime": 67134,
+        "endTime": 70271,
+        "slowStartTime": 100851,
+        "slowEndTime": 105632
+    },
+    {
+        "text": "...and hearing aid technicians.",
+        "startTime": 70386,
+        "endTime": 72000,
+        "slowStartTime": 105729,
+        "slowEndTime": 108225
+    },
+    {
+        "text": "Teachers and training instructors will also continue to find work over the coming decade.",
+        "startTime": 73143,
+        "endTime": 78269,
+        "slowStartTime": 109865,
+        "slowEndTime": 117629
+    },
+    {
+        "text": "But the forces unleashed by COVID-19 have put other jobs at risk.",
+        "startTime": 80215,
+        "endTime": 84885,
+        "slowStartTime": 120473,
+        "slowEndTime": 127552
+    },
+    {
+        "text": "Business travel is unlikely to recover quickly...",
+        "startTime": 85531,
+        "endTime": 88540,
+        "slowStartTime": 128447,
+        "slowEndTime": 133035
+    },
+    {
+        "text": "...and that affects flight attendants, airline mechanics and baggage handlers.",
+        "startTime": 88832,
+        "endTime": 93636,
+        "slowStartTime": 133398,
+        "slowEndTime": 140679
+    },
+    {
+        "text": "Use of self-checkout stands accelerated during the pandemic,...",
+        "startTime": 95098,
+        "endTime": 98799,
+        "slowStartTime": 142797,
+        "slowEndTime": 148423
+    },
+    {
+        "text": "...displacing some grocery store clerks.",
+        "startTime": 99035,
+        "endTime": 101589,
+        "slowStartTime": 148703,
+        "slowEndTime": 152609
+    },
+    {
+        "text": "Companies have deployed robotics to process routine paperwork,...",
+        "startTime": 102685,
+        "endTime": 106575,
+        "slowStartTime": 154177,
+        "slowEndTime": 160088
+    },
+    {
+        "text": "...replacing office workers.",
+        "startTime": 106744,
+        "endTime": 108449,
+        "slowStartTime": 160266,
+        "slowEndTime": 162898
+    },
+    {
+        "text": "We are entering an era of occupational transitions,...",
+        "startTime": 109620,
+        "endTime": 113235,
+        "slowStartTime": 164580,
+        "slowEndTime": 170077
+    },
+    {
+        "text": "...an era that demands answers to three key questions.",
+        "startTime": 113619,
+        "endTime": 117847,
+        "slowStartTime": 170579,
+        "slowEndTime": 176995
+    },
+    {
+        "text": "What new approaches to training can support the millions of people...",
+        "startTime": 118920,
+        "endTime": 122599,
+        "slowStartTime": 178530,
+        "slowEndTime": 184124
+    },
+    {
+        "text": "...making these transitions?",
+        "startTime": 122749,
+        "endTime": 124406,
+        "slowStartTime": 184273,
+        "slowEndTime": 186834
+    },
+    {
+        "text": "To protect the social fabric, what benefits,...",
+        "startTime": 125072,
+        "endTime": 127921,
+        "slowStartTime": 187758,
+        "slowEndTime": 192106
+    },
+    {
+        "text": "...such as sick leave and unemployment insurance are needed for all workers,...",
+        "startTime": 128121,
+        "endTime": 132875,
+        "slowStartTime": 192331,
+        "slowEndTime": 199538
+    },
+    {
+        "text": "...including gig workers?",
+        "startTime": 133055,
+        "endTime": 134698,
+        "slowStartTime": 199732,
+        "slowEndTime": 202272
+    },
+    {
+        "text": "Can business and government leaders come together to create solutions,...",
+        "startTime": 135784,
+        "endTime": 140175,
+        "slowStartTime": 203826,
+        "slowEndTime": 210487
+    },
+    {
+        "text": "...not only for navigating the pandemic,...",
+        "startTime": 140416,
+        "endTime": 142497,
+        "slowStartTime": 210774,
+        "slowEndTime": 213971
+    },
+    {
+        "text": "...but for navigating the post-pandemic world of work?",
+        "startTime": 142745,
+        "endTime": 145662,
+        "slowStartTime": 214267,
+        "slowEndTime": 218718
+    }
+]

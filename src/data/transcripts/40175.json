@@ -1,0 +1,177 @@
+[
+    {
+        "text": "What time is the meeting tomorrow?",
+        "startTime": 551,
+        "endTime": 2140,
+        "slowStartTime": 976,
+        "slowEndTime": 3435
+    },
+    {
+        "text": "It's 2 p.m.",
+        "startTime": 2592,
+        "endTime": 3481,
+        "slowStartTime": 4038,
+        "slowEndTime": 5446
+    },
+    {
+        "text": "Great!",
+        "startTime": 3889,
+        "endTime": 3989,
+        "slowStartTime": 5984,
+        "slowEndTime": 6208
+    },
+    {
+        "text": "And what time will it finish?",
+        "startTime": 4313,
+        "endTime": 5709,
+        "slowStartTime": 6620,
+        "slowEndTime": 8789
+    },
+    {
+        "text": "We will finish at 3 p.m.",
+        "startTime": 6475,
+        "endTime": 8114,
+        "slowStartTime": 9863,
+        "slowEndTime": 12396
+    },
+    {
+        "text": "Thanks, Mike.",
+        "startTime": 8388,
+        "endTime": 9263,
+        "slowStartTime": 12732,
+        "slowEndTime": 14119
+    },
+    {
+        "text": "What time is our lunch break?",
+        "startTime": 12343,
+        "endTime": 13929,
+        "slowStartTime": 18664,
+        "slowEndTime": 21118
+    },
+    {
+        "text": "It's at 12 p.m. and it finishes at 1 p.m.",
+        "startTime": 14513,
+        "endTime": 17617,
+        "slowStartTime": 21920,
+        "slowEndTime": 26650
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 18323,
+        "endTime": 18866,
+        "slowStartTime": 27634,
+        "slowEndTime": 28524
+    },
+    {
+        "text": "I will be back at 1 p.m.",
+        "startTime": 19098,
+        "endTime": 20457,
+        "slowStartTime": 28797,
+        "slowEndTime": 30910
+    },
+    {
+        "text": "Okay.",
+        "startTime": 20921,
+        "endTime": 21311,
+        "slowStartTime": 31531,
+        "slowEndTime": 32191
+    },
+    {
+        "text": "See you later.",
+        "startTime": 21411,
+        "endTime": 22059,
+        "slowStartTime": 32266,
+        "slowEndTime": 33313
+    },
+    {
+        "text": "Hi, Jane.",
+        "startTime": 24511,
+        "endTime": 25026,
+        "slowStartTime": 36917,
+        "slowEndTime": 37764
+    },
+    {
+        "text": "What time is our training on Friday?",
+        "startTime": 25173,
+        "endTime": 26701,
+        "slowStartTime": 37909,
+        "slowEndTime": 40276
+    },
+    {
+        "text": "Hello, Mike.",
+        "startTime": 27169,
+        "endTime": 27711,
+        "slowStartTime": 40904,
+        "slowEndTime": 41791
+    },
+    {
+        "text": "It starts at 9 a.m.",
+        "startTime": 27885,
+        "endTime": 29065,
+        "slowStartTime": 41977,
+        "slowEndTime": 43822
+    },
+    {
+        "text": "Is there a break?",
+        "startTime": 29780,
+        "endTime": 30597,
+        "slowStartTime": 44820,
+        "slowEndTime": 46120
+    },
+    {
+        "text": "Yes.",
+        "startTime": 31086,
+        "endTime": 31483,
+        "slowStartTime": 46779,
+        "slowEndTime": 47450
+    },
+    {
+        "text": "The break is at half past 9.",
+        "startTime": 31683,
+        "endTime": 33336,
+        "slowStartTime": 47674,
+        "slowEndTime": 50229
+    },
+    {
+        "text": "And what time does it start again?",
+        "startTime": 33931,
+        "endTime": 36124,
+        "slowStartTime": 51047,
+        "slowEndTime": 54411
+    },
+    {
+        "text": "It starts again at 10 a.m.",
+        "startTime": 36380,
+        "endTime": 37933,
+        "slowStartTime": 54720,
+        "slowEndTime": 57125
+    },
+    {
+        "text": "Thank you.",
+        "startTime": 38682,
+        "endTime": 39393,
+        "slowStartTime": 58173,
+        "slowEndTime": 59315
+    },
+    {
+        "text": "Will it finish at 11 a.m.?",
+        "startTime": 39829,
+        "endTime": 41216,
+        "slowStartTime": 59893,
+        "slowEndTime": 62049
+    },
+    {
+        "text": "No.",
+        "startTime": 41704,
+        "endTime": 42121,
+        "slowStartTime": 62706,
+        "slowEndTime": 63406
+    },
+    {
+        "text": "It will finish at half past 11.",
+        "startTime": 42327,
+        "endTime": 44331,
+        "slowStartTime": 63641,
+        "slowEndTime": 66721
+    }
+]

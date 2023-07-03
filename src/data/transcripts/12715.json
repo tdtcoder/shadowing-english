@@ -1,0 +1,100 @@
+[
+    {
+        "text": "What are your plans for the weekend, Changmin?",
+        "startTime": 2224,
+        "endTime": 4533,
+        "slowStartTime": 3486,
+        "slowEndTime": 7025
+    },
+    {
+        "text": "Nothing much, really. I might meet up with a few of my Korean friends and have some drinks.",
+        "startTime": 4911,
+        "endTime": 9559,
+        "slowStartTime": 7517,
+        "slowEndTime": 14563
+    },
+    {
+        "text": "How about you? What are you doing this weekend?",
+        "startTime": 9925,
+        "endTime": 12227,
+        "slowStartTime": 15037,
+        "slowEndTime": 18566
+    },
+    {
+        "text": "I might go to church.",
+        "startTime": 12539,
+        "endTime": 13855,
+        "slowStartTime": 18959,
+        "slowEndTime": 21007
+    },
+    {
+        "text": "Do you go to church every Sunday?",
+        "startTime": 14227,
+        "endTime": 15773,
+        "slowStartTime": 21491,
+        "slowEndTime": 23885
+    },
+    {
+        "text": "Yes, most of the time.",
+        "startTime": 16131,
+        "endTime": 17574,
+        "slowStartTime": 24347,
+        "slowEndTime": 26586
+    },
+    {
+        "text": "But I am going to visit my grandfather in two weeks, so I can't go to church then.",
+        "startTime": 17860,
+        "endTime": 22501,
+        "slowStartTime": 26940,
+        "slowEndTime": 33976
+    },
+    {
+        "text": "Don't you usually go to church on Sundays?",
+        "startTime": 22820,
+        "endTime": 25079,
+        "slowStartTime": 34380,
+        "slowEndTime": 37844
+    },
+    {
+        "text": "Actually, I am a Buddhist, so I don't really go to church services.",
+        "startTime": 25253,
+        "endTime": 29225,
+        "slowStartTime": 38030,
+        "slowEndTime": 44062
+    },
+    {
+        "text": "A Buddhist? Wow, I think you're the first buddhist I've ever met!",
+        "startTime": 29575,
+        "endTime": 33780,
+        "slowStartTime": 44513,
+        "slowEndTime": 50895
+    },
+    {
+        "text": "Well, there are a lot of Buddhists in Korea.",
+        "startTime": 34073,
+        "endTime": 36331,
+        "slowStartTime": 51259,
+        "slowEndTime": 54722
+    },
+    {
+        "text": "I'm not sure, but I think about half of the population are Buddhists.",
+        "startTime": 36632,
+        "endTime": 40284,
+        "slowStartTime": 55098,
+        "slowEndTime": 60651
+    },
+    {
+        "text": "I guess most Americans are Christians, right?",
+        "startTime": 40979,
+        "endTime": 43033,
+        "slowStartTime": 61619,
+        "slowEndTime": 64775
+    },
+    {
+        "text": "You're right.",
+        "startTime": 43281,
+        "endTime": 44071,
+        "slowStartTime": 65071,
+        "slowEndTime": 66331
+    }
+]

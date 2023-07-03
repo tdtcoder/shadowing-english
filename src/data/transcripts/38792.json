@@ -1,0 +1,114 @@
+[
+    {
+        "text": "We were going to Puerto Rico from California and we had a layover in New York,...",
+        "startTime": 480,
+        "endTime": 4415,
+        "slowStartTime": 870,
+        "slowEndTime": 6848
+    },
+    {
+        "text": "...and we got caught in a blizzard.",
+        "startTime": 4842,
+        "endTime": 6835,
+        "slowStartTime": 7413,
+        "slowEndTime": 10478
+    },
+    {
+        "text": "So, we had to sleep in the airport the first night,...",
+        "startTime": 7187,
+        "endTime": 10328,
+        "slowStartTime": 10931,
+        "slowEndTime": 15717
+    },
+    {
+        "text": "...and they apologized,...",
+        "startTime": 10418,
+        "endTime": 11453,
+        "slowStartTime": 15777,
+        "slowEndTime": 17405
+    },
+    {
+        "text": "...but there was nothing we could do...",
+        "startTime": 11543,
+        "endTime": 12699,
+        "slowStartTime": 17464,
+        "slowEndTime": 19273
+    },
+    {
+        "text": "...and we were waiting for them to get us a new flight...",
+        "startTime": 13239,
+        "endTime": 15887,
+        "slowStartTime": 20008,
+        "slowEndTime": 24055
+    },
+    {
+        "text": "...and they put us in a hotel and, of course, we didn't pay for it,...",
+        "startTime": 15962,
+        "endTime": 20040,
+        "slowStartTime": 24093,
+        "slowEndTime": 30285
+    },
+    {
+        "text": "...but it was extremely dull and boring...",
+        "startTime": 20209,
+        "endTime": 21977,
+        "slowStartTime": 30464,
+        "slowEndTime": 33191
+    },
+    {
+        "text": "...and we were fifteen minutes from Manhattan, one of the most interesting cities.",
+        "startTime": 22163,
+        "endTime": 27024,
+        "slowStartTime": 33394,
+        "slowEndTime": 40761
+    },
+    {
+        "text": "And well, we were all packed for a sunny, Caribbean weather...",
+        "startTime": 27580,
+        "endTime": 32097,
+        "slowStartTime": 41520,
+        "slowEndTime": 48371
+    },
+    {
+        "text": "...even though it was Christmas time.",
+        "startTime": 32179,
+        "endTime": 33546,
+        "slowStartTime": 48419,
+        "slowEndTime": 50544
+    },
+    {
+        "text": "And we had no warm clothes,...",
+        "startTime": 33775,
+        "endTime": 35500,
+        "slowStartTime": 50813,
+        "slowEndTime": 53475
+    },
+    {
+        "text": "...so we couldn't go out in the blizzard and we stayed there for two days...",
+        "startTime": 35673,
+        "endTime": 40576,
+        "slowStartTime": 53659,
+        "slowEndTime": 61089
+    },
+    {
+        "text": "...and then we slept a fourth day in the airport again...",
+        "startTime": 40731,
+        "endTime": 44543,
+        "slowStartTime": 61246,
+        "slowEndTime": 67039
+    },
+    {
+        "text": "...until we finally went over to Puerto Rico,...",
+        "startTime": 44631,
+        "endTime": 46785,
+        "slowStartTime": 67096,
+        "slowEndTime": 70403
+    },
+    {
+        "text": "...but the beginning of that trip was horrible.",
+        "startTime": 47087,
+        "endTime": 48847,
+        "slowStartTime": 70780,
+        "slowEndTime": 73496
+    }
+]

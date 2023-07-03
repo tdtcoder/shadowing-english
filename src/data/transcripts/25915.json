@@ -1,0 +1,86 @@
+[
+    {
+        "text": "﻿The man credited with inventing email in 1971,...",
+        "startTime": 2632,
+        "endTime": 6699,
+        "slowStartTime": 4098,
+        "slowEndTime": 10274
+    },
+    {
+        "text": "...74-year-old Ray Tomlinson, died Saturday.",
+        "startTime": 6951,
+        "endTime": 10289,
+        "slowStartTime": 10577,
+        "slowEndTime": 15658
+    },
+    {
+        "text": "Tomlinson had the idea to combine the single computer messaging program...",
+        "startTime": 10759,
+        "endTime": 14783,
+        "slowStartTime": 16289,
+        "slowEndTime": 22399
+    },
+    {
+        "text": "...with an experimental file transfer program.",
+        "startTime": 15055,
+        "endTime": 17748,
+        "slowStartTime": 22732,
+        "slowEndTime": 26847
+    },
+    {
+        "text": "To distinguish local and network mail,...",
+        "startTime": 18256,
+        "endTime": 20495,
+        "slowStartTime": 27534,
+        "slowEndTime": 30968
+    },
+    {
+        "text": "...he chose to combine a user's login with an \"@\" symbol then the hostname.",
+        "startTime": 20709,
+        "endTime": 25428,
+        "slowStartTime": 31214,
+        "slowEndTime": 38367
+    },
+    {
+        "text": "Thus, the modern email address was born.",
+        "startTime": 25823,
+        "endTime": 28239,
+        "slowStartTime": 38885,
+        "slowEndTime": 42583
+    },
+    {
+        "text": "The development earned Tomlinson a spot in the Internet Hall of Fame...",
+        "startTime": 28697,
+        "endTime": 32283,
+        "slowStartTime": 43196,
+        "slowEndTime": 48649
+    },
+    {
+        "text": "...as well as honors from a variety of organizations and publications.",
+        "startTime": 32511,
+        "endTime": 36599,
+        "slowStartTime": 48916,
+        "slowEndTime": 55124
+    },
+    {
+        "text": "There was no patent on the work and he said he received no reward.",
+        "startTime": 36959,
+        "endTime": 40447,
+        "slowStartTime": 55588,
+        "slowEndTime": 60896
+    },
+    {
+        "text": "Tomlinson had remained employed at Bolt, Beranek and Newman Technologies,...",
+        "startTime": 40923,
+        "endTime": 44892,
+        "slowStartTime": 61534,
+        "slowEndTime": 67563
+    },
+    {
+        "text": "....which is now a subsidiary of Raytheon.",
+        "startTime": 45151,
+        "endTime": 47609,
+        "slowStartTime": 67876,
+        "slowEndTime": 71638
+    }
+]

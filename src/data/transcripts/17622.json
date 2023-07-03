@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Packing Up",
+        "startTime": 2666,
+        "endTime": 3374,
+        "slowStartTime": 4149,
+        "slowEndTime": 5286
+    },
+    {
+        "text": "We're going camping!",
+        "startTime": 4650,
+        "endTime": 6061,
+        "slowStartTime": 7125,
+        "slowEndTime": 9316
+    },
+    {
+        "text": "We pack our tent, sleeping bags, and cooking gear.",
+        "startTime": 7157,
+        "endTime": 10542,
+        "slowStartTime": 10886,
+        "slowEndTime": 16038
+    },
+    {
+        "text": "\"Don't forget the camera!\" I say.",
+        "startTime": 11658,
+        "endTime": 13953,
+        "slowStartTime": 17637,
+        "slowEndTime": 21154
+    },
+    {
+        "text": "We drive to the lake, and we set up camp.",
+        "startTime": 15039,
+        "endTime": 17955,
+        "slowStartTime": 22709,
+        "slowEndTime": 27157
+    },
+    {
+        "text": "Click! I take a picture.",
+        "startTime": 18964,
+        "endTime": 21201,
+        "slowStartTime": 28596,
+        "slowEndTime": 32026
+    },
+    {
+        "text": "Nighttime",
+        "startTime": 22869,
+        "endTime": 23851,
+        "slowStartTime": 34453,
+        "slowEndTime": 36001
+    },
+    {
+        "text": "\"Time to eat,\" says Dad.",
+        "startTime": 24913,
+        "endTime": 27140,
+        "slowStartTime": 37520,
+        "slowEndTime": 40935
+    },
+    {
+        "text": "We build a fire to cook hamburgers and hotdogs.",
+        "startTime": 28222,
+        "endTime": 31403,
+        "slowStartTime": 42483,
+        "slowEndTime": 47330
+    },
+    {
+        "text": "Click! I take a picture.",
+        "startTime": 32447,
+        "endTime": 34533,
+        "slowStartTime": 48820,
+        "slowEndTime": 52024
+    },
+    {
+        "text": "\"Time for bed,\" says Mom.",
+        "startTime": 35591,
+        "endTime": 37953,
+        "slowStartTime": 53536,
+        "slowEndTime": 57155
+    },
+    {
+        "text": "We get into our sleeping bags.",
+        "startTime": 38972,
+        "endTime": 41083,
+        "slowStartTime": 58608,
+        "slowEndTime": 61849
+    },
+    {
+        "text": "We look at the stars.",
+        "startTime": 42126,
+        "endTime": 43501,
+        "slowStartTime": 63339,
+        "slowEndTime": 65476
+    },
+    {
+        "text": "Click! I take a picture.",
+        "startTime": 44563,
+        "endTime": 46509,
+        "slowStartTime": 66994,
+        "slowEndTime": 69988
+    },
+    {
+        "text": "Bear and Fish",
+        "startTime": 48148,
+        "endTime": 49445,
+        "slowStartTime": 72372,
+        "slowEndTime": 74392
+    },
+    {
+        "text": "In the morning, we see a bear by the lake.",
+        "startTime": 50565,
+        "endTime": 53355,
+        "slowStartTime": 75998,
+        "slowEndTime": 80257
+    },
+    {
+        "text": "It is eating berries.",
+        "startTime": 54495,
+        "endTime": 55883,
+        "slowStartTime": 81892,
+        "slowEndTime": 84050
+    },
+    {
+        "text": "Click! I take a picture.",
+        "startTime": 56965,
+        "endTime": 58901,
+        "slowStartTime": 85598,
+        "slowEndTime": 88577
+    },
+    {
+        "text": "\"Time for fishing,\" says Dad.",
+        "startTime": 59930,
+        "endTime": 62501,
+        "slowStartTime": 90045,
+        "slowEndTime": 93977
+    },
+    {
+        "text": "Mom catches three fish, and Abby catches a turtle.",
+        "startTime": 63520,
+        "endTime": 66987,
+        "slowStartTime": 95430,
+        "slowEndTime": 100706
+    },
+    {
+        "text": "Click! I take a picture.",
+        "startTime": 68074,
+        "endTime": 70219,
+        "slowStartTime": 102261,
+        "slowEndTime": 105553
+    },
+    {
+        "text": "Time to Go Home",
+        "startTime": 71799,
+        "endTime": 73043,
+        "slowStartTime": 107849,
+        "slowEndTime": 109790
+    },
+    {
+        "text": "Our camping trip is over, and it's time to go home.",
+        "startTime": 74145,
+        "endTime": 77767,
+        "slowStartTime": 111367,
+        "slowEndTime": 116875
+    },
+    {
+        "text": "Click! I take a picture.",
+        "startTime": 78795,
+        "endTime": 80857,
+        "slowStartTime": 118343,
+        "slowEndTime": 121511
+    },
+    {
+        "text": "The next day, Grandma wants to hear all about our trip.",
+        "startTime": 81881,
+        "endTime": 85727,
+        "slowStartTime": 122972,
+        "slowEndTime": 128815
+    },
+    {
+        "text": "I can't remember everything . . .",
+        "startTime": 86741,
+        "endTime": 88681,
+        "slowStartTime": 130261,
+        "slowEndTime": 133247
+    },
+    {
+        "text": ". . . so I show Grandma all my pictures!",
+        "startTime": 89638,
+        "endTime": 92634,
+        "slowStartTime": 134607,
+        "slowEndTime": 139176
+    }
+]

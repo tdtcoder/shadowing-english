@@ -1,0 +1,212 @@
+[
+    {
+        "text": "My research team and I went to West Point Military Academy.",
+        "startTime": 273,
+        "endTime": 3862,
+        "slowStartTime": 559,
+        "slowEndTime": 6018
+    },
+    {
+        "text": "We tried to predict which cadets would stay in military training and which would drop out.",
+        "startTime": 4390,
+        "endTime": 9425,
+        "slowStartTime": 6735,
+        "slowEndTime": 14363
+    },
+    {
+        "text": "We went to the National Spelling Bee...",
+        "startTime": 10377,
+        "endTime": 12239,
+        "slowStartTime": 15716,
+        "slowEndTime": 18583
+    },
+    {
+        "text": "...and tried to predict which children would advance farthest in competition.",
+        "startTime": 12607,
+        "endTime": 16829,
+        "slowStartTime": 19061,
+        "slowEndTime": 25469
+    },
+    {
+        "text": "We studied rookie teachers working in really tough neighborhoods,...",
+        "startTime": 17789,
+        "endTime": 21489,
+        "slowStartTime": 26834,
+        "slowEndTime": 32459
+    },
+    {
+        "text": "...asking which teachers are still going to be here in teaching by the end of the school year,...",
+        "startTime": 21873,
+        "endTime": 26767,
+        "slowStartTime": 32959,
+        "slowEndTime": 40376
+    },
+    {
+        "text": "...and of those, who will be the most effective at improving learning outcomes for their students?",
+        "startTime": 27301,
+        "endTime": 32866,
+        "slowStartTime": 41102,
+        "slowEndTime": 49524
+    },
+    {
+        "text": "We partnered with private companies, asking,...",
+        "startTime": 33502,
+        "endTime": 35552,
+        "slowStartTime": 50403,
+        "slowEndTime": 53553
+    },
+    {
+        "text": "...which of these salespeople is going to keep their jobs?",
+        "startTime": 35815,
+        "endTime": 38032,
+        "slowStartTime": 53873,
+        "slowEndTime": 57273
+    },
+    {
+        "text": "And who's going to earn the most money?",
+        "startTime": 38428,
+        "endTime": 39753,
+        "slowStartTime": 57792,
+        "slowEndTime": 59855
+    },
+    {
+        "text": "In all those very different contexts,...",
+        "startTime": 40709,
+        "endTime": 42606,
+        "slowStartTime": 61214,
+        "slowEndTime": 64134
+    },
+    {
+        "text": "...one characteristic emerged as a significant predictor of success.",
+        "startTime": 43460,
+        "endTime": 47785,
+        "slowStartTime": 65340,
+        "slowEndTime": 71903
+    },
+    {
+        "text": "And it wasn't social intelligence.",
+        "startTime": 48317,
+        "endTime": 50015,
+        "slowStartTime": 72626,
+        "slowEndTime": 75247
+    },
+    {
+        "text": "It wasn't good looks, physical health, and it wasn't IQ.",
+        "startTime": 50489,
+        "endTime": 54793,
+        "slowStartTime": 75884,
+        "slowEndTime": 82414
+    },
+    {
+        "text": "It was grit.",
+        "startTime": 55628,
+        "endTime": 56593,
+        "slowStartTime": 83592,
+        "slowEndTime": 85114
+    },
+    {
+        "text": "Grit is passion and perseverance for very long-term goals.",
+        "startTime": 57837,
+        "endTime": 62383,
+        "slowStartTime": 86905,
+        "slowEndTime": 93799
+    },
+    {
+        "text": "Grit is having stamina.",
+        "startTime": 62985,
+        "endTime": 64491,
+        "slowStartTime": 94627,
+        "slowEndTime": 96962
+    },
+    {
+        "text": "Grit is sticking with your future day in day out,...",
+        "startTime": 65215,
+        "endTime": 69064,
+        "slowStartTime": 97972,
+        "slowEndTime": 103821
+    },
+    {
+        "text": "...not just for the week, not just for the month, but for years,...",
+        "startTime": 69391,
+        "endTime": 73805,
+        "slowStartTime": 104236,
+        "slowEndTime": 110933
+    },
+    {
+        "text": "...and working really hard to make that future a reality.",
+        "startTime": 74392,
+        "endTime": 78042,
+        "slowStartTime": 111738,
+        "slowEndTime": 117288
+    },
+    {
+        "text": "Grit is living life like it's a marathon, not a sprint.",
+        "startTime": 78855,
+        "endTime": 82941,
+        "slowStartTime": 118433,
+        "slowEndTime": 124636
+    },
+    {
+        "text": "A few years ago, I started studying grit in the Chicago public schools.",
+        "startTime": 84114,
+        "endTime": 88386,
+        "slowStartTime": 126321,
+        "slowEndTime": 132804
+    },
+    {
+        "text": "I asked thousands of high school juniors to take grit questionnaires,...",
+        "startTime": 89005,
+        "endTime": 92885,
+        "slowStartTime": 133658,
+        "slowEndTime": 139552
+    },
+    {
+        "text": "...and then waited around more than a year to see who would graduate.",
+        "startTime": 93324,
+        "endTime": 96563,
+        "slowStartTime": 140136,
+        "slowEndTime": 145069
+    },
+    {
+        "text": "Turns out that grittier kids were significantly more likely to graduate,...",
+        "startTime": 97451,
+        "endTime": 102387,
+        "slowStartTime": 146326,
+        "slowEndTime": 153806
+    },
+    {
+        "text": "...even when I matched them on every characteristic I could measure,...",
+        "startTime": 102885,
+        "endTime": 106381,
+        "slowStartTime": 154477,
+        "slowEndTime": 159796
+    },
+    {
+        "text": "...things like family income, standardized achievement test scores,...",
+        "startTime": 106683,
+        "endTime": 111241,
+        "slowStartTime": 160174,
+        "slowEndTime": 167087
+    },
+    {
+        "text": "...even how safe kids felt when they were at school.",
+        "startTime": 111736,
+        "endTime": 114634,
+        "slowStartTime": 167754,
+        "slowEndTime": 172176
+    },
+    {
+        "text": "So it's not just at West Point or the National Spelling Bee that grit matters.",
+        "startTime": 115299,
+        "endTime": 118983,
+        "slowStartTime": 173098,
+        "slowEndTime": 178700
+    },
+    {
+        "text": "It's also in school, especially for kids at risk for dropping out.",
+        "startTime": 119331,
+        "endTime": 123783,
+        "slowStartTime": 179147,
+        "slowEndTime": 185899
+    }
+]

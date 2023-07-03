@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Which one is it?",
+        "startTime": 7946,
+        "endTime": 9009,
+        "slowStartTime": 12069,
+        "slowEndTime": 13739
+    },
+    {
+        "text": "Here.",
+        "startTime": 12279,
+        "endTime": 12771,
+        "slowStartTime": 18569,
+        "slowEndTime": 19382
+    },
+    {
+        "text": "Hi.",
+        "startTime": 22142,
+        "endTime": 22925,
+        "slowStartTime": 33363,
+        "slowEndTime": 34613
+    },
+    {
+        "text": "Emily.",
+        "startTime": 23059,
+        "endTime": 23451,
+        "slowStartTime": 34738,
+        "slowEndTime": 35402
+    },
+    {
+        "text": "The food is really good.",
+        "startTime": 31991,
+        "endTime": 33991,
+        "slowStartTime": 48137,
+        "slowEndTime": 51212
+    },
+    {
+        "text": "The food is great.",
+        "startTime": 40707,
+        "endTime": 41663,
+        "slowStartTime": 61211,
+        "slowEndTime": 62719
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Splitting a word into chunks can improve your spelling.",
+        "startTime": 899,
+        "endTime": 3967,
+        "slowStartTime": 1499,
+        "slowEndTime": 6176
+    },
+    {
+        "text": "Mend can be split into men - d.",
+        "startTime": 6216,
+        "endTime": 10163,
+        "slowStartTime": 9474,
+        "slowEndTime": 15470
+    },
+    {
+        "text": "Flag can be split into fl - ag.",
+        "startTime": 15331,
+        "endTime": 19085,
+        "slowStartTime": 23146,
+        "slowEndTime": 28852
+    },
+    {
+        "text": "Longer words can be split into chunks called syllables.",
+        "startTime": 20807,
+        "endTime": 24385,
+        "slowStartTime": 31361,
+        "slowEndTime": 36802
+    },
+    {
+        "text": "Each syllable makes a beat.",
+        "startTime": 26244,
+        "endTime": 27998,
+        "slowStartTime": 39516,
+        "slowEndTime": 42222
+    },
+    {
+        "text": "Hold your hand under your chin and say the word.",
+        "startTime": 28491,
+        "endTime": 30867,
+        "slowStartTime": 42886,
+        "slowEndTime": 46526
+    },
+    {
+        "text": "Each time your mouth opens, the word has a syllable.",
+        "startTime": 31375,
+        "endTime": 34158,
+        "slowStartTime": 47212,
+        "slowEndTime": 51462
+    },
+    {
+        "text": "Un - der - stand - ing.",
+        "startTime": 35720,
+        "endTime": 38457,
+        "slowStartTime": 53730,
+        "slowEndTime": 57910
+    },
+    {
+        "text": "Understanding.",
+        "startTime": 39088,
+        "endTime": 39977,
+        "slowStartTime": 58782,
+        "slowEndTime": 60190
+    }
+]

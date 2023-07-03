@@ -1,0 +1,100 @@
+[
+    {
+        "text": "Enemies to the east,...",
+        "startTime": 5083,
+        "endTime": 6361,
+        "slowStartTime": 7775,
+        "slowEndTime": 9767
+    },
+    {
+        "text": "...enemies to the west,...",
+        "startTime": 9036,
+        "endTime": 10443,
+        "slowStartTime": 13704,
+        "slowEndTime": 15890
+    },
+    {
+        "text": "...enemies to the south,...",
+        "startTime": 12646,
+        "endTime": 14044,
+        "slowStartTime": 19119,
+        "slowEndTime": 21291
+    },
+    {
+        "text": "...enemies to the north.",
+        "startTime": 16249,
+        "endTime": 17633,
+        "slowStartTime": 24523,
+        "slowEndTime": 26674
+    },
+    {
+        "text": "Whatever stands in our way, we will defeat it.",
+        "startTime": 20089,
+        "endTime": 24436,
+        "slowStartTime": 30284,
+        "slowEndTime": 36879
+    },
+    {
+        "text": "We're the last Lannisters,...",
+        "startTime": 27325,
+        "endTime": 28893,
+        "slowStartTime": 41138,
+        "slowEndTime": 43564
+    },
+    {
+        "text": "...the last ones who count.",
+        "startTime": 31031,
+        "endTime": 32233,
+        "slowStartTime": 46697,
+        "slowEndTime": 48575
+    },
+    {
+        "text": "I was born to rule the Seven Kingdoms and I will.",
+        "startTime": 38389,
+        "endTime": 44561,
+        "slowStartTime": 57733,
+        "slowEndTime": 67066
+    },
+    {
+        "text": "The King in the North!",
+        "startTime": 49948,
+        "endTime": 51345,
+        "slowStartTime": 75072,
+        "slowEndTime": 77243
+    },
+    {
+        "text": "Your father and brothers are gone, yet here you stand,...",
+        "startTime": 52049,
+        "endTime": 54502,
+        "slowStartTime": 78223,
+        "slowEndTime": 81978
+    },
+    {
+        "text": "...last best hope against the coming storm.",
+        "startTime": 56919,
+        "endTime": 59238,
+        "slowStartTime": 85528,
+        "slowEndTime": 89082
+    },
+    {
+        "text": "If we don't put aside our enmities and band together, we will die.",
+        "startTime": 65131,
+        "endTime": 68289,
+        "slowStartTime": 97847,
+        "slowEndTime": 102658
+    },
+    {
+        "text": "And then it doesn't matter whose skeleton sits on the Iron Throne.",
+        "startTime": 70678,
+        "endTime": 73938,
+        "slowStartTime": 106167,
+        "slowEndTime": 111132
+    },
+    {
+        "text": "The Great War is here.",
+        "startTime": 83430,
+        "endTime": 85241,
+        "slowStartTime": 125295,
+        "slowEndTime": 128086
+    }
+]

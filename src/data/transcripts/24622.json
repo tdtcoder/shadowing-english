@@ -1,0 +1,79 @@
+[
+    {
+        "text": "﻿Let's learn about feelings.",
+        "startTime": 499,
+        "endTime": 4095,
+        "slowStartTime": 899,
+        "slowEndTime": 6367
+    },
+    {
+        "text": "He is very happy.",
+        "startTime": 7154,
+        "endTime": 9071,
+        "slowStartTime": 10881,
+        "slowEndTime": 13832
+    },
+    {
+        "text": "He is very sad.",
+        "startTime": 14696,
+        "endTime": 15692,
+        "slowStartTime": 22194,
+        "slowEndTime": 23763
+    },
+    {
+        "text": "Mario is angry.",
+        "startTime": 22845,
+        "endTime": 25294,
+        "slowStartTime": 34417,
+        "slowEndTime": 38166
+    },
+    {
+        "text": "The boy is bored.",
+        "startTime": 31978,
+        "endTime": 36067,
+        "slowStartTime": 48117,
+        "slowEndTime": 54326
+    },
+    {
+        "text": "She feels tired.",
+        "startTime": 41509,
+        "endTime": 45312,
+        "slowStartTime": 62414,
+        "slowEndTime": 68193
+    },
+    {
+        "text": "The cat is sleepy.",
+        "startTime": 52233,
+        "endTime": 56088,
+        "slowStartTime": 78499,
+        "slowEndTime": 84357
+    },
+    {
+        "text": "He is surprised.",
+        "startTime": 61802,
+        "endTime": 66278,
+        "slowStartTime": 92853,
+        "slowEndTime": 99642
+    },
+    {
+        "text": "He feels disappointed.",
+        "startTime": 73125,
+        "endTime": 76945,
+        "slowStartTime": 109837,
+        "slowEndTime": 115642
+    },
+    {
+        "text": "She is nervous.",
+        "startTime": 83017,
+        "endTime": 85119,
+        "slowStartTime": 124675,
+        "slowEndTime": 127903
+    },
+    {
+        "text": "She is shy.",
+        "startTime": 92446,
+        "endTime": 94101,
+        "slowStartTime": 138819,
+        "slowEndTime": 141377
+    }
+]

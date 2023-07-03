@@ -1,0 +1,65 @@
+[
+    {
+        "text": "The Porsche Museum is the place to visit...",
+        "startTime": 580,
+        "endTime": 4802,
+        "slowStartTime": 1020,
+        "slowEndTime": 7428
+    },
+    {
+        "text": "...when it comes to the world of fascinating sports cars.",
+        "startTime": 5731,
+        "endTime": 9705,
+        "slowStartTime": 8746,
+        "slowEndTime": 14783
+    },
+    {
+        "text": "It's a place where you can dream with your eyes wide open.",
+        "startTime": 14939,
+        "endTime": 20895,
+        "slowStartTime": 22559,
+        "slowEndTime": 31568
+    },
+    {
+        "text": "Where forgotten memories turn into new emotions.",
+        "startTime": 27391,
+        "endTime": 34586,
+        "slowStartTime": 41237,
+        "slowEndTime": 52104
+    },
+    {
+        "text": "Where you can travel through time on 30,000 horsepower.",
+        "startTime": 38327,
+        "endTime": 43911,
+        "slowStartTime": 57640,
+        "slowEndTime": 66092
+    },
+    {
+        "text": "Where kids will ask their parents if they can go again and again.",
+        "startTime": 54782,
+        "endTime": 61513,
+        "slowStartTime": 82323,
+        "slowEndTime": 92494
+    },
+    {
+        "text": "Where the future is part of our history.",
+        "startTime": 67711,
+        "endTime": 71933,
+        "slowStartTime": 101717,
+        "slowEndTime": 108125
+    },
+    {
+        "text": "The Porsche Museum.",
+        "startTime": 80077,
+        "endTime": 81839,
+        "slowStartTime": 120266,
+        "slowEndTime": 122984
+    },
+    {
+        "text": "It's a place where you arrive as a visitor and leave as a fan.",
+        "startTime": 82814,
+        "endTime": 87812,
+        "slowStartTime": 124371,
+        "slowEndTime": 131943
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "text": "The Barter System.",
+        "startTime": 41,
+        "endTime": 965,
+        "slowStartTime": 212,
+        "slowEndTime": 1672
+    },
+    {
+        "text": "Billy is a lumberjack and Mary is an egg farmer.",
+        "startTime": 2724,
+        "endTime": 5241,
+        "slowStartTime": 4236,
+        "slowEndTime": 8086
+    },
+    {
+        "text": "After chopping down many trees, Billy soon has more wood than he needs.",
+        "startTime": 5709,
+        "endTime": 9809,
+        "slowStartTime": 8714,
+        "slowEndTime": 14939
+    },
+    {
+        "text": "Similarly, Mary soon has more chickens and more eggs than she can eat.",
+        "startTime": 10227,
+        "endTime": 13801,
+        "slowStartTime": 15490,
+        "slowEndTime": 20927
+    },
+    {
+        "text": "That means they have a surplus.",
+        "startTime": 14405,
+        "endTime": 16205,
+        "slowStartTime": 21757,
+        "slowEndTime": 24533
+    },
+    {
+        "text": "Billy, after chopping down all of the trees, is now very hungry...",
+        "startTime": 17249,
+        "endTime": 21200,
+        "slowStartTime": 26024,
+        "slowEndTime": 32025
+    },
+    {
+        "text": "...and would very much like some food.",
+        "startTime": 21313,
+        "endTime": 22947,
+        "slowStartTime": 32119,
+        "slowEndTime": 34646
+    },
+    {
+        "text": "And Mary would like some firewood so she can cook her food.",
+        "startTime": 23275,
+        "endTime": 26445,
+        "slowStartTime": 35063,
+        "slowEndTime": 39892
+    },
+    {
+        "text": "And thus, a trade will develop between Billy and Mary.",
+        "startTime": 26944,
+        "endTime": 29911,
+        "slowStartTime": 40566,
+        "slowEndTime": 45091
+    },
+    {
+        "text": "Given enough time, an exchange rate will also develop:...",
+        "startTime": 30627,
+        "endTime": 33751,
+        "slowStartTime": 46091,
+        "slowEndTime": 50852
+    },
+    {
+        "text": "...say, one egg for one medium-sized log.",
+        "startTime": 34202,
+        "endTime": 36867,
+        "slowStartTime": 51453,
+        "slowEndTime": 55525
+    },
+    {
+        "text": "But these rates could change.",
+        "startTime": 37636,
+        "endTime": 39111,
+        "slowStartTime": 56604,
+        "slowEndTime": 58891
+    },
+    {
+        "text": "If some of the chickens died, Mary might demand more logs per egg....",
+        "startTime": 39637,
+        "endTime": 43338,
+        "slowStartTime": 59605,
+        "slowEndTime": 65232
+    },
+    {
+        "text": "...since she will have less eggs now to trade.",
+        "startTime": 43468,
+        "endTime": 45741,
+        "slowStartTime": 65352,
+        "slowEndTime": 68837
+    },
+    {
+        "text": "If there were a forest fire, the lumberjack might want more eggs...",
+        "startTime": 46310,
+        "endTime": 49669,
+        "slowStartTime": 69615,
+        "slowEndTime": 74729
+    },
+    {
+        "text": "...in exchange for his wood.",
+        "startTime": 49761,
+        "endTime": 51282,
+        "slowStartTime": 74792,
+        "slowEndTime": 77148
+    }
+]

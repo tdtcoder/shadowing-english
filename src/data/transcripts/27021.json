@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Below the Belt.",
+        "startTime": 8055,
+        "endTime": 9367,
+        "slowStartTime": 12232,
+        "slowEndTime": 14275
+    },
+    {
+        "text": "It means in an unfair manner.",
+        "startTime": 12576,
+        "endTime": 14788,
+        "slowStartTime": 19014,
+        "slowEndTime": 22407
+    },
+    {
+        "text": "His remark was mean and below the belt.",
+        "startTime": 20999,
+        "endTime": 23800,
+        "slowStartTime": 31648,
+        "slowEndTime": 35925
+    },
+    {
+        "text": "That comment was very rude and below the belt.",
+        "startTime": 29309,
+        "endTime": 32987,
+        "slowStartTime": 44114,
+        "slowEndTime": 49705
+    },
+    {
+        "text": "He hit me below the belt when he said I was fat.",
+        "startTime": 38649,
+        "endTime": 41621,
+        "slowStartTime": 58123,
+        "slowEndTime": 62657
+    }
+]

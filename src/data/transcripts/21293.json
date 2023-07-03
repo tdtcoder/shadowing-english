@@ -1,0 +1,128 @@
+[
+    {
+        "text": "Hey, this is Robert Lamb from Stuff to Blow Your Mind,...",
+        "startTime": 369,
+        "endTime": 2343,
+        "slowStartTime": 704,
+        "slowEndTime": 3740
+    },
+    {
+        "text": "...and I'm here to talk to you about space suits.",
+        "startTime": 2406,
+        "endTime": 4396,
+        "slowStartTime": 3759,
+        "slowEndTime": 6819
+    },
+    {
+        "text": "Now everybody wants to go on a spacewalk, but you cannot do it naked.",
+        "startTime": 4660,
+        "endTime": 8377,
+        "slowStartTime": 7140,
+        "slowEndTime": 12790
+    },
+    {
+        "text": "I can't stress that enough.",
+        "startTime": 8446,
+        "endTime": 9851,
+        "slowStartTime": 12819,
+        "slowEndTime": 15002
+    },
+    {
+        "text": "You're gonna need to invest in a good space suit,...",
+        "startTime": 10068,
+        "endTime": 11799,
+        "slowStartTime": 15252,
+        "slowEndTime": 17923
+    },
+    {
+        "text": "...and you're gonna want that space suit to do three things for you.",
+        "startTime": 12014,
+        "endTime": 14957,
+        "slowStartTime": 18171,
+        "slowEndTime": 22660
+    },
+    {
+        "text": "First, the suit has to provide oxygen,...",
+        "startTime": 15291,
+        "endTime": 17005,
+        "slowStartTime": 23086,
+        "slowEndTime": 25732
+    },
+    {
+        "text": "...all right, you're gonna have to be able to breathe in that thing.",
+        "startTime": 17077,
+        "endTime": 18832,
+        "slowStartTime": 25766,
+        "slowEndTime": 28473
+    },
+    {
+        "text": "All right, and then it's gonna have to provide pressurized air all around your body.",
+        "startTime": 19301,
+        "endTime": 22825,
+        "slowStartTime": 29101,
+        "slowEndTime": 34463
+    },
+    {
+        "text": "The problem in some of the earlier suits...",
+        "startTime": 22909,
+        "endTime": 24326,
+        "slowStartTime": 34514,
+        "slowEndTime": 36714
+    },
+    {
+        "text": "...is that it created something called the balloon effect.",
+        "startTime": 24725,
+        "endTime": 26563,
+        "slowStartTime": 37238,
+        "slowEndTime": 40069
+    },
+    {
+        "text": "Modern suits control the balloon effect by using low pressure inside the suit...",
+        "startTime": 26721,
+        "endTime": 30547,
+        "slowStartTime": 40231,
+        "slowEndTime": 46046
+    },
+    {
+        "text": "...and a hard fiberglass torso section.",
+        "startTime": 30796,
+        "endTime": 32831,
+        "slowStartTime": 46344,
+        "slowEndTime": 49471
+    },
+    {
+        "text": "The third thing that the suit has to do is control the astronaut's temperature.",
+        "startTime": 33261,
+        "endTime": 36318,
+        "slowStartTime": 50041,
+        "slowEndTime": 54702
+    },
+    {
+        "text": "Now out in space, it is a balmy 250 degrees in the sun...",
+        "startTime": 36571,
+        "endTime": 39887,
+        "slowStartTime": 55007,
+        "slowEndTime": 60055
+    },
+    {
+        "text": "...and a chilly minus 150 degrees in the shade.",
+        "startTime": 39952,
+        "endTime": 42550,
+        "slowStartTime": 60078,
+        "slowEndTime": 64050
+    },
+    {
+        "text": "So you're gonna wear long underwear...",
+        "startTime": 43075,
+        "endTime": 44539,
+        "slowStartTime": 64763,
+        "slowEndTime": 67033
+    },
+    {
+        "text": "...laced with tubing that's flowing with cooling water to keep everything chill.",
+        "startTime": 44633,
+        "endTime": 48760,
+        "slowStartTime": 67099,
+        "slowEndTime": 73365
+    }
+]

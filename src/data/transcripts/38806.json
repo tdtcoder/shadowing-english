@@ -1,0 +1,191 @@
+[
+    {
+        "text": "We are going to the beach.",
+        "startTime": 6251,
+        "endTime": 8453,
+        "slowStartTime": 9526,
+        "slowEndTime": 12904
+    },
+    {
+        "text": "It's going to be fun.",
+        "startTime": 10370,
+        "endTime": 12343,
+        "slowStartTime": 15705,
+        "slowEndTime": 18739
+    },
+    {
+        "text": "A whole long day of sand, water, sun!",
+        "startTime": 13751,
+        "endTime": 17367,
+        "slowStartTime": 20776,
+        "slowEndTime": 26275
+    },
+    {
+        "text": "Don't forget your bathing suit.",
+        "startTime": 17988,
+        "endTime": 19743,
+        "slowStartTime": 27132,
+        "slowEndTime": 29840
+    },
+    {
+        "text": "I won't forget my bathing suit.",
+        "startTime": 19821,
+        "endTime": 21743,
+        "slowStartTime": 29882,
+        "slowEndTime": 32840
+    },
+    {
+        "text": "Don't forget the towels.",
+        "startTime": 21979,
+        "endTime": 23615,
+        "slowStartTime": 33119,
+        "slowEndTime": 35648
+    },
+    {
+        "text": "I won't forget the towels.",
+        "startTime": 23731,
+        "endTime": 25633,
+        "slowStartTime": 35746,
+        "slowEndTime": 38674
+    },
+    {
+        "text": "Don't forget the sunscreen.",
+        "startTime": 25939,
+        "endTime": 27778,
+        "slowStartTime": 39058,
+        "slowEndTime": 41892
+    },
+    {
+        "text": "I won't forget the sunscreen.",
+        "startTime": 27857,
+        "endTime": 29889,
+        "slowStartTime": 41936,
+        "slowEndTime": 45058
+    },
+    {
+        "text": "We are going to the beach.",
+        "startTime": 30473,
+        "endTime": 32545,
+        "slowStartTime": 45859,
+        "slowEndTime": 49043
+    },
+    {
+        "text": "It's going to be fun.",
+        "startTime": 34462,
+        "endTime": 36305,
+        "slowStartTime": 51843,
+        "slowEndTime": 54682
+    },
+    {
+        "text": "A whole long day of sand, water, sun!",
+        "startTime": 37785,
+        "endTime": 41373,
+        "slowStartTime": 56828,
+        "slowEndTime": 62284
+    },
+    {
+        "text": "Don't forget the beach ball.",
+        "startTime": 41949,
+        "endTime": 43716,
+        "slowStartTime": 63074,
+        "slowEndTime": 65799
+    },
+    {
+        "text": "I won't forget the beach ball.",
+        "startTime": 43805,
+        "endTime": 45625,
+        "slowStartTime": 65857,
+        "slowEndTime": 68663
+    },
+    {
+        "text": "Don't forget the pail and shovel.",
+        "startTime": 46007,
+        "endTime": 47765,
+        "slowStartTime": 69161,
+        "slowEndTime": 71873
+    },
+    {
+        "text": "I won't forget the pail and shovel.",
+        "startTime": 47862,
+        "endTime": 49840,
+        "slowStartTime": 71943,
+        "slowEndTime": 74985
+    },
+    {
+        "text": "Don't forget the sunglasses.",
+        "startTime": 49989,
+        "endTime": 51945,
+        "slowStartTime": 75134,
+        "slowEndTime": 78143
+    },
+    {
+        "text": "I won't forget the sunglasses.",
+        "startTime": 52033,
+        "endTime": 53786,
+        "slowStartTime": 78200,
+        "slowEndTime": 80904
+    },
+    {
+        "text": "We are going to the beach.",
+        "startTime": 54467,
+        "endTime": 56804,
+        "slowStartTime": 81851,
+        "slowEndTime": 85431
+    },
+    {
+        "text": "It's going to be fun.",
+        "startTime": 58475,
+        "endTime": 60468,
+        "slowStartTime": 87863,
+        "slowEndTime": 90927
+    },
+    {
+        "text": "A whole long day of sand, water, sun!",
+        "startTime": 61674,
+        "endTime": 65407,
+        "slowStartTime": 92661,
+        "slowEndTime": 98336
+    },
+    {
+        "text": "Don't forget a sun hat.",
+        "startTime": 65908,
+        "endTime": 67870,
+        "slowStartTime": 99012,
+        "slowEndTime": 102030
+    },
+    {
+        "text": "I won't forget a sun hat.",
+        "startTime": 67974,
+        "endTime": 69721,
+        "slowStartTime": 102111,
+        "slowEndTime": 104806
+    },
+    {
+        "text": "Don't forget a snorkel.",
+        "startTime": 69977,
+        "endTime": 71788,
+        "slowStartTime": 105116,
+        "slowEndTime": 107907
+    },
+    {
+        "text": "I won't forget a snorkel.",
+        "startTime": 71867,
+        "endTime": 73682,
+        "slowStartTime": 107950,
+        "slowEndTime": 110748
+    },
+    {
+        "text": "Don't forget your sandals.",
+        "startTime": 73915,
+        "endTime": 75661,
+        "slowStartTime": 111022,
+        "slowEndTime": 113716
+    },
+    {
+        "text": "I won't forget my sandals.",
+        "startTime": 75797,
+        "endTime": 77809,
+        "slowStartTime": 113846,
+        "slowEndTime": 116939
+    }
+]

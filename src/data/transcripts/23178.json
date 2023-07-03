@@ -1,0 +1,79 @@
+[
+    {
+        "text": "This is the iPhone 6.",
+        "startTime": 600,
+        "endTime": 2005,
+        "slowStartTime": 1050,
+        "slowEndTime": 3232
+    },
+    {
+        "text": "And this is the iPhone 6 Plus.",
+        "startTime": 2139,
+        "endTime": 4235,
+        "slowStartTime": 3358,
+        "slowEndTime": 6578
+    },
+    {
+        "text": "They come with a thing called \"Health\" so they can help you track a lot of stuff.",
+        "startTime": 4591,
+        "endTime": 7735,
+        "slowStartTime": 7036,
+        "slowEndTime": 11827
+    },
+    {
+        "text": "Like today, I walked 3.8 miles.",
+        "startTime": 8111,
+        "endTime": 9853,
+        "slowStartTime": 12317,
+        "slowEndTime": 15005
+    },
+    {
+        "text": "Well, I ran 4.2 miles.",
+        "startTime": 10107,
+        "endTime": 12413,
+        "slowStartTime": 15310,
+        "slowEndTime": 18845
+    },
+    {
+        "text": "Well, I climbed 11 flights of stairs.",
+        "startTime": 12630,
+        "endTime": 14824,
+        "slowStartTime": 19095,
+        "slowEndTime": 22461
+    },
+    {
+        "text": "Well, I drank a smoothie that had 362 calories in it.",
+        "startTime": 15131,
+        "endTime": 18770,
+        "slowStartTime": 22847,
+        "slowEndTime": 28380
+    },
+    {
+        "text": "Well, I had a funnel cake that had 1,230 calories in it.",
+        "startTime": 18889,
+        "endTime": 22320,
+        "slowStartTime": 28483,
+        "slowEndTime": 33705
+    },
+    {
+        "text": "You know that's not good, right?",
+        "startTime": 23973,
+        "endTime": 25593,
+        "slowStartTime": 36110,
+        "slowEndTime": 38615
+    },
+    {
+        "text": "It was good.",
+        "startTime": 26865,
+        "endTime": 27471,
+        "slowStartTime": 40448,
+        "slowEndTime": 41431
+    },
+    {
+        "text": "It was delicious.",
+        "startTime": 28661,
+        "endTime": 29255,
+        "slowStartTime": 43142,
+        "slowEndTime": 44108
+    }
+]

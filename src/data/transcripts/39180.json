@@ -1,0 +1,198 @@
+[
+    {
+        "text": "Hello?",
+        "startTime": 3960,
+        "endTime": 4371,
+        "slowStartTime": 6090,
+        "slowEndTime": 6781
+    },
+    {
+        "text": "Hey, Tom! This is Patrick from TikTok.",
+        "startTime": 4885,
+        "endTime": 6912,
+        "slowStartTime": 7478,
+        "slowEndTime": 10593
+    },
+    {
+        "text": "How are you doing today?",
+        "startTime": 7046,
+        "endTime": 7818,
+        "slowStartTime": 10719,
+        "slowEndTime": 11952
+    },
+    {
+        "text": "Hey, Patrick! I'm doing fine.",
+        "startTime": 8065,
+        "endTime": 9909,
+        "slowStartTime": 12247,
+        "slowEndTime": 15088
+    },
+    {
+        "text": "What is this about again?",
+        "startTime": 10279,
+        "endTime": 11205,
+        "slowStartTime": 15568,
+        "slowEndTime": 17033
+    },
+    {
+        "text": "Well actually, Tom, I'm a little lost.",
+        "startTime": 11319,
+        "endTime": 13176,
+        "slowStartTime": 17128,
+        "slowEndTime": 19989
+    },
+    {
+        "text": "Do you mind if I take a second to tell you why I'm calling?",
+        "startTime": 13271,
+        "endTime": 15981,
+        "slowStartTime": 20056,
+        "slowEndTime": 24197
+    },
+    {
+        "text": "Yeah, sure.",
+        "startTime": 16350,
+        "endTime": 17181,
+        "slowStartTime": 24675,
+        "slowEndTime": 25996
+    },
+    {
+        "text": "All right, great.",
+        "startTime": 17525,
+        "endTime": 18116,
+        "slowStartTime": 26438,
+        "slowEndTime": 27399
+    },
+    {
+        "text": "I'm actually from the strategic partnerships team at TikTok,...",
+        "startTime": 18258,
+        "endTime": 21541,
+        "slowStartTime": 27537,
+        "slowEndTime": 32537
+    },
+    {
+        "text": "...and basically what I do is I help gaming studios just like yours,...",
+        "startTime": 21841,
+        "endTime": 24770,
+        "slowStartTime": 32912,
+        "slowEndTime": 37380
+    },
+    {
+        "text": "...reach new audiences by advertising on our platform.",
+        "startTime": 24853,
+        "endTime": 27904,
+        "slowStartTime": 37430,
+        "slowEndTime": 42081
+    },
+    {
+        "text": "And I'm sure you're already familiar with TikTok, right?",
+        "startTime": 28068,
+        "endTime": 30291,
+        "slowStartTime": 42252,
+        "slowEndTime": 45662
+    },
+    {
+        "text": "Oh yeah, that's where everyone's doing those trendy dances, right?",
+        "startTime": 30843,
+        "endTime": 34381,
+        "slowStartTime": 46414,
+        "slowEndTime": 51797
+    },
+    {
+        "text": "Yep, exactly.",
+        "startTime": 35723,
+        "endTime": 36903,
+        "slowStartTime": 53735,
+        "slowEndTime": 55579
+    },
+    {
+        "text": "Well, not only are we known for our trendy dances,...",
+        "startTime": 36995,
+        "endTime": 39904,
+        "slowStartTime": 55643,
+        "slowEndTime": 60081
+    },
+    {
+        "text": "...but I've actually been supporting a lot of mobile gaming companies...",
+        "startTime": 39997,
+        "endTime": 42787,
+        "slowStartTime": 60145,
+        "slowEndTime": 64406
+    },
+    {
+        "text": "...advertise on our platform,...",
+        "startTime": 43143,
+        "endTime": 44139,
+        "slowStartTime": 64864,
+        "slowEndTime": 66434
+    },
+    {
+        "text": "...and helping them get more downloads on the App Store, and the Google Play Store.",
+        "startTime": 44261,
+        "endTime": 48744,
+        "slowStartTime": 66541,
+        "slowEndTime": 73341
+    },
+    {
+        "text": "And the reason I'm calling is because I want to take five minutes...",
+        "startTime": 48877,
+        "endTime": 51443,
+        "slowStartTime": 73466,
+        "slowEndTime": 77390
+    },
+    {
+        "text": "...to see if it makes sense for us to work together in any way,...",
+        "startTime": 51527,
+        "endTime": 54677,
+        "slowStartTime": 77440,
+        "slowEndTime": 82240
+    },
+    {
+        "text": "...and see if you would be interested in advertising on our platform at all.",
+        "startTime": 54750,
+        "endTime": 58510,
+        "slowStartTime": 82275,
+        "slowEndTime": 87990
+    },
+    {
+        "text": "Now, by the end of the call, if we find that,...",
+        "startTime": 58919,
+        "endTime": 60943,
+        "slowStartTime": 88529,
+        "slowEndTime": 91640
+    },
+    {
+        "text": "...hey, maybe it makes sense for us to work together,...",
+        "startTime": 61040,
+        "endTime": 63365,
+        "slowStartTime": 91710,
+        "slowEndTime": 95273
+    },
+    {
+        "text": "...great, we can move on to what the next step would be.",
+        "startTime": 63498,
+        "endTime": 65653,
+        "slowStartTime": 95397,
+        "slowEndTime": 98705
+    },
+    {
+        "text": "But if not, totally fine.",
+        "startTime": 65983,
+        "endTime": 67531,
+        "slowStartTime": 99124,
+        "slowEndTime": 101521
+    },
+    {
+        "text": "Does that sound fair to you?",
+        "startTime": 67626,
+        "endTime": 68413,
+        "slowStartTime": 101589,
+        "slowEndTime": 102844
+    },
+    {
+        "text": "Okay sure. Sounds fair to me.",
+        "startTime": 68534,
+        "endTime": 70500,
+        "slowStartTime": 102951,
+        "slowEndTime": 105975
+    }
+]

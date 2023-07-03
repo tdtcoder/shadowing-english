@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Where did you get your ideas from?",
+        "startTime": 7200,
+        "endTime": 9400,
+        "slowStartTime": 11000,
+        "slowEndTime": 14300
+    },
+    {
+        "text": "The ideas?",
+        "startTime": 10700,
+        "endTime": 11700,
+        "slowStartTime": 16300,
+        "slowEndTime": 17800
+    },
+    {
+        "text": "Oh man! I got a million dreams.",
+        "startTime": 12900,
+        "endTime": 15250,
+        "slowStartTime": 19600,
+        "slowEndTime": 23200
+    },
+    {
+        "text": "It's all I do. It's dream...",
+        "startTime": 16900,
+        "endTime": 18400,
+        "slowStartTime": 25550,
+        "slowEndTime": 27800
+    },
+    {
+        "text": "...all the time.",
+        "startTime": 19000,
+        "endTime": 19750,
+        "slowStartTime": 28700,
+        "slowEndTime": 29850
+    },
+    {
+        "text": "I heard you play the piano.",
+        "startTime": 20725,
+        "endTime": 21700,
+        "slowStartTime": 31225,
+        "slowEndTime": 32800
+    },
+    {
+        "text": "No, no, this is not piano.",
+        "startTime": 22150,
+        "endTime": 23600,
+        "slowStartTime": 33450,
+        "slowEndTime": 35680
+    },
+    {
+        "text": "This is dreaming.",
+        "startTime": 23650,
+        "endTime": 24600,
+        "slowStartTime": 35700,
+        "slowEndTime": 37100
+    },
+    {
+        "text": "It's dreaming.",
+        "startTime": 54650,
+        "endTime": 55300,
+        "slowStartTime": 82200,
+        "slowEndTime": 83200
+    },
+    {
+        "text": "Ellington once defined jazz as \"Negro feelings\"...",
+        "startTime": 58850,
+        "endTime": 64550,
+        "slowStartTime": 88500,
+        "slowEndTime": 97100
+    },
+    {
+        "text": "...by which he meant \"American Negro feelings\",...",
+        "startTime": 65850,
+        "endTime": 67400,
+        "slowStartTime": 99000,
+        "slowEndTime": 101370
+    },
+    {
+        "text": "...but to rhythm and tune.",
+        "startTime": 68400,
+        "endTime": 70750,
+        "slowStartTime": 102800,
+        "slowEndTime": 106400
+    }
+]

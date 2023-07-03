@@ -1,0 +1,142 @@
+[
+    {
+        "text": "I got married two years ago and now I have twins.",
+        "startTime": 13,
+        "endTime": 2999,
+        "slowStartTime": 170,
+        "slowEndTime": 4724
+    },
+    {
+        "text": "Wow! Twins?",
+        "startTime": 3275,
+        "endTime": 4717,
+        "slowStartTime": 5063,
+        "slowEndTime": 7300
+    },
+    {
+        "text": "Are they boys or girls?",
+        "startTime": 5171,
+        "endTime": 6754,
+        "slowStartTime": 7906,
+        "slowEndTime": 10356
+    },
+    {
+        "text": "They are a boy and a girl.",
+        "startTime": 7109,
+        "endTime": 8371,
+        "slowStartTime": 10813,
+        "slowEndTime": 12781
+    },
+    {
+        "text": "How old are they?",
+        "startTime": 8774,
+        "endTime": 9843,
+        "slowStartTime": 13311,
+        "slowEndTime": 14990
+    },
+    {
+        "text": "They are six months now.",
+        "startTime": 10008,
+        "endTime": 11567,
+        "slowStartTime": 15162,
+        "slowEndTime": 17575
+    },
+    {
+        "text": "Oh, I want to see them.",
+        "startTime": 11807,
+        "endTime": 13814,
+        "slowStartTime": 17860,
+        "slowEndTime": 20946
+    },
+    {
+        "text": "They must be very cute.",
+        "startTime": 14030,
+        "endTime": 15893,
+        "slowStartTime": 21195,
+        "slowEndTime": 24065
+    },
+    {
+        "text": "Yes, they are just lovely.",
+        "startTime": 16191,
+        "endTime": 18213,
+        "slowStartTime": 24436,
+        "slowEndTime": 27545
+    },
+    {
+        "text": "Hey, is that a new phone?",
+        "startTime": 20383,
+        "endTime": 21797,
+        "slowStartTime": 30724,
+        "slowEndTime": 32921
+    },
+    {
+        "text": "You can't buy that yet here.",
+        "startTime": 22227,
+        "endTime": 23490,
+        "slowStartTime": 33491,
+        "slowEndTime": 35460
+    },
+    {
+        "text": "Where did you get it?",
+        "startTime": 24139,
+        "endTime": 24979,
+        "slowStartTime": 36358,
+        "slowEndTime": 37694
+    },
+    {
+        "text": "From my brother.",
+        "startTime": 25603,
+        "endTime": 26467,
+        "slowStartTime": 38554,
+        "slowEndTime": 39926
+    },
+    {
+        "text": "He sent it to me.",
+        "startTime": 26809,
+        "endTime": 27677,
+        "slowStartTime": 40363,
+        "slowEndTime": 41741
+    },
+    {
+        "text": "What?",
+        "startTime": 28094,
+        "endTime": 28291,
+        "slowStartTime": 42291,
+        "slowEndTime": 42661
+    },
+    {
+        "text": "Charlie?",
+        "startTime": 28776,
+        "endTime": 29243,
+        "slowStartTime": 43314,
+        "slowEndTime": 44090
+    },
+    {
+        "text": "No, my other brother, Rob.",
+        "startTime": 29658,
+        "endTime": 31539,
+        "slowStartTime": 44637,
+        "slowEndTime": 47534
+    },
+    {
+        "text": "He lives in the States, in New York.",
+        "startTime": 31874,
+        "endTime": 33609,
+        "slowStartTime": 47961,
+        "slowEndTime": 50638
+    },
+    {
+        "text": "Really?",
+        "startTime": 34003,
+        "endTime": 34439,
+        "slowStartTime": 51154,
+        "slowEndTime": 51883
+    },
+    {
+        "text": "I didn't know you had another brother.",
+        "startTime": 34931,
+        "endTime": 36455,
+        "slowStartTime": 52546,
+        "slowEndTime": 54907
+    }
+]

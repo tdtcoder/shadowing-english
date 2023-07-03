@@ -1,0 +1,121 @@
+[
+    {
+        "text": "Welcome to the Scorch!",
+        "startTime": 1369,
+        "endTime": 2853,
+        "slowStartTime": 2203,
+        "slowEndTime": 4505
+    },
+    {
+        "text": "The world outside is hanging on by a very thin thread.",
+        "startTime": 5274,
+        "endTime": 8243,
+        "slowStartTime": 8061,
+        "slowEndTime": 12590
+    },
+    {
+        "text": "Beyond this door lies the beginning of your new lives.",
+        "startTime": 8521,
+        "endTime": 12781,
+        "slowStartTime": 12932,
+        "slowEndTime": 19396
+    },
+    {
+        "text": "I remember watching my friends die in front of me.",
+        "startTime": 13674,
+        "endTime": 15941,
+        "slowStartTime": 20661,
+        "slowEndTime": 24136
+    },
+    {
+        "text": "Don't you want to understand?",
+        "startTime": 16313,
+        "endTime": 17884,
+        "slowStartTime": 24619,
+        "slowEndTime": 27051
+    },
+    {
+        "text": "Understand what?",
+        "startTime": 18055,
+        "endTime": 18859,
+        "slowStartTime": 27232,
+        "slowEndTime": 28514
+    },
+    {
+        "text": "Why this all happened?",
+        "startTime": 19069,
+        "endTime": 20199,
+        "slowStartTime": 28753,
+        "slowEndTime": 30523
+    },
+    {
+        "text": "I just need to know, whose side are you on?",
+        "startTime": 21172,
+        "endTime": 24193,
+        "slowStartTime": 31908,
+        "slowEndTime": 36514
+    },
+    {
+        "text": "They're hiding something.",
+        "startTime": 26622,
+        "endTime": 27696,
+        "slowStartTime": 40083,
+        "slowEndTime": 41769
+    },
+    {
+        "text": "Come on, you don't know that!",
+        "startTime": 27833,
+        "endTime": 28810,
+        "slowStartTime": 41899,
+        "slowEndTime": 43440
+    },
+    {
+        "text": "They lied to us.",
+        "startTime": 29955,
+        "endTime": 30747,
+        "slowStartTime": 45083,
+        "slowEndTime": 46345
+    },
+    {
+        "text": "We never escaped.",
+        "startTime": 30897,
+        "endTime": 31793,
+        "slowStartTime": 46496,
+        "slowEndTime": 47914
+    },
+    {
+        "text": "It's all just been part of their plan.",
+        "startTime": 32109,
+        "endTime": 33478,
+        "slowStartTime": 48313,
+        "slowEndTime": 50442
+    },
+    {
+        "text": "What do they want from us?",
+        "startTime": 33569,
+        "endTime": 34565,
+        "slowStartTime": 50503,
+        "slowEndTime": 52073
+    },
+    {
+        "text": "Thomas!",
+        "startTime": 37235,
+        "endTime": 38235,
+        "slowStartTime": 56003,
+        "slowEndTime": 57577
+    },
+    {
+        "text": "The Maze is one thing.",
+        "startTime": 38517,
+        "endTime": 39590,
+        "slowStartTime": 57925,
+        "slowEndTime": 59610
+    },
+    {
+        "text": "But you kids won't last one day out in the Scorch.",
+        "startTime": 40005,
+        "endTime": 42517,
+        "slowStartTime": 60157,
+        "slowEndTime": 64001
+    }
+]

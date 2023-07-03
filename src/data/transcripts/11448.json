@@ -1,0 +1,240 @@
+[
+    {
+        "text": "Once upon a time, there lived a camel.",
+        "startTime": 3200,
+        "endTime": 5600,
+        "slowStartTime": 5000,
+        "slowEndTime": 8600
+    },
+    {
+        "text": "The camel was very lazy.",
+        "startTime": 6050,
+        "endTime": 7650,
+        "slowStartTime": 9250,
+        "slowEndTime": 11700
+    },
+    {
+        "text": "He lived in the desert and never did any work.",
+        "startTime": 8300,
+        "endTime": 10950,
+        "slowStartTime": 12650,
+        "slowEndTime": 16600
+    },
+    {
+        "text": "He just ate, and drank, and slept, and ate, and drank, and slept.",
+        "startTime": 11450,
+        "endTime": 15500,
+        "slowStartTime": 17350,
+        "slowEndTime": 23500
+    },
+    {
+        "text": "One day, a horse came up to him and said, \"I have a lot of work to do.\"",
+        "startTime": 16500,
+        "endTime": 21000,
+        "slowStartTime": 24950,
+        "slowEndTime": 31750
+    },
+    {
+        "text": "\"Come and help me.\"",
+        "startTime": 21350,
+        "endTime": 22200,
+        "slowStartTime": 32200,
+        "slowEndTime": 33550
+    },
+    {
+        "text": "\"Humph!\" Grumbled the camel, and continued eating, and drinking, and sleeping.",
+        "startTime": 22850,
+        "endTime": 27850,
+        "slowStartTime": 34450,
+        "slowEndTime": 42000
+    },
+    {
+        "text": "A little later, a dog came up to him and said, \"I have a lot of work to do.\"",
+        "startTime": 28450,
+        "endTime": 33400,
+        "slowStartTime": 42900,
+        "slowEndTime": 50350
+    },
+    {
+        "text": "\"Come and help me.\"",
+        "startTime": 33800,
+        "endTime": 34600,
+        "slowStartTime": 50850,
+        "slowEndTime": 52200
+    },
+    {
+        "text": "\"Humph!\" Grumbled the camel, and continued eating, and drinking, and sleeping.",
+        "startTime": 35400,
+        "endTime": 40300,
+        "slowStartTime": 53250,
+        "slowEndTime": 60700
+    },
+    {
+        "text": "Not long after this, an ox came up to him and said, \"I have a lot of work to do.\"",
+        "startTime": 41200,
+        "endTime": 46550,
+        "slowStartTime": 62000,
+        "slowEndTime": 70100
+    },
+    {
+        "text": "\"Come and help me.\"",
+        "startTime": 46750,
+        "endTime": 47550,
+        "slowStartTime": 70350,
+        "slowEndTime": 71550
+    },
+    {
+        "text": "\"Humph!\" Grumbled the camel, and continued eating, and drinking, and sleeping.",
+        "startTime": 48100,
+        "endTime": 52500,
+        "slowStartTime": 72300,
+        "slowEndTime": 79000
+    },
+    {
+        "text": "The horse, the dog, and the ox were very angry with the camel.",
+        "startTime": 53100,
+        "endTime": 57100,
+        "slowStartTime": 79950,
+        "slowEndTime": 85900
+    },
+    {
+        "text": "They had a meeting.",
+        "startTime": 57750,
+        "endTime": 58500,
+        "slowStartTime": 86800,
+        "slowEndTime": 88000
+    },
+    {
+        "text": "\"He is the laziest animal we have ever seen,\" they complained.",
+        "startTime": 59300,
+        "endTime": 63100,
+        "slowStartTime": 89150,
+        "slowEndTime": 94950
+    },
+    {
+        "text": "\"He never does any work.\"",
+        "startTime": 63600,
+        "endTime": 64950,
+        "slowStartTime": 95550,
+        "slowEndTime": 97650
+    },
+    {
+        "text": "\"We have to work, but all he does is eat, and drink, and sleep.\"",
+        "startTime": 65750,
+        "endTime": 69600,
+        "slowStartTime": 98800,
+        "slowEndTime": 104600
+    },
+    {
+        "text": "\"It's not fair.\"",
+        "startTime": 70050,
+        "endTime": 70950,
+        "slowStartTime": 105250,
+        "slowEndTime": 106650
+    },
+    {
+        "text": "\"We have to do his work for him.\"",
+        "startTime": 71950,
+        "endTime": 73750,
+        "slowStartTime": 108100,
+        "slowEndTime": 110850
+    },
+    {
+        "text": "A magician was standing near the animals,...",
+        "startTime": 74400,
+        "endTime": 76550,
+        "slowStartTime": 111800,
+        "slowEndTime": 115050
+    },
+    {
+        "text": "...he heard them talking.",
+        "startTime": 76800,
+        "endTime": 77850,
+        "slowStartTime": 115400,
+        "slowEndTime": 116950
+    },
+    {
+        "text": "\"I believe you are angry with the camel because he doesn't do any work,\" he commented.",
+        "startTime": 78550,
+        "endTime": 82950,
+        "slowStartTime": 118000,
+        "slowEndTime": 124700
+    },
+    {
+        "text": "The animals agreed that this was why they were angry with him.",
+        "startTime": 83500,
+        "endTime": 86700,
+        "slowStartTime": 125450,
+        "slowEndTime": 130300
+    },
+    {
+        "text": "\"I can do some magic,\" the magician suggested,...",
+        "startTime": 87650,
+        "endTime": 90250,
+        "slowStartTime": 131700,
+        "slowEndTime": 135550
+    },
+    {
+        "text": "...\"and stop him from being so lazy.\"",
+        "startTime": 90750,
+        "endTime": 92500,
+        "slowStartTime": 136300,
+        "slowEndTime": 139000
+    },
+    {
+        "text": "The magician performed his magic and suddenly, the camel had a big hump on its back.",
+        "startTime": 93250,
+        "endTime": 98300,
+        "slowStartTime": 140050,
+        "slowEndTime": 147600
+    },
+    {
+        "text": "The hump was filled with food and water.",
+        "startTime": 98950,
+        "endTime": 101050,
+        "slowStartTime": 148600,
+        "slowEndTime": 151800
+    },
+    {
+        "text": "\"You can live on what is in your hump for three days,\" he told the camel.",
+        "startTime": 101900,
+        "endTime": 105800,
+        "slowStartTime": 153050,
+        "slowEndTime": 159000
+    },
+    {
+        "text": "\"This means you can work for three days without eating and drinking.\"",
+        "startTime": 106350,
+        "endTime": 109300,
+        "slowStartTime": 159700,
+        "slowEndTime": 164200
+    },
+    {
+        "text": "\"Now, go and do your share of the work, and behave yourself.\"",
+        "startTime": 109850,
+        "endTime": 113250,
+        "slowStartTime": 164950,
+        "slowEndTime": 170100
+    },
+    {
+        "text": "\"Humph!\" Grumbled the camel, but he did as the magician ordered.",
+        "startTime": 114200,
+        "endTime": 118700,
+        "slowStartTime": 171500,
+        "slowEndTime": 178300
+    },
+    {
+        "text": "And this is why the camel has a hump.",
+        "startTime": 119450,
+        "endTime": 121900,
+        "slowStartTime": 179350,
+        "slowEndTime": 183050
+    },
+    {
+        "text": "We call it a hump and not a \"humph\" because we don't want to hurt his feelings.",
+        "startTime": 122550,
+        "endTime": 127050,
+        "slowStartTime": 184000,
+        "slowEndTime": 190800
+    }
+]

@@ -1,0 +1,275 @@
+[
+    {
+        "text": "This year, in this election,...",
+        "startTime": 1550,
+        "endTime": 3550,
+        "slowStartTime": 2600,
+        "slowEndTime": 5550
+    },
+    {
+        "text": "...we are called to reaffirm our values and our commitments,...",
+        "startTime": 3800,
+        "endTime": 7100,
+        "slowStartTime": 5900,
+        "slowEndTime": 10950
+    },
+    {
+        "text": "...to hold them against a hard reality and see how we are measuring up...",
+        "startTime": 7150,
+        "endTime": 10900,
+        "slowStartTime": 10950,
+        "slowEndTime": 16600
+    },
+    {
+        "text": "...to the legacy of our forebears and the promise of future generations.",
+        "startTime": 11450,
+        "endTime": 14800,
+        "slowStartTime": 17400,
+        "slowEndTime": 82400
+    },
+    {
+        "text": "And fellow Americans, Democrats, Republicans, Independents, I say to you tonight:...",
+        "startTime": 15200,
+        "endTime": 20750,
+        "slowStartTime": 23000,
+        "slowEndTime": 31400
+    },
+    {
+        "text": "...we have more work to do.",
+        "startTime": 21000,
+        "endTime": 22900,
+        "slowStartTime": 31700,
+        "slowEndTime": 34500
+    },
+    {
+        "text": "More work to do for the workers I met in Galesburg, Illinois,...",
+        "startTime": 26200,
+        "endTime": 30300,
+        "slowStartTime": 39500,
+        "slowEndTime": 45650
+    },
+    {
+        "text": "...who are losing their union jobs at the Maytag plant that's moving to Mexico,...",
+        "startTime": 30800,
+        "endTime": 34350,
+        "slowStartTime": 46450,
+        "slowEndTime": 51750
+    },
+    {
+        "text": "...and now are having to compete with their own children...",
+        "startTime": 34750,
+        "endTime": 37100,
+        "slowStartTime": 52350,
+        "slowEndTime": 55850
+    },
+    {
+        "text": "...for jobs that pay seven bucks an hour.",
+        "startTime": 37350,
+        "endTime": 39000,
+        "slowStartTime": 56200,
+        "slowEndTime": 58700
+    },
+    {
+        "text": "More to do for the father that I met who was losing his job...",
+        "startTime": 40200,
+        "endTime": 43050,
+        "slowStartTime": 60400,
+        "slowEndTime": 64800
+    },
+    {
+        "text": "...and choking back the tears, wondering how he would pay $4500 a month...",
+        "startTime": 43300,
+        "endTime": 47500,
+        "slowStartTime": 65200,
+        "slowEndTime": 71600
+    },
+    {
+        "text": "...for the drugs his son needs without the health benefits that he counted on.",
+        "startTime": 48150,
+        "endTime": 51950,
+        "slowStartTime": 72400,
+        "slowEndTime": 78150
+    },
+    {
+        "text": "More to do for the young woman in East St. Louis,...",
+        "startTime": 53400,
+        "endTime": 55650,
+        "slowStartTime": 80300,
+        "slowEndTime": 83700
+    },
+    {
+        "text": "...and thousands more like her,...",
+        "startTime": 55950,
+        "endTime": 57350,
+        "slowStartTime": 84200,
+        "slowEndTime": 86250
+    },
+    {
+        "text": "...who has the grades, has the drive, has the will...",
+        "startTime": 57750,
+        "endTime": 60600,
+        "slowStartTime": 86800,
+        "slowEndTime": 91100
+    },
+    {
+        "text": "...but doesn't have the money to go to college.",
+        "startTime": 60750,
+        "endTime": 63100,
+        "slowStartTime": 91350,
+        "slowEndTime": 94850
+    },
+    {
+        "text": "Now, don't get me wrong.",
+        "startTime": 63950,
+        "endTime": 65550,
+        "slowStartTime": 96150,
+        "slowEndTime": 98550
+    },
+    {
+        "text": "The people I meet in small towns and big cities, in diners, and office parks,...",
+        "startTime": 65800,
+        "endTime": 71300,
+        "slowStartTime": 98900,
+        "slowEndTime": 107200
+    },
+    {
+        "text": "...they don't expect government to solve all their problems.",
+        "startTime": 71550,
+        "endTime": 73950,
+        "slowStartTime": 107500,
+        "slowEndTime": 111150
+    },
+    {
+        "text": "They know they have to work hard to get ahead. And they want to.",
+        "startTime": 75750,
+        "endTime": 77700,
+        "slowStartTime": 112400,
+        "slowEndTime": 116750
+    },
+    {
+        "text": "Go into the Collar Counties around Chicago...",
+        "startTime": 78800,
+        "endTime": 80700,
+        "slowStartTime": 118350,
+        "slowEndTime": 121250
+    },
+    {
+        "text": "...and people will tell you they don't want their tax money wasted...",
+        "startTime": 80850,
+        "endTime": 83600,
+        "slowStartTime": 121500,
+        "slowEndTime": 125600
+    },
+    {
+        "text": "...by a welfare agency or by the Pentagon.",
+        "startTime": 83800,
+        "endTime": 86000,
+        "slowStartTime": 125900,
+        "slowEndTime": 129200
+    },
+    {
+        "text": "Go into any inner city neighborhood...",
+        "startTime": 90600,
+        "endTime": 92800,
+        "slowStartTime": 136100,
+        "slowEndTime": 139400
+    },
+    {
+        "text": "...and folks will tell you that government alone can't teach our kids to learn.",
+        "startTime": 93450,
+        "endTime": 98100,
+        "slowStartTime": 140400,
+        "slowEndTime": 147400
+    },
+    {
+        "text": "They know that parents have to teach,...",
+        "startTime": 98250,
+        "endTime": 99950,
+        "slowStartTime": 147600,
+        "slowEndTime": 150200
+    },
+    {
+        "text": "...that children can't achieve unless we raise their expectations...",
+        "startTime": 100150,
+        "endTime": 103100,
+        "slowStartTime": 150450,
+        "slowEndTime": 154900
+    },
+    {
+        "text": "...and turn off the television sets,...",
+        "startTime": 103300,
+        "endTime": 104850,
+        "slowStartTime": 155100,
+        "slowEndTime": 157550
+    },
+    {
+        "text": "...and eradicate the slander that says a black youth with a book is acting white.",
+        "startTime": 105050,
+        "endTime": 109950,
+        "slowStartTime": 157800,
+        "slowEndTime": 155100
+    },
+    {
+        "text": "They know those things.",
+        "startTime": 110100,
+        "endTime": 111200,
+        "slowStartTime": 165400,
+        "slowEndTime": 167000
+    },
+    {
+        "text": "People don't expect government to solve all their problems.",
+        "startTime": 120350,
+        "endTime": 123550,
+        "slowStartTime": 180750,
+        "slowEndTime": 185500
+    },
+    {
+        "text": "But they sense, deep in their bones,...",
+        "startTime": 124750,
+        "endTime": 126950,
+        "slowStartTime": 187350,
+        "slowEndTime": 190700
+    },
+    {
+        "text": "...that with just a slight change in priorities,...",
+        "startTime": 127600,
+        "endTime": 129750,
+        "slowStartTime": 191650,
+        "slowEndTime": 194830
+    },
+    {
+        "text": "...we can make sure that every child in America has a decent shot at life...",
+        "startTime": 129800,
+        "endTime": 133150,
+        "slowStartTime": 194850,
+        "slowEndTime": 199850
+    },
+    {
+        "text": "...and that the doors of opportunity remain open to all.",
+        "startTime": 133900,
+        "endTime": 136150,
+        "slowStartTime": 201050,
+        "slowEndTime": 204450
+    },
+    {
+        "text": "They know we can do better.",
+        "startTime": 136400,
+        "endTime": 138100,
+        "slowStartTime": 204800,
+        "slowEndTime": 207350
+    },
+    {
+        "text": "And they want that choice.",
+        "startTime": 138800,
+        "endTime": 139950,
+        "slowStartTime": 208400,
+        "slowEndTime": 210150
+    },
+    {
+        "text": "In this election, we offer that choice.",
+        "startTime": 141300,
+        "endTime": 144200,
+        "slowStartTime": 212200,
+        "slowEndTime": 216500
+    }
+]

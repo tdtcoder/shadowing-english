@@ -1,0 +1,72 @@
+[
+    {
+        "text": "In Nigeria, Boko Haram insurgents kill nearly 200 in suicide attacks...",
+        "startTime": 2808,
+        "endTime": 7923,
+        "slowStartTime": 4362,
+        "slowEndTime": 12110
+    },
+    {
+        "text": "...across multiple locations over the past week.",
+        "startTime": 8007,
+        "endTime": 10879,
+        "slowStartTime": 12160,
+        "slowEndTime": 16544
+    },
+    {
+        "text": "In Greece, Finance Minister Yanis Varoufakis resigns from office...",
+        "startTime": 13095,
+        "endTime": 17365,
+        "slowStartTime": 19793,
+        "slowEndTime": 26273
+    },
+    {
+        "text": "...after the country votes against Europe's latest bailout offer.",
+        "startTime": 17446,
+        "endTime": 20749,
+        "slowStartTime": 26319,
+        "slowEndTime": 31348
+    },
+    {
+        "text": "In Ecuador, Pope Francis begins his eight-day tour...",
+        "startTime": 26649,
+        "endTime": 29867,
+        "slowStartTime": 40124,
+        "slowEndTime": 45025
+    },
+    {
+        "text": "...and expects to draw more than one million for mass.",
+        "startTime": 30184,
+        "endTime": 32817,
+        "slowStartTime": 45426,
+        "slowEndTime": 49450
+    },
+    {
+        "text": "In Austria, Iranian foreign ministers and a group of six world powers...",
+        "startTime": 34435,
+        "endTime": 38903,
+        "slowStartTime": 51803,
+        "slowEndTime": 58580
+    },
+    {
+        "text": "...gather for a final push to reach an agreement on Iran's nuclear program.",
+        "startTime": 39271,
+        "endTime": 43511,
+        "slowStartTime": 59056,
+        "slowEndTime": 65491
+    },
+    {
+        "text": "And finally from Canada, the US women's national soccer team defeats Japan 5-2,...",
+        "startTime": 45333,
+        "endTime": 50815,
+        "slowStartTime": 68150,
+        "slowEndTime": 76448
+    },
+    {
+        "text": "...becoming the first country to win three World Cup titles.",
+        "startTime": 51235,
+        "endTime": 54237,
+        "slowStartTime": 77002,
+        "slowEndTime": 81581
+    }
+]

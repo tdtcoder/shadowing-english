@@ -1,0 +1,149 @@
+[
+    {
+        "text": "So, we certainly did have a great year at Google...",
+        "startTime": 200,
+        "endTime": 2655,
+        "slowStartTime": 453,
+        "slowEndTime": 4198
+    },
+    {
+        "text": "...and I'd really like to think some of it stems from the unique way that we manage our product and engineering machine. ",
+        "startTime": 3145,
+        "endTime": 8704,
+        "slowStartTime": 4902,
+        "slowEndTime": 13299
+    },
+    {
+        "text": "When we hire product managers, they often come in and they ask me, they say,...",
+        "startTime": 9392,
+        "endTime": 12901,
+        "slowStartTime": 14250,
+        "slowEndTime": 19554
+    },
+    {
+        "text": "...\"So, how do we measure success at Google?\"",
+        "startTime": 13159,
+        "endTime": 15102,
+        "slowStartTime": 19914,
+        "slowEndTime": 22814
+    },
+    {
+        "text": "And I always tell them, \"It's simple\"...",
+        "startTime": 15499,
+        "endTime": 16745,
+        "slowStartTime": 23400,
+        "slowEndTime": 25386
+    },
+    {
+        "text": "...\"At the end of the year, we make a list of all of your successes and your failures.\"...",
+        "startTime": 17148,
+        "endTime": 21302,
+        "slowStartTime": 25903,
+        "slowEndTime": 32186
+    },
+    {
+        "text": "...\"You're then measured on the sum of your successes\"...",
+        "startTime": 21701,
+        "endTime": 24103,
+        "slowStartTime": 32750,
+        "slowEndTime": 36412
+    },
+    {
+        "text": "...\"and by how much you learned from your failures\".",
+        "startTime": 24454,
+        "endTime": 26243,
+        "slowStartTime": 36850,
+        "slowEndTime": 39610
+    },
+    {
+        "text": "So, at the beginning of 2010,...",
+        "startTime": 26892,
+        "endTime": 28700,
+        "slowStartTime": 40502,
+        "slowEndTime": 43360
+    },
+    {
+        "text": "...one of our concerns was that as we scaled, this approach might lead to our being spread too thin.",
+        "startTime": 29099,
+        "endTime": 35499,
+        "slowStartTime": 43798,
+        "slowEndTime": 53488
+    },
+    {
+        "text": "Instead, we thought, \"Maybe we needed to put more wood behind fewer arrows\".",
+        "startTime": 36154,
+        "endTime": 40901,
+        "slowStartTime": 54352,
+        "slowEndTime": 61611
+    },
+    {
+        "text": "So, we made some changes.",
+        "startTime": 41289,
+        "endTime": 42499,
+        "slowStartTime": 62100,
+        "slowEndTime": 63975
+    },
+    {
+        "text": "And I think they addressed this concern...",
+        "startTime": 42901,
+        "endTime": 44756,
+        "slowStartTime": 64547,
+        "slowEndTime": 67406
+    },
+    {
+        "text": "...without actually affecting the basic philosophy of how we've always run product and engineering at Google.",
+        "startTime": 45054,
+        "endTime": 51504,
+        "slowStartTime": 67789,
+        "slowEndTime": 77441
+    },
+    {
+        "text": "So, let's talk about what we changed.",
+        "startTime": 51841,
+        "endTime": 53647,
+        "slowStartTime": 77917,
+        "slowEndTime": 80700
+    },
+    {
+        "text": "At the beginning of the year, we decided to double down on the core...",
+        "startTime": 54097,
+        "endTime": 57853,
+        "slowStartTime": 81286,
+        "slowEndTime": 87008
+    },
+    {
+        "text": "...so that's search and search ads,...",
+        "startTime": 58301,
+        "endTime": 60306,
+        "slowStartTime": 87649,
+        "slowEndTime": 90918
+    },
+    {
+        "text": "...and I think the financial numbers that you guys are seeing today,...",
+        "startTime": 60799,
+        "endTime": 63404,
+        "slowStartTime": 91417,
+        "slowEndTime": 95365
+    },
+    {
+        "text": "...reflect the fact that that was a successful bet.",
+        "startTime": 63695,
+        "endTime": 66098,
+        "slowStartTime": 95746,
+        "slowEndTime": 99408
+    },
+    {
+        "text": "But behind those numbers...",
+        "startTime": 66849,
+        "endTime": 68202,
+        "slowStartTime": 100453,
+        "slowEndTime": 102504
+    },
+    {
+        "text": "...is a really relentless stream of new features and product innovations. ",
+        "startTime": 68507,
+        "endTime": 72357,
+        "slowStartTime": 102942,
+        "slowEndTime": 108755
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "text": "You're not frightened of me, are you, Bruce?",
+        "startTime": 4250,
+        "endTime": 6650,
+        "slowStartTime": 6700,
+        "slowEndTime": 10100
+    },
+    {
+        "text": "What are you frightened of?",
+        "startTime": 7350,
+        "endTime": 9550,
+        "slowStartTime": 11400,
+        "slowEndTime": 14600
+    },
+    {
+        "text": "Things are very bad in Gotham now, Master Bruce.",
+        "startTime": 9950,
+        "endTime": 13450,
+        "slowStartTime": 15100,
+        "slowEndTime": 20400
+    },
+    {
+        "text": "I'm going to save Gotham, Alfred.",
+        "startTime": 14450,
+        "endTime": 16750,
+        "slowStartTime": 21900,
+        "slowEndTime": 25290
+    },
+    {
+        "text": "We don't need his help!",
+        "startTime": 17250,
+        "endTime": 19100,
+        "slowStartTime": 26200,
+        "slowEndTime": 28800
+    },
+    {
+        "text": "Well, I think we probably do.",
+        "startTime": 19400,
+        "endTime": 22100,
+        "slowStartTime": 29400,
+        "slowEndTime": 33200
+    },
+    {
+        "text": "Gotham must die.",
+        "startTime": 22800,
+        "endTime": 24500,
+        "slowStartTime": 34400,
+        "slowEndTime": 36900
+    },
+    {
+        "text": "When Gotham dies,...",
+        "startTime": 25200,
+        "endTime": 26800,
+        "slowStartTime": 38100,
+        "slowEndTime": 40400
+    },
+    {
+        "text": "...people everywhere will be frightened.",
+        "startTime": 27300,
+        "endTime": 29600,
+        "slowStartTime": 41200,
+        "slowEndTime": 44600
+    },
+    {
+        "text": "The world will be wonderful again.",
+        "startTime": 30300,
+        "endTime": 32250,
+        "slowStartTime": 45700,
+        "slowEndTime": 48500
+    },
+    {
+        "text": "Great people can't always choose their lives.",
+        "startTime": 33150,
+        "endTime": 36100,
+        "slowStartTime": 50000,
+        "slowEndTime": 54300
+    },
+    {
+        "text": "Gotham needs you.",
+        "startTime": 36950,
+        "endTime": 38150,
+        "slowStartTime": 55700,
+        "slowEndTime": 57250
+    },
+    {
+        "text": "I'm Batman.",
+        "startTime": 39550,
+        "endTime": 41000,
+        "slowStartTime": 59600,
+        "slowEndTime": 61600
+    },
+    {
+        "text": "Everything changes tonight.",
+        "startTime": 41800,
+        "endTime": 43850,
+        "slowStartTime": 63000,
+        "slowEndTime": 65900
+    }
+]

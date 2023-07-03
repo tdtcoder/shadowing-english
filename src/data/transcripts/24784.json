@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Each new tremor opens another fissure in the deep roads.",
+        "startTime": 1129,
+        "endTime": 4038,
+        "slowStartTime": 1844,
+        "slowEndTime": 6282
+    },
+    {
+        "text": "If there is something causing earthquakes, it's down there.",
+        "startTime": 7975,
+        "endTime": 11681,
+        "slowStartTime": 12113,
+        "slowEndTime": 17746
+    },
+    {
+        "text": "Are those eyes?",
+        "startTime": 30756,
+        "endTime": 33157,
+        "slowStartTime": 46284,
+        "slowEndTime": 49961
+    },
+    {
+        "text": "Show yourselves!",
+        "startTime": 34469,
+        "endTime": 35805,
+        "slowStartTime": 51853,
+        "slowEndTime": 53933
+    },
+    {
+        "text": "We must stop the dark spawn and the quakes, or all of Thedas may be at risk.",
+        "startTime": 48937,
+        "endTime": 53779,
+        "slowStartTime": 73555,
+        "slowEndTime": 80894
+    },
+    {
+        "text": "Get ready.",
+        "startTime": 64711,
+        "endTime": 65643,
+        "slowStartTime": 97216,
+        "slowEndTime": 98690
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "text": "What's that you're reading, Kathy?",
+        "startTime": 260,
+        "endTime": 1527,
+        "slowStartTime": 540,
+        "slowEndTime": 2516
+    },
+    {
+        "text": "This? Oh, it's a new novel I just bought.",
+        "startTime": 1815,
+        "endTime": 4619,
+        "slowStartTime": 2872,
+        "slowEndTime": 7154
+    },
+    {
+        "text": "I'm just starting it, but so far it seems pretty good.",
+        "startTime": 4826,
+        "endTime": 7763,
+        "slowStartTime": 7389,
+        "slowEndTime": 11870
+    },
+    {
+        "text": "Do you like reading books?",
+        "startTime": 8036,
+        "endTime": 9294,
+        "slowStartTime": 12204,
+        "slowEndTime": 14166
+    },
+    {
+        "text": "Yes, it's one of my hobbies.",
+        "startTime": 9700,
+        "endTime": 11406,
+        "slowStartTime": 14700,
+        "slowEndTime": 17334
+    },
+    {
+        "text": "What do you like to do, Sophia?",
+        "startTime": 12736,
+        "endTime": 14397,
+        "slowStartTime": 19254,
+        "slowEndTime": 21821
+    },
+    {
+        "text": "I like to watch movies and to walk on the beach.",
+        "startTime": 15617,
+        "endTime": 18535,
+        "slowStartTime": 23575,
+        "slowEndTime": 28028
+    },
+    {
+        "text": "What kind of movies do you watch?",
+        "startTime": 19501,
+        "endTime": 21035,
+        "slowStartTime": 29402,
+        "slowEndTime": 31777
+    },
+    {
+        "text": "I watch all kinds of movies except horror.",
+        "startTime": 21960,
+        "endTime": 24630,
+        "slowStartTime": 33090,
+        "slowEndTime": 37170
+    },
+    {
+        "text": "How about you, Shin?",
+        "startTime": 25038,
+        "endTime": 26022,
+        "slowStartTime": 37707,
+        "slowEndTime": 39258
+    },
+    {
+        "text": "Do you like movies?",
+        "startTime": 26325,
+        "endTime": 27472,
+        "slowStartTime": 39638,
+        "slowEndTime": 41433
+    },
+    {
+        "text": "Yes, but I don't like scary movies, either.",
+        "startTime": 28131,
+        "endTime": 30861,
+        "slowStartTime": 42346,
+        "slowEndTime": 46517
+    },
+    {
+        "text": "I enjoy comedies a lot.",
+        "startTime": 31261,
+        "endTime": 32751,
+        "slowStartTime": 47041,
+        "slowEndTime": 49352
+    }
+]

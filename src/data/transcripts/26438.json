@@ -1,0 +1,65 @@
+[
+    {
+        "text": "It's 1:30 PM at the Yaroslavsky train station in Moscow.",
+        "startTime": 13846,
+        "endTime": 17525,
+        "slowStartTime": 20919,
+        "slowEndTime": 26513
+    },
+    {
+        "text": "The train number 2, the famous Trans-Siberian Express...",
+        "startTime": 19164,
+        "endTime": 22439,
+        "slowStartTime": 28896,
+        "slowEndTime": 33884
+    },
+    {
+        "text": "...is about to leave for Vladivostok.",
+        "startTime": 22795,
+        "endTime": 24742,
+        "slowStartTime": 34343,
+        "slowEndTime": 37338
+    },
+    {
+        "text": "A one-week journey across the world's largest country...",
+        "startTime": 26196,
+        "endTime": 29183,
+        "slowStartTime": 39444,
+        "slowEndTime": 43999
+    },
+    {
+        "text": "...that gives us a unique opportunity to discover Russia off the beaten path.",
+        "startTime": 29809,
+        "endTime": 34579,
+        "slowStartTime": 44863,
+        "slowEndTime": 52094
+    },
+    {
+        "text": "The Trans-Siberian Express is a train like no other, a legend.",
+        "startTime": 40098,
+        "endTime": 44077,
+        "slowStartTime": 60297,
+        "slowEndTime": 66340
+    },
+    {
+        "text": "It's the longest rail line in the world,...",
+        "startTime": 44700,
+        "endTime": 46827,
+        "slowStartTime": 67200,
+        "slowEndTime": 70465
+    },
+    {
+        "text": "...almost 9,300 kilometers across Euro and Siberia.",
+        "startTime": 47241,
+        "endTime": 51927,
+        "slowStartTime": 71012,
+        "slowEndTime": 78116
+    },
+    {
+        "text": "It is the pride of Russia.",
+        "startTime": 52713,
+        "endTime": 54587,
+        "slowStartTime": 79219,
+        "slowEndTime": 82106
+    }
+]

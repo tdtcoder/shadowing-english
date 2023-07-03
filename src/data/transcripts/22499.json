@@ -1,0 +1,107 @@
+[
+    {
+        "text": "Imagine that you are in charge of a company and are hiring for a new position.",
+        "startTime": 6735,
+        "endTime": 10266,
+        "slowStartTime": 10252,
+        "slowEndTime": 15624
+    },
+    {
+        "text": "Here are the candidates.",
+        "startTime": 10712,
+        "endTime": 11817,
+        "slowStartTime": 16218,
+        "slowEndTime": 17950
+    },
+    {
+        "text": "Without thinking about it too much, which one would you choose?",
+        "startTime": 12427,
+        "endTime": 15400,
+        "slowStartTime": 18791,
+        "slowEndTime": 23325
+    },
+    {
+        "text": "My guess is that you went for one of those in the middle...",
+        "startTime": 16167,
+        "endTime": 18632,
+        "slowStartTime": 24401,
+        "slowEndTime": 28173
+    },
+    {
+        "text": "...and avoided the people on the ends.",
+        "startTime": 18834,
+        "endTime": 20689,
+        "slowStartTime": 28401,
+        "slowEndTime": 31259
+    },
+    {
+        "text": "Why?",
+        "startTime": 21378,
+        "endTime": 21901,
+        "slowStartTime": 32217,
+        "slowEndTime": 33076
+    },
+    {
+        "text": "Because research shows that we tend to unconsciously think...",
+        "startTime": 22107,
+        "endTime": 24878,
+        "slowStartTime": 33310,
+        "slowEndTime": 37542
+    },
+    {
+        "text": "...those towards the middle of a group are more important.",
+        "startTime": 25109,
+        "endTime": 27573,
+        "slowStartTime": 37813,
+        "slowEndTime": 41585
+    },
+    {
+        "text": "Some of the work has examined the TV quiz show \"The Weakest Link\",...",
+        "startTime": 28008,
+        "endTime": 31242,
+        "slowStartTime": 42162,
+        "slowEndTime": 47088
+    },
+    {
+        "text": "...in which contestants stand in a semicircle and vote one another off.",
+        "startTime": 31674,
+        "endTime": 35104,
+        "slowStartTime": 47661,
+        "slowEndTime": 52881
+    },
+    {
+        "text": "Those standing towards the middle of the semicircle...",
+        "startTime": 35733,
+        "endTime": 38103,
+        "slowStartTime": 53750,
+        "slowEndTime": 57380
+    },
+    {
+        "text": "...won the game on average 45 percent of the time,...",
+        "startTime": 38190,
+        "endTime": 41352,
+        "slowStartTime": 57435,
+        "slowEndTime": 62253
+    },
+    {
+        "text": "...whilst those standing on one of the ends won just ten percent of the time.",
+        "startTime": 41927,
+        "endTime": 45169,
+        "slowStartTime": 63040,
+        "slowEndTime": 67979
+    },
+    {
+        "text": "So if you want to make a good impression during a meeting,...",
+        "startTime": 45719,
+        "endTime": 47953,
+        "slowStartTime": 68729,
+        "slowEndTime": 72155
+    },
+    {
+        "text": "...make certain you sit towards the middle of the group.",
+        "startTime": 48183,
+        "endTime": 50464,
+        "slowStartTime": 72425,
+        "slowEndTime": 75921
+    }
+]

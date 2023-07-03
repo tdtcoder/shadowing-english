@@ -1,0 +1,191 @@
+[
+    {
+        "text": "Block",
+        "startTime": 2384,
+        "endTime": 2861,
+        "slowStartTime": 3726,
+        "slowEndTime": 4517
+    },
+    {
+        "text": "I have a block.",
+        "startTime": 3667,
+        "endTime": 4791,
+        "slowStartTime": 5650,
+        "slowEndTime": 7412
+    },
+    {
+        "text": "I have a large block.",
+        "startTime": 6218,
+        "endTime": 7872,
+        "slowStartTime": 9477,
+        "slowEndTime": 12033
+    },
+    {
+        "text": "Clock",
+        "startTime": 9331,
+        "endTime": 9730,
+        "slowStartTime": 14147,
+        "slowEndTime": 14820
+    },
+    {
+        "text": "I put the clock on my desk.",
+        "startTime": 10479,
+        "endTime": 12411,
+        "slowStartTime": 15869,
+        "slowEndTime": 18842
+    },
+    {
+        "text": "I put the new clock on my desk.",
+        "startTime": 13857,
+        "endTime": 16274,
+        "slowStartTime": 20935,
+        "slowEndTime": 24636
+    },
+    {
+        "text": "Glass",
+        "startTime": 17606,
+        "endTime": 18259,
+        "slowStartTime": 26559,
+        "slowEndTime": 27614
+    },
+    {
+        "text": "Can I have a glass of water?",
+        "startTime": 19121,
+        "endTime": 20969,
+        "slowStartTime": 28831,
+        "slowEndTime": 31678
+    },
+    {
+        "text": "Can I have a glass of cold water?",
+        "startTime": 22450,
+        "endTime": 24719,
+        "slowStartTime": 33825,
+        "slowEndTime": 37304
+    },
+    {
+        "text": "Plane",
+        "startTime": 26027,
+        "endTime": 26606,
+        "slowStartTime": 39190,
+        "slowEndTime": 40134
+    },
+    {
+        "text": "I flew on a plane.",
+        "startTime": 27402,
+        "endTime": 29114,
+        "slowStartTime": 41253,
+        "slowEndTime": 43896
+    },
+    {
+        "text": "I flew on an airplane.",
+        "startTime": 30533,
+        "endTime": 32429,
+        "slowStartTime": 45950,
+        "slowEndTime": 48868
+    },
+    {
+        "text": "Cherry, cherry, cherry.",
+        "startTime": 38252,
+        "endTime": 39738,
+        "slowStartTime": 57528,
+        "slowEndTime": 59832
+    },
+    {
+        "text": "This is a cherry.",
+        "startTime": 40125,
+        "endTime": 41491,
+        "slowStartTime": 60337,
+        "slowEndTime": 62461
+    },
+    {
+        "text": "Pear, pear, pear.",
+        "startTime": 42009,
+        "endTime": 43253,
+        "slowStartTime": 63163,
+        "slowEndTime": 65104
+    },
+    {
+        "text": "This is a pear.",
+        "startTime": 43855,
+        "endTime": 45219,
+        "slowStartTime": 65933,
+        "slowEndTime": 68053
+    },
+    {
+        "text": "Banana, banana, banana.",
+        "startTime": 45508,
+        "endTime": 47232,
+        "slowStartTime": 68412,
+        "slowEndTime": 71073
+    },
+    {
+        "text": "This is a banana.",
+        "startTime": 47629,
+        "endTime": 48977,
+        "slowStartTime": 71594,
+        "slowEndTime": 73690
+    },
+    {
+        "text": "Apple, apple, apple.",
+        "startTime": 49510,
+        "endTime": 51031,
+        "slowStartTime": 74415,
+        "slowEndTime": 76772
+    },
+    {
+        "text": "This is an apple.",
+        "startTime": 51381,
+        "endTime": 52857,
+        "slowStartTime": 77222,
+        "slowEndTime": 79510
+    },
+    {
+        "text": "Orange, orange, orange.",
+        "startTime": 53264,
+        "endTime": 54779,
+        "slowStartTime": 80046,
+        "slowEndTime": 82394
+    },
+    {
+        "text": "This is an orange.",
+        "startTime": 55123,
+        "endTime": 56668,
+        "slowStartTime": 82834,
+        "slowEndTime": 85227
+    },
+    {
+        "text": "Lemon, lemon, lemon.",
+        "startTime": 56991,
+        "endTime": 58354,
+        "slowStartTime": 85637,
+        "slowEndTime": 87756
+    },
+    {
+        "text": "This is a lemon.",
+        "startTime": 58865,
+        "endTime": 60239,
+        "slowStartTime": 88447,
+        "slowEndTime": 90583
+    },
+    {
+        "text": "Cherry, pear, banana, apple and orange.",
+        "startTime": 60753,
+        "endTime": 64158,
+        "slowStartTime": 91280,
+        "slowEndTime": 96462
+    },
+    {
+        "text": "Fruit, fruit, fruit.",
+        "startTime": 64491,
+        "endTime": 65758,
+        "slowStartTime": 96886,
+        "slowEndTime": 98862
+    },
+    {
+        "text": "All of them are fruit!",
+        "startTime": 66359,
+        "endTime": 67686,
+        "slowStartTime": 99689,
+        "slowEndTime": 101754
+    }
+]

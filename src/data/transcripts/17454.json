@@ -1,0 +1,443 @@
+[
+    {
+        "text": "Darby the dog's birthday was just two days away.",
+        "startTime": 2725,
+        "endTime": 6139,
+        "slowStartTime": 4238,
+        "slowEndTime": 9434
+    },
+    {
+        "text": "On Friday, Darby would be 15 years old.",
+        "startTime": 7365,
+        "endTime": 10881,
+        "slowStartTime": 11197,
+        "slowEndTime": 16547
+    },
+    {
+        "text": "That is old for a dog.",
+        "startTime": 11773,
+        "endTime": 13623,
+        "slowStartTime": 17810,
+        "slowEndTime": 20659
+    },
+    {
+        "text": "\"What shall we plan for Darby's birthday?\"",
+        "startTime": 14906,
+        "endTime": 17417,
+        "slowStartTime": 22509,
+        "slowEndTime": 26350
+    },
+    {
+        "text": "asked Mia.",
+        "startTime": 18135,
+        "endTime": 18995,
+        "slowStartTime": 27352,
+        "slowEndTime": 28718
+    },
+    {
+        "text": "\"It is just two days away, and we haven't planned anything.\"",
+        "startTime": 20368,
+        "endTime": 24097,
+        "slowStartTime": 30702,
+        "slowEndTime": 36370
+    },
+    {
+        "text": "\"We'd better think of something fast,\"",
+        "startTime": 25298,
+        "endTime": 27262,
+        "slowStartTime": 38097,
+        "slowEndTime": 41118
+    },
+    {
+        "text": "said Mike.",
+        "startTime": 29348,
+        "endTime": 30178,
+        "slowStartTime": 44172,
+        "slowEndTime": 45492
+    },
+    {
+        "text": "\"Darby will be unhappy if we do nothing on his birthday.",
+        "startTime": 31361,
+        "endTime": 35367,
+        "slowStartTime": 47191,
+        "slowEndTime": 53275
+    },
+    {
+        "text": "We always do something for Darby's birthday.\"",
+        "startTime": 36304,
+        "endTime": 39097,
+        "slowStartTime": 54606,
+        "slowEndTime": 58871
+    },
+    {
+        "text": "\"Shall we have a party?",
+        "startTime": 40367,
+        "endTime": 41713,
+        "slowStartTime": 60700,
+        "slowEndTime": 62795
+    },
+    {
+        "text": "Shall we take him to the park?",
+        "startTime": 42787,
+        "endTime": 44509,
+        "slowStartTime": 64330,
+        "slowEndTime": 66989
+    },
+    {
+        "text": "Shall we take him to the beach?\"",
+        "startTime": 45246,
+        "endTime": 47209,
+        "slowStartTime": 68019,
+        "slowEndTime": 71039
+    },
+    {
+        "text": "asked Mia.",
+        "startTime": 48020,
+        "endTime": 48814,
+        "slowStartTime": 72180,
+        "slowEndTime": 73446
+    },
+    {
+        "text": "\"Or shall we take him on a hike?",
+        "startTime": 49699,
+        "endTime": 51629,
+        "slowStartTime": 74699,
+        "slowEndTime": 77669
+    },
+    {
+        "text": "It is a special birthday because Darby will be 15 years old.\"",
+        "startTime": 52519,
+        "endTime": 56750,
+        "slowStartTime": 78929,
+        "slowEndTime": 85350
+    },
+    {
+        "text": "\"We must plan a special party for Darby,\"",
+        "startTime": 57752,
+        "endTime": 60371,
+        "slowStartTime": 86778,
+        "slowEndTime": 90782
+    },
+    {
+        "text": "said Mike.",
+        "startTime": 61429,
+        "endTime": 62351,
+        "slowStartTime": 92293,
+        "slowEndTime": 93751
+    },
+    {
+        "text": "\"We have always had a party for Darby on his birthday.",
+        "startTime": 63043,
+        "endTime": 66317,
+        "slowStartTime": 94715,
+        "slowEndTime": 99700
+    },
+    {
+        "text": "And he will be 15 years old. We have to plan a very special party.\"",
+        "startTime": 66701,
+        "endTime": 71696,
+        "slowStartTime": 100202,
+        "slowEndTime": 107769
+    },
+    {
+        "text": "\"Let's make a list,\"",
+        "startTime": 72854,
+        "endTime": 73969,
+        "slowStartTime": 109431,
+        "slowEndTime": 111179
+    },
+    {
+        "text": "said Mike.",
+        "startTime": 74882,
+        "endTime": 75693,
+        "slowStartTime": 112473,
+        "slowEndTime": 113765
+    },
+    {
+        "text": "\"Who shall we invite to Darby's party?",
+        "startTime": 76114,
+        "endTime": 78458,
+        "slowStartTime": 114321,
+        "slowEndTime": 117912
+    },
+    {
+        "text": "What shall we have to eat?\"",
+        "startTime": 79035,
+        "endTime": 80564,
+        "slowStartTime": 118703,
+        "slowEndTime": 121071
+    },
+    {
+        "text": "\"Where shall we have the party?",
+        "startTime": 81707,
+        "endTime": 83589,
+        "slowStartTime": 122710,
+        "slowEndTime": 125609
+    },
+    {
+        "text": "What shall we do for fun?",
+        "startTime": 84229,
+        "endTime": 86050,
+        "slowStartTime": 126493,
+        "slowEndTime": 129300
+    },
+    {
+        "text": "What games shall we play?\"",
+        "startTime": 87009,
+        "endTime": 88717,
+        "slowStartTime": 130664,
+        "slowEndTime": 133300
+    },
+    {
+        "text": "Mike and Mia planned a special party for Darby.",
+        "startTime": 89804,
+        "endTime": 93287,
+        "slowStartTime": 134856,
+        "slowEndTime": 140156
+    },
+    {
+        "text": "They invited Darby's favorite friends.",
+        "startTime": 94502,
+        "endTime": 96973,
+        "slowStartTime": 141903,
+        "slowEndTime": 145685
+    },
+    {
+        "text": "They planned Darby's favorite games.",
+        "startTime": 97917,
+        "endTime": 100137,
+        "slowStartTime": 147026,
+        "slowEndTime": 150431
+    },
+    {
+        "text": "And they shopped for Darby's favorite food.",
+        "startTime": 101267,
+        "endTime": 103865,
+        "slowStartTime": 152050,
+        "slowEndTime": 156023
+    },
+    {
+        "text": "But they did not know where to have the party.",
+        "startTime": 104926,
+        "endTime": 107931,
+        "slowStartTime": 157539,
+        "slowEndTime": 162121
+    },
+    {
+        "text": "Mike and Mia went to the park.",
+        "startTime": 109285,
+        "endTime": 111239,
+        "slowStartTime": 164077,
+        "slowEndTime": 167083
+    },
+    {
+        "text": "\"Is this a good place for the party?\"",
+        "startTime": 112731,
+        "endTime": 114983,
+        "slowStartTime": 169247,
+        "slowEndTime": 172699
+    },
+    {
+        "text": "asked Mia.",
+        "startTime": 115890,
+        "endTime": 116645,
+        "slowStartTime": 173985,
+        "slowEndTime": 175192
+    },
+    {
+        "text": "\"No,\"",
+        "startTime": 117683,
+        "endTime": 118156,
+        "slowStartTime": 176674,
+        "slowEndTime": 177459
+    },
+    {
+        "text": "said Mike.",
+        "startTime": 119275,
+        "endTime": 120084,
+        "slowStartTime": 179063,
+        "slowEndTime": 180351
+    },
+    {
+        "text": "\"It is not special.\"",
+        "startTime": 120885,
+        "endTime": 122191,
+        "slowStartTime": 181477,
+        "slowEndTime": 183512
+    },
+    {
+        "text": "They went to the beach.",
+        "startTime": 122950,
+        "endTime": 124197,
+        "slowStartTime": 184575,
+        "slowEndTime": 186521
+    },
+    {
+        "text": "\"Is this a good place for the party?\"",
+        "startTime": 125108,
+        "endTime": 127289,
+        "slowStartTime": 187812,
+        "slowEndTime": 191158
+    },
+    {
+        "text": "asked Mia.",
+        "startTime": 128151,
+        "endTime": 129047,
+        "slowStartTime": 192376,
+        "slowEndTime": 193795
+    },
+    {
+        "text": "\"No,\"",
+        "startTime": 130011,
+        "endTime": 130637,
+        "slowStartTime": 195167,
+        "slowEndTime": 196181
+    },
+    {
+        "text": "said Mike.",
+        "startTime": 131696,
+        "endTime": 132507,
+        "slowStartTime": 197694,
+        "slowEndTime": 198986
+    },
+    {
+        "text": "\"It is not special.\"",
+        "startTime": 133329,
+        "endTime": 134586,
+        "slowStartTime": 200143,
+        "slowEndTime": 202104
+    },
+    {
+        "text": "They went to the woods.",
+        "startTime": 135483,
+        "endTime": 136905,
+        "slowStartTime": 203375,
+        "slowEndTime": 205583
+    },
+    {
+        "text": "\"Is this a good place for a party?\"",
+        "startTime": 137969,
+        "endTime": 140223,
+        "slowStartTime": 207103,
+        "slowEndTime": 210560
+    },
+    {
+        "text": "asked Mia.",
+        "startTime": 141493,
+        "endTime": 142391,
+        "slowStartTime": 212389,
+        "slowEndTime": 213812
+    },
+    {
+        "text": "\"No,\"",
+        "startTime": 143331,
+        "endTime": 143879,
+        "slowStartTime": 215147,
+        "slowEndTime": 216044
+    },
+    {
+        "text": "said Mike.",
+        "startTime": 144449,
+        "endTime": 145276,
+        "slowStartTime": 216823,
+        "slowEndTime": 218139
+    },
+    {
+        "text": "\"It is not special.\"",
+        "startTime": 146543,
+        "endTime": 147783,
+        "slowStartTime": 219965,
+        "slowEndTime": 221900
+    },
+    {
+        "text": "They went to the mall.",
+        "startTime": 148795,
+        "endTime": 150196,
+        "slowStartTime": 223343,
+        "slowEndTime": 225519
+    },
+    {
+        "text": "\"Is this a good place for a party?\"",
+        "startTime": 151117,
+        "endTime": 153355,
+        "slowStartTime": 226826,
+        "slowEndTime": 230258
+    },
+    {
+        "text": "asked Mia.",
+        "startTime": 154547,
+        "endTime": 155377,
+        "slowStartTime": 231971,
+        "slowEndTime": 233290
+    },
+    {
+        "text": "\"Not for a dog,\"",
+        "startTime": 156786,
+        "endTime": 158011,
+        "slowStartTime": 235329,
+        "slowEndTime": 237241
+    },
+    {
+        "text": "said Mike.",
+        "startTime": 159311,
+        "endTime": 160165,
+        "slowStartTime": 239117,
+        "slowEndTime": 240472
+    },
+    {
+        "text": "Soon it was Friday.",
+        "startTime": 161656,
+        "endTime": 163115,
+        "slowStartTime": 242634,
+        "slowEndTime": 244898
+    },
+    {
+        "text": "It was the day of Darby's birthday party.",
+        "startTime": 163812,
+        "endTime": 166365,
+        "slowStartTime": 245868,
+        "slowEndTime": 249773
+    },
+    {
+        "text": "Where did they have the party?",
+        "startTime": 167617,
+        "endTime": 169450,
+        "slowStartTime": 251576,
+        "slowEndTime": 254400
+    },
+    {
+        "text": "At the zoo, of course.",
+        "startTime": 170641,
+        "endTime": 172355,
+        "slowStartTime": 256111,
+        "slowEndTime": 258757
+    },
+    {
+        "text": "It was Darby's favorite place.",
+        "startTime": 173164,
+        "endTime": 175401,
+        "slowStartTime": 259896,
+        "slowEndTime": 263327
+    },
+    {
+        "text": "Darby saw all of his zoo friends.",
+        "startTime": 176624,
+        "endTime": 179187,
+        "slowStartTime": 265086,
+        "slowEndTime": 269005
+    },
+    {
+        "text": "And they all sang.",
+        "startTime": 180511,
+        "endTime": 182095,
+        "slowStartTime": 270916,
+        "slowEndTime": 273368
+    },
+    {
+        "text": "\"Happy Birthday to Darby.\"",
+        "startTime": 183466,
+        "endTime": 186239,
+        "slowStartTime": 275349,
+        "slowEndTime": 279583
+    }
+]

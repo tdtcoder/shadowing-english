@@ -1,0 +1,107 @@
+[
+    {
+        "text": "﻿In Serbia, a dense morning fog led to two multiple vehicle crashes on a key highway,...",
+        "startTime": 3275,
+        "endTime": 8364,
+        "slowStartTime": 5062,
+        "slowEndTime": 12771
+    },
+    {
+        "text": "...which killed six people and injured at least 27, according to Serbian police.",
+        "startTime": 8729,
+        "endTime": 13137,
+        "slowStartTime": 13243,
+        "slowEndTime": 19931
+    },
+    {
+        "text": "In the US, Nikki Haley has resigned as the US ambassador to the UN.",
+        "startTime": 14515,
+        "endTime": 18490,
+        "slowStartTime": 21923,
+        "slowEndTime": 27960
+    },
+    {
+        "text": "Haley's reason was \"to take some time off,\"...",
+        "startTime": 18987,
+        "endTime": 20901,
+        "slowStartTime": 28631,
+        "slowEndTime": 31577
+    },
+    {
+        "text": "...and she met with President Trump to address her decision.",
+        "startTime": 21217,
+        "endTime": 24016,
+        "slowStartTime": 31976,
+        "slowEndTime": 36249
+    },
+    {
+        "text": "In El Salvador, flooding has killed three people...",
+        "startTime": 25949,
+        "endTime": 28741,
+        "slowStartTime": 39074,
+        "slowEndTime": 43336
+    },
+    {
+        "text": "...and has caused more than 700 to evacuate the country.",
+        "startTime": 28818,
+        "endTime": 32050,
+        "slowStartTime": 43377,
+        "slowEndTime": 48300
+    },
+    {
+        "text": "The intense rainfall is also affecting other countries,...",
+        "startTime": 32577,
+        "endTime": 35313,
+        "slowStartTime": 49015,
+        "slowEndTime": 53194
+    },
+    {
+        "text": "...such as Honduras, Costa Rica and Nicaragua.",
+        "startTime": 35531,
+        "endTime": 38475,
+        "slowStartTime": 53447,
+        "slowEndTime": 57937
+    },
+    {
+        "text": "In Russia, the Trans-Siberian Railway had a bridge collapse on it...",
+        "startTime": 40104,
+        "endTime": 43623,
+        "slowStartTime": 60306,
+        "slowEndTime": 65660
+    },
+    {
+        "text": "...in the city of Svobodny, damaging one train.",
+        "startTime": 43881,
+        "endTime": 46834,
+        "slowStartTime": 65971,
+        "slowEndTime": 70476
+    },
+    {
+        "text": "The reason for the collapse was not immediately clear.",
+        "startTime": 47243,
+        "endTime": 49701,
+        "slowStartTime": 71015,
+        "slowEndTime": 74776
+    },
+    {
+        "text": "Finally, more than 12,000 people were evacuated...",
+        "startTime": 51255,
+        "endTime": 54108,
+        "slowStartTime": 77033,
+        "slowEndTime": 81387
+    },
+    {
+        "text": "...after ammunition started exploding during a massive fire...",
+        "startTime": 54322,
+        "endTime": 57365,
+        "slowStartTime": 81633,
+        "slowEndTime": 86272
+    },
+    {
+        "text": "...in an arms depot in northern Ukraine, according to authorities.",
+        "startTime": 57443,
+        "endTime": 61169,
+        "slowStartTime": 86314,
+        "slowEndTime": 91979
+    }
+]

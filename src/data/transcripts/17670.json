@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Come here, Emma.",
+        "startTime": 2429,
+        "endTime": 3465,
+        "slowStartTime": 3793,
+        "slowEndTime": 5423
+    },
+    {
+        "text": "I'll show you some pictures of my friends.",
+        "startTime": 3798,
+        "endTime": 6008,
+        "slowStartTime": 5847,
+        "slowEndTime": 9237
+    },
+    {
+        "text": "Who is this guy, Kevin?",
+        "startTime": 7089,
+        "endTime": 8539,
+        "slowStartTime": 10784,
+        "slowEndTime": 13034
+    },
+    {
+        "text": "I think you know him, don't you?",
+        "startTime": 9653,
+        "endTime": 11553,
+        "slowStartTime": 14629,
+        "slowEndTime": 17554
+    },
+    {
+        "text": "No, I don't. Who's he?",
+        "startTime": 12561,
+        "endTime": 14441,
+        "slowStartTime": 18991,
+        "slowEndTime": 21886
+    },
+    {
+        "text": "He is Sam.",
+        "startTime": 15505,
+        "endTime": 16592,
+        "slowStartTime": 23407,
+        "slowEndTime": 25113
+    },
+    {
+        "text": "Don't you remember meeting him before?",
+        "startTime": 16948,
+        "endTime": 18767,
+        "slowStartTime": 25572,
+        "slowEndTime": 28375
+    },
+    {
+        "text": "No, I don't. When did I see him?",
+        "startTime": 19851,
+        "endTime": 22411,
+        "slowStartTime": 29926,
+        "slowEndTime": 33841
+    },
+    {
+        "text": "Do you remember going to the bookstore last month?",
+        "startTime": 23429,
+        "endTime": 26031,
+        "slowStartTime": 35293,
+        "slowEndTime": 39272
+    },
+    {
+        "text": "Of course. I remember going to the bookstore with you.",
+        "startTime": 27094,
+        "endTime": 30587,
+        "slowStartTime": 40791,
+        "slowEndTime": 46105
+    },
+    {
+        "text": "That's when we met Sam.",
+        "startTime": 31667,
+        "endTime": 33203,
+        "slowStartTime": 47650,
+        "slowEndTime": 50030
+    },
+    {
+        "text": "Oh, I do remember now.",
+        "startTime": 34299,
+        "endTime": 36538,
+        "slowStartTime": 51599,
+        "slowEndTime": 55032
+    }
+]

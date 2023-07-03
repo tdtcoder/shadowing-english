@@ -1,0 +1,163 @@
+[
+    {
+        "text": "How many eyes do you see?",
+        "startTime": 2695,
+        "endTime": 4937,
+        "slowStartTime": 4192,
+        "slowEndTime": 7631
+    },
+    {
+        "text": "I see two.",
+        "startTime": 6215,
+        "endTime": 7448,
+        "slowStartTime": 9473,
+        "slowEndTime": 11397
+    },
+    {
+        "text": "How many wheels do you see?",
+        "startTime": 8603,
+        "endTime": 10804,
+        "slowStartTime": 13054,
+        "slowEndTime": 16431
+    },
+    {
+        "text": "I see three.",
+        "startTime": 11891,
+        "endTime": 13066,
+        "slowStartTime": 17986,
+        "slowEndTime": 19824
+    },
+    {
+        "text": "How many wings do you see?",
+        "startTime": 14003,
+        "endTime": 16217,
+        "slowStartTime": 21154,
+        "slowEndTime": 24551
+    },
+    {
+        "text": "I see four.",
+        "startTime": 17536,
+        "endTime": 18755,
+        "slowStartTime": 26454,
+        "slowEndTime": 28358
+    },
+    {
+        "text": "How many candles do you see?",
+        "startTime": 20099,
+        "endTime": 22478,
+        "slowStartTime": 30299,
+        "slowEndTime": 33942
+    },
+    {
+        "text": "I see five.",
+        "startTime": 23510,
+        "endTime": 24797,
+        "slowStartTime": 35415,
+        "slowEndTime": 37421
+    },
+    {
+        "text": "How many kites do you see?",
+        "startTime": 25953,
+        "endTime": 28058,
+        "slowStartTime": 39079,
+        "slowEndTime": 42312
+    },
+    {
+        "text": "I see six.",
+        "startTime": 29063,
+        "endTime": 30445,
+        "slowStartTime": 43744,
+        "slowEndTime": 45893
+    },
+    {
+        "text": "How many windows do you see?",
+        "startTime": 31396,
+        "endTime": 33851,
+        "slowStartTime": 47244,
+        "slowEndTime": 51002
+    },
+    {
+        "text": "I see seven.",
+        "startTime": 34897,
+        "endTime": 36193,
+        "slowStartTime": 52496,
+        "slowEndTime": 54514
+    },
+    {
+        "text": "How many arms do you see?",
+        "startTime": 37265,
+        "endTime": 39685,
+        "slowStartTime": 56048,
+        "slowEndTime": 59752
+    },
+    {
+        "text": "I see eight.",
+        "startTime": 41085,
+        "endTime": 42277,
+        "slowStartTime": 61778,
+        "slowEndTime": 63641
+    },
+    {
+        "text": "How many smiles do you see?",
+        "startTime": 43649,
+        "endTime": 46054,
+        "slowStartTime": 65623,
+        "slowEndTime": 69306
+    },
+    {
+        "text": "I see nine.",
+        "startTime": 47319,
+        "endTime": 48633,
+        "slowStartTime": 71128,
+        "slowEndTime": 73174
+    },
+    {
+        "text": "Look at this picture book.",
+        "startTime": 52409,
+        "endTime": 53969,
+        "slowStartTime": 78764,
+        "slowEndTime": 81179
+    },
+    {
+        "text": "How many bears do you see?",
+        "startTime": 54415,
+        "endTime": 56439,
+        "slowStartTime": 81772,
+        "slowEndTime": 84883
+    },
+    {
+        "text": "I see one bear.",
+        "startTime": 58017,
+        "endTime": 59769,
+        "slowStartTime": 87175,
+        "slowEndTime": 89879
+    },
+    {
+        "text": "How many monkeys do you see?",
+        "startTime": 60993,
+        "endTime": 63030,
+        "slowStartTime": 91639,
+        "slowEndTime": 94770
+    },
+    {
+        "text": "I see five monkeys.",
+        "startTime": 64049,
+        "endTime": 66070,
+        "slowStartTime": 96223,
+        "slowEndTime": 99330
+    },
+    {
+        "text": "How many birds do you see?",
+        "startTime": 67389,
+        "endTime": 69276,
+        "slowStartTime": 101233,
+        "slowEndTime": 104139
+    },
+    {
+        "text": "One, two, three, ten. There are so many birds!",
+        "startTime": 70313,
+        "endTime": 79217,
+        "slowStartTime": 105619,
+        "slowEndTime": 119051
+    }
+]

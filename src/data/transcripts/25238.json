@@ -1,0 +1,198 @@
+[
+    {
+        "text": "My name is Mihir.",
+        "startTime": 4313,
+        "endTime": 5127,
+        "slowStartTime": 6620,
+        "slowEndTime": 7915
+    },
+    {
+        "text": "I'm 15 years old, and I'm a sophomore at Fox Chapel Area High School in Pittsburgh.",
+        "startTime": 5444,
+        "endTime": 9449,
+        "slowStartTime": 8316,
+        "slowEndTime": 14398
+    },
+    {
+        "text": "I started visiting the Carnegie Science Center from an early age.",
+        "startTime": 10240,
+        "endTime": 13243,
+        "slowStartTime": 15510,
+        "slowEndTime": 20089
+    },
+    {
+        "text": "It's full of fun and interactive exhibits,...",
+        "startTime": 13831,
+        "endTime": 15856,
+        "slowStartTime": 20897,
+        "slowEndTime": 24009
+    },
+    {
+        "text": "...which helped spark my interest in science and develop a love for robotics.",
+        "startTime": 16063,
+        "endTime": 19363,
+        "slowStartTime": 24244,
+        "slowEndTime": 29270
+    },
+    {
+        "text": "Last summer, my family and I went to India on vacation.",
+        "startTime": 20197,
+        "endTime": 23029,
+        "slowStartTime": 30445,
+        "slowEndTime": 34769
+    },
+    {
+        "text": "We returned to find our house filled with fruit flies,...",
+        "startTime": 24611,
+        "endTime": 26838,
+        "slowStartTime": 37067,
+        "slowEndTime": 40482
+    },
+    {
+        "text": "...as we had left some bananas on the kitchen counter.",
+        "startTime": 27160,
+        "endTime": 29383,
+        "slowStartTime": 40890,
+        "slowEndTime": 44299
+    },
+    {
+        "text": "After many failed attempts trying to swat them,...",
+        "startTime": 29841,
+        "endTime": 31940,
+        "slowStartTime": 44912,
+        "slowEndTime": 48135
+    },
+    {
+        "text": "...I started to realize how amazing the fruit fly's escape is.",
+        "startTime": 32210,
+        "endTime": 34811,
+        "slowStartTime": 48465,
+        "slowEndTime": 52442
+    },
+    {
+        "text": "I had been reading about flying robots at the time, and one thing that struck me...",
+        "startTime": 35701,
+        "endTime": 39354,
+        "slowStartTime": 53701,
+        "slowEndTime": 59256
+    },
+    {
+        "text": "...was the similarities in the environments in which both fruit flies...",
+        "startTime": 39517,
+        "endTime": 42451,
+        "slowStartTime": 59426,
+        "slowEndTime": 63902
+    },
+    {
+        "text": "...and flying robots have to operate.",
+        "startTime": 42573,
+        "endTime": 44193,
+        "slowStartTime": 64009,
+        "slowEndTime": 66515
+    },
+    {
+        "text": "I wanted to see whether we could draw from biology...",
+        "startTime": 45279,
+        "endTime": 47372,
+        "slowStartTime": 68069,
+        "slowEndTime": 71283
+    },
+    {
+        "text": "...to make flying robots truly autonomous,...",
+        "startTime": 47543,
+        "endTime": 49401,
+        "slowStartTime": 71464,
+        "slowEndTime": 74327
+    },
+    {
+        "text": "...so they could potentially be used in robot-assisted rescue missions...",
+        "startTime": 49705,
+        "endTime": 52914,
+        "slowStartTime": 74707,
+        "slowEndTime": 79596
+    },
+    {
+        "text": "...in environments like collapsed buildings.",
+        "startTime": 53061,
+        "endTime": 54771,
+        "slowStartTime": 79741,
+        "slowEndTime": 82382
+    },
+    {
+        "text": "I wanted to apply my learnings from fruit fly escape behaviors...",
+        "startTime": 55284,
+        "endTime": 58035,
+        "slowStartTime": 83076,
+        "slowEndTime": 87278
+    },
+    {
+        "text": "...to a multirotor helicopter.",
+        "startTime": 58187,
+        "endTime": 59877,
+        "slowStartTime": 87431,
+        "slowEndTime": 90040
+    },
+    {
+        "text": "I used a sheet of plywood to simulate an approaching threat...",
+        "startTime": 60120,
+        "endTime": 62388,
+        "slowStartTime": 90330,
+        "slowEndTime": 93807
+    },
+    {
+        "text": "...while testing different algorithms.",
+        "startTime": 62569,
+        "endTime": 63679,
+        "slowStartTime": 94004,
+        "slowEndTime": 95743
+    },
+    {
+        "text": "And I was really excited when my robot managed to escape...",
+        "startTime": 64328,
+        "endTime": 66849,
+        "slowStartTime": 96642,
+        "slowEndTime": 100499
+    },
+    {
+        "text": "...with a success rate of a hundred percent across 20 attempts.",
+        "startTime": 67120,
+        "endTime": 70071,
+        "slowStartTime": 100830,
+        "slowEndTime": 105332
+    },
+    {
+        "text": "I'm really optimistic about the world of tomorrow.",
+        "startTime": 70392,
+        "endTime": 72373,
+        "slowStartTime": 105738,
+        "slowEndTime": 108785
+    },
+    {
+        "text": "I want to save lives with flying robots...",
+        "startTime": 72709,
+        "endTime": 74477,
+        "slowStartTime": 109214,
+        "slowEndTime": 111941
+    },
+    {
+        "text": "...and use computer science and robotics to make a difference.",
+        "startTime": 74780,
+        "endTime": 77561,
+        "slowStartTime": 112320,
+        "slowEndTime": 116566
+    },
+    {
+        "text": "This is a world that I'd like to be a part of,...",
+        "startTime": 78090,
+        "endTime": 79777,
+        "slowStartTime": 117285,
+        "slowEndTime": 119890
+    },
+    {
+        "text": "...but more importantly, one that I'd like to help create.",
+        "startTime": 80095,
+        "endTime": 82621,
+        "slowStartTime": 120293,
+        "slowEndTime": 124156
+    }
+]

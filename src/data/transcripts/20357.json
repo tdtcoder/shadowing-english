@@ -1,0 +1,268 @@
+[
+    {
+        "text": "Hello!",
+        "startTime": 6131,
+        "endTime": 6545,
+        "slowStartTime": 9346,
+        "slowEndTime": 10042
+    },
+    {
+        "text": "Check!",
+        "startTime": 6995,
+        "endTime": 7280,
+        "slowStartTime": 10643,
+        "slowEndTime": 11145
+    },
+    {
+        "text": "Check and mate, my young friend.",
+        "startTime": 8538,
+        "endTime": 10243,
+        "slowStartTime": 12957,
+        "slowEndTime": 15589
+    },
+    {
+        "text": "How about another challenge?",
+        "startTime": 13789,
+        "endTime": 14719,
+        "slowStartTime": 20834,
+        "slowEndTime": 22304
+    },
+    {
+        "text": "You want to play a round of golf at the club and get some lunch?",
+        "startTime": 14924,
+        "endTime": 16883,
+        "slowStartTime": 22536,
+        "slowEndTime": 25550
+    },
+    {
+        "text": "Whoever gets to the club last buys lunch.",
+        "startTime": 17088,
+        "endTime": 19427,
+        "slowStartTime": 25782,
+        "slowEndTime": 29366
+    },
+    {
+        "text": "Stand by to have your wallet emptied by a tractor beam.",
+        "startTime": 19799,
+        "endTime": 22625,
+        "slowStartTime": 29848,
+        "slowEndTime": 34162
+    },
+    {
+        "text": "Anything is possible but probably not that.",
+        "startTime": 24039,
+        "endTime": 26077,
+        "slowStartTime": 36208,
+        "slowEndTime": 39340
+    },
+    {
+        "text": "In the middle of the Earth, in the land of the Shire...",
+        "startTime": 69392,
+        "endTime": 71672,
+        "slowStartTime": 104238,
+        "slowEndTime": 107733
+    },
+    {
+        "text": "...lives a brave little hobbit whom we all admire.",
+        "startTime": 71751,
+        "endTime": 74031,
+        "slowStartTime": 107776,
+        "slowEndTime": 111271
+    },
+    {
+        "text": "With his long wooden pipe, fuzzy, woolly toes,...",
+        "startTime": 74899,
+        "endTime": 77284,
+        "slowStartTime": 112499,
+        "slowEndTime": 116151
+    },
+    {
+        "text": "...he lives in a hobbit hole and everybody knows him.",
+        "startTime": 77902,
+        "endTime": 80137,
+        "slowStartTime": 117003,
+        "slowEndTime": 120430
+    },
+    {
+        "text": "Bilbo.",
+        "startTime": 80491,
+        "endTime": 81003,
+        "slowStartTime": 120886,
+        "slowEndTime": 121730
+    },
+    {
+        "text": "Bilbo Baggins.",
+        "startTime": 82235,
+        "endTime": 83335,
+        "slowStartTime": 123503,
+        "slowEndTime": 125228
+    },
+    {
+        "text": "The bravest little hobbit of them all.",
+        "startTime": 83439,
+        "endTime": 85051,
+        "slowStartTime": 125309,
+        "slowEndTime": 127802
+    },
+    {
+        "text": "Yeah!",
+        "startTime": 85556,
+        "endTime": 87088,
+        "slowStartTime": 128484,
+        "slowEndTime": 130857
+    },
+    {
+        "text": "Go, Bilbo!",
+        "startTime": 92276,
+        "endTime": 93725,
+        "slowStartTime": 138564,
+        "slowEndTime": 140813
+    },
+    {
+        "text": "Call Leonard.",
+        "startTime": 94859,
+        "endTime": 95530,
+        "slowStartTime": 142438,
+        "slowEndTime": 143520
+    },
+    {
+        "text": "Go!",
+        "startTime": 97147,
+        "endTime": 97691,
+        "slowStartTime": 145871,
+        "slowEndTime": 146761
+    },
+    {
+        "text": "Hey, where are you?",
+        "startTime": 98228,
+        "endTime": 99006,
+        "slowStartTime": 147492,
+        "slowEndTime": 148734
+    },
+    {
+        "text": "Use your sensors!",
+        "startTime": 99370,
+        "endTime": 100695,
+        "slowStartTime": 149205,
+        "slowEndTime": 151267
+    },
+    {
+        "text": "No need.",
+        "startTime": 102334,
+        "endTime": 103044,
+        "slowStartTime": 153651,
+        "slowEndTime": 154791
+    },
+    {
+        "text": "I'm already here.",
+        "startTime": 103573,
+        "endTime": 104385,
+        "slowStartTime": 155509,
+        "slowEndTime": 156802
+    },
+    {
+        "text": "You're there already?",
+        "startTime": 104815,
+        "endTime": 105791,
+        "slowStartTime": 157373,
+        "slowEndTime": 158911
+    },
+    {
+        "text": "I feel like I'm stuck in a black hole.",
+        "startTime": 106430,
+        "endTime": 107916,
+        "slowStartTime": 159795,
+        "slowEndTime": 162099
+    },
+    {
+        "text": "No worries, I can practice my swing if you need to pull over and take a nap.",
+        "startTime": 108304,
+        "endTime": 111309,
+        "slowStartTime": 162606,
+        "slowEndTime": 167188
+    },
+    {
+        "text": "Smart-ass.",
+        "startTime": 111707,
+        "endTime": 112474,
+        "slowStartTime": 167711,
+        "slowEndTime": 168936
+    },
+    {
+        "text": "I have been and always shall be your friend.",
+        "startTime": 121645,
+        "endTime": 126227,
+        "slowStartTime": 182618,
+        "slowEndTime": 189566
+    },
+    {
+        "text": "Really?",
+        "startTime": 127051,
+        "endTime": 127333,
+        "slowStartTime": 190727,
+        "slowEndTime": 191224
+    },
+    {
+        "text": "I had you!",
+        "startTime": 128089,
+        "endTime": 128455,
+        "slowStartTime": 192284,
+        "slowEndTime": 192907
+    },
+    {
+        "text": "Nice try.",
+        "startTime": 128598,
+        "endTime": 129186,
+        "slowStartTime": 193047,
+        "slowEndTime": 194004
+    },
+    {
+        "text": "You missed.",
+        "startTime": 129278,
+        "endTime": 129691,
+        "slowStartTime": 194067,
+        "slowEndTime": 194762
+    },
+    {
+        "text": "No, no, no, I definitely had you!",
+        "startTime": 129766,
+        "endTime": 131154,
+        "slowStartTime": 194799,
+        "slowEndTime": 196956
+    },
+    {
+        "text": "Not for a second.",
+        "startTime": 131223,
+        "endTime": 131871,
+        "slowStartTime": 196985,
+        "slowEndTime": 198032
+    },
+    {
+        "text": "Obviously, you're buying lunch.",
+        "startTime": 131976,
+        "endTime": 134029,
+        "slowStartTime": 198114,
+        "slowEndTime": 201269
+    },
+    {
+        "text": "Technically, we are not inside yet.",
+        "startTime": 134121,
+        "endTime": 135571,
+        "slowStartTime": 201332,
+        "slowEndTime": 203582
+    },
+    {
+        "text": "I'll see you inside.",
+        "startTime": 137675,
+        "endTime": 138619,
+        "slowStartTime": 206662,
+        "slowEndTime": 208153
+    },
+    {
+        "text": "Fascinating.",
+        "startTime": 160875,
+        "endTime": 161795,
+        "slowStartTime": 241463,
+        "slowEndTime": 242917
+    }
+]

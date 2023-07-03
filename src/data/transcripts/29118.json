@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Use \"a\" for any thing or person.",
+        "startTime": 568,
+        "endTime": 3863,
+        "slowStartTime": 1002,
+        "slowEndTime": 6019
+    },
+    {
+        "text": "Use \"the\" for the thing or person we are talking about.",
+        "startTime": 4418,
+        "endTime": 8207,
+        "slowStartTime": 6777,
+        "slowEndTime": 12535
+    },
+    {
+        "text": "He is a tennis player.",
+        "startTime": 15919,
+        "endTime": 17850,
+        "slowStartTime": 24028,
+        "slowEndTime": 27000
+    },
+    {
+        "text": "Djokovic is the best tennis player.",
+        "startTime": 21710,
+        "endTime": 24385,
+        "slowStartTime": 32715,
+        "slowEndTime": 36802
+    },
+    {
+        "text": "She is a student in this class.",
+        "startTime": 28407,
+        "endTime": 30454,
+        "slowStartTime": 42761,
+        "slowEndTime": 45906
+    },
+    {
+        "text": "He is the old student.",
+        "startTime": 31288,
+        "endTime": 33209,
+        "slowStartTime": 47082,
+        "slowEndTime": 50038
+    },
+    {
+        "text": "Aww! Can I have a puppy?",
+        "startTime": 37160,
+        "endTime": 39055,
+        "slowStartTime": 55890,
+        "slowEndTime": 58808
+    },
+    {
+        "text": "Look at the cute puppy!",
+        "startTime": 40055,
+        "endTime": 41415,
+        "slowStartTime": 60232,
+        "slowEndTime": 62348
+    },
+    {
+        "text": "She is looking for a dress.",
+        "startTime": 45627,
+        "endTime": 47311,
+        "slowStartTime": 68590,
+        "slowEndTime": 71191
+    },
+    {
+        "text": "This is the dress I'm wearing.",
+        "startTime": 51342,
+        "endTime": 53211,
+        "slowStartTime": 77163,
+        "slowEndTime": 80042
+    }
+]

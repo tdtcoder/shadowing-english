@@ -1,0 +1,65 @@
+[
+    {
+        "text": "Hello.",
+        "startTime": 916,
+        "endTime": 1426,
+        "slowStartTime": 1524,
+        "slowEndTime": 2364
+    },
+    {
+        "text": "Can I get you something to drink?",
+        "startTime": 1889,
+        "endTime": 3399,
+        "slowStartTime": 2984,
+        "slowEndTime": 5324
+    },
+    {
+        "text": "A black coffee with two sugars, please.",
+        "startTime": 4105,
+        "endTime": 6129,
+        "slowStartTime": 6307,
+        "slowEndTime": 9419
+    },
+    {
+        "text": "And what about you?",
+        "startTime": 7190,
+        "endTime": 8227,
+        "slowStartTime": 10935,
+        "slowEndTime": 12565
+    },
+    {
+        "text": "I'll have tea.",
+        "startTime": 8992,
+        "endTime": 10225,
+        "slowStartTime": 13638,
+        "slowEndTime": 15563
+    },
+    {
+        "text": "Would you like milk or lemon?",
+        "startTime": 11094,
+        "endTime": 12628,
+        "slowStartTime": 16791,
+        "slowEndTime": 19167
+    },
+    {
+        "text": "Lemon, please.",
+        "startTime": 13524,
+        "endTime": 14539,
+        "slowStartTime": 20436,
+        "slowEndTime": 22033
+    },
+    {
+        "text": "Great.",
+        "startTime": 15735,
+        "endTime": 16031,
+        "slowStartTime": 23753,
+        "slowEndTime": 24272
+    },
+    {
+        "text": "I'll be back in a few minutes.",
+        "startTime": 16439,
+        "endTime": 17977,
+        "slowStartTime": 24809,
+        "slowEndTime": 27190
+    }
+]

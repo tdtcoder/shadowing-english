@@ -1,0 +1,79 @@
+[
+    {
+        "text": "﻿Let's learn words about houses.",
+        "startTime": 863,
+        "endTime": 2999,
+        "slowStartTime": 1444,
+        "slowEndTime": 4724
+    },
+    {
+        "text": "She threw a housewarming party at her new place.",
+        "startTime": 9729,
+        "endTime": 13125,
+        "slowStartTime": 14743,
+        "slowEndTime": 19912
+    },
+    {
+        "text": "Help yourself to the refreshments.",
+        "startTime": 19603,
+        "endTime": 21629,
+        "slowStartTime": 29554,
+        "slowEndTime": 32668
+    },
+    {
+        "text": "The repair worker fixed my window.",
+        "startTime": 29753,
+        "endTime": 32149,
+        "slowStartTime": 44779,
+        "slowEndTime": 48449
+    },
+    {
+        "text": "The apartment complex is near the airport.",
+        "startTime": 38381,
+        "endTime": 41401,
+        "slowStartTime": 57721,
+        "slowEndTime": 62326
+    },
+    {
+        "text": "The apartment manager talked to her in the morning.",
+        "startTime": 46912,
+        "endTime": 49793,
+        "slowStartTime": 70518,
+        "slowEndTime": 74915
+    },
+    {
+        "text": "My interior designer made my small apartment feel big.",
+        "startTime": 55401,
+        "endTime": 59541,
+        "slowStartTime": 83252,
+        "slowEndTime": 89536
+    },
+    {
+        "text": "He can't remove the crease from his rug.",
+        "startTime": 65027,
+        "endTime": 67797,
+        "slowStartTime": 97691,
+        "slowEndTime": 101920
+    },
+    {
+        "text": "There's something behind the curtains.",
+        "startTime": 73553,
+        "endTime": 77128,
+        "slowStartTime": 110479,
+        "slowEndTime": 115917
+    },
+    {
+        "text": "A duck is swimming in the kitchen sink.",
+        "startTime": 82530,
+        "endTime": 85343,
+        "slowStartTime": 123945,
+        "slowEndTime": 128239
+    },
+    {
+        "text": "The dog wants something on the countertop.",
+        "startTime": 91913,
+        "endTime": 94125,
+        "slowStartTime": 138020,
+        "slowEndTime": 141413
+    }
+]

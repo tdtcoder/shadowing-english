@@ -1,0 +1,156 @@
+[
+    {
+        "text": "There are many kinds of workers.",
+        "startTime": 2445,
+        "endTime": 4716,
+        "slowStartTime": 3818,
+        "slowEndTime": 7299
+    },
+    {
+        "text": "Workers do many kinds of work.",
+        "startTime": 5776,
+        "endTime": 8060,
+        "slowStartTime": 8814,
+        "slowEndTime": 12315
+    },
+    {
+        "text": "This farmer is a worker.",
+        "startTime": 9159,
+        "endTime": 11115,
+        "slowStartTime": 13888,
+        "slowEndTime": 16898
+    },
+    {
+        "text": "He farms wheat for bread.",
+        "startTime": 12175,
+        "endTime": 14105,
+        "slowStartTime": 18412,
+        "slowEndTime": 21382
+    },
+    {
+        "text": "This trucker is a worker.",
+        "startTime": 15166,
+        "endTime": 17135,
+        "slowStartTime": 22899,
+        "slowEndTime": 25928
+    },
+    {
+        "text": "She trucks wheat to the mill.",
+        "startTime": 18221,
+        "endTime": 20453,
+        "slowStartTime": 27482,
+        "slowEndTime": 30904
+    },
+    {
+        "text": "This miller is a worker.",
+        "startTime": 21512,
+        "endTime": 23363,
+        "slowStartTime": 32418,
+        "slowEndTime": 35270
+    },
+    {
+        "text": "She grinds wheat into flour.",
+        "startTime": 24368,
+        "endTime": 26973,
+        "slowStartTime": 36702,
+        "slowEndTime": 40684
+    },
+    {
+        "text": "This baker is a worker.",
+        "startTime": 27831,
+        "endTime": 30127,
+        "slowStartTime": 41896,
+        "slowEndTime": 45416
+    },
+    {
+        "text": "He uses flour to bake bread.",
+        "startTime": 30947,
+        "endTime": 33664,
+        "slowStartTime": 46570,
+        "slowEndTime": 50721
+    },
+    {
+        "text": "This grocer is a worker.",
+        "startTime": 34561,
+        "endTime": 36857,
+        "slowStartTime": 51991,
+        "slowEndTime": 55511
+    },
+    {
+        "text": "He sells bread to the dad.",
+        "startTime": 37831,
+        "endTime": 40127,
+        "slowStartTime": 56896,
+        "slowEndTime": 60416
+    },
+    {
+        "text": "This dad is a worker.",
+        "startTime": 41101,
+        "endTime": 43321,
+        "slowStartTime": 61801,
+        "slowEndTime": 65206
+    },
+    {
+        "text": "He makes dinner for his family.",
+        "startTime": 44255,
+        "endTime": 46860,
+        "slowStartTime": 66533,
+        "slowEndTime": 70515
+    },
+    {
+        "text": "What kinds of workers do you know?",
+        "startTime": 47757,
+        "endTime": 50556,
+        "slowStartTime": 71785,
+        "slowEndTime": 76059
+    },
+    {
+        "text": "What kind of work do they do?",
+        "startTime": 51491,
+        "endTime": 54057,
+        "slowStartTime": 77387,
+        "slowEndTime": 81311
+    },
+    {
+        "text": "I need scissors.",
+        "startTime": 57147,
+        "endTime": 58674,
+        "slowStartTime": 85870,
+        "slowEndTime": 88236
+    },
+    {
+        "text": "For what?",
+        "startTime": 59763,
+        "endTime": 60621,
+        "slowStartTime": 89794,
+        "slowEndTime": 91157
+    },
+    {
+        "text": "I use scissors to cut paper.",
+        "startTime": 61739,
+        "endTime": 64055,
+        "slowStartTime": 92758,
+        "slowEndTime": 96307
+    },
+    {
+        "text": "What is it, Mom?",
+        "startTime": 66038,
+        "endTime": 67505,
+        "slowStartTime": 99207,
+        "slowEndTime": 101483
+    },
+    {
+        "text": "It is flour. We use flour to bake bread.",
+        "startTime": 68508,
+        "endTime": 72439,
+        "slowStartTime": 102912,
+        "slowEndTime": 108884
+    },
+    {
+        "text": "I like bread. Can I have bread for dinner?",
+        "startTime": 73384,
+        "endTime": 76681,
+        "slowStartTime": 110226,
+        "slowEndTime": 115247
+    }
+]

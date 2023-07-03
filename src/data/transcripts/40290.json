@@ -1,0 +1,79 @@
+[
+    {
+        "text": "Here are some expressions parents always say to you.",
+        "startTime": 209,
+        "endTime": 3379,
+        "slowStartTime": 464,
+        "slowEndTime": 5294
+    },
+    {
+        "text": "Be careful.",
+        "startTime": 5361,
+        "endTime": 6220,
+        "slowStartTime": 8191,
+        "slowEndTime": 9555
+    },
+    {
+        "text": "Be quiet.",
+        "startTime": 8202,
+        "endTime": 9372,
+        "slowStartTime": 12453,
+        "slowEndTime": 14283
+    },
+    {
+        "text": "Behave.",
+        "startTime": 11348,
+        "endTime": 12287,
+        "slowStartTime": 17172,
+        "slowEndTime": 18656
+    },
+    {
+        "text": "Do your homework!",
+        "startTime": 14183,
+        "endTime": 15289,
+        "slowStartTime": 21424,
+        "slowEndTime": 23159
+    },
+    {
+        "text": "Go to bed.",
+        "startTime": 17203,
+        "endTime": 18329,
+        "slowStartTime": 25954,
+        "slowEndTime": 27718
+    },
+    {
+        "text": "I'm going to count to three.",
+        "startTime": 20214,
+        "endTime": 22295,
+        "slowStartTime": 30471,
+        "slowEndTime": 33667
+    },
+    {
+        "text": "Stop!",
+        "startTime": 24271,
+        "endTime": 25057,
+        "slowStartTime": 36557,
+        "slowEndTime": 37811
+    },
+    {
+        "text": "What did you say?",
+        "startTime": 26943,
+        "endTime": 27823,
+        "slowStartTime": 40564,
+        "slowEndTime": 41959
+    },
+    {
+        "text": "What did I just say?",
+        "startTime": 29719,
+        "endTime": 31295,
+        "slowStartTime": 44729,
+        "slowEndTime": 47168
+    },
+    {
+        "text": "Did you brush your teeth?",
+        "startTime": 33266,
+        "endTime": 34495,
+        "slowStartTime": 50049,
+        "slowEndTime": 51967
+    }
+]

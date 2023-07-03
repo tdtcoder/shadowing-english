@@ -1,0 +1,156 @@
+[
+    {
+        "text": "I see water when I go to the pond.",
+        "startTime": 2552,
+        "endTime": 5725,
+        "slowStartTime": 3978,
+        "slowEndTime": 8812
+    },
+    {
+        "text": "I can see land all around the water.",
+        "startTime": 6813,
+        "endTime": 9818,
+        "slowStartTime": 10370,
+        "slowEndTime": 14952
+    },
+    {
+        "text": "I see cattails when I go to the pond.",
+        "startTime": 11166,
+        "endTime": 14309,
+        "slowStartTime": 16899,
+        "slowEndTime": 21688
+    },
+    {
+        "text": "They are very tall.",
+        "startTime": 15499,
+        "endTime": 16888,
+        "slowStartTime": 23398,
+        "slowEndTime": 25557
+    },
+    {
+        "text": "I see lily pads when I go to the pond.",
+        "startTime": 18141,
+        "endTime": 20993,
+        "slowStartTime": 27362,
+        "slowEndTime": 31715
+    },
+    {
+        "text": "They are very round.",
+        "startTime": 22097,
+        "endTime": 23697,
+        "slowStartTime": 33296,
+        "slowEndTime": 35770
+    },
+    {
+        "text": "I see frogs when I go to the pond.",
+        "startTime": 24831,
+        "endTime": 27653,
+        "slowStartTime": 37397,
+        "slowEndTime": 41704
+    },
+    {
+        "text": "They sit on the lily pads.",
+        "startTime": 28879,
+        "endTime": 30891,
+        "slowStartTime": 43468,
+        "slowEndTime": 46561
+    },
+    {
+        "text": "I see turtles when I go to the pond.",
+        "startTime": 32193,
+        "endTime": 34862,
+        "slowStartTime": 48440,
+        "slowEndTime": 52518
+    },
+    {
+        "text": "They sit on a log.",
+        "startTime": 36089,
+        "endTime": 37843,
+        "slowStartTime": 54283,
+        "slowEndTime": 56989
+    },
+    {
+        "text": "I see ducks when I go to the pond.",
+        "startTime": 39175,
+        "endTime": 41860,
+        "slowStartTime": 58913,
+        "slowEndTime": 63015
+    },
+    {
+        "text": "They swim on the water.",
+        "startTime": 43162,
+        "endTime": 44670,
+        "slowStartTime": 64893,
+        "slowEndTime": 67230
+    },
+    {
+        "text": "I see fish when I go to the pond.",
+        "startTime": 45827,
+        "endTime": 48511,
+        "slowStartTime": 68891,
+        "slowEndTime": 72992
+    },
+    {
+        "text": "They swim in the water.",
+        "startTime": 49875,
+        "endTime": 51419,
+        "slowStartTime": 74962,
+        "slowEndTime": 77353
+    },
+    {
+        "text": "I see many things when I go to the pond.",
+        "startTime": 52783,
+        "endTime": 56017,
+        "slowStartTime": 79324,
+        "slowEndTime": 84250
+    },
+    {
+        "text": "The pond is a busy place.",
+        "startTime": 57166,
+        "endTime": 59104,
+        "slowStartTime": 85899,
+        "slowEndTime": 88881
+    },
+    {
+        "text": "What do you see when you go to the pond?",
+        "startTime": 62820,
+        "endTime": 65239,
+        "slowStartTime": 94380,
+        "slowEndTime": 98083
+    },
+    {
+        "text": "I can see a turtle. It sits on a log.",
+        "startTime": 66419,
+        "endTime": 69958,
+        "slowStartTime": 99778,
+        "slowEndTime": 105162
+    },
+    {
+        "text": "What else do you see when you go to the pond?",
+        "startTime": 70986,
+        "endTime": 73489,
+        "slowStartTime": 106629,
+        "slowEndTime": 110459
+    },
+    {
+        "text": "I can see frogs, too. They sit on the lily pads.",
+        "startTime": 74761,
+        "endTime": 79049,
+        "slowStartTime": 112292,
+        "slowEndTime": 118799
+    },
+    {
+        "text": "And you can see a duck. It swims on the water.",
+        "startTime": 80443,
+        "endTime": 83646,
+        "slowStartTime": 120814,
+        "slowEndTime": 125694
+    },
+    {
+        "text": "Right! I also see fish swimming in the water!",
+        "startTime": 85009,
+        "endTime": 89021,
+        "slowStartTime": 127664,
+        "slowEndTime": 133756
+    }
+]

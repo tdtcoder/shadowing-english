@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Ladies and gentlemen, I have a plan!",
+        "startTime": 7114,
+        "endTime": 13258,
+        "slowStartTime": 10821,
+        "slowEndTime": 20112
+    },
+    {
+        "text": "Now, if this global reinvention is to work,...",
+        "startTime": 13697,
+        "endTime": 17237,
+        "slowStartTime": 20695,
+        "slowEndTime": 26080
+    },
+    {
+        "text": "...there might be a few competitors that are unfortunately eliminated.",
+        "startTime": 17419,
+        "endTime": 24407,
+        "slowStartTime": 26279,
+        "slowEndTime": 36836
+    },
+    {
+        "text": "Oopsie!",
+        "startTime": 28471,
+        "endTime": 29788,
+        "slowStartTime": 42856,
+        "slowEndTime": 44907
+    },
+    {
+        "text": "Oh, behave.",
+        "startTime": 38001,
+        "endTime": 40115,
+        "slowStartTime": 57151,
+        "slowEndTime": 60398
+    }
+]

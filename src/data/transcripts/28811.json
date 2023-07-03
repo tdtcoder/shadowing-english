@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Here are some things we use in conferences.",
+        "startTime": 945,
+        "endTime": 3453,
+        "slowStartTime": 1567,
+        "slowEndTime": 5404
+    },
+    {
+        "text": "Get your name tag at the registration desk.",
+        "startTime": 9688,
+        "endTime": 12126,
+        "slowStartTime": 14682,
+        "slowEndTime": 18414
+    },
+    {
+        "text": "Bring your desktop computer in for backup.",
+        "startTime": 17803,
+        "endTime": 20073,
+        "slowStartTime": 26854,
+        "slowEndTime": 30334
+    },
+    {
+        "text": "Put your presentation on the external hard drive.",
+        "startTime": 26398,
+        "endTime": 29077,
+        "slowStartTime": 39747,
+        "slowEndTime": 43840
+    },
+    {
+        "text": "Call the technician to troubleshoot your laptop.",
+        "startTime": 35661,
+        "endTime": 38253,
+        "slowStartTime": 53642,
+        "slowEndTime": 57604
+    },
+    {
+        "text": "Let's use stackable chairs because they're easier to carry around.",
+        "startTime": 44692,
+        "endTime": 48117,
+        "slowStartTime": 67188,
+        "slowEndTime": 72400
+    },
+    {
+        "text": "Make sure you put your nicknames on the name tags.",
+        "startTime": 54414,
+        "endTime": 57081,
+        "slowStartTime": 81771,
+        "slowEndTime": 85847
+    },
+    {
+        "text": "Should we give participants gift bags?",
+        "startTime": 63763,
+        "endTime": 66199,
+        "slowStartTime": 95794,
+        "slowEndTime": 99524
+    },
+    {
+        "text": "Don't put the teleprompter too far from the speaker.",
+        "startTime": 72151,
+        "endTime": 75161,
+        "slowStartTime": 108376,
+        "slowEndTime": 112967
+    },
+    {
+        "text": "Move the microphone stand to the center of the stage.",
+        "startTime": 81168,
+        "endTime": 84109,
+        "slowStartTime": 121902,
+        "slowEndTime": 126388
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "text": "﻿\"Like\" can be followed by a noun or \"to\" with another verb.",
+        "startTime": 280,
+        "endTime": 4346,
+        "slowStartTime": 570,
+        "slowEndTime": 6744
+    },
+    {
+        "text": "What do you do in your free time?",
+        "startTime": 6071,
+        "endTime": 7953,
+        "slowStartTime": 9257,
+        "slowEndTime": 12155
+    },
+    {
+        "text": "I like traveling.",
+        "startTime": 9371,
+        "endTime": 10551,
+        "slowStartTime": 14206,
+        "slowEndTime": 16052
+    },
+    {
+        "text": "I like to travel.",
+        "startTime": 14575,
+        "endTime": 15766,
+        "slowStartTime": 22013,
+        "slowEndTime": 23874
+    },
+    {
+        "text": "I like swimming.",
+        "startTime": 19188,
+        "endTime": 20750,
+        "slowStartTime": 28932,
+        "slowEndTime": 31350
+    },
+    {
+        "text": "I like listening to music.",
+        "startTime": 23537,
+        "endTime": 25896,
+        "slowStartTime": 35455,
+        "slowEndTime": 39069
+    },
+    {
+        "text": "I like playing tennis.",
+        "startTime": 28659,
+        "endTime": 30718,
+        "slowStartTime": 43138,
+        "slowEndTime": 46302
+    },
+    {
+        "text": "I like watching movies.",
+        "startTime": 33364,
+        "endTime": 35377,
+        "slowStartTime": 50196,
+        "slowEndTime": 53291
+    },
+    {
+        "text": "I like reading books.",
+        "startTime": 37855,
+        "endTime": 39391,
+        "slowStartTime": 56933,
+        "slowEndTime": 59312
+    },
+    {
+        "text": "I like to cook.",
+        "startTime": 41770,
+        "endTime": 43009,
+        "slowStartTime": 62805,
+        "slowEndTime": 64738
+    }
+]

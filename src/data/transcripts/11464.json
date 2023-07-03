@@ -1,0 +1,359 @@
+[
+    {
+        "text": "Where's the buttons?",
+        "startTime": 4585,
+        "endTime": 5171,
+        "slowStartTime": 7027,
+        "slowEndTime": 7981
+    },
+    {
+        "text": "They've installed voice recognition technology in this lift.",
+        "startTime": 5277,
+        "endTime": 7690,
+        "slowStartTime": 8066,
+        "slowEndTime": 11760
+    },
+    {
+        "text": "Voice recognition technology?",
+        "startTime": 8853,
+        "endTime": 10367,
+        "slowStartTime": 13429,
+        "slowEndTime": 15775
+    },
+    {
+        "text": "In a lift?",
+        "startTime": 10887,
+        "endTime": 11607,
+        "slowStartTime": 16481,
+        "slowEndTime": 17636
+    },
+    {
+        "text": " In Scotland?",
+        "startTime": 12136,
+        "endTime": 12915,
+        "slowStartTime": 18354,
+        "slowEndTime": 19597
+    },
+    {
+        "text": "You ever tried voice recognition technology?",
+        "startTime": 13702,
+        "endTime": 15799,
+        "slowStartTime": 20703,
+        "slowEndTime": 23923
+    },
+    {
+        "text": "No.",
+        "startTime": 16465,
+        "endTime": 16914,
+        "slowStartTime": 24848,
+        "slowEndTime": 25596
+    },
+    {
+        "text": "They don't do Scottish accents.",
+        "startTime": 17097,
+        "endTime": 19001,
+        "slowStartTime": 25796,
+        "slowEndTime": 28727
+    },
+    {
+        "text": "Eleven.",
+        "startTime": 20667,
+        "endTime": 21255,
+        "slowStartTime": 31151,
+        "slowEndTime": 32107
+    },
+    {
+        "text": "Could you please repeat that?",
+        "startTime": 22681,
+        "endTime": 24461,
+        "slowStartTime": 34171,
+        "slowEndTime": 36917
+    },
+    {
+        "text": "Eleven.",
+        "startTime": 26216,
+        "endTime": 26896,
+        "slowStartTime": 39474,
+        "slowEndTime": 40569
+    },
+    {
+        "text": "Could you please repeat that?",
+        "startTime": 27990,
+        "endTime": 29657,
+        "slowStartTime": 42135,
+        "slowEndTime": 44711
+    },
+    {
+        "text": "Eleven.",
+        "startTime": 30938,
+        "endTime": 32267,
+        "slowStartTime": 46557,
+        "slowEndTime": 48625
+    },
+    {
+        "text": "Whose idea was this?",
+        "startTime": 33506,
+        "endTime": 34533,
+        "slowStartTime": 50409,
+        "slowEndTime": 52025
+    },
+    {
+        "text": "You need to try an American accent.",
+        "startTime": 35855,
+        "endTime": 37280,
+        "slowStartTime": 53933,
+        "slowEndTime": 56145
+    },
+    {
+        "text": "Eleven.",
+        "startTime": 38634,
+        "endTime": 39345,
+        "slowStartTime": 58101,
+        "slowEndTime": 59242
+    },
+    {
+        "text": "That sounds Irish, not American.",
+        "startTime": 39571,
+        "endTime": 41110,
+        "slowStartTime": 59507,
+        "slowEndTime": 61890
+    },
+    {
+        "text": "Eleven.",
+        "startTime": 41734,
+        "endTime": 42341,
+        "slowStartTime": 62751,
+        "slowEndTime": 63737
+    },
+    {
+        "text": "Where in America is that, Dublin?",
+        "startTime": 42805,
+        "endTime": 44142,
+        "slowStartTime": 64357,
+        "slowEndTime": 66438
+    },
+    {
+        "text": "Try an English accent, all right?",
+        "startTime": 44259,
+        "endTime": 45422,
+        "slowStartTime": 66538,
+        "slowEndTime": 68358
+    },
+    {
+        "text": "Eleven.",
+        "startTime": 47863,
+        "endTime": 50592,
+        "slowStartTime": 71944,
+        "slowEndTime": 76113
+    },
+    {
+        "text": "Are you from the same part of England as Dick Van Dyke?",
+        "startTime": 51553,
+        "endTime": 53515,
+        "slowStartTime": 77480,
+        "slowEndTime": 80497
+    },
+    {
+        "text": "Please speak slowly and clearly.",
+        "startTime": 53731,
+        "endTime": 55845,
+        "slowStartTime": 80747,
+        "slowEndTime": 83992
+    },
+    {
+        "text": "Eleven.",
+        "startTime": 55981,
+        "endTime": 56901,
+        "slowStartTime": 84121,
+        "slowEndTime": 85576
+    },
+    {
+        "text": "I'm sorry, could you please repeat that?",
+        "startTime": 57776,
+        "endTime": 60675,
+        "slowStartTime": 86814,
+        "slowEndTime": 91238
+    },
+    {
+        "text": "Eleven.",
+        "startTime": 62227,
+        "endTime": 66678,
+        "slowStartTime": 93490,
+        "slowEndTime": 100242
+    },
+    {
+        "text": "You're just saying it the same way.",
+        "startTime": 66771,
+        "endTime": 67846,
+        "slowStartTime": 100307,
+        "slowEndTime": 101994
+    },
+    {
+        "text": "I wanna keep saying it until it understands Scottish, all right?",
+        "startTime": 68501,
+        "endTime": 71177,
+        "slowStartTime": 102901,
+        "slowEndTime": 106990
+    },
+    {
+        "text": "Just take us anywhere, you cow.",
+        "startTime": 71389,
+        "endTime": 72774,
+        "slowStartTime": 107234,
+        "slowEndTime": 109386
+    },
+    {
+        "text": " Just open the doors.",
+        "startTime": 73302,
+        "endTime": 74518,
+        "slowStartTime": 110103,
+        "slowEndTime": 112002
+    },
+    {
+        "text": "This is a voice-activated elevator.",
+        "startTime": 74790,
+        "endTime": 76993,
+        "slowStartTime": 112335,
+        "slowEndTime": 115715
+    },
+    {
+        "text": "Please state which floor you would like to go to in a clear and calm manner.",
+        "startTime": 77483,
+        "endTime": 81777,
+        "slowStartTime": 116374,
+        "slowEndTime": 122891
+    },
+    {
+        "text": "You have not selected a floor.",
+        "startTime": 82128,
+        "endTime": 83855,
+        "slowStartTime": 123342,
+        "slowEndTime": 126008
+    },
+    {
+        "text": "If you would like to get out of the elevator without selecting a floor, simply say,...",
+        "startTime": 84088,
+        "endTime": 88946,
+        "slowStartTime": 126282,
+        "slowEndTime": 133644
+    },
+    {
+        "text": "...\"Open the doors, please.\"",
+        "startTime": 89385,
+        "endTime": 90999,
+        "slowStartTime": 134227,
+        "slowEndTime": 136723
+    },
+    {
+        "text": "Why didn't you just say please?",
+        "startTime": 91435,
+        "endTime": 92808,
+        "slowStartTime": 137302,
+        "slowEndTime": 139437
+    },
+    {
+        "text": "I'm not begging that for nothing.",
+        "startTime": 94745,
+        "endTime": 96106,
+        "slowStartTime": 142268,
+        "slowEndTime": 144384
+    },
+    {
+        "text": "Open the doors, please?",
+        "startTime": 101507,
+        "endTime": 103023,
+        "slowStartTime": 152410,
+        "slowEndTime": 154760
+    },
+    {
+        "text": "Please?",
+        "startTime": 104283,
+        "endTime": 105039,
+        "slowStartTime": 156574,
+        "slowEndTime": 157784
+    },
+    {
+        "text": "Pathetic.",
+        "startTime": 105374,
+        "endTime": 106065,
+        "slowStartTime": 158211,
+        "slowEndTime": 159323
+    },
+    {
+        "text": "Please remain calm.",
+        "startTime": 106691,
+        "endTime": 108101,
+        "slowStartTime": 160186,
+        "slowEndTime": 162376
+    },
+    {
+        "text": "Would you let me up to that, get me up there!",
+        "startTime": 110144,
+        "endTime": 111889,
+        "slowStartTime": 165366,
+        "slowEndTime": 168059
+    },
+    {
+        "text": "Right, just wait for it to speak.",
+        "startTime": 113078,
+        "endTime": 114480,
+        "slowStartTime": 169767,
+        "slowEndTime": 171945
+    },
+    {
+        "text": "You have not selected a floor.",
+        "startTime": 117920,
+        "endTime": 119341,
+        "slowStartTime": 177030,
+        "slowEndTime": 179237
+    },
+    {
+        "text": "Up yours, you cow.",
+        "startTime": 119438,
+        "endTime": 120913,
+        "slowStartTime": 179307,
+        "slowEndTime": 181595
+    },
+    {
+        "text": "If you don't open these doors, I'm going to come to America,...",
+        "startTime": 121317,
+        "endTime": 123963,
+        "slowStartTime": 182126,
+        "slowEndTime": 186170
+    },
+    {
+        "text": "...I'm going to find whatever desperate actress gave you a voice...",
+        "startTime": 124115,
+        "endTime": 126963,
+        "slowStartTime": 186323,
+        "slowEndTime": 190669
+    },
+    {
+        "text": "...and I'm gonna get an electric chair for you.",
+        "startTime": 127142,
+        "endTime": 129153,
+        "slowStartTime": 190863,
+        "slowEndTime": 193955
+    },
+    {
+        "text": "Scotland!",
+        "startTime": 129222,
+        "endTime": 133403,
+        "slowStartTime": 193983,
+        "slowEndTime": 200329
+    },
+    {
+        "text": "Freedom!",
+        "startTime": 133596,
+        "endTime": 139376,
+        "slowStartTime": 200544,
+        "slowEndTime": 209289
+    },
+    {
+        "text": "Going up?",
+        "startTime": 145382,
+        "endTime": 145887,
+        "slowStartTime": 218223,
+        "slowEndTime": 219055
+    }
+]

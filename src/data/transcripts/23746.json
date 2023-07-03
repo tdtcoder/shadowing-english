@@ -1,0 +1,65 @@
+[
+    {
+        "text": "A very good morning to you passengers.",
+        "startTime": 4011,
+        "endTime": 5787,
+        "slowStartTime": 6167,
+        "slowEndTime": 8905
+    },
+    {
+        "text": "Rise and shine.",
+        "startTime": 6226,
+        "endTime": 7111,
+        "slowStartTime": 9489,
+        "slowEndTime": 10892
+    },
+    {
+        "text": "This is your train captain at the front of this train, speaking.",
+        "startTime": 7967,
+        "endTime": 10845,
+        "slowStartTime": 12100,
+        "slowEndTime": 16492
+    },
+    {
+        "text": "We will soon be making a brief stop at Ang Mo Kio.",
+        "startTime": 11938,
+        "endTime": 15493,
+        "slowStartTime": 18057,
+        "slowEndTime": 23464
+    },
+    {
+        "text": "The doors on the right side will open.",
+        "startTime": 16351,
+        "endTime": 18901,
+        "slowStartTime": 24676,
+        "slowEndTime": 28576
+    },
+    {
+        "text": "As a gentle reminder, if you're planning to leave anything behind,...",
+        "startTime": 20058,
+        "endTime": 23563,
+        "slowStartTime": 30237,
+        "slowEndTime": 35569
+    },
+    {
+        "text": "...please make sure that it's something I can either use or sell.",
+        "startTime": 24029,
+        "endTime": 27309,
+        "slowStartTime": 36194,
+        "slowEndTime": 41188
+    },
+    {
+        "text": "If otherwise, please remember to take all your belongings with you,...",
+        "startTime": 28189,
+        "endTime": 32299,
+        "slowStartTime": 42433,
+        "slowEndTime": 48674
+    },
+    {
+        "text": "...and watch your step when you leave the train.",
+        "startTime": 32886,
+        "endTime": 35138,
+        "slowStartTime": 49479,
+        "slowEndTime": 52932
+    }
+]

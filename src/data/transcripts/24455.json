@@ -1,0 +1,177 @@
+[
+    {
+        "text": "Come with me if you want to live.",
+        "startTime": 1843,
+        "endTime": 3124,
+        "slowStartTime": 2915,
+        "slowEndTime": 4911
+    },
+    {
+        "text": "I'm looking for sunglasses.",
+        "startTime": 10328,
+        "endTime": 12365,
+        "slowStartTime": 15642,
+        "slowEndTime": 18773
+    },
+    {
+        "text": "Will these protect from shotgun blasts?",
+        "startTime": 12897,
+        "endTime": 14801,
+        "slowStartTime": 19495,
+        "slowEndTime": 22427
+    },
+    {
+        "text": "Probably not.",
+        "startTime": 15067,
+        "endTime": 16173,
+        "slowStartTime": 22751,
+        "slowEndTime": 24484
+    },
+    {
+        "text": "No.",
+        "startTime": 17673,
+        "endTime": 18202,
+        "slowStartTime": 26659,
+        "slowEndTime": 27528
+    },
+    {
+        "text": "I think they're sizzling.",
+        "startTime": 18583,
+        "endTime": 19596,
+        "slowStartTime": 28025,
+        "slowEndTime": 29619
+    },
+    {
+        "text": "Hey guys.",
+        "startTime": 21497,
+        "endTime": 22350,
+        "slowStartTime": 32395,
+        "slowEndTime": 33750
+    },
+    {
+        "text": "Who are you?",
+        "startTime": 30274,
+        "endTime": 30848,
+        "slowStartTime": 45561,
+        "slowEndTime": 46497
+    },
+    {
+        "text": "I'm the Terminator.",
+        "startTime": 31157,
+        "endTime": 32280,
+        "slowStartTime": 46886,
+        "slowEndTime": 48645
+    },
+    {
+        "text": "Who are you?",
+        "startTime": 32439,
+        "endTime": 33133,
+        "slowStartTime": 48808,
+        "slowEndTime": 49924
+    },
+    {
+        "text": "I'm the Terminator.",
+        "startTime": 33466,
+        "endTime": 34397,
+        "slowStartTime": 50349,
+        "slowEndTime": 51820
+    },
+    {
+        "text": "I'm the T-800, cybernetic organism,...",
+        "startTime": 34527,
+        "endTime": 37165,
+        "slowStartTime": 51940,
+        "slowEndTime": 55972
+    },
+    {
+        "text": "...human tissue over metal endoskeleton.",
+        "startTime": 37801,
+        "endTime": 39371,
+        "slowStartTime": 56852,
+        "slowEndTime": 59281
+    },
+    {
+        "text": "Please don't bump my selfie stick.",
+        "startTime": 42018,
+        "endTime": 43584,
+        "slowStartTime": 63177,
+        "slowEndTime": 65601
+    },
+    {
+        "text": "Get out.",
+        "startTime": 44281,
+        "endTime": 45007,
+        "slowStartTime": 66572,
+        "slowEndTime": 67736
+    },
+    {
+        "text": "Just joking.",
+        "startTime": 49753,
+        "endTime": 50605,
+        "slowStartTime": 74780,
+        "slowEndTime": 76132
+    },
+    {
+        "text": "Who is this?",
+        "startTime": 51529,
+        "endTime": 52230,
+        "slowStartTime": 77444,
+        "slowEndTime": 78570
+    },
+    {
+        "text": "Arnold Schwarzenegger.",
+        "startTime": 52782,
+        "endTime": 54413,
+        "slowStartTime": 79323,
+        "slowEndTime": 81844
+    },
+    {
+        "text": "This is my line.",
+        "startTime": 55745,
+        "endTime": 56733,
+        "slowStartTime": 83767,
+        "slowEndTime": 85325
+    },
+    {
+        "text": "I'll be back.",
+        "startTime": 57677,
+        "endTime": 58451,
+        "slowStartTime": 86665,
+        "slowEndTime": 87902
+    },
+    {
+        "text": "I'll be back.",
+        "startTime": 58585,
+        "endTime": 59453,
+        "slowStartTime": 88027,
+        "slowEndTime": 89405
+    },
+    {
+        "text": "I'll be back.",
+        "startTime": 59554,
+        "endTime": 60449,
+        "slowStartTime": 89481,
+        "slowEndTime": 90899
+    },
+    {
+        "text": "I'll be back.",
+        "startTime": 60569,
+        "endTime": 61817,
+        "slowStartTime": 91004,
+        "slowEndTime": 92951
+    },
+    {
+        "text": "I'll be back.",
+        "startTime": 61904,
+        "endTime": 62507,
+        "slowStartTime": 93006,
+        "slowEndTime": 93985
+    },
+    {
+        "text": "I'll be back.",
+        "startTime": 62573,
+        "endTime": 63842,
+        "slowStartTime": 94009,
+        "slowEndTime": 95988
+    }
+]

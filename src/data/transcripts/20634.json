@@ -1,0 +1,51 @@
+[
+    {
+        "text": "Finding your way through the airport can be confusing.",
+        "startTime": 326,
+        "endTime": 2454,
+        "slowStartTime": 639,
+        "slowEndTime": 3906
+    },
+    {
+        "text": "Especially when it comes to keeping up with the latest gate changes...",
+        "startTime": 3088,
+        "endTime": 5858,
+        "slowStartTime": 4782,
+        "slowEndTime": 9012
+    },
+    {
+        "text": "...or where to find your luggage.",
+        "startTime": 6039,
+        "endTime": 7268,
+        "slowStartTime": 9209,
+        "slowEndTime": 11127
+    },
+    {
+        "text": "But with indoor Google Maps you can easily find your way.",
+        "startTime": 8083,
+        "endTime": 10852,
+        "slowStartTime": 12275,
+        "slowEndTime": 16503
+    },
+    {
+        "text": "Find your departing gate, your favorite coffee spot,...",
+        "startTime": 11751,
+        "endTime": 15246,
+        "slowStartTime": 17777,
+        "slowEndTime": 23094
+    },
+    {
+        "text": "...the nearest restroom or a gift shop.",
+        "startTime": 15803,
+        "endTime": 17785,
+        "slowStartTime": 23855,
+        "slowEndTime": 26902
+    },
+    {
+        "text": "All with just a few taps.",
+        "startTime": 18275,
+        "endTime": 19851,
+        "slowStartTime": 27563,
+        "slowEndTime": 30002
+    }
+]
