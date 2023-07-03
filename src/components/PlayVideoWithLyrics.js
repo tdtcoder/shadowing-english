@@ -31,6 +31,8 @@ const PlayVideoWithLyrics = (props) => {
         {transcripts.map((item, index) => {
           return (
             <div>
+              <div>
+                </div>
               <div
               className={`text-lg py-[10px] border-b-[1px] border-b-gray-400 ${
                 index === currentIndex ? "font-bold" : ""
