@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Modal, Table, Tag } from "antd";
-import { TAB_CONVERSATION, TAB_SHORT_TALK, TAB_VIDEO } from "../constants";
+import { TAB_CONVERSATION, TAB_SHORT_TALK, TAB_VIDEO } from "../utils/constants";
 import ShortTalkDetail from "./ShortTalkDetail";
 import ConversationDetail from "./ConversationDetail";
 import VideoDetail from "./VideoDetail";

@@ -3,7 +3,7 @@ import "./App.css";
 import LogoIcon from "./assets/logo.png";
 import { RiSpeakLine, RiVideoLine } from "react-icons/ri";
 import { GiConversation } from "react-icons/gi";
-import { TAB_CONVERSATION, TAB_SHORT_TALK, TAB_VIDEO } from "./constants";
+import { TAB_CONVERSATION, TAB_SHORT_TALK, TAB_VIDEO } from "./utils/constants";
 import AppList from "./components/AppList";
 
 const App = (props) => {
@@ -16,7 +16,7 @@ const App = (props) => {
   const tabs = [
     {
       code: TAB_SHORT_TALK,
-      name: "Short Talk",
+      name: "Talk",
       icon: RiSpeakLine,
     },
     {
@@ -26,7 +26,7 @@ const App = (props) => {
     },
     {
       code: TAB_VIDEO,
-      name: "Video Talk",
+      name: "Video",
       icon: RiVideoLine,
     },
   ];
@@ -57,7 +57,10 @@ const App = (props) => {
                 tab.code === tabActive ? "font-bold bg-gray-200" : ""
               }`}
               onClick={() => {
-                setTabActive(tab.code);
+                setTabActive(null);
+                setTimeout(() => {
+                  setTabActive(tab.code);
+                }, 100)
               }}
             >
               <tab.icon className="text-lg" />
