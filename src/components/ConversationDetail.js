@@ -1,9 +1,9 @@
 import React from "react";
-import {Modal, Table, Tag} from "antd";
-import {IoMdArrowBack} from "react-icons/io";
+import { Modal, Table, Tag } from "antd";
+import { IoMdArrowBack } from "react-icons/io";
 
 const ConversationDetail = (props) => {
-    const {data, onClose} = props;
+    const { data, onClose } = props;
     return (
         <Modal
             open={true}
@@ -22,24 +22,19 @@ const ConversationDetail = (props) => {
                         }}
                         className="text-xl cursor-pointer hover:text-gray-400 absolute left-1"
                     />
-                    <div className="flex items-center">
-                        <div className="px-2">
-                            <Tag color="magenta">{data?.index}</Tag>
-                        </div>
-                        <div className="flex-1 text-xl">{data?.title ?? ""}</div>
-                    </div>
+                    <div className="text-xl">{data?.title ?? ""}</div>
                 </div>
-                <div id="scriptContainer" className="flex-1 p-1 overflow-y-auto max-w-[600px]">
+                <div
+                    id="scriptContainer"
+                    className="flex-1 p-1 overflow-y-auto max-w-[600px]"
+                >
                     {data?.content.map((item) => {
                         return <p className="my-[10px] text-md">{item}</p>;
                     })}
                 </div>
                 <div className="flex justify-center mt-2">
-                    <audio
-                        controls
-                        autoPlay
-                    >
-                        <source src={data?.audioUrl}/>
+                    <audio controls autoPlay>
+                        <source src={data?.audioUrl} />
                     </audio>
                 </div>
             </div>

@@ -1,6 +1,9 @@
 * {
   font-family: 'Merienda', cursive;
 }
+.ant-table-cell {
+  padding: 6px 10px!important;
+}
 .ant-modal {
   width: 100vw!important;
   padding: 0!important;

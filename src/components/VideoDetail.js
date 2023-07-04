@@ -1,14 +1,14 @@
-import React, {useEffect, useState} from "react";
-import {Modal, Table, Tag} from "antd";
+import React, { useEffect, useState } from "react";
+import { Modal, Table, Tag } from "antd";
 import PlayAudioWithLyrics from "./PlayAudioWithLyrics";
 import PlayVideoWithLyrics from "./PlayVideoWithLyrics";
-import {IoMdArrowBack} from "react-icons/io";
+import { IoMdArrowBack } from "react-icons/io";
 
 const PLAY_VIDEO = "play_video";
 const PLAY_AUDIO = "play_audio";
 const PLAY_SLOW_AUDIO = "play_slow_audio";
 const VideoDetail = (props) => {
-    const {data, onClose} = props;
+    const { data, onClose } = props;
     const [transcripts, setTranscripts] = useState(
         require(`./../data/transcripts/${data.id}.json`)
     );
@@ -86,15 +86,12 @@ const VideoDetail = (props) => {
                         }}
                         className="text-xl cursor-pointer hover:text-gray-400 absolute left-1"
                     />
-                    <div className="flex items-center">
-                        <div className="px-2">
-                            <Tag color="magenta">{data?.index}</Tag>
-                        </div>
-                        <div className="flex-1 text-xl">{data?.title ?? ""}</div>
-                    </div>
+                    <div className="text-xl">{data?.title ?? ""}</div>
                 </div>
                 <div className="flex items-center justify-center min-h-[30px]">
-                    <Tag color="cyan" className="text-md font-bold">Level {data.level}</Tag>
+                    <Tag color="cyan" className="text-md font-bold">
+                        Level {data.level}
+                    </Tag>
                 </div>
                 <div className="flex items-center justify-center pb-2 h-[40px]">
                     <div className="flex items-center justify-center border-b-[2px] border-b-gray-500 px-2">
@@ -102,13 +99,15 @@ const VideoDetail = (props) => {
                             return (
                                 <div
                                     className={`py-1 px-2 mx-1 cursor-pointer text-sm rounded-tl-lg rounded-tr-lg font-bold ${
-                                        playTypeActive === type.code ? "bg-gray-500 text-white" : "hover:bg-gray-500 hover:text-white"
+                                        playTypeActive === type.code
+                                            ? "bg-gray-500 text-white"
+                                            : "hover:bg-gray-500 hover:text-white"
                                     }`}
                                     onClick={() => {
-                                        setPlayTypeActive(null)
+                                        setPlayTypeActive(null);
                                         setTimeout(() => {
                                             setPlayTypeActive(type.code);
-                                        }, 100)
+                                        }, 100);
                                     }}
                                 >
                                     {type.name}
