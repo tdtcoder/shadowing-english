@@ -29,7 +29,7 @@ const ConversationDetail = (props) => {
                     className="flex-1 p-1 overflow-y-auto max-w-[600px]"
                 >
                     {data?.content.map((item, index) => {
-                        return <p className="my-[10px] text-md"><span className={`mr-2 font-bold ${index%2 === 0 ? 'text-orange-600' : ''}`}>{index%2 === 0 ? 'A:' : 'B:'}</span>{item}</p>;
+                        return <p className={`my-[10px] text-md ${index%2 === 0 ? 'text-orange-600' : ''}`}><span className={`mr-2 font-bold`}>{index%2 === 0 ? 'A:' : 'B:'}</span>{item}</p>;
                     })}
                 </div>
                 <div className="flex justify-center mt-2">
