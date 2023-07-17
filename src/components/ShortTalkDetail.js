@@ -33,7 +33,7 @@ const ShortTalkDetail = (props) => {
                     })}
                 </div>
                 <div className="flex justify-center mt-2">
-                    <audio controls autoPlay>
+                    <audio controls autoPlay loop={true}>
                         <source src={data?.audioUrl} />
                     </audio>
                 </div>

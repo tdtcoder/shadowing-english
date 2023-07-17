@@ -28,12 +28,12 @@ const ConversationDetail = (props) => {
                     id="scriptContainer"
                     className="flex-1 p-1 overflow-y-auto max-w-[600px]"
                 >
-                    {data?.content.map((item) => {
-                        return <p className="my-[10px] text-md">{item}</p>;
+                    {data?.content.map((item, index) => {
+                        return <p className="my-[10px] text-md"><span className={`mr-2 font-bold ${index%2 === 0 ? 'text-orange-600' : ''}`}>{index%2 === 0 ? 'A:' : 'B:'}</span>{item}</p>;
                     })}
                 </div>
                 <div className="flex justify-center mt-2">
-                    <audio controls autoPlay>
+                    <audio controls autoPlay loop={true}>
                         <source src={data?.audioUrl} />
                     </audio>
                 </div>

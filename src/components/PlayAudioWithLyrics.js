@@ -51,6 +51,7 @@ const PlayAudioWithLyrics = (props) => {
                 autoPlay
                 ref={audioRef}
                 onTimeUpdate={handleTimeUpdate}
+                loop={true}
             >
                 <source src={url} />
             </audio>
